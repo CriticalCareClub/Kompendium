@@ -138,7 +138,7 @@ Für die erste Frage sind die Selbsthilferechte maßgebend, vgl.
   Sachbeschädigung durch einen Angriff), kann das Anhalterecht Privater
   nicht angewendet werden.
 
-Bezüglich einer "Einweisung" ist das *Unterbringungsgesetz* {index}`\ <Unterbringungsgesetz!Fallbeispiel>`
+Bezüglich einer "Einweisung" ist das *Unterbringungsgesetz* {index}` <Unterbringungsgesetz!Fallbeispiel>`
 ({ref}`unterbringungsgesetz`) zu berücksichtigen:
 
 - Da Herr Hauzu eine psychiatrische Erkrankung hat, durch diese eine
@@ -200,11 +200,11 @@ nach dem Notstand:
 Da der Angriff unmittelbar drohend ist, und auch die sonstigen
 Voraussetzungen der Notstandssituiationen vorliegen, dürften sich die
 Sanitäter mit verhältnismäßigen Mitteln gegen den Hund zur Wehr setzen
-(*rechtfertigender* {index}`\ <Notstand!rechtfertigender!Fallbeispiel>` Notstand).
+(*rechtfertigender* {index}` <Notstand!rechtfertigender!Fallbeispiel>` Notstand).
 Dies wäre auch dann möglich, wenn der Angriff nur subjektiv, aber
 nachvollziehbar angenommen wird
 (*entschuldigender*
-{index}`\ <Notstand!entschuldigender!Fallbeispiel>` Notstand).
+{index}` <Notstand!entschuldigender!Fallbeispiel>` Notstand).
 Sinvollerweise werden die Sanitäter jedoch den Rückzug antreten
 (möglichst ohne das Tier zu provozieren) und *keine* Notstandshandlung
 durchführen.
@@ -515,7 +515,7 @@ kann.
 ```
 
 Was sind die {dfn}`Kompetenzstufen`
-{index}`\ <! Kompetenzstufen>`
+{index}` <! Kompetenzstufen>`
 der einzelnen
 Sanitäter-Ausbildungsstufen (RS, NFS, NKA, NKV, NKI)? Darf man die
 Kompetenzgrenzen (bei *Gefahr in Verzug*) überschreiten?

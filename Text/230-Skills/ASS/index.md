@@ -14,7 +14,7 @@
 #### Stärke: Wirkstoff, Dosis, Konzentration
 
 Die "Stärke" des Arzneimittels
-{index}`\ <Stärke des Arzneimittels>`
+{index}` <Stärke des Arzneimittels>`
 ist je nach
 Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder
 Gewichtseinheit.
@@ -118,7 +118,7 @@ verwendet werden.
 #### Verabreichungsarten
 
 Es gibt verschiedene Arten Medikamente zu verabreichen. Dies kann
-entweder **invasiv** {index}`\ <invasiv>` (verletzend) oder **nicht-invasiv** {index}`\ <nicht-invasiv>` sein.
+entweder **invasiv** {index}` <invasiv>` (verletzend) oder **nicht-invasiv** {index}` <nicht-invasiv>` sein.
 
 ##### Invasiv
 
@@ -139,20 +139,20 @@ Sanitätern, diplomiertem Krankenpflegepersonal oder Hebammen
 vorbehalten. Die gängigen Injektionsarten sind:
 
 - *Intravenöse Injektion*
-  (**i.v.** {index}`\ <i.v.>`):
+  (**i.v.** {index}` <i.v.>`):
   Das Medikament wird
   mittels Kanüle, Venenverweilkanüle o.ä. direkt in eine *Vene*
   gespritzt.
 - *Intramuskuläre Injektion*
-  (**i.m.** {index}`\ <i.m.>`):
+  (**i.m.** {index}` <i.m.>`):
   Das Medikament wird
   in den *Muskel* verabreicht.
 - *Subkutane Injektion*
-  (**s.c.** {index}`\ <s.c.>`):
+  (**s.c.** {index}` <s.c.>`):
   Die Substanz wird in die
   Fettschicht der Unterhaut (Subkutis) eingespritzt.
 - Eine Besonderheit ist der *intraossäre Zugang*
-  (**i.o.** {index}`\ <i.o.>`),
+  (**i.o.** {index}` <i.o.>`),
   bei dem die Substanz mittels einer speziellen Kanüle in die
   Knochenmarkhöhle verabreicht wird.
 
@@ -169,10 +169,10 @@ vorbehalten. Die gängigen Injektionsarten sind:
 
 Bei der nicht invasiven Verabreichung wird das Medikament über eine
 Schleimhaut oder direkt über die Haut aufgenommen.
-Für die **orale** {index}`\ <orale>` Aufnahme muss das Arzneimittel geschluckt werden.
-Bei der *sublingualen* {index}`\ <sublingual>` Methode kommt die Substanz unter
+Für die **orale** {index}` <orale>` Aufnahme muss das Arzneimittel geschluckt werden.
+Bei der *sublingualen* {index}` <sublingual>` Methode kommt die Substanz unter
 die Zunge des Patienten.
-Bei der *perkutanen* {index}`\ <perkutan>`
+Bei der *perkutanen* {index}` <perkutan>`
 Verabreichung wird das Medikament auf die Haut aufgetragen und
 aufgenommen.
 

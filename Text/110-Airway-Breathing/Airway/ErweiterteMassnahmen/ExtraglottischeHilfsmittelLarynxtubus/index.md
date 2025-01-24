@@ -2,9 +2,9 @@
 
 # Larynxtubus
 
-Der {dfn}`Larynxtubus` {index}`\ <! Larynxtubus>` (*LT-D*) gehört
+Der {dfn}`Larynxtubus` {index}` <! Larynxtubus>` (*LT-D*) gehört
 zu der Gruppe der *supraglottischen*
-{index}`\ <Atemwegshilfen!supraglottische>`
+{index}` <Atemwegshilfen!supraglottische>`
 Atemwegshilfen, d. h. er
 sichert den Atemweg *oberhalb* der *Stimmritze* (Glottis) und
 durchdringt diese nicht.
@@ -16,7 +16,7 @@ Er besitzt mindestens ein
 Lumen und zwei Cuffs.
 Modelle der zweiten und drittem Generation
 (*LTD-S*, *iLTD-S*), verfügen über ein zweites Lumen, über welches
-eine  **Magensonde** {index}`\ <Magensonde>` zur Ableitung des
+eine  **Magensonde** {index}` <Magensonde>` zur Ableitung des
 Mageninhaltes gelegt werden kann (Magendrainagekanal).
 Trotz korrekter Anwendung kann es aufgrund von
 Leckagen zur Magenüberblähung kommen, daher sollen unbedingt, wenn
@@ -137,7 +137,7 @@ Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
 
 Der Larynxtubus wird ohne Hilfsmittel über den Mund des Patienten
 eingeführt,
-wobei der Kopf in {dfn}`Schnüffelstellung` {index}`\ <! Schnüffelstellung>`
+wobei der Kopf in {dfn}`Schnüffelstellung` {index}` <! Schnüffelstellung>`
 (*Jackson-Position*, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
 überstreckt, nicht gebeugt) gelagert wird. Zusätzliche Hilfsmittel sind
 in der Regel nicht erforderlich.

@@ -3,7 +3,7 @@
 # Polytrauma
 
 Der Begriff
-{dfn}`Polytrauma` {index}`\ <! Polytrauma>`
+{dfn}`Polytrauma` {index}` <! Polytrauma>`
 bezeichnet gleichzeitige
 *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen
 *wenigstens eine* allein *oder die Kombination mehrerer*

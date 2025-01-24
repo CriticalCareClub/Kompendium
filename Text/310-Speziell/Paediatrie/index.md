@@ -70,7 +70,7 @@ nach der Geburt als solches klassifiziert.
   - Einziehungen zwischen Rippen
 
     {dfn}`Nasenflügeln`
-    {index}`\ <Nasenflügeln>`
+    {index}` <Nasenflügeln>`
     beschleunigte Atmung, Atemgeräusche
 - - Pulstasten beim Säugling
   - Oberarmarterie (Oberarm Innenseite),
@@ -347,7 +347,7 @@ ist und *die Eltern keine Schuld trifft*!
 
 Als *Ertrinken* wird der Tod in den ersten 24h nach einem
 Ertrinkungsunfall bezeichnet; ansonsten besteht ein
-{dfn}`Beinahe-Ertrinken`{index}`\ <Beinahe-Ertrinken>`.
+{dfn}`Beinahe-Ertrinken`{index}` <Beinahe-Ertrinken>`.
 Kleinkinder sind besonders gefährdet, da sie
 meist nicht schwimmen können und sich oft schnell und unbemerkt der
 Aufmerksamkeit der Aufsichtsperson entziehen. Besonders ungesicherte
@@ -383,7 +383,7 @@ Nobody is dead until warm and dead!
 Grundsätzlich gelten auch bei Kindern die Ausführungen im Abschnitt
 {ref}`zerebrale-krampfanfaelle`.
 Eine Besonderheit stellt jedoch der
-{dfn}`Fieberkrampf` {index}`\ <! Fieberkrampf>` dar.
+{dfn}`Fieberkrampf` {index}` <! Fieberkrampf>` dar.
 
 #### Fieberkrampf
 

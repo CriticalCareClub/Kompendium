@@ -38,7 +38,7 @@ Beatmung.
 
 [^ueberdruckbeatmung]: Theoretisch kann auch mittels einer Unterdruckkammer eine
     Unterdruckbeatmung durchgeführt werden
-    (*Eiserne Lunge* {index}`\ <Lunge; eiserne>`),
+    (*Eiserne Lunge* {index}` <Lunge; eiserne>`),
     dies ist aber sehr aufwendig und wird
     praktisch nicht durchgeführt.
 
@@ -92,7 +92,7 @@ Helferseitig kommen dabei ein *Beatmungsbeutel*
 Patientenseitig werden *Beatmungsmasken* oder *Beatmungsschläuche*
 (Endotrachealtuben, Larynxtuben, Larynxmasken, Combituben, …)
 angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
-{dfn}`Guedel-Tubus` {index}`\ <! Guedel-Tubus>` angewendet werden.
+{dfn}`Guedel-Tubus` {index}` <! Guedel-Tubus>` angewendet werden.
 
 ::::{only} not nosidebar
 

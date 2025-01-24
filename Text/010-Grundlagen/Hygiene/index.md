@@ -37,42 +37,42 @@ Reviewer: Alexander Blacky, Standard-Reviewprozess
     2. W. eines Krankheitserregers gegen eine Behandlung (z. B. durch
        Antibiotika, Desinfektionsmittel, …).
 
-{dfn}`Inkubationszeit` {index}`\ <Inkubationszeit>`
+{dfn}`Inkubationszeit` {index}` <Inkubationszeit>`
 
 : symptomlose Zeit zwischen Infektion (Eintritt d. Erregers in den
   Organismus) und dem Auftreten erster Symptome.
 
-{dfn}`Epidemie` {index}`\ <Epidemie>`
+{dfn}`Epidemie` {index}` <Epidemie>`
 
 : örtlich begrenztes, zeitlich vermehrtes Auftreten einer
   Infektionserkrankung (z. B. Grippe, Salmonellen).
 
-{dfn}`Pandemie` {index}`\ <Pandemie>`
+{dfn}`Pandemie` {index}` <Pandemie>`
 
 : Epidemie die sich über Länder u. Kontinente ausbreitet (z. B. Pest im
   Mittelalter).
 
-{dfn}`Endemie` {index}`\ <Endemie>`
+{dfn}`Endemie` {index}` <Endemie>`
 
 : Auf kleinere Gebiete beschränktes, zeitlich jedoch nicht begrenztes
   Auftreten einer Infektionserkrankung (z. B. FSME, Malaria, Lepra).
 
-{dfn}`Morbidität` {index}`\ <Morbidität>`
+{dfn}`Morbidität` {index}` <Morbidität>`
 
 : Anteil der an einer Erkrankung *Erkrankten* einer bestimmten
   *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
 
-{dfn}`Mortalität` {index}`\ <Mortalität>`
+{dfn}`Mortalität` {index}` <Mortalität>`
 
 : Anteil der an einer Erkrankung *Verstorbenen* einer bestimmten
   *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
 
-{dfn}`Letalität` {index}`\ <Letalität>`
+{dfn}`Letalität` {index}` <Letalität>`
 
 : Anteil der an einer Erkrankung *Verstorbenen* bezogen auf die
   *Gesamtzahl der Erkrankten* (*"1 von 5 Erkrankten stirbt"*).
 
-{dfn}`Entzündung` {index}`\ <Entzündung>`
+{dfn}`Entzündung` {index}` <Entzündung>`
 
 : Reaktion des Körpers mit den Symptomen
 
@@ -84,15 +84,15 @@ Reviewer: Alexander Blacky, Standard-Reviewprozess
 
   Vgl. {ref}`entzuendung`.
 
-{dfn}`Prophylaxe` {index}`\ <Prophylaxe>`
+{dfn}`Prophylaxe` {index}` <Prophylaxe>`
 
 : Vorbeugende Maßnahme(n).
 
-{dfn}`Antigen` {index}`\ <Antigen>`
+{dfn}`Antigen` {index}` <Antigen>`
 
 : Substanzen, an die sich Antikörper u. ä. binden können.
 
-{dfn}`Antikörper` {index}`\ <Antikörper>`
+{dfn}`Antikörper` {index}` <Antikörper>`
 
 : Zum Immunsystem zählende Proteine, welche gegen Bestandteile eines Antigens gerichtet sind und an dieses binden können.
 
@@ -287,7 +287,7 @@ Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschl
   → Patient 2\*
 :::
 
-Unter einer {dfn}`Kreuzinfektion` {index}`\ <! Kreuzinfektion>` versteht man die
+Unter einer {dfn}`Kreuzinfektion` {index}` <! Kreuzinfektion>` versteht man die
 Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
 anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
 *Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind
@@ -368,7 +368,7 @@ Gesundheitseinrichtungen wie Spitäler oder Pflegeheime sind eine ideale
 "Zuchtanstalt" und Brutstätte für Resistenzen: Es werden viele
 Antibiotika verwendet, viele Patienten liegen räumlich nahe beieinander.
 Es finden sich daher dort *gehäuft* resistente Keime, umgangssprachlich
-spricht man in der Fachwelt auch von {dfn}`Spitalskeimen` {index}`\ <! Spitalskeime>`.
+spricht man in der Fachwelt auch von {dfn}`Spitalskeimen` {index}` <! Spitalskeime>`.
 Resistente Keime verursachen komplizierte Infektionen, eine Erhöhung der
 Komplikations- und Sterblichkeitsrate, in Folge eine Verlängerung des
 Krankenhausaufenthaltes und nicht zuletzt enorme zusätzliche –
@@ -401,7 +401,7 @@ Keime besonders konfrontiert. Deshalb sind spezielle Maßnahmen
 erforderlich.
 
 Der wohl bekannteste Problemkeim ist der
-{dfn}`MRSA` {index}`\ <! MRSA>`
+{dfn}`MRSA` {index}` <! MRSA>`
 (Multiresistenter Staphylococcus aureus, siehe unten).
 Das liegt schlicht
 daran, dass er der erste war. In den letzten Jahren ist die
@@ -424,7 +424,7 @@ war [^footnote-6]. *Das Problem der multiresistenten Keime wird immer größer.*
 :::{sidebar} Stahylokokkus aureus
 
 - Staph. aureus = "Allerweltskeim"
-- aber resistente Form: {dfn}`MRSA` {index}`\ <! MRSA>`
+- aber resistente Form: {dfn}`MRSA` {index}` <! MRSA>`
 :::
 
 Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der
@@ -433,7 +433,7 @@ besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die
 Schleimhäute können ihn beherbergen. Auch im Spital ist er häufig,
 aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon
 Antibiotika-resistent:
-Man spricht dann vom {dfn}`MRSA` {index}`\ <! MRSA>`
+Man spricht dann vom {dfn}`MRSA` {index}` <! MRSA>`
 (Multi-resistenter Staphylococcus aureus).
 
 :::{figure} /Bilder/WikipediaPd/11159_lores_VRSA.\*
@@ -567,7 +567,7 @@ gleichen Unterweisungspflichten.
 - Voraussetzung für spätere Desinfektion od. Sterilisation
 :::
 
-Unter {dfn}`Reinigung` {index}`\ <! Reinigung>` versteht man das Entfernen von groben
+Unter {dfn}`Reinigung` {index}` <! Reinigung>` versteht man das Entfernen von groben
 – oft sichtbaren – Verunreinigungen mit vorrangig mechanischen Mitteln.
 Sie muss möglichst *rasch nach der Kontamination begonnen* werden, da es
 sonst zum Eintrocknen der Verunreinigungen kommen kann. Gereinigte
@@ -588,7 +588,7 @@ Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
   - Keine Desinfektion ohne vorhergehender Reinigung!
 :::
 
-Unter dem Begriff {dfn}`Desinfektion` {index}`\ <! Desinfektion>` versteht man Maßnahmen
+Unter dem Begriff {dfn}`Desinfektion` {index}` <! Desinfektion>` versteht man Maßnahmen
 die der *Keimreduktion* dienen, um einen Gegenstand so aufzubereiten,
 dass er nicht infektiös ist. Der Gegenstand ist dabei jedoch *nicht*
 keimfrei. Die Desinfektionsmaßnahmen töten i.d.R. nur bestimmte Keime
@@ -780,7 +780,7 @@ zur Wischdesinfektion ist *nicht zulässig*!
 - z. B. Autoklavieren.
 :::
 
-Das Ziel der {dfn}`Sterilisation` {index}`\ <! Sterilisation>` ist die Abtötung
+Das Ziel der {dfn}`Sterilisation` {index}` <! Sterilisation>` ist die Abtötung
 *sämtlicher* Krankheitserreger, d. h. *Keimfreiheit* (Sterilität).
 Voraussetzung für die Sterilisation ist eine *vorherige Reinigung* und
 *Desinfektion*!
@@ -866,14 +866,14 @@ Erfahrung voraus. [^footnote-11]
 - Hygienebeauftragter: Ansprechpartner mit Zusatzausbildung
 :::
 
-Der {dfn}`Hygieneplan` {index}`\ <! Hygieneplan>` regelt die
+Der {dfn}`Hygieneplan` {index}` <! Hygieneplan>` regelt die
 konkreten Hygienemaßnahmen zur Erkennung, Verhütung und Bekämpfung von
 Infektionen bzw. deren Übertragungsmöglichkeiten. Es wird dort
 festgelegt was, wann, wie, und womit (wo) zu geschehen hat. Der
 Hygieneplan ist allgemein ausgehängt und hat i. d. R. die Bedeutung einer
 dienstlichen Weisung.
 
-Der {dfn}`Hygienebeauftragte` {index}`\ <! Hygienebeauftragte>` (bzw. Hygieneverantwortliche)
+Der {dfn}`Hygienebeauftragte` {index}` <! Hygienebeauftragte>` (bzw. Hygieneverantwortliche)
 ist Ansprechpartner für Belange der Hygiene. Er hat Maßnahmen zu setzen
 oder zu veranlassen, die der Erkennung, Verhütung und Bekämpfung von
 Infektionen, deren Übertragung und der Gesunderhaltung dienen. Zur
@@ -1211,7 +1211,7 @@ sowie eine
 (z. B. Körperflüssigkeiten, kontaminierte
 Einwegartikel und -verpackungen).
 Die *OeNORM S2104*
-{index}`\ <OeNORM; S2104>`
+{index}` <OeNORM; S2104>`
 unterscheidet zwischen:
 
 1. Gruppe1:

@@ -30,14 +30,14 @@ Je nach Füllungszustand kann die Lage des Magens
 unterschiedlich sein.
 Er kann makroskopisch in mehrere Bereiche
 eingeteilt werden:
-{index}`\ <Cardia>`
-{index}`\ <Fundus>`
-{index}`\ <Corpus>`
-{index}`\ <Antrum pyloricum>`
-{index}`\ <Pylorus>`
-{index}`\ <Magenpförtner>`
-{index}`\ <Curvatura major>`
-{index}`\ <Curvatura minor>`
+{index}` <Cardia>`
+{index}` <Fundus>`
+{index}` <Corpus>`
+{index}` <Antrum pyloricum>`
+{index}` <Pylorus>`
+{index}` <Magenpförtner>`
+{index}` <Curvatura major>`
+{index}` <Curvatura minor>`
 
 - **Cardia** (Mageneingang)
 - **Fundus** (Magengrund):
@@ -82,14 +82,14 @@ Curvatura minor die *längsverlaufende Magenstraße*, an der Flüssigkeiten
 schneller in den Dünndarm gelangen können. In kleinen Grübchen der
 Magenschleimhaut (*Foveolae gastricae*) sitzen die wichtigen
 produzierenden Zellen des Magens:
-{index}`\ <Nebenzellen>`
-{index}`\ <Hauptzellen>`
-{index}`\ <Pepsinogen>`
-{index}`\ <Pepsin>`
-{index}`\ <Belegzellen>`
-{index}`\ <Salzsäure>`
-{index}`\ <Intrinsic Factor>`
-{index}`\ <Vitamin B12; Belegzellen>`
+{index}` <Nebenzellen>`
+{index}` <Hauptzellen>`
+{index}` <Pepsinogen>`
+{index}` <Pepsin>`
+{index}` <Belegzellen>`
+{index}` <Salzsäure>`
+{index}` <Intrinsic Factor>`
+{index}` <Vitamin B12; Belegzellen>`
 
 - **Nebenzellen**: bilden **Schleim**
 - **Hauptzellen**: bilden **Pepsinogen**,

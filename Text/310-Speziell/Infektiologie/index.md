@@ -18,7 +18,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
   Diese Patienten sind im Krankentransport häufig anzutreffen.
 - *Allergie*: Das Immunsystem kann jedoch auch
   fälschlicherweise gegen an sich ungefährliche Stoffen aktiv werden,
-  man spricht dann von einer {dfn}`Allergie` {index}`\ <Allergie>`. Im
+  man spricht dann von einer {dfn}`Allergie` {index}` <Allergie>`. Im
   leichtesten Fall kommt es bei Kontakt mit dem auslösenden Stoff zu
   einer Schleimhautreizung ("laufende Nase"), Augenrötung, tränen,
   einer lokalen Rötung bzw. einem Juckreiz.
@@ -36,7 +36,7 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
 
 ### Grippe
 
-Die {dfn}`Grippe` {index}`\ <! Grippe>` (*Influenza*) ist eine schwere, durch
+Die {dfn}`Grippe` {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch
 Viren verursachte Infektionskrankheit.
 Sie ist eine *virale*
 Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper
@@ -120,7 +120,7 @@ rasch als möglich einzudämmen.
 
 Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf
 den Menschen in Mexiko im Frühjahr 2009
-({dfn}`Schweinegrippe` {index}`\ <! Schweinegrippe>`).
+({dfn}`Schweinegrippe` {index}` <! Schweinegrippe>`).
 Der neue Stamm breitete sich sehr rasch um die ganze
 Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war
 jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders
@@ -154,7 +154,7 @@ und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
 
 ### Lungenentzündung (Pneumonie)
 
-Streng genommen ist die {dfn}`Lungenentzündung` {index}`\ <! Lungenentzündung>` *Term.*
+Streng genommen ist die {dfn}`Lungenentzündung` {index}` <! Lungenentzündung>` *Term.*
 (*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den
 Symptomen eher die entzündliche Komponente im Vordergrund (Fieber,
 allgemeine Schwäche, …).
@@ -199,8 +199,8 @@ kaum an.
 
 ### Tuberkulose
 
-Die {dfn}`Tuberkulose` {index}`\ <! Tuberkulose>`
-(*Abk.* {dfn}`Tbc` {index}`\ <! Tbc>`,
+Die {dfn}`Tuberkulose` {index}` <! Tuberkulose>`
+(*Abk.* {dfn}`Tbc` {index}` <! Tbc>`,
 *umgs.* Schwindsucht)
 ist eine bakterielle Erkrankung,
 welche praktisch
@@ -227,7 +227,7 @@ Tuberkulose erhebbar.
 
 Wenn der Infektionsherd in der Lunge *Luftkontakt* hat, spricht man von
 der :
-dfn:`Offenen Tuberkulose` {index}`\ <! Offenen Tuberkulose>`.
+dfn:`Offenen Tuberkulose` {index}` <! Offenen Tuberkulose>`.
 Der Patient ist dann
 infektiös, eine Tröpfcheninfektion ist möglich. Die Verwendung von
 Schutzmasken ist anzuraten.
@@ -267,12 +267,12 @@ erforderlich. [^footnote-4]
 
 ### HIV und AIDS
 
-Das {dfn}`HI-Virus` {index}`\ <! HI-Virus>` befällt vor allem die Zellen des
+Das {dfn}`HI-Virus` {index}` <! HI-Virus>` befällt vor allem die Zellen des
 Abwehrsystems. Es vermehrt sich in ihnen, setzt sie außer Funktion und
 zerstört sie schließlich. Das körpereigene Abwehrsystem kann HIV nicht
-aus dem Körper entfernen, es kommt zu einer **Immunschwäche** {index}`\ <Immunschwäche>`.
+aus dem Körper entfernen, es kommt zu einer **Immunschwäche** {index}` <Immunschwäche>`.
 
-HIV verursacht das {dfn}`AIDS` {index}`\ <! AIDS>` (*Aquired Immune Deficiency
+HIV verursacht das {dfn}`AIDS` {index}` <! AIDS>` (*Aquired Immune Deficiency
 Syndrom*, erworbenes Immunschwäche-Syndrom), welches die eigentliche
 Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem*
 zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und
@@ -334,7 +334,7 @@ wenn auch keinen 100%-igen Schutz dar.
 #### Beschreibung und Ursachen
 
 Die {dfn}`Hepatitis`
-{index}`\ <Hepatitis>`
+{index}` <Hepatitis>`
 ist eine Entzündung der Leber durch
 verschiedene Erreger oder durch schädigende Substanzen.
 Diese
@@ -349,7 +349,7 @@ einer Entzündung führen.
 Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner
 Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht
 dann von der
-{dfn}`chronischen Hepatitis`{index}`\ <Hepatitis; chronische>`.
+{dfn}`chronischen Hepatitis`{index}` <Hepatitis; chronische>`.
 
 #### Symptome
 
@@ -364,7 +364,7 @@ gelblichen Verfärbung der Haut (*Ikterus*) kommen.
 Bei einem chronischen Verlauf kommt es zu einem Umbau von
 funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
 dann von der
-{index}`\ <Leberzirrhose>`
+{index}` <Leberzirrhose>`
 {ref}`Leberzirrhose <leberzirrhose>`.
 Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
 kommen, da die Leber ein überlebenswichtiges Organ ist.
@@ -415,7 +415,7 @@ Schutzimpfung.
 ### Infektiöse Meningitis
 
 Die infektiöse
-{dfn}`Meningitis` {index}`\ <Meningitis>`
+{dfn}`Meningitis` {index}` <Meningitis>`
 ist eine Entzündung der
 Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
 Sie ist ist
@@ -431,7 +431,7 @@ Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 Leitsymptome sind *Fieber*,
 *Nackensteifigkeit* (Meningismus) und *Lichtscheue*. Dies bezeichnet man
 als
-{dfn}`Meningismuszeichen` {index}`\ <! Meningismuszeichen>`.
+{dfn}`Meningismuszeichen` {index}` <! Meningismuszeichen>`.
 Darüber hinaus kann es zu
 anderen unspezifischen Symptomen wie Kopfschmerzen, Übelkeit, Erbrechen,
 etc. kommen.
@@ -571,7 +571,7 @@ Die {dfn}`Ebola-Viruserkrankung`
 *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
 ist eine seltene, schwere Infektionskrankheit,
 die durch Ebola-Viren verursacht wird.
-Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}`\ <Fieber!hämorrhagisches>` Fieber).
+Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber!hämorrhagisches>` Fieber).
 Das Virus verursacht im ganzen Körper schwere
 Zell- und Gewebsschädigungen,
 davon sind auch die Blutgefäße betroffen.

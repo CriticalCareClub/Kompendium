@@ -21,7 +21,7 @@
 ::::
 
 Als *Kapnometrie* bezeichnet man die Messung von
-**Kohlendioxid** {index}`\ <Kohlendioxid; Kapnometrie>` (CO₂) in der Atemluft.
+**Kohlendioxid** {index}` <Kohlendioxid; Kapnometrie>` (CO₂) in der Atemluft.
 Mit Hilfe von
 CO₂-Analysatoren kann man den prozentuellen Anteil (Volumen-) oder den
 Partialdruck (mmHg) an Kohlendioxid in der Ausatemluft messen und

@@ -12,7 +12,7 @@
 ## Allgemeines und Einteilung von Wunden
 
 Eine {dfn}`Wunde`
-{index}`\ <! Wunde>`
+{index}` <! Wunde>`
 (*Lat.* (*Vuln.*)) ist eine
 Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
 thermische, Strahlen- oder chemische Einwirkungen
@@ -432,7 +432,7 @@ Desinfektion einer frischen Wunde
 Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine
 Lage zu ändern, kann es zum Wundliegen kommen.
 Die Wunden nennt man
-{dfn}`Dekubitus` {index}`\ <! Dekubitus>` oder Druckgeschwüre.
+{dfn}`Dekubitus` {index}` <! Dekubitus>` oder Druckgeschwüre.
 Sie sind eine
 lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als
 Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
@@ -530,7 +530,7 @@ Einteilung der Schweregrade {term}`🗎 Shea 1975`:
   Der Patient wird komplett
   auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
   geschädigter Bereiche. {term}`🗎 ThiemesPflege 12`
-- *Bauchlage* {index}`\ <Bauchlage>`
+- *Bauchlage* {index}` <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
 alle Lagerungsarten bei einem Patienten angewendet werden.

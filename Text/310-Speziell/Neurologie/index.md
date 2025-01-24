@@ -288,9 +288,9 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 :::
 ::::
 
-**Hirndruckzeichen** {index}`\ <Hirndruckzeichen>` deuten auf
+**Hirndruckzeichen** {index}` <Hirndruckzeichen>` deuten auf
 eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*,
-*intrakranieller* {index}`\ <Druck!intrakranieller>` Druck). Eine
+*intrakranieller* {index}` <Druck!intrakranieller>` Druck). Eine
 solche Steigerung kann besonders bei Verletzungen oder blutigen
 Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ
 sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das
@@ -370,7 +370,7 @@ Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden
 werden können:
 
 - {dfn}`Ischämischer Insult` ("trocken"):
-  {index}`\ <Ischämie!trockener Insult>`.
+  {index}` <Ischämie!trockener Insult>`.
   Verschluss eines Hirngefäßes mit
   anschließendem Absterben der versorgten Hirnregion.
   Vgl. {ref}`Ischaemie`.
@@ -399,7 +399,7 @@ werden können:
 :::
 ::::
 
-{dfn}`TIA` {index}`\ <TIA>` ist die Abkürzung für
+{dfn}`TIA` {index}` <TIA>` ist die Abkürzung für
 *Transitorisch-Ischämische Attacke*.
 Von einer TIA spricht man,
 wenn die Symptome innerhalb von 24 Stunden vergehen.
@@ -444,7 +444,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 - *Motorik*: Störungen der Kraft und Beweglichkeit sind sehr häufig.
   Charakteristisch für einen Schlaganfall sind sog.
-  {dfn}`Halbseitenzeichen`{index}`\ <! Halbseitenzeichen>`:
+  {dfn}`Halbseitenzeichen`{index}` <! Halbseitenzeichen>`:
   Es kommt dabei zu einer *einseitigen
   Kraftminderung*, dies kann bis zu einer *schlaffen, kompletten
   Lähmung* führen. Ein *herabhängender Mundwinkel* ist ein Zeichen
@@ -452,7 +452,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
   *Schluckstörungen* kommen, es besteht dann eine erhöhte
   Aspirationsgefahr.
 
-  Der {dfn}`Herdblick` {index}`\ <! Herdblick>` ist eine Blickdiagnose:
+  Der {dfn}`Herdblick` {index}` <! Herdblick>` ist eine Blickdiagnose:
   Es kann zu Blicklähmungen kommen,
   der Patient blickt in Richtung des "Herdes des
   Geschehens".
@@ -796,7 +796,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
    Der Patient ist danach erstmal bewusstlos,
    im weiteren Verlauf mit mehr oder weniger großem Aufwand erweckbar.
    Er befindet sich dann in der sogenannten
-   {dfn}`Nachschlafphase`{index}`\ <! Nachschlafphase>`.
+   {dfn}`Nachschlafphase`{index}` <! Nachschlafphase>`.
    Der Patient *klart im Verlauf mehr und mehr auf*.
    Es ist wichtig zu versuchen mit
    dem Patienten in Kontakt zu treten
@@ -983,7 +983,7 @@ bis zum Fußaußenrand aus und werden von Gefühlsstörungen in diesem
 Gebiet bzw. von einer Verkrampfung der Rückenmuskulatur begleitet.
 Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem
 Auftreten spricht man von Lumboischialgie
-({dfn}`Lumbago` {index}`\ <! Lumbago>`)
+({dfn}`Lumbago` {index}` <! Lumbago>`)
 oder umgangssprachlich vom *Hexenschuss*.
 
 Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung
@@ -994,6 +994,6 @@ Dieser Druck verursacht ebenfalls
 Schmerzen, Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses
 Ereignis plötzlich auf, spricht man von einem
 {dfn}`akuten Bandscheibenvorfall`
-{index}`\ <! akuten Bandscheibenvorfall>`.
+{index}` <! akuten Bandscheibenvorfall>`.
 Häufig ist die Lendenwirbelsäule (LWS-Bereich)
 betroffen.

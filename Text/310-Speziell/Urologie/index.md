@@ -24,7 +24,7 @@ Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
 (Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn
 abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der
 Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
-Am Harnkatheter kann ein **Harnbeutel** {index}`\ <Harnbeutel>` angeschlossen werden,
+Am Harnkatheter kann ein **Harnbeutel** {index}` <Harnbeutel>` angeschlossen werden,
 welcher den Urin sammelt und sich entleeren lässt.
 Der Harnbeutel muss
 *unter dem Patienten angebracht* sein,
@@ -60,7 +60,7 @@ entsprechend oft bei Patienten anzutreffen.
 
 ### Beschreibung und Ursachen
 
-Eine {dfn}`Nierenkolik` {index}`\ <! Nierenkolik>`
+Eine {dfn}`Nierenkolik` {index}` <! Nierenkolik>`
 ist gekennzeichnet durch
 kolikartige Schmerzen aufgrund einer Blockade des Harnleiters
 und dem daraus folgenden Harnstau und Dehnung des Harnleiters,
@@ -120,7 +120,7 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 :::
 ::::
 
-Als {dfn}`Harnwegsinfekt` {index}`\ <! Harnwegsinfekt>` wird allgemein eine Infektion
+Als {dfn}`Harnwegsinfekt` {index}` <! Harnwegsinfekt>` wird allgemein eine Infektion
 der Harnwege bezeichnet.
 
 Besonders gefährdet sind Frauen aufgrund der
@@ -131,7 +131,7 @@ klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt,
 kann die Infektion aufsteigen und eine Nierenbeckenentzündung
 verursachen.
 
-Eine {dfn}`Nierenbeckenentzüdung` {index}`\ <! Nierenbeckenentzüdung>` ist eine
+Eine {dfn}`Nierenbeckenentzüdung` {index}` <! Nierenbeckenentzüdung>` ist eine
 Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
 
 Sie ist oft
@@ -190,7 +190,7 @@ Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 :::
 ::::
 
-Ein {dfn}`Akuter Harnverhalt` {index}`\ <! Akuter Harnverhalt>`
+Ein {dfn}`Akuter Harnverhalt` {index}` <! Akuter Harnverhalt>`
 ist eineAbflussbehinderung des
 Harns aus der Harnblase,
 bei der verschiedene Ursachen möglich sind.
@@ -255,7 +255,7 @@ Niereninsuffizienz ebenfalls häufig anzutreffen.
 
 Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung,
 später jedoch nur die Nierentransplantation oder eine
-Nierenersatztherapie ({dfn}`Dialyse` {index}`\ <! Dialyse>`, *Blutwäsche*) zur
+Nierenersatztherapie ({dfn}`Dialyse` {index}` <! Dialyse>`, *Blutwäsche*) zur
 Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten
 oder dritten Tag für einige Stunden an eine Maschine angeschlossen,
 welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu
@@ -307,11 +307,11 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
   Bei einer
   Überwässerung kann es zu einem Lungenödem kommen.
   Weiters können Elektrolytstörungen
-  {index}`\ <Elektrolytstörungen; Dialyse>`
+  {index}` <Elektrolytstörungen; Dialyse>`
   zu lebensbedrohlichen **Herzrhythmusstörungen**
-  {index}`\ <Herzrhythmusstörungen; Dialyse>`
+  {index}` <Herzrhythmusstörungen; Dialyse>`
   bis hin zum Herzstillstand führen.
-- Die **Dialyse** {index}`\ <Dialyse>` stellt einen schwerwiegenden Eingriff in
+- Die **Dialyse** {index}` <Dialyse>` stellt einen schwerwiegenden Eingriff in
   den Wasser- und Elektrolythaushalt dar, dementsprechend kann es auch
   nach einer Dialyse zu den oben genannten Elektrolytstörungen kommen!
 
@@ -330,7 +330,7 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
 :::
 ::::
 
-Eine {dfn}`Hodentorsion` {index}`\ <! Hodentorsion>` ist eine Drehung des Hodens um
+Eine {dfn}`Hodentorsion` {index}` <! Hodentorsion>` ist eine Drehung des Hodens um
 seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße
 abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen
 Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und

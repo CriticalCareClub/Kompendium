@@ -72,7 +72,7 @@ Manchmal reicht das simple Anheben des Kinns. \[₢ Sebastian Gabriel  {term}`�
 
 ## Esmarch-Handgriff
 
-:::{sidebar} Esmarch-Handgriff
+:::{margin} Esmarch-Handgriff
 - Finger 2—5 am Kieferwinkel
 
   → aufwärts, vorne

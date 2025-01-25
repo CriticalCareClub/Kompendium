@@ -11,7 +11,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Messung der Körpertemperatur
+:::{margin} Messung der Körpertemperatur
 Nach dem Ort der Messung
 
 - axillär

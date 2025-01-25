@@ -215,7 +215,7 @@ Katheterlänge bei Absaugung durch die Nase
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Reizung des Vagus-Nerv
 - Gefährliche Kreislaufstörungen
 - Schleimhautverletzungen, Blutungen

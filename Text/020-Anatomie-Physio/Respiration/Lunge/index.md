@@ -13,7 +13,7 @@
 
 # Pulmo (Lunge)
 
-:::{sidebar} Lunge
+:::{margin} Lunge
 - 2 Flügel mit rechts 3 Lappen und links 2
 - Lungenfell (Pleura)
 - Lungenbläschen (Alveolen)

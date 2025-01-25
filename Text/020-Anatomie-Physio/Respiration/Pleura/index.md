@@ -9,7 +9,7 @@
 
 # Pleura
 
-:::{sidebar} Pleura
+:::{margin} Pleura
 - *Thoraxseitige* Pleura (Rippenfell)
 - *Lungenseitige* Pleura (Lungenfell)
 - Zwischenraum luftdicht, mit Schmierflüssigkeit

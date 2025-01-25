@@ -69,7 +69,7 @@ Das CE-Kennzeichen
 
 ### Pflichten gemäß MPG
 
-:::{sidebar} Pflichten
+:::{margin} Pflichten
 - Sachgerechte Anwendung
 - Einweisung
 - Funktionskontrolle
@@ -110,7 +110,7 @@ Verpflichtungen:
 
 ### Entpacken von sterilem Material
 
-:::{sidebar} Entpacken
+:::{margin} Entpacken
 - Aufschälen
 - Material muss steril bleiben!
 :::

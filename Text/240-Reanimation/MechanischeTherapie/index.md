@@ -35,7 +35,7 @@ und ein ausreichender Spontankreislauf einsetzt
 
 ::::{only} not nosidebar
 
-:::{sidebar} HDM / Technik
+:::{margin} HDM / Technik
 - Druckpunkt: *Mitte* des Brustkorbes
 
 - Arm- und Körperhaltung
@@ -136,7 +136,7 @@ und Oberkörper nach vorne gebeugt:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Fehlerquellen
+:::{margin} Fehlerquellen
 - Leerlauf
 - Keine feste Unterlage
 - Verletzungen durch falschen Druckpunkt oder falsche Druckrichtung

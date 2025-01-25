@@ -58,7 +58,7 @@ welche sich von den vorgenannten entweder durch die Pathogenese
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Atemnot
 - Thoraxschmerz
 - Engegefühl im Thorax
@@ -87,7 +87,7 @@ ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 
 ::::{only} not nosidebar
 
-:::{sidebar} ABCDE
+:::{margin} ABCDE
 ③
 
 : Leidend, evtl. kaltschweißig, blass
@@ -184,7 +184,7 @@ Transportziel (Herzkatheterlabor?) entscheidend.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 
 : Siehe ABCDE

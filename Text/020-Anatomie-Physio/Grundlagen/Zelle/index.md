@@ -5,7 +5,7 @@
 
 # Zelle
 
-:::{sidebar} Zelle
+:::{margin} Zelle
 - Kleinste lebende Einheit
 
 - Zellkern

@@ -31,7 +31,7 @@
 
 # Dickdarm (Intestinum crassum inkl. Colon)
 
-:::{sidebar} Dickdarm
+:::{margin} Dickdarm
 - T-Kreuzung
 - Blinddarm = Sackgasse
 - Wurmfortsatz (Appendix)

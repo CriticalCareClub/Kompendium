@@ -86,7 +86,7 @@ sowie dem *Jejunum* (Leerdarm) und *Ileum* (Krummdarm).
 
 ## Duodenum (Zwölffingerdarm)
 
-:::{sidebar} Duodenum
+:::{margin} Duodenum
 - Beginn des Dünndarmes, ca. 30 cm lang
 
 - Pars superior duodeni
@@ -152,7 +152,7 @@ Jejunum markiert.
 
 ## Jejunum und Ileum
 
-:::{sidebar} Jejunum und Ileum
+:::{margin} Jejunum und Ileum
 - Ca. 3 m lang,
   Oberflächenvergrößerung durch Darmzotten
 

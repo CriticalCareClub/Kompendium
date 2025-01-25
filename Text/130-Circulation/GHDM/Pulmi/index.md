@@ -31,7 +31,7 @@ Syn.: Swan-Ganz-Katheter, Rechtsherzkatheter
 
 ## Messwerte
 
-:::{sidebar} PAC-Messungen
+:::{margin} PAC-Messungen
 - PAP: pulmonal-arterieller Druck
 - PCWP: pulmonal-kapillärer Wedge-Druck
 - CVP: zentralvenöser Druck

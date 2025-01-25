@@ -34,7 +34,7 @@ des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gerätearten
+:::{margin} Gerätearten
 - Fingerclip-Geräte
 - Handpulsoxymeter
 - Funktionsmodul eines Überwachungsmonitors
@@ -62,7 +62,7 @@ Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min
 
 ::::{only} not nosidebar
 
-:::{sidebar} Sensortypen
+:::{margin} Sensortypen
 - Einmalsensoren
 - Mehrwegsensoren
 :::
@@ -121,7 +121,7 @@ an der der Sensor angebracht ist, ist notwendig.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SpO₂
+:::{margin} SpO₂
 - Normalwert: 96—100%
 - chronisch lungenkranke Patient:
   auch Werte \< 90% möglich ohne Beschwerden
@@ -137,7 +137,7 @@ Beschwerden haben.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beurteilung
+:::{margin} Beurteilung
 - Bedenke: Wieviel O2 bekommt der Patient bereits?
 - SpO₂ reagiert spät!
 :::
@@ -161,7 +161,7 @@ Behandle den Patienten und nicht das Gerät!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren, Fehlerquellen
+:::{margin} Gefahren, Fehlerquellen
 - CO-Vergiftungen (falsch hohe Werte)
 - Minderdurchblutung der Peripherie;
   Entweder durch Zentralisation beim

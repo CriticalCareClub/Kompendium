@@ -69,7 +69,7 @@ Gefahren:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ursachen
+:::{margin} Ursachen
 - Direkt das ZNS betreffend (primär)
 - Indirekt das ZNS betreffend (sekundär)
 :::
@@ -136,7 +136,7 @@ Ursachen auf.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bewusstseinsgrad: W–A–S–B
+:::{margin} Bewusstseinsgrad: W–A–S–B
 - Wach *klar*
 - Ansprache *somnolent*
 - Schmerzreiz *soporös*
@@ -279,7 +279,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hirndruckzeichen
+:::{margin} Hirndruckzeichen
 - ③ Bewusstseinsstörungen
 - ④ Übelkeit, Erbrechen
 - Ⓒ HF↓, RR↑
@@ -323,7 +323,7 @@ Anisokorie
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hirnstammeinklemmung
+:::{margin} Hirnstammeinklemmung
 - Großes Hinterhauptsloch
 - Hirnstamm: Atem- und Kreislaufzentrum
 - **Akute Lebensgefahr**
@@ -360,7 +360,7 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Insult: Arten
+:::{margin} Insult: Arten
 - Ischämischer ("trockener") Insult
 - Hämorrhagischer ("blutiger") Insult
 :::
@@ -393,7 +393,7 @@ werden können:
 
 ::::{only} not nosidebar
 
-:::{sidebar} TIA
+:::{margin} TIA
 - Transitorisch-Ischämische Attacke.
 - Symptome \< 24 h.
 :::
@@ -412,7 +412,7 @@ jedem anderen Schlaganfall zu behandeln.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 Je nach betroffener Hirnregion sehr unterschiedlich:
 
 - Halbseitenzeichen (Schwäche, Lähmung)
@@ -505,7 +505,7 @@ Verschlechterung ist jederzeit möglich!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Differentialdiagnosen
+:::{margin} Differentialdiagnosen
 - Blutzucker ↓, ↑
 - Sonstige neurologische Erkrankung.
 - Vergiftungen
@@ -525,7 +525,7 @@ weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Spezielle Anamnese
+:::{margin} Spezielle Anamnese
 - Zeitpunkt des Auftretens der Symptome
 - Symptome, neurologische Ausfälle
 - Alter des Patienten
@@ -651,7 +651,7 @@ dass diese Therapie möglichst schnell erfolgt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Krampfanfälle: Einteilung
+:::{margin} Krampfanfälle: Einteilung
 - Nach Art:
 
   - Tonisch
@@ -735,7 +735,7 @@ Der fokale Anfall wird auch "petit mal"[^petitmal] genannt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Generalisierter Krampfanfall
+:::{margin} Generalisierter Krampfanfall
 - Betrifft ganzen Körper
 
 - Zungenbiss
@@ -814,7 +814,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Status epilepticus
+:::{margin} Status epilepticus
 - Lange Dauer
 - Wiederholtes Auftreten (≥ 2 / 24 h)
 - Akute **Lebensgefahr!**
@@ -921,7 +921,7 @@ Taktik
 
 ::::{only} not nosidebar
 
-:::{sidebar} Fieberkrampf
+:::{margin} Fieberkrampf
 - Kinder \< 4 Jahre
 - Hohes Fieber
 - Wie generalisierter Anfall
@@ -948,7 +948,7 @@ Fieber
 
 ::::{only} not nosidebar
 
-:::{sidebar} Krampfanfall in der Schwangerschaft
+:::{margin} Krampfanfall in der Schwangerschaft
 - Folge einer Präemklampsie.
 - Vgl. :ref\`eklampsie\`
 :::
@@ -966,7 +966,7 @@ Dieser wird unter {ref}`eklampsie` besprochen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerzen in Lendengegend
 - Evtl. Austrahlung in Bein
 - Gefühlsstörungen

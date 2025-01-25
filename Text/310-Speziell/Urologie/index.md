@@ -11,7 +11,7 @@ Erkrankungen des harnableitenden Systems.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Harnkatheter
+:::{margin} Harnkatheter
 - Katheter leitet aus Harnblase Urin ab
 - Harnbeutel – *unterhalb* d. Patienten
 - Schlauch abklemmen beim Umlagern
@@ -51,7 +51,7 @@ entsprechend oft bei Patienten anzutreffen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Nirenkolik
+:::{margin} Nirenkolik
 - Blockade des Harnleiters → Harnstau
 - Dehnung des Harnleiters → Kolikartiger Schmerz
 - Nierenstein(e)
@@ -76,7 +76,7 @@ Dehnungsschmerz.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Rücken-/Flankenschmerzen
 - Evtl. Unterbauchschmerzen bei Stein-/Sandabgang
 - *"Der Stein wandert, der Schmerz wandert, der Patient wandert"*
@@ -114,7 +114,7 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Harnwegsinfektion
+:::{margin} Harnwegsinfektion
 - Infektion der Harnwege
 - Oft: Darmkeime
 :::
@@ -153,7 +153,7 @@ besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Harnwegsinfekt:
 
   - Schmerzen beim urinieren, evtl. im Nierenlager, Blasengegend
@@ -181,7 +181,7 @@ Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Harnverhalt
+:::{margin} Harnverhalt
 - Vergrößerung der *Prostata*
 - Lähmung (Querschnittlähmung)
 - Schließmuskel-Krampf
@@ -235,7 +235,7 @@ Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Chronische Niereninsuffizienz
+:::{margin} Chronische Niereninsuffizienz
 - Chronisch verminderte Nierenfunktion
 - Oft in Folge von chronischen Erkankungen
 - Dialyse (Blutwäsche)
@@ -273,7 +273,7 @@ Krankentransportdienstes.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Dialyse-Shunt (Blutungen)
 - Wasserhaushalt (Trinkmenge, Lungenödem)
 - Elektrolytstörungen (Herzrhythmusstörungen bis zum Herzstillstand)
@@ -322,7 +322,7 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hodentorsion
+:::{margin} Hodentorsion
 - Verdrehung des Hodens um eigene Achse
 - Blutgefäße werden abgeschnürt
 - Starke Schmerzen, Übelkeit und Erbrechen

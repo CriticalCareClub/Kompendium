@@ -11,7 +11,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hyperventilationssysndrom
+:::{margin} Hyperventilationssysndrom
 - Tiefe, schnelle Atmung bei sonst gesundem Menschen
 
 - Blut-pH wird basisch → Elektrolytstörung
@@ -41,7 +41,7 @@ oft Patienten mit Hyperventilationstetanie anzutreffen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Konzerte, stressige bzw. erregende Situationen
@@ -153,7 +153,7 @@ oft Patienten mit Hyperventilationstetanie anzutreffen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🄴
 
 : Stressige oder aufregende Erlebnisse

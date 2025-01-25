@@ -127,7 +127,7 @@ Verfärbung des Harns auch beim PRIS..
 
 ### Propofolinfusionssyndrom
 
-:::{sidebar} Propofolinfusionssyndrom
+:::{margin} Propofolinfusionssyndrom
 - Sehr selten
 - Ursache unbekannt (Störung der mitochondrialen Atmungskette? Triggersubstanz bei vorbestehender Schädigung? )
 - lange Sedierungsdauer über 48 h, Dosierungen ab 5 mg / kg KG

@@ -13,7 +13,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Lungenembolie
+:::{margin} Lungenembolie
 - Verschluss einer Lungenarterie
 
 - Oft eingeschwemmt, vor allem:
@@ -48,7 +48,7 @@ Herkunft des Thrombus
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Bettlägrigkeit? Fernreise?
@@ -149,7 +149,7 @@ Herkunft des Thrombus
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🄼
 
 : Thrombosespritzen

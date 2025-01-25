@@ -240,7 +240,7 @@ Thun {term}`🗎 Thun 1981`
 
 ::::{only} not nosidebar
 
-:::{sidebar} Allgemeine Grundregeln
+:::{margin} Allgemeine Grundregeln
 - Vorstellen
 - auf Augenhöhe mit dem Patienten
 - deutliche, einfache Sprache

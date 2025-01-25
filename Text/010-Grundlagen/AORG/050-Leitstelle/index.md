@@ -14,7 +14,7 @@
 
 # Die Rettungsleitstelle
 
-:::{sidebar} Leitstelle
+:::{margin} Leitstelle
 - *Call Taking*
 
   - Annahme & Abfrage von Notrufen & Alarmierungen
@@ -100,7 +100,7 @@ Dennoch, mittels dieser Diagnosecodes kann eine entsprechende **Ausrückordnung*
 
 ## Einsatztypen
 
-:::{sidebar} Einsatztypen
+:::{margin} Einsatztypen
 Primäreinsatz
 : - Erstes Glied der professionellen Versorgung
 
@@ -125,7 +125,7 @@ Beim **Sekundärtransport** wird ein *bereits versorgter Patient* transportiert,
 
 ### Funk
 
-:::{sidebar} Funk
+:::{margin} Funk
 - Sprechfunk
 - Datenfunk
 :::

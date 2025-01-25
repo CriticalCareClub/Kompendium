@@ -64,7 +64,7 @@ Bedrohung daher oft sinnvoller.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Strom
+:::{margin} Strom
 - Reizeffekte (Muskel-/ Nervenerregung)
 - Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
 - Thermische Schäden, z. B. Strommarken
@@ -124,7 +124,7 @@ Bahnanlagen
 
 ::::{only} not nosidebar
 
-:::{sidebar} Blitzschlag
+:::{margin} Blitzschlag
 - extrem kurze Einwirkdauer
 - typische Symptome
 :::

@@ -2,7 +2,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vitalwerte
+:::{margin} Vitalwerte
 - Herzfrequenz
 - Blutdruck
 - Atemfrequenz

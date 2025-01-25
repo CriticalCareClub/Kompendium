@@ -87,7 +87,7 @@ welche die inneren Organe versorgen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Sympathikus und Parasympathikus
+:::{margin} Sympathikus und Parasympathikus
 - Gegenspieler
 
 - Ergänzen sich

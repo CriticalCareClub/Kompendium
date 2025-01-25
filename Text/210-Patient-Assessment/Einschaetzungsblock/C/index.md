@@ -6,7 +6,7 @@
 
 ## Klinische Einschätzung des Kreislaufs
 
-:::{sidebar} Klinische Einschätzung des Kreislaufs
+:::{margin} Klinische Einschätzung des Kreislaufs
 - Hautfarbe, -temperatur
 - Schweiß
 - Rekap-Zeit
@@ -166,7 +166,7 @@ und etwas schwindlig sei sie auch.\*
 
 ## `STU` — Schnelle Traumauntersuchung
 
-:::{sidebar} Schnelle Trauma-Untersuchung `STU`
+:::{margin} Schnelle Trauma-Untersuchung `STU`
 - Inspektion und Abtasten von
 
   1. *Kopf* inkl. Mund, Nase, Ohren,

@@ -120,7 +120,7 @@ sind:
 
 ::::{only} not nosidebar
 
-:::{sidebar} PNS / Funktion
+:::{margin} PNS / Funktion
 - Motorisch: Bewegungsinformationen
 - Sensorisch: Wahrnehmungen
 - Vegetativ: Vitalfunktionen

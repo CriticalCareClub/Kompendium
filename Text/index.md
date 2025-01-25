@@ -28,7 +28,7 @@
 :::
 ::::
 
-:::{sidebar} Optionen
+:::{margin} Optionen
 ```{raw} html
 <a href="_static/CCCA-Kompendium.pdf">Das Kompendium des CCCA als <strong>PDF</strong></a>
 

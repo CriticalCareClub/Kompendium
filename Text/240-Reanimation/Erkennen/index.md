@@ -1,6 +1,6 @@
 # Erkennen der Reanimationspflichtigkeit
 
-:::{sidebar} Erkennen der Reanimationspflichtigkeit
+:::{margin} Erkennen der Reanimationspflichtigkeit
 - Kein Bewusstsein
 - Keine (suffiziente) Atmung
 :::
@@ -23,7 +23,7 @@ Die Kombination *"fehlendes Bewusstsein"* und *"Atemstillstand"*
 Kardiopulmonalen Reanimation.
 Der gesonderte Nachweis der Pulslosigkeit ist *nicht* erforderlich!
 
-:::{sidebar} Ersthelfer: Rettungskette und Notruf
+:::{margin} Ersthelfer: Rettungskette und Notruf
 - Nach der Kontrolle des Bewusstseins: Notruf
 - Danach lebensrettende Sofortmaßnahmen
 :::

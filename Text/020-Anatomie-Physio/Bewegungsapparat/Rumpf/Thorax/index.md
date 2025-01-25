@@ -19,7 +19,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Der Brustkorb (Thorax)
+:::{margin} Der Brustkorb (Thorax)
 - *Sternum* (Brustbein)
 
 - *12 Rippenpaare* (Costae)

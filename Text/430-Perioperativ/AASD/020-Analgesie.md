@@ -245,7 +245,7 @@ Remifentanyl: wichtig: Analgesie "danach"
 
 ### Esketamin
 
-:::{sidebar} Esketamin
+:::{margin} Esketamin
 - *S-Enantiomer* von *Ketamin*.
 - hemmt **NMDA**-Rezeptor
 - schwache *agonistische* Wirkung an *Opioidrezeptoren*

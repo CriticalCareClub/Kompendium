@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Unfallort
+:::{margin} Unfallort
 - Absichern
 - Evt. Nachalarmierung
 - Triage
@@ -30,7 +30,7 @@ wichtigsten Aufgaben sind:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Unfallmechanismus
+:::{margin} Unfallmechanismus
 - Was?
 - Wie?
 :::
@@ -56,7 +56,7 @@ Versorgung des Patienten Prioritäten besser setzen zu können.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Besondere Unfallmechanismen
+:::{margin} Besondere Unfallmechanismen
 - Verkehrsunfälle
 - Unfälle mit Fahrzeugen
 - Frontalzusammenstöße
@@ -82,7 +82,7 @@ vorgestellt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verkehrsunfälle
+:::{margin} Verkehrsunfälle
 - Fahrzeug
 - Teile im Fahrzeug
 - Patient
@@ -109,7 +109,7 @@ es Airbags gibt, die beim Aufprall ordnungsgemäß ausgelöst wurden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Unfälle mit Fahrzeugen
+:::{margin} Unfälle mit Fahrzeugen
 - Geschwindigkeit: Je schneller das Fahrzeug unterwegs war, desto
   schwerer die Verletzungen.
 - Aus dem Fahrzeug geschleudert: Risiko schwerer Verletzungen ↑↑↑
@@ -167,7 +167,7 @@ Weiters kann es zu Stößen durch im Fahrzeug herumfliegende Teile kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Frontal- und Heckzusammenstöße
+:::{margin} Frontal- und Heckzusammenstöße
 - Kraft von vorne bei
 
   - Frontalzusammenstoß und
@@ -221,7 +221,7 @@ Es gilt in beiden Fällen besonders zu beachten:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Seitenaufprall
+:::{margin} Seitenaufprall
 - Kraft von der Seite
 - Beachte Kopf- und Seitenairbags
 :::
@@ -260,7 +260,7 @@ angegeben:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Sturz aus großer Höhe
+:::{margin} Sturz aus großer Höhe
 - Fallhöhe
 - zuerst aufprallender Körperteil
 - Oberflächenbeschaffenheit des Bodens
@@ -298,7 +298,7 @@ Szeneüberblick an folgende Fragestellungen zu denken:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Stichverletzungen, Fremdkörper
+:::{margin} Stichverletzungen, Fremdkörper
 - Können harmlos aussehen, aber trotzdem lebensbedrohlich sein!
 - Fremdkörper nicht entfernen!
 - Fremdkörper mittels Verband sichern!

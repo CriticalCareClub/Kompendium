@@ -4,7 +4,7 @@
 
 # Allgemeines
 
-:::{sidebar} GI-Trakt
+:::{margin} GI-Trakt
 - Aufnahme der Nahrung
 - Verdauung der Nährstoffe und deren Resorption
 - Ausscheidung

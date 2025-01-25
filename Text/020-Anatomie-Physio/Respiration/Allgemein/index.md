@@ -9,7 +9,7 @@ Bei den *anatomischen Strukturen des Atemtraktes* kann man nach deren Aufgabe un
 
 Bei der Atmung kann man ebenfalls zwischen zwei Arten unterscheiden:
 
-:::{sidebar} Atmung Innere Atmung
+:::{margin} Atmung Innere Atmung
 
 - Zellatmung
 - Produktion von Stoffen als Energiespeicher

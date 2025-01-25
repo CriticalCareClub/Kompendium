@@ -22,7 +22,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 
 ::::{only} not nosidebar
 
-:::{sidebar} Neurocheck
+:::{margin} Neurocheck
 - Bewusstseinslage
 - Orientierung
 - Pupillen

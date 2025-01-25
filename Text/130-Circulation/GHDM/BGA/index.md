@@ -139,7 +139,7 @@ Als *orientierende Untersuchung* ist daher die isolierte Betrachtung der ScvO₂
 Die venöse Sättigung kann zentralvenös (große Hohlvenen über ZVK) oder **gemischtvenös** (Formelzeichen $\rm mv$, *Zusammenfluss* beider Hohlvenen: **rechter Vorhof** bzw. **rechte Kammer**) mittels eines {ref}`Pulmonalarterienkatheters <Pulmonalarterienkatheter>` gemessen werden.
 Dabei muss bedacht werden, dass das Einzugsgebiet der oberen und der unteren Hohlvene unterschiedliche Organe mit unterschiedlichem Sauerstoffbedarf versorgt (Hirn durch die obere Hohlvene, Stamm und untere Extremität durch die untere Hohlvene).
 
-:::{sidebar} ScvO₂ und SmvO₂
+:::{margin} ScvO₂ und SmvO₂
 Normal, in Ruhe: ScvO₂ < SmvO₂
 
 Schock: ScvO₂ > SmvO₂

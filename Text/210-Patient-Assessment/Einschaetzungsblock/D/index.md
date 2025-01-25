@@ -33,7 +33,7 @@ Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 
 ## Orientierung
 
-:::{sidebar} Orientierung
+:::{margin} Orientierung
 - Zur Person
 - Zeitlich
 - Örtlich
@@ -54,7 +54,7 @@ Man unterscheidet dabei die Orientierung zu:
 
 ## Glasgow Coma Scale (GCS)
 
-:::{sidebar} GCS
+:::{margin} GCS
 - 3—15 Punkte
 
   - Augenöffnung (4)
@@ -104,7 +104,7 @@ Zuckerstoffwechselstörungen.
 
 ## Hirndruckzeichen
 
-:::{sidebar} Hirndruckzeichen
+:::{margin} Hirndruckzeichen
 - ③ Bewusstseinsstörungen
 - ④ Übelkeit, Erbrechen
 - Ⓒ HF ↓, RR ↑

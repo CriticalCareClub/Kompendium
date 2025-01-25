@@ -13,7 +13,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Mechanische Atemwegsverlegung
+:::{margin} Mechanische Atemwegsverlegung
 - Verlegung durch Fremdkörper
 
 - Obere oder untere Atemwege möglich
@@ -67,7 +67,7 @@ um die Schwere einer Atemwegsverlegung einzuschätzen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Essensreste, Spielsachen, etc.
@@ -174,7 +174,7 @@ um die Schwere einer Atemwegsverlegung einzuschätzen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Spezielle Techniken
+:::{margin} Spezielle Techniken
 - Schläge zwischen Schulterblätter
 
 - Heimlich-Manöver

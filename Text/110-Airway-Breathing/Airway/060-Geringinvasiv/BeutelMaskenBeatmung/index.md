@@ -41,7 +41,7 @@ Selbstfüllender Beatmungsbeutel "Ambu Mark IV" mit Reservoir, O₂-Verbindungss
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-:::{sidebar} Bestandteile
+:::{margin} Bestandteile
 - Luftzuführventil
   - O₂-Leitung
   - Reservoir
@@ -113,7 +113,7 @@ Beatmungsmasken unterschiedlicher Größen: 0, 2,
 
 ## Technik der Beutel-Masken-Beatmung
 
-:::{sidebar} Beutel-Masken-Beatmung
+:::{margin} Beutel-Masken-Beatmung
 - Kopf überstrecken
 - CE-Griff
 - ca. **500 ml** über 1 s
@@ -155,7 +155,7 @@ Bilderserie: Die Technik der Beutel-Masken-Beatmung \[₢ Lena Hirtler  {term}`�
 :::{rubric} Gefahren
 :::
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 - Zu schnell, zu tief: Hyperventilation
 

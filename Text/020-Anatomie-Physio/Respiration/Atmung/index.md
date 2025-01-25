@@ -9,7 +9,7 @@
 
 ## Atemmechanik
 
-:::{sidebar} Atemmechanik
+:::{margin} Atemmechanik
 - Knöcherner Thorax und Pleurablätter
 - Atemmuskulatur: Zwerchfell, Zwischenrippenmuskeln
 - Atemhilfsmuskulatur
@@ -74,7 +74,7 @@ $$
 
 ::::{only} not nosidebar
 
-:::{sidebar} Der Atemzyklus
+:::{margin} Der Atemzyklus
 - Inspiration: Aktiv
 
   1. Aktive Bewegung
@@ -139,7 +139,7 @@ Die *Alveolarventilation* (Anteil der Atemluft für den eigentlichen Sauerstoffa
 
 ## Totraum
 
-:::{sidebar} Totraum
+:::{margin} Totraum
 - Totraum: Teil der Atemwege, der nicht am Gassaustausch teilnimmt
 - Von Nase bis zur vor Alveolen
 - {ref}`Schnappatmung <Schnappatmung>`
@@ -172,7 +172,7 @@ Insbesonder bei der {ref}`Schnappatmung <Schnappatmung>` kann genau dies passier
 
 ::::{only} not nosidebar
 
-:::{sidebar} Atemgase
+:::{margin} Atemgase
 - Raumluft
 - Atemgase: Sauerstoff und Kohlendioxid
 :::
@@ -212,7 +212,7 @@ und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als einge
 
 ## Gasaustausch
 
-:::{sidebar} Gasaustausch
+:::{margin} Gasaustausch
 - Gasaustausch: Kohlendioxid gegen Sauerstoff
 
 - Hindernisse: Alveolenwand, Blutgefäßwand
@@ -291,7 +291,7 @@ Störungen der Atemmechanik:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Steuerung der Atmung
+:::{margin} Steuerung der Atmung
 - Atemzentrum im Hirnstamm
 
 - Atemantrieb normalerweise durch *CO₂*
@@ -366,7 +366,7 @@ Die Rippen folgen der Atembewegung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Atemfrequenz, -tiefe, -volumen
+:::{margin} Atemfrequenz, -tiefe, -volumen
 
 AF
 : Atemfrequenz, *12—16 / min*
@@ -469,7 +469,7 @@ Als *Atemgrenzwert* wird das in einer Minute maximal ventilierbares Volumen (20-
 
 ::::{only} not nosidebar
 
-:::{sidebar} Voraussetzungen für die Atmung
+:::{margin} Voraussetzungen für die Atmung
 - Atemgas
 - Atemwege
 - Atemmechanik

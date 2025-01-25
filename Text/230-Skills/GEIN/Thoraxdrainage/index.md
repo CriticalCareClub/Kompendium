@@ -59,7 +59,7 @@ Je nach klinischer Indikation gibt es unterschiedliche Drainagesysteme und -tech
 
 Durch Erhöhung des transpleuralen Drucks, einer Lymphabflussstörung oder einer erhöhten Permeabilität des mesothelialen oder kapillären Endothels kann es zu zu Trans- bzw- Exsudaten kommen.
 
-:::{sidebar} Trans-, Exsudat
+:::{margin} Trans-, Exsudat
 
 **Transsudat**
   - Protein{sub}`[Pleura/Serum]` \< 0,5
@@ -364,7 +364,7 @@ Schema einer Pleuradrainage mit Wasserschloss
 
 ### Ventil- und Sammelsysteme
 
-:::{sidebar} Ventil- und Sammelsysteme
+:::{margin} Ventil- und Sammelsysteme
 - Heimlich-Ventil
 - 1 -- 4 Flaschen Systeme
 - Elektronische Systeme

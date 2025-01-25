@@ -7,7 +7,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Lungenödem
+:::{margin} Lungenödem
 - Flüssigkeitsansammlung im Zwischengewebsraum und in Alveolen der
   Lunge
 - Diffusion beeinträchtigt
@@ -67,7 +67,7 @@ beim kardialen Lungenödem kommt noch das begleitende Herz- und damit Kreislaufp
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Umgebung sicher? Chemikalien? Warnschilder?
@@ -174,7 +174,7 @@ SAMPLER: Lungenödem
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🄼
 
 : Zahlreich

@@ -19,7 +19,7 @@ oberhalb des Colon transversum,
 und einen Darmbauch, unterhalb des Colon transversum,
 unterteilt werden.
 
-:::{sidebar} Bauchfell (Peritoneum)
+:::{margin} Bauchfell (Peritoneum)
 - Auskleidung der gesamten Bauchhöhle
 - Dünner Überzug
 - Bewegung der Organe

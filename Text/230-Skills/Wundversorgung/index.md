@@ -26,7 +26,7 @@ Schädigung (Wundart) angeführt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Wunden
+:::{margin} Wunden
 - Mechanische Wunden
 - Thermische Wunden
 - Chemische Wunden
@@ -422,7 +422,7 @@ Desinfektion einer frischen Wunde
 
 ## Dekubitus und Dekubitusprophylaxe
 
-:::{sidebar} Dekubitus
+:::{margin} Dekubitus
 - Unfähigkeit der Lageänderung
 - besonders an prädestinierten Druckstellen
 - Betroffene: Bettlägrige, Bewusstlose, Intensivpatienten,

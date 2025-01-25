@@ -6,7 +6,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Sauerstoff
+:::{margin} Sauerstoff
 - Medizinischer Sauerstoff: Vollständig weiß
 
 - Gefahrengutaufkleber
@@ -261,7 +261,7 @@ aber auch bei der *Beatmung* zugeführt werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Berieselungseinheit
+:::{margin} Berieselungseinheit
 - Druckminderer
 - Regelventil
 - Flowmeter
@@ -429,7 +429,7 @@ sodass die Sauerstoffsättigung
 
 ::::{only} not nosidebar
 
-:::{sidebar} O₂-Zufuhr bei Beatmung
+:::{margin} O₂-Zufuhr bei Beatmung
 - Beamtungsbeutel:
 - O₂-*Verbindungsschlauch*
 - O₂-*Reservoir*

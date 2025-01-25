@@ -26,7 +26,7 @@ um nicht unnötig Zeit zu verlieren!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Traumacheck
+:::{margin} Traumacheck
 - Bewusstsein, Orientierung
 
 - Mund, Nase, Ohren

@@ -8,7 +8,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verteilungsräume
+:::{margin} Verteilungsräume
 - *I*ntra*Z*ellular*R*aum (IZR), 40% KG
 
 - *E*xtra*Z*ellular*R*aum (EZR), 20% KG
@@ -103,7 +103,7 @@ zwischen dem Zellinneren und der Umgebung kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Funktionen der Elektrolyte
+:::{margin} Funktionen der Elektrolyte
 - *Verschiebung von Wasser*
   zwischen den einzelnen Räumen
   (durch Osmose und Diffusion)
@@ -271,7 +271,7 @@ Zu solchen Verteilungsstörungen kann es z. B. nach einer Blutwäsche
 
 ::::{only} not nosidebar
 
-:::{sidebar} Flüssigkeitsverlust
+:::{margin} Flüssigkeitsverlust
 - *Ausscheidung*: Nieren
 
 - *Flüssigkeitsverlust*: Z. B.:

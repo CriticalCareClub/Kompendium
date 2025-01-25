@@ -2,7 +2,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Einleitung
+:::{margin} Einleitung
 - ERC-Leitlinien
 
 - verschiedene Formen:

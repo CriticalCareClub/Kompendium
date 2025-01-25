@@ -15,7 +15,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Atemstörungen
+:::{margin} Atemstörungen
 - Ateminsuffizienz ... nicht ausreichende Atmung
 - Hypoxie ... O₂-Mangel
 - Atemstillstand (Apnoe)
@@ -47,7 +47,7 @@ Atemnot.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahr der Ateminsuffizienz
+:::{margin} Gefahr der Ateminsuffizienz
 - O₂-Gehalt im Blut ↓ (Hypoxie)
 - CO₂-Gehalt im Blut ↑
 - Respiratorische Azidose
@@ -109,7 +109,7 @@ kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Befunde
+:::{margin} Befunde
 - Zyanose, Atemnot
 - Tachy-/Bradypnoe (AF \< 8 / min oder > 30 / min)
 - Atemtiefe (flach, tief, Schnappatmung)

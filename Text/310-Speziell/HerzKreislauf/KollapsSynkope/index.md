@@ -37,7 +37,7 @@ dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schwindel
 - Evtl. kurze Ohnmacht, Schwarzwerden vor Augen
 - RR ↓, evtl. Bradykardie oder Tachykardie

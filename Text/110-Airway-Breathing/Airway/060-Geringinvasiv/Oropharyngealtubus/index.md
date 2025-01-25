@@ -21,7 +21,7 @@ Erschwerend kann es durch Verletzungen zu Blutungen und damit wiederum zun einer
 {numref}`Fig-BS-GuedelTubusEinfuehren` zeigt das Einführen und die Lage des Guedel-Tubus.
 
 
-:::{sidebar} Video
+:::{margin} Video
 - https://www.youtube.com/watch?v=BR96naISIIY
 :::
 

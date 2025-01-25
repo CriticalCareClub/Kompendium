@@ -9,7 +9,7 @@
 
 ```
 
-:::{sidebar} Herz: Aufbau, Lage
+:::{margin} Herz: Aufbau, Lage
 - Hohlmuskel
 
 - Aufbau
@@ -39,7 +39,7 @@ Das Herz hat eine *mechanische* *Pump-* und eine *elektrische* *Koordinations-Fu
 
 ## Herzschichten
 
-:::{sidebar} Schichten
+:::{margin} Schichten
 - Endokard
 - Myokard
 - Epikard
@@ -80,7 +80,7 @@ Die **Blutversorgung** des Herzens erfolgt über mehrere **Koronararterien** (*H
 
 ## Herzklappen
 
-:::{sidebar} Herzklappen
+:::{margin} Herzklappen
 - 4 Stück, je 2 pro Seite:
 
   - Segelklappen: Vorhof → Kammer
@@ -159,7 +159,7 @@ Das Herz
 
 ## Elektrische Funktion: Reizbildungs- und -leitungssystem
 
-:::{sidebar} Elektrische Herzfunktion
+:::{margin} Elektrische Herzfunktion
 - Reizleitungssystem
 
 - Herzfrequenz, Pulsfrequenz (HF, PF; 60—100 / min)
@@ -192,7 +192,7 @@ allerdings mit einer langsameren Frequenz [^erregungsbildung]:
 [^erregungsbildung]: Jede der Stationen ist grundsätzlich zur eigenständigen Erregungsbildung fähig,
     sofern ihr nicht eine übergeordnete, schnellere, Etage zuvor kommt.
 
-:::{sidebar} Etagen des Reizleitungssystems
+:::{margin} Etagen des Reizleitungssystems
 - **Sinusknoten**: reguläres Schrittmacherzentrum,
   Frequenz beim Erwachsenen
   in Ruhe von ca. *60—100 / min*, bei Belastung steigerbar.
@@ -305,7 +305,7 @@ Wichtigste Herzvenen:
 
 ## Mechanische Pumpfunktion: Herzaktion
 
-:::{sidebar} Mechanische Herzfunktion
+:::{margin} Mechanische Herzfunktion
 - Auswurfphase (Systole)
 
 - Füllungsphase (Diastole)

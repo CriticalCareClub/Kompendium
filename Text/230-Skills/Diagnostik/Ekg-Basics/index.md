@@ -14,7 +14,7 @@ mit einem EKG-Gerät verbunden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} EKG: Zyklus
+:::{margin} EKG: Zyklus
 - P-Welle ≈ Vorhoferregung
 - PQ-Zeit ≈ AV-Überleitung
 - RS-Komplex ≈ Kammererregung
@@ -86,7 +86,7 @@ Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`
 
 ::::{only} not nosidebar
 
-:::{sidebar} EKG-Ableitungen
+:::{margin} EKG-Ableitungen
 - 6 Extremitätenableitungen
 
   - 4 Elektroden an den Extremitäten

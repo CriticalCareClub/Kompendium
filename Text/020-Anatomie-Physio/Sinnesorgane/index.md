@@ -16,7 +16,7 @@ Tränenapparat, äußere Augenmuskeln).
 
 ### Bulbus oculi (Augapfel)
 
-:::{sidebar} Das Auge
+:::{margin} Das Auge
 - Schichten des Auges:
 
   - {dfn}`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
@@ -253,7 +253,7 @@ Visuelle Funktionen werden in Untergruppen verteilt und parallel in
 
 ### Allgemeine Anatomie und Überblick
 
-:::{sidebar} Das Ohr
+:::{margin} Das Ohr
 - Gliederung des Ohres:
 
   - Außenohr: Ohrmuschel und äußerer Gehörgang
@@ -426,7 +426,7 @@ beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 *Leistenhaut* (an Hand- und Fußflächen) und eine *Felderhaut*
 (restlicher Körper) unterteilen.
 
-:::{sidebar} Aufgaben der Haut
+:::{margin} Aufgaben der Haut
 - Schutz vor äußeren Einflüssen
 
 - Schutz vor Wasserverlust/Austrocknung
@@ -493,7 +493,7 @@ Folgende Aufgaben soll sie also erfüllen:
 
 ### Schichten
 
-:::{sidebar} Schichten der Haut
+:::{margin} Schichten der Haut
 - *Oberhaut* (Epidermis)
 
   - Hornschicht, geschichtetes Plattenepithel

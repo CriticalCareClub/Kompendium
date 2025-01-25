@@ -88,7 +88,7 @@ Zahngewebe.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Skelett
+:::{margin} Skelett
 - Haltung
 - Ursprungs- und Ansatzfläche für Muskulatur
 - Kalziumspeicher
@@ -241,7 +241,7 @@ unterteilen.
 
 Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
 
-:::{sidebar} Knochenaufbau
+:::{margin} Knochenaufbau
 - Allgemein
 
   - Periost
@@ -319,7 +319,7 @@ Beim **Knochenmark** kann man
 rotes (blutbildendes) und gelbes (fettreiches) Knochenmark
 unterscheiden.
 
-:::{sidebar} Knochenmark
+:::{margin} Knochenmark
 **Rotes**
 
 - Bildung der zellulären Blutbestandteile:
@@ -388,7 +388,7 @@ Muskelzellen haben auch eine Funktion im Wärmehaushalt durch das
 *Muskelzittern*. Nach ihrem Aussehen kann man drei Muskelarten
 unterscheiden:
 
-:::{sidebar} Muskelarten
+:::{margin} Muskelarten
 - Quergestreifte Muskulatur
 - Glatte Muskulatur
 - Herzmuskulatur

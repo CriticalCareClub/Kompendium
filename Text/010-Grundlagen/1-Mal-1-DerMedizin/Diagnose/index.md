@@ -7,7 +7,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Diagnosen
+:::{margin} Diagnosen
 - Verdachtsdiagnose
 - Arbeitsdiagnose
 - Notfalldiagnose

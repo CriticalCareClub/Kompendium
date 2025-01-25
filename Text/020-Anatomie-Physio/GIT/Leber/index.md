@@ -4,7 +4,7 @@
 
 # Hepar (Leber)
 
-:::{sidebar} Leber
+:::{margin} Leber
 "Chemiefabrik" des Körpers
 
 - "Chemiefabrik":

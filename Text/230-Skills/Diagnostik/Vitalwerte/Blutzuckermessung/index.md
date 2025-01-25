@@ -8,7 +8,7 @@
 
 ## Interpretation und Normalwert
 
-:::{sidebar} Blutzucker, Interpretation
+:::{margin} Blutzucker, Interpretation
 - Abhängig von letzter Mahlzeit!
 - Normalwert: 80—100 mg / dL (nüchtern)
 - Bereich ohne Notfallsymptome: 60—200 mg / dL

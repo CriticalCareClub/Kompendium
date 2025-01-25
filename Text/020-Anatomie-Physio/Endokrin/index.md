@@ -221,7 +221,7 @@ Osteoklasten zum Knochenabbau und erhöht somit den Blutkalziumspiegel.
 
 ### Nebennieren (Glandula adrenalis / suprarenalis)
 
-:::{sidebar} Nebennieren
+:::{margin} Nebennieren
 - Mineralokortikoide: Aldosteron
 - Glukokortikoide: Kortisol
 - Verbindung veg. Nervensystem — Hormonsystem:

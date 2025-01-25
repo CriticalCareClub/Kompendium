@@ -22,7 +22,7 @@ als auch Weichteilverletzungen der darin liegenden Organe.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Instabiler Thorax
 - Evtl. Pneumothorax
 - Dyspnoe
@@ -62,7 +62,7 @@ Häufig kommt es auch zu Blutungen in den Thorax ({dfn}`Hämatothorax`).
 
 ::::{only} not nosidebar
 
-:::{sidebar} Pneumothorax
+:::{margin} Pneumothorax
 - Offener Pneumothorax
 - Geschlossener Pneumothorax
 - Spannungspneumothorax
@@ -192,7 +192,7 @@ Taktik
 
 ::::{only} not nosidebar
 
-:::{sidebar} Rippenfrakturen
+:::{margin} Rippenfrakturen
 - Stumpfe Gewalteinwirkung gegen Thorax
 
   - Gefahren:
@@ -232,7 +232,7 @@ kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerzen beim Einatmen
 - Evtl. Atemnot, Zyanose, Tachypnoe
 - Evtl. paradoxe Atmung
@@ -257,7 +257,7 @@ In diesem Fall herrscht höchste *Schockgefahr*.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Sternumfraktur
+:::{margin} Sternumfraktur
 - Aufprall des Brustkorbes
 - Schmerzen
 :::
@@ -273,7 +273,7 @@ Begleitverletzungen kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Pneumothorax
 - Herzverletzung
 - Herzbeuteltamponade
@@ -292,7 +292,7 @@ Herzens.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verletzung des Herzens und der großen Gefäße
+:::{margin} Verletzung des Herzens und der großen Gefäße
 - Aortenruptur
 - Herzkontusion
 - Herzbeuteltamponade

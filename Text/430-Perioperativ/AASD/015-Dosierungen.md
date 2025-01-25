@@ -46,7 +46,7 @@ Viele Arzneimittel werden unter dem gleichen Markennamen, aber mit deutlich unte
 
 ## Dosisrate
 
-:::{sidebar} Dosisrate
+:::{margin} Dosisrate
 
 - µg / kg / min: *\"Gamma\"*
 :::
@@ -57,7 +57,7 @@ Dosierungen für die Langzeitgabe von hochpotenten Medikamenten wie Opioide oder
 
 ## Flussrate
 
-:::{sidebar} Flussrate
+:::{margin} Flussrate
 
 - Flussrate [ml / h]:
 

@@ -22,7 +22,7 @@ bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hitzekollaps, Hitzeerschöpfung
+:::{margin} Hitzekollaps, Hitzeerschöpfung
 - Hitzekollaps:
 
   - Wärmestau
@@ -82,7 +82,7 @@ es wichtig den Patienten zu kühlen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hitzschlag, Sonnenstich
+:::{margin} Hitzschlag, Sonnenstich
 - Kopfschmerz, Schwindel, Erbrechen
 
 - Haut zunächst trocken, rot und heiß,
@@ -206,7 +206,7 @@ Bergungsversuches).
 
 ::::{only} not nosidebar
 
-:::{sidebar} Phasen
+:::{margin} Phasen
 - Kampfphase: 36,5—34°C
 - Erschöpfungsphase: 34—30°C
 - Kältenarkose: 30—27°C

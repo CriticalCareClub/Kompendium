@@ -33,7 +33,7 @@ Diese sind auch für den folgenden Punkt Ⓑ (Atmung) relevant.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Atemweg -- Befunde
+:::{margin} Atemweg -- Befunde
 - Frei, verlegt, gefährdet
 - Atemgeräusche: Pfeifen, Gurgeln, Schnarchen; Gestik
 :::

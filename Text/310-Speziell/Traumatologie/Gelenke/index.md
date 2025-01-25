@@ -31,7 +31,7 @@ Gewalteinwirkung reißen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerzen, Schwellung, Bluterguß (Hämatom)
 - Evtl. Bewegungseinschränkungen
 - Hörbares Schnalzen beim Bänderriss
@@ -97,7 +97,7 @@ Schultergelenk {term}`🗎 Gorgass 7`.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerzen, Schwellung, Bluterguss
 - Abnorme Gelenkstellung (federnd fixiert), bewegungsunfähig
 :::

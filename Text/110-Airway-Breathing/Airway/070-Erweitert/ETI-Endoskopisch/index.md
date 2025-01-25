@@ -54,7 +54,7 @@ Die FEI kann auch beim wachen Patienten in Lokalanästhesie bei erhaltener Spont
 
 ### Durchführung einer nasalen Wachintubation mit einem flexiblen Endoskop
 
-:::{sidebar} Video
+:::{margin} Video
 - [Thieme eRef: Fiberoptische Intubation](https://eref.thieme.de/cockpits/clAINS0001clNotauf0001/0/coAnae00033/4-2909)
 :::
 

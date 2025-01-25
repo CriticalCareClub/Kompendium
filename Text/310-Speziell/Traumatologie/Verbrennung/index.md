@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verbrennung, Verbrühung
+:::{margin} Verbrennung, Verbrühung
 - Verbrennung
 - Verbrühung
 - Verschiedene Schweregrade
@@ -63,7 +63,7 @@ werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Haut verliert Schutzfunktion
 - Verbrennungskrankheit, Schock
 - Ringförmige Brustkorbverbrennung: Atembehinderung
@@ -102,7 +102,7 @@ bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ausdehnung
+:::{margin} Ausdehnung
 - Handregel
 - Neunerregel
 :::
@@ -149,7 +149,7 @@ der Vebrennung abschätzen zu können.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verbrennungsgrade
+:::{margin} Verbrennungsgrade
 - 1°: Rötung, Schwellung, Schmerzen
 - 2°: Blasenbildung, Schmerzen
 - 3°: Schorfbildung, Verbrennungspanzer
@@ -247,7 +247,7 @@ wieder sich auszudehnen und dem Patienten damit zu atmen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Einschätzung
+:::{margin} Einschätzung
 - Ab 10% ≥ 2° → schwer
 - *Kinder*: *5%*
 :::
@@ -362,7 +362,7 @@ allmählich.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Inhalationstrauma
+:::{margin} Inhalationstrauma
 - Z. n. Gasexposition
 - Angebrannte Gesichtshaare
 - Geschwollene, rußige Lippen
@@ -415,7 +415,7 @@ Das volle Ausmaß wird oft erst nach Stunden erreicht!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Chemische Stoffe
+:::{margin} Chemische Stoffe
 - Ausfall der Schutzfunktion der Haut
 - Schmerzen
 - gefährliche Schockzustände

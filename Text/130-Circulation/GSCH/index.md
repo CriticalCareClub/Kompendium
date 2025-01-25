@@ -14,7 +14,7 @@ S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie https://register.aw
 
 
 
-:::{sidebar} Schock
+:::{margin} Schock
 - Lebensbedrohliche Kreislaufstörung
 - Kreislaufinsuffizienz
 :::

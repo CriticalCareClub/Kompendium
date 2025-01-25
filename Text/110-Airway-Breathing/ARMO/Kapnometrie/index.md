@@ -21,7 +21,7 @@
 
 # Kapnometrie
 
-:::{sidebar} Kapnometrie
+:::{margin} Kapnometrie
 - Kapnometrie: Kohlendioxid-Messung (CO₂)
 
 - etCO₂: endtidaler Kohlendioxidanteil
@@ -100,7 +100,7 @@ Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
 
 ## Beurteilung
 
-:::{sidebar} Beurteilung
+:::{margin} Beurteilung
 - 4—5% CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
 
 - Erniedrigt:

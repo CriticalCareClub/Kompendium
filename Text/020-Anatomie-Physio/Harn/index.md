@@ -23,7 +23,7 @@ Substanzen.
 
 ## Niere (Ren)
 
-:::{sidebar} Niere
+:::{margin} Niere
 - Paarig angelegtes, bohnenförmiges Organ
 - Rückenwärts bds. der Wirbelsäule,
   Höhe der unteren Rippenpaare
@@ -62,7 +62,7 @@ Die Nieren
 ₢ WmCo/Mikael Häggström and Madhero88 ℓ PD
 :::
 
-:::{sidebar} Niere, Aufgaben
+:::{margin} Niere, Aufgaben
 - Stark durchblutet, empfindlich auf RR- Abfall →
 - reguliert
 - *Wasser-* und *Elektrolythaushalt*
@@ -201,7 +201,7 @@ Der *Endharn* enthät 95% Wasser und gelöste Stoffe:
 
 ## Harnwege
 
-:::{sidebar} Harntrakt
+:::{margin} Harntrakt
 - Nieren inkl. Nierenbecken
 - je 1 Harnleiter (Ureter), 30 cm lang, mündet in die
 - Blase

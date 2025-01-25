@@ -4,7 +4,7 @@
 
 # Rechtliche Grundlagen im Land der 10 Gesetzgeber
 
-:::{sidebar} Präklinische Notfallmedizin im Land der 10 Gesetzgeber
+:::{margin} Präklinische Notfallmedizin im Land der 10 Gesetzgeber
 
 - Gesundheitswesen: Geteilte Zuständigkeiten Bund, Länder
 - Krankenanstalten:
@@ -35,7 +35,7 @@ Private Organisationen nehmen im Rahmen eines Rettungsbundes im Auftrag des Magi
 
 Wesentliche rechtliche Grundlagen sind hierbei:
 
-:::{sidebar} Rechtliche Grundlagen
+:::{margin} Rechtliche Grundlagen
 
 Krankenanstalten:
 : - Bundesgesetz über Krankenanstalten und Kuranstalten (KAKuG)

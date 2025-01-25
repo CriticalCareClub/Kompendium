@@ -4,7 +4,7 @@
 
 # Zentrales Nervensystem (ZNS)
 
-:::{sidebar} ZNS
+:::{margin} ZNS
 - Aufnahme und Verarbeitung von äußeren und inneren Reizen
 
 - Bewusstsein
@@ -47,7 +47,7 @@ des ZNS.
 
 ## Encephalon (Gehirn)
 
-:::{sidebar} Gehirn & verlängertes Rückenmark
+:::{margin} Gehirn & verlängertes Rückenmark
 - Großhirn
 
   - Bewusstes Denken
@@ -298,7 +298,7 @@ Hirnstamms. Es ist wichtig für den Zustand der *Bewustseinslage*.
 
 ## Rückenmark
 
-:::{sidebar} Rückenmark
+:::{margin} Rückenmark
 - Weiterleitung von Impulsen (Leitungsbahnen)
 - Vom Rückenmark gehen die peripheren Nerven aus
 - (Muskeleigen-)Reflexe

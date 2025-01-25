@@ -55,7 +55,7 @@ suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 
 ::::{only} not nosidebar
 
-:::{sidebar} Weitere Verletzungsbilder
+:::{margin} Weitere Verletzungsbilder
 - Muskelzerrung
 - Muskelfaserriss
 - Achillessehnenriss

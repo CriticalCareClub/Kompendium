@@ -29,7 +29,7 @@ man spricht andernfalls vom *Pulsdefizit*.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Messung der Pulsfrequenz
+:::{margin} Messung der Pulsfrequenz
 - Herzfrequenz, Pulsfrequenz
 - Radialarterie (A. *radialis*)
 - Halsschlagader (A. *carotis*)
@@ -52,7 +52,7 @@ Gehirns mit Blut kommen kann.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Durchführung
+:::{margin} Durchführung
 - 15 s
 - 2—3 Finger (nicht der Daumen!)
 - Mit 4 multiplizieren

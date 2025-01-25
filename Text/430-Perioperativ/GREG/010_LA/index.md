@@ -91,7 +91,7 @@ Als **Differenzialblock** bezeichnet man die unterschiedliche Blockierung der ve
 
 ## Chemischer Aufbau
 
-:::{sidebar} Aufbau
+:::{margin} Aufbau
 - Aromatische Gruppe (lipohiler Teil)
 - Zwischengruppe (Amid oder Ester)
 - Aminogruppe (hydrophiler Teil)
@@ -204,7 +204,7 @@ Im entzündlichen Milieu ist ein Lokalanästhetikum aufgrund des sauren Umgebung
 
 ### Physikochemische Eigenschaften
 
-:::{sidebar} Eigenschaften
+:::{margin} Eigenschaften
 - Lipidlöslichkeit: Wirkungseintritt ↓, Wirkungsdauer ↑, 	Anästhetische Potenz ↑
 - Wasserlöslichkeit
 - pK Wert
@@ -227,7 +227,7 @@ Dazu gehören:
 
 
 
-:::{sidebar} Eigenschaften 2
+:::{margin} Eigenschaften 2
 
 - Schnelle Penetration durch Nervenzellmembran (nicht ionisierte Form): Schneller Wirkeintritt
 - Hohe intrazelluläre Konzentration der ionisierten Form: Gute Wirksamkeit

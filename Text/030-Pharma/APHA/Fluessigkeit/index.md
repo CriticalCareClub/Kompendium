@@ -85,7 +85,7 @@ Hauptverantwortlicher ist das Albumin.
 
 ### Kristalloide
 
-:::{sidebar} Kristalloide
+:::{margin} Kristalloide
 
 - Kristalloide
 - Vollelektrolytlösungen

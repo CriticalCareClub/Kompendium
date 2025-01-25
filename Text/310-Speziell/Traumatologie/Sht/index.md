@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Schädel-Hirn-Trauma (SHT)
+:::{margin} Schädel-Hirn-Trauma (SHT)
 - Leitsymptom: *Bewusstseinsstörung*.
 
 - Arten:
@@ -35,7 +35,7 @@ es zu Bewusstseinsstörungen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SHT: Begleitende Verletzungen
+:::{margin} SHT: Begleitende Verletzungen
 - HWS-Verletzung
 - Rissquetschwunden
 - Frakturen
@@ -63,7 +63,7 @@ Untersuchung* ist daher bei jedem SHT Pflicht!
 
 ::::{only} not nosidebar
 
-:::{sidebar} SHT: Gefahren
+:::{margin} SHT: Gefahren
 - **Luzides Intervall**
 
   - Symptome erst Stunden nach Verletzung
@@ -137,7 +137,7 @@ des Patientenzustandes führen!
 
 ::::{only} not nosidebar
 
-:::{sidebar} SHT: Spezielle Diagnostik
+:::{margin} SHT: Spezielle Diagnostik
 - Neurologische Beurteilung wichtig!
 
   - Bewusstseinsstörungen können andere Ursachen haben!
@@ -281,7 +281,7 @@ Grade eingeteilt:
 
 ::::{only} not nosidebar
 
-:::{sidebar} SHT: Grade
+:::{margin} SHT: Grade
 - *Gehirnerschütterung – 1*
 
   - Bewusstlosigkeit / Bewusstseinstrübung \< 1 h

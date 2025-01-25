@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beschreibung und Ursachen
+:::{margin} Beschreibung und Ursachen
 - verminderte Blutflussgeschwindigkeit oder Rückstau
 - Flüssige Blutbestandteile ↓
 - Gesteigerte bzw. krankhafte Neigung
@@ -32,7 +32,7 @@ fehlende Bewegung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} ABCDE
+:::{margin} ABCDE
 ①
 
 : Bettlägrigkeit, stattgehabte Reisen
@@ -76,7 +76,7 @@ fehlende Bewegung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 
 : Siehe ABCDE
@@ -160,7 +160,7 @@ fehlende Bewegung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahr
+:::{margin} Gefahr
 - Lösung des Thrombus → *Lungenembolie*
 :::
 ::::

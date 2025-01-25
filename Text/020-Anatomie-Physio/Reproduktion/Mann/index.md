@@ -239,7 +239,7 @@ während der Entwicklung zustande (von innen nach außen):
 
 ## Penis (männliches Glied)
 
-:::{sidebar} Penis
+:::{margin} Penis
 - Schwellkörper - bestehend aus zwei Teilen
 - Vorhaut - Eichel
 - Erektion vs. Ejakulation

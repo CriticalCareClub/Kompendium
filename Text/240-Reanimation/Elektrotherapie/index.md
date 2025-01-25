@@ -60,7 +60,7 @@ Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstelle
 
 ::::{only} not nosidebar
 
-:::{sidebar} Defibrillatoren
+:::{margin} Defibrillatoren
 - Halbautomatische Defibrillatoren (AED)
 - Manuelle Defibrillatoren
 - Automatische implantierbare Defibrillatoren
@@ -148,7 +148,7 @@ Multifunktionsmonitor mit integriertem Defibrillator
 
 ::::{only} not nosidebar
 
-:::{sidebar} Herzrhythmen
+:::{margin} Herzrhythmen
 - schockbare Rhythmen
 
   - Kammerflimmern
@@ -331,7 +331,7 @@ Allgemein lässt sich jedoch sagen:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Defibrillator, Verwendung
+:::{margin} Defibrillator, Verwendung
 - Verwenden gem. Bedienungsanleitung!
 
 - Positionierung

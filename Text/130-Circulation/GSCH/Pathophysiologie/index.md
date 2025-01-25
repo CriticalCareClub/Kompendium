@@ -128,7 +128,7 @@ Bei einem kritischen DO₂-Wert (~600 ml/min) ist das VO₂ nicht länger garan
 
 ## Kompensation, Dekompensation
 
-:::{sidebar} Kompensation, Dekompensation
+:::{margin} Kompensation, Dekompensation
 - Gegensteuerung (*Kompensation*)
 - Sympathikus (*"Fight!"*)
 - Zentralisation
@@ -163,7 +163,7 @@ Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 
 ## Allgemeine Schocksymptomatik
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Stadienabhängig
 - {ref}`Tafel-Schocksymptomatik`
 :::
@@ -239,7 +239,7 @@ Nach dem Schockindex zu behandeln, ist wie den Airbag aufzublasen, wenn bereits 
 :::
 ````
 
-:::{sidebar} Schockschere
+:::{margin} Schockschere
 - RR{sub}`syst`\< HF
 - Dann bereits *schwerer* Schock
 - Spätzeichen, auch ohne Schockschere kann Schock bestehen.

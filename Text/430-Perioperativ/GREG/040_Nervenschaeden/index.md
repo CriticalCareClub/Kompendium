@@ -9,7 +9,7 @@ Perioperative Nervenschäden sind häufig, aber auch nicht kausal durch die Regi
 Tritt ein Verdacht auf eine durch Regionalanästhesie verursachte Nervenschädigung auf, so ist die durchführende Abteilung zu verständigen.
 
 
-:::{sidebar} Rascher Ausschluss reversibler Ursachen
+:::{margin} Rascher Ausschluss reversibler Ursachen
 
 - Kompartment/zu enger Verband
 - Ausschluss Hämatom
@@ -51,7 +51,7 @@ Bei Verdacht auf Infektion im Rahmen eines Katheters muss der Katheter raschest 
 
 ## Infektion bei Neuroaxialen Kathetern
 
-:::{sidebar} Infektionszeichen neuroaxialer Katheter
+:::{margin} Infektionszeichen neuroaxialer Katheter
 
 lokal:
 - Rötung, Schwellung, schmerzhafte Palpation, Überwärmung
@@ -77,7 +77,7 @@ Achte auf Infektionszeichen:
 
 ### Neuroaxiale Infektion
 
-:::{sidebar} Neuroaxiale Infektion
+:::{margin} Neuroaxiale Infektion
 
 - Anästhesie verständigen
 - Katheter entfernen
@@ -101,7 +101,7 @@ Eine **Liquor-Untersuchung**, **Notfall-MRT** (Ausschluss eines spinalen oder ep
 
 ## Epidurales Hämatom
 
-::::{sidebar} Epidurales Hämatom
+::::{margin} Epidurales Hämatom
 
 **Risiko:**
 - Antikoagulation, Gerinnungsstörung

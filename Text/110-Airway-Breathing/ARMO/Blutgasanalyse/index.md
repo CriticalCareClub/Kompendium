@@ -294,7 +294,7 @@ Die Aussagekraft hinsichtlich der Respiration der BGA:
 
 #### Horovitz-Quotient
 
-:::{sidebar} Horowitz-Quotient
+:::{margin} Horowitz-Quotient
 $$
 \rm \frac{p_{a}O_2 [mm\,Hg]}{FiO_2}
 $$

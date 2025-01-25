@@ -24,7 +24,7 @@ aufgestecktem PEEP-Ventil
 
 ## Betamungsbeutel / Bestandteile
 
-:::{sidebar} Beatmungsbeutel / Bestandteile
+:::{margin} Beatmungsbeutel / Bestandteile
 - Luftzuführventil
 
   - O₂-Leitung
@@ -99,7 +99,7 @@ Bedeutung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hygienische Wiederaufbereitung
+:::{margin} Hygienische Wiederaufbereitung
 - Ein- und Mehrwegprodukte
 - Ggfs. Desinfektion gem. Hygieneplan
 :::
@@ -113,7 +113,7 @@ Die Herstellerhinweise sind zu beachten.
 
 ## Technik der Beutel-Masken-Beatmung
 
-:::{sidebar} Beutel-Masken-Beatmung
+:::{margin} Beutel-Masken-Beatmung
 - Kopf überstrecken
 - C-Griff
 - ca. **500 ml** über 1 s

@@ -10,7 +10,7 @@ ohne Rückenmarkschädigung führt {term}`🗎 Gorgass 7`.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Typische Unfallmechanismen
+:::{margin} Typische Unfallmechanismen
 - Hochgeschwindigkeitsunfall
 - Sturz ≥ 3-fache Patientengröße bzw- > 3 m
 - Penetrierende Verletzungen im Bereich der Wirbelsäule
@@ -50,7 +50,7 @@ ohne Rückenmarkschädigung führt {term}`🗎 Gorgass 7`.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Schleudertrauma, Peitschenschlagsyndrom
+:::{margin} Schleudertrauma, Peitschenschlagsyndrom
 - Auffahrunfall
 - Zerrung des Halsmarks
 :::
@@ -66,7 +66,7 @@ Ausfälle (in schweren Fällen) bemerkbar macht.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Querschnittssyndrom
+:::{margin} Querschnittssyndrom
 - Ausfall von Motorik und/oder Sensibilität
 - Blutdruckabfall
 - Schlaffe oder spastische Lähmung der Extremitäten
@@ -91,7 +91,7 @@ unbedingt notwendig. Es können folgende Symtome auftreten:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Spinaler Schock
+:::{margin} Spinaler Schock
 - Querschnittslähmung
 - Fehlender Gefäßregulation
 - Atemlähmungen (bei hohem Querschnitt (im Bereich der HWS))

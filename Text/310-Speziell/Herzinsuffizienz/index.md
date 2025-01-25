@@ -16,7 +16,7 @@ Es sind viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind 
 
 ## Einteilung
 
-:::{sidebar} Einteilung
+:::{margin} Einteilung
 - Herzteil:
 
   - *Rechts*herzinsuffizienz
@@ -70,7 +70,7 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 ## ABCDE
 
 
-:::{sidebar} ABCDE
+:::{margin} ABCDE
 ②
 : Blass, evtl. kaltschweißig. Evtl. agitiert
 
@@ -167,7 +167,7 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 ## SAMPLER
 
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 : Viele
 

@@ -2,7 +2,7 @@
 
 Syn: *Gravidität*
 
-:::{sidebar} Schwangerschaft
+:::{margin} Schwangerschaft
 - 40 ± 2 Schwangerschaftswochen (SSW)
 - 3 Trimester
 - Frühgeburt: bis 37. SSW

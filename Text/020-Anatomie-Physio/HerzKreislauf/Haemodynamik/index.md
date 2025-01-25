@@ -57,7 +57,7 @@ Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert werden. Durch
 
 ## Blutdruck
 
-:::{sidebar} Blutdruck
+:::{margin} Blutdruck
 - systolischer :
   Maximaldruck in der Arterie am Höhepunkt der Kammerkontraktion (Systole)
 - diastolischer:

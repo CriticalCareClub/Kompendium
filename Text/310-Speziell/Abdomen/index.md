@@ -12,7 +12,7 @@ gefährlich oder können rasch gefährlich werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bauch
+:::{margin} Bauch
 - Stuhl
 - Wann letzter?
 - Auffälligkeiten
@@ -230,7 +230,7 @@ gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Appendizitis
+:::{margin} Appendizitis
 - Schmerzen im re. Unterbauch
 - *Druck*schmerzen im re. Unterbauch
 - *Loslass*schmerz li. Bauch
@@ -292,7 +292,7 @@ kommt zu starken Dehnungsschmerzen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gallenkolik
+:::{margin} Gallenkolik
 - Verstopfung der Gallenwege (Stein)
 - Rückstau und Dehnung
 - Kolikartiger Schmerz
@@ -311,7 +311,7 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Kolikartige Schmerzen im re. Oberbauch
 - Nach fettreichen Mahlzeiten
 - Evtl. Gelbfärbung des Augenweiß (Gelbsucht)
@@ -370,7 +370,7 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
 ::::{only} not nosidebar
 
-:::{sidebar} GI-Blutung
+:::{margin} GI-Blutung
 - Oberer Teil: Ösophagusvarizen
 
   (Oft bei Lebererkrankungen, hoher Blutverlust möglich)
@@ -397,7 +397,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Oberer Teil: Erbrechen von
 
   - Blut im Schwall
@@ -441,7 +441,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ursachen
+:::{margin} Ursachen
 - Vielfältig
 - Häufig Infektionen
 :::
@@ -464,7 +464,7 @@ Austrocknung
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symtome
+:::{margin} Symtome
 - Erbrechen
 - Durchfall
 - Bauchschmerzen
@@ -508,7 +508,7 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Exsikkose
+:::{margin} Exsikkose
 - Mangel an Flüssigkeit
 
   > - Flüssigkeitszufuhr ↓
@@ -546,7 +546,7 @@ vielen Möglichkeiten.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symtome
+:::{margin} Symtome
 - RR ↓
 - stehende Hautfalten
 - trockene, belegte Zunge
@@ -579,7 +579,7 @@ zur Klärung der Situation nüchtern zu belassen!*
 
 ::::{only} not nosidebar
 
-:::{sidebar} Magen- und Zwölffingerdarmgeschwür
+:::{margin} Magen- und Zwölffingerdarmgeschwür
 - Bakteriell
 - Medikamente
 - Chemisch-toxisch
@@ -618,7 +618,7 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerzen (Oberbauch), Übelkeit, Erbrechen
 - Kaffeesatz-artiges Erbrechen, Teerstuhl
 :::
@@ -648,7 +648,7 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Pankreatitis
+:::{margin} Pankreatitis
 - Gallensteinleiden
 - Alkoholmißbrauch
 - …
@@ -677,7 +677,7 @@ an-/verdaut.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Oberbauchschmerzen, oft gürtelförmig
 - Übelkeit, Erbrechen
 - Fieber
@@ -693,7 +693,7 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Verlauf
+:::{margin} Verlauf
 - Ruptur
 - Akutes Abdomen
 - Septischer Schock
@@ -748,7 +748,7 @@ Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* {index}` <Vorhoff
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Abdominalschmerzen
 - Übelkeit, Erbrechen
 - \~ 6 h stilles Intervall
@@ -794,7 +794,7 @@ Stuhlabgängen* kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Peritonitis
+:::{margin} Peritonitis
 - Entzündung bzw. Infektion des Bauchfells
 :::
 ::::
@@ -813,7 +813,7 @@ Entzündungsreaktion.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ursachen
+:::{margin} Ursachen
 - Perforation eines Hohlorganes
 - Infektion über Blut- / Lymphwege oder eingewandert über Fremdkörper
 :::
@@ -826,7 +826,7 @@ Entzündungsreaktion.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symtpome
+:::{margin} Symtpome
 - Symptome eines Akuten Abdomens
 - Schmerzen (diffus)
 - Evtl. reflektorischer Darmverschluss

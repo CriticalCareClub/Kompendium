@@ -33,7 +33,7 @@ oder Dokumentationen anderer Gesundheitseinrichtungen
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 - 🅂ymptome und Schmerzen
 - 🄰llergien
 - 🄼edikamente
@@ -504,7 +504,7 @@ sind erfunden.)
 
 ::::{only} not nosidebar
 
-:::{sidebar} 🄻 Letzte(r) …
+:::{margin} 🄻 Letzte(r) …
 - Mahlzeit?
 - Stuhlgang?
 - Regelblutung?
@@ -561,7 +561,7 @@ oder Zeugen befragen:
 
 ::::{only} not nosidebar
 
-:::{sidebar} 🅁 Risikofaktoren
+:::{margin} 🅁 Risikofaktoren
 - Begünstigen Erkrankungen
 
 - Z. B.:

@@ -13,7 +13,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} COPD
+:::{margin} COPD
 - Husten mit Auswurf, anfänglich "Raucherhusten"
 
 - Voranschreitende, sich verschlechternde *Ateminsuffizienz*:
@@ -79,7 +79,7 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 
 ::::{only} not nosidebar
 
-:::{sidebar} COPD und O₂
+:::{margin} COPD und O₂
 - Atemantrieb normalerweise durch **CO₂**-Spiegel
 - COPD: CO₂-Spiegel dauerhaft erhöht →
   Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
@@ -137,7 +137,7 @@ kann.
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Kalte Umgebung
@@ -241,7 +241,7 @@ kann.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🄼
 
 : Inhalatoren, evtl. Heimsauerstoff.

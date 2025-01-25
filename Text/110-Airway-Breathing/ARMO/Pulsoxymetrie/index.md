@@ -33,7 +33,7 @@ Die so ermittelte Sauerstoffsättigung wird als fraktionelle Sauerstoffsättigun
 
 ## Gerätearten
 
-:::{sidebar} Gerätearten
+:::{margin} Gerätearten
 - Fingerclip-Geräte
 - Handpulsoxymeter
 - Funktionsmodul eines Überwachungsmonitors
@@ -83,7 +83,7 @@ Pulsoxymetrie: Eine ausreichende Blutversorgung der Körperstelle, an der der Se
 
 ## Beurteilung
 
-:::{sidebar} Beurteilung
+:::{margin} Beurteilung
 - Normalwert: 96—100%
 - chronisch lungenkranke Patient:
   auch Werte \< 90% möglich ohne Beschwerden
@@ -102,7 +102,7 @@ Es ist wichtig zu wissen dass sich die SpO₂ bei Vorliegen einer Atemstörung e
 
 ## Fehlerquellen
 
-:::{sidebar} Gefahren, Fehlerquellen
+:::{margin} Gefahren, Fehlerquellen
 - CO-Vergiftungen (falsch hohe Werte)
 - Minderdurchblutung der Peripherie;
   Entweder durch Zentralisation beim

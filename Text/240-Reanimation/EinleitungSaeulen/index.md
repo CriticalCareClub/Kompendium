@@ -38,7 +38,7 @@ in eigenen Kapiteln behandelt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} ERC
+:::{margin} ERC
 - Leitlinien zur Reanimation
 - Aktualisierung alle 5 Jahre
 - Aktuelle Version: 2020/2021

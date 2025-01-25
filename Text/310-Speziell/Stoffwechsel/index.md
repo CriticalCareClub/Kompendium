@@ -54,7 +54,7 @@ Werten zwischen 60 und 200 mg / dL keine Notfallsymptome auftreten. (Herol
 
 ::::{only} not nosidebar
 
-:::{sidebar} Insulin
+:::{margin} Insulin
 - Insulin senkt den Blutzuckerspiegel.
 :::
 ::::
@@ -81,7 +81,7 @@ Insulins sind zwei Störungen häufig:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Diabetes Typen
+:::{margin} Diabetes Typen
 - Typ I
 
   - Insulinproduktion gestört
@@ -134,7 +134,7 @@ Typen des Diabetes mellitus:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Diabetes Folgeschäden
+:::{margin} Diabetes Folgeschäden
 - Gefäßschäden (Herz, Hirn, Nieren, Extremitäten, …)
 - Nervenschäden
 - **Cave "Stummer Infarkt"!**
@@ -178,7 +178,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hypoglykämie
+:::{margin} Hypoglykämie
 - Zu viel Insulin (spritzen ohne zu essen)
 - Fasten (spritzen ohne zu Essen)
 - Besondere Anstrengungen, Begleiterkrankungen, insb. Infekte
@@ -202,7 +202,7 @@ Petrides 2003).
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Unruhe, Zittern, Schweißausbruch
 
 - Aggressives Verhalten, unkooperativ
@@ -276,7 +276,7 @@ aufgrund der Aspirationsgefahr nichts mehr essen).
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hyperglykämie
+:::{margin} Hyperglykämie
 - Beurteile nicht nur den Messwert, sondern immer auch den Zustand
   des Patienten.
 :::
@@ -299,7 +299,7 @@ Blutzuckerwert bereits im Koma liegen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Auswirkungen
+:::{margin} Auswirkungen
 - Störung des Wasser- und Elektrolythaushaltes
 
   - Umverteilung
@@ -320,7 +320,7 @@ hineinzubekommen – es entsteht ein *Nährstoffmangel*.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ursachen
+:::{margin} Ursachen
 - Erstmanifestation eines DM Typ I
 - Diätfehler
 - Insulinzufuhr ↓
@@ -345,7 +345,7 @@ hier der Insulinbedarf steigt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Durstgefühl
 
 - Vermehrte Harnproduktion

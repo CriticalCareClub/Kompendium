@@ -82,7 +82,7 @@ unterscheiden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Brady-, Tachykardie
+:::{margin} Brady-, Tachykardie
 - Bradykardie:  zu langsam
 - Tachykardie:  zu schnell
 :::
@@ -177,7 +177,7 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 ### Extrasystolen
 
-:::{sidebar} Extrasystolen
+:::{margin} Extrasystolen
 - Extraschläge
 - Vereinzelt od. gehäuft, evtl. "salvenartig"
 - Unterschiedliche Auswirkungen auf Kreislauf:
@@ -209,7 +209,7 @@ können sie auch lebensbedrohlich sein.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vorhofflimmern
+:::{margin} Vorhofflimmern
 - Flimmern im *Vorhof*
 - Häufige und oft chronische Erkrankung
 - Thrombenbildung, Tachykardieanfälle

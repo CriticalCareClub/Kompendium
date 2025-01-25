@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Peripherer arterieller gefäßverschluss
+:::{margin} Peripherer arterieller gefäßverschluss
 - Verschluß eines blut*zuführenden* Gefäßes
 - Chronische Gefäßschädigung,
   z. B. Bei Diabetes mellitus, Hypertonie …
@@ -41,7 +41,7 @@ verschlossen, sondern nur verengt!)
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Schmerz
 - Blässe
 - Kein Puls
@@ -62,7 +62,7 @@ empfinden (*"Ameisenlaufen"*). [^footnote-1] (Lähmung).
 
 ::::{only} not nosidebar
 
-:::{sidebar} ABCDE
+:::{margin} ABCDE
 ②
 
 : Schmerzen, Schonhaltung
@@ -104,7 +104,7 @@ empfinden (*"Ameisenlaufen"*). [^footnote-1] (Lähmung).
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 
 : ABCDE

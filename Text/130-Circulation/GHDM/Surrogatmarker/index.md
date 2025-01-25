@@ -3,7 +3,7 @@
 
 # Das Konzept der *Surrogatmarker*
 
-:::{sidebar} Surrogatmarker
+:::{margin} Surrogatmarker
 = ersatzweise eingesetzte Messgrößen
 :::
 

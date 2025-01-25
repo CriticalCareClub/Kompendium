@@ -5,7 +5,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Asthma bronchiale
+:::{margin} Asthma bronchiale
 Wiederholte Anfälle von Atemnot durch
 
 - Verengte Bronchien
@@ -59,7 +59,7 @@ Notarztnachforderung und Monitoring.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Status asthmaticus
+:::{margin} Status asthmaticus
 - Lebensgefährliche Komplikation
 - Anfall hört nicht mehr auf
 :::
@@ -77,7 +77,7 @@ Der Status asthmaticus kann tödlich enden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} 1234ABCDE
+:::{margin} 1234ABCDE
 ①
 
 : Kälte, Allergene
@@ -188,7 +188,7 @@ Der Status asthmaticus kann tödlich enden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🄰
 
 : Gräser, Pollen, Tierhaare, …

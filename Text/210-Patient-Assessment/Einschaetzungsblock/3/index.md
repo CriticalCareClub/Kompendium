@@ -2,7 +2,7 @@
 
 # ③ Bewusstsein (Alertness)
 
-:::{sidebar} Bewusstsein (Alertness)
+:::{margin} Bewusstsein (Alertness)
 - Vitalfunktion 1. Ordnung
 
 - Überlebenswichtig
@@ -50,7 +50,7 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 % Ausnahmweise erhalten
 
-:::{sidebar} Bewusstseinsgrade — WASB
+:::{margin} Bewusstseinsgrade — WASB
 - Wach *klar*
 - Ansprache *somnolent*
 - Schmerzreiz *soporös*
@@ -144,7 +144,7 @@ vgl. {ref}`Table-Wasb`.
 
 ## Bewusstseinskontrolle
 
-:::{sidebar} Bewusstseinskontrolle
+:::{margin} Bewusstseinskontrolle
 - Ansprechen
 
   - Berühren

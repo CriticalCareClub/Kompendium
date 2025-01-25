@@ -4,7 +4,7 @@
 
 # Mundhöhle (Cavitas oris)
 
-:::{sidebar} Mundhöhle
+:::{margin} Mundhöhle
 - Zähne: Nahrungszerkleinerung
 - Speicheldrüsen
 - Zunge: Nahrungsfortbewegung, Kehldeckelverschluss

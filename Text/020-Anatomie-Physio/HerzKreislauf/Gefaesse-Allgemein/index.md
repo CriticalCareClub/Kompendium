@@ -2,7 +2,7 @@
 
 # Gefäße
 
-:::{sidebar} Blutgefäßarten
+:::{margin} Blutgefäßarten
 - Arterien
 - Venen
 - Kapillaren
@@ -62,7 +62,7 @@ jugularis interna und V. subclavia wieder in das Venensystem.
 
 ## Sonderfall: Shunt
 
-:::{sidebar} Dialyseshunt
+:::{margin} Dialyseshunt
 - Künstliche Verbindung Arterie – Vene
 - Dialyse
 - **Verletzlich**
@@ -176,7 +176,7 @@ Kreislauf- und Blutdruck-*Regulation*:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Kreislauf
+:::{margin} Kreislauf
 - Rechter Vorhof
 - Segelklappe
 - Rechte Herzkammer

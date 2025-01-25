@@ -17,7 +17,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ösophagus
+:::{margin} Ösophagus
 - \~ 25 cm langer Muskelschlauch
 - Nahrung: Rachen → Magen
 - Keine Verdauung

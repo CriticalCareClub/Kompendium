@@ -49,7 +49,7 @@ Ursachen haben:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Folgen und Symptome
+:::{margin} Folgen und Symptome
 - Aussetzen des Herzschlages → sofort pulslos!
 - Bewusstlosigkeit nach 15—20 s
 - Atemstillstand/Schnappatmung nach ca. 10 s

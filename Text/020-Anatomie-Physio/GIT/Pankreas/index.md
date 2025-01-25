@@ -7,7 +7,7 @@
 
 # Pancreas (Bauchspeicheldrüse)
 
-:::{sidebar} Pankreas / Aufgaben
+:::{margin} Pankreas / Aufgaben
 - Produktion von
 
   - Verdauungsenzymen

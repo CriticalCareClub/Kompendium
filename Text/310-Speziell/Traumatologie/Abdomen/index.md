@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bauch- und Beckentrauma
+:::{margin} Bauch- und Beckentrauma
 - Offenes (perforierendes) Bauchtrauma
 - Geschlossenes (stumpfes) Bauchtrauma
 :::
@@ -35,7 +35,7 @@ verbunden sein.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Offenes Bauchtrauma
+:::{margin} Offenes Bauchtrauma
 - Austritt von Darmschlingen
 - unterschiedlich schwere Organschäden
 - innere Blutungen
@@ -110,7 +110,7 @@ von 4 Liter kommen! {term}`🗎 Gorgass 7`
 
 ::::{only} not nosidebar
 
-:::{sidebar} Geschlossenes Bauchtrauma, Gefahren
+:::{margin} Geschlossenes Bauchtrauma, Gefahren
 - Gefäßverletzungen
 - Zerreißung von Organen
 - Zerreißung von Hohlorganen
@@ -145,7 +145,7 @@ von 4 Liter kommen! {term}`🗎 Gorgass 7`
 
 ::::{only} not nosidebar
 
-:::{sidebar} Milzruptur
+:::{margin} Milzruptur
 - Schmerzen im linken Oberbauch
 
 - Manchmal Ausstrahlung der Schmerzen in die linke Schulter
@@ -210,7 +210,7 @@ unterscheidet man:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Weitere innere Verletzungen
+:::{margin} Weitere innere Verletzungen
 - Leberruptur
 - Aortenruptur
 - Nierenruptur
@@ -233,7 +233,7 @@ zügige Transport in ein Traumazentrum.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Leberruptur
+:::{margin} Leberruptur
 - Druckschmerz im rechten Oberbauch
 - Volumenmangelschock
 - Späterer Kapselriss möglich (zweizeitige Ruptur wie bei Milz, siehe
@@ -253,7 +253,7 @@ auch hier zu einer zweizeitigen Leberruptur kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Aortenruptur
+:::{margin} Aortenruptur
 - Riss in der Aorta
 - schlechte Prognose
 :::
@@ -275,7 +275,7 @@ Verletzung auch massive Probleme machen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beckentrauma
+:::{margin} Beckentrauma
 - Verletzung des Beckens
 - Massive innere Blutungen → Schockzeichen
 - Kompression des Beckens ist überlebenswichtig!

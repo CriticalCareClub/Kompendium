@@ -43,7 +43,7 @@ Nasopharyngealtuben \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 ## Anlage
 
 
-:::{sidebar} Video
+:::{margin} Video
 - https://www.youtube.com/watch?v=uALM3HqtTnI%20-
 :::
 

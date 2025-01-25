@@ -7,7 +7,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Aneurysma
+:::{margin} Aneurysma
 - Aussackung eines Blutgefäßes
 - Z. B. Aorta, Hirngefäße
 - Gefahr: Schock, Insult
@@ -32,7 +32,7 @@ ein blutiger Insult sein.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Anmerkungen
+:::{margin} Anmerkungen
 - Gefäßwandaussackung
 - Thorakales und abdominelles Aortenaneurysma
 - Evtl. vorbekannt
@@ -70,7 +70,7 @@ ACS, Koliken, …).
 
 ::::{only} not nosidebar
 
-:::{sidebar} ABCDE
+:::{margin} ABCDE
 ②
 
 : Evtl.  **Schockzeichen**, Schonhaltung
@@ -125,7 +125,7 @@ ACS, Koliken, …).
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 
 : Siehe ABCDE; evtl. Rückenschmerzen

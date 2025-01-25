@@ -9,7 +9,7 @@
 
 # Untersuchung des Abdomens
 
-:::{sidebar} Untersuchung Abdomen
+:::{margin} Untersuchung Abdomen
 - Fremdkörper? Wunden?
 - Schmerzen?
 - Einteilung in 4 Quadranten

@@ -1,6 +1,6 @@
 # Herz-Kreislaufsystem
 
-:::{sidebar} Kreislauf
+:::{margin} Kreislauf
 - 3 Komponenten:
 
   - Herz: Pumpe

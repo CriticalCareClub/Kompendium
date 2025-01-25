@@ -21,7 +21,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Koronare Herzkrankheit
+:::{margin} Koronare Herzkrankheit
 - Erkrankung der Herzkranzgefäße → Verengung
 
 - Koronare Herzkrankheit (KHK, chronisch)
@@ -109,7 +109,7 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER:KHK
+:::{margin} SAMPLER:KHK
 🅂ymptome
 : Siehe ABCDE
 
@@ -201,7 +201,7 @@ textshjdfsanm
 
 ::::{only} not nosidebar
 
-:::{sidebar} Angina pectoris
+:::{margin} Angina pectoris
 Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
 - Einengung(en) von Herzkranzgefäßen
@@ -248,7 +248,7 @@ mit Absterben von Herzmuskelgewebe kommt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Herzinfarkt
+:::{margin} Herzinfarkt
 - *Verschluss* von Herzkranzgefäßen
 - *Absterben* von Herzmuskelgewebe
 - Symptome eines *ACS*
@@ -312,7 +312,7 @@ C. Carl Jaffe MD, cardiologist.
 
 ::::{only} not nosidebar
 
-:::{sidebar} MCI, Gefahren
+:::{margin} MCI, Gefahren
 - Jede Herzrhythmusstörung als Komplikation möglich!
 - Kammerflimmern als Frühkomplikation häufig!
 - Pumpversagen

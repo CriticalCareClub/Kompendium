@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Frakturen
+:::{margin} Frakturen
 - Geschlossener Knochenbruch
 - Offener Knochenbruch
 :::
@@ -41,7 +41,7 @@ verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
 
 ::::{only} not nosidebar
 
-:::{sidebar} Frakturzeichen
+:::{margin} Frakturzeichen
 - Sichere Frakturzeichen
 - Unsichere Frakturzeichen
 - {ref}`Table-frakturzeichen`
@@ -76,7 +76,7 @@ werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - **Starke Blutung**
 - *Fettembolie*
 - Nervenverletzungen
@@ -230,7 +230,7 @@ Bei *stabilen Patienten*: Schienung}
 
 ::::{only} not nosidebar
 
-:::{sidebar} Spezielle Knochenbrüche
+:::{margin} Spezielle Knochenbrüche
 - Schlüsselbeinfraktur
 - Schenkelhalsfraktur
 :::

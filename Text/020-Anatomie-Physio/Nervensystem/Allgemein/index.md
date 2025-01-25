@@ -1,6 +1,6 @@
 # Allgemeines
 
-:::{sidebar} Unterteilung
+:::{margin} Unterteilung
 nach Aufbau
 
 - zentrales Nervensystem
@@ -95,7 +95,7 @@ Beim restlichen *Neuralrohr* lassen sich drei Zonen unterteilen:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bewusstsein
+:::{margin} Bewusstsein
 - Vitalfunktion 1. Ordnung
 
 - Überlebenswichtig

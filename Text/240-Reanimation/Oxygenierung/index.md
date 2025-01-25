@@ -41,7 +41,7 @@ Häufig anzutreffen sind:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Technik und Parameter
+:::{margin} Technik und Parameter
 - Sauerstoff und Beatmungshilfsmittel
 - Atemzugvolumen ca. 400—500 ml
 - Inspiration ca. 1 sec
@@ -84,7 +84,7 @@ Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beutel-Maske / Gefahren
+:::{margin} Beutel-Maske / Gefahren
 - Atemzugsvolumen oder Beatmungsdruck ↑↑↑ → Luft in den Magen
 - Atemzugsvolumen ↓↓↓ → Totraumventilation
 - Leckage
@@ -124,7 +124,7 @@ d. h. dieser muss sich deutlich heben und *senken*.
 
 ::::{only} not nosidebar
 
-:::{sidebar} ETI
+:::{margin} ETI
 - Tubus in Trachea
 
 - Laryngoskop

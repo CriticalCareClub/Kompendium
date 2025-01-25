@@ -55,7 +55,7 @@ Die im Folgenden beschriebenen Eigenschaften der verschiedenen Einsatzmitteltype
 
 ## Krankentransportwagen (KTW)
 
-:::{sidebar} KTW
+:::{margin} KTW
 - Krankentransport
 - Keine Notfallpatienten
 - Mind. 2 RS
@@ -76,7 +76,7 @@ Ein KTW ist mit mindestens 2 Fachkräften besetzt (Mindestqualifikation: *2 Rett
 
 ## Rettungstransportwagen (RTW)
 
-:::{sidebar} RTW
+:::{margin} RTW
 - Notfallrettung, Überstellungen
 - Notfallpatienten
 - Zusammen mit NEF im organisierten Notarztdienst
@@ -137,7 +137,7 @@ RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ## Notarztwagen (NAW)
 
-:::{sidebar} NAW
+:::{margin} NAW
 - Notfallrettung, Überstellungen
 - Notfallpatienten
 - Mind. 1 NA, 1 NFS, 1—2 RS
@@ -166,7 +166,7 @@ Der NAW Krems vor der Umstellung auf ein NEF-System. Das Fahrzeug wurde als RTW 
 
 ## Notarzteinsatzfahrzeug (NEF)
 
-:::{sidebar} NEF
+:::{margin} NEF
 - Notfallrettung, Überstellungen
 - Mind. 1 NA, 1 NFS
 - Transportiert keine Patienten
@@ -228,7 +228,7 @@ Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ## Notarzthubschrauber (NAH)
 
-:::{sidebar} NAH
+:::{margin} NAH
 - Notfallrettung, Überstellungen
 
 - Besondere Einsatztaktik
@@ -299,7 +299,7 @@ Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ## First Responder
 
-:::{sidebar} First Responder
+:::{margin} First Responder
 - Ersthelfer
 - Zumindest in erweiterter Erster Hilfe ausgebildet
 - Überbrücken Zeit bis Eintreffen des Rettungsdienstes mit

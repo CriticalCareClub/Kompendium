@@ -254,7 +254,7 @@ ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 
 ::::{only} not nosidebar
 
-:::{sidebar} Anforderungen
+:::{margin} Anforderungen
 - Körperliche und psychische Belastbarkeit
 - rasches Auffassungs- und Reaktionsvermögen
 - Einfühlungsvermögen
@@ -285,7 +285,7 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 ::::{only} not nosidebar
 
-:::{sidebar} Anforderungen und Belastungen in der Praxis
+:::{margin} Anforderungen und Belastungen in der Praxis
 - Medizinisches Wissen und Kompetenz
 - Zuverlässigkeit
 - Eigenverantwortlichkeit

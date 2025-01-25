@@ -141,7 +141,7 @@ Diese Infektion wird durch Viren verursacht.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Trockener, bellender Husten
 
 - Pfeifendes Geräusch beim Einatmen, Heiserkeit
@@ -186,7 +186,7 @@ trockene Räume fördern das Auftreten.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Epiglottitis
+:::{margin} Epiglottitis
 - Entzündung mit Schwellung des Kehldeckels
 :::
 ::::
@@ -201,7 +201,7 @@ gute Prognose.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Hoch fieberhafte Erkrankung
 - Inspiratorischer Stridor
 - Mund offen, Speichelfluss, spricht kaum!
@@ -261,7 +261,7 @@ Differenzialdiagnosen Laryngitis und Epiglottitis:
 
 ::::{only} not nosidebar
 
-:::{sidebar} SIDS
+:::{margin} SIDS
 - Plötzlich, meist im Schlaf
 - Vorwiegend 1.—4. Lebensmonat
 - Gehäuft Jänner bis März
@@ -279,7 +279,7 @@ Häufung in den Monaten Jänner bis März zu beobachten.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ursachen
+:::{margin} Ursachen
 - Ursache unbekannt
 - Risikogruppen
 - Zentrale Atemregulationsstörung (unreifes Atemzentrum?)
@@ -336,7 +336,7 @@ ist und *die Eltern keine Schuld trifft*!
 
 ::::{only} not nosidebar
 
-:::{sidebar} Ertrinkungsunfall
+:::{margin} Ertrinkungsunfall
 - Ertrinken: Tod innerhalb 24 h nach Ertrinkungsunfall
 
 - Sonst: Beinahe-Ertrinken
@@ -389,7 +389,7 @@ Eine Besonderheit stellt jedoch der
 
 ::::{only} not nosidebar
 
-:::{sidebar} Fieberkrampf
+:::{margin} Fieberkrampf
 - Kinder \< 5 Jahre
 - Hohes Fieber
 - Wie generalisierter Krampfanfall

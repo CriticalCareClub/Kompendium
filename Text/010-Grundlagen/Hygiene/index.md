@@ -122,7 +122,7 @@ Reviewer: Alexander Blacky, Standard-Reviewprozess
 
 #### Bakterien sind Zellen
 
-:::{sidebar} Bakterien
+:::{margin} Bakterien
 - Eigenständige Zellen/Lebewesen
 - Nicht grundsätzlich schlecht
 :::
@@ -139,7 +139,7 @@ verschiedenen Faktoren ab, s.u.
 
 ##### Bakterien und Pathogenität
 
-:::{sidebar} Bakterien: Pathogenität
+:::{margin} Bakterien: Pathogenität
 - Bakterienart
 
 - Keimzahl
@@ -196,7 +196,7 @@ Krankentransport!
 
 ##### Bakterien, Antibiotika und Resistenzen
 
-:::{sidebar} Bakterien: Resistenzen
+:::{margin} Bakterien: Resistenzen
 - Bakterien können Resistenzen gegen Antibiotika bilden.
 :::
 
@@ -214,7 +214,7 @@ Diese werden unter {ref}`multiresistente-keime` näher besprochen.
 
 #### *Viren* sind keine vollständigen Zellen
 
-:::{sidebar} Viren
+:::{margin} Viren
 - Keine vollständigen Zellen
 
 - Benötigen Wirtszellen zur Vermehrung
@@ -282,7 +282,7 @@ Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschl
 
 ### Kreuzinfektion
 
-:::{sidebar} Kreuzinfektion
+:::{margin} Kreuzinfektion
 - Kreuzinfektion: *Patient 1 → \*Personal*
   → Patient 2\*
 :::
@@ -346,7 +346,7 @@ Alexander Fleming
 
 ### Resistenzen
 
-:::{sidebar} Resistenzen
+:::{margin} Resistenzen
 - Bakterien können Resistenzen entwickeln!
 
 - Antibiotika helfen dann nicht mehr!
@@ -387,7 +387,7 @@ vermeidbare – Kosten {term}`🗎 Kucera 2010`.
 
 ### Im Krankentransport gibt es Problemkeime
 
-:::{sidebar} Problemkeime
+:::{margin} Problemkeime
 
 - Krankentransport: Patienten aus Gesundheitseinrichtungen
 - Problemkeime häufig
@@ -421,7 +421,7 @@ war [^footnote-6]. *Das Problem der multiresistenten Keime wird immer größer.*
 
 #### Staphylococcus aureus
 
-:::{sidebar} Stahylokokkus aureus
+:::{margin} Stahylokokkus aureus
 
 - Staph. aureus = "Allerweltskeim"
 - aber resistente Form: {dfn}`MRSA` {index}` <! MRSA>`
@@ -561,7 +561,7 @@ gleichen Unterweisungspflichten.
 
 #### *Reinigung:* Verunreinigungen entfernen
 
-:::{sidebar} Reinigung
+:::{margin} Reinigung
 - Entfernung von groben Verunreinigungen
 - Beginn rasch nach Kontamination
 - Voraussetzung für spätere Desinfektion od. Sterilisation
@@ -578,7 +578,7 @@ Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
 
 #### Desinfektion: Keimreduktion
 
-:::{sidebar} Desinfektion
+:::{margin} Desinfektion
 - Keimreduktion
 
 - z. B. mittels chem. Substanzen
@@ -609,7 +609,7 @@ Medizinprodukten eingesetzt werden, gelten ebenfalls als
 
 ##### Wirkung von Desinfektionsmitteln
 
-:::{sidebar} Desinfektionsmittel
+:::{margin} Desinfektionsmittel
 *Einsatzbereich*
 
 - Flächen, Instrumente, Hände …
@@ -698,7 +698,7 @@ kommen dass sich in der Desinfektionslösung *Keime sogar vermehren!*
 
 #### Desinfektion mittels Einlegebad
 
-:::{sidebar} Einlegebad
+:::{margin} Einlegebad
 - Gefahr des Keimwachstums
 - Luftblasenfrei
 - Vollständig untertauchen, evtl. mit Niederhaltesieb
@@ -738,7 +738,7 @@ Lösung sichtlich getrübt oder verschmutzt ist!
 
 #### Flächen- und Wischdesinfektion
 
-:::{sidebar} Flächen- und Wischdesinfektion
+:::{margin} Flächen- und Wischdesinfektion
 - Acryloberflächen: keine alkoholischen Desinfektionsmittel
 
 - Mit Flächendesinfektionsmittel
@@ -773,7 +773,7 @@ zur Wischdesinfektion ist *nicht zulässig*!
 
 #### Sterilisation: Keimfreiheit
 
-:::{sidebar} Sterilisation
+:::{margin} Sterilisation
 - Keimfreiheit – Sterilität
 - Vorher Reinigung und Desinfektion
 - Aufwendig
@@ -861,7 +861,7 @@ Erfahrung voraus. [^footnote-11]
 
 #### Hygieneplan — Hygienebeauftragter
 
-:::{sidebar} Hygieneplan — Hygienebeauftragter
+:::{margin} Hygieneplan — Hygienebeauftragter
 - Hygieneplan: konkrete Bestimmungen
 - Hygienebeauftragter: Ansprechpartner mit Zusatzausbildung
 :::
@@ -888,7 +888,7 @@ Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 #### Persönliche Hygiene
 
-:::{sidebar} Persönliche Hygiene
+:::{margin} Persönliche Hygiene
 - Schmuck, Uhren, Freundschaftsarmbänder sind perfekte Nährböden
 
 - Kein Nagellack od. künstliche Fingernägel
@@ -929,7 +929,7 @@ Einwegschürzen verwendet werden.
 
 #### Kontaminierte Geräte
 
-:::{sidebar} Kontaminierte Geräte
+:::{margin} Kontaminierte Geräte
 - Herkunft des Materials (Fahrzeugkennung, …)
 - Zeitpunkt des Einlegens
 - Von wem eingelegt
@@ -1072,7 +1072,7 @@ Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:
 
 #### Arbeitsaufteilung
 
-:::{sidebar} Arbeitsaufteilung
+:::{margin} Arbeitsaufteilung
 - Material nicht unnötig kontaminieren.
 
 - Ein Teammitglied hat Patientenkontakt, Kollege reicht zu.
@@ -1093,7 +1093,7 @@ werden.
 
 #### Umgang mit spitzen Gegenständen
 
-:::{sidebar} Umgang mit spitzen Gegenständen
+:::{margin} Umgang mit spitzen Gegenständen
 - Nadelabwurfbehälter.
 
   - "Gelbe Box"
@@ -1134,7 +1134,7 @@ Spitze Gegenstände
 
 #### Keimvehikel
 
-:::{sidebar} Keimvehikel
+:::{margin} Keimvehikel
 - Kugelschreiber, Haltegriffe, Lenkrad …
 - **Kreuzinfektion!**
 :::

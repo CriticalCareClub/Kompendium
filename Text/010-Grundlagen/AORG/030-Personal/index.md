@@ -45,7 +45,7 @@ Beispiele hierfür sind der *Paramedic* in den angloamerikansichen Ländern, der
 
 ## Rettungs- und Notfallsanitäter in Österreich
 
-:::{sidebar} Rettungs- und Notfallsanitäter
+:::{margin} Rettungs- und Notfallsanitäter
 
 Rettungssanitäter (RS)
 - Sanitätergesetz (SanG)
@@ -225,7 +225,7 @@ Ein NEF im Einsatz
 :::
  -->
 
-:::{sidebar} Notarzt
+:::{margin} Notarzt
 
 - Präklinische Notfallmedizin
 - Allgemeinmediziner, Fachärzte
@@ -242,7 +242,7 @@ Ein in Ausbildung befindlicher **Turnusarzt** ist berechtigt, an Einsätzen *im 
 
 Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen ärztlichen Berufsausübung** als notärztliche Qualifikation:
 
-:::{sidebar} Ausbildung zum Notarzt
+:::{margin} Ausbildung zum Notarzt
 
 - Erwerb klinischer notärztlicher Kompetenzen
   - Rasterzeugnis

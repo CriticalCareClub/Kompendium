@@ -9,7 +9,7 @@
 
 # Magen (Ventriculus, Gaster)
 
-:::{sidebar} Magen
+:::{margin} Magen
 - Magensaft mit Salzsäure
 - Schleim schützt Magenschleimhaut
 - Wandmuskulatur durchmischt Speisebrei

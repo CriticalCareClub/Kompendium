@@ -25,7 +25,7 @@ Tätowierungen an der Punktionsstelle sind nicht unbedingt ein Ausschlussgrund (
 
 ## Orientierung
 
-:::{sidebar} Orientierung
+:::{margin} Orientierung
 
 - Knöcherne Leitstrukturen und Muskeln
 - Palpation pulsierender Gefäße
@@ -265,7 +265,7 @@ Axilläre Blockade [₢ David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY
 
 #### Interskalenäre Blockade (ISK)
 
-:::{sidebar} Interskalenäre Blockade:
+:::{margin} Interskalenäre Blockade:
 
 - Schulter-OPs
 - Kathetertechnik zur post-OP-Schmerztherapie

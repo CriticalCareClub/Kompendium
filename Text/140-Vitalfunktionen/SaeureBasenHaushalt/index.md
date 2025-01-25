@@ -6,16 +6,12 @@
 
 ## Säuren und Laugen
 
-::::{only} not nosidebar
 
-:::{sidebar} Säuren, Laugen
-```{eval-rst}
+:::{margin} Säuren, Laugen
 
-:Basen/Laugen:
-    Stoffe, die Protonen (H⁺) aufnehmen können
-```
+**Basen**/**Laugen**: Stoffe, die Protonen (H⁺) aufnehmen können
+
 :::
-::::
 
 {dfn}`Säuren` sind Stoffe,
 die Protonen [^proton] abgeben
@@ -38,7 +34,7 @@ Begriff Base.
 
 ::::{only} not nosidebar
 
-:::{sidebar} pH-Wert
+:::{margin} pH-Wert
 - Gibt an, wie sauer oder basisch ein Stoff ist.
 - Übersäuerung (\< 7,35): Azidose
 - Zu basisch (> 7,45): Alkalose
@@ -70,7 +66,7 @@ wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
 
 ::::{only} not nosidebar
 
-:::{sidebar} pH-Regulationsmechanismen
+:::{margin} pH-Regulationsmechanismen
 - Bikarbonat-Puffer
 
   - Blut, Lunge (Atmung)
@@ -121,7 +117,7 @@ $$
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bikarbonat-Puffer
+:::{margin} Bikarbonat-Puffer
 CO₂ wird von Lunge abgeatmet.
 
 - Zu wenig Atmung: CO₂ staut sich, wird nicht abgebaut
@@ -164,7 +160,7 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Respiratorische Azidose
+:::{margin} Respiratorische Azidose
 - Insuffiziente innere oder äußere Atmung
 
   - AF ↓, AZV ↓
@@ -194,7 +190,7 @@ und folglich zu einer Ansäuerung des Blutes.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Metabolische Azidose
+:::{margin} Metabolische Azidose
 - Bildung von sauren Stoffen im Körper
 
   Z. B. diabetisches Koma

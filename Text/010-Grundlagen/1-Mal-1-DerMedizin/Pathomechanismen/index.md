@@ -37,7 +37,7 @@ kommen.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Entzündung
+:::{margin} Entzündung
 - Reaktion des Körpers
 
   1. *Rötung* (Rubor)

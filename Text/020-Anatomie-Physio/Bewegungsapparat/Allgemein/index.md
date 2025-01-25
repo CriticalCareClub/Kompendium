@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Bewegungsapparat
+:::{margin} Bewegungsapparat
 - Aktiver
 - Passiver
 :::

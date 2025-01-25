@@ -65,7 +65,7 @@ der *Ampulle des Eileiters* kommt es zur Befruchtung.
 
 ## Zyklus
 
-:::{sidebar} Zyklus
+:::{margin} Zyklus
 - 28 Tage
 - Eisprung am 14. Tag
 - keiner Befruchtung → Menstruation

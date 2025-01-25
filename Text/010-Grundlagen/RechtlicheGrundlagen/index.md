@@ -140,7 +140,7 @@ Bundes (RIS) unter der URL <http://www.ris.bka.gv.at/> abgerufen werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vertragsverhätlnis im Rettungswesen
+:::{margin} Vertragsverhätlnis im Rettungswesen
 - Verhältnis zwischen Patient und Rettungsorgansiation
 
   - Heilbehandlungsvertrag
@@ -236,7 +236,7 @@ Personal Rechte und Pflicht im Umgang miteinander.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Straf- und Haftbarkeitsvoraussetzungen
+:::{margin} Straf- und Haftbarkeitsvoraussetzungen
 1. *Tatbestandserfüllung* bzw. *Schaden*
 
 2. *Kausalität*
@@ -865,7 +865,7 @@ tätigkeitsrelevant fortzubilden. [^footnote-3]
 
 ::::{only} not nosidebar
 
-:::{sidebar} Pflichten des Sanitäters
+:::{margin} Pflichten des Sanitäters
 - Behandlungs- bzw. Hilfeleistungspflicht
 - Dokumentationspflicht
 - Verschwiegenheitspflicht
@@ -886,7 +886,7 @@ tätigkeitsrelevant fortzubilden. [^footnote-3]
 
 ::::{only} not nosidebar
 
-:::{sidebar} Behandlungs-, Hilfeleistungspflicht
+:::{margin} Behandlungs-, Hilfeleistungspflicht
 - Ersthelferische Versorgungspflicht für Durchschnittsbürger
 - Ärztliche Behandlungspflicht
 - Behandlungspflicht für Sanitäter
@@ -1233,7 +1233,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Rezertifizierungspflicht
+:::{margin} Rezertifizierungspflicht
 - Rezertifizierungspflicht SanG:
   Herz-Lungen-Wiederbelebung mit
   halbautomatischen Defibrillator, alle 2 Jahre

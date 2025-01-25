@@ -73,7 +73,7 @@ und Interaktionsstruktur einteilen.
 
 #### Aufgaben
 
-:::{sidebar} Aufgaben
+:::{margin} Aufgaben
 - Arbeitsumgebung
 - Workflow
 - Psychologische Anforderung
@@ -119,7 +119,7 @@ und Interaktionsstruktur einteilen.
 
 #### Rolle
 
-:::{sidebar} Rolle
+:::{margin} Rolle
 - Rollenkonflikt
 - Rollenambiguität
 - Rollenüberforderung
@@ -227,7 +227,7 @@ hilfreich.
 
 #### Interaktion
 
-:::{sidebar} Interaktion
+:::{margin} Interaktion
 - Kommunikation und Kooperation zwischen Vorgesetzten und Mitarbeitern
   sowie Kollegen
 - Sozialer Zusammenhalt
@@ -816,7 +816,7 @@ Im Folgenden werden zwei unterschiedliche Abgrenzungsversuche dargestellt:
 
 ##### Symptome
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Psychische Symptome
 - Physische Symptome und psychosomatische Beschwerden
 - Symptome auf der Verhaltensebene

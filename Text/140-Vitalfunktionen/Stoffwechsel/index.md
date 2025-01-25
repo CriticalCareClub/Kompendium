@@ -147,7 +147,7 @@ ______________________________________________________________________
 
 ::::{only} not nosidebar
 
-:::{sidebar} Stoffwechsel::
+:::{margin} Stoffwechsel::
 - Kohlehydratstoffwechsel (Zucker)
 
   - Energielieferant

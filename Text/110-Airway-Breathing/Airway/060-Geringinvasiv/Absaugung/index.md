@@ -56,7 +56,7 @@ Bilderserie: Verschiedene Absaugvorrichtungen \[₢ Ch. Pallinger  {term}`ℓ Mf
 
 ## Absaugtechnik
 
-:::{sidebar} Absaugtechnik
+:::{margin} Absaugtechnik
 - Sogstärke einstellen
 - Ohne Sog einführen
 :::
@@ -80,7 +80,7 @@ Der Vorgang wird nach Bedarf wiederholt.
 
 ## Gefahren
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Vagus-Reiz: Bradykardie bis hin zur Asystolie
 - Laryngospasmus
 - Schleimhautverletzungen, Blutungen, Brechreiz

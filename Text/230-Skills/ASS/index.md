@@ -124,7 +124,7 @@ entweder **invasiv** {index}` <invasiv>` (verletzend) oder **nicht-invasiv** {in
 
 ::::{only} not nosidebar
 
-:::{sidebar} Invasive Applikationswege
+:::{margin} Invasive Applikationswege
 - Intravenös (i.v.)
 - Intramuskulär (i.m.)
 - Subkutan (s.c.)
@@ -160,7 +160,7 @@ vorbehalten. Die gängigen Injektionsarten sind:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Nicht-invasive Applikationwege
+:::{margin} Nicht-invasive Applikationwege
 - Oral
 - Sublingual
 - Perkutan
@@ -419,7 +419,7 @@ Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Periphere Venenverweilkanüle
+:::{margin} Periphere Venenverweilkanüle
 - Kunststoffschlauch, der in der Vene zu liegen kommt
 - Konnektionsstelle für Infusionen
 - Konus mit Rückschlagventil

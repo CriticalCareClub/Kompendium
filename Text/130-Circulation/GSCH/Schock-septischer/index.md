@@ -48,7 +48,7 @@ Eine **Sepsis** ist eine lebensbedrohliche Organfunktionsstörung, die durch ein
 Somit handelt es sich im Prinzip um ein **SIRS**, welches *durch eine* **Infektion** verursacht wird.
 Die Sepsis ist keine spezifische Krankheit, sondern ein Syndrom, das eine oft noch ungeklärte Pathophysiologie umfasst. \[{term}`🗎 Sepsis-3`\]
 
-:::{sidebar} Septischer Schock
+:::{margin} Septischer Schock
 - SIRS
 - Hypotonie
 - Vasopressor-Therapie
@@ -110,7 +110,7 @@ Das SIRS kann zum **Multiorgandysfunktionssyndrom** (**MODS**) oder zu **Multior
 
 ### Diagnostik zur Diagnosesicherung
 
-:::{sidebar} SIRS-Kriterien
+:::{margin} SIRS-Kriterien
 *Systemisches* Entzündungsreaktionssyndrom
 
 - AF: > 20 / min oder PaCO₂ \< 32 mm Hg

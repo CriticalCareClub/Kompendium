@@ -126,7 +126,7 @@ Wenn jedoch der LT nur als Übergangslösung angewendet wird, bis eine sichere E
 :::
 
 
-:::{sidebar} Videos
+:::{margin} Videos
 - [RK: Larynxtubus Anwendung, Lehrvideo für Rettungssanitäter](https://www.youtube.com/watch?v=2dJ9LifDDfo)
 - [RK-Akademie Tirol: Demo Wiederbelebung mit Larynxtubus](https://www.youtube.com/watch?v=2o0dmq29NKg)
 :::

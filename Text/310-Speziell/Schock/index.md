@@ -4,7 +4,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Schock
+:::{margin} Schock
 - Lebensbedrohliche Kreislaufstörung
 - Kreislaufinsuffizienz
 :::
@@ -50,7 +50,7 @@ Gehirnskommen kann.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Kompensation, Dekompensation
+:::{margin} Kompensation, Dekompensation
 - Gegensteuerung (*Kompensation*)
 - Sympathikus (*"Fight!"*)
 - Zentralisation
@@ -94,7 +94,7 @@ listet typische allgemeine Schocksymptome auf.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Stadienabhängig
 - {ref}`Tafel-Schocksymptomatik`
 :::
@@ -157,7 +157,7 @@ Schockschere befindet, kann er trotzdem einen Schock haben!\*
 
 ::::{only} not nosidebar
 
-:::{sidebar} Schockschere
+:::{margin} Schockschere
 - RR{sub}`syst`\< HF
 - Dann bereits *schwerer* Schock
 - Spätzeichen, auch ohne Schockschere kann Schock bestehen.

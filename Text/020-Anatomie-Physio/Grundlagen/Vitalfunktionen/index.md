@@ -54,7 +54,7 @@ werden konnten.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vitalfunktionen 1. Ordnung
+:::{margin} Vitalfunktionen 1. Ordnung
 - {ref}`Bewusstsein <vitalfunktion-bewusstsein>`
 - {ref}`Atmung <vitalfunktion-atmung>`
 - {ref}`Kreislauf <vitalfunktion-kreislauf>`
@@ -78,7 +78,7 @@ und werden ebendort näher erläutert.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vitalfunktionen 2. Ordnung
+:::{margin} Vitalfunktionen 2. Ordnung
 - {ref}`Stoffwechsel <vitalfunktion-stoffwechsel>`
 - {ref}`Immunsystem <vitalfunktion-immunsystem>`
 - Wasser- und Elektrolythaushalt

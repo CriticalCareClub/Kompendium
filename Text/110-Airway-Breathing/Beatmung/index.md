@@ -9,7 +9,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beatmung -- Beschreibung
+:::{margin} Beatmung -- Beschreibung
 - Künstliche Überdruckbeatmung
 - Kontrollierte Beatmung: Atmung wird vollständig übernommen
 - Assistierte Beatmung: Eine vorhandene, aber unzureichende
@@ -58,7 +58,7 @@ durchgeführt werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Gefahren
+:::{margin} Gefahren
 - Zu hoher Druck → Magenbeatmung/-blähung, Erbrechen
 
 - Zu schnell, zu tief: Hyperventilation, atmungsbedingte Alkalose
@@ -96,7 +96,7 @@ angewendet. Um die Atemwege freizuhalten, kann u. U. unterstützend ein
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beatmung -- Hilfsmittel
+:::{margin} Beatmung -- Hilfsmittel
 - Helferseitig:
 
   > - Beatmungsbeutel
@@ -496,7 +496,7 @@ Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit z
 
 ::::{only} not nosidebar
 
-:::{sidebar} PEEP
+:::{margin} PEEP
 - Positiver end-exspiratorischer Druck
 - Zusammenfallen der Lungenbläschen verhindert
 :::

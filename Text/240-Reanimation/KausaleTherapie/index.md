@@ -9,7 +9,7 @@
 
 ## 4 H + HITS
 
-:::{sidebar} 4 H + HITS
+:::{margin} 4 H + HITS
 - **H**ypoxie
 - **H**ypovolämie
 - **H**ypo-/Hyperkaliämie

@@ -9,7 +9,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Nicht-invasive Blutdruckmessung
+:::{margin} Nicht-invasive Blutdruckmessung
 - Druck in den Arterien
 
   - Systolischer Wert (Auswurfphase des Herzens)
@@ -46,7 +46,7 @@ Der "Nicht-invasive Blutdruck" wird auf manchen Überwachungsmonitoren mit *NIBD
 
 ::::{only} not nosidebar
 
-:::{sidebar} Blutdruck, Messarten
+:::{margin} Blutdruck, Messarten
 - Unblutige, indirekte Messung
 
   - Mechanische Messung
@@ -127,7 +127,7 @@ Der *diastolische* Blutdruckwert kann nur bei der
 ### Auskultatorische Methode
 
 
-:::{sidebar} Auskultatorische Methode
+:::{margin} Auskultatorische Methode
 1. Manschette faltenfrei auf Herzhöhe anlegen
 2. Luftkissen mittig über Oberarmarterie (Markierungspfeil!)
 3. Radialispuls tasten
@@ -174,7 +174,7 @@ In Abhängigkeit vom außen anliegenden Manschettendruck kommt es zu einem unter
 ### Palpatorische Methode
 
 
-:::{sidebar} Palpatorische Methode
+:::{margin} Palpatorische Methode
 1. Manschette faltenfrei auf Herzhöhe anlegen
 2. Luftkissen mittig über Oberarmarterie (Markierungspfeil!) beachten
 3. Radialispuls tasten
@@ -198,7 +198,7 @@ Der Druck, bei dem der Puls wieder fühlbar ist, ist der *systolische* Wert. *De
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beachte:
+:::{margin} Beachte:
 *Nicht* auf Seite eines/r …
 
 > 1. *Shuntarmes*

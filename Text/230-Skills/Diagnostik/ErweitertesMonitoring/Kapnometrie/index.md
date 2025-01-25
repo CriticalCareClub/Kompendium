@@ -6,7 +6,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Kapnometrie
+:::{margin} Kapnometrie
 - Kapnometrie: Kohlendioxid-Messung (CO₂)
 
 - etCO₂: endtidaler Kohlendioxidanteil
@@ -117,7 +117,7 @@ und Keime das System kontaminieren.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Beurteilung
+:::{margin} Beurteilung
 - 4—5% CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
 
 - Erniedrigt:

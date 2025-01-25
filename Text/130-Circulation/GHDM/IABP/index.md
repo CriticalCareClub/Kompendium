@@ -132,7 +132,7 @@ Arteriensystem
 
 ### Handling des Transducers und Nullabgleich
 
-:::{sidebar} Wichtig
+:::{margin} Wichtig
 - Transducer auf Herzhöhe
 - Kalibrierung gegen Atmosphärendruck: *"Nullabgleich"*
 :::

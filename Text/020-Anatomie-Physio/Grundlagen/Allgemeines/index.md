@@ -2,7 +2,7 @@
 
 ## Anatomie, Physiologie, Pathologie
 
-:::{sidebar} Anatomie, Physiologie, Pathologie
+:::{margin} Anatomie, Physiologie, Pathologie
 - Anatomie: Lehre vom Aufbau von Organismen
 - Physiologie: Lehre von ("normalen") physikalischen und biochemischen
   Vorgängen im Organismus

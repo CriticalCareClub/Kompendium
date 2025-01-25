@@ -19,7 +19,7 @@ Vgl. {ref}`schwangerschaft`
 
 ::::{only} not nosidebar
 
-:::{sidebar} Fehlgeburt
+:::{margin} Fehlgeburt
 - Frühe Fehlgeburt/Fruchtabgang
 - Oft unbemerkt
 :::
@@ -40,7 +40,7 @@ spricht man von einer {dfn}`Fehlgeburt`.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Vaginale Blutung
 - Abgang von Gewebsteilen
 - Unterbauchschmerzen
@@ -109,7 +109,7 @@ muss mit einer Reanimation begonnen werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Eileiterschwangerschaft
+:::{margin} Eileiterschwangerschaft
 - Einnistung der Frucht in Eileiter (statt Gebärmutter)
 
 - Schmerz durch Dehnung des Eileiters
@@ -265,7 +265,7 @@ Die Ursachen sind nicht vollständig geklärt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Präeklampsie et al.
+:::{margin} Präeklampsie et al.
 - *E*dema (Ödeme)
 
 - *P*roteinuria (Proteinurie)
@@ -361,7 +361,7 @@ Die Geburt verläuft in 3 Phasen:
 
 ::::{only} not nosidebar
 
-:::{sidebar} Eröffnungsphase
+:::{margin} Eröffnungsphase
 - Von Beginn regelmäßger Wehen bis vollst. Eröffnung des Muttermundes
 
 - Wehen im Abstand von 2-10 Minuten
@@ -405,7 +405,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Austreibungsphase
+:::{margin} Austreibungsphase
 - Von vollständiger Eröffnung des Muttermundes bis Geburt des Kindes
 - Wehen im Abstand von 2–3 min
 - Presswehen
@@ -450,7 +450,7 @@ dem Stuhl der Mutter geschützt* werden
 
 ::::{only} not nosidebar
 
-:::{sidebar} Nachgeburtsphase
+:::{margin} Nachgeburtsphase
 - Nach 10—20 Min. neuerlich Wehen.
 - Geburt der Plazenta.
 :::
@@ -857,7 +857,7 @@ Strangulation des Kindes.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Placenta praevia
+:::{margin} Placenta praevia
 - Plazenta liegt vor dem Geburtskanal
 - Vaginale Geburt nicht möglich
 - Blutungsgefahr
@@ -953,7 +953,7 @@ wegen des O₂-Mangels.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Blutungen in der Nachgeburtsperiode
+:::{margin} Blutungen in der Nachgeburtsperiode
 - Starke Blutungen möglich!
 - Uterusatonie: Erschlaffung der Gebärmutter
 - Hypovolämischer Schock bis Kreislaufversagen möglich
@@ -997,7 +997,7 @@ nach der Plazentalösung.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Vaginale Blutung
+:::{margin} Vaginale Blutung
 - Verstärkte Monatsblutung
 - Verletzungen (Sturz, Geschlechtsverkehr, Vergewaltigung, …)
 - Defloration

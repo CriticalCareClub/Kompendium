@@ -9,7 +9,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Arterielle Hypertonie
+:::{margin} Arterielle Hypertonie
 - Chronische Erhöhung des arteriellen Blutdrucks
 - Risikofaktor für Herz-/Kreislauferkrankungen
 - Bei *Schwangeren* sind die Grenzwerte genau zu beachten!
@@ -47,7 +47,7 @@ und behandelt werden.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Langzeitschäden
+:::{margin} Langzeitschäden
 - *Gefäßschädigung*
 
 - Herzkranzgefäße → Infarkt
@@ -216,7 +216,7 @@ Schwindel …). Vgl. \[Table-hxpertension-krise-notfall\].
 
 ::::{only} not nosidebar
 
-:::{sidebar} SAMPLER
+:::{margin} SAMPLER
 🅂
 
 : Siehe ABCDE.

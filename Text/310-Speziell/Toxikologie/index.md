@@ -117,7 +117,7 @@ Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptom
 
 ::::{only} not nosidebar
 
-:::{sidebar} Alkohol
+:::{margin} Alkohol
 - Enthemmend, stimmungsmodulatorisch
 - Sprach- und Gangunsicherheit
 - Bewusstseinstrübung
@@ -253,7 +253,7 @@ Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Opiatintoxikation
+:::{margin} Opiatintoxikation
 - Atemdepression
 - Hypoxie
 - Stecknadelkopfgroße Pupillen
@@ -333,7 +333,7 @@ Umwelt.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Nebenwirkungen Psychisch
 
   - Halluzinationen
@@ -443,7 +443,7 @@ Sauerstoff.
 
 ::::{only} not nosidebar
 
-:::{sidebar} CO
+:::{margin} CO
 - Mehrere, unerklärliche Opfer, tote Tiere
 - Gasofen, Durchlauferhitzer
 - *"Immer beim duschen!"*
@@ -458,7 +458,7 @@ Sauerstoff.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Dyspnoe *ohne* Zyanose
 - Tachykardie
 - Schwindel, Kopfschmerz, Übelkeit, Erbrechen
@@ -527,7 +527,7 @@ Industrie an.
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Kopfschmerz, Schwindel, Übelkeit
 - Krämpfe
 - Zyanose
@@ -674,7 +674,7 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 ::::{only} not nosidebar
 
-:::{sidebar} Symptome
+:::{margin} Symptome
 - Ätz-, Abrinnspuren
 - Würgen
 - Erbrechen

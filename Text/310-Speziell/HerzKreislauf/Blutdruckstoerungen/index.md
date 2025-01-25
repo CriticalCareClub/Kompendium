@@ -7,7 +7,7 @@
 
 ::::{only} not nosidebar
 
-:::{sidebar} Hypotonie
+:::{margin} Hypotonie
 - Erwachsener: RR{sub}`sys` \< ca. 100 mm Hg
 - Individuell unterschiedlich
 - Kinder haben andere Normalwerte

@@ -1,7 +1,7 @@
 # Lagerungsmanöver
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Kopflagerung/index
 EsmarchHandgriff/index

@@ -96,7 +96,7 @@ rechten Oberbauch seit gestern.
 
 ### Das Akute Abdomen
 
-Das {dfn}`Akutes Abdomen` {index}`\ <! Akutes Abdomen>` ist eine akute Erkrankung des
+Das {dfn}`Akutes Abdomen` {index}` <! Akutes Abdomen>` ist eine akute Erkrankung des
 Bauchraumes mit plötzlichen, starken *Bauchschmerzen* und *bretthartem
 Bauch*, welche im weiteren Verlauf lebensbedrohlich sein kann. Es sind
 verschiedene Ursachen möglich.[^akutesabdomen]
@@ -189,11 +189,11 @@ sind auch die Ursachen:
 (ileus)=
 
 Als {dfn}`Ileus` (*Darmverschluss*)
-{index}`\ <! Darmverschluss>`
-{index}`\ <! Ileus>`
+{index}` <! Darmverschluss>`
+{index}` <! Ileus>`
 bezeichnet man die Unterbrechung
 der normalen Darmpassage.
-Diese kann vollständig oder unvollständig ({dfn}`Subileus` {index}`\ <! Subileus>`) sein.
+Diese kann vollständig oder unvollständig ({dfn}`Subileus` {index}` <! Subileus>`) sein.
 
 Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie
 Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur
@@ -207,7 +207,7 @@ Typisch für den Darmverschluss ist die mangelhafte Stuhlproduktion. Es
 kommt zu diffusen Bauchschmerzen und einem Blähbauch, sowie zu Übelkeit
 und Erbrechen.
 In extremen Fällen kann es auch zum Erbrechen von zurück
-gestautem Kot kommen (*Miserere)* {index}`\ <Miserere\|Z>`.
+gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
 
 (ck56070c)=
 
@@ -241,7 +241,7 @@ gestautem Kot kommen (*Miserere)* {index}`\ <Miserere\|Z>`.
 :::
 ::::
 
-Als {dfn}`Appendizitis` {index}`\ <! Appendizitis>`
+Als {dfn}`Appendizitis` {index}` <! Appendizitis>`
 bezeichnet man die Entzündung des
 *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
 Umgangssprachlich wird oft (fälschlicherweise) der Begriff
@@ -281,7 +281,7 @@ kann.
 
 ### Gallenkolik
 
-Eine {dfn}`Gallenkolik` {index}`\ <! Gallenkolik>`
+Eine {dfn}`Gallenkolik` {index}` <! Gallenkolik>`
 zeichnet sich durch kolikartige
 Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine
 aus. Vgl. Kolik: {ref}`kolik`.
@@ -346,9 +346,9 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 ### Gastrointestinale Blutungen und Ösophagusvarizenblutung
 
-{dfn}`Gastrointestinale Blutungen` {index}`\ <! Gastrointestinale Blutungen>`
+{dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>`
 sind Blutungen im Magen-Darm-Trakt.
-{dfn}`Ösophagusvarizenblutungen` {index}`\ <! Ösophagusvarizenblutungen>` sind
+{dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind
 Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
 
 Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu
@@ -392,7 +392,7 @@ Durch die
 Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
 ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
 Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz
-({dfn}`Meläna`{index}`\ <! Meläna>`).
+({dfn}`Meläna`{index}` <! Meläna>`).
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ::::{only} not nosidebar
@@ -447,7 +447,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 :::
 ::::
 
-Die {dfn}`Magen-Darm-Grippe` {index}`\ <! Magen-Darm-Grippe>` ist eine chronisch oder akut
+Die {dfn}`Magen-Darm-Grippe` {index}` <! Magen-Darm-Grippe>` ist eine chronisch oder akut
 verlaufende Entzündung der Magen- und der Dünndarmschleimhaut. *Syn.*
 *Brechdurchfall*, *gastrointestinaler Infekt*, *Gastroduodenitis*.
 
@@ -458,7 +458,7 @@ Alter des Patienten. Durch den Durchfall und das Erbrechen kann es zu
 einem maßgeblichen Verlust von Wasser und Elektrolyten kommen. Wenn der
 Patient nicht ausreichend trinken kann besteht die Gefahr der
 Austrocknung
-(Exsikkose{index}`\ <Exsikkose; gastrointestinaler Infekt>`).
+(Exsikkose{index}` <Exsikkose; gastrointestinaler Infekt>`).
 
 #### Symptome
 
@@ -522,7 +522,7 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 :::
 ::::
 
-Als {dfn}`Exsikkose` {index}`\ <! Exsikkose>` ({dfn}`Dehydratation` {index}`\ <! Dehydratation>`,
+Als {dfn}`Exsikkose` {index}` <! Exsikkose>` ({dfn}`Dehydratation` {index}` <! Dehydratation>`,
 *Austrocknung*) wird ein hochgradiger Mangel an Flüssigkeit im Körper
 bezeichnet.
 
@@ -655,7 +655,7 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 :::
 ::::
 
-Eine {dfn}`Pankreatitis` {index}`\ <! Pankreatitis>` ist eine Entzündung der
+Eine {dfn}`Pankreatitis` {index}` <! Pankreatitis>` ist eine Entzündung der
 Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch
 *chronisch* verlaufen.
 
@@ -686,7 +686,7 @@ an-/verdaut.
 
 Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist
 präklinisch normalerweise nicht möglich. Charakteristisch ist
-bestenfalls ein **gürtelförmiger Oberbauchschmerz** {index}`\ <gürtelförmiger Oberbauchschmerz>`. Die
+bestenfalls ein **gürtelförmiger Oberbauchschmerz** {index}` <gürtelförmiger Oberbauchschmerz>`. Die
 häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 
 #### Verlauf
@@ -701,8 +701,8 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 ::::
 
 Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der
-Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}`\ <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
-({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}`\ <Schock!septischer!bei Pankreatitis>` Schock erleiden
+Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
+({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock!septischer!bei Pankreatitis>` Schock erleiden
 ({ref}`schock-septischer`).
 
 (ck859x0c)=
@@ -723,22 +723,22 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {
 
 ### Verschluss eines Mesenterialgefäßes: Mesenterialinfarkt
 
-Ein {dfn}`Mesenterialinfarkt` {index}`\ <! Mesenterialinfarkt>` ist eine Ischämie des Darms
+Ein {dfn}`Mesenterialinfarkt` {index}` <! Mesenterialinfarkt>` ist eine Ischämie des Darms
 durch Verschluss einer Darmarterie. *Syn.* *Darminfarkt*. Die den Darm
 versorgenden Arterien verlaufen im Mesenterium [^mesenterium], daher leitet sich
 der Name der Erkrankung ab.
 
-[^mesenterium]: Das *Mesenterium* {index}`\ <Mesenterium!Mesenterialinfarkt>`
+[^mesenterium]: Das *Mesenterium* {index}` <Mesenterium!Mesenterialinfarkt>`
     (*Darmgekröse*) ist die Aufhängung von Teilen des Dünndarms
     ({ref}`mesenterium`). Darin verlaufen venöse und arterielle Gefäße
-    zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* {index}`\ <Mesenterialarterie>`.
+    zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* {index}` <Mesenterialarterie>`.
 
 Die Folge eines Mesenterialinfarktes ist das *Absterben des
 entsprechenden Darmabschnitts*, dadurch kommt es zu einer Perforation
 mit einer Bauchfellentzündung, Sepsis und einem Versterben des
-Patienten. Er ist somit ein *ischämischer* {index}`\ <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte
+Patienten. Er ist somit ein *ischämischer* {index}` <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte
 treten gehäuft bei Patienten mit erhöhtem thromboembolischen
-Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* {index}`\ <Vorhofflimmern!Mesenterialinfarkt>`
+Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* {index}` <Vorhofflimmern!Mesenterialinfarkt>`
 ({ref}`vorhofflimmern`).
 
 ```{index} single: Akutes Abdomen; bei Mesenterialinfarkt
@@ -799,7 +799,7 @@ Stuhlabgängen* kommen.
 :::
 ::::
 
-Eine {dfn}`Bauchfellentzündung` {index}`\ <! Bauchfellentzündung>` (*Peritonitis*) ist eine
+Eine {dfn}`Bauchfellentzündung` {index}` <! Bauchfellentzündung>` (*Peritonitis*) ist eine
 Entzündung bzw. Keimbesiedelung des Bauchfells.
 
 Durch die Entzündung

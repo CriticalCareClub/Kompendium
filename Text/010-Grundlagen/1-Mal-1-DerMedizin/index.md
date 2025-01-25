@@ -4,7 +4,7 @@ Die Medizin ist die Lehre von Gesundheit und Krankheit sowie die Kunde
 der Gesunderhaltung, Heilung und Linderung.
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Pathomechanismen/index
 Diagnose/index

@@ -44,8 +44,8 @@ duodeni major* in das *Duodenum*.
   an das Duodenum abgegeben.
 
 - **Endokrin**:
-  Produktion von **Insulin** {index}`\ <! Insulin>`
-  und **Glukagon** {index}`\ <! Glukagon>` für den
+  Produktion von **Insulin** {index}` <! Insulin>`
+  und **Glukagon** {index}` <! Glukagon>` für den
   Zuckerhaushalt sowie *Somatostatin* in den *Langerhans-Inseln*.
 
   Die endokrine Funktion wird unter {ref}`Pankreas-Endokrin` im Detail ausgeführt.

@@ -25,7 +25,7 @@ Zu den Vitalwerten im engeren Sinn zählt man:
   {ref}`pulsoxymetrie`
 - den *Blutdruck* …
   {ref}`rr-messung`
-- die **Atemfrequenz**{index}`\ <Atemfrequenz>`:
+- die **Atemfrequenz**{index}` <Atemfrequenz>`:
   Bei der Messung der Atemfrequenz
   wird die Anzahl der Atemzüge pro Minute gezählt.
 

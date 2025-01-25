@@ -3,7 +3,7 @@
 
 # Traumatologie
 
-Als {dfn}`Trauma` {index}`\ <! Trauma>` bezeichnet man eine
+Als {dfn}`Trauma` {index}` <! Trauma>` bezeichnet man eine
 Schädigung,
 Verletzung, oder
 Wunde,

@@ -24,17 +24,17 @@ Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der
 Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
 (Krümmungen nach ventral):
 
-{index}`\ <Lordose>`
-{index}`\ <Kyphose>`
-{index}`\ <konvex; Wirbelsäule>`
-{index}`\ <konkav; Wirbelsäule>`
+{index}` <Lordose>`
+{index}` <Kyphose>`
+{index}` <konvex; Wirbelsäule>`
+{index}` <konkav; Wirbelsäule>`
 
 - Hals**lordose** (*konvex*)
 - Brust**kyphose** (*konkav*)
 - Lenden**lordose** (*konvax*)
 - Sakral**kyphose** (*konkav*)
 
-{index}`\ <Skoliose>`
+{index}` <Skoliose>`
 Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung
 aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
 **Skoliose**.
@@ -60,17 +60,17 @@ aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
 
 Die Wirbeln gliedern sich in:
 
-{index}`\ <Halswirbel>`
-{index}`\ <Brustwirbel>`
-{index}`\ <Lendenwirbel>`
-{index}`\ <Kreuzbeinwirbel>`
-{index}`\ <Steißbeinwirbel>`
-{index}`\ <Vertebrae; cervicales>`
-{index}`\ <Vertebrae; blau>`
-{index}`\ <Vertebrae; orange>`
-{index}`\ <Vertebrae; sacrales>`
-{index}`\ <Os; sacrum>`
-{index}`\ <Os; coccygis>`
+{index}` <Halswirbel>`
+{index}` <Brustwirbel>`
+{index}` <Lendenwirbel>`
+{index}` <Kreuzbeinwirbel>`
+{index}` <Steißbeinwirbel>`
+{index}` <Vertebrae; cervicales>`
+{index}` <Vertebrae; blau>`
+{index}` <Vertebrae; orange>`
+{index}` <Vertebrae; sacrales>`
+{index}` <Os; sacrum>`
+{index}` <Os; coccygis>`
 
 - **7 Halswirbel** (*Vertebrae cervicales*, rosa) = **C1—C7**
 - **12 Brustwirbel** (Vertebrae *thoracales*, blau) = **Th1—Th12**

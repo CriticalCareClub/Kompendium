@@ -222,8 +222,8 @@ Das klassische Beispiel eines Knochens ist immer der Röhrenknochen. An
 ihm kann man zwei *Epiphysen* (Knochenenden), zwei *Metaphysen*
 (Knochenhals) und eine *Diaphyse* (Knochenschaft) unterscheiden. Im
 Bereich der Metaphyse befindet sich die **Epiphysenfuge**
-{index}`\ <Epiphysenfuge>`
-{index}`\ <Wachstumsfuge>`
+{index}` <Epiphysenfuge>`
+{index}` <Wachstumsfuge>`
 (Wachstumsfuge).
 Insbesondere im Bau des Röhrenknochens kann man die
 Leichtbau-Konstruktion nachvollziehen. *Apophysen* sind Knochenhöcker

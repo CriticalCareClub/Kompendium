@@ -23,7 +23,7 @@ Man unterscheidet:
     (Behaarung, Stimmbruch, Menstruation, Brustentwicklung)
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Mann/index
 Frau/index

@@ -66,7 +66,7 @@ In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die
 behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als
 behandlungspflichtig gelten zum Beispiel die *Eigen-* und
 *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat
-der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}`\ <! Unterbringungsgesetz>` ({dfn}`UbG` {index}`\ <! UbG>`) vorgesehen. Auch der
+der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der
 geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche
 Schritte nach sich ziehen, im Sinne einer Besachwaltung.
 
@@ -179,7 +179,7 @@ Psychiatrische Erkrankungen oder Symptome funktionieren *nicht* nach dem
 Auch die Wahrnehmung der Umgebung insgesamt kann gestört sein, auch hier
 gibt es verschiedene Abstufungen.
 
-Die einfachste Form ist die {dfn}`Wahnidee` {index}`\ <Wahnidee>`. Hierbei hat der
+Die einfachste Form ist die {dfn}`Wahnidee` {index}` <Wahnidee>`. Hierbei hat der
 Patient eine klar abgegrenzte Vorstellung von etwas, was mit der
 Realität kaum oder gar nicht plausibel vereinbar ist:
 
@@ -187,7 +187,7 @@ Realität kaum oder gar nicht plausibel vereinbar ist:
 > Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
 > abgesteckt wurde."*
 
-Diese Wahnideen können in weiterer Folge zu einem {dfn}`Wahnsystem` {index}`\ <Wahnsystem>` ausgebaut werden
+Diese Wahnideen können in weiterer Folge zu einem {dfn}`Wahnsystem` {index}` <Wahnsystem>` ausgebaut werden
 
 > *"Das Gebühren-Info-Service des ORF ist eine Deckmantelorganisation
 > des israelischen Geheimdienstes Mossad, welcher im Auftrag der CIA
@@ -280,7 +280,7 @@ mit diesen Patienten eingegangen werden.
 
 ### Suizidalität
 
-{dfn}`Suizid` {index}`\ <! Suizid>`
+{dfn}`Suizid` {index}` <! Suizid>`
 bezeichnet die absichtliche Selbsttötung.
 Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und
 fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche
@@ -326,7 +326,7 @@ Gründen – aussenden kann.
 
 ### Psychose
 
-{dfn}`Psychose` {index}`\ <Psychose>` ist eine allgemeine Bezeichnung für eine
+{dfn}`Psychose` {index}` <Psychose>` ist eine allgemeine Bezeichnung für eine
 *psychische Störung* mit strukturellem *Wandel des Erlebens*
 {term}`🗎 Pschyrembel 259`. Man unterscheidet zwischen organischen, körperlich
 begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
@@ -371,7 +371,7 @@ Denkens, der Wahrnehmung und des Affektes* charaktersisiert.
 
 ### Demenz
 
-Die {dfn}`Demenz` {index}`\ <! Demenz>` ist eine fortschreitende Einschränkung
+Die {dfn}`Demenz` {index}` <! Demenz>` ist eine fortschreitende Einschränkung
 der geistigen Leistungsfähigkeit des Gehirns.
 Die häufigste Form ist
 die *Altersdemenz*, daneben gibt es noch viel andere Formen der Demenz.
@@ -398,12 +398,12 @@ psychomotorische *Unruhe* und *Aggressivität*.
 #### Beschreibung: Depression und Manie
 
 Die {dfn}`Depression`
-{index}`\ <! Depression>`
+{index}` <! Depression>`
 ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte
 Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte
 Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
 Die {dfn}`Manie`
-{index}`\ <! Manie>`
+{index}` <! Manie>`
 ist dagegen ein
 Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und
 Willenssphäre sowie des Denkens.

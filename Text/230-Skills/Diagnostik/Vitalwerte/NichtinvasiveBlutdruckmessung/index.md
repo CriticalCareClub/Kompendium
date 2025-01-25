@@ -24,10 +24,10 @@ Wenn wir vom *"Blutdruck"* sprechen beziehen wir uns auf den Blutdruck in den {r
 Er gehört, in Kombination mit der Herzfrequenz, zu den grundlegenden Vitalwerten.
 
 *Der Druck in der Arterie schwankt in Abhängigkeit zum Herzauswurf*:
-Wenn das Herz Blut auswirft (*Auswurfphase* {index}`\ <Auswurfphase!Blutdruckmessung>`, *Systole)*
-{index}`\ <Systole!Blutdruckmessung>` erreicht er sein Maximum, und sinkt danach in der *Füllungsphase*
-{index}`\ <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)*
-{index}`\ <Diastole!Blutdruckmessung>`
+Wenn das Herz Blut auswirft (*Auswurfphase* {index}` <Auswurfphase!Blutdruckmessung>`, *Systole)*
+{index}` <Systole!Blutdruckmessung>` erreicht er sein Maximum, und sinkt danach in der *Füllungsphase*
+{index}` <Füllungsphase!Blutdruckmessung>` des Herzens (*Diastole)*
+{index}` <Diastole!Blutdruckmessung>`
 wieder ab, bis das Herz neuerlich Blut auswirft.
 Dementsprechend können zwei Werte erhoben werden:
 Der

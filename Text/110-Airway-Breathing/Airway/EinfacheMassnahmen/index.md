@@ -19,7 +19,7 @@ Daneben gibt es erweitere Techniken, welche zur Atemwegssicherung
 verwendet werden können (Guedel-Tubus, Intubation, …).
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Fremdkoerperentfernung/index
 Lagerungsmanoever/index

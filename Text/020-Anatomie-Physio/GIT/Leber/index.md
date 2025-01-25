@@ -103,7 +103,7 @@ Giftstoffen und Medikamenten,
 die Speicherung von Zucker in Form von Glykogen
 und die Ausscheidung durch Produktion und Aussonderung von Gallenflüssigkeit.
 
-{index}`\ <First-Pass-Effekt>`
+{index}` <First-Pass-Effekt>`
 Dementsprechend erhält die Leber
 das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems
 über die **Pfortader**,

@@ -5,7 +5,7 @@
 # Konventionelle endotracheale Intubation (oral)
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 ```
 
 ```{eval-rst}

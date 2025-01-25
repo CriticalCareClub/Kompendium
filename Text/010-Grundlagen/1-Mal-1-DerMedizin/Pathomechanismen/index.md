@@ -158,7 +158,7 @@ bei malignen Erkrankungen der Blutzellen spricht man
 Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen
 *Karzinomen*, *Sarkomen* und *Blastomen*,
 bei malignen Erkrankungen der Blutzellen spricht man
-von *Leukämien* {index}`\ <Leukämie>` bzw. *Lymphomen* {index}`\ <Lymphom>`.
+von *Leukämien* {index}` <Leukämie>` bzw. *Lymphomen* {index}` <Lymphom>`.
 Maligne Neoplasien wergen umgangssprachlich als *Krebs* (engl. *Cancer*) bezeichnet.
 
 Der Fachbereich der sich mit malignen Neubildungen (Krebserkrankungen) befasst ist die *Onkologie*.

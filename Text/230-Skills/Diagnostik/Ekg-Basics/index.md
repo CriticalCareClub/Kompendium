@@ -136,8 +136,8 @@ Brustwandableitungen: [^footnote-1]
     weitere Ableitungmöglichkeiten wie
     z. B. die Ableitungen nach *Nehb*
     oder die *rechtsthorakalen*
-    {index}`\ <Brustwandableitungen!rechtsthorakale>` bzw.
-    linksdorsalen {index}`\ <Brustwandableitungen!linksdorsale>`
+    {index}` <Brustwandableitungen!rechtsthorakale>` bzw.
+    linksdorsalen {index}` <Brustwandableitungen!linksdorsale>`
     Brustwandableitungen.
     Zusammen ergeben die Elektroden der Frontal-
     und Horizontalebene eine dreidimensionale Darstellung der

@@ -79,10 +79,10 @@ Kopfteil und in einen Rumpfteil eingeteilt werden.
   - *Ileum* (Krummdarm)
   -
 - - Dickdarm
-  - **Blinddarm** {index}`\ <Blinddarm>`
+  - **Blinddarm** {index}` <Blinddarm>`
   - Sackgasse
 - -
-  - **Wurmfortsatz** {index}`\ <Wurmfortsatz>` (**Appendix** {index}`\ <Appendix>`)
+  - **Wurmfortsatz** {index}` <Wurmfortsatz>` (**Appendix** {index}` <Appendix>`)
   - Anhängsel der Sackgasse, kann sich entzünden.
 - -
   - *Aufsteigender* Teil
@@ -97,7 +97,7 @@ Kopfteil und in einen Rumpfteil eingeteilt werden.
   - *S-förmig* gebogener Teil
   -
 - -
-  - **Mastdarm** {index}`\ <Mastdarm>` (**Rektum** {index}`\ <Rektum>`)
+  - **Mastdarm** {index}` <Mastdarm>` (**Rektum** {index}` <Rektum>`)
   - Speicherung des           Stuhls unmittelbar vor Ausscheidung
 - -
   - **Anus**

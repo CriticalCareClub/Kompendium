@@ -5,16 +5,16 @@
 ## Verstauchung, Bänderzerrung und Bänderriss
 
 Eine {dfn}`Verstauchung`
-{index}`\ <! Verstauchung>`
+{index}` <! Verstauchung>`
 (*Syn.* {dfn}`Distorsion`
-{index}`\ <! Distorsion>`,
+{index}` <! Distorsion>`,
 *lat.* *Distorsio* (*Dist.*))
 ist eine Zerrung bzw.
 Überdehnung des Kapsel-/Bandapparates eines Gelenks.
 
 Bei der Verstauchung
 ({dfn}`Distorsion`
-{index}`\ <! Distorsion>`)
+{index}` <! Distorsion>`)
 handelt es sich um eine Gelenksverletzung,
 bei welcher ein Knochen durch stumpfe
 Gewalteinwirkung kurz verschoben oder verdreht wird.
@@ -71,9 +71,9 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 ## Verrenkung
 
 Eine {dfn}`Verrenkung`
-{index}`\ <! Verrenkung>`
+{index}` <! Verrenkung>`
 (*Syn.* {dfn}`Luxation`
-{index}`\ <! Luxation>`,
+{index}` <! Luxation>`,
 *lat.* *Luxatio* (*Lux.*))
 ist eine Gelenkverletzung,
 bei der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung
@@ -81,7 +81,7 @@ zueinander verschoben werden. Dabei kommt es meist zu
 Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern {term}`🗎 Gorgass 7`.
 
 Die Verrenkung
-({dfn}`Luxation`{index}`\ <! Luxation>`) ist eine
+({dfn}`Luxation`{index}` <! Luxation>`) ist eine
 Gelenksverletzung, bei der – im Gegensatz zur Verstauchung – der
 verschobene oder verdrehte Knochen nicht von selbst in das Gelenk zurück
 gesprungen ist. Die betroffene Extremität kann daher nicht mehr bewegt

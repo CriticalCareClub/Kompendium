@@ -24,10 +24,10 @@
 :::
 ::::
 
-{dfn}`Sauerstoff` {index}`\ <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas,
+{dfn}`Sauerstoff` {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas,
 welches zu 21% in der Luft vorkommt.
 Das chemische Symbol (genauer: Summenformel)
-lautet {dfn}`O₂`{index}`\ <! O₂>`.
+lautet {dfn}`O₂`{index}` <! O₂>`.
 
 ## O₂-Druckflaschen
 
@@ -67,7 +67,7 @@ dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
 ```
 
 Jede Druckflasche verfügt über ein {dfn}`Hauptventil`
-{index}`\ <! Hauptventil>` und
+{index}` <! Hauptventil>` und
 ein Standardgewinde.
 An diesem Gewinde ist entweder ein weiterführender
 Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
@@ -250,7 +250,7 @@ durchgeführt werden.
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
 Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich
 gegeben werde
-({dfn}`Berieselung`{index}`\ <! Berieselung>`),
+({dfn}`Berieselung`{index}` <! Berieselung>`),
 aber auch bei der *Beatmung* zugeführt werden.
 
 :::{note}
@@ -278,11 +278,11 @@ ein *Flowmeter* und ein *Manometer* verfügen.
 Mit dem {dfn}`Regelventil` kann man die Durchfluss- bzw. Abgaberate
 einstellen,
 das {dfn}`Flowmeter`
-{index}`\ <! Flowmeter>`
+{index}` <! Flowmeter>`
 (Durchflussanzeige) zeigt die aktuelle
 Durchflussrate in Liter pro Minute (L / min) an.
 Das {dfn}`Manometer`
-{index}`\ <Manometer>`
+{index}` <Manometer>`
 zeigt den Druck in der
 Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 

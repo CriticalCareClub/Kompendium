@@ -39,7 +39,7 @@ Die Farbkodierung gibt den Durchmesser des Absaugkatheters an (vgl. Tabelle {ref
 
 ## Oro-Sauger
 
-Der {dfn}`Oro-Sauger` {index}`\ <! Oro-Sauger>` ist ein simples Gerät, welches zum
+Der {dfn}`Oro-Sauger` {index}` <! Oro-Sauger>` ist ein simples Gerät, welches zum
 Absaugen von Schleim und Fruchtwasser von *Neugeborenen* eingesetzt
 wird. Er besteht aus einem Absaugkatheter, welcher mit einem Behälter
 verbunden ist. Von dem Behälter geht ein weiterer Schlauch ab, welcher
@@ -145,7 +145,7 @@ Weinmann AccuVac
 
 Wenn *Absaugbereitschaft* hergestellt werden muss, wird aus
 hygienischen Gründen nur der farbige Trichter des Katheters ausgepackt
-und an den Konnektor bzw. den {dfn}`Fingertip` {index}`\ <Fingertip>` der
+und an den Konnektor bzw. den {dfn}`Fingertip` {index}` <Fingertip>` der
 Absaugpumpe angeschlossen. Der restliche Teil des Katheters bleibt so
 lange in der Verpackung bis mit der Absaugung begonnen wird.
 

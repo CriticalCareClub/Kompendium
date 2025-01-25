@@ -111,8 +111,8 @@ Koronarangiographie
   signifikante Engstellen, welche das Substrat einer koronaren
   Herzkrankheit, eines akuten Koronarsyndroms bzw. eines Herzinfarktes
   darstellen, untersucht. Im Rahmen des Vorganges können diese
-  Engstellen auch gleich behandelt werden (**PCI** {index}`\ <PCI>`,
-  *Percutaneous Coronary Intervention*; **PTCA** {index}`\ <PTCA>`,
+  Engstellen auch gleich behandelt werden (**PCI** {index}` <PCI>`,
+  *Percutaneous Coronary Intervention*; **PTCA** {index}` <PTCA>`,
   *Perkutaneous Transluminal Coronary Angioplasty*). Als Optionen
   stehen die Dehnung mittels eines Ballons und/oder die Einbringung
   eines *Stents* in das betroffene Gefäß zur Wahl.

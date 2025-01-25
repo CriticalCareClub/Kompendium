@@ -15,9 +15,9 @@
 
 :::{admonition} Definition
 Eine Verbrennung
-{index}`\ <Verbrennung>`
-{index}`\ <Combustio>`
-{index}`\ <Comb.>`
+{index}` <Verbrennung>`
+{index}` <Combustio>`
+{index}` <Comb.>`
 (*Lat.* *Combustio*, *Abkz.* *Comb.*)
 ist eine durch
 Hitzeeinwirkung entstandene Schädigung des Gewebes,
@@ -25,10 +25,10 @@ besonders häufig der Haut.
 Sie ist eine thermische Wunde.
 
 Eine {dfn}`Verbrühung`
-{index}`\ <! Verbrühung>`
-{index}`\ <! Ambustio>`
-{index}`\ <! Amb.>`
-{index}`\ <! scald>`
+{index}` <! Verbrühung>`
+{index}` <! Ambustio>`
+{index}` <! Amb.>`
+{index}` <! scald>`
 (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
 ist eine thermische Schädigung durch heiße Flüssigkeit
 oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
@@ -74,7 +74,7 @@ werden.
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
 besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
 Ab ca. 20–30% verbrannter
-Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}`\ <! Verbrennungskrankheit>`
+Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>`
 entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit
 der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und
@@ -111,11 +111,11 @@ bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
 Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird
 in Prozent der verbrannten Körperoberfläche angegeben. Diese kann
 entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt
-werden. Die {dfn}`Handregel` {index}`\ <Handregel>` besagt, dass die Handfläche
+werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche
 (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche
 entspricht.
 
-Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}`\ <Neunerregel>`
+Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>`
 angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
 der Vebrennung abschätzen zu können.
 
@@ -375,7 +375,7 @@ allmählich.
 ::::
 
 Von einem
-{dfn}`Inhalationstrauma` {index}`\ <! Inhalationstrauma>`
+{dfn}`Inhalationstrauma` {index}` <! Inhalationstrauma>`
 spricht man bei
 Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine
 Schädigung der Atemwege und der Lunge zur Folge hat.

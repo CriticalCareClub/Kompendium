@@ -12,8 +12,8 @@ zwischen 36,5 und 37,5°C
 konstant.
 Übersteigt die Wärmezufuhr die effektive Wärmeabgabe,
 resultiert ein Hitzeschaden:
-{dfn}`Hitzekollaps`{index}`\ <! Hitzekollaps>`,
-{dfn}`Hitzeerschöpfung`, {dfn}`Hitzschlag` {index}`\ <! Hitzschlag>` (bzw. Sonnenstich
+{dfn}`Hitzekollaps`{index}` <! Hitzekollaps>`,
+{dfn}`Hitzeerschöpfung`, {dfn}`Hitzschlag` {index}` <! Hitzschlag>` (bzw. Sonnenstich
 bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 
 (hitzeerschoepfung)=
@@ -42,14 +42,14 @@ bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 ::::
 
 Bei einem Wärmestau, bei dem die zugeführte Wärme größer ist, als die
-abgegebene, kann es zu einem so genannten {dfn}`Hitzekollaps` {index}`\ <! Hitzekollaps>` kommen. Die *Blutgefäße* in der Haut *erweitern* sich und
+abgegebene, kann es zu einem so genannten {dfn}`Hitzekollaps` {index}` <! Hitzekollaps>` kommen. Die *Blutgefäße* in der Haut *erweitern* sich und
 das Blut versackt, der *Blutdruck fällt ab* und die Durchblutung des
 Gehirns nimmt kurzfristig ab. Die Folge ist eine *kurze Ohnmacht*, dem
 Patient wird "schwarz vor Augen". Lagert man ihn flach, oder eventuell
 mit erhöhten Beinen, und kühlt ihn, bzw. bringt ihn an einen kühlen Ort,
 so bessert sich sein Zustand recht rasch.
 
-Bei der {dfn}`Hitzeerschöpfung` {index}`\ <! Hitzeerschöpfung>` ist die *Wärmeaufnahme
+Bei der {dfn}`Hitzeerschöpfung` {index}` <! Hitzeerschöpfung>` ist die *Wärmeaufnahme
 dauerhaft größer als die Wärmeabgabe*. Der Körper versucht dies durch
 starkes Schwitzen zu kompensieren, dadurch kommt es zu einem *starken
 Wasser- und Elektrolytverlust*. Der *Blutdruck fällt*, es kommt zu einer
@@ -115,7 +115,7 @@ es wichtig den Patienten zu kühlen.
 Der Hitzschlag und der Sonnenstich sind *lebensbedrohliche
 Hitzeerkrankungen*.
 
-Beim {dfn}`Hitzschlag` {index}`\ <! Hitzschlag>`
+Beim {dfn}`Hitzschlag` {index}` <! Hitzschlag>`
 ist die *Regulation der Körpertemperatur gestört*.
 Es sind *sehr hohe Temperaturwerte*
 (bis 43°C) möglich.
@@ -126,7 +126,7 @@ Erbrechen und Bewusstseinsstörungen; bis hin zur Bewusstlosigkeit. Der
 Patient kann Schockzeichen zeigen, evtl. auch eine schnelle, flache
 Atmung.
 
-Ein {dfn}`Sonnenstich` {index}`\ <! Sonnenstich>` ist ein Hitzeschaden durch
+Ein {dfn}`Sonnenstich` {index}` <! Sonnenstich>` ist ein Hitzeschaden durch
 Hirnerwärmung infolge von direkter Sonneneinstrahlung auf den
 **ungeschützten Kopf**. Er ist eine Sonderform des Hitzeschadens: er
 entsteht durch *direkte Sonneneinstrahlung* auf den ungeschützten Kopf.
@@ -188,7 +188,7 @@ und Bewusstlosigkeit kommen.
 :width: 50%
 :::
 
-Eine {dfn}`Unterkühlung` {index}`\ <! Unterkühlung>` ist eine Erniedrigung der
+Eine {dfn}`Unterkühlung` {index}` <! Unterkühlung>` ist eine Erniedrigung der
 Körperkerntemperatur auf unter 36°C. Ähnlich wie beim Schock kommt es
 auch bei der Unterkühlung zur Zentralisation des Blutes, um die
 Körperkerntemperatur aufrecht erhalten zu können. Je niedriger diese
@@ -198,7 +198,7 @@ Es besteht die Gefahr, dass kaltes Blut aus der Peripherie zum Körper
 hin fließt und sich mit dem noch relativ warmen zentralisierten Blut
 vermischt. Es kommt dann zu einer weiteren Unterkühlung des
 Körperstammes, im schlimmsten Fall zu einem
-{dfn}`Bergungstod` {index}`\ <! Bergungstod>`
+{dfn}`Bergungstod` {index}` <! Bergungstod>`
 (Blutfluss in Folge von Bewegungen während des
 Bergungsversuches).
 
@@ -214,14 +214,14 @@ Bergungsversuches).
 :::
 ::::
 
-- {dfn}`Kampfphase` {index}`\ <! Kampfphase>`:
+- {dfn}`Kampfphase` {index}` <! Kampfphase>`:
   36,5-34°C, Kältezittern,
   Herzfrequenz steigt (> 100/ min), schnelle Atmung,
   Schmerzen.
-- {dfn}`Erschöpfungsphase` {index}`\ <! Erschöpfungsphase>`: 34—30°C,
+- {dfn}`Erschöpfungsphase` {index}` <! Erschöpfungsphase>`: 34—30°C,
   Bewusstseinstrübung, Kältestarre, Herzfrequenz sinkt wieder (\< 60 / min),
   zu langsame Atmung, keine Schmerzen mehr.
-- {dfn}`Kältenarkose` {index}`\ <! Kältenarkose>`: 30—27°C,
+- {dfn}`Kältenarkose` {index}` <! Kältenarkose>`: 30—27°C,
   Bewusstlosigkeit, unregelmäßiger Herzschlag, Atempausen.
 - \< 27°C → klinisch tot.
 

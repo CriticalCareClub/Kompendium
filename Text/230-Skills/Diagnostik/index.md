@@ -1,7 +1,7 @@
 # Diagnostik
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Vitalwerte/index
 KoerperlicheUntersuchung/index

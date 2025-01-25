@@ -8,7 +8,7 @@ Metabolische Störungen.
 
 ### Beschreibung: Blutzuckerstoffwechsel
 
-Der {dfn}`Diabetes mellitus` {index}`\ <! Diabetes mellitus>` ist eine chronische
+Der {dfn}`Diabetes mellitus` {index}` <! Diabetes mellitus>` ist eine chronische
 Stoffwechselerkrankung, bei der die Blutzuckerregulation gestört ist.
 Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu
 folgenden Notfällen kommen:
@@ -59,8 +59,8 @@ Werten zwischen 60 und 200 mg / dL keine Notfallsymptome auftreten. (Herol
 :::
 ::::
 
-{dfn}`Insulin` {index}`\ <! Insulin>` ist für den Zuckerstoffwechsel wichtig, da es
-dafür sorgt, dass Zucker ({dfn}`Glukose` {index}`\ <! Glukose>`) aus dem Blut in
+{dfn}`Insulin` {index}` <! Insulin>` ist für den Zuckerstoffwechsel wichtig, da es
+dafür sorgt, dass Zucker ({dfn}`Glukose` {index}` <! Glukose>`) aus dem Blut in
 die Zellen aufgenommen wird. Es *senkt daher den Blutzuckerspiegel*.
 Insulin wird therapeutisch zur Behandlung des Diabetes mellitus
 angewendet. Wenn man künstlich Insulin spritzt, besteht die Gefahr eines
@@ -161,7 +161,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
     Risiko für Schlaganfälle erhöht.
   - *Niere*: Die sehr kleinen Gefäße der Niere werden geschädigt. Im
     weiteren Verlauf stellt die Niere ihre Arbeit ein, es kommt zu
-    einer {dfn}`chronischen Niereninsuffizienz` {index}`\ <! chronischen Niereninsuffizienz>`, die im
+    einer {dfn}`chronischen Niereninsuffizienz` {index}` <! chronischen Niereninsuffizienz>`, die im
     Endstadium mittels Blutwäsche (Dialyse) behandelt werden muss.
     Dialyse-Patienten machen einen großen Teil der Krankentransporte
     aus.
@@ -186,7 +186,7 @@ hinweg schädigt den gesamten Körper. Es kommt zu:
 :::
 ::::
 
-Die {dfn}`Hypoglykämie` {index}`\ <! Hypoglykämie>` ist eine maßgebliche Erniedrigung
+Die {dfn}`Hypoglykämie` {index}` <! Hypoglykämie>` ist eine maßgebliche Erniedrigung
 des Blutzuckerspiegels.
 
 Die häufigsten Ursachen für eine plötzliche
@@ -282,7 +282,7 @@ aufgrund der Aspirationsgefahr nichts mehr essen).
 :::
 ::::
 
-Eine {dfn}`Hyperglykämie` {index}`\ <! Hyperglykämie>` ist eine maßgebliche Erhöhung
+Eine {dfn}`Hyperglykämie` {index}` <! Hyperglykämie>` ist eine maßgebliche Erhöhung
 des Blutzuckerspiegels.
 Dies ist nicht automatisch ein Notfall. Die
 Bedrohlichkeit ist davon abhängig, wie rasch sich diese Erhöhung
@@ -414,5 +414,5 @@ Taktik
 
 > - Lagerung: Stabile Seitenlage
 
-[^diabetischeketoazidose]: Genauer: *diabetischen* {index}`\ <Ketoazidose!diabetische>`
+[^diabetischeketoazidose]: Genauer: *diabetischen* {index}` <Ketoazidose!diabetische>`
     Ketoazidose

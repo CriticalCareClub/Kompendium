@@ -146,7 +146,7 @@ für die Nerven und den Muskel wichtig.
 ## Osmose und Diffusion
 
 Unter {dfn}`Osmose`
-{index}`\ <Osmose>`
+{index}` <Osmose>`
 versteht man den Fluss von Molekülen durch eine
 *halbdurchlässige Membran*.
 Im menschlichen Körper

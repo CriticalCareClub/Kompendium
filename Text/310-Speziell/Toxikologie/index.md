@@ -4,7 +4,7 @@
 
 ## Beschreibung
 
-Eine {dfn}`Vergiftung` {index}`\ <! Vergiftung>` ist eine (meist dosisabhängige)
+Eine {dfn}`Vergiftung` {index}` <! Vergiftung>` ist eine (meist dosisabhängige)
 organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus
 durch eine aufgenommene Substanz.
 
@@ -321,7 +321,7 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 % -   Gesteigertes Erleben der Umwelt.
 :::
 
-Als {dfn}`Partydrogen` {index}`\ <! Partydrogen>` bezeichnet man Amphetaminpräparate
+Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate
 oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art
 gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA
 (3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig
@@ -355,7 +355,7 @@ Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen,
 *Krampfanfälle*, *hypertensive Krisen*, massiver
 *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer
 ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig
-kommt es zum *Flüssigkeitsmangel* {index}`\ <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}`\ <Dehydratation!Ecstacy>` da der Patient einerseits auf das
+kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das
 Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei
 durch Schwitzen viel Flüssigkeit verliert.
 
@@ -666,7 +666,7 @@ Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
 
 #### Beschreibung
 
-Eine {dfn}`Verätzung` {index}`\ <! Verätzung>` ist eine lokale Schädigung der Haut
+Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut
 bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung)
 von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 

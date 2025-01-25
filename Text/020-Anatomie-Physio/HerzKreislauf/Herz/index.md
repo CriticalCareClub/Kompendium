@@ -408,9 +408,9 @@ Hiezu einige Grundbegriffe:
 ## Endokrine Funktion
 
 Das Herz sezerniert in den Vorhöfen ausgelöst durch  Stimualtion eines Dehnungsreizes das *Atriale Natriuretische Peptid*
-{index}`\ <Atriale Natriuretische Peptid>`
-{index}`\ <Peptid; Atriales Natriuretisches>`
-(*ANP*{index}`\ <ANP>`, *Atriopeptin*{index}`\ <Atriopeptin>`, *Cardionatrin*{index}`\ <Cardionatrin>`).
+{index}` <Atriale Natriuretische Peptid>`
+{index}` <Peptid; Atriales Natriuretisches>`
+(*ANP*{index}` <ANP>`, *Atriopeptin*{index}` <Atriopeptin>`, *Cardionatrin*{index}` <Cardionatrin>`).
 Es erhöht in der Niere nie Natrium- und Wasserausscheidung.
 
 Weiters kommt es über den Dehnungsreiz nerval vermittelt zu einer Hemmung der ADH-Freisetzung aus dem Hypophysenhinterlappen, was wiederum zun einer verstärkten Diurese führt.

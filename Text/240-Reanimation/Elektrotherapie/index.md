@@ -76,10 +76,10 @@ Automatische und halbautomatische externe Defibrillatoren
 
 : ({dfn}`AED`: {dfn}`Automatischer externer Defibrillator`;
   {dfn}`SAED`: {dfn}`Semi-automatischer externer Defibrillator`, "Halbautomat"):
-  {index}`\ <AED>`
-  {index}`\ <SAED>`
-  {index}`\ <Defibrillator; automatischer externer>`
-  {index}`\ <Defibrillator; semi-automatischer externer>`
+  {index}` <AED>`
+  {index}` <SAED>`
+  {index}` <Defibrillator; automatischer externer>`
+  {index}` <Defibrillator; semi-automatischer externer>`
   Das Gerät analysiert das EKG und beurteilt, ob ein Schock abgegeben
   werden soll. Bei automatischen Defibrillatoren wird die
   Analysefunktion vom Gerät automatisch gestartet, diese Kategorie kann
@@ -103,9 +103,9 @@ Automatische implantierbare Defibrillatoren
 
 : können Patienten operativ -- ähnlich einem Herzschrittmacher --
   implantiert werden
-  {index}`\ <Defibrillator; implantierbarer>`
-  {index}`\ <ICD>`
-  {index}`\ <Implantable Cardiac Device>`
+  {index}` <Defibrillator; implantierbarer>`
+  {index}` <ICD>`
+  {index}` <Implantable Cardiac Device>`
   (*Abkz.* {dfn}`ICD`: {dfn}`Implantable Cardiac Device`).
   Diese geben automatisch einen Schock ab,
   wenn sie eine defibrillationspflichtige
@@ -168,20 +168,20 @@ Rhythmen:
 
 - **Schockbare** Rhythmen
 
-  - **Kammerflimmern** {index}`\ <Kammerflimmern>`:
+  - **Kammerflimmern** {index}` <Kammerflimmern>`:
     Unkoordnierte, "wirre" elektrische
     Aktivität
   - **Pulslose Ventrikuläre Tachykardie**
-    {index}`\ <Pulslose Ventrikuläre Tachykardie>` (*PVT*): Zu
+    {index}` <Pulslose Ventrikuläre Tachykardie>` (*PVT*): Zu
     schneller Herzrhythmus, das Herz kann sich nicht ausreichend
     füllen, daher fehlt die Pumpleistung
 
 - **Nicht-schockbare** Rhythmen
 
-  - **Asystolie** {index}`\ <Asystolie>`:
+  - **Asystolie** {index}` <Asystolie>`:
     Keine Elektrische Aktivität
   - **Pulslose elektrische Aktivität**
-    {index}`\ <Pulslose elektrische Aktivität>`
+    {index}` <Pulslose elektrische Aktivität>`
     (*PEA*):
     Darunter fallen sämtliche andere elektrische Herzrhythmen,
     bei welchen das Herz auf einen elektrischen Impuls

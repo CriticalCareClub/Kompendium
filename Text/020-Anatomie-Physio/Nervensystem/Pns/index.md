@@ -2,7 +2,7 @@
 
 :::{admonition} Defintion
 Unter dem Begriff {dfn}`Peripheres Nervensystem`
-{index}`\ <! Peripheres Nervensystem>` fasst man
+{index}` <! Peripheres Nervensystem>` fasst man
 die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 :::
 

@@ -1,7 +1,7 @@
 # Chirurgische A-Maßnahmen
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 ```
 
 Zur Schaffung eines chirurgischen Atemweges stehen die *Koniotomie* und die *Tracheotomie* zur Verfügung.

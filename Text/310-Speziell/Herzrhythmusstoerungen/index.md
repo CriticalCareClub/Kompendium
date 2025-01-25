@@ -64,8 +64,8 @@ Eine Sonderform nimmt die
 wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
 Dies wird als
 **elektromechanische Dissoziation**
-{index}`\ <Dissoziation; elektromechanische>`
-{index}`\ <elektromechanische Dissoziation>`
+{index}` <Dissoziation; elektromechanische>`
+{index}` <elektromechanische Dissoziation>`
 bezeichnet
 und kann dauerhaft
 oder

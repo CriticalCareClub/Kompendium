@@ -324,8 +324,8 @@ Die **Sauerstoffbindungskapazität** wird bestimmt durch die Hämoglobinkonzentr
 Unter optimalen Bedingungen von 1 g Hämoglobin 1,34 mL Sauerstoff gebunden werden.
 Dieser Faktor von 1,34 wird auch als
 {dfn}`Hüfner-Zahl`
-{index}`\ <Hüfner-Zahl>`
-{index}`\ <Zahl; Hüfner->`
+{index}` <Hüfner-Zahl>`
+{index}` <Zahl; Hüfner->`
 bezeichnet.
 Es ist jedoch wichtig zu wissen dass u. a. der {ref}`pH-Wert <PH>` die Sauerstoffbindungsaffinität maßgeblich verändert:
 Bei einer Azidose nimmt die Affinität ab (Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben), bei einer Alkalose nimmt die Affinität zu (Sauerstoff wird leichter aufgenommen, aber im Gewebe schlechter abgegeben).

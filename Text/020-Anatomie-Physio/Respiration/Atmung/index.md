@@ -413,7 +413,7 @@ Es gibt drei wichtige Kennzahlen, welche die Atmung beschreiben {term}`🗎 Klin
    Atemzugvolumen eines Erwachsenen beträgt ca. 500 ml. [^azv]
 
 3. Das **Atemzeitvolumen**
-   {index}`\ <Atemminutenvolumen>`{index}`\ <Atemzeitvolumen>`
+   {index}` <Atemminutenvolumen>`{index}` <Atemzeitvolumen>`
    (AZV, $\dot{V}$)
    beschreibt ein pro Zeiteinheit ein- bzw. ausgeatmetes Gasvolumen und wird meist in Liter pro Minute angegeben (Atemminutenvolumen, AMV).
 

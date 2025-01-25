@@ -304,11 +304,11 @@ richtige Funktionieren zu gewährleisten:
 - *Fettansammlungen*: polstern die Gelenkbewegungen ab und können auch
   an der Weichteilhemmung des Gelenkes beteiligt sein.
 
-{index}`\ <Endomysium>`
-{index}`\ <Perimysium>`
-{index}`\ <Epimysium>`
-{index}`\ <Faszie>`
-{index}`\ <Muskel; -faszie>`
+{index}` <Endomysium>`
+{index}` <Perimysium>`
+{index}` <Epimysium>`
+{index}` <Faszie>`
+{index}` <Muskel; -faszie>`
 Die Muskelfasern sind von Bindegewebe (*Endo*mysium) umhüllt. Diese
 bilden dann gemeinsam Muskelbündel, die wiederum von Bindegewebe (*Peri*mysium) umhüllt
 werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom
@@ -316,8 +316,8 @@ werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom
 verpackt, um eine möglichst reibungsarme Bewegung zu ermöglichen.
 
 Einige Muskeln besitzen auch einen
-{index}`\ <Hypomochlion>`
-{index}`\ <Umlenkpunkt; Muskel>`
+{index}` <Hypomochlion>`
+{index}` <Umlenkpunkt; Muskel>`
 *Umlenkpunkt* (**Hypomochlion**), da
 Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen,
 z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
@@ -332,7 +332,7 @@ Zusätzlich ist die Muskelkraft immer abhängig vom *physiologischen
 Querschnitt*. Dieser physiologische Querschnitt ist definiert als die
 Summe der Querschnitte aller Fasern.
 
-{index}`\ <Endplatte; motorische>`
+{index}` <Endplatte; motorische>`
 Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem
 motorischen Nerv über die **motorische Endplatte**, eine spezialisierte
 Form der Synapse.

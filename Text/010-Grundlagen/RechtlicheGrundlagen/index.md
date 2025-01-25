@@ -197,7 +197,7 @@ Im *Verhältnis zwischen Patient und Personal* fungiert das Personal bloß
 als Gehilfe zur Erfüllung der Pflichten seiner Organisation gegenüber
 dem Patienten, wodurch man ihn auch als
 {dfn}`Erfüllungsgehilfen`
-{index}`\ <Erfüllungsgehilfe>`
+{index}` <Erfüllungsgehilfe>`
 bezeichnet.
 Er ist nicht
 Vertragspartner des Patienten, muss aber mit der gleichen Sorgfalt, wie
@@ -600,7 +600,7 @@ Eine Person darf gegen oder ohne ihren Willen nur dann in eine
 psychiatrische Abteilung gebracht werden,
 wenn ein im *öffentlichen Sanitätsdienst stehender Arzt*
 oder ein *Polizeiarzt*
-(**Amtsarzt**{index}`\ <Amtsarzt>`)
+(**Amtsarzt**{index}` <Amtsarzt>`)
 sie untersucht
 und bescheinigt,
 dass die Voraussetzungen der Unterbringung vorliegen.
@@ -1186,7 +1186,7 @@ nach dem Medizinproduktegesetz (MPG) fortbilden.
   verpflichtet, sich *innerhalb von 2 Jahren* ab seinem Stichtag im
   Umfang von *16 Stunden fortzubilden*.
   Als **Stichtag**
-  {index}`\ <Stichtag>`
+  {index}` <Stichtag>`
   wird der Monatserste nach bestandener Rettungssanitäterausbildung
   gewertet, wobei sich der Stichtag auch bei Erreichen von höheren
   Kompetenzniveaus nicht ändert. Zu welchem Zeitpunkt die 16

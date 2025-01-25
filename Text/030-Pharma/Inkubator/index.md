@@ -12,7 +12,7 @@ Themen, die in Bearbeitung, aber noch nicht "fertig" sind.
 
 ```{toctree}
 :caption: Inhalt
-:maxdepth: 2
+:maxdepth: 1
 
 Pharmakopeia/index
 Allgemein/index

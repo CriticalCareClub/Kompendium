@@ -1,0 +1,44 @@
+# Diagnostik
+
+- Labor
+
+  - Blutbild
+  - {ref}`Gerinnungsdiagnostik <Gerinnungsdiagnostik>`, ev. Point-of-Care: {ref}`Rotationsthrombelastometrie (ROTEM™) <ROTEM>`
+  - Blutgasanalyse: Säure-Basen-Status, Laktatspiegel, Oxygenierung
+  - Elektrolyte
+  - Nieren- und Leberwerte
+  - Amylasen
+  - Herzenzyme, pro-BNP
+  - Myoglobin
+  - Blutgruppe und Kreuzprobe
+  - ev. Schwangerschaftstest (Tubargravidität?)
+  - Infektionslabor: CRP, Interleukin-6, Prokalzitonin
+
+
+- {ref}`Invasives hämodynamisches Monitoring <Haemodynamisches-Monitoring>`:
+  Harnkatheter (Urometrie),
+  Zentralvenenkatheter ({ref}`ZVD <ZVD>`, {ref}`zentral-venöse O₂-Sättigung <ScvO2-VO2>`),
+  Arterienkatheter ({ref}`invasive RR-Messung <IABP>`, {ref}`Pulskonturanalyse <Pulskonturanalyse>`, {ref}`PICCO <PICCO>`)
+
+- Bakteriologische Untersuchung von Körperflüssigkeiten bzw. –gewebe bei Verdacht auf Infektion / Sepsis
+
+Schlussfolgerungen:
+
+- **Zentrale Füllungsdrücke erniedrigt und gleichzeitig Vasokonstriktion**: hypovolämer Schock, Spätphase eines septischen Schocks
+- **Zentrale Füllungsdrücke niedrig und Zeichen einer Vasodilatation**: neurogener Schock, anaphylaktischer Schock, hyperdyname Phase des spetischen Schocks
+- **Zentrale Füllungsdrücke hoch und Vasokonstriktion**: kardiogener Schock (venöse Stauung)
+- **Herzfrequenz**:
+  je größer der Blutverlust, desto höher die Herzfrequenz, wobei eine Frequenz von 150 in der Regel nicht überschritten wird.
+  Bei höheren Frequenzen ist an eine tachykarde Rhythmusstörung zu denken.
+- **Arterieller Blutdruck**:
+  Ein RR:sub\`syst\` unter 80-90 mm Hg oder unter 30-40% des Ausgangswertes und ein Mitteldruck unter 50 mm Hg spricht für ein Schockgeschehen.
+  Der isoliert betrachtete Blutdruck hat nur eine geringe Aussagekraft.
+  Natürliche (oder iatrogene) Kompensationsmechanismen können den Blutdruck relativ lange im Normbereich halten.
+  Außerdem ist zwar ein minimaler Perfusionsdruck für alle Organe notwendig, dessen Höhe ist jedoch nicht genau definiert. indirekte Zeichen des niederen Blutflusse AV Sauerstoffdifferenz, arterielle Laktatkonzentration
+- Lungenkapillaren-Verschlußdruck ({ref}`PCWP <PCWP>`):
+  wird über den Pulmonalisarterienkatheder gemessen. Erniedrigt bei Hypovolämie, erhöht bei Linksherzinsuffizienz
+- Herzzeitvolumen: ist der *entscheidende Parameter* im Schock.
+  Messung mittels {ref}`Thermodilution <Thermodilution>` ({ref}`Pulmonalarterienkatheter <PAC>`, {ref}`PICCO <PICCO>`).
+  Im Frühstadium im Normbereich oder wegen der sympathoadrenergen Reaktion erhöht, fällt anschließend mit Ausnahme des hyperdynam septischen Schocks.
+
+## Zusammenfassung : Gliederung nach hämodynamischen Parametern

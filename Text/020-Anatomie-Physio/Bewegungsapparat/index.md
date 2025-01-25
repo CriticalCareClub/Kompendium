@@ -3,7 +3,7 @@
 # Bewegungsapparat
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Allgemein/index
 Rumpf/index

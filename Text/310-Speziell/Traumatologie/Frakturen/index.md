@@ -13,7 +13,7 @@
 ## Allgemeines
 
 Ein {dfn}`Knochenbruch`
-{index}`\ <! Knochenbruch>`
+{index}` <! Knochenbruch>`
 (*Syn.* {dfn}`Fraktur` , *lat.* {dfn}`Fract.`)
 ist eine Kontinuitätsunterbrechung
 eines Knochens mit Bildung von Fragmenten (Bruchstücken) {term}`🗎 Pschyrembel 259`.
@@ -24,7 +24,7 @@ Bruchstelle noch intakt, während beim *offenen Knochenbruch*[^footnote-1]
 aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle
 verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
 
-[^footnote-1]: Offener Bruch: *Fractura aperta* (*Fract* {index}`\ <Fract.!apert.>`. apert.)
+[^footnote-1]: Offener Bruch: *Fractura aperta* (*Fract* {index}` <Fract.!apert.>`. apert.)
 
 [^footnote-2]: Die Literatur ist bei der Definition offener Knochenbrüche nicht
     einheitlich. In manchen Büchern, z. B. in {term}`🗎 Gorgass 7`, wird

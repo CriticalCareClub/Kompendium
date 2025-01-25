@@ -15,7 +15,7 @@
 ::::
 
 Ein {dfn}`Schädel-Hirn-Trauma`
-(*Abkz.* {dfn}`SHT`{index}`\ <! SHT>`)
+(*Abkz.* {dfn}`SHT`{index}` <! SHT>`)
 ist eine Gewalteinwirkung auf den Kopf,
 welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
 {term}`🗎 Gorgass 7`.
@@ -273,9 +273,9 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne
 Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei
 Grade eingeteilt:
 
-- {dfn}`Gehirnerschütterung` {index}`\ <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
-- {dfn}`Gehirnprellung` {index}`\ <! Gehirnprellung>` SHT 2°, Contusio cerebri
-- {dfn}`Gehirnquetschung` {index}`\ <! Gehirnquetschung>` SHT 3°
+- {dfn}`Gehirnerschütterung` {index}` <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
+- {dfn}`Gehirnprellung` {index}` <! Gehirnprellung>` SHT 2°, Contusio cerebri
+- {dfn}`Gehirnquetschung` {index}` <! Gehirnquetschung>` SHT 3°
 
 ### Grade des geschlossenen SHT
 
@@ -317,7 +317,7 @@ Grade eingeteilt:
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
 Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann
-auch eine *retrograde* {index}`\ <Anmesie!retrograde>` Amnesie
+auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie
 (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell
 klagt der Patient über Übelkeit erbrechen und Schwindel. Die
 Gehirnerschütterung zieht keine bleibenden Schäden nach sich.

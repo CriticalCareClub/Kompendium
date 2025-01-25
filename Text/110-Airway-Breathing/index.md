@@ -1,9 +1,11 @@
 # Airway & Breathing
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Airway/index
+Airway-alt/index
 Sauerstoff/index
 Beatmung/index
+ARMO/index
 ```

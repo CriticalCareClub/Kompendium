@@ -361,7 +361,7 @@ als unkontrollierbar erlebt werden sind z. B.
     können zu Fehlregulationen und in weiterer Konsequenz zu
     pathologischen Veränderungen führen.
 
-[^footnote-4]: Unter {dfn}`Allostase` {index}`\ <! Allostase>` versteht man einen *Regelkreis,
+[^footnote-4]: Unter {dfn}`Allostase` {index}` <! Allostase>` versteht man einen *Regelkreis,
     dessen Sollwert stärker verstellbar ist* als bei homöostatischen
     Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
     verschiedener *Anpassungsreaktionen* konstant gehalten; eine
@@ -1005,7 +1005,7 @@ erklären.
 
 Typische Merkmale sind das *wiederholte Erleben des Traumas* in sich
 aufdrängenden Erinnerungen (Nachhallerinnerungen, Flashbacks), Träumen
-oder *Albträumen* {index}`\ <Albtraum>`, die vor dem Hintergrund eines
+oder *Albträumen* {index}` <Albtraum>`, die vor dem Hintergrund eines
 andauernden Gefühls von *Betäubtsein* und *emotionaler Stumpfheit*
 auftreten. Ferner finden sich Gleichgültigkeit gegenüber anderen
 Menschen, Teilnahmslosigkeit der Umgebung gegenüber, Freudlosigkeit
@@ -1490,7 +1490,7 @@ wirken [^footnote-19], kann das Bewusstmachen möglichst angenehmer Vorerfahrung
 bewältigt werden konnten)
 helfen. [^footnote-20]
 
-**Erwartungshaltung**{index}`\ <Erwartungshaltung>`:
+**Erwartungshaltung**{index}` <Erwartungshaltung>`:
 Überhöhte Erwartungen an das eigene
 Handeln können Anspannung und zusätzlichen Druck erzeugen.
 Extrem
@@ -1503,7 +1503,7 @@ Zu akzeptieren, dass kleinere
 Unzulänglichkeiten passieren können, k
 ann Druck nehmen und ermöglicht
 auch ein
-**Fehlerbewusstsein**{index}`\ <Fehlerbewusstsein>`:
+**Fehlerbewusstsein**{index}` <Fehlerbewusstsein>`:
 nämlich Fehlerquellen zu erkennen,
 zu analysieren
 und zu optimieren. [^footnote-21]

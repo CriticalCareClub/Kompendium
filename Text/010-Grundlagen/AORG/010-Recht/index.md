@@ -1,5 +1,6 @@
 
 (AORG-rechtliche-Grundlagen)=
+(Q-AORG23005)=
 
 # Rechtliche Grundlagen im Land der 10 Gesetzgeber
 
@@ -69,6 +70,7 @@ Gesetze den *Rettungsdienst* betreffend
 Gesetze die handelnden *Personen* betreffend:
 : - **Ärztegesetz** 1998 – [ÄrzteG 1998](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011138):
     Dieses definiert neben dem Ärztevorbehalt (Tätigkeiten, die den Ärzten vorbehalten sind) auch das Berufsbild der/des **Notärztin/Notarztes** (NA) und der/des **Leitende Notärztin/Leitender Notarztes** (LNA).
+    % Q-AORG23005
   - **Notärztinnen/Notärzte-Verordnung** der Österreichischen Ärztekammer ([NA-V](https://www.arztnoe.at/fileadmin/Data/Documents/pdfs/notaerzte/notarztverordnung.pdf)):
     Die Österreichische Ärztekammer hat durch Verordnung nähere Bestimmungen zu erlassen über die notärztliche Qualifikation, Aus- und Fortbildung.
   - **Sanitätergesetz** ([SanG](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001744)):

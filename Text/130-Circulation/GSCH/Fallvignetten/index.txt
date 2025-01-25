@@ -1,0 +1,127 @@
+:::{index} single: Fallvignetten; Schock
+:::
+
+(GSCH-SE-Fallvignette-1)=
+
+# Fallvignetten
+
+% **Fallbeispiel hypovolämischer Schock**
+% =======================================
+%
+% Patientin, 35 a, unauffällige Spontangeburt vor 10 Tagen, wacht in der Nacht in blutigem Bett auf. Es sind keine wesentlichen Vorerkrankungen bekannt. Nach NAW-Aufnahme und kurzer Inspektion kommt sie wegen massiver vaginaler Blutung umgehend zur operativen Versorgung in den OP. Sie wach, orientiert und ängstlich. Die Haut ist blass, leicht schwitzend. RR 130 / 80, Pulsfrequenz 80, Sättigung bei Raumluft 97 %.
+%
+%
+% Wie schätzen Sie die Situation ein ? ( klinische Beurteilung, Diagnostik, Therapie )
+%
+%
+%
+% Notes:
+% ~~~~~~
+%
+% Trotz scheinbar massiver Blutverluste ist der Kreislauf kompensiert ( Schockindex < 1 ). Die Situation ändert sich nach Narkoseeinleitung. Die Narkosemittel Propofol und Remifentanyl senken den Sympathikotonus. Der Blutdruckabfall wird durch den Volumenmangel verstärkt. Die Ursache der Blutung kann nur durch chirurgische Maßnahmen gestillt werden, deshalb ist eine rascheste operative Versorgung wichtig. Gleichzeitig sollte nach einer vorbestehende oder aktuellen Gerinnungsstörung gefandet werden. Das präoperative Labor ist weitgehend unaufällig. Ein EKG wurde nicht gemacht, der Monitor zeigt einen Sinusrhythmus. Es gilt nun den Volumenmangel auszugleichen. Ein weiterer venöser Zugang und eine weitere kristalloide Infusion werden angelegt.
+%
+% .. _fallbeispiel-hypovolämischer-schock-1:
+%
+% **Fallbeispiel hypovolämischer Schock**
+% =======================================
+%
+% Die Gynäkologin führt unter US-Kontrolle ein Curretage des Uteruscavums durch, wobei reichlich Blutkoagel entfernt werden. Zur Unterstützung der Uteruskontraktion erhält die Patientin Pabal ( Carbetocin ) iv. Die Blutung wird nun geringer. Es wird nun eine Cavumtamponade mit Ballonkatheter durchgeführt.
+%
+%
+% Falls sich der Kreislauf durch die Volumengabe nicht bessert, welche weiteren therapeutischen Maßnahmen empfehlen Sie ?
+%
+%
+% Notes:
+% ~~~~~~
+%
+% Es gibt neben kristalloiden oder kolloiden Infusionen eine Vielzahl an Blutprodukten. Diverse Koagulopathien können im Labor oder mit Hilfe diverser thrombelastographischer Verfahren untersucht werden. Der Nachteil ist, dass sie nicht überall verfügbar sind und vor allem Zeit brauchen. Deshalb ist die Ersttherapie vom klinischen Bild und der Erfahrung des Anäshtesisten abhängig. Eine detaillierte Handlungsempfehlung gibt die Guideline zum Managment der postpartelen Blutung.
+%
+% .. _fallbeispiel-hypovolämischer-schock-2:
+%
+% **Fallbeispiel hypovolämischer Schock**
+% =======================================
+%
+% |
+%
+% .. _notes-18:
+%
+% Notes:
+% ~~~~~~
+%
+% Dies ist ein Ausschnitt aus dem Anästhesieprotokoll der Patientin. Das Muskelrelaxans zur Intubation wurde hier nicht dokumentiert. Es zeigt sich das gute Ansprechen auf intermittierende Bolusgabe eines Sympathomimetikums ( hier Phenylephrine ). Allerdings ist der Blutdruckanstieg erst nach ausreichender Volumengabe ( insgesamt 6000 ml ) anhaltend. Im Lauf der Narkose sieht man das gute Ansprechen einer Sinustachycardie auf Volumengabe : Der RR steigt die Herzfrequenz sinkt tendenziell ( rechte Bildhälfte ). Mit Narkoseausleitung steigen Herzfrquenz und Blutdruck ebenfalls. In der Laborkontrolle am OP-Ende fällt das Hb auf 5,7 g/dl. Der Wert beinhaltet eine gewisse Blutverdünnung durch die Volumentherapie. Die Pat. erhält nun Cyclocapron ( Tranexamsäure ) zur Fibrinolysehemmung und 2 Erythrozytenkonzentrate und hat am Morgen ein Hb von 9,8 g/dl bei sistierender Blutung.
+%
+% **Schock : Fallbeispiel 2**
+% ===========================
+%
+% Anamnese : Eine Patientin, 62 a, bekannte Hasenallergie, besucht eine Kleintiermesse und hat dabei ausgiebigen Kontakt mit Hasen. Es kommt zu einer akuten Atemnot ( periphere Zyanose, SpO2 91 % mit O2-Insufflation, spastische Atemgeräusche bei Auskultation ) und Hypotonie.
+%
+%
+% Vorbekannte Diagnosen : allergisches Asthma bronchiale, NIDDM, Adipositas, art. Hypertonie, Thrombose re. US ( -> NMH-Therapie seit 1 Woche )
+%
+%
+% **Wie schätzen Sie die Situation als Notarzt ein und was ist Ihr Therapievorschlag ?**
+%
+%
+%
+% Die Pat. sitzt vor der Hasenhalle, ist kontaktierbar und hat eine ausgeprägte Dyspnoe. Differentialdiagnostisch scheint eine anaphylaktische Reaktion wahrscheinlich, könnte aber auch eine Pulmonalembolie sein.
+%
+%
+% **Schock : Fallbeispiel 2**
+% ===========================
+%
+%
+% Anamnese : Eine Patientin, 62 a, bekannte Hasenallergie, besucht eine Kleintiermesse und hat dabei ausgiebigen Kontakt mit Hasen. Es kommt zu einer akuten Atemnot ( periphere Zyanose, SpO2 91 % mit O2-Insufflation, spastische Atemgeräusche bei Auskultation ) und Hypotonie.
+%
+%
+% Vorbekannte Diagnosen : allergisches Asthma bronchiale, NIDDM, Adipositas, art. Hypertonie, Thrombose re. US ( -> NMH-Therapie seit 1 Woche )
+%
+%
+% Die Pat. erhält vom Notarzt Adrenalin im., Prednisolon 250 mg iv, Fenistil 1A iv., Ulsal 1 A iv., Voluven iv. und Combivent zur Inhalation.
+%
+%
+% Klinischer Zustand bei Aufnahme an der Überwachungsstation: adipöse Pat., Glasgow-Coma-Scale von 14, träge Pupillenreaktion bds., Schaukelatmung mit Einziehungen, silent lung, Herztöne tachycard, leise, rhythm., Bauchdecke weich, vereinzelt kleinste Hämatome nach NMH-Applikation. Fußpulse palp., Varicositas, geringe Ödeme bds.
+%
+%
+% **Wie würden sie weiter vorgehen ?**
+%
+%
+% **Fallbeispiel 2 Schock**
+% =========================
+%
+% Die Patientin wird nach Monitoring auf der Überwachungsstation umgehend mit 20 mg Hypnomidate und 100 mg Lysthenon intubiert. Aufgrund der Kreislaufparameter ist die Patientin katecholaminpflichtig.
+%
+%
+% In der Blutgasanalyse fällt eine kombinierte respiratorische und metabolische Azidose auf ( siehe nachfolgende Folien ). Der pCO2 ist aufgrund der akutem Ateminsuffizienz erhöht, gleichzeitig besteht aufgrund des Schockzustandes und der O2-Unterversorgung eine vermehrte anaerobe Glykolyse mit erhöhter Lactatproduktion. Es besteht eine Azidose ( Lactatazidose ).
+%
+%
+% Durch den hohen Sauerstoffanteil im Atemgas ist die Oxygenierung ausreichend. In Folge der Therapiemaßnahmen mit Kreislaufstabilisierung bildet sich die Azidose zurück. Lactat wird in der Leber verstoffwechselt. Die Respiratortherapie unterstützt die CO2-Elimination.
+%
+%
+% .. _fallbeispiel-2-schock-1:
+%
+% **Fallbeispiel 2 Schock**
+% =========================
+%
+% .. _fallbeispiel-2-schock-2:
+%
+% **Fallbeispiel 2 Schock**
+% =========================
+%
+% .. _fallbeispiel-2-schock-3:
+%
+% **Fallbeispiel 2 Schock**
+% =========================
+%
+% .. _fallbeispiel-2-schock-4:
+%
+% **Fallbeispiel 2 Schock**
+% =========================
+%
+% |
+%
+% .. _notes-20:
+%
+% Notes:
+% ~~~~~~
+%
+% Das D-Dimer als möglicher Hinweis auf eine Thromboembolie ist leicht erhöht. Eine Pulmonalembolie kann im CT-Thorax ausgeschlossen werden. Die Herzenzyme steigen trotz einer Hypokinesie im Septumbereich nicht weiter an. Die Pat. wird am nächsten Tag extubiert und bald von der Intensivstation entlassen.

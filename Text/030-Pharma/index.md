@@ -4,10 +4,11 @@ orphan: true
 
 # Pharmakotherapie
 
-```{toctree}
+:::{toctree}
 :caption: Inhalt
-:maxdepth: 2
+:maxdepth: 1
 
-Pharmakopeia/index
+APHA/index
 Inkubator/index
-```
+Pharmakopeia/index
+:::

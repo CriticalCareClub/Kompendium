@@ -1,7 +1,7 @@
 # Dokumentation für Autoren
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 Guidelines/index
 ```

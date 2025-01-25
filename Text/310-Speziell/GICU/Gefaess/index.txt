@@ -1,0 +1,91 @@
+<!--
+# Gefäßchirurgie
+
+- Präoperative Beurteilung
+- Intraoperatives Monitoring bei thorakalen und abdominellen Aneurysmen
+- Postoperative Komplikationen thorakalen und abdominellen Aneurysmen
+
+## Präoperative Beurteilung
+
+- Häufige Erkrankungen des Patienten
+-
+- KHK
+- Myokardinfarkt in der Vorgeschichte
+- Hypertonie
+- Diabetes mellitus
+- respiratorische Erkrankungen
+- Niereninsuffizienz
+- Alter ab 50
+
+:::{rubric} **Präoperative Beurteilung**
+:::
+
+- Hauptrisiko – Faktoren für erhöhte perioperative Morbidität und Leatlität
+-
+- Instabile Angina-Syndrome,
+- kürzlich erlittener Myokardinfarkt,
+- dekompensierte Herzinsuffizienz,
+- klinisch wesentliche Herzrhythmusstörungen: höhergradige AV-Blockierungen, symptomatische ventrikuläre Extrasystolen, denen eine Herzerkrankung zugrunde liegt, supraventrikuläre Arrhythmien mit unkontrollierter Ventrikelfrequenz
+
+:::{rubric} Gefäßchirurgie **Präoperative Beurteilung**
+:::
+
+- Mittlere Risikofaktoren stellen folgende Erkrankungen dar:
+-
+- Leichte Angina pectoris (Grad I oder II),
+- länger zurückliegender Myokardinfarkt oder pathologische
+- Q-Wellen,
+- kompensierte oder weiter zurückliegende Herzinsuffizienz,
+- Diabetes mellitus
+
+:::{rubric} Gefäßchirurgie **Präoperative Beurteilung**
+:::
+
+- Von geringer Bedeutung sind hingegen folgende Faktoren:
+-
+- Nicht eingestellter Hypertonus,
+- höheres Lebensalter (von Bedeutung nur in Verbindung mit Erkrankungen),
+- Schlaganfall in der Vorgeschichte,
+- eingeschränkte Leistungsfähigkeit,
+- EKG-Auffälligkeiten: Linksschenkelblock, ST-Abnormitäten,
+- linksventrikuläre Hypertrophie,
+- Vorhofflimmern.
+- Präoperative Untersuchungen
+- EKG
+- Belastungs-EKG
+- Holter-Monitoring
+- Myokardszintigraphie
+- Echokardiographie
+- Angiographie
+- Koronarangiographie
+- C/P
+- Labor , inkl. BG und Konserven lt.Standard
+
+## Intraoperatives Monitoring bei thorakalen und abdominellen Aneurysmen
+
+- MERKE: ein invasives Vorgehen ist erforderlich, zumal mit teilweiser erheblicher Instabilität der Herz-Kreislauf-Funktion zu rechnen ist !
+- EKG-Monitor (Ableitung II und V5)
+- Pulsoxymeter
+- Kapnometer
+- kontinuierliche arterielle Blutdruckmessung
+- Großlumige Zugänge (ZVK 5-Lumig und Quinton-Katheter)
+- kontinuierliche Messung des zentralen Venendrucks
+- evtl. TEE
+- DK mit Temperatursonde
+- arterielle Blutgase und Säure-Basen-Parameter
+- evtl. Pulmonaliskatheter bei Patienten mit schweren Störungen der Herz-Kreislauf-Funktion
+
+## Postoperative Komplikationen bei thorakalen und abdominellen Aneurysmen
+
+- Paraplegie aufgrund einer Minderdurchblutung des Rückenmarks (Häufigkeit 3–6,5%),
+- Blutungen,
+- akute Linksherzinsuffizienz,
+- Myokardinfarkt,
+- akutes Nierenversagen,
+- Herzrhythmusstörungen,
+- tödlicher Apoplex.
+- Ileus
+- Ischämie der A.mesenterica inferior
+- Darminfarkt
+- Hyperperistaltik
+ -->

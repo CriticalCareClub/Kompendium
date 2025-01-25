@@ -30,7 +30,7 @@ ist ein 25—30 cm langer muskulärer Schlauch,
 der den Nahrungsbissen vom Rachen in den Magen befördert.
 Diese Fortbewegung funktioniert über
 eine wellenförmige Kontraktion der Wandmuskeln der Speiseröhre
-(*Peristaltik*{index}`\ <Peristaltik>`).
+(*Peristaltik*{index}` <Peristaltik>`).
 Im Ösophagus werden keine verdauenden Enzyme
 ausgeschieden, er dient somit rein dem Weitertransport.
 
@@ -60,7 +60,7 @@ In der Wand des Ösophagus befinden sich zahlreiche Venen,
 welche bei Rückstau des Blutes,
 zum Beispiel im Rahmen einer {ref}`Leberzirrhose <Leberzirrhose>`,
 krampfader-artige Gebilde ausbilden können
-(**Ösophagus-Varizen**{index}`\ <Ösophagusvarizen>`,
+(**Ösophagus-Varizen**{index}` <Ösophagusvarizen>`,
 {ref}`Blutungsgefahr! <Oesophagusvarizenblutung>`).
 
 :::{figure} /Bilder/WikipediaPd/stomach.\*

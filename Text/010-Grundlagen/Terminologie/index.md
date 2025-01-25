@@ -185,8 +185,8 @@ mit anderem Fachpersonal. {term}`🗎 Bertelsmann 25` {term}`🗎 Pschyrembel 25
   Behandlung sowie Rehabilitation und Nachsorge von
   Gesundheitsstörungen und Krankheiten der inneren Organe und
   Organsysteme. Innerhalb der Inneren Medizin gibt es verschiedene
-  Spezialgebiete: **Kardiologie** {index}`\ <Kardiologie>` (Herz), *Hämatologie* und
-  **Onkologie** {index}`\ <Onkologie>` (Blut, Krebserkrankungen), *Angiologie*
+  Spezialgebiete: **Kardiologie** {index}` <Kardiologie>` (Herz), *Hämatologie* und
+  **Onkologie** {index}` <Onkologie>` (Blut, Krebserkrankungen), *Angiologie*
   (Gefäße), *Endokrinologie* und *Diabetologie* (Stoffwechsel),
   *Gastroenterologie* (Magen-Darm-Trakt), *Nephrologie* (Niere),
   *Pneumologie* (*Syn.* *Pulmologie*, Lunge, eigenes Sonderfach),

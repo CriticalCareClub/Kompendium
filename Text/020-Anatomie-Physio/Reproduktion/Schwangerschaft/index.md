@@ -71,7 +71,7 @@ Am 5. Tag nistet sich die Blastozyste in der Uterusschleimhaut ein.
 Der Embryoblast entwickelt sich im weiteren Verlauf zum Embryo,
 der Trophoblast bildet die kindlichen Anteile der Plazenta.
 
-Die reife {dfn}`Plazenta` {index}`\ <! Plazenta>` (*Mutterkuchen*) misst ca. 18 cm im Durchmesser
+Die reife {dfn}`Plazenta` {index}` <! Plazenta>` (*Mutterkuchen*) misst ca. 18 cm im Durchmesser
 und versorgt das Kind mit Nährstoffen und Sauerstoff.
 Sie wird von der
 Uterusschleimhaut (*Decidua basalis*) und von den kindlichen
@@ -123,7 +123,7 @@ Dottersack bildet sich mit der Zeit zurück,
 in die *Amnionhöhle* wächst
 mit der Zeit der Keim hinein.
 Sie füllt sich mit der Zeit mit
-{dfn}`Fruchtwasser` {index}`\ <! Fruchtwasser>`
+{dfn}`Fruchtwasser` {index}` <! Fruchtwasser>`
 (am Ende der Schwangerschaft ca. 1 L).
 
 Ab dem 16. Tag bildet sich das Mesoderm (mittleres Keimblatt),
@@ -145,7 +145,7 @@ Aus diesen drei Keimblättern entwickeln sich die Organanlagen:
 
 Nun fängt die Embrionalperiode (4.—8. Woche) an.
 Ab nun heißt der Keim
-**Embryo**{index}`\ <Embryo>`.
+**Embryo**{index}` <Embryo>`.
 
 Ab dem Ende der 4. Woche bildet sich die Grundform des Rumpfes,
 am Beginn der 5. Woche beginnen die Extremitäten zu knospen.

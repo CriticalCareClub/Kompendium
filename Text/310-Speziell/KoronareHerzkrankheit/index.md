@@ -110,26 +110,22 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 ::::{only} not nosidebar
 
 :::{sidebar} SAMPLER:KHK
-🅂
-
+🅂ymptome
 : Siehe ABCDE
 
-🄼
-
+🄼edikation
 : ASS,
   Nitroglycerin,
   Molsidomin,
   Isosorbiddinitrat
 
-🄿
-
+🄿atientengeschichte
 : Befunde:
   Koronarangiographie,
   Ergometrie,
   Echokardiographie
 
-🅁
-
+🅁isikofaktoren
 : Rauchen,
   Arterielle Hypertonie,
   Hyperlipidämie,
@@ -139,32 +135,54 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 :::
 ::::
 
-```{eval-rst}
+Text 1
 
-:🄼:
-    Niedrigdosierte Acetylsalicylsäure
+🄼edikation
+:   Niedrigdosierte Acetylsalicylsäure
     (ASS; z. B. ThromboASS™, HerzschutzASS™)
-    gehört zur Standardmedikation
-    bei Herz-Kreislauferkrankungen.
-    Nitrate, in Form von Sprays
-    (z. B. Nitrolingual™), Kapseln oder Pflaster
-    finden sich häufig bei fortgeschrittenen,
-    symptomatischen Patienten.
-    Andere Präparate die auf den Tonus
-    der glatten Gefäßmuskulatur auswirken sind
-    Molsidomin und Isosorbiddinitrat (Isoket™).
+    gehört zur Standardmedikation bei Herz-Kreislauferkrankungen.
+    Nitrate, in Form von Sprays (z. B. Nitrolingual™), Kapseln oder Pflaster
+    finden sich häufig bei fortgeschrittenen, symptomatischen Patienten.
+    Andere Präparate die auf den Tonus der glatten Gefäßmuskulatur auswirken sind Molsidomin und Isosorbiddinitrat (Isoket™).
 
-:🄿:
-    Eine KHK ist häufig schon bekannt.
+
+🄿atientengeschichte
+:   Eine KHK ist häufig schon bekannt.
     Entscheidend sind Koronarangiographie-
     und Ergometer-Untersuchungen ("Belastungs-EKG"),
     sowie Echokardiographie-Befunde.
-
     Begleit- und Folgeerkrankungen sind häufig,
     z. B. eine ischänische Kardiomyapthie.
 
-:🅁:
-    Klassische Risikofaktoren sind:
+🅁
+:   Klassische Risikofaktoren sind:
+
+    -   Rauchen
+    -   Arterielle Hypertonie
+    -   Hyperlipidämie
+    -   Diabetes mellitus
+    -   Positive Familienanamnese
+    -   Alter
+
+textshjdfsanm
+
+:🄼edikation:
+    Niedrigdosierte Acetylsalicylsäure
+    (ASS; z. B. ThromboASS™, HerzschutzASS™)
+    gehört zur Standardmedikation bei Herz-Kreislauferkrankungen.
+    Nitrate, in Form von Sprays (z. B. Nitrolingual™), Kapseln oder Pflaster
+    finden sich häufig bei fortgeschrittenen, symptomatischen Patienten.
+    Andere Präparate die auf den Tonus der glatten Gefäßmuskulatur auswirken sind Molsidomin und Isosorbiddinitrat (Isoket™).
+
+
+:🄿atientengeschichte: Eine KHK ist häufig schon bekannt.
+    Entscheidend sind Koronarangiographie-
+    und Ergometer-Untersuchungen ("Belastungs-EKG"),
+    sowie Echokardiographie-Befunde.
+    Begleit- und Folgeerkrankungen sind häufig,
+    z. B. eine ischänische Kardiomyapthie.
+
+:🅁: Klassische Risikofaktoren sind:
 
     -   Rauchen
     -   Arterielle Hypertonie
@@ -176,8 +194,6 @@ kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 
 
 
-.. _angina-pectoris:
-```
 
 (angina-pectoris)=
 

@@ -189,7 +189,7 @@ unterscheidet man:
   wirkt zuerst unauffällig, unerwartet und plötzlich verschlechtert
   sich seine Kreislaufsituation und sein Zustand,** er kann binnen
   kurzer Zeit in einen *Volumenmangelschock*
-  {index}`\ <Schock; Milzruptur>` geraten.
+  {index}` <Schock; Milzruptur>` geraten.
 
   *Daher ist es wichtig jeden Patienten, bei dem auch nur der geringste
   begründete Verdacht auf eine Milzverletzung besteht, einer

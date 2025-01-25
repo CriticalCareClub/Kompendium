@@ -601,8 +601,8 @@ sehr unterschiedlich.
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
 Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
 Ärzten für Allgemeinmedizin,
-*approbierten* {index}`\ <Arzt!approbierter>` Ärzten
-sowie *Fachärzten* {index}`\ <Facharzt>` vorbehalten
+*approbierten* {index}` <Arzt!approbierter>` Ärzten
+sowie *Fachärzten* {index}` <Facharzt>` vorbehalten
 (*Arztvorbehalt*, von diesem
 Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
 Ausnahmeregelungen in den jeweiligen Berufsgesetzen).

@@ -1,7 +1,7 @@
 # Erfrierungen
 
 Eine
-{dfn}`Erfrierung` {index}`\ <Erfrierung>`
+{dfn}`Erfrierung` {index}` <Erfrierung>`
 ( *Lat.* *Congelatio* (*Congelat.*))
 ist eine Gewebsnekrose, die durch lokale
 Durchblutungsstörungen aufgrund von Kälteeinwirkung

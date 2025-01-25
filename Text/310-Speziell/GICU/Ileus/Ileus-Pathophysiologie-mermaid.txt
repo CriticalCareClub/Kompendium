@@ -1,0 +1,93 @@
+flowchart TB
+
+GRUND(Grunderkrankung)
+PARALYSE[Paralyse]
+BLOCKADE[Mechanische Blockade]
+ILEUS((Ileus))
+
+INTRALUMDRUCK[Erhöhung des intraluminalen Drucks,
+Dehnung des davorliegenden Darms]
+DARMWANDDUENNER[Darmwand 
+wird dünner]
+DARMWANDDURCH[Darmwand 
+wird durchlässiger]
+DAWRMWANDOEDEM[Darmwandödem]
+DARMZOTTEN[Darmzotten 
+verstreichen]
+VERHOFINHALT[Verhältnis Darminhalt:Oberfläche
+verschiebt sich zugunsten des Inhaltes]
+PERFUSION[Blutzu- und abfuhr beeinträchtigt]
+NSTOFFAB[Nährstoffabtransport beeinträchtigt]
+ISCHAEMIE[Ischämie 
+der Darmwand]
+RESORPST[Resorptionsstörung]
+ELYTSTOERUNG[Elektrolytstörung]
+EIWEISSRESORP[Eiweißresorption 
+gestört]
+BAKTUEBER[Bakterielle 
+Überwucherung]
+STOP[Stopp des 
+Darminhaltes]
+
+DARMDANACH[Stuhl gelangt nicht nach distal]
+WASSERRESORP[fehlende
+Wasserresoprtion]
+KOTSTEINE[Kotsteine]
+
+PERITONITIS[Peritonitis]
+HYPOVOL[Hypovolämie]
+SCHOCK[Schock]
+SEPSIS[Sepsis]
+
+subgraph Start
+GRUND --> PARALYSE --> ILEUS
+GRUND --> BLOCKADE --> ILEUS
+end
+
+ILEUS --> STOP 
+STOP --> proximal
+STOP --> distal
+
+subgraph proximal
+INTRALUMDRUCK --> DARMWANDDUENNER
+DARMWANDDUENNER --> DARMWANDDURCH
+INTRALUMDRUCK --> DARMZOTTEN
+DARMZOTTEN --> VERHOFINHALT
+INTRALUMDRUCK --> ISCHAEMIE
+BAKTUEBER --> DAWRMWANDOEDEM
+DAWRMWANDOEDEM --> RESORPST
+ISCHAEMIE --> DARMWANDDURCH
+VERHOFINHALT --> RESORPST
+INTRALUMDRUCK --> PERFUSION
+PERFUSION --> ISCHAEMIE
+PERFUSION --> NSTOFFAB
+NSTOFFAB --> RESORPST
+RESORPST --> ELYTSTOERUNG
+RESORPST --> EIWEISSRESORP
+EIWEISSRESORP --> DAWRMWANDOEDEM
+end
+
+subgraph distal
+
+DARMDANACH --> WASSERRESORP
+WASSERRESORP --> KOTSTEINE
+KOTSTEINE --> BLOCKADE
+
+
+end
+
+subgraph Resultierende Probleme
+
+INTRALUMDRUCK -->|"`**Zeit**`"| WEITERAUSD
+ISCHAEMIE --> PERFORATION --> PERITONITIS
+WEITERAUSD[Fortschreitende 
+**Dilatation**] --> PERFORATION[Perforation]
+
+ELYTSTOERUNG --> PARALYSE
+WASSERRESORP --> HYPOVOL
+DARMWANDDURCH --> PERITONITIS
+PERITONITIS --> PARALYSE
+PERITONITIS --> SEPSIS
+SEPSIS --> SCHOCK
+HYPOVOL --> SCHOCK
+end

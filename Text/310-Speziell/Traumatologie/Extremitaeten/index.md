@@ -10,13 +10,13 @@ Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 ## Amputationen
 
 Eine
-{dfn}`Amputation` {index}`\ <! Amputation>`
+{dfn}`Amputation` {index}` <! Amputation>`
 (*Lat.* *Amputatio* (*Amp.*))
 bezeichnet einen kompletten oder inkompletten Abriss bzw. Abtrennung
 (von Teilen) einer Extremität oder eines anderen Körperteils, sodass
 deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten
 Körperteil nennt man
-{dfn}`Amputat`{index}`\ <Amputat>`.
+{dfn}`Amputat`{index}` <Amputat>`.
 
 Amputationen erfolgen meist bei Motorradunfällen oder
 Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die

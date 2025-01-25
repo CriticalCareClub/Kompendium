@@ -28,9 +28,9 @@ mit zum Teil sehr fordernden Situationen und Fragen zurecht zu kommen.
 
 ## Der Tod allgemein
 
-Der {dfn}`Tod` {index}`\ <Tod>` ist das Ende der Lebensfunktionen und der
+Der {dfn}`Tod` {index}` <Tod>` ist das Ende der Lebensfunktionen und der
 Zustand danach.
-Das {dfn}`Sterben` {index}`\ <Sterben>` ist ein mehr oder weniger
+Das {dfn}`Sterben` {index}` <Sterben>` ist ein mehr oder weniger
 lang dauernder Prozess, an dessen Ende der Tod steht.
 Der Tod gehört
 zu den einschneidensten und unausweichlichsten Dingen des Lebens.
@@ -193,7 +193,7 @@ sind:
   - Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
     und keinen"goldenen Weg".
 
-Elisabeth {dfn}`Kübler-Ross` {index}`\ <Kübler-Ross>` beschreibt fünf Phasen, die im
+Elisabeth {dfn}`Kübler-Ross` {index}` <Kübler-Ross>` beschreibt fünf Phasen, die im
 Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt,
 durchlaufen werden:
 
@@ -217,7 +217,7 @@ Phasen des Sterbeprozesses erklärbar.
 
 ### Palliativbehandlung
 
-Die {dfn}`Palliativbehandlung` {index}`\ <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung
+Die {dfn}`Palliativbehandlung` {index}` <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung
 von Patienten, für die es keine heilende Therapie mehr gibt, oder sich
 gegen eine solche entschieden haben. Ziel ist nicht die Heilung einer
 Krankheit, sondern das Ermöglichen eines würdigen und schmerzfreien

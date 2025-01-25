@@ -76,7 +76,7 @@ Im Rahmen der Reanimation sind die Bedingungen durch die Herzdruckmassage
 zusätzlich erschwert.
 
 Zum Freihalten der Atemwege ist zusätzlich zum Überstrecken des Kopfes ein
-{index}`\ <Guedel-Tubus>`
+{index}` <Guedel-Tubus>`
 {ref}`Guedel-Tubus <Guedeltubus>` empfehlenswert.
 Erfolglose Beatmungsversuche sollen nicht wiederholt werden.
 

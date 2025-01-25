@@ -82,10 +82,10 @@ die Lunge fällt in sich zusammen und kollabiert
 {ref}`pleura`).
 
 Man unterscheidet zwischen
-{dfn}`offenem Pneumothorax` {index}`\ <Pneumothorax; offen>`
+{dfn}`offenem Pneumothorax` {index}` <Pneumothorax; offen>`
 (Luft strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt)
 und
-{dfn}`geschlossenem Pneumothorax` {index}`\ <Pneumothorax; geschlossen>`
+{dfn}`geschlossenem Pneumothorax` {index}` <Pneumothorax; geschlossen>`
 (Luft strömt durch eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
 
 Ist lediglich die lungenseitige Pleura verletzt,
@@ -97,12 +97,12 @@ auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert
 wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert
 werden. Tritt bei einem Pneumothorax ein derartiger Ventilmechanismus
 auf, spricht man vom
-{dfn}`Spannungspneumothorax` {index}`\ <Spannungspneumothorax>`.
+{dfn}`Spannungspneumothorax` {index}` <Spannungspneumothorax>`.
 
 Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form
 des Pneumothorax nennt man
 {dfn}`Spontanpneumothorax`
-{index}`\ <Spontanpneumothorax>` und
+{index}` <Spontanpneumothorax>` und
 tritt am häufigsten bei jungen, hochgewachsenen und schlanken Menschen
 auf. Symptome des Spontanpneumothorax sind Schmerzen, Atemnot und
 Todesangst.
@@ -283,7 +283,7 @@ Begleitverletzungen kommen.
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines
 *Pneumothorax* oder einer *Herzverletzung* bzw. einer
 *Herzbeuteltamponade* denken.
-Bei der {dfn}`Herbeuteltamponade` {index}`\ <Herbeuteltamponade>`
+Bei der {dfn}`Herbeuteltamponade` {index}` <Herbeuteltamponade>`
 kommt es durch Eintritt von Flüssigkeit (z. B. Blut)
 in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des
 Herzens.

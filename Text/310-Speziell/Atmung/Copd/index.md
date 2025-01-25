@@ -342,7 +342,7 @@ Taktik
     Cave: Tachykardie!
     :::
 
-  - *Theophyllin*: {index}`\ <Theophyllin; COPD>`
+  - *Theophyllin*: {index}` <Theophyllin; COPD>`
     Aufgrund der geringen therapeutischen Breite
     und aufgrund des großen Spektrums an Nebenwirkungen
     bzw. Interaktionen eher *nicht empfehlenswert*;

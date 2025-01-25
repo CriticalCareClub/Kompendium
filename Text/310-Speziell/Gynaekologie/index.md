@@ -124,7 +124,7 @@ muss mit einer Reanimation begonnen werden.
 
 Eine
 {dfn}`Eileiterschwangerschaft`
-{index}`\ <Eileiterschwangerschaft>`
+{index}` <Eileiterschwangerschaft>`
 ist eine
 Schwangerschaft, bei der sich die Frucht im Eileiter einninstet. *Term.*
 Tubaria, *Syn.* extrauterine Schwangerschaft.
@@ -244,19 +244,19 @@ rechts der Körpermitte verläuft.
 
 Die
 {dfn}`EPH-Gestose`
-{index}`\ <EPH-Gestose>`,
+{index}` <EPH-Gestose>`,
 auch
 {dfn}`Präeklampsie`
-{index}`\ <Präeklampsie>`
+{index}` <Präeklampsie>`
 genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei
 der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer
 Folge zu diversen Komplikationen bei der Mutter kommt. Sie wird in der
 Regel im Rahmen der Mutter-Kind-Pass-Untersuchungen erkannt.
 Die Maximalvariante der Präeklampsie ist das
-{dfn}`HELLP-Syndrom` {index}`\ <HELLP-Syndrom>`.
+{dfn}`HELLP-Syndrom` {index}` <HELLP-Syndrom>`.
 Unbehandelt kann die Präeklampsie und das HELLP-Syndrom
 zu einem *eklamptischen Krampfanfall*
-({dfn}`Eklampsie` {index}`\ <! Eklampsie>`,
+({dfn}`Eklampsie` {index}` <! Eklampsie>`,
 ähnlich einem "normalen" zerebralen Krampfanfall)
 und in weiterer Folge zum Tod von Mutter und Kind führen.
 Die Ursachen sind nicht vollständig geklärt.
@@ -376,7 +376,7 @@ Die Geburt verläuft in 3 Phasen:
 :::
 ::::
 
-Die {dfn}`Eröffnungsphase` {index}`\ <! Eröffnungsphase>` beginnt mit den ersten
+Die {dfn}`Eröffnungsphase` {index}` <! Eröffnungsphase>` beginnt mit den ersten
 regelmäßigen Wehen und endet mit der vollständigen Eröffnung des
 Muttermundes auf 10 cm.
 Durch Zusammenziehen der
@@ -387,7 +387,7 @@ und der Muttermund wird eröffnet.
 Der Wehenabstand beträgt ca. 2—10 min.
 Während der Eröffnungsphase kommt es zum Platzen der
 Fruchtblase
-({dfn}`Blasensprung` {index}`\ <Blasensprung>`),
+({dfn}`Blasensprung` {index}` <Blasensprung>`),
 dabei geht Fruchtwasser
 und etwas blutiges Sekret ab.
 
@@ -414,7 +414,7 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 :::
 ::::
 
-Die {dfn}`Austreibungsphase` {index}`\ <Austreibungsphase>`
+Die {dfn}`Austreibungsphase` {index}` <Austreibungsphase>`
 beginnt mit der vollständigen
 *Eröffnung* des Muttermundes (10 cm) und endet mit der *Geburt* des
 Kindes.
@@ -428,11 +428,11 @@ Kind ist durch die Fruchtschmiere rutschig!
 ##### Der Damm
 
 Als
-{dfn}`Damm` {index}`\ <Damm>`
+{dfn}`Damm` {index}` <Damm>`
 wird das Stück Haut zwischen Scheide und
 Anus bezeichnet.
 Mittels eines Griffes namens
-{dfn}`Dammschutz` {index}`\ <Dammschutz>`
+{dfn}`Dammschutz` {index}` <Dammschutz>`
 kann theoretisch die Wahrscheinlichkeit eines Dammrisses
 minimiert werden. Dabei wird die Hand unterhalb der Scheide angelegt und
 man versucht das Gewebe zu stabilisieren.
@@ -444,7 +444,7 @@ Dennoch ist der Dammschutz nicht unwichtig: Durch das Pressen wird nicht
 nur das Kind geboren, sondern in der Regel auch *Stuhl* abgesetzt. Durch
 den Dammschutz, in Verbindung mit einer Unterlage, kann das Kind *vor
 dem Stuhl der Mutter geschützt* werden
-({dfn}`Stuhlschutz` {index}`\ <Stuhlschutz>`).
+({dfn}`Stuhlschutz` {index}` <Stuhlschutz>`).
 
 #### Nachgeburtsphase
 
@@ -519,7 +519,7 @@ Nabelschnurstumpf nach sieben Tagen
 - Wehenabstand
 - Blasensprung?
 - Komplikationen bekannt?
-- **Mutter-Kind-Pass** {index}`\ <Mutter-Kind-Pass>` verlangen.
+- **Mutter-Kind-Pass** {index}` <Mutter-Kind-Pass>` verlangen.
   Darin stehen mit unter
   wichtige Informationen über die Schwangerschaft bzw. die Geburt.
 - In welchem Krankenhaus ist die Geburt angemeldet?
@@ -797,7 +797,7 @@ Vollständigkeit und Reife untersucht.
 
 Eine
 {dfn}`peripartale Asphyxie`
-{index}`\ <Asphyxie>`
+{index}` <Asphyxie>`
 ist eine Sauerstoffunterversorgung
 (Hypoxie) des Neugeborenen infolge einer atem- oder kreislaufbedingten
 Störung vor, während oder nach der Geburt.
@@ -965,7 +965,7 @@ können verschiedene Ursachen haben. Der Blutverlust kann sehr hoch sein
 und vom hypovolämischen Schock bis zum Kreislaufversagen führen. Eine
 häufige Ursache ist die
 {dfn}`Uterusatonie`
-{index}`\ <Uterusatonie>`:
+{index}` <Uterusatonie>`:
 Normalerweise zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen und
 komprimiert somit die Blutgefäße. Bei der Uterusatonie kommt es jedoch
 zur Erschlaffung (Atonie) der Gebärmutter, die Folge sind

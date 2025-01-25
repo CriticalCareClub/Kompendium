@@ -1,6 +1,6 @@
 (GEIN)=
 
-# `GEIN` Operative Eingriffe auf der Intensivstation
+# Invasive Eingriffe 
 
 :::{contents}
 :local:

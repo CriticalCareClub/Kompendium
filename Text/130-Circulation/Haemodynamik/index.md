@@ -7,7 +7,7 @@
 :::
 (GHDM-VO-Kreislauf-O2-Transport)=
 
-# Exkurs: Kreislauf und Hämodynamik
+# Kreislauf und Hämodynamik
 
 :::{rubric} Oxygenation ist das Ziel der Hämodynamik
 :::
@@ -16,12 +16,7 @@ Der Zweck des Kreislaufs ist die zelluläre Oxygenierung.
 Für eine optimale Sauerstoffversorgung auf zellulärer Ebene müssen die Makro- und Mikrozirkulation sowie der pulmonale Gasaustausch sowie das Gewebemilieu ausgeglichen sein.
 Der Kreislauf übernimmt mit dem Blut als Transportmedium den Transport von Sauerstoff von den Lungenkapillaren in das Gewebe der Endorgane.
 
-:::{figure} ../Bilder/LungeZuZelle.png
-:alt: Bild
-:width: 100%
 
-Von der Lunge zur Zelle: Der Kreislauf ist die *"Sauerstoffspedition"*
-:::
 
 
 

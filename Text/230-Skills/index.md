@@ -6,5 +6,6 @@
 ASS/index
 Sanitaetstechnik/index
 Diagnostik/index
+GEIN/index
 Wundversorgung/index
 ```

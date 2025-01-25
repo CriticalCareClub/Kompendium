@@ -5,16 +5,9 @@
 (haemodynamisches-monitoring)=
 (GHDM)=
 
-# `GHDM` Hämodynamisches Monitoring und Diagnostik
+# Hämodynamisches Monitoring und Diagnostik
 
-<!-- MM07.01.01 K -->
 
-:::{figure} Bilder/Spielzeug-Uebersicht.png
-:alt: Bild
-:width: 70%
-
-Hämodynamisches Spielzeug
-:::
 
 Die Überwachung ist einer der grundlegenden Aspekte der Intensivtherapie.
 Sie dient dazu
@@ -35,23 +28,13 @@ Dabei hat das hämodynamische Monitoring auch die wesentliche Funktion einer hä
 - TODO HD Mon: Beispiel Herangehenweise (CVP Safety Limits, Indikationen, ScO2, ...)
 :::
 
-:::{todo} Die Studierenden können anhand der Befunde geeignete Therapierichtungen auszuwählen                          {ref}`GHDM-KP-Therapiekonsequenzen` 
-:::
+
 
 :::{toctree}
 :maxdepth: 1
 
-Exkurs-Kreislauf/index
-Fragestellungen/index
-Surrogatmarker/index
 Monitoring-Allgemeines/index
-:::
-
-## Methoden
-
-:::{toctree}
-:maxdepth: 1
-
+Surrogatmarker/index
 IABP/index
 ZVD/index
 BGA/index

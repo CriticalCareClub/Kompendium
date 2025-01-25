@@ -2,7 +2,7 @@
 (GSCH)=
 (GSCH-SE-Schock-Definition)=
 
-# `GSCH` Schock
+# Schock
 
 :::{todo}
 
@@ -10,17 +10,6 @@ S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie https://register.aw
 
 
 
-:::
-
-:::{attention} 
-
-Diese Inhalte werden im Rahmen eines Klinischen Fallseminars behandelt.
-- Die **vorherige** Bearbeitung der theoretischen Inhalte ist **Voraussetzung** zur Teilnahme am klinischen Fallseminar.
-
-:::
-
-:::{raw} latex
-\clearpage
 :::
 
 

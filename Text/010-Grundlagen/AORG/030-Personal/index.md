@@ -41,6 +41,7 @@ Beispiele hierfür sind der *Paramedic* in den angloamerikansichen Ländern, der
 
 (rettungssanitaeter)=
 (notfallsanitaeter)=
+(Q-AORG23004)=
 
 ## Rettungs- und Notfallsanitäter in Österreich
 
@@ -54,7 +55,7 @@ Rettungssanitäter (RS)
 
 Notfallsanitäter (NFS)
 - Tätigkeitsbereich des RS +
-- Versogung von *Notfallpatienten*
+- Versorgung von *Notfallpatienten*
 - Unterstützung des Arztes
 - Arzneimittelliste 1
 - Allgemeine und besonderen Notkompetenzen:
@@ -84,9 +85,9 @@ Darüber hinaus müssen die *Berufs- bzw. Tätigkeitspflichten* erfüllt werden 
 
 Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`\]
 
-![Hilfeleistung](../../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
+![Hilfeleistung](../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
 
-![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
+![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
 :::
 
 
@@ -99,17 +100,19 @@ Zur Verlängerung der Berufs- und Tätigkeitsberechtigung bedarf es der Absolvie
 
 Der Tätigkeitsbereich des **Rettungssanitäters** umfasst die selbständige und *eigenverantwortliche Versorgung und Betreuung kranker, verletzter und sonstiger hilfsbedürftiger Personen*, die medizinisch indizierter Betreuung bedürfen, vor und während des Transports, die Übernahme sowie die Übergabe des Patienten oder der betreuten Person im Zusammenhang mit einem Transport, eine qualifizierte Durchführung von lebensrettenden Sofortmaßnahmen sowie die sanitätsdienstliche Durchführung von Sondertransporten.
 
-Aufgabe des **Notfallsanitäters** (*NFS*) ist vorrangig die Versogung von ***Notfallpatienten*** sowie die *Unterstützung des Arztes*.
+Aufgabe des **Notfallsanitäters** (*NFS*) ist vorrangig die Versorgung von ***Notfallpatienten*** sowie die *Unterstützung des Arztes*.
 Er kann dabei **Arzneimittel**, die vom ärztlichen Leiter mittels einer **Arzneimittelliste 1** definiert wurden, verabreichen.
 Notfallsanitäter können darüber hinaus die Berechtigung zur Durchführung allgemeiner und besonderer **Notfallkompetenzen** erwerben (**Arzneimittellehre** (**NKA**), **Venenzugang und Infusion** (**NKV**), **Beatmung und Intubation** (**NKI**)).
 Dadurch wird es Notfallsanitätern ermöglicht, Patienten vom ärztlichen Leiter in der **Arzneimittelliste 2** definierte Medikamente zu verbreichen.
 
 Eine Übersicht über die Kompetenzstufen gibt die Tabelle {ref}`Table-sang-kompetenzstufen`.
 
+
+<!-- Q-AORG23004 -->
+
 :::{list-table} Kompetenzstufen von Sanitätern nach dem SanG (§§ 9—12)
 :name: Table-sang-kompetenzstufen
 :header-rows: 1
-
 - - Kompetenzstufe
   - Beschreibung
 - - **Rettungssanitäter**
@@ -209,7 +212,7 @@ Für den Einsatz im organisierten Rettungsdienst sieht das ÄrzteG zwei Ausbildu
 
 
 (AORG-VO-Notarzt-Ausbildung)=
-
+(Q-AORG23001)=
 
 ### Notarzt
 
@@ -261,7 +264,7 @@ Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen
 
 
 
-:::{figure} ../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg
+:::{figure} ../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg
 :width: 100%
 
 Ein Notarzt bei einer endotracheale Intubation

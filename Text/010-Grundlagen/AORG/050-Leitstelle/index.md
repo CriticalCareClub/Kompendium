@@ -44,7 +44,7 @@ Zu den typischen **Aufgaben** einer Rettungsdienstleitstelle gehört die *Annahm
 Die Meldungen unterlaufen eine *Einteilung und Priorisierung* nach Art und Dringlichkeit der Meldung.
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
+:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
 :width: 50%
 
 Call taker in einer Leitstelle
@@ -363,9 +363,9 @@ Mittels TETRA ist einerseits die direkte Kommunikation zwischen Endgeräten mög
 TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 
-![TETRA Handfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172313_001342px.jpg)
+![TETRA Handfunkgerät](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172313_001342px.jpg)
 
-![TETRA Fahrzeugfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172239_001342px_cropped.jpg)
+![TETRA Fahrzeugfunkgerät](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172239_001342px_cropped.jpg)
 :::
 
 ### Telefon
@@ -373,6 +373,8 @@ TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 Das Telefon oder Mobiltelefon hat sich in der täglichen Routine etabliert.
 Nachteil dieses Systems ist, dass man auf die zivile Infrastruktur angewiesen ist.
 Ist diese z. B. in Folge von Überlastung gestört, ist dieser Kommunikationsweg nicht mehr zuverlässig nutzbar und man muss mit den Einsatzorganisationen vorbehaltenen Kommunikationswegen auskommen.
+
+(Q-AORG23003)=
 
 #### Notrufnummern
 

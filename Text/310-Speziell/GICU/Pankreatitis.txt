@@ -1,0 +1,575 @@
+# Pankreatitis
+
+- Ursachen
+- Epidemiologie
+- Pathophysiologie
+- Klassifizierung
+- Symptome
+- Komplikationen
+- Diagnostik
+- Labor
+- Sonographie
+- Computertomographie
+- ERCP
+- Graduierung
+- Prognose
+- Scoring – Systeme
+- Therapie
+- Ernährung
+- Intensivmedizinische Therapie
+
+Pankreatitis
+
+## **Ursachen**
+
+- Biliär – 45% - distale Choledochus Steine
+- Alkohol-Abusus – 35%
+- Medikamente (Diuretika, Azathioprin, Metronidazol, Steroide,
+  Valproinsäure, Propofol, Diclofenac , „Pille“)
+- Post-ERCP – 1%
+- Posttraumatisch
+- Postoperativ
+- Duodenal-Divertikel
+- Penetrierendes Ulcus ventriculi/ duodeni
+- Ausgeprägte Hypertriglyceridämie (>1000mg/dl)
+- Hyperkalziämie (prim. Hyperparathyreodismus)
+- Pankreas divisum
+- Viren (Mumps, Coxsackie, HIV, CMV, HPV)
+- Ascariden in den Gallengängen
+- Tumor – 1,5% - Erstmanifestation eines Pankreas-CA
+- Autoimmun – Sjörgen Syndrom, SLE, Vaskulitiden, AK gegen
+  Carboanhydrase, AK gegen Azinuszellen, ANA
+- Hereditäre Mutationen
+- Idiopathisch – 15%
+
+Pankreatitis
+
+## **Epidemiologie**
+
+Inzidenz
+
+- 20/10000
+- Tendenz steigend
+- Höchste Inzidenz in Finnland und Ungarn
+
+Pankreatitis
+
+## **Pathophysiologie**
+
+- Vorzeitige Aktivierung der Verdauungsenzyme (Trypsin, Chymotrypsin,
+  Elastase) bereits im Pankreas (*Autoaktivierung*) → **Autodigestion**
+- **Biliär:** Rückfluß von Galle in den Pankreasgang → Aktivierung der
+  Verdauungsenzyme
+- Mechanische/ hypoxische/ toxische Noxen → Aktivierung des
+  Transkriptionsfaktors NFκβ in den Azinuszellen → Freisetzung von
+  Zytokinen → Migration von Entzündungszellen → Freisetzung
+  proinflammatorischer Zytokine → **systemische Entzündung**
+- **Leber:** Aktivierung der Kupfer-Zellen → „Zytokin-Sturm“
+- Alkohol → vermehrte Durchlässigkeit der Epithelien
+- Entzündung → Steigerung der Kapillar-Permeabilität →
+  Flüssigkeitsverluste in den Bauchraum (bis zu 15 Liter) möglich
+
+Pankreatitis
+
+## **Klassifikation**
+
+Atlanta – Klassifikation
+
+*Leichte* akute Pankreatitis (80%)
+
+- ödematös
+- Fast nie letal endend
+
+*Schwere* akute Pankreatitis (20%)
+
+- „nekrotisierend“
+- Mit Organversagen *oder* lokalen Komplikationen (*intra-oder
+  peripankreatischer Flüssigkeitsansammlung, Nekrosen, Abszesse*,...)
+- Letalität (15-20%)
+
+Pankreatitis
+
+## **Symptome**
+
+Bauchschmerzen
+
+- Epigastrisch
+- Periumbilical
+- Gürtelförmig
+
+„Gummibauch“
+
+- Retroperitoneale Lage → meist nur mäßiggradige Abwehrspannung
+  (**KEIN** bretthartes Abdomen)
+- Hoher negativer prädiktiver Wert für eine nekrotisierende
+  Pankreatitis !!!
+
+Übelkeit, Erbrechen
+
+Meteorismus
+
+Paralytischer Subileus – Ilues (**häufig**)
+
+Aszites
+
+Fieber
+
+Ikterus
+
+Gesichtsrötung
+
+Hypotonie, Schockzeichen
+
+Bläuliche Flecken
+
+- Paraumbilical (*Cullen-Zeichen*)
+- Im Flankenbereich (*Grey-Turner-Zeichen*) mit schlechter Prognose –
+  Mortalität bei 30%
+
+Pleura-Erguß (meist linksseitig)
+
+BZ – Entgleisung (endokrine *Pankreasinsuffizienz*)
+
+Bewußtseinstrübung („*Encephalitis pancreatica*“)
+
+Pankreatitis
+
+## **Komplikationen**
+
+- Intraabdominelle Abszesse (subphrenisch, Pankreas)
+- Sepsis, Septischer Schock
+- MOV
+- Volumenmangelschock bei schwerer Pankreatitis (20%)
+- Verbrauchskoagulopathie (DIC)
+- ARDS bei schwerer Pankreatitis (45%)
+- ANV bei schwerer Pankreatitis (35%)
+- Arrosion von Gefäßen (z.B. A.lienalis) mit massiver Blutung
+- Milz/Pfortader-Thrombose mit portaler Hypertonie
+- Pseudozysten-Bildung
+- Perforationen (z.B.Kolon)
+
+Abdominelles Kompartment-Syndrom (IAP > 20mmHg)
+
+Hyperfibrinolyse → diffuse Blutungen MERKE: **4 Ps** (Prostata,
+Plazenta, Pulmo, Pankreas) reich an Aktivatoren für Hyperfibrinolyse
+
+Nekrosen-Bildung (im Mittel nach 4 Tagen)
+
+Nekrosen-Infektion:
+
+- Hauptursache für Spontanmortalität
+- Translokation von Bakterien
+- E.coli, Pseudomonas, Klebsiellen, Proteus, Staphylokokken,
+  Enterokokken
+- Im Mittel nach 12 Tagen
+- Nachweis: mittels FNP im CT
+
+Pankreatitis
+
+## **Diagnostik**
+
+- Anamnese, klinische Untersuchung
+- Labor
+- C/P, Abdomen leer
+- Abdomen US
+- CT mit KM
+- ERCP mit Papillotomie
+
+Pankreatitis
+
+### **Labor**
+
+Lipase
+
+Amylase
+
+- Wenig spezifisch
+- Oft falsch negativ bei äthyltoxischer Genese
+- Nicht notwenig
+
+GPT – 3fache Erhöhung bei biliärer Pankreatitis
+
+Bei biliärer Genese in 20% normale LFP
+
+Laktat: fast immer erhöht
+
+- Lipase – Erhöhung oft um das 3fache
+- Sensitiver als Amylase
+- 97% Spezifität
+- Nur 67% Sensitivität
+- Anstieg bereits nach 4-8h
+- Normalisierung nach 5-8 Tagen
+- **CAVE**: Lipase Erhöhung auch bei NIereninsuffizienz
+
+MERKE:
+
+Lipase
+
+**KEIN** Schweregradparameter
+
+**KEIN** Verlaufsparameter
+
+**KEIN** Prognoseparameter
+
+**NUR** ein Diagnoseparameter
+
+- Die Höhe der Lipase – Werte korreliert **nicht** mit dem Schweregrad
+- Lipase ist **kein** Verlaufsparameter , sondern ein Diagnoseparameter
+- Es ist daher **keine** Lipasebestimmung bei Diagnosesicherung
+  notwendig
+
+Pankreatitis
+
+### **Sonographie**
+
+- Hauptsächlich zur Beurteilung der Gallenwege (*Cholestase*)/
+  Gallenblase (*Cholezystolithiasis*, *Cholezystitis*)
+- Stau in den Gallenwege
+- Sensitivität nur bei 67%
+- Oft eingeschränkt wegen Meteorismus
+- Evtl. Nachweis von freier Flüssigkeit
+- Evtl. Nachweis ein Pfortaderthrombose
+
+Pankreatitis
+
+### **Computertomographie**
+
+- 1.Wahl zum Nachweis von Nekrosen (fehlende KM-Aufnahme !)
+- Differenzierung ödematös/nekrotisierend
+- Balthazar-Score
+- Fragl. Therapeutische Konsequenz
+- Das Ausmaß der Nekrose hat *keinen* Einfluß auf die Mortalität
+- CT-Befund hat nur mäßige Vorhersagekraft für schweren Verlauf
+- Lufteinschlüße/ Gasbläschen → Hinweis für infizierte Nekrosen → FNP
+
+**CT – Severitiy Index**
+
+**Schweregrad**
+
+- Normales Pankreas: 0P
+- Vergrößerung des Pankreas: 1P
+- Entzündung des Pankreas/ peripankreatisches Fettgewebe: 2P
+- An einzelner Stelle perip.Flüssigkeit: 3P
+- An mehreren Stellen perip.Flüssigkeit / retroperitoneale Luft : 3P
+
+**Nekrosegrad**
+
+- Keine Nekrose 0P
+- \< 30% des Pankreas : 2P
+- 30-50% des Pankreas: 4P
+- \>50% des Pankreas : 6P
+
+**Balthazar-Score**
+
+**A** normales Pankreas
+
+**B** Vergrößerung (*fokal/diffus*)
+
+**C** auffälliges Pankreas mit peripankreatitischer Entzündung
+
+**D** Flüssigkeitsansammlung an einem Ort
+
+**E** zwei oder mehrere Flüssigkeitsansammlungen oder Nachweis von Gas
+im / um das Pankreas
+
+Pankreatitis
+
+## **ERCP**
+
+Signifikante Reduktion der Mortalität bei schwere biliärer Pankreatitis
+
+Meist mit Papillotomie und Steinextraktion
+
+Zeitpunkt:
+
+**Sofort** (dringliche ERCP) nur bei biliärer Pankreatitis mit
+
+- Cholangitis (*Charcot-Trias* – Schmerzen/Fieber/Ikterus)
+- Cholangiogener Sepsis
+
+Ansonsten innerhalb von 72 Stunden
+
+- Diagnostische ERCP im freien Intervall zur Abklärung der Ätiologie
+  **frühestens 8 – 12 Wochen** nach dem akuten Ereignis – besser jedoch
+  Durchführung einer MRCP !
+
+Post-ERCP Pankreatitis
+
+Häufigkeit: 1% nach Intervention
+
+Jeweils in 50% nach ERCP
+
+- Bauchschmerzen
+- Lipase – Erhöhung
+
+Wichtig: wiederholte klinische Untersuchungen
+
+**KEINE** Lipase-Bestimmung bei Schmerzfreiheit
+
+Pankreatitis
+
+### **Labor - Parameter**
+
+CRP:
+
+- Der wichtigste Schweregradparameter nach 48 Stunden
+- Induktion durch Zytokine
+
+Interleukin 6:
+
+- Sehr guter Prognoseparameter
+- Auch initial bereits am 1. Tag (fast 100% Sensitivität)
+
+Glukose:
+
+- Ausfall der endokrinen Funktion (! erst ab 80% des Gewebes!)
+- Hoher negativer prädiktiver Wert : normaler BZ (bei
+  Nicht-Diabetikern) schließt nekrotisierende Pankreatitis weitgehend
+  aus)
+- BZ \< 125mg/dl – 92% KEINE nekrot.Pankreatitis
+
+Hämatokrit:
+
+- Hoher negativer prädiktiver Wert
+- Fehlender HK-Anstieg schließt nekrotisierende Pankreatitis weitgehend
+  aus
+- HK \< 43% (Mann) und \< 39% (Frau) – 88% KEINE nekrot.Pankreatitis
+
+Pankreatitis
+
+## **Scores**
+
+Ranson – Score
+
+APACHE II – Score
+
+Glasgow – Score
+
+Imrie – Score
+
+- **! Wichtiger ist aber die tägliche klinische Untersuchung !**
+
+Pankreatitis
+
+**Scores**
+
+Imrie-Score nach 48 Stunden
+
+- Alter > 55 Jahre
+- Leukozyten > 15000/µl
+- Glukose > 200 mg/dl
+- Harnstoff > 16 mmol/l
+- Kalzium \< 2mmol/l
+- Albumin \< 3,2 g/dl
+- LDH > 600 U/l
+- GOT > 100 U/l
+
+Ranson – Score nach 48 Stunden
+
+- Alter > 55 Jahre
+- Leukozyten > 16000/µl
+- GOT > 255 U/l
+- LDH > 350 U/l
+- Glukose > 200 mg/dl
+- 0-2 Punkte - \< 1% Letalität
+- 3-4 Punkte – 15% Letalität
+- 5-6 Punkte – 40% Letalität
+- \> 6 Punkte – 100% Letalität
+
+Pankreatitis
+
+## **Therapie**
+
+Allgemeinmaßnahmen
+
+Schweregrad:
+
+- Leichte Pankreatitis → Normalstation
+- Schwere Pankreatitis → Intensivstation
+
+Bettruhe
+
+Es gibt bis dato *keine spezifische* Pankreatitis-Therapie ! **NUR**
+eine *symptomatische* Therapie
+
+Streßulkus-Prophylaxe (PPI,H2-Blocker)
+
+Magensonde:
+
+- Nicht routinemäßig
+- IND: paralytischer Ileus & enterale Ernährung
+
+Elektrolyt-Ausgleich:
+
+- Kalium
+- Calzium (ab \< 1,6mmol/l)
+
+Insulin-Perfusor (ab BZ 250 mg/dl)
+
+ANV
+
+- Ausreichende Hydrierung
+- Evtl.forcierte Diurese
+- Frühzeitig Beginn mit HDF (CVVHDF)
+
+Thromboseprophylaxe mittels NMH
+
+Bei Sepsis – siehe Sepsis-Guidelines
+
+Pankreatitis
+
+### **Ernährung**
+
+Enteral vs. Parenteral
+
+Signifikant geringere Morbidität
+
+Verkürzung des KH-Aufenthaltes
+
+Reduktion der Mortalität bei Patienten , die operiert werden mussten
+
+Initial 2 Tage Nulldiät
+
+Ab dem 3.Tag enterale Ernährung (nasogastrale Sonde ausreichend- *ESPEN
+Studie*)
+
+Pathophysiologie: Erhaltung der Integrität des Darmepithels → weniger
+bakterielle Translokation → weniger Infektionen bei Nekrosen
+
+Thiamin-Substitution bei chron.Alkohol-Abusus
+
+Parenterale Ernährung – bei Ileus oder Reflux !
+
+Zusätzlich AS, Vitamine, Fette und Glukose (*keine hypokalorische*
+Ernährung !)
+
+Oraler Kostaufbau
+
+- Zweistufig (Tee, Wasser Zwieback)
+- Leichte Mischkost
+
+Pankreatitis
+
+### **Hämodynamik**
+
+Volumengabe
+
+- 3-5l/24h
+- Aggressive Volumentherapie (u.U.bis zu 15 Liter/Tag)
+
+Steuerung
+
+- ZVD (Ziel: 8-10cm H20 ) MEMO : ZVK bei schwerer Pankreatitis obligat
+  !
+- Diurese (Ziel: > 0,5ml/kg/h)
+- HK – 30-35%
+- Ggf.auch PICCO-Messung
+- Volumengabe bis zur Normalisierung des Laktats
+- Evtl.*early goal directet therapy* (Katecholamine, etc.)
+
+Pankreatitis
+
+### **Beatmung**
+
+- Bei respiratorischer Insuffizienz , wenn möglich, primär
+  nicht-invasive Beatmung
+- Punktion/Drainage von Pleura-Ergüßen (meist linksseitig)
+- evtl.Legen einer Entlastungssonde bei distendiertem Kolon
+- Evtl.Entlastung eines intraabdominellen Kompartments – MEMO:
+  IAP-Messung !
+- Inkl.Peep
+- ARDS – *siehe Kapitel ARDS*
+
+Pankreatitis
+
+**Analgesie**
+
+Keine Analgetika, die am M.Sphincter Oddi wirken (*Spasmen*)
+
+PDK erwägen !
+
+**Cave**: Sympathikolyse (*Vasodilatation* !)
+
+*Kontraindikationen*:
+
+- Ablehnung des Patienten
+- Allergie auf LA
+- Gerinnungsstörung
+- Erhöhter Hirndruck
+- Hochgradige Aorten/Mitralstenose
+- Sepsis und positive Blutkulturen
+- Schock mit hochdosierter Katecholamin-Therapie
+
+**Pankreatitis**
+
+### **OP – Indikationen**
+
+! OP bei Pankreatitis außerordentlich zurückhaltend !
+
+Infizierte Nekrosen (Nachweis mittels FNP)
+
+Pankreas-Abszeß
+
+Blutungen (z.B.Arrosionen der A.lienalis)
+
+Perforation
+
+Pseudozysten – nur bei:
+
+- Infektion
+- Obstruktion (Gallengang, Duodenum)
+- Größenzunahme
+- Blutung
+
+Intraabdominelles Kompartment
+
+Cholezystektomie bei biliärer Pankreatitis
+
+Pankreatitis
+
+**Nekrosektomie**
+
+Perkutan (interventionell – radiologisch)
+
+Endoskopisch (transgastrisch – eignet sich besonders für den
+Kopfbereich)
+
+Chirurgisch
+
+Cholezystektomie
+
+Rezidiv einer biliären Pankreatitis bei Pat. Mit Cholezystolithiasis in
+60%
+
+IND für CHE (auch wenn bereits eine Papillotomie durchgeführt wurde)
+
+*Zeitpunkt*:
+
+- Leichte Pankreatitis – binnen 7 Tagen (noch während des stationären
+  Aufenthaltes)
+- Schwere Pankreatitis – nach 4-6 Wochen im Intervall
+
+Pankreatitis
+
+**Prognose**
+
+*Mortalität*:
+
+Abnehmend
+
+Insgesamt : um die 8%
+
+- Leichte Pankreatitis: fast nie letal
+- Schwere Pankreatitis: 15-20%
+
+Der 1.“Schub“ hat eine 10-15fache höhere Mortalität als der Wiederholte
+
+Schlechte Prognose bei äthylischer Genese
+
+Bei Totalnekrose des gesamten Pankreas → dauerhafte Ersatztherapie
+(exokrine/endokrine Pankreasinsuffizienz) mit Enzymen und Insulin
+
+Biphasischer Verlauf:
+
+- *Frühmortalität*: Organversagen
+- *Spätmortalität* Infektion von Nekrosen → Sepsis

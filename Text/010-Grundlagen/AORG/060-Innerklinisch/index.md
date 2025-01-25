@@ -50,6 +50,8 @@ Vereinfacht gesagt, während internistische Krankheitsbilder oft komplex sind, l
 
 ab. Wichtig ist zu betonen, dass es viele Patienten gibt, die sich nicht so einfach in diese Kategorien einteilen lassen (z. B. Synkope mit Sturz).
 
+(Q-AORG23001-2)=
+
 ### Notfallambulanzen
 
 Notfallambulanzen behandeln meist nicht-traumatologische Notfälle und ungeplante Konsultationen.
@@ -82,7 +84,7 @@ Manchmal kommen solche Aufnahmestationen auch zum Einsatz um Normalstationen aus
 Der Begriff Schockraum ist an sich sehr ungenau, jedenfalls hat die Bezeichnung "Schockraum" nichts mit dem Vorhandensein oder Nicht-Vorhandensein eines {ref}`Schocks <Schock>` zu tun.
 Es handelt sich dabei um eine Einrichtung, die die Versorgung kritischer, akut vital bedrohter Patienten ermöglicht.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230502_083637_001342px.jpg
+:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230502_083637_001342px.jpg
 
 Ein Schockraum \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
@@ -102,7 +104,7 @@ Konkrete Beispiele wären:
 - **Rescue-Operationen**, das sind operative Eingriffe, die unmittelbar durchgeführt werden müssen, um Gefahren für Leib und Leben abzuwenden
 
 
-:::{figure} ../../../Bilder/Schinnerl-Viktoria/KS_AN_380_HB_Schockraum-Trauma_V01.00_Analge-Schockraumalgorithmus.png
+:::{figure} ../../Bilder/Schinnerl-Viktoria/KS_AN_380_HB_Schockraum-Trauma_V01.00_Analge-Schockraumalgorithmus.png
 
 Beispiel eines Algorithmus zum Management eines traumatologischen Schockraumpatienten \[₢ Viktoria Schinnerl, UK Krems (KS_AN_380) {term}`ℓ MfG`\]
 :::
@@ -135,7 +137,7 @@ Dies beinhaltet einerseits eine *direkte Anfahrt* eines Katheterzentrums, andere
 Vor dem Start des Infarkt-Netzwerkes wurden Infarktpatienten in ihr Heimatspital gebracht, diagnostiziert und danach weiter in ein Katheterzentrum transferiert.
 Dadurch kam es zu beträchtlichen Zeitverzögerungen bis eine kausale Therapie gestartet wurde.
 
-:::{figure} ../../../Bilder/WikipediaPd/12_lead_generated_anterior_MI.jpg
+:::{figure} ../../Bilder/WikipediaPd/12_lead_generated_anterior_MI.jpg
 
 Ein Fall für den Herzkatheter.
 :::

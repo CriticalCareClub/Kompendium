@@ -193,8 +193,7 @@ Offene Fraktur des Mittelfingers
 
 ### Maßnahmen: Fraktur
 
-```{eval-rst}
-.. todo:: Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
 
 ```
 

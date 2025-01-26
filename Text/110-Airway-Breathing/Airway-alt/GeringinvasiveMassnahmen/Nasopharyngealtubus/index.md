@@ -7,8 +7,7 @@
 
 # Nasopharyngealtubus (Wendl-Tubus)
 
-```{eval-rst}
-.. todo:: Wendl-Tubus: Anlage
+```{todo} Wendl-Tubus: Anlage
 ```
 
 Der Wendl-Tubus (Syn.:  Nasopharyngealtubus nach Wendl) wird über die Nase in den Rachenraum eingeführt, wo dessen Spitze zu liegen kommt.

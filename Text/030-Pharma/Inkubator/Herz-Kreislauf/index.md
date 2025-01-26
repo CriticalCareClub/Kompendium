@@ -880,8 +880,7 @@ anhaltenden Rhythmusstörungen kommt, zieht dies eine deutliche Minderung
 der Herzleistung und somit eine verminderte Kreislaufdurchblutung bis
 zum Kreislaufstillstand nach sich.
 
-```{eval-rst}
-.. todo:: Tab. 3 Entstehung von Herzrhythmusstörungen
+```{todo} Tab. 3 Entstehung von Herzrhythmusstörungen
 
     Arrhythmogene Ursache
     Auslöser

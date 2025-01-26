@@ -654,8 +654,7 @@ und *Introspektion* den erstmöglichen Zugang bietet, da der Betroffene
 selbst auf gedanklich-emotionaler Ebene wohl die erste Chance bekommt,
 die Vorboten von Distress zu erkennen bzw. am eigenen Leib zu "spüren".
 
-```{eval-rst}
-.. todo:: #103: `Erklärung Eustress, Distress <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/103>`_
+```{todo} #103: `Erklärung Eustress, Distress <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/103>`_
 ```
 
 Da viele der o. g. Auswirkungen aber sehr *subtil bzw. schleichend
@@ -1147,8 +1146,7 @@ Anzeichen einer Sekundärtraumatisierung sind
   Existentielle Krise und Erschütterung, Zweifel am Sinn von Leben,
   Leiden, Tod
 
-```{eval-rst}
-.. todo::  !!! A !!!Keywords: Psychische/physische Ebene, erhöhte Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte Stimmung), Zynismus, pathologische Phänomene v. a. Burnout und Traumafolgen (akute Belastungsreaktion, PTSD, Andauernde Persönlichkeitsänderung nach Extrembelastung), Retraumatisierung, Sekundärtraumatisierung.
+```{todo}  !!! A !!!Keywords: Psychische/physische Ebene, erhöhte Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte Stimmung), Zynismus, pathologische Phänomene v. a. Burnout und Traumafolgen (akute Belastungsreaktion, PTSD, Andauernde Persönlichkeitsänderung nach Extrembelastung), Retraumatisierung, Sekundärtraumatisierung.
 
 
 ```
@@ -1621,8 +1619,7 @@ unterdrücken \[...\], die eigene Aufmerksamkeit und Konzentration auf eine
 Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren"*
 {term}`🗎 Bengel 2` .
 
-```{eval-rst}
-.. todo:: !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
+```{todo} !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
 ```
 
 % .. todo:: !!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z. B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z. B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).
@@ -1751,48 +1748,37 @@ Förderung des Kohärenzgefühls (erweitertes Handlungsrepertoire durch die
 Gemeinschaft) und im Rahmen gemeinsamer Gestaltungsmöglichkeiten der
 Freizeit- und Erholungsphasen.
 
-```{eval-rst}
-.. todo:: Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z. B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.
+```{todo} Rationalisieren Zu dieser Strategie gehört, dass man die Notfallsituation bzw. das Einsatzgeschehen möglichst sachlich und nüchtern betrachtet. Medizinisch-technische, insgesamt eher abstrakte Überlegungen rücken dabei in den Vordergrund, während emotionale Aspekte bewusst ausgeklammert werden. Zwar sind Notfallpatienten eben keine defekten Maschinen, die mit Vitalfunktionsmechanik lediglich repariert werden müssen, sondern Menschen, deren spezifische psychische Situation bei der Hilfeleistung angemessen zu berücksichtigen ist (6). In bestimmten Einzelfällen (!) – nämlich dann, wenn ein Helfer ansonsten handlungsunfähig würde – kann es allerdings sehr wohl angebracht sein, z. B. ausschließlich auf das Polytrauma, den Herzinfarkt oder die Reanimation zu fokussieren.
 ```
 
-```{eval-rst}
-.. todo:: Humor Gerade der Umgang mit schwierigen Situationen kann durch eine humorvolle Betrachtung erleichtert werden (Humor ist, wenn man trotzdem lacht). Mitunter wird Humor sogar explizit als Mechanismus zur Abwehr von Stressreaktionen bezeichnet (2, 9). In diesem Zusammenhang ist jedoch niemals Schadenfreude, Ironie oder Sarkasmus gemeint, sondern Humor als Ausdruck der Fähigkeit, auch schwierigen und bedrohlichen Situationen mit innerer Distanz, Ruhe und Gelassenheit zu begegnen. In diesem Sinne kann Humor sogar als Ausdruck von Hoffnung und Trost verstanden werden. Banale Witzeleien erfüllen diese Funktion eher nicht. Auch dass die humorvolle Betrachtung einer Notfallsituation nicht mit Verhaltensweisen der Helfer verbunden sein darf, die Notfallpatienten, Angehörige oder andere Betroffene zusätzlich belasten, versteht sich sicherlich von selbst.
+```{todo} Humor Gerade der Umgang mit schwierigen Situationen kann durch eine humorvolle Betrachtung erleichtert werden (Humor ist, wenn man trotzdem lacht). Mitunter wird Humor sogar explizit als Mechanismus zur Abwehr von Stressreaktionen bezeichnet (2, 9). In diesem Zusammenhang ist jedoch niemals Schadenfreude, Ironie oder Sarkasmus gemeint, sondern Humor als Ausdruck der Fähigkeit, auch schwierigen und bedrohlichen Situationen mit innerer Distanz, Ruhe und Gelassenheit zu begegnen. In diesem Sinne kann Humor sogar als Ausdruck von Hoffnung und Trost verstanden werden. Banale Witzeleien erfüllen diese Funktion eher nicht. Auch dass die humorvolle Betrachtung einer Notfallsituation nicht mit Verhaltensweisen der Helfer verbunden sein darf, die Notfallpatienten, Angehörige oder andere Betroffene zusätzlich belasten, versteht sich sicherlich von selbst.
 ```
 
-```{eval-rst}
-.. todo:: Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z. B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d. h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.
+```{todo} Ablenkung Indem man sich auf die Durchführung einer einzelnen Maßnahme konzentriert (z. B. auf das Vorbereiten einer Infusion oder das Blutdruckmessen), können belastende Aspekte des Notfallgeschehens zumindest vorübergehend ausgeblendet werden. Auch leises Summen, das Aufsagen von Schüttelreimen (Fischers Fritz fischt frische Fische, Frische Fische fischt Fischers Fritz) oder das Durchgehen des kleinen Einmaleins kann von belastenden Eindrücken ablenken. Das bewusste Zählen oder Benennen von Gegenständen im Umfeld hat ebenfalls eine solche Wirkung. Wenn es dazu beiträgt, insgesamt handlungsfähig zu bleiben, kann sogar ein kurzzeitiges mentales Fremdgehen legitim sein, d. h. ein gedankliches Aussteigen, bei dem man für einen Augenblick absichtlich an etwas anderes denkt.
 ```
 
-```{eval-rst}
-.. todo:: Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z. B. auf das Vorbereiten einer Infusion
+```{todo} Abb. 4: Eine Möglichkeit der psychologischen Selbsthilfe: Konzentration auf die Durchführung einer einzelnen Maßnahme, z. B. auf das Vorbereiten einer Infusion
 ```
 
-```{eval-rst}
-.. todo:: Abb. 3: Die meisten Helfer funktionieren auch in stressigen Situationen und benötigen an der Einsatzstelle keine psychologische Unterstützung
+```{todo} Abb. 3: Die meisten Helfer funktionieren auch in stressigen Situationen und benötigen an der Einsatzstelle keine psychologische Unterstützung
 ```
 
-```{eval-rst}
-.. todo:: Abb. 5: Auch Kollegen können helfen – mit kleinen Gesten, einem kurzen Blickkontakt oder einer aufmunternden Äußerung
+```{todo} Abb. 5: Auch Kollegen können helfen – mit kleinen Gesten, einem kurzen Blickkontakt oder einer aufmunternden Äußerung
 ```
 
-```{eval-rst}
-.. todo:: Die Auseinandersetzung mit den hier beschriebenen Selbsthilfestrategien ist übrigens schon allein deshalb sinnvoll, weil sie verdeutlicht, dass man auch bei starker Belastung durchaus etwas tun kann, um einem drohenden Verlust der persönlichen Handlungsfähigkeit entgegen zu wirken. Erwähnt werden soll auch, dass allein das Wissen um solche Mechanismen hilfreich ist. Wer über Selbsthilfestrategien informiert ist, wird sie womöglich schon deshalb nicht mehr benötigen. Dies ist mit dem Verfassen eines Spickzettels in der Schule vergleichbar: Wer solch eine Merkhilfe erst einmal verfasst hat, kommt erstaunlicherweise meist ohne sie aus.
+```{todo} Die Auseinandersetzung mit den hier beschriebenen Selbsthilfestrategien ist übrigens schon allein deshalb sinnvoll, weil sie verdeutlicht, dass man auch bei starker Belastung durchaus etwas tun kann, um einem drohenden Verlust der persönlichen Handlungsfähigkeit entgegen zu wirken. Erwähnt werden soll auch, dass allein das Wissen um solche Mechanismen hilfreich ist. Wer über Selbsthilfestrategien informiert ist, wird sie womöglich schon deshalb nicht mehr benötigen. Dies ist mit dem Verfassen eines Spickzettels in der Schule vergleichbar: Wer solch eine Merkhilfe erst einmal verfasst hat, kommt erstaunlicherweise meist ohne sie aus.
 ```
 
-```{eval-rst}
-.. todo:: Supervision: Exkurs: Supervision - ein Tabu? Abhängig von der Organisations- und Teamkultur kann Supervision auch als erstes Anzeichen einer Überforderung, Schwäche etc. fehlinterpretiert bzw. assoziiert werden. Tatsächlich drückt Supervision ein gesundheitsförderliches Verhalten und bewusst verantwortliches Engagement für den Beruf aus, ein fairer Handel auf sein eigenes Wohlbefinden und seine Gesundheit zu achten und in Austausch dafür der Organisation seine unbeeinträchtigte berufliche Leistungsfähigkeit verfügbar machen.
+```{todo} Supervision: Exkurs: Supervision - ein Tabu? Abhängig von der Organisations- und Teamkultur kann Supervision auch als erstes Anzeichen einer Überforderung, Schwäche etc. fehlinterpretiert bzw. assoziiert werden. Tatsächlich drückt Supervision ein gesundheitsförderliches Verhalten und bewusst verantwortliches Engagement für den Beruf aus, ein fairer Handel auf sein eigenes Wohlbefinden und seine Gesundheit zu achten und in Austausch dafür der Organisation seine unbeeinträchtigte berufliche Leistungsfähigkeit verfügbar machen.
 ```
 
-```{eval-rst}
-.. todo:: !!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z. B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d. h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback
+```{todo} !!! A !!!Stressbewältigung Es gibt verschiedene Möglichkeiten der Stressreduktion und Stressbewältigung: • Stressmanagement: Förderung kognitiver bzw. emotionsbezogene Copingstrategien • Körperliche Stressbewältigung, z. B. durch Aerobes Training • Entspannungsverfahren • Humor • Soziale Stressbewältigung: soziale Unterstützung • Psychische Stressbewältigung, personale Ressourcen • Anwendung von Widerstandsressourcen vor dem Hintergrund eines Kohärenzgefühl als Lebenseinstellung (ANTONOVSKY), d. h. beispielsweise Probleme als Herausforderungen ansehen • Resilienz • Günstige Kontrollüberzeugungen (Attributionsstile) • Hohe Selbstwirksamkeitserwartung • Biofeedback
 ```
 
-```{eval-rst}
-.. todo:: Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z. B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM).
+```{todo} Keywords: Präventive, kurzfristige Strategien (Psychologische Selbsthilfe), Langfristige Strategien: personenenbezogen: Erholungsphasen, Selbsbeobachtung, Ablenkung, Rituale (z. B. aus der Rolle aussteigen), (Entlastung durch zwischenmenschliche Ressourcen, soziale Unterstützung), (Selbstbild vs. Ansprüche: Erkennen und Umgang mit eigenen Schwächen, Zulassen von Schwächen), (Dysfunktionale Strategien - Verhaltenssüchte); organisatorisch: Umgangsregeln im Teamkultur (Kommunikations- und Umgangsregeln), Kohärenzgefühl durch Kompetenz (Fortbildung), (Supervision), (CISM).
 ```
 
-```{eval-rst}
-.. todo:: Psychologische Grundbegriffe
+```{todo} Psychologische Grundbegriffe
 
 
 

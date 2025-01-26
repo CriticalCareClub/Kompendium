@@ -188,6 +188,5 @@ Die Reihenfolge ist je nach Patientunterschiedlich!
 \end{ParWide}
 ```
 
-```{eval-rst}
-.. todo:: Bild Schema PAM
+```{todo} Bild Schema PAM
 ```

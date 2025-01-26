@@ -84,8 +84,7 @@ muss mit einer Reanimation begonnen werden.
 
 ##### Maßnahmen: Abort
 
-```{eval-rst}
-.. todo:: Maßnahme GO06XX1C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme GO06XX1C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen:
@@ -778,8 +777,7 @@ Vollständigkeit und Reife untersucht.
 
 ##### Maßnahmen: Basisreanimation des Neugeborenen
 
-```{eval-rst}
-.. todo:: Maßnahme GY51140C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme GY51140C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -980,8 +978,7 @@ nach der Plazentalösung.
 
 ##### Maßnahmen: Blutung in der Nachgeburtsperiode
 
-```{eval-rst}
-.. todo:: Maßnahme GO72000C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme GO72000C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -1024,8 +1021,7 @@ anhand des Blutverlustes und der Vitalwerte eingeschätzt werden.
 
 (m-vaginale-blutung)=
 
-```{eval-rst}
-.. todo:: Maßnahme GN93091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme GN93091C: Anpassung an höherqualifiziertes Personal
 ```
 
 #### Maßnahmen: Vaginale Blutung

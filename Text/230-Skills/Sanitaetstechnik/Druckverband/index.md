@@ -5,8 +5,7 @@
 
 # Druckverband
 
-```{eval-rst}
-.. todo:: `#108 Verbände, Druckverband: Von "Sanitätstechniken" ad "Wundversorgung"? <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/108>`
+```{todo} `#108 Verbände, Druckverband: Von "Sanitätstechniken" ad "Wundversorgung"? <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/108>`
 ```
 
 Verbände dienen dem Schutz und der Blutstillung.

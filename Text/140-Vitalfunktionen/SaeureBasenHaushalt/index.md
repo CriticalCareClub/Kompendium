@@ -188,7 +188,7 @@ und folglich zu einer Ansäuerung des Blutes.
 
 ## Stoffwechselbedingte Übersäuerung (Metabolische Azidose)
 
-::::{only} not nosidebar
+
 
 :::{margin} Metabolische Azidose
 - Bildung von sauren Stoffen im Körper
@@ -201,7 +201,7 @@ und folglich zu einer Ansäuerung des Blutes.
 
 - Schädigung des Zellstoffwechsels und des Herzmuskels
 :::
-::::
+
 
 Es kommt zu einer
 *übermäßigen Säureproduktion* des Körpers.

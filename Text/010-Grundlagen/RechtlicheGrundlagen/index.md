@@ -349,8 +349,7 @@ spielt (im Zweifel die Mutter) oder das Pflegschaftsgericht ist
 anzurufen. Lehnen beide ab, obwohl es sich um eine notwendige
 Heilbehandlung handelt, muss das Pflegschaftsgericht angerufen werden
 
-```{eval-rst}
-.. todo:: #104 Erklärung mündig, unmündig
+```{todo} #104 Erklärung mündig, unmündig
 
 ```
 
@@ -1435,8 +1434,7 @@ Mitverschulden gewertet wird.
 3. Polizeifahrzeuge
 4. sonstige Einsatzfahrzeuge
 
-```{eval-rst}
-.. todo:: Vorschlag
+```{todo} Vorschlag
 
     Anmerkung: Abgesehen von der rechtlichen Regelung
     kann es aber im Einzelfall,
@@ -1464,10 +1462,8 @@ bestehen[^footnote-24].
 
 - {ref}`jus-langer-dienst-fall-17`
 
-```{eval-rst}
-.. todo:: #105: JUS: neu: DSVGO
+```{todo} #105: JUS: neu: DSVGO
 ```
 
-```{eval-rst}
-.. todo:: #106: JUS: Erwachsenenschutzgesetz
+```{todo} #106: JUS: Erwachsenenschutzgesetz
 ```

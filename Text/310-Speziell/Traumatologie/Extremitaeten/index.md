@@ -31,8 +31,7 @@ suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 
 ### Maßnahmen Versorgung eines Amputats
 
-```{eval-rst}
-.. todo:: Maßnahme TT14071C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TT14071C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

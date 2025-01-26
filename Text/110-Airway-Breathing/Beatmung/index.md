@@ -384,8 +384,7 @@ Notfallbeatmungsgeräte
 
 #### Beispiel: Medumat™ Standard
 
-```{eval-rst}
-.. todo:: Modernere Beatmungsgeräte vorstellen:
+```{todo} Modernere Beatmungsgeräte vorstellen:
 
     -   Oxylog 3000
     -   neuer Medumat

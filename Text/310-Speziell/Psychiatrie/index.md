@@ -217,8 +217,7 @@ Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
 ##### Maßnahmen: Wahnvorstellungen
 
-```{eval-rst}
-.. todo:: Maßnahme PF22091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme PF22091C: Anpassung an höherqualifiziertes Personal
 ```
 
 Die — für den Außenstehenden — wirren Vorstellungen
@@ -260,8 +259,7 @@ mit diesen Patienten eingegangen werden.
 
 #### Maßnahmen: Unruhiger oder aggressiver Patient
 
-```{eval-rst}
-.. todo:: Maßnahme PF92091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme PF92091C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

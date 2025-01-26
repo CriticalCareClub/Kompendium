@@ -62,8 +62,7 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 (m-bauchtraume-offen)=
 
-```{eval-rst}
-.. todo:: Maßnahme TS31011C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TS31011C: Anpassung an höherqualifiziertes Personal
 ```
 
 ### Maßnahmen: Bauchtrauma, offen
@@ -314,8 +313,7 @@ um den möglichen großen Blutverlust einzudämmen.
 
 ### Maßnahmen: Beckentrauma, instabil
 
-```{eval-rst}
-.. todo:: Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

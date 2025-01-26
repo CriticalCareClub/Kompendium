@@ -9,8 +9,7 @@
 
 # Tracheotomie
 
-```{eval-rst}
-.. todo:: `#110: Fotos: Tracheotomie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/110>`_
+```{todo} `#110: Fotos: Tracheotomie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/110>`_
 ```
 
 Eine Tracheotomie ist ein chirurgischer Eingriff, bei dem ein Schnitt an der Vorderseite des Halses vorgenommen und ein direkter Atemweg durch einen Schnitt in der Luftröhre geöffnet wird, vgl. {numref}`Cricothyrotomy-edited`.

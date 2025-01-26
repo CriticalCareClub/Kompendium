@@ -2,8 +2,7 @@
 
 # Herz (Cor)
 
-```{eval-rst}
-.. todo:: Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
+```{todo} Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
 
     -   Adrenoreptoren uner Veg. NS beschrieben
 

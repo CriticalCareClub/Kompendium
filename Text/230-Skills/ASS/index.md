@@ -4,8 +4,7 @@
 
 ### Allgemeines zu Medikamenten
 
-```{eval-rst}
-.. todo:: `#107: Benennung von Medikamenten <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/107>`_
+```{todo} `#107: Benennung von Medikamenten <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/107>`_
 
     Handelsname, Generika, ...
 
@@ -541,8 +540,7 @@ Venenverhältnissen.
 
 10. *Fixierpflaster* zureichen
 
-```{eval-rst}
-.. todo:: Bilder
+```{todo} Bilder
 
     - Anlage einer periph. Venenverweilkanüle
     - Eine fixierte Venenverweilkanüle mit Infusion

@@ -164,8 +164,7 @@ Das Blut hat vielfältige Aufgaben:
 
 ```
 
-```{eval-rst}
-.. todo:: Tabelle ergänzen: Übersicht: Die Bestandteile des Blutes
+```{todo} Tabelle ergänzen: Übersicht: Die Bestandteile des Blutes
 ```
 
 (haemoglobin)=
@@ -263,8 +262,7 @@ Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 
 ## Blutstillung, Blutgerinnung und das Gegenteil davon
 
-```{eval-rst}
-.. todo:: Gerinnung: Genauer!
+```{todo} Gerinnung: Genauer!
 
     -   Gerinnungskaskade, Gerinnungsfaktoren
     -   Vorläufiger Wundverschluss (Thrombozytenpfropf)

@@ -250,8 +250,7 @@ Bergungsversuches).
 
     - Woll- und Aludecken! Mütze!
 
-```{eval-rst}
-.. todo:: Ticket #87: thermische Störungen: Reanimation und Unterkühlung
+```{todo} Ticket #87: thermische Störungen: Reanimation und Unterkühlung
 
     (`Link <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/87>`)
 ```

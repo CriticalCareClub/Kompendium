@@ -269,8 +269,7 @@ allmählich.
   Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 :::
 
-```{eval-rst}
-.. todo:: bla!
+```{todo} bla!
 ```
 
 (tt30001c)=
@@ -279,8 +278,7 @@ allmählich.
 
 ## Maßnahmen:  Verbrennung, leicht
 
-```{eval-rst}
-.. todo:: Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

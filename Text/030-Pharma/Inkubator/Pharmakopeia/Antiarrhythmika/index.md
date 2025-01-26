@@ -12,7 +12,6 @@ was den akzess Bündel die Möglichkeit gibt,
 den Ventrikel direkt und *umgebremst* zu stimulieren.
 :::
 
-```{eval-rst}
-.. todo:: Tabelle *Antiarrhythmika*
+```{todo} Tabelle *Antiarrhythmika*
 
 ```

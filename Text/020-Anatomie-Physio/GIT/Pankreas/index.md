@@ -15,8 +15,7 @@
     Insulin und Glukagon
 :::
 
-```{eval-rst}
-.. todo:: image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`
+```{todo} image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`
 ```
 
 Das {dfn}`Pankreas` ({dfn}`Bauchspeicheldrüse`) ist ca.

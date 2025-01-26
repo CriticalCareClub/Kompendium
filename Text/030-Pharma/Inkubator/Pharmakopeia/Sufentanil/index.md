@@ -5,8 +5,7 @@
 
 # Sufentanil
 
-```{eval-rst}
-.. todo:: Spezialitäten Sufentanil
+```{todo} Spezialitäten Sufentanil
 
 ```
 
@@ -86,6 +85,5 @@
   +------------------------------------+------------------+------------------+------------------+------------------+------------------+------------------+
 ```
 
-```{eval-rst}
-.. todo:: Sufentanil als Zusatz zur PDA
+```{todo} Sufentanil als Zusatz zur PDA
 ```

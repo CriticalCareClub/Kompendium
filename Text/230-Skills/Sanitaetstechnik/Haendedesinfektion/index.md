@@ -34,8 +34,7 @@ Handbewegungen.
   Patientenkontakt* durchzuführen!
 :::
 
-```{eval-rst}
-.. todo:: !!! PICTURESERIESWIDE !!!\ *Wozu Händehygiene?* Multiresistente Keime und ihre Auswirkungen in der Praxis.
+```{todo} !!! PICTURESERIESWIDE !!!\ *Wozu Händehygiene?* Multiresistente Keime und ihre Auswirkungen in der Praxis.
 ```
 
 :::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus.jpg

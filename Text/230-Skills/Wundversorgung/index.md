@@ -227,8 +227,7 @@ Rissquetschwunde nach der Versorgung im Spital
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-```{eval-rst}
-.. todo:: Bild Schnittwunde
+```{todo} Bild Schnittwunde
 
 ```
 
@@ -350,8 +349,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
 ### Maßnahmen: Basis-Wundversorgung
 
-```{eval-rst}
-.. todo:: Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
 
 ```
 

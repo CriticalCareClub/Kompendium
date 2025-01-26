@@ -1,7 +1,6 @@
 # Sonstige Herz-Kreislauf-Störungen
 
-```{eval-rst}
-.. todo:: Anämie
+```{todo} Anämie
 ```
 
 ```{toctree}

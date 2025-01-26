@@ -79,8 +79,7 @@ rechten Oberbauch seit gestern.
 
 #### ℞ Maßnahmen: Abdominalerkrankung
 
-```{eval-rst}
-.. todo:: Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
 ```
 
 - **Vitale Bedrohung einschätzen.** {{ TxBeiVit }}
@@ -168,8 +167,7 @@ sind auch die Ursachen:
 
 #### Maßnahmen: Akutes Abdomen
 
-```{eval-rst}
-.. todo:: Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -215,8 +213,7 @@ gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
 
 #### Maßnahmen: Darmverschluß
 
-```{eval-rst}
-.. todo:: Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -270,8 +267,7 @@ kann.
 
 #### Maßnahmen: Akute Appendizitis
 
-```{eval-rst}
-.. todo:: Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -325,8 +321,7 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 #### Maßnahmen: Gallenkolik
 
-```{eval-rst}
-.. todo:: Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -418,8 +413,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 #### Maßnahmen: Blutungen des Verdauungstrakts
 
-```{eval-rst}
-.. todo:: Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -492,8 +486,7 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 #### Maßnahmen: Gastroenteritis
 
-```{eval-rst}
-.. todo:: Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -636,8 +629,7 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 #### Maßnahmen: Ulcus ventriculi, -duodeni
 
-```{eval-rst}
-.. todo:: Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -711,8 +703,7 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {
 
 #### Maßnahmen: Akute Pankreatitis
 
-```{eval-rst}
-.. todo:: Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -776,8 +767,7 @@ Stuhlabgängen* kommen.
 
 #### Maßnahmen: Mesenterialinfarkt
 
-```{eval-rst}
-.. todo:: Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -845,8 +835,7 @@ Entzündungsreaktion.
 
 #### Maßnahmen: Bauchfellentzündung
 
-```{eval-rst}
-.. todo:: Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

@@ -58,8 +58,7 @@ Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptom
 
 ## Maßnahmen: Vergiftungen, allgemein
 
-```{eval-rst}
-.. todo:: Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -177,8 +176,7 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 
 (m-intoxikation-alkohol)=
 
-```{eval-rst}
-.. todo:: Maßnahme MT51001C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT51001C: Anpassung an höherqualifiziertes Personal
 ```
 
 ### Maßnahmen: Vergiftungen mit Alkohol
@@ -296,8 +294,7 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 
 #### Maßnahmen: Vergiftung mit Opiaten
 
-```{eval-rst}
-.. todo:: Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
 
 ```
 
@@ -365,8 +362,7 @@ durch Schwitzen viel Flüssigkeit verliert.
 
 #### Maßnahmen: Vergiftung mit Uppers
 
-```{eval-rst}
-.. todo:: Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -387,8 +383,7 @@ durch Schwitzen viel Flüssigkeit verliert.
 
 #### Maßnahmen: Vergiftung mit Stickgasen
 
-```{eval-rst}
-.. todo:: Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
 
 ```
 
@@ -487,8 +482,7 @@ Krämpfe sind gut möglich.
 
 ##### Maßnahmen: Vergiftung mit Kohlenmonoxid
 
-```{eval-rst}
-.. todo:: Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -547,8 +541,7 @@ Industrie an.
 
 ##### Maßnahmen: Vergiftung mit Kohlendioxid
 
-```{eval-rst}
-.. todo:: Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -603,8 +596,7 @@ Verzögerungstyp
 
 (m-am-reizgase)=
 
-```{eval-rst}
-.. todo:: Maßnahme MT59XX2C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT59XX2C: Anpassung an höherqualifiziertes Personal
 
 ```
 
@@ -696,8 +688,7 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 (m-saeuren-laugen)=
 
-```{eval-rst}
-.. todo:: Maßnahme MT54091C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT54091C: Anpassung an höherqualifiziertes Personal
 ```
 
 #### Maßnahmen: Einnahme von Säuren oder Laugen
@@ -730,8 +721,7 @@ klagen bzw. erbrechen.
 
 #### Maßnahmen: Einnahme von schaumbildenden Substanzen
 
-```{eval-rst}
-.. todo:: Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen

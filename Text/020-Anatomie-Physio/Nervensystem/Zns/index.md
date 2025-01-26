@@ -194,8 +194,7 @@ Wichtige Anteile des Telencephalons:
 Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf ➛
 regionspezifisch!
 
-```{eval-rst}
-.. todo:: Abbildung Homunculus
+```{todo} Abbildung Homunculus
 
 
 ```
@@ -442,8 +441,7 @@ Reihe nach durchlaufen werden: Rezeptor ➛ Afferenz ➛ Synapse ➛ Efferenz
 
 ### Arterien des Gehirns
 
-```{eval-rst}
-.. todo::  Bild "Circus arteriosus Willisi"
+```{todo}  Bild "Circus arteriosus Willisi"
 
     Pictures/1008429800003F4C000030E99A626949BB58639E.emf
     :width: 15.988cm

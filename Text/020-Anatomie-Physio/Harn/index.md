@@ -293,6 +293,5 @@ Zu den Harnwegen gehören:
     Durch die kürzeren Harnwege bei der Frau kann es leichter zu
     *Harnwegsinfektionen* kommen.
 
-```{eval-rst}
-.. todo:: image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]₢ Lena Hirtler, :term:`ℓ MfG`
+```{todo} image  Harntraktmit Nieren (rechte Niere im Querschnitt mit          Nierenbecken), Harnleiter, Blase und          Harnröhre[Figure-harntrakt]₢ Lena Hirtler, :term:`ℓ MfG`
 ```

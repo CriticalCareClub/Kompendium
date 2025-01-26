@@ -238,8 +238,7 @@ Methoden zum Einsatz:
   Lebens bis zum Eintreten des Todes.
 - *Immuntherapie*
 
-```{eval-rst}
-.. todo:: Gentherapie, Immuntherapie
+```{todo} Gentherapie, Immuntherapie
 ```
 
 Diese Therapien sind für den Körper sehr anstrengend und haben viele

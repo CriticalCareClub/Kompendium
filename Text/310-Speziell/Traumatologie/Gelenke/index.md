@@ -50,8 +50,7 @@ berichten der Patient oder die Unfallzeugen meist über ein hörbares
 
 (m-verstauchung)=
 
-```{eval-rst}
-.. todo:: Maßnahme TT14031C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme TT14031C: Anpassung an höherqualifiziertes Personal
 ```
 
 ### Maßnahmen: Verstauchung

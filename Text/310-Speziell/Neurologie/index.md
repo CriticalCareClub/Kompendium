@@ -219,8 +219,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 
 ### Maßnahmen: Bewusstseinseintrübung
 
-```{eval-rst}
-.. todo:: Maßnahme MR40001B: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MR40001B: Anpassung an höherqualifiziertes Personal
 
 ```
 
@@ -250,8 +249,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 
 ### Maßnahmen: Bewusstlose und soporöse Patienten
 
-```{eval-rst}
-.. todo:: Maßnahme MR40021B: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme MR40021B: Anpassung an höherqualifiziertes Personal
 ```
 
 ⛑ Basismaßnahmen
@@ -547,8 +545,7 @@ worden sein:
 
 ### Maßnahmen: Insult
 
-```{eval-rst}
-.. todo:: Maßnahme NI64XX0C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme NI64XX0C: Anpassung an höherqualifiziertes Personal
 ```
 
 Taktik
@@ -838,8 +835,7 @@ Der Krampf muss dann mit Medikamenten durchbrochen werden.
 
 ### Maßnahmen Krampfender Patient
 
-```{eval-rst}
-.. todo:: Maßnahme NR56081C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme NR56081C: Anpassung an höherqualifiziertes Personal
 
 ```
 
@@ -885,8 +881,7 @@ Taktik
 
 ### Maßnahmen: Nicht-(mehr) krampfender Patient
 
-```{eval-rst}
-.. todo:: Maßnahme NR56082C: Anpassung an höherqualifiziertes Personal
+```{todo} Maßnahme NR56082C: Anpassung an höherqualifiziertes Personal
 ```
 
 Taktik

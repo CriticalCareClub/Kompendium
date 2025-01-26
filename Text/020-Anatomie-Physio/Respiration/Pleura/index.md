@@ -30,8 +30,7 @@ Der Vorteil dieser Konstruktion ist, dass zwar die Lunge jeder Bewegung des Brus
 
 Die Pleura ist außerdem die einzige Struktur der Lunge die schmerzempfindlich ist.
 
-```{eval-rst}
-.. todo:: Pleura / Kapillarkraft
+```{todo} Pleura / Kapillarkraft
 
     Ist wirklich die Kapillarkraft das Ausschlaggebende?
 

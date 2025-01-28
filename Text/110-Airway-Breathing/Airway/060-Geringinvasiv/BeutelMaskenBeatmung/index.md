@@ -80,7 +80,7 @@ Sobald die Maske nicht mehr dicht aufsitzt, verliert das PEEP-Ventil seine Wirku
 
 
 
-:::{figure} ../../../Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
+:::{figure} ../../../../Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
 :width: 100%
 :name: Figure-Bilderserie-Beatmungsmasken
 

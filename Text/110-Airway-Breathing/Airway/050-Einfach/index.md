@@ -56,9 +56,9 @@ Stattdessen muss der Kopf in Neutralposition gelagert werden.
 
 Manchmal reicht das simple Anheben des Kinns. \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Kinn anheben](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230413_090742_001342px.jpg)
+![Kinn anheben](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230413_090742_001342px.jpg)
 
-![Rein mechanisch funktioniert auch diese Konstruktion, dennoch können zweckentfremdete Hilfsmittel zu Verletzungen oder Druckstellen führen. Wer Medizinprodukte außerhalb ihrer Zulassung verwendet, haftet als "Hersteller" vollumfänglich! (Druckstellen!)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201020_140524_001342px.jpg)
+![Rein mechanisch funktioniert auch diese Konstruktion, dennoch können zweckentfremdete Hilfsmittel zu Verletzungen oder Druckstellen führen. Wer Medizinprodukte außerhalb ihrer Zulassung verwendet, haftet als "Hersteller" vollumfänglich! (Druckstellen!)](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201020_140524_001342px.jpg)
 :::
 
 
@@ -86,7 +86,7 @@ Der  *Esmarch-Handgriff* verstärkt den Effekt des Überstreckens des Kopfes.
 Der Helfer befindet sich hinter dem Kopf des Patienten und platziert seine Finger 2—5 am Ende des Unterkiefers am Kieferwinkel und den Daumen am vorderen Bereich des Unterkiefers.
 Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am Kieferwinkel kann der Unterkiefer nach oben und vorn geschoben werden, der Daumen öffnet durch *sanften Druck auf das Kinn* vorsichtig den Mund.
 
-:::{figure} ../../Bilder/Hirtler-Lena-CCCA/EsmarchHandgriff.*
+:::{figure} ../../../Bilder/Hirtler-Lena-CCCA/EsmarchHandgriff.*
 :width: 60%
 
 Esmarch-Handgriff  \[₢ Lena Hirtler, {term}`ℓ MfG`\]
@@ -137,13 +137,13 @@ Durch die stabile Seitenlage bewegt sich die Zunge auf Grund der Schwerkraft vom
 
 Stabile Seitenlage \[₢ CCCA  {term}`ℓ MfG`\]
 
-![Zugewandten Arm im 90°-Winkel ausstrecken](../../Bilder/CCCA/san-00800-gamma/Seitenlage1b.JPG)
+![Zugewandten Arm im 90°-Winkel ausstrecken](../../../Bilder/CCCA/san-00800-gamma/Seitenlage1b.JPG)
 
-![abgewandtes Knie fassen, Handgelenk des abgewandten Arm des Patienten wird an Knie angelegt](../../Bilder/CCCA/san-00800-gamma/Seitenlage2b.JPG)
+![abgewandtes Knie fassen, Handgelenk des abgewandten Arm des Patienten wird an Knie angelegt](../../../Bilder/CCCA/san-00800-gamma/Seitenlage2b.JPG)
 
-![Drehung](../../Bilder/CCCA/san-00800-gamma/Seitenlage3b.JPG)
+![Drehung](../../../Bilder/CCCA/san-00800-gamma/Seitenlage3b.JPG)
 
-![Mund öffnen](../../Bilder/CCCA/san-00800-gamma/Seitenlage4b.JPG)
+![Mund öffnen](../../../Bilder/CCCA/san-00800-gamma/Seitenlage4b.JPG)
 
-![Patient in stabiler Seitenlage](../../Bilder/CCCA/san-00800-gamma/Seitenlage5b.JPG)
+![Patient in stabiler Seitenlage](../../../Bilder/CCCA/san-00800-gamma/Seitenlage5b.JPG)
 :::

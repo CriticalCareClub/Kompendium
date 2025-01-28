@@ -135,6 +135,7 @@ Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von 
 
 ## Beispiele herausfordernder Atemwege
 
+
 :::{subfigure} AB|CD
 :subcaptions: below
 :name: Figure-Bilderserie-Atemwege-1
@@ -143,13 +144,9 @@ Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von 
 
 Bilderserie: Herausfordernde Atemwege 1
 
-![Raumforderung (Struma) \[₢ Dr. J.S.Bhandari, India, ℓ CC BY-SA 3.0\]](../../Bilder/CC-BY-SA-3.0/Goiter_001024px.jpg)
+![Raumforderung (Struma) \[₢ Dr. J.S.Bhandari, India, ℓ CC BY-SA 3.0\]](../../../Bilder/CC-BY-SA-3.0/Goiter_001024px.jpg)
 
-![Tonsillenhypertrophie](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230728_091908_cropped_001342px.jpg)
-
-![Syndrome](media/image12.png)
-
-![Kleine Mundöffnung](media/image14.jpeg)
+![Tonsillenhypertrophie](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230728_091908_cropped_001342px.jpg)
 :::
 
 :::{subfigure} AB|CD
@@ -160,16 +157,22 @@ Bilderserie: Herausfordernde Atemwege 1
 
 Bilderserie: Herausfordernde Atemwege 2
 
-![Verletzung](media/image16.jpeg)
+![Fehlbildung (Goldenhar Syndrom) \[₢  Bedi, Mitesh; Jain, Rakesh Kumar; Barala, Vipin Kumar; Singh, Abhimanyu; Jha, Hiranmayi, ℓ CC BY 4.0\]](../../../Bilder/CC-BY-4.0/Goldenhar_syndrome-2.jpg)
 
-![Fehlbildung (Goldenhar Syndrom) \[₢  Bedi, Mitesh; Jain, Rakesh Kumar; Barala, Vipin Kumar; Singh, Abhimanyu; Jha, Hiranmayi, ℓ CC BY 4.0\]](../../Bilder/CC-BY-4.0/Goldenhar_syndrome-2.jpg)
+![Makroglossie \[₢ US Government, ℓ PD\]](../../../Bilder/PD/Hypoglycemia_Neonatal_Macroglossia_Visceromegaly_and_Omphalocele_1.jpg)
 
-![Makroglossie \[₢ US Government, ℓ PD\]](../../Bilder/PD/Hypoglycemia_Neonatal_Macroglossia_Visceromegaly_and_Omphalocele_1.jpg)
 
-![Kariöse Zähne](media/image20.jpeg)
 :::
 
 
 :::{todo}
 {ticket-alt}`59` AATW: Bilder neu: schwierige Atemwege
+
+Kariöse Zähne media/image20.jpeg
+
+Verletzung media/image16.jpeg
+
+Syndrome media/image12.png
+
+Kleine Mundöffnung media/image14.jpeg
 :::

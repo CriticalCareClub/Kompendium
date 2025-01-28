@@ -192,9 +192,9 @@ Beispiele für verschiedene Tuben-Typen sind:
 Endotrachealtuben \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 
-![Spiraltubus mit Beißschutz](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201119_140916_001342px.jpg)
+![Spiraltubus mit Beißschutz](../../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201119_140916_001342px.jpg)
 
-![Doppellumentubus](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg)
+![Doppellumentubus](../../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg)
 
 :::
 
@@ -410,13 +410,13 @@ NarkEinA -> C -> Weiter;
 
 Endotracheale Intubation in der Praxis \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
 
-![Zureichen des Laryngoskops (*linke* Hand!)](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.\*)
+![Zureichen des Laryngoskops (*linke* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.\*)
 
-![Zureichen des Tubus (*rechte* Hand!)](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.\*)
+![Zureichen des Tubus (*rechte* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.\*)
 
-![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.\*)
+![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.\*)
 
-![Cuffen nach Entfernung des Führungsdrahtes](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.\*)
+![Cuffen nach Entfernung des Führungsdrahtes](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.\*)
 ::::
 
 
@@ -552,15 +552,15 @@ Endotracheale Intubation in der Praxis \[₢ Michael Motal, Critical Care Club A
 
 Endotracheale Intubation: Erfolgskontrolle \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
 
-![Stethoskop zureichen](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4843-AASS-0112mm.\*)
+![Stethoskop zureichen](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4843-AASS-0112mm.\*)
 
-![Abhören des Patienten](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4844-AASS-0112mm.\*)
+![Abhören des Patienten](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4844-AASS-0112mm.\*)
 
-![Beißkeil (hier: Guedel-Tubus) einführen](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4847-AASS-0112mm.\*)
+![Beißkeil (hier: Guedel-Tubus) einführen](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4847-AASS-0112mm.\*)
 
-![Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4849-AASS-0112mm.\*)
+![Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4849-AASS-0112mm.\*)
 
-![Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.](../../../Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-01445pt-4.\*)
+![Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.](../../../../Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-01445pt-4.\*)
 ::::
 
 

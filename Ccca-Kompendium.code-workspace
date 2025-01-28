@@ -9,12 +9,14 @@
 			"activityBar.background": "#107C31",
 			"activityBar.foreground": "#ffffff",
 		},
+		"editor.detectIndentation": false,
+		"editor.tabSize": 2,
+		"editor.wordWrap": "bounded",
+		"esbonio.sphinx.confDir": "",
+		"cSpell.language": "de",
 		"cSpell.words": [
             "Adrenorezeptoren",
             "Hämodynamik"
-        ],
-		"esbonio.sphinx.confDir": "",
-		"editor.wordWrap": "bounded",
-		"cSpell.language": "de",
+        ],    
 	}
 }

@@ -3522,27 +3522,21 @@ normalisiert sich von allein wieder.
 - PTZ ist vorallem vom aktivierten Faktor VII abhängig,  Monitoring bei Vitamin K-
 Antagonisten und Leberfunktionsstörung
 - INR: Verhältnis der Gerinnung von normalem Plasma zum Patientenplasma
-- aPTT: spiegelt die plasmatische Gerinnung (XII, XI, VIII, IX, X, V, II, I) wieder. Eine isolierte aPTT-Erhöhung bei normalen PTZ-Werten findet man bei Heparinwirkung,  Hämophilie,
-Faktor XI-Mangel. Monitoring von UFH und DTI(Agatroban)!
-- TZ (Thrombinzeit): ist erhöht bei Fibrinogenmangel, Hyperfibrinolyse, Dysfibrinogenämie,
-UFH und DTI (Dabigatran)
-- Fibrinogen:  erhöht bei Sepsis/SIRS;  erniedrigt bei Blutungen,  Leberfunktionsstörungen,
-hochdosierter Kortisontherapie;  Bei DIC findet sich die Kombination erniedrigtes Fibrinogen, PTZ und Thrombozyten mit erhöhtem D-Dimer, wobei die Dynamik beurteilt werden muss!
+- aPTT: spiegelt die plasmatische Gerinnung (XII, XI, VIII, IX, X, V, II, I) wieder. Eine isolierte aPTT-Erhöhung bei normalen PTZ-Werten findet man bei Heparinwirkung,  Hämophilie, Faktor XI-Mangel. Monitoring von UFH und DTI(Agatroban)!
+- TZ (Thrombinzeit): ist erhöht bei Fibrinogenmangel, Hyperfibrinolyse, Dysfibrinogenämie, UFH und DTI (Dabigatran)
+- Fibrinogen:  erhöht bei Sepsis/SIRS;  erniedrigt bei Blutungen,  Leberfunktionsstörungen, hochdosierter Kortisontherapie;  Bei DIC findet sich die Kombination erniedrigtes Fibrinogen, PTZ und Thrombozyten mit erhöhtem D-Dimer, wobei die Dynamik beurteilt werden muss!
 - ATIII (Antithrombin): ist erniedrigt bei Sepsis, Leberfunktionsstörung, kongenitalem oder erworbenen Mangel. Bewirkt einen inadäquaten aPTT-Anstieg unter Heparin.
-- aXA:  zeigt die hemmende Wirkung von LMWH,  UFH,  Danaparoid/Orgaran,
-Fondaparinux/Arixtra,  Rivaroxaban/Xarelto,  Apixaban/Eliquis.  Die Eichkurve ist für jedes Antikoagulanz verschieden, daher muss das Antikoagulanz angegeben werden. Zielspiegel sind 4h nach Gabe.
+- aXA:  zeigt die hemmende Wirkung von LMWH,  UFH,  Danaparoid/Orgaran, Fondaparinux/Arixtra,  Rivaroxaban/Xarelto,  Apixaban/Eliquis.  Die Eichkurve ist für jedes Antikoagulanz verschieden, daher muss das Antikoagulanz angegeben werden. Zielspiegel sind 4h nach Gabe.
 - D-Dimer: ist erhöht bei TVT/PE, Infektionen, DM, Tumoren, Katecholamingabe, Lasixgabe.
-Ein negatives D-Dimer schließt eine TVT/PE aus!
+  Ein negatives D-Dimer schließt eine TVT/PE aus!
 - XIII:  ist erniedrigt bei Verbrennungen,  kongen.  Mangel,  bei Polytrauma mit Massenblutung!!
 
 
 
 
 - vWF: ist bei SIRS/SEPSIS ebenfalls erniedrigt. Eine sichere Diagnostik kann daher erst nach Abklingen eines Infekts erfolgen.
-- Protein C: ist erniedrigt bei Vit-K-Antagonisten Gabe, Leberfunktionsstörung, Sepsis, DIC,
-kongenitalem Mangel mit Thromboseneigung
-- ACT:  misst die Dauer bis zur Bildung eines Cloth´s  (Blut  +  Kaolin),  normal 120-150sec,
-Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
+- Protein C: ist erniedrigt bei Vit-K-Antagonisten Gabe, Leberfunktionsstörung, Sepsis, DIC, kongenitalem Mangel mit Thromboseneigung
+- ACT:  misst die Dauer bis zur Bildung eines Cloth´s  (Blut  +  Kaolin),  normal 120-150sec, Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
 
 
 ## 25.11. Antithrombotische Therapie auf der Intensivstation
@@ -3631,24 +3625,22 @@ Anästhesie:  Hypertoniker tendieren zur intraopertiven Hypotonie unter ACE-I u.
 Rezeptorantagonisten    +  vermind.  intravasales Volumen.  Daher ausreichend Volumengabe vor dem Einleiten,  gute Prämedizierung,  Hypo-  und Hypertension vermeiden und konsequent behandeln,  an Myokardischämie denken!  Ein Absetzten der Blutdruckmedikamente erfolgt nur bei moderater Hypertonie.  Bei präoperativ bereits grenzwertigen Blutdruckwerten müssen die Medikamente weiterverordnet werden, um hypertensive Krisen zu vermeiden!
 Pathophysio:  hoher TPVR bei normalem HZV,  meist Hypovolämie  (Diuretika!),  labiles Blutdruckprofil mit großen Schwankungen,
 sekundäre Organveränderungen/schäden.
+
 Therapie:
 - 1-fach: ACE-Hemmer oder Betablocker
 - 2-fach Kombi: ACE-Hemmer oder Betablocker + Diuretikum oder Kalziumantagonisten
-- 3-fach Kombi:  ACE-Hemmer  +  Diuretikum  +  Kalziumantagonisten oder Betablocker.  Bsp:
-Acemin + Norvasc + Diuretikum
+- 3-fach Kombi:  ACE-Hemmer  +  Diuretikum  +  Kalziumantagonisten oder Betablocker.
+  Bsp: Acemin + Norvasc + Diuretikum
 
 ## 26.3. Herzinsuffizienz
 
 Die Herzinsuffizienz ist definiert als Zustand, bei der das Herz nicht mehr in der Lage ist,
 die Gewebe mit genügend Blut und Sauerstoff zu versorgen.
+
 Die häufigsten zugrundeliegenden Erkrankungen der Herzinsuffizienz sind:
 1. Koronare Herzerkrankung (häufigstes Grundleiden der Herzinsuffizienz in bis zu 75%)
 2. Arterielle Hypertonie 3. Kardiomyopathien a. Dilatative Kardiomyopathie b. Hypertrophe Kardiomyopathie c. Restriktive Kardiomyopathie 4. Klappenvitien 5. Perikarderkrankungen 6. Entzündliche Erkrankungen (z. B. Myokarditis)
-7. Stoffwechselstörungen (z. B. Hyperthyreose)
-
-
-
-
+7. Stoffwechselstörungen (z. B. Hyperthyreose)s
 8. Toxische Wirkungen (z. B. Chemotherapeutika)
 9. Bradykarde/tachykarde Arrhythmien.
 

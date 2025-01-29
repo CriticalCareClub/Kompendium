@@ -294,6 +294,9 @@
   3\. Auflage, 2006.
   Springer.
 
+Citation needed
+: **Citation needed**
+
 🗎 Cobas 2009
 : **Prehospital intubations and mortality: a level 1 trauma center perspective.**
   by M. A. Cobas et al.
@@ -1298,7 +1301,7 @@
 
 
 
-<!-- 
+<!--
 
 [^cite_bruederlbelastung88-defbew]: by Trautmann-Sponsel, R. D:
     In *Belastung Und Bewältigung: by Trends in Der Bewältigungsforschung*, edited by L. Brüderl, 14–24.

@@ -812,7 +812,6 @@ Azidose  erhöht Kationen-Konzentration mit viel freier/toxischer LA-Konzentrati
 
 Nebenwirkungen der Lokalanästhetika:
 
-
 - Risiko einer allergischen Reaktion abhängig von der chemischen Struktur Ester \> Amide, oder durch Zusatzstoffe.
 - Lokale Toxizität bei stark lipophilen LA:  Nervenschäden  (Axon,  Schwannschen Zellen), Störung der nervalen Blutversorung,  TNS  (transiente neurologische Symptome)  oder Cauda equina Syndrom nach SPA mit hyperbaren,  hochprozentigem Lidocain.
 - Myotoxizität bei Retrobulbärblock mit Bupivacain.
@@ -824,6 +823,7 @@ Ursachen toxischer Plasmaspiegel:  intravasale Injektion,  Injektion am Hals,  �
 Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder \<6 Monate nicht zugelassen.
 
 Maximaldosis der LA:
+
 - Lidocain 3-4mg/kg (300mg), mit Adrenalin 7mg/kg
 - Bupivacain 2mg/kg (150mg), oder 30mg/h kontinuierlich, mit Adrenalin 2-3mg/kg
 - Ropivacain 3-4mg/kg (250mg), oder 37,5mg/h
@@ -834,12 +834,13 @@ Maximaldosis der LA:
 
 ## 5.2.  Lokalanästhetika-Intoxikation *
 
-Prodromal Stadium mit ZNS Erregung  -- Präkonvulsiv mit ZNS Dämpfung  -- Konvulsivstadium --
-ZNS-Depression mit Koma und kardiale Probleme. (max. nach 15-40min)
+Prodromal Stadium mit ZNS Erregung  -- Präkonvulsiv mit ZNS Dämpfung  -- Konvulsivstadium -- ZNS-Depression mit Koma und kardiale Probleme. (max. nach 15-40min)
 
 Prophylaxe der LA-Intoxikation: negative Testdosis (Adrenalin-Zusatz, HF-Anstieg?), fraktionierte Injektion mit Aspiration,  Überwachung der Vitalparameter,  gezielte Wahl von LA,  Dosis und Konzentration, exakte Technik/Sonographie, Equipment für Notfall bereit halten.
 Benzodiazepine für Patientenkomfort:  Vorteil:  antikonvulsiv;  Nachteil:  Initialsymptome werden verschleiert, keine sichere Kommunikation möglich.
+
 Therapie toxischer ZNS-Symptome:
+
 -  Injektion abbrechen, auch bei Verdacht.
 - Hyperventilation  (=  resp.  Alkalose,  dh.  weniger LA kann ins ZNS,  und in die Herzmuskelzelle eintreten) + Sauerstoffgabe
 - Krampfprophylaxe mit z.B. Dormicum 2-3mg iv.
@@ -848,10 +849,6 @@ Therapie toxischer ZNS-Symptome:
 - 100ml Intralipid 20%, wiederholen bis stabiler KRL
 - Ev. Lidocain 100-200mg bei Bupivacain-Intoxikation
 - Prolongierte CPR, ev. HLM, LUCAS
-
-
-
-<span id="24"></span>
 
 
 Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
@@ -887,10 +884,6 @@ Indikationen für RA:  OP,  Schmerztherapie,  Sympthikolyse für bessere Wundhei
 Es gilt immer eine Nutzen-Risikoabwägung der Verfahren.  Interventionen sollten im pharmakologischen Talspiegel der Antikoagulation stattfinden  (=  2 x  HWZ),  mit atraumatischer Blockadetechnik  (Sonographie!),  und engmaschigen postintervent.  Kontrollen durch tägliche Visiten  (persistierende sensorische oder motorische Ausfälle,  radikuläre Schmerzen und Blasenfunktionsstörungen können auf manifeste Blutungskomplikation hinweisen, daher MRT, CT oder Myelographie und neurochirurgische Entlastung innerhalb von 8h!).  Die Gefahr eines spinalen Hämatoms besteht bei Single shot SPA \< single shot PDA \< PDA setzten und entfernen!
 
 
-
-
-
-<span id="25"></span>
 
 
 ### 5.3.1 . Zentrale Nervenblockaden:
@@ -931,7 +924,6 @@ geburtshilfliche Eingriffe,...
 
 
 
-<span id="26"></span>
 
 
 Adjuvantien:  Opioide,  Clonidin:  Kein Morphin wegen va.  später Atemdepression.  Kein Ultiva wegen   neurotoxischem Glycin  (daher auch iv.  erst ab 2 Lj).  Sufenta als Adjuvant bewirkt einen rascheren Eintritt,  längere Dauer und bessere Analgesie =  Dosis und Konzentration des LA kann verringert werden = geringere Gefahr der systemischen LA-Intoxikation.
@@ -972,23 +964,6 @@ Vorderrand des M.Sternocleidomastoideus mit Ropivacain.
 Interskalenärblock ISK:  Ind:  Schulterluxation,  Schulter-OP,  OA-Fraktur,..  NW:  Phrenikusparese,
 Horner, Recurrensparese, daher absolute KI kontralaterale Rekurrensparese.
 Supraclavikuläre Plexusblockade:  Ind:  Operationen an Oberarm,  Ellbogen,  Unterarm,...  mit Katheter bei schweren Traumen.
-
-
-
-<span id="27"></span>![](2850191-27_1.png)
-![](2850191-27_2.png)
-![](2850191-27_3.png)
-![](2850191-27_4.png)
-![](2850191-27_5.png)
-![](2850191-27_6.png)
-![](2850191-27_7.png)
-![](2850191-27_8.png)
-![](2850191-27_9.png)
-![](2850191-27_10.png)
-![](2850191-27_11.png)
-![](2850191-27_12.png)
-![](2850191-27_13.png)
-![](2850191-27_14.jpg)
 
 
 
@@ -1041,23 +1016,6 @@ ev. NIV
 
 
 
-
-ο   gelesen
--          ο   einmal wiederholt            ο   zweimal wiederholt
--          ο   gelernt
-
-
-------------------------------------------------------------------------
-
-<span id="28"></span>![](2850191-28_1.png)
-![](2850191-28_2.png)
-![](2850191-28_3.png)
-![](2850191-28_4.png)
-![](2850191-28_5.png)
-![](2850191-28_6.png)
-
-
-
 # 6.  Nervensystem
 
 Liquor cerebrospinalis: Produktion im Plexus choroideus, Absorption an Arachnoidalvilli der Sinus durae matris durch hydrostatischen Druckgradienten.  Zusammensetzung:  weniger Kalium,
@@ -1098,12 +1056,6 @@ Neurotransmitter:
 
 
 
-
-
-<span id="29"></span>![](2850191-29_1.jpg)
-
-
-
 Lage der Ganglien des Sympathikus:  Zellkörper des 1  Neuron Th1/2 im RM,  Umschaltung im Grenzstrang des 2 Neurons führt zum Zielorgan.
 Lage der Ganglien des Parasympathikus:  Ursprung des 1  Neuron in den Kerngebieten der Hirnnerven 3,7,9,10 (besonders Vagus) und S2-5. Die Umschaltung auf das 2 Neuron findet erst im Zielorgan statt.
 
@@ -1131,12 +1083,6 @@ Antihistaminika, Benzodiazepine, Ketamin, volatile Anästhetika,...
 Therapie: Physiostigmin titriert. (Anticholium)
 
 
-
-
-
-
-
-<span id="30"></span>
 
 
 
@@ -1186,9 +1132,6 @@ Stimulation mit Blutdruckanstieg und oft Reflexbradykardie.
 
 
 
-<span id="31"></span>
-
-
 
 Praktische Anwendung:
 Hypotonie mit Bradykardie:  Ephedrin  (ab 50mg NA-Speicher leer,  keine weitere Wirkung zu erwarten)
@@ -1223,11 +1166,6 @@ Antidepressiva/Antiepileptika Stufe III:  Nichtopioide,  starke Opioide  +  Koan
 
 
 
-
-
-
-<span id="32"></span>![](2850191-32_1.png)
-![](2850191-32_2.png)
 
 
 
@@ -1274,17 +1212,6 @@ Agonist/Antagonist (Pentazocin) \> Antagonist (Naloxon).
 
 
 
-<span id="33"></span>![](2850191-33_1.png)
-![](2850191-33_2.png)
-![](2850191-33_3.png)
-![](2850191-33_4.png)
-![](2850191-33_5.png)
-![](2850191-33_6.png)
-![](2850191-33_7.png)
-![](2850191-33_8.png)
-![](2850191-33_9.png)
-
-
 
 Tramadol/Tramal, Adamon retard: schwache µ-Affinität + Metaboliten wirken als Noradrenalin-
 und Serotonin Reuptake-Hemmer.  Anwendung bei neuropathischen Schmerzen.  Ab Tagesdosis von 600mg keine Wirkungssteigerung mehr zu erwarten = Wechsel auf starkes Opioid.
@@ -1323,15 +1250,6 @@ Efectin
 - Laxantien: Lactulose, Macrogol/Movicol, Naloxon p.o.
 - Sonstiges: Capsaicin (Pfeffer), Lidocainplaster, Cannabinoide
 
-
-
-
-<span id="34"></span>![](2850191-34_1.png)
-![](2850191-34_2.png)
-![](2850191-34_3.png)
-![](2850191-34_4.png)
-![](2850191-34_5.png)
-![](2850191-34_6.png)
 
 
 
@@ -1378,11 +1296,6 @@ Lokalanästhetika wirken in der umgekehrten Reihenfolge:  C\>B\>Aδ\>Aβ\>Aα,  
 
 
 
-<span id="35"></span>![](2850191-35_1.png)
-![](2850191-35_2.png)
-![](2850191-35_3.png)
-
-
 
 ## 7.4.  Neuropathische Schmerz:  OPIOID-Therapie + COANALGETIKA!
 
@@ -1427,14 +1340,6 @@ Einstrom)
 
 
 
-<span id="36"></span>![](2850191-36_1.png)
-![](2850191-36_2.png)
-![](2850191-36_3.png)
-![](2850191-36_4.png)
-
-
-
-
 Allodynie  =  Mechanorezeptoren im Hinterhorn werden erregt,  reagieren auf Kälte, Wärme und geringe Berührungen. Normalerweise werden diese über Aβ-Fasern nicht als Schmerz empfunden,
 hier sind jedoch die Interneuronen,
 welche eine Verbindung zu schmerzleitenden Aδ und C-Fasern sonst verhindern, durch Zelltod zugrunde gegangen.
@@ -1473,9 +1378,6 @@ Anschlagzeit iv. 2 Minuten, Wirkdauer 45min; Bsp. Durogesic 75µg/h entspricht c
 
 
 
-<span id="37"></span>
-
-
 Remifentanyl /Ultiva 0,1 -- 0,15µg/kg/h 100mal stärker als Morphin,  KEINE Kumulation;  kurze Wirkdauer,  bereits nach 20 min.
 Einstülpung der Opioidrezeptoren in die Membran mit verminderter Rezeptordichte. Diese Down-
 Regulation kann durch die vorhergehende Gabe eines Opioidrezeptorblockers verhindert werden,
@@ -1512,10 +1414,6 @@ welche auf der Intensivstation das Auftreten eines Delirs begünstigen.  Weitere
 
 
 
-
-<span id="38"></span>
-
-
 Zur Diagnose eines Delirs wird der CAM-ICU angewendet:
 CAM-ICU (Confusion Assessment Method für die Intensivstation)
 Vorraussetzung ist ein RASS zwischen -- 3 (mäßige Sedierung) und +4 (sehr streitlustig)
@@ -1547,17 +1445,6 @@ Postoperativ cognitiv disorder = Erinnerungs- und Konzentrationsstörungen für 
 
 
 
-
-
-
-
-
-
-
-<span id="39"></span>![](2850191-39_1.png)
-![](2850191-39_2.png)
-![](2850191-39_3.png)
-![](2850191-39_4.png)
 
 
 
@@ -1593,9 +1480,6 @@ Inhibatoren oder Ubretid (Distigminbromid)
 Kein Effekt auf AchE-Inhibitatoren  = keine MG,  muss eine andere Ursache für Muskelschwäche geben.
 Präoperativ:  Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren!  (Besser leicht myasth. als cholinergisch); Erfragen: Schluckstörungen? Respiratorische Insuffizienz?
 
-
-
-<span id="40"></span>
 
 
 Anästhesie:  Wenn nötig Atracurium in kleinen Dosen!    Immer TOF!!  Keine Antagonisierung,
@@ -1644,15 +1528,6 @@ Therapie:  hohe Glucosezufuhr  (stoppt  δ-ALS-Synthetase)  +  Feedback-Hemmung 
 
 
 
-<span id="41"></span>![](2850191-41_1.png)
-![](2850191-41_2.png)
-![](2850191-41_3.png)
-![](2850191-41_4.png)
-![](2850191-41_5.png)
-![](2850191-41_6.png)
-
-
-
 ## 8.5.  Gullain-Barre-Syndrom
 *(AIDP acute inflammatory demyelinating polyradiculoneuropathy)
 
@@ -1691,13 +1566,6 @@ Klinik:
 - DM
 
 
-
-
-
-
-<span id="42"></span>
-
-
 Anästhesiologische Probleme:
 Hohes Aspirationsrisiko (RSI),
 erhöhte Sensibilität für Opiate/Barbiturate/Volatile Anästhetika.
@@ -1732,21 +1600,6 @@ Depolarisierende Muskelrelaxantien  (Lysthenon®)  führen zu Myotonie  ähnlich
 
 
 
-
-
-
-
-<span id="43"></span>![](2850191-43_1.png)
-![](2850191-43_2.png)
-![](2850191-43_3.png)
-![](2850191-43_4.png)
-![](2850191-43_5.png)
-![](2850191-43_6.png)
-![](2850191-43_7.png)
-![](2850191-43_8.png)
-![](2850191-43_9.png)
-![](2850191-43_10.png)
-![](2850191-43_11.png)
 
 
 
@@ -1798,15 +1651,6 @@ Ziel: Vermeidung sekundärer Hirnschäden durch Einblutung, oder ein fokales ode
 
 
 
-<span id="44"></span>![](2850191-44_1.png)
-![](2850191-44_2.png)
-![](2850191-44_3.png)
-![](2850191-44_4.png)
-![](2850191-44_5.png)
-![](2850191-44_6.png)
-
-
-
 - Normotension: MAP = ICP + CCP (60-70mmHg) Med: Noradrenalin,
 Ebrantil-Perfusor...
 - Normovolämie: isotones und hypertones NaCl, HES, Hypotone Lsg. wie Glucose 5% oder RL sind kontrainduziert.
@@ -1843,28 +1687,6 @@ Sgl. 40, Jugendlicher 70mmHg
 Ein ICP-Monitoring erfolgt mittels Codman-Sonde (misst Druck im Gehirngewebe) oder EVD (misst Druck im Ventrikel).
 
 
-
-
-
-
-<span id="45"></span>![](2850191-45_1.png)
-![](2850191-45_2.png)
-![](2850191-45_3.png)
-![](2850191-45_4.png)
-![](2850191-45_5.png)
-![](2850191-45_6.png)
-![](2850191-45_7.png)
-![](2850191-45_8.png)
-![](2850191-45_9.png)
-![](2850191-45_10.png)
-![](2850191-45_11.png)
-![](2850191-45_12.png)
-![](2850191-45_13.png)
-![](2850191-45_14.png)
-![](2850191-45_15.png)
-![](2850191-45_16.png)
-![](2850191-45_17.png)
-![](2850191-45_18.png)
 
 
 
@@ -1919,22 +1741,6 @@ Cefotaxim/Claforan iv.
 
 
 
-<span id="46"></span>![](2850191-46_1.png)
-![](2850191-46_2.png)
-![](2850191-46_3.png)
-![](2850191-46_4.png)
-![](2850191-46_5.png)
-![](2850191-46_6.png)
-![](2850191-46_7.png)
-![](2850191-46_8.png)
-![](2850191-46_9.png)
-![](2850191-46_10.png)
-![](2850191-46_11.png)
-![](2850191-46_12.png)
-![](2850191-46_13.png)
-
-
-
 Labor:
 - S100 = Verlaufsparameter SHT
 - Ziel-HK: 30%
@@ -1977,24 +1783,16 @@ Hypoxie, Hypotonie, CCT, Subarachnoidales Hämatom Licox oder Raumedic-Sonde zur
 
 
 
-<span id="47"></span>![](2850191-47_1.png)
-![](2850191-47_2.png)
-![](2850191-47_3.png)
-![](2850191-47_4.png)
-![](2850191-47_5.png)
-![](2850191-47_6.png)
-![](2850191-47_7.png)
-![](2850191-47_8.png)
-![](2850191-47_9.png)
-
-
-
 # 10. Koma
-= GCS 3 Ursachen:   A...Alkohol, Medikamente, Drogen
--                    E...Endokrin, Elektrolytentgleisung
--                    I...Insulin, DM
--                    O...Oxygenierung, Opioide
--                    U...Urämie
+
+= GCS 3
+
+Ursachen:
+- A...Alkohol, Medikamente, Drogen
+- E...Endokrin, Elektrolytentgleisung
+- I...Insulin, DM
+- O...Oxygenierung, Opioide
+- U...Urämie
 
 Die Pupillen können oft einen Hinweis auf die Ursache geben:
 - Eng: Opioide, Barbiturate, PONS-Schädigung
@@ -2030,26 +1828,6 @@ Einstellung, hochnormales Natrium,..
 
 
 
-<span id="48"></span>![](2850191-48_1.png)
-![](2850191-48_2.png)
-![](2850191-48_3.png)
-![](2850191-48_4.png)
-![](2850191-48_5.png)
-![](2850191-48_6.png)
-![](2850191-48_7.png)
-![](2850191-48_8.png)
-![](2850191-48_9.png)
-![](2850191-48_10.png)
-![](2850191-48_11.png)
-![](2850191-48_12.png)
-![](2850191-48_13.png)
-![](2850191-48_14.png)
-![](2850191-48_15.png)
-![](2850191-48_16.png)
-![](2850191-48_17.png)
-![](2850191-48_18.png)
-
-
 
 - Hypertension:  Die Blutdrucktherapie ist abhängig davon,  ob das Aneurysma versorgt wurde  (Clipping,  Coiling),  oder unversorgt ist  (=  Blutungsgefahr),  und in welcher Krankheitsphase  (Spasmen)  sich der Patient befindet.  Ein unversorgtes Aneurysma benötigt eine Begrenzung des RRsyst mit ca.  160mmHg um eine weitere Blutung zu verhindern. Bei versorgten Aneurysmen sollte der Blutdruck in der Spasmusphase nur bei Werten  \>  220mmHg RRsyst.  begrenzt werden.  Die autoregulative Blutdruckerhöhung in der Spasmusphase verhindert Insulte.  Hypotension muss verhindert werden!
 (Noradrenalin-Bypass)  Ziel-MAP wird vom NC festgelegt und beträgt zwischen 90  --  110 mmHg!
@@ -2080,20 +1858,6 @@ Spätfolgen:
 Hirndrucksenk.)
 - Bei Tumorkraniotomie ev.  20mg Dexamethason und Mannitol vor Duraeröffnung.  Zur Behandlung des vasogenen Hirnödems bei Hirntumoren wird 12 -- 16mg Dexamethason/Tag unter Magenschutz gegeben.
 
-
-
-<span id="49"></span>![](2850191-49_1.png)
-![](2850191-49_2.png)
-![](2850191-49_3.png)
-![](2850191-49_4.png)
-![](2850191-49_5.png)
-![](2850191-49_6.png)
-![](2850191-49_7.png)
-![](2850191-49_8.png)
-![](2850191-49_9.png)
-![](2850191-49_10.png)
-![](2850191-49_11.png)
-![](2850191-49_12.png)
 
 
 
@@ -2135,18 +1899,6 @@ Klinisch neurologische Untersuchung
 - GCS 3:  Augen geschlossen,  keine verbale  Äußerung,  keine motorische Reaktion  (niedr.
 Möglicher Wert GCS)
 
-
-
-<span id="50"></span>![](2850191-50_1.png)
-![](2850191-50_2.png)
-![](2850191-50_3.png)
-![](2850191-50_4.png)
-![](2850191-50_5.png)
-![](2850191-50_6.png)
-![](2850191-50_7.png)
-![](2850191-50_8.png)
-![](2850191-50_9.png)
-![](2850191-50_10.png)
 
 
 
@@ -2198,30 +1950,6 @@ Kreislaufinstabilität
 (Arrhythmien)
 und Linksverschiebung der O2-Kurve.
 
-
-
-<span id="51"></span>![](2850191-51_1.png)
-![](2850191-51_2.png)
-![](2850191-51_3.png)
-![](2850191-51_4.png)
-![](2850191-51_5.png)
-![](2850191-51_6.png)
-![](2850191-51_7.png)
-![](2850191-51_8.png)
-![](2850191-51_9.png)
-![](2850191-51_10.png)
-![](2850191-51_11.png)
-![](2850191-51_12.png)
-![](2850191-51_13.png)
-![](2850191-51_14.png)
-![](2850191-51_15.png)
-![](2850191-51_16.png)
-![](2850191-51_17.png)
-![](2850191-51_18.png)
-![](2850191-51_19.png)
-![](2850191-51_20.png)
-![](2850191-51_21.png)
-![](2850191-51_22.png)
 
 
 
@@ -2380,26 +2108,6 @@ Linksseitenlage, Sauerstoffgabe, Infusionen, Vasopressoren
 
 
 
-<span id="54"></span>![](2850191-54_1.png)
-![](2850191-54_2.png)
-![](2850191-54_3.png)
-![](2850191-54_4.png)
-![](2850191-54_5.png)
-![](2850191-54_6.png)
-![](2850191-54_7.png)
-![](2850191-54_8.png)
-![](2850191-54_9.png)
-![](2850191-54_10.png)
-![](2850191-54_11.png)
-![](2850191-54_12.png)
-![](2850191-54_13.png)
-![](2850191-54_14.png)
-![](2850191-54_15.png)
-![](2850191-54_16.png)
-
-
-
-
 ## 15.3. OP bei Schwangeren
 
 - Elektive OP postpartal oder 2 Trimester (1 Trimester Organogenese,
@@ -2441,23 +2149,14 @@ Tokolyse: bei ungeplanter Sectio, prophylaktisch bei Bauchchir. zw.
 
 
 
-
-
-
-
-
-<span id="55"></span>![](2850191-55_1.png)
-![](2850191-55_2.png)
-
-
-
 NOTSECTIO Ind:  blutende Plazenta praevia,  Nabelschnurvorfall,  Uterusruptur,  vorzeitige Plazentalösung,
 schwere fetale Depression  =  Zeit von Narkoseeinleitung bis Nabelschnurabklemmung soll  \<  10 min sein!
-RSI: Thiopental 4-6mg/kg KG
--       Succinylcholin 1-1,5mg/kg KG oder Esmaron 1mg/kg KG
--       Sevofluran bis MAC 0,6 ?
--       Fentanyl 4ml (200mcg), AB und Pabal/Synto nach Nabelschnurklemmung PDK liegend:  Aufspritzen mit 10ml 2%  Naropin  +  10ml 7,5%  Naropin oder fraktioniert bis max.
-25ml Ampres/Chloroprocain 10mg/ml
+
+RSI:
+- Thiopental 4-6mg/kg KG
+- Succinylcholin 1-1,5mg/kg KG oder Esmaron 1mg/kg KG
+- Sevofluran bis MAC 0,6 ?
+- Fentanyl 4ml (200mcg), AB und Pabal/Synto nach Nabelschnurklemmung PDK liegend:  Aufspritzen mit 10ml 2%  Naropin  +  10ml 7,5%  Naropin oder fraktioniert bis max. 25ml Ampres/Chloroprocain 10mg/ml
 
 Plansectio:
 SPA: Bubivacain 0,5% ca. 2ml (= 10mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
@@ -2485,16 +2184,6 @@ Fasern, dumpf bohrend
 brennend, ziehend Schmerz steigert den O2-Verbrauch -- Hyperventilation -- respir. Alkalose -- Linksverschiebung O2-
 Dissoziationskurve -- erschwerte O2-Abgabe -- fetale Hypoxie -- fetale Azidose.
 Fetale Bradykardie \< 100/min (Asphyxie \< 60/min)
-
-
-
-<span id="56"></span>![](2850191-56_1.png)
-![](2850191-56_2.png)
-![](2850191-56_3.png)
-![](2850191-56_4.png)
-![](2850191-56_5.png)
-
-
 
 
 Indikation für PDA
@@ -2529,24 +2218,6 @@ Elektrolytstörungen.
 
 
 
-
-
-
-
-
-
-
-<span id="57"></span>![](2850191-57_1.png)
-![](2850191-57_2.png)
-![](2850191-57_3.png)
-![](2850191-57_4.png)
-![](2850191-57_5.png)
-![](2850191-57_6.png)
-![](2850191-57_7.png)
-![](2850191-57_8.png)
-![](2850191-57_9.png)
-![](2850191-57_10.png)
-![](2850191-57_11.png)
 
 
 
@@ -2595,13 +2266,6 @@ Urapidil/Ebrantil senkt intrazerebralen Druck  (Nepresol bewirkt va.  arterielle
 - ANV verhindern:  Flüssigkeit und Mannitol 0,5-1g/kg KG  (Lasix nur bei drohendem Lungenödem und Oligurie)
 
 
-
-<span id="58"></span>![](2850191-58_1.png)
-![](2850191-58_2.png)
-![](2850191-58_3.png)
-
-
-
 - Antikonvulsive Therapie:  Magnesium 1-3g/h mit Zielwert 2-4mmol/l  (cave:  \>  5 Atemdepression  \>  10 Herzstillstand),  klinisch:  AF  \>  10  +  Patellarreflex noch auslösbar.
 Antidot: Kalziumglukonat, 1g Calciumchlorid (Kontraind.: Myasthenis gravis)
 - Hirndrucktherapie: Sedierung mit Diazepam (Kumuliert!),
@@ -2643,19 +2307,6 @@ Antibiotika
 
 
 
-<span id="59"></span>![](2850191-59_1.png)
-![](2850191-59_2.png)
-![](2850191-59_3.png)
-![](2850191-59_4.png)
-![](2850191-59_5.png)
-![](2850191-59_6.png)
-![](2850191-59_7.png)
-![](2850191-59_8.png)
-![](2850191-59_9.png)
-![](2850191-59_10.png)
-
-
-
  Lean body weight  (fettfreie Körpermasse,  *(Größe in cm  -100)  +  ¼  der Differenz zum Gesamtkörpergewicht*  ):  Propofol  (Induktionsdosis),  Fentanyl,  Remifentanyl,  Rocuronium,
 Morphium, Ketmin, Paracetamol.
 
@@ -2681,37 +2332,6 @@ Prämed: Kein Dormicum! Ev. Na-Citrat, H2-Blocker 1h präoperativ Praktisch: gee
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span id="60"></span>![](2850191-60_1.png)
-![](2850191-60_2.png)
-![](2850191-60_3.png)
-![](2850191-60_4.png)
-![](2850191-60_5.png)
-![](2850191-60_6.png)
-![](2850191-60_7.png)
-![](2850191-60_8.png)
-![](2850191-60_9.png)
-![](2850191-60_10.png)
-![](2850191-60_11.png)
 
 
 
@@ -2759,17 +2379,6 @@ Hk\<6 g/dl
 - Säuglinge erhalten bestrahlte Ery im Babybeutel zu 50ml.
 
 
-
-<span id="61"></span>![](2850191-61_1.png)
-![](2850191-61_2.png)
-![](2850191-61_3.png)
-![](2850191-61_4.png)
-![](2850191-61_5.png)
-
-
-
-
-
 Gerinnungsmanagement:
 EK 10ml/kg,  TK 10ml/kg,    Faktorengabe,  Ca,  FFP 10ml/kg,  Temperatur!,  Cyclokapron,  Novo7 90µg/kg, Beriplex 1IE/kg hebt PTZ um 1
 ## 17.2.  Atemwegsmanagement: *
@@ -2803,11 +2412,6 @@ orale/laryngeale Fehlbildungen, Bauchlage.
 Komplikationen der LM: postoperatives obstruktives Lungenödem, Laryngospasmus bei schlecht sitzender Larynxmaske.
 
 
-
-
-
-<span id="62"></span>![](2850191-62_1.png)
-![](2850191-62_2.png)
 
 
 
@@ -2845,15 +2449,6 @@ Thiopental 3-7mg/kg Midazolam 0,05-0,2mg/kg iv.
 Ketanest 1-2mg/kg Fentanyl 2-3mcg/kg Rapifen 20-30mcg/kg Ultiva: 1mg auf 50NaCl = 20myg/ml, 0,1myg/kg/min = Start auf kg x 0,3ml/h (bis 0,3mcg/kg/min)
 Rocuronium 0,6mg/kg
 
-
-
-<span id="63"></span>![](2850191-63_1.png)
-![](2850191-63_2.png)
-![](2850191-63_3.png)
-![](2850191-63_4.png)
-![](2850191-63_5.png)
-![](2850191-63_6.png)
-![](2850191-63_7.png)
 
 
 
@@ -2895,14 +2490,6 @@ Magensonde nach Blutstillung unter Sicht setzen!!
 
 
 Postoperative Schmerztherapie bei TE/AT:  0,1-0,15mg/kg Dipidolor bei Einleitung  +  1mg/kg Diclofenac Supp.  bei Einleitung  (ab 2  Lj)  +  Metamizol 10mg/kg ad 20ml NaCl  über 15min im Aufwachraum.  KEIN Paracetamol wegen geringer analgetischer und antiphlog.  Potenz.  (Ögari 2013)
-
-
-
-<span id="64"></span>![](2850191-64_1.png)
-![](2850191-64_2.png)
-![](2850191-64_3.png)
-![](2850191-64_4.png)
-![](2850191-64_5.png)
 
 
 
@@ -2950,16 +2537,6 @@ Hypersalvisation
 
 
 
-
-<span id="65"></span>![](2850191-65_1.png)
-![](2850191-65_2.png)
-![](2850191-65_3.png)
-![](2850191-65_4.png)
-![](2850191-65_5.png)
-![](2850191-65_6.png)
-
-
-
 Gesicherte Spontanatmung:
 - Kinder-Venturi-O2 Maske (im MRT ohne Metallbügel)
 - Nasale CO2-Messung
@@ -3001,17 +2578,6 @@ Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 
 
 
-
-
-
-<span id="66"></span>![](2850191-66_1.png)
-![](2850191-66_2.png)
-![](2850191-66_3.png)
-![](2850191-66_4.png)
-![](2850191-66_5.png)
-![](2850191-66_6.png)
-![](2850191-66_7.png)
-![](2850191-66_8.png)
 
 
 
@@ -3057,14 +2623,6 @@ Ursache erhöhter Toxizität von LA bei Kindern
 Schnellere Anschlagzeit  durch unvollständiger Myelinisierung der Nerven unter 12 Lj mit verkürzter Wirkdauer.  Durch den 2-3x erhöhten lokalen Blutfluss und erhöhtem kardial Output bei Kindern kommt es  zu einer rascheren systemischen Verteilung des LA!  =  niedrigere Dosierung als beim ERW!  Die geringste kardiovaskuläre und Zns-toxizität hat Ropivacain und Levobupivacain!
 
 
-
-<span id="67"></span>![](2850191-67_1.png)
-![](2850191-67_2.png)
-![](2850191-67_3.png)
-
-
-
-
 Maximale Dosis pro 6 Stunden:
 - Ropivacain 3mg/kg
 - Bupivacain 2,5mg /kg
@@ -3095,15 +2653,6 @@ Skalenusblock Ind. Proximale OA-Fraktur, Schulterluxation NW: Horner, Recurrens,
 3 in1-Block/Femoralisblock/Femoraliskatheter Ind. Schmerztherapie nach Ober -- und Unterschenkelfrakturen Bein leicht außenrotieren lassen, Arterie einzeichnen, Sono!!!
 Dosis: Ropivacain 0,2-0,5% von 5 bis 20ml je nach Alter (max. 3mg/kg in 6 Stunden)
 Alternative: Ischiadikusblock + Tibialisblock
-
-
-
-<span id="68"></span>![](2850191-68_1.png)
-![](2850191-68_2.png)
-![](2850191-68_3.png)
-![](2850191-68_4.png)
-![](2850191-68_5.png)
-
 
 
 
@@ -3140,24 +2689,6 @@ Klinik:
 Hypertriglyzeridämie(Frühzeichen?)
 - CRUSH-Niere (progred. NV durch Rhabdomyolyse und Minderperfusion) mit Myoglobinurie
 
-
-
-
-
-
-
-<span id="69"></span>![](2850191-69_1.png)
-![](2850191-69_2.png)
-![](2850191-69_3.png)
-![](2850191-69_4.png)
-![](2850191-69_5.png)
-![](2850191-69_6.png)
-![](2850191-69_7.png)
-![](2850191-69_8.png)
-![](2850191-69_9.png)
-![](2850191-69_10.png)
-![](2850191-69_11.png)
-![](2850191-69_12.png)
 
 
 
@@ -3204,18 +2735,6 @@ Primärharn = ca. 180l/d Ultrafiltrat des Plasma, proteinfrei
 
 
 
-
-
-
-<span id="70"></span>![](2850191-70_1.png)
-![](2850191-70_2.png)
-![](2850191-70_3.png)
-![](2850191-70_4.png)
-![](2850191-70_5.png)
-![](2850191-70_6.png)
-
-
-
 Nierenfunktionsparameter:
 - Kreatinin:  Abbauprod.  Muskelmetabolismus abhängig von der Muskelmasse,  indirekt proportional zur GFR, 0,6-1,3mg/dl
 - GRF:  normal 90ml/min  (=  Krea 1),  Nierenversagen  \<  25ml/min  (=  Krea  \>4)  über Kreatinin-
@@ -3247,9 +2766,9 @@ Phosphat+Cl+HCO3-
 Reabsorption.
 CAVE:
 Carboanhydrasehemmer verhindern Bicarbonatrücktransfer und damit auch Wasserrückresorption), Sekretion von Säuren und Basen.
-2)  Henle Schleife:  Aufsteigendem Teil  (Na-K-Atpase,  Na-K-2Cl-Cotransport,  Kalium diffundiert zurück,  NaCl beibt im Interstitium  =  hyperosmolar,  hier keine Wasserpermeabilität),
+1)  Henle Schleife:  Aufsteigendem Teil  (Na-K-Atpase,  Na-K-2Cl-Cotransport,  Kalium diffundiert zurück,  NaCl beibt im Interstitium  =  hyperosmolar,  hier keine Wasserpermeabilität),
 Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
-3)  Distaler Tubulus: Na-Reabsorption 4)  Sammelrohr:  Aquaporine  (ADH)  für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
+1)  Distaler Tubulus: Na-Reabsorption 4)  Sammelrohr:  Aquaporine  (ADH)  für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
 JGA (juxtaglomerulärer Apparat)
 Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
 Ausschüttung bei:
@@ -3263,15 +2782,6 @@ und Aterien (Druck)
 (Minirin, Desmopressin/Octostim)
 Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase,
 und Na-H+-Antiport)
-
-
-
-
-<span id="71"></span>![](2850191-71_1.png)
-![](2850191-71_2.png)
-![](2850191-71_3.png)
-![](2850191-71_4.png)
-![](2850191-71_5.png)
 
 
 
@@ -3307,17 +2817,6 @@ thrombozytopenische Purpura TTP),  ZNS-Symptomatik mit neurologischen Ausfällen
 Hypertonie.
  Therapie: Methylprednisolon, Plasmaaustauschbehandlung,
 Hämodialyse
-
-
-
-
-<span id="72"></span>![](2850191-72_1.png)
-![](2850191-72_2.png)
-![](2850191-72_3.png)
-![](2850191-72_4.png)
-![](2850191-72_5.png)
-![](2850191-72_6.png)
-![](2850191-72_7.png)
 
 
 
@@ -3365,11 +2864,6 @@ Schleifendiuretika/Lasix immer in Kombination mit Volumen
 
 
 
-<span id="73"></span>![](2850191-73_1.png)
-![](2850191-73_2.png)
-![](2850191-73_3.png)
-![](2850191-73_4.png)
-
 
 
 - Reduzieren von NMH für Thromboseprophylaxe bei CNI!!!!
@@ -3416,9 +2910,6 @@ so kommt man auf ein tatsächliches Verhältnis von 1:3  (Blutfluss ist dreimal 
 
 
 
-<span id="74"></span>
-
-
 Dialysatfluss!)  Die Zugabe von Trinatriumcitrat erfolt patientennahe direkt beim abgehenden Schenkel. CaCl2 wird patientennahe direkt beim rückführenden Schenkel zugeleitet.
 
 Bsp Start:  Dialysefluss 35ml/kg 20:1 zum Blutfluss  (  =  1,75 ml/kg),  Citratdosis 4,0mmol/l,
@@ -3441,27 +2932,6 @@ Dosisanpassung bei Medikamenten notwendig.
 
 
 
-
-
-
-
-
-
-
-
-
-
-<span id="75"></span>![](2850191-75_1.png)
-![](2850191-75_2.png)
-![](2850191-75_3.png)
-![](2850191-75_4.png)
-![](2850191-75_5.png)
-![](2850191-75_6.png)
-![](2850191-75_7.png)
-![](2850191-75_8.png)
-![](2850191-75_9.png)
-![](2850191-75_10.png)
-![](2850191-75_11.png)
 
 
 
@@ -3518,14 +2988,6 @@ Azidosen,  welche durch vermehrte Bildung von Säuren zustande kommen,  wie Lakt
 (Hunger) oder Ketoazidose (Diabetes), Intoxikation und chronische Niereninsuffizienz, haben eine vergrößerte Anionenlücke.
 
 
-
-<span id="76"></span>![](2850191-76_1.png)
-![](2850191-76_2.png)
-![](2850191-76_3.png)
-
-
-
-
 Merke:    Bei metabolischen Störungen  ändert sich der pCO²  und BE mit dem pH,  bei respiratorischen Störungen  ändert sich der pCO²  und BE gegenläufig/revers zum pH.    Eine
 Änderung des pH um 0,1 entspricht einer Änderung des pCO² von 12mmHg bzw. BE von 6.
 
@@ -3571,22 +3033,10 @@ Therapie der zugrundeliegenden Ursache der metabolischen Alkalose:
 
 
 
-
-
-<span id="77"></span>![](2850191-77_1.png)
-![](2850191-77_2.png)
-![](2850191-77_3.png)
-![](2850191-77_4.png)
-![](2850191-77_5.png)
-![](2850191-77_6.png)
-![](2850191-77_7.png)
-
-
-
 BGA-Beurteilung:
 1)  Wie hoch ist der pH? = Azidose oder Alkalose 2)  Wie hoch ist das Bicarbonat?
-3)  Wie hoch ist das CO2?
-4)  Metabolische oder respiratorische oder kombinierte Störung?
+2)  Wie hoch ist das CO2?
+3)  Metabolische oder respiratorische oder kombinierte Störung?
 
 
 Normalwerte: pH = 7,35--7,45 pCO2 = 35--45 mm Hg bzw.
@@ -3628,32 +3078,6 @@ Laxantieneinnahme
 Klinik:
 Muskelschwäche, Muskelkrämpfe, paralytischer Ileus, ndMR verlängerte Wirkung, orthostatische Hypotension, Arrhythmien (va. SVT).
 EKG: flache ST-Senkung, flache T-Welle, ev. U-Welle, QT-Verlängerung
-
-
-
-
-
-
-<span id="78"></span>![](2850191-78_1.png)
-![](2850191-78_2.png)
-![](2850191-78_3.png)
-![](2850191-78_4.png)
-![](2850191-78_5.png)
-![](2850191-78_6.png)
-![](2850191-78_7.png)
-![](2850191-78_8.png)
-![](2850191-78_9.png)
-![](2850191-78_10.png)
-![](2850191-78_11.png)
-![](2850191-78_12.png)
-![](2850191-78_13.png)
-![](2850191-78_14.png)
-![](2850191-78_15.png)
-![](2850191-78_16.png)
-![](2850191-78_17.png)
-![](2850191-78_18.png)
-![](2850191-78_19.png)
-![](2850191-78_20.png)
 
 
 
@@ -3709,11 +3133,6 @@ Sarkoidose, Hyperthyreose, iatrogene Hyperkalzämie
 
 
 
-
-<span id="79"></span>![](2850191-79_1.png)
-
-
-
 Klinik: Verwirrtheit, Psychosen, Muskelschwäche, Polyurie,
 Nephrokalzinose, NI, Obstipation EKG: QT-Verkürzung Therapie: Glucose 5%, Hochdosiert Furosemid, Natriumsulfat.
 
@@ -3752,16 +3171,6 @@ Cerebral salt wasting Syndrom
 = Hyponatriämie aufgrund paradox hoher renaler Natriumausscheidung infolge einer Störung der zentralen Regulation des Natriumhaushaltes un der Osmoregulation mit hypotoner Dehydration.
 Ursache: SHT, Hirntumoren, intrakranielle Blutungen
 
-
-
-
-
-<span id="80"></span>![](2850191-80_1.png)
-![](2850191-80_2.png)
-![](2850191-80_3.png)
-![](2850191-80_4.png)
-![](2850191-80_5.png)
-![](2850191-80_6.png)
 
 
 
@@ -3805,13 +3214,6 @@ Diagnostik:  Anamnese,  evozierte Potentiale AEP,  MRI,  Liquorpunktion zum Auss
 
 
 
-
-
-
-<span id="81"></span>![](2850191-81_1.png)
-
-
-
 # 23. Anästhesie in der Urologie
 
 TURP/TURB Steinschnittlagerung Lagerungsschäden:  Peronäus und Saphenus,  Obturatorius und N.  femoralis durch  Überstreckung,  Plexus brachialis  (häufigster LS),  Kompartmentsyndrom,  bei TURB Gefahr der Blasenperforation durch elektrische Stimulation des N.  Obturatorius mit Reflexbewegung.
@@ -3840,19 +3242,6 @@ Die CO2-Resorption ist abhängig von der Fläche,  Dauer,  Druck,  Elimination, 
 
 Auswirkungen:
 - Hämodynamisch:  ZVD,  PVR,  Cardial Output,  MAP und SVR steigen.  Bei Insufflation oft Arrhythmien  (Atropien bei Bradykardie),  hoher ZVD ist für den Volumenstatus nicht zu verwenden.
-
-
-
-<span id="82"></span>![](2850191-82_1.png)
-![](2850191-82_2.png)
-![](2850191-82_3.png)
-![](2850191-82_4.png)
-![](2850191-82_5.png)
-![](2850191-82_6.png)
-![](2850191-82_7.png)
-![](2850191-82_8.png)
-![](2850191-82_9.png)
-![](2850191-82_10.png)
 
 
 
@@ -3890,11 +3279,6 @@ Aktivitätsbestimmung, Multiplate, PFA-100, Verify Now.
 
 
 
-
-
-<span id="83"></span>
-
-
 Monitoring der Thrombozytenfunktion:
 Eine Messung der Thrombozytenfunktion kann hilfreich sein, um den frühest möglichen sicheren Zeitpunkt einer Operation zu definieren.  Derzeit sind verfügbar:  PFA-ADP/Collagen,
 PFAEpinephrin/Collagen und PFA-P2Y12,  Verify Now Assay,  Born Aggregometrie  (optische Aggregometrie),  Multiplate  (MEA,  Impedanzaggregometrie),  VASP-Elisa  (nur für ADP Rezeptor-
@@ -3928,10 +3312,6 @@ Für die Prüfung Gerinnungskaskade aufzeichen lernen!
 
 
 
-
-<span id="84"></span>
-
-
 Ziel der Gerinnungsdiagnostik:  Minimierung des Blutungs-  und Thromboserisikos,  Vermeidung unnötiger Blutprodukte, Vermeidung unnötiger Labortests Soll Werte:  PTZ\>50%  (ZNS und Retina  \>70%),  apTT norm,  Fibrinogen\>100mg/dl,  Thromb  \>
 100000/l aPTT-Erhöhung bei: Heparingabe, VWS, APL-Ak, Faktor XII-Mangel, Hämophilie A+B Erhöhte Blutungsneigung: Thrombos \< 50000/l, Fibrinogen\<100,
 FVII+IX minus 35%, PTZ\<25%
@@ -3951,12 +3331,6 @@ INTEM (aPTT): CT 100-170sec, XII, XI, IX, VIII, X, V, II, I EXTEM (PTZ): CT 36-6
 
 
 
-<span id="85"></span>![](2850191-85_1.png)
-![](2850191-85_2.png)
-![](2850191-85_3.jpg)
-
-
-
 
 
 Hämophilie A (VIII-Mangel) + B (IX-Mangel) (vWF ist normal vorhanden!)
@@ -3966,16 +3340,6 @@ FFP, ev. Octostim Labor: apTT ist um das 2-3 fache verlängert bei normaler PTZ.
 
 - UFH  =  II+X  --Inhibitator,  Molekulargr.  4000-30 000 Dalton,  iv,  aPTT oder ACT im Referenzbereich, 3h vor elektiven Eingriffen beenden, WB 1 h
 - NMWH  =  va.  Xa-Inhibitator,  Molek.  Ca.  4000-9000 Dalton,  HWZ ca.  6h,  sc,  12h/24h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2h
-
-
-
-<span id="86"></span>![](2850191-86_1.png)
-![](2850191-86_2.png)
-![](2850191-86_3.png)
-![](2850191-86_4.png)
-![](2850191-86_5.png)
-
-
 
 - Direkte Thrombininhib. (IIa): Hirudine z.B. Argatroban/Argatra, 2h + apTT normal,
 WB 4h
@@ -4013,11 +3377,6 @@ und gegebenenfalls die labordiagnostische Bestimmung des Wirkspiegels
 
 
 
-<span id="87"></span>![](2850191-87_1.png)
-![](2850191-87_2.png)
-![](2850191-87_3.png)
-
-
 
 im Patientenplasma mittels spezifischer direkter Anti-Xa-Tests, kalibriert mittels DXA-spezifischer Kalibratoren,  zur Einschätzung erwogen werden soll.  Eine intra-  und postoperative autologe Blutaufbereitung wird empfohlen. Postoperativ ist eine Thromboseprophylaxe durchzuführen. Ein präoperatives Bridging ist in diesen 48h nicht nötig.
 Plasma  (Frischplasma,  FFP),  rekombinanter Faktor VIIa  (rFVIIa,  Novoseven®),  Tranexamsäure
@@ -4047,50 +3406,30 @@ Gabe)
 
 
 
-<span id="88"></span>![](2850191-88_1.png)
-![](2850191-88_2.png)
-
-
-
- Hohes Thromboserisiko:
+Hohes Thromboserisiko:
 bei Mitralklappenersatz,
 Doppelklappenersatz oder Schlaganfall/transitorisch ischämische Attacke  ≤  6 Monaten:  Bridging mit Heparinen in therapeutische Dosierung (z.B. 2 x 1 mg/kg Enoxaparin) mit Anti-XaAktivitätsbestimmung (2-4 Std.
 nach der s.c. Gabe
 
 ## 25.5. Pathomechanismus der intraoperativen Blutung: *
 
-- Gefäßverletzung mit Verlust/Gerinnungsaktivierung -- Volumentherapie mit Dilution -- TRIAS Hypothermie+Azidose+Hypokalzämie  =  Blutgerinnungsstörung  --  vermehrter Blutverlust  --
-Verbrauch Gerinnungsfaktoren/Hyperfibrinolyse ...
+- Gefäßverletzung mit Verlust/Gerinnungsaktivierung -- Volumentherapie mit Dilution -- TRIAS Hypothermie+Azidose+Hypokalzämie  =  Blutgerinnungsstörung  --  vermehrter Blutverlust -- Verbrauch Gerinnungsfaktoren/Hyperfibrinolyse ...
 - POCT (Point of care test): ROTEM oder TEG
 
 Folgende Gerinnungsfaktoren stehen zur Verfügung:
-  FFP:  =  pro-  und antikoagulatorische Faktoren in physiologischer Konzentation.  Eine gezielte Korrektur ist nicht möglich.  NW:  Volumenbelastung mit dilutionsbedingter Anämie und Thrombopenie!  Hohe Zitratzufuhr mit Gefahr der Hypocalciämie mit Koagulopathie, Herzrhythmusstörungen und Krämpfen. Die einzige absolute Indikation ist ein Faktor V-Mangel.
-  TK: sind nur bei strenger Indikation von \< 10 000/µl ohne aktive Blutung oder \< 50 000/µl bei anhaltender Blutung empfohlen; es besteht ein hohes Risiko einer allergischen oder febrilen Transfusionsreaktion, TRALI, bzw. bei bakterieller Kontamination Komplikationen mit SEPSIS.
-  Fibrinogen:  Gabe bei transfusionspflichtigen Blutungen,  Plasmaspiegel  \<  1,5-2g/l oder Fibrinogenmangel im FIBTEM. Initialdosis sind 50mg/kg KG.
-  Faktor XIII:  Gabe bei Blutungen und herabgesetzter Aktivität des FXIII\<60%.  Initialdosis sind 30IE/kg KG.
-  PPSB = Prothrombinkomplex = Faktor II, VII, IX, X + Protein C, S, ATIII + Heparin: Indikation ist die Notfallsantagonisierung eines OAK/DOAK´s mit 20-30IE/kg KG.
-  rFVIIa = Novo7: Indiziert bei Hämophilie, FVII-Mangel, Morbus Glanzmann. Off lavel use bei vital bedrohlicher Blutung 90 -120µg/kg (Vorraussetzung sind normale Thrombozyten,
-Fibrinogen- und Calziumwerte, pH \>7,2 und Normothermie.
-  FVIII: Indiziert bei Hämophilie A und vWF-Syndrom.
-  Tranexamsäure/Cyclokapron:
-erhöht die
-Überlebenswahrscheinlichkeit beim Traumapatienten und senkt den perioperativen Transfusionsbedarf.  Initialdosis:  20-
-25mg/kg KG.
-  DDAVP/Desmopressin  =  Octostim:  stimuliert die Freisetzung des vWF,  bewirkt eine Wasserretention mit Hyponatriämie. Induziert beim erworbenen vWF-Syndrom.
+- FFP:  =  pro-  und antikoagulatorische Faktoren in physiologischer Konzentation.  Eine gezielte Korrektur ist nicht möglich.  NW:  Volumenbelastung mit dilutionsbedingter Anämie und Thrombopenie!  Hohe Zitratzufuhr mit Gefahr der Hypocalciämie mit Koagulopathie, Herzrhythmusstörungen und Krämpfen. Die einzige absolute Indikation ist ein Faktor V-Mangel.
+- TK: sind nur bei strenger Indikation von \< 10 000/µl ohne aktive Blutung oder \< 50 000/µl bei anhaltender Blutung empfohlen; es besteht ein hohes Risiko einer allergischen oder febrilen Transfusionsreaktion, TRALI, bzw. bei bakterieller Kontamination Komplikationen mit SEPSIS.
+- Fibrinogen:  Gabe bei transfusionspflichtigen Blutungen,  Plasmaspiegel  \<  1,5-2g/l oder Fibrinogenmangel im FIBTEM. Initialdosis sind 50mg/kg KG.
+- Faktor XIII:  Gabe bei Blutungen und herabgesetzter Aktivität des FXIII\<60%.  Initialdosis sind 30IE/kg KG.
+- PPSB = Prothrombinkomplex = Faktor II, VII, IX, X + Protein C, S, ATIII + Heparin: Indikation ist die Notfallsantagonisierung eines OAK/DOAK´s mit 20-30IE/kg KG.
+- rFVIIa = Novo7: Indiziert bei Hämophilie, FVII-Mangel, Morbus Glanzmann. Off lavel use bei vital bedrohlicher Blutung 90 -120µg/kg (Vorraussetzung sind normale Thrombozyten, Fibrinogen- und Calziumwerte, pH \>7,2 und Normothermie.
+- FVIII: Indiziert bei Hämophilie A und vWF-Syndrom.
+- Tranexamsäure/Cyclokapron: erhöht die Überlebenswahrscheinlichkeit beim Traumapatienten und senkt den perioperativen Transfusionsbedarf.  Initialdosis:  20-25mg/kg KG.
+- DDAVP/Desmopressin  =  Octostim:  stimuliert die Freisetzung des vWF,  bewirkt eine Wasserretention mit Hyponatriämie. Induziert beim erworbenen vWF-Syndrom.
 
 Tranexamsäure, FFP und rFVIIa sind bei intraoperativen massiven Blutungen sinnvoll, jedoch nie prophylaktisch präoperativ anzuwenden!
 
 
-
-
-
-
-
-
-<span id="89"></span>![](2850191-89_1.png)
-![](2850191-89_2.png)
-![](2850191-89_3.png)
-![](2850191-89_4.png)
 
 
 
@@ -4101,8 +3440,7 @@ Tranexamsäure, FFP und rFVIIa sind bei intraoperativen massiven Blutungen sinnv
 - Prot C hemmt Va und VIIIa
 - Protein S ist ein Kofaktor für Protein C
 
-Faktor V-Mangel: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie = APC-
-Resistenz,  da das aktivierte Protein C  nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen,  da dieses durch den Gendefekt strukturell verändert ist.  5%  der Bevölkerung in Europa sind heterozygote Träger.  Folgen sind TVT,  PE,  Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe
+Faktor V-Mangel: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie = APC-Resistenz,  da das aktivierte Protein C  nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen,  da dieses durch den Gendefekt strukturell verändert ist.  5%  der Bevölkerung in Europa sind heterozygote Träger.  Folgen sind TVT,  PE,  Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe
 
 
 ## 25.7. TIC = Trauma induzierte Coagulopathie
@@ -4121,31 +3459,6 @@ Gerinnungsverlust pro -1°C), \> 34°C 4)  Azidosekorrektur: Ziel \>7,2 (NaBIC)
 
 Für die Gerinnung gilt kurz gesagt:
 1)  Achte auf ein schweres Trauma mit Hyperfibrinolyse: Tranexamsäure 2)  Achte auf Fibrinpolymerisation mit Fibrinogenmangel: Fibrinogen 3)  Achte auf Thrombinbildung mit Faktorenmangel: PPSB 4)  Achte auf Plättchenmangel: TK 5)  Achte auf Plättchenfunktionsstörung: Octostim
-
-
-
-<span id="90"></span>![](2850191-90_1.png)
-![](2850191-90_2.png)
-![](2850191-90_3.png)
-![](2850191-90_4.png)
-![](2850191-90_5.png)
-![](2850191-90_6.png)
-![](2850191-90_7.png)
-![](2850191-90_8.png)
-![](2850191-90_9.png)
-![](2850191-90_10.png)
-![](2850191-90_11.png)
-![](2850191-90_12.png)
-![](2850191-90_13.png)
-![](2850191-90_14.jpg)
-
-
-
-
-
-
-
-
 
 
 ## 25.8. DIC = disseminierte intravasale coagulopathie
@@ -4178,19 +3491,6 @@ und Fibrinpolymerisationsstörung durch HES, Gelatine
 - Hypothermie + Azidose + Hypokalziämie
 - Anämie vorbestehend
 
-
-
-
-
-<span id="91"></span>![](2850191-91_1.png)
-![](2850191-91_2.png)
-![](2850191-91_3.png)
-![](2850191-91_4.png)
-![](2850191-91_5.png)
-![](2850191-91_6.png)
-![](2850191-91_7.png)
-![](2850191-91_8.png)
-![](2850191-91_9.png)
 
 
 
@@ -4237,18 +3537,6 @@ Ein negatives D-Dimer schließt eine TVT/PE aus!
 
 
 
-<span id="92"></span>![](2850191-92_1.png)
-![](2850191-92_2.png)
-![](2850191-92_3.png)
-![](2850191-92_4.png)
-![](2850191-92_5.png)
-![](2850191-92_6.png)
-![](2850191-92_7.png)
-![](2850191-92_8.png)
-![](2850191-92_9.png)
-![](2850191-92_10.png)
-
-
 
 - vWF: ist bei SIRS/SEPSIS ebenfalls erniedrigt. Eine sichere Diagnostik kann daher erst nach Abklingen eines Infekts erfolgen.
 - Protein C: ist erniedrigt bei Vit-K-Antagonisten Gabe, Leberfunktionsstörung, Sepsis, DIC,
@@ -4286,11 +3574,6 @@ Bluttransfusion nach sorgfältiger Indikationsstellung:
 Über einem
 
 
-
-<span id="93"></span>![](2850191-93_1.png)
-
-
-
 Hämoglobinwert von 8 g/dl sollte nur dann eine Erythrozytenkonzentratgabe stattfinden,
 wenn klinische Hinweise auf globale oder regionale Sauerstoffdefizite vorliegen,
 insbesondere unter Berücksichtigung relevanter Vorerkrankungen.
@@ -4324,11 +3607,6 @@ VO2    ist abhängig von Nachlast,  Kontraktilität,  Vorlast und HF;  DO2 abhä
 = wenig Blut in den Coronarien)
 Kaskade: Gefäßverengung -- Metabolische Veränderungen -- Diastolische Fkt.störung -- systolische Funktionsstörung -- Anstieg des LVEDP (+ Pulmonalisdruck?) -- EKG-Veränderungen AP
 
-
-
-<span id="94"></span>![](2850191-94_1.png)
-![](2850191-94_2.png)
-![](2850191-94_3.png)
 
 
 
@@ -4370,8 +3648,6 @@ Die häufigsten zugrundeliegenden Erkrankungen der Herzinsuffizienz sind:
 
 
 
-<span id="95"></span>
-
 
 8. Toxische Wirkungen (z. B. Chemotherapeutika)
 9. Bradykarde/tachykarde Arrhythmien.
@@ -4404,10 +3680,6 @@ und linksventrikulärer Dysfunktion
 (Auswurffraktion \< 35 %) sowie erhöhten BNP-Werten in puncto Reduktion von Morbidität und Mortalität klar überlegen ist.
 
 
-
-<span id="96"></span>
-
-
 Endstage Herzinsuffizienztherapie:
 Revaskulation und Klappensanierung  (Mitracliping),  ICD/Defibrillator Implantation,  cardiale Resynchronisation  /CRT,  iv.  Gabe von Levosimedan/Simtax,  HTX,  LVAD  =  left ventricular assist device.
 
@@ -4423,14 +3695,6 @@ Ischämische Präkonditionierung bezeichnet intentionelle Episoden kurzzeitiger 
 Grundsätzlich können alle  Regionalanästhesieverfahren  bei herzinsuffizienten Patienten zum Einsatz kommen.  Gerade die rückenmarknahe Anästhesie kann durch Senkung der Vor-  und Nachlast einen günstigen Einfluss auf die kardiale Situation des herzinsuffizienten Patienten haben.  Zu starke Ausbreitungen der Spinal-  oder Epiduralanästhesie sollten vermieden werden.
 Katheterverfahren haben wegen der besseren Steuerbarkeit der Ausbreitung klare Vorteile gegenüber den „Single Shot" Verfahren. Bei Rückbildung der Sympathikolyse kommt es zu einem relativen Volumenüberschuss, der zu einer Dekompensation der Herzinsuffizienz führen kann. Bei manifester Herzinsuffizienz ist eine rückenmarknahe Anästhesie nur mit  äußerster Vorsicht und unter Bereithaltung von exogenen Katecholaminen durchzuführen, da es mit hoher Ausbreitung und Blockade der Nervi accelerantes zu einer Dekompensation des herzinsuffizienten Patienten kommen kann.  Die Single-Shot Spinal-  und Periduralanästhesie sollten bei manifester Herzinsuffizienz nicht zum Einsatz kommen.  Auf der anderen Seite können gerade diejenigen Patienten,  deren Herzinsuffizienz durch koronare Herzkrankheit bedingt ist,  von der thorakalen Periduralanästhesie (in der Regel in Kombination mit einer Allgemeinanästhesie) profitieren.
 
-
-
-
-<span id="97"></span>![](2850191-97_1.png)
-![](2850191-97_2.png)
-![](2850191-97_3.png)
-![](2850191-97_4.png)
-![](2850191-97_5.png)
 
 
 
@@ -4465,29 +3729,6 @@ Metformin/Glucophage)
 
 
 
-
-
-
-
-<span id="98"></span>![](2850191-98_1.png)
-![](2850191-98_2.png)
-![](2850191-98_3.png)
-![](2850191-98_4.png)
-![](2850191-98_5.png)
-![](2850191-98_6.png)
-![](2850191-98_7.png)
-![](2850191-98_8.png)
-![](2850191-98_9.png)
-![](2850191-98_10.png)
-![](2850191-98_11.png)
-![](2850191-98_12.png)
-![](2850191-98_13.png)
-![](2850191-98_14.png)
-![](2850191-98_15.png)
-![](2850191-98_16.png)
-![](2850191-98_17.png)
-![](2850191-98_18.png)
-![](2850191-98_19.png)
 
 
 
@@ -4538,8 +3779,6 @@ Klinik:  Bauchschmerzen,  Übelkeit,  Erbrechen,  Amoniakgeruch aus dem Mund mit
 
 
 
-<span id="99"></span>
-
 
 Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung von Azetoazetat und beta-Hydroxybutyrat (Azidose)
 -Bikarbonat puffert entstehende Protonen; Azetoazetat und beta-Hydroxybutyrat
@@ -4580,9 +3819,6 @@ Bradykardie,  Niedervoltage,  AV-Block,  Hypoventilation durch verminderten Atem
 
 
 
-<span id="100"></span>
-
-
 CO2,  Leberfunktionsstörungen,  Makroglossie  (Intubationsschwierigkeiten!),  NNI  (präoperative Glucocorticoidgabe), CNI (cave: ndMR)
 Anästhesie:
 Elektive Operationen immer mit euthyreoter Stoffwechsellage anstreben!  Präopertiv Hormonstatus  (TSH,  T3/4),  Kardiovaskuläre Begutachtung,  HNO  (Stimmbandfunktion?),  C/P
@@ -4620,10 +3856,6 @@ Ausscheidung im Austausch, hypokaliämische hyperchlorämische Alkalose mit Hype
 -              Bei Hypophysektomie, M. Addison, bilateraler Adrenalektomie beim Einleiten 25mg Hydrocortison iv., bei mittleren und schweren Eingriffen
 + 100mg/d für 48-72h postoperativ.
 Perioperative Cortisontherapie:  präoperativ normale Dosis am OP-Tag einnehmen.
-1
-
-
-<span id="101"></span>
 
 
 ## 26.7. Erkrankung des Nebennierenmark: Phäochromozytom *
@@ -4661,16 +3893,6 @@ Mediatoren) + Volumen!
 Bei RA:  Sympatikolyde bei SPA/EDA,  Hypotonie durch Vasodilatation kann Anfall auslösen,
 Reflektorische Steigerung des Sympatikus möglich; gutes Volumenloading.
 
-
-
-
-1
-
-
-<span id="102"></span>![](2850191-102_1.png)
-![](2850191-102_2.png)
-![](2850191-102_3.png)
-![](2850191-102_4.png)
 
 
 
@@ -4719,26 +3941,6 @@ Verlauf der ScvO²  ist entscheident, nicht Absolutwerte. (Steigt bei fehlender 
 Laktatwerte zeigen das Ausmaß  des Schocks/Hypoperfusion des Gewebes und spiegelt auch Therapie-Response wieder.  (Geschwindigkeit der Laktatveränderung ist entscheident)  Ziel sollte immer eine rasche Normalisierung des Laktats sein!
 
 
-1
-
-
-<span id="103"></span>![](2850191-103_1.png)
-![](2850191-103_2.png)
-![](2850191-103_3.png)
-![](2850191-103_4.png)
-![](2850191-103_5.png)
-![](2850191-103_6.png)
-![](2850191-103_7.png)
-![](2850191-103_8.png)
-![](2850191-103_9.png)
-![](2850191-103_10.png)
-![](2850191-103_11.png)
-![](2850191-103_12.png)
-![](2850191-103_13.png)
-![](2850191-103_14.png)
-![](2850191-103_15.png)
-![](2850191-103_16.png)
-![](2850191-103_17.png)
 
 
 
@@ -4778,18 +3980,6 @@ Einsatz bei hohem Bedarf.  KEIN HES bei schwerer Sepsis/septischem Schock.  Gela
 - Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output,
 CI nicht  über dem Normbereich anheben,  cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion.  Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate,
 Oxygenierung.
-1
-
-
-<span id="104"></span>![](2850191-104_1.png)
-![](2850191-104_2.png)
-![](2850191-104_3.png)
-![](2850191-104_4.png)
-![](2850191-104_5.png)
-![](2850191-104_6.png)
-![](2850191-104_7.png)
-![](2850191-104_8.png)
-![](2850191-104_9.png)
 
 
 
@@ -4832,18 +4022,6 @@ Man muss grundsätzlich unterscheiden zwischen 1)  Flüssigkeitssubstitution  = 
 pulmonal, kutan).
 2)  Volumentherapie  =  Aufrechterhaltung oder Wiederherstellung der intravasalen Normovolämie.
 
-1
-
-
-<span id="105"></span>![](2850191-105_1.png)
-![](2850191-105_2.png)
-![](2850191-105_3.png)
-![](2850191-105_4.png)
-![](2850191-105_5.png)
-![](2850191-105_6.png)
-![](2850191-105_7.png)
-![](2850191-105_8.png)
-![](2850191-105_9.png)
 
 
 
@@ -4879,19 +4057,6 @@ Verdünnungskoagulopathie mit Blutung!!!,  Auskühlung  (kalte Infusionen).  Gut
 
 
 MODS: multi orgen dysfunktion syndrom (primär direkt durch Trauma,Hypoxie + sekundär durch SIRS)
-1
-
-
-<span id="106"></span>![](2850191-106_1.png)
-![](2850191-106_2.png)
-![](2850191-106_3.png)
-![](2850191-106_4.png)
-![](2850191-106_5.png)
-![](2850191-106_6.png)
-![](2850191-106_7.png)
-![](2850191-106_8.png)
-![](2850191-106_9.png)
-![](2850191-106_10.png)
 
 
 
@@ -4932,17 +4097,6 @@ Kath,  zahlreiche Medikamente.  Lage:  V.  Jugolaris,  Subclavia,  Femoralis;  L
 
 
 
-1
-
-
-<span id="107"></span>![](2850191-107_1.png)
-![](2850191-107_2.png)
-![](2850191-107_3.png)
-![](2850191-107_4.png)
-![](2850191-107_5.png)
-![](2850191-107_6.png)
-![](2850191-107_7.png)
-![](2850191-107_8.png)
 
 
 
@@ -4988,10 +4142,6 @@ Mit der Thermodilutionsmethode wird die Messung des HZV geeicht und die Flüssig
 - Nachlastparameter: SVRI systemischer Gefäßwiderstand
 - Kontraktilität des linken Herzens: dpmax
 - Lungenödem:  ELWI extravaskuläre Lungenwasser 3,0-7  +  PVPI pulmonalvaskuläre Permeabilitätsindex 1,0-3,0 (Capillarleak? Oder Hydrostatisches Ödem?)
-1
-
-
-<span id="108"></span>![](2850191-108_1.png)
 
 
 
@@ -5022,11 +4172,6 @@ Kontraktilität, Klappenmorphologie werden ebenfalls beurteilt.
 
 
 
-1
-
-
-<span id="109"></span>
-
 
 # 29. Atemwege
 
@@ -5056,10 +4201,6 @@ Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
 
 
 
-1
-
-
-<span id="110"></span>
 
 
 ## 29.1.  Compliance/Resistance: *
@@ -5092,12 +4233,6 @@ Tubuslagekontrolle, Blutstillung, FK-Entfernung.
 Erhöhtes Risiko  bei:    PEEP  \>  10,  Gerinnungsstörung,  paO²  \<70 bei FIO²\>0,7,  MAP\<65,  kardialer Pat.
 Komplikationen:  Fieber  (erhöhte Zytokinausschüttung),  paO²-Abfall,  CO²-Anstieg,  ICP-Anstieg,
 Kreislaufdepression oder Blutdruckkrisen bei unzureichender Sedierung,
-1
-
-
-<span id="111"></span>
-
-
 Laryngo/Bronchospasmus,  Mukosaläsionen,  Resorptionsatelektasen durch hohen FIO²,  erhöhter Auto-PEEP mit Barotrauma.
 
 
@@ -5137,15 +4272,6 @@ Vorteil: erhaltene Spontanatmung, risikoarm, auch in extremen Patientenpositione
 
 
 
-1
-
-
-<span id="112"></span>![](2850191-112_1.png)
-![](2850191-112_2.png)
-![](2850191-112_3.png)
-![](2850191-112_4.png)
-
-
 
 Ablauf einer fiberoptischen Intubation:
 1)  Aufklärung des Patienten (während des gesamten Vorgangs mit dem Patienten sprechen und auffordern durch den Mund zu atmen)
@@ -5179,18 +4305,6 @@ Diffusionsstörung (Ödem, Fibrose, massive HZV-Erhöhung mit Kontaktzeitverkür
 Blutvolumen)
 Therapie: FIO2 und PEEP-Erhöhung + Ursache beheben
 
-
-1
-
-
-<span id="113"></span>![](2850191-113_1.png)
-![](2850191-113_2.png)
-![](2850191-113_3.png)
-![](2850191-113_4.png)
-![](2850191-113_5.png)
-![](2850191-113_6.png)
-![](2850191-113_7.png)
-![](2850191-113_8.png)
 
 
 
@@ -5236,22 +4350,6 @@ mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO2 steigt 
 
 Toxische Sauerstoffwirkung bei \> 0,4 FIO2
 - Erhöht Sauerstoffradikale mit erhöhter Permeabilität/Ödem,  Zerstört Surfactant,  aktiviert Makrophagen und Granulozyten, Stört Zilienfunktion.
-1
-
-
-<span id="114"></span>![](2850191-114_1.png)
-![](2850191-114_2.png)
-![](2850191-114_3.png)
-![](2850191-114_4.png)
-![](2850191-114_5.png)
-![](2850191-114_6.png)
-![](2850191-114_7.png)
-![](2850191-114_8.png)
-![](2850191-114_9.png)
-![](2850191-114_10.png)
-
-
-
 - Resorbtionsatelektasen bei hohem paO2 in der Alveole  =  viel O2 geht ins Blut,  der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
 = Atelektase.
 
@@ -5290,17 +4388,6 @@ Weaningkriterien:
 6
 - Elektrolyte im Normbereich (Mg, Ca, K!)
 
-
-1
-
-
-<span id="115"></span>![](2850191-115_1.png)
-![](2850191-115_2.png)
-![](2850191-115_3.png)
-![](2850191-115_4.png)
-
-
-
 Atemwegsokklusionsdruck P0,1 = Maß für den zentralen Atemantrieb unter Spontanatmung. Die Maschine verschließt für 100ms das inspiratorische Ventil und bestimmt den Druck. Normal ist 1-
 4mbar. Bei \> 6mbar Gefahr des Weaning-Versagens.
 
@@ -5336,15 +4423,7 @@ Weaning bei COPD:  Extubation + Anschließend NIV!
 CPAP-ASB, PSV-ASB, PPS
 
 ATC = automatische Tubuscompensation RSBI (= rapid shallow breathing index): f/VT \<105 beim Weaning = hohe AF und niedriges VT mit acuter respiratorischer Azidose  = Atemzüge/min durch das Titalvolumen in Litern =  Ein Maß für das Verhältnis von Belastung und Kapazität der Atemmuskulatur.
-Smart Care: Spontanatmung im ASB-Modus 1
-
-
-<span id="116"></span>![](2850191-116_1.png)
-![](2850191-116_2.png)
-![](2850191-116_3.png)
-![](2850191-116_4.png)
-![](2850191-116_5.png)
-![](2850191-116_6.png)
+Smart Care: Spontanatmung im ASB-Modus
 
 
 
@@ -5385,13 +4464,6 @@ Atemkalk:  Pillenkalk  (NaOH,  Ba(OH)2  ),  bindet CO2,  wärmt und befeuchtet G
 
 
 
-
-1
-
-
-<span id="117"></span>
-
-
 # 30.  Erkrankungen des Respirationstrakts
 
 
@@ -5430,8 +4502,6 @@ Die postoperative Herabsetzung der statischen Lungenvolumina ist vor allem bedin
 • „Hang over" von Narkotika und Muskelrelaxantien 1
 
 
-<span id="118"></span>
-
 
 ## 30.1. OSAS *
 
@@ -5468,13 +4538,7 @@ Schaukelatmung, muskuläre Erschöpfung. paCO2\>55 steigende Tendenz, paO2 \< 55
 
 Beatmungseinstellung NIV:  der extrinsische PEEP muss UNTER dem intrinsischem PEEP liegen =
 Reduktion der Atemarbeit  (innere Schienung)  +  Offenhalten der kleinen Atemwege  (vermindert Resistance).  Bei CPAP-ASB Rampe max 0,2sec  (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
-Cave:  Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus,  sehr hohe AF,  hohe 1
-
-
-<span id="119"></span>
-
-
-Triggerschwelle,  flache Rampe,  hoher ASB-Druck mit zu hohem AMV sein.  Therapie:  Ursache beheben,  exspiratorischen PEEP anheben.  PEEP ist nicht zum  öffnen der Alveolen,  diese sind emphysematös  überbläht,  sondern zur Reduktion der Atemarbeit!  PEEP schrittweise steigern,
+Cave:  Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus,  sehr hohe AF,  hohe Triggerschwelle,  flache Rampe,  hoher ASB-Druck mit zu hohem AMV sein.  Therapie:  Ursache beheben,  exspiratorischen PEEP anheben.  PEEP ist nicht zum  öffnen der Alveolen,  diese sind emphysematös  überbläht,  sondern zur Reduktion der Atemarbeit!  PEEP schrittweise steigern,
 Druckunterstützung 5-10 CPAP-ASB.
 
 -                                                                  PEEPe \< PEEPi
@@ -5522,14 +4586,7 @@ Nekrose.
 3)  Niedrigrisiko PE: ohne Rechtsherzbelastung.
 
 Klinik: Dyspnoe mit thorakalen Schmerzen, Husten, Fieber, periphere Zyanose, Tachykardie, SaO2 red., Extremitäten untersuchen (Schwellung/Thrombose?), Tachypnoe, Synkope,
-1
 
-
-<span id="120"></span>![](2850191-120_1.png)
-![](2850191-120_2.png)
-![](2850191-120_3.png)
-![](2850191-120_4.png)
-![](2850191-120_5.png)
 
 
 
@@ -5566,12 +4623,6 @@ Die Dauer der Therapie  soll bei PE nach TVT/OP 3  Monate betragen.  Nach unprov
 
 Beatmung: kontrolliere Hyperventilation (paCO2 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle)
 Möglichst niedrigem Inspirationsdruck,  ev.  NO-Inhalation oder Prostazyklin/Flolan iv.  und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
-
-
-1
-
-
-<span id="121"></span>
 
 
 Venöse Luftembolie:  bei sitzender Op im Neuro-OP;  Druckgradient zw.  rechten VH und Kopfvenen führt beim Eröffnen der Venen zum Ansaugen von Luftbläschen ins rechte Herz mit Luftembolie, akuter Rechtsherzbelastung, bei PFO Insult... Auskultatorisch Mühlradgeräusch!
@@ -5613,11 +4664,6 @@ Respiratorische Rekompensation: Vergrößerung des FRC, verminderter Re-Li-Shunt
 
 
 
-1
-
-
-<span id="122"></span>
-
 
 ## 30.7. Lungenkontusion
 
@@ -5653,18 +4699,6 @@ Wechsel Antibiotika i.v. auf p.o.
 sobald Patient 24h afebril oder Stabilitätskriterien erreicht sind.
 Dauer Antibiotika 2-3 d nach Entfieberung (gilt auch bei Legionellen!), wenn nach 7 Tagen weiterhin Fieber oder nicht stabil,
 Evaluation Diagnose/Komplikationen: Schwere CAP und Risikofaktoren resistente Keime? Piperacillin/Tazobactam 4.5 g alle 8 h i.v. + Ciprofloxacin 750 mg alle 12 h p.o.
-1
-
-
-<span id="123"></span>![](2850191-123_1.png)
-![](2850191-123_2.png)
-![](2850191-123_3.png)
-![](2850191-123_4.png)
-![](2850191-123_5.png)
-![](2850191-123_6.png)
-
-
-
 
 
 Indikation für die Aufnahme auf der Intensivstation:
@@ -5712,14 +4746,6 @@ Trachealsekret \> 105, BAL \> 104, PBS \> 103
 Ursachen:  am häufigsten:  SIRS,  SEPSIS,  TRALI und Polytrauma;  weiters Infektion,  Kontusion,
 Aspiration, tox. Inhalation.
 DD: kardiales Lungenödem, Pneumonie, „Amiodaron Lunge"
-1
-
-
-<span id="124"></span>![](2850191-124_1.png)
-![](2850191-124_2.png)
-![](2850191-124_3.png)
-
-
 
 
 
@@ -5765,10 +4791,6 @@ Kreislaufmanagement:
 ausgeglichene Bilanz um ein weiteres Lungenödem zu vermeiden
 (neg. Bilanz, Diurese fördern, ev.
 HF), jedoch Hypotonie und MOF vermeiden!
-1
-
-
-<span id="125"></span>
 
 
 Ev. Pulmonalisdruck senken (NO wirkt Rechtsherzversagen entgegen)
@@ -5809,12 +4831,6 @@ Der paCO2 steigt erst bei einem Shuntvolumen  \>  60%  und ist oft durch kompens
 
 
 
-1
-
-
-<span id="126"></span>
-
-
 HPV = hypoxisch pumonale Vasokonstriktion:
 aufgrund des Euler-Liljestrand-Mechanismus kommt es bei einer regionalen alveolären Hypoventilation mit vermind.  O2 zu einer reflektorischen Vasokonstriktion.    Eine Verminderte HPV erreicht man durch:  NO inhalativ,  Prostazyklin,  volatile Anästhetika,  Opioide,
 Hyperventilation mit Hypokapnie.
@@ -5843,14 +4859,6 @@ Ila aktive: ist eine mini ECMO bei kyperkapnisches und hypoxischem Lungenversage
 NO und Bauchlage sind Rescue-Therapie der schwersten Hypoxämie mit OI\< 50 Bauchlage entlastet die dorsalen Lungenbereiche und ermöglicht Rekruitment von Atelektasen.
 
 
-
-
-
-
-1
-
-
-<span id="127"></span>
 
 
 # 33. Anästhesie in der Thoraxchirurgie
@@ -5900,23 +4908,6 @@ Bei schwierigem Atemweg mit SLT intubieren und über Cook-Stab umfädeln auf DLT
 Lagekontrolle: Bronchoskopisch, (auskultieren, Brustkorbextensionen)
 Bei trachealem Abgang des rechten OL-Bronchus darf kein re DLT gesetzt werden!! (1:250)
 
-1
-
-
-<span id="128"></span>![](2850191-128_1.png)
-![](2850191-128_2.png)
-![](2850191-128_3.png)
-![](2850191-128_4.png)
-![](2850191-128_5.png)
-![](2850191-128_6.png)
-![](2850191-128_7.png)
-![](2850191-128_8.png)
-![](2850191-128_9.png)
-![](2850191-128_10.png)
-![](2850191-128_11.png)
-![](2850191-128_12.png)
-
-
 
 Monitoring:  FIO2,  Diskonnektion,  SaO2,  EKG,  Temperatur,  petCO2,  NiBP  +  Blasenkath,  regelm.
 BGA + ZVK, PAK, TEE bei hochrisiko Eingriffen. (ZVK bei oberer Einflussstauung über V. femoralis!)
@@ -5955,17 +4946,7 @@ Effizienz des Gasaustausches der ventilierten Lunge, HZV Hyperkapnie führt zur 
 Schmerztherapie:  thorakale PDA zur Frühmobilisation,  Sekretmobilisierung durch Verhinderung von Schonatmung (Atelektasen, Infektionen!)!
 Oder PCA mit Opioiden,  Interkostaler oder paravertebraler Block  (unter Sicht durch den Chirurgen) +NSAR!
 Postoperative Nachbeatmung im AWR oder IBS, BGA und C/P bei Aufnahme!!
-1
 
-
-<span id="129"></span>![](2850191-129_1.png)
-![](2850191-129_2.png)
-![](2850191-129_3.png)
-![](2850191-129_4.png)
-![](2850191-129_5.png)
-![](2850191-129_6.png)
-![](2850191-129_7.png)
-![](2850191-129_8.png)
 
 
 
@@ -6013,13 +4994,6 @@ Vorabend: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o.
 + 100-250mg Solu-Dac
 
 
-1
-
-
-<span id="130"></span>![](2850191-130_1.png)
-![](2850191-130_2.png)
-
-
 
 Typ II-  Allergie:  Zytotoxische Reaktion,  Bindung von Haptenen an Zell-  oder Basalmembran mit Zytolyse z.B. Agranulozytose, HIT Typ III-  Allergie:  Immunkomplexvaskulitis,  Entzündungsreaktionen durch zirkulierende Immunkomplexe.  z.B.  Serumkrankheit,  Anaphylaxe durch Dextrane mit intravasaler Komplementaktivierung Typ IV: Kontaktdermatitis durch sensibilisierte T-Lymphozyten Z.B.
 photoallergische Reaktion
@@ -6054,17 +5028,6 @@ Membrantransporte
 
 Medikamente werden vorallem über Leber, Niere und Lunge ausgeschieden (+ GI-trakt, Schweiß,
 Milchdrüsen)
-
-1
-
-
-<span id="131"></span>![](2850191-131_1.png)
-![](2850191-131_2.png)
-![](2850191-131_3.png)
-![](2850191-131_4.png)
-![](2850191-131_5.png)
-![](2850191-131_6.png)
-![](2850191-131_7.png)
 
 
 
@@ -6117,20 +5080,6 @@ Dauer:
 - Kurzzeit bis 3 Tage bei z.B. HWI 1
 
 
-<span id="132"></span>![](2850191-132_1.png)
-![](2850191-132_2.png)
-![](2850191-132_3.png)
-![](2850191-132_4.png)
-![](2850191-132_5.png)
-![](2850191-132_6.png)
-![](2850191-132_7.png)
-![](2850191-132_8.png)
-![](2850191-132_9.png)
-![](2850191-132_10.png)
-![](2850191-132_11.png)
-![](2850191-132_12.png)
-
-
 
 - Normaltherpie:  7  -10 Tage:  Beenden bei klinischer Besserung  über 2-3 Tage,  rückläufigen Entzündungsparametern und Fieberfreiheit.
 - Verlängerte Gabe: Listerienmeningitis, Epiduralabszess,...
@@ -6174,15 +5123,6 @@ PCR zeigt schnell welcher Erreger aber keine Resistenzen!
 Legionellen-Harnschnelltest 1
 
 
-<span id="133"></span>![](2850191-133_1.png)
-![](2850191-133_2.png)
-![](2850191-133_3.png)
-![](2850191-133_4.png)
-![](2850191-133_5.png)
-![](2850191-133_6.png)
-![](2850191-133_7.png)
-
-
 
 
 
@@ -6224,10 +5164,6 @@ Gr3 Ceftriaxon/Rocephin Gr4 Cefepim/Maxipime
 
 Aminoglykoside WS: gram -- Bkt, alle Enterobakterien, Pseudomonas aeruginosa WL: Enterokokken, Pneumokokken Sinnvoll in Kombination mit einem Betalaktam-AB oder Fluorchonolon.  Elimination fast vollständig renal  =  nephrotox.  durch Anreicherung in den Tubuli  (va.  Bei Hypovolämie,
 Hypokaliämie,  Hypomagn.)  und ototoxisch!  Aminoglykoside verstärken die Wirkung von nichtdepolarisierenden MR.
-1
-
-
-<span id="134"></span>
 
 
 Bsp: Gentamycin (Refobacin)
@@ -6263,20 +5199,6 @@ Nur zu 10%  renal Eliminiert,  akkumuliert bei Leberfunktionsstörung;  interagi
 Verlängerung,
 Linezolid (Zyvoxid) first line bei MRSA Pneumonie, Tigegyclin (Tigacyl), Daptomycin (Cubicin), und Vancine bei schweren Haut und Weichteilinfektionen.
 Metronidazol (= Nitroimidazol)/Anaerobex für Anerobier des Dickdarms (Bact. Spp.)
-1
-
-
-<span id="135"></span>![](2850191-135_1.png)
-![](2850191-135_2.png)
-![](2850191-135_3.png)
-![](2850191-135_4.png)
-![](2850191-135_5.png)
-![](2850191-135_6.png)
-![](2850191-135_7.png)
-![](2850191-135_8.png)
-![](2850191-135_9.png)
-![](2850191-135_10.png)
-
 
 
 
@@ -6316,12 +5238,6 @@ intrinsische sympathomimetische Aktivität. Überlebensvorteil nach MCI nur bei 
 - Heraufgesetzte Empfindlichkeit der Barorezeptoren
 (geringere reflektorische Vasokonstriktion bei Abfall des SV)
 - Niedrigdosierte Betablockertherapie verhindert eine Downregulation der kardialen Betarezeptoren bei chronischer Herzinsuffizienz,  führen zu einer Upregulation mit verbessertem Ansprechen auf endogene Katecholamine.  Vorraussetzung ist eine stabile Herzinsuffizienz und langsame Steigerung bei minimaler Dosis.
-1
-
-
-<span id="136"></span>
-
-
 
 Indikation:  stabile AP,  Reiinfarktprophylaxe,  arterielle Hypertonie,  SVT,  Hyperthyreose,  HOCM,
 stabile chronische Herzinsuffizienz,
@@ -6365,10 +5281,6 @@ Bei abdominellen Eingriffen mit Darmeröffnung.
 Erreger:  Staph.  aureus,  Staph.  epideridis koag.  neg.,  Enterokokken,  E.  coli,  P.aeruginosa,
 Klebsiellen Meist am 3-8 postoperativem Tag:  eitrige Sekretion aus der Wunde/Drainagen,  Abszess,
 Keimnachweis im Abstrich, Rötung/Schwellung/Hitze/Schmerz Therapie:  chir.  Revision  (Nekrosektomie,  Beläge entfernen,  Spülung,  Drainage),  AB nach Antibiogramm.
-1
-
-
-<span id="137"></span>
 
 
 Prävention:
@@ -6405,7 +5317,7 @@ Prävention:  Restriktiver AB-Einsatz,  Hygienemaßnahmen  (Handschuhe/Kittel/Ei
 Sporen sind alkoholresistent, daher Hände mit Wasser und Seife reinigen.
 
 
-## 36.5. MRSA *
+## 36.5. MRSA
 
 Methicillinresistente Staphylokokken über Hände d. Personals übertragen.
 Maßnahmen:  Händedesinfektion,  Handschuhe,  Kittel,  Isolierzimmer,  Wäsche gesondert entsorgen, Transporte minimieren (davor frische Kleidung und Bettwäsche und Gesichtsmaske)
@@ -6418,16 +5330,8 @@ Daptomycin (Cubicin), Vancomycin, Linezolid (Zyvoxid)
 
 
 
-1
 
-
-<span id="138"></span>![](2850191-138_1.png)
-![](2850191-138_2.png)
-![](2850191-138_3.png)
-
-
-
-## 36.6. ESBL *
+## 36.6. ESBL
 
 Extendet spectrum Betalactamase Bildner: inaktiviert Penicilline, Cephalosporine, Monobactame;
 kann E.coli, Enterobacter oder Klebsillen sein. Isolation und Hygienemaßnahmen. Keine Sanierung wie bei MRSA möglich.
@@ -6462,13 +5366,6 @@ Fluoconazol od. Amphotericin B.
 Cave: jeder Pat. mit Candiämie muss auf Endophalmitis untersucht werden!
 Meningitis: Fluconazol, Variconazol ZVK assoziierte Fungämie:  ZVK Entfernen!  ,  für mindestens 14 Tage  über die letze positive BK hinaus Antimykotika!
 
-1
-
-
-<span id="139"></span>![](2850191-139_1.png)
-![](2850191-139_2.png)
-![](2850191-139_3.png)
-
 
 
 Therapie bei Candidämie:
@@ -6501,10 +5398,6 @@ x 1,2 bei Sepsis, Peritonitis Polytrauma, Verbrennung Reduzierung bei:
 Schwere Störung der GI-Motilität  +  Störung der Glukoseverwertung  =  BUN\>30mg/dl/d  +
 Hypertriglyceridämie \> 350mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
 Eiweiß
-1
-
-
-<span id="140"></span>
 
 
 Geplante Kalorienzufuhr:
@@ -6543,15 +5436,6 @@ Medikamente wenn möglich iv.  lassen:  Störung der Arzneimittelresorption durc
 Furosemid, SD-Hormone,...
 
 
-1
-
-
-<span id="141"></span>![](2850191-141_1.png)
-![](2850191-141_2.png)
-![](2850191-141_3.png)
-![](2850191-141_4.png)
-![](2850191-141_5.png)
-
 
 
 ## 37.2. Prokinetika: *
@@ -6589,13 +5473,6 @@ Die Entleerung von Flüssigkeit ist oft normal, aber die Entleerung von fester N
 Therapie:  kleine häufigere Mahlzeiten,  eher flüssig als fest,  fett und faserarm,  Blutzucker normalisieren,  Prokinetika mit Beginn der Ernährung starten  (Metoclopramid,  Domperidon)  +
 Makrolid AB  (Erythromycin)  +  Naloxon po  (Relistor®)  +  Neostigmin  (Acetylcholinesteralse-
 Inhibitator).
-1
-
-
-<span id="142"></span>![](2850191-142_1.png)
-![](2850191-142_2.png)
-![](2850191-142_3.png)
-
 
 
 Schwere Motilitätsstörungen findet man bei Splanchnikusminderperfusion und abdominellem Kompartmentsyndrom.
@@ -6682,11 +5559,6 @@ In 85%  A.  mesenterica superior durch kardiale Embolie,  akute Thrombose oder M
 Mortalität 50-80% bei arteriellem Verschluss.
 Klinik: plötzlicher Schmerz mit Übelkeit und Erbrechen, blutig schaumige Durchfälle 0-6h, danach stilles Intervall  (7-12h)  mit dumpfen Schmerzen und blutigen Durchfällen mit beginnender Paralyse. Phase III (12-48h) transmuraler Mesenterialinfarkt mit AZ-Verschlechterung, Peritonitis,
 Schock.
-1
-
-
-<span id="144"></span>
-
 
 Diagnose: Anamnese, Angio-CT, Labor Spätzeichen: Leukozytose, Laktatanstieg mit metabolischer Azidose.
 Therapie: OP, Katheterembolektomie
@@ -6906,13 +5778,6 @@ COPD, KHK)
 
 
 
-1
-
-
-<span id="149"></span>![](2850191-149_1.png)
-![](2850191-149_2.png)
-
-
 
 ## 39.2. Paracetamolintoxikation
 
@@ -6947,15 +5812,7 @@ Differenzial Ursachen zur portale Hypertension  bei Leberzirrhose:  Rechtsherzin
 
 Aszitestherapie:
 - NaCl-Restriktion (4-6g/d)
-- Diuretika:  Spironolacton/Aldactone 100-400mg  +  Lasix 40-160mg als Morgendosis  (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger,  Na  \>  88 Kochsalzrestriktion)  Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra 1
-
-
-<span id="150"></span>![](2850191-150_1.png)
-![](2850191-150_2.png)
-![](2850191-150_3.png)
-![](2850191-150_4.png)
-![](2850191-150_5.png)
-![](2850191-150_6.png)
+- Diuretika:  Spironolacton/Aldactone 100-400mg  +  Lasix 40-160mg als Morgendosis  (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger,  Na  \>  88 Kochsalzrestriktion)  Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
 
 
 
@@ -6990,14 +5847,6 @@ Therapie:  Albumin 1g/kg/d  (bis Serum Albumin  \>  45mg/dl,  Terlipressin oder 
 Midorin/Gutron®  po  (Sympathomimetikum),  Octreotid®  sc  (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin  (400mg/d,  Chinolon AB)  verabreicht werden,  da es die Rezidivrate deutlich verringert und das Outcome verbessert.
 Prophylaxe: Humanalbumingabe, Vermeiden von Auslösern (KM, NSAR, hohe Diuretikadosierung,
 Hypovolämie)
-
-
-
-1
-
-
-<span id="151"></span>![](2850191-151_1.png)
-![](2850191-151_2.png)
 
 
 
@@ -7064,14 +5913,6 @@ ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
 Endoskopische Therapie: Notfalls ÖGD (Banding)
 Interventioelle Radiologie: Embolisation des blutenden Gefäß
 Wenn kein Blutungsstillstand: Denis Stent und TIPS
-
-1
-
-
-<span id="153"></span>![](2850191-153_1.png)
-![](2850191-153_2.png)
-![](2850191-153_3.png)
-![](2850191-153_4.png)
 
 
 
@@ -7160,14 +6001,6 @@ Aszitesentfernung, legen einer Drainage oder VAC. Demarkation der Nekrose tritt 
 
 
 
-1
-
-
-<span id="155"></span>![](2850191-155_1.png)
-![](2850191-155_2.png)
-
-
-
 # 42. Anästhesie in der abdominellen Chirurgie
 
 Gefahren:
@@ -7204,10 +6037,6 @@ Die Mikrozirkulation ist lange vor Auftreten einer Hypotonie mit Tachykardie und
 
 Empfehlung:  keine prophylaktischen Volumengaben beim elektiven Eingriff,  gezielter und zeitgerechter Ersatz von Verlusten. Kristalloide (bei Wasserverlust) und Kolloide (bei Blutverlust)
 verwenden.
-1
-
-
-<span id="156"></span>
 
 
 Postoperativ NOrmovolämie und Rückshift unterstützen.  Volumenstatus und Organfunktion evaluieren! Bei Stress VO2-Reduktion durch Sedierung. Frühzeitig auf Blutung/Infektion reagieren.
@@ -7256,11 +6085,6 @@ High risk bei Tumoren  (SKBL,  HCC),  Hämangiomen,  Cysten,  Leberruptur  (trau
 Leberzirrhose.
 Beim Gesunden kann 70%
 der Leber Reserziert werden ohne Funktionseinschränkung!  Blutung führt va.  bei Lebervorschaden und Minderperfusion zu ALV.
-1
-
-
-<span id="157"></span>
-
 
 Beim Ausklemmen der Leber sinkt das preload = vermindertes HZV, bei Reperfusion Hypotonie!!
 Gerinnung beachten! Ev. FFP Meist wünscht ist ein „trockenes Führen" des Patienten mit wenig Volumengabe erwünscht.
@@ -7300,11 +6124,6 @@ Myokardischämie,
 Arrhythmien.
 Hyperperfusionssyndrom mit ipsilateralen Kopfschmerzen bis zum Krampfanfall, Recurrensparese mit Heiserkeit,  Hämatom mit Obstruktion der oberen Luftwege,  Spannungspneu,
 Pneumomediastinum,  paCO2 Anstieg durch Ausfall der Chemorezeptoren.  Nachblutung mit Obstruktion der Atemwege und schwierige Intubation.
-1
-
-
-<span id="158"></span>
-
 
 
 
@@ -7342,11 +6161,6 @@ respiratorische Insuffizienz, ANV (Prophylaxe: Flüssigkeit, Lasix)
 
 
 
-
-1
-
-
-<span id="159"></span>![](2850191-159_1.jpg)
 
 
 
@@ -7417,13 +6231,7 @@ AB postoperativ:
 Nativklappe: bei positiven Klappenkultur 6 Wochen, bei neg. BK und AB 4 Wochen präoperativ 7 Tage weitergeben.
 Kunstklappe: Immer 6 Wochen postoperativ weitergeben!
 
-Kunstklappenendokarditis AB-Therapie: Vancomycin + Rifampicin+ Gentamicin 1
-
-
-<span id="161"></span>![](2850191-161_1.png)
-![](2850191-161_2.png)
-![](2850191-161_3.png)
-
+Kunstklappenendokarditis AB-Therapie: Vancomycin + Rifampicin+ Gentamicin
 
 
 ## 44.3. Mechanische Unterstützungsverfahren bei Herzversagen: *
@@ -7460,12 +6268,7 @@ CPR,  akzidentelle Hypothermie,  wenn keine pharmakolgische  (Simdax,  Katechola
 Phosphodiesterasehemmer) und mechanische (IABP) Rekompensation möglich ist. Sie sollte eine echte Therapieoption und keine absolute Ultimo Ratio sein.
 Vorgehen:
 Der Anschluss erfolgt im rechten Vorhof und der rechten A.  femoralis;  die Coronarperfusion erfolgt  über die Restperfusion im Herzen,  daher immer Kombination mit IABP!!!!
-(Nachlasterhöhung durch retrograden ECMO-Flow)  Problem ist zusätzlich die unzureichende 1
-
-
-<span id="162"></span>![](2850191-162_1.png)
-![](2850191-162_2.png)
-![](2850191-162_3.png)
+(Nachlasterhöhung durch retrograden ECMO-Flow)  Problem ist zusätzlich die unzureichende
 
 
 
@@ -7740,12 +6543,6 @@ Transkutaner PM)
 
 
 
-1
-
-
-<span id="169"></span>
-
-
 5 H´s
 
 1.  Hypoxie:  Reanimation mit 100%  Sauerstoff beatmen!  Sauerstoffmaske mit Reservoir schafft 85%  FIO2,  ohne max.  50%  bei max.  Fluss 10-15l/min.  Ziel SO2 soll 94-98%  sein.
@@ -7775,10 +6572,7 @@ PEA  =  pulslose elektrische Aktivität  bei extrem schwacher Myokardkontraktion
 
 Adrenalin:  α-adrenere Vasokonstriktion mit Anstieg des koronaren und zerebralen Perfusionsdruck, erhöht Amplitude und Frequenz der VF und steigert Wahrscheinlichkeit für ein ROSC.  Allerdings schlechtere kardiale Funktion in der Postreanimationsphase  (blockierte Mikrozirkulation bei erhöhtem Sauerstoffbedarf durch  β-adrenergen positive chronotropen und inotropen Effekt)  Erste Wahl bei CPR und Anaphylaxie.  Zweite Wahl beim kardiogenen Schock.
 (Vorsicht bei Kokain-Konsum oder anderen sympathomimetischen Substanzen)
-1
 
-
-<span id="170"></span>
 
 
 Adrenalin gibt es in 2 Verdünnungen 1:1000 1ml = 1mg und 1:10000 10ml =1mg
@@ -7850,12 +6644,6 @@ Adenosin:  verlangsamt die  Überleitung am AV-Knoten,  hat aber wenig Effekt au
 (induziert VHF mit gefährlich schneller Ventrikelüberleitung mit VT/VF)
 
 
-1
-
-
-<span id="172"></span>![](2850191-172_1.png)
-![](2850191-172_2.png)
-![](2850191-172_3.png)
 
 
 
@@ -8138,11 +6926,6 @@ Grad I-III konservative Therpie (Ausnahme: Grad III + Polytrauma),
 IV+V OP!!
 Milz hat wichtige immunologische Funktion,  daher Pneumokokken-Impfung nach Splenektomie.
 Bei Postsplenektomiesepsis \> 50% Letalität!
-
-1
-
-
-<span id="179"></span>
 
 
 Selten Nierenverletzungen (1% der Polytrauma): blutiger Harn,
@@ -8543,11 +7326,6 @@ hohem ZVD Alpha- und Betablocker zur Reduzierung des MAP (choroidalen Blutvolume
 Augenperforation RSI bei nicht nüchtern,  Gefahr Verlust von Augeninhalt,  Infektion,  Aspiration,  Med.  die IOD senken.
 
 
-1
-
-
-<span id="188"></span>
-
 
 Strabismus OP bei Kindern Okkulocardialer Reflex OCR bei Kindern ausgeprägter, PONV !!! vermehrt bei Strabismus (Zofran,
 Dexabene), erhöhte MH-Inzidenz,
@@ -8593,10 +7371,6 @@ Kinder!!! (Dexabene + Zofran)
 
 AT: Abtragung der Rachenmandeln mit Ringmesser; Vagusreiz evt.
 Vasokonstriktion (siehe Kinder)
-1
-
-
-<span id="189"></span>
 
 
 TE: Entfernung Tonsillen mit Schlinge und Blutstillung oder Laser; Nachblutung typisch \< 24h oder nach 6-8 Tage nach Ablösen des Schorfs  (Lebensgefahr durch Verbluten und Aspiration),
@@ -8639,10 +7413,7 @@ Schwellung der Weichteile im Gesicht behindern Atmung,  Blut im Mund und Rachen 
  Plattenepithelskarzinom des Mundboden/Zunge mit:
 Tracheotomie, Tumorresektion, Neckdissection, Radialislappen.
 Anästhesiologische Besonderheiten: Co-Morbiditäten (Rauchen und Alkohol!!! KHK, COPD), FIO-IT häufig, ZVK, Arterie, DK, PEG, Temperatursonde,
-TIVA oder Sevo ev. Sufentanil Postop: IBS Observanz und Weaning, ev. Heparinperfusor für Anastomose 1
-
-
-<span id="190"></span>
+TIVA oder Sevo ev. Sufentanil Postop: IBS Observanz und Weaning, ev. Heparinperfusor für Anastomose
 
 
 # 59.  Awareness
@@ -8923,11 +7694,6 @@ Mögliche Komplikationen,
 wann Extubation?
 Weaning-
 und Extubationskritierien! Kurzer Intensivaufenthalt wie möglich?
-1
-
-
-<span id="197"></span>![](2850191-197_1.png)
-![](2850191-197_2.png)
 
 
 
@@ -8935,84 +7701,4 @@ und Extubationskritierien! Kurzer Intensivaufenthalt wie möglich?
 Vorbereitung, Narkoseverfahren, Komplikationen
 - Welches Gesetz legt fest,  dass der Pat.  vor der OP/Narkose aufgeklärt werden muss?  Darf 16j.  bei AE selbst unterschreiben?  82j.  Pat.  dement mit SHF wird ohne Revers operiert,  ist dies rechtlich erlaubt?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1
-
-
-<span id="198"></span>
-
-
-*Literaturverzeichnis: *
-
-  ÖGARI Arbeitsgruppe: „Präoperative Evaluierung"
-  ÖGARI Arbeitsgruppe: „Empfehlungen zur Versorgung neurochirurgischer Akutpatienten"
-  ÖGARI Arbeitsgruppe:
-„Regionalanästhesie unter gerinnungshemmenden Medikamenten"
-  ÖGARI Arbeitsgruppe: „Perioperative Gerinnung Update 2015"
-  ÖGARI Sektion „Gerinnungsmanagement beim Intensivpatienten" (2/16)
-  ÖGARI Information Kompakt „Gerinnungsdiagnostik auf der Intensivstation"
-  ÖGARI Information Kompakt „Fiberoptische Intubation"
-  ÖGARI Information Kompakt  „Perioperatives Management bei implantiertem SM oder CRT/ICD" 2016
-  ÖGARI Information Kompakt  „Handlungsempfehlungen zum perioperativem Flüssigkeitsmanagement beim Kind"
-  ÖGARI Information Kompakt „Volumenmonitoring,
-Flüssigkeits- und Volumentherapie
-  ÖGARI Blockkurse A-C in Salzburg 2016 und 2017
-  AINS Ausgaben Jänner 2014 bis Dezember 2017
-  „Anästhesiologische Pharmakotherapie", 2.Auflage,
-Thiel/Roewer, Thieme Verlag
-  „Anästhesie compakt", 3.Auflage, Roewer/Thiel, Thieme Verlag
-  „Anästhesie bei Kindern", Auflage 2012, H.W. Striebel,
-Schattauer Verlag
-  „Repetitorium Intensivmedizin", 4.Auflage, Heck/Fresenius,
-Springer Verlag
-  „Repetitorium Anästhesiologie", 6.Auflage, Heck/Fresenius,
-Springer Verlag
-  „Notarzt-Leitfaden", 7.Auflage, Ulrich v.
-Hintzenstein, Urban&Fischer Verlag
-  „Atmen-Atemhilfen", 9.Auflage, W. Oczenski, Thieme Verlag
-  „Gerinnung im klinischen Alltag",  4.Auflage,  Interdisziplinäre Gerinnungsgruppe Steiermark
-  „Delirium in Critical Care", Valerie Page and E.
-Wesley Ely, Cambridge Medicin Verlag
-  ÖGARI-Leitlinien zur invasiven Beatmung von Intensivpatienten
-  ÖGARI  -INFORMATION KOMPAKT Management der Dauermedikation in der perioperativen Phase (10/17)
-  ÖGARI  -  INFORMATION KOMPAKT Antithrombotische Therapie auf der Intensivstation
-(4/17)
-  ÖGARI - INFORMATION KOMPAKT Empfehlungen für die Durchführung einer ambulanten chirurgischen bzw. anästhesiologischen Versorgung bei Kindern (9/16)
-  Klinischer Pfad Behandlung hüftnaher Frakturen bei zuvor oral antikoagulierten Patientinnen und Patienten inkl. Ergänzunge (Bundesministerium für Gesundheit) (2/16)
-  ÖGARI-Leitlinien zur invasiven Beatmung von Intensivpatienten 2017
-  Qualitätsstandard Patient Blood Management 12/16
-
-1
 

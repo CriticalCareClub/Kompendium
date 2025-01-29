@@ -1,7 +1,7 @@
 # Perioperative Versorgung
 
 :::{toctree}
-:maxdepth:
+:maxdepth: 1
 
 AASD/index
 GREG/index

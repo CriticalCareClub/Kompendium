@@ -1,13 +1,13 @@
-```{index} pair: OP; Hallux valgus
+```{index} pair: OP; Nieren(Teil-)resektion
 ```
 
-(hallux-valgus)=
+(nierenteil-resektion)=
 
-# 8.7.15 Hallux valgus
+# 8.6.3 Nieren(Teil-)resektion
 
-(allgemein-66)=
+(allgemein-48)=
 
-## 8.7.15.1 Allgemein
+## 8.6.3.1 Allgemein
 
 Varianten, Abkürzung, Synonyme
 
@@ -25,9 +25,9 @@ Dauer
 
 : ?? Text fehlt ??
 
-(praanasthesie-64)=
+(praanasthesie-46)=
 
-## 8.7.15.2 Präanästhesie
+## 8.6.3.2 Präanästhesie
 
 Besondere Aufklärung auf
 
@@ -37,9 +37,15 @@ Erforderliche Untersuchungen
 
 : ?? Text fehlt ??
 
-(perioperative-planung-66)=
 
-## 8.7.15.3 Perioperative Planung
+:::{danger}
+
+Bei renalen Raumforderungen in Nachbarschaft der Nebenniere denke immer auch an ein nicht-diagnostiziertes Phäochromozytom!
+:::
+
+(perioperative-planung-48)=
+
+## 8.6.3.3 Perioperative Planung
 
 Lagerung
 
@@ -53,9 +59,9 @@ Besondere Geräte
 
 : ?? Text fehlt ??
 
-(besondere-perioperative-masznahmen-66)=
+(besondere-perioperative-masznahmen-48)=
 
-## 8.7.15.4 Besondere perioperative Maßnahmen
+## 8.6.3.4 Besondere perioperative Maßnahmen
 
 Anästhesieverfahren, Airway
 
@@ -63,7 +69,7 @@ Anästhesieverfahren, Airway
 
 Blutmanagement
 
-: \---
+: AKS, 2 EK
 
 Gerinnung
 
@@ -77,9 +83,9 @@ Sonstiges
 
 : ?? Text fehlt ??
 
-(narkosefuhrung-67)=
+(narkosefuhrung-49)=
 
-## 8.7.15.5 Narkoseführung
+## 8.6.3.5 Narkoseführung
 
 Einleitung
 
@@ -101,15 +107,15 @@ Antibiotika
 
 : ?? Text fehlt ??
 
-(gefahren-67)=
+(gefahren-49)=
 
-## 8.7.15.6 Gefahren
+## 8.6.3.6 Gefahren
 
 1. ?? Text fehlt ??
 
-(postoperatives-management-66)=
+(postoperatives-management-48)=
 
-## 8.7.15.7 Postoperatives Management
+## 8.6.3.7 Postoperatives Management
 
 Strategie
 

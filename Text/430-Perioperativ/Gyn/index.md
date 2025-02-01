@@ -8,7 +8,6 @@
 
 Cerclage/index
 Chromopertubation/index
-Fertiloskopie/index
 HysterektomieErweitert/index
 HysterektomieLaparoskopisch/index
 HysterektomieVaginal/index

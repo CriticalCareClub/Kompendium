@@ -6,8 +6,6 @@
 Allgemein/index
 Neoblase/index
 Nierenresektion/index
-ProstatektomieRadikal/index
-ProstatektomieSuprpubisch/index
-TubProstata/index
-TurBlase/index
+Prostata/index
+TUR-PB/index
 ```

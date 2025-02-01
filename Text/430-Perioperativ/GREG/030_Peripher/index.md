@@ -193,6 +193,36 @@ Plexus brachialis im Vergleich zu einem Stellwerk.
 Der Plexus brachialis kann an verschiedenen Punkten (interskalenär, supra- oder infraklavikulär, axillär) seines Verlaufs blockiert werden, abhängig vom Blockadeort ergeben sich durch diese Verschiebungen unterschiedliche von der Anästhesie erfasste Regionen.
 
 
+```{eval-rst}
++------------------------+----------------------------+----------------------------------------+
+|                        |                            |                                        |
++------------------------+----------------------------+----------------------------------------+
+| Pars supraclavicularis | Nervus *dorsalis scapulae* |                                        |
++------------------------+----------------------------+----------------------------------------+
+|                        | Nervus *thoracicus longus* |                                        |
++------------------------+----------------------------+----------------------------------------+
+|                        | Nervus *suprascapularis*   |                                        |
++------------------------+----------------------------+----------------------------------------+
+| Pars infraclavicularis | Fasciculus lateralis       | Nervus *musculocutanues*               |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *pectoralis lateralis*          |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *medianus* (Radix lateralis)    |
++------------------------+----------------------------+----------------------------------------+
+|                        | Fasciculus medius          | Nervus *medianus* (Radix medialis)     |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *ulnaris*                       |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *pectoralis medialis*           |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *cutaneus brachii medialis*     |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            | Nervus *cutaneus antebrachii medialis* |
++------------------------+----------------------------+----------------------------------------+
+|                        |                            |                                        |
++------------------------+----------------------------+----------------------------------------+
+```
+
 :::{index} single: axilläre Plexusblockade
 :::
 :::{index} single: Plexusblockade; axilläre
@@ -458,6 +488,13 @@ Zur Betäubung des N. dorsalis penis wird Lokalanästhetikum in beidseits im Ber
 Die (para-)mediane Punktion erfolgt im Bereich der Peniswurzel.
 Indiziert ist er für Eingriffe am distalen Penis, insbesonders bei Eingriffen an der Vorhaut (Zirkumzision).
 
+2 mögliche Verfahren:
+
+1. einzeitige, mediane Methode
+2. zweizeitige, laterale Methode
+
+Dosierung
+: Bupivacin 0,1 mg/kg, max. 10 mL
 
 
 :::{figure} Dorsal_penile_nerve_block.jpg
@@ -471,7 +508,7 @@ Peniswurzelblock [₢ [Msales](https://commons.wikimedia.org/w/index.php?title=U
 :::{index} single: Blockade; Oberst-
 :::
 
-(Q-GREG-KP-24002)= 
+(Q-GREG-KP-24002)=
 
 ## Oberst-Block
 

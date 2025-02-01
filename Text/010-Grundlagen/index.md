@@ -18,4 +18,7 @@ Psychologie/index
 Hygiene/index
 MedizinprodukteAllgemein/index
 Dokumentation/index
+PhysikalischeGrundlagen/index
+Narkoserespiratoren/index
+TherapeutischeGeraete/index
 ```

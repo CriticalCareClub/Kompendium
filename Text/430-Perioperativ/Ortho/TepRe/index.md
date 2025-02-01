@@ -1,13 +1,12 @@
-```{index} pair: OP; Nieren(Teil-)resektion
-```
 
-(nierenteil-resektion)=
 
-# 8.6.3 Nieren(Teil-)resektion
+(re-huft-oder-knie-prothese)=
 
-(allgemein-48)=
+# Revisions-Hüft-TEP
 
-## 8.6.3.1 Allgemein
+(allgemein-59)=
+
+## 8.7.8.1 Allgemein
 
 Varianten, Abkürzung, Synonyme
 
@@ -25,9 +24,9 @@ Dauer
 
 : ?? Text fehlt ??
 
-(praanasthesie-46)=
+(praanasthesie-57)=
 
-## 8.6.3.2 Präanästhesie
+## 8.7.8.2 Präanästhesie
 
 Besondere Aufklärung auf
 
@@ -37,9 +36,9 @@ Erforderliche Untersuchungen
 
 : ?? Text fehlt ??
 
-(perioperative-planung-48)=
+(perioperative-planung-59)=
 
-## 8.6.3.3 Perioperative Planung
+## 8.7.8.3 Perioperative Planung
 
 Lagerung
 
@@ -53,9 +52,9 @@ Besondere Geräte
 
 : ?? Text fehlt ??
 
-(besondere-perioperative-masznahmen-48)=
+(besondere-perioperative-masznahmen-59)=
 
-## 8.6.3.4 Besondere perioperative Maßnahmen
+## 8.7.8.4 Besondere perioperative Maßnahmen
 
 Anästhesieverfahren, Airway
 
@@ -77,9 +76,9 @@ Sonstiges
 
 : ?? Text fehlt ??
 
-(narkosefuhrung-49)=
+(narkosefuhrung-60)=
 
-## 8.6.3.5 Narkoseführung
+## 8.7.8.5 Narkoseführung
 
 Einleitung
 
@@ -101,15 +100,15 @@ Antibiotika
 
 : ?? Text fehlt ??
 
-(gefahren-49)=
+(gefahren-60)=
 
-## 8.6.3.6 Gefahren
+## 8.7.8.6 Gefahren
 
 1. ?? Text fehlt ??
 
-(postoperatives-management-48)=
+(postoperatives-management-59)=
 
-## 8.6.3.7 Postoperatives Management
+## 8.7.8.7 Postoperatives Management
 
 Strategie
 

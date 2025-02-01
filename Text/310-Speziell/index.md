@@ -18,7 +18,7 @@ bzw. einer verwandten Grunderkrankung, welche zu einem Notfallgeschehen
 führen kann.
 
 ```{toctree}
-:maxdepth: 1
+:glob:
 
 KoronareHerzkrankheit/index
 Herzinsuffizienz/index
@@ -45,6 +45,13 @@ Urologie/index
 Abdomen/index
 Anaphylaxie/index
 SterbenUndTod/index
+Atmungsstoerungen/index
+Covid-19/index
+HerzKreislaufStoerungen/index
+NiereninsuffizienzAkut/index
+Osas/index
+Pneumektomie/index
+ZenkerDivertikel/index
 ```
 
 [^footnote-1]: Statistik Austria, Pressemitteilung 9.691-133/10; Statistisches

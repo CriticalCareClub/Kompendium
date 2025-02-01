@@ -3,7 +3,13 @@
 
 (radikale-prostatektomie)=
 
-# 8.6.2 Radikale Prostatektomie
+# 8.6.2 Prostata-OPs
+
+
+Schöießt ein:
+
+- Radikale Prostatektomie
+- Suprapubusche Prostatektomie
 
 (allgemein-47)=
 

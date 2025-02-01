@@ -1,17 +1,17 @@
-```{index} pair: OP; Chromopertubation
+```{index} pair: OP; TUR-P pair: OP; Prostata, transurethrale Resektion
 ```
 
-(chromopertubation)=
+(transurethrale-resektion-der-prostata-tur-p)=
 
-# 8.5.10 Chromopertubation
+# 8.6.6 Transurethrale Resektion der Prostata oder der Blase (TUR-P, TRU-B)
 
-(allgemein-39)=
+(allgemein-51)=
 
-## 8.5.10.1 Allgemein
+## 8.6.6.1 Allgemein
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: TURP
 
 Beschreibung, Pathophysiologie
 
@@ -25,9 +25,9 @@ Dauer
 
 : ?? Text fehlt ??
 
-(praanasthesie-37)=
+(praanasthesie-49)=
 
-## 8.5.10.2 Präanästhesie
+## 8.6.6.2 Präanästhesie
 
 Besondere Aufklärung auf
 
@@ -37,9 +37,9 @@ Erforderliche Untersuchungen
 
 : ?? Text fehlt ??
 
-(perioperative-planung-39)=
+(perioperative-planung-51)=
 
-## 8.5.10.3 Perioperative Planung
+## 8.6.6.3 Perioperative Planung
 
 Lagerung
 
@@ -53,9 +53,9 @@ Besondere Geräte
 
 : ?? Text fehlt ??
 
-(besondere-perioperative-masznahmen-39)=
+(besondere-perioperative-masznahmen-51)=
 
-## 8.5.10.4 Besondere perioperative Maßnahmen
+## 8.6.6.4 Besondere perioperative Maßnahmen
 
 Anästhesieverfahren, Airway
 
@@ -63,7 +63,7 @@ Anästhesieverfahren, Airway
 
 Blutmanagement
 
-: AKS, keine EK bereitstellen
+: AKS, keine EK
 
 Gerinnung
 
@@ -77,9 +77,9 @@ Sonstiges
 
 : ?? Text fehlt ??
 
-(narkosefuhrung-40)=
+(narkosefuhrung-52)=
 
-## 8.5.10.5 Narkoseführung
+## 8.6.6.5 Narkoseführung
 
 Einleitung
 
@@ -101,15 +101,15 @@ Antibiotika
 
 : ?? Text fehlt ??
 
-(gefahren-40)=
+(gefahren-52)=
 
-## 8.5.10.6 Gefahren
+## 8.6.6.6 Gefahren
 
 1. ?? Text fehlt ??
 
-(postoperatives-management-39)=
+(postoperatives-management-51)=
 
-## 8.5.10.7 Postoperatives Management
+## 8.6.6.7 Postoperatives Management
 
 Strategie
 

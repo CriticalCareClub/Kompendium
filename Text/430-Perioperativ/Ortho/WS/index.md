@@ -3,15 +3,19 @@
 
 (tlif)=
 
-# 8.7.1 TLIF
+# 8.7.1 Wirbelsäulen-OPs
 
 (allgemein-52)=
 
 ## 8.7.1.1 Allgemein
 
-Abkürzung, Synonyme
+Darunter fallen:
 
-: TLIF (Transforaminal Lumbar Interbody Fusion)
+
+
+- TLIF (Transforaminal Lumbar Interbody Fusion)
+- Mikrodiskektomie
+- Kyphoplastik
 
 Dauer
 

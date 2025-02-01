@@ -16,9 +16,7 @@ Themen, die in Bearbeitung, aber noch nicht "fertig" sind.
 
 Pharmakopeia/index
 Allgemein/index
-Herz-Kreislauf/index
 Blut/index
-Anaesthesie/index
 Analgetika/index
 Antibiotika/index
 Hormonsystem/index

@@ -11,4 +11,6 @@ orphan: true
 APHA/index
 Inkubator/index
 Pharmakopeia/index
+Herz-Kreislauf/index
+Anaesthesie/index
 :::

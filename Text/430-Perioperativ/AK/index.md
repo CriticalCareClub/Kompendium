@@ -3975,9 +3975,9 @@ Anästhesie: ausreichend Flüssigkeit + Calciumkontrollen.
 Perioperative Cortisontherapie: präoperativ normale Dosis am OP-Tag einnehmen.
 
 
-## 26.7. Erkrankung des Nebennierenmark: Phäochromozytom *
+## Erkrankung des Nebennierenmark: Phäochromozytom
 
-90%  benigner TU, endokrin aktiv (NA, A), isoliert oder familiäres Vorkommen bei MEN (+ SD-Ca und Hyperparathyreoidismus), 10%  kommen extraadrenal vor im Grenzstrang Pankreas oder rechten Vorhof.
+90% benigner TU, endokrin aktiv (NA, A), isoliert oder familiäres Vorkommen bei MEN (+ SD-Ca und Hyperparathyreoidismus), 10%  kommen extraadrenal vor im Grenzstrang Pankreas oder rechten Vorhof.
 
 Klinik
 : paroxymale oder permanente Hypertonie, Kopfschmerzen, Tachykardie, Gewichtsverlust, Schwitzen, Fieber.
@@ -3997,9 +3997,13 @@ Narkose
 : - Arterie vor Einleitung, da Todesfälle fast immer bei der Narkoseeinleitung beschrieben wurden!
     (Sind durch  α-Blocker sehr selten geworden).
   - EKG, ZVK, Temperatur, Harnkath., ruhig und stressfrei!!!
-  - Die Intubation kann zum 10 fachen Katecholaminanstieg gegenüber    normalen Patienten! Todesfälle fast immer bei Narkoseeinleitung!
-  - KEIN  Desfluran (Tachykardie, Katecholaminfreisetzung), KEIN Ketanest (Hypertonie), KEIN DHB (Blutdruckabfall und paradoxen Anstieg), KEIN Halothan (sens. auf Katechol.)
-  - Bei venöser Klemme kommt es zum Katecholaminabfall!!
+  - Die Intubation kann zum 10 fachen Katecholaminanstieg gegenüber normalen Patienten! Todesfälle fast immer bei Narkoseeinleitung!
+  - **KEIN** ...
+    - *Desfluran* (Tachykardie, Katecholaminfreisetzung),
+    - *Ketanest* (Hypertonie),
+    - *DHB* (Blutdruckabfall und paradoxen Anstieg),
+    - *Halothan* (sens. auf Katechol.)
+  - **Bei venöser Klemme kommt es zum Katecholaminabfall!**
     - Therapie: Noradrenalin ev. in hoher Dosis wirkt trotz Alpha-Rezeptorblockertherapie + Volumen!
 
   - Intraoperativer Blutdrucksenkung:
@@ -4010,20 +4014,22 @@ Narkose
     In den ersten 24 Stunden besteht die Gefahr einer Hypoglykämie, daher regelmäßig BZ kontrollieren. (Postoperativ 24h Überwachung!)
 
 
-## 26.8. Karzinoid = enterochromaffiner Tumor *
+## Karzinoid (enterochromaffiner Tumor)
 
-Produziert Serotonin, Histamin, Prostaglandine,
-Kallikrein (Bradykininfreisetzung)
+Produziert Serotonin, Histamin, Prostaglandine, Kallikrein (Bradykininfreisetzung)
+
 Lokalisation: Darm, Magen, Lungenmetastasen, SD, Pankreas Klinik: Flush, Hypotension, Bronchospasmus, TI, SVES, Abdominelle Schmerzen, Diarrhöe,
 Hyperglykämie.
-Präoperativ:
-Lufu, Echo, Prämed, Serotoninantagonist Cyproheptadin,
-H1+H2 Blocker 20min vor Einleitung Narkose: KEINE Barbiturate, Atracurium, Succinylcholin,
-Mivacron (Histamin)
-Bei Karzinoidkrise mit Bronchospasmus und Hypotonie: Octreotid 10-20mg iv. (hemmt Freisetz.
-Mediatoren) + Volumen!
-Bei RA: Sympatikolyde bei SPA/EDA, Hypotonie durch Vasodilatation kann Anfall auslösen,
-Reflektorische Steigerung des Sympatikus möglich; gutes Volumenloading.
+
+Präoperativ
+: Lufu, Echo, Prämed, Serotoninantagonist Cyproheptadin, H1+H2 Blocker 20min vor Einleitung
+
+Narkose
+: KEINE Barbiturate, Atracurium, Succinylcholin, Mivacron (Histamin)
+
+Bei **Karzinoidkrise** mit Bronchospasmus und Hypotonie: *Octreotid* 10-20mg iv. (hemmt Freisetz. Mediatoren) + Volumen!
+
+Bei RA: Sympatikolyde bei SPA/EDA, Hypotonie durch Vasodilatation kann Anfall auslösen, Reflektorische Steigerung des Sympatikus möglich; gutes Volumenloading.
 
 
 
@@ -4034,43 +4040,41 @@ Eine Sepsis wird laut aktueller Definition als lebensbedrohliche Organdysfunktio
 
 
 Definition Sepsis - Voraussetzung: (Guidlines 2017)
-1. dokumentierte oder suspekte Infektion 2.
-qSOFA mindestens 2 (AF \>22/min; RR syst. ≤100mmHg; eingeschränkter mentaler Status)
-3. SOFA Score \>2 = Sepsis 4. Trotz adäquater Flüssigkeitsgabe 1. Vasopressor notwendig um MAD \> 65 mmHg + 2. Laktat \>
+1. dokumentierte oder suspekte Infektion
+2. qSOFA mindestens 2 (AF \>22/min; RR syst. ≤100mmHg; eingeschränkter mentaler Status)
+1. SOFA Score \>2 = Sepsis 4. Trotz adäquater Flüssigkeitsgabe 1. Vasopressor notwendig um MAD \> 65 mmHg + 2. Laktat \>
 2mmol/L = septischer Schock
 
 
-SEPTISCHER SCHOCK  =  Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80%! MAP\< 65 RRsyst \<90 , trotz adäquater Flüssigkeitstherapie!
-PIRO der Sepsis: Prädisposition (chron. Erkrankung, Alter) + Insult/Ischämie/Infektion + Response
-(Mediatorenfreisetzung) + Organ Dysfunktion
+SEPTISCHER SCHOCK
+=  Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80%! MAP\< 65 RRsyst \<90 , trotz adäquater Flüssigkeitstherapie!
 
-Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\<300, Oligourie mit positiver Bilanz
-\>20ml/kg in 24h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir,
-Hyperglykämie \>140mg/dl ohne DM)
-Tissue perfusions variables: Laktatanstieg,
-verkürzte Rekapill. Zeit, marmorierte Haut
+PIRO der Sepsis: Prädisposition (chron. Erkrankung, Alter) + Insult/Ischämie/Infektion + Response (Mediatorenfreisetzung) + Organ Dysfunktion
+
+Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\<300, Oligourie mit positiver Bilanz \>20ml/kg in 24h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir, Hyperglykämie \>140mg/dl ohne DM)
+
+Tissue perfusions variables: Laktatanstieg, verkürzte Rekapill. Zeit, marmorierte Haut
 
 
-Pathophysiologie des Fiebers: exogene Pyrogene (Endotoxin oder Exotoxine von Bakterien, toxic shock syndrom) oder endogene Pyrogene (IL1, IFN, TNFa, IL 6,\...) führen zur Prostaglandin E2-
-Freisetzung im Thermoregulationszentrum des Hypothalamus
+Pathophysiologie des Fiebers: exogene Pyrogene (Endotoxin oder Exotoxine von Bakterien, toxic shock syndrom) oder endogene Pyrogene (IL1, IFN, TNFa, IL 6,\...) führen zur Prostaglandin E2-Freisetzung im Thermoregulationszentrum des Hypothalamus
 = Sollwertverstellung mit Fieber Systemische Antipyretika blockieren PGE2-Prod. (Aspirin,\...).
 
-## 27.1. Pathophysiologie der Sepsis: *
+
+
+## 27.1. Pathophysiologie der Sepsis
 
 LPS gram. neg. Bakterien führt zur Freisetzung von TNF, IL 1,2,6,8,12, Interferon, plateled activating factor = Imbalance von pro- und antikoagulatorisdhen Faktoren Mikrothromben mit:
-- Mikrozirkulationsstörungen    (Lipopolysaccharide aktivieren tissue factor  =  gram neg.
-Bakterienbestandteile)
+
+- Mikrozirkulationsstörungen    (Lipopolysaccharide aktivieren tissue factor  =  gram neg. Bakterienbestandteile)
 - Hypothalamus mit Fieber/Tachykardie/Tachypnoe
-- am Kapillarendothel capillary leak und venöses pooling (NO  über INOS/induzierbare NO-
-Synthetase mit Vasodilatation) mit peripheren  Ödemen und vermindertem preload  ´+
-reduziertes HZV (+ negativ inotrope Mediatoren mit herabgesetzter Kontraktilität)
-- periphere Vasodilatation mit vermindertem peripherem Widerstand    (vermind. afterload)
-und MAP-Absinken = SCHOCK.
+- am Kapillarendothel capillary leak und venöses pooling (NO  über INOS/induzierbare NO-Synthetase mit Vasodilatation) mit peripheren  Ödemen und vermindertem preload  ´+ reduziertes HZV (+ negativ inotrope Mediatoren mit herabgesetzter Kontraktilität)
+- periphere Vasodilatation mit vermindertem peripherem Widerstand    (vermind. afterload) und MAP-Absinken = SCHOCK.
 
 
 Labor:
-Verlauf der ScvO²  ist entscheident, nicht Absolutwerte. (Steigt bei fehlender Ausschöpfung)
-Laktatwerte zeigen das Ausmaß  des Schocks/Hypoperfusion des Gewebes und spiegelt auch Therapie-Response wieder. (Geschwindigkeit der Laktatveränderung ist entscheident) Ziel sollte immer eine rasche Normalisierung des Laktats sein!
+- Verlauf der ScvO²  ist entscheident, nicht Absolutwerte. (Steigt bei fehlender Ausschöpfung)
+- Laktatwerte zeigen das Ausmaß  des Schocks/Hypoperfusion des Gewebes und spiegelt auch Therapie-Response wieder. (Geschwindigkeit der Laktatveränderung ist entscheident)
+  Ziel sollte immer eine rasche Normalisierung des Laktats sein!
 
 
 
@@ -4078,55 +4082,46 @@ Laktatwerte zeigen das Ausmaß  des Schocks/Hypoperfusion des Gewebes und spiege
 
 Funktionsstörungen:
 - Hyperdynamer Kreislauf mit CI \> 4 l/min/m², HZV steigt dem SVR entsprechend nicht adäquat an (Hypotonie, Tachykardie)
-- reduzierter SVR  \<  800 durch Vasodilatation (NO) und Dichteabnahme der alpha-
-Adrenozeptoren
+- reduzierter SVR  \<  800 durch Vasodilatation (NO) und Dichteabnahme der alpha-Adrenozeptoren
 - negative Inotropie (septische CMP) mit ventrikulären Dyskinesien, red. EF durch myokardial depressend factor (= TNF alpha)
-- Störung der Gewebeoxygenierung/O2-Extraktion: vergrößerte Diffusionsstrecke durch
-Ödeme, Entkoppelung der oxidativen Phosphorilierung  =  zytopathologische Hypoxie: ScvO²
-ist durch verminderte Extraktion vergrößert
+- Störung der Gewebeoxygenierung/O2-Extraktion: vergrößerte Diffusionsstrecke durch Ödeme, Entkoppelung der oxidativen Phosphorilierung  =  zytopathologische Hypoxie: ScvO² ist durch verminderte Extraktion vergrößert
 - capillary leak: Hypovolämie, generalisierte Ödeme
 - erhöhte Darmpermeabilität mit bakt. Translokalisation
 - prärenales ANV
 - DIC durch Steigerung der plasmatischen Gerinnung (Thrombozytopenie!)  +  reaktive Fibrinolyse (ATIII-Verminderung!)
-- Neurologische Störungen;: Septische Enzephalopathie und critical illness polyneuropathie
-(axon. Degeneration im Spätstadium)
+- Neurologische Störungen;: Septische Enzephalopathie und critical illness polyneuropathie (axon. Degeneration im Spätstadium)
 
 Monitoring:
 - Arterie
 - PICCO (CI, SVR, SVV, ITBV u. EVLW) oder Pulmi (PCWP), ZVD (wenn mittels TEE optimaler Wert festgelegt wurde)
 - Mikrozirkulation: ScvO²  +  Laktatveränderungen  +  klinisches Bild (Marmorierte Haut, blaue Akren!) Druck (MAP) ist nicht Fluss (Mikrozirkulation)
-- Labor: BK, Abstriche, BB, CRP, PCT, IL6, NFP, LFP, Gerinnung inkl. ATIII und Thrombozyten,
-Laktat, Glucose, Phosphat Kapilläre Perfusion ist von MAP und Umgebungsdruck (Ödeme) abhängig!
+- Labor: BK, Abstriche, BB, CRP, PCT, IL6, NFP, LFP, Gerinnung inkl. ATIII und Thrombozyten, Laktat, Glucose, Phosphat Kapilläre Perfusion ist von MAP und Umgebungsdruck (Ödeme) abhängig!
+
 
 
 ## 27.2. Therapie der Sepsis
 
 Hämodynamischer Support:
-- Flüssigkeit: 30ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine;
-Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap.
-Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-
-Einsatz bei hohem Bedarf. KEIN HES bei schwerer Sepsis/septischem Schock. Gelatine erwägen.
+- Flüssigkeit: 30ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
+  KEIN HES bei schwerer Sepsis/septischem Schock. Gelatine erwägen.
 - Kein NaBIC bei pH \> 7,15
-- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200mg/d
-(sonst immunsupressiv),      absetzen wenn nach 24h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
-- Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output,
-CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate,
-Oxygenierung.
+- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200mg/d (sonst immunsupressiv), absetzen wenn nach 24h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
+- Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output, CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate, Oxygenierung.
 
 
 
 
-Erythrozytenkonzentrate bei Hb\<7g/dl, außer bei Myokardischämie, schwere Hypoxämie,
-akute Blutung. (Ziel Hb 7-9g/dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
+Erythrozytenkonzentrate bei Hb\<7g/dl, außer bei Myokardischämie, schwere Hypoxämie, akute Blutung. (Ziel Hb 7-9g/dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
 
 Thrombozytenkonzentrate nach strenger Indikation (\<10 000 ohne Blutung,  \<20 000 bei Blutungsgefahr, \<50 000 bei Blutung oder OP)
 - Herdidentifikation und Kontrolle: Fragen nach Schmerzen wo? (Pankreatitis,\...)
 - Herdsanierung: Abszessdrainage, Katheterwechsel,\... Bildgebung!
-Abstriche/BK!
+- Abstriche/BK!
 
-Antibiose (Blutkulturen VOR erster AB-Gabe abnehmen!)
-- hochdosiert AB: innerhalb 1  Stunde BreitbandAB je nach Grunderkrankung/vermuteter Ursache (golden hour of septic shock), später Wechsel nach Antibiogramm;  Carbapenem,
-Cephalosporine + Metronidazol, bei MRSA Linecolid, bei Pilz Voriconazol. Es sollte mit einer Kombinationstherapie (2 Antibiotikaklassen) begonnen werden, und innerhalb von 48h möglichst Deeskaliert werden.
+- Antibiose (Blutkulturen VOR erster AB-Gabe abnehmen!)
+  - hochdosiert AB: innerhalb 1  Stunde BreitbandAB je nach Grunderkrankung/vermuteter Ursache (golden hour of septic shock), später Wechsel nach Antibiogramm;
+  - Carbapenem, Cephalosporine + Metronidazol, bei MRSA Linecolid, bei Pilz Voriconazol.
+  - Es sollte mit einer Kombinationstherapie (2 Antibiotikaklassen) begonnen werden, und innerhalb von 48h möglichst Deeskaliert werden.
 - Procalcitoninbestimmung als Entscheidungshilfe.
 
 Adjunktive Therapie
@@ -4141,10 +4136,15 @@ danach erhöhten Kalorienbedarf berücksichtigen.
 Sedierung: so wenig wie möglich, keine Relaxierung,
 Spontanatemmodus.
 
-Laktatazidose ist Ausdruck VO² \> DO² bei inadäquater DO² oder erhöhtem O² Verbrauch!
+**Laktatazidose** ist Ausdruck VO² \> DO² bei inadäquater DO² oder erhöhtem O² Verbrauch!
 DO²= HZV x Hb x SaO² x 0,003 x paO²x1,3Hüfnersche Zahl Flussmonitoring im Schock  durch SvO²  (PAK): ScvO²  (ZVK)  =  Mass für den Sauerstoffverbrauch.
+
 Normalerweise ist die ScvO² kleiner als die SvO².
- Im frühen septischen Schock sind beide erniedrigt. Im Schock mit Umverteilung ins Hirn/Herz ist der ScvO²  deutlich größer als der SvO²  da keine Ausschöpfung mehr erfolgt. Trends sind entscheidend nicht Absolutwerte. Monitoring dynamischer Werte!
+Im frühen septischen Schock sind beide erniedrigt. Im Schock mit Umverteilung ins Hirn/Herz ist der ScvO²  deutlich größer als der SvO²  da keine Ausschöpfung mehr erfolgt.
+Trends sind entscheidend nicht Absolutwerte.
+Monitoring dynamischer Werte!
+
+
 
 ### 27.2.1 .Volumentherapie:
 
@@ -4203,11 +4203,13 @@ Hypokalzämie, Hypermagnesiemie, Porphyrie, spinale und zentrale Ursache)
 Enteritis mit SEPSIS: Anamnese! Auslandsaufenthalt (Salmonella thypi)? AB-Therapie (C. difficile)?
 Weiters mögliche Erreger: Shigellen, Yersinien, Campylobacter,
 EHEC (enterohämorrhag. E. coli)
+
+
+
 # 28. Monitoring
 
 Atemfunktion:
-- Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O2-Hb gemessen =
-falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
+- Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O2-Hb gemessen = falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
 - Kapnometrie: Nebenstrommessung oder Hauptstrommessung am Tubus; Tubuskonektor mit Farbänderung für Notfallmedizin, sicheres Intubationszeichen.
 - BGA
 
@@ -4246,12 +4248,9 @@ ab 4 Tag, Lungeninfarkt bei Dauerwedge.
 
 
 Messungen PAK:
-1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof
-(MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° +
-10ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
-3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung,
-optisches Modul misst SvO2 (oder BGA) 70-75%
-SV = 60-90ml, SVR 900-1400, PVR 150-250
+1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
+3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO2 (oder BGA) 70-75%
+   SV = 60-90ml, SVR 900-1400, PVR 150-250
 
 Prüfung: Nenne 10 Parameter des PAK! ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP,
 PCWP, CO, SVI, SVRI, PVRI, SgvO², DO², VO²
@@ -4264,13 +4263,11 @@ Klinische Bedeutung:
 ## 28.2. PICCO = Pulse Contour Cardiac Output *
 
 Misst volumetrische Parameter, welche zur Einschätzung des Volumenstatus besser geeignet sind.
-Die Fläche unter dem systolischen Teil der Pulskurve bis zum Schluss der Aortenklappe (Inzisur)
-entspricht dem SV. HZV/CO = SV x HF
+Die Fläche unter dem systolischen Teil der Pulskurve bis zum Schluss der Aortenklappe (Inzisur) entspricht dem SV. HZV/CO = SV x HF
 
 Mit der Thermodilutionsmethode wird die Messung des HZV geeicht und die Flüssigkeitsvolumina berrechnet:
 - Vorlastparameter: globaler enddiastolischer Volumen Index GEDI    +  ITBV intrathorakales Blutvolumen
-- Flüssigkeitsstatus/volumen: SVV Schlagvolumenvarianz und PPV Pulsdruckvariation
-(kontrolliert beatmet, regelmäßiger Rhythmus)
+- Flüssigkeitsstatus/volumen: SVV Schlagvolumenvarianz und PPV Pulsdruckvariation (kontrolliert beatmet, regelmäßiger Rhythmus)
 - Nachlastparameter: SVRI systemischer Gefäßwiderstand
 - Kontraktilität des linken Herzens: dpmax
 - Lungenödem: ELWI extravaskuläre Lungenwasser 3,0-7  +  PVPI pulmonalvaskuläre Permeabilitätsindex 1,0-3,0 (Capillarleak? Oder Hydrostatisches Ödem?)
@@ -4294,6 +4291,8 @@ VO² beträgt in Ruhe 3ml/min/kg
 CeVOX: kontinuierliche ScvO2-Messung über einen Standart ZVK mit CeVox-Sonde.
 LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV, SV, SVV, PPV VIGILEO: Pulskontur HZV-Messung CardioQ: Ösophageale Dopplersonde (Aorta descendens Kurve): Vorteil keine Arterie, kein ZVK CNAP: continous Non invasiv Arterial Bloodpressure mit Doppelfingermanchete
 
+
+
 ## 28.3. TEE transösophageales Echo: *
 
 Ist die einzige verlässliche Methode zur Beurteilung des Füllungszustandes/  Volumenstatus des Herzens. Es sind 2 Schnitte einzustellen:
@@ -4309,10 +4308,16 @@ Kontraktilität, Klappenmorphologie werden ebenfalls beurteilt.
 
 Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. Trachea reicht von unterhalb des Cricoids bis zur Carina. Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. Der größte Widerstand ist bei der 3-4 Generation.
 
-Das normale Ventilation: Perfusion- Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz = Dyspnoe.
+Das normale Ventilation:Perfusion-Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz = Dyspnoe.
+
 Sauerstoffbindungskurve ist sigmoidal (SO2 oben und paO2 rechts). P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO2 von 27mmHg.
 Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer O2 Abgabe ans Gewebe.
-Hüfnersche Zahl: 1g Hb kann 1,39ml O2 binden. Hypoxämie  =  vermind. paO2 (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose  =  SaO2 vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb). Respiratorischer Quotient RQ  =  CO2-Produktion: Sauerstoffaufnahme  =  0,8 normal
+
+Hüfnersche Zahl: 1g Hb kann 1,39ml O2 binden.
+
+Hypoxämie  =  vermind. paO2 (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose  =  SaO2 vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
+
+Respiratorischer Quotient RQ  =  CO2-Produktion: Sauerstoffaufnahme  =  0,8 normal
 
 Oxygenierungsindex (Horowitz-Index): paO2/FIO2 = normal \> 450 Zellatmung in den Mitochondrien: ATP mit O2 + Glucose erzeugt.
 Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO2 + H2O + 38 ATP Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
@@ -4338,8 +4343,10 @@ Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
 ## 29.1. Compliance/Resistance: *
 
 Compliance: Dehnbarkeit (Vol/Druck-Bez.) von Lunge und Thorax, 1,5ml/mbar/Kg normal, ARDS red.
+
 Resistance: Strömungswiderstand (Druck/Flow-Bez) erhöht durch Tubus,
 Sekret, ...
+
 Prüfung: Druck/Volumen-Kurve (Compliance) aufzeichnen können (sigmoidaler Verlauf):
 OIP: max. Alveolardehnbarkeit UIP: Alveolarverschlussdruck Linearer Teil = Spontanatmung Prüfung: Lungenvolumina (IRV, VT, ERV, RV, VK, TK, FRC) kennen!
 
@@ -4347,11 +4354,15 @@ Adaption bei Belastung CO (SV x  HF) steigt  +  CI steigt ml/min/m²;  AMV (TV x
 DO2 steigt: DO2 = HZV x Hb x SO2 x 1,34 x 10 (normal 750ml/min/m²)
 Kritischer DO2 ist 300, darunter anerober STW;  VO2 in Ruhe 3ml/kg/min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO2 um 10%)
 
-West-Zonen: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
+**West-Zonen**: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
 Und ven. Pulm. Druck \> Alveolardruck V/Q  =  0,8 (0 bei Shunt,  ∞  bei Totraumventilation)  =  Perfusion ist größer als die Ventilation im Durchschnitt.
-Hagen-Poiseuille Gesetzt: R = 8 x Konstante n x Länge / r4 x   x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
+
+**Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x   x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
+
 LaPlace-Gesetz: P=  2µ/r  Anwendung: kollabierte Alveolen habe einen kleinen Radius und ich brauche viel Druck um sie wieder zu öffnen beim Rekruitment-Manöver!
-Euler-Liljestrand-Mechanismus: bei herabgesetztem paO² in den Pulmonalgefäßen kommt es zur hypoxischen pulmonalen Vasokonstriktion = Ursache des Lungenödems in großer Höhe. Führt bei regionaler alveolärer Hypoventilation zu Vasokonstriktion mit therapieresistenter Oxygenierungsstörung. (ARDS)
+
+**Euler-Liljestrand**-Mechanismus: bei herabgesetztem paO² in den Pulmonalgefäßen kommt es zur hypoxischen pulmonalen Vasokonstriktion = Ursache des Lungenödems in großer Höhe.
+Führt bei regionaler alveolärer Hypoventilation zu Vasokonstriktion mit therapieresistenter Oxygenierungsstörung. (ARDS)
 
 
 ## 29.2. Bronchoskopie *
@@ -4460,10 +4471,7 @@ Pumpversagen: COPD, hyperkapnische respiratorische Insuffizienz.
 
 - Breath to breath support (jeder getriggerte Atemzug des Patienten wird vom Respirator durch positiven Druck unterstützt): PSV, ASB, PPS, NAVA z.B. bei COPD
 - Augmentierte Atemhilfen (intermittierende maschinelle Atemhübe zur Augmentation des AMV mit simultaner Spontanatmung, der spontane Atemhub erfährt keine Druckunterstützung): BIPAP, APRV, SIMV    z.B. bei ARDS, intraoperativ bei Eingriffen ohne Relaxierung möglich
-(Vorraussetzung:
-keine Lungenpathologie,
-kreislaufstabil,
-temperaturstabil)
+  (Vorraussetzung: keine Lungenpathologie, kreislaufstabil, temperaturstabil)
 - Konrollierte Beatmung: PCV, VCV, CMV, IPPV, CPPV
 
 Step by step approach:
@@ -4501,6 +4509,8 @@ Normalerweise 0,2 sec; Ziel ist eine vollständige Inspiration in der Inspiratio
 Flowphase vor Exspiration. Bei zu raschem Anstieg kann es zu reflektorischem Pressen mit hohem Spitzendrücken kommen.
 Flowtrigger: normalerweise 2l/min  =  Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung. Entscheidend ist die Einatemgeschwindigkeit!!
 
+
+
 ## 29.7. Weaning *
 
 = Übertragen der Atemarbeit vom Respirator auf den Patienten.
@@ -4515,38 +4525,36 @@ Weaningkriterien:
 - Keine geplante OP mehr
 - Keinen ausgeprägten Meteorismus
 - Säure/Basen-Haushalt in Ordnung pH \>7,3
-- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5-
-10, VT ausreichend, BGA + SO² in Ordnung, RSBI\<105 (f/VT), Atemwegsokklusionsdruck \<
-6
+- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5-10, VT ausreichend, BGA + SO² in Ordnung, RSBI\<105 (f/VT), Atemwegsokklusionsdruck \<6
 - Elektrolyte im Normbereich (Mg, Ca, K!)
 
 Atemwegsokklusionsdruck P0,1 = Maß für den zentralen Atemantrieb unter Spontanatmung. Die Maschine verschließt für 100ms das inspiratorische Ventil und bestimmt den Druck. Normal ist 1-
 4mbar. Bei \> 6mbar Gefahr des Weaning-Versagens.
 
-  Warum lässt sich der Patient nicht weanen?
+Frage: Warum lässt sich der Patient nicht weanen? --
 Mögliche Ursachen eines Weaning-Versagens:
+
 - Psyche: Delir, Panik
 - Herz: KHK, Herzinsuffizienz mit Decompensation, Vitien (unter Spontanatmung steigt das preload und sinkt das afterload mit erhöhtem Sauerstoffbedarf des Herzens  =  kardialer Stress!)
-Atmung:
-verminderte Compliance,
-erhöhte Resistance,
-erschöpfte Atemhilfsmuskulatur,
-paradoxe Atmung/instabiler Thorax, Rapid S.Breathing Das Weaning muss abgebrochen werden, wen die AF \>35/min mit SO2\<90% bei unverändertem FIO2 bleibt, HF \> 140/min oder \<50/min, RRsyst. \>180 oder \<70mmHg, vegetative Symptomatik
-(schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot! Ein erfolgreiches Weaning liegt vor, wenn der Patient 48h Spontanatmung zeigt ohne respiratorische Erschöpfung.
+- Atmung:
+  - verminderte Compliance,
+  - erhöhte Resistance, erschöpfte Atemhilfsmuskulatur,
+  - paradoxe Atmung/instabiler Thorax, Rapid S.Breathing
+
+Das Weaning muss abgebrochen werden, wen die AF \>35/min mit SO2\<90% bei unverändertem FIO2 bleibt, HF \> 140/min oder \<50/min, RRsyst. \>180 oder \<70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
+Ein erfolgreiches Weaning liegt vor, wenn der Patient 48h Spontanatmung zeigt ohne respiratorische Erschöpfung.
 
 Ursache beheben:
-- Weaning induzierte kardiale Dysfunktion: mit neu aufgetretenem Lungenödem,
-Ischämiezeichen im EKG, reduzierter EF. Therapie mit Entwässerung, Nitroglycerin iv 40 -
-600µg/min.
-- Überlastete Atemmuskulatur mit Schaukelatmung: mit schwachem Hustenstoss,
-Sekretstau, und paCO2-Anstieg. Therapie: antiobstruktive Medikamente, Entwässerung,
-Pleurapunktion. Prävention: früher Spontanatemmodus, wenig Sedierung, frühe Rehabilitation.
+- Weaning induzierte kardiale Dysfunktion: mit neu aufgetretenem Lungenödem, Ischämiezeichen im EKG, reduzierter EF. Therapie mit Entwässerung, Nitroglycerin iv 40 - 600µg/min.
+- Überlastete Atemmuskulatur mit Schaukelatmung: mit schwachem Hustenstoss, Sekretstau, und paCO2-Anstieg. Therapie: antiobstruktive Medikamente, Entwässerung, Pleurapunktion.
 
-  Wann kann der Patient extubiert werden?
+Prävention: früher Spontanatemmodus, wenig Sedierung, frühe Rehabilitation.
 
-Extubationskriterien:
-Screening der respiratorischen Funktion: OI \> 200, PEEP 5-10cmH2O, wach, Schutzreflexe, keine relevanten vasoaktiven Medikamente mehr?
-AF\<35/min, VT ausreichend ? BGA, SO2 Eine zu frühe Extubation führt zur Reintubation, eine zu späte Extubation führt zur VAP oder Selbstextubtion.
+Wann kann der Patient extubiert werden? -- Extubationskriterien:
+- Screening der respiratorischen Funktion: OI \> 200, PEEP 5-10cmH2O, wach, Schutzreflexe, keine relevanten vasoaktiven Medikamente mehr?
+- AF\<35/min, VT ausreichend ? BGA, SO2
+
+Eine zu frühe Extubation führt zur Reintubation, eine zu späte Extubation führt zur VAP oder Selbstextubtion.
 
 BIPAP: Sedierung stoppen, AF in 2er Schritten reduzieren, CO2 Ansteigen lassen, PEEP erst unter 10 reduzieren, wenn FIO2\<0,4 ist! Zur Extubation muss der Patient wach sein, Schutzreflexe haben (husten, Aufforderung befolgen) und AF  \>  5/min sein! Keine Reduktion der Druckunterstützung, da es nur zu vermehrter Totraumventilation kommt, wenn VT \<250ml wird!
 ASB: Druckunterstützung in 2er Schritten reduzieren bis ca. 5; Extubation des wachen Patienten mit Schutzrefelxen ev. CPAP bei PEEP\>5
@@ -4557,15 +4565,19 @@ CPAP-ASB, PSV-ASB, PPS
 ATC = automatische Tubuscompensation RSBI (= rapid shallow breathing index): f/VT \<105 beim Weaning = hohe AF und niedriges VT mit acuter respiratorischer Azidose  = Atemzüge/min durch das Titalvolumen in Litern =  Ein Maß für das Verhältnis von Belastung und Kapazität der Atemmuskulatur.
 Smart Care: Spontanatmung im ASB-Modus
 
-
-
 Unterstützungsdruck nach Frequenz, Tidalvolumen und etCO2 Smart Care vs. ASB im Weaning: smart care im postoperativem Einsatz gefahrlos anwendbar.
 ASB: Weaningdauer ist Personalabhängig.
 
+
+
 ## 29.8. Nicht invasive Ventilation NIV
 
-Vorraussetzung: ausreichend wacher, kooperativer Patient mit Schluck-, Husten-  und Würgereflex, da kein gesichterter Atemweg!
-Vorteil: keine Intubationskomplikationen, red. VAP, keine Sedierung nötig, verkürzter Intensivaufenthalt.
+Vorraussetzung
+: ausreichend wacher, kooperativer Patient mit Schluck-, Husten-  und Würgereflex, da kein gesichterter Atemweg!
+
+Vorteil
+: keine Intubationskomplikationen, red. VAP, keine Sedierung nötig, verkürzter Intensivaufenthalt.
+
 Masken: Nase, Mund/Nase, Full-Face, Helm, Mundstücke Probleme: Leckage!!!, Personalintensiv, kein gesichterter Atemweg, SH-Schwellung
 
 
@@ -4574,22 +4586,22 @@ Indikationen:
 - first level: kardiales Lungenödem
 - akute respiratorische Insuffizienz (bei immunsuprimierten Patienten)
 - Thoraxtrauma mit Serienrippe (Vorraussetzung Bülau bei Pneumoth.)
-- Postoperative Atelektasen (pulmonale Funktionseinschränkung va.
-Schmerzbedingt)
-- Weaning beim COPD-Patienten, Herzinsuffizienz, paCO2  \>45mmHg vor der Extubation,
-Sekretproblemen bei vermindertem Hustenstoss, Nachwirkungen einer Anästhesie,
-erhöhtem Intraabdominellen Druck, nach Thorax und Oberbaucheingriffen.l
+- Postoperative Atelektasen (pulmonale Funktionseinschränkung va. Schmerzbedingt)
+- Weaning beim COPD-Patienten, Herzinsuffizienz, paCO2  \>45mmHg vor der Extubation, Sekretproblemen bei vermindertem Hustenstoss, Nachwirkungen einer Anästhesie, erhöhtem Intraabdominellen Druck, nach Thorax und Oberbaucheingriffen.l
 
 Respirator muss Leckage-Kompensation und ausreichend Flow bieten.
-Kontraindikationen: Pat. ist nicht wach mit Schutzreflexen (Koma, Delir), Hämodynamische Instabilität/maligne Arrhythmien, Gesichtsschädelverletzungen/deformationen, NICHT drainierter Pneumothorax, massive Sekretproduktion;
-Ausnahme: hyperkapnisches Lungenversagen mit CO2-Narkose trotzdem NIV NW: Läsionen der Nase, Irritationen der Augen, Austrocknen der SH
 
-Erfolgskriterien: paCO2 sinkt, paO2 steigt, AF und HF sinken, Klinische Besserung (Angst,
-Dyspnoe, usw.), Besserung nach 20 min!!
+Kontraindikationen
+: Pat. ist nicht wach mit Schutzreflexen (Koma, Delir), Hämodynamische Instabilität/maligne Arrhythmien, Gesichtsschädelverletzungen/deformationen, NICHT drainierter Pneumothorax, massive Sekretproduktion;
+
+  Ausnahme: hyperkapnisches Lungenversagen mit CO2-Narkose trotzdem NIV NW: Läsionen der Nase, Irritationen der Augen, Austrocknen der SH
+
+Erfolgskriterien
+: paCO2 sinkt, paO2 steigt, AF und HF sinken, Klinische Besserung (Angst, Dyspnoe, usw.), Besserung nach 20 min!!
 
 
-Abbruchkriterien: weitere Verschlechterung der respiratorischen Insuffizienz, zunehmende Eintrübung, Hämodynamische Instabilität, Arrhythmien, Maskenintoleranz,
-RSBI (f/VT)
+Abbruchkriterien
+: weitere Verschlechterung der respiratorischen Insuffizienz, zunehmende Eintrübung, Hämodynamische Instabilität, Arrhythmien, Maskenintoleranz, RSBI (f/VT)
 
 Narkoserespiratoren:
 Atemkalk: Pillenkalk (NaOH, Ba(OH)2  ), bindet CO2, wärmt und befeuchtet Gas, Ablaufdatum wegen Austrockung beachten! (Problem bei Kindern zu wenig CO2-Abgabe, damit zu wenig Befeuchtung und Erwärmung des Gas = bei langer OP externe Geräte empfohlen!)
@@ -4598,40 +4610,39 @@ Atemkalk: Pillenkalk (NaOH, Ba(OH)2  ), bindet CO2, wärmt und befeuchtet Gas, A
 
 # 30. Erkrankungen des Respirationstrakts
 
-
-Eine respiratorische Insuffizienz liegt vor, wenn die für die Aufrechterhaltung eines suffizienten Gasaustausches notwendige Atemarbeit vom Patienten nicht mehr aufgebracht werden kann. Die pulmonale O2-Aufnahme ist in Folge so stark beeinträchtigt, dass eine ausreichende O2-
-Versorgung der Gewebe bzw. eine ausreichende Elimination von Kohlendioxid nicht mehr gewährleistet ist.
+Eine respiratorische Insuffizienz liegt vor, wenn die für die Aufrechterhaltung eines suffizienten Gasaustausches notwendige Atemarbeit vom Patienten nicht mehr aufgebracht werden kann. Die pulmonale O2-Aufnahme ist in Folge so stark beeinträchtigt, dass eine ausreichende O2-Versorgung der Gewebe bzw. eine ausreichende Elimination von Kohlendioxid nicht mehr gewährleistet ist.
 Leitsymptom ist die Tachypnoe (\>  35/min)!  +  Reduziertes VT, Schaukelatmung, Einsatz der Atemhilfsmuskulatur mit erhöhtem Sympatikotonus (Unruhe, Schwitzen, Tachykardie,
 Hypertonie)
 
-Grundsätzlich unterscheidet man zwischen  3 Ursachen der respiratorischen Insuffizienz, die als eigenständige Formen oder in Kombination auftreten können:
-• Gasaustauschstörungen durch Erkrankungen des Lungenparenchyms
- •  Störungen der Ventilation, d.h des Atemgastransportes, durch eine Schwäche oder ein Versagen der Atempumpe (= Atemmuskulatur)
- •  Gasaustauschstörungen als Folge von Perfusionsstörungen der Lunge. (Pulmonalembolie,
-Shunt)
+Grundsätzlich unterscheidet man zwischen  **3 Ursachen der respiratorischen Insuffizienz**, die als eigenständige Formen oder in Kombination auftreten können:
+
+- Gasaustauschstörungen durch Erkrankungen des Lungenparenchyms
+- Störungen der Ventilation, d.h des Atemgastransportes, durch eine Schwäche oder ein Versagen der Atempumpe (= Atemmuskulatur)
+- Gasaustauschstörungen als Folge von Perfusionsstörungen der Lunge. (Pulmonalembolie, Shunt)
 
 Beim pulmonalen Parenchymversagen (Oxygenationsversagen) steht die Störung der Oxygenierung (⇒ PaO2 ⇓, AaDO2 ⇑) im Vordergrund ⇒ Hypoxämisches Lungenversagen.
 Ursachen für ein Lungenparenchymversagen :
- ALI/ARDS (pulmonal-extrapulmonal), Pneumonie, Kardiogenes Lungenödem, Lungenfibrose
+ALI/ARDS (pulmonal-extrapulmonal), Pneumonie, Kardiogenes Lungenödem, Lungenfibrose
 (primär-sekundär)
 
- Das pulmonale Pumpversagen (Ventilationsversagen) ist durch eine insuffiziente Elimination von CO2 (⇒ PaCO2 ⇑) gekennzeichnet  ⇒  Hyperkapnisches Lungenversagen Ursachen für ein Atempumpversagen:
-1.    Zentrale Ursachen: Störung im Atemzentrum (z.B. SHT, Intoxikation), Störung im zervikalen oder thorakalen Rückenmark (z.B. traumatischer Querschnitt, Tetanus)
-2. Periphere Ursachen Störungen der Atemmechanik: Obstruktive und restriktive Ventilationsstörungen, Störung der Thoraxwandintegrität
-(z.B.
-Serienrippenfraktur bei Thoraxtrauma),
-Kyphoskoliose,
-Zwerchfellhernie, Morbide Adipositas.
-Peripher neuromuskulär: Störung der neuromuskulären  Überleitung (z.B. Myasthenia gravis,
-degenerative Muskelerkrankungen,  „Hang over"  von Muskelrelaxantien, Botulismus),
-Polyneurititiden (z. B. Guillain-Barré-Syndrom, toxisch, infektiös), Muskelschwäche nach Langzeitbeatmung (Atrophie, Critical illness polyneuropathy).
+Das pulmonale Pumpversagen (Ventilationsversagen) ist durch eine insuffiziente Elimination von CO2 (⇒ PaCO2 ⇑) gekennzeichnet  ⇒  Hyperkapnisches Lungenversagen Ursachen für ein Atempumpversagen:
 
-Die postoperative Herabsetzung der statischen Lungenvolumina ist vor allem bedingt durch:
-•  Operationsbedingte dorso-basale Atelektasen infolge erhöhtem intraabdominellen Drucks unterschiedlicher Genese
- •  Wundschmerzen mit konsekutiver oberflächerlicher  „Schonatmung"  mit niedrigem Atemzugvolumen und erhöhter Atemfrequenz
-• Verminderung des Hustenstoßes
-• Sekretretention
-• „Hang over" von Narkotika und Muskelrelaxantien 1
+1.  **Zentrale** Ursachen: Störung im Atemzentrum (z.B. SHT, Intoxikation), Störung im zervikalen oder thorakalen Rückenmark (z.B. traumatischer Querschnitt, Tetanus)
+2.  **Periphere** Ursachen Störungen der Atemmechanik:
+    - Obstruktive und restriktive Ventilationsstörungen, Störung der Thoraxwandintegrität (z.B. Serienrippenfraktur bei Thoraxtrauma),
+    - Kyphoskoliose,
+    - Zwerchfellhernie, Morbide Adipositas.
+3.  **Peripher neuromuskulär**:
+    - Störung der neuromuskulären  Überleitung (z.B. Myasthenia gravis, degenerative Muskelerkrankungen,  „Hang over"  von Muskelrelaxantien, Botulismus),
+    - Polyneurititiden (z. B. Guillain-Barré-Syndrom, toxisch, infektiös),
+    - Muskelschwäche nach Langzeitbeatmung (Atrophie, Critical illness Polyneuropathy).
+
+Die *postoperative* Herabsetzung der statischen Lungenvolumina ist vor allem bedingt durch:
+- Operationsbedingte dorso-basale Atelektasen infolge erhöhtem intraabdominellen Drucks unterschiedlicher Genese
+- Wundschmerzen mit konsekutiver oberflächerlicher  „Schonatmung"  mit niedrigem Atemzugvolumen und erhöhter Atemfrequenz
+- Verminderung des Hustenstoßes
+- Sekretretention
+- „Hang over" von Narkotika und Muskelrelaxantien 1
 
 
 
@@ -4658,22 +4669,29 @@ Einteilung nach GOLD:
 I: FEV1 \> 80%, mit/ohne Husten/Auswurf II: FEV1 \< 80% mit Husten/Auswurf III: FEV1 \< 50 mit Husten/Auswurf IV: FEV1\<30% oder \<50% mit chron respiratorischer Insuffizienz
 
 
-Klinik: Dyspnoe, zentrale Zyanose, Fassthorax, verminderte Atemgeräusche, verlängertes Expirium mit pfeifen, giemen, Rechtsherzbelastung mit Jugularvenenstau und peripheren
-Ödemen, Polyglobulie; C/P: Emphysem mit flachen Zwerchfellkuppen
+Klinik
+: Dyspnoe, zentrale Zyanose, Fassthorax, verminderte Atemgeräusche, verlängertes Expirium mit pfeifen, giemen, Rechtsherzbelastung mit Jugularvenenstau und peripheren Ödemen, Polyglobulie; C/P: Emphysem mit flachen Zwerchfellkuppen
 
 
-LUFU: vermind. VK und red. FEV1, obstruktive Ventilationsstörung, BGA paCO2 erhöht Erhöhte Compliance bei verminderter Struktur (elastische Fasern zerstört), aber auch verminderte Rückstellkraft und Obstruktion = erhöhte Resistance.
-Indikation zur NIV:
-Ist das klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen,
+LUFU
+: vermind. VK und red. FEV1, obstruktive Ventilationsstörung, BGA paCO2 erhöht Erhöhte Compliance bei verminderter Struktur (elastische Fasern zerstört), aber auch verminderte Rückstellkraft und Obstruktion = erhöhte Resistance.
+
+Indikation zur NIV
+: Ist das klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen,
 Schaukelatmung, muskuläre Erschöpfung. paCO2\>55 steigende Tendenz, paO2 \< 55 mit SaO2\<88 trotz Sauerstoffgabe, pH \< 7,3
 
 
-Beatmungseinstellung NIV: der extrinsische PEEP muss UNTER dem intrinsischem PEEP liegen =
-Reduktion der Atemarbeit (innere Schienung)  +  Offenhalten der kleinen Atemwege (vermindert Resistance). Bei CPAP-ASB Rampe max 0,2sec (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
-Cave: Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein. Therapie: Ursache beheben, exspiratorischen PEEP anheben. PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös  überbläht, sondern zur Reduktion der Atemarbeit! PEEP schrittweise steigern,
-Druckunterstützung 5-10 CPAP-ASB.
+Beatmungseinstellung NIV: der extrinsische PEEP muss UNTER dem intrinsischem PEEP liegen = Reduktion der Atemarbeit (innere Schienung)  +  Offenhalten der kleinen Atemwege (vermindert Resistance). Bei CPAP-ASB Rampe max 0,2sec (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
 
--                                                                  PEEPe \< PEEPi
+:::{warning}
+Cave: Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein.
+
+Therapie: Ursache beheben, exspiratorischen PEEP anheben. PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös  überbläht, sondern zur Reduktion der Atemarbeit! PEEP schrittweise steigern,
+Druckunterstützung 5-10 CPAP-ASB.
+:::
+
+
+- PEEPe \< PEEPi
 
 
 Kriterien zur Intubation:
@@ -4681,30 +4699,37 @@ Zunehmende Somnolenz, unzureichende Schutzreflexe, rapid shallow breathing (AF\>
 300), weiterer paCO2 Anstieg mit pH-Abfall, zunehmende hämodynamische Instabilität,
 Schocksymptomatik, HF \> 140/min.
 Intubation so restriktiv wie möglich!
+
+
 ## 30.3. ASTHMA *
 
-Immunogene Entzündungsreaktion meist durch Ag mit erhöhter Permeabilität/Ödem,
-Muskelkontraktion und erhöhter Sektretion ins Lumen (Hyperreagibilität durch die Entzündung)
+Immunogene Entzündungsreaktion meist durch Ag mit erhöhter Permeabilität/Ödem, Muskelkontraktion und erhöhter Sektretion ins Lumen (Hyperreagibilität durch die Entzündung)
+
 Status asthmaticus: trotz pharmakologischer Ausschöpfung schwerer Asthmaanfall \> 6-24h!
-LUFU: Obstruktion mit ausgeprägter Reversibilität im Spasmolysetest Therapie:
-Allergenkarenz,
-inhalative Steroide
-(1mg/d inhal.
-=
-10mg/d oral),
-Betasympathomimetika inhalativ, Theophyllin oral oder iv.
+
+LUFU: Obstruktion mit ausgeprägter Reversibilität im Spasmolysetest
+
+Therapie:
+- Allergenkarenz,
+- inhalative Steroide (1mg/d inhal. = 10mg/d oral),
+- Betasympathomimetika inhalativ,
+- Theophyllin oral oder iv.
+
 
 ## 30.4. ILD (Interstitielle lung disease): Lungenfibrose *
 
 Klinik:
-red.
-AZ,
-Trommelschlägelfinger,
-kleiner Thorax,
-Knistern bilateral,
-keine Rechtsherzbelastung, C/P: hochstehende Zwerchfellkuppen BGA: massiver Unterschied des paO2 in Ruhe und unter Belastung Red. Compliance, kaum Dehnbar, massiv verdickte Diffusionsstrecke, O2-Aufsättigung braucht mehr Zeit!
-Gewichtsverlust da bis zu 50% des Grundumsatzes für die Atmung benötigt werden!
-Therapie: Expositionsprophylaxe, antiinflammatorische Maßnahmen
+- red. AZ,
+- Trommelschlägelfinger,
+- kleiner Thorax,
+- Knistern bilateral,
+- keine Rechtsherzbelastung,
+- C/P: hochstehende Zwerchfellkuppen
+- BGA: massiver Unterschied des paO2 in Ruhe und unter Belastung Red. Compliance, kaum Dehnbar, massiv verdickte Diffusionsstrecke, O2-Aufsättigung braucht mehr Zeit!
+- Gewichtsverlust da bis zu 50% des Grundumsatzes für die Atmung benötigt werden!
+
+Therapie
+: Expositionsprophylaxe, antiinflammatorische Maßnahmen
 (Steroidtherapie), LTOT, LTX
 
 ## 30.5. Pulmonalembolie *
@@ -4713,45 +4738,45 @@ Präkapillärer mechanischer Verschluss mit Hypoxämie = HPV mit akuter Rechtshe
 Kompensationsmechanismen: Gefäßrekruitment mit  Öffenen bisher verschlossener Gefäße und Dilatation bereits offener Gefäße, jedoch durch funktionellen Shunt schlechte Oxygenierung die oft auch durch FIO2-Erhöhung nicht ausgeglichen werden kann.
 Einteilung:
 1) Hochrisiko PE: Schock, akute Rechtsherzbelastung, myokardiale Nekrose (Troponin).
-2) Intermediärrisiko PE: akute Rechtsherzbelastung ohne Schock und myok.
-Nekrose.
+2) Intermediärrisiko PE: akute Rechtsherzbelastung ohne Schock und myok. Nekrose.
 3) Niedrigrisiko PE: ohne Rechtsherzbelastung.
 
-Klinik: Dyspnoe mit thorakalen Schmerzen, Husten, Fieber, periphere Zyanose, Tachykardie, SaO2 red., Extremitäten untersuchen (Schwellung/Thrombose?), Tachypnoe, Synkope,
+Klinik
+: Dyspnoe mit thorakalen Schmerzen, Husten, Fieber, periphere Zyanose, Tachykardie, SaO2 red., Extremitäten untersuchen (Schwellung/Thrombose?), Tachypnoe, Synkope,
 
 
 
 
-Labor: D-Dimer erhöht (normal  \<  0,5ng/dl), CO2 normal trotz Hyperventilation oder erhöht,
-AaDO² erhöht.
-EKG: P-Pulmonale (hoch spitz), Sinustachykardie, RSB, VHF,
-V1-4 ST-Streckenveränderungen Bildgebung: Spiral-CT, Ventilations-Perfusions-Szintigraphie,
-Echokardiographie Risikofaktoren:
-- Angeborene Thrombophilie: Faktor V Leiden, Faktor II-Mutation, Protein S- und Protein C-
-Mangel, Antithrombin-Mangel
-- Erworbene Risikofaktoren: Alter, Z.n. TVT/PE, SS, OP, Immobilität (Bettlägrig, Flugreise,...),
-metabol. Syndrom, ZVK, Polyzythaemia vera, Medikamente (Pille, Glukokortikoide,
-Chemo, Drogen,...), Antiphospholipidsyndrom, Adipositas.
+Labor
+: D-Dimer erhöht (normal  \<  0,5ng/dl), CO2 normal trotz Hyperventilation oder erhöht, AaDO² erhöht.
+
+EKG
+: P-Pulmonale (hoch spitz), Sinustachykardie, RSB, VHF, V1-4 ST-Streckenveränderungen
+
+Bildgebung
+: Spiral-CT, Ventilations-Perfusions-Szintigraphie,Echokardiographie
+
+Risikofaktoren
+: - Angeborene Thrombophilie: Faktor V Leiden, Faktor II-Mutation, Protein S- und Protein C-Mangel, Antithrombin-Mangel
+   - Erworbene Risikofaktoren: Alter, Z.n. TVT/PE, SS, OP, Immobilität (Bettlägrig, Flugreise,...), metabol. Syndrom, ZVK, Polyzythaemia vera, Medikamente (Pille, Glukokortikoide, Chemo, Drogen,...), Antiphospholipidsyndrom, Adipositas.
 
 
-Erstmaßnahme: O2 + Hyperventilation (NIV, IT) mit Zielgröße paO2 \> 100, paCO2 30-35 pH \> 7,45 und hämodynamische Stabilisierung des Patienten.
+Erstmaßnahme
+: O2 + Hyperventilation (NIV, IT) mit Zielgröße paO2 \> 100, paCO2 30-35 pH \> 7,45 und hämodynamische Stabilisierung des Patienten.
 
 Die Therapie richtet sich nach der Risikoeinschätzung und dem Blutungsrisiko:
-1) Hochrisikopatienten: Milde Volumengabe (500ml), Katecholamine (NA, Suprarenin, ev.
-Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase,
-Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie.
-(Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \<6 Monate, ZNS-Malignom,
-Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
-2) Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden.  +  Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-
-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \<
-15ml/min) sind DOAK´s nicht geeignet.
-3) Niedrigrisikopatienten: Antikoagulation mit NMWH/Fondaparinux mit  überlappender VKA-Einstellung oder DOAK´s.
-DOAKs:
-- Rivaroxaban: Initialdosis 2x15mg für 21 Tage, Erhaltungsdosis 1 x 20mg
-- Dabigatran: Inital NMWH, Erhaltungsdosis 2 x 150mg
-- Apixaban: Initialdosis: 2 x 10mg f´ür 7 Tage, Erhaltungsdosis 2 x 5mg
+1)  Hochrisikopatienten: Milde Volumengabe (500ml), Katecholamine (NA, Suprarenin, ev. Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase, Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie. (Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \<6 Monate, ZNS-Malignom, Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
+2)  Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden.  +  Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \<15ml/min) sind DOAK´s nicht geeignet.
+3)  Niedrigrisikopatienten: Antikoagulation mit NMWH/Fondaparinux mit  überlappender VKA-Einstellung oder DOAK´s.
+    DOAKs:
+    - Rivaroxaban: Initialdosis 2x15mg für 21 Tage, Erhaltungsdosis 1 x 20mg
+    - Dabigatran: Inital NMWH, Erhaltungsdosis 2 x 150mg
+    - Apixaban: Initialdosis: 2 x 10mg f´ür 7 Tage, Erhaltungsdosis 2 x 5mg
 
-Die Dauer der Therapie  soll bei PE nach TVT/OP 3  Monate betragen. Nach unprovozierter PE mindestens 3  Monate  +  Verlängerung je nach Rezidiv-  oder Blutungsrisiko (ev. ASS zur Redivprophylaxe bei hohem Blutungsrisiko nach 3  Monaten plasmatischer Antikoagulation). Bei rezidivierender PE/TVT dauerhafte Antikoagulation. Bei Patienten mit absoluter KI für eine Antikoagulation und Nachweis einer TVT, und bei Patienten mit Rezidiven unter therapeutischer INR/täglicher DOAK-Einnahme, kann ein passagerer V.cava Filter erwogen werden.
+Die Dauer der Therapie  soll bei PE nach TVT/OP 3  Monate betragen.
+Nach unprovozierter PE mindestens 3  Monate  +  Verlängerung je nach Rezidiv-  oder Blutungsrisiko (ev. ASS zur Redivprophylaxe bei hohem Blutungsrisiko nach 3  Monaten plasmatischer Antikoagulation).
+Bei rezidivierender PE/TVT dauerhafte Antikoagulation.
+Bei Patienten mit absoluter KI für eine Antikoagulation und Nachweis einer TVT, und bei Patienten mit Rezidiven unter therapeutischer INR/täglicher DOAK-Einnahme, kann ein passagerer V.cava Filter erwogen werden.
 
 Beatmung: kontrolliere Hyperventilation (paCO2 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle)
 Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flolan iv. und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
@@ -4765,17 +4790,15 @@ Linksseitenlage, Kopftief, FIO2 100% + PEEP
 
 
 
-Mikrofettembolie: Pallakos-Reaktion beim Zementieren einer HTEP oder KTEP:
-= Blutdruckabfall, Herzfrequenzanstieg mit sinkendem SaO²
-Ursache: allergisch-toxische Myokarddepression, Mikrofettembolie der Lunge oder Luftembolie,
-allergische Reaktion mit Histaminfreisetzung.
-Therapie: 100% FIO² beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100% FIO² bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin,
-Dobutrex-Perfusor.
+Mikrofettembolie
+: **Pallakos-Reaktion** beim *Zementieren* einer HTEP oder KTEP:
+  = Blutdruckabfall, Herzfrequenzanstieg mit sinkendem SaO²
+  - Ursache: allergisch-toxische Myokarddepression, Mikrofettembolie der Lunge oder Luftembolie, allergische Reaktion mit Histaminfreisetzung.
+  - Therapie: 100% FIO² beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100% FIO² bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin, Dobutrex-Perfusor.
 
-## 30.6. Cardiales Lungenödem
+## 30.6. Kardiales Lungenödem
 
-Bei Linksherzversagen z.B. MCI oder tachykardem VHF kommt es durch das  Ödem zu einer Abnahme der Lungencompliance,
-zu einem reduziertem HZV mit verminderter Sauerstoffversorgung der Atemmuskulatur bei vermehrter Anstrengung  =  sekundäres Atempumpversagen.
+Bei Linksherzversagen z.B. MCI oder tachykardem VHF kommt es durch das  Ödem zu einer Abnahme der Lungencompliance, zu einem reduziertem HZV mit verminderter Sauerstoffversorgung der Atemmuskulatur bei vermehrter Anstrengung  =  sekundäres Atempumpversagen.
 C/P: bilaterale homogene Verschattungen; EKG: Ischämiezeichen/Infarktzeichen
 
 
@@ -4853,13 +4876,15 @@ Thrombosephrophylaxe, Stressulcusprophylaxe, Lagerungstherapie
 (kranke Seite oben)
 
 
-VAP (Ventilations assoziierte Pneumonie):
+### VAP (Ventilations assoziierte Pneumonie)
+
 Erreger  =Staph. Aureus,  , Pseudomonas aeruginosa, Klebsiellen, E.coli, Pneumokokken, MRSA,
 Enterobakter.
 Nicht behandlungsbedürftig sind vergrünende Streptokokken, Neisseria spp., Corynebakt. Spp.,
 Enterokokus faecium, Candida, koag.
 Neg. Staphylokokken, welche Bedsiedelungen sind.
 90% entsteht innerhalb der ersten 10 Tage der Beatmung.
+
 Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%,
 frühe enterale Ernährung
 (Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat),
@@ -4877,17 +4902,15 @@ Trachealsekret \> 105, BAL \> 104, PBS \> 103
 
 Ursachen: am häufigsten: SIRS, SEPSIS, TRALI und Polytrauma;  weiters Infektion, Kontusion,
 Aspiration, tox. Inhalation.
+
 DD: kardiales Lungenödem, Pneumonie, „Amiodaron Lunge"
 
 
 
-Pathomechanismus: inflammatorische Reaktion der Lunge (Zytokinausschüttung: IL 1, IL6, TNFα,
-µINF) mit capill. Leak/Ödem  +  gestörte Surfactantproduktion und Funktion mit Mehrkompartmentmodell der Lunge: Basal/abhängend Atelektasen -- Mitte kleine gesunde Lunge
+Pathomechanismus: inflammatorische Reaktion der Lunge (Zytokinausschüttung: IL 1, IL6, TNFα, µINF) mit capill. Leak/Ödem  +  gestörte Surfactantproduktion und Funktion mit Mehrkompartmentmodell der Lunge: Basal/abhängend Atelektasen -- Mitte kleine gesunde Lunge
 -- apikal/ventral überblähte Lunge.
 In weiterer Folge struktureller Umbau mit Fibrosierung, dissem. Verlegung der Kapillaren mit pulmonaler Hypertonie und Rechtsherzbelastung,
-Intrapulm.
-Re-Li-Shunt mit
-„sauerstoffrefraktärer Zyanose".
+Intrapulm. Re-Li-Shunt mit „sauerstoffrefraktärer Zyanose".
 
 
 Leitsymptom: Dyspnoe und Tachypnoe mit Hypoxämie (Hyperventilation mit verm. paCO2 und Azidose)
@@ -4971,6 +4994,9 @@ SCORING:
 SAPS: simplified acute physiology Score = zur Prognosebeurteilung innerhalb der ersten 24h auf einer Intensivstation. Nicht berücksichtigt sind:  \<18Lj, Verbrennungspatienten, KHK-Pat,
 kardiochirurgische Patienten.
 APACHE II: outcome Score: Alter, Vorerkrankungen, Vitalparameter, ph, BGA, Labor werden erfasst.
+
+
+
 # 32. Lungenersatzverfahren: *
 
 VV-ECMO:
@@ -5003,13 +5029,9 @@ C/P: Verziehungen des Bronchio-Trachealbaums und Tracheleinengungen können Intu
 
 
 4 M´s bei Tumorpatienten (anästhesierelevant)
-1. Mass effects: Lungenabszess, Pancoast Syndrom, Recurrens oder phrenicus parese,
-obstructive Peumonie, Vena cava superior Syndrom,...
-2. Metabolic effects: Lambert-Eaten Syndrom, hypercalc.,
-hyponatr., Cushing Syndrom 3. Metastases: SKBL to brain, bone, liver and adrena
-(Lagerung HWS-Metastasen!)
-4. Medications: Chemotherapie, lungentox.
-(z.B. Mitomycin), cardiotoxisch, nierentoxisch.
+1. Mass effects: Lungenabszess, Pancoast Syndrom, Recurrens oder phrenicus parese, obstructive Peumonie, Vena cava superior Syndrom,...
+2. Metabolic effects: Lambert-Eaten Syndrom, hypercalc., hyponatr., Cushing Syndrom 3. Metastases: SKBL to brain, bone, liver and adrena (Lagerung HWS-Metastasen!)
+4. Medications: Chemotherapie, lungentox. (z.B. Mitomycin), cardiotoxisch, nierentoxisch.
 
 Abschätzung respiratorischer Komplikationen: ppoFEV1 (predicted postoperativ FEV1)  \>  50%
 keine/minimale Komplikationen zu erwarten.
@@ -5048,8 +5070,7 @@ BGA + ZVK, PAK, TEE bei hochrisiko Eingriffen. (ZVK bei oberer Einflussstauung �
 
 Narkoseeinleitung/Aufrechterhaltung
 - Robinul oder Atropin vorab
-- Fentanyl/Remifentanil + Propofol/Etomidate, Ketamin+ ev.
-Antihistaminika u. Bronchiolytika
+- Fentanyl/Remifentanil + Propofol/Etomidate, Ketamin+ ev. Antihistaminika u. Bronchiolytika
 - TIVA oder Sevo möglich.
 - Cave: Auto PEEP,  Überblähung der Lunge, Hypokapnie, Hohe Atemwegsdrücke und oberflächliche Narkose vermeiden! (hyperreag. Bronchien mit Gefahr des Bronchospasmus!)
 - Lagerungsschäden: N.Peronäus, Plexus brachialis, Augen!!
@@ -5092,6 +5113,8 @@ Ultimo ratio intra- und postoperativ ECMO!
 
 Prüfung: Möglichkeiten die HPV zu vermindern: NO, Prostacyclin, volatile Anästhetika, Opioide,
 Hypokapnie.
+
+
 # 34. Allergische Reaktion, Anaphylaxie
 
 Anaphylaktische Reaktion:
@@ -5129,6 +5152,9 @@ Vorabend: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o.
 
 Typ II-  Allergie: Zytotoxische Reaktion, Bindung von Haptenen an Zell-  oder Basalmembran mit Zytolyse z.B. Agranulozytose, HIT Typ III-  Allergie: Immunkomplexvaskulitis, Entzündungsreaktionen durch zirkulierende Immunkomplexe. z.B. Serumkrankheit, Anaphylaxe durch Dextrane mit intravasaler Komplementaktivierung Typ IV: Kontaktdermatitis durch sensibilisierte T-Lymphozyten Z.B.
 photoallergische Reaktion
+
+
+
 # 35. Pharmakologie
 
 Pharmakokinetik: Absorption in die systemische Zirkulation + Verteilung im Körper Pharmakodynamik: Pharmakologischer Effekt am Wirkort Pharmakokinetik: Umverteilung,
@@ -5191,8 +5217,7 @@ Organmanifestation,
 Malignom, vorausgegangene AB-Prophylaxe, Hospitalisierung.
 
 AB-Wahl: Tarragona Strategie
-- Individuelle Risikofaktoren (look at your patient) typische Erreger der Region (Klinik,
-Anamnese, Labor, Bildgebung, Auslandsaufenthalt?z.B. Salm. thyphii)
+- Individuelle Risikofaktoren (look at your patient) typische Erreger der Region (Klinik, Anamnese, Labor, Bildgebung, Auslandsaufenthalt?z.B. Salm. thyphii)
 - Interne Resistenzlage (look at your hospital)
 - Hit hard = früh, breit, hochdosiert AB
 - Get to the point (effective Spiegel erreichen)
@@ -5219,8 +5244,7 @@ Dauer:
 
 
 Dosis:
-- Β-Laktam AB: die Dauer der Konzentration  über der MHK im Blut entscheidet, daher kontinuierlichen Spiegel anstreben
-(Doripenem-Perfusor, mehrmals täglich geben)
+- Β-Laktam AB: die Dauer der Konzentration  über der MHK im Blut entscheidet, daher kontinuierlichen Spiegel anstreben (Doripenem-Perfusor, mehrmals täglich geben)
 - Aminoglykosid AB und Gyrasehemmer: die maximale Serumkonzentration entscheidet  über das Abtöten von Bakterien, daher nur 1 x tgl. (ausgenommen Endokarditis). Vorteil: weniger NW
 - Dosisanpassung bei Niereninsuffizienz, HF/HD
 
@@ -5335,8 +5359,7 @@ Metronidazol (= Nitroimidazol)/Anaerobex für Anerobier des Dickdarms (Bact. Spp
 
 
 Beispiele zur erregerspezifischen Antibiotikaauswahl im Krankenhaus:
-- S. aureus-MRSA:
-Vancomycin, Zyvoxid, Cotrimoxazol, ev. + Fosfomycin
+- S. aureus-MRSA: Vancomycin, Zyvoxid, Cotrimoxazol, ev. + Fosfomycin
 - E.coli/Klebsiellen-ESBL: Penem, Fosfomycin, Tigecyclin
 
 
@@ -5350,56 +5373,62 @@ Ciproxin
 
 ## 35.2. Betablocker
 
-β1-Rezeptoren: postsynaptisch va. am Herzen
-(positiv chronotrop am Sinusknoten und AV-Knoten,
-positiv inotrop im Vorhof und Ventrikel), aber auch in anderen Organen (Niere/Reninfreisetzung,
-fördert Glykogenolyse und Glukoneogenese)
-β2-Rezeptoren: Bronchien (Dilatation), Uterus (Tonussenkend), Fördert Glykogenolyse und Gluconeogenese, Fördert Insulinausschüttung
-β1-selektive Blocker kardioselektiv: bei SVT, VT, paroxymalen Tachykardien, MCI, Hypertonie,..
-z.B. Brevibloc, Beloc/Metoprolol  =  Reduzieren den kardialen Sympathikotonus (Auswirkung der Blockade umso stärker, je höher der Sympathikotonus ist). Bei höherer Dosierung auch  β2-
-Blockade!
+β1-Rezeptoren
+: postsynaptisch va. am Herzen
+  (positiv chronotrop am Sinusknoten und AV-Knoten, positiv inotrop im Vorhof und Ventrikel), aber auch in anderen Organen (Niere/Reninfreisetzung, fördert Glykogenolyse und Glukoneogenese)
+
+β2-Rezeptoren
+: Bronchien (Dilatation), Uterus (Tonussenkend), Fördert Glykogenolyse und Gluconeogenese, Fördert Insulinausschüttung
+
+β1-selektive Blocker kardioselektiv
+: bei SVT, VT, paroxymalen Tachykardien, MCI, Hypertonie,..
+  z.B. Brevibloc, Beloc/Metoprolol  =  Reduzieren den kardialen Sympathikotonus (Auswirkung der Blockade umso stärker, je höher der Sympathikotonus ist). Bei höherer Dosierung auch  β2-Blockade!
+
 NW: Potenzstörungen, vegetative Hypotonie, eingeschränkte körperliche Leistungsfähigkeit.
 
-- Ein Teil der Betablocker hat noch eine gewisse Beta-Rezeptoren-stimulierende Wirkung  =
-intrinsische sympathomimetische Aktivität. Überlebensvorteil nach MCI nur bei Betablockern ohne ISA.
-- Wirken membranstabilisierend und damit antiarrhythmisch.
-(Klasse II-Antiarrhythmika)
+- Ein Teil der Betablocker hat noch eine gewisse Beta-Rezeptoren-stimulierende Wirkung  = intrinsische sympathomimetische Aktivität. Überlebensvorteil nach MCI nur bei Betablockern ohne ISA.
+- Wirken membranstabilisierend und damit antiarrhythmisch. (Klasse II-Antiarrhythmika)
 - Verminderung des myokardialen VO2 durch Herabsetzung der Herzfrequenz und Kontraktilität und Reduktion des peripheren Gefäßwiderstands (durch zentrale Dämpfung der Sympathikusaktivität) mit herabgesetzter Nachlast.
 - Carvedilol (Dilatrend) hat neben der betaantagonistischen auch eine alphaantagonistische Komponente und löst auch eine periphere Vasodilatation aus.
 - Verminderung der Reninfreisetzung (Vasodilatation durch vermindert ATII, Vermindertes Plasmavolumen durch vermindert Aldosteron)
-- Heraufgesetzte Empfindlichkeit der Barorezeptoren
-(geringere reflektorische Vasokonstriktion bei Abfall des SV)
+- Heraufgesetzte Empfindlichkeit der Barorezeptoren (geringere reflektorische Vasokonstriktion bei Abfall des SV)
 - Niedrigdosierte Betablockertherapie verhindert eine Downregulation der kardialen Betarezeptoren bei chronischer Herzinsuffizienz, führen zu einer Upregulation mit verbessertem Ansprechen auf endogene Katecholamine. Vorraussetzung ist eine stabile Herzinsuffizienz und langsame Steigerung bei minimaler Dosis.
 
-Indikation: stabile AP, Reiinfarktprophylaxe, arterielle Hypertonie, SVT, Hyperthyreose, HOCM,
-stabile chronische Herzinsuffizienz,
+Indikation
+: stabile AP, Reiinfarktprophylaxe, arterielle Hypertonie, SVT, Hyperthyreose, HOCM, stabile chronische Herzinsuffizienz,
 β2:
 bronchiale Obstruktion,
-periphere Durchblutungsstörungen, Hypoglykämie, Rebound Effekt bei abruptem Absetzen (UP-Regulation der Rezeptoren), Langzeittherapie NW: Hypertriglyceridämie,
-Hyperkaliämie.
+periphere Durchblutungsstörungen, Hypoglykämie, Rebound Effekt bei abruptem Absetzen (UP-Regulation der Rezeptoren), Langzeittherapie NW: Hypertriglyceridämie, Hyperkaliämie.
 
 Perioperative Anwendung: SVT, Tachyarrhythmie, Hypertonie bei adrenerger Stimulation. Eine Hypovolämie, intraoperative Narkosetiefe und Analgesie müssen vorher abgeklärt werden.
 
-Kontraindikationen: Hypovolämie, dekompensierte Herzinsuffizienz NYHA IV, bradykarde Herzrhythmusstörungen,
-WPW-Syndrom,
-obstruktive Atemwegserkrankungen,
-Schwangerschaft, Allergie.
+Kontraindikationen
+: Hypovolämie, dekompensierte Herzinsuffizienz NYHA IV, bradykarde erzrhythmusstörungen,
+WPW-Syndrom, obstruktive Atemwegserkrankungen, Schwangerschaft, Allergie.
+
+
+
 # 36. Nosokomoniale Infektionen *
 
 Sind im KH erworben.
+
 Häufigsten:
-VAP,
-Katheter assozierter Harnwegsinfekt,
-Katheter assoziierte Bakteriämien/Fungämien
-= hohe Liegedauer, hohe Kosten, hohe Letalität.
+- VAP,
+- Katheter assozierter Harnwegsinfekt,
+- Katheter assoziierte Bakteriämien/Fungämien
+  = hohe Liegedauer, hohe Kosten, hohe Letalität.
+
 Infektion abhängig von Disposition des Patienten (Vorerkrankungen, Immunsystem) und Exposition (Kolonisation von potentiell pathogenen Erregern)
 
 Bei Va. Infektion (Fieber, erhöhte EZP, Eintrübung ZNS,...) BK vor AB-Gabe (früh, breit, hoch),
 Herdsuche (C/P, CT, Sono),...siehe SIRS
 
+
+
 ## 36.1. katheterassoziierter Harnwegsinfekt
 
 Klinik: Fieber, Dysurie, Bakteriämie,...
+
 Keimnachweis:  \>105 koloniebildende Einheiten KBE/ml Urin  +  max. 2 verschiedene Keime ODER
 \>103 bei positivem Nitrit/Leukos im Harn Einwanderung  über Außenseite des HK, beim Ablassen verunreinigen durch Darmkeime durchs Personal.
 Therapie: HK-Wechsel (in 30-50% spontane Sanierung) ev. AB
@@ -5416,48 +5445,60 @@ Keimnachweis im Abstrich, Rötung/Schwellung/Hitze/Schmerz Therapie: chir. Revis
 
 
 Prävention:
-perioperative AB-Prophylaxe,
-asept.
-Operation,
-vermeidung exogener Kontaminationsquellen (Rasur erst unmittelbar vor OP), Unverzüglich VW bei Va. Infektion,
-Durchnässung, asept. Entfernung von Nahtmaterial, Drain so rasch wie möglich ex.
+- perioperative AB-Prophylaxe,
+- asept. Operation,
+- vermeidung exogener Kontaminationsquellen (Rasur erst unmittelbar vor OP), Unverzüglich VW bei Va. Infektion,
+- Durchnässung, asept. Entfernung von Nahtmaterial, Drain so rasch wie möglich ex.
+
 
 
 ## 36.3. Gefäßkatheter assoziierte Infekte (90% ZVK) *
 
-Keimnachweis: Katheterspitze, DTP  \>  2h diff., mehr Wachstum als periphere Blutprobe 5:1,
-gleicher Keim in BK und am Katheter!
-Therapie: ZVK-Wechsel führt oft zu Entfieberung innerhalb weniger Stunden.
-Häufige Erreger: Staphylokokken, Enterokokken, Enterobacter, P.
-aeruginosa, Candida
+Keimnachweis
+: Katheterspitze, DTP  \>  2h diff., mehr Wachstum als periphere Blutprobe 5:1, gleicher Keim in BK und am Katheter!
+
+Therapie
+: ZVK-Wechsel führt oft zu Entfieberung innerhalb weniger Stunden.
+
+Häufige Erreger: Staphylokokken, Enterokokken, Enterobacter, P. aeruginosa, Candida
+
+
 
 ## 36.4. Clostridium difficile assoziierte Diarrhöe und Colitis *
 
-= gram. Positiv, anaerob, sporenbildende Stäbchen,
-bildet Enterotoxin A und Zytotoxin B Bei 95%  der pseudomembranöse Kolitis ursächlich..  Übertragung durch Stuhl, Hände, Toiletten,
-Telefon,...
-Risikofaktoren: AB-Therapie, Immunsupression, OP, ISV-Aufenthalt,
-kritisch Kranke, hohes Alter Klinik: abdominelle Schmerzen mit wässriger Diarrhöe, Hypotonie, Oligourie, Hypoproteinämie,
-bis tox. Megakolon mit Perforation möglich, Leukozytose, Kreatininerhöhung, vermindertes Albumin, typisch bei Patienten \> 70Lj.
-Diagnose: typische Klinik und Stuhlkultur mit Erregernachweis, Nachweis von Toxin A und B mit ELISA (da niedrige Sensitivität, WH),
-Endoskopie wg. Perforationsgefahr nicht empfohlen.
-Therapie: AB absetzen, eine antimikrobielle Therapie nur bei gesicherter Clostridium Difficile-
-Infektion.
-Metronidazol 3  x tgl 500mg p.o. für 10-14 Tage, bei schwerem Verlauf Vancomycin p.o.  ,
-Elektrolyt und Flüssigkeitsausgleich. (Ev. Teicoplanin/Targocid po)
-Prävention: Restriktiver AB-Einsatz, Hygienemaßnahmen (Handschuhe/Kittel/Einzelzimmer),
-Sporen sind alkoholresistent, daher Hände mit Wasser und Seife reinigen.
+= gram. Positiv, anaerob, sporenbildende Stäbchen, bildet Enterotoxin A und Zytotoxin B Bei 95%  der pseudomembranöse Kolitis ursächlich..
+Übertragung durch Stuhl, Hände, Toiletten, Telefon,...
+
+Risikofaktoren
+: AB-Therapie, Immunsupression, OP, ISV-Aufenthalt, kritisch Kranke, hohes Alter Klinik: abdominelle Schmerzen mit wässriger Diarrhöe, Hypotonie, Oligourie, Hypoproteinämie, bis tox. Megakolon mit Perforation möglich, Leukozytose, Kreatininerhöhung, vermindertes Albumin, typisch bei Patienten \> 70Lj.
+
+Diagnose
+: typische Klinik und Stuhlkultur mit Erregernachweis, Nachweis von Toxin A und B mit ELISA (da niedrige Sensitivität, WH), Endoskopie wg. Perforationsgefahr nicht empfohlen.
+
+Therapie
+: AB absetzen, eine antimikrobielle Therapie nur bei gesicherter Clostridium Difficile-Infektion.
+
+  Metronidazol 3  x tgl 500mg p.o. für 10-14 Tage, bei schwerem Verlauf Vancomycin p.o.  , Elektrolyt und Flüssigkeitsausgleich. (Ev. Teicoplanin/Targocid po)
+
+Prävention
+: Restriktiver AB-Einsatz, Hygienemaßnahmen (Handschuhe/Kittel/Einzelzimmer), Sporen sind alkoholresistent, daher Hände mit Wasser und Seife reinigen.
+
 
 
 ## 36.5. MRSA
 
 Methicillinresistente Staphylokokken über Hände d. Personals übertragen.
-Maßnahmen: Händedesinfektion, Handschuhe, Kittel, Isolierzimmer, Wäsche gesondert entsorgen, Transporte minimieren (davor frische Kleidung und Bettwäsche und Gesichtsmaske)
-Eradikationstherapie: 1 x  tgl. Waschung mit antiseptischer Lösung für 7-10 Tage, tgl.
-Wäschewechsel, Mupirocin Nasensalbe.
-3 neg. Abstriche für Entwarnung nötig.
-AB: Cotrimoxazol (Bactrim),
-Daptomycin (Cubicin), Vancomycin, Linezolid (Zyvoxid)
+
+Maßnahmen
+: Händedesinfektion, Handschuhe, Kittel, Isolierzimmer, Wäsche gesondert entsorgen, Transporte minimieren (davor frische Kleidung und Bettwäsche und Gesichtsmaske)
+
+Eradikationstherapie
+: 1 x  tgl. Waschung mit antiseptischer Lösung für 7-10 Tage, tgl. Wäschewechsel, Mupirocin Nasensalbe.
+
+  3 neg. Abstriche für Entwarnung nötig.
+
+AB
+: Cotrimoxazol (Bactrim),Daptomycin (Cubicin), Vancomycin, Linezolid (Zyvoxid)
 
 
 
@@ -5467,21 +5508,30 @@ Daptomycin (Cubicin), Vancomycin, Linezolid (Zyvoxid)
 
 Extendet spectrum Betalactamase Bildner: inaktiviert Penicilline, Cephalosporine, Monobactame;
 kann E.coli, Enterobacter oder Klebsillen sein. Isolation und Hygienemaßnahmen. Keine Sanierung wie bei MRSA möglich.
-AB: Avelox, Bactrim, Ciproxin, Doribax, Fosfomycin, Motrim, Optinem, Tavanic, Zienam.
-(Carbapeneme, Tetracycline)
+
+AB
+: Avelox, Bactrim, Ciproxin, Doribax, Fosfomycin, Motrim, Optinem, Tavanic, Zienam.
+  (Carbapeneme, Tetracycline)
+
 
 
 ## 36.7. Invasive Pilzinfektionen
 
 Empirische/kalkulierte Therapie (Risikofaktoren), Präemptive Therapie (Galaktomannan, 1,3 -D-
 Glukan), gezielte Therpie bei Pilz Nachweis.
-Pilze: Candida, Aspergillus, Zygomyceten Empfohlene Untersuchungen: Kultur, PCR, Antigenbestimmung,
-Augenarztuntersuchung.
 
-EORTC Kriterien für Pilzinfektion Mögliche: 1 Risikofaktor + Klinischer Faktor Wahrscheinliche: Risikof.+Klinischer Faktor+mikrobiol. Faktor Gesicherte: positive Kultur, histopatholog. Invasivitätsnachweis im sterilen Material Va. Hämato/onkologischer Patient, ICU-Patient, Immunsuppremierte Pat.
-(Transplant,...)
+Pilze
+: Candida, Aspergillus, Zygomyceten Empfohlene
 
-1,3 Beta D-Glucan Test: negative prädektiver Wert, kann mit 95%  Sicherheit eine Pilzinfektion ausschließen!
+Untersuchungen
+: Kultur, PCR, Antigenbestimmung, Augenarztuntersuchung.
+
+EORTC Kriterien für Pilzinfektion Mögliche
+: 1 Risikofaktor + Klinischer Faktor Wahrscheinliche: Risikof.+Klinischer Faktor+mikrobiol. Faktor Gesicherte: positive Kultur, histopatholog. Invasivitätsnachweis im sterilen Material Va. Hämato/onkologischer Patient, ICU-Patient, Immunsuppremierte Pat. (Transplant,...)
+
+1,3 Beta D-Glucan Test
+: negative prädektiver Wert, kann mit 95%  Sicherheit eine Pilzinfektion ausschließen!
+
 Ev. PCT-Erhöhung bei invasiven Pilzinfektionen (keine gesicherten Daten)
 
 
@@ -5491,12 +5541,27 @@ Antimykotika
 - Amphotericin B: Lip AmphoB bei Candida+Aspergillus+Zygomyceten Toxizität: Echinocandine \< Azole \< Amphotericin B
 
 
-Invasive Candidainfektionen Risikofaktoren: AB-Therapie, Invasive Devices, gastrointest. OP,
-Verbrennung, Immundepression Quellen: intravasale Katheter, Wundbereich, Urogenitaltrakt Candida Sepsis: Nachweis von Candida Supp. in der BK oder in der Peritonealflüssigkeit Harntrakt: Bei Candida im Harn handelt es sich meist um eine Besiedelung (Klinik? Labor?). Bei Candida Zystitis lokale Blasenspülungen und DK-Wechsel, da Echinocandine nicht im Harntrakt wirken!
-Endocarditis: immer OP, Amphotericin B + Fluconazol + eventuell Caspofungin Endophthalmitis Auge: keine Echinocandine möglich, da sie nicht ins Auge penetrieren.
-Fluoconazol od. Amphotericin B.
-Cave: jeder Pat. mit Candiämie muss auf Endophalmitis untersucht werden!
-Meningitis: Fluconazol, Variconazol ZVK assoziierte Fungämie: ZVK Entfernen!  , für mindestens 14 Tage  über die letze positive BK hinaus Antimykotika!
+Invasive Candidainfektionen
+
+Risikofaktoren
+: AB-Therapie, Invasive Devices, gastrointest. OP, Verbrennung, Immundepression
+
+Quellen
+: intravasale Katheter, Wundbereich, Urogenitaltrakt
+
+  Candida Sepsis: Nachweis von Candida Supp. in der BK oder in der Peritonealflüssigkeit
+
+  Harntrakt: Bei Candida im Harn handelt es sich meist um eine Besiedelung (Klinik? Labor?).
+  Bei Candida Zystitis lokale Blasenspülungen und DK-Wechsel, da Echinocandine nicht im Harntrakt wirken!
+
+  Endocarditis: immer OP, Amphotericin B + Fluconazol + eventuell Caspofungin Endophthalmitis
+
+  Auge: keine Echinocandine möglich, da sie nicht ins Auge penetrieren.
+  Fluoconazol od. Amphotericin B.
+
+  Cave: jeder Pat. mit Candiämie muss auf Endophalmitis untersucht werden!
+
+  Meningitis: Fluconazol, Variconazol ZVK assoziierte Fungämie: ZVK Entfernen!  , für mindestens 14 Tage  über die letze positive BK hinaus Antimykotika!
 
 
 
@@ -5504,8 +5569,14 @@ Therapie bei Candidämie:
 1) Echinocandine  =  Anidulafungin/Ecalta, Micafungin/Mycamine (ausgenommen bei Endoophthalmitis, hier sofort Fluoconazol/Diflucan)
 2) Azole = Voriconazol/Vfend, Fluoconazol/Diflucan
 
-Aspergillose Va. Bei COPD IV! Pulmonale Infektion: Voriconazol, Ampho B Zerebral oder intraokulär (Trübung der vorderen Augenkammer, Punktion durch den Augenarzt mit Kultur!): Voriconazol, Ampho B Peritonitis bei Peritonealkatheter: Voriconazol, Ampho B Zygomykosen Va. Bei COPD IV, Eisenüberladung, hämatologischen Neoplasien (CLL,..)
-Therapie: Posaconazol, lipid assoz. Ampho B (Ambisome)
+Aspergillose
+: Va. Bei COPD IV! Pulmonale Infektion: Voriconazol, Ampho B Zerebral oder intraokulär (Trübung der vorderen Augenkammer, Punktion durch den Augenarzt mit Kultur!): Voriconazol, Ampho B Peritonitis bei Peritonealkatheter: Voriconazol, Ampho B Zygomykosen Va. Bei COPD IV, Eisenüberladung, hämatologischen Neoplasien (CLL,..)
+
+  Therapie: Posaconazol, lipid assoz. Ampho B (Ambisome)
+
+
+
+
 
 # 37. Verdauungstrakt
 

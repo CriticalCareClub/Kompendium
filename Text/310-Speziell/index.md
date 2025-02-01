@@ -18,6 +18,7 @@ bzw. einer verwandten Grunderkrankung, welche zu einem Notfallgeschehen
 führen kann.
 
 ```{toctree}
+:maxdepth: 1
 :glob:
 
 Schock/index
@@ -51,6 +52,7 @@ ZenkerDivertikel/index
 ```
 
 :::{toctree}
+:maxdepth: 1
 :caption: AK
 
 Erkrankungen-AK/index

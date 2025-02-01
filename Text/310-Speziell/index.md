@@ -20,9 +20,6 @@ führen kann.
 ```{toctree}
 :glob:
 
-KoronareHerzkrankheit/index
-Herzinsuffizienz/index
-Herzrhythmusstoerungen/index
 Schock/index
 ArterielleHypertonie/index
 Aneurysmen/index
@@ -47,12 +44,17 @@ Anaphylaxie/index
 SterbenUndTod/index
 Atmungsstoerungen/index
 Covid-19/index
-HerzKreislaufStoerungen/index
 NiereninsuffizienzAkut/index
 Osas/index
 Pneumektomie/index
 ZenkerDivertikel/index
 ```
+
+:::{toctree}
+:caption: AK
+
+Erkrankungen-AK/index
+:::
 
 [^footnote-1]: Statistik Austria, Pressemitteilung 9.691-133/10; Statistisches
     Bundesamt Deutschland, Pressemitteilung Nr.344 vom 15.09.2009

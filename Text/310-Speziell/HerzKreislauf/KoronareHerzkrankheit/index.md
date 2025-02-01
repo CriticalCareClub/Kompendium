@@ -1,23 +1,21 @@
-```{index} single: koronare Herzkrankheit
-```
-```{index} single: Herzkrankheit, koronare
-```
-```{index} single: KHK
-```
-```{index} single: akutes Koronarsyndrom
-```
-```{index} single: Koronarsyndrom, akutes
-```
-```{index} single: ACS
-```
-```{index} single: Ischämie (akutes Koronarsyndrom) single: VD singke: Vessel disease
-```
-```{index} single: Disease; Vessel -
-```
+# 26.1. Koronare Herzkrankheit (KHK)
 
-(khk)=
+= koronare Herzkrankheit durch Verschlusskrankheit der Koronarien
+= vorausgegangener MCI, typische AP, atypische AP mit pos. ERGO, Szintigr. Nachweis Hohe Wahrscheinlichkeit bei Gefäßpatienten + Rauchen, DM, art.
+HT, \>65a, Hypercholesterinämie
 
-# Koronare Herzkrankheit
+Myokardiale O2-Bilanz:
+VO2    ist abhängig von Nachlast, Kontraktilität, Vorlast und HF;  DO2 abhängig von paO2 des Coronarblutes, Hb, Gefäßwiderstand, Diastolendauer, Aortendruck in der Diastole, LVEDP (erhöht
+= wenig Blut in den Coronarien)
+Kaskade: Gefäßverengung -- Metabolische Veränderungen -- Diastolische Fkt.störung -- systolische Funktionsstörung -- Anstieg des LVEDP (+ Pulmonalisdruck?) -- EKG-Veränderungen AP
+
+
+
+
+Postoperativ häufiger MCI als prä- oder intraoperativ; \>50% klinisch stumm, meist innerhalb der ersten 24h, verschlechtern Outcome! Diagnose: Herzenzyme, EKG, TTE (siehe postoperativer MCI)
+
+Therapie: Coronarangiographie mit Dilatation oder Stent  +  Duale Plättchentherapie  +  Statin+ Betabl.
+
 
 ::::{only} not nosidebar
 

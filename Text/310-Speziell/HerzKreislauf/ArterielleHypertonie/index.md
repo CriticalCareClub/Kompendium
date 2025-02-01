@@ -43,6 +43,34 @@ und behandelt werden.
 [^footnote-2]: Grenzwert Blutdruck: Bei Patienten mit Risikofaktoren gelten andere
     Grenzwerte.
 
+
+
+## 26.2. Hypertonie *
+
+90% primär essentiell, Rest sekundäre HT (renal, endokrin, Aortenisthmusstenose)
+
+Organendschäden: LVH mit Gefügedilatation und Herzinsuffizienz (CO sinkt) mit Missmatch zur Coronardurchblutung auch ohne KHK, aber häufig  +  KHK, Vorhof leistet wichtigen Teil an der Kontraktilität, daher SR wichtig!! Verschiebung der zerebralen Autoregulationskurve für RR nach rechts (Fluss -- Druck Kurve), Niere mit gestörter Autoregulation und glomerulärer Sklerose, AVK
+(Carotisstenose, Claudicatio b. PAVK), Aortendissektion,
+hypertone Retinopathie.
+EKG: LT, LVH-Zeichen mit tiefen S in V1-3 + hohem T in V4-6.
+RRsyst von 100 oft für Hypertoniker zu wenig = verwirrt, Oligourie!
+Die Blutdruckregulation erfolgt über 3 Systeme: Sympathikus,
+RAAS-System, Vasopressin System.
+
+
+Anästhesie: Hypertoniker tendieren zur intraopertiven Hypotonie unter ACE-I u. ATII-Rezeptorantagonisten + vermind. intravasales Volumen.
+Daher ausreichend Volumengabe vor dem Einleiten, gute Prämedizierung, Hypo-  und Hypertension vermeiden und konsequent behandeln, an Myokardischämie denken!
+Ein Absetzten der Blutdruckmedikamente erfolgt nur bei moderater Hypertonie.
+Bei präoperativ bereits grenzwertigen Blutdruckwerten müssen die Medikamente weiterverordnet werden, um hypertensive Krisen zu vermeiden!
+
+Pathophysio: hoher TPVR bei normalem HZV, meist Hypovolämie (Diuretika!), labiles Blutdruckprofil mit großen Schwankungen, sekundäre Organveränderungen/schäden.
+
+Therapie:
+- 1-fach: ACE-Hemmer oder Betablocker
+- 2-fach Kombi: ACE-Hemmer oder Betablocker + Diuretikum oder Kalziumantagonisten
+- 3-fach Kombi: ACE-Hemmer  +  Diuretikum  +  Kalziumantagonisten oder Betablocker.
+  Bsp: Acemin + Norvasc + Diuretikum
+
 ## Langzeitfolgen
 
 ::::{only} not nosidebar

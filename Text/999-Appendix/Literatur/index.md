@@ -125,6 +125,12 @@
   PMID: 28886621,
   DOI: [10.1093/eurheartj/ehx393](https://doi.org/10.1093/eurheartj/ehx393)
 
+♛ ÖGARI RA-Neuro 2021
+: **Empfehlung der ARGE Regionalanästhesie für das Vorgehen bei Verdacht auf perioperative Nervenläsionen**
+  der Österreichischen Gesellschaft für Anästhesie, Reanimation und Intensivmedizin (ÖGARI), ARGE Regionalanästhesie.
+  2021.
+  https://www.oegari.at/web_files/cms_daten/arge_ns_2021.pdf
+
 ♛ ÖSG 2017 TXT
 : **Österreichischer Strukturplan Gesundheit, Textband**
   gemäß Beschluss der Bundes-Zielsteuerungskommission vom 30. Juni 2017.
@@ -367,6 +373,14 @@ Citation needed
   Int J Crit Illn Inj Sci. 2014 Jan;4(1):35-41.
   doi: 10.4103/2229-5151.128011. PMID: 24741496; PMCID: PMC3982369.
 
+🗎 Choi 2005
+: **Value of gastrografin in adhesive small bowel obstruction after unsuccessful conservative treatment: a prospective evaluation.**
+  by Hok-Kwok Choi et al.
+  World J Gastroenterol. 2005 Jun 28;11(24):3742-5.
+  doi: 10.3748/wjg.v11.i24.3742. PMID: 15968731; PMCID: PMC4316027.
+
+  > The use of gastrografin in adhesive small bowel obstruction after unsuccessful conservative treatment is safe and reduces the need for surgical intervention.
+
 🗎 Cobas 2009
 : **Prehospital intubations and mortality: a level 1 trauma center perspective.**
   by M. A. Cobas et al.
@@ -414,32 +428,33 @@ Citation needed
   **Psychiatric morbidity and functional impairments in survivors of burns, traumatic injuries, and ICU stays for other critical illnesses: a review of the literature.**
   International review of psychiatry (Abingdon, England), 2009, 21, 531-538.
 
-  *Abstract: Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
-  We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disorders as well as potential preventative and treatment interventions that may improve outcomes.*
+  > Abstract: Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
+  > We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disor
 
 🗎 Davydow 2009b
 : Davydow, D. S.; Zatzick, D. F. et a.:
   **Predictors of posttraumatic stress disorder and return to usual major activity in traumatically injured intensive care unit survivors.**
   General hospital psychiatry, 2009, 31, 428-435.
 
-  *Abstract: To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
-  Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
-  Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
-  Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
-  Longer ICU lengths of stay (RR 1.21, 95% CI 1.03-1.44, P=.02) and tracheostomy (RR 1.29, 95% CI 1.05-1.59, P=.01) were associated with diminished usual activity.
-  Greater preexisting medical comorbidities were associated with PTSD and limited return to usual activity. Easily identifiable risk factors including ICU/acute care service-delivery characteristics and early post-ICU distress were associated with increased risk of PTSD and limitations in return to usual major activity. Future investigations could develop early screening interventions in acute care settings targeting these risk factors, facilitating appropriate treatments.*
+  > Abstract: To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
+  > Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
+  > Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
+  > Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
+  > Longer ICU lengths of stay (RR 1.21, 95% CI 1.03-1.44, P=.02) and tracheostomy (RR 1.29, 95% CI 1.05-1.59, P=.01) were associated with diminished usual activity.
+  > Greater preexisting medical comorbidities were associated with PTSD and limited return to usual activity. Easily identifiable risk factors including ICU/acute care service-delivery characteristics and early post-ICU distress were associated with increased risk of PTSD and limitations in return to usual major activity. Future investigations could develop early screening interventions in acute care settings targeting these risk factors, facilitating appropriate treatments.
 
 🗎 Davydow 2009c
 : Davydow, D. S.; Gifford, J. M. et al.:
   **Depression in general intensive care unit survivors: a systematic review.**
   Intensive care medicine, 2009, 35, 796-809.
 
-  *To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
-  The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
-  Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
-  Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
-  Post-ICU depressive symptoms were associated with substantially lower HRQOL.
-  Depressive symptoms are common in general ICU survivors and negatively impact HRQOL. Future studies should address how factors related to individual patients, critical illness and post-ICU recovery are associated with depression in ICU survivors.*
+  > To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
+  > The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
+  > Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
+  > Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
+  > Post-ICU depressive symptoms were associated with substantially lower HRQOL.
+  > Depressive symptoms are common in general ICU survivors and negatively impact HRQOL. Future studies should address how factors related to individual patients, critical illness and post-ICU recovery are associated with depression in ICU survivors.
+
 
 🗎 Davydow 2009d
 : Davydow, D. S. & Zatzick, D. F.:
@@ -451,8 +466,8 @@ Citation needed
   **Psychiatric morbidity in pediatric critical illness survivors: a comprehensive review of the literature.**
   Archives of pediatrics & adolescent medicine, 2010, 164, 377-385.
 
-  *To review the prevalence of psychiatric syndromes in pediatric critical illness survivors as well as to summarize data on vulnerabilities and pediatric intensive care unit exposures that may increase risk of developing these syndromes. MEDLINE (1966-2009), the Cochrane Library (2009, issue 3), and PsycINFO (1967-2009) as of August 9, 2009. Case-control, cross-sectional, prospective cohort and retrospective cohort studies as well as randomized controlled trials. Hospitalization for the treatment of a critical illness. Assessments of psychiatric symptoms/disorders at least once after discharge. Seventeen studies were eligible. The most commonly assessed psychiatric disorders were posttraumatic stress disorder and major depression.
-  ... Psychiatric morbidity appears to be a substantial problem for pediatric critical illness survivors.*
+  > To review the prevalence of psychiatric syndromes in pediatric critical illness survivors as well as to summarize data on vulnerabilities and pediatric intensive care unit exposures that may increase risk of developing these syndromes. MEDLINE (1966-2009), the Cochrane Library (2009, issue 3), and PsycINFO (1967-2009) as of August 9, 2009. Case-control, cross-sectional, prospective cohort and retrospective cohort studies as well as randomized controlled trials. Hospitalization for the treatment of a critical illness. Assessments of psychiatric symptoms/disorders at least once after discharge. Seventeen studies were eligible. The most commonly assessed psychiatric disorders were posttraumatic stress disorder and major depression.
+  > Psychiatric morbidity appears to be a substantial problem for pediatric critical illness survivors.
 
 🗎 De Backer 2018
 : Daniel De Backer and Jean-Louis Vincent:
@@ -508,7 +523,7 @@ Citation needed
   Intensive Care Med. 2016 Mar;42(3):324-332.
   <https://doi.org/10.1007/s00134-015-4168-4>
 
-  *In a re-analysis of 1148 patient data sets, specific lower and higher CVP values had some positive and negative predictive value for fluid responsiveness, respectively, but predictive values were low for all specific CVP values assessed.*
+  > In a re-analysis of 1148 patient data sets, specific lower and higher CVP values had some positive and negative predictive value for fluid responsiveness, respectively, but predictive values were low for all specific CVP values assessed.*
 
 🗎 EurSafety
 : **EurSafety Health-Net Projekt.**
@@ -530,7 +545,7 @@ Citation needed
   PMID: 36103365,
   DOI: [10.1002/14651858.CD003861.pub4](https://doi.org/10.1002/14651858.CD003861.pub4)
 
-  *Using tap water compared with no cleansing may make little or no difference to wound healing, while there are no data on wound infection. The impact of using tap water compared with saline for wound cleansing on both infection and wound healing is uncertain.*
+  > Using tap water compared with no cleansing may make little or no difference to wound healing, while there are no data on wound infection. The impact of using tap water compared with saline for wound cleansing on both infection and wound healing is uncertain.
 
 🗎 Fernando 2018
 : **Prognostic Accuracy of the Quick Sequential Organ Failure Assessment for Mortality in Patients With Suspected Infection: A Systematic Review and Meta-analysis**
@@ -538,7 +553,7 @@ Citation needed
   Ann Intern Med. 2018 Feb 20;168(4):266-275.
   <https://doi.org/10.7326/m17-2820>
 
-  *qSOFA had poor sensitivity and moderate specificity for short-term mortality. The SIRS criteria had sensitivity superior to that of qSOFA, supporting their use for screening of patients and as a prompt for treatment initiation.*
+  > qSOFA had poor sensitivity and moderate specificity for short-term mortality. The SIRS criteria had sensitivity superior to that of qSOFA, supporting their use for screening of patients and as a prompt for treatment initiation.
 
 🗎 FI AmiodaronHameln 2020
 : **Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
@@ -546,6 +561,12 @@ Citation needed
   Dezember 2020.
   hameln pharma gmbh.
   <https://aspregister.basg.gv.at/document/servlet?action=show&zulnr=138341&type=DOTC_FACH_INFO>
+
+🗎 Fieger 2011
+: **Intraabdominelle Vakuumtherapie des offenen Abdomens – Eine retrospektive Analyse von 82 konsekutiven Patienten**
+  von Fieger, A. J. et al.
+  Zentralblatt für Chirurgie - Zeitschrift für Allgemeine, Viszeral-, Thorax- und Gefäßchirurgie 2011; 136(01): 56 - 60.
+  DOI: 10.1055/s-0030-1247376
 
 🗎 FloTrac 2020
 : **FloTrac Algorithm. Calculating stroke volume and cardiac output
@@ -573,7 +594,7 @@ Citation needed
   J Invasive Cardiol. 2015 May;27(5):E74.
   <https://www.hmpgloballearningnetwork.com/site/jic/articles/de-implementing-allens-test>
 
-  *Early pioneers of transradial procedures used collateral testing out of an abundance of caution to eliminate or reduce potential risks as they explored a new approach to catheterization. It is now clear that collateral testing for triage decisions regarding access site is not helpful and likely will prevent patients who can benefit from radial access from undergoing a safer procedure. While there is still a role for collateral testing in some circumstances for periprocedural management, the use of collateral testing to primarily exclude the use of radial access can be “de-implemented” as it has no scientific support and is not predictive of hand or digital ischemia.*
+  > Early pioneers of transradial procedures used collateral testing out of an abundance of caution to eliminate or reduce potential risks as they explored a new approach to catheterization. It is now clear that collateral testing for triage decisions regarding access site is not helpful and likely will prevent patients who can benefit from radial access from undergoing a safer procedure. While there is still a role for collateral testing in some circumstances for periprocedural management, the use of collateral testing to primarily exclude the use of radial access can be “de-implemented” as it has no scientific support and is not predictive of hand or digital ischemia.*
 
 🗎 Goerg 2018
 : **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
@@ -604,6 +625,20 @@ Citation needed
   URN: urn:nbn:at:at-ubmuw:1-14568.
   https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
 
+🗎 Gosselin 2018
+: **International Council for Standardization in Haematology ( ICSH ) Recommendations for Laboratory Measurement of Direct Oral Anticoagulants.**
+  by Gosselin RC et al.
+  Thromb Haemost. 2018;118:437-450
+
+🗎 Greimel 2021
+: **Fast-Track in der Hüft- und Kniegelenkendoprothetik**
+  von Greimel, F.et al.
+  Orthopäde 50, 333–343 (2021).
+  https://doi.org/10.1007/s00132-021-04071-2
+
+  > In der Kniegelenkendoprothetik sind derzeit Schmerzkatheterverfahren weit verbreitet [..].
+  > Insbesondere bei der prolongierten Verwendung bestehen jedoch wegen der reduzierten sensomotorischen Funktion deutliche Einschränkungen in der Mobilisierbarkeit mit erhöhtem Sturzrisiko [..], und sie sind daher im Rahmen von Fast-Track-Konzepten nicht anzuraten.
+
 🗎 Grenvik 1972
 : **Impedance pneumography. Comparison between chest impedance changes and respiratory volumines in 11 healthy volunteers.**
   by Grenvik A, Ballou S, McGinley E, Millen JE, Cooley WL, Safar P.
@@ -625,12 +660,29 @@ Citation needed
   2009:44(2), 108–14.
   doi:[10.1093/alcalc/agn105](https://doi.org/10.1093/alcalc/agn105).
 
+🗎 Gu 2019
+: **Use of gastrografin in the management of faecal impaction in patients with severe chronic constipation: a randomized clinical trial.**
+  by Lili Gu et al.
+  ANZ J Surg. 2019 Mar;89(3):239-243.
+  doi: [10.1111/ans.14863](https://doi.org/10.1111/ans.14863). Epub 2018 Oct 8.
+  PMID: 30294848.
+
+  > **Gastrografin** given through nasointestinal tube was more effective than enema in the treatment of FI inducing colon obstruction.
+  > Gastrografin might be taken into consideration as an effective and safe therapeutic option for FI.
+
 🗎 Hansak 2012 07
 : by Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
   2012\.
   **Lachgas Im Rettungsdienst: by Ergebnisse Eines Pilotprojekts.**
   *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 35 (7):
   50–56.
+
+🗎 Hauser 2018
+: **Transoesophageal echocardiography (TOE): contra-indications, complications and safety of perioperative TOE**
+  by N. D. Hauser et al.
+  *Echo Res Pract*, 2018(5):R101-R113.
+  PMID: 30303686,
+  DOI: [10.1530/ERP-18-0047](https://doi.org/10.1530/ERP-18-0047)
 
 🗎 Havel 2007
 : **Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene.**
@@ -639,7 +691,7 @@ Citation needed
   PMID: 17276575,
   DOI: [10.1016/j.resuscitation.2006.09.007](https://doi.org/10.1016/j.resuscitation.2006.09.007)
 
-  *Compared to resuscitation at the scene, efficiency of chest compressions during a helicopter flight was 86% and 95% in the moving ambulance 95%. There were no differences in secondary outcomes (time without chest compression, total number of incorrect hand position relative to total compressions, and total number of incorrect pressure release relative to total compressions). Resuscitation during transport is feasible and relatively efficient.*
+  > Compared to resuscitation at the scene, efficiency of chest compressions during a helicopter flight was 86% and 95% in the moving ambulance 95%. There were no differences in secondary outcomes (time without chest compression, total number of incorrect hand position relative to total compressions, and total number of incorrect pressure release relative to total compressions). Resuscitation during transport is feasible and relatively efficient.
 
 🗎 Heck KM AN 2
 : **Klinikmanual Anästhesie**
@@ -661,7 +713,7 @@ Citation needed
   doi: 10.1097/CCE.0000000000000043. eCollection 2019 Sep.
   <https://doi.org/10.1097/cce.0000000000000043>
 
-  *Overall, quick Sequential Organ Failure Assessment score outperforms systemic inflammatory response syndrome in predicting sepsis outcome, but quick Sequential Organ Failure Assessment score has relative strengths/weaknesses (more specific but less sensitive) compared with systemic inflammatory response syndrome.*
+  > Overall, quick Sequential Organ Failure Assessment score outperforms systemic inflammatory response syndrome in predicting sepsis outcome, but quick Sequential Organ Failure Assessment score has relative strengths/weaknesses (more specific but less sensitive) compared with systemic inflammatory response syndrome.
 
 🗎 Hochmeister 2
 : **Forensische Medizin für Studium und Praxis.**
@@ -683,6 +735,16 @@ Citation needed
   Publiziert am 12.05.2017.
   Springer e.Medpedia.
   https://www.springermedizin.de/emedpedia/die-anaesthesiologie/volumenersatzloesungen?epediaDoi=10.1007%2F978-3-662-45539-5_26
+
+🗎 Hussain 2023
+: **Analgesic Effectiveness of Motor-sparing Nerve Blocks for Total Knee Arthroplasty: A Network Meta-analysis**
+  by Hussain N et al.
+  Anesthesiology. 2023 Oct 1;139(4):444-461.
+  doi: [10.1097/ALN.0000000000004667](https://doi.org/10.1097/aln.0000000000004667).
+  PMID: 37364292.
+
+  > The results suggest that continuous ACB, but not single-injection ACB and/or single-injection block at the iPACK, provides statistically superior analgesia when added to LIA for total knee arthroplasty compared to LIA alone.
+  > However, the magnitude of these additional analgesic benefits is clinically questionable.
 
 🗎 Hülsemann 2009
 : **[Severe side effects after Octenisept irrigation of penetrating wounds in children].**
@@ -797,13 +859,20 @@ Citation needed
   Resuscitation 2019 Jun;139:269-274.
   <https://doi.org/10.1016/j.resuscitation.2019.04.020>
 
-  *SGD placement was associated with decreased carotid blood flow during cardiopulmonary resuscitation in an experimental porcine model. As time passed during prolonged resuscitation, reduction in CBF was aggravated after the transition to SGD placement compared to the reduction after the transition to ETI.*
+  > SGD placement was associated with decreased carotid blood flow during cardiopulmonary resuscitation in an experimental porcine model. As time passed during prolonged resuscitation, reduction in CBF was aggravated after the transition to SGD placement compared to the reduction after the transition to ETI.*
 
 🗎 Kirschnick 2
 : by Kirschnick, Olaf.
   **Pflegetechniken von a – Z. Schritt Für Schrittin Wort Und Bild.**
   2\. Auflage, 2003.
   Thieme.
+
+🗎 Kluger 2020
+: **Tattoo and epidural analgesia: Rise and fall of a myth**
+  by Nicolas Kluger and Jean-Christian Sleth.
+  Presse Med 2020 Dec;49(4):104050.
+  PMID: 32768613.
+  DOI: [10.1016/j.lpm.2020.104050](https://doi.org/10.1016/j.lpm.2020.104050).
 
 🗎 Koppensteiner 2012 08
 : **Lachgas im Rettungsdienst: Die rechtlichen Aspekte**
@@ -930,7 +999,7 @@ Citation needed
   Chest. 2008:134(1), 172-8.
   <https://doi.org/10.1378/chest.07-2331>
 
-  *This systematic review demonstrated a very poor relationship between CVP and blood volume as well as the inability of CVP/DeltaCVP to predict the hemodynamic response to a fluid challenge. CVP should not be used to make clinical decisions regarding fluid management.*
+  > This systematic review demonstrated a very poor relationship between CVP and blood volume as well as the inability of CVP/DeltaCVP to predict the hemodynamic response to a fluid challenge. CVP should not be used to make clinical decisions regarding fluid management.
 
 🗎 Marik 2013
 : **Does the central venous pressure predict fluid responsiveness? An updated meta-analysis and a plea for some common sense**
@@ -938,7 +1007,7 @@ Citation needed
   Crit Care Med. 2013 Jul;41(7):1774-81.
   <https://doi.org/10.1097/ccm.0b013e31828a25fd>
 
-  *Conclusions: There are no data to support the widespread practice of using central venous pressure to guide fluid therapy. This approach to fluid resuscitation should be abandoned.*
+  > Conclusions: There are no data to support the widespread practice of using central venous pressure to guide fluid therapy. This approach to fluid resuscitation should be abandoned.
 
 🗎 Marqué 2013
 : **Cardiac output monitoring in septic shock: evaluation of the third-generation Flotrac-Vigileo**
@@ -947,7 +1016,7 @@ Citation needed
   PMID: 23361128.
   <https://doi.org/10.1007/s10877-013-9431-z>
 
-  *In our study, third-generation Flowtrac-Vigileo appears to be too inaccurate to be recommended for CI monitoring in septic shock.*
+  > In our study, third-generation Flowtrac-Vigileo appears to be too inaccurate to be recommended for CI monitoring in septic shock.
 
 🗎 Maslach 1982
 : **Burnout. the Cost of Caring.**
@@ -964,6 +1033,19 @@ Citation needed
 : by C. Marquardt et al.
   **Evaluation of the tissue toxicity of antiseptics by the hen’s egg test on the chorioallantoic membrane (hetcam).**
   *Eur J Med Res* 15(5):204–209, May 2010.
+
+🗎 McGee 2003
+: **Preventing complications of central venous catheterization**
+  by David C McGee  and Michael K Gould.
+  N Engl J Med. 2003 Mar 20;348(12):1123-33.
+  doi: [10.1056/NEJMra011883](https://doi.org/10.1056/NEJMra011883).
+
+  > More than 15 percent of patients who receive these catheters have complications.
+
+🗎 Mende 2017
+: **Thoraxdrainage -- Schritt für Schritt**
+  von Mende Ludger et al.
+  [Intensivmedizin up2date 2017; 13: 17–22](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0042-122019.pdf)
 
 🗎 Meron 2004
 : **Non-Traumatic Aortic Dissection or Rupture as Cause of Cardiac Arrest: by Presentation and Outcome.**
@@ -983,9 +1065,9 @@ Citation needed
   J Am Coll Cardiol. 2009 Feb 17;53(7):589-596.
   <https://doi.org/10.1016/j.jacc.2008.05.068>
 
-  *… Furthermore, the ability of CVP to stratify risk for development of WRF was apparent across the spectrum of systemic blood pressure, pulmonary capillary wedge pressure, cardiac index, and estimated glomerular filtration rates.*
+  > … Furthermore, the ability of CVP to stratify risk for development of WRF was apparent across the spectrum of systemic blood pressure, pulmonary capillary wedge pressure, cardiac index, and estimated glomerular filtration rates.
 
-  *Conclusions: Venous congestion is the most important hemodynamic factor driving WRF in decompensated patients with advanced heart failure.*
+  > Conclusions: Venous congestion is the most important hemodynamic factor driving WRF in decompensated patients with advanced heart failure.
 
 🗎 Nilsson 1997
 : **Ein Kind Entsteht.**
@@ -1018,7 +1100,7 @@ Citation needed
   PMID: 36294414.
   <https://doi.org/10.3390/jcm11206093>
 
-  *In conclusion, despite the time adjustments, the estimation of CO using the FloTrac/Vigileo system showed non-negligible overestimation (mean bias –0.94 L/min), clinically unacceptable precision (percentage error 66.1%), and poor trending ability compared with the continuous thermodilution technique as a reference during OPCAB surgery.*
+  > In conclusion, despite the time adjustments, the estimation of CO using the FloTrac/Vigileo system showed non-negligible overestimation (mean bias –0.94 L/min), clinically unacceptable precision (percentage error 66.1%), and poor trending ability compared with the continuous thermodilution technique as a reference during OPCAB surgery.
 
 🗎 Pelucio 1997
 : **Out-of-hospital experience with the syringe esophageal detector device.**
@@ -1034,6 +1116,12 @@ Citation needed
   by Pschyrembel, Willibald (HG.
   1\.   Auflage, 2002.
   de Gruyter.
+
+🗎 Rajabaleyan 2022
+: **Vacuum-assisted closure versus on-demand relaparotomy in patients with secondary peritonitis-the VACOR trial: protocol for a randomised controlled trial.**
+  by Rajabaleyan P et al.: VACOR study group.
+  World J Emerg Surg. 2022 May 26;17(1):25. doi: 10.1186/s13017-022-00427-x. PMID: 35619144; PMCID: PMC9137120.
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9137120/
 
 🗎 Reeves 2013
 : **Basic perioperative transesophageal echocardiography examination: a consensus statement of the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists.**
@@ -1058,6 +1146,16 @@ Citation needed
   **Incidence of propofol-related infusion syndrome in critically ill adults: a prospective, multicenter study.**
   Crit Care. 2009; 13(5): R169.
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784401/>
+
+🗎 Rodrigues 2019
+: **Continuous peritoneal lavage with vacuum peritoneostomy: an experimental study**
+  by Rodrigues ACet al.
+  Clinics (Sao Paulo). 2019;74:e937.
+  doi: 10.6061/clinics/2019/e937. Epub 2019 Jul 10.
+  PMID: 31291390; PMCID: PMC6607936.
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6607936/
+
+  > Continuous peritoneal lavage with PDS associated with vacuum peritoneostomy is technically feasible and maintains physiological parameters within the normal range. Thus, clinical studies should be conducted to evaluate the use of this technique in the treatment of diffuse peritonitis.
 
 🗎 Sandroni 2008
 : **Myocardial Stunning After Successful Defibrillation.**
@@ -1109,7 +1207,7 @@ Citation needed
   J Invasice Cardiol 2015;27(5):E70-E73.
   <https://www.hmpgloballearningnetwork.com/site/jic/articles/allens-test-does-it-have-any-significance-current-practice>
 
-  *Randomized trials of TRA-PCI have excluded patients with abnormal Allen’s tests, whereas routine practice includes a large number of such patients. High-volume transradial centers in the United Kingdom and other countries document the extremely low, almost unheard of, incidence of hand ischemia after TRA cardiac catheterization33-35 without prior AT. Observations from the congenital heart disease and vascular surgery spheres lead us to conclude that AT is a misleading and inaccurate test of collateral blood supply to the hand. In our opinion, the case for its routine use is flawed.*
+  > Randomized trials of TRA-PCI have excluded patients with abnormal Allen’s tests, whereas routine practice includes a large number of such patients. High-volume transradial centers in the United Kingdom and other countries document the extremely low, almost unheard of, incidence of hand ischemia after TRA cardiac catheterization33-35 without prior AT. Observations from the congenital heart disease and vascular surgery spheres lead us to conclude that AT is a misleading and inaccurate test of collateral blood supply to the hand. In our opinion, the case for its routine use is flawed.
 
 🗎 Shankar-Hari 2016
 : **Developing a New Definition and Assessing New Clinical Criteria for Septic Shock: For the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)**
@@ -1153,7 +1251,16 @@ Citation needed
   Am J Surg. 2004 Mar;187(3):398-402.
   <https://doi.org/10.1016/j.amjsurg.2003.12.001>
 
-  *Elevated CVP during major liver resections results in greater blood loss and a longer hospital stay. The Pringle maneuver with CVP 5 mm Hg or less is associated with blood loss not significantly different from that with SHVE. The latter, though, has been shown not to be affected by CVP levels and should be used whenever CVP remains high despite adequate anesthetic management.*
+  > Elevated CVP during major liver resections results in greater blood loss and a longer hospital stay. The Pringle maneuver with CVP 5 mm Hg or less is associated with blood loss not significantly different from that with SHVE. The latter, though, has been shown not to be affected by CVP levels and should be used whenever CVP remains high despite adequate anesthetic management.
+
+🗎 StatPearls CLP
+: **Central Line Placement**
+  by Audrey Tse and Michael A. Schick.
+  In: StatPearls [Internet].
+  Treasure Island (FL): StatPearls Publishing;
+  2022 Dec 21.
+  PMID: 29262231.
+  Bookshelf ID: [NBK470286](http://www.ncbi.nlm.nih.gov/books/nbk470286/)
 
 🗎 Steinert 2008
 : by Steinert, Yvonne.
@@ -1202,13 +1309,11 @@ Citation needed
   Eur Heart J Acute Cardiovasc Care 2018 Aug;7(5):423-431.
   <https://doi.org/10.1177/2048872617731894>
 
-  *We found that the use of a laryngeal tube for airway management in cardiac arrest was significantly associated with poor 30-day survival rates and unfavourable neurological outcome. A primary endotracheal airway management needs to be considered at the scene, or an earliest possible secondary endotracheal intubation during both pre-hospital and in-hospital post-return of spontaneous circulation critical care seems crucial and most beneficial for the patient outcome.*
+  > We found that the use of a laryngeal tube for airway management in cardiac arrest was significantly associated with poor 30-day survival rates and unfavourable neurological outcome. A primary endotracheal airway management needs to be considered at the scene, or an earliest possible secondary endotracheal intubation during both pre-hospital and in-hospital post-return of spontaneous circulation critical care seems crucial and most beneficial for the patient outcome.
 
 🗎 Supady 2009
 : by Supady, A., T. Schwab and H-J. Busch. 2009.
-  **\["’‘Liquid Ecstasy"’:
-  Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis
-  Dependent Renal Failure\].**
+  **\["’‘Liquid Ecstasy"’: Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis Dependent Renal Failure\].**
   *Dtsch Med Wochenschr* 134 (18). Medizin III
   \- Kardiologie und Angiologie Universitätsklinikum Freiburg.
   <mailto:Alexander.Supady@uniklinik-freiburg.de>: by 935–37.
@@ -1220,13 +1325,22 @@ Citation needed
   Healthcare (Basel) 2022 May 23;10(5):961.
   <https://doi.org/10.3390/healthcare10050961>
 
-  *Prehospital airway devices are often classified as either basic or advanced, with this latter category including both supraglottic airway (SGA) devices and instruments designed to perform endotracheal intubation (ETI). Therefore, many authors analyze the impact of SGA and ETI devices jointly. ... Nevertheless, SGA devices might be particularly useful in the prehospital setting where many providers are not experienced enough to safely perform ETI. Compared to basic airway management (bag-valve-mask) devices, SGA devices enable better oxygenation, decrease the odds of aspiration, and allow for more reliable capnometric measurement by virtue of their enhanced airtightness. For all these reasons, we strongly believe that SGA devices should be categorized as “intermediate airway management devices” and be systematically analyzed separately from devices designed to perform ETI.*
+  > Prehospital airway devices are often classified as either basic or advanced, with this latter category including both supraglottic airway (SGA) devices and instruments designed to perform endotracheal intubation (ETI). Therefore, many authors analyze the impact of SGA and ETI devices jointly. ... Nevertheless, SGA devices might be particularly useful in the prehospital setting where many providers are not experienced enough to safely perform ETI. Compared to basic airway management (bag-valve-mask) devices, SGA devices enable better oxygenation, decrease the odds of aspiration, and allow for more reliable capnometric measurement by virtue of their enhanced airtightness. For all these reasons, we strongly believe that SGA devices should be categorized as “intermediate airway management devices” and be systematically analyzed separately from devices designed to perform ETI.
 
 🗎 SurvSepsisCpg 2012
 : **Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012**
   by R. P. Dellinger et al. & The Surviving Sepsis Campaign Guidelines Committee.
   Intensive Care Med 39, 165–228 (2013).
   <https://doi.org/10.1007/s00134-012-2769-8>
+
+🗎 Sznajder 1986
+: **Central vein catheterization. Failure and complication rates by three percutaneous approaches**
+  by J I Sznajder et al.
+  Arch Intern Med 1986 Feb;146(2):259-61.
+  PMID: 3947185.
+  DOI: [10.1001/archinte.146.2.259.](https://doi.org/10.1001/archinte.146.2.259)
+
+  > Overall failure rate was 10.1% for the experienced group and 19.4% for the inexperienced. The complication was 5.4% for experienced and 11% for inexperienced. Among inexperienced physicians, the success rate was 86.7% and the complication rate 7.6% in unconscious patients, whereas in conscious patients these rates were 70.5% and 13.8%, respectively. The inexperienced physicians caused fewer complications in mechanically ventilated than in spontaneously breathing patients.
 
 🗎 Thierbach 2004
 : **\[Prehospital Emergency Airway Management Procedures. Success Rates and Complications\].**
@@ -1287,6 +1401,13 @@ Citation needed
   *Resuscitation* 77 (3). Department of Emergency
   Medicine, Medical University of Vienna, Austria.: by 331–38.
 
+🗎 Van der Most 2008
+: **Stadienadaptierte Therapie der komplizierten Sigmadivertikulitis unter besonderer Berücksichtigung der programmierten Etappenlavage** (ein Vergleich von Notfall- und Elektivpatienten vom 1997 bis März 2006)
+  von Roel Frans van der Most.
+  Dissertation.
+  Universität Hamburg, 2008.
+  https://ediss.sub.uni-hamburg.de/handle/ediss/2597
+
 🗎 Varon 2020
 : **A Comparative Study of ECG-derived Respiration in Ambulatory Monitoring using the Single-lead ECG.**
   Varon, C., Morales, J., Lázaro, J. et al.
@@ -1295,6 +1416,13 @@ Citation needed
 
 🗎 VBV 2002
 : Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: by BGBl. II Nr. 347/2005
+
+🗎 Vignon 2017
+: **Ten reasons for performing hemodynamic monitoring using transesophageal echocardiography**
+  by P. Vignon et al.
+  *Intensive Care Med*, 2017(43):1048-1051.
+  PMID: 28213621,
+  DOI: [10.1007/s00134-017-4716-1](https://doi.org/10.1007/s00134-017-4716-1)
 
 🗎 Vlcek 2008
 : **Association Between   Hypertensive Urgencies and Subsequent Cardiovascular Events in Patients with Hypertension.**
@@ -1363,18 +1491,17 @@ Citation needed
 
     CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
 
-
-🗎 Wells 2000
-: **Derivation of a Simple Clinical Model to Categorize Patients Probability of Pulmonary Embolism: by Increasing the Models Utility with the Simplired d-Dimer.**
-  by P. S. Wells et al.
-  *Thromb Haemost* 2000:83 (3), 416—20.
-
 🗎 Weil 1971
 : **Proposed reclassification of shock states with special reference to distributive defects**
   by M H Weil and H Shubin.
   Adv Exp Med Biol. 1971 Oct;23(0):13-23.
   PMID: 5164840.
   <https://doi.org/10.1007/978-1-4615-9014-9_3>
+
+🗎 Wells 2000
+: **Derivation of a Simple Clinical Model to Categorize Patients Probability of Pulmonary Embolism: by Increasing the Models Utility with the Simplired d-Dimer.**
+  by P. S. Wells et al.
+  *Thromb Haemost* 2000:83 (3), 416—20.
 
 
 🗎 WHO Phleb 2010
@@ -1384,7 +1511,6 @@ Citation needed
   <https://www.ncbi.nlm.nih.gov/books/NBK138650/>
 
   *Annex I: Modified Allen test*
-
 
 🗎 Wiese 2009
 : **The Use of the Laryngeal Tube Disposable (Lt-d) by  Paramedics During Out-of-Hospital Resuscitation-an Observational Study  Concerning Erc Guidelines 2005.**

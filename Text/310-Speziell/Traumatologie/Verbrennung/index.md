@@ -332,7 +332,7 @@ allmählich.
     Bei großflächigen Verbrennungen können,
     wenn das sterile Material nicht ausreicht,
     zur Not auch saubere Leintücher o. ä.
-    verwendet werden {term}`🗎 AAOS 9`,.
+    verwendet werden ,.
   - Schockbekämpfung
   - *Kolloidale* Infusionslösungen sind *kontraindiziert\** [^kolloidalelsgverbrennung]**!**
 
@@ -340,7 +340,7 @@ allmählich.
 
 ## Was man **nicht** tun darf …
 
-- NEIN: Salbe, Puder, etc. auf frische Brandwunde ({term}`🗎 AAOS 9`,; {term}`🗎 PHTLS 6`)
+- NEIN: Salbe, Puder, etc. auf frische Brandwunde
 - NEIN: Blasen öffnen {cite}`AAOS:9`
 - NEIN: festklebende Kleidung gewaltsam entfernen
 

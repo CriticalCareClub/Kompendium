@@ -11,13 +11,6 @@
 :::
 
 {.glossary}
-♛ S1 Atemweg 2015
-: **S1-Leitlinie Atemwegsmanagement**
-  by T. Piepho et al.
-  Anaesthesist 2015 64:859–873.
-  AWMF-Register Nr.: 001/028.
-  DOI 10.1007/s00101-015-0087-6
-  <https://link.springer.com/article/10.1007/s00101-015-0087-6>
 
 ♛ ASA Airway 2022
 : **2022 American Society of Anesthesiologists Practice Guidelines for Management of the Difficult Airway**
@@ -150,10 +143,37 @@
   ISBN 978-3-903099-27-2.
   https://goeg.at/sites/goeg.at/files/inline-files/%C3%96SG_2017_-_Tabellenband%2C_Stand_07.10.2022.pdf
 
+♛ S1 Atemweg 2015
+: **S1-Leitlinie Atemwegsmanagement**
+  by T. Piepho et al.
+  Anaesthesist 2015 64:859–873.
+  AWMF-Register Nr.: 001/028.
+  DOI 10.1007/s00101-015-0087-6
+  <https://link.springer.com/article/10.1007/s00101-015-0087-6>
+
+♛ S1 Prähosp Atemweg 2019
+: **S1-Leitlinie Prähospitales Atemwegsmanagement**
+  der Deutsche Gesellschaft für Anästhesiologie und Intensivmedizin e.V. (DGAI) et al.
+  AWMF-Register Nr.: 001-040.
+  https://register.awmf.org/assets/guidelines/001-040l_S1_Praehospitales-Atemwegsmanagement_2019-03_1.pdf
+
 ♛ S2k Anaphylaxie 2021
-: **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**
-  by Deutsche Gesellschaft für Allergologie und klinische Immunologie (DGAKI) et al.
-  *AWMF*, 2021(061-025)   https://register.awmf.org/de/leitlinien/detail/061-025
+: **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**,
+  des Ärzteverbands Deutscher Allergologen (AeDA),
+  der Gesellschaft für Pädiatrische Allergologie und Umweltmedizin (GPA),
+  der Deutschen Akademie für Allergologie und Umweltmedizin (DAAU),
+  des Berufsverbands der Kinder- und Jugendärzte (BVKJ),
+  der Gesellschaft für Neonatologie und Pädiatrische Intensivmedizin (GNPI),
+  der Deutschen Dermatologischen Gesellschaft (DDG),
+  der Österreichischen Gesellschaft für Allergologie und Immunologie (ÖGAI),
+  der Schweizerischen Gesellschaft für Allergologie und Immunologie (SGAI),
+  der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI),
+  der Deutschen Gesellschaft für Pharmakologie (DGP),
+  der Deutschen Gesellschaft für Pneumologie und Beatmungsmedizin (DGP),
+  der Patientenorganisation Deutscher Allergie- und Asthmabund (DAAB)
+  und der Arbeitsgemeinschaft Anaphylaxie - Training und Edukation (AGATE).
+  AWMF-Registernummer 061-025.
+  <https://register.awmf.org/de/leitlinien/detail/061-025>
 
 ♛ S2k PPH 2022
 : **S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie**
@@ -162,21 +182,23 @@
   AWMF-Registernummer 015-063.
   <https://register.awmf.org/de/leitlinien/detail/015-063>
 
+♛ SurvSepsisCpg 2021
+: **Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.**
+  By: Evans, L., Rhodes, A., Alhazzani, W. et al.
+  Intensive Care Med 47, 1181–1247 (2021).
+  <https://doi.org/10.1007/s00134-021-06506-y>
+
 
 :::{raw} latex
 \normalsize
 :::
 
-## 🗎 Sonstige Literatur
+## 🗎 Primär- und sonstige Literatur
 
 :::{raw} latex
 \footnotesize
 :::
 {.glossary}
-🗎 AAOS 9
-: **Emergency Care and Transportation of the Sick and Injured.**
-  by by AAOS  9th ed., 2006.
-  Bartlett Publishers, Inc.
 
 🗎 Adams 1996
 : by Adams, Douglas
@@ -188,6 +210,12 @@
 : by Economic Commission for Europe, Committee on Inland Transport, ed. 2010.
   *European Agreement Concerning the International Carriage of Dangerous Goods by Road.* United Nations.
   <http://live.unece.org/trans/danger/publi/adr/adr2011/11contentse.html>.
+
+🗎 Andriolo 2015
+: **Early versus late tracheostomy for critically ill patients**
+  by Brenda N G Andriolo  et al.
+  Cochrane Database Syst Rev 2015 Jan 12;1(1):CD007271.
+  <https://doi.org/10.1002/14651858.cd007271.pub3>
 
 🗎 Antonovsky Salutogenese
 : **Salutogenese: by Zur Entmystifizierung der Gesundheit.**
@@ -201,12 +229,23 @@
   1\. Auflage, 2009.
   WBG – Wissenschaftliche Buchgesellschaft.
 
+🗎 ASA 2003
+: **Practice Guidelines for Management of the Difficult Airway: An Updated Report by the American Society of Anesthesiologists Task Force on Management of the Difficult Airway**
+  by the American Society of Anesthesiologists Task Force on Difficult Airway Management.
+  Anesthesiology May 2003, Vol. 98, 1269–1277.
+  <https://doi.org/10.1097/00000542-200305000-00032>
+
 🗎 Asai 2005
 : **The Laryngeal Tube.**
   by Asai, T. and K. Shingu.
   *Br J Anaesth*
   2005:95(6), 10-15, 729–36.
   doi:[10.1093/bja/aei269](https://doi.org/10.1093/bja/aei269).
+
+🗎 Aust 2018
+: Aust:
+  **Anästhesie kompakt.**
+  2018
 
 🗎 Battegay 2
 : by Battegay, Raymond, ed:
@@ -220,8 +259,6 @@
   Anesthesia and analgesia, 2016, 122, 986-95.
 
   Abstract: BACKGROUND: Tranexamic acid (TXA) reduces bleeding in patients undergoing hip replacement surgery, but optimal doses and timing have yet to be established. Our primary objective in this study was to assess total blood loss 48 hours after surgery with different regimens.
-
-  METHODS: This was a multicenter, parallel-group, randomized, placebo-controlled clinical trial that included all ASA physical status I to III patients undergoing unilateral total hip replacement surgery who met the inclusion criteria. Patients were randomly allocated to 1 of 3 groups: a single-dose group (15 mg/kg TXA before the start of surgery and saline 3 hours later after the start of surgery), a 2-dose group (10 m/kg TXA before and 10 mg/kg of TXA 3 hours after the start of surgery), and a control group (saline before and 3 hours after the start of surgery). Total blood loss was calculated using a formula considering hematocrit values and blood transfusions received. RESULTS: We included 108 patients in the study. Total blood loss volumes up to day 2 were 1377 +/- 689, 1308 +/- 641, and 2215 +/- 1136 mL in the single-dose, 2-dose and control groups, respectively (P 0.001 between the placebo and the experimental groups). Blood transfusions were given to 22.9\\\&percnt; of patients (n = 8) in the single-dose group, 11.1\\\&percnt; (n = 4) in the 2-dose group, and 37.8\\\&percnt; (n = 14) in the control group (P = 0.028).
 
   CONCLUSIONS: A single preoperative dose of TXA or 2 infusions of a lower dose, preoperatively and then after 3 hours after the start of surgery, resulted in lower blood loss during the first 2 days after surgery and less need for blood transfusion, with good levels of safety.
 
@@ -246,6 +283,14 @@
   2004\.
   2\. Auflage, 2004.
   3\. Springer.
+
+🗎 Bernhard 2012
+: **Developing the Skill of Endotracheal Intubation: by Implication for Emergency Medicine.**
+  by Bernhard, M., S. Mohr, M. A. Weigand, E. Martin and A. Walther. 2012.
+  *Acta Anaesthesiol Scand* 56 (2). Department of
+  Anaesthesiology, University Hospital of Heidelberg, Germany.
+  <mailto:michelbernhard@gmx.de>: by 164–71.
+  doi:[10.1111/j.1399-6576.2011.02547.x](https://doi.org/10.1111/j.1399-6576.2011.02547.x).
 
 🗎 Bertelsmann 25
 : **Bertelsmann Volkslexikon.**
@@ -308,12 +353,32 @@
 Citation needed
 : **Citation needed**
 
+🗎 Chauhan 2016
+: **Nasal intubation: A comprehensive review.**
+  by Chauhan V, Acharya G.
+  Indian J Crit Care Med. 2016 Nov;20(11):662-667.
+  doi: 10.4103/0972-5229.194013.
+  PMID: 27994382;
+  PMCID: PMC5144529.
+
+🗎 Chemsian 2014
+: **Videolaryngoscopy.**
+  by Chemsian R, Bhananker S, Ramaiah R.
+  Int J Crit Illn Inj Sci. 2014 Jan;4(1):35-41.
+  doi: 10.4103/2229-5151.128011. PMID: 24741496; PMCID: PMC3982369.
+
 🗎 Cobas 2009
 : **Prehospital intubations and mortality: a level 1 trauma center perspective.**
   by M. A. Cobas et al.
   *Anesthesia and analgesia*, 2009(109):489-493.
   PMID: 19608824,
   DOI: [10.1213/ane.0b013e3181aa3063](https://doi.org/10.1213/ane.0b013e3181aa3063)
+
+🗎 CRASH-3
+: **Effects of tranexamic acid on death, disability, vascular occlusive events and other morbidities in patients with acute traumatic brain injury (CRASH-3): a randomised, placebo-controlled trial**
+  by The CRASH-3 trial collaborators.
+  Lancet 2019; 394: 1713–23 Published Online, October 14, 2019.
+  https://doi.org/10.1016/S0140-6736(19)32233-0
 
 🗎 Cuthbertson 2009
 : **The effects of etomidate on adrenal responsiveness and mortality in patients with septic shock.**
@@ -344,6 +409,57 @@ Citation needed
   1988.\*Klinische Psychologie.\*
   PVU.
 
+🗎 Davydow 2009a
+: Davydow, D. S.; Katon, W. J. & Zatzick, D. F.:
+  **Psychiatric morbidity and functional impairments in survivors of burns, traumatic injuries, and ICU stays for other critical illnesses: a review of the literature.**
+  International review of psychiatry (Abingdon, England), 2009, 21, 531-538.
+
+  *Abstract: Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
+  We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disorders as well as potential preventative and treatment interventions that may improve outcomes.*
+
+🗎 Davydow 2009b
+: Davydow, D. S.; Zatzick, D. F. et a.:
+  **Predictors of posttraumatic stress disorder and return to usual major activity in traumatically injured intensive care unit survivors.**
+  General hospital psychiatry, 2009, 31, 428-435.
+
+  *Abstract: To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
+  Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
+  Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
+  Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
+  Longer ICU lengths of stay (RR 1.21, 95% CI 1.03-1.44, P=.02) and tracheostomy (RR 1.29, 95% CI 1.05-1.59, P=.01) were associated with diminished usual activity.
+  Greater preexisting medical comorbidities were associated with PTSD and limited return to usual activity. Easily identifiable risk factors including ICU/acute care service-delivery characteristics and early post-ICU distress were associated with increased risk of PTSD and limitations in return to usual major activity. Future investigations could develop early screening interventions in acute care settings targeting these risk factors, facilitating appropriate treatments.*
+
+🗎 Davydow 2009c
+: Davydow, D. S.; Gifford, J. M. et al.:
+  **Depression in general intensive care unit survivors: a systematic review.**
+  Intensive care medicine, 2009, 35, 796-809.
+
+  *To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
+  The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
+  Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
+  Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
+  Post-ICU depressive symptoms were associated with substantially lower HRQOL.
+  Depressive symptoms are common in general ICU survivors and negatively impact HRQOL. Future studies should address how factors related to individual patients, critical illness and post-ICU recovery are associated with depression in ICU survivors.*
+
+🗎 Davydow 2009d
+: Davydow, D. S. & Zatzick, D. F.:
+  **Surviving critical illness is not without its perils: a perspective on depression in acute lung injury survivors.**
+  Critical care medicine, 2009, 37, 1817-1818.
+
+🗎 Davydow 2010
+: Davydow, D. S.; Richardson, L. P. et al.:
+  **Psychiatric morbidity in pediatric critical illness survivors: a comprehensive review of the literature.**
+  Archives of pediatrics & adolescent medicine, 2010, 164, 377-385.
+
+  *To review the prevalence of psychiatric syndromes in pediatric critical illness survivors as well as to summarize data on vulnerabilities and pediatric intensive care unit exposures that may increase risk of developing these syndromes. MEDLINE (1966-2009), the Cochrane Library (2009, issue 3), and PsycINFO (1967-2009) as of August 9, 2009. Case-control, cross-sectional, prospective cohort and retrospective cohort studies as well as randomized controlled trials. Hospitalization for the treatment of a critical illness. Assessments of psychiatric symptoms/disorders at least once after discharge. Seventeen studies were eligible. The most commonly assessed psychiatric disorders were posttraumatic stress disorder and major depression.
+  ... Psychiatric morbidity appears to be a substantial problem for pediatric critical illness survivors.*
+
+🗎 De Backer 2018
+: Daniel De Backer and Jean-Louis Vincent:
+  **Should we measure the central venous pressure to guide fluid management? Ten answers to 10 questions.**
+  Crit Care. 2018; 22: 43.
+  <https://doi.org/10.1186%2Fs13054-018-1959-3>
+
 🗎 Dengler 2011
 : by Dengler, V., P. Wilde, C. Byhahn, M. G. Mack and R. Schalk. 2011.
 
@@ -353,6 +469,11 @@ Citation needed
   Schmerztherapie, Klinikum der J.W. Goethe-Universität Frankfurt a.M.,
   Theodor-Stern-Kai 7, Frankfurt a.M., Germany.: by 135–38.
   doi:[10.1007/s00101-010-1774-y](https://doi.org/10.1007/s00101-010-1774-y).
+
+🗎 DerPhy
+: **Deranged Physiology**
+  by Alex Yartsev.
+  <https://derangedphysiology.com/>
 
 🗎 EcgEmergencyDec 2
 : by Wells, Hein J. J. and Mary Conover:
@@ -381,6 +502,14 @@ Citation needed
   2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: by comments from the Dutch ACS working group.
   Netherlands heart journal : by monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
 
+🗎 Eskesen 2016
+: **Systematic review including re-analyses of 1148 individual data sets of central venous pressure as a predictor of fluid responsiveness**
+  by T G Eskesen.
+  Intensive Care Med. 2016 Mar;42(3):324-332.
+  <https://doi.org/10.1007/s00134-015-4168-4>
+
+  *In a re-analysis of 1148 patient data sets, specific lower and higher CVP values had some positive and negative predictive value for fluid responsiveness, respectively, but predictive values were low for all specific CVP values assessed.*
+
 🗎 EurSafety
 : **EurSafety Health-Net Projekt.**
   Euregionales Netzwerk für Patientensicherheit und Infektionsschutz.
@@ -403,6 +532,14 @@ Citation needed
 
   *Using tap water compared with no cleansing may make little or no difference to wound healing, while there are no data on wound infection. The impact of using tap water compared with saline for wound cleansing on both infection and wound healing is uncertain.*
 
+🗎 Fernando 2018
+: **Prognostic Accuracy of the Quick Sequential Organ Failure Assessment for Mortality in Patients With Suspected Infection: A Systematic Review and Meta-analysis**
+  by Shannon M Fernando et al.
+  Ann Intern Med. 2018 Feb 20;168(4):266-275.
+  <https://doi.org/10.7326/m17-2820>
+
+  *qSOFA had poor sensitivity and moderate specificity for short-term mortality. The SIRS criteria had sensitivity superior to that of qSOFA, supporting their use for screening of patients and as a prompt for treatment initiation.*
+
 🗎 FI AmiodaronHameln 2020
 : **Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
   by Fachinformation
@@ -410,11 +547,41 @@ Citation needed
   hameln pharma gmbh.
   <https://aspregister.basg.gv.at/document/servlet?action=show&zulnr=138341&type=DOTC_FACH_INFO>
 
+🗎 FloTrac 2020
+: **FloTrac Algorithm. Calculating stroke volume and cardiac output
+  getting mL/beat from mmHg.**
+  By John A. Frazier and Feras Hatib on behalf of Edwards Lifesciences.
+  2020, One Edwards Way, Irvine CA 92614 USA.
+  <https://assets-us-01.kc-usercontent.com/6239a81e-8f0f-0040-a1df-b4932a10f6ae/6b01b5e6-2399-4d7a-ac6e-31e6a8f06a73/flotracalgorithmwhitepaper.pdf>
+
 🗎 Frieling 2
 : **Lehrbuch Arbeitspsychologie.**
   by Frieling und Sonntag (HG.
   1\. Auflage, 1999.
   Huber.
+
+🗎 Genzwuerker 2007
+: Genzwuerker, Harald V.:
+  **Unavailability of Capnometry: A Legal Issue**
+  *Anesth Analg*
+  2007:105(4),: 1167; author reply 1169.
+  doi:[10.1213/01.ane.0000278151.76711.c1](https://doi.org/10.1213/01.ane.0000278151.76711.c1).
+
+🗎 Gilchrist 2015
+: **De-implementing the Allen's Test**
+  by Ian C Gilchrist  and Sunil V Rao.
+  J Invasive Cardiol. 2015 May;27(5):E74.
+  <https://www.hmpgloballearningnetwork.com/site/jic/articles/de-implementing-allens-test>
+
+  *Early pioneers of transradial procedures used collateral testing out of an abundance of caution to eliminate or reduce potential risks as they explored a new approach to catheterization. It is now clear that collateral testing for triage decisions regarding access site is not helpful and likely will prevent patients who can benefit from radial access from undergoing a safer procedure. While there is still a role for collateral testing in some circumstances for periprocedural management, the use of collateral testing to primarily exclude the use of radial access can be “de-implemented” as it has no scientific support and is not predictive of hand or digital ischemia.*
+
+🗎 Goerg 2018
+: **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
+  von Simon Görg.
+  Thesis (Diplom).
+  June 2018, Medizinische Universität Wien.
+  URN: urn:nbn:at:at-ubmuw:1-14568.
+  https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
 
 🗎 Grassberger 1
 : by Grassberger, Martin und Harald Schmid:
@@ -437,6 +604,13 @@ Citation needed
   URN: urn:nbn:at:at-ubmuw:1-14568.
   https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
 
+🗎 Grenvik 1972
+: **Impedance pneumography. Comparison between chest impedance changes and respiratory volumines in 11 healthy volunteers.**
+  by Grenvik A, Ballou S, McGinley E, Millen JE, Cooley WL, Safar P.
+  Chest. 1972 Oct;62(4):439-43.
+  doi: 10.1378/chest.62.4.439.
+  PMID: 5077999.
+
 🗎 Grmec 2002
 : **Comparison of Three Different Methods to Confirm Tracheal Tube Placement in Emergency Intubation**
   by Grmec, Stefek.
@@ -451,6 +625,13 @@ Citation needed
   2009:44(2), 108–14.
   doi:[10.1093/alcalc/agn105](https://doi.org/10.1093/alcalc/agn105).
 
+🗎 Hansak 2012 07
+: by Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
+  2012\.
+  **Lachgas Im Rettungsdienst: by Ergebnisse Eines Pilotprojekts.**
+  *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 35 (7):
+  50–56.
+
 🗎 Havel 2007
 : **Quality of closed chest compression in ambulance vehicles, flying helicopters and at the scene.**
   by C. Havel et al.
@@ -459,6 +640,28 @@ Citation needed
   DOI: [10.1016/j.resuscitation.2006.09.007](https://doi.org/10.1016/j.resuscitation.2006.09.007)
 
   *Compared to resuscitation at the scene, efficiency of chest compressions during a helicopter flight was 86% and 95% in the moving ambulance 95%. There were no differences in secondary outcomes (time without chest compression, total number of incorrect hand position relative to total compressions, and total number of incorrect pressure release relative to total compressions). Resuscitation during transport is feasible and relatively efficient.*
+
+🗎 Heck KM AN 2
+: **Klinikmanual Anästhesie**
+  von Heck M, Fresenius M, Busch C.
+  \2. Auflage.
+  Springer.
+  doi: 10.1007/978-3-642-55440-7_48. PMCID: PMC7123912.
+
+🗎 Hemphill 2019
+: **Propofol infusion syndrome: a structured literature review and analysis of published case reports**
+  by Scott Hemphill et al.
+  British Journal of Anaesthesia, 122 (4): 448—459 (2019).
+  DOI:https://doi.org/10.1016/j.bja.2018.12.025
+
+🗎 Herwanto 2019
+: **Accuracy of Quick Sequential Organ Failure Assessment Score to Predict Sepsis Mortality in 121 Studies Including 1,716,017 Individuals: A Systematic Review and Meta-Analysis**
+  by Velma Herwanto et al.
+  Crit Care Explor. 2019 Sep 17;1(9):e0043.
+  doi: 10.1097/CCE.0000000000000043. eCollection 2019 Sep.
+  <https://doi.org/10.1097/cce.0000000000000043>
+
+  *Overall, quick Sequential Organ Failure Assessment score outperforms systemic inflammatory response syndrome in predicting sepsis outcome, but quick Sequential Organ Failure Assessment score has relative strengths/weaknesses (more specific but less sensitive) compared with systemic inflammatory response syndrome.*
 
 🗎 Hochmeister 2
 : **Forensische Medizin für Studium und Praxis.**
@@ -471,6 +674,15 @@ Citation needed
   by Huch, Renate und Klaus D. Jürgens (HG.
   6\. Auflage, 2011.
   Elsevier.
+
+🗎 Hulde 2017
+: **Volumenersatzlösungen**
+  von Nikolai Hulde, Michaela Schwarz und Markus Rehm
+  in: *Die Anästhesiologie.*
+  Herausgegeben von Rolf Rossaint, Christian Werner, Bernhard Zwißler.
+  Publiziert am 12.05.2017.
+  Springer e.Medpedia.
+  https://www.springermedizin.de/emedpedia/die-anaesthesiologie/volumenersatzloesungen?epediaDoi=10.1007%2F978-3-662-45539-5_26
 
 🗎 Hülsemann 2009
 : **[Severe side effects after Octenisept irrigation of penetrating wounds in children].**
@@ -562,26 +774,49 @@ Citation needed
   1\.  Auflage, 2001.
   Thieme.
 
+🗎 Kheterpal 2006
+: **Incidence and predictors of difficult and impossible mask ventilation**
+  by Sachin Kheterpal et al.
+
+  Anesthesiology. 2006 Nov;105(5):885-91.
+  <https://doi.org/10.1097/00000542-200611000-00007>
+
+  *During a 24-month period, 22,660 attempts at MV were recorded. 313 cases (1.4%) of grade 3 MV, 37 cases (0.16%) of grade 4 MV, and 84 cases (0.37%) of grade 3 or 4 MV and difficult intubation were observed.*
+
+🗎 Kheterpal 2013
+: **Incidence, predictors, and outcome of difficult mask ventilation combined with difficult laryngoscopy: a report from the multicenter perioperative outcomes group**
+  by Sachin Kheterpal et al.
+  Anesthesiology. 2013 Dec;119(6):1360-9.
+  <https://doi.org/10.1097/aln.0000435832.39353.20>
+
+  *Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.*
+
+🗎 Kim 2019
+: **Effect of endotracheal intubation and supraglottic airway device placement during cardiopulmonary resuscitation on carotid blood flow over resuscitation time: An experimental porcine cardiac arrest study**
+  by Tae Han Kim
+  Resuscitation 2019 Jun;139:269-274.
+  <https://doi.org/10.1016/j.resuscitation.2019.04.020>
+
+  *SGD placement was associated with decreased carotid blood flow during cardiopulmonary resuscitation in an experimental porcine model. As time passed during prolonged resuscitation, reduction in CBF was aggravated after the transition to SGD placement compared to the reduction after the transition to ETI.*
+
 🗎 Kirschnick 2
 : by Kirschnick, Olaf.
   **Pflegetechniken von a – Z. Schritt Für Schrittin Wort Und Bild.**
   2\. Auflage, 2003.
   Thieme.
 
-🗎 Klinke 3
-: **Lehrbuch Der Physiologie.**
-  by Klinke, R und St. Silbernagl (HG.)
-  3\. Auflage, 2001.
-  Thieme-Verlag.
-
-  ```{eval-rst}
-  .. todo:: by Literatur-Update: by Klinke: **Lehrbuch Der Physiologie.** 3. Auflage, 2001.
-  ```
-
 🗎 Koppensteiner 2012 08
 : **Lachgas im Rettungsdienst: Die rechtlichen Aspekte**
   by S. Koppensteiner
   *Rettungsdienst*, 2012(35:8)
+
+🗎 Kotani 2023
+: **Etomidate as an induction agent for endotracheal intubation in critically ill patients: A meta-analysis of randomized trials**
+  by Yuki Kotani et al.
+  J Crit Care. 2023 Oct:77:154317.
+  PMID: 37127020 [10.1016/j.jcrc.2023.154317](https://doi.org/10.1016/j.jcrc.2023.154317)
+
+  > This meta-analysis found a high probability that etomidate increases mortality when used as an induction agent in critically ill patients with a number needed to harm of 31.
 
 🗎 Kramer 1
 : **Wallhäußers Praxis Der Sterilisation, Desinfektion, Antiseptik Und Konservierung.**
@@ -622,17 +857,36 @@ Citation needed
   Verlag von Ferdinand Enke in Stuttgart.
   <http://www.gutenberg.org/ebooks/39529>.
 
+🗎 Langeron 2000
+: **Prediction of difficult mask ventilation**
+  by O. Langeron et al.
+  Anesthesiology. 2000 May;92(5):1229-36.
+  <https://doi.org/10.1097/00000542-200005000-00009>
+
+🗎 Larsen 1984
+: **Impedance pneumography for long-term monitoring of respiration during sleep in adult males.**
+  by Larsen VH, Christensen PH, Oxhøj H, Brask T.
+  Clin Physiol. 1984 Aug;4(4):333-42.
+  doi: 10.1111/j.1475-097x.1984.tb00808.x.
+  PMID: 6540645.
+
 🗎 Lazarus 1984
 : **Stress, Appraisal and Coping.**
   by Lazarus, R.S. and S. Folkman (HG.
   1984\.
-  Springer.
 
+  *Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.*
 🗎 Lecky 2008
 : **Emergency Intubation for Acutely Ill and Injured Patients.**
   by Lecky, F., D. Bryden, R. Little, N. Tong and C. Moulton.
   *Cochrane Database Syst Rev*, CD001429, 2008.
   doi:[10.1002/14651858.CD001429.pub2](https://doi.org/10.1002/14651858.CD001429.pub2).
+
+🗎 Liu 2020
+: **Comparison of Early Warning Scoring Systems for Hospitalized Patients With and Without Infection at Risk for In-Hospital Mortality and Transfer to the Intensive Care Unit**
+  by Vincent X Liu et al.
+  JAMA Netw Open. 2020 May 1;3(5):e205191.
+  <https://doi.org/10.1001/jamanetworkopen.2020.5191>
 
 🗎 Lippert 4
 : **Die Lateinische Diagnose in Der Unfallchirurgie und ihren Grenzgebieten.**
@@ -654,6 +908,14 @@ Citation needed
   DOI: by 10.1136/emj.2009.076737.
   <http://dx.doi.org/10.1136/emj.2009.076737>.
 
+🗎 Maniotis 2015
+: **Transradial Approach for Cardiac Catheterization in Patients With Negative Allen's Test**
+  by Christos Maniotis et al.
+  J Invasive Cardiol. 2015 Sep;27(9):416-20.
+  PMID: 26121707.
+
+  *Transradial approach for coronary angiography and ad hoc angioplasty can be performed with similar efficacy and safety regardless of the Allen's test results before the procedure.*
+
 🗎 Mann 2013
 : **Supraglottic Airway Devices in Emergency Medicine:  Impact of Gastric Drainage**
   by Mann, V., S. T. Mann, E. Alejandre-Lafont, R. Röhrig, M. A. Weigand, and
@@ -661,6 +923,36 @@ Citation needed
   *Anaesthesist*
   2013:62(4), 285–92.
   doi:[10.1007/s00101-013-2154-1](https://doi.org/10.1007/s00101-013-2154-1).
+
+🗎 Marik 2008
+: **Does central venous pressure predict fluid responsiveness? A systematic review of the literature and the tale of seven mares**
+  by Paul E Marik et al.
+  Chest. 2008:134(1), 172-8.
+  <https://doi.org/10.1378/chest.07-2331>
+
+  *This systematic review demonstrated a very poor relationship between CVP and blood volume as well as the inability of CVP/DeltaCVP to predict the hemodynamic response to a fluid challenge. CVP should not be used to make clinical decisions regarding fluid management.*
+
+🗎 Marik 2013
+: **Does the central venous pressure predict fluid responsiveness? An updated meta-analysis and a plea for some common sense**
+  by Paul E Marik and Rodrigo Cavallazzi.
+  Crit Care Med. 2013 Jul;41(7):1774-81.
+  <https://doi.org/10.1097/ccm.0b013e31828a25fd>
+
+  *Conclusions: There are no data to support the widespread practice of using central venous pressure to guide fluid therapy. This approach to fluid resuscitation should be abandoned.*
+
+🗎 Marqué 2013
+: **Cardiac output monitoring in septic shock: evaluation of the third-generation Flotrac-Vigileo**
+  by Sophie Marqué et al.
+  J Clin Monit Comput. 2013 Jun;27(3):273-9.
+  PMID: 23361128.
+  <https://doi.org/10.1007/s10877-013-9431-z>
+
+  *In our study, third-generation Flowtrac-Vigileo appears to be too inaccurate to be recommended for CI monitoring in septic shock.*
+
+🗎 Maslach 1982
+: **Burnout. the Cost of Caring.**
+  by Maslach, C., ed.
+  1982\. Prentice-Hall.
 
 🗎 Mayr 2019
 : **Flächendeckende 7/24 Infarktversorgung in Niederösterreich (Mostviertel, Waldviertel, Zentralraum) seit 2005 - Ergebnisse einer strukturierten, einheitlichen präklinischen Versorgung**
@@ -685,6 +977,49 @@ Citation needed
   Anaesthesia. 2005:60 (8), 737–740.
   doi:10.1111/j.1365-2044.2005.04325.x.
 
+🗎 Mullens 2009
+: Wilfried Mullens et al.:
+  **Importance of venous congestion for worsening of renal function in advanced decompensated heart failure.**
+  J Am Coll Cardiol. 2009 Feb 17;53(7):589-596.
+  <https://doi.org/10.1016/j.jacc.2008.05.068>
+
+  *… Furthermore, the ability of CVP to stratify risk for development of WRF was apparent across the spectrum of systemic blood pressure, pulmonary capillary wedge pressure, cardiac index, and estimated glomerular filtration rates.*
+
+  *Conclusions: Venous congestion is the most important hemodynamic factor driving WRF in decompensated patients with advanced heart failure.*
+
+🗎 Nilsson 1997
+: **Ein Kind Entsteht.**
+  by Lennart Nilsson und Lars Hamberger.
+  1997\.
+  Mosaik.
+
+🗎 Nolan 2001
+: **Prehospital and Resuscitative Airway Care: by Should the Gold Standard Be Reassessed?**
+  by Nolan, J. D. 2001.
+  *Curr Opin Crit Care* 7 (6), 413–21.
+
+🗎 Nolan 2008
+: by Nolan, Jerry P and Jasmeet Soar.
+  **Airway Techniques and   Ventilation Strategies**
+  *Curr Opin Crit Care*
+  2008:14(3). Royal United
+  Hospital, Bath, UK. <mailto:Jerry.nolan@ruh.nhs.uk>: by 279–86.
+  doi:[10.1097/MCC.0b013e3282f85bc8](https://doi.org/10.1097/MCC.0b013e3282f85bc8).
+
+🗎 OeBBRettEinGleis 2009
+: **Handbuch Rettungseinsatz Im öbb-Gleisbereich.** 2009. ÖBB
+  Infratstruktur; online. October.
+  [http://www.roteskreuz.at/uploads/media/Handbuch{\\\_}Einsatz{\\\_}Gleisbereich.pdf](http://www.roteskreuz.at/uploads/media/Handbuch{_}Einsatz{_}Gleisbereich.pdf).
+
+🗎 Oh 2022
+: **Comparison between Fourth-Generation FloTrac/Vigileo System and Continuous Thermodilution Technique for Cardiac Output Estimation after Time Adjustment during Off-Pump Coronary Artery Bypass Graft Surgery: A Retrospective Cohort Study**
+  by Chahyun Oh et al.
+  J Clin Med. 2022 Oct 16;11(20):6093.
+  PMID: 36294414.
+  <https://doi.org/10.3390/jcm11206093>
+
+  *In conclusion, despite the time adjustments, the estimation of CO using the FloTrac/Vigileo system showed non-negligible overestimation (mean bias –0.94 L/min), clinically unacceptable precision (percentage error 66.1%), and poor trending ability compared with the continuous thermodilution technique as a reference during OPCAB surgery.*
+
 🗎 Pelucio 1997
 : **Out-of-hospital experience with the syringe esophageal detector device.**
   by M. Pelucio et al.
@@ -700,11 +1035,29 @@ Citation needed
   1\.   Auflage, 2002.
   de Gruyter.
 
+🗎 Reeves 2013
+: **Basic perioperative transesophageal echocardiography examination: a consensus statement of the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists.**
+  By Reeves, S. T. et al.
+  Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography, 2013, 26, 443-56.
+  DOI: 10.1016/j.echo.2013.02.015
+
 🗎 Ring 1977
 : **Incidence and severity of anaphylactoid reactions to colloid volume substitutes.**
   by Ring, J. and Messmer, K.
   Lancet. 1977 Feb 26;1(8009):466-9.
   doi: by 10.1016/s0140-6736(77)91953-5.
+
+🗎 Rivers 2001
+: **Early goal-directed therapy in the treatment of severe sepsis and septic shock**
+  by E Rivers et al.
+  N Engl J Med. 2001 Nov 8;345(19):1368-77.
+  <https://doi.org/10.1056/nejmoa010307>
+
+🗎 Roberts 2009
+: Russel J Roberts et al.:
+  **Incidence of propofol-related infusion syndrome in critically ill adults: a prospective, multicenter study.**
+  Crit Care. 2009; 13(5): R169.
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784401/>
 
 🗎 Sandroni 2008
 : **Myocardial Stunning After Successful Defibrillation.**
@@ -730,10 +1083,156 @@ Citation needed
   <http://dx.doi.org/10.1055/s-0029-1216379>.
   doi:10.1055/s-0029-1216379.
 
+🗎 Sepsis-3
+: **The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)**
+  by Mervyn Singer et al.
+  JAMA. 2016 Feb 23;315(8):801-10.
+  PMID: 26903338.
+  <https://doi.org/10.1001/jama.2016.0287>
+
+🗎 Serafim 2018
+: **A Comparison of the Quick-SOFA and Systemic Inflammatory Response Syndrome Criteria for the Diagnosis of Sepsis and Prediction of Mortality: A Systematic Review and Meta-Analysis**
+  by Rodrigo Serafim et al.
+  Chest. 2018 Mar;153(3):646-655.
+  <https://doi.org/10.1016/j.chest.2017.12.015>
+
+  *The SIRS was significantly superior to the qSOFA for sepsis diagnosis, and the qSOFA was slightly better than the SIRS in predicting hospital mortality. The association of both criteria could provide a better model to initiate or escalate therapy in patients with sepsis.*
+
 🗎 Seto 2003
 : **Effectiveness of Precautions Against Droplets and Contact in Prevention of Nosocomial Transmission of Severe Acute Respiratory Syndrome (Sars).**
   by Seto, W. H., D. Tsang, R. W H Yung, T. Y. Ching, T. K. Ng, M. Ho, L. M. Ho, J. S M Peiris and Advisors of Expert SARS group of Hospital Authority.
   *Lancet* 2003:361(9368), 1519–20.
+
+🗎 Shah 2015
+: **Allen's test: does it have any significance in current practice?**
+  By Ashish H Shah et al.
+  J Invasice Cardiol 2015;27(5):E70-E73.
+  <https://www.hmpgloballearningnetwork.com/site/jic/articles/allens-test-does-it-have-any-significance-current-practice>
+
+  *Randomized trials of TRA-PCI have excluded patients with abnormal Allen’s tests, whereas routine practice includes a large number of such patients. High-volume transradial centers in the United Kingdom and other countries document the extremely low, almost unheard of, incidence of hand ischemia after TRA cardiac catheterization33-35 without prior AT. Observations from the congenital heart disease and vascular surgery spheres lead us to conclude that AT is a misleading and inaccurate test of collateral blood supply to the hand. In our opinion, the case for its routine use is flawed.*
+
+🗎 Shankar-Hari 2016
+: **Developing a New Definition and Assessing New Clinical Criteria for Septic Shock: For the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)**
+  by Manu Shankar-Hari et al.
+  JAMA. 2016 Feb 23;315(8):775-87.
+  <https://doi.org/10.1001/jama.2016.0289>
+
+  *Based on a consensus process using results from a systematic review, surveys, and cohort studies, septic shock is defined as a subset of sepsis in which underlying circulatory, cellular, and metabolic abnormalities are associated with a greater risk of mortality than sepsis alone. Adult patients with septic shock can be identified using the clinical criteria of hypotension requiring vasopressor therapy to maintain mean BP 65 mm Hg or greater and having a serum lactate level greater than 2 mmol/L after adequate fluid resuscitation.*
+
+🗎 Shanmukhappa 2022
+: **Venous Oxygen Saturation**
+  by Sanjana Chetana Shanmukhappa and  Srivatsa Lokeshwaran.
+  In: StatPearls \[Internet\]. Treasure Island (FL): StatPearls Publishing; 2022 Jan.
+  PMID: 33232065.
+  <https://www.ncbi.nlm.nih.gov/books/NBK564395/>
+
+🗎 Shea 1975
+: **Pressure Sores: by Classification and Management.**
+  by Shea, JB. 1975.
+  *Clinical Orthopedics and Related Research*, no. 112 (October): by 89–100.
+
+🗎 Skhirtladze 2010
+: by Skhirtladze, Keso, Bruno Mora, Andrea Moritz, Beatrice Birkenberg,
+  Hendrik Jan Ankersmit and Martin Dworschak.
+  **Impaired Recovery of Cardiac Output and Mean Arterial Pressure After Successful Defibrillation in Patients with Low Left Ventricular Ejection Fraction.**
+  *Resuscitation* 2010:81 (9).
+  doi:10.1016/j.resuscitation.2010.06.004
+  <https://doi.org/10.1016/j.resuscitation.2010.06.004>
+
+🗎 SIRS 2023
+: **Systemic Inflammatory Response Syndrome**
+  by Rebanta K. Chakraborty and Bracken Burns.
+  In: StatPearls \[Internet\]. Treasure Island (FL): StatPearls Publishing; 2023 Jan.
+  2023 Feb 15.
+  PMID: 31613449.
+  Bookshelf ID: NBK547669.
+
+🗎 Smyrniotis 2004
+: Vassilios Smyrniotis et al.:
+  **The role of central venous pressure and type of vascular control in blood loss during major liver resections.**
+  Am J Surg. 2004 Mar;187(3):398-402.
+  <https://doi.org/10.1016/j.amjsurg.2003.12.001>
+
+  *Elevated CVP during major liver resections results in greater blood loss and a longer hospital stay. The Pringle maneuver with CVP 5 mm Hg or less is associated with blood loss not significantly different from that with SHVE. The latter, though, has been shown not to be affected by CVP levels and should be used whenever CVP remains high despite adequate anesthetic management.*
+
+🗎 Steinert 2008
+: by Steinert, Yvonne.
+  **The ‘Problem’ Junior: by Whose Problem Is It?**
+  *BMJ* 2008:336 (7636): by 150–53.
+  doi:10.1136/bmj.39308.610081.AD
+  https://doi.org/10.1136/bmj.39308.610081.AD>
+
+🗎 Stick 1981
+: **Transthorakale Impedanzmessungen.**
+  von Stick, C.
+  Europ. J. Appl. Physiol. 46, 199–210 (1981).
+  https://doi.org/10.1007/BF00428871
+
+🗎 Stiell 2004
+: by Stiell, Ian G, George A Wells, Brian Field, Daniel W Spaite, Lisa P
+  Nesbitt, Valerie J De Maio, Graham Nichol et al.
+  **Advanced Cardiac Life Support in Out-of-Hospital Cardiac Arrest**
+  *N Engl J Med*
+  2004:351(7), 647—56.
+
+🗎 Stiell 2008
+: **The Opals Major Trauma Study: by Impact of Advanced Life-Support on Survival and Morbidity.**
+  by Stiell, Ian G, Lisa P Nesbitt, William Pickett, Douglas Munkley, Daniel W Spaite, Jane Banek, Brian Field et al.
+  *CMAJ*
+  2008:178 (9), 1141—52.
+  doi:[10.1503/cmaj.071154](https://doi.org/10.1503/cmaj.071154).
+
+🗎 Su 2012
+: **Cardiac Output Derived From Arterial Pressure Waveform Analysis in Patients Undergoing Liver Transplantation: Validity of a Third-Generation Device**
+  by B C Su et al.
+  Transplant Proc. 2012 Mar;44(2):424-8.
+  <https://doi.org/10.1016/j.transproceed.2011.12.036>
+
+  *Despite a software upgrade, the effectiveness of the FloTrac artery-derived cardiac output monitor for CO measurement during liver transplantation remains limited.*
+
+🗎 Subbe 2001
+: **Validation of a modified Early Warning Score in medical admissions**
+  by C P Subbe et al.
+  QJM. 2001 Oct;94(10):521-6.
+  <https://doi.org/10.1093/qjmed/94.10.521>
+
+🗎 Sulzgruber 2018
+: **The impact of airway strategy on the patient outcome after ut-of-hospital cardiac arrest: A propensity score matched analysis**
+  by Patrick Sulzgruber  et al.
+  Eur Heart J Acute Cardiovasc Care 2018 Aug;7(5):423-431.
+  <https://doi.org/10.1177/2048872617731894>
+
+  *We found that the use of a laryngeal tube for airway management in cardiac arrest was significantly associated with poor 30-day survival rates and unfavourable neurological outcome. A primary endotracheal airway management needs to be considered at the scene, or an earliest possible secondary endotracheal intubation during both pre-hospital and in-hospital post-return of spontaneous circulation critical care seems crucial and most beneficial for the patient outcome.*
+
+🗎 Supady 2009
+: by Supady, A., T. Schwab and H-J. Busch. 2009.
+  **\["’‘Liquid Ecstasy"’:
+  Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis
+  Dependent Renal Failure\].**
+  *Dtsch Med Wochenschr* 134 (18). Medizin III
+  \- Kardiologie und Angiologie Universitätsklinikum Freiburg.
+  <mailto:Alexander.Supady@uniklinik-freiburg.de>: by 935–37.
+  doi:[10.1055/s-0029-1220252](https://doi.org/10.1055/s-0029-1220252).
+
+🗎 Suppan 2022
+: **The Importance of Acknowledging an Intermediate Category of Airway Management Devices in the Prehospital Setting**
+  Laurent Suppan
+  Healthcare (Basel) 2022 May 23;10(5):961.
+  <https://doi.org/10.3390/healthcare10050961>
+
+  *Prehospital airway devices are often classified as either basic or advanced, with this latter category including both supraglottic airway (SGA) devices and instruments designed to perform endotracheal intubation (ETI). Therefore, many authors analyze the impact of SGA and ETI devices jointly. ... Nevertheless, SGA devices might be particularly useful in the prehospital setting where many providers are not experienced enough to safely perform ETI. Compared to basic airway management (bag-valve-mask) devices, SGA devices enable better oxygenation, decrease the odds of aspiration, and allow for more reliable capnometric measurement by virtue of their enhanced airtightness. For all these reasons, we strongly believe that SGA devices should be categorized as “intermediate airway management devices” and be systematically analyzed separately from devices designed to perform ETI.*
+
+🗎 SurvSepsisCpg 2012
+: **Surviving Sepsis Campaign: International Guidelines for Management of Severe Sepsis and Septic Shock, 2012**
+  by R. P. Dellinger et al. & The Surviving Sepsis Campaign Guidelines Committee.
+  Intensive Care Med 39, 165–228 (2013).
+  <https://doi.org/10.1007/s00134-012-2769-8>
+
+🗎 Thierbach 2004
+: **\[Prehospital Emergency Airway Management Procedures. Success Rates and Complications\].**
+  by Thierbach, A., T. Piepho, B. Wolcke, S. Küster and W. Dick.
+  *Anaesthesist* 2004:53(6), 543–50.
+  doi:[10.1007/s00101-004-0679-z](https://doi.org/10.1007/s00101-004-0679-z).
 
 🗎 Thun 1981
 : **Störungen und Klärungen. Allgemeine Psychologie der Kommunikation.**
@@ -756,404 +1255,6 @@ Citation needed
   19\. Auflage, 2010.
   rororo.
 
-🗎 VBV 2002
-: by Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: by BGBl. II Nr. 347/2005
-
-🗎 Wagner 1984
-: **Inhibition of adrenal steroidogenesis by the anesthetic etomidate.**
-  by Wagner et al.:
-  N Engl J Med. 1984:310, 1415-1421.
-  doi:10.1056/NEJM198405313102202.
-
-🗎 Wells 2000
-: **Derivation of a Simple Clinical Model to Categorize Patients Probability of Pulmonary Embolism: by Increasing the Models Utility with the Simplired d-Dimer.**
-  by P. S. Wells et al.
-  *Thromb Haemost* 2000:83 (3), 416—20.
-
-🗎 Winbery 2002
-: **Histamine and antihistamines in anaphylaxis.**
-  by Stephen L. and Philip L. Lieberman.
-  Clin Allergy Immunol. 2002;17:287-317.
-
-🗎 Yerkes 1908
-: **The Relation of Strength of Stimulus to Rapidity of Habit-Formation.**
-  by Yerkes, R.M. and J.D Dodson.
-  *Journal of Comparative Neurology and Psychology*
-  1908:18, 459–82.
-
-🗎 ArbeitstechnikenAZ 1
-: by Flake, Frank und Klaus Runggaldier, eds:
-  2008.\*Arbeitstechniken a-Z
-  Für Den Rettungsdienst – Bildatlas Rettungsdienst.\*
-  1\. Auflage,  Elsevier.
-
-🗎 FlammAngewandteHygiene 4
-: by Flamm, Heinz und Manfred Rotter, eds:
-  1999.\*Angewandte Hygiene in
-  Krankenhaus Und Arztpraxis.\*
-  1\. Auflage,  Verlag Wilhelm Maudrich.
-
-🗎 ForthPharma 8
-: by Forth, Henschler, Rummel, Förstermann und Starke:
-  2001.\*Allgemeine Und
-  Spezielle Pharmakologie Und Toxikologie.\*
-  1\. Auflage,  Urban & Fischer.
-
-🗎 Lissauer 2007
-: by FRCPCH, Tom Lissauer MB BChir FRCP and Graham Clayden MD FRCP FRCPCH.
-  1\.    *Illustrated Textbook of Paediatrics: by With STUDENT CONSULT Online
-  Access.* 3rd ed. Mosby.
-
-🗎 Freudenberger 1974
-: **Staff Burn-Out.**
-  by Freudenberger, H. J. 1974.
-  *Journal of Social Issues*
-  30 (1): by 159–65.
-
-🗎 FamPropAeGeFue 2010
-: **Ärztliche Gesprächsführung, Teil a: by Das Erstgespräch.**
-  by Frischenschlager, Oskar, Ingeborg Pucher-Matzner, Michael Schmidts,  Andrea Weghofer, Sebastian Gabriel und Gabriele Mayerhofer. 2010.
-  Skills Line 2.
-  DEMAW; online; Medizinische Universität Wien, Department für Mediznische
-  Aus- und Weiterbildung.
-
-🗎 Gallaher 2009
-: by Gallaher, William R. 2009.
-  **Towards a Sane and Rational Approach to
-  Management of Influenza H1n1 2009.**
-  *Virol J* 6. Department of
-  Microbiology, Immunology; Parasitology, Louisiana State University
-  Health Sciences Center, 1901 Perdido Street, New Orleans, Louisiana
-  70112, USA. <mailto:billg35445@yahoo.com>: by 51.
-  doi:[10.1186/1743-422X-6-51](https://doi.org/10.1186/1743-422X-6-51).
-
-🗎 Harrisons18DeKap225
-: by Gaziano, Thomas A. und Michael Gaziano. 2012.
-  **Epidemiologie
-  Kardiovaskulärer Erkrankungen.**
-  In *Harrisons Innere Medizin*, edited by
-  Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated by Jörn
-  Ole Vollert and Martin Möckel,
-  1\.  Auflage, , 2:1945–50. ABW
-  Wissenschaftsverlag.
-
-🗎 OeAG 2007
-: by Gemeinsame Erklärung der Deutschen AIDS-Gesellschaft (DAIG) und
-  Osterreichischen AIDS-Gesellschaft (OAG). 2009.
-  **\[Post-Exposure
-  Prophylaxis of Hiv Infection. German-Austrian Recommendations, Update
-  September 2007\].**
-  *Dtsch Med Wochenschr* 134 Suppl 1 (January): by S16–S33.
-
-🗎 Genzwuerker 2007
-: by Genzwuerker, Harald V.
-  **Unavailability of Capnometry: by A Legal
-  Issue**
-  *Anesth Analg*
-  2007:105(4),: by 1167; author reply 1169.
-  doi:[10.1213/01.ane.0000278151.76711.c1](https://doi.org/10.1213/01.ane.0000278151.76711.c1).
-
-🗎 Harrisons 18 De Kap 228
-: by Goldberger, Ary L. 2012.
-  **Elektrokardiographie.** In *Harrisons Innere
-  Medizin*, edited by Manfred Dietel, Norbert Suttorp und Martin Zeitz,
-  translated by Martin Stockburger and Martin Möckel,
-  1\. Auflage, , 2:1965–73.
-  ABW Wissenschaftsverlag.
-
-🗎 Gorgass 7
-: by Gorgass, Bodo, Friedrich Wilhelm Ahnefeld, Rolando Rossiand Hans-Dieter
-  Lippert, Werner Krell und Ge Weber:
-  2007.\*Rettungsassistent Und
-  Rettungssanitäter.\*
-  7\. Auflage,  Springer.
-
-🗎 Grey Wundversorgung 2
-: **Ärztliche Wundversorgung.**
-  by Grey, Joseph E. und Keith Harding (HGg.
-  1\. Auflage, 2008.
-  Elsevier.
-
-🗎 GruberHygieneRD 1
-: **Hygiene im Rettungsdienst.**
-  by Gruber, Harald, Petra Hellmich und Jürgen Grassl.
-  1\. Auflage, 2011.
-  facultas.wuv.
-
-🗎 Haag 3
-: by Haag, Petra, Norbert Hanhart und Markus Müller. 2006a. *Gynäkologie Und
-  Urologie Für Studium Und Praxis - 2007/08.*
-  1\. Auflage,  Medizinische
-  Verlags- und Informationsdienste.
-
-🗎 HahnMikrobio 6
-: by Hahn, Kaufmann, Schulz und Suerbaum  (HG): by n.d. *Medizinische
-  Mikrobiologie Und Infektiologie.*
-  1\. Auflage,  Springer.
-
-🗎 TertialeNotfallIntensivmed 1
-: by Hamp und Weidenauer, eds:
-  2010.\*Lehrbuch Tertiale Notfall- Und
-  Intensivmedizin.\* Springer.
-
-🗎 OeBBRettEinGleis 2009
-: **Handbuch Rettungseinsatz Im öbb-Gleisbereich.** 2009. ÖBB
-  Infratstruktur; online. October.
-  [http://www.roteskreuz.at/uploads/media/Handbuch{\\\_}Einsatz{\\\_}Gleisbereich.pdf](http://www.roteskreuz.at/uploads/media/Handbuch{_}Einsatz{_}Gleisbereich.pdf).
-
-🗎 Hansak 2012 07
-: by Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
-  2012\.
-  **Lachgas Im Rettungsdienst: by Ergebnisse Eines Pilotprojekts.**
-  *Rettungsdienst – Zeitschrift Für Präklinische Notfallmedizin* 35 (7):
-  50–56.
-
-🗎 LPN 3
-: by Hansak, Peter, Berthold Petutschnigg, Markus Böbel, Hans-Peter Hündorf,
-  Roland Lipp und Johannes Veith:
-  2008.\*LPN-San österreich.\*
-  1\. Auflage,
-  Stumpf & Kossendey.
-
-🗎 RkPlsNeu 2008
-: Österreichisches Rotes Kreuz.
-  **Patientenleittasche Neu –- Fragen und Antworten.**
-  Österreichisches Rotes Kreuz. 2008.
-
-🗎 Harrisons18DeKap226
-: by Loscalzo, Joseph. 2012.
-  **Zugang Zum Patienten Mit Möglicher
-  Kardiovaskulärer Erkrankung.**
-  In *Harrisons Innere Medizin*, edited by
-  Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated by Martin
-  Möckel,
-  1\.  Auflage, , 2:1951–4. ABW Wissenschaftsverlag.
-
-🗎 Harrisons18DeKap224
-: by Loscalzo, Joseph, Peter Libby und Jonathan Epstein. 2012.
-  **Biologische
-  Grundlagen Des Kardiovaskulären Systems.**
-  In *Harrisons Innere Medizin*,
-  edited by Manfred Dietel, Norbert Suttorp und Martin Zeitz, translated
-  by Julia Searle, Ralf Dechend und Martin Möckel,
-  18\. Auflage, , 2:1931–44.
-  ABW Wissenschaftsverlag.
-
-🗎 Lutomsky 3
-: by Lutomsky, Boris und Frank Flake (HG):
-  *Leitfaden Rettungsdienst.*
-  1\. Auflage, 2003. Urban & Fischer.
-
-🗎 Malfertheiner 2004
-: by Malfertheiner, P., U. Peitz, K. Wolle and G. Treiber. 2004.
-  **\[Helicobacter Pylori Infection–an Update for :2004\].**
-  *Dtsch Med
-  Wochenschr* 129 (34-35). Klinik für Gastroenterologie, Hepatologie und
-  Infektiologie der Otto-von-Guericke-Universität Magdeburg.
-  <mailto:peter.malfertheiner@medizin.uni-magdeburg.de>: by 1821–6.
-  doi:[10.1055/s-2004-831344](https://doi.org/10.1055/s-2004-831344).
-
-🗎 Maslach 1984
-: by Maslach, C. and S. E. Jackson:
-  In *Applied Social Psychology
-  Annual*, edited by S. Oskamp, 133–53. 1984. Sage.
-
-🗎 Maslach 1982
-: **Burnout. the Cost of Caring.**
-  by Maslach, C., ed.
-  1982\. Prentice-Hall.
-
-🗎 Mueller 1
-: by Müller, Werner:
-  1982.\*Das Knie. Form, Funktion Und Ligamentäre
-  Wiederherstellungschirurgie.\* Springer-Verlag GmbH.
-
-🗎 PHTLS 6
-: **PHTLS. Prehospital Trauma Life Support.**
-  by NAEMT.
-  6th ed., 2006.
-  Mosby.
-
-🗎 NagelePalliativ 1
-: **Lehrbuch der Palliativpflege.**
-  by Nagele, Susanne und Angelika Feichtner.
-  1\. Auflage.
-  Facultas.
-
-🗎 ChecklisteAnamUnt 1
-: by Neurath, Markus und Ansgar Lohse, eds:
-  2002.\*Checkliste Anamnese Und
-  Klinische Untersuchung.\*
-  1\. Auflage,  Thieme.
-
-🗎 Nilsson 1997
-: **Ein Kind Entsteht.**
-  by Lennart Nilsson und Lars Hamberger.
-  1997\.
-  Mosaik.
-
-🗎 Nolan 2001
-: **Prehospital and Resuscitative Airway Care: by Should the Gold Standard Be Reassessed?**
-  by Nolan, J. D. 2001.
-  *Curr Opin Crit Care* 7 (6), 413–21.
-
-🗎 Nolan 2008
-: by Nolan, Jerry P and Jasmeet Soar.
-  **Airway Techniques and
-  Ventilation Strategies**
-  *Curr Opin Crit Care*
-  2008:14(3). Royal United
-  Hospital, Bath, UK. <mailto:Jerry.nolan@ruh.nhs.uk>: by 279–86.
-  doi:[10.1097/MCC.0b013e3282f85bc8](https://doi.org/10.1097/MCC.0b013e3282f85bc8).
-
-🗎 Peiris 2009
-: by Peiris, J. S Malik, Leo L M Poon and Yi Guan. 2009.
-  **Emergence of a
-  Novel Swine-Origin Influenza a Virus (S-Oiv) H1n1 Virus in Humans.**
-  *J
-  Clin Virol* 45 (3). Department of Microbiology, The University of Hong
-  Kong, Hong Kong SAR, China. <mailto:malik@hkucc.hku.hk>: by 169–73.
-  doi:[10.1016/j.jcv.2009.06.006](https://doi.org/10.1016/j.jcv.2009.06.006).
-
-🗎 Petersen 1
-: by Petersen, Wolf und Thore Zantop, eds:
-  2009.\*Das Vordere Kreuzband.
-  Grundlagen Und Aktuelle Praxis Der Operativen Therapie.\*
-  1\. Auflage,
-  Deutscher "Arzte-Verlag.
-
-🗎 RueckerBildatlas 1
-: by Rüecker, Gernot:
-  2005.\*Bildatlas Notfall- Und Rettungsmedizin.\*
-  1\. Auflage,
-  Springer.
-
-🗎 Sachsenweger 2003
-: by Sachsenweger, Matthias:
-  2003.\*Augenheilkunde.\*
-  1\. Auflage,  Thieme,
-  Stuttgart.
-
-🗎 ThiemesPflege 12
-: by Schewior-Popp, Susanne, Franz Sitzmann und Lothar Ullrich  (HG): by 2012.
-  *Thiemes Pflege.* 12th ed. Thieme.
-
-🗎 SchmidtPhysio 28
-: by Schmidt, Robert F., Gerhard Thews und Florian Lang:
-  2000.\*Physiologie
-  Des Menschen.\*
-  1\.  Auflage,  Springer Berlin.
-
-🗎 SchmuckChemie 1
-: by Schmuck, Carsten, Bernd Engels, Tanja Schirmeister und Reinhold Fink.
-  1\.    *Chemie Für Mediziner.*
-  2\. Auflage,  Pearson Studium.
-
-🗎 Schnelle 2006
-: **Zur Positionierung von Ekg-Elektroden im     Einsatz**
-  by Schnelle, Ralf.
-  *Rettungsdienst*
-  2006:29(1), 24–27.
-
-🗎 Scholz 2
-: by Scholz, Jens, Peter Sefrin, Bernd Böttiger, Volker Dörges und Volker
-  Wenzel, eds:
-  1\.    *Notfallmedizin.*
-  2\. Auflage,  Thieme.
-
-🗎 Schuster 5
-: by Schuster, Hans-Peter und Hans-Joachim Trappe:
-  *EKG-Kurs für Isabell.*
-  1\. Auflage, 2009. Thieme.
-
-🗎 Shea 1975
-: **Pressure Sores: by Classification and Management.**
-  by Shea, JB. 1975.
-  *Clinical Orthopedics and Related Research*, no. 112 (October): by 89–100.
-
-🗎 Skhirtladze 2010
-: by Skhirtladze, Keso, Bruno Mora, Andrea Moritz, Beatrice Birkenberg,
-  Hendrik Jan Ankersmit and Martin Dworschak.
-  **Impaired Recovery of Cardiac Output and Mean Arterial Pressure After Successful Defibrillation in Patients with Low Left Ventricular Ejection Fraction.**
-  *Resuscitation* 2010:81 (9).
-  doi:10.1016/j.resuscitation.2010.06.004
-  \<https://doi.org/10.1016/j.resuscitation.2010.06.004>\`\_
-
-🗎 Starke 2000
-: **Medizinsoziologie. Kognitive, Emotionale Und Soziale Aspekte Menschlicher Problembewältigung: by Ein Beitrag Zur Aktuellen Stressforschung.**
-  by Starke, D.
-  1\.    Münster.
-
-🗎 Steinert 2008
-: by Steinert, Yvonne.
-  **The ‘Problem’ Junior: by Whose Problem Is It?**
-  *BMJ* 2008:336 (7636): by 150–53.
-  doi:10.1136/bmj.39308.610081.AD
-  \<https://doi.org/{10.1136/bmj.39308.610081.AD}>\`\_
-
-🗎 Stiell 2008
-: **The Opals Major Trauma Study: by Impact of Advanced Life-Support on Survival and Morbidity.**
-  by Stiell, Ian G, Lisa P Nesbitt, William Pickett, Douglas Munkley, Daniel W Spaite, Jane Banek, Brian Field et al.
-  *CMAJ*
-  2008:178 (9), 1141—52.
-  doi:[10.1503/cmaj.071154](https://doi.org/10.1503/cmaj.071154).
-
-🗎 Stiell 2004
-: by Stiell, Ian G, George A Wells, Brian Field, Daniel W Spaite, Lisa P
-  Nesbitt, Valerie J De Maio, Graham Nichol et al.
-  **Advanced Cardiac Life Support in Out-of-Hospital Cardiac Arrest**
-  *N Engl J Med*
-  2004:351(7), 647—56.
-
-🗎 Strauss 0000
-: by Strauss, Reinhild und Gerhard Fülöp. n.d.
-  **Influenza in österreich — Epidemiologie Und Durchimpfungsraten.**
-  Homepage des österreichischen
-  Bundesministeriums für Gesundheit und Frauen (BMGF); Bundesministeriums
-  für Gesundheit und Frauen.
-  [http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie\\\_bmgf.pdf](http://www.bmg.gv.at/cms/site/attachments/7/9/0/CH0742/CMS1075899626901/influenza-epidemiologie_bmgf.pdf).
-
-🗎 Striebel 7
-: by Striebel, Hans Walter.
-  **Anästhesie Intensivmedizin Notfallmedizin — Für Studium Und Ausbildung.**
-  1\. Auflage, 2009. Schattauer.
-
-🗎 Sudowe 1
-: by Sudowe, Hendrik.
-  **Professionell Handeln Im Rettungsdienst — Das Trainingsbuch.**
-  1\. Auflage, 2007. Elsevier.
-
-🗎 Supady 2009
-: by Supady, A., T. Schwab and H-J. Busch. 2009.
-  **\["’‘Liquid Ecstasy"’:
-  Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis
-  Dependent Renal Failure\].**
-  *Dtsch Med Wochenschr* 134 (18). Medizin III
-  \- Kardiologie und Angiologie Universitätsklinikum Freiburg.
-  <mailto:Alexander.Supady@uniklinik-freiburg.de>: by 935–37.
-  doi:[10.1055/s-0029-1220252](https://doi.org/10.1055/s-0029-1220252).
-
-🗎 IntroClinEmergMed 4
-: by Swaminatha V, Mahadevan and Gus M. Garmel, eds:
-  2008.\*An Introduction
-  to Clinical Emergency Medicine – Guide for Practitioners in the
-  Emergency Department.\* 4th ed. Cambridge University Press.
-
-🗎 Thierbach 2004
-: **\[Prehospital Emergency Airway Management Procedures. Success Rates and Complications\].**
-  by Thierbach, A., T. Piepho, B. Wolcke, S. Küster and W. Dick.
-  *Anaesthesist* 2004:53(6), 543–50.
-  doi:[10.1007/s00101-004-0679-z](https://doi.org/10.1007/s00101-004-0679-z).
-
-🗎 Timmermann 2012
-: by Timmermann, A., C. Byhahn, V. Wenzel, C. Eich, T. Piepho, M. Bernhard,
-  and V. Dörges. 2012.
-  **Handlungsempfehlung Für Das Präklinische
-  Atemwegsmanagement Für Notärzte Und Rettungsdienstpersonal. Beschluss
-  Des Engeren Präsidiums Der Dgai Vom 18.04.2012 in Frankfurt Am Main.**
-  *Anästh Intensivmed* 53: by 294–308.
-  <http://www.dgai.de/eev/EEV_AI_05-2012_Verbaende_Timmermann.pdf>.
-
 🗎 Timmermann 2006
 : by Timmermann, Arnd, Christoph Eich, Sebastian G. Russo, Ulrich Natge,
   Anselm Bräuer, William H. Rosenblatt and Ulrich Braun. 2006.
@@ -1166,67 +1267,56 @@ Citation needed
   doi:[10.1016/j.resuscitation.2006.01.010](https://doi.org/10.1016/j.resuscitation.2006.01.010).
 
 🗎 Timmermann 2007
-: by Timmermann, Arnd, Sebastian G Russo, Christoph Eich, Markus Roessler,
-  Ulrich Braun, William H Rosenblatt and Micheal Quintel. 2007.
-  **The
-  Out-of-Hospital Esophageal and Endobronchial Intubations Performed by
-  Emergency Physicians.**
-  *Anesth Analg* 104 (3). Department of
-  Anesthesiology, Emergency; Intensive Care Medicine, Georg-August
-  University, Goettingen, Germany. <mailto:atimmer@zari.de>: by 619–23.
-  doi:[10.1213/01.ane.0000253523.80050.e9](https://doi.org/10.1213/01.ane.0000253523.80050.e9).
+: **The out-of-hospital esophageal and endobronchial intubations performed by emergency physicians.**
+  by A. Timmermann et al.
+  *Anesthesia and analgesia*, 2007(104):619-623.
+  PMID: 17312220,
+  DOI: [10.1213/01.ane.0000253523.80050.e9](https://doi.org/10.1213/01.ane.0000253523.80050.e9)
 
-🗎 Ulfig 1
-: by Ulfig, Norbert:
-  2003.\*Kurzlehrbuch Histologie.\*
-  1\. Auflage,  Thieme.
-
-🗎 Uicc 3
-: by Union Internationale Contre le Cancer, ed:
-  1993.\*TNM-Atlas.
-  Illustrierter Leitfaden Zur Tnm/pTNM-Klassifikation Maligner Tumoren.\*
-  Springer.
+🗎 Timmermann 2012
+: Timmermann, A., C. Byhahn, V. Wenzel, C. Eich, T. Piepho, M. Bernhard,
+  and V. Dörges. 2012.
+  **Handlungsempfehlung Für Das Präklinische Atemwegsmanagement Für Notärzte Und Rettungsdienstpersonal. Beschluss Des Engeren Präsidiums Der Dgai Vom 18.04.2012 in Frankfurt Am Main.**
+  *Anästh Intensivmed* 53: 294–308.
+  <http://www.dgai.de/eev/EEV_AI_05-2012_Verbaende_Timmermann.pdf>.
 
 🗎 Uray 2008
-: by Uray, Thomas and Reinhard Malzer on behalf of the Vienna Hypothermia
+: **Out-of-Hospital Surface Cooling to Induce Mild Hypothermia in Human Cardiac Arrest: by A Feasibility Trial.**
+  by Uray, Thomas and Reinhard Malzer on behalf of the Vienna Hypothermia
   After Cardiac Arrest (HACA) Study Group. 2008.
-  **Out-of-Hospital Surface
-  Cooling to Induce Mild Hypothermia in Human Cardiac Arrest: by A
-  Feasibility Trial.**
   *Resuscitation* 77 (3). Department of Emergency
   Medicine, Medical University of Vienna, Austria.: by 331–38.
 
-🗎 Wunn 1
-: **BASICS Psychiatrie.**
-  by Eva Wunn.
-  1\. Auflage, 2006.
-  Elsevier.
+🗎 Varon 2020
+: **A Comparative Study of ECG-derived Respiration in Ambulatory Monitoring using the Single-lead ECG.**
+  Varon, C., Morales, J., Lázaro, J. et al.
+  Sci Rep 10, 5704 (2020).
+  https://doi.org/10.1038/s41598-020-62624-5
 
-🗎 H1N1InvTeam2009
-: by S Dawood, Seema Jain, Lyn Finelli, Michael W Shaw, Stephen Lindstrom,
-  Rebecca J Garten, et al.
-  **Emergence of a Novel Swine-Origin
-  Influenza a (H1n1) Virus in Humans**
-  *N Engl J Med*
-  2009:360(25), 2605–15.
-  doi:[10.1056/NEJMoa0903810](https://doi.org/10.1056/NEJMoa0903810).
+🗎 VBV 2002
+: Verordnung des Bundesministers für Wirtschaft und Arbeit über sicherheitstechnische Bestimmungen für Versandbehälter - Versandbehälterverordnung 2002 (VBV 2002) idF: by BGBl. II Nr. 347/2005
 
 🗎 Vlcek 2008
-: by Vlcek, Marianne, Andreas Bur, Christian Woisetschläger, Harald Herkner,
+: **Association Between   Hypertensive Urgencies and Subsequent Cardiovascular Events in Patients with Hypertension.**
+  by Vlcek, Marianne, Andreas Bur, Christian Woisetschläger, Harald Herkner,
   Anton N Laggner and Michael M Hirschl. 2008.
-  **Association Between
-  Hypertensive Urgencies and Subsequent Cardiovascular Events in Patients
-  with Hypertension.**
   *J Hypertens* 26 (4). Department of Emergency
   Medicine, General Hospital, University of Vienna.: by 657–62.
   doi:[10.1097/HJH.0b013e3282f4e8b6](https://doi.org/10.1097/HJH.0b013e3282f4e8b6).
 
-🗎 Waldeyer 2003
-: by Waldeyer, Anton Johannes, J. Fanghänel, F. Pera, F. Anderhuber und R.
-  Nitsch, eds:
-  2003.\*Waldeyer Anatomie Des Menschen.\*
-  1\.  Auflage,  de
-  Gruyter.
+🗎 Wagner 1984
+: **Inhibition of adrenal steroidogenesis by the anesthetic etomidate.**
+  by Wagner et al.:
+  N Engl J Med. 1984:310, 1415-1421.
+  doi:10.1056/NEJM198405313102202.
+
+🗎 Wang 2006
+: **Paramedic Intubation Errors: by Isolated Events or Symptoms of Larger  Problems?**
+  by Wang, Henry E, Judith R Lave, Carl A Sirio and Donald M Yealy. 2006.
+  *Health Aff (Millwood)* 25 (2). Department of Emergency
+  Medicine, University of Pittsburgh School of Medicine, Pennsylvania,
+  USA. <mailto:wanghe@upmc.edu>: by 501–9.
+  doi:[10.1377/hlthaff.25.2.501](https://doi.org/10.1377/hlthaff.25.2.501).
 
 🗎 Wang-2006a
 : **Out-of-Hospital Endotracheal  Intubation: by Where Are We?**
@@ -1243,13 +1333,12 @@ Citation needed
   Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
   doi:[10.1016/j.resuscitation.2008.08.016](https://doi.org/10.1016/j.resuscitation.2008.08.016).
 
-🗎 Wang 2006
-: **Paramedic Intubation Errors: by Isolated Events or Symptoms of Larger  Problems?**
-  by Wang, Henry E, Judith R Lave, Carl A Sirio and Donald M Yealy. 2006.
-  *Health Aff (Millwood)* 25 (2). Department of Emergency
-  Medicine, University of Pittsburgh School of Medicine, Pennsylvania,
-  USA. <mailto:wanghe@upmc.edu>: by 501–9.
-  doi:[10.1377/hlthaff.25.2.501](https://doi.org/10.1377/hlthaff.25.2.501).
+🗎 Wang 2009
+: **Outcomes After Out-of-Hospital Endotracheal  Intubation Errors.**
+  by Wang, Henry E, Lawrence J Cook, Chung-Chou H Chang, Donald M Yealy, and  Judith R Lave. 2008.
+  *Resuscitation*, October. Department of Emergency
+  Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
+  doi:[10.1016/j.resuscitation.2008.08.016](https://doi.org/10.1016/j.resuscitation.2008.08.016).
 
 🗎 Wang 2011
 : **Out-of-Hospital Airway Management in the United  States**
@@ -1259,7 +1348,6 @@ Citation needed
   University of Alabama at Birmingham, Birmingham, AL 35249, United
   States. <mailto:hwang@uabmc.edu>: by 378–85.
   doi:[10.1016/j.resuscitation.2010.12.014](https://doi.org/10.1016/j.resuscitation.2010.12.014).
-
 
 🗎 Wang 2015
 : **Efficacy and Safety of Antifibrinolytic Agents in Reducing Perioperative Blood Loss and Transfusion Requirements in Scoliosis Surgery: A Systematic Review and Meta-Analysis.**
@@ -1276,11 +1364,27 @@ Citation needed
     CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
 
 
-🗎 Wiedenmann 1
-: **Hygiene Im Rettungsdienst.**
-  by Markus Wiedenmann (HG.
-  1\. Auflage, 2011.
-  Elsevier.
+🗎 Wells 2000
+: **Derivation of a Simple Clinical Model to Categorize Patients Probability of Pulmonary Embolism: by Increasing the Models Utility with the Simplired d-Dimer.**
+  by P. S. Wells et al.
+  *Thromb Haemost* 2000:83 (3), 416—20.
+
+🗎 Weil 1971
+: **Proposed reclassification of shock states with special reference to distributive defects**
+  by M H Weil and H Shubin.
+  Adv Exp Med Biol. 1971 Oct;23(0):13-23.
+  PMID: 5164840.
+  <https://doi.org/10.1007/978-1-4615-9014-9_3>
+
+
+🗎 WHO Phleb 2010
+: **WHO Guidelines on Drawing Blood: Best Practices in Phlebotomy.**
+  by World Health Organization.
+  Geneva, 2010.
+  <https://www.ncbi.nlm.nih.gov/books/NBK138650/>
+
+  *Annex I: Modified Allen test*
+
 
 🗎 Wiese 2009
 : **The Use of the Laryngeal Tube Disposable (Lt-d) by  Paramedics During Out-of-Hospital Resuscitation-an Observational Study  Concerning Erc Guidelines 2005.**
@@ -1291,36 +1395,30 @@ Citation needed
   <mailto:cwiese@med.uni-goettingen.de>: by 194–98.
   doi:[10.1016/j.resuscitation.2008.08.023](https://doi.org/10.1016/j.resuscitation.2008.08.023).
 
+🗎 Wilson 1988
+: **Predicting difficult intubation**
+  by M E Wilson et al.
+  Br J Anaesth 1988 Aug;61(2):211-6.
+  doi: 10.1093/bja/61.2.211.
+
+  Wilson-Score.
+  *Depending on the threshold chosen, the rule allowed the detection of, for example, 75% of the "difficult" laryngoscopies at a cost of falsely identifying 12% of the "not difficult" patients.*
+
+🗎 Winbery 2002
+: **Histamine and antihistamines in anaphylaxis.**
+  by Stephen L. and Philip L. Lieberman.
+  Clin Allergy Immunol. 2002;17:287-317.
+
 🗎 WP Beanspruchung 2013
 : **Beanspruchung (Begriffsklärung).**
   by Wikipedia, Die freie Enzyklopädie.
   Bearbeitungsstand: by 16. Juli 2013, 11:32 UTC. URL: <https://de.wikipedia.org/w/index.php?title=Beanspruchung_(Begriffskl%C3%A4rung)&oldid=120596188>
 
-🗎 WP Zivilschutzsignale 2012
-: by 2012\.
-  **Zivilschutzsignale.** Wikipedia, Die freie Enzyklopädie.
-  <http://de.wikipedia.org/w/index.php?title=Zivilschutzsignale&oldid=105758278>.
-
-🗎 Wolf 2009
-: by Wolf, T. and H-R. Brodt.
-  **\[The ‘Swine Flu’ Influenza a/H1n1 -  Pandemia on Trial\]**
-  *Dtsch Med Wochenschr*
-  2009:134(30). Medizinische
-  Klinik II - Infektiologie, Johann Wolfgang Goethe-Universität,
-  Theodor-Stern-Kai 7, 60590 Frankfurt. <mailto:timo.wolf@kgu.de>: by 1539–41.
-  doi:[10.1055/s-0029-1233976](https://doi.org/10.1055/s-0029-1233976).
-
-🗎 Zeiler 2001
-: by Zeiler, Karl, Eduard Auff und Lüder Deecke:
-  2001.\*Grundlagen Der
-  Klinischen Neurologie 1. Grundlagen Für Human- Und Zahnmediziner.\*
-  facultas.wuv Universitäts.
-
-🗎 Zimbardo 6
-: **Psychologie.**
-  by Zimbardo, G. (HG.)
-  1\. Auflage, 1995.
-  Springer.
+🗎 Yerkes 1908
+: **The Relation of Strength of Stimulus to Rapidity of Habit-Formation.**
+  by Yerkes, R.M. and J.D Dodson.
+  *Journal of Comparative Neurology and Psychology*
+  1908:18, 459–82.
 
 :::{raw} latex
 \normalsize

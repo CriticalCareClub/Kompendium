@@ -1,4 +1,8 @@
-```{index} single: Stickstoffmonoxid single: NO single: NO-A
+```{index} single: Stickstoffmonoxid
+```
+```{index} single: NO
+```
+```{index} single: NO-A
 ```
 
 # NO-Therapie mit *NO-A*
@@ -41,7 +45,9 @@
 
 ## Einleitung
 
-```{index} pair: Stickstoffmonoxid; NO-A pair: NO; NO-A single: NO-Therapie
+```{index} pair: Stickstoffmonoxid; NO-A pair: NO; NO-A
+```
+```{index} single: NO-Therapie
 ```
 
 ### Über Stickstoffmonoxid (NO)
@@ -151,7 +157,9 @@ Kontraindikationen beachten!
 
 Die NO-Therapie sollte nicht abrupt abgesetzt werden, weil dies zu einem Anstieg des Pulmonalarteriendrucks (PAP) und/oder einer Verschlechterung der Blutoxygenierung (PaO₂) führen kann. [^cite_fi-no]
 
-```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie pair: Methämoglobin; NO-Therapie pair: Stickstoffdioxid; NO-Therapie pair: NO₂; NO-Therapie pair: Thrombozyten; NO-Therapie pair: Gerinnung; NO-Therapie single: Hämostase; NO-Therapie
+```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie pair: Methämoglobin; NO-Therapie pair: Stickstoffdioxid; NO-Therapie pair: NO₂; NO-Therapie pair: Thrombozyten; NO-Therapie pair: Gerinnung; NO-Therapie
+```
+```{index} single: Hämostase; NO-Therapie
 ```
 
 #### Gefahren
@@ -202,7 +210,9 @@ oder bei Patienten unter Antikoagulationstherapie.
 
 ## Therapie
 
-```{index} pair: Pulmonaliskatheter; NO-Therapie single: NO-Therapie; Anfangsdosis
+```{index} pair: Pulmonaliskatheter; NO-Therapie
+```
+```{index} single: NO-Therapie; Anfangsdosis
 ```
 
 ### Indikationen und Kontraindikationen beachten, Therapie planen

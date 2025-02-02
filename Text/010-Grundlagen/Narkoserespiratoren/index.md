@@ -17,7 +17,9 @@ Relevante Norm: EN 740
 
 ```
 
-```{index} single: NIST-Anschluß single: DIN; Gasanschluß
+```{index} single: NIST-Anschlu$1
+```
+```{index} single: DIN; Gasanschluß
 ```
 
 ### Gasversorgung
@@ -101,7 +103,9 @@ Versorgungsdruck (ca. 5 bar) auf. ca 1,5 bar vor den Regelventilen.
 Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung
 mit dem Durchfluß überein.
 
-```{index} single: ORC single: Oxygen Ratio Controller
+```{index} single: ORC
+```
+```{index} single: Oxygen Ratio Controller
 ```
 
 ##### Gasdosierung: Elektronisch
@@ -202,7 +206,25 @@ $$
 - Anzeige des Füllstandes
 - Befüllung während Betrieb möglich
 
-```{index} single: Atemkalk single: Absorberkalk single: Absorber single: Calciumhydroxid single: Ca(OH)₂ single: Natriumhydroxid single: NaOH single: Kaliumhydroxid single: KOH single: Bariumhydroxid single: Ba(OH)₂
+```{index} single: Atemkalk
+```
+```{index} single: Absorberkalk
+```
+```{index} single: Absorber
+```
+```{index} single: Calciumhydroxid
+```
+```{index} single: Ca(OH)₂ single: Natriumhydroxid
+```
+```{index} single: NaOH
+```
+```{index} single: Kaliumhydroxid
+```
+```{index} single: KOH
+```
+```{index} single: Bariumhydroxid
+```
+```{index} single: Ba(OH)₂
 ```
 
 ### Atemkalk

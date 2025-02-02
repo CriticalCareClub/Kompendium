@@ -1,4 +1,8 @@
-```{index} single: Betamungsmodi: VCV single: VCV single: Volume Controlled Ventialtion
+```{index} single: Betamungsmodi: VCV
+```
+```{index} single: VCV
+```
+```{index} single: Volume Controlled Ventialtion
 ```
 
 # VCV -- Volume Controlled Ventialtion

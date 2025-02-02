@@ -1,4 +1,8 @@
-```{index} single: Adaptive Support Ventilation single: ASV single: Beatmungsmodus; ASV
+```{index} single: Adaptive Support Ventilation
+```
+```{index} single: ASV
+```
+```{index} single: Beatmungsmodus; ASV
 ```
 
 # Adaptive Support Ventilation (ASV)

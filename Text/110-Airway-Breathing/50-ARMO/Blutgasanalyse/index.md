@@ -203,7 +203,15 @@ Es ist nun wichtig die Ursache einer Störung zuordnen zu können.
 %
 % neg. BE . kg / 3
 
-```{index} single: Säure-Basen-Haushalt single: SB-Haushalt single: Azidose single: Alkalose single: Blutgasanalyse
+```{index} single: Säure-Basen-Haushalt
+```
+```{index} single: SB-Haushalt
+```
+```{index} single: Azidose
+```
+```{index} single: Alkalose
+```
+```{index} single: Blutgasanalyse
 ```
 
 (bga-respiratorische-alkalose)=

@@ -17,7 +17,17 @@ Testmuskel:
 
 ## Stimulationsmuster
 
-```{index} single: TOF single: Train of Four single: TOF-Quotient single: TOF-Count single: PTC single: Post Tetanic Count
+```{index} single: TOF
+```
+```{index} single: Train of Four
+```
+```{index} single: TOF-Quotient
+```
+```{index} single: TOF-Count
+```
+```{index} single: PTC
+```
+```{index} single: Post Tetanic Count
 ```
 
 1. Train of Four (TOF)

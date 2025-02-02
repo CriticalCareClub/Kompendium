@@ -1,4 +1,6 @@
-```{index} pair: OP; TLIF pair: OP; Transforaminal Lumbar Interbody Fusion single: Transforaminal Lumbar Interbody Fusion
+```{index} pair: OP; TLIF pair: OP; Transforaminal Lumbar Interbody Fusion
+```
+```{index} single: Transforaminal Lumbar Interbody Fusion
 ```
 
 (tlif)=

@@ -1,4 +1,8 @@
-```{index} single: Beatmungsmodus; VC-SIMV single: VC-SIMV single: Synchronized Volume -- Controlled Ventilation
+```{index} single: Beatmungsmodus; VC-SIMV
+```
+```{index} single: VC-SIMV
+```
+```{index} single: Synchronized Volume -- Controlled Ventilation
 ```
 
 # VC-SIMV: Synchronized Volume -- Controlled Ventilation

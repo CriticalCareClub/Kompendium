@@ -1,4 +1,6 @@
-```{index} single: Erythromycin (Darmmotilität) single: Metoclopramid (Darmmotilität) single: MCP (Darmmotilität) single: Neostigmin (Darmmotilität) single: Domperidon (Darmmotilität) single: Darmmotilität single: Darmmotilitätsstörungen
+```{index} single: Erythromycin (Darmmotilität) single: Metoclopramid (Darmmotilität) single: MCP (Darmmotilität) single: Neostigmin (Darmmotilität) single: Domperidon (Darmmotilität) single: Darmmotilität
+```
+```{index} single: Darmmotilitätsstörungen
 ```
 
 # Darmmotilitätsstörungen

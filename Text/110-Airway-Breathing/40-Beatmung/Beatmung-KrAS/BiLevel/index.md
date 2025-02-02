@@ -1,4 +1,14 @@
-```{index} single: Beatmungsmodus; BiLevel single: Beatmungsmodus; BiPAP single: Beatmungsmodus; DuoPAP single: BiLevel single: BiPAP single: DuoPAP
+```{index} single: Beatmungsmodus; BiLevel
+```
+```{index} single: Beatmungsmodus; BiPAP
+```
+```{index} single: Beatmungsmodus; DuoPAP
+```
+```{index} single: BiLevel
+```
+```{index} single: BiPAP
+```
+```{index} single: DuoPAP
 ```
 
 # BiLevel:

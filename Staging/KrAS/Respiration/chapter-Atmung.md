@@ -70,7 +70,11 @@ Atemgase
 
 ### Sauerstoffbedarf
 
-```{index} single: Horovitz-Index; ARDS single: ARDS; Horovitz-Index single: Index; Horovitz; ARDS
+```{index} single: Horovitz-Index; ARDS
+```
+```{index} single: ARDS; Horovitz-Index
+```
+```{index} single: Index; Horovitz; ARDS
 ```
 
 ### Horovitz-Index

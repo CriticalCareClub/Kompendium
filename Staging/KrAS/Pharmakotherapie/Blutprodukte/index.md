@@ -6,7 +6,13 @@
 
 
 
-```{index} single: TRALI single: Transfusionsassoziierte akute Lungenschädigung single: Lungenschädigung; transfusionsassoziierte akute single: Blutprodukte; Komplikationen
+```{index} single: TRALI
+```
+```{index} single: Transfusionsassoziierte akute Lungenschädigung
+```
+```{index} single: Lungenschädigung; transfusionsassoziierte akute
+```
+```{index} single: Blutprodukte; Komplikationen
 ```
 
 (blutprodukte-komplikationen)=
@@ -43,7 +49,11 @@ Transfusionsassoziierte akute Lungenschädigung (*TRALI*)
   Lungenödem, ARDS.
   Letalität 10—25%, häufigste Todesursache nach Transfusion mit Blutprodukten. [^cite_wilhelm:2]
 
-```{index} single: Citrat single: Erythrozytenkonzentrat single: Kalzium
+```{index} single: Citrat
+```
+```{index} single: Erythrozytenkonzentrat
+```
+```{index} single: Kalzium
 ```
 
 ## Erythrozytenkonzentrate

@@ -1,4 +1,4 @@
-```{index} single: COVID-19 
+```{index} single: COVID-19
 ```
 ```{index} single: SARS-CoV-2
 ```
@@ -11,13 +11,13 @@ Das neuartige Coronavirus erhielt den offiziellen Namen „SARS-CoV-2“; klinis
 
 
 
-```{index} single: Ct-Wert 
+```{index} single: Ct-Wert
 ```
-```{index} single: Wert; Ct- 
+```{index} single: Wert; Ct-
 ```
-```{index} single: D-Dimer; COVID-19 
+```{index} single: D-Dimer; COVID-19
 ```
-```{index} single: Threshold Cycle; COVID-19 
+```{index} single: Threshold Cycle; COVID-19
 ```
 ```{index} single: Blutkulturen; COVID-19
 ```
@@ -93,7 +93,9 @@ Labor
 
 ## Spezifische medikamentöse Therapie
 
-```{index} single: Remdesivir; COVID-19 single: Veklury™; COVID-19
+```{index} single: Remdesivir; COVID-19
+```
+```{index} single: Veklury™; COVID-19
 ```
 
 ### Antiviral: **Remdesivir** (*Veklury™*)
@@ -121,9 +123,9 @@ Labor
 Bei Transaminasen- oder Bilirubinanstieg unter Therapie, Therapieabbruch bei Überschreiten des ALT-Cut-off (> 5-fache Normwertobergrenze). Evtl. Wiederbeginn bei Unterschreiten des Cut-off (individuelle Nutzen-Risiko-Abwägung)
 :::
 
-```{index} single: Steroide; COVID-19 
+```{index} single: Steroide; COVID-19
 ```
-```{index} single: Dexamethason; COVID-19 
+```{index} single: Dexamethason; COVID-19
 ```
 ```{index} single: Selen; COVID-19
 ```
@@ -200,7 +202,7 @@ Weitere Therapie
     wie auch sonst im Rahmen der Sepsis erwägen,
     Dexamethason dann beenden.
 
-```{index} single: CPR; COVID-19 
+```{index} single: CPR; COVID-19
 ```
 ```{index} single: Reanimation; COVID-19
 ```

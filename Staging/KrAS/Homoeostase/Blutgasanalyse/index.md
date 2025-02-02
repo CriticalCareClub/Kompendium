@@ -4,7 +4,9 @@
 
 
 
-```{index} single: paO₂ single: paCO₂ single: HCO₃⁻ single: pH single: H⁺ pair: Severinghaus; Elektrode pair: Clark; Elektrode pair: Glas; Elektrode
+```{index} single: paO₂ single: paCO₂ single: HCO₃⁻ single: pH
+```
+```{index} single: H⁺ pair: Severinghaus; Elektrode pair: Clark; Elektrode pair: Glas; Elektrode
 ```
 
 ## Grundbegriffe
@@ -35,7 +37,15 @@ und die SpO₂.
 
 neg. BE . kg / 3
 
-```{index} single: Säure-Basen-Haushalt single: SB-Haushalt single: Azidose single: Alkalose single: Blutgasanalyse
+```{index} single: Säure-Basen-Haushalt
+```
+```{index} single: SB-Haushalt
+```
+```{index} single: Azidose
+```
+```{index} single: Alkalose
+```
+```{index} single: Blutgasanalyse
 ```
 
 ### Antworten auf Änderungen des SB-Haushaltes

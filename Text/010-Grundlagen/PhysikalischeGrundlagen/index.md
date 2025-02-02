@@ -2,7 +2,9 @@
 
 
 
-```{index} single: Druck single: p
+```{index} single: Druck
+```
+```{index} single: p
 ```
 
 (druck)=
@@ -13,7 +15,17 @@ $$
 p=\frac{F}{A}
 $$
 
-```{index} single: Pascal single: Pa single: Bar single: Torr single: mm Hg single: atm
+```{index} single: Pascal
+```
+```{index} single: Pa
+```
+```{index} single: Bar
+```
+```{index} single: Torr
+```
+```{index} single: mm Hg
+```
+```{index} single: atm
 ```
 
 ### Druckeinheiten
@@ -28,7 +40,9 @@ $$
 >
 > 1 atm ≈ 1 Bar
 
-```{index} single: Temperatur single: Kelvin
+```{index} single: Temperatur
+```
+```{index} single: Kelvin
 ```
 
 ## Temperatur
@@ -98,7 +112,9 @@ von der (Erd-)beschleunigung $g$ abhängig ist. Der dynamische Anteil
 wächst dagegen *quadratisch* mit der Strömungsgeschwindigkeit des
 Fluids.
 
-```{index} single: Druck, hydrostatischer single: hydrostatischer Druck
+```{index} single: Druck, hydrostatischer
+```
+```{index} single: hydrostatischer Druck
 ```
 
 (hydrostatischerdruck)=
@@ -129,7 +145,11 @@ Auch bei unterschiedlich geformten Gefäßen ist der hydrostatische
 Druck am Boden überall gleich groß (*hydrostatisches Paradoxon*;
 Wandkräfte; gilt nur für Flüssigkeiten!).
 
-~~~{index} single: Druck; hydrodynamischer single: Staudruck single: p\ :sub:`d`
+~~~{index} single: Druck; hydrodynamischer
+```
+```{index} single: Staudruck
+```
+```{index} single: p\ :sub:`d`
 ~~~
 
 (hydrodynamischerdruck)=
@@ -164,7 +184,9 @@ Quelle: Wikipedia/Guy vandegrift,
 Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::
 
-```{index} single: Kontinuitätsgleichung single: Kontinuitätsgesetz
+```{index} single: Kontinuitätsgleichung
+```
+```{index} single: Kontinuitätsgesetz
 ```
 
 #### Kontinuitätsgleichung
@@ -259,7 +281,9 @@ $\dot{V}$
 
 Das entspricht dem aus der Elektrik bekannten $R=\frac{U}{I}$.
 
-```{index} single: Hagen-Poiseuille-Gleichung single: Gleichung; Hagen-Poiseuille
+```{index} single: Hagen-Poiseuille-Gleichung
+```
+```{index} single: Gleichung; Hagen-Poiseuille
 ```
 
 ### Hagen-Poiseuille-Gleichung
@@ -326,7 +350,11 @@ für Wasser liegt er bei 273,16 K und 613 Pa.
 
 ### Dampfdruck
 
-```{index} single: Henry-Gesetz single: Gesetz, Henry- single: Blut-Gas-Verteilungskoeffizient single: BGV
+```{index} single: Henry-Gesetz
+```
+```{index} single: Gesetz, Henry- single: Blut-Gas-Verteilungskoeffizient
+```
+```{index} single: BGV
 ```
 
 (henrygesetz)=

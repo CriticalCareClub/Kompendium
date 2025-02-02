@@ -1,4 +1,8 @@
-```{index} single: Beatmungsmodus; PSV single: PSV single: Spontaneous Breathing with Pressure Support Ventilation
+```{index} single: Beatmungsmodus; PSV
+```
+```{index} single: PSV
+```
+```{index} single: Spontaneous Breathing with Pressure Support Ventilation
 ```
 
 # PSV, ASB: Pressure Support Ventilation, Assisted Spontaneuous Breathing
@@ -13,7 +17,7 @@ GE
 Hamilton
 : Spont.
 
-<!-- 
+<!--
 :::{sidebar} PCV, ASB
 
 - Jeder Atemhub von Pat. getriggert

@@ -18,21 +18,27 @@ und erhebt keinerlei Anspruch auf Vollständigkeit.
 
 ## Notfall- und Transportrespiratoren
 
-```{index} single: Oxylog single: Oxylog 1000
+```{index} single: Oxylog
+```
+```{index} single: Oxylog 1000
 ```
 
 ### Dräger Oxylog 1000
 
 Der Oxylog 1000 ist ein simpler "umgekehrter Staubsauger" zur VCV.
 
-```{index} single: Oxylog single: Oxylog 2000
+```{index} single: Oxylog
+```
+```{index} single: Oxylog 2000
 ```
 
 ### Dräger Oxylog 2000
 
 Der Oxylog 2000 bietet VCV und optional auch CPAP.
 
-```{index} single: Oxylog single: Oxylog 3000
+```{index} single: Oxylog
+```
+```{index} single: Oxylog 3000
 ```
 
 ### Dräger Oxylog 3000

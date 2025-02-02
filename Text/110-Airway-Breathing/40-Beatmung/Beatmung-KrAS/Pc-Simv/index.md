@@ -1,4 +1,8 @@
-```{index} single: Beatmungsmodus; PC-SIMV single: PC-SIMV single: Synchronized Pressure-Controlled Ventilation
+```{index} single: Beatmungsmodus; PC-SIMV
+```
+```{index} single: PC-SIMV
+```
+```{index} single: Synchronized Pressure-Controlled Ventilation
 ```
 
 # PC-SIMV: Synchronized Pressure-Controlled Ventilation

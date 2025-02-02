@@ -24,7 +24,9 @@ Wenn asymptomatisch oft keine Therpaie nötig.
 
 Operativ: offen oder endoskopisch
 
-```{index} pair: Schnelleinleitung; Zenker-Divertikel single: RSI; Zenker-Divertikel pair: Aspirationsgefahr; Zenker-Divertikel
+```{index} pair: Schnelleinleitung; Zenker-Divertikel
+```
+```{index} single: RSI; Zenker-Divertikel pair: Aspirationsgefahr; Zenker-Divertikel
 ```
 
 ## Anästhesie

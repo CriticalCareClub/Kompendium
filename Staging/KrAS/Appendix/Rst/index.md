@@ -16,7 +16,21 @@ reStructuredText (ReST, RST) ist eine vereinfachte Auszeichnungssprache
 für Textdateien mit dem Ziel,
 in der reinen Textform besonders lesbar zu sein.
 
-```{index} single: * single: ** single: Markup single: Absatz single: Einrückung single: Hervorhebung single: Hervorhebung; starke single: Web-Link single: Backslash single: \
+```{index} single: * single: ** single: Markup
+```
+```{index} single: Absatz
+```
+```{index} single: Einrückung
+```
+```{index} single: Hervorhebung
+```
+```{index} single: Hervorhebung; starke
+```
+```{index} single: Web-Link
+```
+```{index} single: Backslash
+```
+```{index} single: \
 ```
 
 ## Grundlagen und einfache Formatierungen ("Markup")
@@ -59,7 +73,9 @@ und die Literalzeichen selbst abzurufen.
 Verwenden Sie einen Escape-Backslash ("\\"),
 um einen Backslash zu erhalten.
 
-```{index} single: Überschirften single: Gliederungsebenen
+```{index} single: Überschirften
+```
+```{index} single: Gliederungsebenen
 ```
 
 ## Überschriften und Gliederung

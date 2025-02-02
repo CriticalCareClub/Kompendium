@@ -23,7 +23,13 @@
 
 ## Sonstige Gerätschaften im OP
 
-```{index} single: Blutsperre; Bier-Block single: Bier-Block; Blutsperre single: Block; Bier-; Blutsperre single: i. v.-Regionale; Blutsperre
+```{index} single: Blutsperre; Bier-Block
+```
+```{index} single: Bier-Block; Blutsperre
+```
+```{index} single: Block; Bier-; Blutsperre
+```
+```{index} single: i. v.-Regionale; Blutsperre
 ```
 
 ### Blutsperren
@@ -42,7 +48,9 @@ Doppelmanschette für Bier-Block
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111253-01341px.\*
 :::
 
-```{index} single: MAT single: Autotransfusionssysteme, maschinelle
+```{index} single: MAT
+```
+```{index} single: Autotransfusionssysteme, maschinelle
 ```
 
 ### Maschinelle Autotransfusionssysteme (MAT)

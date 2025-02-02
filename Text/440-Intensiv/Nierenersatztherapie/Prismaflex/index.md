@@ -1,4 +1,8 @@
-```{index} single: Prismaflex®; Kurzanleitung Therapieführung (Zitrat) pair: Prismaflex®; Zitrat single: Kalzium; Prismaflex® single: Kalzium; CVVHDF single: Ca; Prismaflex® single: Ca; CVVHDF
+```{index} single: Prismaflex®; Kurzanleitung Therapieführung (Zitrat) pair: Prismaflex®; Zitrat
+```
+```{index} single: Kalzium; Prismaflex® single: Kalzium; CVVHDF
+```
+```{index} single: Ca; Prismaflex® single: Ca; CVVHDF
 ```
 
 (prismaflexkurzanleitung)=

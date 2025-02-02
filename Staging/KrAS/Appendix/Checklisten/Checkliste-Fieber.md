@@ -1,4 +1,6 @@
-```{index} single: Fieber, Checkliste single: Checkliste: Fieber
+```{index} single: Fieber, Checkliste
+```
+```{index} single: Checkliste: Fieber
 ```
 
 # Checkliste: Fieber

@@ -4,7 +4,9 @@
 
 
 
-```{index} single: ZVK single: zentralvenöser Katheter
+```{index} single: ZVK
+```
+```{index} single: zentralvenöser Katheter
 ```
 
 ## ZVK

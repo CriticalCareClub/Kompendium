@@ -1,4 +1,8 @@
-```{index} single: Beatmungsmodus; CPAP single: CPAP single: Continuous Positive Airway Pressure
+```{index} single: Beatmungsmodus; CPAP
+```
+```{index} single: CPAP
+```
+```{index} single: Continuous Positive Airway Pressure
 ```
 
 # {dfn}`CPAP`: {dfn}`Continuous Positive Airway Pressure`

@@ -46,7 +46,9 @@ Denke an:
 
 ## Scores
 
-```{index} single: ASA-Score single: Score; ASA
+```{index} single: ASA-Score
+```
+```{index} single: Score; ASA
 ```
 
 ### ASA-Score
@@ -77,7 +79,9 @@ American Society of Anesthesiologists
   - Horntod, Organspender
 :::
 
-```{index} single: NYHA-Klassifikation single: Klassifikation; NYHA
+```{index} single: NYHA-Klassifikation
+```
+```{index} single: Klassifikation; NYHA
 ```
 
 (nyha)=
@@ -105,7 +109,13 @@ American Society of Anesthesiologists
   - Ruhestenokardien, keine Arbeit möglich
 :::
 
-```{index} single: Lee-Index single: Index; Lee single: Revised Cardiac Risk Index single: Index; Revised Cardiac Risk
+```{index} single: Lee-Index
+```
+```{index} single: Index; Lee
+```
+```{index} single: Revised Cardiac Risk Index
+```
+```{index} single: Index; Revised Cardiac Risk
 ```
 
 (leeindex)=
@@ -155,7 +165,11 @@ Definierte Risikofaktoren:
 
     *In stable patients undergoing nonurgent major noncardiac surgery, this index can identify patients at higher risk for complications. This index may be useful for identification of candidates for further risk stratification with noninvasive technologies or other management strategies, as well as low-risk patients in whom additional evaluation is unlikely to be helpful.*
 
-```{index} single: MET single: Äquivalent; metabolisches single: Ruheumsatz; MET
+```{index} single: MET
+```
+```{index} single: Äquivalent; metabolisches
+```
+```{index} single: Ruheumsatz; MET
 ```
 
 (met)=

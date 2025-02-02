@@ -1,4 +1,8 @@
-```{index} single: Beatmungsmodus; PCV single: PCV single: Pressure Controlles Ventilation
+```{index} single: Beatmungsmodus; PCV
+```
+```{index} single: PCV
+```
+```{index} single: Pressure Controlles Ventilation
 ```
 
 # Druckkontrollierte Beatmung (PCV)

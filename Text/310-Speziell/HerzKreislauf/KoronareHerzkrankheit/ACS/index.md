@@ -1,11 +1,13 @@
 
-```{index} single: Akutes Koronarsyndrom 
+```{index} single: Akutes Koronarsyndrom
 ```
-```{index} single: ACS 
+```{index} single: ACS
 ```
-```{index} single: Koronarsyndrom; akutes single: Infarkt; Herz- 
+```{index} single: Koronarsyndrom; akutes
 ```
-```{index} single: STEMI 
+```{index} single: Infarkt; Herz-
+```
+```{index} single: STEMI
 ```
 ```{index} single: NSTEMI
 ```
@@ -54,7 +56,7 @@ welche sich von den vorgenannten entweder durch die Pathogenese
 
 ## Symptome
 
-<!-- 
+<!--
 :::{sidebar} Symptome
 
 - Atemnot
@@ -83,7 +85,7 @@ ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 :::
 
 ### ABCDE
-<!-- 
+<!--
 :::{sidebar} ABCDE
 ③
 
@@ -182,7 +184,7 @@ Transportziel (Herzkatheterlabor?) entscheidend.
 
 ### SAMPLER beim akuten Koronarsyndrom
 
-<!-- 
+<!--
 :::{sidebar} SAMPLER
 🅂
 
@@ -287,7 +289,15 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 - Patienten mit Diabetes mellitus
 - Patienten mit Niereninffuzienz
 
-```{index} single: CK single: CK-MB single: LDH single: Herzenzyme single: Troponin
+```{index} single: CK
+```
+```{index} single: CK-MB
+```
+```{index} single: LDH
+```
+```{index} single: Herzenzyme
+```
+```{index} single: Troponin
 ```
 
 ### 🔬 Weiterführende Diagnostik
@@ -449,7 +459,15 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
     und 50—70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
     somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
 
-```{index} single: P2Y₁₂ single: P2Y₁₂-Inhibitor single: Ticagrelor; ACS single: Brilique®; ACS single: Prasugrel; ACS single: Efient®; ACS
+```{index} single: P2Y₁₂ single: P2Y₁₂-Inhibitor
+```
+```{index} single: Ticagrelor; ACS
+```
+```{index} single: Brilique®; ACS
+```
+```{index} single: Prasugrel; ACS
+```
+```{index} single: Efient®; ACS
 ```
 
 #### P2Y₁₂-Inhibitor
@@ -532,7 +550,11 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 - **Ticagrelor** (Brilique®) 180 mg p. o.
 
-```{index} single: Lyse (STEMI) single: Metalyse® single: Tenecteplase single: STEMI (Lyse) single: Lyse, Kontraindikationen single: Kontraindikationen, Lyse
+```{index} single: Lyse (STEMI) single: Metalyse® single: Tenecteplase
+```
+```{index} single: STEMI (Lyse) single: Lyse, Kontraindikationen
+```
+```{index} single: Kontraindikationen, Lyse
 ```
 
 ### ℞ Therapiestrategie *STEMI mit Lyse*

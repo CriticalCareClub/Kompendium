@@ -283,14 +283,14 @@ leitet schneller und kann in beide Richtungen,
 d. h. antegrad (vom Vorhof zur Kammer)
 und retrograd (von der Kammer zum Vorhof) leiten.
 Der **slow-pathway** beginnt am posterioren Eingang,
-leitet langsamer und hat eine kürzere Refraktärzeit. {term}`🗎 WP Avnrt 2021`
+leitet langsamer und hat eine kürzere Refraktärzeit.
 Nun kann es zu folgenden Situationen kommen:
 
 - Typische\* slow/fast AVNRT, 95 %:
   Durch eine *früh einfallende Extrasystole* im Vorhofbereich  kommt es zu einem Block im fast-pathway.
-  Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen. {term}`🗎 WP Avnrt 2021`
+  Die Erregung verläuft nun über den slow-pathway zur Herzkammer, trifft dort auf das kammerseitige Ende des fast-pathway, läuft im Kreis zurück zum Vorhof, um wiederum via slow-pathway Richtung Kammer zu laufen.
 - *Atypische* fast/slow AVNRT (reverse AVNRT):
-  Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer. {term}`🗎 WP Avnrt 2021`
+  Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer.
 
 :::{figure} /Bilder/WikipediaCcBySa-3.0-unported/AV_nodal_reentrant_tachycardia.png
 :width: 70%

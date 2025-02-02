@@ -463,7 +463,7 @@ Als *Atemgrenzwert* wird das in einer Minute maximal ventilierbares Volumen (20-
   - 700
 :::
 
-{term}`🗎 Lissauer 2007` {term}`🗎 Lutomsky 3`
+
 
 ## Zusammenfassung: Voraussetzungen für eine funktionierende Atmung
 

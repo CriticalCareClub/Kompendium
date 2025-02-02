@@ -412,7 +412,4 @@ Die Körpertemperatur ist immer zu messen!
 
 Siehe {ref}`kindesmisshandlung`.
 
-## Literatur
 
-{term}`🗎 Lissauer 2007`
-{term}`🗎 ERC 2015 06`

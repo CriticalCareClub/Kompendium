@@ -512,7 +512,7 @@ Einteilung der Schweregrade {term}`🗎 Shea 1975`:
   weichen Kissen, die unter der Körperhälfte eingebracht werden, der
   Kopf ist durch ein kleines Kissen gestützt. Bei korrekter
   Durchführung kann man leicht unter das Kreuzbein oder den Trochanter
-  des Oberschenkelknochens fassen. {term}`🗎 ThiemesPflege 12`
+  des Oberschenkelknochens fassen.
 - {dfn}`135°-Lagerung`:
   Von der Seitenlage ausgehend wird
   der Patient auf eine zusammengerollte Decke oder zwei Pölster
@@ -524,7 +524,7 @@ Einteilung der Schweregrade {term}`🗎 Shea 1975`:
 - {dfn}`5-Kissen-Weichlagerung`:
   Der Patient wird komplett
   auf 5 oder mehr Pölstern gelagert. Ziel ist das Freilegen bereits
-  geschädigter Bereiche. {term}`🗎 ThiemesPflege 12`
+  geschädigter Bereiche.
 - *Bauchlage* {index}` <Bauchlage>`
 
 Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
@@ -592,6 +592,6 @@ Dekubitus Grad 4
 ```
 
 {term}`🗎 Biergans Wundversorgung 2`
-{term}`🗎 ThiemesPflege 12`
+
 {term}`🗎 Grey Wundversorgung 2`
 {term}`🗎 Kuester 1915`

@@ -119,10 +119,3 @@ und Husten nicht möglich) .
      es zu schweren inneren Verletzungen kommen (Magen, Leber, ...),
      die Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
-## COPD
-
-## Status Asthmaticus
-
-## Pulmonalembolie
-
-## Lungenödem

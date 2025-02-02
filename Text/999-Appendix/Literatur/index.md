@@ -214,6 +214,17 @@
   1\. Auflage,
   Ferdinand Enke Verlag.
 
+🗎 Barrachina 2016
+: Barrachina, B.; Lopez-Picado, A. et al.:
+  **Tranexamic Acid Compared with Placebo for Reducing Total Blood Loss in Hip Replacement Surgery: A Randomized Clinical Trial.**
+  Anesthesia and analgesia, 2016, 122, 986-95.
+
+  Abstract: BACKGROUND: Tranexamic acid (TXA) reduces bleeding in patients undergoing hip replacement surgery, but optimal doses and timing have yet to be established. Our primary objective in this study was to assess total blood loss 48 hours after surgery with different regimens.
+
+  METHODS: This was a multicenter, parallel-group, randomized, placebo-controlled clinical trial that included all ASA physical status I to III patients undergoing unilateral total hip replacement surgery who met the inclusion criteria. Patients were randomly allocated to 1 of 3 groups: a single-dose group (15 mg/kg TXA before the start of surgery and saline 3 hours later after the start of surgery), a 2-dose group (10 m/kg TXA before and 10 mg/kg of TXA 3 hours after the start of surgery), and a control group (saline before and 3 hours after the start of surgery). Total blood loss was calculated using a formula considering hematocrit values and blood transfusions received. RESULTS: We included 108 patients in the study. Total blood loss volumes up to day 2 were 1377 +/- 689, 1308 +/- 641, and 2215 +/- 1136 mL in the single-dose, 2-dose and control groups, respectively (P 0.001 between the placebo and the experimental groups). Blood transfusions were given to 22.9\\\&percnt; of patients (n = 8) in the single-dose group, 11.1\\\&percnt; (n = 4) in the 2-dose group, and 37.8\\\&percnt; (n = 14) in the control group (P = 0.028).
+
+  CONCLUSIONS: A single preoperative dose of TXA or 2 infusions of a lower dose, preoperatively and then after 3 hours after the start of surgery, resulted in lower blood loss during the first 2 days after surgery and less need for blood transfusion, with good levels of safety.
+
 🗎 Bernhard 2012
 : **Developing the Skill of Endotracheal Intubation: by Implication for Emergency Medicine.**
   by Bernhard, M., S. Mohr, M. A. Weigand, E. Martin and A. Walther. 2012.
@@ -1248,6 +1259,22 @@ Citation needed
   University of Alabama at Birmingham, Birmingham, AL 35249, United
   States. <mailto:hwang@uabmc.edu>: by 378–85.
   doi:[10.1016/j.resuscitation.2010.12.014](https://doi.org/10.1016/j.resuscitation.2010.12.014).
+
+
+🗎 Wang 2015
+: **Efficacy and Safety of Antifibrinolytic Agents in Reducing Perioperative Blood Loss and Transfusion Requirements in Scoliosis Surgery: A Systematic Review and Meta-Analysis.**
+  By Wang, M. et al.
+  PloS one, 2015, 10, e0137886.
+
+  CONCLUSION: The systematic review and meta-analysis indicated that aprotinin, TXA, and EACA all significantly reduced perioperative blood loss and transfusion requirements in scoliosis surgery. There was no evidence that the use of antifibrinolytic agents was a risk factor for adverse events, especially thromboembolism, in scoliosis surgery.
+
+🗎 Wang 2016
+: **Single-dose tranexamic acid for reducing bleeding and transfusions in total hip arthroplasty: A double-blind, randomized controlled trial of different doses.**
+  By Wang, C. et al.
+  Thrombosis research, 2016, 141, 119-23.
+
+    CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
+
 
 🗎 Wiedenmann 1
 : **Hygiene Im Rettungsdienst.**

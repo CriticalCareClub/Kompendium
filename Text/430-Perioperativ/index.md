@@ -16,11 +16,11 @@ AK/index.md
 :caption: "Spezielle Anästhesie"
 :maxdepth: 1
 
-300-300-Augen/index
-300-300-Chirurgie/index
-300-300-Gyn/index
-300-300-Gefaess/index
-300-00-Geriatrie/index
+300-Augen/index
+300-Chirurgie/index
+300-Gyn/index
+300-Gefaess/index
+300-Geriatrie/index
 300-Gyn/index
 300-Herzchirurgie/index
 300-HNO/index
@@ -45,8 +45,8 @@ Cave Histaminausschüttung
 - perioperativ: Adrenalin vorbereiten
 - langsam applizieren, keine Temperaturschwankungen
 
-```{eval-rst}
 
-:HOHES Risiko:
-    Morphin, NSAID, *Metamizol*, Thio, Lyst, Atracurium, *Rocuronium*, Lidocain, Atropin, Iod.
-```
+
+HOHES Risiko:
+: Morphin, NSAID, *Metamizol*, Thio, Lyst, Atracurium, *Rocuronium*, Lidocain, Atropin, Iod.
+

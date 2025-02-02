@@ -3,7 +3,7 @@
 ```{toctree}
 :maxdepth: 1
 
-TransexamsaeurePerioperativOrthopaedie/index
+TXS-HK-TEP/index
 ```
 
 Text

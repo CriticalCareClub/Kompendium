@@ -7,7 +7,9 @@ AllgemeinStoerungen/index
 MechanischeAtemwegsverlegung/index
 Lungenoedem/index
 AsthmaBronchiale/index
-Copd/index
+COPD/index
+COVID-19/index
 Pulmonalembolie/index
 Hyperventilationssysndrom/index
+OSAS/index
 ```

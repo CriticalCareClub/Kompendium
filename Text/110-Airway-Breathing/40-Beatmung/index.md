@@ -7,7 +7,12 @@
 
 # Beatmung
 
-::::{only} not nosidebar
+
+:::{toctree}
+
+Beatmung-KrAS/index
+:::
+
 
 :::{margin} Beatmung -- Beschreibung
 - Künstliche Überdruckbeatmung
@@ -15,7 +20,6 @@
 - Assistierte Beatmung: Eine vorhandene, aber unzureichende
   Spontanatmung wird unterstützt
 :::
-::::
 
 Bei Vorliegen einer Ateminsuffizienz\[#Ateminsuffizienz\])
 kann eine *künstliche Beatmung* durchgeführt werden.

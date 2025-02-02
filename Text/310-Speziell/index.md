@@ -24,8 +24,6 @@ führen kann.
 Schock/index
 ArterielleHypertonie/index
 Aneurysmen/index
-PeriphererArteriellerGefaessverschluss/index
-PeriphererVenoeserGefaessverschluss/index
 HerzKreislauf/index
 Gerinnungsstoerungen/index
 Atmung/index

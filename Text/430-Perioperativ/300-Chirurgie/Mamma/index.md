@@ -128,7 +128,7 @@ Sonstiges
 
 : ?? Text fehlt ??
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150401_151607-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150401_151607-01341px.\*
 Grüner Harn.Nach Einspritzung von blauem Farbstoff zum
 Darstellen der
 Lympfabflussbahn

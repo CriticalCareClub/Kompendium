@@ -261,15 +261,15 @@ wie *Methylenblau* in Erwägung zu ziehen.
 
 ## Literatur und Quellen
 
-[^cite_blaeser-kiel:1996]: Dtsch Arztebl 1996; 93(7): A-348 / B-282 / C-265
+[^cite_blaeser-kiel-1996]: Dtsch Arztebl 1996; 93(7): A-348 / B-282 / C-265
 
-[^cite_dc:fx:no]: DocCheck Flexikon: [Stickstoffmonoxid](https://flexikon.doccheck.com/de/Stickstoffmonoxid) (abgerufen am 16. Juni 2015)
+[^cite_dc-fx-no]: DocCheck Flexikon: [Stickstoffmonoxid](https://flexikon.doccheck.com/de/Stickstoffmonoxid) (abgerufen am 16. Juni 2015)
     Lizenz: [Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.de)
 
-[^cite_fi:no]: Messer Austria GmbH: *Fachinformation:*
+[^cite_fi-no]: Messer Austria GmbH: *Fachinformation:*
     **Stickstoffmonoxid Messer 800 ppm (V/V) Gas zur medizinischen Anwendung, druckverdichtet.**
     August 2017.
 
-[^cite_ba:no-a]: EKU Elektronik GmbH:
+[^cite_ba-no-a]: EKU Elektronik GmbH:
     **NO-Therapiegerät NO-A Gebrauchsanweisung**.
     Mai 2020, Rev. 2.7.0.

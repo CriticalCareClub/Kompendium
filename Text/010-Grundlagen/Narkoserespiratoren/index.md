@@ -231,33 +231,33 @@ verbraucht ist.
 
 ## Datex Ohmeda und GE
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115001-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115001-01341px.\*
 GE Monitormodule
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150324_124348-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150324_124348-01341px.\*
 Nachfüllen eines GE-Sevofluran-Vapors.
 :::
 
 ### Aespire
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161636-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161636-01341px.jpg
 Frontansicht
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161645-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161645-01341px.jpg
 Mittig die Druckanzeigen für die VErsorgungsdrücke. Links oben die Ventile zur Regulation der Frischgase.
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161717-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161717-01341px.jpg
 Externe Monitoreinheit (oben) und Beatmungseinheit (unten)
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161729-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161729-01341px.jpg
 Externe Beatmungseinheit Typ 7100.
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140403_080248-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140403_080248-01341px.jpg
 Die xterne Beatmungseinheit Typ 7100 ermöglicht die volumskontrollierte Beatmung
 :::
 
@@ -265,32 +265,32 @@ Die xterne Beatmungseinheit Typ 7100 ermöglicht die volumskontrollierte Beatmun
 
 Datex Ohmeda AS/5 Narkosemaschine
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_114945-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_114945-01341px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115142-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115142-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115016-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115016-00640px.jpg
 :::
 
 bestückt
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115024-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115024-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150212_091242-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150212_091242-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115125-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115125-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150217_115119-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115119-00640px.jpg
 :::
 
 ### Aisys
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150213_114233-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150213_114233-01341px.jpg
 :::
 
 ## Dräger

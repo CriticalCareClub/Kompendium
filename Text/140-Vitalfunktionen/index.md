@@ -4,6 +4,7 @@
 :maxdepth: 1
 
 Stoffwechsel/index
+Gerinnung/index
 Endokrin/index
 Temperatur/index
 WasserElythaushalt/index

@@ -3,32 +3,33 @@
 :::{toctree}
 :maxdepth: 1
 
-AASD/index
-GREG/index
 AK/index.md
-Allgemeinnarkose/index
-Prae-OP/index
+100-Allgemeinnarkose/index
+100-AASD/index
+100-GREG/index
+100-Prae-OP/index
+100-AWR/index
+200-Kinder/index
 :::
 
 :::{toctree}
 :caption: "Spezielle Anästhesie"
 :maxdepth: 1
 
-Augen <Augen/index>
-Chirurgie <Chirurgie/index>
-Gyn & Geburtshilfe <Gyn/index>
-Gefäßchirurgie <Gefaess/index>
-Geriatrie <Geriatrie/index>
-Gynäkologie <Gyn/index>
-Herzchirurgie <Herzchirurgie/index>
-HNO <Hno/index>
-Kinder <Kinder/index>
-Neurochirurgie <Neurochirurgie/index>
-Ortho <Ortho/index>
-Thoraxchirurgie <Thoraxchirurgie/index>
-Trauma <Trauma/index>
-Urologie <Urologie/index>
-Zahn, Mund, Kiefer <ZaMuKie/index>
+300-300-Augen/index
+300-300-Chirurgie/index
+300-300-Gyn/index
+300-300-Gefaess/index
+300-00-Geriatrie/index
+300-Gyn/index
+300-Herzchirurgie/index
+300-HNO/index
+300-Neurochirurgie/index
+300-Ortho/index
+300-Thoraxchirurgie/index
+300-Trauma/index
+300-Urologie/index
+300-ZaMuKie/index
 :::
 
 

@@ -355,5 +355,6 @@ zu Symptomen und Therapie siehe ebendort.
 :caption: 'KHK akut: Akutes Koronarsyndrom'
 :maxdepth: 1
 
-Acs/index
+ACS/index
+Peri-OP-ACS/index.md
 ```

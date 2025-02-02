@@ -298,3 +298,125 @@ Flüssigkeitsverlust verlieren:
     Flüssigkeit pro Tag rein über die Atmung verlieren!
 
 [^flverhormone]: Renin, Angiotensin, Aldosteron
+
+
+
+
+## 22. Elektrolytentgleisungen
+
+Hypokaliämie
+\< 3,5mval/l Ursachen:
+- Extrazelluläre Alkalose oder intrazelluläre Azidose
+- Kaliumverschiebung durch Glucose/Insulingaben (Hyperglykämie!)
+- Medikamente: Beta2-Sympatomimetikagabe (Tokolyse)
+- Gastrointestinale Verluste: Diarrhöe, Darmfisteln, Drainagen,
+Erbrechen
+- Alimentär bei Alkoholismus und Geriatrischen Patienten
+- Renale Verluste:
+Schleifendiuretika,
+Hyperaldosteronismus
+(Conn Syndrom),
+Glukokortikoidwirkung,
+Mannitgabe,
+DM mit osmotischer Diurese,
+chron.
+Laxantieneinnahme
+- Blutverlust
+
+
+Klinik:
+Muskelschwäche, Muskelkrämpfe, paralytischer Ileus, ndMR verlängerte Wirkung, orthostatische Hypotension, Arrhythmien (va. SVT).
+EKG: flache ST-Senkung, flache T-Welle, ev. U-Welle, QT-Verlängerung
+
+
+
+Therapie:
+- Kaliumsubstitution (Maykardin, Kalioral)
+- Kaliumreiche Kost (Bananen, Trockenobst,..)
+- Schleifendiuretika auf kaliumsparende Diuretika (Aldactone) umstellen.
+
+Hyperkaliämie
+\>5,5mval/l, ab \> 6,6mval/L lebensbedrohlich (tödlich \> 10)
+Ursachen:
+- Exzessive Freisetzung aus intrazellulären Speichern: Myolyse, Hämolyse, Katabolie,
+Thrombozytose, Lysthenon, Kompartmentsyndrom, Rhabdomyolyse.
+- Ausscheidungsstörung: Nierenversagen, mineralkortikoid Wirkung
+- Erhöhte Zufuhr: Transfusion von alten EK, Überkorrektur
+- Medikamente: Lysthenon, Spironolacton
+- Azidose (Umverteilung)
+
+
+Klinik:
+Gliederschmerzen, Muskelschwäche, atone Paralyse, Arrhythmien.
+EKG: hohe spitze T-Welle, QRS-Verbreiterung,
+AV-Block, Verlust der P-Welle.
+
+
+Therapie:
+- Diurese steigern (Schleifendiuretika)
+- Glucose-Insulin-Gabe (10 IE Altinsulin in 100ml 20% Glucose)
+- Kalziumgluconat 10%
+- NaBIC
+- Kationentauscher p.o./Einlauf (Resonium)
+
+Hypokalziämie
+\< 2,2mmol/l bzw. ionisierter Teil \<0,9mmol/l Ursachen:
+- Massivtransfusionen (Citrat!)
+- HLM
+- Hypothermie
+- Hypoparathyreoidismus, Niereninsuffizienz, enterale Absorptionsstörungen, Vit D-Mangel,
+Pankreatitis (Ablagerung)
+
+
+Klinik:
+- Gerinnungsstörungen, Arrhythmien
+- Therapie:
+- Ca2+ -Glukonat
+
+Hyperkalziämie
+\>2,6mmol/l oder ionisierter Anteil \>1,6mmol/l Ursachen:
+Hyperparathyreoidismus, VitaminD-Intoxikation, erhöhter Knochenabbau, paraneoplastisch,
+Sarkoidose, Hyperthyreose, iatrogene Hyperkalzämie
+
+
+
+
+
+Klinik: Verwirrtheit, Psychosen, Muskelschwäche, Polyurie,
+Nephrokalzinose, NI, Obstipation EKG: QT-Verkürzung Therapie: Glucose 5%, Hochdosiert Furosemid, Natriumsulfat.
+
+
+Hyponatriämie
+\<135mval/l Ursachen:
+- TURB-Syndrom, postoperativ (va. Kinder nach WS-OP), SIADH (perioperativer Stress,
+Schmerzen, Pharmaka (Morphinsulfat), Erbrechen, SHT, Cerebral salt waste Syndrom Klinik:
+Verwirrt, Unruhe, Desorientiert, Bewusstseinsstörungen bis Koma, Krämpfe durch Hirnödem va.
+bei raschem Abfall, Lungenödem,...
+Therapie:
+Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe unter 130mval/l =
+3% Natrium (10% nur über ZVK!) Siehe TURP-Syndrom!
+
+
+Hypernatriämie
+\>145mval/l, Serum Osmolarität erhöht \> 320-330mosmol/l,
+intrazell. Volumen vermindert Ursachen:
+Verlust an freiem Wasser größer als Zufuhr, exzessive Wasserdiurese, Diabetes insipidus,
+polyurisches Nierenversagen, ausgeprägte Perspiratio insensibilis, nach Verbrennungen, Gabe von natriumhaltigen Medikamenten (Penicillin, NaBIC)
+Klinik:
+Unruhe, Schwäche, Verwirrtheit, trockene SH mit Durstgefühl,
+Therapie:
+Perfusoren mit Aqua, 2,5%  Glucose (500ml Glucose 5%  +  500ml Aqua) auf 50-100ml/h bis 200ml/h titrieren;
+Diabetes insipidus
+=  verminderte ADH-Sekretion mit Polyurie und Hypernatriämie;  Harnnatrium vermindert,
+Harnosmolariät niedrig, Serumoslolarität hoch!
+Ursache: SHT, SAB, Postoperativ Therapie: Minirin ½ Amp. iv. , Flüssigkeitssubstitution
+
+SIADH (Schwartz Bartter Syndrom)
+=  inadäquat hohe ADH-Sekretion mit Wasserretention und Natriumausscheidung;  Harnnatrium stark erhöht, Harnosmolarität erhöht, Serumosmolarität niedrig,
+Hyponatriämie.
+Ursache: SHT, perioperativer Stress, Schmerzen, Pharmaka, Erbrechen, paraneoplastisch beim kleinzelligen Bronchus-CA Therapie: Furosemid, Na-Substitution, Flüssigkeitsrestriktion
+
+Cerebral salt wasting Syndrom
+= Hyponatriämie aufgrund paradox hoher renaler Natriumausscheidung infolge einer Störung der zentralen Regulation des Natriumhaushaltes un der Osmoregulation mit hypotoner Dehydration.
+Ursache: SHT, Hirntumoren, intrakranielle Blutungen
+

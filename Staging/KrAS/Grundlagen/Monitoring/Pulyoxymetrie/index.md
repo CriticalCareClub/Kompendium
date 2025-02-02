@@ -48,7 +48,7 @@ unabhängig von der Lichtabsorption des umliegenden Gewebes, und nur
 bestimmt durch das Verhältnis von oxygeniertem zu desoxygeniertem
 Hämoglobin im arteriellen Blut.
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20160626_000457-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000457-01341px.jpg
 :align: right
 :width: 240px
 

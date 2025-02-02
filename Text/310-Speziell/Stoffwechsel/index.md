@@ -414,3 +414,76 @@ Taktik
 
 [^diabetischeketoazidose]: Genauer: *diabetischen* {index}` <Ketoazidose!diabetische>`
     Ketoazidose
+
+
+
+-----
+
+
+
+## 26.4. Diabetes mellitus *
+
+IDDM (Insulinmangel), NIDDM (a mit Adipositas, b ohne Adipositas,
+Insulinresistenz)
+
+Folgen: Insult, KHK, MCI, CNI, Polyneuropathie, Durchblutungsstörungen Insulin: aus Betazellen im Pankreas; reguliert Glukoseaufnahme in die Zelle, Glykogenproduktion, Bildung von Triglyceriden und Proteinsynthese. Gegenspieler = Glukagon
+
+
+### Therapie
+
+- Steigerung der Insulinausschüttung: Sulfonylharnstoffe
+- Hemmung der Glucoseresorption und hepatischen Glukoneogenese aus Laktat (Biguanide: Metformin/Glucophage)
+- Verzögerung der KH-Resorption (Acarbose/Glucobay = α-Glukosidasehemmer)
+- Insulin (rekombinantes Humaninsulin) kurzwirksam (Novorapid perioperativ), Altinsulin 8Actrapid), Verzögerungsinsulin (z.B. Lantus)
+- Glitazone z.B. Actos = Insulinsentiziser Verlaufskontrolle: NBZ, HbA1c, C-Peptid (wieviel Insulin wird noch produziert)
+
+
+
+
+
+
+Präoperativ Ziel = 120-150 NBZ:
+- Sulfonylharnstoffe/z.B. Amaryl    1 Tag vor OP absetzen (wirken 24h! Gefahr der Hypoglykämien!)
+- Biguanide/Metformin/z.B. Glucophage 48h vor OP und 1  Tag nach OP absetzen, 2 postoperativen Tag wieder einnehmen, wenn die NFP normal sind. Gefahr des Laktatanstiegs, daher 48h präoperativ pausieren, va. bei OP mit Laktatbildung z.B. AAA!
+- Retardinsulin bis zum Vortag nach gewohntem Schema;  präoperativ 1/3 der gewohnten Dosis als langwirksames Insulin, Abend nach OP NBZ\>180 gewohnte Dosis mit 2  std. BZ Kontrollen.
+
+  (Infusionstechnik: 10% Glukose auf 60ml/h + Insulinperfusor 1,5IE/h mit regelm. BZ und Kaliumkontrollen; über 200 sollen 4-8 IE Insulin iv, \< 100 Glucose. 1 IE senkt BZ um 27mg/dl, 10g Glucose hebt BZ um 36mg/dl; \> 180 relative osmotische Diurese!!
+- Novorapid bei NIDDM NBZ \>300
+- Regelmäßige Kontrollen, ev. Glucoseinfusion
+
+
+Präoperative Evaluierung:
+
+- Welche Komorbitäten sind vorhanden? (aHT, paVK, KHK, Herzinsuffizienz)
+- Renale Evaluierung: Chronische Niereninsuffizienz?  Diabetische Nephropathie?  Krea? Kalium?
+- PNP? Wundheilungsstörungen? Erhöhtes Infektrisiko, daher AB großzügiger geben!
+- Diabetes Einstellung? HbA1c, NBZ?
+
+NIDDM mit autonomer Neuropathie mit hämodynamischer Instabilität und Gastroparese!
+
+Anästhesie:
+- Erhöhtes Infektionsrisiko (AB-Prophylaxe)
+- Intraoperative BZ und Kalium-Kontrollen (intraoperativ Insulin nie sc, immer iv.)
+- KHK mit schmerzloser AP (Neuropathie!) oder stummer MCI
+- CNI (diab. Nephropathie)
+- Gastroparese durch autonome Neuropathie: RSI mit hohem Aspirationsrisiko
+- Erhöhte perioperative kardiovask. Morbidität und Mortalität!
+- Schwierige Intubation bei steifer HWS  +  Larynx (stiff joint syndrom): eingeschränkte Reklination des Kopfes, kann die gefalteten Hände nicht schließen (Gebetszeichen)
+- Erhöhte Inzidenz von Apnoe und Herzstillstand (Männer\>Frauen)
+- Erhöhtes perioperatives Risiko bei Hypoglykämie, diabetischer Ketoazidose mit Hyperkaliämie, Hypovolämie oder hyperglykämischen hyperosolaren Zuständen bei DM Typ II (Volumenmangel, neurologisches Defizit).
+
+Auswirkung der OP auf DM
+: Stress setzt Epinephrine, Glukagon, WT-Hormone, IL-6 frei mit Insulinresistenz, verminderter Insulinproduktion, erhöhter Lipolyse und Katabolie  =  Aggressionstoffwechsel mit erhöhtem BZ nach OP durch überwiegen der antiinsulinergen Faktoren (Katecholamine, Cortisol).
+
+### Hyperglykämisches Koma
+
+Klinik: Bauchschmerzen,  Übelkeit, Erbrechen, Amoniakgeruch aus dem Mund mit Kussmaul Atmung.
+=  Hyperglykämie mit metabolischer Azidose mit osmotischer Diurese und Hypokaliämie durch Insulinmangel oder plötzliche Resistenz = Ketonkörperbildung in der Leber.
+
+= Ketoazidose:
+Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung von Azetoazetat und beta-Hydroxybutyrat (Azidose)
+-Bikarbonat puffert entstehende Protonen; Azetoazetat und beta-Hydroxybutyrat „ersetzen" Bikarbonat
+- Folge:    Bikarbonat ↓, Anionenlücke ↑
+
+Therapie:
+- Volumensubstitution (1h 1l  +  2-6h 0,5l/h), Kaliumsubstitution (Insulin senkt Kalium  + weniger Azidose senkt ebenfalls K!), Insulin mit  Ziel BZ  =  250mg/dl um 50mg/h senken um osmotisches Lungen/Hirnödem zu vermeiden, Azidoseausgleich erst bei pH \< 7.10!

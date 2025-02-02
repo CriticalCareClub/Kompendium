@@ -33,6 +33,8 @@ Herzinsuffizienz/index
 Blutdruckstoerungen/index
 KollapsSynkope/index
 Kreislaufstillstand/index
+PeriphererArteriellerGefaessverschluss/index
+PeriphererVenoeserGefaessverschluss/index
 ```
 (sec-herz-kreislauf-stoerungen)=
 

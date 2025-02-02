@@ -40,13 +40,13 @@ Der Oxylog 2000 bietet VCV und optional auch CPAP.
 Der Dräger Oxylog 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie.
 Er ermöglicht NIV.
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161836-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161836-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161824-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-00640px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20140402_161836-00640px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161836-00640px.jpg
 :::
 
 ### Medumat Compact
@@ -61,14 +61,14 @@ Er ermöglicht NIV.
 
 ### TwinStream
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150409_105038-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105038-01341px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150409_105053-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105053-01341px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150409_105043-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105043-01341px.jpg
 :::
 
-:::{figure} /Bilder/GabrielSebastianAass/N-5/IMG_20150409_105047-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105047-01341px.jpg
 :::

@@ -21,23 +21,23 @@ führen kann.
 :maxdepth: 1
 :glob:
 
-HerzKreislauf/index
-Gerinnungsstoerungen/index
 Atmung/index
+Atmungsstoerungen/index
+HerzKreislauf/index
+Anaphylaxie/index
+Abdomen/index
 Gynaekologie/index
+Paediatrie/index
+Gerinnungsstoerungen/index
 Infektiologie/index
 Kriminalitaet/index
 Neurologie/index
-Paediatrie/index
 Psychiatrie/index
 Stoffwechsel/index
 Endokrinologie/index
 ThermischeStoerungen/index
 Urologie/index
-Abdomen/index
-Anaphylaxie/index
 SterbenUndTod/index
-Atmungsstoerungen/index
 NiereninsuffizienzAkut/index
 ZenkerDivertikel/index
 Toxikologie/index

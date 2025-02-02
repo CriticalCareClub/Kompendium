@@ -424,6 +424,11 @@ CC BY
   copyrighted work — and derivative works based upon it — but only
   if they give credit the way you request."*
 
+ℓ CC 0
+: *No Rights Reserved*
+
+  <https://creativecommons.org/public-domain/cc0/>
+
 ℓ CC BY 1.0
 : *Creative-Commons Attribution Unported 1.0*
 

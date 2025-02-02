@@ -753,7 +753,7 @@ Citation needed
   PMID: 19790020,
   DOI: [10.1055/s-0029-1238282](https://doi.org/10.1055/s-0029-1238282)
 
-  *Zur Verhinderung von Folgeschäden sollten kontaminierte tiefe Wunden an der Hand operativ debridiert und nicht mit dem Antiseptikum Octenisept® gespült werden. Octensept® scheint in nicht abgegrenztem Gewebe® irritativ-toxisch zu wirken. Durch langsamen Abbau verbleibt es lange im Interstitium.*
+  > Zur Verhinderung von Folgeschäden sollten kontaminierte tiefe Wunden an der Hand operativ debridiert und nicht mit dem Antiseptikum Octenisept® gespült werden. Octensept® scheint in nicht abgegrenztem Gewebe® irritativ-toxisch zu wirken. Durch langsamen Abbau verbleibt es lange im Interstitium.
 
 🗎 IBCC
 : **The Internet Book of Critical Care (IBCC).**
@@ -791,7 +791,7 @@ Citation needed
   PMID: 15674890,
   DOI: [10.1002/14651858.CD002041.pub2](https://doi.org/10.1002/14651858.CD002041.pub2)
 
-  *Of these six trials, four found no benefit of HBO for the reduction of neurologic sequelae, while two others did. Although pooled analysis does not suggest a benefit from HBOT (OR for neurological deficits 0.78, 95%CI 0.54 to 1.12, p=0.18), significant methodologic and statistical heterogeneity was apparent among the trials, and this result should be interpreted cautiously. [...] Existing randomized trials do not establish whether the administration of HBO to patients with carbon monoxide poisoning reduces the incidence of adverse neurologic outcomes.*
+  > Of these six trials, four found no benefit of HBO for the reduction of neurologic sequelae, while two others did. Although pooled analysis does not suggest a benefit from HBOT (OR for neurological deficits 0.78, 95%CI 0.54 to 1.12, p=0.18), significant methodologic and statistical heterogeneity was apparent among the trials, and this result should be interpreted cautiously. [...] Existing randomized trials do not establish whether the administration of HBO to patients with carbon monoxide poisoning reduces the incidence of adverse neurologic outcomes.
 
 🗎 Kaindl 7
 : **Elektro-Komiko-Graphie.**
@@ -843,7 +843,7 @@ Citation needed
   Anesthesiology. 2006 Nov;105(5):885-91.
   <https://doi.org/10.1097/00000542-200611000-00007>
 
-  *During a 24-month period, 22,660 attempts at MV were recorded. 313 cases (1.4%) of grade 3 MV, 37 cases (0.16%) of grade 4 MV, and 84 cases (0.37%) of grade 3 or 4 MV and difficult intubation were observed.*
+  > During a 24-month period, 22,660 attempts at MV were recorded. 313 cases (1.4%) of grade 3 MV, 37 cases (0.16%) of grade 4 MV, and 84 cases (0.37%) of grade 3 or 4 MV and difficult intubation were observed.
 
 🗎 Kheterpal 2013
 : **Incidence, predictors, and outcome of difficult mask ventilation combined with difficult laryngoscopy: a report from the multicenter perioperative outcomes group**
@@ -851,7 +851,7 @@ Citation needed
   Anesthesiology. 2013 Dec;119(6):1360-9.
   <https://doi.org/10.1097/aln.0000435832.39353.20>
 
-  *Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.*
+  > Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.
 
 🗎 Kim 2019
 : **Effect of endotracheal intubation and supraglottic airway device placement during cardiopulmonary resuscitation on carotid blood flow over resuscitation time: An experimental porcine cardiac arrest study**
@@ -944,7 +944,8 @@ Citation needed
   by Lazarus, R.S. and S. Folkman (HG.
   1984\.
 
-  *Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.*
+  > Six hundred ninety-eight patients experienced the primary outcome, an overall incidence of 0.40%.
+
 🗎 Lecky 2008
 : **Emergency Intubation for Acutely Ill and Injured Patients.**
   by Lecky, F., D. Bryden, R. Little, N. Tong and C. Moulton.
@@ -983,7 +984,7 @@ Citation needed
   J Invasive Cardiol. 2015 Sep;27(9):416-20.
   PMID: 26121707.
 
-  *Transradial approach for coronary angiography and ad hoc angioplasty can be performed with similar efficacy and safety regardless of the Allen's test results before the procedure.*
+  > Transradial approach for coronary angiography and ad hoc angioplasty can be performed with similar efficacy and safety regardless of the Allen's test results before the procedure.
 
 🗎 Mann 2013
 : **Supraglottic Airway Devices in Emergency Medicine:  Impact of Gastric Drainage**
@@ -1109,7 +1110,7 @@ Citation needed
   PMID: 9189188,
   DOI: [10.1111/j.1553-2712.1997.tb03579.x](https://doi.org/10.1111/j.1553-2712.1997.tb03579.x)
 
-  *In this paramedic field study, the EDD demonstrated poor sensitivity for esophageal intubations.*
+  > In this paramedic field study, the EDD demonstrated poor sensitivity for esophageal intubations.
 
 🗎 Pschyrembel 259
 : **Pschyrembel Klinisches Wörterbuch.**
@@ -1194,7 +1195,7 @@ Citation needed
   Chest. 2018 Mar;153(3):646-655.
   <https://doi.org/10.1016/j.chest.2017.12.015>
 
-  *The SIRS was significantly superior to the qSOFA for sepsis diagnosis, and the qSOFA was slightly better than the SIRS in predicting hospital mortality. The association of both criteria could provide a better model to initiate or escalate therapy in patients with sepsis.*
+  > The SIRS was significantly superior to the qSOFA for sepsis diagnosis, and the qSOFA was slightly better than the SIRS in predicting hospital mortality. The association of both criteria could provide a better model to initiate or escalate therapy in patients with sepsis.
 
 🗎 Seto 2003
 : **Effectiveness of Precautions Against Droplets and Contact in Prevention of Nosocomial Transmission of Severe Acute Respiratory Syndrome (Sars).**
@@ -1215,7 +1216,7 @@ Citation needed
   JAMA. 2016 Feb 23;315(8):775-87.
   <https://doi.org/10.1001/jama.2016.0289>
 
-  *Based on a consensus process using results from a systematic review, surveys, and cohort studies, septic shock is defined as a subset of sepsis in which underlying circulatory, cellular, and metabolic abnormalities are associated with a greater risk of mortality than sepsis alone. Adult patients with septic shock can be identified using the clinical criteria of hypotension requiring vasopressor therapy to maintain mean BP 65 mm Hg or greater and having a serum lactate level greater than 2 mmol/L after adequate fluid resuscitation.*
+  > Based on a consensus process using results from a systematic review, surveys, and cohort studies, septic shock is defined as a subset of sepsis in which underlying circulatory, cellular, and metabolic abnormalities are associated with a greater risk of mortality than sepsis alone. Adult patients with septic shock can be identified using the clinical criteria of hypotension requiring vasopressor therapy to maintain mean BP 65 mm Hg or greater and having a serum lactate level greater than 2 mmol/L after adequate fluid resuscitation.
 
 🗎 Shanmukhappa 2022
 : **Venous Oxygen Saturation**
@@ -1482,14 +1483,14 @@ Citation needed
   By Wang, M. et al.
   PloS one, 2015, 10, e0137886.
 
-  CONCLUSION: The systematic review and meta-analysis indicated that aprotinin, TXA, and EACA all significantly reduced perioperative blood loss and transfusion requirements in scoliosis surgery. There was no evidence that the use of antifibrinolytic agents was a risk factor for adverse events, especially thromboembolism, in scoliosis surgery.
+  > CONCLUSION: The systematic review and meta-analysis indicated that aprotinin, TXA, and EACA all significantly reduced perioperative blood loss and transfusion requirements in scoliosis surgery. There was no evidence that the use of antifibrinolytic agents was a risk factor for adverse events, especially thromboembolism, in scoliosis surgery.
 
 🗎 Wang 2016
 : **Single-dose tranexamic acid for reducing bleeding and transfusions in total hip arthroplasty: A double-blind, randomized controlled trial of different doses.**
   By Wang, C. et al.
   Thrombosis research, 2016, 141, 119-23.
 
-    CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
+  > CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
 
 🗎 Weil 1971
 : **Proposed reclassification of shock states with special reference to distributive defects**
@@ -1527,8 +1528,8 @@ Citation needed
   Br J Anaesth 1988 Aug;61(2):211-6.
   doi: 10.1093/bja/61.2.211.
 
-  Wilson-Score.
-  *Depending on the threshold chosen, the rule allowed the detection of, for example, 75% of the "difficult" laryngoscopies at a cost of falsely identifying 12% of the "not difficult" patients.*
+  > Wilson-Score.
+  > Depending on the threshold chosen, the rule allowed the detection of, for example, 75% of the "difficult" laryngoscopies at a cost of falsely identifying 12% of the "not difficult" patients.
 
 🗎 Winbery 2002
 : **Histamine and antihistamines in anaphylaxis.**

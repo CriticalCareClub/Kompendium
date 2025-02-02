@@ -211,10 +211,7 @@ Fragen zu Medikamenten:
   stellt einen schweren Fehler dar!
 :::
 
-```{todo} Tabelle: Besonders häufige bzw. wichtige Medikamente
 
-    Die folgende Tabelle muss schon aus fachlichen Gesichtspunkten neu erstellt werden.
-```
 
 ```{eval-rst}
 .. table:: Besonders häufige bzw. wichtige Medikamente

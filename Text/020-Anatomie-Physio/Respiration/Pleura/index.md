@@ -30,12 +30,6 @@ Der Vorteil dieser Konstruktion ist, dass zwar die Lunge jeder Bewegung des Brus
 
 Die Pleura ist außerdem die einzige Struktur der Lunge die schmerzempfindlich ist.
 
-```{todo} Pleura / Kapillarkraft
-
-    Ist wirklich die Kapillarkraft das Ausschlaggebende?
-
-    Dadurch dass der Pleuraspalt luftdicht ist, muss das eine Pleurablatt der Position und den Bewegungen des anderen Folgen, daher wird die Lunge aufgespannt bzw. bei Bewegung der Rippen und des Zwerchfells aufgezogen wie eine Ziehharmonika.
-```
 
 Ein Eintreten von Luft in diesen Spalt hebt diese Kraft auf, die Lunge würde aufgrund ihrer Eigenelastizität kollabieren (= Pneumothorax).
 

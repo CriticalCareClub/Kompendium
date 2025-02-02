@@ -269,17 +269,13 @@ allmählich.
   Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
 :::
 
-```{todo} bla!
-```
+
+
 
 (tt30001c)=
-
 (m-verbrennung-leicht)=
 
 ## Maßnahmen:  Verbrennung, leicht
-
-```{todo} Maßnahme TT30001C: Anpassung an höherqualifiziertes Personal
-```
 
 ⛑ Basismaßnahmen
 : - Selbstschutz!

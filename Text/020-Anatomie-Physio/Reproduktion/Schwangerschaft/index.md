@@ -225,7 +225,7 @@ Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
 Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
 (Par I bzw. Part II) , zwei Fruchtabgänge.
 
-```{todo} `#81 Bilderserie: Schwangerschaft <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/81>`_
+```{todo} #81 Bilderserie: Schwangerschaft <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/81>
 
     Die Lage des Fötus in der Gebärmutter.
     ₢ Gray’s Anatomy, 20th ed. ℓ PD, Copyright expired

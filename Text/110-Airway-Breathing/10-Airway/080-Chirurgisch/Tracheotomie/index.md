@@ -9,9 +9,6 @@
 
 # Tracheotomie
 
-```{todo} `#110: Fotos: Tracheotomie <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/110>`_
-```
-
 Eine Tracheotomie ist ein chirurgischer Eingriff, bei dem ein Schnitt an der Vorderseite des Halses vorgenommen und ein direkter Atemweg durch einen Schnitt in der Luftröhre geöffnet wird, vgl. {numref}`Cricothyrotomy-edited`.
 Es existieren eine Reihe verschiedener chirurgischer Techniken zur Anlage.
 In die resultierende Öffnung (**Tracheostoma**) kann ein Tubus oder eine spezielle **Trachealkanüle** eingeführt und ggfs. gecufft werden.
@@ -35,9 +32,9 @@ Notfallsituationen sind eher eine Domäne der {ref}`Koniotomie <Koniotomie>`.
 
 Tracheostoma \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Patient beatmet über ein Tracheostoma](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140940_001342px.jpg)
+![Patient beatmet über ein Tracheostoma](../../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140940_001342px.jpg)
 
-!["Feuchte Nase" für spontanatmende Patienten](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140949_001342px.jpg)
+!["Feuchte Nase" für spontanatmende Patienten](../../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140949_001342px.jpg)
 :::
 
 Wichtig ist die Kenntnis und Unterscheidung zwischen einem *chirurgisch* und einem  *dilatativ* angelegtem Tracheostoma.

@@ -529,8 +529,7 @@ Kunstfehler.
 
 ### Sepsis
 
-```{todo} `#111 Sepsis: Überarbeitung <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/111>`_
-```
+
 
 Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd
 gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien

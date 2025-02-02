@@ -1,14 +1,13 @@
 ```{index} single: Wendl-Tubus
 ```
-```{index} single: Tubus; Wendl- single: Nasopharyngealtubus; Wendl
+```{index} single: Tubus; Wendl-
+```
+```{index} single: Nasopharyngealtubus; Wendl
 ```
 
 (wendl-tubus)=
 
 # Nasopharyngealtubus (Wendl-Tubus)
-
-```{todo} Wendl-Tubus: Anlage
-```
 
 Der Wendl-Tubus (Syn.:  Nasopharyngealtubus nach Wendl) wird über die Nase in den Rachenraum eingeführt, wo dessen Spitze zu liegen kommt.
 Er verhindert durch seine Lage die Verlegung des Rachenraums durch den zurückfallenden Zungengrund beim bewusstseinsgetrübten Patienten,

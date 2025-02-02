@@ -880,14 +880,6 @@ anhaltenden Rhythmusstörungen kommt, zieht dies eine deutliche Minderung
 der Herzleistung und somit eine verminderte Kreislaufdurchblutung bis
 zum Kreislaufstillstand nach sich.
 
-```{todo} Tab. 3 Entstehung von Herzrhythmusstörungen
-
-    Arrhythmogene Ursache
-    Auslöser
-    Beeinflussende Faktoren
-
-```
-
 Grundsätzlich werden bradykarde und tachykarde Rhythmusstörungen
 unterschieden. Zu den bradykarden Störungen zählen
 Sinusknotenerkrankungen sowie der AV-Block. Bei den tachykarden

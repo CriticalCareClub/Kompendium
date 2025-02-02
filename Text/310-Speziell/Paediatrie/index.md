@@ -306,9 +306,7 @@ ist und *die Eltern keine Schuld trifft*!
 
 #### Maßanhamen: SIDS
 
-```{todo} Maßnahme KR95090C: Anpassung an höherqualifiziertes Personal
 
-```
 
 ⛑ Basismaßnahmen
 
@@ -363,8 +361,7 @@ Nobody is dead until warm and dead!
 
 #### Maßnahmen: Ertrinkungsunfall
 
-```{todo} Maßnahme MT75010C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Wenn erforderlich Reanimation mit fünf

@@ -4,11 +4,7 @@
 
 ### Allgemeines zu Medikamenten
 
-```{todo} `#107: Benennung von Medikamenten <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/107>`_
 
-    Handelsname, Generika, ...
-
-```
 
 #### Stärke: Wirkstoff, Dosis, Konzentration
 
@@ -540,11 +536,7 @@ Venenverhältnissen.
 
 10. *Fixierpflaster* zureichen
 
-```{todo} Bilder
 
-    - Anlage einer periph. Venenverweilkanüle
-    - Eine fixierte Venenverweilkanüle mit Infusion
-```
 
 ## Literatur
 

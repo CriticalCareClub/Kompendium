@@ -187,6 +187,3 @@ Die Reihenfolge ist je nach Patientunterschiedlich!
 ```{raw} latex
 \end{ParWide}
 ```
-
-```{todo} Bild Schema PAM
-```

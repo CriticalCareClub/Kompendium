@@ -34,7 +34,3 @@ empfindet. Dies wiederholt man in allen vier Quadranten.
 Weiters kann man beurteilen ob der Patient Schmerzen durch den Druck hat
 (*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*). {term}`🗎 Bates 1`
 
-```{todo} #89: Bilderserie Abdomen-Palpation
-
-    https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/89
-```

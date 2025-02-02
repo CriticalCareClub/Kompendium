@@ -228,7 +228,6 @@ Rissquetschwunde nach der Versorgung im Spital
 :::
 
 ```{todo} Bild Schnittwunde
-
 ```
 
 :::{figure} /Bilder/Hauer-David-CCCA/stichwunde-klein.\*
@@ -349,9 +348,7 @@ abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
 ### Maßnahmen: Basis-Wundversorgung
 
-```{todo} Maßnahme TY61000C: Anpassung an höherqualifiziertes Personal
 
-```
 
 ```{rubric} ⛑ Basismaßnahmen
 ```

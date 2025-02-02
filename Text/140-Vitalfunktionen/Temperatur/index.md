@@ -74,10 +74,7 @@ pathologisch sein:
 
 ______________________________________________________________________
 
-```{todo} alt: Temperaturhaushalt
 
-
-```
 
 ### Temperaturregulation
 

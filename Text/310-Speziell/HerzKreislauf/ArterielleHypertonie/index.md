@@ -140,13 +140,7 @@ Vorhandensein von typischen Symptomen einer Endorganstörung (z. B.
 Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen,
 Schwindel …). Vgl. \[Table-hxpertension-krise-notfall\].
 
-```{todo} !!! TABELLE WEIT Unterscheidung Hypertensive Krise und Hypertensiver Notfall(Whitworth and World Health Organization 2003; Chobanian et al.
 
-    2003; Braun 2004; Swaminatha V and Garmel 2008; Vlcek et al.
-    2008)[Table-hxpertension-krise-notfall]
-
-    ll
-```
 
 :::{list-table}
 - - Hypertensive Krise
@@ -345,8 +339,7 @@ Schwindel …). Vgl. \[Table-hxpertension-krise-notfall\].
 
 ### Maßnahmen: Hypertensive Krise
 
-```{todo} Maßnahme MI10911C: Anpassung an höherqualifiziertes Personal
-```
+
 
 Taktik
 

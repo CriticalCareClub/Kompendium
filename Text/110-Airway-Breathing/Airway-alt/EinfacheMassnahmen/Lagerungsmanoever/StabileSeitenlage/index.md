@@ -38,5 +38,3 @@ Schwerkraft vom Rachenraum weg und die Atemwege werden dadurch frei. Bei
 Erbrechen fließt der Großteil des Erbrochenen in der stabilen Seitenlage
 allein aus dem Mund- und Rachenraum.
 
-```{todo} Stabile Seitenlage: Bilder fehlen
-```

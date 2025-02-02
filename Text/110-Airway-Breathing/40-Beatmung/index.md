@@ -381,19 +381,14 @@ Notfallbeatmungsgeräte
   insbesonders auch druckkontrollierte Beatmung,
   sowie Spontanatmungsformen wie CPAP oder NIV.
 
+
+
 ```{index} single: Medumat™; Standard
 ```
 ```{index} single: Berieselungsmodul
 ```
 
 #### Beispiel: Medumat™ Standard
-
-```{todo} Modernere Beatmungsgeräte vorstellen:
-
-    -   Oxylog 3000
-    -   neuer Medumat
-    -   evtl. Medumat Transport
-```
 
 Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat™ Standard* der
 Fa. Weinmann vorgestellt. Zusammen mit einem Sauerstoffmodul (*Modul

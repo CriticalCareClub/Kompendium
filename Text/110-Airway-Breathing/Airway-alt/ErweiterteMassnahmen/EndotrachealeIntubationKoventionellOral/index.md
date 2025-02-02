@@ -8,17 +8,7 @@
 :maxdepth: 1
 ```
 
-```{todo} `#101 neu: Rapid Sequence Induction <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/101>`_
 
-    In Verbindung mit #22 (Airway) und #100 (Konventionelle endotracheale Intubation (oral))
-
-```
-
-```{todo} `#100 Konventionelle endotracheale Intubation (oral): Diagramme und neue Nummerierung <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/100>`_
-
-    #22 ``/AirwayBreathing/Airway/ErweiterteMassnahmen/EndotrachealeIntubationKoventionellOral/``
-    Ablauf mit Hilde von Diagramm (actdiag) neu strukturieren und klar nummerieren.
-```
 
 Bei der {dfn}`endotrachealen Intubation` ({dfn}`ETI`) wird ein
 Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch
@@ -615,10 +605,7 @@ der Luftröhre zu bestätigen.
 \end{ParWide}
 ```
 
-```{todo} `#109: Endotracheale Intubation: Komplikationen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/109>`_
 
-
-```
 
 ```{rubric} Literatur
 ```

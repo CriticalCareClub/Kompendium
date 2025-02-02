@@ -495,5 +495,3 @@ Als *Atemgrenzwert* wird das in einer Minute maximal ventilierbares Volumen (20-
 - Funktionierender Austausch von Gasen zwischen Blut und Zellen
 - Funktionierende innere Atmung (Zellatmung)
 
-```{todo} #122: Euler-Liljestrand-Mechanismus
-```

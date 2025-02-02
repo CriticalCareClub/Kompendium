@@ -132,47 +132,11 @@ Das Blut hat vielfältige Aufgaben:
   Mittels eines *Puffersystems* ({ref}`bikarbonatpuffer`) hilft das Blut bei der Aufrechterhaltung eines ausgeglichenen pH-Werts im Körper.
 - **Blutgerinnung** (Blutplättchen, Gerinnungsfaktoren des Blutplasma)
 
-(tab-blut-bestandteile)=
 
-```{eval-rst}
-.. table:: Übersicht: Die Bestandteile des Blutes
-
-    +--------------------+--+--+-----------------------+-----------------+--+
-    | Feste Bestandteile |  |  | Flüssige Bestandteile |                 |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-    | Zellen             |  |  | Wasser                | Gelöste Stoffe  |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-    | Erythrozyten       |  |  |                       | Ionen           |  |
-    |                    |  |  |                       |                 |  |
-    |                    |  |  |                       | Glukose         |  |
-    | Leukozyten         |  |  |                       |                 |  |
-    |                    |  |  |                       | Hormone         |  |
-    |                    |  |  |                       |                 |  |
-    |                    |  |  |                       | Kreatinin       |  |
-    | Thrmbozyten        |  |  |                       |                 |  |
-    |                    |  |  |                       |                 |  |
-    |                    |  |  |                       | Harnstoff       |  |
-    |                    |  |  |                       |                 |  |
-    |                    |  |  |                       | …               |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-    |                    |  |  |                       |                 |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-    |                    |  |  |                       |                 |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-    |                    |  |  |                       |                 |  |
-    +--------------------+--+--+-----------------------+-----------------+--+
-
-```
-
-```{todo} Tabelle ergänzen: Übersicht: Die Bestandteile des Blutes
-```
 
 (haemoglobin)=
-
 (leukozyten)=
-
 (erythrozyten)=
-
 (thrombozyten)=
 
 ### Zelluläre Bestandteile

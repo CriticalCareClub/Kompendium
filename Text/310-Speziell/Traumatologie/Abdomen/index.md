@@ -62,8 +62,6 @@ Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 (m-bauchtraume-offen)=
 
-```{todo} Maßnahme TS31011C: Anpassung an höherqualifiziertes Personal
-```
 
 ### Maßnahmen: Bauchtrauma, offen
 
@@ -307,14 +305,14 @@ um den möglichen großen Blutverlust einzudämmen.
     Bauchhöhle
   - Hoden → Hämatome am Skrotum und am Damm
 
-(ts32831c)=
 
+
+(ts32831c)=
 (m-beckentrauma-instabil)=
 
 ### Maßnahmen: Beckentrauma, instabil
 
-```{todo} Maßnahme TS32831C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - {{ TxMassVitMKBes }}

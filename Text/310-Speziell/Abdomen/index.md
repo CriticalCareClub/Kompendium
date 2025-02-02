@@ -79,8 +79,7 @@ rechten Oberbauch seit gestern.
 
 #### ℞ Maßnahmen: Abdominalerkrankung
 
-```{todo} Maßnahme CKXXXX1C: Anpassung an höherqualifiziertes Personal
-```
+
 
 - **Vitale Bedrohung einschätzen.** {{ TxBeiVit }}
   {{ TxMassVitMK }}
@@ -167,8 +166,7 @@ sind auch die Ursachen:
 
 #### Maßnahmen: Akutes Abdomen
 
-```{todo} Maßnahme CR10000C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -213,8 +211,7 @@ gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
 
 #### Maßnahmen: Darmverschluß
 
-```{todo} Maßnahme CK56070C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -267,8 +264,7 @@ kann.
 
 #### Maßnahmen: Akute Appendizitis
 
-```{todo} Maßnahme CK35080C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -321,8 +317,7 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
 
 #### Maßnahmen: Gallenkolik
 
-```{todo} Maßnahme CK80811C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -413,8 +408,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 #### Maßnahmen: Blutungen des Verdauungstrakts
 
-```{todo} Maßnahme CK92020C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - {{ TxMassVitMK }}
@@ -486,8 +480,7 @@ Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 #### Maßnahmen: Gastroenteritis
 
-```{todo} Maßnahme CA09091C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -629,8 +622,7 @@ oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 #### Maßnahmen: Ulcus ventriculi, -duodeni
 
-```{todo} Maßnahme CK29091C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -703,8 +695,7 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {
 
 #### Maßnahmen: Akute Pankreatitis
 
-```{todo} Maßnahme CK859X0C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -767,8 +758,7 @@ Stuhlabgängen* kommen.
 
 #### Maßnahmen: Mesenterialinfarkt
 
-```{todo} Maßnahme CK55001C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Abdominalerkrankungen
@@ -835,8 +825,7 @@ Entzündungsreaktion.
 
 #### Maßnahmen: Bauchfellentzündung
 
-```{todo} Maßnahme CK65090C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Maßnahmen wie bei akutem Abdomen

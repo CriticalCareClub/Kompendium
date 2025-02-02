@@ -5,10 +5,7 @@
 Nachfolgend sind die einzelnen Äste von Hauptarterien (unterstrichen) in der Reihenfolge ihres Abgangs aufgelistet.
 Falls deren Äste noch weitere Äste aufweisen, sind diese dann direkt in entsprechenden Unterlisten angeführt.
 
-```{todo} Die Arterien gehören definitv abgespeckt ... wichtig ist woran man versterben kann oder wo einem ein Körperteil abfällt ...
 
-
-```
 
 ## Aorta
 

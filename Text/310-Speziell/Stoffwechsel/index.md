@@ -247,8 +247,6 @@ eine Hypoglykämie denken!
 
 #### Maßnahmen: Hypoglykämie
 
-```{todo} Maßnahme ME16020C: Anpassung an höherqualifiziertes Personal
-```
 
 Taktik
 
@@ -398,8 +396,7 @@ verwechselt werden!
 
 #### Maßnahmen: Hyperglykämisches Koma
 
-```{todo} Maßnahme ME14012C: Anpassung an höherqualifiziertes Personal
-```
+
 
 Taktik
 

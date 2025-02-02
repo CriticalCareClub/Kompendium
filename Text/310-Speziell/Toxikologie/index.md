@@ -58,9 +58,6 @@ Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptom
 
 ## Maßnahmen: Vergiftungen, allgemein
 
-```{todo} Maßnahme MT65091C: Anpassung an höherqualifiziertes Personal
-```
-
 ⛑ Basismaßnahmen
 : - Selbstschutz
 
@@ -172,12 +169,10 @@ beurteilen.
 Der Alkoholentzug und das Entzugsdelir wird unter
 {ref}`alkohol-entzug`, abgehandelt.
 
+
+
 (mt51001c)=
-
 (m-intoxikation-alkohol)=
-
-```{todo} Maßnahme MT51001C: Anpassung an höherqualifiziertes Personal
-```
 
 ### Maßnahmen: Vergiftungen mit Alkohol
 
@@ -288,15 +283,12 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 
 [^naloxon]: Naloxon. Markenname z. B. *Narcanti*, *Naloxon-ratiopharm*
 
-(mt40021c)=
 
+
+(mt40021c)=
 (m-intoxikation-opiate)=
 
 #### Maßnahmen: Vergiftung mit Opiaten
-
-```{todo} Maßnahme MT40021C: Anpassung an höherqualifiziertes Personal
-
-```
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Vergiftungen
@@ -362,8 +354,6 @@ durch Schwitzen viel Flüssigkeit verliert.
 
 #### Maßnahmen: Vergiftung mit Uppers
 
-```{todo} Maßnahme MT43091C: Anpassung an höherqualifiziertes Personal
-```
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Vergiftungen
@@ -383,9 +373,7 @@ durch Schwitzen viel Flüssigkeit verliert.
 
 #### Maßnahmen: Vergiftung mit Stickgasen
 
-```{todo} Maßnahme MT59XX1C: Anpassung an höherqualifiziertes Personal
 
-```
 
 - Auf Selbstschutz achten!
 
@@ -482,8 +470,7 @@ Krämpfe sind gut möglich.
 
 ##### Maßnahmen: Vergiftung mit Kohlenmonoxid
 
-```{todo} Maßnahme MT58001C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei
@@ -535,14 +522,14 @@ Industrie an.
 - Hyperventilation, da der hohe CO₂-Spiegel im Blut das Atemzentrum
   stimuliert
 
-(mt59070c)=
 
+
+(mt59070c)=
 (m-intoxikation-kohlendioxid)=
 
 ##### Maßnahmen: Vergiftung mit Kohlendioxid
 
-```{todo} Maßnahme MT59070C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei
@@ -574,31 +561,21 @@ Verzögerungstyp
   *3—24 h später: toxisches Lungenödem*; bei
   Nichtbehandlung evtl. irreversible Lungenschäden
 
-```{eval-rst}
-.. table:: Vorkommen von Reizgasen
+:::{table} Vorkommen von Reizgasen
 
-    +--------------------------+-----------------------------------------------------------------------------------------------+
-    | **Vorkommen**            | **Art**                                                                                       |
-    +--------------------------+-----------------------------------------------------------------------------------------------+
-    | Chemische Industrie      | Nitrosegase, Schwefelwasserstoffe, Ammoniak                                                   |
-    +--------------------------+-----------------------------------------------------------------------------------------------+
-    | Kunststoffindustrie      | Chlorwasserstoffe, Formaldehyd                                                                |
-    +--------------------------+-----------------------------------------------------------------------------------------------+
-    | Düngemittelherstellung   | Ammoniak, Nitrosegase, Schwefelwasserstoffe                                                   |
-    +--------------------------+-----------------------------------------------------------------------------------------------+
-    | Haushalt                 | Chlorgas (Kombination von best. Haushaltsreinigern mit Essig), Lacke, Imprägniersprays, ...   |
-    +--------------------------+-----------------------------------------------------------------------------------------------+
+| Vorkommen          | Art                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------- |
+| Chemische Industrie    | Nitrosegase, Schwefelwasserstoffe, Ammoniak                                                 |
+| Kunststoffindustrie    | Chlorwasserstoffe, Formaldehyd                                                              |
+| Düngemittelherstellung | Ammoniak, Nitrosegase, Schwefelwasserstoffe                                                 |
+| Haushalt               | Chlorgas (Kombination von best. Haushaltsreinigern mit Essig), Lacke, Imprägniersprays, ... |
+
+:::
 
 
-```
 
 (mt59xx2c)=
-
 (m-am-reizgase)=
-
-```{todo} Maßnahme MT59XX2C: Anpassung an höherqualifiziertes Personal
-
-```
 
 #### Maßnahmen: Vergiftung mit Reizgasen
 
@@ -684,12 +661,10 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 - Ruptur/Perforation von Speiseröhre oder Magen
 - Blutung
 
+
+
 (mt54091c)=
-
 (m-saeuren-laugen)=
-
-```{todo} Maßnahme MT54091C: Anpassung an höherqualifiziertes Personal
-```
 
 #### Maßnahmen: Einnahme von Säuren oder Laugen
 
@@ -721,8 +696,7 @@ klagen bzw. erbrechen.
 
 #### Maßnahmen: Einnahme von schaumbildenden Substanzen
 
-```{todo} Maßnahme MT17023C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Allgemeine Maßnahmen bei Vergiftungen

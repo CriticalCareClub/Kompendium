@@ -193,9 +193,7 @@ Offene Fraktur des Mittelfingers
 
 ### Maßnahmen: Fraktur
 
-```{todo} Maßnahme TT14200C: Anpassung an höherqualifiziertes Personal
 
-```
 
 Erkennen
 von großen Blutverlusten, Blutstillung,

@@ -252,8 +252,7 @@ angegeben:
 - Mehr als 70 km / h: Fußgänger wird über das
   Fahrzeugdach geworfen (gilt für PKW)
 
-```{todo} Bilderserie: Unfallmechanismen // Oft der Verlierer: Der Fußgänger.  ₢ David Hauer :term:`ℓ MfG`
-```
+
 
 ## Sturz aus großer Höhe
 
@@ -381,8 +380,7 @@ Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
 (m-am-unfaelle)=
 
-```{todo} Maßnahme TY14101C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ## Maßnahmen: Unfälle
 

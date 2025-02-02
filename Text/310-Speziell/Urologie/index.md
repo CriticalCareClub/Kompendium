@@ -43,8 +43,7 @@ bilanziert werden kann.
 Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und
 entsprechend oft bei Patienten anzutreffen.
 
-```{todo} Bilderserie: Harnkatheter
-```
+
 
 ## Nierenkolik
 
@@ -98,8 +97,7 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 ### Maßnahmen: Nierenkolik
 
-```{todo} Maßnahme MN23XX0C: Anpassung an höherqualifiziertes Personal
-```
+
 
 ⛑ Basismaßnahmen
 : - Lagerung nach Wunsch des Patienten
@@ -216,8 +214,6 @@ Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
 
 ### Maßnahmen: Akuter Harnverhalt
 
-```{todo} Maßnahme MR33XX1C: Anpassung an höherqualifiziertes Personal
-```
 
 ⛑ Basismaßnahmen
 : - Zügiger Transport
@@ -339,8 +335,7 @@ Notfall.
 
 ### Maßnahmen: Hodentorsion
 
-```{todo} Maßnahme MN44000C: Anpassung an höherqualifiziertes Personal
-```
+
 
 Maßnahmen
 : - Lagerung: Bauckdeckenentspannend

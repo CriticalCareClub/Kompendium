@@ -28,7 +28,7 @@ $$
 $$
 
 Der Normalwert beträgt ca. 5—8 L / min.
-Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle Blutdruck lässt sich einfach mittels {ref}`Blutdruckmanschette <blutdruck>` messen {term}`🗎 Klinke 3`.
+Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert werden. Durch die Pumpfunktion des Herzens entsteht ein lebenswichtiger Druck im (arteriellen) Gefäßsystem, der **Blutdruck**, dieser sorgt dafür, dass das Gewebe von Blut durchflossen wird. Der arterielle Blutdruck lässt sich einfach mittels {ref}`Blutdruckmanschette <blutdruck>` messen .
 
 Durch den Herzauswurf entsteht ein Druck im arteriellen Gefäßsystem, der **arterielle Blutdruck** (vgl. {ref}`blutdruck`).
 Abhängig von der Phase der Herzaktion schwankt der Blutdruck im Zeitverlauf.

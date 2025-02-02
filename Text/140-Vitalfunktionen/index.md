@@ -7,7 +7,7 @@ Stoffwechsel/index
 Gerinnung/index
 Endokrin/index
 Temperatur/index
-WasserElythaushalt/index
+Wasser-Elyte/index
 SaeureBasenHaushalt/index
 Schlaf/index
 :::

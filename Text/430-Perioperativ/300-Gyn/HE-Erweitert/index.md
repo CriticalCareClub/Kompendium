@@ -11,7 +11,7 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
@@ -19,7 +19,7 @@ Beschreibung, Pathophysiologie
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
@@ -31,11 +31,11 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-36)=
 
@@ -47,11 +47,11 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
-: ?? Text fehlt ??
+: ???
 
 (besondere-perioperative-masznahmen-36)=
 
@@ -71,7 +71,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-37)=
 
@@ -107,4 +107,4 @@ Post-OP-Kontrollen
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

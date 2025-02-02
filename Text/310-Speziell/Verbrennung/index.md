@@ -61,7 +61,6 @@ werden.
 
 ## Gefahren
 
-::::{only} not nosidebar
 
 :::{margin} Gefahren
 - Haut verliert Schutzfunktion
@@ -69,7 +68,6 @@ werden.
 - Ringförmige Brustkorbverbrennung: Atembehinderung
 - Unterkühlung
 :::
-::::
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
 besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
@@ -173,9 +171,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 ```
 
-```{eval-rst}
-.. subfigstart::
-```
+
 
 :::{figure} /Bilder/WikipediaPd/Verbrennung1-00441pt.\*
 :width: 100%
@@ -230,18 +226,7 @@ wieder sich auszudehnen und dem Patienten damit zu atmen.
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Bilderserie-
 
-     Bilderserie:
-
-
-
-
-
-```
 
 ## Einschätzung
 
@@ -344,7 +329,7 @@ allmählich.
 - NEIN: Blasen öffnen {cite}`AAOS:9`
 - NEIN: festklebende Kleidung gewaltsam entfernen
 
-{term}`🗎 TertialeNotfallIntensivmed 1`
+
 {term}`🗎 Kamolz 2009`
 [^cite_verbrennungsmed-2009praehosp]
 {term}`🗎 Loennecker 2001`

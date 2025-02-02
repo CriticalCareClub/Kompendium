@@ -21,9 +21,7 @@ führen kann.
 :maxdepth: 1
 :glob:
 
-Schock/index
-ArterielleHypertonie/index
-Aneurysmen/index
+GICU/index
 HerzKreislauf/index
 Gerinnungsstoerungen/index
 Atmung/index
@@ -35,18 +33,16 @@ Paediatrie/index
 Psychiatrie/index
 Stoffwechsel/index
 ThermischeStoerungen/index
-Toxikologie/index
-Traumatologie/index
 Urologie/index
 Abdomen/index
 Anaphylaxie/index
 SterbenUndTod/index
 Atmungsstoerungen/index
-Covid-19/index
 NiereninsuffizienzAkut/index
-Osas/index
-Pneumektomie/index
 ZenkerDivertikel/index
+Toxikologie/index
+Traumatologie/index
+Verbrennung/index
 ```
 
 :::{toctree}

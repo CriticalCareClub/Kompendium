@@ -15,7 +15,7 @@ Varianten, Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -44,7 +44,7 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
@@ -69,7 +69,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-7)=
 
@@ -77,23 +77,23 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Perioperative Diagnostik
 
-: ?? Text fehlt ??
+: ???
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-7)=
 
@@ -111,4 +111,4 @@ Strategie
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

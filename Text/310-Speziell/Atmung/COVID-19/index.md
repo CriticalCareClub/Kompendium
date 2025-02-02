@@ -325,16 +325,16 @@ Mögliche apparative Therapieeskalation bei akuter respiratorischer Insuffizeinz
 ## Literatur & Quellen
 
 
-[^cite_bauer:2020]: Bauer Th; Moritz A.: **KS_AN_000050: COVID-19: Intensivmedizinische Handlungsempfehlungen.**
+[^cite_bauer-2020]: Bauer Th; Moritz A.: **KS_AN_000050: COVID-19: Intensivmedizinische Handlungsempfehlungen.**
     Version 3.0.0, 29.10.2020.
     Universitätsklinikum Krems.
 
-[^cite_bmsgpk:2020]: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz:
+[^cite_bmsgpk-2020]: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz:
     *Empfehlung zur Entlassung von COVID-19-Fällen aus der Absonderung.*
     Stand: 23.07.2020, basierend auf Empfehlungen des Robert Koch Instituts.
     <https://www.sozialministerium.at/dam/jcr:531f7e21-0f53-4180-b214-848e19668b52/Empfehlung%20zur%20Entlassung%20von%20COVID-19-F%C3%A4llen%20aus%20der%20Absonderung_final_230720.pdf>.
 
-[^cite_kluge:2020]: S. Kluge et al.:
+[^cite_kluge-2020]: S. Kluge et al.:
     **Empfehlungen zur intensivmedizinischen Therapie von Patienten mit COVID-19 — Version 3 (S1-Leitlinie).**
     Anaesthesist 2020 69:653—664.
     <https://doi.org/10.1007/s00101-020-00833-3>.

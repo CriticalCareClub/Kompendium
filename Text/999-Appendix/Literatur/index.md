@@ -163,6 +163,12 @@
   AWMF-Register Nr.: 001-040.
   https://register.awmf.org/assets/guidelines/001-040l_S1_Praehospitales-Atemwegsmanagement_2019-03_1.pdf
 
+♛ S1 RM-RA Antikoag 2021
+: **S1-Leitlinie Rückenmarknahe Regionalanästhesien und Thromboembolieprophylaxe / antithrombotische Medikation**
+  der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin e.V. (DGAI) et al.
+  AWMF-Register Nr.: 001 - 005.
+  https://register.awmf.org/assets/guidelines/001-005l_S1_Rueckenmarksnahe-Regionalanaesthesien-Thrombembolieprophylaxe-antithrombotische-Medikation_2021-10_1.pdf
+
 ♛ S2k Anaphylaxie 2021
 : **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)**,
   des Ärzteverbands Deutscher Allergologen (AeDA),

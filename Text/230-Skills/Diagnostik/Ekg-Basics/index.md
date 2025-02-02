@@ -147,7 +147,7 @@ Brustwandableitungen: [^footnote-1]
     | *Lateral*: I, aVL, V5, V6
     | *Dorsal*: V7—V9
     | *Rechtes Herz*: V3R—V6R
-    | {term}`🗎 Schuster 5`
+    | 
 
 ## Extremitätenableitungen
 
@@ -271,6 +271,6 @@ Extremitätenableitungen und Brustwandableitungen
 {term}`🗎 Kaindl 7`
 {term}`🗎 Kuehn 2002 1`
 {term}`🗎 Kuehn 2003 2`
-{term}`🗎 Schuster 5`
+
 {term}`🗎 EcgEmergencyDec 2`
-{term}`🗎 Harrisons 18 De Kap 228`
+

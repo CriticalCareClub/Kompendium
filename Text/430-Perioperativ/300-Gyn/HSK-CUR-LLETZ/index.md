@@ -1,9 +1,15 @@
 ```{index} pair: OP; Curettage pair: OP; Hysteroskopie
 ```
+```{index} pair: OP; Konisation
+```
+```{index} pair: OP; LLETZ
+```
+
+(konisation-mit-curettage)=
 
 (hysteroskopie-und-curettage)=
 
-# 8.5.2 Hysteroskopie und Curettage
+# 8.5.2 Hysteroskopie, Curettage, Konisation
 
 (allgemein-31)=
 
@@ -11,14 +17,12 @@
 
 Varianten, Abkürzung, Synonyme
 
-: Varianten: Abort-Cur
+: - Abort-Cur
+  - *LLETZ*: *Large Loop Exzicision of the Transformation Zone*:
 
-```{eval-rst}
-.. todo::
+    Konische Resektion der Zervix, i.d.R. bei verdächitgem PAP-Befund
 
-    Beschreibung, Pathophysiologie
-        ?? Text fehlt ??
-```
+
 
 Dringlichkeit
 
@@ -26,7 +30,7 @@ Dringlichkeit
 
 Dauer
 
-: Range1020 min
+: 10--20 min
 
 Zeitlicher Ablauf
 
@@ -48,12 +52,7 @@ Lagerung
 
 : Steinschnittlagerung */ Arme: rechts ausgelagert, LINKS ausgelagert /*
 
-```{eval-rst}
-.. todo::
 
-    Aufstellung
-        ?? Text fehlt ??
-```
 
 Besondere Geräte
 
@@ -87,6 +86,12 @@ Aufrechterhaltung
 : Nach Möglichkeit kein Narkosegas verwenden, das
   dadurch der Uterus weicher wird und Perforationsgefgahr besteht,
   insbesonders bei älteren Patientinnen oder Abort-Cur.
+
+
+:::{danger}
+
+Gefahr der **Uterusperforation** bei Verwendung von **Narkosegas**, besonders bei **Abort-Curettagen**!
+:::
 
 (gefahren-32)=
 

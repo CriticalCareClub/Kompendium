@@ -54,7 +54,7 @@ kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
 
 In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza,
 ca. 4 500 Personen müssen stationär behandelt werden und ca. 120
-Personen sterben an den Folgen {term}`🗎 Strauss 0000`.
+Personen sterben an den Folgen .
 
 #### Symptome
 

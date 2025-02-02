@@ -32,7 +32,6 @@ Thorax/index
 Abdomen/index
 Polytrauma/index
 Extremitaeten/index
-Verbrennung/index
 Erfrierung/index
 Strom/index
 ```

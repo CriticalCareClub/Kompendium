@@ -6,13 +6,10 @@
 :caption: Inhalt
 :maxdepth: 1
 
-Cerclage/index
 Chromopertubation/index
-HysterektomieErweitert/index
-HysterektomieLaparoskopisch/index
-HysterektomieVaginal/index
-HysteroskopeCurretage/index
-Konisation/index
+HE/index
+HE-Erweitert/index
+HSK-CUR-LLETZ/index
 Lavh/index
 Myomextirpation/index
 OvarialzysteLaparoskopisch/index

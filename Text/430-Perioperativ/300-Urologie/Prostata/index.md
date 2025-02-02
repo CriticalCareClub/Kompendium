@@ -17,19 +17,19 @@ Schöießt ein:
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-45)=
 
@@ -41,7 +41,7 @@ Besondere Aufklärung auf
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-47)=
 
@@ -54,11 +54,11 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
-: ?? Text fehlt ??
+: ???
 
 (besondere-perioperative-masznahmen-47)=
 
@@ -74,7 +74,7 @@ Blutmanagement
 
 Gerinnung
 
-: ?? Text fehlt ??
+: ???
 
 Invasivitäten
 
@@ -82,7 +82,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-48)=
 
@@ -90,11 +90,11 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Perioperative Diagnostik
 
@@ -103,7 +103,7 @@ Perioperative Diagnostik
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 
@@ -121,12 +121,12 @@ Antibiotika
 
 Strategie
 
-: ?? Text fehlt ??
+: ???
 
 Post-OP-Kontrollen
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

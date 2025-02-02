@@ -11,11 +11,11 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 

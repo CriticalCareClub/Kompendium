@@ -11,19 +11,19 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-27)=
 
@@ -31,11 +31,11 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-28)=
 
@@ -53,7 +53,7 @@ Aufstellung
 
 Besondere Geräte
 
-: ?? Text fehlt ??
+: ???
 
 (besondere-perioperative-masznahmen-28)=
 
@@ -69,15 +69,15 @@ Blutmanagement
 
 Gerinnung
 
-: ?? Text fehlt ??
+: ???
 
 Invasivitäten
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-29)=
 
@@ -85,11 +85,11 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Verlauf
 
@@ -108,15 +108,15 @@ Verlauf
 
 Perioperative Diagnostik
 
-: ?? Text fehlt ??
+: ???
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-29)=
 
@@ -130,7 +130,7 @@ Antibiotika
 
 Strategie
 
-: ?? Text fehlt ??
+: ???
 
 Post-OP-Kontrollen
 
@@ -138,4 +138,4 @@ Post-OP-Kontrollen
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

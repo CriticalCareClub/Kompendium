@@ -11,8 +11,26 @@
 
 # Peritonitis
 
-Eine **Peritonitis** ist die Entzündung des Peritoneums.
+Syn.
+: Bauchfellentzündung 
+
+
+
+:::{margin} Peritonitis
+- Entzündung bzw. Infektion des Bauchfells
+:::
+
+
+
+
+
+-----
+
+Eine **Peritonitis** (Bauchfellentzündung) ist die Entzündung des Peritoneums.
 Sie kann lokalisiert auftreten oder generalisiert das gesamte Peritoneum betreffen ("4-Quadranten-Peritonitis").
+Durch die Entzündung bzw. Infektion des Bauchfelles kommt es zu Symptomen eines Akuten Abdomens. 
+Oft ist die Perforation eines Hohlorganes (Magendurchbruch, Darmperforation, Blinddarmdurchbruch, …) Ursache der Entzündung. 
+Eine Bauchfellentzündung führt üblicherweise zu einer schweren körperweiten Entzündungsreaktion.
 Sie ist nur **selten eine eigenständige Erkrankung**, sondern häufig eine Folgeerscheinung eines anderen Krankheitsprozesses und umfasst einen heterogenen Komplex von klinischen Krankheitsbildern.
 Die Behandlung und Prognose ist wesentlich vom zugrunde liegenden Krankheitsbild abhängig.
 
@@ -25,7 +43,7 @@ Bild einer 4-Quadranten-Peritonitis: Fibrinbelegte, verbackene Darmschlingen, f�
 
 ## Einteilung
 
-Eine Peritonitis kann im Wesentlichen nach ihrer Ursache, nach der Art des vorherrschenden Sekrets in der Bauchhöhle und nach ihrer Lokalisation bzw. Ausdehnung charakterisiert werden, siehe Tab. {ref}`Tab-Peritonitis-Einteilung`.
+Eine Peritonitis kann im Wesentlichen nach ihrer Urs*ache, nach der *Art* des vorherrschenden Sekrets in der Bauchhöhle und nach ihrer *Lokalisation* bzw. Ausdehnung charakterisiert werden, siehe Tab. {ref}`Tab-Peritonitis-Einteilung`.
 
 :::{list-table} Einteilungen einer Peritonitis
 :header-rows: 1
@@ -69,7 +87,7 @@ Eine Peritonitis kann im Wesentlichen nach ihrer Ursache, nach der Art des vorhe
 
 ## Klinik
 
-Die klassischen Symptome sind
+Die klassischen Symptome sind die eines Akuten Abdomens:
 - akute Bauchschmerzen, Druckschmerz
 - Abwehrspannung (Défense musculaire) bis hin zum *"brettharten Bauch"*
 - Loslassschmerz
@@ -89,6 +107,13 @@ Die Behandlung und Prognose ist wesentlich vom zugrunde liegenden Krankheitsbild
 Darüber hinaus ist eine generalisierte Peritonitis häufig mit einer *Sepsis* vergesellschaftet.
 Auch wenn bei einem Patienten mit generalisierter infektiöser Peritonitis keine Sepsis-Zeichen vorliegen, muss immer mit dem Auftreten einer Sepsis gerechnet werden, da die Peritonitis immer einen *Herd* darstellt, von dem Keime systemisch *eingeschwemmt* werden können.
 Die Therapie einer infektiösen generalisierten Peritonitis umfasst somit immer eine *Sepsistherapie* oder eine *Sepsis-Prophylaxe* und *-früherkennung*.
+
+
+### ⛑ Prähospitale Versorgung und Basismaßnahmen
+
+: - Maßnahmen wie bei akutem Abdomen
+    ({ref}`m-akutes-abdomen`),
+    und sonst abhängig von der Ursache
 
 
 

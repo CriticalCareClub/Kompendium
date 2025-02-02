@@ -11,19 +11,19 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 Zeitlicher Ablauf
 
@@ -36,11 +36,11 @@ Zeitlicher Ablauf
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-8)=
 
@@ -79,7 +79,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-9)=
 
@@ -92,7 +92,7 @@ Einleitung
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Perioperative Diagnostik
 
@@ -104,7 +104,7 @@ Ausleitung
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-9)=
 
@@ -119,12 +119,12 @@ Antibiotika
 
 Strategie
 
-: ?? Text fehlt ??
+: ???
 
 Post-OP-Kontrollen
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

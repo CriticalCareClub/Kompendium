@@ -21,7 +21,7 @@ Darunter fallen:
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-50)=
 

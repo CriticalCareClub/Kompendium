@@ -11,19 +11,19 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-16)=
 
@@ -31,11 +31,11 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-16)=
 
@@ -56,7 +56,7 @@ Anästhesieverfahren, Airway
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-17)=
 
@@ -64,7 +64,7 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 

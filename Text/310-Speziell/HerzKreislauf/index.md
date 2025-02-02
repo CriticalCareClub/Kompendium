@@ -32,9 +32,11 @@ KoronareHerzkrankheit/index
 Herzinsuffizienz/index
 Blutdruckstoerungen/index
 KollapsSynkope/index
+Schock/index
 Kreislaufstillstand/index
 PeriphererArteriellerGefaessverschluss/index
 PeriphererVenoeserGefaessverschluss/index
+Aneurysmen/index
 ```
 (sec-herz-kreislauf-stoerungen)=
 

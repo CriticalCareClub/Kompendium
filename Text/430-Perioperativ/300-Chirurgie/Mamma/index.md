@@ -11,11 +11,11 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -23,7 +23,7 @@ Dringlichkeit
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 Zeitlicher Ablauf
 
@@ -44,11 +44,11 @@ Anmerkungen
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-7)=
 
@@ -60,11 +60,11 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
-: ?? Text fehlt ??
+: ???
 
 (besondere-perioperative-masznahmen-7)=
 
@@ -80,7 +80,7 @@ Blutmanagement
 
 Gerinnung
 
-: ?? Text fehlt ??
+: ???
 
 Invasivitäten
 
@@ -88,7 +88,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-8)=
 
@@ -100,11 +100,11 @@ Perioperative Diagnostik
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-8)=
 
@@ -126,7 +126,7 @@ Post-OP-Kontrollen
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150401_151607-01341px.\*
 Grüner Harn.Nach Einspritzung von blauem Farbstoff zum

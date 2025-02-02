@@ -44,7 +44,7 @@ Zu den typischen **Aufgaben** einer Rettungsdienstleitstelle gehört die *Annahm
 Die Meldungen unterlaufen eine *Einteilung und Priorisierung* nach Art und Dringlichkeit der Meldung.
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
 :width: 50%
 
 Call taker in einer Leitstelle

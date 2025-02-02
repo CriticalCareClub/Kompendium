@@ -15,15 +15,15 @@ Varianten, Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-49)=
 
@@ -31,11 +31,11 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-51)=
 
@@ -47,11 +47,11 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
-: ?? Text fehlt ??
+: ???
 
 (besondere-perioperative-masznahmen-51)=
 
@@ -59,7 +59,7 @@ Besondere Geräte
 
 Anästhesieverfahren, Airway
 
-: ?? Text fehlt ??
+: ???
 
 Blutmanagement
 
@@ -67,15 +67,15 @@ Blutmanagement
 
 Gerinnung
 
-: ?? Text fehlt ??
+: ???
 
 Invasivitäten
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-52)=
 
@@ -83,23 +83,23 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Perioperative Diagnostik
 
-: ?? Text fehlt ??
+: ???
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-52)=
 
@@ -113,15 +113,15 @@ Antibiotika
 
 Strategie
 
-: ?? Text fehlt ??
+: ???
 
 Post-OP-Kontrollen
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 
 

@@ -15,7 +15,7 @@ Varianten, Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -119,4 +119,4 @@ Post-OP-Kontrollen
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

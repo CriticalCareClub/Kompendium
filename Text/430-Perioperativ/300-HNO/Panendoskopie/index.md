@@ -19,11 +19,11 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-17)=
 
@@ -44,7 +44,7 @@ Anästhesieverfahren, Airway
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-18)=
 
@@ -52,7 +52,7 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-18)=
 

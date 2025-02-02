@@ -18,7 +18,7 @@ Ein {dfn}`Schädel-Hirn-Trauma`
 (*Abkz.* {dfn}`SHT`{index}` <! SHT>`)
 ist eine Gewalteinwirkung auf den Kopf,
 welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
-{term}`🗎 Gorgass 7`.
+.
 Die häufigsten Ursachen von
 Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und
 Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene

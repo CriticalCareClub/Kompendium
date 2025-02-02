@@ -17,7 +17,7 @@ Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -25,7 +25,7 @@ Dringlichkeit
 
 Störfaktoren
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-15)=
 

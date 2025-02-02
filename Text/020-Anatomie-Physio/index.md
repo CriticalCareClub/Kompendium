@@ -2,7 +2,6 @@
 
 # Anatomie & Physiologie 
 
-([#58](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/58))
 
 ```{index} single: physiologisch
 ```
@@ -27,13 +26,13 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 
 Grundlagen/index
 Bewegungsapparat/index
+Nervensystem/index
+Reproduktion/index
 HerzKreislauf/index
 Blut/index
 Respiration/index
 GIT/index
 Endokrin/index
-Temperatur/index
-WasserElythaushalt/index
-SaeureBasenHaushalt/index
-Schlaf/index
+Harn/index
+Sinnesorgane/index
 :::

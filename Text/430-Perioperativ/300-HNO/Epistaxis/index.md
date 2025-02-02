@@ -11,11 +11,11 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -23,7 +23,7 @@ Dringlichkeit
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-25)=
 
@@ -35,7 +35,7 @@ Besondere Aufklärung auf
 
 Erforderliche Untersuchungen
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-25)=
 
@@ -77,4 +77,4 @@ Einleitung
 
 Strategie
 
-: ?? Text fehlt ??
+: ???

@@ -17,7 +17,7 @@ Varianten, Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -64,7 +64,7 @@ Invasivitäten
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-4)=
 
@@ -72,11 +72,11 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotikum
 
@@ -89,7 +89,7 @@ Perioperative Diagnostik
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-4)=
 

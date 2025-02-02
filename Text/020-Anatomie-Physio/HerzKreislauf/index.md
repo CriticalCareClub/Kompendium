@@ -38,7 +38,8 @@ Im Gegensatz zu der Annahme, dass Arterien Sauerstoff-reiches und Venen Sauersto
 :caption: Inhalte
 :maxdepth: 1
 
-Mediastinum/index Herz/index
+Herz/index
+Mediastinum/index
 Gefaesse-Allgemein/index
 Gefaesse-Arterien/index
 Gefaesse-Venen/index

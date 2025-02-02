@@ -1292,4 +1292,4 @@ Werk mit Österreich-Bezug: \[FlammAngewandteHygiene:4\]
 {term}`🗎 Kayser 10`
 {term}`🗎 HahnMikrobio 6`
 {term}`🗎 OeAG 2007`
-{term}`🗎 GruberHygieneRD 1`
+

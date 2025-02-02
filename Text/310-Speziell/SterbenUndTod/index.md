@@ -287,5 +287,5 @@ Folgende Leitsätze können unter Umständen hilfreich sein:
   Sterbenden manche, sonst übliche, Ansichten nicht
   — oder nur eingschränkt — gelten.
 
-{term}`🗎 NagelePalliativ 1`
+
 {term}`🗎 Hochmeister 2`

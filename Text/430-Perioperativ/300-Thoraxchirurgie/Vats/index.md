@@ -11,11 +11,11 @@
 
 Varianten, Abkürzung, Synonyme
 
-: ?? Text fehlt ??
+: ???
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
@@ -91,7 +91,7 @@ Sonstiges
 
 Einleitung
 
-: ?? Text fehlt ??
+: ???
 
 Aufrechterhaltung
 
@@ -104,7 +104,7 @@ Perioperative Diagnostik
 
 Ausleitung
 
-: ?? Text fehlt ??
+: ???
 
 Antibiotika
 

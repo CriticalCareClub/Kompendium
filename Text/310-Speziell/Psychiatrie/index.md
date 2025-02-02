@@ -406,7 +406,7 @@ Willenssphäre sowie des Denkens.
 
 Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa
 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
-{term}`🗎 Wunn 1`. Sie tritt mit einer Vielzahl von unterschiedlichen
+. Sie tritt mit einer Vielzahl von unterschiedlichen
 Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
 abzugrenzen.
 
@@ -489,6 +489,6 @@ ______________________________________________________________________
 {term}`🗎 Thun 1989`,
 {term}`🗎 Thun 2010`,
 {term}`🗎 Argelander 2009`,
-{term}`🗎 Wunn 1`,
+,
 {term}`🗎 Battegay 2`,
-{term}`🗎 Scholz 2`
+

@@ -16,6 +16,8 @@
 
 Als **Ileus** (*Darmverschluss*) bezeichnet man die *Unterbrechung* der Darmpassage.
 Eine Behinderung der Darmpassage ohne vollständiger Unterbrechung wird als **Subileus** bezeichnet.
+Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur (Medikamente, Gifte, Entzündung …) verursacht sein. 
+Besonders Opiate sind bekannt dafür, Darmlähmungen zu erzeugen.
 
 
 :::{index} single: Ileus; mechanischer
@@ -166,6 +168,9 @@ Dennoch berichten die meisten Patienten über eher unspezifische Symptome:
 - Stuhl– und Windverhalt
 - Zunahme des Bauchumfanges
 
+In extremen Fällen kann es auch zum Erbrechen von zurück
+gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
+
 
 
 ### Anamnese
@@ -288,7 +293,13 @@ Es ist jedoch wichtig, um das Stadium der Ileuskrankheit bzw. der pathophysiolog
   - Vermeidung von auslösenden Faktoren
   - Ev. OP
 
+### ⛑ Basismaßnahmen
 
+- Allgemeine Maßnahmen bei Abdominalerkrankungen
+  ({ref}`m-am-abdominalerkrankungen`)
+- Lagerung: bauchdeckenentspannend, bzw. je nach
+  Patientenwunsch
+- Patient nüchtern lassen!
 
 :::{index} single: Erythromycin; Prokinetikum
 :::

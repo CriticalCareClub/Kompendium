@@ -16,15 +16,15 @@ Varianten, Abkürzung, Synonyme
 
 Beschreibung, Pathophysiologie
 
-: ?? Text fehlt ??
+: ???
 
 Dringlichkeit
 
-: ?? Text fehlt ??
+: ???
 
 Dauer
 
-: ?? Text fehlt ??
+: ???
 
 (praanasthesie-71)=
 
@@ -32,7 +32,7 @@ Dauer
 
 Besondere Aufklärung auf
 
-: ?? Text fehlt ??
+: ???
 
 (perioperative-planung-73)=
 
@@ -44,7 +44,7 @@ Lagerung
 
 Aufstellung
 
-: ?? Text fehlt ??
+: ???
 
 Besondere Geräte
 
@@ -60,7 +60,7 @@ Anästhesieverfahren, Airway
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???
 
 (narkosefuhrung-74)=
 
@@ -68,7 +68,7 @@ Sonstiges
 
 Antibiotika
 
-: ?? Text fehlt ??
+: ???
 
 (gefahren-74)=
 
@@ -82,12 +82,12 @@ Antibiotika
 
 Strategie
 
-: ?? Text fehlt ??
+: ???
 
 Post-OP-Kontrollen
 
-: ?? Text fehlt ??
+: ???
 
 Sonstiges
 
-: ?? Text fehlt ??
+: ???

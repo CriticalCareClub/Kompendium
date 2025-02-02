@@ -609,7 +609,7 @@ bei der Bewertung des Patienten zu vergegenwärtigen.
 
 {term}`🗎 Dahmer GF 5`
 
-{term}`🗎 FamPropAeGeFue 2010`
+
 
 {term}`🗎 Thun 1981`
 

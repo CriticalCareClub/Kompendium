@@ -27,7 +27,7 @@ verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
 [^footnote-1]: Offener Bruch: *Fractura aperta* (*Fract* {index}` <Fract.!apert.>`. apert.)
 
 [^footnote-2]: Die Literatur ist bei der Definition offener Knochenbrüche nicht
-    einheitlich. In manchen Büchern, z. B. in {term}`🗎 Gorgass 7`, wird
+    einheitlich. In manchen Büchern, z. B. in , wird
     ein offener Knochenbruch durch eine direkte Verbindung zwischen Wunde
     und Bruchstelle beschrieben, in anderen Büchern genügt es, wenn über
     der Bruchstelle eine Hautverletzung vorliegt. Andere Quellen geben drei Schweregrade für offene

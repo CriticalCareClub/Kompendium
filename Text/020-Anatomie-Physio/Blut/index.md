@@ -262,12 +262,6 @@ Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 
 ## Blutstillung, Blutgerinnung und das Gegenteil davon
 
-```{todo} Gerinnung: Genauer!
-
-    -   Gerinnungskaskade, Gerinnungsfaktoren
-    -   Vorläufiger Wundverschluss (Thrombozytenpfropf)
-    -   Endgültiger Wundverschluss (Blutgerinnung)
-```
 
 Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
 Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.

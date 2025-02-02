@@ -132,7 +132,7 @@ Scapula. Sie verstärken auch kein Gelenk: Lig. coracoacromiale (zw.
 Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 (überdacht die Incisura scapulae).
 
-```{todo} #113: Scapula als Landmark / WS für Regionalanästhesie und Punktionen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/113>
+```{todo} #113: Scapula als Landmark / WS für Regionalanästhesie und Punktionen
 ```
 
 ```{index} single: Clavicula
@@ -155,7 +155,7 @@ Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Mediok
 Unterhalb der Clavicula verlaufen die A. und V. subclavia.
 Somit dient die Clavicula auch als Landmark für die Anlage von zentralvenösen Kathetern an der V. subclavia.
 
-:::{todo} `#114`: Clavicula: Landmarks für ZVK und Reginalanästhesie 
+:::{todo} `#114`: Clavicula: Landmarks für ZVK und Reginalanästhesie
 
 <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/114>
 
@@ -478,7 +478,7 @@ Die wichtigsten Gelenke der Hand sind:
 
 ## Wichtige Muskeln der oberen Extremität
 
-```{todo} `#115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/115>`_
+```{todo} #115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln
 ```
 
 :::{list-table} Wichtige Muskeln der oberen Extremität

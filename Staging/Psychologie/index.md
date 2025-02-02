@@ -654,8 +654,7 @@ und *Introspektion* den erstmöglichen Zugang bietet, da der Betroffene
 selbst auf gedanklich-emotionaler Ebene wohl die erste Chance bekommt,
 die Vorboten von Distress zu erkennen bzw. am eigenen Leib zu "spüren".
 
-```{todo} #103: `Erklärung Eustress, Distress <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/103>`_
-```
+
 
 Da viele der o. g. Auswirkungen aber sehr *subtil bzw. schleichend
 sukzessive* erfolgen bzw. auch durch unbewusste Abwehrmechanismen (z. B.
@@ -1146,10 +1145,7 @@ Anzeichen einer Sekundärtraumatisierung sind
   Existentielle Krise und Erschütterung, Zweifel am Sinn von Leben,
   Leiden, Tod
 
-```{todo}  !!! A !!!Keywords: Psychische/physische Ebene, erhöhte Vulnerabilität, Frustrationserleben (Reizbarkeit, gedrückte Stimmung), Zynismus, pathologische Phänomene v. a. Burnout und Traumafolgen (akute Belastungsreaktion, PTSD, Andauernde Persönlichkeitsänderung nach Extrembelastung), Retraumatisierung, Sekundärtraumatisierung.
 
-
-```
 
 ## Stressbewältigung
 
@@ -1619,7 +1615,7 @@ unterdrücken \[...\], die eigene Aufmerksamkeit und Konzentration auf eine
 Aufgabe zu richten und Frustration und Misserfolg zu kontrollieren"*
 {term}`🗎 Bengel 2` .
 
-```{todo} !!! A !!!Gedankenstopp - Imagination: Damit ist gemeint, dass man die eigene Phantasie nutzt und sich hilfreiche Dinge vorstellt. Wer seine Rettungsdienstjacke bewusst anzieht und zuknöpft, kann sich z. B. gedanklich ausmalen, dass die Jacke – wie eine Rüstung oder eine Art Panzerung – auch einen psychischen Schutz bewirkt. Ebenso denkbar ist die Vorstellung eines unsichtbaren Helfers oder Beschützers. In diesem Zusammenhang können durchaus auch religiöse Vorstellungen hilfreich sein. Sich aufdrängende negative Gedanken lassen sich mit der Technik des Gedankenstopps unterbrechen. Auch dabei handelt es sich letztlich um ein imaginatives Verfahren.
+ imaginatives Verfahren.
 ```
 
 % .. todo:: !!! A !!!Wahrnehmung lenken: Vor besonders belastenden Anblicken sollten Helfer sich schützen, indem sie sich – so banal dies auch klingen mag – nach Möglichkeit abwenden und eben nicht hinsehen. In bestimmten Situationen, etwa wenn sich jemand in Anwesenheit von Einsatzkräften suizidiert, kann es sogar angebracht sein, sich die Augen, ggf. auch die Ohren zuzuhalten. Einer Person, die in Selbsttötungsabsicht vom Dach eines Gebäudes springt, sollte man nicht hinterher schauen usw. Wenn Situationen insgesamt als etwas sehr Unangenehmes erlebt werden, sollte man sich auch nicht länger am Ort des Geschehens aufhalten, als dies aus medizinisch-einsatztaktischen Gründen unbedingt notwendig ist. Extrem grausamen Anblicken (z. B. dem Anblick eines stark entstellten Mordopfers oder eines bis zur Unkenntlichkeit verbrannten Kindes) und ekelhaften Gerüchen (z. B. Verwesungsgeruch) muss man sich, sobald der Tod des Patienten zweifelsfrei festgestellt worden ist, ebenfalls nicht länger aussetzen. Darüber hinaus wird empfohlen, nicht in die Gesichter bzw. Augen von Verstorbenen zu schauen (2).

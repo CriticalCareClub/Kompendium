@@ -195,8 +195,6 @@ Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf ➛
 regionspezifisch!
 
 ```{todo} Abbildung Homunculus
-
-
 ```
 
 ### Zwischenhirn (Diencephalon)

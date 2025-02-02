@@ -2,11 +2,7 @@
 
 # Herz (Cor)
 
-```{todo} Neu: `#82 Nervale Versorgung und Adrenorezeptoren <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/82>`_
 
-    -   Adrenoreptoren uner Veg. NS beschrieben
-
-```
 
 :::{margin} Herz: Aufbau, Lage
 - Hohlmuskel

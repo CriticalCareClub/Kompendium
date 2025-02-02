@@ -238,8 +238,7 @@ Methoden zum Einsatz:
   Lebens bis zum Eintreten des Todes.
 - *Immuntherapie*
 
-```{todo} Gentherapie, Immuntherapie
-```
+
 
 Diese Therapien sind für den Körper sehr anstrengend und haben viele
 Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung

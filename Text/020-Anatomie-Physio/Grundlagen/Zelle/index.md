@@ -385,5 +385,3 @@ heraus zu transportieren gibt es spezifische Transportprozesse.
     Phagozytose = große Patrikel über Vesikel) und aus der Zelle
     heraus (Exozytose).
 
-```{todo} Ionenkanäle etc.
-```

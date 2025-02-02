@@ -15,8 +15,6 @@
     Insulin und Glukagon
 :::
 
-```{todo} image Pankreas ₢ Lena Hirtler, :term:`ℓ MfG`
-```
 
 Das {dfn}`Pankreas` ({dfn}`Bauchspeicheldrüse`) ist ca.
 15—22 cm lang und liegt hinter dem Magen.

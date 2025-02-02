@@ -21,21 +21,18 @@ Die Art und Weise der Visualisierung bzw. Positionierung der Kamera, ist geräte
 Hervorzuheben ist, dass die Darstellung der Glottisebene oft gut möglich ist, das Problem jedoch die tatsächliche Positionierungen des Tubus ist.
 Deswegen ist die Verwendung eines vorgeformten Führungsdrahtes oder ähnlicher Hilfsmittel oft notwendig.
 
-
+<!--
 :::{subfigure} AB
 :subcaptions: below
 :name: Fig-BS-Videolaryngoskope
 :class-grid: outline
 :gap: 20px
 
-Verschiedene Videolaryngoskope
 
-![C-MAC™ Videolaryngoskop mit externem Monitor \[₢ Karl Storz, ℓ CC-BA-SA 4.0\]](../../../Bilder/CC-BY-SA-4.0/4th_generation_Video_Laryngoscope_000800px.jpg)
 
-![McGrath™ Videolaryngoskop \[₢ Allurimd, ℓ CC BY-SA 3.0\]](../../../Bilder/CC-BY-SA-3.0/McGrath_Intubation_Device_cropped_000800px.jpg)
 
 :::
-
+ -->
 
 :::{index} single: Airtraq™
 :::
@@ -50,3 +47,5 @@ Ferner enthält er eine seitliche Schiene für die Platzierung und das geführte
 
 Der Airtraq™ ist gegenüber der herkömmlichen direkten Laryngoskopie in Situationen vorteilhaft, in denen die Halswirbelsäule immobilisiert werden muss, da ein Blick auf die Glottisöffnung ohne signifikante Manipulation der Halswirbelsäule möglich ist und er daher eine Intubation mit minimaler Manipulation und Positionierung des Kopfes bzw. der Halswirbelsäule ermöglicht.
 Er setzt jedoch eine grundsätzlich regelhafte Anatomie voraus, da durch die vorgeformte Schiene kaum Spielraum beim Einführen des Tubus besteht.
+
+

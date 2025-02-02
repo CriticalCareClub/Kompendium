@@ -161,18 +161,6 @@ Bilderserie: Herausfordernde Atemwege 2
 
 ![Makroglossie \[₢ US Government, ℓ PD\]](../../../Bilder/PD/Hypoglycemia_Neonatal_Macroglossia_Visceromegaly_and_Omphalocele_1.jpg)
 
-
 :::
 
 
-:::{todo}
-{ticket-alt}`59` AATW: Bilder neu: schwierige Atemwege
-
-Kariöse Zähne media/image20.jpeg
-
-Verletzung media/image16.jpeg
-
-Syndrome media/image12.png
-
-Kleine Mundöffnung media/image14.jpeg
-:::

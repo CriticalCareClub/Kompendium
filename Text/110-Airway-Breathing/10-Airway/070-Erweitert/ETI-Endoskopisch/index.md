@@ -8,7 +8,6 @@
 {index}` <single: Intubation; fiberoptische endotracheale>`
 {index}` <single: Intubation; flexible endoskopische>`
 {index}` <single: Fiberoptik; flexible endoskopische Intubation>`
-
 {index}` <single: Bronchoskop; flexible endoskopische Intubation>`
 {index}` <single: Bronchospasmus; fiberoptische endotracheale Intubation>`
 {index}` <single: Laryngospasmus; fiberoptische endotracheale Intubation>`

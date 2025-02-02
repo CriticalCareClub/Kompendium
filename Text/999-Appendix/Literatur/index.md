@@ -296,14 +296,6 @@
   2\. Auflage, 2004.
   3\. Springer.
 
-🗎 Bernhard 2012
-: **Developing the Skill of Endotracheal Intubation: by Implication for Emergency Medicine.**
-  by Bernhard, M., S. Mohr, M. A. Weigand, E. Martin and A. Walther. 2012.
-  *Acta Anaesthesiol Scand* 56 (2). Department of
-  Anaesthesiology, University Hospital of Heidelberg, Germany.
-  <mailto:michelbernhard@gmx.de>: by 164–71.
-  doi:[10.1111/j.1399-6576.2011.02547.x](https://doi.org/10.1111/j.1399-6576.2011.02547.x).
-
 🗎 Bertelsmann 25
 : **Bertelsmann Volkslexikon.**
   by Bertelsmann Lexikon-Redaktion.
@@ -622,14 +614,6 @@ Citation needed
   *The Journal of hand surgery, European volume*, 2012(37):61-64.
   PMID: 21816890,
   DOI: [10.1177/1753193411414353](https://doi.org/10.1177/1753193411414353)
-
-🗎 Goerg 2018
-: **Assoziation zwischen sozio-ökonomischem Status und Mortalität bei PatientInnen mit ST-Hebungsinfarkt**
-  von Simon Görg.
-  Thesis (Diplom).
-  June 2018, Medizinische Universität Wien.
-  URN: urn:nbn:at:at-ubmuw:1-14568.
-  https://resolver.obvsg.at/urn:nbn:at:at-ubmuw:1-14568
 
 🗎 Gosselin 2018
 : **International Council for Standardization in Haematology ( ICSH ) Recommendations for Laboratory Measurement of Direct Oral Anticoagulants.**

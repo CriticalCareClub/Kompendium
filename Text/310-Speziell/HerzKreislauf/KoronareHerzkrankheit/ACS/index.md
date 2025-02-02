@@ -24,7 +24,7 @@
 
 Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393) [^cite_esc-2017-guidelinesstemi]
 
-[^cite_damman:2017] [^cite_ibanez:2017] [^cite_ibanez:2018]
+[^cite_damman-2017] [^cite_ibanez-2017] [^cite_ibanez-2018]
 
 
 
@@ -413,7 +413,26 @@ Daraus ergeben sich folgende logistische Empfehlungen
 - Bypassing Emergency Departments (*"Fast Track"*)
 - Regelmäßige Überprüfung der eigenen Daten (Qualitätskontrolle)
 
-```{index} single: GP IIb/IIIa-Inhibitor (ACS) single: Ticagrelor (ACS) single: Brilique® (ACS) single: Clopidogrel (ACS) single: Prasugrel (ACS) single: Efient® (ACS) single: Morphin (ACS) single: Heparin (ACS) single: ASS  (ACS)
+
+
+
+```{index} single: GP IIb/IIIa-Inhibitor (ACS) 
+```
+```{index} single: Ticagrelor (ACS) 
+```
+```{index} single: Brilique® (ACS) 
+```
+```{index} single: Clopidogrel (ACS) 
+```
+```{index} single: Prasugrel (ACS) 
+```
+```{index} single: Efient® (ACS) 
+```
+```{index} single: Morphin (ACS) 
+```
+```{index} single: Heparin (ACS) 
+```
+```{index} single: ASS  (ACS)
 ```
 
 ### 🞺 ⛑ Allgemein und Basics

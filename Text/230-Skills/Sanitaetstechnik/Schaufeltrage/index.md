@@ -40,7 +40,7 @@ Die Schaufeltrage kann vielfältig eingesetzt werden:
 
 :::{note}
 Das {ref}`Spineboard <spineboard-beschreibung>` ist in vielen Fällen
-eine Alternative zur Schaufeltrage [^cite_campbell:2010:de] .
+eine Alternative zur Schaufeltrage .
 :::
 
 (schaufeltrage-aufschaufeln)=

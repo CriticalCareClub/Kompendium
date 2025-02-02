@@ -119,7 +119,7 @@ Solange es noch unklar ist, ob eine WS-Immobilisation
 notwendig ist, muss eine manuelle Fixierung der HWS
 durchgeführt werden!
 
-[^cite_campbell:2010:de] 
+
 
 ## Typische Maßnahmen
 

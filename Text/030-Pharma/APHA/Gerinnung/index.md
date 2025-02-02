@@ -185,7 +185,7 @@ Erworbene Störungen
 
 ## Szenarien — Was gibt es zu beachten?
 
-:::{todo} {ticket-alt}`12` *"Szenarien — Was gibt es zu beachten?"* Fragen, aber keine Antworten
+:::{todo} *"Szenarien — Was gibt es zu beachten?"* Fragen, aber keine Antworten
 :::
 
 - Arthroskopie in Spinalanästhesie bei Patienten unter TASS?
@@ -211,10 +211,7 @@ Indikation
   - PAVK
   - Prävention einer Stentthrombose
 
-:::{todo} {ticket-alt}`13` Tabelle Perioperative Thrombozythenfunktionshemmung
 
-Gestrichen?
-:::
 
 :::{index} single: Antikoagulation
 :::
@@ -297,8 +294,7 @@ Management des perioperativen Blutungsrisikos
 - Oegari.at
 :::
 
-:::{todo} {ticket-alt}`14` Tabellen Gerinnungsfaktoren -- Gestrichen?
-:::
+
 
 (APHA-VO-Antikoagulation-Regional)=
 

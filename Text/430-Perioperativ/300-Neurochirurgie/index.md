@@ -111,7 +111,7 @@ AF ↑ → CBF↓
    > There was no evidence that the effect of corticosteroids differed
    > by injury severity or time since injury. These results lend
    > support to our earlier conclusion that corticosteroids should not
-   > be used routinely in the treatment of head injury.  [^cite_edwards:2005]
+   > be used routinely in the treatment of head injury.  [edwards-2005]
 
 ### Wasser und Osmose
 

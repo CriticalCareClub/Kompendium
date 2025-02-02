@@ -6,7 +6,6 @@
 :caption: Inhalt
 :maxdepth: 1
 
-Chromopertubation/index
 HE/index
 HE-Erweitert/index
 HSK-CUR-LLETZ/index

@@ -13,7 +13,7 @@ Zwar ist das {ref}`respiratorische Monitoring das primäre Revier der BGA <RespM
 Darunter fallen der Laktatspiegel, sowie die O₂-Sättigungsbestimmung an unterschiedlichen Stationen des Kreislaufs (arteriell, zentralvenös, gemischtvenös).
 Die {ref}`invasive arterielle Blutdruckmessung <IABP>` sorgt als Nebeneffekt für einen einfachen Zugangsweg zur Gewinnung von arteriellen Blutproben für eine arterielle Blutgasanalyse. 
 
-:::{todo} {ticket-alt}`21` Bilder: BGAs
+:::{todo} Bilder: BGAs
 :::
 
 

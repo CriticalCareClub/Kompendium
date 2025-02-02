@@ -27,5 +27,4 @@ Kontraindiziert wären z. B. Eingriffe, die nicht in Rückenlage durchgeführt
 
 Der Einsatz von supraglottischen Atemwegshilfen, beispielsweise von Larynxtuben, ist eine anerkannte Strategie im Management des schwierigen Atemwegs und wird in der Notfallmedizin für den weniger erfahrenen Anwender auch als Alternative zur endotrachealen Intubation empfohlen.
 
-:::{todo} {ticket-alt}`8` Larynxtubus Größe: Nach Körpergröße; siehe Beschriftung
-:::
+

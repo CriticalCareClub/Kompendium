@@ -124,4 +124,4 @@ HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.
 [^footnote-1]: HWS-Immobilisation / Zug / ASBÖ: Nach der Lehrmeinung 07/2011 vom
     01.02.2011 (Bundesverband/Bundesschulung, n.d.) darf der Kopf nicht
     mehr unter Zug gehalten werden. Dies ist konsistent mit ITLS (6.A.)
-    [^cite_campbell:2010:de]
+    

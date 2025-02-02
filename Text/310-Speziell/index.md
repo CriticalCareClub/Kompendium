@@ -21,7 +21,6 @@ führen kann.
 :maxdepth: 1
 :glob:
 
-GICU/index
 HerzKreislauf/index
 Gerinnungsstoerungen/index
 Atmung/index
@@ -32,6 +31,7 @@ Neurologie/index
 Paediatrie/index
 Psychiatrie/index
 Stoffwechsel/index
+Endokrinologie/index
 ThermischeStoerungen/index
 Urologie/index
 Abdomen/index

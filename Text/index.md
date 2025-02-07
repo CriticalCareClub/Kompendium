@@ -59,7 +59,7 @@
 :width: 100%
 :::
 
-::::{Versionsinformationen}
+::::{admonition} Versionsinformationen
 
 Version
 : |version|

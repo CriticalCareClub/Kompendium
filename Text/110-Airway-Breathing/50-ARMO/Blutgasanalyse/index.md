@@ -12,7 +12,7 @@
 (respmonitoringbga)=
 (ARMO-KP-Blutgasanalyse)=
 
-# Blutgasanalyse
+# Blutgasanalyse, respiratorischer Aspekt
 
 ```{toctree}
 :caption: 'Inhalt:'

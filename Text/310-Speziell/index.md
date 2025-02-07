@@ -39,7 +39,6 @@ ThermischeStoerungen/index
 Urologie/index
 SterbenUndTod/index
 NiereninsuffizienzAkut/index
-ZenkerDivertikel/index
 Toxikologie/index
 Traumatologie/index
 Verbrennung/index

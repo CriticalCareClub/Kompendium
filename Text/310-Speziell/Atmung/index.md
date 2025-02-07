@@ -3,8 +3,8 @@
 ```{toctree}
 :maxdepth: 1
 
-AllgemeinStoerungen/index
-MechanischeAtemwegsverlegung/index
+Allgemein/index
+Atemwegsverlegung/index
 Lungenoedem/index
 AsthmaBronchiale/index
 COPD/index

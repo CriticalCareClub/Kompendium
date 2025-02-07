@@ -22,26 +22,24 @@ führen kann.
 :glob:
 
 Atmung/index
-Atmungsstoerungen/index
 HerzKreislauf/index
+Gerinnung/index
 Anaphylaxie/index
 Abdomen/index
-Gynaekologie/index
-Paediatrie/index
-Gerinnungsstoerungen/index
-Infektiologie/index
-Kriminalitaet/index
-Neurologie/index
-Psychiatrie/index
+Infektion/index
 Stoffwechsel/index
 Endokrinologie/index
-ThermischeStoerungen/index
-Urologie/index
-SterbenUndTod/index
-NiereninsuffizienzAkut/index
+Niere-Harn/index
+Gynaekologie/index
+Paediatrie/index
+Neurologie/index
+Psychiatrie/index
 Intox/index
-Traumatologie/index
+Trauma/index
+Thermisch/index
 Verbrennung/index
+Kriminalitaet/index
+Tod/index
 ```
 
 :::{toctree}

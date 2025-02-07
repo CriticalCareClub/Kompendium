@@ -1,4 +1,4 @@
-# Urologische Erkrankungen
+# Niere und Harntrakt
 
 Erkrankungen des harnableitenden Systems.
 
@@ -340,3 +340,12 @@ Notfall.
 Maßnahmen
 : - Lagerung: Bauckdeckenentspannend
   - Rascher Transport
+
+
+## Niereninsuffizienz
+
+### AKI
+
+Siehe auch:
+
+- {ref}`Thema-Haemofiltration`

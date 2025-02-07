@@ -1,4 +1,4 @@
-# Circulation und Hämodynamik
+# Hämodynamik
 
 
 :::{toctree}

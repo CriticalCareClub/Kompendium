@@ -1,6 +1,149 @@
-# Vergiftungen
 
 (vergiftung)=
+
+
+# 53. Vergiftungen
+
+Intoxikationen
+
+Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →
+Koma.
+=  Sedierung mit Herabgesetzter Sensitivität der Chemorezeptoren auf CO2 und O2 mit Bradypnoe.
+Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis
+(„Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
+Entzugssymtomatik mit Gefahr des Entzug-GM-Anfalls , max.
+2 Ampullen geben!
+
+
+Benzodiazepinüberdosierung: Praxiten, Somnobene (blaue Lippen), Xanor, Psychopax, Zoldem,
+Gewacalm Therapie: Anexate titriert mit  ½  Ampulle starten, sonst Entzug mit Krämpfen, Unruhe, ev. EHK,
+Diurese forcieren ev. HF, KEIN Lysthenon!
+
+Komplikationen:
+- Hypoxisches Hirnödem
+- Evacuo-Lungenödem: tiefe bradypnoe Atemzüge mit massiv neg. intrathor. Druck: CPAP!!!kein Lasix!!! = Hypoxämie, rasselnde AG
+- Crush Niere bei Kompartmentsyndrom (K  +  CK massiv erhöht)  +  Hypotonie LAGERUNGSSCHÄDEN GENAU INSPIZIEREN!!!! Fasciotomie, Nekrosektomie
+- Herzstillstand durch Hyperkaliämie
+
+
+
+
+Cannabis (THC) = Gras, Marihuana, Haschisch, Shit, Pot, Dope
+= euphorisierend, Nystagmus, Schwindel, Hypotonie Therapie: Benzodiazepine, Infusion
+
+
+Die „SCHNELLEN" = Ecstasy + Kokain!
+Liquid Ecstacy (GHB) = Neurotransmitter am GABA-Rezeptor;
+Klinik: euphorisierend, bis  Übelkeit, Erbrechen, Mydriasis, Bradykardie, zerebrale Krämpfe, KS vorallem bei Mischkonsum mit Opiaten und Alkohol.
+Therapie: symptomatisch, Schutzintubation, Cave: Delir nach dem Aufwachen!
+Kokain Klinik: Euhorie bis Wahnvorstellungen, Rhythmusstörungen bis MCI, Husten/Bronchospasmus,
+Rhabdomyolyse, Hyperthermie,
+Therapie: symptomatisch, CAVE: keine Betablocker (Hypertonie durch kokainvermittelte Alphastim.)
+
+TCA (Tricyklische Antidepressiva): Saroten (heute Schmerztherapie!), ...
+= Serotonin und NA Reuptakehemmer, anticholinerg, sedativ
+
+
+Klinik:
+- Long QT durch erhöhte Transportleistung der Natriumkanäle
+(QT länger als ½ Strecke R-R)
+- Zentral anticholinerges Syndrom: Nesteln und Faseln (Zunge klebt am Gaumen)
+- Peripher anticholinerges Syndrom: Tachyarrhythmie, Mydriasis, trockene rote Haut,
+trockener Mund,
+keine Darmperistaltik; Therapie: Physostigmin (Anticholium) titriert!
+- Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos,
+Beatmung,...
+
+
+SSRI (systemische Serotonin reuptake Inhibitoren)
+Seropram, Seroquel, Trittico, Tresleen,
+Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
+
+
+Therapie: repetitive Aktivkohle, NaBIC, symptomatisch
+- Aktivkohle (Carbo medicinalis) initial 30g  + 2 EL Magnesiumsulfat, dann repetitiv 15g  + 1EL Magnesiumsulfat alle 2-6 Stunden.
+- Magenspülung: bei lebensbedrohlichen/organtoxischen Substanzen innerhalb einer Stunde,
+KI bei alkalischen Lsg. und Säuren. (Abwägen Aggravierung der Vergiftungssympomatik bei 2 Resorptions-Peak!)
+- Darmlavage mit Ipecacuana Sirup bei Salicylatvergiftung,
+Metothrexat
+
+Alkoholintox/chron. Alkoholismus:
+Starke Lipidlöslichkeit, daher rasche Wirkung im ZNS;
+- Verminderte Ach-Synthese
+- Verminderte GABA-Aktivität = Krämpfe (Therapie: Benzodiazepine)(Mg-Mangel?)
+- Erhöhte dopaminerge Rezeptoren im limbischen System = Halluzinationen (Th: Haldol)
+- Alkohol vermindert die myokardiale Kontraktilität, führt zu einer peripheren Vasodilatation mit Reflextachykardie. Die Coronarien dilatieren nicht,
+daher AP-Symptomatik!
+- Erhöhter Sympathikotonus (Therapie: Clonidin/Catapressan)
+
+
+Klinik:
+Exzitationsstadium,
+Rauschstadium,
+Narkosestadium,
+asphyktisches Stadium.
+„Pupillenspiele"
+wechselnde li/re Anisokorie transient, metabolische Azidose.
+
+
+Therapie: symptomatisch, Korrektur von Flüssigkeits-  und Elektrolytstörungen, Glucoseinfusion bei Normo- oder Hypoglykämie
+
+
+Paracetamolintoxikation
+=  Acetamiophen,  über Cytochrom P450 in Leber abgebaut, bei  Überdosierung toxische Metaboliten, die zu Leberzelltot führen: tox. Dosis sind 7-15g Erw.
+(bei Kindern 150-200mg/kgKG)
+
+
+Verlaufsphasen:
+- Phase I: 12-24h, Übelkeit, Erbrechen,
+Bauchkrämpfe, Appetitlosigkeit
+- Phase II: 24-48h, Latenzphase mit relativem Wohlbefinden
+- Phase III: \>48h Schmerzen rechter OB, LFP-anstieg,
+Gerinnungseinbruch
+- Phase IV: 3-5 Tag, ALV mit Ikterus, HE, Hypoglykämie, ANV
+
+
+Therapie: Antidottherapie mit N-Acetylcystein (Fluimicil) nach Plasmaspiegel, forcierte Diurese,
+symptomatisch, LTX
+
+
+NSAR-Intoxikation
+=  hemmen alle Prostaglandinsynthese, bei Intoxikation Einlagerung der analgetischen Säuren in zelluläre Membranen des ZNS
+
+
+Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  Übelkeit,
+Erbrechen, heftige Bauchschmerzen (PGE2 Mangel), metabolische Azidose, ANV (verminderte renale Vasodilation).
+
+
+Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10g  =  20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
+
+CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
+=  240 x höhere Affinität zu Hb als O2 (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;
+
+
+Klinik: Müdigkeit, Brechreiz, Kopfschmerz, Benommenheit, Somnolenz, Koma, Krämpfe,
+Hypotension, MCI, ARDS, Basalganglienschädigung, Azidose. Chron.
+Schädigung Schwerhörigkeit.
+CO-Hb 20% kardiotoxisch, 40% Koma, \>50% Atemlähmung.
+
+
+Therapie: Sauerstoff!!! PEEP! HBO (Hyperbare Oxygenierung ab 30% in Grazer Druckkammer)
+
+CO2-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere Dichte als Luft)
+= Ersticken im Gärgas-See, Atemdepression durch Hyperkapnie, Tachykardie,
+Hypertonie Therapie: Sauerstoff!!
+
+
+
+
+
+Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd,
+Zyanide, Phosgen, Asche, Russ)
+Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ,
+antiobstruktive Therapie (Berodual),
+großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
+
+Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 
 ## Beschreibung
 

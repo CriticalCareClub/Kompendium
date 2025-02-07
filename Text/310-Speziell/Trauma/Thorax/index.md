@@ -313,3 +313,30 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
   Herzbeutel, wodurch das Herz komprimiert wird und sich nicht mehr mit
   Blut füllen kann. Leitsymptome sind gestaute Halsvenen und schwerer
   Schockzustand (kardiogener Schock).
+
+
+
+-----
+
+
+## 51.1. Thoraxtrauma
+
+Pathophysio: Rippenbrüche, Lungenkontusion mit Störung der normalen Atemmechanik
+(Ventilations und Oxygenierungsstörung)
+und Erhöhung der Kapillarpermeabilität,
+Hämatothorax/Pneumothorax, Herabgesetzte FRC und Compliance, Ventilations/Perfusions mismatch mit intrapulm. Shunt und Hypoxämie.
+Blutverlust: Cardial, intrathorakal, extrathorakal Behinderung der Ventrikelfüllung durch Spannungspneumothorax, Pericardtamponade,
+Herzcontusion, Verletzung intracardialer Strukturen.
+
+
+Klinik:
+- Äußere Verletzungszeichen, Prellmarken, offene Thoraxwunde, saugende Thoraxwunde,
+instabiler Thorax, Weichteilemphysem,
+- Obere Einflussstauung: gestaute Halsvenen
+- Hypoxie mit Dyspnoe, Schmerzen, einseitiges Atemgeräusch, Darmgeräusche im Thorax
+
+
+Diagnose:
+C/P, CT, Echo, Bronchoskopie, Angio, EKG Barotrauma: geschlossener Mund bei Aufprall: Luft+Flüssigkeit bei Bronchialabriss.
+Therapie: Drainage, Bülau, Analgetika, OP, Sedierung, Beatmung,
+Atemtherapie, Physio.

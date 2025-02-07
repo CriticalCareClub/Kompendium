@@ -31,7 +31,18 @@ Wirbelsaeule/index
 Thorax/index
 Abdomen/index
 Polytrauma/index
+Querschnitt/index
 Extremitaeten/index
 Erfrierung/index
 Strom/index
 ```
+
+## 51.3. Traumascoring: *
+
+als Grundlage für Triage, Abschätzung der Prognose, Evaluierung der Behandlungsqualität, Basis für Studien: GCS, PTS, ISS
+
+(1) AIS (Abbreviated Injury Score): Leichte(1), mäßig schwere(2), ernste aber nicht lebensbedrohliche(3), schwere lebensbedrohliche(4), sehr schwere mit  Überleben fraglich(5), tödliche Verletzung (6)
+(2) ISS (Injury Severity Score): Für jede Körperregion (Kopf/Hals, Gesicht, Thorax, Abdomen,
+Extremitäten, Haut) wird nach AIS die schwerste Verletzung bewertet quadriert und dann addiert: Die erwartende Letalität liegt bei etwa 90%
+(3) RTS (revised Trauma Score): GCS+ RR+Atemfrequenz
+

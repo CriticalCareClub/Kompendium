@@ -88,7 +88,7 @@ Taktik
 
 Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
 gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
-von 4 Liter kommen! 
+von 4 Liter kommen!
 
 :::{attention}
 - Immer nach *Prellmarken* suchen. *Patienten entkleiden!*
@@ -333,3 +333,26 @@ um den möglichen großen Blutverlust einzudämmen.
     zur Not mit Gürtel
 
   - Transportentscheidung: Schockraum
+
+
+-----
+
+
+## 51.2. Stumpfes Bauchtrauma
+
+In 30% findet sich eine Milzruptur! (Sonographie!!)
+Grad I: subkapsuläres Hämatom, \< 1cm Parenchymtiefe, nichtblutend, \<10% OF Grad II: subkapsuläres Hämatom 10-50% OF, \< 2cm Parenchymtiefe Grad III: subkapsuläres Hämatom \> 50% OF,
+\> 3cm Tiefe oder Gefäßverletzung, aktiv blutend Grad IV: Rupturiert frisch blutend, \> 25 des Organs devaskuliert Grad V: komplett zerstörtes Organ, komplett devaskuliert.
+
+Grad I-III konservative Therpie (Ausnahme: Grad III + Polytrauma),
+IV+V OP!!
+Milz hat wichtige immunologische Funktion, daher Pneumokokken-Impfung nach Splenektomie.
+Bei Postsplenektomiesepsis \> 50% Letalität!
+
+
+Selten Nierenverletzungen (1% der Polytrauma): blutiger Harn,
+Sono + IVP + CT bei Verletzung des Nierenbeckens,
+Nierengefäße, Harnwege und Blase operative Sanierung nötig.
+20%  Leberruptur  mit hoher Mortalität ab Grad IV;  häufig Spätkomplikationen: ARDS,
+Rezidivblutungen, Leberfunktionsstörungen, Abszesse,...
+Grad I: subkapsuläres Hämatom, \< 1cm Tiefe, nicht blutend, \< 10% OF Grad II: subkapsuläres Hämatom, \<2cm Tiefe, 10-50% OF Grad III: subkapsuläres Hämatom, 2-3cm Tiefe, \>50% OF, aktiv blutend Grad IV: \>50% eines Leberlappens lazeriert, Venenverletzung, blutend Grad V: Vaskulär: Leberzereissung Trend geht zu konservativer Behandlung mit guter Gerinnungskorrektur nach ROTEM. Grad I-II Fibrinklebung, höhere Grade Tuchtamponade, Leberteilresektion bis Hepatektomie.

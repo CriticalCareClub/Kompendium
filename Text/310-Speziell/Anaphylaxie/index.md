@@ -304,3 +304,46 @@ Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vital
   Allergo J Int. 2021;30(1):1-25.
   doi: 10.1007/s40629-020-00158-y. Epub 2021 Jan 28.
   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7841027/>
+
+-----
+
+## 34. Allergische Reaktion, Anaphylaxie
+
+Anaphylaktische Reaktion:
+Humorale Allergie vom Soforttyp I durch präformierte membranständige IgE-Ak, welche zu einer Freisetzung von Histamin und anderen Mediatoren führt.
+Anaphylaxie: Maximalvariante einer akuten allergischen Reaktion.
+Anaphylaktoide Reaktion: direkte, nichtantikörpervermittelte Reaktiond des allergischen Substates mit der Mastzelle ohne vorhergehende Exposition.
+
+
+Auslöser: Muskelrelaxantien (60-70%), Latex (18%), kolloide Volumenersatzmittel (5%),
+Barbiturate, Antibiotika, KM, Protamin.
++ Bienen, Wespen, Hornissenstiche.
+Klinik: H1-rezeptor vermittelte Bronchokonstriktion, Gefäßpermeabilitätszunahme und Koronararterinekonstriktion, Dilatation der kleinen Gefäße und Konstrikton der großen Gefäße.
+H2-reptorvermittelte Tachykardie,
+Permeabilitätszunahme,
+Koronararteriendilatation,
+Herzrhythmusstörungen, Bronchodilatation = β-vermittelte Wirkung der H2-Rezeptoren.
+TRIAS: volumenresistente Hypotonie + Tachykardie + Bronchospasmus!
+
+Therapie:
+- Stoppen des Allergens
+- O2-Gabe (FIO2 100)
+- Volumen (kristalloide?)
+- H1-Blocker (Fenistil 1-2 Amp. Langsam iv., Dibontrin)
+- Danach ! H2-Blocker (Cimetidin/Tagamet)
+- Solu-Dacortin 50-250-1000 je nach Stadium oder 8-40-120 Fortecortin iv.
+- Theophyllin bei schwerem Bronchospasmus
+- Adrenalin/Suprarenin vernebelt oder iv. bei ALS
+
+Prophylaxe bei anaphylaktischer Prädisposition bei va. KM-Untersuchungen:
+Vorabend: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o.
++ 50mg Prednisolon OP-Tag morgens: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o. + 50mg Prednisolon ODER bei der Einleitung: 4mg Fenistil ad. KI, 400mg Cimetidin iv.
++ 100-250mg Solu-Dac
+
+
+
+Typ II-  Allergie: Zytotoxische Reaktion, Bindung von Haptenen an Zell-  oder Basalmembran mit Zytolyse z.B. Agranulozytose, HIT Typ III-  Allergie: Immunkomplexvaskulitis, Entzündungsreaktionen durch zirkulierende Immunkomplexe. z.B. Serumkrankheit, Anaphylaxe durch Dextrane mit intravasaler Komplementaktivierung Typ IV: Kontaktdermatitis durch sensibilisierte T-Lymphozyten Z.B.
+photoallergische Reaktion
+
+
+

@@ -475,3 +475,104 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
       für Verbrennungsverletzungen.
       Bei Augenverletzungen Abt.
       für Augenheilkunde.
+
+
+-----
+
+## 54. Verbrennungen *
+
+- Verbrühung (Ambustio)
+- Brandverletzung (Combustio): Flammen, Strom, Strahlen, Reibung,
+Kontakt heiß)
+- Verätzungen durch Säuren oder Laugen
+- Epidermolyse (z.B. nach AB-Gabe, am ganzen Körper auch SH innen!)
+
+Sofortmaßnahmen:
+- Kühlung mit Wasser (15°) nur bis
+\<10-15% KOF (sonst Unterkühlung mitVasokonstr.)
+- Vorsichtig Vasopressoren: Vasokonstriktion  =  schlechtere periphere Durchblutung  =
+Nachbrennen.
+- Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck
+
+Traumacheck:
+Begleitverletzungen?  Durch Druckwelle bei Explosionen (pulmonal, extrapulmonal),
+Inhalationstrauma, Intoxikation, Begleitverletzungen traumatisch bei VU
+- Airway Management: Schutzintubation rasch (Ödembildung innerhalb von Stunden!), rasch Tracheotomieren
+- Großlumige Zugänge, ZVK
+- Schmerztherapie: Ultiva (Opiate!)
+- Evaluierung wieviel % KOF, welche Grad
+- Flüssigkeitssubstitution: kein HES (lösen tightjunctions rascher auf! Ödeme!)
+- Hämodynamisches Monitoring: PICCO
+- Va. Crush Niere, HF-Katheter!
+- Auskühlen verhindern!
+
+Verbrennungsausmaß: Neunerregel + 1% Handfläche des Patienten Erw: 9% Kopf, Arme, 18% Bauch, Rücken, Beine (Kind Kopf 15%!!)
+
+
+Verbrennungstiefe:
+Grad I: Rötung, Epidermis betroffen Grad IIa: Blasen, wegdrückbare Rötung, schmerzhaft, Epidermis und oberflächliche Dermis betroffen Grad IIb: Blasen, bleibende Rötung, schmerzhaft, Epidermis und Dermis Grad III: Zerstörung Epidermis und Dermis, Gewebe weiß, keine Schmerzen!! = gekochtes Eiweis,
+ischämisch
+
+
+
+Dort wo Basalmembran erhalten ist, kann sich die Haut regenerieren. Ist die BM zerstört muss Haut transplantiert werden.
+
+Zu viel Volumensubstitution  =  hoher IAP mit hohem Risiko eines AKI mit massiven Wundheilungsstörungen = SIRS/SEPSIS = TOD.
+Vor allem in den ersten 24-36 Stunden ist das größte capillary leak  =  „trocken führen"  nach PICCO!
+Beginn mit Kristalloiden und nach 6-8 h  FFB (hyperkoagulatorischer Status, keine Gerinnungsfaktoren!). Albumin nur sparsam einsetzen.
+Vasopressoren und Inotropika sollen einen suffizienten Perfusionsdruck und HZV bewirken. Keine Normalwerte anstreben!
+
+Kompartmentsyndrom: zirkuläre Verbrennungen (Thorax, Extremitäten, Abdomen) müssen sofort (vor Transfer ins Zentrum) Fasciotomiert werden!! Folgen sind Myonekrosen,
+Hyperkaliämie, Crush-Niere, Organminderperfusion, Beatmungsprobleme, Herzkreislaufstillstand.
+
+Folgen:
+Beatmungsschwierigkeiten,
+Myonekrosen,
+Hyperkaliämie,
+Crushniere,
+Organminderperfusion Nekrosen machen Infektionen: erste Nekrosektomie am 3  Tag (oft hoher Blutverlust!), Ziel ist rasche Entfernung der Nekrosen und Wunddeckung mit Spalthaut, Epigard,
+VAC)
+
+Ausreichende Analgesie mit erhaltener Spontanatmung ist das Ziel!
+- Diclofenac/Paracetamol + Ultiva
+- Midazolam + Ketanest, ev. Dexdor (Dexmedetomidine)
+Problem: großflächige Wunden mit Rezidiveingriffen,
+schmerzhafte Verbandswechsel
++  Sandbett (Nanokrist. Glas, Pat. schwebt, Seekrankheit des vest. Systems, trocknet von dorsal aus)
++
+
+## 55. Inhalationstrauma
+
+= durch Wasserdampf oder Rauch,
+Nebel/Gase, welche toxische Substanzen enthalten.
+Thermisch-chemisch-toxisch
+- Obere AW thermisch + chemisch, untere AW va. wasserlösliche Substanzen z.B. Aldehyde
+-  Lungenparenchym mit inflammatorischer Reaktion
+- Systemisch bei toxischen Gasen (CO, CO2)
+Schutzintubation: Ödem mukös und submukös!
+Blutungen, Ulcerationen!
+
+Diagnose: Anamnese, Klinik, C/P, CT, EVLW,
+Serum CO-Bestimmung (KEINE Bronchoskopie!!)
+Hinweise: geschlossener Unfallraum mit Explosion, Brandverletzung im Gesicht, Verrußte Atemwege, angesengte Nasenhaare, Rußspuren auf der Kleidung,...
+
+
+Therapie:
+- Schutzintubation und Beatmung mit 100% FIO2,
+- Flüssigkeitsmanagement: zu viel Volumen  =  viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab \>8mmHg), da KOD ca. 8 ! (Normal 20!)
+
+
+
+- Bronchialhygiene: Spontanatmung mit erhaltener mukozilliären Clearance! Bronchodilation (Bricanyl, Berodual, Pulmicort)
+- Adäquate Ernährung
+- Konsequente Therapie nosokomialer Infektionen: oft excessive AB-Therapiedauer  über mehrere Wochen nötig, mit höherer Dosierung, da höheres Verteilungsvolumen. (BK und Abstriche regelmäßig!)
+- Forcierte Diurese: initial rasch Lasix-Perfusor, bei älteren Patienten rasch HF
+
+Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50%  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO2!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
+Ab 20%  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen,
+Krampfanfälle, Tod)
+
+
+Therapie: Sauerstoff!!!! HBO umstritten.
+Spätschäden nach CO-Intox: Persönlichkeitsveränderungen, Psychosen, Parkinson, Demenz,
+Kardiale Leistungsschwäche.

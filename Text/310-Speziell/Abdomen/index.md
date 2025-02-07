@@ -17,4 +17,5 @@ Gallenkolik/index
 GIT-Blutung/index
 Gastroenteritis/index
 Exsikkose/index
+Diarrhoe/index
 :::

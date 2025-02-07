@@ -39,7 +39,7 @@ ThermischeStoerungen/index
 Urologie/index
 SterbenUndTod/index
 NiereninsuffizienzAkut/index
-Toxikologie/index
+Intox/index
 Traumatologie/index
 Verbrennung/index
 ```

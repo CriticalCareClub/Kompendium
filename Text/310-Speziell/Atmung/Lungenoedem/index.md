@@ -281,3 +281,29 @@ Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
 Ort Vorrang.
 
 Bereits der Transport in das Fahrzeug kann gefährlich sein!
+
+
+-----
+
+
+## 30.6. Kardiales Lungenödem
+
+Bei Linksherzversagen z.B. MCI oder tachykardem VHF kommt es durch das  Ödem zu einer Abnahme der Lungencompliance, zu einem reduziertem HZV mit verminderter Sauerstoffversorgung der Atemmuskulatur bei vermehrter Anstrengung  =  sekundäres Atempumpversagen.
+C/P: bilaterale homogene Verschattungen; EKG: Ischämiezeichen/Infarktzeichen
+
+
+Klinik: ängstlich, kaltschweißig, kurzatmig mit AF \> 25/min, rasselnde AG, Tachykardie BGA: paO2 red, paCO2 red
+
+
+Patho: alveoläres  Ödem  =  Perfusion ohne Ventilation;  Rückstau von linken Herz mit erhöhtem pulmonal arteriellem Druck  =  interstitielles und später alveoläres  Ödem durch erhöhten hydrostatischen Druck.
+Beatmung: NIV (CPAP, CPAP-ASB) mit inital hohem FIO2 und Steigerung des PEEPs (5-8-10-12) bis zu klinischen Besserung durch Nitroeffekt des PEEP-Niveaus: preload sinkt +  durch Verminderte Druckdifferenz zwischen intra- und extrathorakal kommt es zur peripher arteriellen Vasodilation +
+Abnahme des Sauerstoffbedarfs durch Senkung der Atemarbeit.
+Weaning: Langsam!!! Gefahr der aktuten kardialen Decompensation bei steigender Vor-  und Nachlast. Daher vor der Extubation Lasix + ev. positiv inotrope Medikamente (Simtax, Dobutrex) +
+negative Bilanz.
+NIV senkt die Mortalität beim Lungenödem!
+
+
+Kardiale Rekompensation durch NIV: Senkung Vor-und Nachlast, Verbessertes VO2,
+Herabsetzung der transmuralen Wandspannung durch weniger negativen intrathorakalen Druck.
+Respiratorische Rekompensation: Vergrößerung des FRC, verminderter Re-Li-Shunt, verminderte Atemarbeit
+

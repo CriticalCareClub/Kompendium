@@ -16,7 +16,7 @@
 
 Als **Ileus** (*Darmverschluss*) bezeichnet man die *Unterbrechung* der Darmpassage.
 Eine Behinderung der Darmpassage ohne vollständiger Unterbrechung wird als **Subileus** bezeichnet.
-Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur (Medikamente, Gifte, Entzündung …) verursacht sein. 
+Der Verschluss kann mechanisch bedingt sein (durch Hindernisse wie Verwachsungen oder Tumore), oder durch eine Lähmung der Darmmuskulatur (Medikamente, Gifte, Entzündung …) verursacht sein.
 Besonders Opiate sind bekannt dafür, Darmlähmungen zu erzeugen.
 
 
@@ -266,7 +266,7 @@ Es ist jedoch wichtig, um das Stadium der Ileuskrankheit bzw. der pathophysiolog
 - Elektrolyte
 - Kreatinin, BUN
 - Enzündungsparameter: CRP, Interleukin-6, Prokalzitonin
-- Blutgasanalyse (auch venös, wenn keine respiratorische Störung vermutet wird): 
+- Blutgasanalyse (auch venös, wenn keine respiratorische Störung vermutet wird):
   - pH, Base Excess
   - Laktat
 
@@ -387,3 +387,27 @@ Ileus im OP [oben: ₢ [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {te
 Ein Ileus ist eine komplexe Darmerkrankung mit vielen möglichen verschiedenen Ursachen.
 Er stellt eine  bedrohliche systemische Erkrankung dar.
 :::
+
+-----
+
+
+## 38.2. Ileus
+
+Mechanischer Ileus: Okklusions- oder Strangulationsileus (Tumore,
+Gallensteine, Volvolus, Invag.)
+Funktioneller Ileus: paralytischer Ileus im Rahmen von intraabdominellen Entzündungen
+(Pankreatitits, Cholezystitis, Appendizitis, Peritonitits), metabolisch (Urämie, Hypokaliämie),
+hormonell (SS), Vaskulär (Claudicatio abdominalis), medikamentör (Opioide, Antidepressiva,..)
+
+Dünndarmileus: Starke Vermehrung von Darmkeimen va. E.coli und Hypersekretion der SH mit Stuhlerbrechen und vital bedrohlichen Flüssigkeitsverschiebungen und Elektrolytentgleisungen.
+Beim tiefen Dünndarmileus steht die Translokation im Vordergrund mit Gefahr des septischen MOF.
+Dickdarmileus: zunehmende Darmdistension mit hypoxischen Gewebsschaden, Hypovolämie und Schock.
+Klinik: Schmerzen, Erbrechen, Meteorismus, Misere bei hohem Dünndarmileus 1
+
+
+
+
+Therapie:
+- Paralytischer Ileus: konservativ Magensonde zur Dekompression, bilanzierte Flüssigkeit und Elektrolytgabe,
+Absetzen von motilitätshemmenden Medikamenten, ev. AB, Behandlung der Grunderkrankung, medikamentöse Induktion von Peristaltik (Prokinetika, Laxantien)
+- OP bei Okklusions-oder Strangulationsileus

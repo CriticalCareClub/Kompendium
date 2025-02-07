@@ -92,3 +92,43 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 - Ggfs. spezielle Maßnahmen bei hypovolämischem Schock
   ({ref}`schock-hypovolaemischer`)
+
+
+-----
+
+## 40. Gastrointestinale Blutung *
+
+1) Obere gastrointestinale Blutung: Meläna und Hämatemesis bei Ulcus ventriculi oder duodeni bzw. Karzinom, Ösophagusvarizenblutung 2) Untere gastrointestinale Blutung: Hämatochezie bei blutenden Polypen oder Colonkarzinom, Divertikelblutung, ischämische Colitis, Angiodysplasien. Diese machen rund 20-30%  der GI-Blutungen aus und sind mit coloskopischer Blutstillung oder OP zu therapieren.
+
+
+Klassifikation der Ulcus ventriculi/duodeni-Blutung nach Forrest:
+Ia. Akute Blutung Ib. Sickerblutung IIa. Gefäßstumpf IIb. Koagel
+-        III. abgeheiltes Ulcus
+Ösophagusvarizenblutung Risikofaktoren: Child B/C, Varizengröße, Red Spots, Red Wale Markings (kleine Varizen auf den Großen, welche schnell bluten)
+Fundusvarizen    im Magen bluten häufig, kein Banding möglich, daher Histoacryklebung in Bauchlage, damit der Kleber nicht aufs Endoskop tropft! Hohes Aspirationsrisiko bei Intubtion!
+Nach 3-5 Tagen wiederholen!
+
+
+Prävention der ersten Blutung bzw. Reblutung:
+- Kleine Varizen  +  red wale marks oder Child C: Betablocker z.B. Carvedilol max 12,5mg/Dilatrend (wenig kardiosensitiv)
+- Große Varizen über 5mm: Banding oder Betablocker
+- TIPS bei Rezidivblutung bei Hochrisikopatienten
+- LTX Evaluation
+
+Therapie der ersten ÖVB vor der Akut-Endoskopie:
+- Volumentherapie bis zur Normovolämie (Hämodynamisch ähnlich Sepsis)
+- Hämodynamische Stabilisierung mit RRsyst \< 130!  , EK´s Ziel Hb 7-8;
+- Gerinnungskorrektur bei PTZ\<30%, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
+- Terlipressin 2mg iv. als Bolus gleich bei Verdachtsdiagnose ÖVB,
+danach für 5 Tage alle 4 h 1-2mg iv.
+Ausnahme: bei schwerer KHK, COPD, Asthma, Herzrhythmusstörungen, paVK, wird ein Somatostatin Perfusor empfohlen.
+- Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage
+(Patienten sterben meist an einer Infektion!)
+- Gerinnungstherapie: PTZ \>50,
+ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
+- Erythromycin 250mg iv (Prokinetikum) = klare Sicht
+- 80mg Pantoloc iv, dann Perfusor 2ml/h (200mg auf 50ml)
+Endoskopische Therapie: Notfalls ÖGD (Banding)
+Interventioelle Radiologie: Embolisation des blutenden Gefäß
+Wenn kein Blutungsstillstand: Denis Stent und TIPS
+

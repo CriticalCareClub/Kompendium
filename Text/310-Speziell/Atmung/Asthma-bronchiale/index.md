@@ -3,8 +3,6 @@
 
 # Asthma bronchiale
 
-::::{only} not nosidebar
-
 :::{margin} Asthma bronchiale
 Wiederholte Anfälle von Atemnot durch
 
@@ -12,7 +10,7 @@ Wiederholte Anfälle von Atemnot durch
 - Vermehrte Schleimbildung
 - Behinderte Ausatmung
 :::
-::::
+
 
 Das {dfn}`Asthma bronchiale` ist eine chronische
 Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder
@@ -49,6 +47,26 @@ Notarztnachforderung und Monitoring.
 ₢ Sebastian Gabriel
 {term}`ℓ MfG`
 :::
+
+
+
+## 30.3. ASTHMA *
+
+Immunogene Entzündungsreaktion meist durch Ag mit erhöhter Permeabilität/Ödem, Muskelkontraktion und erhöhter Sektretion ins Lumen (Hyperreagibilität durch die Entzündung)
+
+Status asthmaticus: trotz pharmakologischer Ausschöpfung schwerer Asthmaanfall \> 6-24h!
+
+LUFU: Obstruktion mit ausgeprägter Reversibilität im Spasmolysetest
+
+Therapie:
+- Allergenkarenz,
+- inhalative Steroide (1mg/d inhal. = 10mg/d oral),
+- Betasympathomimetika inhalativ,
+- Theophyllin oral oder iv.
+
+
+
+
 
 ```{index} single: Status asthmaticus
 ```

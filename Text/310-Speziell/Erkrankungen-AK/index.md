@@ -805,9 +805,7 @@ Therapie:
 
 
 
-- Bronchialhygiene:
-Spontanatmung mit erhaltener mukozilliären Clearance!
-Bronchodilation (Bricanyl, Berodual, Pulmicort)
+- Bronchialhygiene: Spontanatmung mit erhaltener mukozilliären Clearance! Bronchodilation (Bricanyl, Berodual, Pulmicort)
 - Adäquate Ernährung
 - Konsequente Therapie nosokomialer Infektionen: oft excessive AB-Therapiedauer  über mehrere Wochen nötig, mit höherer Dosierung, da höheres Verteilungsvolumen. (BK und Abstriche regelmäßig!)
 - Forcierte Diurese: initial rasch Lasix-Perfusor, bei älteren Patienten rasch HF
@@ -820,6 +818,7 @@ Krampfanfälle, Tod)
 Therapie: Sauerstoff!!!! HBO umstritten.
 Spätschäden nach CO-Intox: Persönlichkeitsveränderungen, Psychosen, Parkinson, Demenz,
 Kardiale Leistungsschwäche.
+
 # 56. Traumatisches Querschnittsyndrom
 
 Ursachen: Flexion/Extension, Flexion/Rotation,

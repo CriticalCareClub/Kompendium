@@ -6,9 +6,7 @@
 ```{eval-rst}
 .. role:: math(raw)
    :format: html latex
-```
 
-```{eval-rst}
 .. role:: raw-latex(raw)
    :format: latex
 ```
@@ -18,10 +16,7 @@
 
 # Kompendium des CCCA
 
-%
-
 ::::{only} html
-
 :::{image} /Bilder/Gabriel-Sebastian-CCCA/Teaser-001.jpg
 :align: center
 :width: 100%
@@ -35,38 +30,13 @@
 <br><a href="genindex.html">Index</a>
 ```
 
-[Projektseite (GitLab™)](https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium)
+[Projektseite (Github)](https://github.com/CriticalCareClub/Kompendium-alpha)
 :::
 
-% .. admonition:: Versionsverwaltung (Git-Archiv)
-%
-%     .. git_changelog::
-%         :revisions: 1
-%
-%     .. git_commit_detail::
-%         :branch:
-%         :commit:
-%         :uncommitted:
-%         :untracked:
-
-% .. list-table::
-%     :stub-columns: 1
-%
-%     *   -   Version
-%         -   |version|
 
 
-:::{todo}
 
-- Vitalfunktionen
-  - Hämodynamik
-  - Gerinnung
-  - Homöostase
-- Querschnittsthemen
-- Krankheitsbilder
-- Trauma
-- Leitsymptome
-:::
+
 
 ```{toctree}
 :caption: Inhalt

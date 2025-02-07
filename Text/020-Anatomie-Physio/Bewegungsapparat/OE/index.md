@@ -26,13 +26,10 @@ Der Schultergürtel und die obere Extremität
 :::
 
 Der Arm kann in mehrere Bereiche eingeteilt werden - *Oberarm
-(Brachium), Unterarm (Antebrachium) und Hand (Manus)*. Bei der Hand
-unterscheidet man weiters die *Handwurzel (Carpus), die Mittelhand
+(Brachium), Unterarm (Antebrachium) und Hand (Manus)*. Bei der Hand unterscheidet man weiters die *Handwurzel (Carpus), die Mittelhand
 (Metacarpus) und die Finger (Digiti)*.
 Die Finger werden vom Daumen beginnend nummeriert
-(I:  Daumen (*Pollex*),
-II: Zeigefinger (*Index*),
-III: Mittelfinger (*Medius*);
+(I:  Daumen (*Pollex*), II: Zeigefinger (*Index*), III: Mittelfinger (*Medius*);
 IV: Ringfinger (*Amnularius*);
 V: kleiner Finger (*Minimus*).
 
@@ -85,8 +82,7 @@ Zur oberen Extremität gehören folgende Skelett-Anteile:
 Da die Daumen jeweils nicht über einen Phalanx med. verfügen gibt es in Summe nur *14* Ossa digitorum.
 :::
 
-:::{admonition} Klinischer Kontext
-Verletzungen der Extremitätenknochen sind häufig. Besonders erwähnenswert sind:
+:::{admonition} Klinischer Kontext Verletzungen der Extremitätenknochen sind häufig. Besonders erwähnenswert sind:
 
 - Kahnbeinverletzungen sind häufig, jedoch relativ schwierig zu diagnostizieren, der Heilungsprozess ist langwierig.
 - Bänder und Muskel sind für die Stabilität des Schultergelenkes
@@ -103,8 +99,7 @@ Verletzungen der Extremitätenknochen sind häufig. Besonders erwähnenswert sin
 ### Scapula (Schulterblatt)
 
 Die Scapula bildet den hinteren Teil Schultergürtels.
-Sie ist ein platter, einem Dreieck ähnlicher, Knochen
-und dient als Muskelursprungsfläche.
+Sie ist ein platter, einem Dreieck ähnlicher, Knochen und dient als Muskelursprungsfläche.
 Sie hat gelenkige Verbindungen mit dem
 {ref}`Humerus <Humerus>`
 und der {ref}`Clavicula <Clavicula>`.
@@ -126,9 +121,7 @@ und den Seiten
 - Facies costalis: Fossa subscapularis;
 - Facies dorsalis: Fossa supraspinata, Spina scapulae mit dem cromion und seiner Facies articularis claviculae, Fossa infraspinata.
 
-Außerdem gibt es zwei Eigenbänder der Scapula — sie verbinden nicht zwei
-unterschiedliche Knochen miteinander, sondern verlaufen innerhalb der
-Scapula. Sie verstärken auch kein Gelenk: Lig. coracoacromiale (zw.
+Außerdem gibt es zwei Eigenbänder der Scapula — sie verbinden nicht zwei unterschiedliche Knochen miteinander, sondern verlaufen innerhalb der Scapula. Sie verstärken auch kein Gelenk: Lig. coracoacromiale (zw.
 Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 (überdacht die Incisura scapulae).
 
@@ -175,16 +168,11 @@ bildet als einzelner Knochen den Oberarm.
 
 Proximal ist er hauptsächlich durch Muskelzug
 (M. deltoideus, Rotatorenmanschette) am Schultergürtel befestigt
-{deep}`Extremitas proximalis: Caput humeri, Collum anatomicum, Collum
-chirurgicum, Tuberculum majus, Tuberculum minus, dazwischen Sulcus
-intertubercularis (für lange Bicepssehne)`.
+{deep}`Extremitas proximalis: Caput humeri, Collum anatomicum, Collum chirurgicum, Tuberculum majus, Tuberculum minus, dazwischen Sulcus intertubercularis (für lange Bicepssehne)`.
 Distal endet er im
 {ref}`Ellenbogengelenk <Ellenbogengelenk>` (Articulatio cubiti;
 {deep}`Extremitas distalis: Epicondylus medialis humeri mit dem Sulcus n.
-ulnaris, Epicondylus lateralis humeri, Condylus humeri mit der Trochlea
-humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum
-humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite
-gibt es die Fossa olecrani.`).
+ulnaris, Epicondylus lateralis humeri, Condylus humeri mit der Trochlea humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite gibt es die Fossa olecrani.`).
 
 Entlang des Corpus humeri verläuft im **Sulcus n. radialis** der gleichnamige *Nerv*.
 Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrakturen ebenso häufig mitverletzt.
@@ -203,13 +191,11 @@ Die **Speiche**
 
 [^radialarterie]: Daher ist die Radialarterie daumenseitig zu tasten!
 
-Extremitas proximalis: Caput radii mit Fovea articularis und der
-Circumferentia articularis, Collum radii, Tuberositas radii.
+Extremitas proximalis: Caput radii mit Fovea articularis und der Circumferentia articularis, Collum radii, Tuberositas radii.
 
 Corpus radii
 
-Extremitas distalis: Proc. styloideus radii, Incisura ulnaris, Facies
-articularis carpalis, Tuberculum dorsale.
+Extremitas distalis: Proc. styloideus radii, Incisura ulnaris, Facies articularis carpalis, Tuberculum dorsale.
 
 Mit Ulna über die Zwischenknochenmembran (Membrana interossea)
 verbunden.
@@ -224,8 +210,7 @@ verbunden.
 ### Ulna (Elle)
 
 Die Ulna ist der zweite Knochen, welcher Zusammen mit dem Radius den unterarm formt.
-Ddie Elle liegt auf der Seite des
-kleinen Fingers.
+Ddie Elle liegt auf der Seite des kleinen Fingers.
 
 Extremitas proximalis: Olecranon, Incisura trochlearis, Proc.
 cornoideus, Incisura radialis, Tuberculum ulnae.
@@ -247,19 +232,13 @@ verbunden.
 
 ### Ossa carpi
 
-Merksatz: Ein Schiffchen (Os scaphoideum) fährt im Mondenschein (Os
-lunatum) dreimal (Os triquetrum) um das Erbsenbein (Os pisiforme),
-Vieleckchen groß (Os trapezium), Vieleckchen klein (Os trapezoideum),
-der Kopf (Os capitatum) der muss beim Hammer (Os hamatum) sein.
+Merksatz: Ein Schiffchen (Os scaphoideum) fährt im Mondenschein (Os lunatum) dreimal (Os triquetrum) um das Erbsenbein (Os pisiforme), Vieleckchen groß (Os trapezium), Vieleckchen klein (Os trapezoideum), der Kopf (Os capitatum) der muss beim Hammer (Os hamatum) sein.
 
-proximale Reihe: Os scaphoideum, Os lunatum, Os triquetrum, Os
-pisiforme.
+proximale Reihe: Os scaphoideum, Os lunatum, Os triquetrum, Os pisiforme.
 
 distale Reihe: Os trapezium, Os trapezoideum, Os capitatum, Os hamatum.
 
-Die Handwurzelknochen sind an der Bildung des Karpaltunnel (Canalis
-carpi, überdacht durch das Retinaculum mm. flexorum) beteiligt, in
-diesem Tunnel verlaufen die Beugesehnen der Fingermuskeln sowie der N.
+Die Handwurzelknochen sind an der Bildung des Karpaltunnel (Canalis carpi, überdacht durch das Retinaculum mm. flexorum) beteiligt, in diesem Tunnel verlaufen die Beugesehnen der Fingermuskeln sowie der N.
 medianus.
 
 ```{index} single: Ossa metacarpi
@@ -302,13 +281,9 @@ Digitus minimus
 
 ### Articulatio sternoclavicularis (Sternoklavikulargelenk)
 
-Das Sternoklavikulargelenk verbindet den Arm über das Schlüsselbein mit
-dem Sternum. Es ist von der Funktion her ein *Kugelgelenk* und besitzt
-einen eigenen *Discus articularis* (Gelenksscheibe).
+Das Sternoklavikulargelenk verbindet den Arm über das Schlüsselbein mit dem Sternum. Es ist von der Funktion her ein *Kugelgelenk* und besitzt einen eigenen *Discus articularis* (Gelenksscheibe).
 
-Dieses Gelenk hat somit *drei Freiheitsgrade* und ermöglicht folgende
-Bewegungen: Elevation - Depression, Anteversion - Retroversion,
-Rotation.
+Dieses Gelenk hat somit *drei Freiheitsgrade* und ermöglicht folgende Bewegungen: Elevation - Depression, Anteversion - Retroversion, Rotation.
 
 Folgende Bänder stabiliseren das Art. sternoclavicularis:
 
@@ -328,12 +303,7 @@ Folgende Bänder stabiliseren das Art. sternoclavicularis:
 
 ### Articulatio acromioclavicularis (Akromioklavikulargelenk)
 
-Das Akromioklavikulargelenk ist eine *plane Knochenverbindung* zwischen
-Arcomion (Schulterblatt) und Clavicula. Auch dieses Gelenk besitzt einen
-*Discus articularis*. Aufgrund der hohen Belastungen in diesem Gelenk
-ist dieser jedoch bereits in jungen Jahren (ab ca. 25) fast nicht mehr
-vorhanden. Das Akromioklavikulargelenk ist auch das Gelenk, das im Alter
-als erstes von Arthrose betroffen ist.
+Das Akromioklavikulargelenk ist eine *plane Knochenverbindung* zwischen Arcomion (Schulterblatt) und Clavicula. Auch dieses Gelenk besitzt einen *Discus articularis*. Aufgrund der hohen Belastungen in diesem Gelenk ist dieser jedoch bereits in jungen Jahren (ab ca. 25) fast nicht mehr vorhanden. Das Akromioklavikulargelenk ist auch das Gelenk, das im Alter als erstes von Arthrose betroffen ist.
 
 Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 
@@ -354,30 +324,19 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 
 ### Articulatio glenohumeralis (Schultergelenk)
 
-Das Schultergelenk ist ein *klassisches Kugelgelenk* und befindet sich
-zwischen Glenoid der Scapula und Humeruskopf. Durch das inadäquate
-Größenverhältnis zwischen diesen Gelenksflächen (Glenoid \<\< Humeruskopf
-\- ca. 1:3) kommt einerseits der große Bewegungsumfang und andererseits
-die große Verletzungsgefahr zustande.
+Das Schultergelenk ist ein *klassisches Kugelgelenk* und befindet sich zwischen Glenoid der Scapula und Humeruskopf. Durch das inadäquate Größenverhältnis zwischen diesen Gelenksflächen (Glenoid \<\< Humeruskopf
+\- ca. 1:3) kommt einerseits der große Bewegungsumfang und andererseits die große Verletzungsgefahr zustande.
 
 Folgende *Bewegungen* sind in diesem Gelenk möglich: Anteversion -
-Retroversion, Abduktion - Adduktion, Außenrotation - Innenrotation,
-Elevation (kombinierte Bewegung mit Bewegung im Art. sternoclavicularis
-und Art. acromioclavicularis = Skapulohumeraler Rhythmus).
+Retroversion, Abduktion - Adduktion, Außenrotation - Innenrotation, Elevation (kombinierte Bewegung mit Bewegung im Art. sternoclavicularis und Art. acromioclavicularis = Skapulohumeraler Rhythmus).
 
-Das *Labrum glenoidale (Gelenklippe)* vergrößert die Gelenksfläche des
-Glenoids, die *Rotatorenmanschette* sowie der *M. biceps brachii*
-(dessen Caput longum) sorgen für die Stabilität. Zusätzlich besitzt die
-Gelenkskapsel des Gelenks eine kaudale Aussackung (*Recessus
-axillaris*), die ebenfalls wichtig ist für den großen Bewegungsumfang.
+Das *Labrum glenoidale (Gelenklippe)* vergrößert die Gelenksfläche des Glenoids, die *Rotatorenmanschette* sowie der *M. biceps brachii*
+(dessen Caput longum) sorgen für die Stabilität. Zusätzlich besitzt die Gelenkskapsel des Gelenks eine kaudale Aussackung (*Recessus axillaris*), die ebenfalls wichtig ist für den großen Bewegungsumfang.
 
-Die Bandsicherung erfolgt über die Ligg. glenohumeralia superius, medius
-und inferius sowie über das Lig. coracohumerale.
+Die Bandsicherung erfolgt über die Ligg. glenohumeralia superius, medius und inferius sowie über das Lig. coracohumerale.
 
-Da die Bänder des Schultergelenks für die Gelenkstabilität unzureichend
-sind, braucht das Schultergelenk die sog. Rotatorenmanschette (M.
-supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das
-Schultergelenk wird daher auch als muskelgesichert beschrieben.
+Da die Bänder des Schultergelenks für die Gelenkstabilität unzureichend sind, braucht das Schultergelenk die sog. Rotatorenmanschette (M.
+supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das Schultergelenk wird daher auch als muskelgesichert beschrieben.
 
 ```{index} single: Articulatio; cubiti
 ```
@@ -406,8 +365,7 @@ Schultergelenk wird daher auch als muskelgesichert beschrieben.
 
 ### Articulatio cubiti (Ellenbogengelenk)
 
-Das Ellenbogengelenk ist ein *zusammengesetztes Gelenk* und besteht aus
-den folgenden Untergelenken:
+Das Ellenbogengelenk ist ein *zusammengesetztes Gelenk* und besteht aus den folgenden Untergelenken:
 
 - Art. humeroulnaris: Scharniergelenk, Flexion - Extension
 - Art. humeroradialis: Kugelgelenk
@@ -415,13 +373,10 @@ den folgenden Untergelenken:
   Diese Bewegungen sind jedoch nur in Kombination mit der Art.
   radioulnaris distalis (beim Handgelenk) möglich.
 
-Ein **Schleimbeutel** über dem Olecranon (*Bursa olecrani*) sowie auch eine
-Aussackung der Gelenkskapsel (Recessus sacciformis) sind wichtig für den
-Bewegungsumfang des Gelenks.
+Ein **Schleimbeutel** über dem Olecranon (*Bursa olecrani*) sowie auch eine Aussackung der Gelenkskapsel (Recessus sacciformis) sind wichtig für den Bewegungsumfang des Gelenks.
 
 {deep}`Das Lig. collaterale ulnare, das Lig. collaterale radiale sowie das Lig.
-anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist
-knochen- und bandgesichert.``
+anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist knochen- und bandgesichert.``
 
 ```{index} single: Handgelenk; proximales
 ```

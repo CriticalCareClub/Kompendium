@@ -10,19 +10,13 @@
 - Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Mundhoehle.\*
-Die Mundhöhle
+:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Mundhoehle.\* Die Mundhöhle
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-In der Mundhöhle wird die Nahrung über den Mund aufgenommen und durch
-die Zähne *zerkleinert*.
-Über *Geruch und Geschmack* wird die Nahrung in der Mundhöhle bereits
-einer Kontrolle unterzogen. Die zerkleinerte Nahrung wird über die
-Speicheldrüsen eingebreit und bereits durch den *Speichel* mit seinen
-Enzymen angedaut. Im Speichel ist insbesondere Amylase enthalten, das
-Kohlenhydrate spaltet.
+In der Mundhöhle wird die Nahrung über den Mund aufgenommen und durch die Zähne *zerkleinert*.
+Über *Geruch und Geschmack* wird die Nahrung in der Mundhöhle bereits einer Kontrolle unterzogen. Die zerkleinerte Nahrung wird über die Speicheldrüsen eingebreit und bereits durch den *Speichel* mit seinen Enzymen angedaut. Im Speichel ist insbesondere Amylase enthalten, das Kohlenhydrate spaltet.
 
 *Begrenzungen* der Mundhöhle:
 
@@ -34,18 +28,13 @@ Kohlenhydrate spaltet.
 - hinten: Übergang in den Pharynx (Rachenenge: Isthmus faucium)
 
 Die Mundhöhle kann in den Mundvorhof
-{deep}`(Vestibulum oris)`,
-der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche
-Mundhöhle {deep}`(Cavitas oris propria)` unterteilt werden.
-Diese geht dann im
-Schlund {deep}`(Fauces)`
+{deep}`(Vestibulum oris)`, der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche Mundhöhle {deep}`(Cavitas oris propria)` unterteilt werden.
+Diese geht dann im Schlund {deep}`(Fauces)`
 mit der Rachenenge {deep}`(Isthmus faucium)` in den Rachen
 (Pharynx) über.
 Die *Rachenenge* (Isthmus faucium) wird seitlich von zwei Gaumenbögen
 {deep}`(Arcus palatoglossus, Arcus palatopharyngeus)`
-mit der in ihrer Mitte
-liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen beiden Bögen liegen
-die Gaumenmandeln (Tonsillae palatinae).
+mit der in ihrer Mitte liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen beiden Bögen liegen die Gaumenmandeln (Tonsillae palatinae).
 
 % Der *Gaumen* wird aus folgenden Muskeln gebildet:
 %
@@ -65,23 +54,13 @@ Sie sind beteiligt beim Öffnen des Mundes und beim Schlucken.
 ## Zunge
 
 Die *Zunge* besteht aus quergestreiftem Muskel[^zungenmuskeln].
-Neben ihrer Rolle als *Sinnesorgan*
-für Geschmacks- und Tastempfindungen spielt die Zunge auch eine wichtige
-Rolle beim *Sprechen* und Schlucken von Nahrung und Speichel.
-Ihre Muskeln können grob in *innere und äußere
-Zungenmuskeln* eingeteilt werden und ermöglichen Zungenbewegungen in
-allen drei Raumebenen.
-Um alle feinen Bewegungen der Zunge zu
-ermöglichen, gibt es die meisten Zungenmuskeln paarig — in der Mitte
-werden die beiden Zungenhälften durch eine Zwischensehne
+Neben ihrer Rolle als *Sinnesorgan* für Geschmacks- und Tastempfindungen spielt die Zunge auch eine wichtige Rolle beim *Sprechen* und Schlucken von Nahrung und Speichel.
+Ihre Muskeln können grob in *innere und äußere Zungenmuskeln* eingeteilt werden und ermöglichen Zungenbewegungen in allen drei Raumebenen.
+Um alle feinen Bewegungen der Zunge zu ermöglichen, gibt es die meisten Zungenmuskeln paarig — in der Mitte werden die beiden Zungenhälften durch eine Zwischensehne
 {deep}`(Septum linguale)` getrennt.
 
-Die Innervation der Zunge erfolg über {ref}`Hirnnerven <Hirnnerven>`,
-speziell motorisch über den **N. hypoglossus** (**XII**),
-sensibel über *N. glossopharyngeus* (**IX**)
-und *N. vagus* (**X**) im hinteren Drittel
-sowie über den *N. trigeminus* (**V**) in den vorderen zwei
-Dritteln.
+Die Innervation der Zunge erfolg über {ref}`Hirnnerven <Hirnnerven>`, speziell motorisch über den **N. hypoglossus** (**XII**), sensibel über *N. glossopharyngeus* (**IX**)
+und *N. vagus* (**X**) im hinteren Drittel sowie über den *N. trigeminus* (**V**) in den vorderen zwei Dritteln.
 
 [^zungenmuskeln]: Zungenmuskeln:
 
@@ -102,15 +81,10 @@ Dritteln.
       - 13. verticalis linguae
     :::
 
-Der *Zungengrund* bezeichnet die Zungenwurzel. In ihrem Bereich befindet
-sich die Tonsilla lingualis, ein Teil des Waldeyerschen Rachenrings.
+Der *Zungengrund* bezeichnet die Zungenwurzel. In ihrem Bereich befindet sich die Tonsilla lingualis, ein Teil des Waldeyerschen Rachenrings.
 
-Neben *Tast-, Tiefen-, Temperatur- und Schmerzrezeptoren* besitzt die
-Zunge zahlreiche Papillen[^zungenpapillen], welche zuständig sind für Geschmack, Tast-, Tiefen-, Temperatur- und Schmerzempfinden.
-In diesen Papillen werden die einzelnen *Geschmacksqualitäten* (sauer,
-salzig, süß, bitter, Umami) wahrgenommen. Jeder Zungenregion kann eine
-Qualitätspräferenz (außer Umami: Geschmack von Glutamat) zugewiesen
-werden.
+Neben *Tast-, Tiefen-, Temperatur- und Schmerzrezeptoren* besitzt die Zunge zahlreiche Papillen[^zungenpapillen], welche zuständig sind für Geschmack, Tast-, Tiefen-, Temperatur- und Schmerzempfinden.
+In diesen Papillen werden die einzelnen *Geschmacksqualitäten* (sauer, salzig, süß, bitter, Umami) wahrgenommen. Jeder Zungenregion kann eine Qualitätspräferenz (außer Umami: Geschmack von Glutamat) zugewiesen werden.
 
 [^zungenpapillen]: Papillen der Zunge:
 
@@ -124,11 +98,8 @@ werden.
 
 ## Zähne
 
-Die Zähne sind auf 4 Quadranten,
-jeweils rechts—links im Ober- und Unterkiefer, verteilt.
-Nach den Milchzähnen (20 Stück) im
-Kindesalter zerkleinern die bleibenden Zähne (32 Stück) die zugeführte
-Nahrung.
+Die Zähne sind auf 4 Quadranten, jeweils rechts—links im Ober- und Unterkiefer, verteilt.
+Nach den Milchzähnen (20 Stück) im Kindesalter zerkleinern die bleibenden Zähne (32 Stück) die zugeführte Nahrung.
 Abhängig von der jeweiligen Form und Aufgabe unterscheidet man pro Quadrant:
 
 - 2 Schneidezähne {deep}`(Dens incisivus)`: Abbeißen
@@ -154,38 +125,22 @@ Unterkiefer  48, 47, 46, 45, 44, 43, 42 41  | 31, 32, 33 ,34, 35, 36, 37, 38
 ```
 :::
 
-Die Schneidezähne und die Eckzähne werden als **Frontzähne** bezeichnet,
-die Prämolaren und die Molaren als **Seitenzähne**. Das menschliche Gebiss
-ist heterodont - d.h. es gibt Zahngruppen, die unterschiedlich geformt
-und eine unterschiedliche Aufgabe haben - und diphyodont - d.h. die
-Zähne wechseln von einem Milchgebiss zu einem permanenten Gebiss
+Die Schneidezähne und die Eckzähne werden als **Frontzähne** bezeichnet, die Prämolaren und die Molaren als **Seitenzähne**. Das menschliche Gebiss ist heterodont - d.h. es gibt Zahngruppen, die unterschiedlich geformt und eine unterschiedliche Aufgabe haben - und diphyodont - d.h. die Zähne wechseln von einem Milchgebiss zu einem permanenten Gebiss
 (Zahnwechsel).
 
 Die ersten Zähne, die durchbrechen, sind die medialen Schneidezähne (6.
-bis 12. Lebensmonat), bis zum 2. Lebensjahr sollten die **Milchzähne**
-vollständig ausgebildet sein.
-Der erste Molar - der erste Zahn des
-bleibenden Gebisses - entwickelt sich dann mit dem 6. Lebensjahr.
-Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7,
-lateraler Schneidezahn mit 8, erster Prämolar mit 9, zweiter Prämolar
-mit 10 Eckzahn mit 11, zweiter Molar mit 12. Der dritte Molar ist meist
-sehr unterschiedlich ausgeprägt - falls er durchbricht, passiert das ab
-dem 18. Lebensjahr (➛ Weisheitszahn).
+bis 12. Lebensmonat), bis zum 2. Lebensjahr sollten die **Milchzähne** vollständig ausgebildet sein.
+Der erste Molar - der erste Zahn des bleibenden Gebisses - entwickelt sich dann mit dem 6. Lebensjahr.
+Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7, lateraler Schneidezahn mit 8, erster Prämolar mit 9, zweiter Prämolar mit 10 Eckzahn mit 11, zweiter Molar mit 12. Der dritte Molar ist meist sehr unterschiedlich ausgeprägt - falls er durchbricht, passiert das ab dem 18. Lebensjahr (➛ Weisheitszahn).
 
-Der Dens (Zahn) besteht aus der *Zahnkrone* (*Corona dentis*),
-dem *Zahnhals* (*Cervix dentis*)
+Der Dens (Zahn) besteht aus der *Zahnkrone* (*Corona dentis*), dem *Zahnhals* (*Cervix dentis*)
 und der *Zahnwurzel* (*Radix dentis*).
-Drei knochenähnliche
-Substanzen — Zahnbein {deep}`(Dentin)`,
-Zahnschmelz {deep}`(Enamelum)`
+Drei knochenähnliche Substanzen — Zahnbein {deep}`(Dentin)`, Zahnschmelz {deep}`(Enamelum)`
 und Zement {deep}`(Cementum)` —
 bauen den Zahn auf.
-Über die Wurzelhaut {deep}`(Desmodontium)` ist
-der Zahn federnd im Wurzelfach {deep}`(Alveole)` des Kiefers befestigt. Eigene
-Kollagenfasern {deep}`(Sharpey-Fasern)` durchziehen das Desmodontium.
+Über die Wurzelhaut {deep}`(Desmodontium)` ist der Zahn federnd im Wurzelfach {deep}`(Alveole)` des Kiefers befestigt. Eigene Kollagenfasern {deep}`(Sharpey-Fasern)` durchziehen das Desmodontium.
 Das Zahnbein ist schmerzempfindlich.
-Der Zahnhals und die beiden Kieferbögen sind von
-Zahnfleisch (Gingiva) bedeckt.
+Der Zahnhals und die beiden Kieferbögen sind von Zahnfleisch (Gingiva) bedeckt.
 
 Der *Zahnhalteapparat* besteht aus:
 
@@ -196,9 +151,7 @@ Der *Zahnhalteapparat* besteht aus:
 
 ## Speichel
 
-Der bereits erwähnte *Speichel* wird von exokrinen Drüsen gebildet. Die
-Mundhöhle besitzt kleine Speicheldrüsen mit kurzen Ausführungsgängen in
-Lippe, Wange, Zunge und Gaumen. Große Speicheldrüsen sind:
+Der bereits erwähnte *Speichel* wird von exokrinen Drüsen gebildet. Die Mundhöhle besitzt kleine Speicheldrüsen mit kurzen Ausführungsgängen in Lippe, Wange, Zunge und Gaumen. Große Speicheldrüsen sind:
 
 - Glandula parotis (Ohrspeicheldrüse): Mündung auf Höhe des 2.
   Mahlzahns des Oberkiefers
@@ -207,9 +160,7 @@ Lippe, Wange, Zunge und Gaumen. Große Speicheldrüsen sind:
 - Glandula sublingualis (Unterzungenspeicheldrüse): Mündung gemeinsam
   mit Unterkieferspeicheldrüse
 
-Die Speicheldrüsen bilden pro Tag ungefähr 1—1,5 L Speichel. Es gibt
-einen mukösen (schleimig) und einen serösen (flüssig) Speichel. Die
-Sekretion wird durch das vegetative Nervensystem gesteuert –
+Die Speicheldrüsen bilden pro Tag ungefähr 1—1,5 L Speichel. Es gibt einen mukösen (schleimig) und einen serösen (flüssig) Speichel. Die Sekretion wird durch das vegetative Nervensystem gesteuert –
 Parasympathikus fördert, Sympathikus hemmt die Speichelbildung.
 
 Im Mundspeichel befinden sich:

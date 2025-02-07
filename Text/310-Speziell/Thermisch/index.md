@@ -6,15 +6,10 @@
 
 ## Hitzeerkrankungen
 
-Der menschliche
-Körper hält seine Kerntemperatur im Normalfall
-zwischen 36,5 und 37,5°C
-konstant.
-Übersteigt die Wärmezufuhr die effektive Wärmeabgabe,
-resultiert ein Hitzeschaden:
+Der menschliche Körper hält seine Kerntemperatur im Normalfall zwischen 36,5 und 37,5°C konstant.
+Übersteigt die Wärmezufuhr die effektive Wärmeabgabe, resultiert ein Hitzeschaden:
 {dfn}`Hitzekollaps`{index}` <! Hitzekollaps>`,
-{dfn}`Hitzeerschöpfung`, {dfn}`Hitzschlag` {index}` <! Hitzschlag>` (bzw. Sonnenstich
-bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
+{dfn}`Hitzeerschöpfung`, {dfn}`Hitzschlag` {index}` <! Hitzschlag>` (bzw. Sonnenstich bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 
 (hitzeerschoepfung)=
 
@@ -41,20 +36,9 @@ bei direkter Sonneneinstrahlung auf den Kopf ein Sonnenstich).
 :::
 ::::
 
-Bei einem Wärmestau, bei dem die zugeführte Wärme größer ist, als die
-abgegebene, kann es zu einem so genannten {dfn}`Hitzekollaps` {index}` <! Hitzekollaps>` kommen. Die *Blutgefäße* in der Haut *erweitern* sich und
-das Blut versackt, der *Blutdruck fällt ab* und die Durchblutung des
-Gehirns nimmt kurzfristig ab. Die Folge ist eine *kurze Ohnmacht*, dem
-Patient wird "schwarz vor Augen". Lagert man ihn flach, oder eventuell
-mit erhöhten Beinen, und kühlt ihn, bzw. bringt ihn an einen kühlen Ort,
-so bessert sich sein Zustand recht rasch.
+Bei einem Wärmestau, bei dem die zugeführte Wärme größer ist, als die abgegebene, kann es zu einem so genannten {dfn}`Hitzekollaps` {index}` <! Hitzekollaps>` kommen. Die *Blutgefäße* in der Haut *erweitern* sich und das Blut versackt, der *Blutdruck fällt ab* und die Durchblutung des Gehirns nimmt kurzfristig ab. Die Folge ist eine *kurze Ohnmacht*, dem Patient wird "schwarz vor Augen". Lagert man ihn flach, oder eventuell mit erhöhten Beinen, und kühlt ihn, bzw. bringt ihn an einen kühlen Ort, so bessert sich sein Zustand recht rasch.
 
-Bei der {dfn}`Hitzeerschöpfung` {index}` <! Hitzeerschöpfung>` ist die *Wärmeaufnahme
-dauerhaft größer als die Wärmeabgabe*. Der Körper versucht dies durch
-starkes Schwitzen zu kompensieren, dadurch kommt es zu einem *starken
-Wasser- und Elektrolytverlust*. Der *Blutdruck fällt*, es kommt zu einer
-*Tachykardie*, die Körpertemperatur bleibt jedoch noch normal. Hier ist
-es wichtig den Patienten zu kühlen.
+Bei der {dfn}`Hitzeerschöpfung` {index}` <! Hitzeerschöpfung>` ist die *Wärmeaufnahme dauerhaft größer als die Wärmeabgabe*. Der Körper versucht dies durch starkes Schwitzen zu kompensieren, dadurch kommt es zu einem *starken Wasser- und Elektrolytverlust*. Der *Blutdruck fällt*, es kommt zu einer *Tachykardie*, die Körpertemperatur bleibt jedoch noch normal. Hier ist es wichtig den Patienten zu kühlen.
 
 (mt67010c)=
 
@@ -112,35 +96,20 @@ es wichtig den Patienten zu kühlen.
 :::
 ::::
 
-Der Hitzschlag und der Sonnenstich sind *lebensbedrohliche
-Hitzeerkrankungen*.
+Der Hitzschlag und der Sonnenstich sind *lebensbedrohliche Hitzeerkrankungen*.
 
 Beim {dfn}`Hitzschlag` {index}` <! Hitzschlag>`
 ist die *Regulation der Körpertemperatur gestört*.
 Es sind *sehr hohe Temperaturwerte*
 (bis 43°C) möglich.
-Der Patient hat eine zunächst trockene, rote und weiße,
-später grau-bläuliche Haut, der Kopf ist oft hochrot. Weiters kommt es
-zu *neurologischen Symptomen*, wie massiven Kopfschmerzen, Schwindel,
-Erbrechen und Bewusstseinsstörungen; bis hin zur Bewusstlosigkeit. Der
-Patient kann Schockzeichen zeigen, evtl. auch eine schnelle, flache
-Atmung.
+Der Patient hat eine zunächst trockene, rote und weiße, später grau-bläuliche Haut, der Kopf ist oft hochrot. Weiters kommt es zu *neurologischen Symptomen*, wie massiven Kopfschmerzen, Schwindel, Erbrechen und Bewusstseinsstörungen; bis hin zur Bewusstlosigkeit. Der Patient kann Schockzeichen zeigen, evtl. auch eine schnelle, flache Atmung.
 
-Ein {dfn}`Sonnenstich` {index}` <! Sonnenstich>` ist ein Hitzeschaden durch
-Hirnerwärmung infolge von direkter Sonneneinstrahlung auf den
-**ungeschützten Kopf**. Er ist eine Sonderform des Hitzeschadens: er
-entsteht durch *direkte Sonneneinstrahlung* auf den ungeschützten Kopf.
-Dadurch steigt die Temperatur im Kopf, es kommt zu einer Reizung der
-Hirnhäute.
+Ein {dfn}`Sonnenstich` {index}` <! Sonnenstich>` ist ein Hitzeschaden durch Hirnerwärmung infolge von direkter Sonneneinstrahlung auf den **ungeschützten Kopf**. Er ist eine Sonderform des Hitzeschadens: er entsteht durch *direkte Sonneneinstrahlung* auf den ungeschützten Kopf.
+Dadurch steigt die Temperatur im Kopf, es kommt zu einer Reizung der Hirnhäute.
 
 Die Folge sind Symptome wie bei einer Hirnhautentzündung (Meningitis)
-beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz,
-sind die Folge. Die *Gesichts- und Kopfhaut ist hochrot und heiß*, der
-restliche Körper bleibt dagegen eher kühl. Der Patient wirkt
-abgeschlagen und klagt über heftige Kopfschmerzen, Schwindel und
-Übelkeit, auch Unruhe, Verwirrtheitszustände und Nackensteifigkeit sind
-zu beobachten. In schweren Fällen kann es sogar bis zu Krampfanfällen
-und Bewusstlosigkeit kommen.
+beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz, sind die Folge. Die *Gesichts- und Kopfhaut ist hochrot und heiß*, der restliche Körper bleibt dagegen eher kühl. Der Patient wirkt abgeschlagen und klagt über heftige Kopfschmerzen, Schwindel und
+Übelkeit, auch Unruhe, Verwirrtheitszustände und Nackensteifigkeit sind zu beobachten. In schweren Fällen kann es sogar bis zu Krampfanfällen und Bewusstlosigkeit kommen.
 
 (mt67000c)=
 
@@ -188,19 +157,11 @@ und Bewusstlosigkeit kommen.
 :width: 50%
 :::
 
-Eine {dfn}`Unterkühlung` {index}` <! Unterkühlung>` ist eine Erniedrigung der
-Körperkerntemperatur auf unter 36°C. Ähnlich wie beim Schock kommt es
-auch bei der Unterkühlung zur Zentralisation des Blutes, um die
-Körperkerntemperatur aufrecht erhalten zu können. Je niedriger diese
-Kerntemperatur jedoch sinkt, desto schwerwiegender sind die Folgen!
+Eine {dfn}`Unterkühlung` {index}` <! Unterkühlung>` ist eine Erniedrigung der Körperkerntemperatur auf unter 36°C. Ähnlich wie beim Schock kommt es auch bei der Unterkühlung zur Zentralisation des Blutes, um die Körperkerntemperatur aufrecht erhalten zu können. Je niedriger diese Kerntemperatur jedoch sinkt, desto schwerwiegender sind die Folgen!
 
-Es besteht die Gefahr, dass kaltes Blut aus der Peripherie zum Körper
-hin fließt und sich mit dem noch relativ warmen zentralisierten Blut
-vermischt. Es kommt dann zu einer weiteren Unterkühlung des
-Körperstammes, im schlimmsten Fall zu einem
+Es besteht die Gefahr, dass kaltes Blut aus der Peripherie zum Körper hin fließt und sich mit dem noch relativ warmen zentralisierten Blut vermischt. Es kommt dann zu einer weiteren Unterkühlung des Körperstammes, im schlimmsten Fall zu einem
 {dfn}`Bergungstod` {index}` <! Bergungstod>`
-(Blutfluss in Folge von Bewegungen während des
-Bergungsversuches).
+(Blutfluss in Folge von Bewegungen während des Bergungsversuches).
 
 ### Symptome  und Phasen
 

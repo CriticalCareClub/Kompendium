@@ -23,9 +23,4 @@ Folgende Lebensphasen werden bis zum Erwachsenenalter unterschieden:
 - Schulalter: - Ende des 14. Lebensjahres
 - Adoleszenz: - zum Erwachsenenalter
 
-Die *Pubertät* beginnt zwischen dem 11. und 13. Lebensjahr. Hier kommt
-es zur Ausbildung der äußeren Geschlechtsmerkmale (Behaarung, Mamma, zur
-Vergrößerung des Hodens bei den Buben, zur Menarche bei den Mädchen. Die
-Entwicklung der Geschlechtsreife vor dem 8. Lebensjahr bezeichnet man
-als Pubertas praecox, nach dem 15. bis 16. Lebensjahr als Pubertas
-tarda.
+Die *Pubertät* beginnt zwischen dem 11. und 13. Lebensjahr. Hier kommt es zur Ausbildung der äußeren Geschlechtsmerkmale (Behaarung, Mamma, zur Vergrößerung des Hodens bei den Buben, zur Menarche bei den Mädchen. Die Entwicklung der Geschlechtsreife vor dem 8. Lebensjahr bezeichnet man als Pubertas praecox, nach dem 15. bis 16. Lebensjahr als Pubertas tarda.

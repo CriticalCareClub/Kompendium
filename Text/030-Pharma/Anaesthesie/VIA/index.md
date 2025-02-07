@@ -1,10 +1,7 @@
 # Volatile Inhalationsanästhetika (VIA)
 
-Inhalationsanästhetika werden über die Lunge aufgenommen. Im Vergleich
-mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit an.
-Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine
-ausreichende Narkosetiefe. Daher werden sie bevorzugt in Kombination mit
-i.v.-Anästhetika eingesetzt.
+Inhalationsanästhetika werden über die Lunge aufgenommen. Im Vergleich mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit an.
+Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine ausreichende Narkosetiefe. Daher werden sie bevorzugt in Kombination mit i.v.-Anästhetika eingesetzt.
 
 
 Verstärken die inhibitatorische Funktion und dämpfen die Erregungsübertragung an den Synapsen durch Störung der Ionenkanäle.
@@ -109,40 +106,28 @@ Dieses Gas wirkt nicht analgetisch und ausgeprägt hypnotisch.
 unerwünschte Wirkungen:
 
 Im kardiovaskulären Bereich wirkt es blutdrucksenkend (dosisabhängig)
-und Herzfrequenzsenkend. Man kann eine Atemdepression beobachten, in der
-Niere sorgt es für eine Verminderung von Nierendurchblutung, glomeruläre
-Filtrationsrate und Harnausscheidung (dosisabhängig).
+und Herzfrequenzsenkend. Man kann eine Atemdepression beobachten, in der Niere sorgt es für eine Verminderung von Nierendurchblutung, glomeruläre Filtrationsrate und Harnausscheidung (dosisabhängig).
 
-Kontraindikationen: maligne Hyperthermie, erhöhter Hirndruck, Patienten
-mit halothanassoziiertem Leberschaden.
+Kontraindikationen: maligne Hyperthermie, erhöhter Hirndruck, Patienten mit halothanassoziiertem Leberschaden.
 
 ähnlich, aber außer Handel: Halothan, Enfluran
 
 ### Desfluran (Suprane®)
 
-Dieses Präparat weist eine sehr geringe Löslichkeit im Blut auf. Dadurch
-ergibt sich eine verbesserte Steuerbarkeit während der Narkose und ein
-Zeitgewinn bei Ein-und Ausleitung.
+Dieses Präparat weist eine sehr geringe Löslichkeit im Blut auf. Dadurch ergibt sich eine verbesserte Steuerbarkeit während der Narkose und ein Zeitgewinn bei Ein-und Ausleitung.
 
-Da es jedoch einen stechenden Geruch aufweist und die Atemwege reizt,
-ist es für eine Maskennarkose nicht geeignet.
+Da es jedoch einen stechenden Geruch aufweist und die Atemwege reizt, ist es für eine Maskennarkose nicht geeignet.
 
 Unerwünschte Wirkung:
 
-Bei höheren Dosen kam Desfluran zu einer starken Reaktion des
-Sympathikus mit Blutdruckanstieg und Tachykardie führen.
+Bei höheren Dosen kam Desfluran zu einer starken Reaktion des Sympathikus mit Blutdruckanstieg und Tachykardie führen.
 
 ### Sevofluran (Sevorane®)
 
-Auch hier zeigt sich eine geringe Löslichkeit im Blut. Durch den
-angenehmeren Geruch ist Sevofluran für eine Maskeneinleitung besser
-geeignet.
+Auch hier zeigt sich eine geringe Löslichkeit im Blut. Durch den angenehmeren Geruch ist Sevofluran für eine Maskeneinleitung besser geeignet.
 
 ### Stickoxydul = Lachgas = N₂O
 
-Lachgas wirkt analgetisch, schwach anästhetisch und nicht
-muskelrelaxierend. Durch die nur schwach anästhetische Wirkung ist es
-als Monosubstanz nicht einsetzbar.
+Lachgas wirkt analgetisch, schwach anästhetisch und nicht muskelrelaxierend. Durch die nur schwach anästhetische Wirkung ist es als Monosubstanz nicht einsetzbar.
 
-Als Zusatzanästhetikum eingesetzt bewirkt es eine Wirkzunahme und
-Dosisreduktion von i.v.- und Inhalations-Anästhetika.
+Als Zusatzanästhetikum eingesetzt bewirkt es eine Wirkzunahme und Dosisreduktion von i.v.- und Inhalations-Anästhetika.

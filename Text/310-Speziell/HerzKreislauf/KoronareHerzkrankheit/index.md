@@ -35,15 +35,12 @@ Therapie: Coronarangiographie mit Dilatation oder Stent  +  Duale Plättchenther
 
 Die {dfn}`Koronare Herzkrankheit` ({dfn}`KHK`)
 ist eine Erkrankung der *Herzkranzgefäße* (Koronargefäße),
-bei der es zu
-einer Verengung der Gefäße kommt.
+bei der es zu einer Verengung der Gefäße kommt.
 Sie ist eine *chronische* Erkrankung,
-welche Folgeerkrankungen bedingt
-und in akuten Notfallsituationen resultieren kann.
+welche Folgeerkrankungen bedingt und in akuten Notfallsituationen resultieren kann.
 Je nachdem wieviele Koronargefäße betroffen sind,
 spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
-(Term.: *1-, 2-, 3-Vessel-Disease*
-bzw. Abkz.: *1-, 2-, 3-VD*).
+(Term.: *1-, 2-, 3-Vessel-Disease* bzw. Abkz.: *1-, 2-, 3-VD*).
 
 ```{eval-rst}
 .. subfigstart::
@@ -63,11 +60,8 @@ Das Herz mit seinen Koronargefäßen
 Darstellung der Herzkranzgefäße mittels Koronarangiographie
 
 Bei einer Koronarangiographie (Herzkatheteruntersuchung)
-wird über eine periphere Arterie ein Katheter eingebracht
-und über die Aorta bis in die Koronargefäße vorgeschoben.
-Anschließend wird ein
-Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung
-sichtbar zu machen.
+wird über eine periphere Arterie ein Katheter eingebracht und über die Aorta bis in die Koronargefäße vorgeschoben.
+Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung sichtbar zu machen.
 
 ₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`
 :::
@@ -91,10 +85,8 @@ Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
 ```
 
 Eine koronare Herzkrankheit kann lange Zeit symptomlos sein,
-bzw. nur durch eine verminderte Leistungsfähigkeit bei Anstrengung
-in Erscheinung treten.
-Durch die chronische oder auch akute Unterversorgung des Herzmuskels
-kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
+bzw. nur durch eine verminderte Leistungsfähigkeit bei Anstrengung in Erscheinung treten.
+Durch die chronische oder auch akute Unterversorgung des Herzmuskels kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:
 
 - {ref}`Herzinsuffizienz <Herzinsuffizienz>`
   durch eine ischämische Kardiomyopathie
@@ -200,6 +192,7 @@ textshjdfsanm
 ::::{only} not nosidebar
 
 :::{margin} Angina pectoris
+
 Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 
 - Einengung(en) von Herzkranzgefäßen
@@ -213,26 +206,15 @@ Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf
 ::::
 
 Die Angina pectoris (lat., *"Brustenge"*)
-ist charakterisiert durch ein plötzliches Engegefühl
-in der Brust meist zusammen mit Thoraxschmerz und Atemnot
-infolge einer *vorübergehenden* Unterversorgung
-des Herzmuskels mit sauerstoffreichem Blut.
-Ein akuter Angina-pectoris-Anfall ist primär
-*nicht sicher von einem Herzinfarkt unterscheidbar*.
-Die Symptome treten eher bei Belastung auf
-und vergehen oft bei Entspannung,
-das Vorübergehen der Beschwerden
-darf aber natürlich nicht abgewartet
-werden!
+ist charakterisiert durch ein plötzliches Engegefühl in der Brust meist zusammen mit Thoraxschmerz und Atemnot infolge einer *vorübergehenden* Unterversorgung des Herzmuskels mit sauerstoffreichem Blut.
+Ein akuter Angina-pectoris-Anfall ist primär *nicht sicher von einem Herzinfarkt unterscheidbar*.
+Die Symptome treten eher bei Belastung auf und vergehen oft bei Entspannung,
+das Vorübergehen der Beschwerden darf aber natürlich nicht abgewartet werden!
 
-Der akute Angina-Pectoris-Anfall gehört zu der Familie des
-*Akuten Koronarsyndroms*.
+Der akute Angina-Pectoris-Anfall gehört zu der Familie des *Akuten Koronarsyndroms*.
 Dazu gehört auch der Herzinfarkt,
-dem der gleiche
-Mechanismus wie der Angina pectoris zu Grunde liegt,
-wobei es beim Infarkt im *Gegensatz* zur Angina pectoris
-zu einem *totalen* Herzkranzgefäß*verschluss*
-mit Absterben von Herzmuskelgewebe kommt.
+dem der gleiche Mechanismus wie der Angina pectoris zu Grunde liegt,
+wobei es beim Infarkt im *Gegensatz* zur Angina pectoris zu einem *totalen* Herzkranzgefäß*verschluss* mit Absterben von Herzmuskelgewebe kommt.
 
 (herzinfarkt)=
 
@@ -253,8 +235,7 @@ mit Absterben von Herzmuskelgewebe kommt.
 :::
 ::::
 
-Verschluss eines oder mehrerer Herzkranzgefäße
-mit anschließendem Absterben des betroffenen Herzmuskelgewebes
+Verschluss eines oder mehrerer Herzkranzgefäße mit anschließendem Absterben des betroffenen Herzmuskelgewebes
 (Ischämie, {ref}`ischaemie`).
 Die Symptome entsprechen denen des akuten Koronarsyndroms,
 doch vergehen diese nicht mehr und es bleiben
@@ -268,8 +249,7 @@ Schäden am Herzmuskel bestehen.
 :::{figure} /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.\*
 :width: 100%
 
-Das Herz im Querschnitt, gesehen von unten: Links der rechte
-Ventrikel, rechts der muskelstarke linke Ventrikel.
+Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel.
 
 ₢ Patrick Lynch
 {term}`ℓ CC BY 2.5`
@@ -321,32 +301,21 @@ C. Carl Jaffe MD, cardiologist.
 ::::
 
 *Herzrhythmusstörungen* (alle Arten),
-bis hin zum Kreislaufstillstand
-und zur Reanimationspflichtigkeit
-sind klassische Komplikationen eines Myocardinfarktes.
-Besonders häufig kommt es
-als Frühkomplikation zu plötzlichen,
-lebensgefährlichen Rhythmusstörungen
-wie der ventrikulären Tachykardie
-oder dem Kammerflimmern.
+bis hin zum Kreislaufstillstand und zur Reanimationspflichtigkeit sind klassische Komplikationen eines Myocardinfarktes.
+Besonders häufig kommt es als Frühkomplikation zu plötzlichen,
+lebensgefährlichen Rhythmusstörungen wie der ventrikulären Tachykardie oder dem Kammerflimmern.
 
-Aufgrund der Mangeldurchblutung des Herzmuskels
-kommt es zu einem Funktionsverlust der betroffenen Areale
-und damit zu einer Einschränkung der Pumpfunktion,
-welche bis zum kardiogenen Schock
-oder zu einem Kreislaufstillstand führen kann.
+Aufgrund der Mangeldurchblutung des Herzmuskels kommt es zu einem Funktionsverlust der betroffenen Areale und damit zu einer Einschränkung der Pumpfunktion,
+welche bis zum kardiogenen Schock oder zu einem Kreislaufstillstand führen kann.
 
 Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
 
-:::{figure} /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.\*
-Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre
-Tachykardie, sind häufige Komplikationen eines Herzinfarktes
+:::{figure} /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.\* Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre Tachykardie, sind häufige Komplikationen eines Herzinfarktes
 
 {term}`ℓ PD`
 :::
 
-Die akute Ausformung der koronaren Herzkrankheit
-wird unter dem Symptomenkomplex des
+Die akute Ausformung der koronaren Herzkrankheit wird unter dem Symptomenkomplex des
 {ref}`akuten Koronarsyndroms (Acute Coronary Syndrome, ACS) <Acs>`
 zusammengefasst,
 zu Symptomen und Therapie siehe ebendort.
@@ -355,6 +324,5 @@ zu Symptomen und Therapie siehe ebendort.
 :caption: 'KHK akut: Akutes Koronarsyndrom'
 :maxdepth: 1
 
-ACS/index
-Peri-OP-ACS/index.md
+ACS/index Peri-OP-ACS/index.md
 ```

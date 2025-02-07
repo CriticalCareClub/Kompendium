@@ -1,13 +1,6 @@
 # Dokumentation
 
-Die medizinische Dokumentation muss eine Geschichte erzählen. Eine
-Geschichte die ein Dritter, unbeteiligter, verstehen *muss*. Dieser
-unbeteiligte Dritte soll allein anhand der Schilderung in Ihrer
-Dokumentation fähig sein eine Verdachtsdiagnose zu stellen. Weiters
-sollte er nachvollziehen können, was mit dem Patient passiert ist. Auch
-die Ereignisse davor oder die Einsatzsituation soll für denjenigen
-verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen
-Patienten, …)
+Die medizinische Dokumentation muss eine Geschichte erzählen. Eine Geschichte die ein Dritter, unbeteiligter, verstehen *muss*. Dieser unbeteiligte Dritte soll allein anhand der Schilderung in Ihrer Dokumentation fähig sein eine Verdachtsdiagnose zu stellen. Weiters sollte er nachvollziehen können, was mit dem Patient passiert ist. Auch die Ereignisse davor oder die Einsatzsituation soll für denjenigen verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen Patienten, …)
 
 (dokumentation-medizinisch)=
 
@@ -24,14 +17,8 @@ Patienten, …)
 
 ### Dokumentation – Oder: Damit sich auch ein Anderer auskennt …
 
-Die medizinische Dokumentation muss eine Geschichte erzählen. Eine
-Geschichte die ein Dritter, unbeteiligter, verstehen *muss*.
-Dieser unbeteiligte Dritte soll allein anhand der Schilderung in der
-Dokumentation fähig sein, eine Verdachtsdiagnose zu stellen. Weiters
-sollte er nachvollziehen können, was mit dem Patient passiert ist. Auch
-die Ereignisse davor oder die Einsatzsituation soll für denjenigen
-verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen
-Patienten, …).
+Die medizinische Dokumentation muss eine Geschichte erzählen. Eine Geschichte die ein Dritter, unbeteiligter, verstehen *muss*.
+Dieser unbeteiligte Dritte soll allein anhand der Schilderung in der Dokumentation fähig sein, eine Verdachtsdiagnose zu stellen. Weiters sollte er nachvollziehen können, was mit dem Patient passiert ist. Auch die Ereignisse davor oder die Einsatzsituation soll für denjenigen verständlich sein (Unfallhergang, Wohnsituation bei psychiatrischen Patienten, …).
 
 :::{admonition} Synopsis
 - Die Dokumentation dient sowohl der rechtlichen Absicherung, als
@@ -41,28 +28,14 @@ Patienten, …).
 
 ### Dokumentationspflicht
 
-Schon nach dem Sanitätergesetz besteht für jeden Sanitäter die Pflicht,
-die von ihm gesetzten sanitätsdienstlichen Maßnahmen zu
-dokumentieren. [^footnote-1] Darüber hinaus müssen analog zu anderen
-Gesundheitsberufen auch alle anderen medizinisch relevanten Sachverhalte
-schriftlich und nachvollziehbar fixiert werden.
+Schon nach dem Sanitätergesetz besteht für jeden Sanitäter die Pflicht, die von ihm gesetzten sanitätsdienstlichen Maßnahmen zu dokumentieren. [^footnote-1] Darüber hinaus müssen analog zu anderen Gesundheitsberufen auch alle anderen medizinisch relevanten Sachverhalte schriftlich und nachvollziehbar fixiert werden.
 
 [^footnote-1]: §5 SanG
 
-Hintergrund dieser Dokumentationspflicht ist der
-*Heilbehandlungsvertrag*. Im österreichischen Recht hat grundsätzlich
-der Kläger den Schaden, die Rechtswidrigkeit und das Verschulden des
-Beklagten zu beweisen. Besteht aber zwischen Kläger und Beklagten ein
-Vertrag, so wird gem. 1298 ABGB das Verschulden des Beklagten angenommen
-bzw. der Beklagte muss beweisen, dass ihn kein Verschulden trifft
-(*Beweislastumkehr*). Um nun für den Beklagten die Möglichkeit zu
-schaffen, sein Unverschulden zu beweisen, wurde die
-*Dokumentationspflicht* eingeführt, mit der bei ausreichender
-Dokumentation wieder der Kläger das Verschulden des Beklagten zu
-beweisen hat.
+Hintergrund dieser Dokumentationspflicht ist der *Heilbehandlungsvertrag*. Im österreichischen Recht hat grundsätzlich der Kläger den Schaden, die Rechtswidrigkeit und das Verschulden des Beklagten zu beweisen. Besteht aber zwischen Kläger und Beklagten ein Vertrag, so wird gem. 1298 ABGB das Verschulden des Beklagten angenommen bzw. der Beklagte muss beweisen, dass ihn kein Verschulden trifft
+(*Beweislastumkehr*). Um nun für den Beklagten die Möglichkeit zu schaffen, sein Unverschulden zu beweisen, wurde die *Dokumentationspflicht* eingeführt, mit der bei ausreichender Dokumentation wieder der Kläger das Verschulden des Beklagten zu beweisen hat.
 
-Inhalt der Dokumentation sollte nicht nur die gesetzten Maßnahmen sein,
-sondern auch
+Inhalt der Dokumentation sollte nicht nur die gesetzten Maßnahmen sein, sondern auch
 
 - situationsrelevante Umstände (beim Patient; am BO; während des
   Transportes; …),
@@ -70,18 +43,13 @@ sondern auch
 - Einwilligung bzw. Ablehnung durch den Patienten (Revers) sowie
 - sonstige für den Sanitäter entscheidend wirkende Umstände.
 
-Es muss *gründlich*, *ausführlich* und *nachvollziehbar* dokumentiert
-werden. Die Dokumentation soll vorrangig am Einsatzprotokoll selbst
-oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
+Es muss *gründlich*, *ausführlich* und *nachvollziehbar* dokumentiert werden. Die Dokumentation soll vorrangig am Einsatzprotokoll selbst oder, wenn nötig, auf einem beigelegten Blatt Papier erfolgen.
 
 (naca)=
 
 ### NACA-Score
 
-Der *NACA-Score* [^footnote-2] diente ursprünglich der Bewertung
-von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten
-zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben
-statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
+Der *NACA-Score* [^footnote-2] diente ursprünglich der Bewertung von Erkrankungen / Verletzungen als Entscheidungshilfe welche Soldaten zuerst auszufliegen wären. Heutzutage dient der NACA-Score der groben statistischen Erfassung. Man unterscheidet die Stufen 1 bis 7:
 
 [^footnote-2]: NACA
 

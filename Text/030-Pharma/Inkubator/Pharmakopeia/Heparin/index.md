@@ -25,16 +25,12 @@
 
 # Heparin
 
-Bei niedriger Dosierung verstärkt Heparin zusammen mit
-AT-III die AT-III-Wirkung (7—8-fach).
+Bei niedriger Dosierung verstärkt Heparin zusammen mit AT-III die AT-III-Wirkung (7—8-fach).
 Bei hoher Dosierung inaktivierung der Faktoren IXa, Xa, XIa und XIIa.
 Zur vollen Wikrungsentfaltung sind normale AT-II-Spiegel notwendig!
-Im Extremfall kann es ansonsten zu einer nicht ausreichenden
-antikoagulatorischen Wirkung kommen!
+Im Extremfall kann es ansonsten zu einer nicht ausreichenden antikoagulatorischen Wirkung kommen!
 
-**Elimination** durch Bindung an histidinreiche Glykoproteine und PF-4,
-Metabolisation durch Makrophagen und Endothelzellen,
-langsame renale Ausscheidung bei hohen Dosen.
+**Elimination** durch Bindung an histidinreiche Glykoproteine und PF-4, Metabolisation durch Makrophagen und Endothelzellen, langsame renale Ausscheidung bei hohen Dosen.
 
 ## Ind/KI
 

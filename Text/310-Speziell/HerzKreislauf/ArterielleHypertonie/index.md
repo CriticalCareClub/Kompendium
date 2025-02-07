@@ -19,22 +19,11 @@
 
 Die {dfn}`arterielle Hypertonie`
 (*Bluthochdruck*, *Hochdruckkrankheit*)
-ist eine meist symptomlose, *chronische*
-Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
+ist eine meist symptomlose, *chronische* Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
 
-Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von
-plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. Aufgrund
-der Schädigung der Blutgefäße ist sie ein ein wesentlicher
-*Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit,
-Schlaganfälle etc. [^footnote-1]
+Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc. [^footnote-1]
 
-Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im
-Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für
-die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei
-deutlich höheren Werten zu erwarten. Eine Ausnahme stellen *Schwangere*
-dar: Eine Hypertonie kann ein Zeichen einer schwerwiegenden
-Schwangerschaftserkrankung sein und muss zeitnah entsprechend abgeklärt
-und behandelt werden.
+Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten. Eine Ausnahme stellen *Schwangere* dar: Eine Hypertonie kann ein Zeichen einer schwerwiegenden Schwangerschaftserkrankung sein und muss zeitnah entsprechend abgeklärt und behandelt werden.
 
 [^footnote-1]: Hypertonie: Neben der systemischen arteriellen (essentiellen)
     Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck
@@ -50,12 +39,10 @@ und behandelt werden.
 90% primär essentiell, Rest sekundäre HT (renal, endokrin, Aortenisthmusstenose)
 
 Organendschäden: LVH mit Gefügedilatation und Herzinsuffizienz (CO sinkt) mit Missmatch zur Coronardurchblutung auch ohne KHK, aber häufig  +  KHK, Vorhof leistet wichtigen Teil an der Kontraktilität, daher SR wichtig!! Verschiebung der zerebralen Autoregulationskurve für RR nach rechts (Fluss -- Druck Kurve), Niere mit gestörter Autoregulation und glomerulärer Sklerose, AVK
-(Carotisstenose, Claudicatio b. PAVK), Aortendissektion,
-hypertone Retinopathie.
+(Carotisstenose, Claudicatio b. PAVK), Aortendissektion, hypertone Retinopathie.
 EKG: LT, LVH-Zeichen mit tiefen S in V1-3 + hohem T in V4-6.
 RRsyst von 100 oft für Hypertoniker zu wenig = verwirrt, Oligourie!
-Die Blutdruckregulation erfolgt über 3 Systeme: Sympathikus,
-RAAS-System, Vasopressin System.
+Die Blutdruckregulation erfolgt über 3 Systeme: Sympathikus, RAAS-System, Vasopressin System.
 
 
 Anästhesie: Hypertoniker tendieren zur intraopertiven Hypotonie unter ACE-I u. ATII-Rezeptorantagonisten + vermind. intravasales Volumen.
@@ -96,34 +83,18 @@ Therapie:
 :::
 ::::
 
-Die Hypertonie hat in der Notfallmedizin auch eine wichtige indirekte
-Bedeutung: Sie ist Ursache für viele andere Erkrankungen, die ihrerseits
-akut lebensbedrohlich werden können. Zwei Wirkungen der Hypertonie sind
-dabei besonders wichtig: Die *Gefäßschädigung* und die *Belastung des
-Herzens durch den hohen Gegendruck*.
+Die Hypertonie hat in der Notfallmedizin auch eine wichtige indirekte Bedeutung: Sie ist Ursache für viele andere Erkrankungen, die ihrerseits akut lebensbedrohlich werden können. Zwei Wirkungen der Hypertonie sind dabei besonders wichtig: Die *Gefäßschädigung* und die *Belastung des Herzens durch den hohen Gegendruck*.
 
-Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk und sonstige
-Plaques und über längere Zeit zur *Verengung oder Verstopfung der
-Gefäße*.
-Je nach Organ kann das sehr massive Auswirkungen haben. Im Herz
-führt es zur {ref}`Angina pectoris <AnginaPectoris>`
-oder zum {ref}`Herzinfarkt <Mci>`,
-im Hirn zu {ref}`Schlaganfällen <Insult>`,
-in den Nieren zu einer *Niereninsuffizienz* usw.
-Selbst große Gefäße wie die Hauptschlagader (Aorta) können derartig
-geschädigt werden, dass sie reißen können
+Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk und sonstige Plaques und über längere Zeit zur *Verengung oder Verstopfung der Gefäße*.
+Je nach Organ kann das sehr massive Auswirkungen haben. Im Herz führt es zur {ref}`Angina pectoris <AnginaPectoris>`
+oder zum {ref}`Herzinfarkt <Mci>`, im Hirn zu {ref}`Schlaganfällen <Insult>`, in den Nieren zu einer *Niereninsuffizienz* usw.
+Selbst große Gefäße wie die Hauptschlagader (Aorta) können derartig geschädigt werden, dass sie reißen können
 ({ref}`Aortenaneurysma <Aortenaneurysma>`)
 — eine für den Patienten sehr lebensgefährliche Komplikation.
 
-Die Schädigung des Herzmuskels ist die Folge von dem erhöhten Druck
-gegen den das Herz pumpen muss. Der Muskel vergrößert sich um mit der
-Belastung fertig zu werden, kann aber dann nicht mehr ausreichend mit
-sauerstoffreichen Blut versorgt werden.
+Die Schädigung des Herzmuskels ist die Folge von dem erhöhten Druck gegen den das Herz pumpen muss. Der Muskel vergrößert sich um mit der Belastung fertig zu werden, kann aber dann nicht mehr ausreichend mit sauerstoffreichen Blut versorgt werden.
 
-Die Hypertonie ist somit ein wichtiger *Risikofaktor* für viele schwere
-Notfälle. Daher ist es auch verständlich, dass die Behandlung der
-Hypertonie einen großen Stellenwert in der medizinischen Versorgung der
-Bevölkerung hat.
+Die Hypertonie ist somit ein wichtiger *Risikofaktor* für viele schwere Notfälle. Daher ist es auch verständlich, dass die Behandlung der Hypertonie einen großen Stellenwert in der medizinischen Versorgung der Bevölkerung hat.
 
 (hypertensivernotfall)=
 
@@ -137,8 +108,7 @@ Eine plötzliche, sehr starke Erhöhung des Blutdrucks wird als
 bezeichnet.
 Der Unterschied zwischen den beiden Diagnosen ist das Fehlen bzw.
 Vorhandensein von typischen Symptomen einer Endorganstörung (z. B.
-Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen,
-Schwindel …). Vgl. \[Table-hxpertension-krise-notfall\].
+Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel …). Vgl. \[Table-hxpertension-krise-notfall\].
 
 
 
@@ -358,8 +328,7 @@ Taktik
 
     bei Nasenbluten: HNO im Hintergrund
 
-Eine notfallmäßige Blutdrucksenkung ist in der Regel *nicht*
-sinnvoll.
+Eine notfallmäßige Blutdrucksenkung ist in der Regel *nicht* sinnvoll.
 
 (mi10912c)=
 

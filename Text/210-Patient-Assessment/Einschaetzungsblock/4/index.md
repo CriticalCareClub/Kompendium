@@ -2,12 +2,8 @@
 
 # ④ Hauptbeschwerde (Main Complaint)
 
-Die *Hauptbeschwerde* des Patienten,
-bzw. der *Grund der Berufung*,
-sowie Schmerzen und andere für den Patienten dringliche Symptome müssen
-herausgefunden werden.
-I.d.R. wird hier auf den **S**-Teil des SAMPLER
-vorgegriffen.
+Die *Hauptbeschwerde* des Patienten, bzw. der *Grund der Berufung*, sowie Schmerzen und andere für den Patienten dringliche Symptome müssen herausgefunden werden.
+I.d.R. wird hier auf den **S**-Teil des SAMPLER vorgegriffen.
 Es bietet sich die Frage an:
 
 > *"Was können wir für Sie tun?"*

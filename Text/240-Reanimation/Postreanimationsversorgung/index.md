@@ -7,8 +7,7 @@
 
 ## Ende der Reanimation
 
-Der Helfer darf die Wiederbelebung beenden, wenn einer der drei
-angeführten Umstände (Abbruchkriterien) eintritt:
+Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Umstände (Abbruchkriterien) eintritt:
 
 - Eintreffen von **weiterer Hilfe**: Der Helfer kann bei Eintreffen
   weiterer Hilfe durch diese abgelöst werden.
@@ -60,8 +59,7 @@ ist die weitere Versorgung wichtig.
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
-Die Sauerstoffgabe hat einen {{ SpO2 }}-Zielbereich von
-**94—98%**.
+Die Sauerstoffgabe hat einen {{ SpO2 }}-Zielbereich von **94—98%**.
 Besonders zu beachten ist:
 
 - `A`: Ist der Atemweg (noch) sicher?
@@ -77,27 +75,19 @@ Besonders zu beachten ist:
 - Ⓓ: Pupillen, Blutzucker
 - Ⓔ: 12-Kanal-EKG!
 
-Die Ermittlung der **Ursache**, sofern möglich,
-bzw. einer Verdachtsdiagnose ist wichtig
-um die weitere Versorgung zu planen
-(*"Zwischen einem Herzkatheter
-und einem Neurochirurgen
+Die Ermittlung der **Ursache**, sofern möglich, bzw. einer Verdachtsdiagnose ist wichtig um die weitere Versorgung zu planen
+(*"Zwischen einem Herzkatheter und einem Neurochirurgen
 (oder Hämofiltrationsplatz, Schockraum, ...)
 liegen im besten Fall Stockwerke, im schlimmsten Fall Kilometer ..."*).
-Hevorzuheben ist die Notwendigkeit einer *Herzkatheteruntersuchung* nach
-einem Kreislaufstillstand mit vermutet kardialer Ursache bzw.
+Hevorzuheben ist die Notwendigkeit einer *Herzkatheteruntersuchung* nach einem Kreislaufstillstand mit vermutet kardialer Ursache bzw.
 die Durchführung eines Schädel-CT bei möglicher cerebralem Geschehen (Blutung, Insult).
 
 Ein zielgerichtetes **Temperaturmanagement** ist wichtig.
-Hinsichtlich der therapeutischen Hypothermie gibt es
-unerschiedliche Ansichten,
-sodass die Etablierung selbiger den jeweils lokalen Gegebenheiten obliegt.
+Hinsichtlich der therapeutischen Hypothermie gibt es unerschiedliche Ansichten, sodass die Etablierung selbiger den jeweils lokalen Gegebenheiten obliegt.
 Jedenfalls darf der Patient nicht hypertherm werden.
 Die Grundsätze des cerebroprotektiven Managements sollen situativ angemessen angewendet werden.
 
-Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt
-Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen
-die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
+Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 [^cite_erc:2015:05:de] {term}`🗎 ERC 2015 05`
 
 ```{index} pair: Reanimation; Ende
@@ -107,28 +97,19 @@ die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 
 ## Ende oder Nicht-Beginn der Reanimation
 
-In ca. 70—95% der Fälle ist der Reanimationsversuch
-erfolglos und der Patient verstirbt
+In ca. 70—95% der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt
 [^cite_striebelanaesthesie2-band2].
-Grundsätzlich wird eine Reanimation fortgesetzt,
-solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
-Es ist weitgehend akzeptiert, eine Reanimation abzubrechen,
-wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen
-für 20 Minuten eine Asystolie besteht {term}`🗎 Bonnin 1993` {term}`♛ ERC 2021 12`.
+Grundsätzlich wird eine Reanimation fortgesetzt, solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
+Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht {term}`🗎 Bonnin 1993` {term}`♛ ERC 2021 12`.
 
-Gewisse Bedingungen, etwa eine Hypothermie zum
-Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
+Gewisse Bedingungen, etwa eine Hypothermie zum Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
 herstellung ohne neurologische Schäden, sodass normale Prognosekriterien
 (z. B. eine über 20 min andauernde Asystolie)
 *nicht anwendbar* sind.
 
-Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu
-erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere
-Umstände, welche Einfluss auf die Entscheidung haben {term}`♛ ERC 2021 12`.
-Besonders berücksichtigenswert ist der mutmaßliche oder vorab geäußerte
-Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen
+Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere Umstände, welche Einfluss auf die Entscheidung haben {term}`♛ ERC 2021 12`.
+Besonders berücksichtigenswert ist der mutmaßliche oder vorab geäußerte Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen
 {ref}`Patientenverfügung <Patientenverfuegung>`.
 
 Die Abbruchsentscheidung ist grundsätzlich *von einem Arzt* zu treffen
-(sofern keine dringenden Gründe wie unsichere Umgebung oder Erschöpfung
-vorliegen).
+(sofern keine dringenden Gründe wie unsichere Umgebung oder Erschöpfung vorliegen).

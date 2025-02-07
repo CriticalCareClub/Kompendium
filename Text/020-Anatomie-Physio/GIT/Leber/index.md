@@ -22,11 +22,8 @@
   - An Gallengängen: Gallenblase (Speicherung)
 :::
 
-Die Leber ist ein solides Organ,
-liegt unter der rechten Zwerchfellkuppel im rechten Oberbauch
-und wird vollständig von den Rippen bedeckt.
-Mit einem Gewicht von 1,5 bis 2 kg ist sie die
-*größte Drüse* des menschlichen Körpers.
+Die Leber ist ein solides Organ, liegt unter der rechten Zwerchfellkuppel im rechten Oberbauch und wird vollständig von den Rippen bedeckt.
+Mit einem Gewicht von 1,5 bis 2 kg ist sie die *größte Drüse* des menschlichen Körpers.
 Anatomisch werden *vier Lappen* unterschieden:
 
 - Lobus sinister (linker Leberlappen)
@@ -34,24 +31,15 @@ Anatomisch werden *vier Lappen* unterschieden:
 - Lobus caudatus
 - Lobus quadratus (quadratischer Lappen)
 
-Der rechte und linke Leberlappen wird vom *Lig. falciforme hepatis*
-getrennt. In seinem freien Rand verläuft das *Lig. teres hepatis*. Es
-zieht vom Nabel bis zur Leberpforte und ist der obliterierte Rest der V.
+Der rechte und linke Leberlappen wird vom *Lig. falciforme hepatis* getrennt. In seinem freien Rand verläuft das *Lig. teres hepatis*. Es zieht vom Nabel bis zur Leberpforte und ist der obliterierte Rest der V.
 umbilicalis (Nabelvene) des fetalen Kreislaufs.
 
 An der Porta hepatis (Leberpforte) treten die Gefäße der Leber ein bzw.
 aus:
 Die {ref}`V. portae hepatis (Pfortader) <pfortader>`, die A. hepatica propria und der Ductus hepaticus.
-Basierend auf der Aufteilung der Portalvene kann die Leber chirurgisch
-in 8 Segmente unterteilt werden. Diese Aufteilung wird bei
-Teilentfernungen der Leber berücksichtigt.
+Basierend auf der Aufteilung der Portalvene kann die Leber chirurgisch in 8 Segmente unterteilt werden. Diese Aufteilung wird bei Teilentfernungen der Leber berücksichtigt.
 
-Mikroskopisch kann die Leber in *Leberläppchen* von 1-2 mm Durchmesser
-eingeteilt werden. Sie haben die sechseckige Form einer Bienenwabe mit
-einer Zentralvene in der Mitte. An den Grenzen der Leberläppchen
-befinden sich Äste der A. hepatica propria, der V. portae und ein
-Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide
-in Richtung der Zentralvenen.
+Mikroskopisch kann die Leber in *Leberläppchen* von 1-2 mm Durchmesser eingeteilt werden. Sie haben die sechseckige Form einer Bienenwabe mit einer Zentralvene in der Mitte. An den Grenzen der Leberläppchen befinden sich Äste der A. hepatica propria, der V. portae und ein Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide in Richtung der Zentralvenen.
 
 ```{eval-rst}
 .. subfigstart::
@@ -78,8 +66,7 @@ Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
 
 Lage des Pankreas zum Zwöffingerdarm.
 
-Deutlich zu erkennen ist die Einmündung des
-Pankreas- und des Gallenganges in den Darm.
+Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in den Darm.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
@@ -96,18 +83,11 @@ Pankreas- und des Gallenganges in den Darm.
 ## Funktionen und Aufgaben der Leber
 
 Die Leber ist das zentrale Stoffwechselorgan und gleichzeitig die größte Drüse des Körpers.
-Die wichtigsten Aufgaben sind die Produktion von Proteinen,
-die Metabolisierung, Verwertung und Entgiftung
-von im Blut zirkulierenden Nahrungsbestandteilen,
-Giftstoffen und Medikamenten,
-die Speicherung von Zucker in Form von Glykogen
-und die Ausscheidung durch Produktion und Aussonderung von Gallenflüssigkeit.
+Die wichtigsten Aufgaben sind die Produktion von Proteinen, die Metabolisierung, Verwertung und Entgiftung von im Blut zirkulierenden Nahrungsbestandteilen, Giftstoffen und Medikamenten, die Speicherung von Zucker in Form von Glykogen und die Ausscheidung durch Produktion und Aussonderung von Gallenflüssigkeit.
 
 {index}` <First-Pass-Effekt>`
-Dementsprechend erhält die Leber
-das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems
-über die **Pfortader**,
-bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
+Dementsprechend erhält die Leber das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems
+über die **Pfortader**, bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
 
 Übersichtsmäßig hat die Leber folgende Aufgaben:
 
@@ -134,15 +114,11 @@ bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
 ### Gallenflüssigkeit
 
 Als **exokrine Drüse** produziert die Leber die *Gallenflüssigkeit*
-(Gallensäure, Bilirubin (Endprodukt des Hämoglobin),
-Ausscheidungsstoffe),
-die über die Gallengänge in die
+(Gallensäure, Bilirubin (Endprodukt des Hämoglobin), Ausscheidungsstoffe), die über die Gallengänge in die
 {ref}`Gallenblase <Gallenblase>`
 geleitet und dort *gespeichert* wird.
 
-Ihre Farbe erhält die Galle durch das rote Bilirubin und das grünliche Biliverdin,
-je nach ihrer Zusammensetzung kann sie gelblich-grünlich bis bräunlich aussehen,
-dies kann unter Umständen als *"galliger Reflux"* bei Störungen der Magen-Darm-Passage beobachtet werden.
+Ihre Farbe erhält die Galle durch das rote Bilirubin und das grünliche Biliverdin, je nach ihrer Zusammensetzung kann sie gelblich-grünlich bis bräunlich aussehen, dies kann unter Umständen als *"galliger Reflux"* bei Störungen der Magen-Darm-Passage beobachtet werden.
 Weiters enthält die Galle **Gallensäuren** bzw. Gallensalze, welche für die Fettverdauung und **Fettresorption** wichtig sind: Sie setzen die Oberflächenspannung des Wassers herab und ermöglichen damit eine **Emulgierung** der Fette und damit die Resorption im Jejunum.
 Teile der Gallensalze werden im Darm wieder resorbiert und zur Leber zurücktransferiert, dies wird **enterohepatischer Kreislauf** genannt.
 

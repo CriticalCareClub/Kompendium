@@ -2,11 +2,8 @@
 ```
 
 (fremdkoerperaspiration)=
-
 (aspirationfremdkoerper)=
-
 (heimlichmanoever)=
-
 (mechanische-atemwegsverlegung)=
 
 # Mechanische Atemwegsverlegung
@@ -35,32 +32,17 @@
 :::
 ::::
 
-Wenn ein Fremdkörper den Atemweg teilweise oder vollständig *blockiert*
-oder *behindert*
-spricht man von einer mechanische Verlegung. Abhängig
-von der Größe des Fremdkörpers können sowohl die oberen als auch die
-unteren Atemwege betroffen sein.
-Wenn der Fremdkörper in die *unteren Atemwege* gelangt,
-spricht man von einer (Fremdkörper-) {dfn}`Aspiration`.
+Wenn ein Fremdkörper den Atemweg teilweise oder vollständig *blockiert* oder *behindert* spricht man von einer mechanische Verlegung. Abhängig von der Größe des Fremdkörpers können sowohl die oberen als auch die unteren Atemwege betroffen sein.
+Wenn der Fremdkörper in die *unteren Atemwege* gelangt, spricht man von einer (Fremdkörper-) {dfn}`Aspiration`.
 
-Nicht nur feste Körper, sondern auch Flüssigkeiten können Auslöser einer
-Verlegung oder Aspiration sein.
-Blut, Magensaft, Erbrochenes
-oder Speisebrei stellen diesbezüglich eine große Gefahr dar.
-esonders gefährdet hinsichtlich einer Atemwegsverlegung sind Kinder, ältere Personen,
-bewusstseinseingschränkte Personen,
-Patienten mit Schluckstörungen
-oder Allergiker (z. B. Anschwellen der Schleimhäute nach
-einem Bienenstich).
+Nicht nur feste Körper, sondern auch Flüssigkeiten können Auslöser einer Verlegung oder Aspiration sein.
+Blut, Magensaft, Erbrochenes oder Speisebrei stellen diesbezüglich eine große Gefahr dar.
+esonders gefährdet hinsichtlich einer Atemwegsverlegung sind Kinder, ältere Personen, bewusstseinseingschränkte Personen, Patienten mit Schluckstörungen oder Allergiker (z. B. Anschwellen der Schleimhäute nach einem Bienenstich).
 
-Man unterscheidet zwischen einer *milden* (der
-Patient kann noch sprechen und husten) und einer *schweren
-Atemwegsverlegung* (Sprechen und Husten nicht möglich).
+Man unterscheidet zwischen einer *milden* (der Patient kann noch sprechen und husten) und einer *schweren Atemwegsverlegung* (Sprechen und Husten nicht möglich).
 
 :::{note}
-Die (Un-) Fähigkeit zu sprechen
-und zu husten ist das wesentliche Kriterium
-um die Schwere einer Atemwegsverlegung einzuschätzen.
+Die (Un-) Fähigkeit zu sprechen und zu husten ist das wesentliche Kriterium um die Schwere einer Atemwegsverlegung einzuschätzen.
 :::
 
 ## ABCDE
@@ -207,20 +189,17 @@ um die Schwere einer Atemwegsverlegung einzuschätzen.
   Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Fremdkoerper.\*
+
 Atemwegsverlegung (Schema):
-Der linke Bissen steckt im Atemweg fest,
-der andere befindet sich in der Speiseröhre.
+Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiseröhre.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
 :::{figure} /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
+
 Heimlich-Manöver:
-Japanese intern Naoko Uehara
-at U.S. Naval Hospital, Okinawa,
-teaches proper technique for treating a choking
-victim with the assistance of Hospital Corpsman Second Class Ross
-Francis.
+Japanese intern Naoko Uehara at U.S. Naval Hospital, Okinawa, teaches proper technique for treating a choking victim with the assistance of Hospital Corpsman Second Class Ross Francis.
 
 ₢ Amanda M. Woodhead, USMC, {term}`ℓ PD`
 :::
@@ -267,9 +246,6 @@ Taktik:
 
 ```
 
-Bei Schlägen zwischen die Schulterblätter soll der Patient nach
-Möglichkeit abwärts schauen (besonders relevant bei Kindern).
+Bei Schlägen zwischen die Schulterblätter soll der Patient nach Möglichkeit abwärts schauen (besonders relevant bei Kindern).
 
-Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren
-Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu
-hospitalisieren!
+Durch Anwendung des Heimlich-Handgriffes kann es zu schweren inneren Verletzungen kommen. Ein Patient ist nach Anwendung unbedingt zu hospitalisieren!

@@ -27,50 +27,26 @@ Die Haut ist anatomisch in mehrere Schichten gegliedert:
 - Subkutis: Unterhaut bestehend aus Bindegwebe mit Fettläppchen zum
   Kälte- und Druckschutz sowie als Energiespeicher
 
-Anhangsorgane der Haut sind Schweiß-, Talg und Duftdrüsen sowie Haare
-und Nägel.
+Anhangsorgane der Haut sind Schweiß-, Talg und Duftdrüsen sowie Haare und Nägel.
 
-An und auf der Haut sind nicht nur Erkrankungen der Haut direkt,
-Dermatosen, erkennbar, Hautveränderungen sind häufig
-Begleiterscheinungen anderer Erkrankungen (sekundär). Hautveränderungen
-sind z.B. Flecken wie Farbveränderungen bei Erythemen,
-Pigmenteinlagerungen (Sommersprossen), fehlende Pigmentierung, aber auch
-Quaddel, dh. Ödeme im Bereich der Dermis, Blasen, Pusteln (mit Eiter und
-Mikroorganismen gefüllt). Sekundär zu beobachten sind Abschürfungen,
-Geschwüre, Krusten, Narben und Schrunden (z.B. Mundwinkelrhagaden) und
-Atrophie der Haut.
+An und auf der Haut sind nicht nur Erkrankungen der Haut direkt, Dermatosen, erkennbar, Hautveränderungen sind häufig Begleiterscheinungen anderer Erkrankungen (sekundär). Hautveränderungen sind z.B. Flecken wie Farbveränderungen bei Erythemen, Pigmenteinlagerungen (Sommersprossen), fehlende Pigmentierung, aber auch Quaddel, dh. Ödeme im Bereich der Dermis, Blasen, Pusteln (mit Eiter und Mikroorganismen gefüllt). Sekundär zu beobachten sind Abschürfungen, Geschwüre, Krusten, Narben und Schrunden (z.B. Mundwinkelrhagaden) und Atrophie der Haut.
 
 Erkrankungen der Haut und ihre Therapie
 
 **Akne: „kurze Einführung“**
 
-Akne ist eine Störung der Talgsekretion. Die Ursachen dafür sind
-genetischer Natur, hormonelle Veränderungen im Organismus (Pubertät),
-Verhornungsstörungen der Innenseite der Talgfollikel, Talgüberproduktion
-oder Propionibakterien. Propionibakterien können in verstopfte\*
-Talgdrüsen eindringen und sich unter Zersetzung des Talgs vermehren.
-Durch die Bildung freier Fettsäuren kommt es zu Entzündungen, die sich
-in eitrigen Pusteln und Knoten manifestieren.
+Akne ist eine Störung der Talgsekretion. Die Ursachen dafür sind genetischer Natur, hormonelle Veränderungen im Organismus (Pubertät), Verhornungsstörungen der Innenseite der Talgfollikel, Talgüberproduktion oder Propionibakterien. Propionibakterien können in verstopfte\* Talgdrüsen eindringen und sich unter Zersetzung des Talgs vermehren.
+Durch die Bildung freier Fettsäuren kommt es zu Entzündungen, die sich in eitrigen Pusteln und Knoten manifestieren.
 
-Zumeist tritt die Erkrankung vor dem 20. Lebensjahr auf. Akne äußert
-sich in wenigen Mitessern (Komedone), Pusteln oder schweren
-Hautveränderungen (bis hin zu Ulzerationen und Abzessen). Besonders an
-Stellen mit vielen Talgdrüsen tritt Akne auf (häufigste Form: Acne
-vulgaris). Betroffen sind daher besonders die Wangen, Stirn, aber auch
-Rücken, Brust und Schultern.
+Zumeist tritt die Erkrankung vor dem 20. Lebensjahr auf. Akne äußert sich in wenigen Mitessern (Komedone), Pusteln oder schweren Hautveränderungen (bis hin zu Ulzerationen und Abzessen). Besonders an Stellen mit vielen Talgdrüsen tritt Akne auf (häufigste Form: Acne vulgaris). Betroffen sind daher besonders die Wangen, Stirn, aber auch Rücken, Brust und Schultern.
 
-Eine Verschlimmerung der Erkrankung wird z.B. durch Ausdrücken der
-Pickel beobachtet.
+Eine Verschlimmerung der Erkrankung wird z.B. durch Ausdrücken der Pickel beobachtet.
 
-Bei Nichtbehandlung der Akne verbleiben an der Abheilungsstelle
-Narbengeschwülste (Keloide).
+Bei Nichtbehandlung der Akne verbleiben an der Abheilungsstelle Narbengeschwülste (Keloide).
 
-Durch Ernährung ist eine Akne-Erkrankung nicht beeinflussbar. Bei
-Einnahme der Pille ist eine Abnahme der Talgproduktion zu beobachten,
-durch die in vielen Fällen eine Besserung der Akne bedingt.
+Durch Ernährung ist eine Akne-Erkrankung nicht beeinflussbar. Bei Einnahme der Pille ist eine Abnahme der Talgproduktion zu beobachten, durch die in vielen Fällen eine Besserung der Akne bedingt.
 
-Von Relevanz ist die psychische Verfassung der Erkrankten besonders bei
-schweren Formen der Akne.
+Von Relevanz ist die psychische Verfassung der Erkrankten besonders bei schweren Formen der Akne.
 
 Behandlung der Akne
 
@@ -137,43 +113,26 @@ Behandlung der Akne
 +----------------------------------+----------------------------------+
 ```
 
-Die Therapie der Akne zielt auf eine Verminderung der Talgproduktion,
-der Propionibakterien sowie auf eine Normalisierung der Verhornung ab.
+Die Therapie der Akne zielt auf eine Verminderung der Talgproduktion, der Propionibakterien sowie auf eine Normalisierung der Verhornung ab.
 
-Die Behandlung der Akne kann lokal (topisch\*), äußerlich oder systemisch
-erfolgen. Vornehmlich erfolgt eine lokale Therapie der Akneerkrankung;
-mit zunehmender Schwere der Akne gewinnt die systemische Behandlung an
-Bedeutung.
+Die Behandlung der Akne kann lokal (topisch\*), äußerlich oder systemisch erfolgen. Vornehmlich erfolgt eine lokale Therapie der Akneerkrankung;
+mit zunehmender Schwere der Akne gewinnt die systemische Behandlung an Bedeutung.
 
-*Äußerlich* angewendet wird z.B. Benzoylperoxid als 3 oder 10%ige
-Lösung. Es wirkt durch Freisetzung atomaren Sauerstoffs desinfizierend
-gegen Propionibacterium acnes. Hierdurch kommt es zu einer entzündliche
-Reaktion der Kutis mit nachfolgender Schuppung (Komedolytisch\*\*?).
+*Äußerlich* angewendet wird z.B. Benzoylperoxid als 3 oder 10%ige Lösung. Es wirkt durch Freisetzung atomaren Sauerstoffs desinfizierend gegen Propionibacterium acnes. Hierdurch kommt es zu einer entzündliche Reaktion der Kutis mit nachfolgender Schuppung (Komedolytisch\*\*?).
 Nebenwirkungen sind Juckreiz, Brennen der Haut oder Kontaktallergien.
 
-Lokal eingesetzt wird weiters Azelainsäure, das eine Reduktion der
-Keimzahl im Talgdrüsenfollikel und eine Hemmung der follikulären
-Hyperkeratose bewirkt. Als Nebenwirkungen sind lokale Reizerscheinungen
+Lokal eingesetzt wird weiters Azelainsäure, das eine Reduktion der Keimzahl im Talgdrüsenfollikel und eine Hemmung der follikulären Hyperkeratose bewirkt. Als Nebenwirkungen sind lokale Reizerscheinungen
 (Rötung, Schuppung) zu beobachten.
 
-Gut entzündungshemmend und komedolytisch sowie besser verträglich ist
-Adapalen.
+Gut entzündungshemmend und komedolytisch sowie besser verträglich ist Adapalen.
 
-Antibiotika und Retinoide werden sowohl topisch als auch sytemisch
-eingesetzt:
+Antibiotika und Retinoide werden sowohl topisch als auch sytemisch eingesetzt:
 
-Tretinoin (Vitamin-A-Säure) wird zur „Schälkur“ eingesetzt, führt sehr
-häufig zu starken Rötungen. Bei nicht ausgeprägter Akne kann eine lokale
-Antibiotika-Therapie erfolgreich sein.
+Tretinoin (Vitamin-A-Säure) wird zur „Schälkur“ eingesetzt, führt sehr häufig zu starken Rötungen. Bei nicht ausgeprägter Akne kann eine lokale Antibiotika-Therapie erfolgreich sein.
 
-*Systemisch* werden Antibiotika und Retinoide bei schweren Akneformen
-eingesetzt:
+*Systemisch* werden Antibiotika und Retinoide bei schweren Akneformen eingesetzt:
 
-Antiobiotika wirken durch eine Abnahme der Keimzahl im
-Talgdrüsenfollikel, dh. der Angriff erfolgt direkt auf die
-Propionibakterien, die den Entzündungsprozess verursachen. Vor allem
-Erythromycin und Tetrazykline werden eingesetzt. Die Therapie dauert
-mehrere Monate, Resistenzbildungen sind möglich.
+Antiobiotika wirken durch eine Abnahme der Keimzahl im Talgdrüsenfollikel, dh. der Angriff erfolgt direkt auf die Propionibakterien, die den Entzündungsprozess verursachen. Vor allem Erythromycin und Tetrazykline werden eingesetzt. Die Therapie dauert mehrere Monate, Resistenzbildungen sind möglich.
 
 Retinoide (natürliche oder synthetische Derivate von Vitamin A bewirken:
 
@@ -187,10 +146,7 @@ Retinoide (natürliche oder synthetische Derivate von Vitamin A bewirken:
 - Verminderung der Talgproduktion, somit Reduktion des Lebensraums der
   Bakterien
 
-Als Nebenwirkungen sind Erytheme, Pruritus, Cheilitis, Desquamation,
-Reizung und Austrocknung von Haut und Schleimhaut sowie möglicher
-dosisabhängiger, reversibler Haarausfall zu beobachten. Unter
-Isotretinoin weiters Hepatitis, Myalgie, Arthralgie, und Hyperlipidämie.
+Als Nebenwirkungen sind Erytheme, Pruritus, Cheilitis, Desquamation, Reizung und Austrocknung von Haut und Schleimhaut sowie möglicher dosisabhängiger, reversibler Haarausfall zu beobachten. Unter Isotretinoin weiters Hepatitis, Myalgie, Arthralgie, und Hyperlipidämie.
 
 Besonders zu beachten sind während der Therapie folgende Punkte:
 
@@ -204,29 +160,20 @@ Besonders zu beachten sind während der Therapie folgende Punkte:
 Die Therapie z.B. Mit Isotretinoin dauert zwischen 16 und 32 Wochen
 (erhöhte Rezidivrate bei zu kurzer Anwendung).
 
-**Weitere Therapiemöglichkeiten**sind die Verabreichung
-vonAntiandrogenen oder die abrasive Behandlung (Präparate mit
-Aluminiumoxid--Partikel oder Silikonharz)
+**Weitere Therapiemöglichkeiten**sind die Verabreichung vonAntiandrogenen oder die abrasive Behandlung (Präparate mit Aluminiumoxid--Partikel oder Silikonharz)
 
 Unerlässlich ist zudem die Hautpflege bei Akne mit z.B.
-unterschiedlichen Präparaten zur Entfernung des Fettbelags (spezielle
-Seifen oder Waschlotionen, alkalifrei).
+unterschiedlichen Präparaten zur Entfernung des Fettbelags (spezielle Seifen oder Waschlotionen, alkalifrei).
 
 **Psoriasis (=Schuppenflechte)**
 
 16. vulgaris, P. punctata, P. guttata etc.
 
-Psoriasis ist eine häufige Hautkrankheit, die meist mit dem Auftreten
-roter Flecken beginnt, die mit silbrigen Schuppen bedeckt sind. In
-weiterer Folge vergrößern sich diese Flecken und fließen ineinander. Bei
-Entfernung der Schuppen, wird ein glänzendes oberes Häutchen sichtbar.
+Psoriasis ist eine häufige Hautkrankheit, die meist mit dem Auftreten roter Flecken beginnt, die mit silbrigen Schuppen bedeckt sind. In weiterer Folge vergrößern sich diese Flecken und fließen ineinander. Bei Entfernung der Schuppen, wird ein glänzendes oberes Häutchen sichtbar.
 Einige Blutstropfen können bei weiterem Kratzen austreten.\*\*
 
 Betroffen sind am häufigsten Kopfhaut, Nägel, Ellbogen und Kniescheiben.
-Die Erkrankung tritt in Schüben auf, die durch verschiedene Auslöser\*\*
-wie Streptokokkeninfektion oder Medikamente wie Lithium
-Antimalariamittel, ev. ACE-Hemmer, NSAIDs, Interferone, Tetrazykline,
-Terbinafin bedingt sein können.
+Die Erkrankung tritt in Schüben auf, die durch verschiedene Auslöser\*\* wie Streptokokkeninfektion oder Medikamente wie Lithium Antimalariamittel, ev. ACE-Hemmer, NSAIDs, Interferone, Tetrazykline, Terbinafin bedingt sein können.
 
 Therapie:
 
@@ -309,15 +256,9 @@ Therapie:
 Die Behandlung kann ebenfalls topisch oder systemisch erfolgen.
 
 Die Behandlung erfolgt heute häufig mit der PUVA-Therapie (PUVA, dh.
-Psoralen + UV-A-Therapie). Diese photoaktive Furocumarin-Derivate
-reagieren unter Lichteinfluss mit Pyrimidin-Basen der DNA wodurch eine
-Verminderung der Proliferation von Epidermiszellen und Lymphozyten
-erzielt wird. Der Wirkstoff wird vor der Bestrahlung mit UV-A-Licht auf
-das zu behandelnde Areal aufgetragen\*\*(CHECK\*) oder oral eingenommen.
+Psoralen + UV-A-Therapie). Diese photoaktive Furocumarin-Derivate reagieren unter Lichteinfluss mit Pyrimidin-Basen der DNA wodurch eine Verminderung der Proliferation von Epidermiszellen und Lymphozyten erzielt wird. Der Wirkstoff wird vor der Bestrahlung mit UV-A-Licht auf das zu behandelnde Areal aufgetragen\*\*(CHECK\*) oder oral eingenommen.
 
-Nebenwirkungen sind bei systemischer Gabe u.a. Übelkeit, Erytheme,
-Karakt, Photosensibilisierung. Mutagene und kanzerogene Wirkungen sind
-bei Langzeitgabe nicht auszuschliessen.
+Nebenwirkungen sind bei systemischer Gabe u.a. Übelkeit, Erytheme, Karakt, Photosensibilisierung. Mutagene und kanzerogene Wirkungen sind bei Langzeitgabe nicht auszuschliessen.
 
 Weiters werden folgende Präparate eingesetzt:
 
@@ -380,30 +321,17 @@ Folgende Vorsichtsmaßnahmen sind daher angezeigt:
 
 Neurodermitis
 
-KARWO BESCHREIBT die Symptome genau andersrum als Derendorf: angeblich
-bei Kindern große flächen, Erwachsenen Beugungsbetont. was stimmt? CHECK
-AUCH FÜR SKRIPT
+KARWO BESCHREIBT die Symptome genau andersrum als Derendorf: angeblich bei Kindern große flächen, Erwachsenen Beugungsbetont. was stimmt? CHECK AUCH FÜR SKRIPT
 
 PRÄPLISTE?
 
-Neurodermitis (atopische Dermatitis) ist eine immer wieder stark
-auftretende Entzündung der Haut, gekennzeichnet durch trockene Haut,
-starken Juckreiz und Ekzeme. Durch den starken Juckreiz erfolgt häufig
-durch Kratzen bzw. Aufkratzen bis zum Bluten eine Superinfektion\*. Die
-Erkrankung kann bereits bei Kindern auftreten: betroffen sind häufig
-Kniekehlen, Hände und Fußrücken. Bei Erwachsenen tritt Neurodermitis
-auch im Gesicht und an größeren Körperoberflächen auf.
+Neurodermitis (atopische Dermatitis) ist eine immer wieder stark auftretende Entzündung der Haut, gekennzeichnet durch trockene Haut, starken Juckreiz und Ekzeme. Durch den starken Juckreiz erfolgt häufig durch Kratzen bzw. Aufkratzen bis zum Bluten eine Superinfektion\*. Die Erkrankung kann bereits bei Kindern auftreten: betroffen sind häufig Kniekehlen, Hände und Fußrücken. Bei Erwachsenen tritt Neurodermitis auch im Gesicht und an größeren Körperoberflächen auf.
 
-Beeinflusst wird die Erkrankung häufig durch psychischen Stress und
-Belastung (bei Kindern z.B. Scheidung der Eltern, Stress in der Schule),
-aber auch durch Wetter, Waschmittel oder Nahrungsmittel.
+Beeinflusst wird die Erkrankung häufig durch psychischen Stress und Belastung (bei Kindern z.B. Scheidung der Eltern, Stress in der Schule), aber auch durch Wetter, Waschmittel oder Nahrungsmittel.
 
 Die Behandlung zielt auf eine Juckreizmilderung (mit Dimetinden:
-Fenistil), Hautkühlung (Harnstoff- und Wasserhaltige Salben) und
-Entzündungshemmung (Immunsuppressive) (glucocorticoidhaltige Salben:
-Decoderm, Advantan s.o.) ab. Bei bakterieller Infektion werden
-antiobiotikahaltige Cremes appliziert. Systemisch erfolgt die Therapie
-mit Antihistaminika und Glucocorticoiden.
+Fenistil), Hautkühlung (Harnstoff- und Wasserhaltige Salben) und Entzündungshemmung (Immunsuppressive) (glucocorticoidhaltige Salben:
+Decoderm, Advantan s.o.) ab. Bei bakterieller Infektion werden antiobiotikahaltige Cremes appliziert. Systemisch erfolgt die Therapie mit Antihistaminika und Glucocorticoiden.
 
 *Weitere Erkrankungen der Haut und Hautanhangsgebilde*:
 

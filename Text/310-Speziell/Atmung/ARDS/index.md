@@ -4,8 +4,7 @@
 1) Oxygenierungsstörung Berlin Definition: mild OI 200-300 moderat OI 100-200 servere OI\<100 bei PEEP 5 2) Akuter Beginn: 7 Tage nach def. Ereignis (onset of ARDS)
 3) Linksherzversagen mit ECHO oder PCWP \< 18mmHg ausgeschlossen 4) Früher: C/P bilaterale Verschattung bei unverändertem Herzen und keinen Pleuraergüssen
 
-Ursachen: am häufigsten: SIRS, SEPSIS, TRALI und Polytrauma;  weiters Infektion, Kontusion,
-Aspiration, tox. Inhalation.
+Ursachen: am häufigsten: SIRS, SEPSIS, TRALI und Polytrauma;  weiters Infektion, Kontusion, Aspiration, tox. Inhalation.
 
 DD: kardiales Lungenödem, Pneumonie, „Amiodaron Lunge"
 
@@ -13,8 +12,7 @@ DD: kardiales Lungenödem, Pneumonie, „Amiodaron Lunge"
 
 Pathomechanismus: inflammatorische Reaktion der Lunge (Zytokinausschüttung: IL 1, IL6, TNFα, µINF) mit capill. Leak/Ödem  +  gestörte Surfactantproduktion und Funktion mit Mehrkompartmentmodell der Lunge: Basal/abhängend Atelektasen -- Mitte kleine gesunde Lunge
 -- apikal/ventral überblähte Lunge.
-In weiterer Folge struktureller Umbau mit Fibrosierung, dissem. Verlegung der Kapillaren mit pulmonaler Hypertonie und Rechtsherzbelastung,
-Intrapulm. Re-Li-Shunt mit „sauerstoffrefraktärer Zyanose".
+In weiterer Folge struktureller Umbau mit Fibrosierung, dissem. Verlegung der Kapillaren mit pulmonaler Hypertonie und Rechtsherzbelastung, Intrapulm. Re-Li-Shunt mit „sauerstoffrefraktärer Zyanose".
 
 
 Leitsymptom: Dyspnoe und Tachypnoe mit Hypoxämie (Hyperventilation mit verm. paCO2 und Azidose)
@@ -39,10 +37,7 @@ PEEP-Einstellung:
 Permessive Hyperkapnie:
 oft paCO2 erhöht, limitierend ist pH mit Zielgröße  \>  7,2 (bis dahin durch Rechtsverschiebung Vorteil der leichteren O2-Abgabe ans Gewebe) Unerwünschte Folgen der Azidose sind verminderte Myokardkontraktion
 (calciumantagon.
-Effekt der Azidose),
-vermehrt Herzrhythmusstörungen, Hyperkaliämie. Keine Pufferung mit NaBiC (CO2 kann nicht abgeatmet werden!) KI der PHC: Rechtsherzinsuffizienz, Katecholaminpflichtige MI,
-SHT mit erhöhtem ICP,
-IRV \> 1:1 um Kontaktzeit zu verlängern (verkürzt jedoch auch Expirationszeit mit CO2 Abatmung)
+Effekt der Azidose), vermehrt Herzrhythmusstörungen, Hyperkaliämie. Keine Pufferung mit NaBiC (CO2 kann nicht abgeatmet werden!) KI der PHC: Rechtsherzinsuffizienz, Katecholaminpflichtige MI, SHT mit erhöhtem ICP, IRV \> 1:1 um Kontaktzeit zu verlängern (verkürzt jedoch auch Expirationszeit mit CO2 Abatmung)
 NO-Inhalativ, Prostazyklin (Flolan)
 
 
@@ -60,8 +55,7 @@ Lagerungstherapie: Seitenlagerung und Bauchlagerung
 AB z.B. Augmentin und Klacid (atyp.Keime)
 KH arme Ernährung (vermind.
 CO2 Prod.) und Omega-3-FS reich (immunmodul.)
-Extrakorporale CO2-Eliminationsverfahren (ECMO, ILA) bei unbeherrschbarer Hyperkapnie,
-Azidose Medikamente: Ketoconazol und Glucocortikoide werden nicht mehr empfohlen.
+Extrakorporale CO2-Eliminationsverfahren (ECMO, ILA) bei unbeherrschbarer Hyperkapnie, Azidose Medikamente: Ketoconazol und Glucocortikoide werden nicht mehr empfohlen.
 Ev. Antioxianzien (Selen, N-Acetylcystein), Mucosolvan (Ambroxol) soll Surfactantproduktion positiv beeinflussen.
 
 Voraussetzung für Messung des UIP und OIP: Pat.
@@ -91,10 +85,8 @@ Der paCO2 steigt erst bei einem Shuntvolumen  \>  60%  und ist oft durch kompens
 
 
 HPV = hypoxisch pumonale Vasokonstriktion:
-aufgrund des Euler-Liljestrand-Mechanismus kommt es bei einer regionalen alveolären Hypoventilation mit vermind. O2 zu einer reflektorischen Vasokonstriktion.    Eine Verminderte HPV erreicht man durch: NO inhalativ, Prostazyklin, volatile Anästhetika, Opioide,
-Hyperventilation mit Hypokapnie.
+aufgrund des Euler-Liljestrand-Mechanismus kommt es bei einer regionalen alveolären Hypoventilation mit vermind. O2 zu einer reflektorischen Vasokonstriktion.    Eine Verminderte HPV erreicht man durch: NO inhalativ, Prostazyklin, volatile Anästhetika, Opioide, Hyperventilation mit Hypokapnie.
 
 SCORING:
-SAPS: simplified acute physiology Score = zur Prognosebeurteilung innerhalb der ersten 24h auf einer Intensivstation. Nicht berücksichtigt sind:  \<18Lj, Verbrennungspatienten, KHK-Pat,
-kardiochirurgische Patienten.
+SAPS: simplified acute physiology Score = zur Prognosebeurteilung innerhalb der ersten 24h auf einer Intensivstation. Nicht berücksichtigt sind:  \<18Lj, Verbrennungspatienten, KHK-Pat, kardiochirurgische Patienten.
 APACHE II: outcome Score: Alter, Vorerkrankungen, Vitalparameter, ph, BGA, Labor werden erfasst.

@@ -12,13 +12,10 @@
 :::
 
 Der {dfn}`Gastrointestinaltrakt`
-(*Verdauungstrakt*, Syn. *Magen-Darm-Trakt*, *GI-Trakt*) dient der
-Nahrungsaufnahme, der Verdauung der Nährstoffe und deren Resorption
-sowie der Ausscheidung von Abfallstoffen.
+(*Verdauungstrakt*, Syn. *Magen-Darm-Trakt*, *GI-Trakt*) dient der Nahrungsaufnahme, der Verdauung der Nährstoffe und deren Resorption sowie der Ausscheidung von Abfallstoffen.
 Daneben ist er wesentlich an der Regulation des Wasser- und Elektrolythaushalts beteiligt.
 
-Die Verdauungsorgane können nach Lokalisation und Aufgaben grob in einen
-Kopfteil und in einen Rumpfteil eingeteilt werden.
+Die Verdauungsorgane können nach Lokalisation und Aufgaben grob in einen Kopfteil und in einen Rumpfteil eingeteilt werden.
 
 - Kopfteil: Mundhöhle mit Speicheldrüsen, Oro- und Laryngopharynx ➛
   Nahrungsaufnahme und Zerkleinerung
@@ -120,9 +117,7 @@ Der gesamte Magen-Darm-Trakt zeigt einen charakteristischen Wandaufbau:
   (Stratum circulare) und einer äußeren Längsmuskelschicht (Stratum
   longitudinale).
 
-Zwischen Ring- und Längsmuskelschicht verläuft ein vegetativer
-Nervenplexus, der Plexus myentericus *Auerbach*. In der Submucosa verläuft
-ein zweiter Plexus, der Plexus submucosus *Meissner*.
+Zwischen Ring- und Längsmuskelschicht verläuft ein vegetativer Nervenplexus, der Plexus myentericus *Auerbach*. In der Submucosa verläuft ein zweiter Plexus, der Plexus submucosus *Meissner*.
 Diese beiden Nervenplexus gehören zum intrinsischen *enterischen Nervensystem*.
 
 ## Steuerung
@@ -137,7 +132,5 @@ Die Steuerung aller Verdauungsvorgänge obliegt folgenden Mechanismen:
   und Mechanosensoren zum ZNS, dort führen sie zur Wahrnehmung und
   Ausführung von vegetativen Reflexen.
 
-Die {index}`Nervi splanchnici` sind die Nerven des
-vegetativen Nervensystems,
-welche die inneren Organe versorgen
+Die {index}`Nervi splanchnici` sind die Nerven des vegetativen Nervensystems, welche die inneren Organe versorgen
 (vgl. {ref}`VegetativesNervensystem`).

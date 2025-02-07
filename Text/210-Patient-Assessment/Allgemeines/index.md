@@ -2,25 +2,10 @@
 
 ## Gutes Patientenmanagement bringt Struktur
 
-Gerade zu Beginn der Tätigkeit als medizinische Fachkraft fühlt man sich
-bei Konfrontation mit Patienten durch die große Menge an
-Sinneseindrücken und Informationen überfordert.
-Das Erkennen,
-was in einer Situation wichtig
-und was weniger wichtig ist,
-ist selbst für
-erfahrenes Personal oft nicht einfach.
-Um diesem Umstand zu begegnen,
-haben sich strukturierte Vorgehensweisen bewährt,
-welche als
-grundsätzliche Leitlinie dienen,
-und sowohl dem Personal,
-als auch dem
-Patienten ein hohes Maß an Sicherheit geben.
-Patientenmanagement besteht
-aus vielen einzelnen Komponenten,
-welche wie eine Maschine
-zusammenarbeiten.
+Gerade zu Beginn der Tätigkeit als medizinische Fachkraft fühlt man sich bei Konfrontation mit Patienten durch die große Menge an Sinneseindrücken und Informationen überfordert.
+Das Erkennen, was in einer Situation wichtig und was weniger wichtig ist, ist selbst für erfahrenes Personal oft nicht einfach.
+Um diesem Umstand zu begegnen, haben sich strukturierte Vorgehensweisen bewährt, welche als grundsätzliche Leitlinie dienen, und sowohl dem Personal, als auch dem Patienten ein hohes Maß an Sicherheit geben.
+Patientenmanagement besteht aus vielen einzelnen Komponenten, welche wie eine Maschine zusammenarbeiten.
 
 ```{index} single: Belassung
 ```
@@ -37,13 +22,8 @@ zusammenarbeiten.
 
 ## Immer durchzuführende Standardmaßnahmen
 
-Die folgenden Maßnahmen sind grundsätzlich immer in einer
-*der Situation angemessenen*
-Art und Weise durchzuführen.
-Im begründeten Ausnahmefall kann es
-allerdings notwendig oder sinnvoll sein,
-dass manche Maßnahmen unterbleiben oder
-aufgeschoben werden
+Die folgenden Maßnahmen sind grundsätzlich immer in einer *der Situation angemessenen* Art und Weise durchzuführen.
+Im begründeten Ausnahmefall kann es allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder aufgeschoben werden
 (Auf Grund des Selbstschutzes, "Aufklärung" eines bewusstlosen Patienten,
 ...) oder angepasst werden müssen.
 (Die Reihenfolge ist der jeweiligen Situation anzupassen!)
@@ -129,35 +109,23 @@ aufgeschoben werden
 
 ### Primäreinsatz
 
-Das hier vorgestellte Schema wurde primär in Hinblick auf Primäreinsätze
-entwickelt und ist dementsprechend anwendbar.
+Das hier vorgestellte Schema wurde primär in Hinblick auf Primäreinsätze entwickelt und ist dementsprechend anwendbar.
 
 ### Sekundäreinsatz
 
 Für den Sekundäreinsatz
-(insbesonders Transfers von
-behandlungspflichtigen Patienten)
-gilt grundsätzlich das gleiche
-Vorgehen wie beim Primäreinsatz.
-Die Informationen der abgebenden Stelle
-bezüglich des Patienten und des Transports müssen besonders
-berücksichtigt werden.
-Die einzelnen Handlungen müssen sinngemäß an die
-Situation angepasst werden.
+(insbesonders Transfers von behandlungspflichtigen Patienten)
+gilt grundsätzlich das gleiche Vorgehen wie beim Primäreinsatz.
+Die Informationen der abgebenden Stelle bezüglich des Patienten und des Transports müssen besonders berücksichtigt werden.
+Die einzelnen Handlungen müssen sinngemäß an die Situation angepasst werden.
 
 Auch im Krankentransportdienst
-(inkl. Heimtransporte) soll der
-Einschätzungsblock bis zu Punkt **C** in angemessener Weise durchgeführt
-werden.
+(inkl. Heimtransporte) soll der Einschätzungsblock bis zu Punkt **C** in angemessener Weise durchgeführt werden.
 In der Praxis ist das binnen weniger Sekunden möglich.
 An dieser Stelle sei nochmals auf die *besondere Gefährdung von
 \*Dialysepatienten\** durch Elektrolytstörungen hingewiesen!
 
 ### Ambulanzdienst
 
-Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen wie beim
-Primäreinsatz,
-die einzelnen Handlungen müssen sinngemäß an die
-Situation angepasst werden.
-Auch hier soll der Einschätzungsblock bis zu
-Punkt *C* in angemessener Weise durchgeführt werden.
+Für Ambulanzdienste gilt grundsätzlich das gleiche Vorgehen wie beim Primäreinsatz, die einzelnen Handlungen müssen sinngemäß an die Situation angepasst werden.
+Auch hier soll der Einschätzungsblock bis zu Punkt *C* in angemessener Weise durchgeführt werden.

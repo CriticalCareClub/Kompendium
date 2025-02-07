@@ -4,10 +4,8 @@
 
 # Untere Extremität (Membrum inferius)
 
-Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche
-eingeteilt werden - **Oberschenkel** (Femur), **Unterschenkel** (Crus) und **Fuß**
-(Pes). Beim Fuß unterscheidet man weiters die *Fußwurzel* (*Tarsus*), den
-*Mittelfuß* (*Metatarsus*) und die *Zehen* (*Digiti*).
+Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche eingeteilt werden - **Oberschenkel** (Femur), **Unterschenkel** (Crus) und **Fuß**
+(Pes). Beim Fuß unterscheidet man weiters die *Fußwurzel* (*Tarsus*), den *Mittelfuß* (*Metatarsus*) und die *Zehen* (*Digiti*).
 
 :::{figure} /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.\*
 :align: right
@@ -48,55 +46,40 @@ Zur unteren Extremität gehören folgende Skelett-Anteile:
 
 ### Beckenknochen (Os coxae)
 
-Das Os coxae besteht aus drei verschiedenen Knochenteilen - dem *Os
-ilium* (Darmbein), dem *Os pubis* (Schambein) und dem *Os ischii*
+Das Os coxae besteht aus drei verschiedenen Knochenteilen - dem *Os ilium* (Darmbein), dem *Os pubis* (Schambein) und dem *Os ischii*
 (Sitzbein) - die im Bereich des Acetabulums (Hüftgelenkpfanne)
-aufeinandertreffen. Dort verknöchert zwischen dem 14. und 16. Lebensjahr
-die Wachstumsfuge (Y-Fuge).
+aufeinandertreffen. Dort verknöchert zwischen dem 14. und 16. Lebensjahr die Wachstumsfuge (Y-Fuge).
 
-Acetabulum: Limbus acetabuli, Fossa acetabuli, Fascies lunata, Incisura
-acetabuli verschlossen durch das Lig. transversum acetabuli (bildet
-somit einen Teil der Gelänksfläche des Hüftgelenks!)
+Acetabulum: Limbus acetabuli, Fossa acetabuli, Fascies lunata, Incisura acetabuli verschlossen durch das Lig. transversum acetabuli (bildet somit einen Teil der Gelänksfläche des Hüftgelenks!)
 
 Foramen obturatorium
 
 Os pubis: Corpus, Ramus superior und inferior.
 
-Os ilium: Corpus, Ala mit Facies glutea und Fossa iliaca, Crista iliaca
-mit der Spina iliaca anterior superior und der Spina iliaca anterior
-inferior, Spina iliaca posterior superior und der Spina iliaca posterior
-inferior.
+Os ilium: Corpus, Ala mit Facies glutea und Fossa iliaca, Crista iliaca mit der Spina iliaca anterior superior und der Spina iliaca anterior inferior, Spina iliaca posterior superior und der Spina iliaca posterior inferior.
 
-Os ischium: Corpus, Spina ischiadica, Ramus ischiadicum mit dem Tuber
-ischiadicum.
+Os ischium: Corpus, Spina ischiadica, Ramus ischiadicum mit dem Tuber ischiadicum.
 
 ### Femur
 
-Der {dfn}`Femur` (*Oberschenkelknochen*) bildet als einziger
-Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
-{dfn}`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich
-und Körper.
-Proximal ist  der Femur am Hüftgelenk beteiligt,
-distal endet er im Kniegelenk.
+Der {dfn}`Femur` (*Oberschenkelknochen*) bildet als einziger Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
+{dfn}`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich und Körper.
+Proximal ist  der Femur am Hüftgelenk beteiligt, distal endet er im Kniegelenk.
 
 Veränderungen im Winkel zwischen Collum und Corpus (CCD) - beim Kind ca.
 150°, beim Erwachsenen ca. 126° und beim alten Menschen unter 126°.
 
-Extremitas proximalis: Caput femoris, Fovea capitis femoris, Collum
-femoris, Trochanter major, Trochanter minor, Linea intertrochanterica
+Extremitas proximalis: Caput femoris, Fovea capitis femoris, Collum femoris, Trochanter major, Trochanter minor, Linea intertrochanterica
 (ventral), Crista intertrochanterica (dorsal)
 
 Corpus femoris: Linea aspera (dorsal)
 
-Extremitas distalis: Condylus medialis, Condylus lateralis, Facies
-patellaris (ventral), Fossa intercondylaris (dorsal), Epicondylus
-medialis, Epicondylus lateralis.
+Extremitas distalis: Condylus medialis, Condylus lateralis, Facies patellaris (ventral), Fossa intercondylaris (dorsal), Epicondylus medialis, Epicondylus lateralis.
 
 ### Patella
 
 Die
-{dfn}`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers.
+{dfn}`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestreckers.
 
 Basis patellae
 
@@ -108,12 +91,10 @@ Facies posterioris patellae mit der Gelenkfläche
 
 ### Unterschenkel: Schienbein (Tibia) und Wadenbein (Fibula)
 
-Der {dfn}`Unterschenkel` wird von der
-**Tibia**[^tibia] (*Schienbein*)
+Der {dfn}`Unterschenkel` wird von der **Tibia**[^tibia] (*Schienbein*)
 und der **Fibula** [^fibula] (*Wadenbein*)
 gebildet.
-Sie gehen im Sprunggelenk in den Fuß über
-und bilden dort den **Innen-**
+Sie gehen im Sprunggelenk in den Fuß über und bilden dort den **Innen-**
 (Tibia, {dfn}`Malleolus medialis`)
 und den *Außenknöchel* (Fibula, {dfn}`Malleolus lateralis`).
 Die Tibia und Fibula sind über die Zwischenknochenmembran
@@ -140,8 +121,7 @@ Der Fuß zeigt 2 Gewölbe - das Längsgewölbe und das Quergewölbe
 
 fibularer / lateraler Strahl: Clacaneus, Os cuboideum.
 
-tibialer / medialer Strahl: Talus, Os naviculare, Os cuneiforme mediale,
-intermedium und laterale
+tibialer / medialer Strahl: Talus, Os naviculare, Os cuneiforme mediale, intermedium und laterale
 
 ### Ossa metatarsi
 
@@ -171,44 +151,27 @@ Digitus quintus
 
 ## Pelvis (Beckenring)
 
-Das Becken ist ein ringförmiger Knochenverbund bestehend aus
-den beiden *Ossa coxae* (Hüftknochen)
+Das Becken ist ein ringförmiger Knochenverbund bestehend aus den beiden *Ossa coxae* (Hüftknochen)
 sowie dem *Os sacrum*.
-Sie sind über die
-*Artt. sacroiliacae (Iliosakralgelenke)*
-sowie über die **Symphyse** (*Symphysis pubica*, *Schambeinfuge*)
+Sie sind über die *Artt. sacroiliacae (Iliosakralgelenke)* sowie über die **Symphyse** (*Symphysis pubica*, *Schambeinfuge*)
 zum Beckenring verbunden.
-Die Symphyse stellt eine straffe
-Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
+Die Symphyse stellt eine straffe Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
 (Dehnungsfuge, für Geburtsvorgang notwendig).
 Dieser ist normalerweise um 60° geneigt.
 
-{deep}`Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae
-ant., Ligg. sacroiliacae interossea, Lig. sacroiliacae post., Lig.
+{deep}`Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae ant., Ligg. sacroiliacae interossea, Lig. sacroiliacae post., Lig.
 iliolumbale, Lig. sacrotuberale, Lig. sacrospinale.``
 
 Im Beckenraum kann man zwei Bereiche unterscheiden.
 Das **große Becken** wird von den Beckenschaufeln eingefasst.
-Dieser Bereich wird noch zum
-*Abdomen* gerechnet.
+Dieser Bereich wird noch zum *Abdomen* gerechnet.
 Die *Linea terminalis* grenzt das große vom **kleinen Becken** ab.
-Sie führt vom Promontorium über die Linea arcuata und die
-Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior
-(Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis
-inferior) wird vom muskulären Beckenboden verschlossen.
+Sie führt vom Promontorium über die Linea arcuata und die Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior
+(Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis inferior) wird vom muskulären Beckenboden verschlossen.
 
-Im Vergleich zwischen Mann und Frau weist das Becken spezifische
-*Geschlechtsunterschiede* auf. In seiner Gesamtform ist das Becken der
-Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine
-Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger. Die
-Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher
-längsoval. Das Foramen obturatorium ist beim Mann rundlich, bei der Frau
-queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist
-der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim
-Mann, kleiner als 70°).
+Im Vergleich zwischen Mann und Frau weist das Becken spezifische *Geschlechtsunterschiede* auf. In seiner Gesamtform ist das Becken der Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger. Die Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher längsoval. Das Foramen obturatorium ist beim Mann rundlich, bei der Frau queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim Mann, kleiner als 70°).
 
-Das Becken wird nach kaudal durch den *Beckenboden* — mehrere Schichten
-von Bindegewebe und Muskulatur — verschlossen.
+Das Becken wird nach kaudal durch den *Beckenboden* — mehrere Schichten von Bindegewebe und Muskulatur — verschlossen.
 Von superficial nach profund unterscheidet man:
 
 - *Diaphragma pelvis*: trichterförmig, wichtig für Bauchpresse, trägt
@@ -235,12 +198,10 @@ Von superficial nach profund unterscheidet man:
 
 ### Articulatio coxae (Hüftgelenk)
 
-Das Hüftgelenk verbindet Acetabulum und Caput femoris gelenkig. Es ist
-ein *Kugelgelenk (Nussgelenk)* und ermöglicht folgende Gelenke: Flexion
+Das Hüftgelenk verbindet Acetabulum und Caput femoris gelenkig. Es ist ein *Kugelgelenk (Nussgelenk)* und ermöglicht folgende Gelenke: Flexion
 \- Extension, Abduktion - Adduktion, Rotation.
 
-Das *Labrum acetabuli (Gelenklippe)* vergrößert wie beim Schultergelenk
-die Gelenkfläche.
+Das *Labrum acetabuli (Gelenklippe)* vergrößert wie beim Schultergelenk die Gelenkfläche.
 
 Folgende Bänder stabilisieren das Gelenk:
 
@@ -254,24 +215,14 @@ Folgende Bänder stabilisieren das Gelenk:
 
 ### Articulatio genus (Kniegelenk)
 
-Das {dfn}`Kniegelenk` verbindet den Ober- und Unterschenkel
-und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
-gebildet. Es ist *kein* reines Scharniergelenk, Drehungen sind bei
-gebeugtem Knie möglich.
+Das {dfn}`Kniegelenk` verbindet den Ober- und Unterschenkel und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
+gebildet. Es ist *kein* reines Scharniergelenk, Drehungen sind bei gebeugtem Knie möglich.
 Das Kniegelenk weist einige Besonderheiten auf:
-Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen
-für die Stabilität in diesem Gelenk[^kniegelenkbaender].
-Weiters sorgt die
-*Patella* (*Kniescheibe*)  für eine bessere Kraftübertragung des
-Kniestreckers.   {term}`🗎 Schabus 1`
+Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen für die Stabilität in diesem Gelenk[^kniegelenkbaender].
+Weiters sorgt die *Patella* (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestreckers.   {term}`🗎 Schabus 1`
 
-Durch die Beteiligung der
-**Menisken**[^kniegelenkmenisken] (Gelenkskörper) ist das Kniegelenk
-ein komplexes Gelenk, welches die *Art. femorotibialis* (Femur + Tibia)
-und die *Art. femoropatellaris* (Femur + Patella) in einer Gelenkkapsel
-zusammenfasst. Von seiner Form und Funktion ist das Kniegelenk ein
-*Drehscharniergelenk* (Trochoginglymus), welches folgende Bewegungen
-ausführen kann: Flexion — Extension, Rotation (nur in Flexion!).
+Durch die Beteiligung der **Menisken**[^kniegelenkmenisken] (Gelenkskörper) ist das Kniegelenk ein komplexes Gelenk, welches die *Art. femorotibialis* (Femur + Tibia)
+und die *Art. femoropatellaris* (Femur + Patella) in einer Gelenkkapsel zusammenfasst. Von seiner Form und Funktion ist das Kniegelenk ein *Drehscharniergelenk* (Trochoginglymus), welches folgende Bewegungen ausführen kann: Flexion — Extension, Rotation (nur in Flexion!).
 
 [^kniegelenkbaender]: Folgende *Bänder* stabilisieren das Kniegelenk:
 
@@ -308,10 +259,7 @@ Im {dfn}`Sprunggelenk` gibt es, ähnlich wie bei der Hand,
 {dfn}`Fußwurzelknochen` (7), {dfn}`Mittelfußknochen` (5)
 und 5 Zehen mit jeweils 2 (Großzehe) bis 3 Gliedern.
 
-Als {dfn}`Knöchel` bezeichnet man die Knochengabel, welche
-aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es
-gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von
-Schien- bzw. Wadenbein).
+Als {dfn}`Knöchel` bezeichnet man die Knochengabel, welche aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von Schien- bzw. Wadenbein).
 
 Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 
@@ -332,9 +280,7 @@ Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 
 Artt.intertarsales: zwischen den restlichen Fußwurzelknochen » Amphiarthrose
 
-Artt. metatarsophalangeae: zwischen den Ossa metatarsales und den dazugehörigen Ossa phalanges
-proximales. » der Form nach Kugelgelenke, durch die Bandsicherung funktionelle
-Scharniergelenke.
+Artt. metatarsophalangeae: zwischen den Ossa metatarsales und den dazugehörigen Ossa phalanges proximales. » der Form nach Kugelgelenke, durch die Bandsicherung funktionelle Scharniergelenke.
 
 Artt. intermetatarsales: zwischen den einzelnen Mittelfußknochen » Amphiarthrose
 

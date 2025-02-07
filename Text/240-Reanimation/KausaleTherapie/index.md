@@ -20,8 +20,7 @@
 - **S**pannungspneumothorax
 :::
 
-Es gibt acht klassische Ursachen eines Herz-Kreislaufstillstandes,
-welche grundsätzlich behebbar (reversibel) sind:
+Es gibt acht klassische Ursachen eines Herz-Kreislaufstillstandes, welche grundsätzlich behebbar (reversibel) sind:
 
 - **H**ypoxie
 
@@ -54,6 +53,4 @@ welche grundsätzlich behebbar (reversibel) sind:
 - **S**pannungspneumothorax
 
 Gemäß der Anfangsbuchstaben werden diese reversiblen Ursachen als {dfn}`4 H + HITS` bezeichnet.
-Leider lassen sich nicht alle
-dieser reversiblen Ursachen präklinisch erkennen oder beheben, dennoch
-muss dies – wenn möglich – versucht werden.
+Leider lassen sich nicht alle dieser reversiblen Ursachen präklinisch erkennen oder beheben, dennoch muss dies – wenn möglich – versucht werden.

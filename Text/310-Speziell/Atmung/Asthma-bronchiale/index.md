@@ -3,8 +3,7 @@
 
 # Asthma bronchiale
 
-:::{margin} Asthma bronchiale
-Wiederholte Anfälle von Atemnot durch
+:::{margin} Asthma bronchiale Wiederholte Anfälle von Atemnot durch
 
 - Verengte Bronchien
 - Vermehrte Schleimbildung
@@ -12,37 +11,22 @@ Wiederholte Anfälle von Atemnot durch
 :::
 
 
-Das {dfn}`Asthma bronchiale` ist eine chronische
-Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder
-Atembehinderung durch Verengung der Bronchien.
+Das {dfn}`Asthma bronchiale` ist eine chronische Erkrankung mit Episoden von Anfällen mit massiver Atemnot oder Atembehinderung durch Verengung der Bronchien.
 
-Im akuten Asthmaanfall
-kommt es zu einer Verengung der Bronchien und vermehrter Schleimbildung,
-die *Ausatmung* wird massiv erschwert und der Patient hat das Gefühl
-nicht genug Luft zu bekommen.
+Im akuten Asthmaanfall kommt es zu einer Verengung der Bronchien und vermehrter Schleimbildung, die *Ausatmung* wird massiv erschwert und der Patient hat das Gefühl nicht genug Luft zu bekommen.
 
 Asthma ist bei den meisten Patienten oft schon bekannt und kann bzw.
-muss erfragt werden. Viele Patienten haben auch einen oder mehrere
-Sprays oder Inhalationsgeräte zur Dauer- oder Akutbehandlung. Besonders
-betroffen vom Asthma bronchiale sind Patienten mit bekannten Allergien.
-Folglich kann alles, was bei dem Patienten eine Allergie verursacht auch
-einen Asthmaanfall auslösen (Pollen, Gräser, Katzen, Zigarettenrauch,
+muss erfragt werden. Viele Patienten haben auch einen oder mehrere Sprays oder Inhalationsgeräte zur Dauer- oder Akutbehandlung. Besonders betroffen vom Asthma bronchiale sind Patienten mit bekannten Allergien.
+Folglich kann alles, was bei dem Patienten eine Allergie verursacht auch einen Asthmaanfall auslösen (Pollen, Gräser, Katzen, Zigarettenrauch,
 …).
 
-Ist bei Eintreffen des Rettungsdienstes noch keine Besserung der Atemnot
-eingetreten, ist diese Atemnot als massiv und lebensbedrohend
-einzuschätzen. Es ist nicht damit zu rechnen, dass der Zustand von
-alleine wieder vergeht und bedarf einer medikamentösen Behandlung durch
-einen Notarzt.
+Ist bei Eintreffen des Rettungsdienstes noch keine Besserung der Atemnot eingetreten, ist diese Atemnot als massiv und lebensbedrohend einzuschätzen. Es ist nicht damit zu rechnen, dass der Zustand von alleine wieder vergeht und bedarf einer medikamentösen Behandlung durch einen Notarzt.
 
 (figure-asthma-paramedic)=
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.jpg
-Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe
-und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen
-bei vital bedrohten Patienten wurden ergriffen: Situationsrechte
-Lagerung, Sauerstoffgabe, Reanimationsbereitschaft,
-Notarztnachforderung und Monitoring.
+
+Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen bei vital bedrohten Patienten wurden ergriffen: Situationsrechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztnachforderung und Monitoring.
 
 ₢ Sebastian Gabriel
 {term}`ℓ MfG`
@@ -83,12 +67,8 @@ Therapie:
 :::
 ::::
 
-Der Status asthamticus ist eine gefürchtete Komplikation
-des Asthmaanfalles,
-bei der die Atemnot nicht wieder vergeht.
-Es besteht die Gefahr,
-dass der Patient nach einiger Zeit keine Kraft mehr zum
-Atmen hat (Erschöpfung).
+Der Status asthamticus ist eine gefürchtete Komplikation des Asthmaanfalles, bei der die Atemnot nicht wieder vergeht.
+Es besteht die Gefahr, dass der Patient nach einiger Zeit keine Kraft mehr zum Atmen hat (Erschöpfung).
 Der Status asthmaticus kann tödlich enden.
 
 ## ABCDE

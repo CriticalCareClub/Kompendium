@@ -2,30 +2,20 @@
 
 ## Umgang mit Kindern
 
-Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach
-Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu
-geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
+Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
 (Be-)Handlung einbezogen werden.
-Nach Möglichkeit soll das Kind während der Betreuung
-eng bei der Vertrauensperson belassen werden
-auf den Schoss setzen, …).
+Nach Möglichkeit soll das Kind während der Betreuung eng bei der Vertrauensperson belassen werden auf den Schoss setzen, …).
 
 
 (kind-besonderheiten)=
 
 ## Anatomische und physiologische Besonderheiten
 
-Kinder unterscheiden sich wesentlich von
-erwachsenen Patienten, nicht nur in ihrer Fähigkeit,
-ihre Umwelt und gesetzte Handlungen zu verstehen,
-sondern auch hinsichtlich ihrer
-Anatomie und Physiologie.
+Kinder unterscheiden sich wesentlich von erwachsenen Patienten, nicht nur in ihrer Fähigkeit, ihre Umwelt und gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer Anatomie und Physiologie.
 Die Tabelle {ref}`Table-altersgruppen-kinder` zeigt eine
 Übersicht über die Einteilung von Kindern nach Altersgruppen.
 In der Literatur kommt es gelegentlich zu abweichenden Definitionen.
-So ist z. B. in den ERC-Richtlinien
-zur Reanimation ein Neugeborenes nur bis unmittelbar
-nach der Geburt als solches klassifiziert.
+So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
 
 :::{note}
 - Kinder sind keine kleinen Erwachsenen!
@@ -109,13 +99,9 @@ nach der Geburt als solches klassifiziert.
 
 ### Allgemeines zu Erkrankungen im Kindes- und Jugendalter
 
-Grundsätzlich können Kinder viele der bereits erwähnten Erkrankungen
-auch bekommen. Bei Kindernotfällen können als zusätzlicher Stressfaktor
-für den Rettungsdienst stark emotional betroffene Angehörige sein.
+Grundsätzlich können Kinder viele der bereits erwähnten Erkrankungen auch bekommen. Bei Kindernotfällen können als zusätzlicher Stressfaktor für den Rettungsdienst stark emotional betroffene Angehörige sein.
 Daher gilt es besonders ruhig und gezielt zu handeln.
-Sie sollten sich der
-Verantwortung bewusst sein, es geht um die Rettung eines jungen Menschen
-mit langer Lebenserwartung.
+Sie sollten sich der Verantwortung bewusst sein, es geht um die Rettung eines jungen Menschen mit langer Lebenserwartung.
 
 ## Speziell die Kindheit und Jugend betreffende Erkrankungen
 
@@ -128,9 +114,7 @@ Die Fremdkörperaspiration und mechanische Atemwegsverlegung wird unter
 
 ### Akute obstruktive Laryngitis, Pseudokrupp
 
-Bei der Laryngitis (Pseudokrupp[^footnote-1]) handelt es sich um eine
-Entzündung des Kehlkopfes. Es können auch die oberen Atemwege durch das
-Anschwellen der Schleimhäute behindert sein (Pseudokrupp/Kruppsyndrom).
+Bei der Laryngitis (Pseudokrupp[^footnote-1]) handelt es sich um eine Entzündung des Kehlkopfes. Es können auch die oberen Atemwege durch das Anschwellen der Schleimhäute behindert sein (Pseudokrupp/Kruppsyndrom).
 Diese Infektion wird durch Viren verursacht.
 
 [^footnote-1]: "Pseudokrupp" bezieht sich auf die Heiserkeit (griech.: pseudo für
@@ -161,12 +145,7 @@ Diese Infektion wird durch Viren verursacht.
 :::
 ::::
 
-Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft
-ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer
-Stridor)* wahrnehmbar, und es besteht Heiserkeit und Dyspnoe. Fieber ist
-eher diskret und steht nicht im Vordergrund. Die Laryngitis tritt vor
-allem im Alter zwischen 3 Monaten und 6 Jahren auf, gut geheizte und
-trockene Räume fördern das Auftreten.
+Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer Stridor)* wahrnehmbar, und es besteht Heiserkeit und Dyspnoe. Fieber ist eher diskret und steht nicht im Vordergrund. Die Laryngitis tritt vor allem im Alter zwischen 3 Monaten und 6 Jahren auf, gut geheizte und trockene Räume fördern das Auftreten.
 
 (kj05000c)=
 
@@ -191,11 +170,7 @@ trockene Räume fördern das Auftreten.
 :::
 ::::
 
-Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung*
-und daraus folgende *Schwellung des Kehldeckels*. Sie kommt eher selten
-vor, kann jedoch **lebensbedrohlich** werden. Die Epiglottitis ist eine
-schwere Erkrankung, mit richtiger Behandlung besteht aber meist eine
-gute Prognose.
+Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung* und daraus folgende *Schwellung des Kehldeckels*. Sie kommt eher selten vor, kann jedoch **lebensbedrohlich** werden. Die Epiglottitis ist eine schwere Erkrankung, mit richtiger Behandlung besteht aber meist eine gute Prognose.
 
 #### Symptome
 
@@ -212,10 +187,7 @@ gute Prognose.
 :::
 ::::
 
-Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch
-bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient
-hält den Mund offen und es ist ein Speichelfluss bemerkbar. Der Patient
-ist eher ruhig und spricht kaum, er hat Angst.
+Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient hält den Mund offen und es ist ein Speichelfluss bemerkbar. Der Patient ist eher ruhig und spricht kaum, er hat Angst.
 
 (kj05010c)=
 
@@ -233,9 +205,7 @@ ist eher ruhig und spricht kaum, er hat Angst.
 
 ### Vergleich Laryngitis vs. Epiglottitis
 
-Die Unterscheidung beider Krankheiten kann auch für den erfahrenen
-Sanitäter schwer sein. Darum hier eine Gegenüberstellung der
-Differenzialdiagnosen Laryngitis und Epiglottitis:
+Die Unterscheidung beider Krankheiten kann auch für den erfahrenen Sanitäter schwer sein. Darum hier eine Gegenüberstellung der Differenzialdiagnosen Laryngitis und Epiglottitis:
 
 ```{eval-rst}
 .. table:: Gegenüberstellung Laryngitis vs. Epiglottitis
@@ -269,11 +239,7 @@ Differenzialdiagnosen Laryngitis und Epiglottitis:
 :::
 ::::
 
-Der plötzliche Kindstod ist eine plötzliche, einschneidende Katastrophe
-im Familienleben. Aus *unbekannter Ursache* – und aus oft völliger
-Gesundheit – hört das Kind plötzlich auf zu atmen und verstirbt. Dieses
-Schicksal ereilt Kinder im ersten bis vierten Lebensmonat, es ist eine
-Häufung in den Monaten Jänner bis März zu beobachten.
+Der plötzliche Kindstod ist eine plötzliche, einschneidende Katastrophe im Familienleben. Aus *unbekannter Ursache* – und aus oft völliger Gesundheit – hört das Kind plötzlich auf zu atmen und verstirbt. Dieses Schicksal ereilt Kinder im ersten bis vierten Lebensmonat, es ist eine Häufung in den Monaten Jänner bis März zu beobachten.
 
 #### Ursachen
 
@@ -287,18 +253,10 @@ Häufung in den Monaten Jänner bis März zu beobachten.
 :::
 ::::
 
-Es wird viel über die möglichen Ursachen spekuliert. Als mögliche
-Ursache wird oft ein unreifes Atemzentrum und eine zentrale
-Atemregulationsstörung angeführt.
-Letzten Endes ist die genaue *Ursache
-unbekannt*, eine verlässliche Vorhersage, welche Kinder betroffen sein
-werden, gibt es nicht. Es wurden lediglich Risikogruppen wie
-Frühgeburten und Zwillingsgeschwister von betroffenen Kindern,
-identifiziert. Auch scheint die Lagerung in Bauchlage das Risiko zu
-erhöhen.
+Es wird viel über die möglichen Ursachen spekuliert. Als mögliche Ursache wird oft ein unreifes Atemzentrum und eine zentrale Atemregulationsstörung angeführt.
+Letzten Endes ist die genaue *Ursache unbekannt*, eine verlässliche Vorhersage, welche Kinder betroffen sein werden, gibt es nicht. Es wurden lediglich Risikogruppen wie Frühgeburten und Zwillingsgeschwister von betroffenen Kindern, identifiziert. Auch scheint die Lagerung in Bauchlage das Risiko zu erhöhen.
 
-Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich
-ist und *die Eltern keine Schuld trifft*!
+Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich ist und *die Eltern keine Schuld trifft*!
 
 (kr95090c)=
 
@@ -342,14 +300,9 @@ ist und *die Eltern keine Schuld trifft*!
 :::
 ::::
 
-Als *Ertrinken* wird der Tod in den ersten 24h nach einem
-Ertrinkungsunfall bezeichnet; ansonsten besteht ein
+Als *Ertrinken* wird der Tod in den ersten 24h nach einem Ertrinkungsunfall bezeichnet; ansonsten besteht ein
 {dfn}`Beinahe-Ertrinken`{index}` <Beinahe-Ertrinken>`.
-Kleinkinder sind besonders gefährdet, da sie
-meist nicht schwimmen können und sich oft schnell und unbemerkt der
-Aufmerksamkeit der Aufsichtsperson entziehen. Besonders ungesicherte
-Gartenteiche, Seen, Schwimmbecken, Badeanstalten oder auch Wannenbäder
-stellen eine Gefahrenquelle im Alltag dar.
+Kleinkinder sind besonders gefährdet, da sie meist nicht schwimmen können und sich oft schnell und unbemerkt der Aufmerksamkeit der Aufsichtsperson entziehen. Besonders ungesicherte Gartenteiche, Seen, Schwimmbecken, Badeanstalten oder auch Wannenbäder stellen eine Gefahrenquelle im Alltag dar.
 
 :::{attention}
 Nobody is dead until warm and dead!
@@ -391,12 +344,7 @@ Eine Besonderheit stellt jedoch der
 :::
 ::::
 
-Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe
-entwickeln. Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall
-und sind grundsätzlich genau so zu behandeln. Mitunter ist die Neigung
-des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits
-spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen
-eventuell schon von den Eltern gegeben).
+Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe entwickeln. Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu behandeln. Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
 (kr56001c)=
 

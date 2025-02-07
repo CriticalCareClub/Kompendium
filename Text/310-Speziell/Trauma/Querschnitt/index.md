@@ -1,7 +1,6 @@
 # 56. Traumatisches Querschnittsyndrom
 
-Ursachen: Flexion/Extension, Flexion/Rotation,
-axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms  +  sekundär Schaden durch Autodestruktion
+Ursachen: Flexion/Extension, Flexion/Rotation, axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms  +  sekundär Schaden durch Autodestruktion
 
 
 Pathophysiologie: Sympatikolyse mit Hypotonie durch Vasodilatation + Blutverlust +β-Endorphine
@@ -21,8 +20,7 @@ Dauert 3 Tage bis 8 Wochen (solange soll der Patient auf der IBS bleiben!)
 
 
 
-=  Retraktion und Ballonierung der Axonstümpfe, distale Degeneration, Pseudozystenbildung,
-Narbe aus Astrozyten/Mikroglia und Fibroblasten.
+=  Retraktion und Ballonierung der Axonstümpfe, distale Degeneration, Pseudozystenbildung, Narbe aus Astrozyten/Mikroglia und Fibroblasten.
 Prognose schlecht bei vollständiger Lähmung anhaltend, Priapismus
 (Dauererektion nach Trauma)
 
@@ -37,8 +35,7 @@ Schockraum bei Wirbelsäulenverletzungen:
 Intensivtherapie:
 - PICCO;  vorsichtige Flüssigkeitszufuhr (relative Hypotonie durch Umverteilungsstörung zwischen Peripherie und Splanchnikusgebiet) Ziel: MAP\>70, HF  \>70/min  +  Katecholamine.
 Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
-- Bronchialtoilette: Inhalieren, CPAP, Atemphysiotherapie, 2h Umlagerung en-block,
-Sekretolytika (Mucosolvan)
+- Bronchialtoilette: Inhalieren, CPAP, Atemphysiotherapie, 2h Umlagerung en-block, Sekretolytika (Mucosolvan)
 - Tracheotomie: immer bei hohem Querschnitt (C4-5)
 - Thromboseprophylaxe NMWH, Physiotherpie mit Durchbewegen und Atemgymn., Strümpfe
 - Ulkusprophylaxe: H2-Blocker, Antacida
@@ -47,14 +44,12 @@ Sekretolytika (Mucosolvan)
 - Infektprophylaxe: Hygiene!! Abstriche regelm.
 - Spastik: Frühphase schlaffe Areflexie + Spastik in der Spätphase; Therapie: Baclofen (Lioresal p.o.) blockiert Synapsen und dämpft Spasmen; ultimo ratio longit. Myelotomie OP
 - Psychologische Betreuung + Angehörige
-- Physiotherapie: Durchbewegen der großen Gelenke, Atemtherapie, Kreislauftraining,
-Kräftigung der motorischen Restfunktion
+- Physiotherapie: Durchbewegen der großen Gelenke, Atemtherapie, Kreislauftraining, Kräftigung der motorischen Restfunktion
 
 Autonome Dysreflexie
 = Querschnitt oberhalb Th6 mit Verlust der supraspinalen Kontrolle mit erhöhter Erregbarkeit der Organe und α-Rezeptoren, Auslöser über Blase durch DK, Darm, Magen, Uterus, Haut.
 Klinik: Blutdruckanstieg bis RRsyst 300mmHg!  +  periphere Vasokonstriktion (Gänsehaut)  +
-proximale Vasodilatation (Kopfschmerz, rotes Gesicht,
-Schwitzen) + Bradykardie durch Vagusreiz Therapie: Narkose vertiefen + α- Rezeptorblocker
+proximale Vasodilatation (Kopfschmerz, rotes Gesicht, Schwitzen) + Bradykardie durch Vagusreiz Therapie: Narkose vertiefen + α- Rezeptorblocker
 
 Anästhesiemanagement:
 - Bei jedem Eingriff Anästhesie wegen autonomer Dysreflexie (RA

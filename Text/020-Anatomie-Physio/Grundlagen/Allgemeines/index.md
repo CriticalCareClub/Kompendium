@@ -9,14 +9,8 @@
 - Pathologie: Lehre vom krankhaft Veränderten
 :::
 
-Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin
-beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung
-von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die
-Lehre von physikalischen und biochemischen Vorgängen im
-Organismus [^physiologie].
-In der medizinischen Umgangssprache bezieht sich der
-Begriff {dfn}`physiologisch` auf Vorgänge und Zustände,
-welche *normal*, d. h. *nicht krankhaft verändert*, sind.
+Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die Lehre von physikalischen und biochemischen Vorgängen im Organismus [^physiologie].
+In der medizinischen Umgangssprache bezieht sich der Begriff {dfn}`physiologisch` auf Vorgänge und Zustände, welche *normal*, d. h. *nicht krankhaft verändert*, sind.
 Dem gegenüber versteht man unter dem Begriff {dfn}`Pathologie`
 (bzw. dem Adjektiv *pathologisch*)
 einen *krankhaften*, *abnormen* Vorgang oder Zustand.
@@ -24,14 +18,9 @@ einen *krankhaften*, *abnormen* Vorgang oder Zustand.
 [^physiologie]: Der Begriff Physiologie ist nicht zu verwechseln mit ähnlichen
     begriffen wie "Physiotherapie" oder "Physikalische Medizin".
 
-Weiters behandelt dieser Abschnitt die Vitalfunktionen des menschlichen
-Körpers,
-welche die Funktion des Körpers ermöglichen.
+Weiters behandelt dieser Abschnitt die Vitalfunktionen des menschlichen Körpers, welche die Funktion des Körpers ermöglichen.
 Es gibt grundlegende **Vitalfunktionen 1. Ordnung**
-(Bewusstsein, Atmung, Kreislauf),
-deren Ausfall binnen kurzem zum Tod führen können,
-und Vitalfunktionen **2. Ordnung**,
-deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
+(Bewusstsein, Atmung, Kreislauf), deren Ausfall binnen kurzem zum Tod führen können, und Vitalfunktionen **2. Ordnung**, deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
 
 ## Körperregionen
 
@@ -58,8 +47,7 @@ Hauptachsen:
   links
 
 An diesen Achsen sind die Körperebenen wie nach einem Koordinatensystem
-(3 Hauptachsen -> 3 Hauptebenen) ausgerichtet. Sie sind nicht fix
-forgegeben, sondern können an jede Position parallel verschoben werden
+(3 Hauptachsen -> 3 Hauptebenen) ausgerichtet. Sie sind nicht fix forgegeben, sondern können an jede Position parallel verschoben werden
 
 Hauptebenen:
 
@@ -70,11 +58,7 @@ Hauptebenen:
 - Transversalebene (= Horizontalebene): quer durch den Körper,
   senkrecht auf Sagittal- und Frontalebene
 
-Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige
-Stelle des Körpers verschoben werden. Die einzige Ausnahme bildet die
-sog. Medianebene (= Median-Sagittal-Ebene): vom Rücken zum Bauch teilt
-sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher
-wird sie auch als Symmetrieebene bezeichnet.
+Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle des Körpers verschoben werden. Die einzige Ausnahme bildet die sog. Medianebene (= Median-Sagittal-Ebene): vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als Symmetrieebene bezeichnet.
 
 ```{index} single: cranialis, -e
 ```
@@ -552,8 +536,7 @@ wird sie auch als Symmetrieebene bezeichnet.
   - Umführbewegung der Extremitäten.
 :::
 
-Diese Bewegungen können auch auf Bewegungen des Rumpfes bzw. des
-Kopf-Hals-Bereiches übertragen werden.
+Diese Bewegungen können auch auf Bewegungen des Rumpfes bzw. des Kopf-Hals-Bereiches übertragen werden.
 Hierauf wird unter {ref}`Bewegungsapparat` gesondert eingegangen.
 
 :::{list-table} Bewegungsbezeichnungen am Kiefergelenk
@@ -582,11 +565,8 @@ Hierauf wird unter {ref}`Bewegungsapparat` gesondert eingegangen.
 
 ## Biotypologie
 
-Die Biotypologie beschreibt die Beurteilung des Körperbaus und den
-Versuch des Schlusses auf innere Werte und Wesenszüge.
-Hier gibt es
-Begriffe,
-die auch noch in der heutigen Sprache wiedererkennbar sind.
+Die Biotypologie beschreibt die Beurteilung des Körperbaus und den Versuch des Schlusses auf innere Werte und Wesenszüge.
+Hier gibt es Begriffe, die auch noch in der heutigen Sprache wiedererkennbar sind.
 
 Biotypologie nach Hippocrates:
 

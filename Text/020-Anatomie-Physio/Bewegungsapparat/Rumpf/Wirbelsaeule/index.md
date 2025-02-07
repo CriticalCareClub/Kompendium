@@ -17,11 +17,7 @@ Wirbel
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht
-aus 33—34 Knochen. Sie ist somit das Achsenskelett unseres Körpers und
-macht mit einer Länge von ca. 55—63 cm 35% der Körperlänge des
-Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der
-Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
+Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht aus 33—34 Knochen. Sie ist somit das Achsenskelett unseres Körpers und macht mit einer Länge von ca. 55—63 cm 35% der Körperlänge des Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
 (Krümmungen nach ventral):
 
 {index}` <Lordose>`
@@ -35,9 +31,7 @@ Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
 - Sakral**kyphose** (*konkav*)
 
 {index}` <Skoliose>`
-Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung
-aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man
-**Skoliose**.
+Die gesunde Wirbelsäule sollte nur in der Sagittalebene eine Krümmung aufweisen. Eine pathologische Krümmung in der Frontalebene nennt man **Skoliose**.
 
 ```{index} single: Halswirbelsäule
 ```
@@ -82,24 +76,15 @@ Die Wirbeln gliedern sich in:
 
 ## Bandscheiben
 
-Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus**
-*intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
-und einen *weichen Kern* (*Nucleus pulposus*) auf und tragen hierdurch zur
-Stoßdämpfung bei Bewegung und zur Beweglichkeit der Wirbelsäule bei.
-Diese Bandscheibe ist über eine hyaline Knorpelplatte {deep}`(Lamina
-cartilaginea)` an den Wirbelkörper befestigt. In den beweglichsten
-Bereichen der Wirbelsäule (Zervikalwirbel und Lendenwirbel) kann es
-durch Überbeanspruchung zu einem **Bandscheibenvorfall** — einem *Austritt
-des Nucleus pulposus* durch einen Riss im Anulus fibrosus — kommen, der
-durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
+Zwischen den einzelnen freien Wirbeln liegen **Bandscheiben** (**Discus** *intervertebralis*). Sie weisen eine *fibröse Schale* (*Anulus fibrosus*)
+und einen *weichen Kern* (*Nucleus pulposus*) auf und tragen hierdurch zur Stoßdämpfung bei Bewegung und zur Beweglichkeit der Wirbelsäule bei.
+Diese Bandscheibe ist über eine hyaline Knorpelplatte {deep}`(Lamina cartilaginea)` an den Wirbelkörper befestigt. In den beweglichsten Bereichen der Wirbelsäule (Zervikalwirbel und Lendenwirbel) kann es durch Überbeanspruchung zu einem **Bandscheibenvorfall** — einem *Austritt des Nucleus pulposus* durch einen Riss im Anulus fibrosus — kommen, der durch Nervenkompression zu Schmerzen bzw. neurologischen Ausfällen
 (Lähmungen) führen kann.
 
 ## Bewegungen
 
 Als Bewegungen sind mit der Wirbelsäule die *Flexion /
-Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der
-Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den
-einzelnen Wirbeln.
+Extension*, *Rotation* und *Lateralflexion* möglich. Diese Gesamtbewegungen der Wirbelsäule summieren sich aus den Einzelbewegungen zwischen den einzelnen Wirbeln.
 
 ```{index} single: Wirbel
 ```
@@ -115,46 +100,27 @@ einzelnen Wirbeln.
 ## Wirbel
 
 Ein Wirbel lässt sich allgemein in das **Wirbelkörper** (*Corpus vertebrae*)
-und den **Wirbelbogen** (*Arcus vertebrae*) unterteilen. Der Wirbelbogen
-umfasst das **Wirbelloch** (*Foramen vertebrale*), in dem das Rückenmark
-verläuft. Durch die übereinander liegenden Wirbel bildet sich dann aus
-der Gesamtheit der Wirbellöcher der *Wirbelkanal (Canalis vertebralis)*.
+und den **Wirbelbogen** (*Arcus vertebrae*) unterteilen. Der Wirbelbogen umfasst das **Wirbelloch** (*Foramen vertebrale*), in dem das Rückenmark verläuft. Durch die übereinander liegenden Wirbel bildet sich dann aus der Gesamtheit der Wirbellöcher der *Wirbelkanal (Canalis vertebralis)*.
 Der Wirbelkörper ist immer anterior, der Wirbelbogen weist nach dorsal.
-zwischen den einzelnen Wirbelkörpern befinden sich die bereits
-beschriebenen Bandscheiben. Die Wirbelkörper werden von kranial nach
-kaudal immer größer, um die zunehmende Belastung des Körpers aufnehmen
-zu können. Der Wirbelbogen weist Fortsätze auf: einen *Processus
-spinosus (Dornfortsatz)* nach dorsal, zwei *Processi transversi
+zwischen den einzelnen Wirbelkörpern befinden sich die bereits beschriebenen Bandscheiben. Die Wirbelkörper werden von kranial nach kaudal immer größer, um die zunehmende Belastung des Körpers aufnehmen zu können. Der Wirbelbogen weist Fortsätze auf: einen *Processus spinosus (Dornfortsatz)* nach dorsal, zwei *Processi transversi
 (Querfortsätze)*nach lateral, und jeweils zwei *Processi articulares
-(Gelenksfortsätze*, insg. 4 Stück) nach kranial und kaudal zu den
-benachbarten Wirbeln. Die Processi bilden Ursprungs- und Ansatzpunkte
-für Muskulatur und Bänder. Zwischen den einzelnen Wirbelbögen, vor den
-Gelenksfortsätzen, bildet sich aus dem oberen und unteren Wirbel das
-*Zwischenwirbelloch (Foramen intervertebrale)*. Durch dieses Foramen
-intervertebrale verlaufen die *Spinalnerven* des Rückenmarks.
+(Gelenksfortsätze*, insg. 4 Stück) nach kranial und kaudal zu den benachbarten Wirbeln. Die Processi bilden Ursprungs- und Ansatzpunkte für Muskulatur und Bänder. Zwischen den einzelnen Wirbelbögen, vor den Gelenksfortsätzen, bildet sich aus dem oberen und unteren Wirbel das *Zwischenwirbelloch (Foramen intervertebrale)*. Durch dieses Foramen intervertebrale verlaufen die *Spinalnerven* des Rückenmarks.
 
 ## Besonderheiten der einzelnen Wirbel
 
 *Halswirbel (*C): Foramen transversarium (Loch) in den Procc.
-transversi der Halswirbel für A. vertebralis (Wirbelarterie),
-Dornfortsätze der Halswirbel 2-6 gegabelt.
+transversi der Halswirbel für A. vertebralis (Wirbelarterie), Dornfortsätze der Halswirbel 2-6 gegabelt.
 
-1\. Halswirbel (**Atlas**): kein Wirbelkörper, kein Proc. spinosus, Form eines
-Ringes, trägt Os occipitale (Hinterhauptbein), Arcus anterioris, Arcus
-posterioris, Massae laterales.
+1\. Halswirbel (**Atlas**): kein Wirbelkörper, kein Proc. spinosus, Form eines Ringes, trägt Os occipitale (Hinterhauptbein), Arcus anterioris, Arcus posterioris, Massae laterales.
 
 2. HW (**Axis**): Dens axis » Zapfengelenk zur Kopfdrehung.
 
 7) HW (Vertebra prominens): erster tastbarer Proc. spinosus.
 
 *Brustwirbel* (Th): Fovea costalis superior und inferior
-(Rippen-Gelenkspfannen) an den Wirbelkörpern, Fovea costalis an den
-Procc. transversi ist die Gelenksfläche für das Tuberculum costae der
-Rippen.
+(Rippen-Gelenkspfannen) an den Wirbelkörpern, Fovea costalis an den Procc. transversi ist die Gelenksfläche für das Tuberculum costae der Rippen.
 
-*Lendenwirbel* (L): verglichen mit den anderen Wirbeln besonders große
-Wirbelkörper, zusätzlich Processus costalis, dahinter befindet sich der
-Rest des Proc. transversus (Proc. accessorius und Proc. mammilaris)
+*Lendenwirbel* (L): verglichen mit den anderen Wirbeln besonders große Wirbelkörper, zusätzlich Processus costalis, dahinter befindet sich der Rest des Proc. transversus (Proc. accessorius und Proc. mammilaris)
 
 *Os sacrum (S, Kreuzbein)*: Verschmelzung von 5 Wirbeln und deren Procc.
 costales, dreieckig
@@ -165,19 +131,15 @@ Apex ossis sacri (Kreuzbeinspitze)
 
 Hiatus sacralis (Ende des Wirbelkanals) mit Cornua sacralia
 
-Facies pelvina: Foramina sacralia ant. (4), Lineae transversae (4), Pars
-lateralis und Alae ossis sacri.
+Facies pelvina: Foramina sacralia ant. (4), Lineae transversae (4), Pars lateralis und Alae ossis sacri.
 
-Facies dorsalis: Crista sacralis mediana (verkümmerte Procc. spinosi),
-Crista sacralis intermedia (verkümmerte Procc. articulares), Foramina
-sacralia posteriora, Crista sacralis lateralis (verkümmerte Procc.
+Facies dorsalis: Crista sacralis mediana (verkümmerte Procc. spinosi), Crista sacralis intermedia (verkümmerte Procc. articulares), Foramina sacralia posteriora, Crista sacralis lateralis (verkümmerte Procc.
 transversi), Procc. articulares superiores als Gelenkfortsatz zum 5.
 Lendenwirbelkörper.
 
 Canalis sacralis
 
-*Os coccygeum (Co, Steißbein)*: 3-5 bogenlose Wirbelrudimente, Cornua
-coccygea (verkümmerte Procc. articulares superiores)
+*Os coccygeum (Co, Steißbein)*: 3-5 bogenlose Wirbelrudimente, Cornua coccygea (verkümmerte Procc. articulares superiores)
 
 ## Bandverbindungen
 
@@ -213,8 +175,7 @@ Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion ersc
 
 ## Rückenmuskulatur
 
-Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung,
-Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
+Diese Muskelgruppe ist wichtig für die Bewegung des Rumpfes - Streckung, Drehung, Seitneigung - und für die Stabilisierung der Wirbelsäule.
 
 Grundsätzlich werden *zwei Muskelguppen* unterschieden:
 

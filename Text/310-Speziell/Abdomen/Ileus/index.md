@@ -168,8 +168,7 @@ Dennoch berichten die meisten Patienten über eher unspezifische Symptome:
 - Stuhl– und Windverhalt
 - Zunahme des Bauchumfanges
 
-In extremen Fällen kann es auch zum Erbrechen von zurück
-gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
+In extremen Fällen kann es auch zum Erbrechen von zurück gestautem Kot kommen (*Miserere)* {index}` <Miserere\|Z>`.
 
 
 
@@ -384,6 +383,7 @@ Ileus im OP [oben: ₢ [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {te
 
 
 :::{admonition} Synopsis
+
 Ein Ileus ist eine komplexe Darmerkrankung mit vielen möglichen verschiedenen Ursachen.
 Er stellt eine  bedrohliche systemische Erkrankung dar.
 :::
@@ -393,11 +393,9 @@ Er stellt eine  bedrohliche systemische Erkrankung dar.
 
 ## 38.2. Ileus
 
-Mechanischer Ileus: Okklusions- oder Strangulationsileus (Tumore,
-Gallensteine, Volvolus, Invag.)
+Mechanischer Ileus: Okklusions- oder Strangulationsileus (Tumore, Gallensteine, Volvolus, Invag.)
 Funktioneller Ileus: paralytischer Ileus im Rahmen von intraabdominellen Entzündungen
-(Pankreatitits, Cholezystitis, Appendizitis, Peritonitits), metabolisch (Urämie, Hypokaliämie),
-hormonell (SS), Vaskulär (Claudicatio abdominalis), medikamentör (Opioide, Antidepressiva,..)
+(Pankreatitits, Cholezystitis, Appendizitis, Peritonitits), metabolisch (Urämie, Hypokaliämie), hormonell (SS), Vaskulär (Claudicatio abdominalis), medikamentör (Opioide, Antidepressiva,..)
 
 Dünndarmileus: Starke Vermehrung von Darmkeimen va. E.coli und Hypersekretion der SH mit Stuhlerbrechen und vital bedrohlichen Flüssigkeitsverschiebungen und Elektrolytentgleisungen.
 Beim tiefen Dünndarmileus steht die Translokation im Vordergrund mit Gefahr des septischen MOF.
@@ -408,6 +406,5 @@ Klinik: Schmerzen, Erbrechen, Meteorismus, Misere bei hohem Dünndarmileus 1
 
 
 Therapie:
-- Paralytischer Ileus: konservativ Magensonde zur Dekompression, bilanzierte Flüssigkeit und Elektrolytgabe,
-Absetzen von motilitätshemmenden Medikamenten, ev. AB, Behandlung der Grunderkrankung, medikamentöse Induktion von Peristaltik (Prokinetika, Laxantien)
+- Paralytischer Ileus: konservativ Magensonde zur Dekompression, bilanzierte Flüssigkeit und Elektrolytgabe, Absetzen von motilitätshemmenden Medikamenten, ev. AB, Behandlung der Grunderkrankung, medikamentöse Induktion von Peristaltik (Prokinetika, Laxantien)
 - OP bei Okklusions-oder Strangulationsileus

@@ -5,18 +5,13 @@
 
 # *Pharmakotherapie*
 
-Die Gabe von Medikamenten ist eine Routinemaßnahme während der
-Reanimation. Typischerweise erfolgt die Medikamentengabe über eine
-periphere Venenverweilkanüle (Venflon, Braunüle).
+Die Gabe von Medikamenten ist eine Routinemaßnahme während der Reanimation. Typischerweise erfolgt die Medikamentengabe über eine periphere Venenverweilkanüle (Venflon, Braunüle).
 Sinvollerweise wird standardmäßig auch eine Infusion mit kristalloider Infusionslösung
 (Kochsalz-, Ringerlösung, Ringerlaktat, Elo-Mel isoton™)
 angeschlossen,
 um eine schnelle Spülung zu ermöglichen.
 
-Sollte die rasche Anlage einer solchen nicht gelingen, kann als
-Alternative ein intraossärer Zugang mittels spezieller Hilfsmittel
-gelegt werden. Früher war es auch üblich, Medikamente über einen
-Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
+Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein intraossärer Zugang mittels spezieller Hilfsmittel gelegt werden. Früher war es auch üblich, Medikamente über einen Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
 ```{eval-rst}
 .. tabularcolumns:: LLLL
@@ -73,8 +68,7 @@ Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 :width: 100%
 
 Monitor-Bild während einer Reanimation im AED-Modus:
-Ventrikuläre Tachykardie und Bewegungsartefakte durch die
-Herzdruckmassage.
+Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.
 :::
 
 (fig-cc-teddy-25)=
@@ -83,8 +77,7 @@ Herzdruckmassage.
 :alt: Base Mesh + 25% Stream + 256x256 Texture (568 KB)
 :width: 100%
 
-Während einer Reanimation kann viel Adrenalin verbraucht
-werden.
+Während einer Reanimation kann viel Adrenalin verbraucht werden.
 :::
 
 ```{eval-rst}

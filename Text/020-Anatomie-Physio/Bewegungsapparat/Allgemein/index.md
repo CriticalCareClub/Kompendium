@@ -10,17 +10,8 @@
 :::
 ::::
 
-Man kann den Bewegungsapparat in einen
-**aktiven** und einen
-**passiven**
-unterteilen.
-Der passive Bewegungsapparat besteht aus dem *Skelett* und
-den *Knochenverbindungen*,
-der aktive Bewegungsapparat aus
-*Skelettmuskulatur*,
-den dazugehörigen *Sehnen*
-und den *Hilfseinrichtungen*
-der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
+Man kann den Bewegungsapparat in einen **aktiven** und einen **passiven** unterteilen.
+Der passive Bewegungsapparat besteht aus dem *Skelett* und den *Knochenverbindungen*, der aktive Bewegungsapparat aus *Skelettmuskulatur*, den dazugehörigen *Sehnen* und den *Hilfseinrichtungen* der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
 
 :::{figure} /Bilder/WikipediaPd/Human_skeleton_front-edited.\*
 :width: 100%
@@ -41,10 +32,7 @@ Das menschliche Skelett.
 
 ## Knochenverbindungen (Juncturen)
 
-Knochenverbindungen (Juncturen) können in
-**Synarthrosen** (kontinuierliche / unbewegliche
-Knochenverbindungen, Fugen / Haften) und
-**Diarthrosen**
+Knochenverbindungen (Juncturen) können in **Synarthrosen** (kontinuierliche / unbewegliche Knochenverbindungen, Fugen / Haften) und **Diarthrosen**
 (diskontinuierliche / bewegliche Knochenverbindungen, Gelenke)
 unterteilt werden.
 
@@ -101,57 +89,37 @@ Bei Synarthrosen können unterschieden werden:
 
 ### Klassische Gelenke: Diarthrosen
 
-Diarthrosen,
-die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*),
-haben verschiedene definierte Kennzeichen:
-Die *Knochenenden* sind durch einen **Gelenkspalt** getrennt
-und mit **hyalinem Knorpel** überzogen.
-Die **Gelenkkapsel** ist die äußere Begrenzung des
-Gelenks und schließt die *Gelenkflüssigkeit* (*Synovia*) ein.
-In manchen Gelenken
-gibt es *Gelenkkörper* (Discus, Labrum, Meniscus, z.B. Kniegelenk).
+Diarthrosen, die umgangssprachlich "klassischen" Gelenke (*Articulationes*, *Art.*), haben verschiedene definierte Kennzeichen:
+Die *Knochenenden* sind durch einen **Gelenkspalt** getrennt und mit **hyalinem Knorpel** überzogen.
+Die **Gelenkkapsel** ist die äußere Begrenzung des Gelenks und schließt die *Gelenkflüssigkeit* (*Synovia*) ein.
+In manchen Gelenken gibt es *Gelenkkörper* (Discus, Labrum, Meniscus, z.B. Kniegelenk).
 Die Gelenkkapsel besteht aus zwei Schichten:
 Eine derbe bindegewebige Schicht
-(*Membrana fibrosa*; straff, bestehend aus Kollagenfasern) ist außen
-und meist durch Ligamenta (Bänder) verstärkt.
+(*Membrana fibrosa*; straff, bestehend aus Kollagenfasern) ist außen und meist durch Ligamenta (Bänder) verstärkt.
 Die Gelenkinnenhaut
 ({dfn}`Membrana synovialis`; Gefäß- und Nervenreich)
-sorgt für die Produktion der Gelenkflüssigkeit,
-die für die Nährstoffversorgung des Knorpels von
-großer Bedeutung ist.
+sorgt für die Produktion der Gelenkflüssigkeit, die für die Nährstoffversorgung des Knorpels von großer Bedeutung ist.
 
 Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen*
-(*Chondrozyten)* besteht dieser Knorpel
-aus *Extrazellulärmatrix*
+(*Chondrozyten)* besteht dieser Knorpel aus *Extrazellulärmatrix*
 {deep}`(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)`.
 {deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.`
 Er ist auch aufgrund des mangelndem Knorpelhaut
-(Perichondrium, enthält Nerven und und Blutgefäße) und der
-abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut
-*abgegrenzt*
-und muss über die Gelenksflüssigkeit versorgt
-werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden
-in Gelenken auch eine so große Herausforderung ist.
+(Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
 
 Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
 "Basisausstattung" der Gelenke dazugehört: Verstärkungsbänder
 (Ligamentum), Zwischenscheiben (Discus articularis), Gelenklippen
 (Labrum), Gleitbeutel (Recessus; dies sind keine Schleimbeutel!).
 
-Die Gelenke werden je nach Ausstattung unterschiedlich *gesichert* und in
-*exzessiver Bewegung gehemmt*.
+Die Gelenke werden je nach Ausstattung unterschiedlich *gesichert* und in *exzessiver Bewegung gehemmt*.
 Es gibt daher die *Bandhemmung*
-(Bewegungshemmung durch Bänder, z. B. Kniegelenk),
-die *Knochenhemmung*
-(Bewegungshemmung durch Knochen, z. B. Ellenbogengelenk),
-die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk,
-Hüftgelenk)
-und die *Weichteilhemmung* (Bewegungshemmung durch sonstige
-Weichteile, z. B. Ellenbogengelenk, Kniegelenk).
+(Bewegungshemmung durch Bänder, z. B. Kniegelenk), die *Knochenhemmung*
+(Bewegungshemmung durch Knochen, z. B. Ellenbogengelenk), die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk, Hüftgelenk)
+und die *Weichteilhemmung* (Bewegungshemmung durch sonstige Weichteile, z. B. Ellenbogengelenk, Kniegelenk).
 
-Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es
-gibt
+Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es gibt
 
 - Verstärkungsbänder (für die Gelenkkapsel)
 - Führungsbänder (für Bewegungen)
@@ -176,8 +144,7 @@ gibt
 
 #### Gelenksformen
 
-Nach ihrer Form und ihrer Bewegungsfreiheit bzw. der Anzahl der
-Bewegungsachsen werden verschiedene *Gelenksformen* unterschieden:
+Nach ihrer Form und ihrer Bewegungsfreiheit bzw. der Anzahl der Bewegungsachsen werden verschiedene *Gelenksformen* unterschieden:
 
 - **Kugelgelenk** (Art. sphaeroidea): **3** Freiheitsgrade, z.B.
   Schultergelenk
@@ -195,10 +162,7 @@ Bewegungsachsen werden verschiedene *Gelenksformen* unterschieden:
 - **Straffes Gelenk** (Amphiarthrose): Beweglichkeit durch Bänder stark
   eingeschränkt, z.B. Gelenke zwischen den Handwurzelknochen
 
-Der **Freiheitsgrad** beschreibt die unterschiedlichen Bewegungen in einer
-Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit
-diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem
-Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
+Der **Freiheitsgrad** beschreibt die unterschiedlichen Bewegungen in einer Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenkarten.\*
 :width: 100%
@@ -215,8 +179,7 @@ Gelenkarten:
 
 #### Gelenksarten
 
-Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten*
-unterscheiden:
+Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten* unterscheiden:
 
 - **einfaches Gelenk** {deep}`(Art. simplex)`: Ein einfaches Gelenk verbindet,
   wie bei der allgemeinen Beschreibung der Kennzeichen der Diarthrose
@@ -246,20 +209,14 @@ unterscheiden:
 
 Zum Aufbau der Muskel siehe {ref}`Muskel`.
 
-Muskel überspannen mindestens ein Gelenk und sind direkt oder über
-Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden
-Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* {deep}`(Origio)`
-und ein *Ansatz* {deep}`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und
-der Ansatz Rumpf-fern.
+Muskel überspannen mindestens ein Gelenk und sind direkt oder über Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* {deep}`(Origio)`
+und ein *Ansatz* {deep}`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und der Ansatz Rumpf-fern.
 
-Eine weitere Beschreibungsmöglichkeit von Muskeln
-umfasst die Begriffe **Punctum mobile** — der Skelettteil der bewegt wird —
+Eine weitere Beschreibungsmöglichkeit von Muskeln umfasst die Begriffe **Punctum mobile** — der Skelettteil der bewegt wird —
 und **Punctum fixum** — der Skelettteil der unbewegt bleibt.
-In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctum mobile
-wechseln (z.B. {ref}`Atemhilfsmuskulatur <Atemhilfsmuskulatur>`)!
+In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctum mobile wechseln (z.B. {ref}`Atemhilfsmuskulatur <Atemhilfsmuskulatur>`)!
 
-Muskel können nur Zug und keinen Druck ausüben, daher sind
-**Gegenspieler** notwendig, um eine Bewegung aufzuheben
+Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** notwendig, um eine Bewegung aufzuheben
 (**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.:
 ein Muskel streckt den Arm, ein *anderer* beugt ihn).
 
@@ -287,8 +244,7 @@ Nach der *Form* können verschiedene Muskeltypen unterschieden werden:
 - **ringförmiger** Muskel (M. orbicularis), z.B. M. sphincter anus
   externus, M. orbicularis oris
 
-Wie bereits erwähnt, besitzen Muskeln *Hilfseinrichtungen*, um das
-richtige Funktionieren zu gewährleisten:
+Wie bereits erwähnt, besitzen Muskeln *Hilfseinrichtungen*, um das richtige Funktionieren zu gewährleisten:
 
 - **Muskelfaszien**: sorgen für reibungsloses Gleiten der Muskeln, teilen
   einzelne Muskelgruppen (Kompartimente)
@@ -309,30 +265,19 @@ richtige Funktionieren zu gewährleisten:
 {index}` <Epimysium>`
 {index}` <Faszie>`
 {index}` <Muskel; -faszie>`
-Die Muskelfasern sind von Bindegewebe (*Endo*mysium) umhüllt. Diese
-bilden dann gemeinsam Muskelbündel, die wiederum von Bindegewebe (*Peri*mysium) umhüllt
-werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom
-*Epi*mysium umhüllt ist. Der Muskel ist zudem in eine **Muskelfaszie**
-verpackt, um eine möglichst reibungsarme Bewegung zu ermöglichen.
+Die Muskelfasern sind von Bindegewebe (*Endo*mysium) umhüllt. Diese bilden dann gemeinsam Muskelbündel, die wiederum von Bindegewebe (*Peri*mysium) umhüllt werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom *Epi*mysium umhüllt ist. Der Muskel ist zudem in eine **Muskelfaszie** verpackt, um eine möglichst reibungsarme Bewegung zu ermöglichen.
 
 Einige Muskeln besitzen auch einen
 {index}` <Hypomochlion>`
 {index}` <Umlenkpunkt; Muskel>`
-*Umlenkpunkt* (**Hypomochlion**), da
-Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen,
-z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
+*Umlenkpunkt* (**Hypomochlion**), da Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen, z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
 
-Die **Muskelwirkung** ist immer abhängig vom *Hebelarm* und lässt sich
-mittels folgenden Formeln darstellen:
+Die **Muskelwirkung** ist immer abhängig vom *Hebelarm* und lässt sich mittels folgenden Formeln darstellen:
 
 - Kraft x Kraftarm = Last x Lastarm
 - ∑ (Kraft x Kraftarm), (Last x Lastarm) = Drehmoment
 
-Zusätzlich ist die Muskelkraft immer abhängig vom *physiologischen
-Querschnitt*. Dieser physiologische Querschnitt ist definiert als die
-Summe der Querschnitte aller Fasern.
+Zusätzlich ist die Muskelkraft immer abhängig vom *physiologischen Querschnitt*. Dieser physiologische Querschnitt ist definiert als die Summe der Querschnitte aller Fasern.
 
 {index}` <Endplatte; motorische>`
-Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem
-motorischen Nerv über die **motorische Endplatte**, eine spezialisierte
-Form der Synapse.
+Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem motorischen Nerv über die **motorische Endplatte**, eine spezialisierte Form der Synapse.

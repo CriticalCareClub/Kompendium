@@ -5,13 +5,10 @@
 
 {ref}`Thiopental <Thiopental>` (Trapanal®)
 
-Diese Substanzklasse führt zu einer Hemmung der sog. Formatio
-reticularis im Gehirn. Dadurch wirken sie hypnotisch, nicht analgetisch
-(sogar Gefahr der Hyperalgesie) und führen jedoch nicht zu einer
-ausreichenden Muskelrelaxation.
+Diese Substanzklasse führt zu einer Hemmung der sog. Formatio reticularis im Gehirn. Dadurch wirken sie hypnotisch, nicht analgetisch
+(sogar Gefahr der Hyperalgesie) und führen jedoch nicht zu einer ausreichenden Muskelrelaxation.
 
-Barbiturate werden zur Narkoseeinleitung nur in Kombination mit anderen
-Narkotika und beim Status epileptikus in der Neurologie verwendet.
+Barbiturate werden zur Narkoseeinleitung nur in Kombination mit anderen Narkotika und beim Status epileptikus in der Neurologie verwendet.
 
 Unerwünschte Wirkungen:
 
@@ -89,10 +86,7 @@ Notfallintubation nur mit Ketamin.
 ## S-(+)-Ketamin (Ketanest®)
 
 Über einen nicht-konpetitiven Antagonismus am NMDA-Rezeptor
-(Glutamatrezeptorsubtyp) kommt die hypnotische Wirkung zustande. Es
-kommt hierbei zu einer sog. „dissoziativen Anästhesie“. Das ist ein
-katalepsieähnlicher Zustand mit Bewusstseinsverlust, Analgesie und
-Amnesie. Weiters kommt es zu einer Bronchodilatation.
+(Glutamatrezeptorsubtyp) kommt die hypnotische Wirkung zustande. Es kommt hierbei zu einer sog. „dissoziativen Anästhesie“. Das ist ein katalepsieähnlicher Zustand mit Bewusstseinsverlust, Analgesie und Amnesie. Weiters kommt es zu einer Bronchodilatation.
 
 Dadurch weist Ketamin ein breitgefächertes Einsatzgebiet auf:
 
@@ -104,12 +98,9 @@ Dadurch weist Ketamin ein breitgefächertes Einsatzgebiet auf:
 
 unerwünschte Wirkungen:
 
-Ketamin führt zu einem Anstieg von Blutdruck und Herzfrequenz,
-gesteigerten Abwehrreflexen im Rachenbereich und Alpträumen und
-Halluzinationen in der Aufwachphase.
+Ketamin führt zu einem Anstieg von Blutdruck und Herzfrequenz, gesteigerten Abwehrreflexen im Rachenbereich und Alpträumen und Halluzinationen in der Aufwachphase.
 
-Kontraindikationen: Myokardinfarkt, KHK, Schädel-Hirn-Trauma, Eklampsie,
-psychiatrische Erkrankungen.
+Kontraindikationen: Myokardinfarkt, KHK, Schädel-Hirn-Trauma, Eklampsie, psychiatrische Erkrankungen.
 
 
 -----
@@ -126,8 +117,7 @@ Der zentrale Atemantrieb wird wenig beeinflusst. Bronchodilation.
 Bei Kindern Atemregulation (CO2-Response) beeinflusst  +  Gefahr des Laryngospasmus durch Speichelfluss!
 Daher keine Anwendung bei Kleinkindern und Säuglingen.
 
-Ketamin stimuliert den Sympathikus durch Hemmung der NA-Wiederaufnahme = Anstieg von HF,
-RR, CO nicht dosisabhängig!
+Ketamin stimuliert den Sympathikus durch Hemmung der NA-Wiederaufnahme = Anstieg von HF, RR, CO nicht dosisabhängig!
 
 Wirkt negativ inotrop, daher KI bei KHK und ACS! Eine Abschwächung des Sympathikus (ZNS) wurde bei Dauerinfusion und Midazolam Prämedizierung beobachtet.
 
@@ -138,8 +128,7 @@ Dosis
 
 Senkt den Opioidbedarf! Faustregel: 0,25mg/kg KG als Kurzinfusion postoperativ zur Schmerztherapie.
 
-ZNS: neuroprotektiv wenn ICP konstant bei kontrollierter Beatmung und Normokapnie,
-Kombination mit Dormicum.
+ZNS: neuroprotektiv wenn ICP konstant bei kontrollierter Beatmung und Normokapnie, Kombination mit Dormicum.
 
 Ind: Risikopatienten, Trauma Patienten, Notfallintubation beim septischen Schock, Pat. mit hyperreagiblem Bronchialsystem,...
 
@@ -147,17 +136,13 @@ Ind: Risikopatienten, Trauma Patienten, Notfallintubation beim septischen Schock
 
 ## Propofol (Disoprivan®, Diprivan®)
 
-Dieses sehr beliebte Medikament für die Narkoseeinleitung zeichnet sich
-durch die kurze und allein hypnotische Wirkdauer (5-8 min) aus. Es wird
-in einer Öl-in-Wasser-Emulsion (10% Sojaöl, dadurch die weiße Farbe)
+Dieses sehr beliebte Medikament für die Narkoseeinleitung zeichnet sich durch die kurze und allein hypnotische Wirkdauer (5-8 min) aus. Es wird in einer Öl-in-Wasser-Emulsion (10% Sojaöl, dadurch die weiße Farbe)
 verabreicht.
 
 unerwünschte Wirkungen:
 
 Propofol führt zu einer Atemdepression, die in einer Apnoe gipfeln kann.
-Weiters kann man Blutdruckabfälle, lokale Schmerzen während der
-Injektion durch Gefäßwandreizungen und Erregungsphänomene (spontane
-Bewegungen, Myoklonien) beobachten.
+Weiters kann man Blutdruckabfälle, lokale Schmerzen während der Injektion durch Gefäßwandreizungen und Erregungsphänomene (spontane Bewegungen, Myoklonien) beobachten.
 
 Kontraindikationen: Schwangerschaft, Stillzeit, Kinder.
 
@@ -209,17 +194,14 @@ Narkosetiefe Unzuverlässige Zeichen: Blutdruck und HF, Somatische Zeichen (Trä
 
 Ursache: Störung der Fettsäureoxydation durch Entkoppelung der Atmungskette mit mangelnder Bereitstellung von ATP, mit Zelluntergang bei erhöhtem Energiebedarf = Muskelzellnekrosen mit Laktatazidose. Letalität bis 85%
 
-Risikofaktoren: Hochdosierte (\>  5mg/kg/h) Langzeitsedierung (\>48h), TIVA mit Propofol  \>  5h,
-Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung),
-und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
+Risikofaktoren: Hochdosierte (\>  5mg/kg/h) Langzeitsedierung (\>48h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
 
 
 Klinik:
 - Herz-Kreislauf-Störungen: therapierefraktäre Bradykardie bis Asystolie, besonders bei Kindern, bei Erwachsenen eher VT und Kammerflimmern. Hypotonie durch vermindertes Preload und Sympatikolyse.
 - Metabolische Azidose mit Laktatanstieg als Frühmarker bei 90%! Negativer BE \>10
 - Rhabdomyolyse mit CK-Erhöhung
-- Lebervergrößerung/steatose mit Transaminasenanstieg,
-Hypertriglyzeridämie(Frühzeichen?)
+- Lebervergrößerung/steatose mit Transaminasenanstieg, Hypertriglyzeridämie(Frühzeichen?)
 - CRUSH-Niere (progred. NV durch Rhabdomyolyse und Minderperfusion) mit Myoglobinurie
 
 
@@ -247,12 +229,7 @@ Propofol: In Eiphospatid und Sojaöl gelöst! (Fettzufuhr: 1ml 1%  =  0,1g Fett!
 Rezeptor und damit Freisetzung von Glutamat, sowie den Natriumkanal-abhängigen Natriumeinstrom in die Zelle. Wird in der Leber konjungiert und zu 88%  über die Niere ausgeschieden. Ausgeprägter Firstpass-Effekt in der Lunge. Wirkdauer 4-6min, HWZ 55min (2%
 länger! Größeres Verteilungsvolumen), Bronchodilatatorisch ab 2,5mg/kg, Antiemetisch
 (unspezifische Wirkung auf 5HT3-Rezeptor und verminderte Serotoninfreisetzung im ZNS)
-Narkoseinduktion: Erw. 1,5-2,5mg/kg, Kind \< 8Lj 2,5-4mg/kg,
-Kind \> 8Lj 2,5mg/kg NW: Atemdepressiv, Hypotonie durch Vasodilatation, Injektionschmerz (+Lidocain bei Kindern 1:10),
-Myoklonien,
-EEG-Veränderungen,
-Leberverfettung,
-Pankreatitis.
+Narkoseinduktion: Erw. 1,5-2,5mg/kg, Kind \< 8Lj 2,5-4mg/kg, Kind \> 8Lj 2,5mg/kg NW: Atemdepressiv, Hypotonie durch Vasodilatation, Injektionschmerz (+Lidocain bei Kindern 1:10), Myoklonien, EEG-Veränderungen, Leberverfettung, Pankreatitis.
 CAVE:
 Fettstoffwechselstörungen!
 
@@ -265,18 +242,12 @@ Fettstoffwechselstörungen!
 
 ## γ-Hydroxybuttersäure (GHB, Somsanit®)
 
-GHB vermittelt dosisabhängig eine hypnotische bis narkotische Wirkung
-wobei es aber nicht analgetisch wirkt.
+GHB vermittelt dosisabhängig eine hypnotische bis narkotische Wirkung wobei es aber nicht analgetisch wirkt.
 
-Daher wird GHB als Hypnotikum / Narkotikum in Anästhesie und
-Intensivmedizin eingesetzt, wobei die Verwendung wegen besserer
-Alternativen nicht mehr so häufig vorkommt.
+Daher wird GHB als Hypnotikum / Narkotikum in Anästhesie und Intensivmedizin eingesetzt, wobei die Verwendung wegen besserer Alternativen nicht mehr so häufig vorkommt.
 
 unerwünschte Wirkungen:
 
-Wegen dem prokonvulsiven Effekt von GHB muss man bei Epileptikern
-besonders aufpassen. Weiters treten Myoklonien sowie Hypernatriämie und
-eine metabolische Alkalose bei niereninsuffizienten Patienten auf.
+Wegen dem prokonvulsiven Effekt von GHB muss man bei Epileptikern besonders aufpassen. Weiters treten Myoklonien sowie Hypernatriämie und eine metabolische Alkalose bei niereninsuffizienten Patienten auf.
 
-Kontraindikationen: Epilepsie, schwere Niereninsuffizienz, arterielle
-Hypertonie, Alkoholintoxikation
+Kontraindikationen: Epilepsie, schwere Niereninsuffizienz, arterielle Hypertonie, Alkoholintoxikation

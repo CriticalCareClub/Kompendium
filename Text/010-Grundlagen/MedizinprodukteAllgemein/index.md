@@ -17,14 +17,8 @@
 
 ## Medizinproduktegesetz - MPG
 
-Das Medizinproduktegesetz regelt die Funktionstüchtigkeit, Sicherheit,
-Inbetriebnahme, Instandhaltung, den Betrieb und die Anwendung,
-Überwachung, Sterilisation, Desinfektion und Reinigung von
-Medizinprodukten. Als Medizinprodukte gelten alle Instrumente, Apparate,
-Vorrichtungen, Stoffe oder andere Gegenstände (inkl. Software), die vom
-Hersteller zur Anwendung am Menschen zwecks Erkennen, Überwachen und
-Behandlung von Krankheiten, Verletzungen oder Behinderungen bestimmt
-sind [^footnote-1].
+Das Medizinproduktegesetz regelt die Funktionstüchtigkeit, Sicherheit, Inbetriebnahme, Instandhaltung, den Betrieb und die Anwendung,
+Überwachung, Sterilisation, Desinfektion und Reinigung von Medizinprodukten. Als Medizinprodukte gelten alle Instrumente, Apparate, Vorrichtungen, Stoffe oder andere Gegenstände (inkl. Software), die vom Hersteller zur Anwendung am Menschen zwecks Erkennen, Überwachen und Behandlung von Krankheiten, Verletzungen oder Behinderungen bestimmt sind [^footnote-1].
 
 [^footnote-1]: Genauer: Zwecks
 
@@ -38,16 +32,12 @@ sind [^footnote-1].
 
     wobei … Medikamente fallen nicht darunter.
 
-Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem
-Medizinprodukt verwendet zu werden ("Zubehör"), gelten selber auch als
-Medizinprodukt. Dies trifft auch auf *Desinfektionsmittel* zu, mit
-welchen Medizinprodukte gereinigt und wiederaufbereitet werden!
+Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem Medizinprodukt verwendet zu werden ("Zubehör"), gelten selber auch als Medizinprodukt. Dies trifft auch auf *Desinfektionsmittel* zu, mit welchen Medizinprodukte gereinigt und wiederaufbereitet werden!
 
-Es gibt tausende verschiedene Produkte, i.d.R. haben sie alle eine
-*CE-Kennzeichnung*. Diese zeigt an, dass das Produkt gewissen
-Minimalanforderungen entspricht.
+Es gibt tausende verschiedene Produkte, i.d.R. haben sie alle eine *CE-Kennzeichnung*. Diese zeigt an, dass das Produkt gewissen Minimalanforderungen entspricht.
 
 :::{figure} /Bilder/Logos/Ce-logo.jpg
+
 Das CE-Kennzeichen
 :::
 
@@ -76,11 +66,7 @@ Das CE-Kennzeichen
 - Meldepflicht bei schweren Mängeln
 :::
 
-Anwender sind verpflichtet, die Medizinprodukte richtig,
-zweckentsprechend und sicher einzusetzen bzw. anzuwenden, so wie es
-ihnen bei ihrer Einweisung gelehrt wurde und es der Hersteller
-vorgesehen hat. Darüber hinaus ergeben sich noch weitere spezielle
-Verpflichtungen:
+Anwender sind verpflichtet, die Medizinprodukte richtig, zweckentsprechend und sicher einzusetzen bzw. anzuwenden, so wie es ihnen bei ihrer Einweisung gelehrt wurde und es der Hersteller vorgesehen hat. Darüber hinaus ergeben sich noch weitere spezielle Verpflichtungen:
 
 - *Funktionskontrolle*: Der Anwender muss sich vor jeder Anwendung
   eines Medizinproduktes von der Funktionstüchtigkeit,
@@ -115,26 +101,16 @@ Verpflichtungen:
 - Material muss steril bleiben!
 :::
 
-Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden,
-damit es beim Öffnen nicht verunreinigt wird. Gängiges
-Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt
-sich von der Unterseite ablösen. Dabei darf das Material nicht
-kontaminiert werden.
+Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden, damit es beim Öffnen nicht verunreinigt wird. Gängiges Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt sich von der Unterseite ablösen. Dabei darf das Material nicht kontaminiert werden.
 
 Manche vorgefertigten Sets (z. B. für diverse chirurgische Eingriffe)
-werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in
-mehrere Lagen von Spezialpapier eingewickelt. Das Spezialpapier darf nur
-an der Außenseite angefasst werden und wird auf einer Fläche
-ausgebreitet, sodass das darin eingewickelte *Material steril bleibt*.
+werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in mehrere Lagen von Spezialpapier eingewickelt. Das Spezialpapier darf nur an der Außenseite angefasst werden und wird auf einer Fläche ausgebreitet, sodass das darin eingewickelte *Material steril bleibt*.
 
 % todo: Bild: Aufschälen einer Verpackung
 
 #### Spezielle Medizinprodukte
 
-Für Medizinprodukte sind die Medizinprodukteeinweisungen sowie die
-Gebrauchsanleitungen bzw. Herstellerhinweise zu beachten. Allgemeine,
-nicht produktspezifische Informationen finden sich in folgenden
-Abschnitten:
+Für Medizinprodukte sind die Medizinprodukteeinweisungen sowie die Gebrauchsanleitungen bzw. Herstellerhinweise zu beachten. Allgemeine, nicht produktspezifische Informationen finden sich in folgenden Abschnitten:
 
 - {ref}`Absauggeräte <absaugung>`
 

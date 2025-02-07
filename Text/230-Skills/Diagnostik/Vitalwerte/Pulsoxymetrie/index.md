@@ -9,25 +9,17 @@
 
 # Pulsoxymetrie
 
-Die Pulsoxymetrie ist eine einfache,
-*nicht-invasive* Untersuchungsmethode zur Ermittlung
-der **Sauerstoffsättigung** des Hämoglobins[^footnote-1] im kapillären Blut (*SpO₂*)
+Die Pulsoxymetrie ist eine einfache, *nicht-invasive* Untersuchungsmethode zur Ermittlung der **Sauerstoffsättigung** des Hämoglobins[^footnote-1] im kapillären Blut (*SpO₂*)
 und der **Pulsfrequenz**.
 Durchgeführt wird sie mittels eines *Pulsoxymeters*.
 
 [^footnote-1]: Das Hämoglobin ist der für die Sauerstoffbindung verantwortliche
     Stoff in den roten Blutkörperchen ({ref}`haemoglobin`).
 
-Das Messprinzip basiert auf einer Messung der Lichtabsorption bzw. der
-Lichtremission bei Durchleuchtung der Haut mittels eines Sensors,
-bestehend aus einer Lichtquelle und einem Fotosensor. Auf diese Weise
-wird das Verhältnis der mit Sauerstoff beladenen roten Blutkörperchen zu
-den nicht beladenen bestimmt. Als weiteren Wert zeigt das Pulsoxymeter
-die *Pulsfrequenz* an.
+Das Messprinzip basiert auf einer Messung der Lichtabsorption bzw. der Lichtremission bei Durchleuchtung der Haut mittels eines Sensors, bestehend aus einer Lichtquelle und einem Fotosensor. Auf diese Weise wird das Verhältnis der mit Sauerstoff beladenen roten Blutkörperchen zu den nicht beladenen bestimmt. Als weiteren Wert zeigt das Pulsoxymeter die *Pulsfrequenz* an.
 
 Als *Messstelle* eignen sich meist leicht zugängliche Körperstellen
-(*Finger, Zeh, Ohrläppchen*) – die Herstellerangaben über die Eignung
-des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
+(*Finger, Zeh, Ohrläppchen*) – die Herstellerangaben über die Eignung des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
 
 
 ## Gerätearten
@@ -41,8 +33,7 @@ des Sensors für die gewünschte Messstelle müssen jedoch beachtet werden.
 :::
 ::::
 
-Zur Messung der Sauerstoffsättigung mit dem Prinzip der Pulsoxymetrie
-gibt es verschiedene Gerätearten:
+Zur Messung der Sauerstoffsättigung mit dem Prinzip der Pulsoxymetrie gibt es verschiedene Gerätearten:
 
 - *Fingerclip-Geräte*: Diese vereinen Messgerät und Sensor in einem
   Gerät.
@@ -53,6 +44,7 @@ gibt es verschiedene Gerätearten:
   Pulsoxymetrie mithilfe eines Sensors.
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779-00943pt.\*
+
 Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
@@ -68,9 +60,7 @@ Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min
 :::
 ::::
 
-Neben den Fingerclip-Geräten sind praktisch alle anderen Gerätetypen mit
-wechselbaren, kabelgebundenen Sensoren versehen. Diese Sensoren können
-je nach Anwendungsfall ausgetauscht werden.
+Neben den Fingerclip-Geräten sind praktisch alle anderen Gerätetypen mit wechselbaren, kabelgebundenen Sensoren versehen. Diese Sensoren können je nach Anwendungsfall ausgetauscht werden.
 
 Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
 
@@ -89,32 +79,18 @@ Prinzipiell kann man zwei Sensorgrundarten unterscheiden:
 
 ## Funktionsprüfung
 
-Vor der Verwendung ist das jeweilige Gerät einer Sichtprüfung auf
-offensichtliche Schäden zu unterziehen (Gehäuse, Kabel, Sensor). Nach
-dem Einschalten ist der Selbsttest des Gerätes abzuwarten und der
-Batteriestand zu prüfen. Anschließend ist das Gerät im Selbstversuch zur
-Messung der eigenen Sauerstoffsättigung und der Pulsfrequenz zu
-verwenden. Nur bei einwandfreier Funktion darf das Gerät zur Messung am
-Patienten verwendet werden.
+Vor der Verwendung ist das jeweilige Gerät einer Sichtprüfung auf offensichtliche Schäden zu unterziehen (Gehäuse, Kabel, Sensor). Nach dem Einschalten ist der Selbsttest des Gerätes abzuwarten und der Batteriestand zu prüfen. Anschließend ist das Gerät im Selbstversuch zur Messung der eigenen Sauerstoffsättigung und der Pulsfrequenz zu verwenden. Nur bei einwandfreier Funktion darf das Gerät zur Messung am Patienten verwendet werden.
 
 ## Anwendung
 
 Zur Anwendung am Patienten wird eine entsprechende Messstelle gesucht.
-Dabei ist besonders auf Nagellack, künstliche Nägel und Verschmutzung
-der Messstelle zu achten. Bei starker Verschmutzung muss die Messstelle
-zuerst entsprechend gereinigt werden (z. B. Alkoholtupfer bei Fingern).
-Dann wird das Gerät eingeschaltet und der Selbsttest abgewartet. Danach
-wird der Sensor an der entsprechenden Stelle platziert (meist
-Mehrwegsensoren für Erwachsene zur Verwendung an Fingern). Nach etwas
-Wartezeit können die Messwerte abgelesen werden. Es muss natürlich immer
-der klinische Zustand und die Anamnese mit in Betracht gezogen werden.
+Dabei ist besonders auf Nagellack, künstliche Nägel und Verschmutzung der Messstelle zu achten. Bei starker Verschmutzung muss die Messstelle zuerst entsprechend gereinigt werden (z. B. Alkoholtupfer bei Fingern).
+Dann wird das Gerät eingeschaltet und der Selbsttest abgewartet. Danach wird der Sensor an der entsprechenden Stelle platziert (meist Mehrwegsensoren für Erwachsene zur Verwendung an Fingern). Nach etwas Wartezeit können die Messwerte abgelesen werden. Es muss natürlich immer der klinische Zustand und die Anamnese mit in Betracht gezogen werden.
 
-Das Pulsoxymeter eignet sich sehr gut für das Monitoring, ersetzt aber
-niemals das wachsame Auge auf den Patienten!
+Das Pulsoxymeter eignet sich sehr gut für das Monitoring, ersetzt aber niemals das wachsame Auge auf den Patienten!
 
 :::{note}
-Pulsoxymetrie: Eine ausreichende Blutversorgung der Körperstelle,
-an der der Sensor angebracht ist, ist notwendig.
+Pulsoxymetrie: Eine ausreichende Blutversorgung der Körperstelle, an der der Sensor angebracht ist, ist notwendig.
 :::
 
 ## Ermittelte Werte
@@ -129,9 +105,7 @@ an der der Sensor angebracht ist, ist notwendig.
 ::::
 
 Die Sauerstoffsättigung wird in Prozent angegeben und wird mit {dfn}`SpO₂` abgekürzt. Der Normalwert liegt zwischen *96—100%*.
-Bei Patienten mit chronischer Lungenerkrankung findet man
-jedoch oft sehr niedrige Werte (z. B. 90%), ohne dass die Patienten
-Beschwerden haben.
+Bei Patienten mit chronischer Lungenerkrankung findet man jedoch oft sehr niedrige Werte (z. B. 90%), ohne dass die Patienten Beschwerden haben.
 
 ## Beurteilung
 
@@ -143,12 +117,8 @@ Beschwerden haben.
 :::
 ::::
 
-Bei der Beurteilung des SpO2 muss berücksichtigt werden,
-*ob und wieviel \*Sauerstoff* der Patient bereits erhält\*.
-Eine Sauerstoffsättigung von
-95% bei einem Patienten ohne zusätzliche Sauerstoffgabe ist nicht
-beunruhigend, wohingegen derselbe Wert bei einer *Sauerstoffgabe* von
-15 L / min ein Hinweis auf eine schwere Störung der Atmung darstellt.
+Bei der Beurteilung des SpO2 muss berücksichtigt werden, *ob und wieviel \*Sauerstoff* der Patient bereits erhält\*.
+Eine Sauerstoffsättigung von 95% bei einem Patienten ohne zusätzliche Sauerstoffgabe ist nicht beunruhigend, wohingegen derselbe Wert bei einer *Sauerstoffgabe* von 15 L / min ein Hinweis auf eine schwere Störung der Atmung darstellt.
 Der SpO₂-Wert soll außerdem auch im Verlauf beurteilt werden.
 
 Es ist wichtig zu wissen dass sich die SpO₂ bei Vorliegen einer Atemstörung erst **spät absinkt** und daher zum Ausschluss einer Atemstörung nicht geeignet ist!
@@ -199,9 +169,4 @@ Die größte Gefahr ist die falsche Interpretation von Messwerten.
 
 ## Hygienische Wiederaufbereitung
 
-Die hygienische Wiederaufbereitung muss immer nach Herstellerangaben
-erfolgen. Einmalsensoren sind nach der Messung zu entsorgen. Die meisten
-Geräte und Sensoren dürfen mittels *Wischdesinfektion mit
-Flächendesinfektionsmittel* aufbereitet werden, dies muss dann nach
-jedem Patientenkontakt erfolgen. Die Geräte sind üblicherweise nicht
-wasserdicht, es darf kein Desinfektionsmittel in das Gerät gelangen.
+Die hygienische Wiederaufbereitung muss immer nach Herstellerangaben erfolgen. Einmalsensoren sind nach der Messung zu entsorgen. Die meisten Geräte und Sensoren dürfen mittels *Wischdesinfektion mit Flächendesinfektionsmittel* aufbereitet werden, dies muss dann nach jedem Patientenkontakt erfolgen. Die Geräte sind üblicherweise nicht wasserdicht, es darf kein Desinfektionsmittel in das Gerät gelangen.

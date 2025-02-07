@@ -3,8 +3,7 @@
 # 49. Perioperativer MCI/ACS
 
 Ursache:
-Chirurgischer Stress: erhöhte ADH-Sekretion mit Na-  und Wasserretention (erhöhtes präload), erhöhte Katecholamine mit erhöhter HF, Inotropie und vermehrt Arrhythmien steigern den O2-Verbrauch Hypotensive Phasen bei hämodynamischer Instabilität Risikopatient: Cardialer Pat: Hypertonie, DM, Raucher,
-Adipös, erhöhte Fette, Gefäßpatient
+Chirurgischer Stress: erhöhte ADH-Sekretion mit Na-  und Wasserretention (erhöhtes präload), erhöhte Katecholamine mit erhöhter HF, Inotropie und vermehrt Arrhythmien steigern den O2-Verbrauch Hypotensive Phasen bei hämodynamischer Instabilität Risikopatient: Cardialer Pat: Hypertonie, DM, Raucher, Adipös, erhöhte Fette, Gefäßpatient
 
 
 Klinik: Dyspnoe, Thoraxschmerzen,  Übelkeit, EKG-Dynamik (ST-Heb.), 65%  ohne Klinik! 75%
@@ -13,8 +12,7 @@ innerhalb der ersten 48h postoperativ!
 Diagnostik:
 - 12-Kanal-EKG (STEMI, NSTEMI)
 - Labor: hsTnT \> 14pg/ml, CK-MB, proBNP, BGA
-- C/P: Herzgröße, Ergüsse, Stauung,
-Pericardtamponade mit Mediastinalverbreiterung?
+- C/P: Herzgröße, Ergüsse, Stauung, Pericardtamponade mit Mediastinalverbreiterung?
 - TTE: Akinesie?  Hypokinesie?  Infarktgröße und Lokalisation, EF, LVH?  Rechtsherzbelastung
 (Diff. PE), Kompl: Segelausriss MI, Perikardtamponade, VSD
 
@@ -58,10 +56,8 @@ Therapieerfolgskriterien:
 Infarktkriterien im EKG:
 - ST-Hebung mehr als 0,1mV in 2 benachbarten Extremitätenableitungen
 - ST-Hebung um mehr als 0,2mV in 2 benachbarten Brustwandableitungen
-- Vorderwandinfarkt: Q+ St-Heb. in V2-6, Senkung III,
-aVF (anteroseptal)
-- Hinterwandinfarkt: Q +St-Heb. in II, III, aVF + Senkung in I, aVL,
-V2
+- Vorderwandinfarkt: Q+ St-Heb. in V2-6, Senkung III, aVF (anteroseptal)
+- Hinterwandinfarkt: Q +St-Heb. in II, III, aVF + Senkung in I, aVL, V2
 
 
 Dosierungen:

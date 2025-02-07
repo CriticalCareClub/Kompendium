@@ -13,16 +13,10 @@ Eine
 {dfn}`Amputation` {index}` <! Amputation>`
 (*Lat.* *Amputatio* (*Amp.*))
 bezeichnet einen kompletten oder inkompletten Abriss bzw. Abtrennung
-(von Teilen) einer Extremität oder eines anderen Körperteils, sodass
-deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten
-Körperteil nennt man
+(von Teilen) einer Extremität oder eines anderen Körperteils, sodass deren Durchblutung ganz oder teilweise aufgehoben ist. Den abgetrennten Körperteil nennt man
 {dfn}`Amputat`{index}` <Amputat>`.
 
-Amputationen erfolgen meist bei Motorradunfällen oder
-Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die
-Wundränder sind desto größer ist die Chance dass das Amputat wieder
-erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu
-suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
+Amputationen erfolgen meist bei Motorradunfällen oder Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die Wundränder sind desto größer ist die Chance dass das Amputat wieder erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 (kein Abbinden!). An große Blutungen und Schockgefahr denken!
 
 (tt14071c)=
@@ -61,9 +55,7 @@ suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt
 :::
 ::::
 
-Neben den bereits genannten Verletzungen, treten (im Sport oder in der
-Freizeit) oft auch folgende, meist harmlose, Verletzungen auf, welche
-hier der Vollständigkeit halber erwähnt sind:
+Neben den bereits genannten Verletzungen, treten (im Sport oder in der Freizeit) oft auch folgende, meist harmlose, Verletzungen auf, welche hier der Vollständigkeit halber erwähnt sind:
 
 - Muskelzerrung
 - Muskelfaserriss

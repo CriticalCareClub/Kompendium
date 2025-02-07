@@ -2,14 +2,9 @@
 
 # Bauchwand
 
-{deep}`Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die
-Crista iliaca, der Sulcus inguinalis und der Sulcus pubis.`
+{deep}`Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die Crista iliaca, der Sulcus inguinalis und der Sulcus pubis.`
 
-Gemeinsam mit den Muskeln der Rücken- und Hüftmuskeln sind die
-Bauchmuskeln an den Rumpfbewegungen beteiligt. Es werden *seitliche,
-vordere und hintere Bauchmuskeln*unterschieden. Speziell die
-seitlichen Bauchmuskeln sind an der *Schräggurtung* der Bauchwand
-beteiligt.
+Gemeinsam mit den Muskeln der Rücken- und Hüftmuskeln sind die Bauchmuskeln an den Rumpfbewegungen beteiligt. Es werden *seitliche, vordere und hintere Bauchmuskeln*unterschieden. Speziell die seitlichen Bauchmuskeln sind an der *Schräggurtung* der Bauchwand beteiligt.
 
 - seitliche Bauchmuskeln (3 Schichten):
 
@@ -55,27 +50,17 @@ beteiligt.
     der Liegeposition bzw. der Hüftbeugung. Funktion - Flexion des
     Rumpfes
 
-Der M. psoas major vereinigt sich im Beckenbreich mit dem M. iliacus zum
-*M. iliopsoas* mit dem Ansatz am Trochanter minor des Femur. Gemeinsam
-sind sie die *kräftigsten Beuger* im Hüftgelenk.
+Der M. psoas major vereinigt sich im Beckenbreich mit dem M. iliacus zum *M. iliopsoas* mit dem Ansatz am Trochanter minor des Femur. Gemeinsam sind sie die *kräftigsten Beuger* im Hüftgelenk.
 
 Alle Bauchmuskeln wirken als *Atemhilfsmuskeln* bei der Atmung mit
 (forcierte Exspiration).
 
-Wie bereits erwähnt, bildet der kaudalste Anteil des {deep}`M. obliquus
-externus abdominis` das **Leistenband** {deep}`(Lig. inguinale)`.
-Über dises verläuft der **Leistenkanal** als Verbindung vom Bauchraum zur
-Genitalregion. Diese Verbindung ist insbesondere bei der
-Genitalentwicklung des Mannes wichtig für das Hinabwandern der Hoden vom Ort ihrer Anlage in der dorsalen Bauchregion
-Richtung Hodensackden
+Wie bereits erwähnt, bildet der kaudalste Anteil des {deep}`M. obliquus externus abdominis` das **Leistenband** {deep}`(Lig. inguinale)`.
+Über dises verläuft der **Leistenkanal** als Verbindung vom Bauchraum zur Genitalregion. Diese Verbindung ist insbesondere bei der Genitalentwicklung des Mannes wichtig für das Hinabwandern der Hoden vom Ort ihrer Anlage in der dorsalen Bauchregion Richtung Hodensackden
 {deep}`(Descensus testis)`.
 
-Der M. rectus abdominis wird durch die Aponeurosen der seitlichen
-Bauchmuskeln umhüllt (*Rektusscheide*). Die Rektusscheide
-unterscheidet sich in ihrem Aufbau oberhalb und unterhalb des Nabels -
-die Grenze bildet die *Linea arcuata* (bogenförmige Linie). In der Mitte
-sind alle Aponeurosen über die *Linea alba* (weiße Linie) miteinander
-verbunden.
+Der M. rectus abdominis wird durch die Aponeurosen der seitlichen Bauchmuskeln umhüllt (*Rektusscheide*). Die Rektusscheide unterscheidet sich in ihrem Aufbau oberhalb und unterhalb des Nabels -
+die Grenze bildet die *Linea arcuata* (bogenförmige Linie). In der Mitte sind alle Aponeurosen über die *Linea alba* (weiße Linie) miteinander verbunden.
 
 - oberhalb des Nabels:
 

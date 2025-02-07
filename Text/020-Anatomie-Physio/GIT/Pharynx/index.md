@@ -4,11 +4,7 @@
 
 # Rachen (Pharynx)
 
-Während des Schluckaktes wird der untere Atemwegstrakt verschlossen, um
-ein Eindringen von flüssigen oder festen Nahrungsbestandteilen zu
-verhindern. Man kann eine unwillkürliche (reflektorische) und eine
-willkürliche Phase unterscheiden. Durch das Schluckzentrum in der
-Medulla oblongata wird der ganze Ablauf gesteuert.
+Während des Schluckaktes wird der untere Atemwegstrakt verschlossen, um ein Eindringen von flüssigen oder festen Nahrungsbestandteilen zu verhindern. Man kann eine unwillkürliche (reflektorische) und eine willkürliche Phase unterscheiden. Durch das Schluckzentrum in der Medulla oblongata wird der ganze Ablauf gesteuert.
 
 - **Willkürliche** Phase:
 
@@ -31,8 +27,7 @@ Medulla oblongata wird der ganze Ablauf gesteuert.
     Unterzugenbein-Muskulatur:
     Die Atemwege sind wieder frei.
 
-Nach der entsprechenden Lokalisation kann man *3 Schluckphasen*
-unterscheiden:
+Nach der entsprechenden Lokalisation kann man *3 Schluckphasen* unterscheiden:
 
 - *orale* Phase: willkürlich ausgelöst, durch Hirnstamm reguliert.
 - *pharyngeale* Phase: durch Hirnstamm reguliert, N. IX (N.

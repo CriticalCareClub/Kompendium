@@ -1,7 +1,6 @@
 # Terminologie
 
-Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung
-mit anderem Fachpersonal. {term}`🗎 Bertelsmann 25` {term}`🗎 Pschyrembel 259`
+Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit anderem Fachpersonal. {term}`🗎 Bertelsmann 25` {term}`🗎 Pschyrembel 259`
 
 ## Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
@@ -291,9 +290,7 @@ mit anderem Fachpersonal. {term}`🗎 Bertelsmann 25` {term}`🗎 Pschyrembel 25
 
 ## Richtungs- und Lageangaben
 
-Für die Beschreibungen von Richtungen und Lagebeziehungen wird eine
-systematische Terminologie verwendet. Die einschlägigen Bezeichnungen
-sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
+Für die Beschreibungen von Richtungen und Lagebeziehungen wird eine systematische Terminologie verwendet. Die einschlägigen Bezeichnungen sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
 
 {index}`lateral`
 
@@ -403,18 +400,14 @@ sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
   speichenseitig
 
 :::{note}
-Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer
-auf die betreffende Person (Patienten)!
+Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die betreffende Person (Patienten)!
 :::
 
 ### Richtungs- und Seitenangaben
 
 ## Unfallchirurgische Diagnosen
 
-Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als
-Referenz angeführt, welche man häufig auf unfallchirurgischen
-Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche
-Aufstellung findet sich in {term}`🗎 Lippert 4`.
+Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als Referenz angeführt, welche man häufig auf unfallchirurgischen Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche Aufstellung findet sich in {term}`🗎 Lippert 4`.
 Die Diagnosen werden durch {ref}`RichtungsLageangaben` ergänzt.
 
 ### Wund- und Verletzungsarten

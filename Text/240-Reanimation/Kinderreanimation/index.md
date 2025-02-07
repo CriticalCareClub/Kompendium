@@ -12,13 +12,8 @@
 Vgl. {term}`♛ ERC 2021 10`
 
 Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*)
-bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen
-Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den Kindern
-meist ein Problem des Atemwegs bzw. der Atmung (z. B. Atemwegsverlegung,
-Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das
-**Freimachen der Atemwege** im Vordergrund.
-Das Vorgehen gemäß ERC wird wie
-folgt beschrieben:
+bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den Kindern meist ein Problem des Atemwegs bzw. der Atmung (z. B. Atemwegsverlegung, Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das **Freimachen der Atemwege** im Vordergrund.
+Das Vorgehen gemäß ERC wird wie folgt beschrieben:
 
 1. ① *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
 
@@ -112,6 +107,7 @@ folgt beschrieben:
 (figure-plsalgorithmus)=
 
 :::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationPls-2015-1.\*
+
 Pediatric Life Support \[Table-algorithmus-pls\]
 
 \[Josef Emhofer,  nach ERC\]

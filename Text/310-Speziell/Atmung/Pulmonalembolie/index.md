@@ -23,22 +23,12 @@
 :::
 ::::
 
-Als {dfn}`Pulmonalembolie`
-(Abk. {dfn}`PE`, Syn. {dfn}`Lungenembolie`)
-wird der **Verschluss einer Lungenarterie**,
-oft durch Einschwemmen eines
-*Gerinnsels* (*Embolus*), bezeichnet. Der Embolus, der die
-Lungenarterien verstopft, entsteht normalerweise nicht in den
-Lungengefäßen selbst, sondern er wird über die Blutbahn angeschwemmt.
-Sehr oft löst sich ein Thrombus bei einer *tiefen Beinvenenthrombose*
-und schwimmt im Blut bis in die Lunge. Daher gelten die Risikofaktoren
-der tiefen Beinvenenthrombose (Immobilisation, lange Reisen, …) auch bei
-der Lungenembolie. Auch bei *Vorhofflimmern* können sich Gerinnsel im
-rechten Vorhof des Herzens bilden und eine Embolie verursachen. Ebenso
-können Gerinnungstörungen oder Krebserkrankungen zur Bildung von
-Blutgerinnseln führen.
+Als {dfn}`Pulmonalembolie` (Abk. {dfn}`PE`, Syn. {dfn}`Lungenembolie`)
+wird der **Verschluss einer Lungenarterie**, oft durch Einschwemmen eines *Gerinnsels* (*Embolus*), bezeichnet. Der Embolus, der die Lungenarterien verstopft, entsteht normalerweise nicht in den Lungengefäßen selbst, sondern er wird über die Blutbahn angeschwemmt.
+Sehr oft löst sich ein Thrombus bei einer *tiefen Beinvenenthrombose* und schwimmt im Blut bis in die Lunge. Daher gelten die Risikofaktoren der tiefen Beinvenenthrombose (Immobilisation, lange Reisen, …) auch bei der Lungenembolie. Auch bei *Vorhofflimmern* können sich Gerinnsel im rechten Vorhof des Herzens bilden und eine Embolie verursachen. Ebenso können Gerinnungstörungen oder Krebserkrankungen zur Bildung von Blutgerinnseln führen.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
+
 Herkunft des Thrombus
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
@@ -300,10 +290,8 @@ Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flol
 
 
 Venöse Luftembolie: bei sitzender Op im Neuro-OP;  Druckgradient zw. rechten VH und Kopfvenen führt beim Eröffnen der Venen zum Ansaugen von Luftbläschen ins rechte Herz mit Luftembolie, akuter Rechtsherzbelastung, bei PFO Insult... Auskultatorisch Mühlradgeräusch!
-Klinik: Blutdruckabfall, Herzfrequenzanstieg, Jugularvenenstau,
-Zyanose, Mühlradgeräusch.
-Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK,
-Linksseitenlage, Kopftief, FIO2 100% + PEEP
+Klinik: Blutdruckabfall, Herzfrequenzanstieg, Jugularvenenstau, Zyanose, Mühlradgeräusch.
+Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK, Linksseitenlage, Kopftief, FIO2 100% + PEEP
 
 
 

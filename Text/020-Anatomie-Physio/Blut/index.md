@@ -11,8 +11,7 @@
 ## Allgemeines
 
 Blut ist einer der drei Kernbestandteile des Kreislaufs.
-Die zellulären Bestandteile — trotz der unterschiedlichen Aufgaben — entstammen im Erwachsenenalter alle dem
-*Knochenmark*. (fetal blutbildende Organe auch Milz, Leber)
+Die zellulären Bestandteile — trotz der unterschiedlichen Aufgaben — entstammen im Erwachsenenalter alle dem *Knochenmark*. (fetal blutbildende Organe auch Milz, Leber)
 
 Man kann jedoch, basierend auf den Bildungsort der Blutzellen, drei Phasen während der Entwicklung feststellen:
 
@@ -171,6 +170,7 @@ Es gibt folgende Blutzellen:
 - *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
 :::{figure} /Bilder/WikipediaPd/Red_White_Blood_cells.jpg
+
 Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 
 ₢ US National Cancer Institute {term}`ℓ PD`
@@ -238,8 +238,7 @@ Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase) und *Bl
 Aktivierung der Thrombokinase - Prothrombin wird hierdurch in Thrombin umgewandelt - das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es kommt zu einer Verfestigung des Thrombus (Retraktion)
 
 In einem ersten Schritt haften Blutplättchen an der verletzten Stelle des Blutgefäßes aneinander und bilden einen *Thrombozytenpfropf*, der die Wunde grob verschließt (vorläufiger Wundverschluss, primäre Blutstillung).
-Erst in einem zweiten Schritt kommt es durch die
-*Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre Blutstillung).
+Erst in einem zweiten Schritt kommt es durch die *Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre Blutstillung).
 Für die Bildung der Thrombozytenpfropfen sind die festen Bestandteile des Blutes und für die Blutstillung das Blutplasma (flüssiger Bestandteil) zuständig.
 Am Ende der Wundheilung werden defekte Zellen abgebaut und Bindegewebe aufgebaut.
 
@@ -268,8 +267,7 @@ Es nimmt Sauerstoff in der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem
 Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt* des Blutes.
 Dieser wird wesentlich durch den Gasaustausch, aber auch durch die Aufnahmekapazität des Blutes bestimmt.
 Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem von der Anzahl der roten Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des Blutfarbstoffes *Hämoglobin* ab.
-Im arteriellen Blut sind pro Liter ca
-0,2 L Sauerstoff enthalten.
+Im arteriellen Blut sind pro Liter ca 0,2 L Sauerstoff enthalten.
 Im Normalfall werden davon nur ca. 25% vom Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System zurück.
 
 ```{rubric} Advanced
@@ -338,8 +336,7 @@ Das {dfn}`Immunsystem` (Abwehrsystem) schützt den Körper vor Infektionskrankhe
 Eine besonders bedeutende Rolle spielen die *Leukozyten* (Weiße Blutkörperchen, {ref}`leukozyten`).
 Sie ermöglichen das Abtötung und den Abbau von Krankheitserregern im Körper.
 Bestimmte Arten von Leukozyten können *Antikörper* (*Immunglobuline*) produzieren, das sind Proteine, welche an die Oberfläche von anderen Stoffen (z. B. Bakterien) binden können und damit die Erkennung und Abwehr eben dieser Stoffe unterstützen.
-Antikörper kommen außerdem bei
-*Schutzimpfungen* zum Einsatz.
+Antikörper kommen außerdem bei *Schutzimpfungen* zum Einsatz.
 Weitere, im Blut gelöste Stoffe[^komplementsystem], ergänzen die Funktion der Antikörper.
 Fieber kann die Immunabwehr unterstützen.
 

@@ -2,41 +2,14 @@
 
 ## Einführung
 
-Kommunikation ist die Voraussetzung für eine erfolgreiche Zusammenarbeit
-in einer Gemeinschaft.
-Bei der Versorgung eines Patienten gilt dieser
-Grundsatz ebenso,
-zusätzlich finden sich hier spezielle
-Herausforderungen.
-Einerseits besteht diese "Gemeinschaft" aus sehr
-unterschiedlichen Personen: Fachpersonal unterschiedlicher
-Ausbildungsstufen einerseits,
-und Patienten und Angehörige,
-welche
-zumeist über wenig Fachwissen,
-dafür aber oft über ausgeprägte und mal mehr,
-mal weniger verständliche Eigeninteressen verfügen, andererseits.
-Dazu kommen mitunter noch weitere Personen, wie Polizisten,
-Feuerwehrleute,
-Bedienstete von Verkehrsbetrieben,
-Dritte
-(Berufer,
-Schaulustige,
-Zeugen, …),
-usw.,
-mit welchen kommuniziert werden muss.
-Als wäre die Fülle von potentiellen Kommunikationspartnern nicht schon
-Herausforderung genug,
-findet man sich häufig in einer Situation wieder,
-die für die Kommunikationspartner einen Ausnahmezustand darstellt:
-Krankheit,
-Schmerzen,
-viele unbekannte Gesichter,
-unbekannte Geräte,
-eine oft unbekannte Fachsprache,
-die Ungewissheit was passieren wird …
-All dem soll im Rahmen einer professionellen Kommunikation entsprechend
-begegnet werden.
+Kommunikation ist die Voraussetzung für eine erfolgreiche Zusammenarbeit in einer Gemeinschaft.
+Bei der Versorgung eines Patienten gilt dieser Grundsatz ebenso, zusätzlich finden sich hier spezielle Herausforderungen.
+Einerseits besteht diese "Gemeinschaft" aus sehr unterschiedlichen Personen: Fachpersonal unterschiedlicher Ausbildungsstufen einerseits, und Patienten und Angehörige, welche zumeist über wenig Fachwissen, dafür aber oft über ausgeprägte und mal mehr, mal weniger verständliche Eigeninteressen verfügen, andererseits.
+Dazu kommen mitunter noch weitere Personen, wie Polizisten, Feuerwehrleute, Bedienstete von Verkehrsbetrieben, Dritte
+(Berufer, Schaulustige, Zeugen, …), usw., mit welchen kommuniziert werden muss.
+Als wäre die Fülle von potentiellen Kommunikationspartnern nicht schon Herausforderung genug, findet man sich häufig in einer Situation wieder, die für die Kommunikationspartner einen Ausnahmezustand darstellt:
+Krankheit, Schmerzen, viele unbekannte Gesichter, unbekannte Geräte, eine oft unbekannte Fachsprache, die Ungewissheit was passieren wird …
+All dem soll im Rahmen einer professionellen Kommunikation entsprechend begegnet werden.
 Ziele der Kommunikation sind:
 
 - Ermittlung von Informationen
@@ -80,14 +53,7 @@ Ziele der Kommunikation sind:
 ## Die Kommunikationstheorie versucht Kommunikation zu beschreiben
 
 Es gibt Theorien zur Kommunikation wie Sand am Meer.
-Im folgenden wollen
-wir uns auf zwei wesentliche,
-in der Praxis sehr taugliche Modelle
-konzentrieren,
-welche viele der Fehler und Fallen,
-die tagtäglich auf
-uns lauern,
-erklären können.
+Im folgenden wollen wir uns auf zwei wesentliche, in der Praxis sehr taugliche Modelle konzentrieren, welche viele der Fehler und Fallen, die tagtäglich auf uns lauern, erklären können.
 Dabei stehen zwei Aspekte im Vordergrund:
 
 1. *Übermittlung*: Es gibt bei der Nachrichtenübermittlung einen Sender
@@ -96,10 +62,8 @@ Dabei stehen zwei Aspekte im Vordergrund:
 
 ### Übermittlung: Sender und Empfänger
 
-Das Sender-Empfänger-Modell erklärt das Phänomen der eigentlichen
-Nachrichtenübermittlung (Blieberger et al. 1996).
-Eine *Nachricht* wird
-dabei
+Das Sender-Empfänger-Modell erklärt das Phänomen der eigentlichen Nachrichtenübermittlung (Blieberger et al. 1996).
+Eine *Nachricht* wird dabei
 
 1. von einem *Sender*
 2. *kodiert* (Sprache, Fachsprache, Dialekt, Umgangssprache, Alphabet,
@@ -110,8 +74,7 @@ dabei
 5. und dort *dekodiert*.
 
 Die Nachricht kann *durch Störungen verfälscht* werden.
-Diese Störung
-kann auftreten:
+Diese Störung kann auftreten:
 
 - Beim *Sender*:
   Der Sender sagt nicht, was er sagen will,
@@ -144,24 +107,15 @@ kann auftreten:
   >   sondern was verstanden wurde.
 
 Ein gutes Beispiel einer Störung der Kommunikation ist das
-"Stille-Post"-Spiel,
-bei welchem am Ende der Übertragungskette die
-ursprüngliche Nachricht zumeist völlig entstellt ist.
+"Stille-Post"-Spiel, bei welchem am Ende der Übertragungskette die ursprüngliche Nachricht zumeist völlig entstellt ist.
 Um deratige
-Übertragungsfehler zu *vermeiden*,
-ist es wichtig,
-dass der Empfänger
-eine Kontroll- bzw. *Rückmeldung* an den Sender gibt,
-um zu
-kontrollieren,
-ob und wie er die Botschaft verstanden hat.
+Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfänger eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu kontrollieren, ob und wie er die Botschaft verstanden hat.
 
 :::{figure} /Bilder/WikipediaCcBySa/Sender-Empfaenger-Modell-edited.\*
+
 Das Sender-Empfänger-Modell
 
-₢ User:Wiska Bodo, original
-uploader Freak222 auf http://de.wikipedia.org,
-modifiziert
+₢ User:Wiska Bodo, original uploader Freak222 auf http://de.wikipedia.org, modifiziert
 {term}`ℓ CC BY-SA 3.0`
 :::
 
@@ -196,12 +150,7 @@ Jede Nachricht hat vier Aussagen [^fn-vieraussageneinernachricht]:
 
 [^fn-vieraussageneinernachricht]: Nach Friedemann Schulz von Thun, {term}`🗎 Thun 1981`
 
-Entscheidend in der Kommunikation ist die Tatsache,
-dass die gleiche
-Nachricht beim Sender und beim Empfänger auf unterschiedliche Art und
-Weise gedeutet und gewichtet wird,
-was zu teils katastrophalen
-Missverständnissen führen kann.
+Entscheidend in der Kommunikation ist die Tatsache, dass die gleiche Nachricht beim Sender und beim Empfänger auf unterschiedliche Art und Weise gedeutet und gewichtet wird, was zu teils katastrophalen Missverständnissen führen kann.
 Als klassisches Beispiel ist die
 "Ampelsituation" bekannt:
 
@@ -225,8 +174,8 @@ Als klassisches Beispiel ist die
 > | *Selbstoffenbarung* | Ich habe es eilig.                                 | Er will mich bevormunden.                  |
 
 :::{figure} /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.\*
-Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von
-Thun {term}`🗎 Thun 1981`
+
+Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von Thun {term}`🗎 Thun 1981`
 
 ₢ User "Mussklprozz" auf Wikipedia, modifiziert
 {term}`ℓ CC BY-SA 3.0`
@@ -253,8 +202,7 @@ Thun {term}`🗎 Thun 1981`
 :::
 ::::
 
-Ein gut geführtes Patientengespräch ist durch folgende Merkmale
-gekennzeichnet:
+Ein gut geführtes Patientengespräch ist durch folgende Merkmale gekennzeichnet:
 
 - *Vorstellen*: Zur Vorstellung gehört die Nennung des eigenen Namens
   und der Funktion.
@@ -321,8 +269,7 @@ gekennzeichnet:
 
 ### Fragentypen
 
-Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie
-*gezielte* Fragen und *Suggestivfragen*.
+Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie *gezielte* Fragen und *Suggestivfragen*.
 
 - *Offene Fragen* kann der Patient frei,
   mit seinen eignen Worten
@@ -383,17 +330,9 @@ Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie
 ### Kinder
 
 Die Kommunikation mit Kindern kann besonders herausfordernd sein.
-Der
-Kontakt mit Einrichtungen des Gesundheitswesens,
-sei es in einer
-Ordination,
-im Spital oder im Rahmen des Rettungsdienstes,
-stellt eine
-aufregende und i.d.R.
+Der Kontakt mit Einrichtungen des Gesundheitswesens, sei es in einer Ordination, im Spital oder im Rahmen des Rettungsdienstes, stellt eine aufregende und i.d.R.
 angsteinflößende Ausnahmesituation dar.
-Die
-folgenden Vorschläge können unter Umständen hilfreich sein – ein
-allgemeingültiges "Kochrezept" gibt es allerdings nicht:
+Die folgenden Vorschläge können unter Umständen hilfreich sein – ein allgemeingültiges "Kochrezept" gibt es allerdings nicht:
 
 - *Kleine Erwachsene*: Manchmal sind Kinder doch einfach "kleine
   Erwachsene": Die elementaren Grundsätze *Aufrichtigkeit* und

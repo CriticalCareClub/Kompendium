@@ -5,9 +5,7 @@
 ## Allgemeine Anatomie
 
 Der Schlaf-Wach-Rhythmus wird von der sogenannten “*inneren Uhr*”
-reguliert. Da dieser Rhythmus sich innerhalb eines Tages abspielt
-spricht man hier von einer *zirkadianen Rhythmik*. Diese wird von
-endogenen Oszillatoren (“inneren Uhren”) autonom gesteuert.
+reguliert. Da dieser Rhythmus sich innerhalb eines Tages abspielt spricht man hier von einer *zirkadianen Rhythmik*. Diese wird von endogenen Oszillatoren (“inneren Uhren”) autonom gesteuert.
 
 (zyklus-1)=
 
@@ -31,20 +29,14 @@ Mittels EEG können verschiedene *Schlafstadien* unterschieden werden:
   Gehirns besonders wichtig. Mit zunehmendem Alter nimmt dieser Anteil
   ab, bis er beim Erwachsenen nur noch 20% beträgt.
 
-Einzelne Schlafzyklen wiederholen sich ca. *4-5 Mal* pro Schlaf. Neben
-der REM-Anzahl verringert sich auch die Dauer der einzelnen restlichen
-Schlafstadien im Laufe des Lebens.
+Einzelne Schlafzyklen wiederholen sich ca. *4-5 Mal* pro Schlaf. Neben der REM-Anzahl verringert sich auch die Dauer der einzelnen restlichen Schlafstadien im Laufe des Lebens.
 
 ## Beeinflussende Faktoren
 
 Der Schlaf-Wach-Rhythmus ist im Allgemeinen durch *äußere Faktoren*
-(Arbeit, Freizeit, Schlaf, Hell-Dunkel) dem 24-Stunden-Rhythmus des
-Tages angeglichen und wird im Körper selbst durch das *Melatonin* des
-Corpus pineale reguliert.
+(Arbeit, Freizeit, Schlaf, Hell-Dunkel) dem 24-Stunden-Rhythmus des Tages angeglichen und wird im Körper selbst durch das *Melatonin* des Corpus pineale reguliert.
 
-Der Tiefschlaf wird durch *Hypothalamus* und Teile des *basalen
-Vorderhirns* reguliert, der REM-Schlaf durch Kerne des *Mittelhirns*
-sowie des basalen Vorderhirns reguliert.
+Der Tiefschlaf wird durch *Hypothalamus* und Teile des *basalen Vorderhirns* reguliert, der REM-Schlaf durch Kerne des *Mittelhirns* sowie des basalen Vorderhirns reguliert.
 
 ## Aufgaben des Schlafs
 

@@ -3,15 +3,13 @@
 
 Präanästhesieambulanz:
 - Peraktute und akute Geschehen: mit massiv erhöhten Transaminasen (3-5 fach), Ikterus
-(konj. Bili), Koagulopathie (PTZ, AT III erniedrigt),
-Va. Cirrhose = elektive OP verschieben.
+(konj. Bili), Koagulopathie (PTZ, AT III erniedrigt), Va. Cirrhose = elektive OP verschieben.
 - Chronisch (\>6 Monate): nach OP abklären. Leberzirrhose CHILD C+MELD  \>14 keine OP-
 Freigabe, CHILD B+MELD 8-14 erhöhtes Risiko erweitertes Monitoring, CHILD A+ MELD\<8 OP möglich (Internististen/Hepatologen hinzuziehen bei Unklarheiten)
 Erhöhtes Risiko bei: va. alkoholischer Hepatitis
 (dekompensiert Child B+C 30-82% OP-Letalität)
 
-Zirrhosezeichen: Thrombopenie, Ikterus, Plasmatische Gerinnungsstörung (PTZ, ATIII), Aszites,
-Spider naevi, Caput medusae
+Zirrhosezeichen: Thrombopenie, Ikterus, Plasmatische Gerinnungsstörung (PTZ, ATIII), Aszites, Spider naevi, Caput medusae
 
 Child-Pugh Score
 
@@ -65,23 +63,18 @@ Pilzkonsum zu jeder Jahreszeit, Sexualanamnese, Familienanamnese (M.
 Wilson)
 
 
-**LIMON** Misst mittels transkutaner Pulsdensitometrie die PDR (Plasmadelaterate) von Indozyanidgrün,
-welches in der Leber nicht metabolisiert wird. Seine Aufnahme ist vom Blutfluss, zellulärer Aufnahme und Exkretion abhängig.
+**LIMON** Misst mittels transkutaner Pulsdensitometrie die PDR (Plasmadelaterate) von Indozyanidgrün, welches in der Leber nicht metabolisiert wird. Seine Aufnahme ist vom Blutfluss, zellulärer Aufnahme und Exkretion abhängig.
 
 
-Ind: Sepsis mit Leberdysfunktion im Rahmen eines MODS, Leberzirrhotiker vor der Teilresektion,
-nach LTX CAVE: Allergische Reaktionen bei Jodallergie und Hyperthyreose PDR von ICG beim Intensivpatienten soll \>16%
+Ind: Sepsis mit Leberdysfunktion im Rahmen eines MODS, Leberzirrhotiker vor der Teilresektion, nach LTX CAVE: Allergische Reaktionen bei Jodallergie und Hyperthyreose PDR von ICG beim Intensivpatienten soll \>16%
 
 TRIAS: Ikterus -- Enzephalopathie --Koagulopathie
 
 
 ZNS: akute  hepatische Enzephalopathie (HE) mit konsekutiven Hirnödem durch erhöhtem intrazerebralen Ammoniak NH3 (vermehrte Glutaminsynthese in den Astrozyten) mit osmotisch bedingtem Hirnödem mit Gefahr der Hirnstammeinklemmung bei NH3 \>200µmol/l (korreliert mit Blutspiegeln) Cave: Temp \> 38,5 Hirndruckzeichen (Symptome ab \>30mmHg): Hypertonie mit Bradykardie, erhöhter Muskeltonus
-(Myoklonien), gestörte Pupillenmotorik (wechselnd), Krampfgeschehen,
-gestörtes Atemmuster.
-HE I: Persönlichkeitsveränderungen, Schlafstörungen, Merkstörungen,
-Sprache verwaschen HE II : zunehmende Schläfrigkeit, Apathie, Koordinationsstörungen
-(schreiben), Flapping-Tremor HE III: schläft fast immer,
-aber erweckbar, zeitlich und örtlich Desorientiert HE IV: Koma mit erhaltener Reaktion auf Schmerzreiz
+(Myoklonien), gestörte Pupillenmotorik (wechselnd), Krampfgeschehen, gestörtes Atemmuster.
+HE I: Persönlichkeitsveränderungen, Schlafstörungen, Merkstörungen, Sprache verwaschen HE II : zunehmende Schläfrigkeit, Apathie, Koordinationsstörungen
+(schreiben), Flapping-Tremor HE III: schläft fast immer, aber erweckbar, zeitlich und örtlich Desorientiert HE IV: Koma mit erhaltener Reaktion auf Schmerzreiz
 
 KRL: wie bei SIRS! Periphere Vasodilatation mit kompensatorisch hyperdynamen Zustand:
 Hypotonie mit Tachykardie und erhöhtem HZV bei erniedrigtem TPVR Niere: ANV bei MOF, direkte Nephrotoxizität bei Paracetamol! Metabolische Alkalose durch gestörte HCO -
@@ -92,13 +85,11 @@ Immunsystem: gestörte Funktion begünstigt SIRS
 
 ### Diagnostik
 
-Labor: Hep A-E, HSV, CMV, Humanes Herpes Virus HHV-6, ANA, Coeruloplasmin/Spaltlampe bei va. M. Wilson, Paracetamolspiegel bei Einnahme + GPT, GOT, GGT, Bili, PTZ, Faktor V, AT III, NBZ,
-NH3, Laktat + BB + NFP Sonographie: Lebergröße (große Leber prognostisch besser), Gefäße?, Ascites (viel Ascites kein akutes Geschehen!)
+Labor: Hep A-E, HSV, CMV, Humanes Herpes Virus HHV-6, ANA, Coeruloplasmin/Spaltlampe bei va. M. Wilson, Paracetamolspiegel bei Einnahme + GPT, GOT, GGT, Bili, PTZ, Faktor V, AT III, NBZ, NH3, Laktat + BB + NFP Sonographie: Lebergröße (große Leber prognostisch besser), Gefäße?, Ascites (viel Ascites kein akutes Geschehen!)
 NH3 soll zur selben Uhrzeit, gekühlt werden, sofort ins Labor gebracht werden NBZ: Gluconeogenese erfolgt in der Leber, Gefahr Hypoglykämie!
 
 Differenzialdiagnostik:
-- Hepatisch: ALT und LDH erhöht, Sonographie (Stein, Tumor?) → wenn nein: Sepsis, CMV,
-Metastasen?
+- Hepatisch: ALT und LDH erhöht, Sonographie (Stein, Tumor?) → wenn nein: Sepsis, CMV, Metastasen?
 - Cholestatisch: Alk.Phosphatase und GGT erhöht →Sonographie
 - Ikterus: unkonjungiert (vermehrte Hämolyse, Z.n. Massentransfusion,...) oder konjungiert
 (Stein, Tumor, Infekt, Zirrhose)
@@ -126,8 +117,7 @@ Intensiv-Kriterien: höhergradige HE (Somnolenz), eingeschränkte Nierenfunktion
 :::{rubric} Allgemeine symptomatische Therapie
 :::
 
-- Kreislauftherapie: Volumen (kristalloide isotone Lsg, ev. Humanalbumin), Noradrenalin,
-Hypdrocortison (60% der Pat. mit ALV haben NNI!!!), Kein Terlipressin bei erhöhten ICP!
+- Kreislauftherapie: Volumen (kristalloide isotone Lsg, ev. Humanalbumin), Noradrenalin, Hypdrocortison (60% der Pat. mit ALV haben NNI!!!), Kein Terlipressin bei erhöhten ICP!
 - Intubation bei Aspirationsgefahr (auch bei Transport bei HE III-IV)
 - FFP und TK´s bei Blutungen
 - Glucosemonitoring Ziel 80-110 (Cave: Hypoglykämien)
@@ -147,11 +137,8 @@ MARS: molekular adsorbents recirculating System = Form der Albumindialyse, Mars-
 Prometheus: mit Blutfilter 300kD für Albumin durchlässig, aber im Sekundärkreislauf Absorber.
 
 
-LTX-Kriterien King´s College Kriterien  : PTT  \>100s (INR  \>6,5) ODER mindestens 3  der folgenden Kriterien: Alter \<10 oder \>40, Non A-E Hep, HE \> 7 Tage nach Ikterus,
-PTT \> 50s (INR \>3,5),
-Bilirubin \> 17,4 Clichy Kriterien: \<30a +HE II-IV+Faktor V\<20% ODER \>30a+HE II-IV+Faktor V\<30%
-KI für LTX: Extrahepatische Malignome, unbehandelte Sepsis und schwere Pneumonie, aktiver Alkohol- und Drogenabusus, Totale Pfortaderthrombose, (HIV,
-COPD, KHK)
+LTX-Kriterien King´s College Kriterien  : PTT  \>100s (INR  \>6,5) ODER mindestens 3  der folgenden Kriterien: Alter \<10 oder \>40, Non A-E Hep, HE \> 7 Tage nach Ikterus, PTT \> 50s (INR \>3,5), Bilirubin \> 17,4 Clichy Kriterien: \<30a +HE II-IV+Faktor V\<20% ODER \>30a+HE II-IV+Faktor V\<30%
+KI für LTX: Extrahepatische Malignome, unbehandelte Sepsis und schwere Pneumonie, aktiver Alkohol- und Drogenabusus, Totale Pfortaderthrombose, (HIV, COPD, KHK)
 
 
 
@@ -176,8 +163,8 @@ Va. bei jungen Frauen, Ikterus mit oft normaler alk. Phosphatase, niedrige HS, C
 
 
 ## 39.5. Nutritiv toxische Leberzirrhose (alkoholische Leberzirrhose)
-*
-*Klinische Zeichen: Aszites \> Blutung \> Ikterus
+
+Klinische Zeichen: Aszites \> Blutung \> Ikterus
 \> Enzephalopathie Todesursachen des Leberzirrotikers: HCC \> Aszites \> Blutung Komplikation: Ösophagusvarizenblutung, HRS, SBP
 
 
@@ -197,17 +184,14 @@ Aszitestherapie:
 - TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \<3mg, Na  \>  130, \<
 60a
 
-TIPS:  =  transjugolärer intrahepatischer Pfortader Shunt  =  fist line Therapie bei Hochrisikopatienten,
-bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
+TIPS:  =  transjugolärer intrahepatischer Pfortader Shunt  =  fist line Therapie bei Hochrisikopatienten, bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
 
 Problem NNI  bei 50%  der Patienten mit Zirrhose und Sepsis, dh. Fehlende Möglichkeit auf die Sepsis adäquat reagieren zu können. Vor allem bei Hypotonie und Katecholaminpflichtigkeit daran denken! 50mg Hydrokortison alle 6h bis der Patient nicht mehr katecholaminpflichtig ist.
 
-Spontane bakterielle Peritonitis (SBP) ohne peritoneales klinisches Bild mit positiver Kultur und Leukozytose findet sich bei ca. 15-20%  der Patienten mit Ascites.    Therapie: AB (Claforan,
-Rocephin) und Humanalbumin zur Prophylaxe des Hepatorenalen Syndroms. (1,5g/kg ab 3  Tag 1g/kg HA), Diuretika, Kontrollpunktion.
+Spontane bakterielle Peritonitis (SBP) ohne peritoneales klinisches Bild mit positiver Kultur und Leukozytose findet sich bei ca. 15-20%  der Patienten mit Ascites.    Therapie: AB (Claforan, Rocephin) und Humanalbumin zur Prophylaxe des Hepatorenalen Syndroms. (1,5g/kg ab 3  Tag 1g/kg HA), Diuretika, Kontrollpunktion.
 
 Hepatischer Hydrothorax
-=  Aszites läuft  über Zwerchfelllücken in den Pleuraspalt, meist rechts. Therapie wie bei Aszites,
-Drainagen wenn möglich vermeiden, wenn therapierefraktär dann TIPS.
+=  Aszites läuft  über Zwerchfelllücken in den Pleuraspalt, meist rechts. Therapie wie bei Aszites, Drainagen wenn möglich vermeiden, wenn therapierefraktär dann TIPS.
 
 Niereninsuffizienz bei Zirrhose Ursache: prärenal durch Hypovolämie u.
 Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kreaanstieg um \> 1,5mg/dl
@@ -220,17 +204,14 @@ Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kre
 
 =  funktionelle Niereninsuffizienz bei fortgeschrittener Lebererkrankung.    (LTX führt zur Normalisierung der Nierenfunktion). 75% Aszites bei terminaler Lebererkrankung und HE.
 Patho: TPVR nimmt ab, vorallem im Splanchnikusgebiet = RAAS aktiviert mit Vasokonstriktion der Nieren und Extremitäten, mit Oligourie und Natriumretention und progredienter Zunahme der harnpflichtigen Substanzen (va. U/P Harnstoff  \>  8, U/P Kreatinin  \>40 Narium im Harn stark erniedrigt = \>500 mosmol/kg)
-Therapie: Albumin 1g/kg/d (bis Serum Albumin  \>  45mg/dl, Terlipressin oder Noradrenalin,
-Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
-Prophylaxe: Humanalbumingabe, Vermeiden von Auslösern (KM, NSAR, hohe Diuretikadosierung,
-Hypovolämie)
+Therapie: Albumin 1g/kg/d (bis Serum Albumin  \>  45mg/dl, Terlipressin oder Noradrenalin, Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
+Prophylaxe: Humanalbumingabe, Vermeiden von Auslösern (KM, NSAR, hohe Diuretikadosierung, Hypovolämie)
 
 
 
 Postoperativer Ikterus
 - Früh  \<  3 Wochen postoperativ: Transfusionsanamnese nach Polytrauma, Ischämische Hepatitis bei St.p. Schock, Sepsis, chirurgische Komplikation (bili. Obstuktion), acalculöse Cholecystitis.
-- Spät  \>  3 Wochen postoperativ: Medikamente (Fieber, Juckreiz, Eosinophilie,
-Lymphadenopathie), chir. Komplikation Erhöhtes unkonj. Bilirubin: Hämolyse, Hämatome, Mb. Gilbert Konjungiertes Bilirubin erhöht AP  \>  GPT: nicht mechanisch (Sepsis TSS, Med.), mechanisch
+- Spät  \>  3 Wochen postoperativ: Medikamente (Fieber, Juckreiz, Eosinophilie, Lymphadenopathie), chir. Komplikation Erhöhtes unkonj. Bilirubin: Hämolyse, Hämatome, Mb. Gilbert Konjungiertes Bilirubin erhöht AP  \>  GPT: nicht mechanisch (Sepsis TSS, Med.), mechanisch
 (Cholelithiasis, Tumor, Pankreatitis)
 Hepatisch (GPT \> AP): Virushepatitis, Medikamente, Alkohol,...
 
@@ -243,8 +224,7 @@ Steatosis hepatis durch TPE (totale parenterale Ernährung)
 Mit nichtmechanischer intrahepatischer Cholestase Risiko: TPE \> 3 Monate, Kurzdarm Patienten Path: verminderte Gallensekretion durch Dysbalance der GI Hormone, bakterielle Translok.  +
 Bildung von toxischen Gallensäuren Therapie: Vermeidung überhöhter Kalorienzufuhr, zyklische Applikation mit 6-12h Pause
 
-Medikamentös induzierte Cholestase/Hepatitis Bei Antibiotika (Augmentin, Makrolide, Flucloxacillin) mit erhöhten Transaminasen,
-Oberbauchschmerzen, Fieber nach 1-6 Wochen Latenzzeit.
+Medikamentös induzierte Cholestase/Hepatitis Bei Antibiotika (Augmentin, Makrolide, Flucloxacillin) mit erhöhten Transaminasen, Oberbauchschmerzen, Fieber nach 1-6 Wochen Latenzzeit.
 
 
 

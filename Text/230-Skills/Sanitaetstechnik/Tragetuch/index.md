@@ -10,16 +10,10 @@
 # Tragetuch
 
 Das Tragetuch (ESE-Tuch)
-eignet sich ideal für den Transport von liegenden Patienten bei denen
-der Einsatz einer Krankentrage eventuell aus Platzgründen nicht möglich
-ist. Es wird auch oft zum Umlagern von Patienten oder zum Retten aus
-einer Gefahrenzone verwendet. Der Transport mit Hilfe des Tragetuchs ist
-*nicht wirbelsäulenschonend*. Ist eine Immobilisation der Wirbelsäule
-notwendig, soll stattdessen eine andere Technik (Vakuummatratze, etc.)
+eignet sich ideal für den Transport von liegenden Patienten bei denen der Einsatz einer Krankentrage eventuell aus Platzgründen nicht möglich ist. Es wird auch oft zum Umlagern von Patienten oder zum Retten aus einer Gefahrenzone verwendet. Der Transport mit Hilfe des Tragetuchs ist *nicht wirbelsäulenschonend*. Ist eine Immobilisation der Wirbelsäule notwendig, soll stattdessen eine andere Technik (Vakuummatratze, etc.)
 angewendet werden.
 
-Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient
-wird immer mit den *Füßen voran* getragen.
+Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient wird immer mit den *Füßen voran* getragen.
 
 ```{eval-rst}
 .. subfigstart::

@@ -23,27 +23,15 @@ Erkrankungen des harnableitenden Systems.
 ::::
 
 Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
-(Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn
-abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der
-Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
-Am Harnkatheter kann ein **Harnbeutel** {index}` <Harnbeutel>` angeschlossen werden,
-welcher den Urin sammelt und sich entleeren lässt.
-Der Harnbeutel muss
-*unter dem Patienten angebracht* sein,
-damit der Urin der Schwerkraft folgend abrinnen kann;
+(Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
+Am Harnkatheter kann ein **Harnbeutel** {index}` <Harnbeutel>` angeschlossen werden, welcher den Urin sammelt und sich entleeren lässt.
+Der Harnbeutel muss *unter dem Patienten angebracht* sein, damit der Urin der Schwerkraft folgend abrinnen kann;
 andernfalls würde der Urin zurückrinnen.
-Beim Umlagern ist daher der zum Patienten führende
-*Schlauch abzuklemmen*. Der Katheter und das daran hängende System ist
-eine mögliche *Eintrittspforte für Keime*, daher ist auf einen sauberen,
-kontaminationsfreien Umgang zu achten.
-Wenn der Harnbeutel abgelassen
-werden muss,
-so ist die abgelassene Menge zu notieren,
-damit der Flüssigkeitshaushalt (Einfuhr, Ausfuhr; Flüssigkeitsbilanz)
+Beim Umlagern ist daher der zum Patienten führende *Schlauch abzuklemmen*. Der Katheter und das daran hängende System ist eine mögliche *Eintrittspforte für Keime*, daher ist auf einen sauberen, kontaminationsfreien Umgang zu achten.
+Wenn der Harnbeutel abgelassen werden muss, so ist die abgelassene Menge zu notieren, damit der Flüssigkeitshaushalt (Einfuhr, Ausfuhr; Flüssigkeitsbilanz)
 bilanziert werden kann.
 
-Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und
-entsprechend oft bei Patienten anzutreffen.
+Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und entsprechend oft bei Patienten anzutreffen.
 
 
 
@@ -61,16 +49,10 @@ entsprechend oft bei Patienten anzutreffen.
 ### Beschreibung und Ursachen
 
 Eine {dfn}`Nierenkolik` {index}` <! Nierenkolik>`
-ist gekennzeichnet durch
-kolikartige Schmerzen aufgrund einer Blockade des Harnleiters
-und dem daraus folgenden Harnstau und Dehnung des Harnleiters,
-vgl. {ref}`Kolik <kolik>`.
+ist gekennzeichnet durch kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem daraus folgenden Harnstau und Dehnung des Harnleiters, vgl. {ref}`Kolik <kolik>`.
 
 Sie ist eine
-äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass
-Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der
-Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem
-Dehnungsschmerz.
+äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem Dehnungsschmerz.
 
 ### Symptome
 
@@ -84,14 +66,7 @@ Dehnungsschmerz.
 :::
 ::::
 
-Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im
-Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die
-Schamlippen ausstrahlen kann. Im Gegensatz zu anderen abdominellen
-Erkrankungen ist der Patient extrem unruhig und agitiert (*"Der Stein
-wandert, der Schmerz wandert, der Patient wandert"*). Oft läuft er
-gestikulierend und wehklagend durch die Gegend. Mitunter ist eine
-entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann
-erfragt werden. Unter Umständen kann Blut im Harn sein.
+Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die Schamlippen ausstrahlen kann. Im Gegensatz zu anderen abdominellen Erkrankungen ist der Patient extrem unruhig und agitiert (*"Der Stein wandert, der Schmerz wandert, der Patient wandert"*). Oft läuft er gestikulierend und wehklagend durch die Gegend. Mitunter ist eine entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 (mn23xx0c)=
 
@@ -118,33 +93,17 @@ erfragt werden. Unter Umständen kann Blut im Harn sein.
 :::
 ::::
 
-Als {dfn}`Harnwegsinfekt` {index}` <! Harnwegsinfekt>` wird allgemein eine Infektion
-der Harnwege bezeichnet.
+Als {dfn}`Harnwegsinfekt` {index}` <! Harnwegsinfekt>` wird allgemein eine Infektion der Harnwege bezeichnet.
 
-Besonders gefährdet sind Frauen aufgrund der
-kürzeren Harnröhre und der normalen bakteriellen Besiedelung der
-Scheide.
-Die häufigsten Erreger sind, aufgrund der räumlichen Nähe,
-klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt,
-kann die Infektion aufsteigen und eine Nierenbeckenentzündung
-verursachen.
+Besonders gefährdet sind Frauen aufgrund der kürzeren Harnröhre und der normalen bakteriellen Besiedelung der Scheide.
+Die häufigsten Erreger sind, aufgrund der räumlichen Nähe, klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt, kann die Infektion aufsteigen und eine Nierenbeckenentzündung verursachen.
 
-Eine {dfn}`Nierenbeckenentzüdung` {index}` <! Nierenbeckenentzüdung>` ist eine
-Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
+Eine {dfn}`Nierenbeckenentzüdung` {index}` <! Nierenbeckenentzüdung>` ist eine Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
 
-Sie ist oft
-bakteriell bedingt und umfasst die oberen Harnwege, das
-Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der
-häufigsten Erkrankungen der Niere {term}`🗎 Pschyrembel 259`. Im schlimmsten
-Fall kann sich die Infektion weiter ausbreiten und eine Sepsis
-verursachen ({ref}`sepsis`).
+Sie ist oft bakteriell bedingt und umfasst die oberen Harnwege, das Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der häufigsten Erkrankungen der Niere {term}`🗎 Pschyrembel 259`. Im schlimmsten Fall kann sich die Infektion weiter ausbreiten und eine Sepsis verursachen ({ref}`sepsis`).
 
 Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen
-("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen
-Infektionen häufig multiresistente Keime ("Spitalskeime", gegen
-Antibiotika unempfindliche Bakterien, {ref}`multiresistente-keime`) der
-Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein
-besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
+("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen Infektionen häufig multiresistente Keime ("Spitalskeime", gegen Antibiotika unempfindliche Bakterien, {ref}`multiresistente-keime`) der Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 -beutel) da.
 
 ### Symptome
@@ -164,14 +123,10 @@ besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 :::
 ::::
 
-Der Patient klagt über Schmerzen beim Harnlassen, sowie häufigen, aber
-nicht ergiebigen Harndrang. Es können Schmerzen im Nierenlager oder der
-Blasengegend bestehen. Allgemeinsymptome wie Fieber, Müdigkeit und
+Der Patient klagt über Schmerzen beim Harnlassen, sowie häufigen, aber nicht ergiebigen Harndrang. Es können Schmerzen im Nierenlager oder der Blasengegend bestehen. Allgemeinsymptome wie Fieber, Müdigkeit und
 "Krankheitsgefühl" sind möglich.
 
-Bei der akuten Nierenbeckenentzündung leidet der Patient unter Fieber,
-Flankenschmerzen, häufigen, aber nicht ergiebigen Harndrang sowie
-Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
+Bei der akuten Nierenbeckenentzündung leidet der Patient unter Fieber, Flankenschmerzen, häufigen, aber nicht ergiebigen Harndrang sowie Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 
 (harnverhalten)=
 
@@ -189,23 +144,13 @@ Schmerzen beim urinieren. Ein chronischer Verlauf ist oft symptomarm.
 ::::
 
 Ein {dfn}`Akuter Harnverhalt` {index}` <! Akuter Harnverhalt>`
-ist eineAbflussbehinderung des
-Harns aus der Harnblase,
-bei der verschiedene Ursachen möglich sind.
+ist eineAbflussbehinderung des Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
 
-Besonders betroffen sind Männer im fortgeschrittenen Alter
-aufgrund der häufigen altersbedingten
-Vergrößerung der Prostata,
-die die Harnröhre abschnürt.
-Davon abgesehen
-können auch alte Narben, Medikamente oder eine Störung der Schließmuskel
-der Harnblase [^harnverhaltbeispiel] zu Harnverhalten führen.
+Besonders betroffen sind Männer im fortgeschrittenen Alter aufgrund der häufigen altersbedingten Vergrößerung der Prostata, die die Harnröhre abschnürt.
+Davon abgesehen können auch alte Narben, Medikamente oder eine Störung der Schließmuskel der Harnblase [^harnverhaltbeispiel] zu Harnverhalten führen.
 
-Je nach Füllungszustand der Harnblase kann das Harnverhalten sehr
-schmerzhaft sein. Die Maßnahmen beschränken sich auf einen zügigen
-Transport an eine Abteilung für Urologie.
-Eine medikamentöse Schmerztherapie ist selten sinnvoll,
-Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
+Je nach Füllungszustand der Harnblase kann das Harnverhalten sehr schmerzhaft sein. Die Maßnahmen beschränken sich auf einen zügigen Transport an eine Abteilung für Urologie.
+Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
 
 [^harnverhaltbeispiel]: zum Beispiel im Rahmen eines Querschnitt-Syndroms nach
     Wirbelsäulenverletzungen
@@ -237,25 +182,12 @@ Erlösung bringt die schnelle Harnableitung z. B. mittels eines Harnkatheters.
 :::
 ::::
 
-Bei der {dfn}`chronischen
-Niereninsuffizienz` (*Abkz.* *CNI*) besteht eine chronisch
-beeinträchtigte, herabgesetzte Funktion der Nieren.
+Bei der {dfn}`chronischen Niereninsuffizienz` (*Abkz.* *CNI*) besteht eine chronisch beeinträchtigte, herabgesetzte Funktion der Nieren.
 
 Typischerweise kommt es im Rahmen anderer chronischer Krankheiten
-(Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer
-allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge
-zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor
-erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die
-Niereninsuffizienz ebenfalls häufig anzutreffen.
+(Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die Niereninsuffizienz ebenfalls häufig anzutreffen.
 
-Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung,
-später jedoch nur die Nierentransplantation oder eine
-Nierenersatztherapie ({dfn}`Dialyse` {index}` <! Dialyse>`, *Blutwäsche*) zur
-Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten
-oder dritten Tag für einige Stunden an eine Maschine angeschlossen,
-welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu
-einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des
-Krankentransportdienstes.
+Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung, später jedoch nur die Nierentransplantation oder eine Nierenersatztherapie ({dfn}`Dialyse` {index}` <! Dialyse>`, *Blutwäsche*) zur Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten oder dritten Tag für einige Stunden an eine Maschine angeschlossen, welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des Krankentransportdienstes.
 
 (dialysepatienten-gefahren)=
 
@@ -279,8 +211,7 @@ Krankentransportdienstes.
 :::
 ::::
 
-Die Niereninsuffizienz und die
-Nierenersatztherapien bergen Gefahren für den Patienten:
+Die Niereninsuffizienz und die Nierenersatztherapien bergen Gefahren für den Patienten:
 
 - Dialyse-Patienten haben häufig einen *Dialyse-Shunt* ({ref}`shunt`).
   Die Verbindungsstelle zwischen Arterie und Vene ist verletzlich,
@@ -325,13 +256,7 @@ Nierenersatztherapien bergen Gefahren für den Patienten:
 :::
 ::::
 
-Eine {dfn}`Hodentorsion` {index}` <! Hodentorsion>` ist eine Drehung des Hodens um
-seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße
-abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen
-Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und
-druckempfindlich sein. Ohne Behandlung stirbt der Hoden schlussendlich
-innerhalb weniger Stunden ab. Die Hodentorsion ist daher ein absoluter
-Notfall.
+Eine {dfn}`Hodentorsion` {index}` <! Hodentorsion>` ist eine Drehung des Hodens um seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und druckempfindlich sein. Ohne Behandlung stirbt der Hoden schlussendlich innerhalb weniger Stunden ab. Die Hodentorsion ist daher ein absoluter Notfall.
 
 (mn44000c)=
 
@@ -380,15 +305,13 @@ verhindert die
 
 Aufgaben Nepron:
 1) Proximaler Tubulus: komplette Glucoserückaufnahme im Symport mit Na, 60-70%
-Wasserrücktransport,
-Harnstoff
+Wasserrücktransport, Harnstoff
 +
 Phosphat+Cl+HCO3-
 Reabsorption.
 CAVE:
 Carboanhydrasehemmer verhindern Bicarbonatrücktransfer und damit auch Wasserrückresorption), Sekretion von Säuren und Basen.
-1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium  =  hyperosmolar, hier keine Wasserpermeabilität),
-Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
+1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium  =  hyperosmolar, hier keine Wasserpermeabilität), Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
 1) Distaler Tubulus: Na-Reabsorption 4) Sammelrohr: Aquaporine (ADH) für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
 JGA (juxtaglomerulärer Apparat)
 Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
@@ -401,8 +324,7 @@ ADH = antidiuretisches Hormon = Vasopressin Im Hypothalamus gebildet und HHL ges
 Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen)
 und Aterien (Druck)
 (Minirin, Desmopressin/Octostim)
-Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase,
-und Na-H+-Antiport)
+Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase, und Na-H+-Antiport)
 
 
 
@@ -431,13 +353,10 @@ Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH,
 Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
 
 
-HUS = hämolytisch urämisches Syndrom/TTP Urs: Endothelschaden mit überwiegen von TXA2 und Mikrothrombenbildung durch Cyclosporin A,
-Bakterielle/virale Infektionen.
+HUS = hämolytisch urämisches Syndrom/TTP Urs: Endothelschaden mit überwiegen von TXA2 und Mikrothrombenbildung durch Cyclosporin A, Bakterielle/virale Infektionen.
 Klinik: ANV (HUS), Hämolyse (Fragmentozyten),    und Thrombozytopenie (Thrombotisch-
-thrombozytopenische Purpura TTP), ZNS-Symptomatik mit neurologischen Ausfällen (TTP),
-Hypertonie.
- Therapie: Methylprednisolon, Plasmaaustauschbehandlung,
-Hämodialyse
+thrombozytopenische Purpura TTP), ZNS-Symptomatik mit neurologischen Ausfällen (TTP), Hypertonie.
+ Therapie: Methylprednisolon, Plasmaaustauschbehandlung, Hämodialyse
 
 
 
@@ -446,8 +365,7 @@ Hämodialyse
 Ist selten ein isoliertes Ereignis, oft im Rahmen einer Erkrankung, verschlechtert die Prognose und verlängert die Krankenhausaufenthaltsdauer.
 Co-Morbititäten sind entscheident!
 Ursachen:
-1. Prärenal: Hypovolämie/Hypotonie (Sepsis mit Kapillarleak), DIC durch Stase oder Hyperkoagulopathie 2. Selten renal: Urosepsis, tox. Prozess, chron. NV,
-CRUSH-Niere, Kontrastmittel!
+1. Prärenal: Hypovolämie/Hypotonie (Sepsis mit Kapillarleak), DIC durch Stase oder Hyperkoagulopathie 2. Selten renal: Urosepsis, tox. Prozess, chron. NV, CRUSH-Niere, Kontrastmittel!
 3. Postrenal: Obstruktion der ableitenden Harnwege Diagnose über Kreatininanstieg und Änderung der Diurese!
 
 AKIN-Definition: akut innerhalb 48h, Anstieg Krea um 1  ½  fache (oder 0,3mg/dl) oder Einschränkung der Diurese auf \< 0,5ml/kg/h über \> 6h!
@@ -479,8 +397,7 @@ Ursache beseitigen! Kreislauf stabilisieren und für ausreichenden Perfusionsdru
 
 Prävention:
 - Hydration: Elomel, NaCl... (kein RL bei CNI)
-- Diurese fördern: Mannit (Osmodiurese, bei CRUSH-Niere trendmäßig Verbesserung),
-Schleifendiuretika/Lasix immer in Kombination mit Volumen
+- Diurese fördern: Mannit (Osmodiurese, bei CRUSH-Niere trendmäßig Verbesserung), Schleifendiuretika/Lasix immer in Kombination mit Volumen
 - MAP \> 60-70 (ev. Vasopressoren)
 
 
@@ -491,11 +408,8 @@ Schleifendiuretika/Lasix immer in Kombination mit Volumen
 Schleifendiuretika senken in der Theorie den Sauerstoffbedarf der Niere durch eine vermehrte Natriumrückresorbtion + kortikale Vasodilatation = „Auswascheffekt".
 KI bei AKIN \> III
 
-Die Folgen der akuten Urämie sind eine metabolische Entgleisung, Akumulation von Urämietoxinen,
-metabolische Störungen
-(Insulinresistenz,
-Hyperparathyreoidismus),
-metabolische Azidose.
+Die Folgen der akuten Urämie sind eine metabolische Entgleisung, Akumulation von Urämietoxinen, metabolische Störungen
+(Insulinresistenz, Hyperparathyreoidismus), metabolische Azidose.
 
 
 

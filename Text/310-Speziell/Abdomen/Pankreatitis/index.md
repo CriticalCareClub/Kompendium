@@ -10,23 +10,12 @@
 :::
 ::::
 
-Eine {dfn}`Pankreatitis` {index}` <! Pankreatitis>` ist eine Entzündung der
-Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch
-*chronisch* verlaufen.
+Eine {dfn}`Pankreatitis` {index}` <! Pankreatitis>` ist eine Entzündung der Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch *chronisch* verlaufen.
 
-Die häufigsten Ursachen für eine Pankreatitis
-sind *Gallensteinleiden* und *Alkoholmissbrauch*. Daneben gibt es noch viele, allerdings nicht
-so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt.
+Die häufigsten Ursachen für eine Pankreatitis sind *Gallensteinleiden* und *Alkoholmissbrauch*. Daneben gibt es noch viele, allerdings nicht so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt.
 
-*Warum können Gallensteine eine Pankreatitis verursachen?*
-Der Pankreasausführungsgang, welcher Verdauungsenzyme in
-de Zwölffingerdarm abgibt, mündet nicht direkt in den Dünndarm,
-sondern in den unteren Abschnitt des Gallengangs.
-Verschließt nun ein Stein den
-Gallengang unterhalb der Einmündung, so staut sich Galle und
-Pankreassaft in die Bauchspeicheldrüse zurück. Es kann sogar dazu
-kommen, dass sich das Pankreas durch die Verdauungsenzyme selber
-an-/verdaut.
+*Warum können Gallensteine eine Pankreatitis verursachen?* Der Pankreasausführungsgang, welcher Verdauungsenzyme in de Zwölffingerdarm abgibt, mündet nicht direkt in den Dünndarm, sondern in den unteren Abschnitt des Gallengangs.
+Verschließt nun ein Stein den Gallengang unterhalb der Einmündung, so staut sich Galle und Pankreassaft in die Bauchspeicheldrüse zurück. Es kann sogar dazu kommen, dass sich das Pankreas durch die Verdauungsenzyme selber an-/verdaut.
 
 ## Symptome
 
@@ -39,10 +28,7 @@ an-/verdaut.
 :::
 ::::
 
-Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist
-präklinisch normalerweise nicht möglich. Charakteristisch ist
-bestenfalls ein **gürtelförmiger Oberbauchschmerz** {index}` <gürtelförmiger Oberbauchschmerz>`. Die
-häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
+Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist präklinisch normalerweise nicht möglich. Charakteristisch ist bestenfalls ein **gürtelförmiger Oberbauchschmerz** {index}` <gürtelförmiger Oberbauchschmerz>`. Die häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 
 ## Verlauf
 
@@ -55,8 +41,7 @@ häufigsten Begleitsymptome sind Übelkeit und Erbrechen, sowie Fieber.
 :::
 ::::
 
-Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der
-Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
+Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
 ({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock!septischer!bei Pankreatitis>` Schock erleiden
 ({ref}`schock-septischer`).
 
@@ -81,12 +66,10 @@ Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {
 ## 41. Pankreatitis *
 
 
-Patho: Freisetzung von Chemokinen bewirkt Chemotaxis  =  Anlocken von Monozyten,
-Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin)
+Patho: Freisetzung von Chemokinen bewirkt Chemotaxis  =  Anlocken von Monozyten, Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin)
 durch gestörte Mikrozirkulation und Einblutungen (Elastase), Permeabilitätsstörungen (Kallikrein mit Bildung von Kininen) und Schmerzentstehung mit Entzündungsinfiltrat. (SIRS entscheidet Prognose)
 Dauer: ca. 4-6 Wochen nekrot. Pankreatitis!
-Urs: biliär \> alkoholtoxisch \> sonstiges (Infektionen, Medikamente, Trauma,
-idi
+Urs: biliär \> alkoholtoxisch \> sonstiges (Infektionen, Medikamente, Trauma, idi
 
 
 Klinik
@@ -111,14 +94,12 @@ Diagnostik:
 - KM-CT ab dem 4  Tag (Nekrosenentwicklung erst ab 4-5 Tage!)  =  aufgelockertes Gewebe, Flüssigkeit rund um Pankreas, ev. Lufteinschlüsse
 - ERCP bei va. biliäre Genese: Papillotomie und Steinextraktion möglich
 - Sonographie hat nur eine Sensitivitt von 67%
-- Feinnadelaspiration: sterile vs. Infizierte Nekrose (Keimbestimmung,
-Antibiogram!)
+- Feinnadelaspiration: sterile vs. Infizierte Nekrose (Keimbestimmung, Antibiogram!)
 
 Ranson-Score (Mortalitäts RISK)
 \>55a, Leuko\>16, Gluc \>200, LDH \>350, AST \>250 HK-Abfall \> 10%, Calcium-Abfall \>8, BE
 \>4 (Azidose), pos. Bilanz \> 6l, paO2\<60 (min. CPAP)
-5-6 signs 40%, \>7 signs 99% Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum,
-Aszites, Pleuraerguss, Nekrose,..
+5-6 signs 40%, \>7 signs 99% Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum, Aszites, Pleuraerguss, Nekrose,..
 
 
 

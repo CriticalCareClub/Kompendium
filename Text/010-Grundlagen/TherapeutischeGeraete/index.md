@@ -35,10 +35,12 @@
 ### Blutsperren
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110940-01341px.jpg
+
 Doppelte Blutsperre für Bier-Block
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110959-01341px.\*
+
 Doppelmanschette für Bier-Block
 :::
 

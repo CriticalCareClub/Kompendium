@@ -2,16 +2,9 @@
 
 # Polytrauma
 
-Der Begriff
-{dfn}`Polytrauma` {index}` <! Polytrauma>`
-bezeichnet gleichzeitige
-*Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen
-*wenigstens eine* allein *oder die Kombination mehrerer*
-*lebensgefährlich* ist.
+Der Begriff {dfn}`Polytrauma` {index}` <! Polytrauma>` bezeichnet gleichzeitige *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen *wenigstens eine* allein *oder die Kombination mehrerer* *lebensgefährlich* ist.
 
-Die Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines
-Verdachts, begründet auf den Unfallmechanismus und eventuell der
-Vitalparameter, gestellt werden.
+Die Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines Verdachts, begründet auf den Unfallmechanismus und eventuell der Vitalparameter, gestellt werden.
 
 Beispiele:
 
@@ -24,44 +17,31 @@ Beispiele:
 - Gebrochener Finger + gebrochene Zehe → kein
   Polytrauma
 
-Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen
-20—50%, ist also hoch.
-Ein gezieltes, strukturiertes und
-zügiges Vorgehen ist daher unabdingbar!
-Im Idealfall sollten zwischen
-dem Eintreffen der Rettungskräfte und der definitiven Versorgung im
-Spital nicht mehr als 60 Minuten vergehen.
-Die Behandlung muss sich daher in erster Linie an der
-Stabilisierung der Vitalfunktionen und nicht an den Einzelverletzungen
-orientieren!
+Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen 20—50%, ist also hoch.
+Ein gezieltes, strukturiertes und zügiges Vorgehen ist daher unabdingbar!
+Im Idealfall sollten zwischen dem Eintreffen der Rettungskräfte und der definitiven Versorgung im Spital nicht mehr als 60 Minuten vergehen.
+Die Behandlung muss sich daher in erster Linie an der Stabilisierung der Vitalfunktionen und nicht an den Einzelverletzungen orientieren!
 
 :::{admonition} Fazit
-- Der Patient gilt als polytraumatisiert bis zum Beweis des
-  Gegenteils! Jedes Polytrauma stellt eine *vitale Bedrohung* dar.
+- Der Patient gilt als polytraumatisiert bis zum Beweis des Gegenteils! Jedes Polytrauma stellt eine *vitale Bedrohung* dar.
 - Ein polytraumatisierter Patient ist ein *zeitkritischer* Patient!
 :::
 
-```{eval-rst}
-.. table:: Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytrauma
+:::{table} Häufigkeit der betroffenen Organsysteme bei der Diagnose Polytrauma
 
-    +----------------------+----------------------+
-    | Anteil [%]           | Verletzung           |
-    +======================+======================+
-    | 60--67               | Schädel-Hirn         |
-    +----------------------+----------------------+
-    | 45--75               | Extremitäten         |
-    +----------------------+----------------------+
-    | 25--30               | Thorax               |
-    +----------------------+----------------------+
-    | 10--37               | Abdomen und Becken   |
-    +----------------------+----------------------+
-    | 5--15                | Wirbelsäule          |
-    +----------------------+----------------------+
+| Anteil [%] | Verletzung         |
+| ---------- | ------------------ |
+| 60--67     | Schädel-Hirn       |
+| 45--75     | Extremitäten       |
+| 25--30     | Thorax             |
+| 10--37     | Abdomen und Becken |
+| 5--15      | Wirbelsäule        |
 
-```
+:::
+
+
 
 (tt07xx1c)=
-
 (m-polytrauma)=
 
 ## Maßnahmen Polytrauma, allgemein
@@ -82,23 +62,18 @@ Taktik
       Wirbelsäulenimmobilisation, bzw. entsprechend den
       Verletzungen und der Herz-Kreislauf-Situation
 
-  - Gefährliche Verletzungen versorgen (starke
-    Blutungen, Beckengurt, …)
+  - Gefährliche Verletzungen versorgen (starke Blutungen, Beckengurt, …)
 
-  - **Wärmeerhalt**: Der Wärmeerhalt hat massiven Einfluss auf das
-    Überleben!
+  - **Wärmeerhalt**: Der Wärmeerhalt hat massiven Einfluss auf das Überleben!
 
-  - Verletzungsmuster/Unfallmechanismus erheben → zu
-    erwartende Komplikationen einschätzen
+  - Verletzungsmuster/Unfallmechanismus erheben → zu erwartende Komplikationen einschätzen
 
   - Notarzt:
-    Schmerztherapie, Narkose, Intubation
-    und Beatmung
+    Schmerztherapie, Narkose, Intubation und Beatmung
 
   - Transportentscheidung:
 
-    - Transportentscheidung: Schockraum, mit
-      Voranmeldung (Aviso) über Leitstelle
+    - Transportentscheidung: Schockraum, mit Voranmeldung (Aviso) über Leitstelle
     - Hubschrauber-Transport erwägen
 
 
@@ -119,10 +94,15 @@ Management der chirurgischen Versorgung
 
 Pathophysiologie des Polytraumas
 - Ischämie und Reperfusion: Blutverlust mit Hypotonie und Perfusionsabnahme  =
-  Zentralisation/Schock  =  Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall. Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion = Einschwemmen von vasoaktiven Substanzen in den Kreislauf mit Hypotonie  +  Entstehen von Sauerstoffradikalen welche Tightjunctions schädigen, erhöhte NO-Produktion durch TNFα, Aktivierung des Komplimentsystems mit DIC.
+  Zentralisation/Schock  =  Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
+  Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion = Einschwemmen von vasoaktiven Substanzen in den Kreislauf mit Hypotonie  +  Entstehen von Sauerstoffradikalen welche Tightjunctions schädigen, erhöhte NO-Produktion durch TNFα, Aktivierung des Komplimentsystems mit DIC.
   Das Ausmaß ist vom Ausmaß der Ischämie und der Dauer der Reperfusionsphase abhängig.
 - Weichteiltrauma:    mit Schmerz, Blutung/Hämatom mit lokaler Mediatorfreisetzung und Fernwirkung der Mediatoren.
-- Immunversagen: Rascher Verbrauch der humoralen und zellulären Komponenten des Abwehrsystems. Leukopenie korreliert mit Verletzungsschwere (Neutrophile Granulozyten und Makrophagen hängen am geschädigten Endothel). Translokation der Darmbakterien und Einschwemmen von Endotoxinen bei Ischämie des Darms.
+- Immunversagen: Rascher Verbrauch der humoralen und zellulären Komponenten des Abwehrsystems.
+
+  Leukopenie korreliert mit Verletzungsschwere (Neutrophile Granulozyten und Makrophagen hängen am geschädigten Endothel).
+  Translokation der Darmbakterien und Einschwemmen von Endotoxinen bei Ischämie des Darms.
+
   Wichtig sind Hygienemassnahmen!
 
 

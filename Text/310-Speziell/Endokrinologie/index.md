@@ -38,8 +38,7 @@ Therapie: Thiamazol (hemmt SD-peroxidase für Hormonbildung), Natriumperchlorat/
 
 Hashimoto-Thyreoiditis, iatrogen: Strumektomie, Radiojodtherapie, Thyreostatika Sekundär bei HVL-Insuffizienz, tertiär hypothalamisch bedingt.
 
-Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegalie mit red. HZV,
-Bradykardie, Niedervoltage, AV-Block, Hypoventilation durch verminderten Atemantrieb durch CO2, Leberfunktionsstörungen, Makroglossie (Intubationsschwierigkeiten!), NNI (präoperative Glucocorticoidgabe), CNI (cave: ndMR)
+Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegalie mit red. HZV, Bradykardie, Niedervoltage, AV-Block, Hypoventilation durch verminderten Atemantrieb durch CO2, Leberfunktionsstörungen, Makroglossie (Intubationsschwierigkeiten!), NNI (präoperative Glucocorticoidgabe), CNI (cave: ndMR)
 
 Anästhesie:
 - Elektive Operationen immer mit euthyreoter Stoffwechsellage anstreben! Präopertiv Hormonstatus (TSH, T3/4), Kardiovaskuläre Begutachtung, HNO (Stimmbandfunktion?), C/P (Trachealverlagerung/einengung?)
@@ -122,8 +121,7 @@ Narkose
 
 Produziert Serotonin, Histamin, Prostaglandine, Kallikrein (Bradykininfreisetzung)
 
-Lokalisation: Darm, Magen, Lungenmetastasen, SD, Pankreas Klinik: Flush, Hypotension, Bronchospasmus, TI, SVES, Abdominelle Schmerzen, Diarrhöe,
-Hyperglykämie.
+Lokalisation: Darm, Magen, Lungenmetastasen, SD, Pankreas Klinik: Flush, Hypotension, Bronchospasmus, TI, SVES, Abdominelle Schmerzen, Diarrhöe, Hyperglykämie.
 
 Präoperativ
 : Lufu, Echo, Prämed, Serotoninantagonist Cyproheptadin, H1+H2 Blocker 20min vor Einleitung

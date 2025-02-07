@@ -77,6 +77,7 @@ Ein manuelles Blutdruckmessgerät besteht aus einer Manschette, einem Schlauch, 
 Es gibt Manschetten in unterschiedlichen Größen.
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Blutdruck_32768_export_01024.jpg
+
 Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel- und einem Einzelkopfstethoskop
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
@@ -120,8 +121,7 @@ Die genauere ist die *auskultatorische Methode* (durch Hören von Strömungsger�
 Die zweite Möglichkeit ist die *palpatorische Methode* (durch Tasten des Pulses).
 
 :::{attention}
-Der *diastolische* Blutdruckwert kann nur bei der
-*auskultatorischen* Methode ermittelt werden!
+Der *diastolische* Blutdruckwert kann nur bei der *auskultatorischen* Methode ermittelt werden!
 :::
 
 ### Auskultatorische Methode
@@ -157,13 +157,13 @@ Die Luft wird langsam aus der Manschette abgelassen.
 Der Wert, bei dem man erstmalig ein Pochen (Korotkowsche Geräusche) hört, gilt als *systolischer Wert*.
 Die Luft wird weiter abgelassen.
 Der Wert, bei dem das Pochen verschwindet, ist der *diastolische Wert*.
-Es kann vorkommen, dass das Pochen nicht verschwindet, sondern nur plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen
-*deutlich* leiser wird, als diastolischer Wert.
+Es kann vorkommen, dass das Pochen nicht verschwindet, sondern nur plötzlich leiser wird, dann gilt der Druck, bei dem das Pochen *deutlich* leiser wird, als diastolischer Wert.
 
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR* (z. B.: `RR 120/80 mm Hg`).
 Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80 (vgl. {ref}`blutdruck`).
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Riva-Rocci_edited.\*
+
 Prinzip der auskultatorischen RR-Messung
 
 In Abhängigkeit vom außen anliegenden Manschettendruck kommt es zu einem unterschiedlich starken Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.

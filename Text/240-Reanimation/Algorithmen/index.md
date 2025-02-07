@@ -13,36 +13,20 @@
 :::
 ::::
 
-Der Ablauf der Reanimation wird durch die Leitlinien des
-*European Resuscitation Council* (*ERC*) vorgegeben
-und sind durch zahlreiche
-Studien wissenschaftlich abgesichert.
-Diese Leitlinien werden alle 5 Jahre aktualisiert
-und gliedern sich in verschiedene Themenbereiche,
-einer davon ist der  *Basic Life Support* (*BLS*).
-Neben dem Basic Life Support,
-welcher hauptsächlich für Laien und nicht-ärztliche Helfer ausgelegt
-ist,
-gibt es den *Advanced Life Support* (Erweiterte Maßnahmen, *ALS*),
-welcher für speziell ausgebildete Notfallteams konzipiert ist.
+Der Ablauf der Reanimation wird durch die Leitlinien des *European Resuscitation Council* (*ERC*) vorgegeben und sind durch zahlreiche Studien wissenschaftlich abgesichert.
+Diese Leitlinien werden alle 5 Jahre aktualisiert und gliedern sich in verschiedene Themenbereiche, einer davon ist der  *Basic Life Support* (*BLS*).
+Neben dem Basic Life Support, welcher hauptsächlich für Laien und nicht-ärztliche Helfer ausgelegt ist, gibt es den *Advanced Life Support* (Erweiterte Maßnahmen, *ALS*), welcher für speziell ausgebildete Notfallteams konzipiert ist.
 Für Kinder ist der *Pediatric Life Support* (*PLS*) anzuwenden.
 
 ## Basic Life Support (BLS)
 
 Die ERC betont die Wichtigkeit *frühzeitigen* Handelns.
-Durch engmaschiges
-Monitoring von Notfallpatienten soll ein drohender Kreislaufstillstand
-frühzeitig erkannt werden,
-sodass rechtzeitig Reanimationsbereitschaft
-hergestellt wird.
-Nur so kann im Falle eines tatsächlichen
-Kreislaufstillstandes der Algorithmus sofort beginnen und
-unterbrechungsfrei abgearbeitet werden.
-Mit jeder Minute Verzögerung
-sinkt die Überlebenswahrscheinlichkeit des Patienten um ca. 10%.
+Durch engmaschiges Monitoring von Notfallpatienten soll ein drohender Kreislaufstillstand frühzeitig erkannt werden,
+sodass rechtzeitig Reanimationsbereitschaft hergestellt wird.
+Nur so kann im Falle eines tatsächlichen Kreislaufstillstandes der Algorithmus sofort beginnen und unterbrechungsfrei abgearbeitet werden.
+Mit jeder Minute Verzögerung sinkt die Überlebenswahrscheinlichkeit des Patienten um ca. 10%.
 
-Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt
-vor:
+Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt vor:
 
 01. ① **Szeneüberblick mit (Selbst-)Schutz**: Es ist auf Sicherheit zu
     achten. Helfer und Patient dürfen nicht gefährdet sein. Dieser Punkt
@@ -166,6 +150,7 @@ siehe {ref}`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 (figure-bls-aed-algorithmus)=
 
 :::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationBls-2015-4.\*
+
 Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
 
 \[Josef Emhofer, nach  {term}`🗎 ERC 2015 02`\]
@@ -176,6 +161,7 @@ Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
 :::
 
 :::{figure} /Bilder/Emhofer-Josef-CCCA/Larynxtubus-2015-1.\*
+
 Algorithmus: Larynxtubus im Rahmen der Reanimation
 :::
 

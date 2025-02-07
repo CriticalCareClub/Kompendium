@@ -15,9 +15,7 @@ Entzugssymtomatik mit Gefahr des Entzug-GM-Anfalls , max.
 2 Ampullen geben!
 
 
-Benzodiazepinüberdosierung: Praxiten, Somnobene (blaue Lippen), Xanor, Psychopax, Zoldem,
-Gewacalm Therapie: Anexate titriert mit  ½  Ampulle starten, sonst Entzug mit Krämpfen, Unruhe, ev. EHK,
-Diurese forcieren ev. HF, KEIN Lysthenon!
+Benzodiazepinüberdosierung: Praxiten, Somnobene (blaue Lippen), Xanor, Psychopax, Zoldem, Gewacalm Therapie: Anexate titriert mit  ½  Ampulle starten, sonst Entzug mit Krämpfen, Unruhe, ev. EHK, Diurese forcieren ev. HF, KEIN Lysthenon!
 
 Komplikationen:
 - Hypoxisches Hirnödem
@@ -36,9 +34,10 @@ Die „SCHNELLEN" = Ecstasy + Kokain!
 Liquid Ecstacy (GHB) = Neurotransmitter am GABA-Rezeptor;
 Klinik: euphorisierend, bis  Übelkeit, Erbrechen, Mydriasis, Bradykardie, zerebrale Krämpfe, KS vorallem bei Mischkonsum mit Opiaten und Alkohol.
 Therapie: symptomatisch, Schutzintubation, Cave: Delir nach dem Aufwachen!
-Kokain Klinik: Euhorie bis Wahnvorstellungen, Rhythmusstörungen bis MCI, Husten/Bronchospasmus,
-Rhabdomyolyse, Hyperthermie,
-Therapie: symptomatisch, CAVE: keine Betablocker (Hypertonie durch kokainvermittelte Alphastim.)
+Kokain Klinik: Euhorie bis Wahnvorstellungen, Rhythmusstörungen bis MCI, Husten/Bronchospasmus, Rhabdomyolyse, Hyperthermie,
+
+Therapie
+: symptomatisch, CAVE: keine Betablocker (Hypertonie durch kokainvermittelte Alphastim.)
 
 TCA (Tricyklische Antidepressiva): Saroten (heute Schmerztherapie!), ...
 = Serotonin und NA Reuptakehemmer, anticholinerg, sedativ
@@ -48,40 +47,30 @@ Klinik:
 - Long QT durch erhöhte Transportleistung der Natriumkanäle
 (QT länger als ½ Strecke R-R)
 - Zentral anticholinerges Syndrom: Nesteln und Faseln (Zunge klebt am Gaumen)
-- Peripher anticholinerges Syndrom: Tachyarrhythmie, Mydriasis, trockene rote Haut,
-trockener Mund,
-keine Darmperistaltik; Therapie: Physostigmin (Anticholium) titriert!
-- Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos,
-Beatmung,...
+- Peripher anticholinerges Syndrom: Tachyarrhythmie, Mydriasis, trockene rote Haut, trockener Mund, keine Darmperistaltik; Therapie: Physostigmin (Anticholium) titriert!
+- Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos, Beatmung,...
 
 
 SSRI (systemische Serotonin reuptake Inhibitoren)
-Seropram, Seroquel, Trittico, Tresleen,
-Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
+Seropram, Seroquel, Trittico, Tresleen, Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
 
 
 Therapie: repetitive Aktivkohle, NaBIC, symptomatisch
 - Aktivkohle (Carbo medicinalis) initial 30g  + 2 EL Magnesiumsulfat, dann repetitiv 15g  + 1EL Magnesiumsulfat alle 2-6 Stunden.
-- Magenspülung: bei lebensbedrohlichen/organtoxischen Substanzen innerhalb einer Stunde,
-KI bei alkalischen Lsg. und Säuren. (Abwägen Aggravierung der Vergiftungssympomatik bei 2 Resorptions-Peak!)
-- Darmlavage mit Ipecacuana Sirup bei Salicylatvergiftung,
-Metothrexat
+- Magenspülung: bei lebensbedrohlichen/organtoxischen Substanzen innerhalb einer Stunde, KI bei alkalischen Lsg. und Säuren. (Abwägen Aggravierung der Vergiftungssympomatik bei 2 Resorptions-Peak!)
+- Darmlavage mit Ipecacuana Sirup bei Salicylatvergiftung, Metothrexat
 
 Alkoholintox/chron. Alkoholismus:
 Starke Lipidlöslichkeit, daher rasche Wirkung im ZNS;
 - Verminderte Ach-Synthese
 - Verminderte GABA-Aktivität = Krämpfe (Therapie: Benzodiazepine)(Mg-Mangel?)
 - Erhöhte dopaminerge Rezeptoren im limbischen System = Halluzinationen (Th: Haldol)
-- Alkohol vermindert die myokardiale Kontraktilität, führt zu einer peripheren Vasodilatation mit Reflextachykardie. Die Coronarien dilatieren nicht,
-daher AP-Symptomatik!
+- Alkohol vermindert die myokardiale Kontraktilität, führt zu einer peripheren Vasodilatation mit Reflextachykardie. Die Coronarien dilatieren nicht, daher AP-Symptomatik!
 - Erhöhter Sympathikotonus (Therapie: Clonidin/Catapressan)
 
 
 Klinik:
-Exzitationsstadium,
-Rauschstadium,
-Narkosestadium,
-asphyktisches Stadium.
+Exzitationsstadium, Rauschstadium, Narkosestadium, asphyktisches Stadium.
 „Pupillenspiele"
 wechselnde li/re Anisokorie transient, metabolische Azidose.
 
@@ -95,24 +84,20 @@ Paracetamolintoxikation
 
 
 Verlaufsphasen:
-- Phase I: 12-24h, Übelkeit, Erbrechen,
-Bauchkrämpfe, Appetitlosigkeit
+- Phase I: 12-24h, Übelkeit, Erbrechen, Bauchkrämpfe, Appetitlosigkeit
 - Phase II: 24-48h, Latenzphase mit relativem Wohlbefinden
-- Phase III: \>48h Schmerzen rechter OB, LFP-anstieg,
-Gerinnungseinbruch
+- Phase III: \>48h Schmerzen rechter OB, LFP-anstieg, Gerinnungseinbruch
 - Phase IV: 3-5 Tag, ALV mit Ikterus, HE, Hypoglykämie, ANV
 
 
-Therapie: Antidottherapie mit N-Acetylcystein (Fluimicil) nach Plasmaspiegel, forcierte Diurese,
-symptomatisch, LTX
+Therapie: Antidottherapie mit N-Acetylcystein (Fluimicil) nach Plasmaspiegel, forcierte Diurese, symptomatisch, LTX
 
 
 NSAR-Intoxikation
 =  hemmen alle Prostaglandinsynthese, bei Intoxikation Einlagerung der analgetischen Säuren in zelluläre Membranen des ZNS
 
 
-Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  Übelkeit,
-Erbrechen, heftige Bauchschmerzen (PGE2 Mangel), metabolische Azidose, ANV (verminderte renale Vasodilation).
+Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  Übelkeit, Erbrechen, heftige Bauchschmerzen (PGE2 Mangel), metabolische Azidose, ANV (verminderte renale Vasodilation).
 
 
 Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10g  =  20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
@@ -121,8 +106,7 @@ CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
 =  240 x höhere Affinität zu Hb als O2 (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;
 
 
-Klinik: Müdigkeit, Brechreiz, Kopfschmerz, Benommenheit, Somnolenz, Koma, Krämpfe,
-Hypotension, MCI, ARDS, Basalganglienschädigung, Azidose. Chron.
+Klinik: Müdigkeit, Brechreiz, Kopfschmerz, Benommenheit, Somnolenz, Koma, Krämpfe, Hypotension, MCI, ARDS, Basalganglienschädigung, Azidose. Chron.
 Schädigung Schwerhörigkeit.
 CO-Hb 20% kardiotoxisch, 40% Koma, \>50% Atemlähmung.
 
@@ -130,42 +114,26 @@ CO-Hb 20% kardiotoxisch, 40% Koma, \>50% Atemlähmung.
 Therapie: Sauerstoff!!! PEEP! HBO (Hyperbare Oxygenierung ab 30% in Grazer Druckkammer)
 
 CO2-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere Dichte als Luft)
-= Ersticken im Gärgas-See, Atemdepression durch Hyperkapnie, Tachykardie,
-Hypertonie Therapie: Sauerstoff!!
+= Ersticken im Gärgas-See, Atemdepression durch Hyperkapnie, Tachykardie, Hypertonie Therapie: Sauerstoff!!
 
 
 
 
 
-Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd,
-Zyanide, Phosgen, Asche, Russ)
-Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ,
-antiobstruktive Therapie (Berodual),
-großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
+Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ)
+Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
 
 Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 
 ## Beschreibung
 
 Eine {dfn}`Vergiftung` {index}` <! Vergiftung>` ist eine (meist dosisabhängige)
-organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus
-durch eine aufgenommene Substanz.
+organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus durch eine aufgenommene Substanz.
 
-Vergiftungen sind eine interessante
-Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe
-verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein
-Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das
-meist tödlich. Sonst nützliche Medikamente können schon bei einer
-Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
+Vergiftungen sind eine interessante Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein
+Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das meist tödlich. Sonst nützliche Medikamente können schon bei einer Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
 
-Andererseits können Vergiftung in Abhängigkeit vom ursächlichen Stoff so
-ziemlich alle Erscheinungsformen darbieten. Oft findet man nur
-*unspezifische Symptome* vor, wie z. B. Erbrechen, Durchfall, Schmerzen
-im Magen-Darm-Trakt, Bewusstseinsstörungen, Krampfanfälle oder
-Entgleisung der Vitalparameter. Es ist weder möglich, noch sinnvoll, auf
-sämtliche mögliche Vergiftungen im Detail einzugehen. Im Folgenden
-werden einige häufig anzutreffende Vergiftungen sowie Herangehensweisen
-für andere, weniger häufige, vorgestellt und besprochen.
+Andererseits können Vergiftung in Abhängigkeit vom ursächlichen Stoff so ziemlich alle Erscheinungsformen darbieten. Oft findet man nur *unspezifische Symptome* vor, wie z. B. Erbrechen, Durchfall, Schmerzen im Magen-Darm-Trakt, Bewusstseinsstörungen, Krampfanfälle oder Entgleisung der Vitalparameter. Es ist weder möglich, noch sinnvoll, auf sämtliche mögliche Vergiftungen im Detail einzugehen. Im Folgenden werden einige häufig anzutreffende Vergiftungen sowie Herangehensweisen für andere, weniger häufige, vorgestellt und besprochen.
 
 ## Der Weg in den Körper – Aufnahme des Giftes
 
@@ -183,16 +151,13 @@ Die Aufnahme der Substanz kann über verschiedene Wege erfolgen:
 
 ## Vergiftungsinformationszentrale
 
-Bei der Vergiftungsinformationszentrale kann Expertenrat eingeholt
-werden, sofern der verantwortliche Stoff bekannt ist. Unter Umständen
-kann wird hier auch bei der Identifizierung des Stoffes geholfen.
+Bei der Vergiftungsinformationszentrale kann Expertenrat eingeholt werden, sofern der verantwortliche Stoff bekannt ist. Unter Umständen kann wird hier auch bei der Identifizierung des Stoffes geholfen.
 
 - Expertenrat
 
   > - Vergiftungsinformationszentrale: 01 / 406 43 43
 
-Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig
-unternehmen.
+Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig unternehmen.
 Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptomatischer Therapie.
 
 (mt65091c)=
@@ -263,13 +228,10 @@ Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptom
 :::
 ::::
 
-Die Vergiftung mit Alkohol ist häufig anzutreffen,
-weil sie sozial akzeptiert ist.
-Wenn der Betroffene "über’s Ziel hinaus schießt",
-kann es schnell zu lebensbedrohlichen Zuständen kommen.
+Die Vergiftung mit Alkohol ist häufig anzutreffen, weil sie sozial akzeptiert ist.
+Wenn der Betroffene "über’s Ziel hinaus schießt", kann es schnell zu lebensbedrohlichen Zuständen kommen.
 
-Alkohol wirkt enthemmend,
-z. T. stimulierend und stimmungsmodulatorisch.
+Alkohol wirkt enthemmend, z. T. stimulierend und stimmungsmodulatorisch.
 Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
 Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
@@ -292,22 +254,12 @@ Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
 - Schmerzunempfindlichkeit
 - Unterkühlung
 
-Mit zunehmender Menge kommt es zu einem totalen Kontrollverlust,
-Bewusstseinstrübung, Schmerzunempfindlichkeit,
-Temperaturregulationsstörung und Inkontinenz [^inkontinenz]. Im Extremfall kann
-es zu einer vegetativen Entgleisung und einem tief komatösen Zustand
-kommen. Spätestens dann besteht akute Lebensgefahr. Weitere Gefahren
-sind Atemdepression, Aspiration, Ausfall der Schutzreflexe und –
+Mit zunehmender Menge kommt es zu einem totalen Kontrollverlust, Bewusstseinstrübung, Schmerzunempfindlichkeit, Temperaturregulationsstörung und Inkontinenz [^inkontinenz]. Im Extremfall kann es zu einer vegetativen Entgleisung und einem tief komatösen Zustand kommen. Spätestens dann besteht akute Lebensgefahr. Weitere Gefahren sind Atemdepression, Aspiration, Ausfall der Schutzreflexe und –
 besonders in der kalten Jahreszeit – Unterkühlung.
 
 [^inkontinenz]: *Inkontinenz:* Unfähigkeit Harn und/oder Stuhl zu halten.
 
-Es ist unbedingt zu erheben, ob noch andere Substanzen (Medikamente,
-Drogen, …) eingenommen wurden (*Mischintoxikation*). Aufgrund der oft
-reduzierten Schmerzempfindlichkeit ist besonders auf Verletzungen zu
-achten. Die *vitale Bedrohung* ist vor allem anhand der Vitalparameter,
-der körperlichen Untersuchung und des Bewusstseinszustandes zu
-beurteilen.
+Es ist unbedingt zu erheben, ob noch andere Substanzen (Medikamente, Drogen, …) eingenommen wurden (*Mischintoxikation*). Aufgrund der oft reduzierten Schmerzempfindlichkeit ist besonders auf Verletzungen zu achten. Die *vitale Bedrohung* ist vor allem anhand der Vitalparameter, der körperlichen Untersuchung und des Bewusstseinszustandes zu beurteilen.
 
 Der Alkoholentzug und das Entzugsdelir wird unter
 {ref}`alkohol-entzug`, abgehandelt.
@@ -340,15 +292,9 @@ Der Alkoholentzug und das Entzugsdelir wird unter
 
 ## Vergiftungen durch Medikamente
 
-Überdosierungen von Medikamenten können komplett unterschiedliche
-Symptome erzeugen, je nach eingenommenen Medikamenten. Manchmal können
-die Symptome sogar erst Stunden nach der Einnahme auftreten und tödlich
-enden. Vergiftungen mit Medikamenten gehören daher immer abgeklärt und
-die Patienten hospitalisiert.
+Überdosierungen von Medikamenten können komplett unterschiedliche Symptome erzeugen, je nach eingenommenen Medikamenten. Manchmal können die Symptome sogar erst Stunden nach der Einnahme auftreten und tödlich enden. Vergiftungen mit Medikamenten gehören daher immer abgeklärt und die Patienten hospitalisiert.
 
-Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden
-Arzneimittel oft auch in Selbstmordabsicht eingenommen. Die Umstände der
-Einnahme müssen daher abgeklärt werden.
+Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden Arzneimittel oft auch in Selbstmordabsicht eingenommen. Die Umstände der Einnahme müssen daher abgeklärt werden.
 
 ```{index} pair: Intoxikation; Paracetamol pail: n-Acetylcystein; Antidot
 ```
@@ -360,30 +306,21 @@ Einnahme müssen daher abgeklärt werden.
 Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten
 ```
 
-Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten
-erst nach Stunden auf.
-Es gibt ein Gegenmittel (n-Acetylcystein), dieses muss jedoch
-rechtzeitig gegeben werden. Ohne Behandlung kommt es zum Leberversagen
-und in Folge zum Tod.
+Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten erst nach Stunden auf.
+Es gibt ein Gegenmittel (n-Acetylcystein), dieses muss jedoch rechtzeitig gegeben werden. Ohne Behandlung kommt es zum Leberversagen und in Folge zum Tod.
 
 ```{index} pair: Intoxikation; Digitalis
 ```
 
 ### Digitalis
 
-Digitalis ist ein auf das Herz wirkendes Medikament und wird seit langer
-Zeit zur Behandlung der Herzinsuffizienz und von Herzrhythmusstörungen
-eingesetzt. Es ist jedoch sehr schwierig die richtige Dosis für einen
-Patienten zu finden, daher kommt es — trotz korrekter Einnahme — häufig
-zu Überdosierungen. Die Folge sind Herzrhythmusstörungen und andere
-EKG-Veränderungen und "Farbensehen".
+Digitalis ist ein auf das Herz wirkendes Medikament und wird seit langer Zeit zur Behandlung der Herzinsuffizienz und von Herzrhythmusstörungen eingesetzt. Es ist jedoch sehr schwierig die richtige Dosis für einen Patienten zu finden, daher kommt es — trotz korrekter Einnahme — häufig zu Überdosierungen. Die Folge sind Herzrhythmusstörungen und andere EKG-Veränderungen und "Farbensehen".
 
 ## Vergiftungen mit Suchtmitteln und Drogen
 
 ### Opiate: Heroin & Co.
 
-Heroin und Morphium gehören zu der Gruppe der Opiate und sind im
-Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
+Heroin und Morphium gehören zu der Gruppe der Opiate und sind im Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
 
 #### Symptome der Opiatvergiftung
 
@@ -399,29 +336,17 @@ Drogenmilieu weit verbreitet, die Anwendung erfolgt i. d. R. intravenös.
 :::
 ::::
 
-Die gefährlichste Wirkung der Opiate ist die Atemdepressionen,
-d. h. die Atemfrequenz wird dosisabhängig immer weiter reduziert bis es
-schließlich zu einem Atemstillstand kommt.
-Die Patienten zeigen
-dementsprechend Zeichen einer Hypoxie (Zyanose).
-Charakteristisch ist
-die starke Verengung der Pupillen *(stecknadelkopfgroße Pupillen)*. Oft
-findet man alte Einstichstellen in der Armbeuge.
-Da in der "Szene" oft
-unsauberes oder getauschtes Spritzbesteck verwendet wird, besteht eine
-erhöhte Erkrankungsrate an HIV und Hepatitis C.
-Eine weitere Gefahr geht
-vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird
+Die gefährlichste Wirkung der Opiate ist die Atemdepressionen, d. h. die Atemfrequenz wird dosisabhängig immer weiter reduziert bis es schließlich zu einem Atemstillstand kommt.
+Die Patienten zeigen dementsprechend Zeichen einer Hypoxie (Zyanose).
+Charakteristisch ist die starke Verengung der Pupillen *(stecknadelkopfgroße Pupillen)*. Oft findet man alte Einstichstellen in der Armbeuge.
+Da in der "Szene" oft unsauberes oder getauschtes Spritzbesteck verwendet wird, besteht eine erhöhte Erkrankungsrate an HIV und Hepatitis C.
+Eine weitere Gefahr geht vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird
 (**Vorsicht vor der Nadel!**)
 
 #### Gegenmittel
 
-Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich, dieses ist
-sehr effektiv. [^naloxon]
-Es ist jedoch wichtig zu wissen, dass dieses
-Gegenmittel nicht so lange wirkt wie das Opiat, d. h. es kann wieder zu
-einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels
-nachlässt.
+Jedes Notarztmittel führt ein Opiat-Gegenmittel mit sich, dieses ist sehr effektiv. [^naloxon]
+Es ist jedoch wichtig zu wissen, dass dieses Gegenmittel nicht so lange wirkt wie das Opiat, d. h. es kann wieder zu einer verminderten Atmung kommen, wenn die Wirkung des Gegenmittels nachlässt.
 Daher soll der Transport nur mit Arztbegleitung erfolgen.
 
 [^naloxon]: Naloxon. Markenname z. B. *Narcanti*, *Naloxon-ratiopharm*
@@ -453,13 +378,8 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 % -   Gesteigertes Erleben der Umwelt.
 :::
 
-Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate
-oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art
-gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA
-(3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig
-als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein
-Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der
-Umwelt.
+Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA
+(3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der Umwelt.
 
 #### Symptome
 
@@ -483,13 +403,7 @@ Umwelt.
 
 Man kann sie unterteilen in körperliche und psychische Nebenwirkungen.
 Psychisch kommt es dosisabhängig zu Halluzinationen und Panik-Attacken.
-Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen,
-*Krampfanfälle*, *hypertensive Krisen*, massiver
-*Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer
-ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig
-kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das
-Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei
-durch Schwitzen viel Flüssigkeit verliert.
+Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Krampfanfälle*, *hypertensive Krisen*, massiver *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei durch Schwitzen viel Flüssigkeit verliert.
 
 (mt43091c)=
 
@@ -553,13 +467,7 @@ durch Schwitzen viel Flüssigkeit verliert.
 
 #### Kohlenmonoxid (CO) – oder: Von defekten Heizlüftern, Gasthermen und Autoabgasen
 
-Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei
-unvollständiger Verbrennung (O₂-Zufuhr ↓), dies
-passiert vor allem bei schlecht gewarteten Gasheizungen und
-Durchlauferhitzern. CO bindet 300 mal besser an den roten Blutfarbstoff
-Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff
-aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit
-Sauerstoff.
+Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei unvollständiger Verbrennung (O₂-Zufuhr ↓), dies passiert vor allem bei schlecht gewarteten Gasheizungen und Durchlauferhitzern. CO bindet 300 mal besser an den roten Blutfarbstoff Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit Sauerstoff.
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Atemschutz_IMG_2043_00800.\*
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
@@ -595,17 +503,10 @@ Sauerstoff.
 ::::
 
 Kohlenmonoxid-beladenes Blut ist – wie Sauerstoff-beladenes – hellrot.
-Der Patient ist daher eher nicht bleich oder zyanotisch, sondern die
-Haut ist oft rosig. Pulsoxymeter älterer Bauart verwechseln
-Kohlenmonoxid-beladenes und Sauerstoff-beladenes Blut, daher wird ein
-falsch hoher Sauerstoffsättigungswert angezeigt!
+Der Patient ist daher eher nicht bleich oder zyanotisch, sondern die Haut ist oft rosig. Pulsoxymeter älterer Bauart verwechseln Kohlenmonoxid-beladenes und Sauerstoff-beladenes Blut, daher wird ein falsch hoher Sauerstoffsättigungswert angezeigt!
 
 Es stehen die Symptome des *Sauerstoffmangels* im Vordergrund (Hypoxie):
-Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von
-Allgemeinsymptomen wie Schwindel, Kopfschmerz, Übelkeit und Erbrechen,
-evtl. besteht auch eine Tachykardie. Es können sich rasch
-Bewusstseinsstörungen bis hin zur Bewusstlosigkeit entwickeln, auch
-Krämpfe sind gut möglich.
+Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemeinsymptomen wie Schwindel, Kopfschmerz, Übelkeit und Erbrechen, evtl. besteht auch eine Tachykardie. Es können sich rasch Bewusstseinsstörungen bis hin zur Bewusstlosigkeit entwickeln, auch Krämpfe sind gut möglich.
 
 (mt58001c)=
 
@@ -621,16 +522,10 @@ Krämpfe sind gut möglich.
     ({ref}`m-am-stickgase`)
   - Hyperbare O₂-Therapie in der Druckkammer erwägen
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\*
-CO-Vergiftung in einem Wohnhaus in Wien
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\* CO-Vergiftung in einem Wohnhaus in Wien
 
-Regelmäßig kommt es zu Unfällen durch defekte Gasthermen oder
-Heizlüfter. Bei diesem Einsatz war ein RTW des ASB
-Floridsdorf-Donaustadt beteiligt.
-Die dritte Patientin wurde erst,
-nachdem die Feuerwehr *sämtliche*(!) Wohnungen des Wohnhauses
-aufgebrochen hatte,
-in der *darüberliegenden Wohnung* gefunden.
+Regelmäßig kommt es zu Unfällen durch defekte Gasthermen oder Heizlüfter. Bei diesem Einsatz war ein RTW des ASB Floridsdorf-Donaustadt beteiligt.
+Die dritte Patientin wurde erst, nachdem die Feuerwehr *sämtliche*(!) Wohnungen des Wohnhauses aufgebrochen hatte, in der *darüberliegenden Wohnung* gefunden.
 
 \[Österreichischer Rundfunk, <http://wien.orf.at/stories/86725>, zuletzt abgerufen am 31.01.2006\]
 :::
@@ -642,10 +537,7 @@ in der *darüberliegenden Wohnung* gefunden.
 
 #### Kohlendioxid (CO₂) – Tod im Weinkeller
 
-Kohlendioxid ist ein farb- und geruchsloses Gas. Es ist schwerer als
-Luft und sammelt sich z. B. in Mulden, Weinkellern, Silos, etc. Es fällt
-als Gär- oder Verbrennungsgas gehäuft in der Landwirtschaft und der
-Industrie an.
+Kohlendioxid ist ein farb- und geruchsloses Gas. Es ist schwerer als Luft und sammelt sich z. B. in Mulden, Weinkellern, Silos, etc. Es fällt als Gär- oder Verbrennungsgas gehäuft in der Landwirtschaft und der Industrie an.
 
 ##### Symptome
 
@@ -756,9 +648,7 @@ Verzögerungstyp
 
 #### Abstand halten!
 
-Kampfgase übersteigen die Expertise von zivilen
-Gesundheitseinrichtungen. Daher kurz und bündig: Hier müssen
-Spezialisten beigezogen werden.
+Kampfgase übersteigen die Expertise von zivilen Gesundheitseinrichtungen. Daher kurz und bündig: Hier müssen Spezialisten beigezogen werden.
 
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
 Abstand halten! Wind beachten!), vgl. auch {ref}`gefahrengutunfall`.
@@ -778,8 +668,7 @@ Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
 
 #### Beschreibung
 
-Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut
-bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung)
+Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung)
 von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 #### Symptome
@@ -820,11 +709,7 @@ von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 ### Schaumbildner (Wasch-/Putzmittel)
 
-Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es zur
-Bildung von Schaum. Werden Schaumbildner eingenommen, besteht durch die
-Schaumbildung eine *hohe Aspirationsgefahr* bzw. eine hohe Gefahr der
-*Verlegung* der Atemwege. Zusätzlich kann der Patient über Übelkeit
-klagen bzw. erbrechen.
+Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es zur Bildung von Schaum. Werden Schaumbildner eingenommen, besteht durch die Schaumbildung eine *hohe Aspirationsgefahr* bzw. eine hohe Gefahr der *Verlegung* der Atemwege. Zusätzlich kann der Patient über Übelkeit klagen bzw. erbrechen.
 
 - Schaumbildung
 

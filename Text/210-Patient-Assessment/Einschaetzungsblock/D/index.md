@@ -3,31 +3,14 @@
 # Ⓓ Neurologie (Disability)
 
 Es wird die *Bewusstseinsqualität*
-(Orientierung zur Person,
-Raum,
-Zeit
-und Situation) oder,
-wenn angemessen,
-alternativ die Glasgow Coma Scale
+(Orientierung zur Person, Raum, Zeit und Situation) oder, wenn angemessen, alternativ die Glasgow Coma Scale
 (*GCS*) bestimmt.
-Anschließend werden die *Pupillen* und deren
-Lichtreaktion untersucht.
-Die *grobe Motorik* wird an der oberen
-Extremität mittels Händedruck (Kraftprobe) überprüft,
-wenn angemessen
-(Auffälligkeiten bei der Untersuchung der oberen Extremität,
-vermutete
-Erkrankung,
-Verletzungsmuster bzw.
-Unfallhergang, …),
-wird auch die
-untere Extremität geprüft.
-Wenn der Verdacht auf neurologische Ausfälle
-besteht,
-muss überprüft werden ob der Patient *Hände* und *Füße* spüren
-und aktiv bewegen kann.
-Wenn erforderlich (neurologische Defizite,
-Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
+Anschließend werden die *Pupillen* und deren Lichtreaktion untersucht.
+Die *grobe Motorik* wird an der oberen Extremität mittels Händedruck (Kraftprobe) überprüft, wenn angemessen
+(Auffälligkeiten bei der Untersuchung der oberen Extremität, vermutete Erkrankung, Verletzungsmuster bzw.
+Unfallhergang, …), wird auch die untere Extremität geprüft.
+Wenn der Verdacht auf neurologische Ausfälle besteht, muss überprüft werden ob der Patient *Hände* und *Füße* spüren und aktiv bewegen kann.
+Wenn erforderlich (neurologische Defizite, Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 
 (orientierung)=
 
@@ -40,8 +23,7 @@ Hinweise auf Stoffwechselstörungen, …) erfolgt eine *Blutzuckermessung*.
 - Zur Situation
 :::
 
-Es ist wichtig zu Überprüfen ob der Patient
-orientiert ist.
+Es ist wichtig zu Überprüfen ob der Patient orientiert ist.
 Man unterscheidet dabei die Orientierung zu:
 
 - *Person*: Name, Alter.
@@ -62,17 +44,11 @@ Man unterscheidet dabei die Orientierung zu:
   - Beste motorische Reaktion (6)
 :::
 
-Die Glasgow Coma Scale ist eine spezielle Skala,
-welche der
-objektiven Einschätzung der Bewusstseinslage dient.
-Sie hat einen
-Wertebereich von **3—15 Punkten**.
-Ein voll bewusstseinsklarer Patient hat 15 Punkte,
-ein schwerst bewusstseinsgestörter oder toter Patient 3 Punkte
+Die Glasgow Coma Scale ist eine spezielle Skala, welche der objektiven Einschätzung der Bewusstseinslage dient.
+Sie hat einen Wertebereich von **3—15 Punkten**.
+Ein voll bewusstseinsklarer Patient hat 15 Punkte, ein schwerst bewusstseinsgestörter oder toter Patient 3 Punkte
 (nicht 0!).
-Bewertet werden die Augenöffnung,
-die beste
-verbale und die beste motorische Reaktion des Patienten.[^footnote-1]
+Bewertet werden die Augenöffnung, die beste verbale und die beste motorische Reaktion des Patienten.[^footnote-1]
 
 [^footnote-1]: Regelmäßig findet man Handlungsanweisungen — überwiegend für
     ärztliches Personal — in der Literatur,
@@ -84,16 +60,8 @@ verbale und die beste motorische Reaktion des Patienten.[^footnote-1]
 ## Befunde
 
 Erkennen lassen sich z. B.
-Desorientierung,
-pathologische
-Pupillenreaktionen (abnorme Weitung oder Engstellung,
-Differenz,
-verlangsamte oder fehlende Reaktion (Fixierung),
-Entrundung),
-motorische
-(Lähmungen) oder sensible (Kribbeln,
-Gefühlsverlust) Ausfälle sowie
-Zuckerstoffwechselstörungen.
+Desorientierung, pathologische Pupillenreaktionen (abnorme Weitung oder Engstellung, Differenz, verlangsamte oder fehlende Reaktion (Fixierung), Entrundung), motorische
+(Lähmungen) oder sensible (Kribbeln, Gefühlsverlust) Ausfälle sowie Zuckerstoffwechselstörungen.
 
 ```{index} single: Druck, intrakranieller
 ```
@@ -112,20 +80,11 @@ Zuckerstoffwechselstörungen.
 - Strecksynergismen
 :::
 
-{dfn}`Hirndruckzeichen` deuten auf
-eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*,
-*intrakranieller Druck*).
-Eine
-solche Steigerung kann besonders bei Verletzungen oder blutigen
-Schlaganfällen vorkommen.
-Eine Hirndruckerhöhung wirkt sich negativ
-sowohl auf das Hirn selbst,
-als auch auf dessen Durchblutung aus (*"Das
-Hirn drück sich selbst ab."*).
+{dfn}`Hirndruckzeichen` deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller Druck*).
+Eine solche Steigerung kann besonders bei Verletzungen oder blutigen Schlaganfällen vorkommen.
+Eine Hirndruckerhöhung wirkt sich negativ sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das Hirn drück sich selbst ab."*).
 
-Zusammen mit anderen Befunden aus den vorangegangenen Schritten des
-Einschätzungsblockes können typische Kombinationen von Symptomen
-festgestellt werden:
+Zusammen mit anderen Befunden aus den vorangegangenen Schritten des Einschätzungsblockes können typische Kombinationen von Symptomen festgestellt werden:
 
 - ③ *Bewusstseinsstörungen*
 - ④ *Übelkeit*

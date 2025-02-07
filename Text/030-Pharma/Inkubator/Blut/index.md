@@ -2,11 +2,7 @@
 
 ## Allgemeine Orientierung
 
-Blut ist das wichtigste Medium unseres Körpers. Es dient als
-Transportsystem für Atemgase (O₂, CO₂), für Nährstoffe
-und Vitamine die über den Verdauungstrakt aufgenommen werden, für
-Stoffwechselzwischen- und Endprodukte, für Hormone die aus den
-verschiedensten Drüsen des Körpers kommen und für Wärme.
+Blut ist das wichtigste Medium unseres Körpers. Es dient als Transportsystem für Atemgase (O₂, CO₂), für Nährstoffe und Vitamine die über den Verdauungstrakt aufgenommen werden, für Stoffwechselzwischen- und Endprodukte, für Hormone die aus den verschiedensten Drüsen des Körpers kommen und für Wärme.
 
 Ein Erwachsener hat zwischen 4 und 6 Liter Blut.
 
@@ -43,8 +39,7 @@ Die Blutgerinnung kann man in zwei verschiedene Phasen unterteilen:
 - Thrombinbildung
 - Fibrinbildung
 
-Beide Hämostasephasen sind eng miteinander verbunden und stimulieren
-sich gegenseitig.
+Beide Hämostasephasen sind eng miteinander verbunden und stimulieren sich gegenseitig.
 
 Folgende Substanzen sind Inhibitoren der Gerinnung:
 
@@ -64,21 +59,14 @@ Cumarine
 
 Gerinnung und Fibrinolyse
 
-Über die Aktivierung der
-plasmatischen Gerinnungsfaktoren wird die Bildung von Thrombin
-gefördert und somit Fibrinogen in Fibrin umgewandelt. Dieses verbindet
-sich mit den Blutplättchen und kontrahiert und stabilisiert so den
-Plättchenthrombus, welcher so die Läsion dauerhaft verschließen kann.
+Über die Aktivierung der plasmatischen Gerinnungsfaktoren wird die Bildung von Thrombin gefördert und somit Fibrinogen in Fibrin umgewandelt. Dieses verbindet sich mit den Blutplättchen und kontrahiert und stabilisiert so den Plättchenthrombus, welcher so die Läsion dauerhaft verschließen kann.
 Der Faktor XII schützt diesen Thrombus vor der Fibrinolyse.
-Das Fibrinolysesystem sorgt dafür, dass es keine überflüssige
-Gerinnselbildung gibt und für den Abbau des nach der Verheilung der
-Läsion unnötig gewordenen Thrombus.
+Das Fibrinolysesystem sorgt dafür, dass es keine überflüssige Gerinnselbildung gibt und für den Abbau des nach der Verheilung der Läsion unnötig gewordenen Thrombus.
 
 ₢ Lena Hirtler  {term}`ℓ MfG`
 :::
 
-Unter Fibrinolyse versteht man das Auflösen eines Thrombus. Gerinnung
-und Fibrinolyse müssen immer im Gleichgewicht stehen.
+Unter Fibrinolyse versteht man das Auflösen eines Thrombus. Gerinnung und Fibrinolyse müssen immer im Gleichgewicht stehen.
 
 Folgende Substanzen aktivieren die Fibrinolyse:
 
@@ -115,24 +103,18 @@ Tranexamsäure
 
 Plasminogen–Plasmin–Kaskade der Fibrinolyse
 
-Hier sind die
-verschiedenen Ansatzpunkte der Fibrinolyse-Aktivatoren sowie deren
-Hemmer dargestellt. Die Fibrinolyse kann über drei verschiedene Wege in
-Gang gebracht werden – über einen intrinsischen, einen extrinsischen und
-einen exogenen, das heißt medikamentösen, Weg.
+Hier sind die verschiedenen Ansatzpunkte der Fibrinolyse-Aktivatoren sowie deren Hemmer dargestellt. Die Fibrinolyse kann über drei verschiedene Wege in Gang gebracht werden – über einen intrinsischen, einen extrinsischen und einen exogenen, das heißt medikamentösen, Weg.
 
 ₢ Lena Hirtler  {term}`ℓ MfG`
 :::
 
 ## Antikoagulantien
 
-Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende
-Antikoagulantien unterscheiden.
+Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoagulantien unterscheiden.
 
 ### direkt wirkende Antikoagulantien
 
-Diese haben deswegen die Bezeichnung „direkt“, da sie einen Vorgang in
-der Gerinnungskaskade unmittelbar beeinflussen. In diese Gruppe gehören:
+Diese haben deswegen die Bezeichnung „direkt“, da sie einen Vorgang in der Gerinnungskaskade unmittelbar beeinflussen. In diese Gruppe gehören:
 
 - Heparine:
 
@@ -153,22 +135,17 @@ Tinzaparin Innohep®
 ========== =====================================
 ```
 
-Heparine werden am häufigsten zur Thromboseprophylaxe eingesetzt. Hinzu
-kommen alle Arten von Embolien bzw. Thrombosen sowie bei Therapie eines
-akuten Koronarsyndroms und zur Prophylaxe von Thrombosen bei
-Hämodialyse, Hämofiltration und Herz-Lungen-Maschine.
+Heparine werden am häufigsten zur Thromboseprophylaxe eingesetzt. Hinzu kommen alle Arten von Embolien bzw. Thrombosen sowie bei Therapie eines akuten Koronarsyndroms und zur Prophylaxe von Thrombosen bei Hämodialyse, Hämofiltration und Herz-Lungen-Maschine.
 
 Zu den unerwünschten Wirkungen zählen Blutungen und Thrombozytopenien
 (Heparininduzierte Thrombozytopenie \[HIT\] Typ I und Typ II)
 
 Kontraindikationen: erhöhte Blutungsbereitschaft (Leber- /
-Niereninsuffizienz, Thrombozytopenien), Verdacht auf Läsionen im
-Gefäßsystem
+Niereninsuffizienz, Thrombozytopenien), Verdacht auf Läsionen im Gefäßsystem
 
 - Heparinoide:
 
-Darunter versteht man Heparin-ähnliche Stoffe, die in den
-verschiedensten Organensystemen vorkommen.
+Darunter versteht man Heparin-ähnliche Stoffe, die in den verschiedensten Organensystemen vorkommen.
 
 ```{eval-rst}
 ================== ============
@@ -179,9 +156,7 @@ Danaparoid-Natrium **Orgaran®**
 - **Fondaparinux (Arixtra®, Quixidar®)**: -> Heparin-Analogon
 - Hirudine:
 
-Substanzen dieser Gruppe hemmen Thrombin unabhängig von Antithrombin,
-Basisstoff ist Hirudin, der Stoff mit dem Blutegel das Blut flüssig
-halten.
+Substanzen dieser Gruppe hemmen Thrombin unabhängig von Antithrombin, Basisstoff ist Hirudin, der Stoff mit dem Blutegel das Blut flüssig halten.
 
 ```{eval-rst}
 =========== ===========
@@ -206,24 +181,16 @@ hemmen Thrombin, sind niedermolekularer als die Hirudine
 
 Wie sie werden auch diese Substanzen bei der HIT Typ II angewandt.
 
-Als einzige Substanz dieser direkten Antikoagulantien hat nur Heparin
-ein Antidot (**Protramin**!).
+Als einzige Substanz dieser direkten Antikoagulantien hat nur Heparin ein Antidot (**Protramin**!).
 
 ⚠
-Niedermolekulare Heparine werden subkutan verabreicht – keines Falls
-intramuskulär!
+Niedermolekulare Heparine werden subkutan verabreicht – keines Falls intramuskulär!
 
-⚠Niedermolekulare sollten bevorzugt beim liegenden Patienten
-verabreicht werden. Hierbei hebt man mit zwei Fingern eine Hautfalte des
-Bauches bzw. des Oberschenkels. Während der Injektion sollte die Falte
-nicht gelockert werden.
+⚠Niedermolekulare sollten bevorzugt beim liegenden Patienten verabreicht werden. Hierbei hebt man mit zwei Fingern eine Hautfalte des Bauches bzw. des Oberschenkels. Während der Injektion sollte die Falte nicht gelockert werden.
 
 ### Indirekt wirkende Antikoagulantien - Cumarine
 
-Die Cumarine wirken über eine Synthesehemmung der Vitamin-K-abhängigen
-Gerinnungsfaktoren II, VII, IX, X gerinnungshemmend. Dadurch kann man
-bei ihrem Einsatz einen verzögerten Wirkungseintritt beobachten (noch
-genug intakte Gerinnungsfaktoren zu Therapiebeginn vorhanden).
+Die Cumarine wirken über eine Synthesehemmung der Vitamin-K-abhängigen Gerinnungsfaktoren II, VII, IX, X gerinnungshemmend. Dadurch kann man bei ihrem Einsatz einen verzögerten Wirkungseintritt beobachten (noch genug intakte Gerinnungsfaktoren zu Therapiebeginn vorhanden).
 
 ```{eval-rst}
 ============= ============
@@ -233,48 +200,34 @@ Warfarin      Coumadin®
 ============= ============
 ```
 
-Bei folgenden Erkrankungen werden sie eingesetzt: Venenthrombose,
-Vorhofflimmern, linksventrikuläre Dysfunktion, nach Herzklappenersatz,
-bei erworbenen Herzklappenfehlern, bei rezidivierenden Embolien.
+Bei folgenden Erkrankungen werden sie eingesetzt: Venenthrombose, Vorhofflimmern, linksventrikuläre Dysfunktion, nach Herzklappenersatz, bei erworbenen Herzklappenfehlern, bei rezidivierenden Embolien.
 
-Unter den unerwünschten Wirkungen sind wie bei allen Antikoagulantien
-Blutungen die gefürchtetsten.
+Unter den unerwünschten Wirkungen sind wie bei allen Antikoagulantien Blutungen die gefürchtetsten.
 
-Kontraindikationen: erhöhte Blutungsbereitschafts, Verdacht auf Läsionen
-im Gefäßsystem.
+Kontraindikationen: erhöhte Blutungsbereitschafts, Verdacht auf Läsionen im Gefäßsystem.
 
-Die Wirkung der Cumarine kann durch Gabe von **Vitamin K (Konakion®)**
-antagonisiert werden.
+Die Wirkung der Cumarine kann durch Gabe von **Vitamin K (Konakion®)** antagonisiert werden.
 
 Alle Antikoagulantien (mit Ausnahme der Niedermolekularen Heparine)
-sollten regelmäßig über den Quick-Wert (= Thromboplastinzeit, Globaltest
-des extrinsischen Gerinnungssystems) bzw. die INR (International
-Normalized Ratio, = laborunabhängiger Test für die Gerinnung, heutiger
-Standard-Wert bei der Therapieeinstellung) kontrolliert werden.
+sollten regelmäßig über den Quick-Wert (= Thromboplastinzeit, Globaltest des extrinsischen Gerinnungssystems) bzw. die INR (International Normalized Ratio, = laborunabhängiger Test für die Gerinnung, heutiger Standard-Wert bei der Therapieeinstellung) kontrolliert werden.
 
 ⚠
 Keine i.m.-Injektionen während Cumarin-Therapie!
 
-⚠Über besondere Schutzmaßnahmen z.B. während Sport, beim
-Arztbesuch informieren. Der Patient sollte sich im Notfall bei
+⚠Über besondere Schutzmaßnahmen z.B. während Sport, beim Arztbesuch informieren. Der Patient sollte sich im Notfall bei
 Überdosierung selbst Vitamin K verabreichen können.
 
 ## Thrombozytenaggregationshemmer
 
 ### Acetylsalicylsäure (ASS®, Aspirin®, Thrombo AAS®): (siehe dort)
 
-ASS wirkt über eine irreversible Hemmung der Cyclooxygenase und die
-dadurch entstehende Hemmung der Thromboxansynthese.
+ASS wirkt über eine irreversible Hemmung der Cyclooxygenase und die dadurch entstehende Hemmung der Thromboxansynthese.
 
-Dieses Medikament ist das Mittel der ersten Wahl der
-Thrombozytenaggregationshemmer und wird bei akuten Koronarsyndrom, PTCA,
-Stentimplantation, Sekundärprophylaxe bei KHK, Sekundärprophylaxe
-zerebraler Ischämien eingesetzt.
+Dieses Medikament ist das Mittel der ersten Wahl der Thrombozytenaggregationshemmer und wird bei akuten Koronarsyndrom, PTCA, Stentimplantation, Sekundärprophylaxe bei KHK, Sekundärprophylaxe zerebraler Ischämien eingesetzt.
 
 ### Glykoprotein IIb/IIIa-Rezeptor-Antagonisten
 
-Durch Hemmung dieses Rezeptors wird die Fibrinogenbindung an aktivierte
-Thrombozyten verhindert.
+Durch Hemmung dieses Rezeptors wird die Fibrinogenbindung an aktivierte Thrombozyten verhindert.
 
 ```{eval-rst}
 =============== ===============
@@ -284,8 +237,7 @@ Tirofiban       Aggrastat®
 =============== ===============
 ```
 
-Diese Gruppe wird in Kombination mit Heparin und ASS bei der PTCA und
-beim akuten Koronarsyndrom verwendet.
+Diese Gruppe wird in Kombination mit Heparin und ASS bei der PTCA und beim akuten Koronarsyndrom verwendet.
 
 unerwünschte Eigenschaften: Blutungskomplikationen
 
@@ -293,21 +245,16 @@ Kontraindikationen: akute innere Blutungen, erhöhtes Blutungsrisiko
 
 ### Ticlopidin (Tiklid®, Ticlodone®), Clopidogrel (Iscover®, Plavix®)
 
-Die ADP-abhängige Thrombozytenaktivierung wird durch diese Substanzen
-blockiert.
+Die ADP-abhängige Thrombozytenaktivierung wird durch diese Substanzen blockiert.
 
-Sie werder bei gleichen Indikationen wie ASS eingesetzt, wenn zum
-Beispiel eine Unverträglichkeit oder eine Kontraindikation gegen
-Acetylsalizylsäure besteht.
+Sie werder bei gleichen Indikationen wie ASS eingesetzt, wenn zum Beispiel eine Unverträglichkeit oder eine Kontraindikation gegen Acetylsalizylsäure besteht.
 
 unerwünschte Wirkungen: Diarrhoe, Hautausschlag
 
 ⚠
-Gabe von **Clopidogrel (Iscover®,** **Plavix®)**einmal pro Tag
-unabhängig der Mahlzeiten.
+Gabe von **Clopidogrel (Iscover®,** **Plavix®)**einmal pro Tag unabhängig der Mahlzeiten.
 
-⚠**Ticlopidin (Tiklid®, Ticlodone®)**wird meist zweimal
-täglich während den Hauptmahlzeiten eingenommen.
+⚠**Ticlopidin (Tiklid®, Ticlodone®)**wird meist zweimal täglich während den Hauptmahlzeiten eingenommen.
 
 ### Prostaglandinanaloga
 
@@ -319,16 +266,13 @@ Iloprost     **Ilomedin®**
 ============ ==================================
 ```
 
-Diese Substanzen bewirken eine Vasodilatation und eine ihrem
-Thrombozytenaggregationshemmung.
+Diese Substanzen bewirken eine Vasodilatation und eine ihrem Thrombozytenaggregationshemmung.
 
-⚠Nach dem Absetzen von Thrombozytenaggregationshemmern sollte
-man beachten, dass ihre Wirkung noch für ungefähr eine Woche anhält.
+⚠Nach dem Absetzen von Thrombozytenaggregationshemmern sollte man beachten, dass ihre Wirkung noch für ungefähr eine Woche anhält.
 
 ## Fibrinolytika
 
-Sie wirken fibrinolytisch durch die Aktivierung der inaktiven Vorstufe
-Plasminogen in die aktive Protease Plasmin.
+Sie wirken fibrinolytisch durch die Aktivierung der inaktiven Vorstufe Plasminogen in die aktive Protease Plasmin.
 
 ```{eval-rst}
 ========================= ==========
@@ -341,10 +285,7 @@ Plasminogen in die aktive Protease Plasmin.
 ========================= ==========
 ```
 
-Die Substanzen werden zur Fibrinolyse nach akutem STEMI (klassischer
-Herzinfarkt mit EKG-Veränderung \[ST-Strecken-Hebung, „Katzenbuckel“\]),
-Lungenembolie, tiefe Beinvenenthrombose, akutem arteriellen Verschluss,
-akutem ischämischem zerebralen Insult und in der Reanimation eingesetzt.
+Die Substanzen werden zur Fibrinolyse nach akutem STEMI (klassischer Herzinfarkt mit EKG-Veränderung \[ST-Strecken-Hebung, „Katzenbuckel“\]), Lungenembolie, tiefe Beinvenenthrombose, akutem arteriellen Verschluss, akutem ischämischem zerebralen Insult und in der Reanimation eingesetzt.
 
 Unerwünschte Wirkungen:
 
@@ -354,8 +295,7 @@ Hierzu zählen Blutungskomplikationen und allergische Reaktionen.
 
 ### Phlebothrombose (= Venenthrombose)
 
-Darunter versteht man eine teilweise oder vollständige Verstopfung der
-tiefen Beinvenen mit insbesondere der Gefahr einer Lungenembolie.
+Darunter versteht man eine teilweise oder vollständige Verstopfung der tiefen Beinvenen mit insbesondere der Gefahr einer Lungenembolie.
 
 Die Ursachen einer Thrombose kann man in drei Unterkategorien einteilen:
 
@@ -369,8 +309,7 @@ Die Ursachen einer Thrombose kann man in drei Unterkategorien einteilen:
 Weiters gibt es einige Risikofaktoren wie orale Kontrazeptiva („Pille“),
 Übergewicht und Austrocknung (Exsikkose).
 
-Bei den Symptomen kann man meist eine Kombination aus drei
-unterschiedlichen Merkmalen erkennen (Virchow’sche Trias):
+Bei den Symptomen kann man meist eine Kombination aus drei unterschiedlichen Merkmalen erkennen (Virchow’sche Trias):
 
 - Schwellung und Wärme
 - gerötete und gespannte Haut, eventuell bläulich
@@ -383,16 +322,11 @@ Therapie:
 - Sekundärprophylaxe mit Vitamin-K-Antagonisten
 - Kompressionstherapie, Mobilisation
 
-Wichtg ist die Prophylaxe bevor es überhaupt zu dieser Erkrankung kommen
-kann. Deswegen wird bei Operationen, Bettlägrigkeit, sonstiger
-Immobilisation ein niedermolekulares Heparin s.c. verabreicht.
+Wichtg ist die Prophylaxe bevor es überhaupt zu dieser Erkrankung kommen kann. Deswegen wird bei Operationen, Bettlägrigkeit, sonstiger Immobilisation ein niedermolekulares Heparin s.c. verabreicht.
 
 ### Lungenembolie
 
-Wenn nicht-ortständiges Material in die Lunge eingeschwemmt wird spricht
-man von einer Lungenembolie. Das eingeschwemmte Material kann ein
-Thrombus, Fett, Luft oder Fruchtwasser sein. Thrombembolien sind die
-häufigsten.
+Wenn nicht-ortständiges Material in die Lunge eingeschwemmt wird spricht man von einer Lungenembolie. Das eingeschwemmte Material kann ein Thrombus, Fett, Luft oder Fruchtwasser sein. Thrombembolien sind die häufigsten.
 
 Die Schwere dieser Erkrankung darf nicht unterschätzt werden -
 unbehandelt kann sie bis zum Tod führen.
@@ -406,12 +340,10 @@ Therapie:
 
 ### Durchblutungsstörungen - periphere arterielle Verschlusskrankheit (PAVK)
 
-Hier kommt es zu einer Durchblutungsbehinderung der Extremitäten durch
-Arteriosklerose. Diese Patienten haben meist zusätzlich auch eine KHK.
+Hier kommt es zu einer Durchblutungsbehinderung der Extremitäten durch Arteriosklerose. Diese Patienten haben meist zusätzlich auch eine KHK.
 Leitsyndrom ist der Extremitäten-Schmerz.
 
-Die PAVK wird nach Fontane *(*[Tab. 3](#anchor-4)*)* in folgende
-Stadien eingeteilt:
+Die PAVK wird nach Fontane *(*[Tab. 3](#anchor-4)*)* in folgende Stadien eingeteilt:
 
 Tab. 3 Stadien nach Fontane
 
@@ -452,43 +384,29 @@ Tab. 4 Therapie
 +-----+---------------------------------------------------------------+
 ```
 
-Wichtig für alle Stadien ist außerdem die Therapie der Risikofaktoren
-wie z.B. Rauchen.
+Wichtig für alle Stadien ist außerdem die Therapie der Risikofaktoren wie z.B. Rauchen.
 
 ### Anämien
 
-Unter einer Anämie versteht man eine Verminderung des Hämoglobins, des
-Hämatokrits und der Erythrozytenzahl im Blut. Dies geht mit einer
-verminderten Sauerstofftransportkapazität des Blutes einher.
+Unter einer Anämie versteht man eine Verminderung des Hämoglobins, des Hämatokrits und der Erythrozytenzahl im Blut. Dies geht mit einer verminderten Sauerstofftransportkapazität des Blutes einher.
 
 - Eisenmangelanämie:
 
-Wird meist verursacht durch Blutungen, erhöhten Eisenbedarf, verminderte
-Eisen-Zufuhr oder einer Resorptionsstörung. Therapiert wird diese
-Anämieform durch Eisengabe.
+Wird meist verursacht durch Blutungen, erhöhten Eisenbedarf, verminderte Eisen-Zufuhr oder einer Resorptionsstörung. Therapiert wird diese Anämieform durch Eisengabe.
 
-⚠Zur Diagnose von Blutverlust im Gastrointestinal-Trakt wir der
-Haemocult®-Test verwendet. Eine Schwarzfärbung des Stuhles (ohne
-Zusammenhang mit einer Eisengabe bzw. mit dem Verzehr von z.B. roten
-Rüben) ist ein sicherer Hinweis für Blut im Stuhl.
+⚠Zur Diagnose von Blutverlust im Gastrointestinal-Trakt wir der Haemocult®-Test verwendet. Eine Schwarzfärbung des Stuhles (ohne Zusammenhang mit einer Eisengabe bzw. mit dem Verzehr von z.B. roten Rüben) ist ein sicherer Hinweis für Blut im Stuhl.
 
-⚠Die Eisengabe sollte äußerst langsam erfolgen, so kann man
-die unerwünschten Begleiterscheinungen mildern.
+⚠Die Eisengabe sollte äußerst langsam erfolgen, so kann man die unerwünschten Begleiterscheinungen mildern.
 
 - megaloblastäre Anämie:
 
 Hier kann man zwei Ursachen unterscheiden - einen Vitamin B12-Mangel
-(verursacht durch Gastrektomie (Magenentfernung), perniziösen Anämie,
-Malassimilation) und einen Folsäuremangel (verursacht durch
-Mangelernährung bzw. erhöhten Bedarf).
+(verursacht durch Gastrektomie (Magenentfernung), perniziösen Anämie, Malassimilation) und einen Folsäuremangel (verursacht durch Mangelernährung bzw. erhöhten Bedarf).
 
-Die Therapie besteht bei Vitamin B12-Mangel in der Gabe von
-Hydroxycobalamin (Vitamin B12) und bei Folsäuremangel in der Gabe von
-Folsäure.
+Die Therapie besteht bei Vitamin B12-Mangel in der Gabe von Hydroxycobalamin (Vitamin B12) und bei Folsäuremangel in der Gabe von Folsäure.
 
 - renale Anämie:
 
-Wird hauptsächlich durch den Erythropoeitinmangel bei chronischer
-Niereninsuffizienz verursacht.
+Wird hauptsächlich durch den Erythropoeitinmangel bei chronischer Niereninsuffizienz verursacht.
 
 Daher wird diese Erkrankung auch durch Erythropoeitin-Gabe behandelt.

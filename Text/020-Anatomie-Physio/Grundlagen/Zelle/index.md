@@ -22,16 +22,11 @@
 Die Lebewesen können grob in Einzeller (Protozoen) und Mehrzeller
 (Metazoen) eingeteilt werden.
 
-Die Zelle ist der *Grundbaustein*
-und die kleinste selbstständig lebende
-Einheit des menschlichen Körpers,
-er besteht aus ca. 75×10¹² (75 Billionen) Zellen.
+Die Zelle ist der *Grundbaustein* und die kleinste selbstständig lebende Einheit des menschlichen Körpers, er besteht aus ca. 75×10¹² (75 Billionen) Zellen.
 Eine Zelle ist zwischen 5 und 150 µm
-(z. B. Eizelle des Menschen — sie ist mit bloßem
-Auge sichtbar) groß.
+(z. B. Eizelle des Menschen — sie ist mit bloßem Auge sichtbar) groß.
 Zum Vergleich — die Eizelle eines Straußes misst 7 cm im Durchmesser.
-Jede Zelle hat je nach ihrer Funktion auch
-unterschiedliche Formen und eine unterschiedliche Lebensdauer.
+Jede Zelle hat je nach ihrer Funktion auch unterschiedliche Formen und eine unterschiedliche Lebensdauer.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Zelle-edited.\*
 :width: 100%
@@ -41,8 +36,7 @@ Schema einer Zelle
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-Alle Zellen erfüllen trotz ihrer verschiedenen Aufgaben *drei
-Grundkriterien*:
+Alle Zellen erfüllen trotz ihrer verschiedenen Aufgaben *drei Grundkriterien*:
 
 - *Stoffwechsel und Energiegewinnung*:
   Beim Stoffwechsel werden Stoffe,
@@ -65,9 +59,7 @@ Grundkriterien*:
   einzelnen Zellen mit ihrer Umgebung in Verbindung. Über sie empfangen
   die Zellen unterschiedliche Reize und können sie beantworten.
 
-Darüberhinaus unterscheiden sich die unterschiedlichen Zellen aufgrund
-ihrer spezifischen Eigenschaften, wie z. B. ihrer Bewegung, ihrer
-spezifischen Stoffaufnahme / -abgabe und der Oberflächendifferenzierung.
+Darüberhinaus unterscheiden sich die unterschiedlichen Zellen aufgrund ihrer spezifischen Eigenschaften, wie z. B. ihrer Bewegung, ihrer spezifischen Stoffaufnahme / -abgabe und der Oberflächendifferenzierung.
 
 Bestandteile der Zelle:
 
@@ -93,9 +85,7 @@ Bestandteile der Zelle:
 ## Allgemeiner Aufbau der Zelle
 
 Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib
-(Zytoplasma) sowie der Zellmembran (Plasmalemm)*. Das Zytoplasma setzt
-sich dann weiters zusammen aus dem Zytosol (Salzlösung = gelöste Ionen
-mit Proteinen), den Zellorganellen und Zelleinschlüssen (Paraplasma).
+(Zytoplasma) sowie der Zellmembran (Plasmalemm)*. Das Zytoplasma setzt sich dann weiters zusammen aus dem Zytosol (Salzlösung = gelöste Ionen mit Proteinen), den Zellorganellen und Zelleinschlüssen (Paraplasma).
 
 Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten
 (Blutplättchen) ausgenommen — in jeder Zelle vorhanden. Einige Zellen
@@ -105,65 +95,28 @@ Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten
 Der Zellkern enthält die genetische Erbinformation (DNA:
 Desoxyribonukleidsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare*
 (46 Chromosomen, 23 von der Mutter, 23 vom Vater). Von hier kommen die
-“Bauanleitungen” für die Proteinsynthese in Form von einsträngigen
-Kopien, der RNA (= Ribonukleinsäure), die von den Ribosomen dann
-“übersetzt” werden. Ausgenommen während der Zellteilung liegt die DNA
-nicht geordnet, d.h. nicht in Chromosomenform, vor. Während dieser Zeit
-kann man im Zellkern keine Chromosomen differenzieren, sondern
-zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kernes, der
-Bereich, in dem gerade aktiv RNA produziert wird.
+“Bauanleitungen” für die Proteinsynthese in Form von einsträngigen Kopien, der RNA (= Ribonukleinsäure), die von den Ribosomen dann
+“übersetzt” werden. Ausgenommen während der Zellteilung liegt die DNA nicht geordnet, d.h. nicht in Chromosomenform, vor. Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sondern zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kernes, der Bereich, in dem gerade aktiv RNA produziert wird.
 
-Die DNA dient als Speicher des genetischen Codes, als Bauplan der
-Proteinsynthese und der identischen Replikation während der Zellteilung.
+Die DNA dient als Speicher des genetischen Codes, als Bauplan der Proteinsynthese und der identischen Replikation während der Zellteilung.
 
-Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen
-30.000 und 40.000 Gene, wobei über 97% sogenannter „Junk“ — nicht
-kodierende-DNA — sind. Die DNA ist in einer *Doppelhelix (=
-Doppelwindung)* angeordnet. Innerhalb der DNA kann man zwei verschiedene
-Formen unterscheiden. Das *Euchromatin* bezeichnet einen DNA-Bereich,
-der aufgelockert ist und genetisch aktiv ist (= Nukleolus-Bereich). Das
-*Heterochromatin* ist nicht entspiralisiert und somit genetisch inaktiv.
-Wie bereits erwähnt bildet die DNA die Chromosomen nur während der
-Zellteilung. Ungefähr die Hälfte des Chromatins besteht aus Histionen -
+Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen 30.000 und 40.000 Gene, wobei über 97% sogenannter „Junk“ — nicht kodierende-DNA — sind. Die DNA ist in einer *Doppelhelix (=
+Doppelwindung)* angeordnet. Innerhalb der DNA kann man zwei verschiedene Formen unterscheiden. Das *Euchromatin* bezeichnet einen DNA-Bereich, der aufgelockert ist und genetisch aktiv ist (= Nukleolus-Bereich). Das *Heterochromatin* ist nicht entspiralisiert und somit genetisch inaktiv.
+Wie bereits erwähnt bildet die DNA die Chromosomen nur während der Zellteilung. Ungefähr die Hälfte des Chromatins besteht aus Histionen -
 sie bilden eine Art Perlenkette, woran die DNA-Teile aufgegliedert sind.
 
-Am Ende der Chromosomenarme befinden sich *Telomere (Heterochromatin)*,
-die die Lebensdauer der Zelle bestimmen. Bei jeder Mitose verkürzen sich
-diese Telomere. Sobald die DNA dann für eine fehlerfreie Erstellung der
-DNA-Kopie zu kurz sind, kommt es zur Apoptose der Zelle.
+Am Ende der Chromosomenarme befinden sich *Telomere (Heterochromatin)*, die die Lebensdauer der Zelle bestimmen. Bei jeder Mitose verkürzen sich diese Telomere. Sobald die DNA dann für eine fehlerfreie Erstellung der DNA-Kopie zu kurz sind, kommt es zur Apoptose der Zelle.
 
-Der doppelte Chromosomensatz wird als *diploid* bezeichnet, der halbe
-als *haploid*. Diploide Chromosomensätze beinhalten 46 Chromosomenpaare
-und sind kennzeichnend für die normalen Körperzellen. Haploide
-Chromosomensätze sind nur in den Geschlechtszellen vorhanden. Diese
-müssen sich ja während der Fortpflanzung mit einer anderen haploiden
-Zelle vereinen um so die erste diploide Zelle des Kindes zu bilden.
+Der doppelte Chromosomensatz wird als *diploid* bezeichnet, der halbe als *haploid*. Diploide Chromosomensätze beinhalten 46 Chromosomenpaare und sind kennzeichnend für die normalen Körperzellen. Haploide Chromosomensätze sind nur in den Geschlechtszellen vorhanden. Diese müssen sich ja während der Fortpflanzung mit einer anderen haploiden Zelle vereinen um so die erste diploide Zelle des Kindes zu bilden.
 
-Die Bausteine der DNA sind die sog. *Nukleotide*. Sie bestehen aus einer
-der vier möglichen *Basen* (Adenin, Thymin, Cytosin oder Guanin), einem
-Zucker (im Fall der DNA: Desoxyribose) und einem sauren Phosphatrest.
-Dieser Phosphatrest bildet Phosphatbrücken mit dem darauffolgenden
-Nukleotid. Mit dem gegenüberliegenden Nukleotid is es mittels
-Wasserstoffbrücken verbunden.
+Die Bausteine der DNA sind die sog. *Nukleotide*. Sie bestehen aus einer der vier möglichen *Basen* (Adenin, Thymin, Cytosin oder Guanin), einem Zucker (im Fall der DNA: Desoxyribose) und einem sauren Phosphatrest.
+Dieser Phosphatrest bildet Phosphatbrücken mit dem darauffolgenden Nukleotid. Mit dem gegenüberliegenden Nukleotid is es mittels Wasserstoffbrücken verbunden.
 
-Um die geläufige Form der spiraligen DNA zu bilden, braucht es das
-*Nukleosom*. Das Nukleosom besteht aus dem Histionpartikel und dem daran
-befestigten DNA-Stück (ca. 180 Basenpaare). Diese Histionpartikel
-bestehen aus jeweils 8 Histionmolekülen (Oktramer).
+Um die geläufige Form der spiraligen DNA zu bilden, braucht es das *Nukleosom*. Das Nukleosom besteht aus dem Histionpartikel und dem daran befestigten DNA-Stück (ca. 180 Basenpaare). Diese Histionpartikel bestehen aus jeweils 8 Histionmolekülen (Oktramer).
 
-Jeweils 3 Basen werden als *Triplett (= Codon)* bezeichnet und
-definieren eine der insg. 20 von der menschlichen Zelle zur Bildung von
-Proteinen verwendeten Aminosäuren. Es gibt daher insg. 4³ = 64
-Kombinationsmöglichkeiten der Basen. 61 dieser Kombinationen bilden
-Anweisungen zur Bildung von Proteinen, 3 der Kombinationen zeigen den
-Beginn bzw. das Ende eines Gens (bzw. eines Proteins) an.
+Jeweils 3 Basen werden als *Triplett (= Codon)* bezeichnet und definieren eine der insg. 20 von der menschlichen Zelle zur Bildung von Proteinen verwendeten Aminosäuren. Es gibt daher insg. 4³ = 64 Kombinationsmöglichkeiten der Basen. 61 dieser Kombinationen bilden Anweisungen zur Bildung von Proteinen, 3 der Kombinationen zeigen den Beginn bzw. das Ende eines Gens (bzw. eines Proteins) an.
 
-Zur Bildung von Proteinen muss die DNA zunächst kopiert werden und diese
-Kopie aus dem Zellkern transportiert werden. Diese Kopie ist einsträngig
-und wird aufgrund des anderen Zuckermoleküls (Ribose) als
-Riboxynukleidsäure (RNA) bezeichnet. Zusätzlich besitzt die RNA auch
-noch eine andere Base — Uracil ersetzt das Thymin der DNA. Die RNA wird
-dann mithilfe der Ribosomen übersetzt.
+Zur Bildung von Proteinen muss die DNA zunächst kopiert werden und diese Kopie aus dem Zellkern transportiert werden. Diese Kopie ist einsträngig und wird aufgrund des anderen Zuckermoleküls (Ribose) als Riboxynukleidsäure (RNA) bezeichnet. Zusätzlich besitzt die RNA auch noch eine andere Base — Uracil ersetzt das Thymin der DNA. Die RNA wird dann mithilfe der Ribosomen übersetzt.
 
 Folgende Begriffe sind bzgl. der Aminosäuren wichtig:
 
@@ -179,14 +132,7 @@ Folgende Begriffe sind bzgl. der Aminosäuren wichtig:
   Histidin, Lysin, Arginin.
 
 Die *Zellmembran* (75 nm) besteht aus einer Lipiddoppelschicht
-(hauptsächlich Phospholipide) und bildet die Grenze des
-Intrazellularraums gegen den Extrazellularraum. Diese Trennung ist
-wichtig, da die Flüssigkeiten des Extra- und Intrazellularraums jeweils
-eine andere Elektrolytkonzentration aufweisen (Übersicht über die
-Wichtigsten in untenstehender Tabelle). In jedem dieser beiden Räume
-bleibt das Prinzip der Elektroneutralität gewahrt, d.h. innerhalb des
-Raumes gibt es ein Gleichgewicht zwischen positiven und negativen
-Ladungen.
+(hauptsächlich Phospholipide) und bildet die Grenze des Intrazellularraums gegen den Extrazellularraum. Diese Trennung ist wichtig, da die Flüssigkeiten des Extra- und Intrazellularraums jeweils eine andere Elektrolytkonzentration aufweisen (Übersicht über die Wichtigsten in untenstehender Tabelle). In jedem dieser beiden Räume bleibt das Prinzip der Elektroneutralität gewahrt, d.h. innerhalb des Raumes gibt es ein Gleichgewicht zwischen positiven und negativen Ladungen.
 
 - *Extrazelluläre Flüssigkeit*: insg. 14 Liter, wobei sich hiervon 3/4
   im Interstitium (Zwischenzellraum) und 1/4 im Gefäßsystem befinden.
@@ -226,41 +172,17 @@ Ladungen.
   - \---
 :::
 
-Das *Ruhemembranpotential* beschreibt den Ladungsunterschied aufgrund
-der unterschiedlichen Elektrolytkonzentration in Intra- (negativ) und
-Extrazellularraum (positiv). Der Ladungsunterschied beträgt 60—80 mV. Da
-die Zellmembran für Ionen undurchlässig ist, braucht es aktive
-Transportprozesse zur Aufrechterhaltung bzw. Änderung der Zellladung.
-Der wichtigste Mechanismus ist die
-*Na⁺K⁺-ATPase*. Das Ruhemembranpotential ist
-wichtig für die Entstehung bzw. Fortleitung von Erregungen in
-Muskelzellen bzw. Nervenzellen. Durch die Veränderung des
-Membranpotential entsteht dann das sog. Aktionspotential, welches die
-Kontraktion der Muskelzelle bzw. die erfolgreiche Erregungsfortleitung
-der Nervenzelle zur Folge hat.
+Das *Ruhemembranpotential* beschreibt den Ladungsunterschied aufgrund der unterschiedlichen Elektrolytkonzentration in Intra- (negativ) und Extrazellularraum (positiv). Der Ladungsunterschied beträgt 60—80 mV. Da die Zellmembran für Ionen undurchlässig ist, braucht es aktive Transportprozesse zur Aufrechterhaltung bzw. Änderung der Zellladung.
+Der wichtigste Mechanismus ist die *Na⁺K⁺-ATPase*. Das Ruhemembranpotential ist wichtig für die Entstehung bzw. Fortleitung von Erregungen in Muskelzellen bzw. Nervenzellen. Durch die Veränderung des Membranpotential entsteht dann das sog. Aktionspotential, welches die Kontraktion der Muskelzelle bzw. die erfolgreiche Erregungsfortleitung der Nervenzelle zur Folge hat.
 
-Sie besteht aus *Phospholipiden und Cholesterin* und bildet ein
-*dreischichtiges Gebilde*. Die äußerste Schicht ist hydrophil, die
-mittlere lipophil und die innerste wiederum hydrophil. Die Zellmembran
-ist auch nicht als ein starres Gebilde zu verstehen — sie ermöglicht
-Formänderungen der Zelle für die Migration (Zellwanderung), die Mitose
+Sie besteht aus *Phospholipiden und Cholesterin* und bildet ein *dreischichtiges Gebilde*. Die äußerste Schicht ist hydrophil, die mittlere lipophil und die innerste wiederum hydrophil. Die Zellmembran ist auch nicht als ein starres Gebilde zu verstehen — sie ermöglicht Formänderungen der Zelle für die Migration (Zellwanderung), die Mitose
 (Zellteilung) und die Kontraktion (Zellverkürzung).
 
-In der Zellmembran sind verschiedene Proteine eingebaut, die z. B. als
-Kanäle (Kanalproteine), Rezeptoren (Transmembranproteine) oder als
-Trägermoleküle (Carrier) funktionieren. Die Rezeptoren können intra- und
-extrazellulär lokalisiert sein, sie aktivieren bei Andocken des
-richtigen Stoffes eine Enzymkaskade. Membranen gibt es jedoch nicht nur
-als Zellmembran. Auch die Zellorganellen und der Zellkern sind von einer
-Membran, die ähnlich aufgebaut ist wie die Zellmembran, umgeben.
+In der Zellmembran sind verschiedene Proteine eingebaut, die z. B. als Kanäle (Kanalproteine), Rezeptoren (Transmembranproteine) oder als Trägermoleküle (Carrier) funktionieren. Die Rezeptoren können intra- und extrazellulär lokalisiert sein, sie aktivieren bei Andocken des richtigen Stoffes eine Enzymkaskade. Membranen gibt es jedoch nicht nur als Zellmembran. Auch die Zellorganellen und der Zellkern sind von einer Membran, die ähnlich aufgebaut ist wie die Zellmembran, umgeben.
 
-Außen befinden sich an der Zellmembran komplexe Kohlenhydrate. Sie
-bilden die sogenannte *Glykokalix* der Zelle. Sie ist spezifisch für
-jede Zelle, kennzeichnet sie und bildet somit das Erkennungsmerkmal der
-Zelle.
+Außen befinden sich an der Zellmembran komplexe Kohlenhydrate. Sie bilden die sogenannte *Glykokalix* der Zelle. Sie ist spezifisch für jede Zelle, kennzeichnet sie und bildet somit das Erkennungsmerkmal der Zelle.
 
-Für die Form der Zelle verantwortlich ist das *Zytoskelett*. Es besteht
-aus drei Hauptkomponenten:
+Für die Form der Zelle verantwortlich ist das *Zytoskelett*. Es besteht aus drei Hauptkomponenten:
 
 - *Aktinfilamente*:
   überall in der Zelle zu finden, konzentriert direkt
@@ -272,9 +194,7 @@ aus drei Hauptkomponenten:
 - *Intermediärfilamente*: bilden an der Innenseite der Kernhülle die
   Kernlamina als schützenden Käfig der DNA.
 
-Für den Stofftransport innerhalb der Zelle sind *Motorproteine*
-verantwortlich. Sie alle haben gemeinsam, dass während des Transportes
-Energie (ATP) verbraucht wird. Wichtige Motorproteine sind folgende:
+Für den Stofftransport innerhalb der Zelle sind *Motorproteine* verantwortlich. Sie alle haben gemeinsam, dass während des Transportes Energie (ATP) verbraucht wird. Wichtige Motorproteine sind folgende:
 
 - *Myosin*: wichtig für Kraft der Muskelkontraktion (funktioniert dann
   in Kombination mit Aktin).
@@ -285,8 +205,7 @@ Energie (ATP) verbraucht wird. Wichtige Motorproteine sind folgende:
   Vesikeltransport (Stofftransport in kleinen Membranbläschen)
   verantwortlich.
 
-Die *Zellorganellen* sind verantwortlich für die Ausübung der
-Stoffwechselfunktionen:
+Die *Zellorganellen* sind verantwortlich für die Ausübung der Stoffwechselfunktionen:
 
 - *endoplasmatisches Retikulum (ER*): verantwortlich für den
   intrazellulären Stofftransport, es gibt zwei Arten — das rauhe ER
@@ -352,8 +271,7 @@ Es gibt zwei Möglichkeiten, wie Zellen zugrunde gehen können:
 
 ## Stofftransport
 
-Um Nährstoffe und Stoffwechselprodukte in die Zelle hinein und wieder
-heraus zu transportieren gibt es spezifische Transportprozesse.
+Um Nährstoffe und Stoffwechselprodukte in die Zelle hinein und wieder heraus zu transportieren gibt es spezifische Transportprozesse.
 
 - passive Transportprozesse: verbrauchen keine Energie.
 

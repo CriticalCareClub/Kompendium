@@ -30,13 +30,9 @@ ein {dfn}`Zwölffingerdarmgeschwür`
 ist eine Entzündung der Magen- bzw.
 Zwölffingerdarmschleimhaut mit Substanzdefekt.
 
-Die häufigste Ursache für ein Magengeschwür ist eine
-chronische Infektion mit einem bestimmten Bakterium[^hp]
+Die häufigste Ursache für ein Magengeschwür ist eine chronische Infektion mit einem bestimmten Bakterium[^hp]
 {term}`🗎 Malfertheiner 2004`.
-Bestimmte Medikamente[^magenulcusmedi] schädigen die
-Magenschleimhaut und können bei häufiger Einnahme zu einem Geschwür
-führen. Auch andere Stoffe können auf chemisch-toxischen Weg zu einer
-entsprechenden Schädigung führen.
+Bestimmte Medikamente[^magenulcusmedi] schädigen die Magenschleimhaut und können bei häufiger Einnahme zu einem Geschwür führen. Auch andere Stoffe können auf chemisch-toxischen Weg zu einer entsprechenden Schädigung führen.
 Ein Gallensäurenrückfluß (Reflux) bzw.
 Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 
@@ -61,10 +57,8 @@ Autoimmunerkrankungen können ebenso zu einem Geschwür führen.
 :::
 ::::
 
-Der Patient klagt über einen *stechend-schneidenden Schmerz*, welcher
-sehr stark sein kann. Daneben kommt es zu Appetitlosigkeit, Völlegefühl,
-Übelkeit und Erbrechen. Wenn gleichzeitig eine *Blutung* besteht, dann
-sind *Teerstühle* (schwarz, übelriechend)
+Der Patient klagt über einen *stechend-schneidenden Schmerz*, welcher sehr stark sein kann. Daneben kommt es zu Appetitlosigkeit, Völlegefühl,
+Übelkeit und Erbrechen. Wenn gleichzeitig eine *Blutung* besteht, dann sind *Teerstühle* (schwarz, übelriechend)
 oder *Kaffeesatz-artiges Erbrechen* zu beobachten.
 
 

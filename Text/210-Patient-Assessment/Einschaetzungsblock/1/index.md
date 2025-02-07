@@ -15,40 +15,22 @@ Kernpunkte sind die Fragen:
 > - *Ist eine Lagemeldung erforderlich?*
 
 Schon *vor* Eintreffen am Einsatzort beginnt der Szeneüberblick.
-Das Einsatzpersonal muss sich die äußeren Umstände des Einsatzes bewusst
-machen:
-*Wo* befindet sich der Einsatzort — in einer Wohnung in einem
-mehrstöckigen Wohnhaus,
-in einem Einfamilienhaus
-oder auf einer Verkehrsfläche?
-Wo befindet sich der *Eingang*,
-wo gibt es
-*Parkmöglichkeiten*?
-Gibt es einen *Aufzug*
-und wie groß ist er?
+Das Einsatzpersonal muss sich die äußeren Umstände des Einsatzes bewusst machen:
+*Wo* befindet sich der Einsatzort — in einer Wohnung in einem mehrstöckigen Wohnhaus, in einem Einfamilienhaus oder auf einer Verkehrsfläche?
+Wo befindet sich der *Eingang*, wo gibt es *Parkmöglichkeiten*?
+Gibt es einen *Aufzug* und wie groß ist er?
 Können *nachfolgende Kräfte* den Einsatzort leicht finden?
-Wichtig ist das Erkennen von speziellen Gefahren,
-wie z. B.
+Wichtig ist das Erkennen von speziellen Gefahren, wie z. B.
 Tiere
-(*"Vorsicht vor dem
-Hund"*-Schilder,
-*Futternäpfe*),
-Hinweise auf *Gasunfälle*,
-unsichere Gebäude(-teile)
+(*"Vorsicht vor dem Hund"*-Schilder, *Futternäpfe*), Hinweise auf *Gasunfälle*, unsichere Gebäude(-teile)
 usw.
 Ggfs. sind auch Fluchtwege einzuplanen.
 
-Eventuell ist hier schon zu erkennen, ob *weitere Ressourcen* benötigt
-werden,
-oder ob es sich um eine *Großschadenslage*
-oder einen *Gefahrengutunfall* handelt.
-Außerdem können Hinweise wahrgenommen werden,
-ob ein *Trauma* vorliegt.
-Bei Unfällen gibt die Inspektion des
-Einsatzortes oft auch Aufschluss
+Eventuell ist hier schon zu erkennen, ob *weitere Ressourcen* benötigt werden, oder ob es sich um eine *Großschadenslage* oder einen *Gefahrengutunfall* handelt.
+Außerdem können Hinweise wahrgenommen werden, ob ein *Trauma* vorliegt.
+Bei Unfällen gibt die Inspektion des Einsatzortes oft auch Aufschluss
 über den *Unfallmechanismus* und -hergang.
-Wenn notwendig,
-muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
+Wenn notwendig, muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
 ```{eval-rst}
 .. subfigstart::

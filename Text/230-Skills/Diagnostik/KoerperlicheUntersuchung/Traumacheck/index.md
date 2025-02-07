@@ -2,11 +2,8 @@
 
 # Traumacheck
 
-Ein *Traumacheck* ist eine überblickshafte Suche nach
-Verletzungen oder Verletzungsanzeichen am (liegenden) Patienten.
-Er dient dem raschen Erkennen von
-*kritischen* Verletzungen und
-ersetzt keine vollständige körperliche Untersuchung.
+Ein *Traumacheck* ist eine überblickshafte Suche nach Verletzungen oder Verletzungsanzeichen am (liegenden) Patienten.
+Er dient dem raschen Erkennen von *kritischen* Verletzungen und ersetzt keine vollständige körperliche Untersuchung.
 
 Bei Hinweis auf eine Schädelverletzung ist ein
 {ref}`Neurocheck <neurocheck>`
@@ -15,8 +12,7 @@ Teile des Traumachecks werden während des
 {ref}`Einschätzungsblocks <einschaetzungsblock>`
 bei der *Schnellen-Trauma-Untersuchung* (*STU*) durchgeführt.
 Bei vital bedrohten (zeitkritischen) Patienten wird ggfs.
-bewusst *kein vollständiger* Traumacheck durchgeführt
-um nicht unnötig Zeit zu verlieren!
+bewusst *kein vollständiger* Traumacheck durchgeführt um nicht unnötig Zeit zu verlieren!
 
 (tupfertest)=
 

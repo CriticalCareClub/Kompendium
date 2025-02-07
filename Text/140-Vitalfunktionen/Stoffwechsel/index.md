@@ -2,28 +2,16 @@
 
 # Stoffwechsel
 
-Die Gesamtheit der lebensnotwendigen biochemischen Vorgänge im
-Organismus ist der Stoffwechsel (Metabolismus). Hier kann man zwischen
-Baustoffwechsel und Betriebsstoffwechsel unterscheiden.
+Die Gesamtheit der lebensnotwendigen biochemischen Vorgänge im Organismus ist der Stoffwechsel (Metabolismus). Hier kann man zwischen Baustoffwechsel und Betriebsstoffwechsel unterscheiden.
 
 - *Baustoffwechsel*: Neuaufbau von Zellsubstanz, die dem Wachstum des
   Organismus dienen = Anabolismus.
 - *Betriebsstoffwechsel*: Abbau von energiereichen Stoffen in
   energieärmere Verbindungen, hierbei wird Energie frei = Katabolismus.
 
-Die biologische Oxidation bezeichnet den Abbau von Molekülen in die
-energiearmen Verbindungen Kohlendioxid und Wasser. Hierbei wird Energie
-in Form von *ATP* frei, welches dann in energieverbrauchenden Prozessen
-in *ADP* umgewandelt wird.
+Die biologische Oxidation bezeichnet den Abbau von Molekülen in die energiearmen Verbindungen Kohlendioxid und Wasser. Hierbei wird Energie in Form von *ATP* frei, welches dann in energieverbrauchenden Prozessen in *ADP* umgewandelt wird.
 
-Der *tägliche Energiebedarf* ist abhängig von Gewicht, Alter,
-Geschlecht, Umgebungstemperatur, Arbeit, Medikamente usw. Der Umsatz,
-der unter standardisierten Ruhe-Bedingungen gemessen wird, ist der
-Grundumsatz, der Energieverbrauch während körperlicher Arbeit, ist der
-Arbeitsumsatz. Der Grundumsatz beträgt beim Mann *4,2 kJ bzw. 1kcal pro
-kg Körpergewicht pro Stunde*. D.h. ein 70 kg schwerer Mann hat einen
-Grundumsatz von ca. 7000 kJ (1700 kcal) pro Tag. Der Grundumsatz von
-Frauen liegt ca. 10-20% niedriger.
+Der *tägliche Energiebedarf* ist abhängig von Gewicht, Alter, Geschlecht, Umgebungstemperatur, Arbeit, Medikamente usw. Der Umsatz, der unter standardisierten Ruhe-Bedingungen gemessen wird, ist der Grundumsatz, der Energieverbrauch während körperlicher Arbeit, ist der Arbeitsumsatz. Der Grundumsatz beträgt beim Mann *4,2 kJ bzw. 1kcal pro kg Körpergewicht pro Stunde*. D.h. ein 70 kg schwerer Mann hat einen Grundumsatz von ca. 7000 kJ (1700 kcal) pro Tag. Der Grundumsatz von Frauen liegt ca. 10-20% niedriger.
 
 Der physikalische *Brennwert* von Nahrungsbestandteilen beträgt (=
 energielefernd!):
@@ -36,12 +24,9 @@ energielefernd!):
 
 (1g Alkohol: 30,0 kJ / 7,1 kcal)
 
-Der *physiologische Brennwert* errechnet sich aus dem physikalischen
-Brennwert unter Abzug der Nahrungsenergie, die durch Stuhl und Harn dem
-Körper verloren geht.
+Der *physiologische Brennwert* errechnet sich aus dem physikalischen Brennwert unter Abzug der Nahrungsenergie, die durch Stuhl und Harn dem Körper verloren geht.
 
-Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56g
-Protein = 10%, 75g Fett = 30%, 340g Kohlenhydrate = 60%):
+Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56g Protein = 10%, 75g Fett = 30%, 340g Kohlenhydrate = 60%):
 
 - Proteine: Aminosäurelieferanten
 
@@ -74,8 +59,7 @@ Protein = 10%, 75g Fett = 30%, 340g Kohlenhydrate = 60%):
 
 - Wasser
 
-Der *Energieumsatz* wird anhand des gesamten Wärmeumsatzes des Körpers
-bestimmt. Im folgenden einige Richtwerde zum Energieumsatz:
+Der *Energieumsatz* wird anhand des gesamten Wärmeumsatzes des Körpers bestimmt. Im folgenden einige Richtwerde zum Energieumsatz:
 
 - keine Arbeit: ca. 10.000 kJ (2.300 kcal) / d
 - leichte Arbeit: ca. 12.000 kJ (2760 kcal) /d
@@ -84,9 +68,7 @@ bestimmt. Im folgenden einige Richtwerde zum Energieumsatz:
 
 ## Verdauungsvorgänge
 
-Die Verdauung setzt die Bewegung aller Organe (gastrointestinale
-Motilität) vorraus. Nach dem Essen treten typische Bewegungsmuster
-entlang des GI-Traktes auf:
+Die Verdauung setzt die Bewegung aller Organe (gastrointestinale Motilität) vorraus. Nach dem Essen treten typische Bewegungsmuster entlang des GI-Traktes auf:
 
 - *nicht-propulsive Peristaltik*: lokale ringförmige Kontraktionswellen
 - *Segmentationen*: lokale Einschnürungen in eng benachbarten Bereichen
@@ -166,14 +148,9 @@ ______________________________________________________________________
 :::
 ::::
 
-Unter {dfn}`Stoffwechsel` versteht man Abläufe von
-Stoffumsetzung und Energiegewinnung, wobei Nährstoffe in Wärme, Energie
-und Körperbestandteile umgewandelt werden.
+Unter {dfn}`Stoffwechsel` versteht man Abläufe von Stoffumsetzung und Energiegewinnung, wobei Nährstoffe in Wärme, Energie und Körperbestandteile umgewandelt werden.
 Er ist eine Vitalfunktion 2. Ordnung.
-Der menschliche Körper hat drei wesentliche
-Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den
-*Zucker- bzw. Kohlehydratstoffwechsel*, den *Fettstoffwechsel* und den
-*Eiweißstoffwechsel*:
+Der menschliche Körper hat drei wesentliche Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den *Zucker- bzw. Kohlehydratstoffwechsel*, den *Fettstoffwechsel* und den *Eiweißstoffwechsel*:
 
 - {dfn}`Kohlehydratstoffwechsel` (*Zuckerstoffwechsel*):
   Zucker ist ein Kohlehydrat und ein potenter *Energielieferant*,

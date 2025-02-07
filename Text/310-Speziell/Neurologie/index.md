@@ -1,12 +1,8 @@
 # Neurologische Störungen
 
-Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle
-die das Nervensystem betreffen. Sie gehen oft mit einer Störung des
-Bewusstseins oder anderer Funktionen des Nervensystems einher. Die
-*Ursachen* von neurologischen Erkrankungen sind sehr vielfältig.
+Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle die das Nervensystem betreffen. Sie gehen oft mit einer Störung des Bewusstseins oder anderer Funktionen des Nervensystems einher. Die *Ursachen* von neurologischen Erkrankungen sind sehr vielfältig.
 
-Die folgende Übersicht nennt einige Beispiele für Ursachen
-neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
+Die folgende Übersicht nennt einige Beispiele für Ursachen neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
 
 - *Schlaganfall*
 - *Vergiftungen* können fast alles verursachen, inkl. neurologischer
@@ -36,21 +32,11 @@ neurologischer Störungen, ohne Anspruch auf Vollständigkeit:
 
 ### Bewusstseinsstörungen
 
-Als Bewusstseinsstörungen bezeichnet man
-insbesonders Störungen der Wachheit und der Orientierung.
-Wie bereits
-oben erwähnt, ist das Bewusstsein wesentlich an der *Abwehr von
-Gefahren* beteiligt. Je mehr das Bewusstsein gestört oder reduziert ist,
-desto gefährlicher für den Patienten.
+Als Bewusstseinsstörungen bezeichnet man insbesonders Störungen der Wachheit und der Orientierung.
+Wie bereits oben erwähnt, ist das Bewusstsein wesentlich an der *Abwehr von Gefahren* beteiligt. Je mehr das Bewusstsein gestört oder reduziert ist, desto gefährlicher für den Patienten.
 
-Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
-*Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen, und es kann
-Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
-Man spricht auch vom *Ausfall der Schutzreflexe*. Bei schweren
-Bewusstseinsstörungen kann es auch zum Erschlaffen wichtiger Muskeln wie
-z. B. der Zunge kommen. Fällt diese zurück, kann sie zurückfallen und den
-*Atemweg verlegen*. Dabei ist manchmal ein dem *Schnarchen ähnliches*
-Atemgeräusch zu vernehmen.
+Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen, und es kann Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
+Man spricht auch vom *Ausfall der Schutzreflexe*. Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen wichtiger Muskeln wie z. B. der Zunge kommen. Fällt diese zurück, kann sie zurückfallen und den *Atemweg verlegen*. Dabei ist manchmal ein dem *Schnarchen ähnliches* Atemgeräusch zu vernehmen.
 
 Gefahren:
 
@@ -75,12 +61,8 @@ Gefahren:
 :::
 ::::
 
-Durch die Schädigung des zentralen Nervensystems kommt es zu der
-Bewusstseinsstörung. Diese Schädigung kann direkt auf das ZNS einwirken
-(primäre Ursache) oder auf Organe oder Körperfunktionen einwirken,
-welche für das Funktionieren des ZNS erforderlich sind (sekundäre
-Ursache). Die Tabelle {ref}`Table-bewusstseinsstoerungen-ursachen` listet typische
-Ursachen auf.
+Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsstörung. Diese Schädigung kann direkt auf das ZNS einwirken
+(primäre Ursache) oder auf Organe oder Körperfunktionen einwirken, welche für das Funktionieren des ZNS erforderlich sind (sekundäre Ursache). Die Tabelle {ref}`Table-bewusstseinsstoerungen-ursachen` listet typische Ursachen auf.
 
 :::{list-table} Ursachen von Bewusstseinsstörungen
 :header-rows: 1
@@ -147,15 +129,9 @@ Ursachen auf.
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 (*Wieviel* Bewusstsein ist vorhanden? Vgl.
 {ref}`bewusstseinsstoerung-grade`).
-Er muss bei jedem Patienten nach
-dem *WASB-Schema* beurteilt werden.
-{dfn}`WASB` ist die Abkürzung für
-**w**ach,
-Reaktion auf **a**nsprechen oder leichte Weckreize,
-Reaktion auf **S**chmerzreiz
-und **b**ewusstlos.
-Dementsprechend kann ein
-Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
+Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
+{dfn}`WASB` ist die Abkürzung für **w**ach, Reaktion auf **a**nsprechen oder leichte Weckreize, Reaktion auf **S**chmerzreiz und **b**ewusstlos.
+Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 *bewusstlos* sein, vgl. {ref}`Table-bewusstseinsgrade`.
 
 ```{eval-rst}
@@ -283,13 +259,7 @@ Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 :::
 ::::
 
-**Hirndruckzeichen** {index}` <Hirndruckzeichen>` deuten auf
-eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*,
-*intrakranieller* {index}` <Druck!intrakranieller>` Druck). Eine
-solche Steigerung kann besonders bei Verletzungen oder blutigen
-Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ
-sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das
-Hirn drück sich selbst ab."*).
+**Hirndruckzeichen** {index}` <Hirndruckzeichen>` deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller* {index}` <Druck!intrakranieller>` Druck). Eine solche Steigerung kann besonders bei Verletzungen oder blutigen Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das Hirn drück sich selbst ab."*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
@@ -306,8 +276,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
   Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
   der Extremitäten.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
-Anisokorie
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\* Anisokorie
 
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
@@ -327,14 +296,9 @@ Anisokorie
 :::
 ::::
 
-Das *große Hinterhauptsloch* als
-Durchtrittsstelle des Rückenmarks ist die einzige große Öffnung des
-Gehirnschädels und somit die einzige Möglichkeit des Gehirns sich
-auszudehnen. Kommt es aufgrund eines sehr großen Hirndrucks zu solch
-einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen
+Das *große Hinterhauptsloch* als Durchtrittsstelle des Rückenmarks ist die einzige große Öffnung des Gehirnschädels und somit die einzige Möglichkeit des Gehirns sich auszudehnen. Kommt es aufgrund eines sehr großen Hirndrucks zu solch einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen
 (*Hirnstammeinklemmung*).
-Da sich im Hirnstamm das Atem- und
-Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
+Da sich im Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 (insult)=
 
@@ -361,8 +325,7 @@ Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 :::
 ::::
 
-Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden
-werden können:
+Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden werden können:
 
 - {dfn}`Ischämischer Insult` ("trocken"):
   {index}` <Ischämie!trockener Insult>`.
@@ -394,21 +357,15 @@ werden können:
 :::
 ::::
 
-{dfn}`TIA` {index}` <TIA>` ist die Abkürzung für
-*Transitorisch-Ischämische Attacke*.
-Von einer TIA spricht man,
-wenn die Symptome innerhalb von 24 Stunden vergehen.
-Solange noch Symptome
-bestehen, kann man nicht von einer TIA sprechen,
-der Patient ist wie bei
-jedem anderen Schlaganfall zu behandeln.
+{dfn}`TIA` {index}` <TIA>` ist die Abkürzung für *Transitorisch-Ischämische Attacke*.
+Von einer TIA spricht man, wenn die Symptome innerhalb von 24 Stunden vergehen.
+Solange noch Symptome bestehen, kann man nicht von einer TIA sprechen, der Patient ist wie bei jedem anderen Schlaganfall zu behandeln.
 
 ### Symptome
 
 ::::{only} not nosidebar
 
-:::{margin} Symptome
-Je nach betroffener Hirnregion sehr unterschiedlich:
+:::{margin} Symptome Je nach betroffener Hirnregion sehr unterschiedlich:
 
 - Halbseitenzeichen (Schwäche, Lähmung)
 
@@ -432,10 +389,8 @@ Je nach betroffener Hirnregion sehr unterschiedlich:
 :::
 ::::
 
-Die diversen *Funktionsareale* (Sprachzentren, Sehzentrum, motorische
-Zentren, …) sind in verschiedenen Regionen des Hirns verteilt.
-Je nachdem welches Gebiet durch die Ischämie oder Blutung betroffen ist,
-können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
+Die diversen *Funktionsareale* (Sprachzentren, Sehzentrum, motorische Zentren, …) sind in verschiedenen Regionen des Hirns verteilt.
+Je nachdem welches Gebiet durch die Ischämie oder Blutung betroffen ist, können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
 
 - *Motorik*: Störungen der Kraft und Beweglichkeit sind sehr häufig.
   Charakteristisch für einen Schlaganfall sind sog.
@@ -491,10 +446,7 @@ können die Symptome sehr unterschiedlich sein. Typische Störungen sind:
   (Myokardischämie, Herzinsuffizienz, …) andere
   Grenzwerte erfordern.
 
-Präklinisch kann man nicht sicher zwischen einer Ischämie (trockener
-Insult) und einer Blutung unterscheiden. Auf jeden Fall ist die
-*Bewusstseinslage* sehr engmaschig zu überwachen; eine rasche
-Verschlechterung ist jederzeit möglich!
+Präklinisch kann man nicht sicher zwischen einer Ischämie (trockener Insult) und einer Blutung unterscheiden. Auf jeden Fall ist die *Bewusstseinslage* sehr engmaschig zu überwachen; eine rasche Verschlechterung ist jederzeit möglich!
 
 ### Differentialdiagnose
 
@@ -507,14 +459,9 @@ Verschlechterung ist jederzeit möglich!
 :::
 ::::
 
-Die wichtigste Differentialdiagnose ist eine Störung des
-*Blutzucker*-Stoffwechsels. Sowohl die Hyper-, als auch die Hypoglykämie
-können auch fokalneurologische Symptome verursachen und einen
-Schlaganfall vortäuschen, daher muss der Blutzucker immer gemessen
-werden! Ebenso ist immer an *Vergiftungen* zu denken.
+Die wichtigste Differentialdiagnose ist eine Störung des *Blutzucker*-Stoffwechsels. Sowohl die Hyper-, als auch die Hypoglykämie können auch fokalneurologische Symptome verursachen und einen Schlaganfall vortäuschen, daher muss der Blutzucker immer gemessen werden! Ebenso ist immer an *Vergiftungen* zu denken.
 
-Die Abgrenzung zu anderen neurologischen Erkrankungen ist ohne
-weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
+Die Abgrenzung zu anderen neurologischen Erkrankungen ist ohne weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 
 ### Spezielle Anamnese
 
@@ -528,8 +475,7 @@ weitergehende Untersuchungen oft schwierig bzw. schwer möglich.
 :::
 ::::
 
-Vor Anmeldung zu einer Stroke-Unit müssen folgende Informationen erhoben
-worden sein:
+Vor Anmeldung zu einer Stroke-Unit müssen folgende Informationen erhoben worden sein:
 
 - Zeitpunkt des Auftretens der Symptome
 - Symptome, neurologische Ausfälle
@@ -551,15 +497,10 @@ Taktik
   Vitalfunktionen sichern,
   rascher Transport an eine geeignete Abteilung.
 
-Grundsätzlich
-ist ein Schlaganfall-Patient aufgrund seiner Diagnose als
-**vital bedroht** und gleichzeitig als **zeitkritisch**
+Grundsätzlich ist ein Schlaganfall-Patient aufgrund seiner Diagnose als **vital bedroht** und gleichzeitig als **zeitkritisch**
 (*"Time is brain."*) einzustufen.
 Eine definitive Therapie in einer Spezialabteilung
-(*Stroke Unit*) kann andere, noch nicht abgestorbene
-Teile des Hirns vor weiterem Schaden bewahren,
-d. h. es ist sehr wichtig,
-dass diese Therapie möglichst schnell erfolgt.
+(*Stroke Unit*) kann andere, noch nicht abgestorbene Teile des Hirns vor weiterem Schaden bewahren, d. h. es ist sehr wichtig, dass diese Therapie möglichst schnell erfolgt.
 
 ⛑ Basismaßnahmen
 : - {{ TxMassVitMKBes }}
@@ -657,13 +598,9 @@ dass diese Therapie möglichst schnell erfolgt.
 :::
 ::::
 
-Bei vom Gehirn ausgehenden motorischen Krampfanfällen kommt es zur
-unkontrollierten Entladung von Nervenzellen im Gehirn zu Krämpfen der
-Skelettmuskulatur.
-Mögliche Ursachen sind akute oder chronische
-Erkrankungen des Gehirns.
-Die zerebralen Krampfanfälle kann man auf
-verschiedene Arten einteilen:
+Bei vom Gehirn ausgehenden motorischen Krampfanfällen kommt es zur unkontrollierten Entladung von Nervenzellen im Gehirn zu Krämpfen der Skelettmuskulatur.
+Mögliche Ursachen sind akute oder chronische Erkrankungen des Gehirns.
+Die zerebralen Krampfanfälle kann man auf verschiedene Arten einteilen:
 
 1. Nach Art:
 
@@ -681,11 +618,7 @@ verschiedene Arten einteilen:
 
 ### Ursachen
 
-Für zerebrale Anfälle gibt es eine Reihe von unterschiedlichen Ursachen
-die direkt oder indirekt das Gehirn betreffen. Einige betreffen die
-Hirn- und Nervenstruktur, andere sorgen dafür, dass das Hirn zu wenig
-Sauerstoff und andere Nährstoffe erhält. Die häufigsten Ursachen und
-Grunderkrankungen sind im Folgenden aufgeführt:
+Für zerebrale Anfälle gibt es eine Reihe von unterschiedlichen Ursachen die direkt oder indirekt das Gehirn betreffen. Einige betreffen die Hirn- und Nervenstruktur, andere sorgen dafür, dass das Hirn zu wenig Sauerstoff und andere Nährstoffe erhält. Die häufigsten Ursachen und Grunderkrankungen sind im Folgenden aufgeführt:
 
 - *Epilepsie*: Die Epilepsie ist eine chronische Erkrankung welche
   durch wiederkehrende Episoden von zerebralen Krampfanfällen
@@ -712,10 +645,8 @@ Grunderkrankungen sind im Folgenden aufgeführt:
 
 ### Fokaler Anfall
 
-Der Krampfanfall ist auf eine Körperregion beschränkt,
-z. B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
-Ein fokaler Anfall kann sich ausweiten und in einen generalisierten
-Anfall übergehen.
+Der Krampfanfall ist auf eine Körperregion beschränkt, z. B. auf eine Hand. Der Patient kann bei Bewusstsein sein.
+Ein fokaler Anfall kann sich ausweiten und in einen generalisierten Anfall übergehen.
 
 Der fokale Anfall wird auch "petit mal"[^petitmal] genannt.
 
@@ -758,9 +689,7 @@ Der fokale Anfall wird auch "petit mal"[^petitmal] genannt.
 Der generalisierte Krampfanfall
 (*"grand mal"*[^grandmal])
 betrifft den ganzen Körper.
-Häufig kommt es während
-des Anfalles zu einem Zungenbiss,
-außerdem zum Einnässen oder Einkoten.
+Häufig kommt es während des Anfalles zu einem Zungenbiss, außerdem zum Einnässen oder Einkoten.
 Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 
 1. *Beginn*:
@@ -816,11 +745,8 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
   Personal selber miterlebt, als Status-Verdächtig.
 ::::
 
-Der Status epilepticus ist eine lebensgefährliche Steigerung des
-generalisierten Krampfanfalls.
-Er besteht dann, wenn der Anfall nicht
-nach kurzer Zeit vergeht oder innerhalb kurzer Abstände
-mehrere Anfälle auftreten
+Der Status epilepticus ist eine lebensgefährliche Steigerung des generalisierten Krampfanfalls.
+Er besteht dann, wenn der Anfall nicht nach kurzer Zeit vergeht oder innerhalb kurzer Abstände mehrere Anfälle auftreten
 (z. B. *zwei oder mehr* Anfälle innerhalb von 24 Stunden).
 Der Krampf muss dann mit Medikamenten durchbrochen werden.
 
@@ -914,18 +840,13 @@ Taktik
 :::
 ::::
 
-*Kinder* unter 4 Jahren können bei schnellem, hohen
-Fieberanstieg (> 39°C) *Fieberkrämpfe* entwickeln.
-Sie entsprechen einem
-vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu
-behandeln.
+*Kinder* unter 4 Jahren können bei schnellem, hohen Fieberanstieg (> 39°C) *Fieberkrämpfe* entwickeln.
+Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu behandeln.
 
-Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und
-es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
+Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
 (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\*
-Fieber
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\* Fieber
 
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
@@ -959,26 +880,15 @@ Dieser wird unter {ref}`eklampsie` besprochen.
 :::
 ::::
 
-Verschiedene Ursachen wie z. B. eine Nervenreizung, ein
-Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein
-Unfall können zu einem Druck auf den *Ischias-Nerv* führen, welcher
-starke Schmerzen im Bereich der Lendenwirbelsäule (LWS) verursachen
-kann.
-Die Schmerzen strahlen oft ins Gesäß und in das betroffene Bein
-bis zum Fußaußenrand aus und werden von Gefühlsstörungen in diesem
-Gebiet bzw. von einer Verkrampfung der Rückenmuskulatur begleitet.
-Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem
-Auftreten spricht man von Lumboischialgie
+Verschiedene Ursachen wie z. B. eine Nervenreizung, ein Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall können zu einem Druck auf den *Ischias-Nerv* führen, welcher starke Schmerzen im Bereich der Lendenwirbelsäule (LWS) verursachen kann.
+Die Schmerzen strahlen oft ins Gesäß und in das betroffene Bein bis zum Fußaußenrand aus und werden von Gefühlsstörungen in diesem Gebiet bzw. von einer Verkrampfung der Rückenmuskulatur begleitet.
+Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem Auftreten spricht man von Lumboischialgie
 ({dfn}`Lumbago` {index}` <! Lumbago>`)
 oder umgangssprachlich vom *Hexenschuss*.
 
-Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung
-oder durch falsches Heben großer Lasten) kann es zu einer (plötzlichen)
-Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu
-einem Druck auf dieses kommen.
-Dieser Druck verursacht ebenfalls
-Schmerzen, Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses
-Ereignis plötzlich auf, spricht man von einem
+Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung oder durch falsches Heben großer Lasten) kann es zu einer (plötzlichen)
+Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses kommen.
+Dieser Druck verursacht ebenfalls Schmerzen, Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses Ereignis plötzlich auf, spricht man von einem
 {dfn}`akuten Bandscheibenvorfall`
 {index}` <! akuten Bandscheibenvorfall>`.
 Häufig ist die Lendenwirbelsäule (LWS-Bereich)

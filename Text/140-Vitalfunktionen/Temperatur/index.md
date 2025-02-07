@@ -5,17 +5,12 @@
 ## Allgemeines
 
 Der Mensch - ist im Gegensatz zu *poikilothermen* (wechselwarmen) Tieren
-\- *homöotherm* (gleichwarm). Die *Körperkerntemperatur* (37°C) wird
-innerhalb gewisser Grenzen konstant gehalten. Im Gegensatz zum
-Körperkern unterliegt die Körperschale starken Schwankungen.
+\- *homöotherm* (gleichwarm). Die *Körperkerntemperatur* (37°C) wird innerhalb gewisser Grenzen konstant gehalten. Im Gegensatz zum Körperkern unterliegt die Körperschale starken Schwankungen.
 
-Bei Verringerung der Körpertemperatur verringert sich auch die
-Reaktionsgeschwindigkeit ablaufender chemischer Reaktionen des
-menschlichen Körpers. Auf diesem Prinzip basiert die verlängerte
+Bei Verringerung der Körpertemperatur verringert sich auch die Reaktionsgeschwindigkeit ablaufender chemischer Reaktionen des menschlichen Körpers. Auf diesem Prinzip basiert die verlängerte
 Überlebensdauer von Organismen mittels Hypothermie.
 
-Die häufigsten Messmethoden zur Bestimmung der Körperkerntemperatur sind
-die
+Die häufigsten Messmethoden zur Bestimmung der Körperkerntemperatur sind die
 
 - Sublingual- bzw. Rektaltemperatur, sowie die
 - Axillartemperatur
@@ -23,12 +18,7 @@ die
 ## Regulation
 
 Mittels *negativer Rückkopplung* wird die Temperatur reguliert:
-Thermosensoren der Haut und des Körperinneren (v.a. Hypothalamus,
-Hirnstamm, Rückenmark, dorsaler Bauchraum, Skelettmuskulatur) messen die
-aktuelle Temperatur. Durch Zittern, Abbau von Fettgewebe, Schwitzen und
-die Veränderung der Hautdurchblutung kann die Körpertemperatur verändert
-werden (= Stellglieder). Oberster Regulator der Körpertemperatur ist der
-Hypothalamus.
+Thermosensoren der Haut und des Körperinneren (v.a. Hypothalamus, Hirnstamm, Rückenmark, dorsaler Bauchraum, Skelettmuskulatur) messen die aktuelle Temperatur. Durch Zittern, Abbau von Fettgewebe, Schwitzen und die Veränderung der Hautdurchblutung kann die Körpertemperatur verändert werden (= Stellglieder). Oberster Regulator der Körpertemperatur ist der Hypothalamus.
 
 ## Wärmebildung und Wärmeabgabe
 
@@ -40,12 +30,8 @@ Wärme kann abgegeben werden durch:
 - Schwitzen
 - Perspiratio insensibilis (Verdunstung)
 
-Bei Indifferenztemperatur erfolgt der Großteil der Wärmeabgabe über
-*Strahlung*. Bei höheren Temperaturen konzentriert sich der Körper auf
-*Verdunstung*, die - insbesondere wenn die Außentemperatur die
-Körpertemperatur übersteigt - den Hauptteil der Temperaturregulierung
-übernimmt. Bei Bedarf kann durch *Zittern* bzw. durch *braunes
-Fettgewebe* (beim Säugling) Wärme erzeugt werden.
+Bei Indifferenztemperatur erfolgt der Großteil der Wärmeabgabe über *Strahlung*. Bei höheren Temperaturen konzentriert sich der Körper auf *Verdunstung*, die - insbesondere wenn die Außentemperatur die Körpertemperatur übersteigt - den Hauptteil der Temperaturregulierung
+übernimmt. Bei Bedarf kann durch *Zittern* bzw. durch *braunes Fettgewebe* (beim Säugling) Wärme erzeugt werden.
 
 Akklimatisation:
 
@@ -54,8 +40,7 @@ Akklimatisation:
 
 ## Veränderungen der Temperaturregulation
 
-*Veränderungen der Temperaturregulation* können physiologisch oder
-pathologisch sein:
+*Veränderungen der Temperaturregulation* können physiologisch oder pathologisch sein:
 
 - *physiologisch*:
 
@@ -78,8 +63,7 @@ ______________________________________________________________________
 
 ### Temperaturregulation
 
-Die normale Körper-Kerntemperatur beträgt *37°* Celsius. Verschiedene
-Mechanismen sorgen für Wärmeerzeugung und -abgabe:
+Die normale Körper-Kerntemperatur beträgt *37°* Celsius. Verschiedene Mechanismen sorgen für Wärmeerzeugung und -abgabe:
 
 :::{list-table} Wärmeerzeugung und -abgabe
 :header-rows: 1

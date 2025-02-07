@@ -11,12 +11,9 @@
 
 {dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>`
 sind Blutungen im Magen-Darm-Trakt.
-{dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind
-Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
+{dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
 
-Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu
-Blutungen kommen, die auch sehr schwer ausfallen können. Die
-Unterscheidung nach der Stelle der Blutung ist wesentlich:
+Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu Blutungen kommen, die auch sehr schwer ausfallen können. Die Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
 - Blutungen im *oberen Teil* des Verdauungstraktes können durch
   *Ösophagusvarizen*
@@ -47,14 +44,11 @@ Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
 ## Symptome
 
-Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es
-je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
+Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
 *Hämatemesis*)
 oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
-Durch die
-Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
-ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren
-Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz
+Durch die Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
+ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz
 ({dfn}`Meläna`{index}` <! Meläna>`).
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
@@ -119,13 +113,10 @@ Therapie der ersten ÖVB vor der Akut-Endoskopie:
 - Volumentherapie bis zur Normovolämie (Hämodynamisch ähnlich Sepsis)
 - Hämodynamische Stabilisierung mit RRsyst \< 130!  , EK´s Ziel Hb 7-8;
 - Gerinnungskorrektur bei PTZ\<30%, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
-- Terlipressin 2mg iv. als Bolus gleich bei Verdachtsdiagnose ÖVB,
-danach für 5 Tage alle 4 h 1-2mg iv.
+- Terlipressin 2mg iv. als Bolus gleich bei Verdachtsdiagnose ÖVB, danach für 5 Tage alle 4 h 1-2mg iv.
 Ausnahme: bei schwerer KHK, COPD, Asthma, Herzrhythmusstörungen, paVK, wird ein Somatostatin Perfusor empfohlen.
-- Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage
-(Patienten sterben meist an einer Infektion!)
-- Gerinnungstherapie: PTZ \>50,
-ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
+- Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage (Patienten sterben meist an einer Infektion!)
+- Gerinnungstherapie: PTZ \>50, ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
 - Erythromycin 250mg iv (Prokinetikum) = klare Sicht
 - 80mg Pantoloc iv, dann Perfusor 2ml/h (200mg auf 50ml)
 Endoskopische Therapie: Notfalls ÖGD (Banding)

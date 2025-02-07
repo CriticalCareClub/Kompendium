@@ -11,24 +11,16 @@
 ::::
 
 :::{admonition} Definition
-Ein Schock ist eine *lebensbedrohliche Kreislaufstörung* aufgrund von
-Unterversorgung des Körpers mit Blut und Sauerstoff infolge des
-Versagens des Kreislaufsystems.
+
+Ein Schock ist eine *lebensbedrohliche Kreislaufstörung* aufgrund von Unterversorgung des Körpers mit Blut und Sauerstoff infolge des Versagens des Kreislaufsystems.
 :::
 
-Es besteht eine Missverhältnis
-zwischen dem Herzauswurfs und dem Bedarf des Körpers. Dies kann
-unterschiedliche Ursachen haben, z. B. dass das zu wenig Herz pumpt, zu
-wenig Blut bzw. Flüssigkeit vorhanden ist oder die Gefäße zu weit
-gestellt sind und Blut dadurch versackt. Es können dabei einzelne oder
-mehrere Teile des Kreislaufsystems betroffen sein (Blut, Gefäße, Herz).
+Es besteht eine Missverhältnis zwischen dem Herzauswurfs und dem Bedarf des Körpers. Dies kann unterschiedliche Ursachen haben, z. B. dass das zu wenig Herz pumpt, zu wenig Blut bzw. Flüssigkeit vorhanden ist oder die Gefäße zu weit gestellt sind und Blut dadurch versackt. Es können dabei einzelne oder mehrere Teile des Kreislaufsystems betroffen sein (Blut, Gefäße, Herz).
 
-*Kein* Schock besteht bei kurzzeitigen Blutverteilungsstörungen z. B. im
-Rahmen eines Kollaps bzw. einer Synkope, wobei es auch zu
-Bewusstseinsstörungen durch kurzfristige Minderdurchblutung des
-Gehirnskommen kann.
+*Kein* Schock besteht bei kurzzeitigen Blutverteilungsstörungen z. B. im Rahmen eines Kollaps bzw. einer Synkope, wobei es auch zu Bewusstseinsstörungen durch kurzfristige Minderdurchblutung des Gehirnskommen kann.
 
 :::{admonition} Synopsis
+
 *Missverhältnis Herzminutenvolumen:Sauerstoffbedarf*
 
 > - Schock = Kreislaufinsuffizienz =
@@ -58,39 +50,24 @@ Gehirnskommen kann.
 :::
 ::::
 
-Der Körper versucht durch Aktivierung des Sympathikus
-gegenzusteuern (zu *kompensieren*).
+Der Körper versucht durch Aktivierung des Sympathikus gegenzusteuern (zu *kompensieren*).
 Der wichtigste Mechanismus ist die {dfn}`Zentralisation`.
-Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger
-Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut,
-Muskel und Darm sowie die Extremitäten (Peripherie) kaum mehr
-durchblutet. Periphere Venen kollabieren und die *Rekapillarisierungszeit*
-verlängert sich. Die Hautdurchblutung wird verringert und die Haut wird
-kühl und bleich.
+Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut, Muskel und Darm sowie die Extremitäten (Peripherie) kaum mehr durchblutet. Periphere Venen kollabieren und die *Rekapillarisierungszeit* verlängert sich. Die Hautdurchblutung wird verringert und die Haut wird kühl und bleich.
 
-Dies funktioniert allerdings nur eine gewisse Zeit und in einem gewissen
-Ausmaß gut, daher ist eine schnell einsetzende Therapie wichtig! Wenn
-die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom
-*dekompensierten Schock*. Es besteht spätestens dann akute
-*Lebensgefahr*!
+Dies funktioniert allerdings nur eine gewisse Zeit und in einem gewissen Ausmaß gut, daher ist eine schnell einsetzende Therapie wichtig! Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom *dekompensierten Schock*. Es besteht spätestens dann akute *Lebensgefahr*!
 
-:::{admonition} Synopsis
-Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
+:::{admonition} Synopsis Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 :::
 
 (schockallgemeinesymptomatik)=
 
 ## Allgemeine Schocksymptomatik
 
-Die Symptome eines Schocks sind
-abhängig vom jeweiligen Stadium.
-Problematisch ist, dass am Anfang die
-Symptome eher diskret sind.
-Das erste Anzeichen eines beginnenden
-Schocks ist oft lediglich eine kühle Haut {term}`🗎 Kaplan 2001`!
+Die Symptome eines Schocks sind abhängig vom jeweiligen Stadium.
+Problematisch ist, dass am Anfang die Symptome eher diskret sind.
+Das erste Anzeichen eines beginnenden Schocks ist oft lediglich eine kühle Haut {term}`🗎 Kaplan 2001`!
 Natürlich kann es auch andere Ursachen für eine kühle Haut geben, z. B.
-eine kalte Umgebungstemperatur. Die Tabelle {ref}`Tafel-Schocksymptomatik`,
-listet typische allgemeine Schocksymptome auf.
+eine kalte Umgebungstemperatur. Die Tabelle {ref}`Tafel-Schocksymptomatik`, listet typische allgemeine Schocksymptome auf.
 
 ::::{only} not nosidebar
 
@@ -144,16 +121,10 @@ listet typische allgemeine Schocksymptome auf.
 
 ## Schockschere
 
-Normalerweise ist die Herzfrequenz niedriger als
-der systolische Blutdruck.
-(Achtung: *Kinder haben andere Normalwerte für HF und RR!*
-Die Faustregel ist deshalb nicht anwendbar!)
-Wenn der
-Körper versucht den Schock zu kompensieren, kann sich dieses Verhältnis
-umkehren. Man spricht dann von der Schockschere, der Patient befindet
-sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
-\*spätes Zeichen!* Auch wenn sich ein Patient (noch) nicht in der
-Schockschere befindet, kann er trotzdem einen Schock haben!\*
+Normalerweise ist die Herzfrequenz niedriger als der systolische Blutdruck.
+(Achtung: *Kinder haben andere Normalwerte für HF und RR!* Die Faustregel ist deshalb nicht anwendbar!)
+Wenn der Körper versucht den Schock zu kompensieren, kann sich dieses Verhältnis umkehren. Man spricht dann von der Schockschere, der Patient befindet sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
+\*spätes Zeichen!* Auch wenn sich ein Patient (noch) nicht in der Schockschere befindet, kann er trotzdem einen Schock haben!\*
 
 ::::{only} not nosidebar
 
@@ -183,19 +154,13 @@ Schockschere befindet, kann er trotzdem einen Schock haben!\*
 ## Schock beim Kind
 
 Die Schockschere gilt beim Kind nicht, da die Normalwerte andere sind!
-Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber
-schlagartig!
+Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber schlagartig!
 
 (schock-arten)=
 
 ## Unterschiedliche Schockarten
 
-Beim Schock können einzelne oder mehrere Teile des
-Kreislaufsystems (Blut, Gefäße, Herz) gestört sein. Dementsprechend
-werden unterschiedliche Mechanismen schlagend und man kann verschiedene
-Schockarten unterscheiden,
-siehe Tabelle {ref}`Tafel-SchockMechanismen`, und
-Tabelle {ref}`Tafel-UebersichtSchockarten`.
+Beim Schock können einzelne oder mehrere Teile des Kreislaufsystems (Blut, Gefäße, Herz) gestört sein. Dementsprechend werden unterschiedliche Mechanismen schlagend und man kann verschiedene Schockarten unterscheiden, siehe Tabelle {ref}`Tafel-SchockMechanismen`, und Tabelle {ref}`Tafel-UebersichtSchockarten`.
 
 (tafel-schockmechanismen)=
 
@@ -307,16 +272,9 @@ Tabelle {ref}`Tafel-UebersichtSchockarten`.
 
 ## Hypovolämischer Schock
 
-**Schock aufgrund eines Verlustes von
-Flüssigkeit aus den Gefäßen.**
+**Schock aufgrund eines Verlustes von Flüssigkeit aus den Gefäßen.**
 
-Es können dabei (Voll-) Blut, oder auch
-nur Blutbestandteile wie Plasma oder Wasser und Elektrolyte verloren
-gehen. Der Verlust kann jeweils nach innen und/oder nach außen erfolgen,
-siehe {ref}`Tafel-UebersichtUrsachenFluessigkeitsverlustSchock`. Bei akutem
-Flüssigkeitsverlust kann ein Verlust von bis zu 20% des Blutvolumens gut
-kompensiert werden. Auf größere Verluste folgt ein Absinken von
-Herzauswurf und RR!
+Es können dabei (Voll-) Blut, oder auch nur Blutbestandteile wie Plasma oder Wasser und Elektrolyte verloren gehen. Der Verlust kann jeweils nach innen und/oder nach außen erfolgen, siehe {ref}`Tafel-UebersichtUrsachenFluessigkeitsverlustSchock`. Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu 20% des Blutvolumens gut kompensiert werden. Auf größere Verluste folgt ein Absinken von Herzauswurf und RR!
 
 (tafel-uebersichtursachenfluessigkeitsverlustschock)=
 
@@ -340,21 +298,12 @@ Herzauswurf und RR!
 
 ## Kardiogener Schock
 
-**Schock infolge mangelndem Herzauswurfes
-durch insuffiziente Pumpleistung.**
+**Schock infolge mangelndem Herzauswurfes durch insuffiziente Pumpleistung.**
 
-Zu einem kardiogenen Schock kann es
-bei einem *akut auftretenden Herzversagen*,
-z. B. durch einem akuten *Myokardinfarkt* (häufigste Ursache) oder *Herzrhythmusstörungen*,
-kommen.
-Die *Lungenembolie* als Auslöser eines Schocks wird auch zum
-kardiogenen Schock gerechnet, da es durch die Verstopfung des kleinen
-Kreislaufes zu einer mangelhaften Füllung des Herzens und damit zu einer
-mangelhaften Auswurfleistung kommt.
+Zu einem kardiogenen Schock kann es bei einem *akut auftretenden Herzversagen*, z. B. durch einem akuten *Myokardinfarkt* (häufigste Ursache) oder *Herzrhythmusstörungen*, kommen.
+Die *Lungenembolie* als Auslöser eines Schocks wird auch zum kardiogenen Schock gerechnet, da es durch die Verstopfung des kleinen Kreislaufes zu einer mangelhaften Füllung des Herzens und damit zu einer mangelhaften Auswurfleistung kommt.
 Typisch ist ein Blutdruckabfall.
-Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem
-bei Linksherzversagen, Beinödeme und gestaute Halsvenen bei
-Rechtsherzversagen).
+Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem bei Linksherzversagen, Beinödeme und gestaute Halsvenen bei Rechtsherzversagen).
 Häufig klagen die Patienten über *Atemnot*.
 
 (schockanaphylaktischer)=
@@ -363,16 +312,10 @@ Häufig klagen die Patienten über *Atemnot*.
 
 ## Anaphylaktischer Schock
 
-**Schock aufgrund einer überschießenden
-allergischen Reaktion – "Allergischer Schock".**
+**Schock aufgrund einer überschießenden allergischen Reaktion – "Allergischer Schock".**
 
-Ein anaphylaktischer
-Schock wird durch eine überschießende Reaktion der Körperabwehr
-(Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den
-Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich
-steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versackt und es
-kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der
-Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
+Ein anaphylaktischer Schock wird durch eine überschießende Reaktion der Körperabwehr
+(Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versackt und es kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 
 - Pollen
 - Medikamente, Antibiotika
@@ -422,46 +365,25 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
 ## Septischer Schock und Toxischer Schock
 
-**Schock infolge
-einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße
-beeinflussenden, Giftstoffes (Toxins).**
+**Schock infolge einer schweren, körperweiten Infektion oder aufgrund eines, die Gefäße beeinflussenden, Giftstoffes (Toxins).**
 
 Siehe auch Thema
 {ref}`Sepsis`.
-Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine
-verursacht.
-Die Erreger können auf unterschiedliche Wege in die Blutbahn
-gelangen.
-Oft liegt ein chronischer Entzündungsherd vor,
-von dem aus Keime in die Blutbahn streuen.
-Mit Keimen besiedelte und im Körper gelegene Fremdkörper,
-darunter fallen auch medizinische Materialien wie
-lang liegende Venenverweilkanülen, Harnkatheter u. ä.,
-aber auch Hygieneartikel wie vergessene Tampons,
-sind ideale Brutstätten,
-da hier das Immunsystem des Körpers keinen Zugang hat.
+Ein septisch-/toxischer Schock wird durch diverse Bakterien und Toxine verursacht.
+Die Erreger können auf unterschiedliche Wege in die Blutbahn gelangen.
+Oft liegt ein chronischer Entzündungsherd vor, von dem aus Keime in die Blutbahn streuen.
+Mit Keimen besiedelte und im Körper gelegene Fremdkörper, darunter fallen auch medizinische Materialien wie lang liegende Venenverweilkanülen, Harnkatheter u. ä., aber auch Hygieneartikel wie vergessene Tampons, sind ideale Brutstätten, da hier das Immunsystem des Körpers keinen Zugang hat.
 
-Durch die bakterielle oder toxische Gefäßwandschädigung kommt es zum
-Flüssigkeitsaustritt in den Zwischengewebsraum sowie zu
-Gefäßweitstellung.
+Durch die bakterielle oder toxische Gefäßwandschädigung kommt es zum Flüssigkeitsaustritt in den Zwischengewebsraum sowie zu Gefäßweitstellung.
 Man kann die allgemeinen Schocksymptome wahrnehmen.
-Der Patient kann sowohl hohes oder auch kein Fieber haben,
-die Haut ist anfänglich heiß, trocken und rötlich, später ist sie eher bleich, grau
-oder sogar marmoriert.
+Der Patient kann sowohl hohes oder auch kein Fieber haben, die Haut ist anfänglich heiß, trocken und rötlich, später ist sie eher bleich, grau oder sogar marmoriert.
 
 ## Neurogener Schock
 
-**Schockzustand ausgelöst durch eine Unterbrechung oder Störung der
-nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater
-arterieller und venöser Gefäßerweiterung. (Vasodilatation)**
+**Schockzustand ausgelöst durch eine Unterbrechung oder Störung der nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater arterieller und venöser Gefäßerweiterung. (Vasodilatation)**
 
-Auch die
-Muskulatur der Blutgefäßwand wird mit Nerven versogrt, damit die Weite
-der Gefäße reguliert werden kann. Im Rahmen von Erkrankungen und
-Verletzungen kann diese nervale Versorgung unterbochen sein, in weiterer
-Folge weiten sich die betroffenen Gefäße und das Blut versackt.
-Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor,
-bei der das Rückenmark geschädigt bzw. unterbrochen wird
+Auch die Muskulatur der Blutgefäßwand wird mit Nerven versogrt, damit die Weite der Gefäße reguliert werden kann. Im Rahmen von Erkrankungen und Verletzungen kann diese nervale Versorgung unterbochen sein, in weiterer Folge weiten sich die betroffenen Gefäße und das Blut versackt.
+Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor, bei der das Rückenmark geschädigt bzw. unterbrochen wird
 (*Querschnitt-Syndrom*).
 
 :::{note}

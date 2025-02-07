@@ -1,25 +1,10 @@
 # Einführung
 
-Ziel des Einschätzungsblocks ist das rasche Erkennen einer vitalen
-Bedrohung, Überblick zu gewinnen und Hauptbeschwerden/Leitsymptome zu
-ermitteln.
-Das Modell
-folgt dem Grundsatz *"Treat first what kills first"* und die
-traditionelle Reihenfolge "Atemwege – Atmung – Kreislauf" wird natürlich
-beibehalten.
-Diese Interpretation des ABCDE-Models ermöglicht
-einer geradlinigen Struktur zu folgen,
-welche dennoch genügend Freiraum für spezielle
-Situationen bietet und als **Screening** für die wichtigsten vital
-bedrohlichen Erkrankungen (und Verletzungen) geeignet ist.
-Der Einschätzungsblock ist eine Einheit und folgt einem
-durchgängigen Schema,
-bei dem die Aktionen flüssig nacheinander
-abgearbeitet und nur durch Sofortmaßnahmen unterbrochen werden.[^footnote-1]
-Der Einschätzungsblock muss in regelmäßigen Abständen sowie
-bei Verdacht in angemessenem Umfang wiederholt werden,
-um eine
-Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
+Ziel des Einschätzungsblocks ist das rasche Erkennen einer vitalen Bedrohung, Überblick zu gewinnen und Hauptbeschwerden/Leitsymptome zu ermitteln.
+Das Modell folgt dem Grundsatz *"Treat first what kills first"* und die traditionelle Reihenfolge "Atemwege – Atmung – Kreislauf" wird natürlich beibehalten.
+Diese Interpretation des ABCDE-Models ermöglicht einer geradlinigen Struktur zu folgen, welche dennoch genügend Freiraum für spezielle Situationen bietet und als **Screening** für die wichtigsten vital bedrohlichen Erkrankungen (und Verletzungen) geeignet ist.
+Der Einschätzungsblock ist eine Einheit und folgt einem durchgängigen Schema, bei dem die Aktionen flüssig nacheinander abgearbeitet und nur durch Sofortmaßnahmen unterbrochen werden.[^footnote-1]
+Der Einschätzungsblock muss in regelmäßigen Abständen sowie bei Verdacht in angemessenem Umfang wiederholt werden, um eine Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
 
 [^footnote-1]: Primary- und Secondary Survey:
     Es wird formal *nicht* zwischen einer
@@ -37,14 +22,7 @@ Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
     Unterscheidung der Primary- und Secondary Survey bewusst
     verzichtet.
 
-Das ABCDE-Schema bzw. der Geringschätzung **①—Ⓔ**
-dient der Erkennung von vital bedrohten Patienten und dem
-Erkennen von Hauptbeschwerden und Leitsymptomen,
-*es deckt nicht
-sämtliche mögliche Untersuchungen ab!*
-Weiterführende Untersuchungen und
-Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock
-nach Bedarf durchgeführt.[^footnote-2]
+Das ABCDE-Schema bzw. der Geringschätzung **①—Ⓔ** dient der Erkennung von vital bedrohten Patienten und dem Erkennen von Hauptbeschwerden und Leitsymptomen, *es deckt nicht sämtliche mögliche Untersuchungen ab!* Weiterführende Untersuchungen und Anamneseschritte bzw. Maßnahmen werden *nach* dem Einschätzungsblock nach Bedarf durchgeführt.[^footnote-2]
 
 [^footnote-2]: Was ist mit der General Impression?: Traditionell werden einige
     Punkte vor dem Beginn des ABCDE-Blocks im Rahmen einer *General
@@ -63,15 +41,7 @@ nach Bedarf durchgeführt.[^footnote-2]
     simplen,
     alten *BAK-Schema* (Bewusstsein, Atmung, Kreislauf).
 
-Die angegebenen Maßnahmen stellen grundsätzlich nur (häufige) Beispiele
-dar.
-Eine umfassende Aufzählung aller möglichen Sofortmaßnahmen würde
-den Rahmen sprengen und wäre sehr unübersichtlich.
-Außerdem führt eine
-taxative Aufzählung zu einer Einschränkung der Flexibilität von
-besonders qualifiziertem Personal.
-Weiters müssen Maßnahmen immer
-**situationsgerecht** sein,
-und können aufgrund der Vielzahl an Variablen
-nicht starr in Form von Standard Operating Procedures (SOP)
-festgeschrieben werden.
+Die angegebenen Maßnahmen stellen grundsätzlich nur (häufige) Beispiele dar.
+Eine umfassende Aufzählung aller möglichen Sofortmaßnahmen würde den Rahmen sprengen und wäre sehr unübersichtlich.
+Außerdem führt eine taxative Aufzählung zu einer Einschränkung der Flexibilität von besonders qualifiziertem Personal.
+Weiters müssen Maßnahmen immer **situationsgerecht** sein, und können aufgrund der Vielzahl an Variablen nicht starr in Form von Standard Operating Procedures (SOP) festgeschrieben werden.

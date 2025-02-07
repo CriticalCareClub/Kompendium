@@ -1,35 +1,27 @@
 # Peripheres Nervensystem (PNS)
 
 :::{admonition} Defintion
+
 Unter dem Begriff {dfn}`Peripheres Nervensystem`
-{index}` <! Peripheres Nervensystem>` fasst man
-die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
+{index}` <! Peripheres Nervensystem>` fasst man die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 :::
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
 :width: 70%
 
-Das zentrale Nervensystem (grau) und davon abgehende periphere
-Nerven (gelb)
+Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-Das periphere Nervensystem ist für die *Weiterleitung von Informationen*
-und Impulsen *von* und *zu* den Endorganen zuständig und dient somit der
-*Kommunikation* zwischen dem zentralen Nervensystem und den peripheren
-Organen.
-Es werden dabei Informationen in *beide Richtungen* übertragen,
-d. h. vom ZNS zu den Organen
+Das periphere Nervensystem ist für die *Weiterleitung von Informationen* und Impulsen *von* und *zu* den Endorganen zuständig und dient somit der *Kommunikation* zwischen dem zentralen Nervensystem und den peripheren Organen.
+Es werden dabei Informationen in *beide Richtungen* übertragen, d. h. vom ZNS zu den Organen
 (*"ZNS → Handmuskulatur: Leg’ dich auf die Herdplatte"*)
 und von den Organen zum ZNS
 (*"Hautnerven der Hand → ZNS: Heiß!"*).
-Zum peripheren
-Nervensystem gehören alle peripheren Nerven.
+Zum peripheren Nervensystem gehören alle peripheren Nerven.
 
-Es besteht aus den Spinalnerven und den
-dazugehörigen Ganglien (*sensibel und vegetativ*). Jeder Spinalnerv
-teilt sich nach Austritt aus der Wirbelsäule in vier Äste:
+Es besteht aus den Spinalnerven und den dazugehörigen Ganglien (*sensibel und vegetativ*). Jeder Spinalnerv teilt sich nach Austritt aus der Wirbelsäule in vier Äste:
 
 - *ventraler Ast* (R. ventralis): sensible und motorische Versorgung
   des übrigen Rumpfes und der Gliedmaßen.
@@ -39,8 +31,7 @@ teilt sich nach Austritt aus der Wirbelsäule in vier Äste:
   Rückens - Haut und autochtone Rückenmuskulatur.
 - *sympathischer Ast* (R. communicans)
 
-Die peripheren (nicht-vegetativen) Nerven sammeln sich für die
-Extremitäten in *vier Plexus*:
+Die peripheren (nicht-vegetativen) Nerven sammeln sich für die Extremitäten in *vier Plexus*:
 
 - Plexus cervicalis (C1-C4):
 
@@ -66,9 +57,7 @@ Extremitäten in *vier Plexus*:
   - Motorische Versorgung der Mm. glutei, der hinteren Oberschenkelmuskulatur, des Unterschenkels und des Fußes
   - wichtigste Nerven: N. ischiadicus, N. tibialis, N. fibularis (peronaeus)
 
-Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten
-peripheren Nerven und nur die Hirnnerven III-XII echte periphere Nerven
-sind:
+Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten peripheren Nerven und nur die Hirnnerven III-XII echte periphere Nerven sind:
 
 :::{list-table} Hirnnerven
 :stub-columns: 1
@@ -128,23 +117,18 @@ sind:
 ::::
 
 *Motorische Nerven* sorgen dafür, dass ein
-"Bewegungswunsch" in den entsprechenden Muskeln ankommt. Auf das
-Nervensignal hin kommt es zur Kontraktion des Muskels.
+"Bewegungswunsch" in den entsprechenden Muskeln ankommt. Auf das Nervensignal hin kommt es zur Kontraktion des Muskels.
 
-*Sensorische Nerven* liefern dem Gehirn *Sinneseindrücke*. Diese können
-von den diversen Sinnesorganen kommen. So gehören Tastempfindungen,
-Temperaturempfindungen, Gerüche, Geschmacksempfindungen usw. dazu. Aber
-auch weniger offensichtliche Dinge, wie z. B. die Gelenksstellung gehören
-dazu.
+*Sensorische Nerven* liefern dem Gehirn *Sinneseindrücke*. Diese können von den diversen Sinnesorganen kommen. So gehören Tastempfindungen, Temperaturempfindungen, Gerüche, Geschmacksempfindungen usw. dazu. Aber auch weniger offensichtliche Dinge, wie z. B. die Gelenksstellung gehören dazu.
 
-*Vegetative Nerven* leiten Informationen des
-vegetativen Nervensystems ({ref}`vegetatives-nervensystem`).
+*Vegetative Nerven* leiten Informationen des vegetativen Nervensystems ({ref}`vegetatives-nervensystem`).
 
 ```{eval-rst}
 .. subfigstart::
 ```
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Spinalnerven-edited-00254pt.\*
+
 Vom Rückenmark (grau) gehen die peripheren Spinalnerven
 (gelb) ab.
 
@@ -152,17 +136,16 @@ Vom Rückenmark (grau) gehen die peripheren Spinalnerven
 :::
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/WS_Aufbau.\*
-Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere
-Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
-(türkis). Beachte dass die Nerven geordnet nach
-Rückenmarkssegmenten abgehen.
+
+Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
+(türkis). Beachte dass die Nerven geordnet nach Rückenmarkssegmenten abgehen.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
-Das zentrale Nervensystem (grau) und davon abgehende periphere
-Nerven (gelb)
+
+Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::

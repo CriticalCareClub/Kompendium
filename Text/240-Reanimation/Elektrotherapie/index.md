@@ -5,22 +5,16 @@
 
 # *Elektro*therapie
 
-Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit,
-welche über elektrische Reize koordiniert wird
+Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit, welche über elektrische Reize koordiniert wird
 (vgl. {ref}`Reizleitungssystem <reizleitungssystem>`).
-Ohne diese
-elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und
-somit zum Kreislaufstillstand.
-Oft ist eine Störung der elektrischen Herzaktivität
-bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
+Ohne diese elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und somit zum Kreislaufstillstand.
+Oft ist eine Störung der elektrischen Herzaktivität bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
 
 Bei bestimmten Herzrhythmen
-("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie,
-Kammerflimmern)
+("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie, Kammerflimmern)
 wird die Elektrotherapie angewendet, um den Rhythmus zu normalisieren. Man nennt diesen Vorgang
 {dfn}`elektrische Kardioversion`[^footnote-1].
-Ein Sonderfall ist die {dfn}`Defibrillation`,
-sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
+Ein Sonderfall ist die {dfn}`Defibrillation`, sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
 
 [^footnote-1]: Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
     kann auch mittels Medikamenten erfolgen.
@@ -67,8 +61,7 @@ Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstelle
 :::
 ::::
 
-Geräte für die Defibrillation werden
-**Defibrillator** (Abk. *Defi*)
+Geräte für die Defibrillation werden **Defibrillator** (Abk. *Defi*)
 genannt.
 Man unterscheidet dabei folgende Gerätekategorien:
 
@@ -111,12 +104,8 @@ Automatische implantierbare Defibrillatoren
   wenn sie eine defibrillationspflichtige
   Rhythmusstörung erkennen.
 
-Grundsätzlich kann eine Reanimation auch beim ALS mittels AED
-durchgeführt werden. Es empfiehlt sich jedoch, sofern möglich, in den
-manuellen Modus zu wechseln, wenn geeignetes Personal zur Verfügung
-steht.
-Dadurch kann die Analysezeit drastisch reduziert werden und auf
-außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
+Grundsätzlich kann eine Reanimation auch beim ALS mittels AED durchgeführt werden. Es empfiehlt sich jedoch, sofern möglich, in den manuellen Modus zu wechseln, wenn geeignetes Personal zur Verfügung steht.
+Dadurch kann die Analysezeit drastisch reduziert werden und auf außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-00943pt.\*
 :width: 100%
@@ -161,10 +150,8 @@ Multifunktionsmonitor mit integriertem Defibrillator
 :::
 ::::
 
-Die Defibrillation ist nicht bei jeder Herzrhythmusstörung
-sinnvoll.
-Man unterscheidet daher **schockbare** und **nicht-schockbare**
-Rhythmen:
+Die Defibrillation ist nicht bei jeder Herzrhythmusstörung sinnvoll.
+Man unterscheidet daher **schockbare** und **nicht-schockbare** Rhythmen:
 
 - **Schockbare** Rhythmen
 
@@ -188,10 +175,8 @@ Rhythmen:
     nicht mit einer adäquaten mechanischen Reaktion antwortet,
     d. h. trotz elektrischer Herzaktivität kein Herzauswurf erfolgt.
 
-Beim SAED übernimmt das Gerät die Beurteilung,
-ob ein elektrischer Herzrhythmus schockbar oder nicht-schockbar ist.
-Die Herzrhythmen werden
-im Kapitel {ref}`herzrhythmusstoerungen`, genauer besprochen.
+Beim SAED übernimmt das Gerät die Beurteilung, ob ein elektrischer Herzrhythmus schockbar oder nicht-schockbar ist.
+Die Herzrhythmen werden im Kapitel {ref}`herzrhythmusstoerungen`, genauer besprochen.
 
 ```{eval-rst}
 .. subfigstart::
@@ -215,9 +200,7 @@ Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena 
 :::{figure} /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
 :width: 100%
 
-Automatisierter Externer Defibrillator (AED) mit
-angeschlossenen Klebeelektroden für den
-Einmalgebrauch
+Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch
 
 \[WMC:Hborkyb, CC-BY-SA-2.5-US\]
 :::
@@ -245,8 +228,7 @@ Normsymbol "AED"
 
 ## Verwendung eines SAED
 
-Grundsätzlich ist jedes Gerät
-gemäß den *Gebrauchsanweisungen* des Herstellers zu verwenden.
+Grundsätzlich ist jedes Gerät gemäß den *Gebrauchsanweisungen* des Herstellers zu verwenden.
 Allgemein lässt sich jedoch sagen:
 
 1. Herzdruckmassage läuft
@@ -357,12 +339,8 @@ Allgemein lässt sich jedoch sagen:
 :::
 ::::
 
-Grundsätzlich ist jedes Gerät so zu verwenden,
-wie es der Hersteller in
-der *Bedienungsanleitung* vorschreibt.
-Manuelle Defibrillatoren sind meist Bestandteil eines
-Multifunktionsgerätes,
-welches oft zusätzliche umfangreiche
+Grundsätzlich ist jedes Gerät so zu verwenden, wie es der Hersteller in der *Bedienungsanleitung* vorschreibt.
+Manuelle Defibrillatoren sind meist Bestandteil eines Multifunktionsgerätes, welches oft zusätzliche umfangreiche
 Überwachungsmöglichkeiten bietet.
 
 Therapieelektroden

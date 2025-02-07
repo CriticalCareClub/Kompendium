@@ -132,8 +132,7 @@ Bei Transaminasen- oder Bilirubinanstieg unter Therapie, Therapieabbruch bei Üb
 
 ### Immunmodulatorisch: *Steroide*
 
-**Dexamethason** 6 mg / d i. v.: 1 × tgl. für 10 Tage
-bei *beatmungspflichtigen* bzw. *O₂-pflichtigen* Patienten +/- NIV
+**Dexamethason** 6 mg / d i. v.: 1 × tgl. für 10 Tage bei *beatmungspflichtigen* bzw. *O₂-pflichtigen* Patienten +/- NIV
 
 ## Medikamentöse Therapie
 
@@ -243,8 +242,7 @@ Der Eigenschutz bei {term}`CPR` hat Vorrang!
 
 **Patienten möglichst NIE vom Respirator diskonnektieren!**
 
-Falls dennoch notwendig: **Tubus abklemmen**,
-*Beatmung* am Gerät *stoppen!*
+Falls dennoch notwendig: **Tubus abklemmen**, *Beatmung* am Gerät *stoppen!*
 :::
 
 ```{eval-rst}
@@ -281,6 +279,7 @@ Falls dennoch notwendig: **Tubus abklemmen**,
 :::
 
 :::{figure} AN_AA_000050_V003.000.000_Therapieeskalation.\*
+
 Mögliche apparative Therapieeskalation bei akuter respiratorischer Insuffizeinz infolge COVID-19
 
 \[nach: [^cite_kluge-2020], modifiziert\]

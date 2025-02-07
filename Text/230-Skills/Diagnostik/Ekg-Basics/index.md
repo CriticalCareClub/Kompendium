@@ -3,12 +3,8 @@
 # EKG (Basics)
 
 Mittels der {dfn}`Elektrokardiographie` (**EKG**)
-wird die elektrische Aktivität des Herzens
-und damit des Reizbildungs- und leitungssystems
-in einem *Elektrokardiogramm* über die Zeit dargestellt.
-Dazu werden auf dem Körper nach einem
-bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels
-mit einem EKG-Gerät verbunden.
+wird die elektrische Aktivität des Herzens und damit des Reizbildungs- und leitungssystems in einem *Elektrokardiogramm* über die Zeit dargestellt.
+Dazu werden auf dem Körper nach einem bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels mit einem EKG-Gerät verbunden.
 
 ## EKG – Ablauf einer Erregung
 
@@ -22,14 +18,10 @@ mit einem EKG-Gerät verbunden.
 :::
 ::::
 
-Die einzelnen Abschnitte einer EKG-Kurve zeigen die Erregung der
-unterschiedlichen Teile des Erregungsleitungssystems
-*im Zeitverlauf* an.
+Die einzelnen Abschnitte einer EKG-Kurve zeigen die Erregung der unterschiedlichen Teile des Erregungsleitungssystems *im Zeitverlauf* an.
 Demenstsprechend kann man die EKG-Kurve in verschiedene Segmente teilen:
 Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
-Überleitung vom Vorhof in die Kammern (*AV-Überleitung*). Der
-*QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die
-*ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
+Überleitung vom Vorhof in die Kammern (*AV-Überleitung*). Der *QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die *ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
 
 ```{eval-rst}
 .. subfigstart::
@@ -56,8 +48,7 @@ Reizleitungssystem, Schema.
 `2`: AV-Knoten
 
 ₢ J. Heuser,
-basierend auf der Arbeit von
-Patrick J. Lynch, illustrator;
+basierend auf der Arbeit von Patrick J. Lynch, illustrator;
 C. Carl Jaffe MD, cardiologist,
 Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`
 :::
@@ -108,13 +99,8 @@ Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`
 ::::
 
 Je nach Position der Elektroden (und elektrischer Schaltung)
-unterscheiden sich die abgeleiteten elektrischen Herzströme. Um die
-elektrischen Herzströme aus verschiedenen Perspektiven in jeweils einer
-Kurve abzubilden und beurteilen zu können, diese Kurven jedoch zwischen
-verschiedenen Untersuchungen und Patienten vergleichbar zu machen, haben
-sich Standard-Elektrodenpositionen und *Standardableitungen* etabliert.
-Die gebräuchlichsten sind die Extremitätenableitungen und den
-Brustwandableitungen: [^footnote-1]
+unterscheiden sich die abgeleiteten elektrischen Herzströme. Um die elektrischen Herzströme aus verschiedenen Perspektiven in jeweils einer Kurve abzubilden und beurteilen zu können, diese Kurven jedoch zwischen verschiedenen Untersuchungen und Patienten vergleichbar zu machen, haben sich Standard-Elektrodenpositionen und *Standardableitungen* etabliert.
+Die gebräuchlichsten sind die Extremitätenableitungen und den Brustwandableitungen: [^footnote-1]
 
 - 6 Extremitätenableitungen:
 
@@ -147,33 +133,20 @@ Brustwandableitungen: [^footnote-1]
     | *Lateral*: I, aVL, V5, V6
     | *Dorsal*: V7—V9
     | *Rechtes Herz*: V3R—V6R
-    | 
+    |
 
 ## Extremitätenableitungen
 
-Die *Extremitätenableitungen* werden mittels vier
-Elektroden abgeleitet. Je eine Elektrode wird an den Enden der
-Extremitäten angebracht. Zur Vereinfachung können die Elektroden auch am
-Übergang vom Rumpf zu den Extremitäten angebracht werden (z. B. statt dem
-rechten Arm an der rechten Schulter). Wichtig ist, dass die horizontalen
-Elektrodenpärchen immer auf *gleicher Höhe* angebracht werden! Zu den
-Positionen der Elektroden siehe \[Table-ekg-elektroden-position\].
+Die *Extremitätenableitungen* werden mittels vier Elektroden abgeleitet. Je eine Elektrode wird an den Enden der Extremitäten angebracht. Zur Vereinfachung können die Elektroden auch am
+Übergang vom Rumpf zu den Extremitäten angebracht werden (z. B. statt dem rechten Arm an der rechten Schulter). Wichtig ist, dass die horizontalen Elektrodenpärchen immer auf *gleicher Höhe* angebracht werden! Zu den Positionen der Elektroden siehe \[Table-ekg-elektroden-position\].
 
-Aus den Informationen der *vier Elektroden* erzeugt das EKG-Gerät
-*sechs Ableitungen* (I, II, III, aVL, aVR und aVF).
+Aus den Informationen der *vier Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen* (I, II, III, aVL, aVR und aVF).
 
 ## Brustwandableitungen
 
-Die *Brustwandableitungen* werden mittels sechs
-Elektroden abgeleitet und erlauben eine genauere Zuordnung von Störungen
-zu der jeweiligen Region des Herzens. Aus den Informationen der *sechs
-Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen*:
+Die *Brustwandableitungen* werden mittels sechs Elektroden abgeleitet und erlauben eine genauere Zuordnung von Störungen zu der jeweiligen Region des Herzens. Aus den Informationen der *sechs Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen*:
 V1—V6. Zu den Positionen der Elektroden siehe
-{ref}`Table-ekg-elektroden-position`. Die *richtige Positionierung* der
-EKG-Elektroden ist Voraussetzung um ein sinnvoll auswertbares und den
-einzelnen Herzabschnitten zuordenbares EKG zu erstellen. Falsch
-angebrachte Elektroden können ein EKG derart verfälschen, dass es zu
-gravierenden Fehldiagnosen kommen kann. [^footnote-2]
+{ref}`Table-ekg-elektroden-position`. Die *richtige Positionierung* der EKG-Elektroden ist Voraussetzung um ein sinnvoll auswertbares und den einzelnen Herzabschnitten zuordenbares EKG zu erstellen. Falsch angebrachte Elektroden können ein EKG derart verfälschen, dass es zu gravierenden Fehldiagnosen kommen kann. [^footnote-2]
 
 [^footnote-2]: EKG, Positionierung der EKG-Elektroden: Zum Beispiel Rahmen einer
     Akut-Angiographie im Zuge eines Myokardinfarktes sind die
@@ -187,9 +160,9 @@ gravierenden Fehldiagnosen kommen kann. [^footnote-2]
 (figure-corpuls3)=
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-01445pt.\*
+
 Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
-Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit
-SAED-Funktion (Corpuls:sup:`3`)
+Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit SAED-Funktion (Corpuls:sup:`3`)
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::

@@ -3,7 +3,7 @@
 # Neurocheck
 
 Der {dfn}`Neurocheck` ist eine einfache, überblickshafte
-("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.\*\*
+("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.
 Teile des Neurochecks werden während des Einschätzungsblockes
 ({ref}`einschaetzungsblock`) durchgeführt.
 

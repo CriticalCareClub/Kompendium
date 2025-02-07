@@ -4,15 +4,10 @@
 
 # Beurteilung `=`
 
-Die *Einschätzung der vitalen Bedrohung* erfolgt *ständig*
-während des
-gesamten Einschätzungsblocks.
-Ein Patient kann jederzeit anhand der
-Alarmzeichen für *vital bedroht* erklärt werden.
+Die *Einschätzung der vitalen Bedrohung* erfolgt *ständig* während des gesamten Einschätzungsblocks.
+Ein Patient kann jederzeit anhand der Alarmzeichen für *vital bedroht* erklärt werden.
 
-Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf
-mögliche Diagnosen und kann meist eine vorläufige *Verdachtsdiagnose*
-formulieren
+Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf mögliche Diagnosen und kann meist eine vorläufige *Verdachtsdiagnose* formulieren
 (*"Was ist das Problem des Patienten?"*).
 
 :::{only} html
@@ -65,9 +60,7 @@ Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
   eine Beckenfraktur
   usw.
 
-Während des weiteren Behandlungsverlaufs kann man auf weitere Befunde
-oder Fakten stoßen,
-welche auf eine vitale Bedrohung hinweisen.
+Während des weiteren Behandlungsverlaufs kann man auf weitere Befunde oder Fakten stoßen, welche auf eine vitale Bedrohung hinweisen.
 
 - Sobald eine vitale Bedrohung erkannt wird,
   müssen die
@@ -85,14 +78,10 @@ welche auf eine vitale Bedrohung hinweisen.
 
 ## Sofortmaßnahmen
 
-Sofortmaßnahmen
-müssen bei Bedarf sofort ergriffen werden und unterbrechen evtl.
+Sofortmaßnahmen müssen bei Bedarf sofort ergriffen werden und unterbrechen evtl.
 den Einschätzungsblock.
-Sie können jedoch auch von einer zweiten Person
-parallel durchgeführt werden.
-Wenn die jeweiligen Sofortmaßnahmen
-durchgeführt wurden,
-wird der Block fortgesetzt.
+Sie können jedoch auch von einer zweiten Person parallel durchgeführt werden.
+Wenn die jeweiligen Sofortmaßnahmen durchgeführt wurden, wird der Block fortgesetzt.
 Typische Sofortmaßnahmen sind z. B.
 
 - Maßnahmen des Selbst- oder Fremdschutzes (Retten aus dem
@@ -173,24 +162,14 @@ Reihenfolge zählt!
 
 ## Vorgezogene Transportentscheidung bei absolut zeitkritischen Patienten
 
-Bei **absolut zeitkritischen Patienten**,
-bei denen bereits die `ABC`-Einschätzung
-ergibt,
-dass ein Transport nicht aufschiebbar ist,
-kann schon **nach Ⓒ**
-**eine Transportentscheidung**
-(Spital, Notarzt-Rendez-vous, …,
-vgl. {ref}`PamStrategie`)
+Bei **absolut zeitkritischen Patienten**, bei denen bereits die `ABC`-Einschätzung ergibt, dass ein Transport nicht aufschiebbar ist, kann schon **nach Ⓒ** **eine Transportentscheidung**
+(Spital, Notarzt-Rendez-vous, …, vgl. {ref}`PamStrategie`)
 getroffen werden.
-Die Maßnahmen von Ⓓ und Ⓔ sollen dann,
-sofern möglich,
-während des Transportes erfolgen.
-Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung voraus und ist auch
-*von regionalen Gegebenheiten abhängig!*
+Die Maßnahmen von Ⓓ und Ⓔ sollen dann, sofern möglich, während des Transportes erfolgen.
+Diese Einschätzung setzt jedoch ein hohes Maß an Erfahrung voraus und ist auch *von regionalen Gegebenheiten abhängig!*
 
 Beispiele für ein solches Vorgehen wären z. B.
-nicht beherrschbare starke
-Blutungen oder geburtsunmögliche Lagen.
+nicht beherrschbare starke Blutungen oder geburtsunmögliche Lagen.
 
 - **Im Ausnahmefall schon nach Ⓒ Strategie- und
   Zielentscheidung**
@@ -198,23 +177,15 @@ Blutungen oder geburtsunmögliche Lagen.
 
 ## Nicht vital bedrohte Patienten
 
-Auch bei nicht vital bedrohten Patienten können Sofortmaßnahmen
-ergriffen werden (z. B. Lagerung).
-Es muss individuell überlegt werden,
-welche Maßnahmen zuerst zu treffen sind und welche warten können.
+Auch bei nicht vital bedrohten Patienten können Sofortmaßnahmen ergriffen werden (z. B. Lagerung).
+Es muss individuell überlegt werden, welche Maßnahmen zuerst zu treffen sind und welche warten können.
 
 ## Eine Re-Evaluation (Verlaufskontrolle) muss regelmäßig durchgeführt werden
 
 Der Einschätzungsblock inkl.
-der Strategieentscheidung muss *regelmäßig
-während der Betreuung* bzw.
-während des Transports – in angemessenem
-Umfang – *wiederholt werden*,
-um eine Verschlechterung des
-Patientenzustandes rechtzeitig zu erkennen.
-Dies beinhaltet sowohl eine *Verlaufskontrolle*,
-als auch notwendige Änderungen in der Behandlung
-und der Strategie.[^fn-reevaluation]
+der Strategieentscheidung muss *regelmäßig während der Betreuung* bzw.
+während des Transports – in angemessenem Umfang – *wiederholt werden*, um eine Verschlechterung des Patientenzustandes rechtzeitig zu erkennen.
+Dies beinhaltet sowohl eine *Verlaufskontrolle*, als auch notwendige Änderungen in der Behandlung und der Strategie.[^fn-reevaluation]
 
 [^fn-reevaluation]: Einschätzungsblock:
     Regelmäßge, angepasste Wiederholung:

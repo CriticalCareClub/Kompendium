@@ -2,10 +2,8 @@
 
 ## Störungen des Immunsystems
 
-Störungen des Immunsystems können sowohl zu einer Überfunktion, als auch
-zu einer Insuffizienz führen.
-Exemplarisch seien hier
-knochenmarkschädigende Therapien und Allergien ausgeführt:
+Störungen des Immunsystems können sowohl zu einer Überfunktion, als auch zu einer Insuffizienz führen.
+Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgeführt:
 
 - *Knochenmarkschädigende Therapien*:
   Einige medizinische Behandlungsmethoden verursachen
@@ -36,117 +34,60 @@ knochenmarkschädigende Therapien und Allergien ausgeführt:
 
 ### Grippe
 
-Die {dfn}`Grippe` {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch
-Viren verursachte Infektionskrankheit.
-Sie ist eine *virale*
-Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper
-sehr belastend sein kann und einen sehr schweren Verlauf nehmen und auch
-tödlich enden kann. Gefürchtet sind *Komplikationen* wie Lungen- oder
-Herzmuskelentzündungen oder weitere (Folge-)Infektionen. Besonders
-gefährdet sind ältere und immunsupprimierte Personen.
+Die {dfn}`Grippe` {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch Viren verursachte Infektionskrankheit.
+Sie ist eine *virale* Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper sehr belastend sein kann und einen sehr schweren Verlauf nehmen und auch tödlich enden kann. Gefürchtet sind *Komplikationen* wie Lungen- oder Herzmuskelentzündungen oder weitere (Folge-)Infektionen. Besonders gefährdet sind ältere und immunsupprimierte Personen.
 
-Die Grippe tritt besonders in der kalten Jahreszeit, meistens als
-*Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie
-kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
+Die Grippe tritt besonders in der kalten Jahreszeit, meistens als *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
 (1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote)[^footnote-1].
 
 [^footnote-1]: <http://de.wikipedia.org/wiki/Influenza>
 
-In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza,
-ca. 4 500 Personen müssen stationär behandelt werden und ca. 120
-Personen sterben an den Folgen .
+In Österreich erkranken pro Jahr ca. 380.000 Personen an der Influenza, ca. 4 500 Personen müssen stationär behandelt werden und ca. 120 Personen sterben an den Folgen .
 
 #### Symptome
 
-Typisch für die Grippe ist das *rasche, hohe Anfiebern (38—40°C) mit Schüttelfrost, Kopf-, Hals-, Muskel- und
-Gelenksschmerzen, Husten und stark reduziertem Allgemeinzustand*, sowie
-lang dauernde Abgeschlagenheit nach Ende der Erkrankung. Bei schon
-vorher geschwächten Patienten kann der Verlauf weniger spektakulär
-aussehen (z. B. kaum Fieber), das Risiko einer Komplikation ist
-allerdings natürlich höher.
+Typisch für die Grippe ist das *rasche, hohe Anfiebern (38—40°C) mit Schüttelfrost, Kopf-, Hals-, Muskel- und Gelenksschmerzen, Husten und stark reduziertem Allgemeinzustand*, sowie lang dauernde Abgeschlagenheit nach Ende der Erkrankung. Bei schon vorher geschwächten Patienten kann der Verlauf weniger spektakulär aussehen (z. B. kaum Fieber), das Risiko einer Komplikation ist allerdings natürlich höher.
 
 #### Wichtige Differentialdiagnosen
 
-Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf {ref}`Meningismus-Zeichen <meningismuszeichen>` geprüft werden.
+Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden und auf {ref}`Meningismus-Zeichen <meningismuszeichen>` geprüft werden.
 
 #### Stämme
 
-Grippeviren kommen in verschiedenen Stämmen (A, B, und C) vor,
-welche wiederum durch unterschiedliche Arten von Hämagglutinin (H) und
-Neuramidase (N) unterschieden werden. Dadurch kommen so klingende Namen
-wie "A(H5N1)" oder "A(H1N1)" zu Stande.
-Je nach Unterart verhalten sich die Viren
-anders und man beobachtet Unterschiede hinsichtlich der
-Ansteckungsgefahr, Schwere der Erkrankung usw.
+Grippeviren kommen in verschiedenen Stämmen (A, B, und C) vor, welche wiederum durch unterschiedliche Arten von Hämagglutinin (H) und Neuramidase (N) unterschieden werden. Dadurch kommen so klingende Namen wie "A(H5N1)" oder "A(H1N1)" zu Stande.
+Je nach Unterart verhalten sich die Viren anders und man beobachtet Unterschiede hinsichtlich der Ansteckungsgefahr, Schwere der Erkrankung usw.
 
 #### Schutzimpfung
 
-Gegen die Grippe wird eine *Schutzimpfung* angeboten. Sie basiert auf
-der *Voraussage*, welcher Stamm in der jeweils bevorstehenden
-Grippewelle vorherrschen wird. Sie wirkt daher nur für ein Jahr (eine
-Saison) und muss jede Saison wiederholt werden. Die Impfung bietet
-keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten
-und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
-(darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die
-Impfung hat einen schlechten Ruf,
-da Geimpfte häufig über Impfreaktionen
-wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
+Gegen die Grippe wird eine *Schutzimpfung* angeboten. Sie basiert auf der *Voraussage*, welcher Stamm in der jeweils bevorstehenden Grippewelle vorherrschen wird. Sie wirkt daher nur für ein Jahr (eine Saison) und muss jede Saison wiederholt werden. Die Impfung bietet keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
+(darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die Impfung hat einen schlechten Ruf, da Geimpfte häufig über Impfreaktionen wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
 {term}`🗎 Gallaher 2009` {term}`🗎 Cutler 2009` {term}`🗎 Peiris 2009` {term}`🗎 Wolf 2009`
 
 #### Schweinegrippe, Vogelgrippe
 
-Grippeviren befallen nicht nur den Menschen, auch (Wasser-)Vögel und
-andere Tiere erkranken an der Grippe. Normalerweise erfolgt keine
-Übertragung vom Tier zum Menschen. Überschreitet ein Erreger diese
-Grenze wird es gefährlich: Die Tierwelt beinhaltet dann einen nahezu
-unbegrenzten Vorrat an Keimen (Keimreservoir). Dieser kann praktisch
-nicht kontrolliert werden, schließlich lassen sich Zugvögel nicht so
-leicht unter Quarantäne stellen …
+Grippeviren befallen nicht nur den Menschen, auch (Wasser-)Vögel und andere Tiere erkranken an der Grippe. Normalerweise erfolgt keine
+Übertragung vom Tier zum Menschen. Überschreitet ein Erreger diese Grenze wird es gefährlich: Die Tierwelt beinhaltet dann einen nahezu unbegrenzten Vorrat an Keimen (Keimreservoir). Dieser kann praktisch nicht kontrolliert werden, schließlich lassen sich Zugvögel nicht so leicht unter Quarantäne stellen …
 
-Glücklicherweise entwickelten sich in letzter Zeit nur Viren, welche
-zwar vom Tier auf den Menschen und dann weiter auf den Menschen
-übertragbar waren, jedoch waren sie (bis jetzt) nicht übermäßig
-infektiös oder zeigten keinen besonders schweren Verlauf.
+Glücklicherweise entwickelten sich in letzter Zeit nur Viren, welche zwar vom Tier auf den Menschen und dann weiter auf den Menschen
+übertragbar waren, jedoch waren sie (bis jetzt) nicht übermäßig infektiös oder zeigten keinen besonders schweren Verlauf.
 
-Einerseits stellt der mögliche Übertragungsweg vom Tier auf den Mensch
-und von dort auf andere Menschen (*Tier-Mensch-Mensch-Übertragung*) eine
-ständige Gefahr dar. Andererseits ist das Risiko einer möglichen
-*Kreuzung* mit Stämmen, die sehr infektiös und schwer verlaufend sind,
-gefährlich. Dies kann passieren wenn ein Patient mit mehreren Stämmen
-gleichzeitig infiziert ist. Daher ist es wichtig die Infektionen so
-rasch als möglich einzudämmen.
+Einerseits stellt der mögliche Übertragungsweg vom Tier auf den Mensch und von dort auf andere Menschen (*Tier-Mensch-Mensch-Übertragung*) eine ständige Gefahr dar. Andererseits ist das Risiko einer möglichen *Kreuzung* mit Stämmen, die sehr infektiös und schwer verlaufend sind, gefährlich. Dies kann passieren wenn ein Patient mit mehreren Stämmen gleichzeitig infiziert ist. Daher ist es wichtig die Infektionen so rasch als möglich einzudämmen.
 
-Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf
-den Menschen in Mexiko im Frühjahr 2009
+Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf den Menschen in Mexiko im Frühjahr 2009
 ({dfn}`Schweinegrippe` {index}` <! Schweinegrippe>`).
-Der neue Stamm breitete sich sehr rasch um die ganze
-Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war
-jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders
-junge Menschen infiziert wurden.
+Der neue Stamm breitete sich sehr rasch um die ganze Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders junge Menschen infiziert wurden.
 
 ### Grippaler Infekt
 
-Die Verkühlung ist eine Infektion der oberen Luftwege mit Viren,
-allerdings mit anderen als bei der "echten Grippe" (Influenza). Die
-Symptome ähneln denen der Grippe, allerdings sind sie bei weitem nicht
-so stark ausgeprägt. Im Vordergrund stehen Halsschmerzen, Husten,
-rinnende oder verstopfte Nase und eine eher leicht erhöhte Temperatur.
-In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden,
-man spricht dann von einer *Nebenhöhlenentzündung*, welche oft
-langwierig und schmerzhaft sein kann. Im Nasenrachen mündet die
-*Ohrtrompete*[^footnote-2], die für den Druckausgleich des Ohres sorgt. Bei
-Verstopfung dieses Kanals kommt es zu einer Abflussbehinderung und somit
-zu einem Rückstau des Sekrets in das Mittelohr. Hierdurch kann es zu
-Ohrenschmerzen und einer Entzündung kommen.
+Die Verkühlung ist eine Infektion der oberen Luftwege mit Viren, allerdings mit anderen als bei der "echten Grippe" (Influenza). Die Symptome ähneln denen der Grippe, allerdings sind sie bei weitem nicht so stark ausgeprägt. Im Vordergrund stehen Halsschmerzen, Husten, rinnende oder verstopfte Nase und eine eher leicht erhöhte Temperatur.
+In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden, man spricht dann von einer *Nebenhöhlenentzündung*, welche oft langwierig und schmerzhaft sein kann. Im Nasenrachen mündet die *Ohrtrompete*[^footnote-2], die für den Druckausgleich des Ohres sorgt. Bei Verstopfung dieses Kanals kommt es zu einer Abflussbehinderung und somit zu einem Rückstau des Sekrets in das Mittelohr. Hierdurch kann es zu Ohrenschmerzen und einer Entzündung kommen.
 
 [^footnote-2]: (Tuba auditiva, Eustachische Röhre)
 
 #### Wichtige Differentialdiagnosen
 
-Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden
-und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
+Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
 
 (lungenentzuendung)=
 
@@ -155,15 +96,11 @@ und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
 ### Lungenentzündung (Pneumonie)
 
 Streng genommen ist die {dfn}`Lungenentzündung` {index}` <! Lungenentzündung>` *Term.*
-(*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den
-Symptomen eher die entzündliche Komponente im Vordergrund (Fieber,
-allgemeine Schwäche, …).
+(*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den Symptomen eher die entzündliche Komponente im Vordergrund (Fieber, allgemeine Schwäche, …).
 
 #### Ursachen
 
-Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch
-Bakterien, Viren oder Pilze[^footnote-3] oder eine chemische Schädigung,
-z. B.
+Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch Bakterien, Viren oder Pilze[^footnote-3] oder eine chemische Schädigung, z. B.
 als Folge einer Aspiration von Magensaft entstehen.
 
 Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
@@ -174,12 +111,8 @@ Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
 
 #### Symptome
 
-Die Symptome sind oft nicht charakteristisch, eine Diagnose kann meist
-erst im Krankenhaus gestellt werden. Der Patient hat oft einen
-*reduzierten Allgemeinzustand* und hustet, manchmal klagt er über eine
-leichte Atemnot. *Fieber* kann, muss aber nicht vorhanden sein.
-Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen
-kaum an.
+Die Symptome sind oft nicht charakteristisch, eine Diagnose kann meist erst im Krankenhaus gestellt werden. Der Patient hat oft einen *reduzierten Allgemeinzustand* und hustet, manchmal klagt er über eine leichte Atemnot. *Fieber* kann, muss aber nicht vorhanden sein.
+Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen kaum an.
 
 (ij18090c)=
 
@@ -200,48 +133,30 @@ kaum an.
 ### Tuberkulose
 
 Die {dfn}`Tuberkulose` {index}` <! Tuberkulose>`
-(*Abk.* {dfn}`Tbc` {index}` <! Tbc>`,
-*umgs.* Schwindsucht)
-ist eine bakterielle Erkrankung,
-welche praktisch
-alle Organe befallen kann.
-Der Verlauf wird vor allem davon bestimmt,
-welches Organ befallen ist
+(*Abk.* {dfn}`Tbc` {index}` <! Tbc>`, *umgs.* Schwindsucht)
+ist eine bakterielle Erkrankung, welche praktisch alle Organe befallen kann.
+Der Verlauf wird vor allem davon bestimmt, welches Organ befallen ist
 (Lunge, Skelett, Darm, Haut, Genitalien, ...).
-Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt
-vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt
-oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
+Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
-Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB,
-XDR-TB).
+Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB, XDR-TB).
 
 #### Symptome
 
-Es dominieren vor allem Allgemeinsymptome wie erhöhte Temperatur,
-Abgeschlagenheit, Nachtschweiß, Lymphknotenschwellung und Husten.
-Auffallend ist manchmal die Schwere des Hustens, Blutbeimengungen gelten
-als Alarmsignal. In der Anamnese ist mitunter eine bereits überstandene
-Tuberkulose erhebbar.
+Es dominieren vor allem Allgemeinsymptome wie erhöhte Temperatur, Abgeschlagenheit, Nachtschweiß, Lymphknotenschwellung und Husten.
+Auffallend ist manchmal die Schwere des Hustens, Blutbeimengungen gelten als Alarmsignal. In der Anamnese ist mitunter eine bereits überstandene Tuberkulose erhebbar.
 
 #### Offene Tuberkulose
 
-Wenn der Infektionsherd in der Lunge *Luftkontakt* hat, spricht man von
-der :
+Wenn der Infektionsherd in der Lunge *Luftkontakt* hat, spricht man von der :
 dfn:`Offenen Tuberkulose` {index}` <! Offenen Tuberkulose>`.
-Der Patient ist dann
-infektiös, eine Tröpfcheninfektion ist möglich. Die Verwendung von
-Schutzmasken ist anzuraten.
+Der Patient ist dann infektiös, eine Tröpfcheninfektion ist möglich. Die Verwendung von Schutzmasken ist anzuraten.
 
-Es ist äußerlich *nicht sicher erkennbar* ob der Patient an einer
-offenen oder geschlossenen Tuberkulose leidet. Bluthusten wäre
-allerdings ein deutlich Hinweiszeichen.
+Es ist äußerlich *nicht sicher erkennbar* ob der Patient an einer offenen oder geschlossenen Tuberkulose leidet. Bluthusten wäre allerdings ein deutlich Hinweiszeichen.
 
 #### Ansteckungsgefahr
 
-Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine
-Ansteckung von sonst gesunden und immunkompetenten Personal
-unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt
-erforderlich. [^footnote-4]
+Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckung von sonst gesunden und immunkompetenten Personal unwahrscheinlich. Für eine Ansteckung wäre ein ca. 8-stündiger Kontakt erforderlich. [^footnote-4]
 
 [^footnote-4]: National Institute for Clinical Excellence (NICE) Tuberculosis.
     National clinical Guideline for Diagnosis, management, prevention and
@@ -267,16 +182,9 @@ erforderlich. [^footnote-4]
 
 ### HIV und AIDS
 
-Das {dfn}`HI-Virus` {index}` <! HI-Virus>` befällt vor allem die Zellen des
-Abwehrsystems. Es vermehrt sich in ihnen, setzt sie außer Funktion und
-zerstört sie schließlich. Das körpereigene Abwehrsystem kann HIV nicht
-aus dem Körper entfernen, es kommt zu einer **Immunschwäche** {index}` <Immunschwäche>`.
+Das {dfn}`HI-Virus` {index}` <! HI-Virus>` befällt vor allem die Zellen des Abwehrsystems. Es vermehrt sich in ihnen, setzt sie außer Funktion und zerstört sie schließlich. Das körpereigene Abwehrsystem kann HIV nicht aus dem Körper entfernen, es kommt zu einer **Immunschwäche** {index}` <Immunschwäche>`.
 
-HIV verursacht das {dfn}`AIDS` {index}` <! AIDS>` (*Aquired Immune Deficiency
-Syndrom*, erworbenes Immunschwäche-Syndrom), welches die eigentliche
-Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem*
-zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und
-versterben kann:
+HIV verursacht das {dfn}`AIDS` {index}` <! AIDS>` (*Aquired Immune Deficiency Syndrom*, erworbenes Immunschwäche-Syndrom), welches die eigentliche Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem* zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und versterben kann:
 
 - *Infektionen* mit normalerweise harmlosen Erregern
 
@@ -285,45 +193,29 @@ versterben kann:
 
 - *Tumore*
 
-Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre
-nach der eigentlichen HIV-Infektion aus.
+Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre nach der eigentlichen HIV-Infektion aus.
 
-:::{figure} /Bilder/WikipediaPd/Niaid-hiv-virion-mod.\*
-Schema eines HI-Virus
+:::{figure} /Bilder/WikipediaPd/Niaid-hiv-virion-mod.\* Schema eines HI-Virus
 
 ₢ US National Institute of Health, {term}`ℓ PD` (USGov-HHS-NIH)
 :::
 
 #### Übertragung
 
-Übertragen wird das HI-Virus v. a. durch Körperflüssigkeiten wie Blut,
-Blutprodukte, Sperma und Scheidensekret, Liquor oder Muttermilch.
-*"Ungeschützter Sex"*, Transfusionen und *Nadelstichverletzungen* gelten
-als klassische Risiken. Es erfolgt *keine Übertragung durch normale
-Sozialkontakte* wie Händeschütteln, wohnen im gemeinsamen Haushalt,
-gemeinsame Benutzung von Geschirr und Toilettenanlagen, etc.
+Übertragen wird das HI-Virus v. a. durch Körperflüssigkeiten wie Blut, Blutprodukte, Sperma und Scheidensekret, Liquor oder Muttermilch.
+*"Ungeschützter Sex"*, Transfusionen und *Nadelstichverletzungen* gelten als klassische Risiken. Es erfolgt *keine Übertragung durch normale Sozialkontakte* wie Händeschütteln, wohnen im gemeinsamen Haushalt, gemeinsame Benutzung von Geschirr und Toilettenanlagen, etc.
 
 #### Test
 
-Erst nach 6—12 Wochen sind Antikörper nachweisbar. Das
-bedeutet, dass der *HIV-Test nicht "aktuell", sondern "12 Wochen blind"*
-ist!
+Erst nach 6—12 Wochen sind Antikörper nachweisbar. Das bedeutet, dass der *HIV-Test nicht "aktuell", sondern "12 Wochen blind"* ist!
 
 #### Therapie
 
-Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche
-Lebensverlängerung* durch Medikamente erreicht werden, indem der
-Krankheitsausbruch (AIDS) verzögert wird.
+Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche Lebensverlängerung* durch Medikamente erreicht werden, indem der Krankheitsausbruch (AIDS) verzögert wird.
 
 #### Prophylaxe
 
-Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind
-ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die
-Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer
-Nadelstichverletzung kann innerhalb von zwei Stunden eine
-*Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei
-Sexualkontakten stellt die Verwendung von Kondomen einen effektiven,
-wenn auch keinen 100%-igen Schutz dar.
+Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer Nadelstichverletzung kann innerhalb von zwei Stunden eine *Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei Sexualkontakten stellt die Verwendung von Kondomen einen effektiven, wenn auch keinen 100%-igen Schutz dar.
 
 (hepatitis-toxisch)=
 
@@ -335,44 +227,25 @@ wenn auch keinen 100%-igen Schutz dar.
 
 Die {dfn}`Hepatitis`
 {index}` <Hepatitis>`
-ist eine Entzündung der Leber durch
-verschiedene Erreger oder durch schädigende Substanzen.
-Diese
-Entzündung kann durch Erreger wie Viren, oder Mikroorganismen
-hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch
-regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol,
-Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen)
-Entzündung führen. Auch ein länger bestehender Rückstau der
-Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu
-einer Entzündung führen.
+ist eine Entzündung der Leber durch verschiedene Erreger oder durch schädigende Substanzen.
+Diese Entzündung kann durch Erreger wie Viren, oder Mikroorganismen hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol, Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen)
+Entzündung führen. Auch ein länger bestehender Rückstau der Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu einer Entzündung führen.
 
-Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner
-Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht
-dann von der
+Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht dann von der
 {dfn}`chronischen Hepatitis`{index}` <Hepatitis; chronische>`.
 
 #### Symptome
 
-Die Symptomatik einer Hepatitis ist uncharakteristisch und eher
-allgemein: Unspezifisches mehr oder minder ausgeprägtes
-Krankheitsgefühl, ähnlich einem grippalen Infekt, Appetitlosigkeit. Auch
-erhöhte Körpertemperatur und Schmerzen im rechten Oberbauch kommen
-bisweilen vor. Die Leber ist oft vergrößert. Im fortgeschrittenen
-Stadium kann es zu einer *Gelbfärbung* des Augenweiß und einer
-gelblichen Verfärbung der Haut (*Ikterus*) kommen.
+Die Symptomatik einer Hepatitis ist uncharakteristisch und eher allgemein: Unspezifisches mehr oder minder ausgeprägtes Krankheitsgefühl, ähnlich einem grippalen Infekt, Appetitlosigkeit. Auch erhöhte Körpertemperatur und Schmerzen im rechten Oberbauch kommen bisweilen vor. Die Leber ist oft vergrößert. Im fortgeschrittenen Stadium kann es zu einer *Gelbfärbung* des Augenweiß und einer gelblichen Verfärbung der Haut (*Ikterus*) kommen.
 
-Bei einem chronischen Verlauf kommt es zu einem Umbau von
-funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht
-dann von der
+Bei einem chronischen Verlauf kommt es zu einem Umbau von funktionierendem Lebergewebe zu funktionslosem Bindegewebe. Man spricht dann von der
 {index}` <Leberzirrhose>`
 {ref}`Leberzirrhose <leberzirrhose>`.
-Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod
-kommen, da die Leber ein überlebenswichtiges Organ ist.
+Schließlich kann es zu einem Leberversagen und in kurzer Folge zum Tod kommen, da die Leber ein überlebenswichtiges Organ ist.
 
 #### Verschiedene Arten der viralen Hepatitis
 
-Abhängig vom jeweiligen Virus unterscheidet man verschiedene Arten der
-viralen Hepatitis:
+Abhängig vom jeweiligen Virus unterscheidet man verschiedene Arten der viralen Hepatitis:
 
 - *Hepatitis-A*: Hepatitis-A-Virus (HAV)
 
@@ -399,14 +272,10 @@ viralen Hepatitis:
 
 #### Impfung
 
-Für die Hepatitis A und B ist eine Impfung verfügbar (z. B. Twinrix™). Für
-die Hepatitis C ist derzeit noch keine Impfung regulär am Markt. Gegen
-die toxischen Formen der Hepatitis gibt es natürlich auch keine Impfung.
+Für die Hepatitis A und B ist eine Impfung verfügbar (z. B. Twinrix™). Für die Hepatitis C ist derzeit noch keine Impfung regulär am Markt. Gegen die toxischen Formen der Hepatitis gibt es natürlich auch keine Impfung.
 Achtung: Es gibt Non-Responder!
 
-Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt
-i. d. R. die Unfallversicherungsanstalt die Kosten für die
-Schutzimpfung.
+Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt i. d. R. die Unfallversicherungsanstalt die Kosten für die Schutzimpfung.
 
 ## Seltene, aber schwere Erkrankungen
 
@@ -416,30 +285,18 @@ Schutzimpfung.
 
 Die infektiöse
 {dfn}`Meningitis` {index}` <Meningitis>`
-ist eine Entzündung der
-Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
-Sie ist ist
-eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist, und
-andererseits rasch tödlich enden kann. Als Krankheitserreger treten
-zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle
-Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
+ist eine Entzündung der Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
+Sie ist ist eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist, und andererseits rasch tödlich enden kann. Als Krankheitserreger treten zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
 (meningismuszeichen)=
 
 #### Symptome
 
-Leitsymptome sind *Fieber*,
-*Nackensteifigkeit* (Meningismus) und *Lichtscheue*. Dies bezeichnet man
-als
+Leitsymptome sind *Fieber*, *Nackensteifigkeit* (Meningismus) und *Lichtscheue*. Dies bezeichnet man als
 {dfn}`Meningismuszeichen` {index}` <! Meningismuszeichen>`.
-Darüber hinaus kann es zu
-anderen unspezifischen Symptomen wie Kopfschmerzen, Übelkeit, Erbrechen,
-etc. kommen.
+Darüber hinaus kann es zu anderen unspezifischen Symptomen wie Kopfschmerzen, Übelkeit, Erbrechen, etc. kommen.
 
-Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen
-kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten
-Erreger sind die Meningokokken (Bakterien), man spricht dann von einer
-Meningokokken-Meningitis.
+Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten Erreger sind die Meningokokken (Bakterien), man spricht dann von einer Meningokokken-Meningitis.
 
 :::{danger}
 **Verwechslungsgefahr** mit grippalem Infekt!
@@ -470,13 +327,8 @@ Meningokokken-Meningitis.
 
 ### Wundstarrkrampf (Tetanus)
 
-Der Erreger des Wundstarrkrampfes[^footnote-5] kommt
-*überall in der Umgebung* ("ubiquitär") vor.
-Bei Verletzungen können durch Kontamination diese Sporen in die
-Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe*
-Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger
-produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der
-Skelettmuskulatur auslöst.
+Der Erreger des Wundstarrkrampfes[^footnote-5] kommt *überall in der Umgebung* ("ubiquitär") vor.
+Bei Verletzungen können durch Kontamination diese Sporen in die Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe* Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der Skelettmuskulatur auslöst.
 Die Inkubationszeit beträgt ca. 4–21 Tage.
 Erste Vorzeichen sind Müdigkeit und Inappetenz. {term}`🗎 HahnMikrobio 6`
 
@@ -484,16 +336,11 @@ Erste Vorzeichen sind Müdigkeit und Inappetenz. {term}`🗎 HahnMikrobio 6`
 
 #### Symptome
 
-Es kommt zu tonischen *Krämpfen der quergestreiften Muskulatur*, oft
-beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus
-sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge
-der Krämpfe eine *Atemlähmung*.
-Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert,
-trotzdem sterben noch etwa 20—30% der Tetanuserkrankten.
+Es kommt zu tonischen *Krämpfen der quergestreiften Muskulatur*, oft beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge der Krämpfe eine *Atemlähmung*.
+Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch etwa 20—30% der Tetanuserkrankten.
 Der Wert der Impfung ist daher nach wie vor groß.
 
-:::{figure} /Bilder/WikipediaPd/6373_lores_tetanus.\*
-Patient mit Tetanus
+:::{figure} /Bilder/WikipediaPd/6373_lores_tetanus.\* Patient mit Tetanus
 
 ₢ Public Health Image Library, ID#: 6373, {term}`ℓ PD`
 :::
@@ -502,24 +349,14 @@ Patient mit Tetanus
 
 #### Schutzimpfung
 
-Es existiert eine Schutzimpfung, diese muss
-dem Patienten *rechtzeitig* nach der Verletzung gegeben werden. Der
-Impfschutz beträgt normalerweise ca. *10 Jahre*, bei einer Verletzung
-wird sicherheitshalber allerdings schon bei einer *länger als 5 Jahre*
-zurückliegenden Impfung eine neuerliche Gabe verabreicht.
+Es existiert eine Schutzimpfung, diese muss dem Patienten *rechtzeitig* nach der Verletzung gegeben werden. Der Impfschutz beträgt normalerweise ca. *10 Jahre*, bei einer Verletzung wird sicherheitshalber allerdings schon bei einer *länger als 5 Jahre* zurückliegenden Impfung eine neuerliche Gabe verabreicht.
 
-Auch bei kleinen Verletzungen muss nach dem Impfschutz gefragt werden,
-dies muss auch unbedingt *dokumentiert werden!* Ist das Datum der
-letzten Impfung nicht sicher erinnerlich,
-soll der Patient unverzüglich zu Hause im Impfpass nachschauen.
+Auch bei kleinen Verletzungen muss nach dem Impfschutz gefragt werden, dies muss auch unbedingt *dokumentiert werden!* Ist das Datum der letzten Impfung nicht sicher erinnerlich, soll der Patient unverzüglich zu Hause im Impfpass nachschauen.
 Erforderlichenfalls soll der Patient unverzüglich eine Unfallabteilung aufsuchen.
 Die entsprechende Aufklärung muss am Revers bestätigt werden!
 
 :::{attention}
-Eine mangelhafte Aufklärung
-bzw. Dokumentation bezüglich Tetanus und
-dessen Impfschutz ist grob fahrlässig und ein
-Kunstfehler.
+Eine mangelhafte Aufklärung bzw. Dokumentation bezüglich Tetanus und dessen Impfschutz ist grob fahrlässig und ein Kunstfehler.
 :::
 
 ```{index} single: Sepsis
@@ -531,16 +368,8 @@ Kunstfehler.
 
 
 
-Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd
-gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien
-in den Kreislauf gelangen und zwar derart, dass dadurch
-Krankheitserscheinungen ausgelöst werden (Schottmüller 1914).
-Dabei
-kommt es zu einer gesteigerten Freisetzung von Stoffen des Entzündungs-,
-Gerinnungs- und Immunsystems, welche zu den unten angeführten Symptomen
-führt. Eine derartige Reaktion des Körpers ist auch ohne Infektion im
-Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich,
-z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
+Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien in den Kreislauf gelangen und zwar derart, dass dadurch Krankheitserscheinungen ausgelöst werden (Schottmüller 1914).
+Dabei kommt es zu einer gesteigerten Freisetzung von Stoffen des Entzündungs-, Gerinnungs- und Immunsystems, welche zu den unten angeführten Symptomen führt. Eine derartige Reaktion des Körpers ist auch ohne Infektion im Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich, z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
 Siehe auch: Septischer Schock und Toxischer Schock
 ({ref}`schock-septischer`).
 
@@ -564,63 +393,27 @@ Grundsätzlich:
 
 ### Ebola
 
-Die {dfn}`Ebola-Viruserkrankung`
-({dfn}`Ebola`,
-*engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
-ist eine seltene, schwere Infektionskrankheit,
-die durch Ebola-Viren verursacht wird.
+Die {dfn}`Ebola-Viruserkrankung` ({dfn}`Ebola`, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
+ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
 Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber!hämorrhagisches>` Fieber).
-Das Virus verursacht im ganzen Körper schwere
-Zell- und Gewebsschädigungen,
-davon sind auch die Blutgefäße betroffen.
-Je nach Virus-Typ verläuft die
-Erkrankung in 25—90% der Fälle tödlich. Es kommt
-immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März
-2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit
-auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf
-Teile von *Mali* ausbreitet.
+Das Virus verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon sind auch die Blutgefäße betroffen.
+Je nach Virus-Typ verläuft die Erkrankung in 25—90% der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.
 
 #### Übertragung
 
-Die Übertragung des Erregers erfolgt über *direkten* Kontakt mit Blut
-oder anderen *Körperflüssigkeiten* (z. B. Erbrochenes, Urin,
-Samenflüssigkeit) von lebenden oder toten an Ebola erkrankten Menschen.
-Ansteckungsgefahr besteht auch bei direktem Kontakt mit infizierten
-lebenden oder toten *Wildtieren*, insbesondere von Flughunden und
-Menschenaffen. Das Virus kann auch durch die Zubereitung und den Verzehr
-von rohem Fleisch wilder Tiere, sogenanntem *Buschfleisch*, vom Tier auf
-den Menschen übertragen werden. Heimische Wildtiere und Haustiere tragen
-keine Ebolaviren in sich. *Ansteckend sind nur Patienten mit Symptomen
-der Erkrankung*, Personen ohne Beschwerden sind nicht ansteckend. In der
-Samenflüssigkeit können die Viren jedoch noch bis zu drei Monate nach
-der Genesung enthalten sein. Ebola wird *nicht* durch die Luft oder
-durch Tröpfcheninfektion übertragen.
+Die Übertragung des Erregers erfolgt über *direkten* Kontakt mit Blut oder anderen *Körperflüssigkeiten* (z. B. Erbrochenes, Urin, Samenflüssigkeit) von lebenden oder toten an Ebola erkrankten Menschen.
+Ansteckungsgefahr besteht auch bei direktem Kontakt mit infizierten lebenden oder toten *Wildtieren*, insbesondere von Flughunden und Menschenaffen. Das Virus kann auch durch die Zubereitung und den Verzehr von rohem Fleisch wilder Tiere, sogenanntem *Buschfleisch*, vom Tier auf den Menschen übertragen werden. Heimische Wildtiere und Haustiere tragen keine Ebolaviren in sich. *Ansteckend sind nur Patienten mit Symptomen der Erkrankung*, Personen ohne Beschwerden sind nicht ansteckend. In der Samenflüssigkeit können die Viren jedoch noch bis zu drei Monate nach der Genesung enthalten sein. Ebola wird *nicht* durch die Luft oder durch Tröpfcheninfektion übertragen.
 
 #### Symptome
 
-Die Leitsymptome sind *hohes Fieber* (über 38,5°C) und später auch
-*Blutungen*, sowohl im Körper, als auch aus den Körperöffnungen. Die
-*Inkuationszeit* beträgt 2—21 Tage. Die ersten Beschwerden
-sind unspezifisch und ähneln einem grippalen Infekt: plötzliches hohes
-Fieber, Schüttelforst, Muskelschmerzen, Schwächegefühl, Kopf- und
-Halsschmerzen. Das nächste Stadium der Erkrankung ist gekennzeichnet
-durch Erbrechen, Durchfall, Ausschlag sowie Leber- und
-Nierenfunktionsstörungen. Patienten können auch starke innere und äußere
-Blutungen sowie Multiorganversagen aufweisen, dadurch endet die
-Krankheit oft tödlich.
+Die Leitsymptome sind *hohes Fieber* (über 38,5°C) und später auch *Blutungen*, sowohl im Körper, als auch aus den Körperöffnungen. Die *Inkuationszeit* beträgt 2—21 Tage. Die ersten Beschwerden sind unspezifisch und ähneln einem grippalen Infekt: plötzliches hohes Fieber, Schüttelforst, Muskelschmerzen, Schwächegefühl, Kopf- und Halsschmerzen. Das nächste Stadium der Erkrankung ist gekennzeichnet durch Erbrechen, Durchfall, Ausschlag sowie Leber- und Nierenfunktionsstörungen. Patienten können auch starke innere und äußere Blutungen sowie Multiorganversagen aufweisen, dadurch endet die Krankheit oft tödlich.
 
 #### EU-Falldefinition einer Ebola-Viruserkrankung
 
 Da die Symptome oft unspezifisch sind, ist die Anamnese sehr wichtig.
-Insbesonders ist zu erheben, ob der Patient in den letzten 21 Tagen ein
-Land, in welchem ein Ausbruch bekannt ist, besucht hat, bzw. Kontakt mit
-Ebola erkrankten oder verstorbenen Personen hatte.
+Insbesonders ist zu erheben, ob der Patient in den letzten 21 Tagen ein Land, in welchem ein Ausbruch bekannt ist, besucht hat, bzw. Kontakt mit Ebola erkrankten oder verstorbenen Personen hatte.
 
-Grundsätzlich beruht die Erkennung und Klassifizierung der Fälle auf
-klinischen und epidemiologischen Kriterien sowie auf Labor- und
-Hochrisikoexpositions-Kriterien. Diese Kriterien gestatten die
-Identifizierung von Personen, bei denen der Verdacht auf Ebola besteht,
-bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
+Grundsätzlich beruht die Erkennung und Klassifizierung der Fälle auf klinischen und epidemiologischen Kriterien sowie auf Labor- und Hochrisikoexpositions-Kriterien. Diese Kriterien gestatten die Identifizierung von Personen, bei denen der Verdacht auf Ebola besteht, bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 
 ```{rubric} Kriterien
 ```
@@ -708,8 +501,7 @@ bzw. die auf eine Ebola-Viruserkrankung untersucht werden sollen.
 
 {term}`🗎 BmgEbolaFalldefinition 20141028` {term}`🗎 BmgEbolaFactsheet 20141103`
 
-Eine aktualisierte Liste der betroffenen Gebiete ist auf der BMG- und
-ECDC-Website verfügbar unter:
+Eine aktualisierte Liste der betroffenen Gebiete ist auf der BMG- und ECDC-Website verfügbar unter:
 <http://ecdc.europa.eu/en/healthtopics/ebola_marburg_fevers/EVDcasedefinition/Pages/Ebola-affected-areas.aspx>
 
 (ia98041c)=

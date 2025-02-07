@@ -8,8 +8,8 @@
 # Herzinsuffizienz
 
 :::{admonition} Definition: Herzinsuffizienz
-Eine {dfn}`Herzinsuffizienz` bezeichnet eine unzureichende
-Auswurfleistung des Herzens, unabhängig von deren Ursache.
+
+Eine {dfn}`Herzinsuffizienz` bezeichnet eine unzureichende Auswurfleistung des Herzens, unabhängig von deren Ursache.
 :::
 
 Es sind viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind eher *chronischer* Natur.
@@ -23,13 +23,8 @@ Die Herzinsuffizienz ist definiert als Zustand, bei der das Herz nicht mehr in d
 Die häufigsten zugrundeliegenden Erkrankungen der Herzinsuffizienz sind:
 
 1. Koronare Herzerkrankung (häufigstes Grundleiden der Herzinsuffizienz in bis zu 75%)
-2. Arterielle Hypertonie
-3. Kardiomyopathien a. Dilatative Kardiomyopathie b. Hypertrophe Kardiomyopathie c. Restriktive Kardiomyopathie
-4. Klappenvitien
-5. Perikarderkrankungen
-6. Entzündliche Erkrankungen (z. B. Myokarditis)
-7. Stoffwechselstörungen (z. B. Hyperthyreose)s
-8. Toxische Wirkungen (z. B. Chemotherapeutika)
+2. Arterielle Hypertonie 3. Kardiomyopathien a. Dilatative Kardiomyopathie b. Hypertrophe Kardiomyopathie c. Restriktive Kardiomyopathie 4. Klappenvitien 5. Perikarderkrankungen 6. Entzündliche Erkrankungen (z. B. Myokarditis)
+7. Stoffwechselstörungen (z. B. Hyperthyreose)s 8. Toxische Wirkungen (z. B. Chemotherapeutika)
 9. Bradykarde/tachykarde Arrhythmien.
 
 ### Einteilung (Guidlines 2016):
@@ -46,10 +41,8 @@ Pathophysioloisch unterscheidet man eine Vor- und Rückwärtsversagen.
 
 ### Klinische Zeichen
 
-Rechtsherzinsuffizienz: Bein und Hautödeme, Halsvenenstauung, nächtliches Wasserlassen,
-Stauungsleber, Aszites, Appetitlosigkeit.
-Linksherzinsuffizienz: Dyspnoe/Lungenstauung/sitzende Schlafposition, Hustenreiz, Schwäche,
-hohe AF, Unruhe, Angst. (C/P: breites schlecht tonisiertes Herz mit Stauungszeichen)
+Rechtsherzinsuffizienz: Bein und Hautödeme, Halsvenenstauung, nächtliches Wasserlassen, Stauungsleber, Aszites, Appetitlosigkeit.
+Linksherzinsuffizienz: Dyspnoe/Lungenstauung/sitzende Schlafposition, Hustenreiz, Schwäche, hohe AF, Unruhe, Angst. (C/P: breites schlecht tonisiertes Herz mit Stauungszeichen)
 
 Nur selten findet sich im Rahmen der chronischen Entwicklungen eine isolierte Rechts-  oder Linksherzinsuffizienz. Vielmehr resultiert aus der Insuffizienz der in Reihe geschalteten Ventrikel eine Kombination der Symptome.
 Ebenfalls kann eine chronisch bestehende Linksherzinsuffizienz über einen pulmonalen Hochdruck zu einer Rechtsherzinsuffizienz führen und Symptome wie Hepatomegalie und periphere Ödeme in den Vordergrund stellen,die zusätzlich durch Aktivierung des Renin-Angiotensin-Systems noch verstärkt werden und so in eine Globalinsuffizienz münden.
@@ -139,8 +132,7 @@ Eine Aufnahme des Patienten auf eine Intensivstation oder eine perioperative An�
 :::
 
 
-Die Einteilung der Herzinsuffizienz kann nach dem betroffenen Herzteil
-oder der Fähigkeit des Körpers zur Kompensation erfolgen:
+Die Einteilung der Herzinsuffizienz kann nach dem betroffenen Herzteil oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 
 - Einteilung nach betroffenen *Herzteil*:
 
@@ -311,14 +303,9 @@ oder der Fähigkeit des Körpers zur Kompensation erfolgen:
 
 ## Maßnahmen: Akute dekompensierte Herzinsuffizenz
 
-Patienten mit
-Herzinsuffizienz und
-1234ABCDE-Problem
-oder Lungenödem mit brodelndem Atemgeräusch
-sind grundsätzlich als unmittelbar vital bedroht anzusehen.
+Patienten mit Herzinsuffizienz und 1234ABCDE-Problem oder Lungenödem mit brodelndem Atemgeräusch sind grundsätzlich als unmittelbar vital bedroht anzusehen.
 
-Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
-Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang. Bereits der Transport in das Fahrzeug kann gefährlich sein!
 
 ⛑ Basismaßnahmen
 : - Bewegungsverbot

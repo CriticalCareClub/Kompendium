@@ -2,32 +2,17 @@
 ```
 
 (schaufeltrage-handhabung)=
-
 (schaufeltrage-beschreibung)=
 
 # Schaufeltrage
 
-Die {dfn}`Schaufeltrage` wird primär für das *Umlagern* von liegenden Patienten
-mit dem Verdacht auf eine Verletzung
-der *Wirbelsäule*,
-des *Beckens*
-oder des *Oberschenkels*
-verwendet.
-Sie ermöglicht eine möglichst bewegungsfreie
-und schmerzarme Rettung bzw. Umlagerung. Das Anwendungsgebiet ist jedoch
-sehr vielfältig. Es reicht vom sicheren Transport in unwegsamem Gelände
-bis zum Retten aus einer LKW-Kabine.
+Die {dfn}`Schaufeltrage` wird primär für das *Umlagern* von liegenden Patienten mit dem Verdacht auf eine Verletzung der *Wirbelsäule*,
+des *Beckens* oder des *Oberschenkels* verwendet.
+Sie ermöglicht eine möglichst bewegungsfreie und schmerzarme Rettung bzw. Umlagerung. Das Anwendungsgebiet ist jedoch sehr vielfältig. Es reicht vom sicheren Transport in unwegsamem Gelände bis zum Retten aus einer LKW-Kabine.
 
-Letztendlich soll der Patient zwecks Schienung auf einer
-*Vakuummatratze* gelagert werden. Je nach Fabrikat kann der Patient
-jedoch auch direkt auf einer Schaufeltrage (ohne Verwendung einer
-Vakuummatratze) immobilisiert werden, dazu werden spezielle Gurte und
-Kopfstützen benötigt.
+Letztendlich soll der Patient zwecks Schienung auf einer *Vakuummatratze* gelagert werden. Je nach Fabrikat kann der Patient jedoch auch direkt auf einer Schaufeltrage (ohne Verwendung einer Vakuummatratze) immobilisiert werden, dazu werden spezielle Gurte und Kopfstützen benötigt.
 
-Die Schaufeltrage setzt sich aus 2 Längshälften zusammen; die Fußteile
-sind längenverstellbar. Die Kopfteile haben eine fixe Länge. Sollte der
-Patient größer als die Trage sein, müssen Kopf und Oberkörper auf jeden
-Fall trotzdem auf der Trage zu liegen kommen.
+Die Schaufeltrage setzt sich aus 2 Längshälften zusammen; die Fußteile sind längenverstellbar. Die Kopfteile haben eine fixe Länge. Sollte der Patient größer als die Trage sein, müssen Kopf und Oberkörper auf jeden Fall trotzdem auf der Trage zu liegen kommen.
 Ausnahme: Beinverletzung,
 bei der eine Wirbelsäulenverletzung ausgeschlossen werden kann.
 Die Schaufeltrage kann vielfältig eingesetzt werden:
@@ -39,8 +24,7 @@ Die Schaufeltrage kann vielfältig eingesetzt werden:
   ({ref}`schaufeltrage-immobilisation`)
 
 :::{note}
-Das {ref}`Spineboard <spineboard-beschreibung>` ist in vielen Fällen
-eine Alternative zur Schaufeltrage .
+Das {ref}`Spineboard <spineboard-beschreibung>` ist in vielen Fällen eine Alternative zur Schaufeltrage .
 :::
 
 (schaufeltrage-aufschaufeln)=
@@ -124,10 +108,7 @@ eine Alternative zur Schaufeltrage .
 
 ## Immobilisation auf der Schaufeltrage
 
-Auf manchen Schaufeltragen kann ein
-Patient direkt (ohne Vakuummatratze) immobilisiert werden. Die
-Immobilisation auf der Schaufeltrage wird jedoch nicht in allen
-Rettungsdienstbereichen empfohlen,
+Auf manchen Schaufeltragen kann ein Patient direkt (ohne Vakuummatratze) immobilisiert werden. Die Immobilisation auf der Schaufeltrage wird jedoch nicht in allen Rettungsdienstbereichen empfohlen,
 u. a. weil die aufnehmenden Spitäler i. d. R.
 nicht darauf vorbereitet sind (Tauschmaterial, …). [^footnote-2]
 
@@ -161,7 +142,6 @@ nicht darauf vorbereitet sind (Tauschmaterial, …). [^footnote-2]
    abweichen.
 
 :::{danger}
-Bevor der Kopf fixiert wird muss der Körper bereits verlässlich
-fixiert sein!
+Bevor der Kopf fixiert wird muss der Körper bereits verlässlich fixiert sein!
 Ansonsten kann es durch die Bewegung des Körpers bei fixiertem Kopf zu **massiven Verletzungen** der Halswirbelsäule kommen!
 :::

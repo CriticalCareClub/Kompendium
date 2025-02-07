@@ -7,16 +7,12 @@
 
 # Rettungskorsett
 
-Das Rettungskorsett wird primär für das Umlagern von sitzenden Patienten
-mit dem Verdacht auf eine Verletzung der Wirbelsäule verwendet. Am
-Kopfgriff des Korsetts kann, falls nötig, ein Kranhaken eingehängt
-werden.
-Das Rettungskorsett wird (ausser wenn es ausschließlich dazu
-verwendet wird, den Patienten zur Erleichterung der Rettung mit
-"Haltegriffen" auszustatten) gemeinsam mit einer *HWS-Schiene*
-verwendet.
+Das Rettungskorsett wird primär für das Umlagern von sitzenden Patienten mit dem Verdacht auf eine Verletzung der Wirbelsäule verwendet. Am Kopfgriff des Korsetts kann, falls nötig, ein Kranhaken eingehängt werden.
+Das Rettungskorsett wird (ausser wenn es ausschließlich dazu verwendet wird, den Patienten zur Erleichterung der Rettung mit
+"Haltegriffen" auszustatten) gemeinsam mit einer *HWS-Schiene* verwendet.
 
 :::{figure} /Bilder/WikipediaPd/KED.jpg
+
 Rettungskorsett
 
 \[Wikipedia: *"Onthost", PD*\]

@@ -16,8 +16,7 @@ Erhaltungsbedarf: 4ml/kg 1-10kg + 2ml/kg 10-20kg+1ml/kg\>20kg nach Holliday und 
 - Na  +  BZ-Kontrollen intra-  und postopertiv! Ein besonders hohes Risiko einer Hypoglykämie haben Kinder, welche präoperativ parenteral ernährt wurden, KG  \<  3kg, OP  \>  3h, daher stündliche BZ-Kontrollen!
 - \> 6 Monate isotone Lsg (Elomel)
 
-Klinische Zeichen einer Hypovolämie bei Säugling sind Tachykardie, verlängerte Rekapillarzeit, als spätes Zeichen Hypotension, metabolische Alkalose, eingefallene Fontanellen, Letargie. Ein erhöhter Bedarf besteht bei fieber, extremen Schwitzen,
-Verbrennungen.
+Klinische Zeichen einer Hypovolämie bei Säugling sind Tachykardie, verlängerte Rekapillarzeit, als spätes Zeichen Hypotension, metabolische Alkalose, eingefallene Fontanellen, Letargie. Ein erhöhter Bedarf besteht bei fieber, extremen Schwitzen, Verbrennungen.
 
 
 Intraoperative Verluste: Defizit + Erhaltungsdosis + intraoperative Verluste
@@ -28,16 +27,13 @@ Intraoperative Verluste: Defizit + Erhaltungsdosis + intraoperative Verluste
 Erhöhte ADH-Sekretion durch den chirurgischen Eingriff, Schmerzen, postoperative  Übelkeit mit Na und Wasserretention in der Niere.
 
 
-Gefahr der Hyponatriämie mit Hirnödem und respiratorischer Insuffizienz,
-und Hyperglykämie
+Gefahr der Hyponatriämie mit Hirnödem und respiratorischer Insuffizienz, und Hyperglykämie
 (ZNS Funktionsstörungen. Ein Blutzuckeranstieg um 100mg/dl senkt das Na um 1,6mval/l durch osmotische Wasserbindung)
-Bilanz: Kinder täglich abwiegen,
-Ein- und Ausfuhrtabelle, Kontrolle der Serumelektrolyte!!
+Bilanz: Kinder täglich abwiegen, Ein- und Ausfuhrtabelle, Kontrolle der Serumelektrolyte!!
 Kinder bei klarem Bewusstsein dürfen(wenn kein Einwand vom Operateur) sofort nach der OP klare Flüssigkeit trinken.
 
 Transfusionsindikation:
-normal 80ml/kg Blutvolumen; Blutverluste sollen sofort mit isotonen kristalloiden oder kolloiden Lösungen ausgeglichen werden. Eine EK-Gabe soll beim gesunden Kind, ohne weitere Blutung,
-erst \< 25HK erwogen werden.
+normal 80ml/kg Blutvolumen; Blutverluste sollen sofort mit isotonen kristalloiden oder kolloiden Lösungen ausgeglichen werden. Eine EK-Gabe soll beim gesunden Kind, ohne weitere Blutung, erst \< 25HK erwogen werden.
 - NG Hb\<13, 2 Monate Hb\<8, \>2Monate Hb\<7 = ca. HK 25, ab 2 Lj.
 Hk\<6 g/dl
 - 3ml/kg Erythrozytenkonzentrat hebt den Hb um 1g/dl!
@@ -53,8 +49,7 @@ Verbrauch (6ml/kg/min) mit kurzer Apnoe-Toleranz. Beim Säugling großes Abdomen
 FIO2: frühzeitig reduzieren: paO2 SGL 50-70, Kleinkind 60-80 mmHg!!!
 Wendeltubus: Länge von der Nase bis zum Tragus abmessen!
 Ursachen des schwierigen Atemwegs:
-Supraglottisch: FK, Mißbildungen, Blut, große Zunge =  Kopflagerung korregieren, Guedel-Tubus,
-Blut absaugen, ETT nasal, LMA, LT Glottisch: Laryngospasmus, FK, TU, Epiglottitis (inspiratorischer Stridor, Heiserkeit), weiche Epiglottis = dünner Tubus mit Eschmannkatheter/Cookstab, ETT nasal mit chir. Standby! Weiche Epiglottis kann mit PEEP offengehalten werden!
+Supraglottisch: FK, Mißbildungen, Blut, große Zunge =  Kopflagerung korregieren, Guedel-Tubus, Blut absaugen, ETT nasal, LMA, LT Glottisch: Laryngospasmus, FK, TU, Epiglottitis (inspiratorischer Stridor, Heiserkeit), weiche Epiglottis = dünner Tubus mit Eschmannkatheter/Cookstab, ETT nasal mit chir. Standby! Weiche Epiglottis kann mit PEEP offengehalten werden!
 Eine Obstruktion des Larynxeingangs in AN oder bei Laryngomalazie ist durch die Aryknorpel bedingt.
 
 Intubation: Tubus \> 1a
@@ -66,14 +61,10 @@ Intubation: Tubus \> 1a
 - 8Jahre: HF 70-110, RRsyst\>90+Alter x 2, AF 20-25, Tubus 6 bei 16cm oral, LMA 2 ½ (20 -- 30 kgKG)
 Gerader Spatel bei Kindern ohne Zähne, orale IT bei kurzen Eingriffen, Notfällen und hohem Aspirationsrisiko.
 - PEEP 3 \<3kg, 4 3-10kg, 5 \>10kg Gecuffter versus ungecuffter Tubus: Nur noch Microcuff-Tuben oder ungecuffte T. verwenden!
-Vorteil mit Cuff: Atemsystem dichter, bessere Fixierung,
-weniger umintubieren nötig Nachteil ungecufft: immer Leckage, Monitor zeigt mir nicht was ins Kind hineinkommt.
+Vorteil mit Cuff: Atemsystem dichter, bessere Fixierung, weniger umintubieren nötig Nachteil ungecufft: immer Leckage, Monitor zeigt mir nicht was ins Kind hineinkommt.
 Tubus immer gut fixieren und Kopf stabil lagern (rasche Extubation bei Reklination, zu tiefe Intubation bei Inkination)
 
-Viele Eingriffe werden beim Kind in Larynxmaske durchgeführt. Als Kontraindikation gilt ein hohes Aspirationsrisiko,
-hohe Beatmungsdrücke,
-behinderte Mundöffnung,
-orale/laryngeale Fehlbildungen, Bauchlage.
+Viele Eingriffe werden beim Kind in Larynxmaske durchgeführt. Als Kontraindikation gilt ein hohes Aspirationsrisiko, hohe Beatmungsdrücke, behinderte Mundöffnung, orale/laryngeale Fehlbildungen, Bauchlage.
 Komplikationen der LM: postoperatives obstruktives Lungenödem, Laryngospasmus bei schlecht sitzender Larynxmaske.
 
 
@@ -86,8 +77,7 @@ mit typischer Schaukelatmung wenn das Kind versucht gegen die geschlossene Glott
 Maske mit hohem Flow 100%  FIO2 anhalten ohne Beatmungsversuch! Esmarch Handgriff:
 Unterkiefer kräftig nach vorne und Kopf überstrecken / Narkose vertiefen ev. Lysthenon 2mg/kg iv oder intramuskulär in die Zunge, KEIN Intubationsversuch! Höheres Risiko 3-4 Wochen nach respiratorischem Infekt!! (Nicht direkt danach)
 Subglottisch: Weiche Trachea, FK, Bronchospasmus ist kein Intubationsproblem, sondern ein Beatmungsproblem!
-Intubierte NG müssen immer beatmet werden. Intubierte Kleinkinder nie ohne Druckunterstützung spontan atmen lassen! Kinder kompensieren nur über die Atemfrequenz und erschöpfen sich rasch! Ehemalige Frühgeborene haben ein erhöhtes postoperatives Apnoerisiko,
-va. bei Anämie, und müssen 24h postoperativ überwacht werden. Traumatisierte Kinder sind nie nüchtern!
+Intubierte NG müssen immer beatmet werden. Intubierte Kleinkinder nie ohne Druckunterstützung spontan atmen lassen! Kinder kompensieren nur über die Atemfrequenz und erschöpfen sich rasch! Ehemalige Frühgeborene haben ein erhöhtes postoperatives Apnoerisiko, va. bei Anämie, und müssen 24h postoperativ überwacht werden. Traumatisierte Kinder sind nie nüchtern!
 
 
 Bei bekanntem schwierigem Atemweg muss vor Einleitung ein venöser Zugang gelegt werden.
@@ -98,15 +88,12 @@ Cannot ventilate = NOTFALL!! HILFE HOLEN!
 (Mund offen)
 2. Maske korrekt halten, Guedel Tubus (nie bei oberflächlicher Narkose!)
 3. Narkose vertiefen 4. Ev. LMA,
-5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch 6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen,
-PEEP, ev. Relaxieren, nasaler ETT, LMA 7. Oxygenierung nicht möglich  =  Cannot ventilate and intubate  =  chir. Atemweg Quick-Trach,
-Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
+5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch 6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen, PEEP, ev. Relaxieren, nasaler ETT, LMA 7. Oxygenierung nicht möglich  =  Cannot ventilate and intubate  =  chir. Atemweg Quick-Trach, Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
 
 Cannot intubate, aber Oxygenierung möglich!
 Max. 2 Versuche, dann Hilfe holen!
 - Ist die OP auch ohne Tubus mit LMA/LT/Maskennarkose möglich?
-- Intubatin notwendig: Airtraq, Videolaryngoskop, COOK/Eschmannkatheter, dünner Tubus,
-fiberoptische Intubation über die LMA oder Intubationsmaske.
+- Intubatin notwendig: Airtraq, Videolaryngoskop, COOK/Eschmannkatheter, dünner Tubus, fiberoptische Intubation über die LMA oder Intubationsmaske.
 
 Einleitungsmedikamente:
 Propofol 3-6mg/kg (TIVA 4-10mg/kg/h)
@@ -125,8 +112,7 @@ Atropin nie routinemäßig, sondern nur bei Bradykardie anwenden. KI sind Fieber
 ## 17.4. Bronchospasmus: *
 
 VT nimmt ab durch Bronchospasmus mit Air-Traping (Auskult: Giemen, Brummen, Pfeifen expiratorisch)
-Therapie: FIO2 auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern! Narkose vertiefen, 1-3 mcg/kg Adrenalin iv, Dexamethason 0,5mg/kg iv, ev. Ketanest 1-2mg/kg,
-Theophyllin 5mg/kg initial dann 1mg/kg /h. (Wenn im Rahmen anaphylaktoider Reaktion : Fenistil 0,1mg/kg iv./ H1-Blocker; H2-Blocker erst \>12Lj Ranitidin)
+Therapie: FIO2 auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern! Narkose vertiefen, 1-3 mcg/kg Adrenalin iv, Dexamethason 0,5mg/kg iv, ev. Ketanest 1-2mg/kg, Theophyllin 5mg/kg initial dann 1mg/kg /h. (Wenn im Rahmen anaphylaktoider Reaktion : Fenistil 0,1mg/kg iv./ H1-Blocker; H2-Blocker erst \>12Lj Ranitidin)
 
 ## 17.5. Das postoperative Kind: *
 
@@ -163,9 +149,7 @@ Insufflation in den Aufwachraum legen
 = schmerzfrei, weniger schreien = weniger Nachblutungen.
 
 Schmerzskala:
-- KUSS  =  Kindliche Unbehagen Schmerz Skala bei Kindern  \<  3-4 Lj: Weinen (nicht, jammern,
-schreien), Gesichtsausdruck (entspannt, Mund verzerrt, Grimassiert), Rumpfhaltung (neutral,
-unruhig, aufbäumen, krümmen), Beinhaltung (neutral, strampelt, angezogen), motorische Unruhe (keine, mäßig, ruhelos). Ab 4 Punkten Therapiebedarf!
+- KUSS  =  Kindliche Unbehagen Schmerz Skala bei Kindern  \<  3-4 Lj: Weinen (nicht, jammern, schreien), Gesichtsausdruck (entspannt, Mund verzerrt, Grimassiert), Rumpfhaltung (neutral, unruhig, aufbäumen, krümmen), Beinhaltung (neutral, strampelt, angezogen), motorische Unruhe (keine, mäßig, ruhelos). Ab 4 Punkten Therapiebedarf!
 - SAS
 = Smiley Analog Skala ab 3-4 Lj: von 0-5 (stärkste vorstellbare Schmerzen) (Pain Face S.)
 - NRS: numerische rating skala ab 6Lj: 0-10 (11 stufige NRS), ab 4 Handlungsbedarf.
@@ -189,9 +173,7 @@ für MRT (Lautstärke!)
 4) Allgeinanästhesie: keine Reaktion auf Schmerz
 
 Vorraussetzungen: SOAP ME Suction, Oxygen, airway, pharmacy, monitors, equipment
-+  nicht verkühltes, nüchternes Kind, Aufklärung und Einwilligung der Eltern, Venflon,
-Standartmonitoring (Blutdruck vor und nach Sedierung), funktionstüchtige Narkosemaschine,
-Airway-Equipment, geschulten Anästhesisten.
++  nicht verkühltes, nüchternes Kind, Aufklärung und Einwilligung der Eltern, Venflon, Standartmonitoring (Blutdruck vor und nach Sedierung), funktionstüchtige Narkosemaschine, Airway-Equipment, geschulten Anästhesisten.
 Prämed: 0,5mg Dormicum/kg po (max. 10mg po)
 
 - Dormicum 0,1mg/kg + 1-2mg/kg Ketanes +20mcg Atropin wg.
@@ -210,8 +192,7 @@ Gesicherte Spontanatmung:
 
 ## 17.7. PLS (Pädiatric life support) *
 
-(BLS: Atemwege freimachen,
-5 initale Beatmungen, CPR 15:2, 5 Reanimationszyklen, Hilfe holen)
+(BLS: Atemwege freimachen, 5 initale Beatmungen, CPR 15:2, 5 Reanimationszyklen, Hilfe holen)
 
 EKG/Defi anlegen:
 - Kammerflimmern oder pulslose Kammertachykardie: Schock mit 4 J/kg -- CPR mindestens 2 Minuten fortsetzten  --  nach dem 3.Schock 4J/kg soll Adrenalin 0,01mg/kg  +  5mg/kg Amiodaron verabreicht werden -- alle 3 bis 5 Minuten Adrenalin -- nach dem 5 Schock erneut
@@ -229,8 +210,7 @@ Bei kleinen Kindern sofort Magensonde zur Entlastung setzten!
 
 
 Kreislaufmanagement:
-Gefäßzugang (wenn iv. Zugang nicht innerhalb einer Minute gelingt, interossärer Zugang), Bei Volumenmangel/Schock Bolus 20ml/kg isotoner Elektrolytlösung, Medikamente im Rahmen der CPR (Adrenalin, Amiodaron) ev. Atropin bei Bradykardie aufgrund Vagotonus (Bei Bradykardie mit schlechter Perfusion Adrenalin!), Glukose nur bei nachgewiesener Hypoglykämie. Ev. Defi mit 4J/kg.*
-*Ursachen beheben!
+Gefäßzugang (wenn iv. Zugang nicht innerhalb einer Minute gelingt, interossärer Zugang), Bei Volumenmangel/Schock Bolus 20ml/kg isotoner Elektrolytlösung, Medikamente im Rahmen der CPR (Adrenalin, Amiodaron) ev. Atropin bei Bradykardie aufgrund Vagotonus (Bei Bradykardie mit schlechter Perfusion Adrenalin!), Glukose nur bei nachgewiesener Hypoglykämie. Ev. Defi mit 4J/kg.* *Ursachen beheben!
 4 H´s und HITS:
 Hypoxie, Hypovolämie, Hypo oder Hyperkaliämie, Hypothermie Herzbeuteltamponade -- Intoxikation -- Thromboembolie -- Spannungspneumothorax
 
@@ -249,8 +229,7 @@ Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 ## 17.8. Analgosedierung und Beatmung des Kindes auf der Intensivstation
 
 Grundeinstellung Respirator:
-TV 6-10ml/kg Pinsp 12 PEEP 3-5 I:E 1:1,5 Brustkorb muss sich beidseits vollständig heben und senken,
-SaO2, etCO2 und BGA!
+TV 6-10ml/kg Pinsp 12 PEEP 3-5 I:E 1:1,5 Brustkorb muss sich beidseits vollständig heben und senken, SaO2, etCO2 und BGA!
 Analgetika: multimodale Analgesie = + RA + NSAR
 - Kreislaufstabiles Kind:
 Morphin Piritramid Remifentanyl
@@ -266,8 +245,7 @@ Sedativa:
 
 Beispiel:
 Initial: Midazoloam + Propofol + Morphin (solange Intubation notwendig: Opiate)
-Switch (reduziert NW, Bessere Steuerung der Wirkzeiten,
-Abkürzung Entzugssymptome)
+Switch (reduziert NW, Bessere Steuerung der Wirkzeiten, Abkürzung Entzugssymptome)
 Weaning/Extubation: Midazolam + Clonidin + Remifentanyl
 + Regionalanästhesie wenn möglich Midazolam + Remifentanyl ausschleichen + zum Schluss Clonidin ausschleichen.
 
@@ -275,8 +253,7 @@ Weaning/Extubation: Midazolam + Clonidin + Remifentanyl
 ## 17.9. Regionalanästhesie bei Kindern
 
 Ziel ist die perioperative Schmerzfreiheit des Kindes = Goldstandart der Schmerztherapie!
-Präoperativ in AN: Nachteil sind fehlende Alarmzeichen bei versehentlich intravasaler Injektion,
-Schmerz bei punktionsbedingter Nervenläsion fehlt, Toleranz des kardiovaskulären Synstems ist gegenüber LA vermindert. Vorraussetzung: Venenzugang!
+Präoperativ in AN: Nachteil sind fehlende Alarmzeichen bei versehentlich intravasaler Injektion, Schmerz bei punktionsbedingter Nervenläsion fehlt, Toleranz des kardiovaskulären Synstems ist gegenüber LA vermindert. Vorraussetzung: Venenzugang!
 
 
 Ursache erhöhter Toxizität von LA bei Kindern
@@ -297,13 +274,11 @@ Kaudalblock (= Sonderform der PDA)
 Ind: Hernien, Nabelbruch, CC, Hydrocele, Hypospadie, Orchidopexie, Klumpfuß  Korrektur... KI:
 Spina Bifida, kongenitale Vitien Möglich bis zum 6  Lebensjahr/ca. 25kg, danach Ossifikation der WS abgeschlossen. Durasack reicht bis 9 Monate bis S3/4, danach liegt das Ende bei S1/2 =  kraniale Ausbreitung ist unter 9 Monaten am ausgedehntesten!
 Durchführung: Linksseitenlage, obere Hüfte 90° untere 45° oder 90° gebeugt. Einzeichnen eines gleichschenkeligen Dreiecks von beiden Spina iliacae superior zum Hiatus sacralis.
-Hautdesinfektion, 22-25 G Kaudalnadel perforiert die Membrana saccoczygea („POP") + 1-2 mm vorschieben,
-Aspiration in 2 Ebenen, Injektion über Verlängerungsschlauch
+Hautdesinfektion, 22-25 G Kaudalnadel perforiert die Membrana saccoczygea („POP") + 1-2 mm vorschieben, Aspiration in 2 Ebenen, Injektion über Verlängerungsschlauch
 (immobile Nadel).
 Dosis: Ropivacain 0,2% 1-1,5ml/kg
 + 2 mcg/kg Clonidin (Kind \> 3Monate). Die Analgesie verlängert sich durch das Clonidin von 4-6h auf bis zu 12h! Je nach Dosierung kann eine Blockade bis Th12 oder Th8 erreicht werden. Onset-time liegt bei 8 bis 14 Minuten.
-Gefahr eine Fehlinjektion subcutan, periostal,
-rectal oder subarachnoidal!
+Gefahr eine Fehlinjektion subcutan, periostal, rectal oder subarachnoidal!
 
 
 Spinalanästhesie Vorallem bei FG und ehemaligen FG unter der 56 postkonzeptionellen Woche zur Vermeidung einer AN mit erhöhtem Risiko einer postoperativen Apnoe.

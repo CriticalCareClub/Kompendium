@@ -1,9 +1,6 @@
 # Strom- und Blitzschlag
 
-Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große
-Herausforderung dar. Der Grund hierfür ist, dass bereits im
-Szeneüberblick die Gefahr eines möglichen weiteren Stromschlages erkannt
-werden muss! Erster Anhaltspunkt ist daher die Situation am Einsatzort.
+Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große Herausforderung dar. Der Grund hierfür ist, dass bereits im Szeneüberblick die Gefahr eines möglichen weiteren Stromschlages erkannt werden muss! Erster Anhaltspunkt ist daher die Situation am Einsatzort.
 Typisch sind:
 
 - Spielende Jugendliche oder Arbeiter auf Eisenbahnwaggons
@@ -24,9 +21,7 @@ Die erste Maßnahme muss daher immer dem Selbstschutz gelten:
 - Bahnanlagen sperren und sichern lassen!
 - Strom gegen Wiedereinschalten sichern (lassen)!
 
-Die Einschätzung über das Ausmaß der Verletzung bzw. der vitalen
-Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere
-Gründe:
+Die Einschätzung über das Ausmaß der Verletzung bzw. der vitalen Bedrohung ist bei Elektrounfällen sehr schwierig. Dies hat mehrere Gründe:
 
 1. Die Wirkung des Stromes im menschlichen Körper hängt von mehreren
    Faktoren ab:
@@ -57,8 +52,7 @@ Gründe:
 
 [^footnote-2]: Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.
 
-Die Orientierung an Symptomen ist für die Einschätzung der vitalen
-Bedrohung daher oft sinnvoller.
+Die Orientierung an Symptomen ist für die Einschätzung der vitalen Bedrohung daher oft sinnvoller.
 
 ## Symptome
 
@@ -130,9 +124,7 @@ Bahnanlagen
 :::
 ::::
 
-Bei Gewitterblitzen treten Spannungen von Millionen von Volt und
-Stromstärken von bis zu 300 000 A auf. Trotzdem gibt es auch bei
-Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
+Bei Gewitterblitzen treten Spannungen von Millionen von Volt und Stromstärken von bis zu 300 000 A auf. Trotzdem gibt es auch bei Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
 (wenige Millisekunden) ist. Typische Symptome sind
 
 - Bewusstlosigkeit

@@ -15,14 +15,10 @@
 Ein {dfn}`Knochenbruch`
 {index}` <! Knochenbruch>`
 (*Syn.* {dfn}`Fraktur` , *lat.* {dfn}`Fract.`)
-ist eine Kontinuitätsunterbrechung
-eines Knochens mit Bildung von Fragmenten (Bruchstücken) {term}`🗎 Pschyrembel 259`.
+ist eine Kontinuitätsunterbrechung eines Knochens mit Bildung von Fragmenten (Bruchstücken) {term}`🗎 Pschyrembel 259`.
 
-Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen
-unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der
-Bruchstelle noch intakt, während beim *offenen Knochenbruch*[^footnote-1]
-aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle
-verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
+Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der Bruchstelle noch intakt, während beim *offenen Knochenbruch*[^footnote-1]
+aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
 
 [^footnote-1]: Offener Bruch: *Fractura aperta* (*Fract* {index}` <Fract.!apert.>`. apert.)
 
@@ -48,13 +44,9 @@ verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
 :::
 ::::
 
-Erkennbar ist ein Knochenbruch anhand von
-klassischen Frakturzeichen.
-Dabei gibt es sichere und unsichere
-Frakturzeichen,
-welche in der Tabelle {ref}`Table-frakturzeichen` angeführt sind.
-Nicht immer kann die Diagnose eines Bruches gestellt oder ausgeschlossen
-werden.
+Erkennbar ist ein Knochenbruch anhand von klassischen Frakturzeichen.
+Dabei gibt es sichere und unsichere Frakturzeichen, welche in der Tabelle {ref}`Table-frakturzeichen` angeführt sind.
+Nicht immer kann die Diagnose eines Bruches gestellt oder ausgeschlossen werden.
 
 :::{list-table} Frakturzeichen
 :header-rows: 1
@@ -131,11 +123,8 @@ werden.
 - Schwere Muskelquetschung kann zu einem Sauerstoffmangel im Muskel
   führen (Kompartmentsyndrom)
 
-Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher
-Traumacheck durchgeführt werden, damit keine Begleitverletzungen
-übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient
-entkleidet wird[^footnote-3]. Beim Entfernen der Schuhe ist darauf zu achten,
-dass eine Person das Bein fixiert während eine andere Person den Schuh
+Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher Traumacheck durchgeführt werden, damit keine Begleitverletzungen
+übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient entkleidet wird[^footnote-3]. Beim Entfernen der Schuhe ist darauf zu achten, dass eine Person das Bein fixiert während eine andere Person den Schuh
 öffnet und schließlich mittels
 {ref}`Stiefelgriff <vacuumbeinschiene-anwendung>`
 vorsichtig vom Fuß abzieht.
@@ -150,8 +139,7 @@ vorsichtig vom Fuß abzieht.
 :::{figure} /Bilder/Hauer-David-CCCA/fraktur_fehlstellung_nativ.\*
 :width: 100%
 
-Fehlstellung einer Unterschenkelfraktur nach einem
-Verkehrsunfall (PKW gegen Fußgänger) in natura …
+Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fußgänger) in natura …
 
 ₢ David Hauer {term}`ℓ MfG`
 :::
@@ -195,13 +183,8 @@ Offene Fraktur des Mittelfingers
 
 
 
-Erkennen
-von großen Blutverlusten, Blutstillung,
-Steriles
-Abdecken, Einschätzen der vitalen Bedrohung, ggfs
-Schmerztherapie.
-Bei *vitaler Bedrohung*: Zeitkritisch,
-zügiger Transport.
+Erkennen von großen Blutverlusten, Blutstillung, Steriles Abdecken, Einschätzen der vitalen Bedrohung, ggfs Schmerztherapie.
+Bei *vitaler Bedrohung*: Zeitkritisch, zügiger Transport.
 Bei *stabilen Patienten*: Schienung}
 
 ⛑ Basismaßnahmen
@@ -233,29 +216,22 @@ Bei *stabilen Patienten*: Schienung}
 :::
 ::::
 
-Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen
-Knochenbrüche sind die Schlüsselbeinfraktur und die Schenkelhalsfraktur.
+Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen Knochenbrüche sind die Schlüsselbeinfraktur und die Schenkelhalsfraktur.
 
 ### Schlüsselbeinfraktur
 
-Die Schlüsselbeinfraktur entsteht meistens, wenn der Patient mit
-ausgestreckten Armen stürzt. Die große Gefahr dieser Fraktur liegt
-darin, dass die Schlüsselbeinarterie und -vene verletzt werden können.
+Die Schlüsselbeinfraktur entsteht meistens, wenn der Patient mit ausgestreckten Armen stürzt. Die große Gefahr dieser Fraktur liegt darin, dass die Schlüsselbeinarterie und -vene verletzt werden können.
 Die Ruhigstellung erfolgt einerseits durch ein Armtragetuch
-(Dreiecktuch) und andererseits durch Fixation des Arms am Oberkörper
-durch ein zweites Dreiecktuch.
+(Dreiecktuch) und andererseits durch Fixation des Arms am Oberkörper durch ein zweites Dreiecktuch.
 
 ### Schenkelhalsfraktur
 
-Bei der Schenkelhalsfraktur handelt es sich um einen Bruch des
-Oberschenkelhalses. Meist sind ältere Menschen betroffen, die auf die
-Hüfte gestürzt sind. Symptome sind:
+Bei der Schenkelhalsfraktur handelt es sich um einen Bruch des Oberschenkelhalses. Meist sind ältere Menschen betroffen, die auf die Hüfte gestürzt sind. Symptome sind:
 
 - Starker Bewegungs- oder Stauchungsschmerz
 - Betroffenes Bein ist nach außen gedreht und verkürzt
 - Unfallhergang meist Sturz (auch an Kollaps denken!)
 
-Die Versorgung erfolgt durch Rettung mittels Schaufeltrage und
-Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
+Die Versorgung erfolgt durch Rettung mittels Schaufeltrage und Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
 (Kontrolle der Vitalparameter)! Eventuell kann eine Schmerztherapie
 (Notarzt) notwendig sein.

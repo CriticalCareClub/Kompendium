@@ -3,13 +3,8 @@
 # Gallenkolik
 
 Eine {dfn}`Gallenkolik` {index}` <! Gallenkolik>`
-zeichnet sich durch kolikartige
-Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine
-aus. Vgl. Kolik: {ref}`kolik`.
-Gallensteine verursachen eine
-Verstopfung des Gallengangs und folglich einen Rückstau von
-Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es
-kommt zu starken Dehnungsschmerzen.
+zeichnet sich durch kolikartige Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine aus. Vgl. Kolik: {ref}`kolik`.
+Gallensteine verursachen eine Verstopfung des Gallengangs und folglich einen Rückstau von Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es kommt zu starken Dehnungsschmerzen.
 
 ::::{only} not nosidebar
 
@@ -22,13 +17,9 @@ kommt zu starken Dehnungsschmerzen.
 
 ## Symptome
 
-Durch den Rückstau und der Dehnung des Gallengangs kommt es zu starken,
-auf- und abschwellenden, krampfartigen (*kolikartigen*) *Schmerzen* im
-*rechten Oberbauch*, klassischerweise mit Ausstrahlung in die rechte
-Schulterregion. Begleitendes Fieber ist möglich.
+Durch den Rückstau und der Dehnung des Gallengangs kommt es zu starken, auf- und abschwellenden, krampfartigen (*kolikartigen*) *Schmerzen* im *rechten Oberbauch*, klassischerweise mit Ausstrahlung in die rechte Schulterregion. Begleitendes Fieber ist möglich.
 
-Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr
-*unruhig* und agitiert.
+Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr *unruhig* und agitiert.
 
 ::::{only} not nosidebar
 

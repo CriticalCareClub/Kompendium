@@ -24,21 +24,14 @@
 ::::
 
 :::{margin} Optionen
-```{raw} html
-<a href="_static/CCCA-Kompendium.pdf">Das Kompendium des CCCA als <strong>PDF</strong></a>
-
-<br><a href="genindex.html">Index</a>
-```
+[Das Kompendium des CCCA als PDF](https://kompendium.criticalcare.at/_static/CCCA-Kompendium.pdf)
 
 [Projektseite (Github)](https://github.com/CriticalCareClub/Kompendium-alpha)
 :::
 
 
 
-
-
-
-```{toctree}
+:::{toctree}
 :caption: Inhalt
 :maxdepth: 1
 
@@ -59,31 +52,31 @@
 430-Perioperativ/index
 440-Intensiv/index
 999-Appendix/index
-```
+:::
 
-::::{only} html
-
+:::::{only} html
 :::{image} /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
 :align: center
 :width: 100%
 :::
-::::
 
-% .. admonition:: Versionsinformationen
-%
-%     :Version:
-%         |version|
-%
-%     :Release:
-%         |release|
-%
-%     .. rubric:: `Versionsverwaltung (Git) <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/>`_
-%
-%     .. git_commit_detail::
-%         :branch:
-%         :commit:
-%         :uncommitted:
-%         :untracked:
-%
-%     .. git_changelog::
-%         :revisions: 1
+::::{Versionsinformationen}
+
+Version
+: |version|
+
+Release
+: |release|
+
+:::{git_commit_detail}
+:branch:
+:commit:
+:uncommitted:
+:untracked:
+:::
+
+:::{git_changelog}
+:revisions: 1
+:::
+::::
+:::::

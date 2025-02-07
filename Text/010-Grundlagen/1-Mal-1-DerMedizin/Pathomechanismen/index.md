@@ -69,11 +69,7 @@ Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
 > 4. *Schmerz* (Dolor) und
 > 5. *Funktionsverlust* (Funtio laesa).
 
-Mögliche Auslöser sind
-Fremdkörper, Krankheitserreger, mechanische oder psychische Beanspruchung, chemische
-Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung
-von Entzündungen ist das Suffix {dfn}`-itis`, welches
-i.d.R. an die betreffende Organbezeichnung angehängt wird:
+Mögliche Auslöser sind Fremdkörper, Krankheitserreger, mechanische oder psychische Beanspruchung, chemische Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung von Entzündungen ist das Suffix {dfn}`-itis`, welches i.d.R. an die betreffende Organbezeichnung angehängt wird:
 
 - Gastritis: "Magenentzündung"
 - Hepatitis: Leberentzündung
@@ -94,10 +90,8 @@ i.d.R. an die betreffende Organbezeichnung angehängt wird:
 Dadurch kommt es zu einer Unterversorgung eines Gewebes mit sauer- und nährstoffstoffreichem Blut sowie zu einem verminderten Abtransport von Schadstoffen.
 :::
 
-Eine Ischämie kann
-grundsätzlich überall im Körper vorkommen.
-Es kann zu Funktionsausfällen und Schäden des Gewebes
-bishin zur **Nekrose** (Gewebstod) kommen.
+Eine Ischämie kann grundsätzlich überall im Körper vorkommen.
+Es kann zu Funktionsausfällen und Schäden des Gewebes bishin zur **Nekrose** (Gewebstod) kommen.
 Schmerzen sind ein typisches Symptom.
 Häufig betroffene Gewebe sind:
 
@@ -127,15 +121,11 @@ Häufig betroffene Gewebe sind:
 
 ## Tumore, Neubildungen, Krebs
 
-Die meisten Zellen des menschlichen Körper teilen sich
-regelmäßig.
-Eine Kontrolle dieses Vorgangs ist jedoch erforderlich um zu gewährleisten,
-dass die Zellen nicht unkomtrolliert und wild zu wuchern beginnen.
-Der Körper verfügt über verschiedene Mechanismen um
-die Zellteilung im richtigen Maß zu halten.
+Die meisten Zellen des menschlichen Körper teilen sich regelmäßig.
+Eine Kontrolle dieses Vorgangs ist jedoch erforderlich um zu gewährleisten, dass die Zellen nicht unkomtrolliert und wild zu wuchern beginnen.
+Der Körper verfügt über verschiedene Mechanismen um die Zellteilung im richtigen Maß zu halten.
 
-Wenn diese Mechanismen versagen,
-kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe
+Wenn diese Mechanismen versagen, kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe
 ({dfn}`Neoplasie`, als Diagnose oft mit " `N.`" abgekürzt).
 Daraus resultiert in der Regel eine *Raumforderung*.
 
@@ -150,22 +140,15 @@ und *bösartigen* (**malignen**) Neubildungen:
     Metastasen können z. B. über die Blutbahn an andere Stellen des
     Körper gelangen und dort als Absiedelungen ebenfalls zu wachsen beginnen.
 
-Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen
-*Karzinomen*, *Sarkomen* und *Blastomen*,
-bei malignen Erkrankungen der Blutzellen spricht man
+Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man
 ```
 
-Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen
-*Karzinomen*, *Sarkomen* und *Blastomen*,
-bei malignen Erkrankungen der Blutzellen spricht man
-von *Leukämien* {index}` <Leukämie>` bzw. *Lymphomen* {index}` <Lymphom>`.
+Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man von *Leukämien* {index}` <Leukämie>` bzw. *Lymphomen* {index}` <Lymphom>`.
 Maligne Neoplasien wergen umgangssprachlich als *Krebs* (engl. *Cancer*) bezeichnet.
 
 Der Fachbereich der sich mit malignen Neubildungen (Krebserkrankungen) befasst ist die *Onkologie*.
-Grundsätzlich können alle teilungsfähigen Zellen
-entarten. Dies kann spontan geschehen oder durch andere Faktoren
-(radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst
-werden.
+Grundsätzlich können alle teilungsfähigen Zellen entarten. Dies kann spontan geschehen oder durch andere Faktoren
+(radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
 
 :::{note}
 Der Begriff {dfn}`Tumor` bedeutet ganz allgemein "Schwellung"
@@ -214,10 +197,7 @@ Zusammengefasst ergeben sich drei wesentliche Probleme:
 ```{rubric} Therapie
 ```
 
-Der Therapieerfolg ist sehr stark von der genauen Art der Neubildung und
-vom jeweiligen Patienten abhängig und reicht von sehr gut bis nicht
-vorhanden. Im wesentlichen kommen bei der Krebstherapie folgende
-Methoden zum Einsatz:
+Der Therapieerfolg ist sehr stark von der genauen Art der Neubildung und vom jeweiligen Patienten abhängig und reicht von sehr gut bis nicht vorhanden. Im wesentlichen kommen bei der Krebstherapie folgende Methoden zum Einsatz:
 
 - *Chemotherapie*: Einsatz von Medikamenten, welche die Zellteilung
   unterdrücken bzw. Zellen absterben lassen.
@@ -240,6 +220,4 @@ Methoden zum Einsatz:
 
 
 
-Diese Therapien sind für den Körper sehr anstrengend und haben viele
-Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung
-des Immunsystems*, Nervenschäden u. v. a. m.
+Diese Therapien sind für den Körper sehr anstrengend und haben viele Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung des Immunsystems*, Nervenschäden u. v. a. m.

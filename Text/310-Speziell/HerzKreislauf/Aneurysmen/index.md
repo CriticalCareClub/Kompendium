@@ -14,15 +14,10 @@
 :::
 ::::
 
-Als {dfn}`Aneurysma` bezeichnet man eine Aussackung und
-Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
+Als {dfn}`Aneurysma` bezeichnet man eine Aussackung und Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
 
-Durch die zunehmende Erweiterung oder Verletzungen der
-Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen
-kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta,
-Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen
-(rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder
-ein blutiger Insult sein.
+Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta, Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen
+(rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder ein blutiger Insult sein.
 
 (bauchaortenaneurysma)=
 
@@ -39,30 +34,15 @@ ein blutiger Insult sein.
 :::
 ::::
 
-Aneurysmen können im gesammten Verlauf der Aorta auftreten, man
-unterscheidet zwischen dem *thorakalen*
-und dem abdominellen Aortenaneurysma
+Aneurysmen können im gesammten Verlauf der Aorta auftreten, man unterscheidet zwischen dem *thorakalen* und dem abdominellen Aortenaneurysma
 (*Bauchaortenaneurysma*).
-Zumeist ist eine krankhafte Veränderung der
-Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus,
-Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma
-verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es
-können einzelne Schichten der Gefäßwand einreißen und eine
+Zumeist ist eine krankhafte Veränderung der Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus, Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es können einzelne Schichten der Gefäßwand einreißen und eine
 (verletzliche) Ausbuchtung bilden. Die akute Gefahr ist eine Ruptur.
 
-Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z. B. bei
-Röntgenuntersuchungen entdeckt.
-Da das Operationsrisiko sehr hoch ist
-werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen
-Formen werden nur regelmäßige Kontrollen durchgeführt.
+Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z. B. bei Röntgenuntersuchungen entdeckt.
+Da das Operationsrisiko sehr hoch ist werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen Formen werden nur regelmäßige Kontrollen durchgeführt.
 
-Aortenaneurysmen sind sehr oft schwer zu diagnostizieren, in der
-präklinischen Versorgung kann im Regelfall nur durch die Anamnese bei
-einem bereits bekannten Aneurysma ein entsprechender Verdacht geäussert
-werden – eine sichere Diagnose ist praktisch kaum möglich. Auch in der
-klinischen Behandlung werden Aneurysmen häufig erst sehr spät erkannt,
-da die Symptome oft eher auf andere Erkrankungen hinweisen (Lumbago,
-ACS, Koliken, …).
+Aortenaneurysmen sind sehr oft schwer zu diagnostizieren, in der präklinischen Versorgung kann im Regelfall nur durch die Anamnese bei einem bereits bekannten Aneurysma ein entsprechender Verdacht geäussert werden – eine sichere Diagnose ist praktisch kaum möglich. Auch in der klinischen Behandlung werden Aneurysmen häufig erst sehr spät erkannt, da die Symptome oft eher auf andere Erkrankungen hinweisen (Lumbago, ACS, Koliken, …).
 
 {term}`🗎 Meron 2004`
 

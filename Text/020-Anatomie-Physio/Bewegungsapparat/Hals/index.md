@@ -9,8 +9,7 @@
 
 # Collum (Hals)
 
-Der Hals umfasst alle sieben Halswirbeln und reicht von der oberen
-Thoraxapertur bis zur Mandibula.
+Der Hals umfasst alle sieben Halswirbeln und reicht von der oberen Thoraxapertur bis zur Mandibula.
 
 Er beinhaltet
 den Rachen (Pharynx),

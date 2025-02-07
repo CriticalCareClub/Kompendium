@@ -31,23 +31,14 @@ Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infar
 :::{admonition} Definition
 
 Das {dfn}`Akute Koronarsyndrom`
-(*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex,
-welcher typischerweise bei ischämischen
-Erkrankungen wie dem *Herzinfarkt*
-und der *stabilen* oder *instabilen
-Angina pectoris* *akut* auftritt.
+(*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
 :::
 
-Bei diesen Krankheitsbildern kommt
-es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und
-Sauerstoff aufgrund der Durchblutungsstörung.
-Die Ursache sind in erster
-Linie verengte oder verstopfte Herzkranzgefäße
+Bei diesen Krankheitsbildern kommt es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und Sauerstoff aufgrund der Durchblutungsstörung.
+Die Ursache sind in erster Linie verengte oder verstopfte Herzkranzgefäße
 (*Ischämie*, {ref}`ischaemie`).
-Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren
-Herzkrankheit.
-Daneben gibt es noch andere Erkrankungen,
-welche sich von den vorgenannten entweder durch die Pathogenese
+Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.
+Daneben gibt es noch andere Erkrankungen, welche sich von den vorgenannten entweder durch die Pathogenese
 (z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus
 (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
 
@@ -67,21 +58,12 @@ welche sich von den vorgenannten entweder durch die Pathogenese
  -->
 
 Es sind *zwei Auslösemechanismen* möglich:
-Einerseits kann eine
-Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder
-mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die
-Ursache sein,
-oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des
-Herzens bei Anstrengung.
-In beiden Fällen kommt es zu einem
-*Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des
-Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein
-Leistungsverlust!
+Einerseits kann eine Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die Ursache sein, oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des Herzens bei Anstrengung.
+In beiden Fällen kommt es zu einem *Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein Leistungsverlust!
 
 :::{figure} /Bilder/HirtlerLena-Ccc/Herzschmerz.\*
 
-Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim
-ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
+Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 :::
 
 ### ABCDE
@@ -121,28 +103,18 @@ ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 ```{rubric} |Text-Abcde-3|
 ```
 
-Der Patient macht oft einen leidenden Eindruck, eventuell ist er
-kaltschweißig und blass.
+Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig und blass.
 
 ```{rubric} |Text-Abcde-4|
 ```
 
-Die Leitsymptome sind ein  *akuter, nicht
-atemabhängiger, Brustschmerz* und  *Atemnot*
-(*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert
-und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in
-den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
-Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-*
-bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
-Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen,
-welcher als Verdauungsstörung oder Magen-Darm-Erkrankung
-fehlgedeutet werden kann.
+Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot*
+(*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
+Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
+Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen, welcher als Verdauungsstörung oder Magen-Darm-Erkrankung fehlgedeutet werden kann.
 
-Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu
-einem schmerzlosen Verlauf kommen, man spricht dabei auch vom
-*"stummen Infarkt"*.
-*Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen
-Schocks* können die entsprechenden Schockzeichen beobachtet werden:
+Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu einem schmerzlosen Verlauf kommen, man spricht dabei auch vom *"stummen Infarkt"*.
+*Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen Schocks* können die entsprechenden Schockzeichen beobachtet werden:
 Blässe, Kaltschweißigkeit, Hypotonie, etc.
 ({ref}`SchockKardiogener`).
 
@@ -150,8 +122,7 @@ Blässe, Kaltschweißigkeit, Hypotonie, etc.
 .. rubric:: |Text-Abcde-B|
 ```
 
-&#8201;*Atemnot* kommt häufig vor und ist ein
-Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
+&#8201;*Atemnot* kommt häufig vor und ist ein Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
 ```{eval-rst}
 .. rubric:: |Text-Abcde-C|
@@ -166,21 +137,13 @@ Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 .. rubric:: |Text-Abcde-E|
 ```
 
-Das EKG kann wichtige Hinweise über Ausdehnung, Alter und
-Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu
-können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben
-werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung
-ist jedoch nur entsprechend ausgebildeten und geübten Personal
-vorbehalten.
+Das EKG kann wichtige Hinweise über Ausdehnung, Alter und Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung ist jedoch nur entsprechend ausgebildeten und geübten Personal vorbehalten.
 
 ```{eval-rst}
 .. rubric:: |Text-Abcde-Fazit|
 ```
 
-Ein Patient mit einem  akuten Koronarsyndrom ist
-grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche
-Diagnose ist auch hinsichtlich der Auswahl des richtigen
-Transportziel (Herzkatheterlabor?) entscheidend.
+Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche Diagnose ist auch hinsichtlich der Auswahl des richtigen Transportziel (Herzkatheterlabor?) entscheidend.
 
 ### SAMPLER beim akuten Koronarsyndrom
 
@@ -237,11 +200,8 @@ Transportziel (Herzkatheterlabor?) entscheidend.
 
 ## 🔎 Diagnostik
 
-Veränderungen des EKGs sind richtungsweisend in der Diagnostik
-und entscheidend für den jeweiligen Therapieverlauf.
-Aufgrund der EKG-Veränderungen,
-im speziellen der ST-Strecke,
-wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`)
+Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
+Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`)
 und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
 
 ```{index} pair: STEMI-Kriterien; EKG pair: Hauptstammbild; EKG pair: CX-Infarkt; EKG
@@ -277,8 +237,7 @@ Bedenke **atypische Präsentationen**:
   - Oft minimale ST-Hebungen inferior/lateral
 
 :::{attention}
-50% der Erst-EKGs sind nicht diagnostisch,
-eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
+50% der Erst-EKGs sind nicht diagnostisch, eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
 :::
 
 Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
@@ -332,13 +291,9 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 
 ### ⚕ ☤ Hintergrund
 
-Grundsätzlich unterscheidet sich die Therapie des Herzinfarktes mit
-und ohne ST-Elevation (STEMI vs. NSTEMI).
+Grundsätzlich unterscheidet sich die Therapie des Herzinfarktes mit und ohne ST-Elevation (STEMI vs. NSTEMI).
 
-Herzinfarktpatienten benötigen oft eine besondere Behandlung
-im Sinne einer **Reperfusionsstrategie**,
-bei welcher die Durchgängigkeit der betroffenen Koronargefäße,
-und somit die Durchblutung des Herzmuskels, wiederhergestellt werden soll.
+Herzinfarktpatienten benötigen oft eine besondere Behandlung im Sinne einer **Reperfusionsstrategie**, bei welcher die Durchgängigkeit der betroffenen Koronargefäße, und somit die Durchblutung des Herzmuskels, wiederhergestellt werden soll.
 Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
 
 - Bei der **Lyse-Therapie** versucht man medikamentös einen
@@ -384,11 +339,8 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
     Es sind dabei unterschiedliche Stent-Arten in Verwendung
     ({abbr}`BMS (Bare Metall Stent)`, {abbr}`DES (Drug Eluting Stent)`).
 
-Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation
-alleine *keine* adäquate Versorgung bereitstellen.
-In der Regel muss das erstversorgende Fachpersonal über die Indikation
-zur Einleitung einer Reperfusionsbehandlung stellen
-bzw. das geeignete Verfahren auswählen.
+Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation alleine *keine* adäquate Versorgung bereitstellen.
+In der Regel muss das erstversorgende Fachpersonal über die Indikation zur Einleitung einer Reperfusionsbehandlung stellen bzw. das geeignete Verfahren auswählen.
 
 ```{eval-rst}
 .. rubric:: Ressourcen
@@ -400,8 +352,7 @@ bzw. das geeignete Verfahren auswählen.
   *Zur Bekämpfung von Herzinfarkt und Arteriosklerose*
   <http://youtu.be/SWZYBrLAnNk>.
 
-Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des
-*System Delay*.
+Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des *System Delay*.
 Daraus ergeben sich folgende logistische Empfehlungen
 [^cite_esc-2017-guidelinesstemi] :
 
@@ -416,21 +367,21 @@ Daraus ergeben sich folgende logistische Empfehlungen
 
 
 
-```{index} single: GP IIb/IIIa-Inhibitor (ACS) 
+```{index} single: GP IIb/IIIa-Inhibitor (ACS)
 ```
-```{index} single: Ticagrelor (ACS) 
+```{index} single: Ticagrelor (ACS)
 ```
-```{index} single: Brilique® (ACS) 
+```{index} single: Brilique® (ACS)
 ```
-```{index} single: Clopidogrel (ACS) 
+```{index} single: Clopidogrel (ACS)
 ```
-```{index} single: Prasugrel (ACS) 
+```{index} single: Prasugrel (ACS)
 ```
-```{index} single: Efient® (ACS) 
+```{index} single: Efient® (ACS)
 ```
-```{index} single: Morphin (ACS) 
+```{index} single: Morphin (ACS)
 ```
-```{index} single: Heparin (ACS) 
+```{index} single: Heparin (ACS)
 ```
 ```{index} single: ASS  (ACS)
 ```
@@ -460,15 +411,11 @@ Daraus ergeben sich folgende logistische Empfehlungen
 
 ### 🕏 Pharmakotherapie — Allgemein
 
-Die Anwendung bestimmter Medikamente
-unterscheidet sich nach der Unterscheidung
-STEMI, NSTEMI und AP
-und der daraus resultierenden Therapiestrategie.
+Die Anwendung bestimmter Medikamente unterscheidet sich nach der Unterscheidung STEMI, NSTEMI und AP und der daraus resultierenden Therapiestrategie.
 
 #### Morphin
 
-I. v.-Opiode sollen generell zur Schmerztherapie erwogen werden,
-z. B. Morphin i. v., titriert in 2—5 mg-Schritten (Erwachsene).
+I. v.-Opiode sollen generell zur Schmerztherapie erwogen werden, z. B. Morphin i. v., titriert in 2—5 mg-Schritten (Erwachsene).
 
 #### Heparin
 
@@ -491,38 +438,22 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
 
 #### P2Y₁₂-Inhibitor
 
-Das P2Y₁₂-Protein befindet sich
-u. a. auf der Oberfläche von Thrombozyten
-und ist als Chemorezeptor für Adenosindiphosphat (ADP)
-an der Thrombozytenaggregation beteiligt
-und somit ein wichtiger Regulator der Blutgerinnung.
-Beim ACS ist eine Hemmung mittels eines
-potenten *P2Y₁₂-Inhibitors*
-(*Prasugrel*, *Ticagrelor*, oder,
-wenn nicht verfügbar, auch *Clopidogrel*)
+Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten und ist als Chemorezeptor für Adenosindiphosphat (ADP)
+an der Thrombozytenaggregation beteiligt und somit ein wichtiger Regulator der Blutgerinnung.
+Beim ACS ist eine Hemmung mittels eines potenten *P2Y₁₂-Inhibitors*
+(*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*)
 empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
-(und weiter für 12 Monate),
-sofern keine Kontraindikationen
-oder ein Risiko für exzessive Blutungen besteht.
+(und weiter für 12 Monate), sofern keine Kontraindikationen oder ein Risiko für exzessive Blutungen besteht.
 P2Y₁₂-Inhibitor indiziert.
 
 Beim **STEMI** ist das Mittel der Wahl **Ticagrelor** (*Brilique®*).
-Es ist einfach anwendbar,
-behindert Interventionen kaum,
-ist auch grundsätzlich beim NSTEMI einsetzbar
-und ist als *Schmelztablette* einsetzbar
-(Cave: keine Resorption über Mundschleimhaut,
-sondern im GI-Trakt;
+Es ist einfach anwendbar, behindert Interventionen kaum, ist auch grundsätzlich beim NSTEMI einsetzbar und ist als *Schmelztablette* einsetzbar
+(Cave: keine Resorption über Mundschleimhaut, sondern im GI-Trakt;
 Gabe z. B. über Magensonde möglich).
 Für das alternativ anwendbare **Prasugrel** (*Efient®*)
-bestehen diverse Kontraindikationen (Alter, Gewicht),
-was die Anwendung verkompliziert.
+bestehen diverse Kontraindikationen (Alter, Gewicht), was die Anwendung verkompliziert.
 
-Bei **stabilen KHK-Patienten**
-und ACS-Patienten,
-welche kein Prasugrel oder Ticagrelor erhalten können,
-sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie,
-ist **Clopidogrel** (*Plavix®*) empfohlen.
+Bei **stabilen KHK-Patienten** und ACS-Patienten, welche kein Prasugrel oder Ticagrelor erhalten können, sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie, ist **Clopidogrel** (*Plavix®*) empfohlen.
 
 Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 
@@ -606,11 +537,9 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 .. rubric:: Durchführung
 ```
 
-Wenn die Fibrinolyse angewendet werden soll,
-dann sollte diese bei einem
+Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 {abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
-*so früh wie möglich*
-initiiert werden (\< 10 min. nach {term}`FMC`).
+*so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
 
 - Schmerztherapie:
   z. B. **Morphin** i. v., titriert in 2—5 mg-Schritten

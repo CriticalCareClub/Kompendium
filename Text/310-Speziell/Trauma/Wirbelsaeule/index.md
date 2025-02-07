@@ -2,9 +2,7 @@
 
 # Wirbelsäulen- und Rückenmarkstrauma
 
-Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule,
-die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder
-ohne Rückenmarkschädigung führt .
+Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule, die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder ohne Rückenmarkschädigung führt .
 
 ## Typische Unfallmechanismen
 
@@ -56,11 +54,7 @@ ohne Rückenmarkschädigung führt .
 :::
 ::::
 
-Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn
-der Patient nicht angeschnallt war, oder die Kopfstütze fehlt. Es kommt
-zu einer Zerrung des Halsmarks, welche sich durch *Schmerzen im
-HWS-Bereich*, Kopfschmerzen, Schwindel, Tinnitus und evtl. neurologische
-Ausfälle (in schweren Fällen) bemerkbar macht.
+Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn der Patient nicht angeschnallt war, oder die Kopfstütze fehlt. Es kommt zu einer Zerrung des Halsmarks, welche sich durch *Schmerzen im HWS-Bereich*, Kopfschmerzen, Schwindel, Tinnitus und evtl. neurologische Ausfälle (in schweren Fällen) bemerkbar macht.
 
 ## Querschnittssyndrom
 
@@ -75,11 +69,7 @@ Ausfälle (in schweren Fällen) bemerkbar macht.
 :::
 ::::
 
-Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im
-Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome
-eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei
-der Rettung, der Untersuchung und dem Transport des Patienten ist
-unbedingt notwendig. Es können folgende Symtome auftreten:
+Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei der Rettung, der Untersuchung und dem Transport des Patienten ist unbedingt notwendig. Es können folgende Symtome auftreten:
 
 - Ausfall von Motorik und/oder Sensibilität
 - Blutdruckabfall aufgrund fehlender Gefäßregulation
@@ -98,12 +88,7 @@ unbedingt notwendig. Es können folgende Symtome auftreten:
 :::
 ::::
 
-Aufgrund des Unfalls kommt es zu einer plötzlichen Durchtrennung des
-Rückenmarks, wodurch die Steuerung der Gefäßregulation (und somit der
-Gefäßtonus) versagt. Somit sinkt der Blutdruck rasch ab, es kommt zu
-einer lebensbedrohlichen Kreislaufstörung. Bei einem hohen Querschnitt
-kann auch nervöse die Atemmuskulatur betroffen sein und es zur
-Atemlähmung kommen.
+Aufgrund des Unfalls kommt es zu einer plötzlichen Durchtrennung des Rückenmarks, wodurch die Steuerung der Gefäßregulation (und somit der Gefäßtonus) versagt. Somit sinkt der Blutdruck rasch ab, es kommt zu einer lebensbedrohlichen Kreislaufstörung. Bei einem hohen Querschnitt kann auch nervöse die Atemmuskulatur betroffen sein und es zur Atemlähmung kommen.
 
 (tt09031c)=
 

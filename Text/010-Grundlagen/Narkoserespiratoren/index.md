@@ -78,30 +78,24 @@ Geräteseitig
 
 ##### Sauerstoffmangelsignal
 
-Akustisches Mangelsignal gem. EN 470 bei Unterschreitung eines
-vom Hersteller angegebenen Mindestdrucks (i. d. R. 2,2 bar).
-Es mussm indestens 7 Sekunden dauern und mind. 2 dB über weißem
-Rauschen von 50 db liegen.
-Das Signal muss *aus dem Sauerstoffversorgungsdruck*
-abgeleitet werden.
+Akustisches Mangelsignal gem. EN 470 bei Unterschreitung eines vom Hersteller angegebenen Mindestdrucks (i. d. R. 2,2 bar).
+Es mussm indestens 7 Sekunden dauern und mind. 2 dB über weißem Rauschen von 50 db liegen.
+Das Signal muss *aus dem Sauerstoffversorgungsdruck* abgeleitet werden.
 
 ```{index} single: Lachgassperre
 ```
 
 ##### Lachgassperre
 
-Bei Ausfall von Suaerstoff muss die Zufuhr von Lachgas
-automatisch unterbunden werden.
+Bei Ausfall von Suaerstoff muss die Zufuhr von Lachgas automatisch unterbunden werden.
 
 ```{index} single: Sintermetallfilter
 ```
 
 ##### Gasdosierung: Pneumatisch mit Flowmeter
 
-*Sintermetallfilter* (max. 0,1 mm) reduzieren den Gasdruck vom
-Versorgungsdruck (ca. 5 bar) auf. ca 1,5 bar vor den Regelventilen.
-Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung
-mit dem Durchfluß überein.
+*Sintermetallfilter* (max. 0,1 mm) reduzieren den Gasdruck vom Versorgungsdruck (ca. 5 bar) auf. ca 1,5 bar vor den Regelventilen.
+Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung mit dem Durchfluß überein.
 
 ```{index} single: ORC
 ```
@@ -147,15 +141,12 @@ Davor und nach dem Frischgasventil findet eine Flow- und Druckmessung statt.
 .. todo:: Bilder Frischgasentkoppelung
 ```
 
-Während der Inspiration wird Frischgas in das Reservoir geleitet,
-während der Exspiration wird es in das System eingeleitet.
+Während der Inspiration wird Frischgas in das Reservoir geleitet, während der Exspiration wird es in das System eingeleitet.
 
 Exspiratorisch:
-Über die Gaseinlassventile werden die Gase AIRS/O₂ bzw. N2O/O₂ in den
-Mischtank geleitet.
+Über die Gaseinlassventile werden die Gase AIRS/O₂ bzw. N2O/O₂ in den Mischtank geleitet.
 Die Ventile werden zeitgesteuert nacheinander geöffnet und geschlossen.
-Flow und Druck der einströmenden Gase werden überwacht,
-sodass der Mischer unabhängig von Versorgungsdrücken ist.
+Flow und Druck der einströmenden Gase werden überwacht, sodass der Mischer unabhängig von Versorgungsdrücken ist.
 Der Gesamt-Frischgasflow wird mit Hilfe eines *Proportionalventils*
 (Flowdosierventil)
 gesteuert und **nur in der Exspirationsphase** in das Kreisystem geleitet.
@@ -167,8 +158,7 @@ gesteuert und **nur in der Exspirationsphase** in das Kreisystem geleitet.
 Geeignet für: Halothane, Enflurane, Isuflurane, Sevoflurane;
 *nicht* für Desflurane.
 
-Die  Konzentrationseinstellung erfolgt durch Varaition
-des Querschnitts in der Verdunstungsleitung.
+Die  Konzentrationseinstellung erfolgt durch Varaition des Querschnitts in der Verdunstungsleitung.
 
 $$
 \mathsf{Sättigungskonzentration} = \frac{\mathsf{Dampfdruck}}{\mathsf{Luftdruck}}
@@ -229,21 +219,10 @@ $$
 
 ### Atemkalk
 
-Atemkalk dient in Kreislaufsystemen zur Elimination von CO₂ durch
-Bindung des in der Ausatemluft enthaltenem Kohlenstoffdioxid.
-In der
-Medizin und beim Tauchen wird eine Mischung aus **Calciumhydroxid**
-Ca(OH)₂ und **Natriumhydroxid** NaOH verwendet, früher auch
-*Kaliumhydroxid* KOH und *Bariumhydroxid* Ba(OH)₂.
-Atemkalk zur
-chemischen Bindung von Kohlenstoffdioxid wurde 1924 von Ralf Waters
-eingeführt. 100 g Natriumhydroxid können bis zu 23 Liter
-Kohlenstoffdioxid binden. Durchschnittliche Absorber können 10—15
-Liter pro 100 g absorbieren.
-Dem Atemkalk ist ein pH-Indikator
-beigemischt, der bei niedrigem pH-Wert seine Farbe von weiß nach
-violett ändert und damit (unzuverlässig) anzeigt, dass der Absorber
-verbraucht ist.
+Atemkalk dient in Kreislaufsystemen zur Elimination von CO₂ durch Bindung des in der Ausatemluft enthaltenem Kohlenstoffdioxid.
+In der Medizin und beim Tauchen wird eine Mischung aus **Calciumhydroxid** Ca(OH)₂ und **Natriumhydroxid** NaOH verwendet, früher auch *Kaliumhydroxid* KOH und *Bariumhydroxid* Ba(OH)₂.
+Atemkalk zur chemischen Bindung von Kohlenstoffdioxid wurde 1924 von Ralf Waters eingeführt. 100 g Natriumhydroxid können bis zu 23 Liter Kohlenstoffdioxid binden. Durchschnittliche Absorber können 10—15 Liter pro 100 g absorbieren.
+Dem Atemkalk ist ein pH-Indikator beigemischt, der bei niedrigem pH-Wert seine Farbe von weiß nach violett ändert und damit (unzuverlässig) anzeigt, dass der Absorber verbraucht ist.
 
 > CO₂ + H₂O ⇌ H₂CO₃
 >
@@ -254,32 +233,39 @@ verbraucht ist.
 ## Datex Ohmeda und GE
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115001-01341px.\*
+
 GE Monitormodule
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150324_124348-01341px.\*
+
 Nachfüllen eines GE-Sevofluran-Vapors.
 :::
 
 ### Aespire
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161636-01341px.jpg
+
 Frontansicht
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161645-01341px.jpg
+
 Mittig die Druckanzeigen für die VErsorgungsdrücke. Links oben die Ventile zur Regulation der Frischgase.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161717-01341px.jpg
+
 Externe Monitoreinheit (oben) und Beatmungseinheit (unten)
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161729-01341px.jpg
+
 Externe Beatmungseinheit Typ 7100.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140403_080248-01341px.jpg
+
 Die xterne Beatmungseinheit Typ 7100 ermöglicht die volumskontrollierte Beatmung
 :::
 

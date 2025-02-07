@@ -10,20 +10,15 @@
 
 Die "Stärke" des Arzneimittels
 {index}` <Stärke des Arzneimittels>`
-ist je nach
-Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder
-Gewichtseinheit.
-Bei Medikamenten wird normalerweise die Menge (Masse) des
-Wirkstoffes (z. B. in Milligramm (mg)) angegeben.
+ist je nach Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder Gewichtseinheit.
+Bei Medikamenten wird normalerweise die Menge (Masse) des Wirkstoffes (z. B. in Milligramm (mg)) angegeben.
 Manchmal erfolgt die Angabe auch in anderen Einheiten, wie z. B. den *Internationalen Einheiten* (*IE*).
 Bei flüssigen Arzneimitteln (Ampullen, Infusionen, ...)
 findet sich außerdem auch eine Volumsangabe.
-Aus der Angabe der
-Wirkstoffmenge und des Volumens kann man die Konzentration berechnen.
+Aus der Angabe der Wirkstoffmenge und des Volumens kann man die Konzentration berechnen.
 In manchen Fällen ist auch eine Konzentrationsangabe des Wirkstoffs im Lösungsmittel üblich
 (z. B. Glukose 5%, NaCl 0,9%, Propofol 1%, Adrenalin 1 : 10.000 usw.).
-Ein Prozent enspricht dann umgerechnet 10 mg / mL
-bzw. 1 mL entspricht 1.000 mg.
+Ein Prozent enspricht dann umgerechnet 10 mg / mL bzw. 1 mL entspricht 1.000 mg.
 
 :::{list-table} Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
 :header-rows: 1
@@ -80,24 +75,18 @@ bzw. 1 mL entspricht 1.000 mg.
   - Heparin
 :::
 
-Viele Medikamente können auch zur besseren Dosierung mit
-*geeigneten Substanzen* (siehe Packungsbeilage) verdünnt werden:
+Viele Medikamente können auch zur besseren Dosierung mit *geeigneten Substanzen* (siehe Packungsbeilage) verdünnt werden:
 
 - Ampulle mit Wirkstoff 15 mg in 3 mL: Konzentration *5* mg / mL
 - Obige Ampulle + 12 mL physiologische Kochsalzlösung (NaCl 0,9%):
   Konzentration *1* mg / mL
 
-Manche Medikamente liegen als *Trockensubstanz* in einer
-*Trockenstechampulle* vor, welche vor Verwendung erst mit einem
-*geeigneten* Lösungsmittel aufgelöst werden muss.
+Manche Medikamente liegen als *Trockensubstanz* in einer *Trockenstechampulle* vor, welche vor Verwendung erst mit einem *geeigneten* Lösungsmittel aufgelöst werden muss.
 Das erforderliche Lösungmittel ist vom Medikament abhängig.
-Bei Verwendung eines falschen Lösungsmittel kann es z. B. zu
-Ausflockungen,
-Wirkminderungen
-o. ä.
+Bei Verwendung eines falschen Lösungsmittel kann es z. B. zu Ausflockungen,
+Wirkminderungen o. ä.
 kommen,
-das Medikament ist damit verdorben und darf keinesfalls
-verwendet werden.
+das Medikament ist damit verdorben und darf keinesfalls verwendet werden.
 
 :::{admonition} Synopsis
 - Medikamente sind oft auch mit *gleichem Namen* in unterschiedlichen
@@ -112,8 +101,7 @@ verwendet werden.
 
 #### Verabreichungsarten
 
-Es gibt verschiedene Arten Medikamente zu verabreichen. Dies kann
-entweder **invasiv** {index}` <invasiv>` (verletzend) oder **nicht-invasiv** {index}` <nicht-invasiv>` sein.
+Es gibt verschiedene Arten Medikamente zu verabreichen. Dies kann entweder **invasiv** {index}` <invasiv>` (verletzend) oder **nicht-invasiv** {index}` <nicht-invasiv>` sein.
 
 ##### Invasiv
 
@@ -127,11 +115,7 @@ entweder **invasiv** {index}` <invasiv>` (verletzend) oder **nicht-invasiv** {in
 :::
 ::::
 
-Bei der invasiven Verabreichung wird das Medikament mittels einer Kanüle
-in das jeweilige Gewebe bzw. Gefäß dem Patienten injiziert. Diese
-Verabreichungsarten sind i. d. R. den Ärzten, besonders dafür geschulten
-Sanitätern, diplomiertem Krankenpflegepersonal oder Hebammen
-vorbehalten. Die gängigen Injektionsarten sind:
+Bei der invasiven Verabreichung wird das Medikament mittels einer Kanüle in das jeweilige Gewebe bzw. Gefäß dem Patienten injiziert. Diese Verabreichungsarten sind i. d. R. den Ärzten, besonders dafür geschulten Sanitätern, diplomiertem Krankenpflegepersonal oder Hebammen vorbehalten. Die gängigen Injektionsarten sind:
 
 - *Intravenöse Injektion*
   (**i.v.** {index}` <i.v.>`):
@@ -162,23 +146,16 @@ vorbehalten. Die gängigen Injektionsarten sind:
 :::
 ::::
 
-Bei der nicht invasiven Verabreichung wird das Medikament über eine
-Schleimhaut oder direkt über die Haut aufgenommen.
+Bei der nicht invasiven Verabreichung wird das Medikament über eine Schleimhaut oder direkt über die Haut aufgenommen.
 Für die **orale** {index}` <orale>` Aufnahme muss das Arzneimittel geschluckt werden.
-Bei der *sublingualen* {index}` <sublingual>` Methode kommt die Substanz unter
-die Zunge des Patienten.
+Bei der *sublingualen* {index}` <sublingual>` Methode kommt die Substanz unter die Zunge des Patienten.
 Bei der *perkutanen* {index}` <perkutan>`
-Verabreichung wird das Medikament auf die Haut aufgetragen und
-aufgenommen.
+Verabreichung wird das Medikament auf die Haut aufgetragen und aufgenommen.
 
 ## Aufziehen eines Medikamentes aus einer Ampulle
 
-Glasampullen lassen sich unterschiedlich öffnen: Ampullen mit einem
-*roten Punkt* haben eine *Sollbruchstelle*, der Daumen muss beim
-Aufbrechen auf dem roten Punkt liegen. Ampulle mit einem "*Halsring*"
-können nach allen Richtungen aufgebrochen werden. Beim Arbeiten muss
-besonderes Augenmerk auf eine *sterile Arbeitsweise* gelegt werden! Es
-kann sonst zu Infektionen kommen.
+Glasampullen lassen sich unterschiedlich öffnen: Ampullen mit einem *roten Punkt* haben eine *Sollbruchstelle*, der Daumen muss beim Aufbrechen auf dem roten Punkt liegen. Ampulle mit einem "*Halsring*"
+können nach allen Richtungen aufgebrochen werden. Beim Arbeiten muss besonderes Augenmerk auf eine *sterile Arbeitsweise* gelegt werden! Es kann sonst zu Infektionen kommen.
 Grundsätzlich soll eine Ampullenkopf nicht ungeschützt aufgebrochen werden,
 es besteht Verletzungungsgefahr.
 
@@ -368,31 +345,25 @@ Beispiele für Infusionsbeutel und
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Tropfkammer-Live-00441pt.\*
 :width: 100%
 
-Der Dorn des Infusionsbestecks mit der
-Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die
-Tropfkammer ca. bis zur Hälfte gefüllt.
+Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Stellrad-Live-00441pt.\*
 :width: 100%
 
-Mit der Radklemme wird
-die Inf eschwindigkeit reguliert.
+Mit der Radklemme wird die Inf eschwindigkeit reguliert.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-3WegHahn-Live-00441pt.\*
 :width: 100%
 
-Mittels eines
-3-Weg-Hahns können weitere Infusionen angeschlossen
-werden.
+Mittels eines 3-Weg-Hahns können weitere Infusionen angeschlossen werden.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*
 :width: 100%
 
-Schlussendlich wird die Infusion an einem Zugang zum
-Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
+Schlussendlich wird die Infusion an einem Zugang zum Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
 :::
 
 ```{eval-rst}
@@ -425,21 +396,11 @@ Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
 :::
 ::::
 
-Periphere Venenverweilkanülen werden routinemäßig zur intravenösen Gabe
-von Medikamenten bzw. Infusionen verwendet. Sie bestehen aus einem
-Kunststoffschlauch, der in der Vene zu liegen kommt, und aus einem
-außenstehenden Teil mit einer Konnektionsstelle für Infusionen, sowie
-oft einem Konus mit Rückschlagventil, für die schnelle Gabe von
-Medikamenten. Im Kunststoffschlauch liegt eine Führungskanüle
-(*Mandrin*), welche das Durchstechen der Haut und der Vene zwecks der
-Katheterisierung ermöglicht. Die Kanüle wird nach Einführen ins
-Blutgefäß entfernt.
+Periphere Venenverweilkanülen werden routinemäßig zur intravenösen Gabe von Medikamenten bzw. Infusionen verwendet. Sie bestehen aus einem Kunststoffschlauch, der in der Vene zu liegen kommt, und aus einem außenstehenden Teil mit einer Konnektionsstelle für Infusionen, sowie oft einem Konus mit Rückschlagventil, für die schnelle Gabe von Medikamenten. Im Kunststoffschlauch liegt eine Führungskanüle
+(*Mandrin*), welche das Durchstechen der Haut und der Vene zwecks der Katheterisierung ermöglicht. Die Kanüle wird nach Einführen ins Blutgefäß entfernt.
 
 Gebräuchliche Marken sind z. B. *Venflon* oder *Braunüle*.
-Venenverweilkanülen gibt es in verschiedenen Durchmessern, sie sind
-farbcodiert. Normalerweise werden *grüne* Venenverweilkanülen bei
-Erwachsenen verwendet, bzw. rosafarbene bei schlechten
-Venenverhältnissen.
+Venenverweilkanülen gibt es in verschiedenen Durchmessern, sie sind farbcodiert. Normalerweise werden *grüne* Venenverweilkanülen bei Erwachsenen verwendet, bzw. rosafarbene bei schlechten Venenverhältnissen.
 
 :::{list-table} Farbcodierung von peripheren Venenverweilkanülen
 :header-rows: 1

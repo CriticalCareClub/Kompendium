@@ -108,16 +108,12 @@ langsam spritzen (Flush)
 
 ### Maligne Hyperthermie
 
-Darunter versteht man eine lebensbedrohliche Störung der
-Skelettmuskulatur. Sie wird durch sog. Triggersubstanzen ausgelöst.
+Darunter versteht man eine lebensbedrohliche Störung der Skelettmuskulatur. Sie wird durch sog. Triggersubstanzen ausgelöst.
 Diese sind alle Inhalationsanästhetika, **Succinylcholin** und Stress.
 
-Der Patient weißt an frühen Symptomen eine Tachykardie, eine Hyperkapnie
-sowie eine Zyanose und einen Muskelrigor auf. Die Hyerthermie tritt erst
-spät auf.
+Der Patient weißt an frühen Symptomen eine Tachykardie, eine Hyperkapnie sowie eine Zyanose und einen Muskelrigor auf. Die Hyerthermie tritt erst spät auf.
 
-Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002
-Leitlinien zur Therapie der Malignen Hyperthermie herausgegeben:
+Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlinien zur Therapie der Malignen Hyperthermie herausgegeben:
 
 - Triggersubstanzen sofort absetzen
 - Dantrolen i.v. zur direkten Relaxation der Skelettmuskulatur
@@ -128,8 +124,7 @@ Leitlinien zur Therapie der Malignen Hyperthermie herausgegeben:
 Die Maligne Hyperthermie kann unerkannt fatal enden!
 :::
 
-Folgende Anästhetika können bei Patienten mit Neigung zu Malignen
-Hyperthermie gefahrlos eingesetzt werden:
+Folgende Anästhetika können bei Patienten mit Neigung zu Malignen Hyperthermie gefahrlos eingesetzt werden:
 
 - Lachgas
 - i.v.-Anästhetika

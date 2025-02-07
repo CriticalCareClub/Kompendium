@@ -23,42 +23,30 @@ Narkose vertiefen
 Maßnahmen zur Senkung des IOD:
 Barbiturate, Propofol, Sevo, Benzo, Opioide, ndMR, Acetazolamid (Diamox) reduziert die Kammerwasserbildung.
 Hyperventilation (Vasokonstriktion choroidal)
-Verbesserter venöser Abfluss; CAVE bei Husten, PEEP, Kopftieflagerung,
-hohem ZVD Alpha- und Betablocker zur Reduzierung des MAP (choroidalen Blutvolumens)
+Verbesserter venöser Abfluss; CAVE bei Husten, PEEP, Kopftieflagerung, hohem ZVD Alpha- und Betablocker zur Reduzierung des MAP (choroidalen Blutvolumens)
 
 Augenperforation RSI bei nicht nüchtern, Gefahr Verlust von Augeninhalt, Infektion, Aspiration, Med. die IOD senken.
 
 
 
-Strabismus OP bei Kindern Okkulocardialer Reflex OCR bei Kindern ausgeprägter, PONV !!! vermehrt bei Strabismus (Zofran,
-Dexabene), erhöhte MH-Inzidenz,
-ITN oder LMA möglich.
+Strabismus OP bei Kindern Okkulocardialer Reflex OCR bei Kindern ausgeprägter, PONV !!! vermehrt bei Strabismus (Zofran, Dexabene), erhöhte MH-Inzidenz, ITN oder LMA möglich.
 
 Reninopathiea of Prematurity ROP
 = abnormale Proliferation der retinalen Gefäße des Frühgeborenen, Urs.
 Hoher paO2 Ziel paO2 = 60-80mmHg, Nachbeatmung auf ICU (Unreife des Atemzentrums)
 Ablatio retinae
-= Netzhautablösung; Patient sieht Blitze und Schatten OP: Retina und Aderhaut an der Rissstelle wieder in Kontakt bringen mit Argon-Laser,
-Kryoapplikation eindellend (Plombe,
-Cerclage) und Vitrektomie mit Gas oder Ölfüllung.
+= Netzhautablösung; Patient sieht Blitze und Schatten OP: Retina und Aderhaut an der Rissstelle wieder in Kontakt bringen mit Argon-Laser, Kryoapplikation eindellend (Plombe, Cerclage) und Vitrektomie mit Gas oder Ölfüllung.
 AN als ITN oder LMA; KEIN Lachgas!!! Augenschutzbrillen bei Lasereinsatz
 
 
 LA (Lidocain 2%, Bupivacain 0,5-0,75% +Hyaluronidase + Epinephrin als Zusatz)
-Peribulbärblock = Injektion in das Fettgewebe außerhalv des Muskelkonus für z.B. Katarakt-OP Episkleralanästhesie = LA in den episkleralen Spaltraum Retrobulbärblock  =  Injektion intrakonisch;  Kompl: Zittern, Erbrechen, kontralaterale Blindheit,
-Krämpfe, Hypoventilation und Atemstillstand durch Hirnstammanästhesie bei Fehlinjektion)
-Allgm. Kompl: Orbitale Blutung, Nervenverletzung, Glaskörpereinblutung, Bindehautblutung,
-Rektusparese,
-intravakuläre Fehlinjektion mit kardialen und ZNS-Wirkung.
+Peribulbärblock = Injektion in das Fettgewebe außerhalv des Muskelkonus für z.B. Katarakt-OP Episkleralanästhesie = LA in den episkleralen Spaltraum Retrobulbärblock  =  Injektion intrakonisch;  Kompl: Zittern, Erbrechen, kontralaterale Blindheit, Krämpfe, Hypoventilation und Atemstillstand durch Hirnstammanästhesie bei Fehlinjektion)
+Allgm. Kompl: Orbitale Blutung, Nervenverletzung, Glaskörpereinblutung, Bindehautblutung, Rektusparese, intravakuläre Fehlinjektion mit kardialen und ZNS-Wirkung.
 
 Phenylephrin
-=  Sympathomimetikum (Alpharezeptoren) zur Dilatation der Pupille bei Ophthalmoskopie,
-postoperativer Iritis NW: Koronarspasmen, MCI, Herzinsuffizienz, Hypertension, Tachykardie, Arrhythmien,
-Lungenödem, Intracerbrale Blutungen beim Ng und Fg.
+=  Sympathomimetikum (Alpharezeptoren) zur Dilatation der Pupille bei Ophthalmoskopie, postoperativer Iritis NW: Koronarspasmen, MCI, Herzinsuffizienz, Hypertension, Tachykardie, Arrhythmien, Lungenödem, Intracerbrale Blutungen beim Ng und Fg.
 Phenylephrin Augentropfen für Mydriase bei Kindern: kann hypertensive Krise mit Lungenödem auslösen.
 
 Atropin Augentropfen:
-Parasympatholyticum,
-Mydriasis,
-Hemmt Azetylcholin
+Parasympatholyticum, Mydriasis, Hemmt Azetylcholin
 über muskarinartigen Rezeptor, toxisch 70µg/kg NW: Tachykardie, Vermindert Sekretion: Schweiß, Speichel, Bronchien und Magen, Verminderte Darmmotilität, ZNS: Verwirrung, Halluzinationen, Ataxien Antidot: Anticholium (Physiostigmin)

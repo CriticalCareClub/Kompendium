@@ -35,29 +35,20 @@
   - Vermehrte Atemnot, Husten und Auswurf
 :::
 
-Die {dfn}`chronische Bronchitis` ist eine chronische
-entzündliche Schleimhautschädigung der unteren Atemwege.
+Die {dfn}`chronische Bronchitis` ist eine chronische entzündliche Schleimhautschädigung der unteren Atemwege.
 Die {dfn}`COPD`
 (engl. *Chronic Obstructive Pulmonary Disease*,
 {dfn}`chronisch-obstruktive Lungenerkrankung`)
-ist eine chronische entzündliche Schleimhautschädigung,
-welche eine zunehmende obstruktive
-Atemwegseinschränkung aufweist.
+ist eine chronische entzündliche Schleimhautschädigung, welche eine zunehmende obstruktive Atemwegseinschränkung aufweist.
 
-Die COPD ist durch eine
-voranschreitende Verschlechterung der Atemleistung gekennzeichnet.
-Am Anfang steht die chronische Bronchitis,
-welche durch Husten mit schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*").
+Die COPD ist durch eine voranschreitende Verschlechterung der Atemleistung gekennzeichnet.
+Am Anfang steht die chronische Bronchitis, welche durch Husten mit schleimigem Auswurf gekennzeichnet ist ("*Raucherhusten*").
 Es kommt dabei zu einer gesteigerten Entzündungsantwort auf eingeatmete Stoffe
-(Zigarettenrauch, Umweltschadstoffe, …). Wenn man in der
-Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann,
-spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
-Diese geht mit bleibenden Veränderungen der unteren Atemwege einher
-und sind in der Grafik {ref}`Figure-copd-veraenderungen` dargestellt.
+(Zigarettenrauch, Umweltschadstoffe, …). Wenn man in der Lungenfunktionsuntersuchung eine Atmungsseinschränkung nachweisen kann, spricht man von der chronisch-obstruktiven Lungenerkrankung (COPD).
+Diese geht mit bleibenden Veränderungen der unteren Atemwege einher und sind in der Grafik {ref}`Figure-copd-veraenderungen` dargestellt.
 
 Durch die erschwerte Ausatmung kommt es zu einer chronischen
-Überblähung der Lungenbläschen und zu einer "Fass-förmigen" Verformung
-des Brustkorbes.
+Überblähung der Lungenbläschen und zu einer "Fass-förmigen" Verformung des Brustkorbes.
 Im Endstadium zeigen sich Zeichen einer
 {ref}`Rechtsherzinsuffizienz <rechtsherzinsuffizienz>`
 aufgrund einer Störung im Lungenkreislauf.
@@ -67,16 +58,14 @@ aufgrund einer Störung im Lungenkreislauf.
 
 ## Exazerbation
 
-Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender
-Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer
-plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist
-durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
+Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 
 ## Probleme mit Sauerstoff bei COPD-Patienten
 
 ::::{only} not nosidebar
 
 :::{margin} COPD und O₂
+
 - Atemantrieb normalerweise durch **CO₂**-Spiegel
 - COPD: CO₂-Spiegel dauerhaft erhöht →
   Gewöhnungseffekt → Atemantrieb gemäß O₂-Spiegel
@@ -86,45 +75,25 @@ durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 :::
 ::::
 
-Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes
-abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei
-COPD-Patienten ist die *CO₂-Konzentration* im Blut jedoch chronisch
-*erhöht*, dadurch *gewöhnt* sich der Körper an diesen Zustand. Er
-beginnt dann den *Atemantrieb direkt über den O₂*-Gehalt im Blut zu
-regeln.
+Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei COPD-Patienten ist die *CO₂-Konzentration* im Blut jedoch chronisch *erhöht*, dadurch *gewöhnt* sich der Körper an diesen Zustand. Er beginnt dann den *Atemantrieb direkt über den O₂*-Gehalt im Blut zu regeln.
 
-Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem
-Patienten der O₂-Gehalt künstlich erhöht (z. B. durch
-Sauerstoffberieselung), fehlt der Atemantrieb, es gilt bei *diesen*
-Patienten: *Je höher der O₂-Gehalt des Blutes, desto geringer der
-Atemantrieb.* Somit wird CO₂ nicht mehr ausreichend abgeatmet, der
-CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu
-*Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu
-einem Atemstillstand kommen.
+Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem Patienten der O₂-Gehalt künstlich erhöht (z. B. durch Sauerstoffberieselung), fehlt der Atemantrieb, es gilt bei *diesen* Patienten: *Je höher der O₂-Gehalt des Blutes, desto geringer der Atemantrieb.* Somit wird CO₂ nicht mehr ausreichend abgeatmet, der CO₂-Gehalt im Blut steigt weiter an und es kommt dadurch zu *Bewusstseinsstörungen* (CO₂-Narkose). Im Extremfall kann es auch zu einem Atemstillstand kommen.
 
 :::{danger}
 **Bewusstseinsstörungen** bei übermäßiger Sauerstoffgabe möglich!
 :::
 
 :::{danger}
-Bei COPD-Patienten kann es bei Sauerstoffgabe zu
-Bewusstseinsstörungen und im Extremfall zu einem Atemstillstand
-kommen.
+Bei COPD-Patienten kann es bei Sauerstoffgabe zu Bewusstseinsstörungen und im Extremfall zu einem Atemstillstand kommen.
 :::
 
 (figure-copd-veraenderungen)=
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\*
-Veränderung der Atemwege bei der COPD
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\* Veränderung der Atemwege bei der COPD
 
-*Links:* Schema eines
-gesunden Bronchus und einer gesunden Alveole.
-*Oben rechts:* Bei
-der COPD sind die kleinen Luftwege verschleimt und verengt.
-*Unten
-rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die
-Luft nur erschwert wieder entweichen
-kann.
+*Links:* Schema eines gesunden Bronchus und einer gesunden Alveole.
+*Oben rechts:* Bei der COPD sind die kleinen Luftwege verschleimt und verengt.
+*Unten rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
 
 ₢ Lena Hirtler
 {term}`ℓ MfG`
@@ -267,8 +236,7 @@ kann.
 
 : Letzte Spray-Einnahme?
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\*
-Entwicklung einer COPD-Erkrankung
+:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\* Entwicklung einer COPD-Erkrankung
 
 Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
 "Karriere" hinter sich.
@@ -387,8 +355,7 @@ LUFU
 : vermind. VK und red. FEV1, obstruktive Ventilationsstörung, BGA paCO2 erhöht Erhöhte Compliance bei verminderter Struktur (elastische Fasern zerstört), aber auch verminderte Rückstellkraft und Obstruktion = erhöhte Resistance.
 
 Indikation zur NIV
-: Ist das klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen,
-Schaukelatmung, muskuläre Erschöpfung. paCO2\>55 steigende Tendenz, paO2 \< 55 mit SaO2\<88 trotz Sauerstoffgabe, pH \< 7,3
+: Ist das klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen, Schaukelatmung, muskuläre Erschöpfung. paCO2\>55 steigende Tendenz, paO2 \< 55 mit SaO2\<88 trotz Sauerstoffgabe, pH \< 7,3
 
 
 Beatmungseinstellung NIV: der extrinsische PEEP muss UNTER dem intrinsischem PEEP liegen = Reduktion der Atemarbeit (innere Schienung)  +  Offenhalten der kleinen Atemwege (vermindert Resistance). Bei CPAP-ASB Rampe max 0,2sec (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
@@ -396,8 +363,7 @@ Beatmungseinstellung NIV: der extrinsische PEEP muss UNTER dem intrinsischem PEE
 :::{warning}
 Cave: Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein.
 
-Therapie: Ursache beheben, exspiratorischen PEEP anheben. PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös  überbläht, sondern zur Reduktion der Atemarbeit! PEEP schrittweise steigern,
-Druckunterstützung 5-10 CPAP-ASB.
+Therapie: Ursache beheben, exspiratorischen PEEP anheben. PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös  überbläht, sondern zur Reduktion der Atemarbeit! PEEP schrittweise steigern, Druckunterstützung 5-10 CPAP-ASB.
 :::
 
 
@@ -406,6 +372,5 @@ Druckunterstützung 5-10 CPAP-ASB.
 
 Kriterien zur Intubation:
 Zunehmende Somnolenz, unzureichende Schutzreflexe, rapid shallow breathing (AF\>35/min, VT \<
-300), weiterer paCO2 Anstieg mit pH-Abfall, zunehmende hämodynamische Instabilität,
-Schocksymptomatik, HF \> 140/min.
+300), weiterer paCO2 Anstieg mit pH-Abfall, zunehmende hämodynamische Instabilität, Schocksymptomatik, HF \> 140/min.
 Intubation so restriktiv wie möglich!

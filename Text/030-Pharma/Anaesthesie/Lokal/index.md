@@ -203,8 +203,7 @@ Ist das Milieu im Gewebe sauer, also der pH niedrig, z. B. aufgrund einer loka
 Die Wirkung des Lokalanästhetikums ist reduziert oder es ist überhaupt wirkungslos.
 
 :::{note}
-Alle Lokalanästhetika sind schwach basisch. Daher sind sie in
-Entzündungsgewebe (sauer) nicht wirksam.
+Alle Lokalanästhetika sind schwach basisch. Daher sind sie in Entzündungsgewebe (sauer) nicht wirksam.
 :::
 
 :::{figure} LA-Wirkung.png
@@ -297,8 +296,7 @@ Tetracain  Pantocain®
 
 ### EMLA®-Salbe
 
-Diese 5%ige Creme enthält 2,5% Lidocain und 2,5% Prilocain. Sie ist
-besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
+Diese 5%ige Creme enthält 2,5% Lidocain und 2,5% Prilocain. Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
 Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder \<6 Monate nicht zugelassen.
 
 
@@ -375,9 +373,7 @@ Benzodiazepine für Patientenkomfort: Vorteil: antikonvulsiv;  Nachteil: Initial
 
 Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
 Phase I: Hypertension, Tachykardie, zentrale Exzitation Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
-Phase III: Bradykardie,
-AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff  +  Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin),
-Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
+Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff  +  Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
 100ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
 Kanäle), frühzeitig HLM, LUCAS erwägen.
 
@@ -412,8 +408,7 @@ Nebenwirkungen:
 
 
 
-Kontraindikationen: Überempfindlichkeit, Schock, Hypovolämie,
-Gerinnungsstörungen, lokale Entzündung, Sepsis.
+Kontraindikationen: Überempfindlichkeit, Schock, Hypovolämie, Gerinnungsstörungen, lokale Entzündung, Sepsis.
 
 Folgende Formen der Regionalanästhesie gibt es:
 

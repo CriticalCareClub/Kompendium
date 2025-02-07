@@ -13,29 +13,21 @@
 ::::
 
 Beim *arteriellen Gefäßverschluss* wird das zuführende Gefäß
-verschlossen. Es kommt zu einer schmerzhaften Unterversorgung der
-Extremität mit Blut (Ischämie).
+verschlossen. Es kommt zu einer schmerzhaften Unterversorgung der Extremität mit Blut (Ischämie).
 Der komplette Verschluss passiert plötzlich.
 
-Meistens liegt eine chronische Schädigung der Gefäße infolge anderer
-Erkankungen oder aufgrund eines ungesunden Lebensstils vor. Ursachen für
-solch eine Gefäßschädigung sind z. B. die Zuckerkrankheit (*Diabetes
-mellitus*), Hypertonie, erhöhte
-Blutfette oder das Rauchen. Die Gefäße verkalken und verändern sich auch
-sonst nicht zu ihrem Vorteil.
+Meistens liegt eine chronische Schädigung der Gefäße infolge anderer Erkankungen oder aufgrund eines ungesunden Lebensstils vor. Ursachen für solch eine Gefäßschädigung sind z. B. die Zuckerkrankheit (*Diabetes mellitus*), Hypertonie, erhöhte Blutfette oder das Rauchen. Die Gefäße verkalken und verändern sich auch sonst nicht zu ihrem Vorteil.
 
 ```{rubric} Chronische Grunderkrankung: pAVK
 ```
 
 Wenn die Gefäße nur verengt sind,
-spricht man von der *peripheren
-arteriellen Verschlusskrankheit*,
+spricht man von der *peripheren arteriellen Verschlusskrankheit*,
 abgekürzt
 {dfn}`paVK`.
 Sie ist eine häufige chronische Erkrankung.
 (*Achtung*: Obwohl es
-"*Verschluss*krankheit" heißt, sind die Gefäße nicht komplett
-verschlossen, sondern nur verengt!)
+"*Verschluss*krankheit" heißt, sind die Gefäße nicht komplett verschlossen, sondern nur verengt!)
 
 ## ABCDE
 
@@ -50,11 +42,7 @@ verschlossen, sondern nur verengt!)
 :::
 ::::
 
-Die Symptome ergeben sich aus der Unterversorgung der Extremität mit
-sauerstoffreichem Blut: sie ist blass, kalt, tut höllisch weh und die
-Rekap-Zeit ist nicht mehr sinnvoll messbar. Zusätzlich wird die
-Extremität gefühllos und gelähmt. Der Patient kann ein Kribbeln
-empfinden (*"Ameisenlaufen"*). [^footnote-1] (Lähmung).
+Die Symptome ergeben sich aus der Unterversorgung der Extremität mit sauerstoffreichem Blut: sie ist blass, kalt, tut höllisch weh und die Rekap-Zeit ist nicht mehr sinnvoll messbar. Zusätzlich wird die Extremität gefühllos und gelähmt. Der Patient kann ein Kribbeln empfinden (*"Ameisenlaufen"*). [^footnote-1] (Lähmung).
 
 [^footnote-1]: Im englischen werden die Symptome als die *"five P’s of limb
     ischemia"* zusammengefasst: Pain (schmerzend) Pale (blaß), Pulseless

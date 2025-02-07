@@ -9,22 +9,14 @@
 
 # Hygienische Händedesinfektion
 
-Als hygienische Händedesinfektion wird die Desinfektion der Hände und
-Handgelenke mittels einer Desinfektionslösung und standardisierter
-Handbewegungen bezeichnet.
+Als hygienische Händedesinfektion wird die Desinfektion der Hände und Handgelenke mittels einer Desinfektionslösung und standardisierter Handbewegungen bezeichnet.
 Sie ist eine Routinemaßnahme.
 *Ziel* ist die *Keimreduktion* und damit die *Vermeidung von Kreuzinfektionen*
 (*Unterbrechung der Infektionskette*).
-Die herkömmliche Händewaschung entfernt nur groben Schmutz und sonstige
-mechanische Verunreinigungen,
-die Desinfektionslösung reduziert jedoch
-viele Keime aktiv und gezielt.
+Die herkömmliche Händewaschung entfernt nur groben Schmutz und sonstige mechanische Verunreinigungen, die Desinfektionslösung reduziert jedoch viele Keime aktiv und gezielt.
 
-Übungen mit Fingerfarben zeigen, dass mit einer herkömmlichen
-Handwaschtechnik große Teile der Hand nicht mit Desinfektionsmittel
-benetzt werden (Fingerzwischenräume, Handgelenk, Daumenkuppe, …).
-Abhilfe schaffen die im Folgenden beschriebenen standardisierten
-Handbewegungen.
+Übungen mit Fingerfarben zeigen, dass mit einer herkömmlichen Handwaschtechnik große Teile der Hand nicht mit Desinfektionsmittel benetzt werden (Fingerzwischenräume, Handgelenk, Daumenkuppe, …).
+Abhilfe schaffen die im Folgenden beschriebenen standardisierten Handbewegungen.
 
 :::{admonition} Synopsis
 - *Kreuzinfektion*: Patient 1 → Personal
@@ -37,6 +29,7 @@ Handbewegungen.
 
 
 :::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus.jpg
+
 Auf einem Nährboden wurde eine Bakterienkultur angelegt.
 Jedes der sechs runden Plättchen enthält ein Antibiotikum.
 Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.
@@ -45,17 +38,16 @@ Man kann sehen dass in der Umgebung der Plättchen keine Bakterien wachsen.
 :::
 
 :::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.jpg
-Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen,
-d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
+
+Diese Bakterien (gleicher Keim!) ignorieren 4 von 6 Antibiotika-Plättchen, d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
 Er ist *multiresistent*.
-Die beste Maßnahme dagegen: **Gar nicht erst übertragen!**
-*Ch. Gabriel/KARPAT*
+Die beste Maßnahme dagegen: **Gar nicht erst übertragen!** *Ch. Gabriel/KARPAT*
 :::
 
 :::{figure} /Bilder/Gabriel-Christine-CCCA/amputat-us1.jpg
+
 Oft die Folge:
-Amputation eines Unterschenkels mit einer nicht abheilenden,
-mit einem multiresistenten Staphylokokkus aureus (MRSA) infizierten, Wunde.
+Amputation eines Unterschenkels mit einer nicht abheilenden, mit einem multiresistenten Staphylokokkus aureus (MRSA) infizierten, Wunde.
 
 *Ch. Gabriel/KARPAT*
 :::

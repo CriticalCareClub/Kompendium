@@ -20,16 +20,11 @@
 ## Struktur
 
 Nach der Mundhöhle wird im Magen die Nahrung weiter zerkleinert.
-Der Magen ist ein muskuläres Hohlorgan
-und dient der Nahrungsspeicherung, Nahrungsdurchmischung sowie der
-kontrollierten Weiterleitung des durchmischten Speisebreis.
+Der Magen ist ein muskuläres Hohlorgan und dient der Nahrungsspeicherung, Nahrungsdurchmischung sowie der kontrollierten Weiterleitung des durchmischten Speisebreis.
 
-Der Magen liegt links paramedian unter dem Zwerchfell und fasst ungefähr
-*1,2 - 1,6 L*.
-Je nach Füllungszustand kann die Lage des Magens
-unterschiedlich sein.
-Er kann makroskopisch in mehrere Bereiche
-eingeteilt werden:
+Der Magen liegt links paramedian unter dem Zwerchfell und fasst ungefähr *1,2 - 1,6 L*.
+Je nach Füllungszustand kann die Lage des Magens unterschiedlich sein.
+Er kann makroskopisch in mehrere Bereiche eingeteilt werden:
 {index}` <Cardia>`
 {index}` <Fundus>`
 {index}` <Corpus>`
@@ -60,9 +55,7 @@ Dieser besteht aus Wasser, Schleim, Salzsäure und Pepsin (ein eiweißspaltendes
 Die Magenschleimhaut produziert daher eine *schützende Schleimschicht*, die die Oberfläche vor der starken Säure schützt.
 Pro Tag werden 2—3 Liter Magensaft gebildet.
 
-Um eine gute Durchmischung von Magensaft und Speisebrei (Chymus) zu erreichen,
-wird dieser vom Magen *1—5 Stunden* hin- und herbewegt
-und schubweise über den **Pylorus** (*Pförtner*) in den nachfolgenden Dünndarm weitergeleitet.
+Um eine gute Durchmischung von Magensaft und Speisebrei (Chymus) zu erreichen, wird dieser vom Magen *1—5 Stunden* hin- und herbewegt und schubweise über den **Pylorus** (*Pförtner*) in den nachfolgenden Dünndarm weitergeleitet.
 
 Die Magensaftsekretion kann über drei Phasen beeinflusst werden:
 
@@ -77,11 +70,7 @@ Die Magensaftsekretion kann über drei Phasen beeinflusst werden:
 
 ## Magenschleimhaut und -zellen
 
-Die Magenschleimhaut weist zahlreiche Falten auf. Diese bilden an der
-Curvatura minor die *längsverlaufende Magenstraße*, an der Flüssigkeiten
-schneller in den Dünndarm gelangen können. In kleinen Grübchen der
-Magenschleimhaut (*Foveolae gastricae*) sitzen die wichtigen
-produzierenden Zellen des Magens:
+Die Magenschleimhaut weist zahlreiche Falten auf. Diese bilden an der Curvatura minor die *längsverlaufende Magenstraße*, an der Flüssigkeiten schneller in den Dünndarm gelangen können. In kleinen Grübchen der Magenschleimhaut (*Foveolae gastricae*) sitzen die wichtigen produzierenden Zellen des Magens:
 {index}` <Nebenzellen>`
 {index}` <Hauptzellen>`
 {index}` <Pepsinogen>`
@@ -98,8 +87,4 @@ produzierenden Zellen des Magens:
 - **Belegzellen**: bilden *Salzsäure* und den *Intrinsic Factor*
   (wichtig für die *Vitamin-B12*-Aufnahme)
 
-Zusätzlich zur *klassischen Ring- und Längsmuskelschicht* des
-Magen-Darm-Trakts besitzt der Magen außerdem noch eine *schräge
-Muskelschicht*, die erst die vollständige Entleerung des Magens
-ermöglicht. Ungefähr alle drei Minuten befördern peristaltische Wellen
-bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.
+Zusätzlich zur *klassischen Ring- und Längsmuskelschicht* des Magen-Darm-Trakts besitzt der Magen außerdem noch eine *schräge Muskelschicht*, die erst die vollständige Entleerung des Magens ermöglicht. Ungefähr alle drei Minuten befördern peristaltische Wellen bei gefülltem Magen dessen Inhalt vom Fundus zum Pylorus.

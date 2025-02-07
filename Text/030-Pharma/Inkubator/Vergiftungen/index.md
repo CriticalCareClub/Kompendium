@@ -54,8 +54,7 @@ bei chronischem Alkoholismus.
 Durch defekte Thermen tritt diese Vergiftung noch immer sehr häufig auf.
 Sie kann leicht verkannt werden.
 
-CO ist farb-, geruchs- und geschmacklos, von den Opfern wird es meist
-erst zu spät erkannt.
+CO ist farb-, geruchs- und geschmacklos, von den Opfern wird es meist erst zu spät erkannt.
 
 Symptomatik:
 
@@ -69,23 +68,16 @@ Symptomatik:
   Hypothermie
 - \>80 %: Letal innerhalb von Minuten
 
-Therapie. Intubation und Beatmung bei 100% O2, optimal hyperbare
-Oxygenierung (Druckkammer)
+Therapie. Intubation und Beatmung bei 100% O2, optimal hyperbare Oxygenierung (Druckkammer)
 
 ### Säuren- und Laugenvergiftung
 
 Diese sind die häufigsten Vergiftungen im Kindesalter.
 
-Säuren führen zu einer Koagulationsnekrose, Laugen zu einer
-Kolliquationsnekrose.
+Säuren führen zu einer Koagulationsnekrose, Laugen zu einer Kolliquationsnekrose.
 
-Die Gefahr besteht hier in einer möglichen Verlegung der Atemwege durch
-ein Glottisödem (Intubation!) und Perforation.
+Die Gefahr besteht hier in einer möglichen Verlegung der Atemwege durch ein Glottisödem (Intubation!) und Perforation.
 
-Die Therapie besteht aus sofortiger oraler Flüssigkeitszufuhr. Danach
-folgen Schocktherapie, Glukokortikoide und Analgesie. Auf keinen Fall
-sollte Erbrechen induziert, Akitvkohle zugeführt und eine Magenspülung
-durchgeführt werden, da diese Maßnahmen die schon verletzten Gewebe
-weiter schädigen.
+Die Therapie besteht aus sofortiger oraler Flüssigkeitszufuhr. Danach folgen Schocktherapie, Glukokortikoide und Analgesie. Auf keinen Fall sollte Erbrechen induziert, Akitvkohle zugeführt und eine Magenspülung durchgeführt werden, da diese Maßnahmen die schon verletzten Gewebe weiter schädigen.
 
 1.

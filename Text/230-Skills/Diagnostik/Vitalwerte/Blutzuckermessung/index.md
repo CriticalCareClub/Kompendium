@@ -18,8 +18,7 @@ Der Blutzuckerspiegel wird in *Milligramm pro Deziliter* (mg / dL, entsprich
 Der Wert ist abhängig von der letzten Mahlzeit des Patienten.
 Nach der Nahrungsaufnahme steigt der Blutzuckerspiegel stark an und fällt dann wieder auf einen "nüchternen Normalwert" ab.
 Der normale *Nüchtern-Blutzuckerspiegel* bewegt sich zwischen *80—100 mg / dL* (4,4—5,6 mmol / L).
-Im Akutfall kann der Normalbereich jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und
-200 mg / dL keine Notfallsymptome auftreten.
+Im Akutfall kann der Normalbereich jedoch großzügiger angesetzt werden, da bei Werten zwischen 60 und 200 mg / dL keine Notfallsymptome auftreten.
 
 ## Material
 

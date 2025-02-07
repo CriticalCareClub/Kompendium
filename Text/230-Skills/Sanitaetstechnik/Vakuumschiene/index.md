@@ -2,18 +2,13 @@
 
 # Vakuumschiene
 
-Analog zum Prinzip der Vakuummatratze gibt es auch Vakuumschienen, um
-Extremitäten zu immobilisieren. Gebräuchlich sind Vakuum-Bein- und
-Unterarmschienen, wobei letztere kaum eingesetzt werden, da sie
-gegenüber eines Armtragetuches wenig Vorteile bieten.
+Analog zum Prinzip der Vakuummatratze gibt es auch Vakuumschienen, um Extremitäten zu immobilisieren. Gebräuchlich sind Vakuum-Bein- und Unterarmschienen, wobei letztere kaum eingesetzt werden, da sie gegenüber eines Armtragetuches wenig Vorteile bieten.
 
 (vacuumbeinschiene-beschreibung)=
 
 ## Vakuumbeinschiene
 
-Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen *vom Knie
-abwärts*. Verletzungen des Oberschenkels können mit ihr *nicht*
-ruhiggestellt werden, da sie das Hüftgelenk nicht schient
+Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen *vom Knie abwärts*. Verletzungen des Oberschenkels können mit ihr *nicht* ruhiggestellt werden, da sie das Hüftgelenk nicht schient
 (Vakuummatratze)!
 
 (vacuumbeinschiene-anwendung)=
@@ -64,6 +59,4 @@ Vakuumbeinschiene mit Zubehör
 10. Nochmalige Kontrolle von Durchblutung, Motorik und Sensibilität (DMS)
     an der betroffenen Extremität ({ref}`dms`).
 
-Die Schiene soll bretthart sein, das Bein leicht auf Zug fixiert. Der
-Fuß soll weder seitlich noch zum Körper hin/vom Körper weg beweglich
-sein.
+Die Schiene soll bretthart sein, das Bein leicht auf Zug fixiert. Der Fuß soll weder seitlich noch zum Körper hin/vom Körper weg beweglich sein.

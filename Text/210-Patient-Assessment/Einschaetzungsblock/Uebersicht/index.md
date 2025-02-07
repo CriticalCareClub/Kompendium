@@ -173,9 +173,7 @@
 
 "Typische Sofortmaßnahmen" sind als\*Beispiele\* zu verstehen.
 
-Bei **absolut zeitkritischen Patienten**,
-bei denen bereits dieABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist,
-kann u.U. schon **nach dem Punkt Ⓒ eine vorgezogene Transportentscheidung** getroffen werden.
+Bei **absolut zeitkritischen Patienten**, bei denen bereits dieABC-Einschätzung ergibt dass ein Transport nicht aufschiebbar ist, kann u.U. schon **nach dem Punkt Ⓒ eine vorgezogene Transportentscheidung** getroffen werden.
 
 Die Maßnahmen von D und E sollen dann, sofern möglich,während des Transportes erfolgen.
 

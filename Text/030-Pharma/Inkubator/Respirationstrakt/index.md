@@ -2,8 +2,7 @@
 
 ## Allgemeine Orientierung
 
-Als Respirationstrakt bezeichnet man alle Organe die etwas mit der
-Atmung zu tun haben, also Nase, Rachen, Kehlkopf, Luftröhre und Lunge.
+Als Respirationstrakt bezeichnet man alle Organe die etwas mit der Atmung zu tun haben, also Nase, Rachen, Kehlkopf, Luftröhre und Lunge.
 
 :::{figure} media/Pictures/100000000000125C000015DF2546EFFC49A14CAE.png
 :width: 100%
@@ -12,29 +11,17 @@ Atmung zu tun haben, also Nase, Rachen, Kehlkopf, Luftröhre und Lunge.
 :::
 
 Abbildung 1 Respirationstrakt: Über die Nase und den Rachen (Pharynx)
-gelangt die Luft durch Kehlkopf (Larynx) und Luftröhre (Trachea) in die
-Lunge, wo der Sauerstoffaustausch in den Alveolen stattfindet.
+gelangt die Luft durch Kehlkopf (Larynx) und Luftröhre (Trachea) in die Lunge, wo der Sauerstoffaustausch in den Alveolen stattfindet.
 
-Für den Sauerstoffaustausch, die eigentliche Atmung, sind die Alveolen
-zuständig. Das bei diesem Vorgang aus dem Blut gelöste Kohlendioxid wird
-abgeatmet. Die nicht an der Atmung im eigentlichen Sinn beteiligten
-Strukturen sorgen dafür, dass die Luft befeuchtet und erwärmt wird.
+Für den Sauerstoffaustausch, die eigentliche Atmung, sind die Alveolen zuständig. Das bei diesem Vorgang aus dem Blut gelöste Kohlendioxid wird abgeatmet. Die nicht an der Atmung im eigentlichen Sinn beteiligten Strukturen sorgen dafür, dass die Luft befeuchtet und erwärmt wird.
 
-Über Sympathikus und Parasympathikus hat auch das autonome Nervensystem
-Einfluss auf den Respirationstrakt. Eine Aktivierung des Sympathikus
-führt zu einer Bronchokonstriktion (=Verengung der Bronchien), die des
-Parasympathikus erreicht eine Bronchodilatation (=Erweiterung der
-Bronchien). Dies macht man sich zum Beispiel bei der Therapie des Asthma
-bronchiale zunutze.
+Über Sympathikus und Parasympathikus hat auch das autonome Nervensystem Einfluss auf den Respirationstrakt. Eine Aktivierung des Sympathikus führt zu einer Bronchokonstriktion (=Verengung der Bronchien), die des Parasympathikus erreicht eine Bronchodilatation (=Erweiterung der Bronchien). Dies macht man sich zum Beispiel bei der Therapie des Asthma bronchiale zunutze.
 
 ## H1-Rezeptorenblocker = Antihistaminika
 
 Substanzen dieser Gruppe blockieren die Histaminrezeptoren Typ 1.
 Dadurch verursachen sie eine Hemmung der glatten Muskelkontraktion (z.B.
-Bronchokonstriktion), eine Permeabilitätsreduktion der Gefäß und eine
-Vasodilatations-Hemmung. Letztere wird jedoch nur teilweise gehemmt, da
-die Wirkung auf die Blutgefäße auch über den H2-Rezeptor beeinflusst
-wird.
+Bronchokonstriktion), eine Permeabilitätsreduktion der Gefäß und eine Vasodilatations-Hemmung. Letztere wird jedoch nur teilweise gehemmt, da die Wirkung auf die Blutgefäße auch über den H2-Rezeptor beeinflusst wird.
 
 ```{eval-rst}
 +-----------------------+---------------------------------------------+
@@ -70,21 +57,15 @@ wird.
 +-----------------------+---------------------------------------------+
 ```
 
-\* -> klassische Antihistaminika mit zentraler Wirkung, werden auch als
-Schlafmittel / Sedativa, Antiemetika und bei Morbus Parkinson
-eingesetzt.
+\* -> klassische Antihistaminika mit zentraler Wirkung, werden auch als Schlafmittel / Sedativa, Antiemetika und bei Morbus Parkinson eingesetzt.
 
-Antihistaminika werden bei Allergien und beim anaphylaktischen Schock
-eingesetzt.
+Antihistaminika werden bei Allergien und beim anaphylaktischen Schock eingesetzt.
 
 Unerwünschte Wirkungen:
 
-Wie schon oben erwähnt, können Antihistaminika eine Sedation
-hervorrufen, weiters können Mundtrockenheit, Miktionsstörungen und
-gastrointestinale Beschwerden auftreten.
+Wie schon oben erwähnt, können Antihistaminika eine Sedation hervorrufen, weiters können Mundtrockenheit, Miktionsstörungen und gastrointestinale Beschwerden auftreten.
 
-Kontraindikationen: Schwangerschaft, Stillzeit, kleine Kinder (vor allem
-die neueren Antihistaminika)
+Kontraindikationen: Schwangerschaft, Stillzeit, kleine Kinder (vor allem die neueren Antihistaminika)
 
 :::{danger}
 Durch Antihistaminika Einschränkung der Verkehrstüchtigkeit!
@@ -92,10 +73,7 @@ Durch Antihistaminika Einschränkung der Verkehrstüchtigkeit!
 
 ## Expektorantien
 
-Expektorantien dienen der symptomatischen Therapie vieler Erkrankungen
-des Respirationstraktes, die mit vermehrtem Schleim und Husten
-einhergehen. Sie beeinflussen die Beschaffenheit des Schleimes und
-fördern das Abhusten des Sekretes.
+Expektorantien dienen der symptomatischen Therapie vieler Erkrankungen des Respirationstraktes, die mit vermehrtem Schleim und Husten einhergehen. Sie beeinflussen die Beschaffenheit des Schleimes und fördern das Abhusten des Sekretes.
 
 Folgende Wirkungen können sie entfalten:
 
@@ -128,13 +106,10 @@ Bromhexin Bisolvon®
 +-------------+-------------------------------------------------------+
 ```
 
-Als allgemeine unerwünschte Nebenwirkung dieser Gruppe kann man häufig
-den Hustenreiz nach Inhalation beobachten.
+Als allgemeine unerwünschte Nebenwirkung dieser Gruppe kann man häufig den Hustenreiz nach Inhalation beobachten.
 
 :::{attention}
-Wichtig ist bei der Verwendung von Expektorantien die
-ausreichende Flüssigkeitszufuhr (über 2 l/d), um eine ausreichende
-Sekretolyse zu gewähren.
+Wichtig ist bei der Verwendung von Expektorantien die ausreichende Flüssigkeitszufuhr (über 2 l/d), um eine ausreichende Sekretolyse zu gewähren.
 :::
 
 :::{attention}
@@ -143,17 +118,12 @@ Die Gabe eines Expektorans sollte spätestens 2 Stunden vor dem Schlafengehen er
 
 ## Antitussiva
 
-Darunter versteht man Pharmaka, die den Hustenreiz beeinflussen. Hier
-soll nur auf zentral wirksame (dh. sie dämpfen den Hustenwelle in
-ZNS-Medulla oblongata-Hustenzentrum) Antitussiva eingegangen werden.
+Darunter versteht man Pharmaka, die den Hustenreiz beeinflussen. Hier soll nur auf zentral wirksame (dh. sie dämpfen den Hustenwelle in ZNS-Medulla oblongata-Hustenzentrum) Antitussiva eingegangen werden.
 
-Zentrale Antitussiva sind Morphinderivate mit einer äußerst schwachen
-schmerzstillenden Wirkung. Deswegen sind sie auch durch **Naloxon
+Zentrale Antitussiva sind Morphinderivate mit einer äußerst schwachen schmerzstillenden Wirkung. Deswegen sind sie auch durch **Naloxon
 (Narcanti®)** antagonisierbar.
 
-Antitussiva werden beim, v.a. nächtlichen, Reizhusten eingesetzt. Man
-darf sie nicht mit Expektorantien kombinieren, da der durch diese
-gebildete dünnflüssigen Schleim nicht abgehustet werden kann.
+Antitussiva werden beim, v.a. nächtlichen, Reizhusten eingesetzt. Man darf sie nicht mit Expektorantien kombinieren, da der durch diese gebildete dünnflüssigen Schleim nicht abgehustet werden kann.
 
 ```{eval-rst}
 ============= =================================
@@ -163,9 +133,7 @@ Hydrocodon    Dicodil®
 ============= =================================
 ```
 
-Da sie Morphin-Derivate sind, ähneln die Nebenwirkungen denen des
-Morphins (Atemdepression, Obstipation, Sedierung, leichte
-Abhängigkeits-Entwicklung, *siehe dort*).
+Da sie Morphin-Derivate sind, ähneln die Nebenwirkungen denen des Morphins (Atemdepression, Obstipation, Sedierung, leichte Abhängigkeits-Entwicklung, *siehe dort*).
 
 :::{attention}
 Antitussiva sollten knap vor dem Zu-Bett-Gehen genommen werden, um einen möglichst ruhigen Schlaf zu ermöglichen.
@@ -210,10 +178,7 @@ Für Nebenwirkungen und Kontraindikationen *siehe Kap. NS.*
 ## Methylxanthine
 
 Der genaue Wirkmechanismus dieser Gruppe ist noch nicht genau geklärt.
-Sie bewirken jedoch eine Bronchodilatation, eine Antriebs- und
-Aktivitätssteigerung im ZNS, eine Stimulation des Atemzentrums, sie sind
-positiv inotrop und chronotrop, bewirken eine periphere Vasodilatation
-und eine zentrale Vasokonstriktion und steigern die Diurese.
+Sie bewirken jedoch eine Bronchodilatation, eine Antriebs- und Aktivitätssteigerung im ZNS, eine Stimulation des Atemzentrums, sie sind positiv inotrop und chronotrop, bewirken eine periphere Vasodilatation und eine zentrale Vasokonstriktion und steigern die Diurese.
 
 ```{eval-rst}
 +-------------+-------------------------------------------------------+
@@ -226,18 +191,15 @@ und eine zentrale Vasokonstriktion und steigern die Diurese.
 +-------------+-------------------------------------------------------+
 ```
 
-Eingesetzt wird Theophyllin bei Asthma bronchiale, chronisch
-obstruktiver Lungenerkrankung (COPD) und beim Status asthmatikus.
+Eingesetzt wird Theophyllin bei Asthma bronchiale, chronisch obstruktiver Lungenerkrankung (COPD) und beim Status asthmatikus.
 
 :::{attention}
-Langsame Injektion bei i.v.-Gabe da sonst
-Herzrhythmus-Störungen, Blutdruckabfall und Krampfanfälle möglich!
+Langsame Injektion bei i.v.-Gabe da sonst Herzrhythmus-Störungen, Blutdruckabfall und Krampfanfälle möglich!
 :::
 
 Unerwünsche Wirkungen:
 
-Am häufigsten kann man gastrointestinale Beschwerden wie Übelkeit und
-Erbrechen beobachten.
+Am häufigsten kann man gastrointestinale Beschwerden wie Übelkeit und Erbrechen beobachten.
 
 Kontraindikationen: akuter Myokardinfarkt, Tachyarrhythmie.
 
@@ -245,21 +207,15 @@ Kontraindikationen: akuter Myokardinfarkt, Tachyarrhythmie.
 
 ### chronisch obstruktive Lungenerkrankung (COPD)
 
-Auf der Basis einer chronischen Bronchitis, die durch
-Schleimhautschädigung eine zunehmende Obstruktion hervorruft, entsteht
-die COPD, die dann wiederum durch die Luftstauung der kleinsten Atemwege
-(wegen der Obstruktion kommt es zur chronischen Überblähung, die Luft
-kann nicht abgeatmet werden) in einem Emphysem gipfelt.
+Auf der Basis einer chronischen Bronchitis, die durch Schleimhautschädigung eine zunehmende Obstruktion hervorruft, entsteht die COPD, die dann wiederum durch die Luftstauung der kleinsten Atemwege
+(wegen der Obstruktion kommt es zur chronischen Überblähung, die Luft kann nicht abgeatmet werden) in einem Emphysem gipfelt.
 
-Diagnostiziert wird die COPD mittels Spirometrie (Messung und Berechnung
-der Atemkapazität der Lunge).
+Diagnostiziert wird die COPD mittels Spirometrie (Messung und Berechnung der Atemkapazität der Lunge).
 
-Ihre Entstehung ist eng an die heutzutage häufigste Suchterkrankung, dem
-Zigarettenrauchen, gekoppelt.
+Ihre Entstehung ist eng an die heutzutage häufigste Suchterkrankung, dem Zigarettenrauchen, gekoppelt.
 
 2003 wurde von der GOLD (Global Initiative for Chronic Lung Disease)
-eine Einteilung der Schweregrade vorgenommen, die auf die Symptome der
-Patienten und besonders auf ihren Spirometrie-Werten Bezug nimmt.
+eine Einteilung der Schweregrade vorgenommen, die auf die Symptome der Patienten und besonders auf ihren Spirometrie-Werten Bezug nimmt.
 
 Auf diesen Stufen basiert auch die Therapie:
 
@@ -316,25 +272,16 @@ Auf diesen Stufen basiert auch die Therapie:
 +----------+----------+----------+----------+----------+----------+
 ```
 
-Da die Patienten oft nicht zu motivieren sind, mit dem Rauchen
-aufzuhören, ist die Therapie äußerst selten mit Erfolg gekrönt und ein
-Fortschreiten der Erkrankung meist unausweichlich.
+Da die Patienten oft nicht zu motivieren sind, mit dem Rauchen aufzuhören, ist die Therapie äußerst selten mit Erfolg gekrönt und ein Fortschreiten der Erkrankung meist unausweichlich.
 
-In den schwereren Erkrankungsstufen ist das Immunsystem der Patienten
-meist auch nicht mehr in der Lage, einfache Atemwegsinfektionen zu
-bekämpfen, sodass es zu Exzerbationen, meist bakteriell bedingt, kommt.
+In den schwereren Erkrankungsstufen ist das Immunsystem der Patienten meist auch nicht mehr in der Lage, einfache Atemwegsinfektionen zu bekämpfen, sodass es zu Exzerbationen, meist bakteriell bedingt, kommt.
 Diese sind meist nur im Krankenhaus zu behandeln.
 
 ### Asthma bronchiale.
 
 Auch das Asthma ist eine chronisch-entzündliche Erkrankung.
 
-Im Gegensatz zur COPD ist aber beim Asthma die Obstruktion der unteren
-Luftwege reversibel. Die Obstruktion beim Asthma kommt durch
-entzündliche Schleimhautschwellung, Bronchokonstriktion und einer
-Hypersekretion zähen Schleims zustande. Beim länger dauernden kann sich
-die Ostruktion fixieren, das heißt nur noch im beschränkten Maße
-reversibel sein.
+Im Gegensatz zur COPD ist aber beim Asthma die Obstruktion der unteren Luftwege reversibel. Die Obstruktion beim Asthma kommt durch entzündliche Schleimhautschwellung, Bronchokonstriktion und einer Hypersekretion zähen Schleims zustande. Beim länger dauernden kann sich die Ostruktion fixieren, das heißt nur noch im beschränkten Maße reversibel sein.
 
 Der Symptomatische „Gipfel“ des Asthmas ist der Asthmaanfall.
 
@@ -362,13 +309,9 @@ Schweregrade eines Asthmaanfalls:
 +-------------+------------+-------------+-------------+-------------+
 ```
 
-Falls die Symptomes des Asthmaanfalls länger als 24 Stunden anhalten,
-spricht man vom Status Asthmatikus, welcher immer einen Notfall
-darstellt.
+Falls die Symptomes des Asthmaanfalls länger als 24 Stunden anhalten, spricht man vom Status Asthmatikus, welcher immer einen Notfall darstellt.
 
-Grundsätzlich kann das Asthma durch eine Allergie hervorgerufen oder
-durch andere Umweltnoxen (z.B. Virusinfekte, körperliche Anstrengung,
-kalte Luft, Stress) verursacht sein.
+Grundsätzlich kann das Asthma durch eine Allergie hervorgerufen oder durch andere Umweltnoxen (z.B. Virusinfekte, körperliche Anstrengung, kalte Luft, Stress) verursacht sein.
 
 ```{eval-rst}
 +---------------------------+-----------------------------------------+
@@ -421,5 +364,4 @@ Auch hier ist die Therapie nach dem Erkrankungs-Schweregrad eingeteilt:
 +-------------+-------------+-------------+-------------+-------------+
 ```
 
-**Omalizumab (Xolair®)**ist ein monoklonaler Anti-IgE-Antilörper, der
-selektiv IgE-vermittelte allergische Reaktionen hemmt.
+**Omalizumab (Xolair®)**ist ein monoklonaler Anti-IgE-Antilörper, der selektiv IgE-vermittelte allergische Reaktionen hemmt.

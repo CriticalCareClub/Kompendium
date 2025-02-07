@@ -14,27 +14,17 @@
 :::
 
 *Bewusstsein ist ein Oberbegriff für u. a.
-Wachheit,
-Orientierung,
-Aufmerksamkeit,
-Auffassungsgabe,
-Denkverlauf und Merkfähigkeit*
+Wachheit, Orientierung, Aufmerksamkeit, Auffassungsgabe, Denkverlauf und Merkfähigkeit*
 {term}`🗎 Pschyrembel 259`.
-Es ist eine grundlegende
-**Vitalfunktion erster Ordnung**
-und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung.
-Ein bewusstseinsklarer Mensch kann sich gegen Gefahren wehren,
-ein eingetrübter
-oder bewusstloser Mensch kann dies schlecht
-oder gar nicht.
+Es ist eine grundlegende **Vitalfunktion erster Ordnung** und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung.
+Ein bewusstseinsklarer Mensch kann sich gegen Gefahren wehren, ein eingetrübter oder bewusstloser Mensch kann dies schlecht oder gar nicht.
 
 Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
 (**quantitativ**;
 *Wieviel* Bewusstsein ist vorhanden?)
 und die **Orientierung**
 (**qualitativ**;
-*Wie gut funktioniert das vorhandene Bewusstsein?*
-Zeitlich, örtlich, zur Situation und zur Person).
+*Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich, zur Situation und zur Person).
 Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 ```{index} single: WASB
@@ -59,18 +49,9 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
 (*Wieviel* Bewusstsein ist vorhanden?).
-Er muss bei jedem Patienten nach
-dem *WASB-Schema* beurteilt werden.
-{dfn}`WASB` ist die
-Abkürzung für *Wach*,
-Reaktion auf *Ansprechen* oder leichte Weckreize,
-Reaktion auf *Schmerzreiz* und *Bewusstlos*.
-Dementsprechend kann ein Patient
-**bewusstseinsklar**,
-**somnolent**,
-**soporös** oder
-**komatös** bzw. *bewusstlos* sein,
-vgl. {ref}`Table-Wasb`.
+Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
+{dfn}`WASB` ist die Abkürzung für *Wach*, Reaktion auf *Ansprechen* oder leichte Weckreize, Reaktion auf *Schmerzreiz* und *Bewusstlos*.
+Dementsprechend kann ein Patient **bewusstseinsklar**, **somnolent**, **soporös** oder **komatös** bzw. *bewusstlos* sein, vgl. {ref}`Table-Wasb`.
 
 (table-wasb)=
 
@@ -153,10 +134,8 @@ vgl. {ref}`Table-Wasb`.
 - Schmerzreiz
 :::
 
-Die Kontrolle des Bewusstseins und die Beurteilung der
-Bewusstseinsgrades erfolgt durch Ansprechen und ggfs.
-Setzen eines
-Schmerzreizes:
+Die Kontrolle des Bewusstseins und die Beurteilung der Bewusstseinsgrades erfolgt durch Ansprechen und ggfs.
+Setzen eines Schmerzreizes:
 
 1. *Ansprechen*: Zuerst wird der Patient laut und deutlich angesprochen:
 
@@ -178,23 +157,15 @@ Schmerzreizes:
 
 ## Bewusstseinsstörungen
 
-Als Bewusstseinsstörungen bezeichnet
-man insbesonders Störungen der Wachheit und der Orientierung.
+Als Bewusstseinsstörungen bezeichnet man insbesonders Störungen der Wachheit und der Orientierung.
 
 Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt.
-Je mehr das Bewusstsein gestört oder reduziert ist,
-desto gefährlicher ist dies für den Patienten.
-Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der
-*Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
-(Ausfall der "{dfn}`Schutzrefelexe`),
-und es kann Mageninhalt,
-Speichel oder Blut in die Lunge gelangen (*Aspiration*).
-Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen der
-Zungenmuskulatur kommen.
-Fällt diese zurück,
-kann sie den *Atemweg verlegen*.
-Dabei ist manchmal ein dem *Schnarchen ähnliches*
-Atemgeräusch zu vernehmen.
+Je mehr das Bewusstsein gestört oder reduziert ist, desto gefährlicher ist dies für den Patienten.
+Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
+(Ausfall der "{dfn}`Schutzrefelexe`), und es kann Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
+Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen der Zungenmuskulatur kommen.
+Fällt diese zurück, kann sie den *Atemweg verlegen*.
+Dabei ist manchmal ein dem *Schnarchen ähnliches* Atemgeräusch zu vernehmen.
 
 % Details siehe :ref:`Bewusstseinsstoerung`.
 

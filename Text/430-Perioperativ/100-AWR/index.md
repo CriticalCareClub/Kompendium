@@ -4,8 +4,8 @@
 Beurteilung des stationstauglichen Patienten:
 
 
- Post-Anesthetic-Recovery-Score 1) Activity: alle 4 Extremitäten,
-2 Extremitäten, keine Bewegung möglich (2,1,0)
+Post-Anesthetic-Recovery-Score
+1) Activity: alle 4 Extremitäten, 2 Extremitäten, keine Bewegung möglich (2,1,0)
 2) Respiration: tiefe Atmung+husten, eingeschränkt mit Dyspnoe, Apnoe (2,1,0)
 3) Circulation: RR +/- 20% vom Ausgang, -20-49%, -50% (2,1,0)
 4) Consciousness: wach, weckbar, reagiert nicht (2,1,0)
@@ -19,12 +19,10 @@ ALDRETE-Score 1) Sauerstoffsättigung: \>90% bei RL, O2-Maske nötig,
 
 
 Vigilanz: abhängig von vorbestehender Beeinträchtigung (Demenz,..), Medikamentenüberhang
-(Opiate, Benzo), Neurologische Komplikationen (Lagerungsschäden,
-Ischämie, Blutung)
+(Opiate, Benzo), Neurologische Komplikationen (Lagerungsschäden, Ischämie, Blutung)
 
 ZAS zentrales anticholinerges Syndrom:
-Dämpfung/Agetiertheit, Desorientierung, Schläfrigkeit, Ataxie, Halluzinationen, Unruhe,
-Mydriasis, tockene Haut und trockener Mund!
+Dämpfung/Agetiertheit, Desorientierung, Schläfrigkeit, Ataxie, Halluzinationen, Unruhe, Mydriasis, tockene Haut und trockener Mund!
 Differential Diagnose:  Überhang Opiate, Benzodiazepine, Muskelrelaxantien, volle Blase, neurologische Komplikationen.
 Therapie: Phyiostigmin (Anticholium) 2mg ad KI   CAVE: KI bei Glaukom! Bei zu rascher Infektion Brady/Tachykardie, Bronchospasmus, Krämpfe.
 

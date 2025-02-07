@@ -13,11 +13,7 @@ Sie ist **begrenzt** durch:
 - **dorsal**: *Lendenwirbelsäule*, *Sakrum*, *hintere Bauchwand*
 - **kaudal**: *Beckenboden* (Diaphragma pelvis)
 
-Die Bauchhöhle kann, basierend auf ihrem Inhalt,
-in einen Drüsenbauch (= Oberbauch),
-oberhalb des Colon transversum,
-und einen Darmbauch, unterhalb des Colon transversum,
-unterteilt werden.
+Die Bauchhöhle kann, basierend auf ihrem Inhalt, in einen Drüsenbauch (= Oberbauch), oberhalb des Colon transversum, und einen Darmbauch, unterhalb des Colon transversum, unterteilt werden.
 
 :::{margin} Bauchfell (Peritoneum)
 - Auskleidung der gesamten Bauchhöhle
@@ -27,23 +23,17 @@ unterteilt werden.
 :::
 
 Die Bauchhöhle ist mit Peritoneum (Bauchfell) ausgekleidet.
-Dieses Peritoneum ist, ebenso wie Pleura und Perikard,
-eine *seröse Haut* und ermöglicht durch Flüssigkeitsabsonderung für ein reibungsloses Gleiten der Bauchorgane.
-Es wird in ein *Peritoneum viscerale* und ein *Peritoneum
-parietale* unterteilt.
-Das Peritoneum **viscerale** überzieht die Eingeweide,
-die *Mesenterien*, der Aufhängeapparat des Darmes mit den darin verlaufenden Gefäßen,
-ist auch davon überzogen.
+Dieses Peritoneum ist, ebenso wie Pleura und Perikard, eine *seröse Haut* und ermöglicht durch Flüssigkeitsabsonderung für ein reibungsloses Gleiten der Bauchorgane.
+Es wird in ein *Peritoneum viscerale* und ein *Peritoneum parietale* unterteilt.
+Das Peritoneum **viscerale** überzieht die Eingeweide, die *Mesenterien*, der Aufhängeapparat des Darmes mit den darin verlaufenden Gefäßen, ist auch davon überzogen.
 Das Peritoneum **parietale** bedeckt innen die Bauchwand.
 
-Durch die spezielle Entwicklung der Bauchorgane gibt es auch zwei große
-*Duplikaturen des Peritoneums*:
+Durch die spezielle Entwicklung der Bauchorgane gibt es auch zwei große *Duplikaturen des Peritoneums*:
 Das **Omentum majus**
 (bedeckt den Dünndarm, an Colon transversum und großer Kurvatur des Magens befestigt)
 und das **Omentum minus** (zwischen kleiner Kurvatur des Magens und Leber)
 
-Aufgrund ihrer Lagebeziehung zum Peritoneum können die Bauchorgane
-eingeteilt werden:
+Aufgrund ihrer Lagebeziehung zum Peritoneum können die Bauchorgane eingeteilt werden:
 
 - **intraperitoneale** Organe: das Organ ist von Peritoneum umhüllt;
   Leber, Magen, Milz, Ileum, Jejunum, Appendix, Caecum, Colon

@@ -12,12 +12,9 @@
 ```
 
 Die Aluminiumkernschiene ist eine flexible,
-von Kunststoff umgebene Metallschiene
-und ermöglicht das Ruhigstellen
-von Extremitätenverletzungen mit abnormer Stellung.
+von Kunststoff umgebene Metallschiene und ermöglicht das Ruhigstellen von Extremitätenverletzungen mit abnormer Stellung.
 Sie lässt sich an den Arm anformen,
-muss jedoch noch mit einer Mullbinde
-oder mit Dreiecktuchkrawatten fixiert werden.
+muss jedoch noch mit einer Mullbinde oder mit Dreiecktuchkrawatten fixiert werden.
 Die *Anpassung* erfolgt an der *gesunden* Extremität.
 Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch angelegt werden.
 

@@ -1,9 +1,7 @@
 # 30.9. Pneumonie
 
 Definitionen Pneumonie (Update 2017 S3-Leitlinie):
-Neues Infiltrat plus kompatible Symptome (Fieber, Schüttelfrost, Husten,
-Auswurf, Dyspnoe,
-Tachypnoe, inspirator. Thoraxschmerzen)
+Neues Infiltrat plus kompatible Symptome (Fieber, Schüttelfrost, Husten, Auswurf, Dyspnoe, Tachypnoe, inspirator. Thoraxschmerzen)
 Einteilung CAP: Community-acquired Pneumonia, weniger als 48 Std. hospitalisiert, gilt auch für Patienten aus Langzeit-Institutionen HAP: Hospital-acquired, mehr als 48 h hospitalisiert VAP: Ventilation-associated, vermehrtes eitriges Trachealsekret, steigende Entzündungsparameter, verschlechterte Hämodynamik
 
 Pathomechanismen: lokales Inflammationsgeschehen mit Minderbelüftung und Re-Links-Shunt bis zu \> 20% des HZV, Prostazyclin vermittelte Vasokonstriktion im Rahmen der Immunreaktion;
@@ -19,13 +17,11 @@ Prednison\*\* 50mg alle 24h p.o, max 7d; vorz. Abbruch bei Entlassung / AB-Stopp
 
 Wechsel Antibiotika i.v. auf p.o.
 sobald Patient 24h afebril oder Stabilitätskriterien erreicht sind.
-Dauer Antibiotika 2-3 d nach Entfieberung (gilt auch bei Legionellen!), wenn nach 7 Tagen weiterhin Fieber oder nicht stabil,
-Evaluation Diagnose/Komplikationen: Schwere CAP und Risikofaktoren resistente Keime? Piperacillin/Tazobactam 4.5 g alle 8 h i.v. + Ciprofloxacin 750 mg alle 12 h p.o.
+Dauer Antibiotika 2-3 d nach Entfieberung (gilt auch bei Legionellen!), wenn nach 7 Tagen weiterhin Fieber oder nicht stabil, Evaluation Diagnose/Komplikationen: Schwere CAP und Risikofaktoren resistente Keime? Piperacillin/Tazobactam 4.5 g alle 8 h i.v. + Ciprofloxacin 750 mg alle 12 h p.o.
 
 
 Indikation für die Aufnahme auf der Intensivstation:
-Schwere respiratorische Insuffizienz: AF  \>  30/min, OI  \<  250, NIV/INT notwendig, SIRS/SEPSIS,
-Organersatztherapie nötig
+Schwere respiratorische Insuffizienz: AF  \>  30/min, OI  \<  250, NIV/INT notwendig, SIRS/SEPSIS, Organersatztherapie nötig
 
 
 Stabilitätskriterien:
@@ -45,19 +41,12 @@ Thrombosephrophylaxe, Stressulcusprophylaxe, Lagerungstherapie
 
 ## VAP (Ventilations assoziierte Pneumonie)
 
-Erreger  =Staph. Aureus,  , Pseudomonas aeruginosa, Klebsiellen, E.coli, Pneumokokken, MRSA,
-Enterobakter.
-Nicht behandlungsbedürftig sind vergrünende Streptokokken, Neisseria spp., Corynebakt. Spp.,
-Enterokokus faecium, Candida, koag.
+Erreger  =Staph. Aureus,  , Pseudomonas aeruginosa, Klebsiellen, E.coli, Pneumokokken, MRSA, Enterobakter.
+Nicht behandlungsbedürftig sind vergrünende Streptokokken, Neisseria spp., Corynebakt. Spp., Enterokokus faecium, Candida, koag.
 Neg. Staphylokokken, welche Bedsiedelungen sind.
 90% entsteht innerhalb der ersten 10 Tage der Beatmung.
 
-Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%,
-frühe enterale Ernährung
-(Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat),
-wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret,
-Aspiration trotz Cuff möglich),
-subglottisches Absaugen
-(geschlossenes System),
-Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
+Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%, frühe enterale Ernährung
+(Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat), wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret, Aspiration trotz Cuff möglich), subglottisches Absaugen
+(geschlossenes System), Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
 Trachealsekret \> 105, BAL \> 104, PBS \> 103

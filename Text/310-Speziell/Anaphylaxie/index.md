@@ -11,14 +11,9 @@
 
 # Allergie und Anaphylaxie
 
-Eine **Allergie** ist eine fehlgeleitete Reaktion
-des Immunsystems (Immunreaktion)
-auf wiederholte Zufuhr körperfremder,
-typischerweise harmloser,
-Stoffe (Antigene).
-Die **Anaphylaxie** ist eine akute, systemische,
-und überschießende allergische Reaktion,
-die schnell einsetzt und zum Tod führen kann.
+Eine **Allergie** ist eine fehlgeleitete Reaktion des Immunsystems (Immunreaktion)
+auf wiederholte Zufuhr körperfremder, typischerweise harmloser, Stoffe (Antigene).
+Die **Anaphylaxie** ist eine akute, systemische, und überschießende allergische Reaktion, die schnell einsetzt und zum Tod führen kann.
 
 Mögliche **Auslöser** können sein:
 
@@ -29,12 +24,8 @@ Mögliche **Auslöser** können sein:
 - Lebensmittel (Meeresfrüchte, Nüsse, etc.)
 - und vieles andere …
 
-Grundsätzlich kann man vier Arten von Allergien unterscheiden,
-in der Akutsituation ist vor allem der Typ-I ("Soforttyp")
-entscheidend,
-bei dem es innerhalb von Sekunden oder Minuten
-durch Freisetzung von Mediatoren aus Granulozyten und Mastzellen
-zu einer allergischen Rekation kommt.
+Grundsätzlich kann man vier Arten von Allergien unterscheiden, in der Akutsituation ist vor allem der Typ-I ("Soforttyp")
+entscheidend, bei dem es innerhalb von Sekunden oder Minuten durch Freisetzung von Mediatoren aus Granulozyten und Mastzellen zu einer allergischen Rekation kommt.
 
 ```{index} single: Urtikaria
 ```
@@ -49,13 +40,8 @@ zu einer allergischen Rekation kommt.
 
 ## Symptome
 
-Das Bild der allergischen Reaktion
-reicht von leichten Hautreaktionen,
-Rhinitis,
-über Organfunktionsstörungen
-bis zum akut lebensbedrohlichen
-anaphylaktischen Schock
-und kann verschiedene Körperregionen betreffen:
+Das Bild der allergischen Reaktion reicht von leichten Hautreaktionen, Rhinitis,
+über Organfunktionsstörungen bis zum akut lebensbedrohlichen anaphylaktischen Schock und kann verschiedene Körperregionen betreffen:
 
 - Haut: Urtikaria (Nesselsucht)
   mit erhabenen, juckenden, rötlichen *Quaddeln*
@@ -69,22 +55,18 @@ und kann verschiedene Körperregionen betreffen:
 - Augen: allergische Konjunktivitis
 - Magen-Darm-Trakt: Krämpfe, Übelkeit, Errbechen, Durchfall
 
-Beim anaphylaktischen Schock
-kommt es durch die von den Immunzellen gebildeten Mediatoren
-zu einer systemischen Weitstellung der Gefäße
-und einer Erhöhung der Durchlässigkeit (Gefäßpermeabilität).
-Dadurch kommt es zu einem relativen Flüssigkeitsmangel
-durch Plasmaverlust in den Zwischengewebsraum (Interstitium),
-Abfall des Blutdrucks
-und Kreislaufstörungen.
+Beim anaphylaktischen Schock kommt es durch die von den Immunzellen gebildeten Mediatoren zu einer systemischen Weitstellung der Gefäße und einer Erhöhung der Durchlässigkeit (Gefäßpermeabilität).
+Dadurch kommt es zu einem relativen Flüssigkeitsmangel durch Plasmaverlust in den Zwischengewebsraum (Interstitium), Abfall des Blutdrucks und Kreislaufstörungen.
 
 :::{figure} /Bilder/WikipediaCcBySa-3.0-unported/Rash-922px.jpg
+
 Urtikarieller Ausschlag
 
 \[[Enoch Lau](https://en.wikipedia.org/wiki/User:Enochlau) //  Creative Commons Attribution-Share Alike 3.0 Unported\]
 :::
 
 :::{figure} /Bilder/WikipediaCcBySa-4.0-International/Urticaria.png
+
 Urtikarieller Ausschlag
 
 \[[BruceBlaus](https://en.wikipedia.org/wiki/File:Urticaria.png) //[Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)\]
@@ -241,12 +223,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
 Adrenalin (Epinephrin) ist das wichtigste Medikament in der Akuttherapie bei Anaphylaxie.
 Es antagonisiert über Aktivierung von
-α- und β-Adrenorezeptoren
-durch daraus resultierender Vasokonstriktion,
-Erniedrigung der Gefäßpermeabilität,
-Bronchodilatation
-und positive Inotropie am Herzen
-alle wichtigen Pathomechanismen der Anaphylaxie {term}`♛ S2k Anaphylaxie 2021`.
+α- und β-Adrenorezeptoren durch daraus resultierender Vasokonstriktion, Erniedrigung der Gefäßpermeabilität, Bronchodilatation und positive Inotropie am Herzen alle wichtigen Pathomechanismen der Anaphylaxie {term}`♛ S2k Anaphylaxie 2021`.
 Die intramuskuläre (i. m.-) Gabe ist die medikamentöse Therapie der ersten Wahl.
 [^imgabe]
 
@@ -254,43 +231,16 @@ Die intramuskuläre (i. m.-) Gabe ist die medikamentöse Therapie der ersten W
     Die subkutane Injektion von Adrenalin wird wegen unzureichender Resorption und damit verbundenem verzögertem Wirkungseintritt nicht mehr
     empfohlen.
 
-Bei fehlender Stabilisierung des Patienten und
-drohender Dekompensation von Atmung oder
-Kreislauf soll Adrenalin intravenös,
-jedoch nur *von darin Erfahrenen*,
-gegeben werden.
+Bei fehlender Stabilisierung des Patienten und drohender Dekompensation von Atmung oder Kreislauf soll Adrenalin intravenös, jedoch nur *von darin Erfahrenen*, gegeben werden.
 
-Auch bei adäquater Gabe von Adrenalin können
-ein Therapieversagen oder Nebenwirkungen beobachtet werden.
-Die Erhöhung des Herzminutenvolumens
-führt zu erhöhtem Sauerstoff verbrauch
-und kann arrhythmogen wirken,
-sodass bei Patienten mit koronarer Herzkrankheit,
-insbesondere durch intravenöse Gabe,
-Angina pectoris-Anfälle
-oder ein Myokardinfarkt ausgelöst werden können.
-Bei schwerer lebensbedrohlicher Anaphylaxie
-gibt es jedoch absolute Kontraindikation
-für Adrenalin.
+Auch bei adäquater Gabe von Adrenalin können ein Therapieversagen oder Nebenwirkungen beobachtet werden.
+Die Erhöhung des Herzminutenvolumens führt zu erhöhtem Sauerstoff verbrauch und kann arrhythmogen wirken, sodass bei Patienten mit koronarer Herzkrankheit, insbesondere durch intravenöse Gabe, Angina pectoris-Anfälle oder ein Myokardinfarkt ausgelöst werden können.
+Bei schwerer lebensbedrohlicher Anaphylaxie gibt es jedoch absolute Kontraindikation für Adrenalin.
 
-In höheren Dosierungen können Antihistaminika
-anticholinerge Wirkungen wie
-Tachykardie,
-Mundtrockenheit,
-Darmatonie,
-Harnverhalt,
-Augeninnendruckerhöhung bis hin zum Glaukomanfall
-sowie paradoxe Erregungszustände
-auslösen.
+In höheren Dosierungen können Antihistaminika anticholinerge Wirkungen wie Tachykardie, Mundtrockenheit, Darmatonie, Harnverhalt, Augeninnendruckerhöhung bis hin zum Glaukomanfall sowie paradoxe Erregungszustände auslösen.
 
-**Glukokortikoide** haben einen *langsamen Wirkungseintritt*
-und daher kaum Einfluss auf die akute Phase einer Anaphylaxie,
-sie sind aber effektiv bei Behandlung von *Asthma*
-und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
-Eine unspezifische membranstabilisierende Wirkung
-innerhalb von zehn bis 30 Minuten
-nach Zufuhr hoher Glukokortikoiddosen
-wird diskutiert.
+**Glukokortikoide** haben einen *langsamen Wirkungseintritt* und daher kaum Einfluss auf die akute Phase einer Anaphylaxie, sie sind aber effektiv bei Behandlung von *Asthma* und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
+Eine unspezifische membranstabilisierende Wirkung innerhalb von zehn bis 30 Minuten nach Zufuhr hoher Glukokortikoiddosen wird diskutiert.
 Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vitalfunktionen und lebensrettenden Sofortmaßnahmen
 (Sauerstoff-, Adrenalin-, Volumengabe) erfolgen.
 {term}`♛ S2k Anaphylaxie 2021`
@@ -315,14 +265,10 @@ Anaphylaxie: Maximalvariante einer akuten allergischen Reaktion.
 Anaphylaktoide Reaktion: direkte, nichtantikörpervermittelte Reaktiond des allergischen Substates mit der Mastzelle ohne vorhergehende Exposition.
 
 
-Auslöser: Muskelrelaxantien (60-70%), Latex (18%), kolloide Volumenersatzmittel (5%),
-Barbiturate, Antibiotika, KM, Protamin.
+Auslöser: Muskelrelaxantien (60-70%), Latex (18%), kolloide Volumenersatzmittel (5%), Barbiturate, Antibiotika, KM, Protamin.
 + Bienen, Wespen, Hornissenstiche.
 Klinik: H1-rezeptor vermittelte Bronchokonstriktion, Gefäßpermeabilitätszunahme und Koronararterinekonstriktion, Dilatation der kleinen Gefäße und Konstrikton der großen Gefäße.
-H2-reptorvermittelte Tachykardie,
-Permeabilitätszunahme,
-Koronararteriendilatation,
-Herzrhythmusstörungen, Bronchodilatation = β-vermittelte Wirkung der H2-Rezeptoren.
+H2-reptorvermittelte Tachykardie, Permeabilitätszunahme, Koronararteriendilatation, Herzrhythmusstörungen, Bronchodilatation = β-vermittelte Wirkung der H2-Rezeptoren.
 TRIAS: volumenresistente Hypotonie + Tachykardie + Bronchospasmus!
 
 Therapie:

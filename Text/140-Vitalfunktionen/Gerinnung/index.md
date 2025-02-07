@@ -36,8 +36,7 @@ Therapiepausen vor LA:
 Clopidogrel/Plavix: 7 Tage, WB sofort Prasugrel/Efient: 7-10 Tage, WB sofort Ticagrelor/Brilique: 5 Tage, WB 6h ASS: keine Pause erforderlich Integrilin: 4h, WB 6h Iloprost: 1h, WB 6h
 
 OP ohne Therapiepause:
-Gabe von Thrombozytenkonzentraten kann zur Aufhebung der APT-Wirkung angedacht werden,
-aber es ist der Nachteil des prothrombotischen Milieus und das Risiko eines Stent-Verschlusses zu beachten (daher soll die Transfusion innerhalb 1-3 Monaten nach Implantation je nach vorliegendem Stenttyp möglichst vermieden werden).
+Gabe von Thrombozytenkonzentraten kann zur Aufhebung der APT-Wirkung angedacht werden, aber es ist der Nachteil des prothrombotischen Milieus und das Risiko eines Stent-Verschlusses zu beachten (daher soll die Transfusion innerhalb 1-3 Monaten nach Implantation je nach vorliegendem Stenttyp möglichst vermieden werden).
 Desmopressin und Tranexamsäure  können zur Verbesserung der primären Hämostasekapazität zur Reduktion der APT-Wirkung erwogen werden, aber auch hier ist das Thromboserisiko und andere spezifische Komplikationen zu berücksichtigen.
 
 ## 25.2. Plasmatische Gerinnung
@@ -53,16 +52,13 @@ Für die Prüfung Gerinnungskaskade aufzeichen lernen!
 
 
 Ziel der Gerinnungsdiagnostik: Minimierung des Blutungs-  und Thromboserisikos, Vermeidung unnötiger Blutprodukte, Vermeidung unnötiger Labortests Soll Werte: PTZ\>50%  (ZNS und Retina  \>70%), apTT norm, Fibrinogen\>100mg/dl, Thromb  \>
-100000/l aPTT-Erhöhung bei: Heparingabe, VWS, APL-Ak, Faktor XII-Mangel, Hämophilie A+B Erhöhte Blutungsneigung: Thrombos \< 50000/l, Fibrinogen\<100,
-FVII+IX minus 35%, PTZ\<25%
+100000/l aPTT-Erhöhung bei: Heparingabe, VWS, APL-Ak, Faktor XII-Mangel, Hämophilie A+B Erhöhte Blutungsneigung: Thrombos \< 50000/l, Fibrinogen\<100, FVII+IX minus 35%, PTZ\<25%
 TheraNostrisches Gerinnungsmanagement: klinischer Blick auf das OP-Gebiet, rasche sensitive Diagnostik Point of Care Test/ROTEM, zielgerichtete Therapie
 
 
-ROTEM = Thrombelastometrie Oszillierender Stempel in einer fixen Küvette;  erfasst die Qualität des Blutgerinnsels, und eine vorzeitige Lyse, aber NICHT Störungen der primären Hämostase (VWS, ASS,
-Thienopyridine).
+ROTEM = Thrombelastometrie Oszillierender Stempel in einer fixen Küvette;  erfasst die Qualität des Blutgerinnsels, und eine vorzeitige Lyse, aber NICHT Störungen der primären Hämostase (VWS, ASS, Thienopyridine).
 
-CT: Coagulationstime vom Start bis Gerinnselbildung, Verlängert bei Faktorenmangel oder Heparin CFT: Clotformationstime von Start Gerinnselbildung bis 20mm, Geschwindigkeit der Gerinselbildung MCF: maximalclotfirmness, Festigkeit des Gerinnsels (54-59mm,
-Fibtem 8-23mm)
+CT: Coagulationstime vom Start bis Gerinnselbildung, Verlängert bei Faktorenmangel oder Heparin CFT: Clotformationstime von Start Gerinnselbildung bis 20mm, Geschwindigkeit der Gerinselbildung MCF: maximalclotfirmness, Festigkeit des Gerinnsels (54-59mm, Fibtem 8-23mm)
 LI: lyseindex, normal \>85% sonst Hyperfibrinolyse
 
 INTEM (aPTT): CT 100-170sec, XII, XI, IX, VIII, X, V, II, I EXTEM (PTZ): CT 36-69 sec VII, X, V, II, I HEPTEM (+Heparinase): CT kürzer als bei INTEM = UFH oder NMWH FIBTEM (Einfluss der Thrombos gehemmt): MCF \< 8mm = Fibrinogenmangel APTEM (+Aprotinin): besserer Cloth als im EXTEM bei Hyperfibrinolyse

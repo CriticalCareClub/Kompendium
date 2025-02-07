@@ -11,13 +11,8 @@
 ::::
 
 Ein Bauchtrauma oder Abdominaltrauma ist eine Verletzung des Abdomens.
-In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten
-Abdomens klassifiziert. Häufigste Ursachen sind Verkehrsunfälle, Stürze
-aus großer Höhe sowie Stoß- und Schlagverletzungen. (Redelsteiner et al.
-1\)    Grundsätzlich ist zwischen offenem (perforierendem,
-penetrierendem) und geschlossenem (stumpfem) Bauchtrauma zu
-unterscheiden. Alle Bauchtrauma können mit massiven inneren Blutungen
-verbunden sein.
+In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten Abdomens klassifiziert. Häufigste Ursachen sind Verkehrsunfälle, Stürze aus großer Höhe sowie Stoß- und Schlagverletzungen. (Redelsteiner et al.
+1\)    Grundsätzlich ist zwischen offenem (perforierendem, penetrierendem) und geschlossenem (stumpfem) Bauchtrauma zu unterscheiden. Alle Bauchtrauma können mit massiven inneren Blutungen verbunden sein.
 
 :::{list-table} Offenes und geschlossenes Bauchtrauma
 :header-rows: 1
@@ -51,12 +46,7 @@ Offenes Bauchtrauma mit Austritt von Darmschlingen
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim
-offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die
-Größe der Eintrittswunde sagt nichts über den Schweregrad der Verletzung
-aus, da unter der Eintrittswunde unterschiedlich schwere Organschäden
-mit inneren Blutungen versteckt sein können. In 25% der Fälle treten
-Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
+Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die Größe der Eintrittswunde sagt nichts über den Schweregrad der Verletzung aus, da unter der Eintrittswunde unterschiedlich schwere Organschäden mit inneren Blutungen versteckt sein können. In 25% der Fälle treten Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 (ts31011c)=
 
@@ -86,9 +76,7 @@ Taktik
 
 ## Geschlossenes Bauchtrauma
 
-Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders
-gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust
-von 4 Liter kommen!
+Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders gefährlich. So kann es z. B. bei einer Milzruptur zu einem Blutverlust von 4 Liter kommen!
 
 :::{attention}
 - Immer nach *Prellmarken* suchen. *Patienten entkleiden!*
@@ -167,11 +155,7 @@ von 4 Liter kommen!
 :::
 ::::
 
-Die Milz ist ein sehr gut durchblutetes Organ, daher ist bei einer
-Verletzung die Blutungsgefahr sehr groß. Aufgrund der festen Kapsel kann
-es sowohl unmittelbar nach der Verletzung zu starken Blutungen kommen,
-aber auch zeitversetzte, verspätete Blutungen sind möglich. Demnach
-unterscheidet man:
+Die Milz ist ein sehr gut durchblutetes Organ, daher ist bei einer Verletzung die Blutungsgefahr sehr groß. Aufgrund der festen Kapsel kann es sowohl unmittelbar nach der Verletzung zu starken Blutungen kommen, aber auch zeitversetzte, verspätete Blutungen sind möglich. Demnach unterscheidet man:
 
 - {dfn}`Einzeitige (primäre)
   Milzruptur`: Die Milz und die Kapsel reißen gleichzeitig, es kommt zu
@@ -214,17 +198,10 @@ unterscheidet man:
 :::
 ::::
 
-Der Bauchraum beherbergt viele, teilweise sehr gut durchblutete Organe
-die bei einer Verletzung zu erheblichen Blutverlusten führen können. Im
-Folgenden werden die Leberruptur, die Aortenruptur sowie die
-Nierenruptur näher beschrieben. Präklinisch äußern sich diese
-Verletzungen im durch den Blutverlust hervorgerufenen Schockzustand.
-Weitere Hinweiszeichen sind Prellmarken oder Schmerzen in der
-entsprechenden Gegend.
+Der Bauchraum beherbergt viele, teilweise sehr gut durchblutete Organe die bei einer Verletzung zu erheblichen Blutverlusten führen können. Im Folgenden werden die Leberruptur, die Aortenruptur sowie die Nierenruptur näher beschrieben. Präklinisch äußern sich diese Verletzungen im durch den Blutverlust hervorgerufenen Schockzustand.
+Weitere Hinweiszeichen sind Prellmarken oder Schmerzen in der entsprechenden Gegend.
 
-Außerhalb eines Spitals kann man derartige Verletzungen kaum ursächlich
-behandeln, im Vordergrund steht die Erkennung, Schockbehandlung und der
-zügige Transport in ein Traumazentrum.
+Außerhalb eines Spitals kann man derartige Verletzungen kaum ursächlich behandeln, im Vordergrund steht die Erkennung, Schockbehandlung und der zügige Transport in ein Traumazentrum.
 
 ### Leberruptur
 
@@ -238,13 +215,8 @@ zügige Transport in ein Traumazentrum.
 :::
 ::::
 
-Die Leber ist auch gut durchblutet und kann im Falle einer Verletzung
-große Probleme machen. Ursachen sind meist stumpfe Verletzungen, z. B.
-ein Lenkradaufprall oder eine Sicherheitsgurtkompression. Der Patient
-klagt meist über einen starken Drucksschmerz im rechten Oberbauch. Durch
-den Blutverlust durch die Verletzung dieses stark durchbluteten Organs
-kann es zu einem Volumenmangelschock kommen. Wie bei der Milz kann es
-auch hier zu einer zweizeitigen Leberruptur kommen.
+Die Leber ist auch gut durchblutet und kann im Falle einer Verletzung große Probleme machen. Ursachen sind meist stumpfe Verletzungen, z. B.
+ein Lenkradaufprall oder eine Sicherheitsgurtkompression. Der Patient klagt meist über einen starken Drucksschmerz im rechten Oberbauch. Durch den Blutverlust durch die Verletzung dieses stark durchbluteten Organs kann es zu einem Volumenmangelschock kommen. Wie bei der Milz kann es auch hier zu einer zweizeitigen Leberruptur kommen.
 
 ### Aortenruptur
 
@@ -256,15 +228,11 @@ auch hier zu einer zweizeitigen Leberruptur kommen.
 :::
 ::::
 
-Durch einwirkende starke Kräfte kann es zu einem Riss in der Aorta
-kommen. Besonders bei Stürzen aus großen Höhen kann dies vorkommen. Da
-es sich bei der Aorta um das größte Gefäß des Körpers handelt ist die
-Prognose äußerst schlecht.
+Durch einwirkende starke Kräfte kann es zu einem Riss in der Aorta kommen. Besonders bei Stürzen aus großen Höhen kann dies vorkommen. Da es sich bei der Aorta um das größte Gefäß des Körpers handelt ist die Prognose äußerst schlecht.
 
 ### Nierenruptur
 
-Die Niere als naturgemäß gut durchblutetes Organ kann im Falle einer
-Verletzung auch massive Probleme machen.
+Die Niere als naturgemäß gut durchblutetes Organ kann im Falle einer Verletzung auch massive Probleme machen.
 
 (beckentrauma)=
 
@@ -284,13 +252,8 @@ Verletzung auch massive Probleme machen.
 Ein Beckentrauma ist eine Verletzung des Beckens.
 
 Besonders gefährlich sind Frakturen des Beckengürtels
-({ref}`beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich,
-der Patient verspürt starke Schmerzen bei jeder passiven Bewegung
-*beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen
-weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
-verloren gehen. Es besteht höchste *Schockgefahr!*
-Eine *Kompression des Beckens* ist *überlebenswichtig*
-um den möglichen großen Blutverlust einzudämmen.
+({ref}`beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich, der Patient verspürt starke Schmerzen bei jeder passiven Bewegung *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
+verloren gehen. Es besteht höchste *Schockgefahr!* Eine *Kompression des Beckens* ist *überlebenswichtig* um den möglichen großen Blutverlust einzudämmen.
 
 - Entstehung durch erhebliche Gewalteinwirkung (Verschüttung,
   Überrolltrauma)
@@ -344,15 +307,11 @@ In 30% findet sich eine Milzruptur! (Sonographie!!)
 Grad I: subkapsuläres Hämatom, \< 1cm Parenchymtiefe, nichtblutend, \<10% OF Grad II: subkapsuläres Hämatom 10-50% OF, \< 2cm Parenchymtiefe Grad III: subkapsuläres Hämatom \> 50% OF,
 \> 3cm Tiefe oder Gefäßverletzung, aktiv blutend Grad IV: Rupturiert frisch blutend, \> 25 des Organs devaskuliert Grad V: komplett zerstörtes Organ, komplett devaskuliert.
 
-Grad I-III konservative Therpie (Ausnahme: Grad III + Polytrauma),
-IV+V OP!!
+Grad I-III konservative Therpie (Ausnahme: Grad III + Polytrauma), IV+V OP!!
 Milz hat wichtige immunologische Funktion, daher Pneumokokken-Impfung nach Splenektomie.
 Bei Postsplenektomiesepsis \> 50% Letalität!
 
 
-Selten Nierenverletzungen (1% der Polytrauma): blutiger Harn,
-Sono + IVP + CT bei Verletzung des Nierenbeckens,
-Nierengefäße, Harnwege und Blase operative Sanierung nötig.
-20%  Leberruptur  mit hoher Mortalität ab Grad IV;  häufig Spätkomplikationen: ARDS,
-Rezidivblutungen, Leberfunktionsstörungen, Abszesse,...
+Selten Nierenverletzungen (1% der Polytrauma): blutiger Harn, Sono + IVP + CT bei Verletzung des Nierenbeckens, Nierengefäße, Harnwege und Blase operative Sanierung nötig.
+20%  Leberruptur  mit hoher Mortalität ab Grad IV;  häufig Spätkomplikationen: ARDS, Rezidivblutungen, Leberfunktionsstörungen, Abszesse,...
 Grad I: subkapsuläres Hämatom, \< 1cm Tiefe, nicht blutend, \< 10% OF Grad II: subkapsuläres Hämatom, \<2cm Tiefe, 10-50% OF Grad III: subkapsuläres Hämatom, 2-3cm Tiefe, \>50% OF, aktiv blutend Grad IV: \>50% eines Leberlappens lazeriert, Venenverletzung, blutend Grad V: Vaskulär: Leberzereissung Trend geht zu konservativer Behandlung mit guter Gerinnungskorrektur nach ROTEM. Grad I-II Fibrinklebung, höhere Grade Tuchtamponade, Leberteilresektion bis Hepatektomie.

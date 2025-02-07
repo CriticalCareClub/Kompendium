@@ -2,21 +2,18 @@
 
 # HWS-Sschiene
 
-Die HWS-Schiene [^footnote-1] dient der Ruhigstellung und Stabilisierung der
-**H**als**W**irbel**S**äule (HWS).
-Sie soll bei jedem Verdacht
-auf eine Verletzung der (Hals-) Wirbelsäule eingesetzt werden ({ref}`IndikationWirbelsaeulenimmobilisation`);
+Die HWS-Schiene [^footnote-1] dient der Ruhigstellung und Stabilisierung der **H**als**W**irbel**S**äule (HWS).
+Sie soll bei jedem Verdacht auf eine Verletzung der (Hals-) Wirbelsäule eingesetzt werden ({ref}`IndikationWirbelsaeulenimmobilisation`);
 jedenfalls nach einer Helmabnahme.
-Bei einem Schädel-Hirn-Trauma (SHT) kommt es oft zu Verletzungen der
-HWS, daher sollte hier die Indikation auch großzügig gestellt werden.
+Bei einem Schädel-Hirn-Trauma (SHT) kommt es oft zu Verletzungen der HWS, daher sollte hier die Indikation auch großzügig gestellt werden.
 
 Es sind verschiedene Fabrikate verfügbar
 (z. B. Stifneck™️, Ambu Perfit™️, …).
-Es gibt Schienen mit einer fixen Größe oder moderne Schienen, bei
-welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
+Es gibt Schienen mit einer fixen Größe oder moderne Schienen, bei welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 (Stifneck select™️ bzw. Stifneck Paedi select™️ für Kinder).
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Stiffneck_32899_crop-sRGB-AASS-0112mm.\*
+
 Einstellbare HWS-Schienen für Erwachsene und KinderLaerdal Stifneck Select und Stifneck Pedi-Select
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

@@ -5,10 +5,7 @@
 
 # Tragering
 
-Das Tragen mit dem Tragering funktioniert nur bei
-bewusstseinsklaren und kooperativen Patienten, außerdem sollte das
-Stiegenhaus, oder die zurück zulegende Strecke, breit genug sein. Die
-Technik eignet sich nur für kurze Distanzen.
+Das Tragen mit dem Tragering funktioniert nur bei bewusstseinsklaren und kooperativen Patienten, außerdem sollte das Stiegenhaus, oder die zurück zulegende Strecke, breit genug sein. Die Technik eignet sich nur für kurze Distanzen.
 
 ```{eval-rst}
 .. subfigstart::

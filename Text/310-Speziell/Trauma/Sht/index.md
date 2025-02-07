@@ -16,16 +16,9 @@
 
 Ein {dfn}`Schädel-Hirn-Trauma`
 (*Abkz.* {dfn}`SHT`{index}` <! SHT>`)
-ist eine Gewalteinwirkung auf den Kopf,
-welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
+ist eine Gewalteinwirkung auf den Kopf, welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
 .
-Die häufigsten Ursachen von
-Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und
-Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene
-Formen des SHT auftreten. Man unterscheidet das *gedeckte SHT*, bei dem
-die harte Hirnhaut (Dura mater) nicht eröffnet wird, sowie das *offene
-SHT*, bei dem die harte Hirnhaut eröffnet wird. Bei beiden Arten kommt
-es zu Bewusstseinsstörungen.
+Die häufigsten Ursachen von Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene Formen des SHT auftreten. Man unterscheidet das *gedeckte SHT*, bei dem die harte Hirnhaut (Dura mater) nicht eröffnet wird, sowie das *offene SHT*, bei dem die harte Hirnhaut eröffnet wird. Bei beiden Arten kommt es zu Bewusstseinsstörungen.
 
 :::{note}
 - Das Leitsymptom des SHT ist die *Bewusstseinsstörung*.
@@ -54,10 +47,7 @@ es zu Bewusstseinsstörungen.
   - Gesichtsschädel
   - Unterkiefer
 
-Die Schwere eines SHT lässt sich nur bedingt von den äußerlich
-sichtbaren Verletzungen ableiten! Oft werden im Krankenhaus Frakturen
-festgestellt, ohne dass äußere Wunden vorliegen. Eine *sorgfältige
-Untersuchung* ist daher bei jedem SHT Pflicht!
+Die Schwere eines SHT lässt sich nur bedingt von den äußerlich sichtbaren Verletzungen ableiten! Oft werden im Krankenhaus Frakturen festgestellt, ohne dass äußere Wunden vorliegen. Eine *sorgfältige Untersuchung* ist daher bei jedem SHT Pflicht!
 
 ## Gefahren
 
@@ -119,16 +109,11 @@ Untersuchung* ist daher bei jedem SHT Pflicht!
   aufgrund einer direkten oder indirekten Hirn- bzw.
   Rückenmarksschädigung
 
-Aufgrund des lichten Intervalls können
-Symptome eines SHT erst
-Stunden nach der eigentlichen Verletzung auftreten.
-Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, ,
-die in einer akut lebensbedrohlichen
-Hirnstammeinklemmung enden kann.
+Aufgrund des lichten Intervalls können Symptome eines SHT erst Stunden nach der eigentlichen Verletzung auftreten.
+Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, , die in einer akut lebensbedrohlichen Hirnstammeinklemmung enden kann.
 
 :::{danger}
-Das **luzide Intervall** kann zu einer katastrophalen Fehleinschätzung
-des Patientenzustandes führen!
+Das **luzide Intervall** kann zu einer katastrophalen Fehleinschätzung des Patientenzustandes führen!
 :::
 
 (sht-diagnostik)=
@@ -150,10 +135,7 @@ des Patientenzustandes führen!
 ::::
 
 Grundsätzlich ist beim Schädel-Hirn-Trauma die
-übliche Trauma-Diagnostik durchzuführen. Die *neurologische
-Beurteilung*, die Erhebung des *Unfallmechanismus*
-und die Suche nach
-*Begleit- oder Folgeverletzungen* sind besonders zu betonen.
+übliche Trauma-Diagnostik durchzuführen. Die *neurologische Beurteilung*, die Erhebung des *Unfallmechanismus* und die Suche nach *Begleit- oder Folgeverletzungen* sind besonders zu betonen.
 
 - *Unfallmechanismus*: Anhand des Unfallmechanismus muss ermittelt
   werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
@@ -205,10 +187,7 @@ und die Suche nach
 
   **Luzides Intervall**
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
-PupillendifferenzSie ist ein Alarmzeichen: Eine
-Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten
-Hirndruck sein!
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\* PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten Hirndruck sein!
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -269,9 +248,7 @@ Hinweise auf ein offenes SHT sind:
 
 ## Gedecktes SHT
 
-Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne
-Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei
-Grade eingeteilt:
+Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei Grade eingeteilt:
 
 - {dfn}`Gehirnerschütterung` {index}` <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
 - {dfn}`Gehirnprellung` {index}` <! Gehirnprellung>` SHT 2°, Contusio cerebri
@@ -316,36 +293,22 @@ Grade eingeteilt:
 
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
-Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann
-auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie
-(Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell
-klagt der Patient über Übelkeit erbrechen und Schwindel. Die
-Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
+Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie
+(Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
 #### Gehirnprellung — SHT 2°
 
 Die Gehirnprellung ist eine schwerere Form des Schädel-Hirntraumas.
-Leitsymptom ist die *Bewusstlosigkeit länger als 1 h*, beziehungsweise
-die Bewusstseinseintrübung \< 24 h. Mittels weiterführender Diagnostik im
-Spital lassen sich die *Hirnschädigungen* nachweisen. Es kann zu
-Nervenverletzungen kommen, dies kann zu vegetativen Störungen führen.
+Leitsymptom ist die *Bewusstlosigkeit länger als 1 h*, beziehungsweise die Bewusstseinseintrübung \< 24 h. Mittels weiterführender Diagnostik im Spital lassen sich die *Hirnschädigungen* nachweisen. Es kann zu Nervenverletzungen kommen, dies kann zu vegetativen Störungen führen.
 Bleibende Schäden sind möglich.
 
 (hirnblutung)=
 
 #### Gehirnquetschung — SHT 3°
 
-Die Gehirnquetschung ist eine sehr schwere Form des
-Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h*
-und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel
-Hirndruckzeichen ({ref}`hirndruckzeichen`), Atem und Kreislaufstörungen
-bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
+Die Gehirnquetschung ist eine sehr schwere Form des Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h* und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel Hirndruckzeichen ({ref}`hirndruckzeichen`), Atem und Kreislaufstörungen bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
 
-Es kann weiteres zu intrakraniellen Blutungen kommen (epidural,
-subdural, subarachnoidal). Außerdem kommt es zu verschiedenen
-neurologischen Ausfällen und Symptomen wie zum Beispiel zerebrale
-Krampfanfälle. Mit *bleibenden Schäden* und Langzeitfolgen ist zu
-rechnen.
+Es kann weiteres zu intrakraniellen Blutungen kommen (epidural, subdural, subarachnoidal). Außerdem kommt es zu verschiedenen neurologischen Ausfällen und Symptomen wie zum Beispiel zerebrale Krampfanfälle. Mit *bleibenden Schäden* und Langzeitfolgen ist zu rechnen.
 
 :::{list-table} SHT-Grade: Übersicht
 :header-rows: 1

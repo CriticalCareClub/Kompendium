@@ -1,12 +1,9 @@
 (kollaps)=
-
 (synkope)=
 
 # Kollaps und Synkope
 
-Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige
-Kreislaufregulationsstörung. Manche Autoren unterscheiden zwischen
-beiden Begriffen und ordnen der Synkope eher kardiale Ursachen zu.
+Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige Kreislaufregulationsstörung. Manche Autoren unterscheiden zwischen beiden Begriffen und ordnen der Synkope eher kardiale Ursachen zu.
 
 Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 
@@ -18,20 +15,12 @@ Ein Kollaps kann seine Ursachen in verschiedenen Organssystemen haben:
 - Hirngefäßen (z. B. {abbr}`TIA (Transiente Ischämische Attacke)`) …
 - Sonstige Ursachen und Faktoren: Hypoglykämie, Menstruation
 
-Eine Abklärung ist präklinisch oft nicht möglich, und auch unter
-stationären Bedingungen oft langwierig und nicht selten ergebnislos. Da
-jedoch schwerwiegende und lebensbedrohliche Diagnosen möglich sind, muss
-bei unklaren Kollapszuständen eine gründliche Abklärung erfolgen.
+Eine Abklärung ist präklinisch oft nicht möglich, und auch unter stationären Bedingungen oft langwierig und nicht selten ergebnislos. Da jedoch schwerwiegende und lebensbedrohliche Diagnosen möglich sind, muss bei unklaren Kollapszuständen eine gründliche Abklärung erfolgen.
 
 Es gibt jedoch auch typische "Kollaps-Situationen":
-Ein schwüler Tag in einer überfüllten U-Bahn-Garnitur,
-nicht gefrühstückt, auf dem Weg zu einem Vorstellungstermin
-und seit gestern in der Menstruation.
-Oder im stickigen Veranstaltungszelt bei 40°C,
-wobei der der ganze Flüssigkeitskonsum aus 5 (entwässernden) Dosen
-RedBull bestand.
-So mancher war auch ob eines Begräbnisses so ergriffen,
-dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
+Ein schwüler Tag in einer überfüllten U-Bahn-Garnitur, nicht gefrühstückt, auf dem Weg zu einem Vorstellungstermin und seit gestern in der Menstruation.
+Oder im stickigen Veranstaltungszelt bei 40°C, wobei der der ganze Flüssigkeitskonsum aus 5 (entwässernden) Dosen RedBull bestand.
+So mancher war auch ob eines Begräbnisses so ergriffen, dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 
 ## Symptome
 
@@ -44,11 +33,7 @@ dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
 :::
 ::::
 
-Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war
-kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und
-weiß nicht, was geschehen ist. Er erzählt, es wäre ihm schwarz vor den
-Augen geworden. Der Blutdruck ist meist niedrig, der Patient ist
-eventuell bradykard oder tachykard.
+Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und weiß nicht, was geschehen ist. Er erzählt, es wäre ihm schwarz vor den Augen geworden. Der Blutdruck ist meist niedrig, der Patient ist eventuell bradykard oder tachykard.
 
 (proc-mr55xx0c)=
 
@@ -56,8 +41,7 @@ eventuell bradykard oder tachykard.
 
 ## Maßnahmen: Kollaps
 
-Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen,
-z. B.:
+Vitale Bedrohung einschätzen, auf Differentialdiagnosen untersuchen, z. B.:
 
 - Insult
 - Herzrhytmusstörungen
@@ -68,8 +52,7 @@ z. B.:
 - Exsikkose
 - …
 
-Es sind dabei alle zur Verfügung stehenden Möglichkeiten auszuschöpfen,
-z. B.:
+Es sind dabei alle zur Verfügung stehenden Möglichkeiten auszuschöpfen, z. B.:
 
 - Traumacheck (Sturz?),
 - Neurocheck inkl. Blutzuckermessung,
@@ -79,8 +62,7 @@ z. B.:
 
 **Ursachenforschung**: (Begleiterkrankungen (Infekt, …), letzte Mahlzeit, Hitze, …)
 
-Lagerung: Nach Ausschluss von Herzbeschwerden, Atemnot und relevanten
-Verletzungen: Beine hoch
+Lagerung: Nach Ausschluss von Herzbeschwerden, Atemnot und relevanten Verletzungen: Beine hoch
 
 Transportentscheidung: Hospitalisierung zur Abklärung anstreben
 

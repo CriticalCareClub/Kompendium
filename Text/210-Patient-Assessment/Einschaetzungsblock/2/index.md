@@ -4,8 +4,7 @@
 
 Hier zählt der Eindruck,
 den der Patient auf den Helfer macht.
-Es werden
-v. a. beurteilt:
+Es werden v. a. beurteilt:
 
 - Alter, Geschlecht
 - Hautkolorit (Hautfärbung)
@@ -15,8 +14,7 @@ v. a. beurteilt:
 - Sonstige Aufffälligkeiten
 
 Liegt der Verdacht auf eine Wirbelsäulenverletzung vor,
-wird bereits
-hier mit der manuellen Stabilisierung der Halswirbelsäule begonnen
+wird bereits hier mit der manuellen Stabilisierung der Halswirbelsäule begonnen
 ({ref}`IndikationWirbelsaeulenimmobilisation`).
 
 ## Befunde
@@ -29,15 +27,12 @@ Auffallen kann eine *blasse Haut*,
 (Gestik,
 Aufstützen der Arme, um die *Atemhilfsmuskulatur* einzusetzen,
 Nasenflügeln,
-Einziehungen an
-den Rippen, …),
+Einziehungen an den Rippen, …),
 eine verwaschene oder wirre *Sprache*,
 *Desorientiertheit*, *Krämpfe* u.v. a.m.
-Ebenso können eventuell Hinweise
-auf ein *Trauma*,
+Ebenso können eventuell Hinweise auf ein *Trauma*,
 sichtbare Verletzungen,
-starke Blutungen oder Hinweise
-auf eine Wirbelsäulenverletzung erkannt werden.
+starke Blutungen oder Hinweise auf eine Wirbelsäulenverletzung erkannt werden.
 
 ```{eval-rst}
 .. subfigstart::
@@ -78,8 +73,7 @@ Zyanotische Lippen können schon frühzeitig auffallen.
 
 ## Indikation zur Wirbelsäulenimmobilisation
 
-Eine Immobilisation der Wirbelsäule ist notwendig bei
-Traumapatienten, bei denen folgendes zutrifft:
+Eine Immobilisation der Wirbelsäule ist notwendig bei Traumapatienten, bei denen folgendes zutrifft:
 
 1. **Typischer Unfallmechanismus**
 
@@ -115,9 +109,7 @@ Traumapatienten, bei denen folgendes zutrifft:
 
 3. **Verdacht**
 
-Solange es noch unklar ist, ob eine WS-Immobilisation
-notwendig ist, muss eine manuelle Fixierung der HWS
-durchgeführt werden!
+Solange es noch unklar ist, ob eine WS-Immobilisation notwendig ist, muss eine manuelle Fixierung der HWS durchgeführt werden!
 
 
 

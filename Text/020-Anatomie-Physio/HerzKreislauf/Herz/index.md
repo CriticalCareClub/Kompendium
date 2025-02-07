@@ -17,9 +17,7 @@
 :::
 
 Das **Herz** (**Cor**) befindet sich im Mediastinum, dem Bindegewebsraum zwischen den beiden Lungenflügeln.
-Es ist ein *muskuläres Hohlorgan* und misst ungefähr die Größe einer Faust (ca. 0,5% des Körpergewichts,
-300
-bis 350 g).
+Es ist ein *muskuläres Hohlorgan* und misst ungefähr die Größe einer Faust (ca. 0,5% des Körpergewichts, 300 bis 350 g).
 Von der Form her kann man das Herz mit einer *Pyramide* vergleichen - die Spitze (**Apex**) berührt den *5. ICR* (Intercostalraum) in der **linken** mittleren Schlüsselbeinlinie, eine Seite liegt dem Zwerchfell auf, die *Basis* liegt Schräg nach hinten-oben geneigt.
 An dieser Stelle treten die großen Gefäße des Herzens ein.
 Nach ventral liegt es *hinter dem Brustbein* (Sternum, retrosternal).

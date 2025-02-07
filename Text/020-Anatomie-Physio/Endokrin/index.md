@@ -4,8 +4,7 @@
 
 ## Allgemeine Anatomie
 
-Man kann bei Drüsen vier verschiedene *Arten der Beeinflussung von
-Zellen* unterscheiden:
+Man kann bei Drüsen vier verschiedene *Arten der Beeinflussung von Zellen* unterscheiden:
 
 - autokrine Sekretion: Beeinflussung der Zelle selbst
 - parakrine Sekretion: Beeinflussung benachbarter Zellen
@@ -13,17 +12,11 @@ Zellen* unterscheiden:
 - exokrine Sekretion: Abgabe von Sekreten an äußere oder innere
   Körperoberflächen
 
-Zum Hormonsystem gehören lediglich *endokrine Drüsen*. Hormone sind
-Signal- oder Botenstoffe. Im Gegensatz zum vegetativen Nervensystem, das
-auch Organfunktionen des Körpers reguliert, ist das Hormonsystem für
-eine langsamere und dafür länger andauernde Beeinflussung der
-Stoffwechselvorgänge und Organfunktionen zuständig.
+Zum Hormonsystem gehören lediglich *endokrine Drüsen*. Hormone sind Signal- oder Botenstoffe. Im Gegensatz zum vegetativen Nervensystem, das auch Organfunktionen des Körpers reguliert, ist das Hormonsystem für eine langsamere und dafür länger andauernde Beeinflussung der Stoffwechselvorgänge und Organfunktionen zuständig.
 
-Über *Rückkopplungsvorgänge* werden die Hormonspiegel im Körper
-gesteuert.
+Über *Rückkopplungsvorgänge* werden die Hormonspiegel im Körper gesteuert.
 
-Man kann die Hormone anhand ihrer Affinität zu Wasser und Fett auch
-einteilen in:
+Man kann die Hormone anhand ihrer Affinität zu Wasser und Fett auch einteilen in:
 
 - *Lipophile Hormone*: spezifischer Rezeptor im Zellinneren, Einfluss
   auf Zellwachstum und -vermehrung (Gentranskription).
@@ -137,8 +130,7 @@ Hormone können auch aufgrund ihres *Bildungsortes* differenziert werden:
 +----------------------+----------------------+---------------------+
 ```
 
-Diese Hormone werden auch aufgrund ihres Wirkungsortes unterschiedlich
-bezeichnet:
+Diese Hormone werden auch aufgrund ihres Wirkungsortes unterschiedlich bezeichnet:
 
 - im endokrinen System = endokrine Hormone ➛ Hormone
 - im Nervensystem (ZNS bzw. VNS) = neurokrines System ➛ Transmitter,
@@ -151,21 +143,14 @@ bezeichnet:
 ### Hypothalamus-Hypophysen-System
 
 Diese System ist das zentrale Steuerungsorgan des endokrinen Haushalt.
-Der Hypothalamus ist ein Teil des Zwischenhirns (Diencephalon). Über
-*Liberine* wird die Freisetzung von Hypophysenhormonen gefördert, über
-*Statine* gehemmt. Der Hypothalamus produziert auch selbst zwei
-sogenannte *Effektorhormone (Vasopressin / Adiuretin und Oxytocin)*, die
-jedoch über das Infundibulum (Hypophysenstiel) in den
-Hypophysenhinterlappen transportiert werden und erst dort ausgeschüttet
-werden.
+Der Hypothalamus ist ein Teil des Zwischenhirns (Diencephalon). Über *Liberine* wird die Freisetzung von Hypophysenhormonen gefördert, über *Statine* gehemmt. Der Hypothalamus produziert auch selbst zwei sogenannte *Effektorhormone (Vasopressin / Adiuretin und Oxytocin)*, die jedoch über das Infundibulum (Hypophysenstiel) in den Hypophysenhinterlappen transportiert werden und erst dort ausgeschüttet werden.
 
 ### Hypophyse (Hirnanhangsdrüse)
 
 Die Hypophyse ist ca. erbsengroß (1g) und liegt auf der *Schädelbasis*
 (Sella turcica, Türkensattel) direkt über dem Sinus sphenoidalis.
 
-Über den *Hypophysenstiel* (Infundibulum) ist sie mit dem Hypothalamus
-verbunden. Sie kann in *zwei Anteile* untergliedert werden:
+Über den *Hypophysenstiel* (Infundibulum) ist sie mit dem Hypothalamus verbunden. Sie kann in *zwei Anteile* untergliedert werden:
 
 - *Neurohypophyse (Hypophysenhinterlappen, HHL)*: schüttet Adiuretin /
   Vasopressin, Oxytocin aus = Effektorhormone. Diese werden NICHT in
@@ -190,22 +175,13 @@ verbunden. Sie kann in *zwei Anteile* untergliedert werden:
 
 ### Epiphyse (Zirbeldrüse)
 
-Auch Corpus pineale bzw. Glandula pinealis genannt. Hat ungefähr die
-Größe eines Maiskorns und die Form eines Pinienzapfens (daher der Name).
-Sie ist Teil des Zwischenhirns (Diencephalons). Produzent des
-*Melatonins (Ausschüttung bei Nacht)*, reguliert den Tag- und
-Nacht-Rhythmus („biologische Uhr“). Die Produktion von Melatonin nimmt
-mit dem Alter ab.
+Auch Corpus pineale bzw. Glandula pinealis genannt. Hat ungefähr die Größe eines Maiskorns und die Form eines Pinienzapfens (daher der Name).
+Sie ist Teil des Zwischenhirns (Diencephalons). Produzent des *Melatonins (Ausschüttung bei Nacht)*, reguliert den Tag- und Nacht-Rhythmus („biologische Uhr“). Die Produktion von Melatonin nimmt mit dem Alter ab.
 
 ### Glandula thyroidea (Schilddrüse) und Glandula parathyroidea (Nebenschilddrüse)
 
-Die Schilddrüse liegt direkt vor dem Schildknorpel und ist zwischen 15
-bis 60 ➛ schwer. Sie wird in zwei Lappen unterteilt, die medial über
-einen Isthmus verbunden sind. Die Schilddrüsenhormone *Thyroxin
-(T*{sub}`4`*)* und *Triiodthyronin (T*{sub}`3`*)* stimulieren
-den Zellstoffwechsel. Zur Bildung von Thyroxin und Triiodthyronin
-benötigt der Körper Iod. Die C-Zellen der Schilddrüse produzieren
-*Calcitonin*, das den Blutkalziumspiegel beeinflusst (Senkung).
+Die Schilddrüse liegt direkt vor dem Schildknorpel und ist zwischen 15 bis 60 ➛ schwer. Sie wird in zwei Lappen unterteilt, die medial über einen Isthmus verbunden sind. Die Schilddrüsenhormone *Thyroxin
+(T*{sub}`4`*)* und *Triiodthyronin (T*{sub}`3`*)* stimulieren den Zellstoffwechsel. Zur Bildung von Thyroxin und Triiodthyronin benötigt der Körper Iod. Die C-Zellen der Schilddrüse produzieren *Calcitonin*, das den Blutkalziumspiegel beeinflusst (Senkung).
 
 - Thyroxin (inaktiv, 4 Iodmoleküle) und Triiodthyronin (aktiv, 3
   Iodmoleküle): Steigerung des Stoffwechsels, der Herzfrequenz sowie
@@ -213,11 +189,8 @@ benötigt der Körper Iod. Die C-Zellen der Schilddrüse produzieren
 - Calcitonin steigert Calciumphosphat-Einlagerung in den Knochen und
   senkt daher den Blutkalziumspiegel.
 
-Die *Nebenschilddrüsen (Glandulae parathyroideae*, insg. 4) sind
-ungefähr linsengroß sitzen jeweils auf den Schilddrüsenpolen. Sie
-beeinflussen mit ihrem *Parathormon* den Kalzium- und Phosphathaushalt.
-Parathormon ist der Antagonist des Calcitonins und stimuliert die
-Osteoklasten zum Knochenabbau und erhöht somit den Blutkalziumspiegel.
+Die *Nebenschilddrüsen (Glandulae parathyroideae*, insg. 4) sind ungefähr linsengroß sitzen jeweils auf den Schilddrüsenpolen. Sie beeinflussen mit ihrem *Parathormon* den Kalzium- und Phosphathaushalt.
+Parathormon ist der Antagonist des Calcitonins und stimuliert die Osteoklasten zum Knochenabbau und erhöht somit den Blutkalziumspiegel.
 
 ### Nebennieren (Glandula adrenalis / suprarenalis)
 
@@ -236,8 +209,7 @@ Die Nebennieren sind paarig und liegen auf dem oberen Pol der Nieren.
 
 Die Nebennieren sind paarig und liegen auf dem oberen Pol der Nieren.
 Eine Nebenniere wiegt ca. 5 g.
-Innerhalb der Nebenniere kann man zwischen
-*Nebennierenrinde* und *Nebennierenmark* unterscheiden.
+Innerhalb der Nebenniere kann man zwischen *Nebennierenrinde* und *Nebennierenmark* unterscheiden.
 Trotz ihrer Nähe zur Niere haben die Nebennieren keine Verbindung zum Harntrakt und erfüllen gänzlich andere Funktionen.
 
 Die Nebenniere ist gegliedert in:
@@ -269,10 +241,7 @@ Die Nebenniere ist gegliedert in:
 
 Zur allgemeinen Anatomie und exokrinen Funktion des Pankreas siehe {ref}`Pankreas`.
 
-Die Bauchspeicheldrüse bildet eine Kreuzungsstelle zwischen endokrinem
-und exokrinem System. Exokrin ist sie zuständig für die Bildung von
-Enzymen zur Fett- und Proteinverdauung, endokrin — in den
-*Langerhans-Inseln* (ca. 1-2 Mio. Stk.) — bildet sie:
+Die Bauchspeicheldrüse bildet eine Kreuzungsstelle zwischen endokrinem und exokrinem System. Exokrin ist sie zuständig für die Bildung von Enzymen zur Fett- und Proteinverdauung, endokrin — in den *Langerhans-Inseln* (ca. 1-2 Mio. Stk.) — bildet sie:
 
 - in den B-Zellen (60 %):
   **Insulin**,
@@ -284,8 +253,7 @@ Enzymen zur Fett- und Proteinverdauung, endokrin — in den
 - in den D-Zellen (15 %): Somatostatin, beeinflusst die Ausnutzung von
   aus dem Darm aufgenommenen Nährstoffen
 
-Die Hormine Insulin und Glukagon sind dafür verantwortlich, dass der
-Blutzuckerspiegel möglichst konstant ist (60-100 mg/100ml).
+Die Hormine Insulin und Glukagon sind dafür verantwortlich, dass der Blutzuckerspiegel möglichst konstant ist (60-100 mg/100ml).
 
 - *Insulin*: fördert Glukoseaufnahme in die Zellen (senkt Blutzucker),
   fördert Speicherung aufgenommener Nahrung in Form von Glykogen und
@@ -297,9 +265,7 @@ Blutzuckerspiegel möglichst konstant ist (60-100 mg/100ml).
 
 ### Geschlechtsorgane
 
-Geschlechtshormone beeinflussen die *Entwicklung der primären und
-sekundären Geschlechtsmerkmale, das Wachstum, die körperliche und
-seelische Reife sowie die Fortpflanzung*.
+Geschlechtshormone beeinflussen die *Entwicklung der primären und sekundären Geschlechtsmerkmale, das Wachstum, die körperliche und seelische Reife sowie die Fortpflanzung*.
 
 - Ovarien: Östrogene (Östradiol), Gestagene (Progesteron), Androgene
   (gering)

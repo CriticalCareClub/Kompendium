@@ -23,8 +23,7 @@ Die Lunge gehört im klinischen Kontext zu den unteren Atemwegen.
 Sie ist ein paariges Organ mit *zwei Lungenflügeln* und bildet die laterale Begrenzung des Mediastinums (Mittelteil des Thoraxraumes).
 Die beiden Lungenflügel ragen mit ihren Spitzen bis *über die erste Rippe* und ragen somit in die obere Thoraxapertur hinein.
 
-Der linke Lungenflügel wird durch die *Fissura obliqua* (schräg verlaufende Furche) in zwei Lungenlappen (Lobus superior und inferior), der rechte Lungenflügel durch die *Fissura horizontalis* (horizontal verlaufende Furche) und die *Fissura obliqua* in drei Lungenlappen unterteilt (Lobus superior, medius und inferior). Abhängig von der Aufteilung der Bronchien werden die Lungenflügeln weiter in jeweils *10
-Segmente* unterteilt, wobei auf der linken Seite meist das 7. und das 8.
+Der linke Lungenflügel wird durch die *Fissura obliqua* (schräg verlaufende Furche) in zwei Lungenlappen (Lobus superior und inferior), der rechte Lungenflügel durch die *Fissura horizontalis* (horizontal verlaufende Furche) und die *Fissura obliqua* in drei Lungenlappen unterteilt (Lobus superior, medius und inferior). Abhängig von der Aufteilung der Bronchien werden die Lungenflügeln weiter in jeweils *10 Segmente* unterteilt, wobei auf der linken Seite meist das 7. und das 8.
 Segment miteinander verschmolzen sind (daher dann 9 Segmente).
 
 Der *Lungenhilus* (Radix pulmonalis) bildet die Ein- und Austrittspforte der Lunge. Hier findet man die Hauptbronchien und die entsprechenden Pulmonalarterien und -venen sowie Lymphknoten.

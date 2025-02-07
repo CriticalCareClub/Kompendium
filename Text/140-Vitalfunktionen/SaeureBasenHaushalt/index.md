@@ -13,12 +13,8 @@
 
 :::
 
-{dfn}`Säuren` sind Stoffe,
-die Protonen [^proton] abgeben
-können,
-{dfn}`Basen` sind Stoffe, die Protonen aufnehmen
-können. Der Begriff {dfn}`Lauge` ist gleichbedeutend mit dem
-Begriff Base.
+{dfn}`Säuren` sind Stoffe, die Protonen [^proton] abgeben können,
+{dfn}`Basen` sind Stoffe, die Protonen aufnehmen können. Der Begriff {dfn}`Lauge` ist gleichbedeutend mit dem Begriff Base.
 
 [^proton]: *Proton*:
     positiv geladenes Teilchen im Atoms.
@@ -41,12 +37,9 @@ Begriff Base.
 :::
 ::::
 
-Der pH-Wert gibt an,
-wie *sauer* oder *basisch* eine Lösung ist\[#PH-1\].\_
-Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
+Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist\[#PH-1\].\_ Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
-Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`,
-wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
+Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
 
 [^ph-1]: Ein pH-Wert \<7 gilt als *sauer*,
     ein pH=7 als *neutral* und ein ph>7
@@ -77,12 +70,8 @@ wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
 
 Der Körper muss den pH-Wert in einem engen Bereich halten.
 Dazu gibt es Regulationsmechanismen.
-Der wichtigste Regulationsmechanismus ist das
-Bicarbonat-**Puffersystem** im Blut,
-an dem auch die *Atmung* und die *Lunge* wesentlich beteiligt sind. [^puffer]
-Daneben gibt es auch noch andere Regulationsmechanismen,
-so reguliert auch die *Niere* die Ausscheidung
-oder Wiederaufnhame von Säure in Form von Wasserstoffionen.
+Der wichtigste Regulationsmechanismus ist das Bicarbonat-**Puffersystem** im Blut, an dem auch die *Atmung* und die *Lunge* wesentlich beteiligt sind. [^puffer]
+Daneben gibt es auch noch andere Regulationsmechanismen, so reguliert auch die *Niere* die Ausscheidung oder Wiederaufnhame von Säure in Form von Wasserstoffionen.
 
 [^puffer]: Ein Puffer ist ein Stoff, welcher pH-Änderungen abfedert.
 
@@ -90,10 +79,7 @@ oder Wiederaufnhame von Säure in Form von Wasserstoffionen.
 
 ## Puffersystem im Blut
 
-Der Bikarbonat-Puffer wandelt
-Säure und Bikarbonat auf der einen Seite
-in Kohlendioxid CO₂ und Wasser auf der anderen Seite um. Dieser Mechanismus
-funktioniert in beide Richtungen, je nachdem welcher Stoff (Säure bzw.
+Der Bikarbonat-Puffer wandelt Säure und Bikarbonat auf der einen Seite in Kohlendioxid CO₂ und Wasser auf der anderen Seite um. Dieser Mechanismus funktioniert in beide Richtungen, je nachdem welcher Stoff (Säure bzw.
 CO₂) vermehrt vorliegt[^bikarbonatpuffergleichung]:
 
 $$
@@ -118,6 +104,7 @@ $$
 ::::{only} not nosidebar
 
 :::{margin} Bikarbonat-Puffer
+
 CO₂ wird von Lunge abgeatmet.
 
 - Zu wenig Atmung: CO₂ staut sich, wird nicht abgebaut
@@ -173,15 +160,8 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 ::::
 
 Zugrunde liegt eine (innere oder äußere) Atmungsinsuffizienz.
-Dies umfasst z. B. eine zu
-*niedrige Atemfrequenz*,
-ein zu *geringes Atemzugsvolumen*,
-eine *Verlegung* der Atemwege,
-ein zu *geringes Sauerstoffangebot* in der Einatemluft,
-einen *beeinträchtigten Gasaustausch*
-oder generell eine *Kreislaufinsuffizienz*.
-Da die CO₂-Abatmung vermindert ist,
-kommt es zu einer *Anhäufung von CO₂ im Blut* (Hyperkapnie)
+Dies umfasst z. B. eine zu *niedrige Atemfrequenz*, ein zu *geringes Atemzugsvolumen*, eine *Verlegung* der Atemwege, ein zu *geringes Sauerstoffangebot* in der Einatemluft, einen *beeinträchtigten Gasaustausch* oder generell eine *Kreislaufinsuffizienz*.
+Da die CO₂-Abatmung vermindert ist, kommt es zu einer *Anhäufung von CO₂ im Blut* (Hyperkapnie)
 und folglich zu einer Ansäuerung des Blutes.
 
 (azidose-metabolische)=
@@ -203,40 +183,27 @@ und folglich zu einer Ansäuerung des Blutes.
 :::
 
 
-Es kommt zu einer
-*übermäßigen Säureproduktion* des Körpers.
-Ein klassisches Krankheitsbild welches
-dazu führt ist das *Diabetische Koma*.
-Hier werden saure Stoffe gebildet (Ketonkörper), welche ein
-Ungleichgewicht verursachen. Es kann dadurch zu einer Schädigung des
-Zellstoffwechsels und des Herzmuskels kommen.
+Es kommt zu einer *übermäßigen Säureproduktion* des Körpers.
+Ein klassisches Krankheitsbild welches dazu führt ist das *Diabetische Koma*.
+Hier werden saure Stoffe gebildet (Ketonkörper), welche ein Ungleichgewicht verursachen. Es kann dadurch zu einer Schädigung des Zellstoffwechsels und des Herzmuskels kommen.
 
-Es bestehen die *Symptome der Grunderkrankung*. Weiters fällt eine
-*tiefe, schnelle Atmung* auf, da der Körper versucht, CO₂ abzuatmen
+Es bestehen die *Symptome der Grunderkrankung*. Weiters fällt eine *tiefe, schnelle Atmung* auf, da der Körper versucht, CO₂ abzuatmen
 (*Kußmaul’sche Atmung*) um dadurch den pH-Wert zu normalisieren.
 
 (alkalose-respiratorische)=
 
 ## Atmungsbedingte (respiratorische) Alkalose
 
-Durch die *vermehrte Abatmung von CO₂*
-wird der pH-Wert des Blutes basisch und es kommt zu einem
-Elektrolytungleichgewicht.
-Dies verursacht Symptome wie
-Bewusstseinsstörungen, Kribbeln in den Fingern, Pfötchenstellung und
-tonische Krämpfe.
-Eine ausführliche Beschreibung des
-*Hyperventilationssyndroms* findet sich unter
+Durch die *vermehrte Abatmung von CO₂* wird der pH-Wert des Blutes basisch und es kommt zu einem Elektrolytungleichgewicht.
+Dies verursacht Symptome wie Bewusstseinsstörungen, Kribbeln in den Fingern, Pfötchenstellung und tonische Krämpfe.
+Eine ausführliche Beschreibung des *Hyperventilationssyndroms* findet sich unter
 {ref}`hyperventilationstetanie`.
 
 (alkalose-metabolische)=
 
 ## Stoffwechselbedingte (metabolische) Alkalose
 
-Eine stoffwechselbedingte Alkalose kommt
-v. a. durch den *Verlust von Säure*,
-z. B. durch anhaltendes Erbrechen,
-zu Stande.
+Eine stoffwechselbedingte Alkalose kommt v. a. durch den *Verlust von Säure*, z. B. durch anhaltendes Erbrechen, zu Stande.
 
 ## Zusammenfassung
 

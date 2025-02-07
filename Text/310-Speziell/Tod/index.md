@@ -18,22 +18,15 @@
               ||--|| *
 ```
 
-Das Sterben und der Tod sind alltägliche Begleiter des Lebens. Im
-Gesundheitsbereich ist man zwangsläufig regelmäßig auf die eine oder
-andere Weise damit konfrontiert. Ziel ist es, den legitimen Wünschen der
-Patienten und Angehörigen Rechnung zu tragen, und andererseits selbst
-mit zum Teil sehr fordernden Situationen und Fragen zurecht zu kommen.
+Das Sterben und der Tod sind alltägliche Begleiter des Lebens. Im Gesundheitsbereich ist man zwangsläufig regelmäßig auf die eine oder andere Weise damit konfrontiert. Ziel ist es, den legitimen Wünschen der Patienten und Angehörigen Rechnung zu tragen, und andererseits selbst mit zum Teil sehr fordernden Situationen und Fragen zurecht zu kommen.
 
 (tod)=
 
 ## Der Tod allgemein
 
-Der {dfn}`Tod` {index}` <Tod>` ist das Ende der Lebensfunktionen und der
-Zustand danach.
-Das {dfn}`Sterben` {index}` <Sterben>` ist ein mehr oder weniger
-lang dauernder Prozess, an dessen Ende der Tod steht.
-Der Tod gehört
-zu den einschneidensten und unausweichlichsten Dingen des Lebens.
+Der {dfn}`Tod` {index}` <Tod>` ist das Ende der Lebensfunktionen und der Zustand danach.
+Das {dfn}`Sterben` {index}` <Sterben>` ist ein mehr oder weniger lang dauernder Prozess, an dessen Ende der Tod steht.
+Der Tod gehört zu den einschneidensten und unausweichlichsten Dingen des Lebens.
 Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
 
 :::{list-table} Klinischer und biologischer Tod
@@ -56,8 +49,7 @@ Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
 
 ### Zeichen des Todes und Leichenzeichen
 
-Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen*
-gelten {term}`🗎 Hochmeister 2` {term}`🗎 Grassberger 1`:
+Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen* gelten {term}`🗎 Hochmeister 2` {term}`🗎 Grassberger 1`:
 
 1. *Bildung von blauvioletten Totenflecken* durch Absackung des Blutes
    an die untenliegenden Stellen.
@@ -67,18 +59,12 @@ gelten {term}`🗎 Hochmeister 2` {term}`🗎 Grassberger 1`:
 4. Späte Leichenerscheinungen: *Fäulnis*, *Verwesung*, *Mumifizierung*,
    *Tierfraß* und *Skelettierung*
 
-Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ
-rasch auftreten. Andere frühe Leichenerscheinungen
+Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ rasch auftreten. Andere frühe Leichenerscheinungen
 (aber *keine* sicheren Todeszeichen!)
-sind die *Abkühlung der Leiche*
-und die *Totenstarre*.
-Längere Zeit nach dem Tod treten die
-*späten Leichenerscheinungen* auf.
+sind die *Abkühlung der Leiche* und die *Totenstarre*.
+Längere Zeit nach dem Tod treten die *späten Leichenerscheinungen* auf.
 
-Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch
-oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen
-verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die
-Totenstarre mit einem tonischen Krampf.
+Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die Totenstarre mit einem tonischen Krampf.
 
 - Es gibt sichere Todeszeichen, das Erkennen dieser Zeichen ist
   aber unsicher und bedarf Wissen und Erfahrung!
@@ -99,9 +85,7 @@ Totenstarre mit einem tonischen Krampf.
 
 ## Unterlassung einer Reanimation
 
-Unter den folgenden Voraussetzungen darf (oder muss) eine
-Reanimation unterlassen
-werden:
+Unter den folgenden Voraussetzungen darf (oder muss) eine Reanimation unterlassen werden:
 
 - **Verwesung**
 
@@ -164,19 +148,9 @@ werden:
 
 ## Begleitung und Betreuung Sterbender
 
-Der Tod ist ein integraler Bestandteil des
-Lebens. So banal diese Aussage auch scheinen mag, so ambivalent ist das
-Verhalten des bzw. der Menschen zu ihm. Nach tausenden Jahren stellt der
-Tod und der Sterbeprozess noch immer (oder vielleicht sogar mehr denn
-je) eine große Herausforderung sowohl für den Sterbenden, als auch für
-dessen Umgebung dar.
+Der Tod ist ein integraler Bestandteil des Lebens. So banal diese Aussage auch scheinen mag, so ambivalent ist das Verhalten des bzw. der Menschen zu ihm. Nach tausenden Jahren stellt der Tod und der Sterbeprozess noch immer (oder vielleicht sogar mehr denn je) eine große Herausforderung sowohl für den Sterbenden, als auch für dessen Umgebung dar.
 
-Die Auseinandersetzung mit dem Tod und der eigenen Endlichkeit verläuft
-bei jedem Menschen äußerst unterschiedlich und ist von dessen
-Weltanschauung, Umgebung, Lebensgeschichte und -situation und vielen
-anderen Faktoren abhängig, und kann im Verlauf des Lebens ebenso
-radikalen Änderungen unterworfen sein. Mögliche Bewältigungstrategien
-sind:
+Die Auseinandersetzung mit dem Tod und der eigenen Endlichkeit verläuft bei jedem Menschen äußerst unterschiedlich und ist von dessen Weltanschauung, Umgebung, Lebensgeschichte und -situation und vielen anderen Faktoren abhängig, und kann im Verlauf des Lebens ebenso radikalen Änderungen unterworfen sein. Mögliche Bewältigungstrategien sind:
 
 - Verdrängung
 
@@ -193,9 +167,7 @@ sind:
   - Für den Umgang mit Sterben und dem Tod gibt es kein Patentrezept
     und keinen"goldenen Weg".
 
-Elisabeth {dfn}`Kübler-Ross` {index}` <Kübler-Ross>` beschreibt fünf Phasen, die im
-Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt,
-durchlaufen werden:
+Elisabeth {dfn}`Kübler-Ross` {index}` <Kübler-Ross>` beschreibt fünf Phasen, die im Sterbeprozess in unterschiedlicher Reihenfolge, oft auch wiederholt, durchlaufen werden:
 
 - *Abwehr*: Nicht wahrhaben wollen, Abwehr, Verdrängung
 - *Zorn*: Wütend auf das Schicksal (*"Warum ausgerechnet ich und nicht
@@ -208,28 +180,17 @@ durchlaufen werden:
   Der Patient kann sein Schicksal annehmen, er findet sich
   damit ab.
 
-Demnach ist es verständlich, dass der gleiche Patient zu
-unterschiedlichen Zeitpunkten völlig unterschiedlich reagieren kann. Was
-auf den ersten Blick wie "launisches Verhalten" wirkt, ist oft durch die
-Phasen des Sterbeprozesses erklärbar.
+Demnach ist es verständlich, dass der gleiche Patient zu unterschiedlichen Zeitpunkten völlig unterschiedlich reagieren kann. Was auf den ersten Blick wie "launisches Verhalten" wirkt, ist oft durch die Phasen des Sterbeprozesses erklärbar.
 
 (palliativbehandlung-tod)=
 
 ### Palliativbehandlung
 
-Die {dfn}`Palliativbehandlung` {index}` <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung
-von Patienten, für die es keine heilende Therapie mehr gibt, oder sich
-gegen eine solche entschieden haben. Ziel ist nicht die Heilung einer
-Krankheit, sondern das Ermöglichen eines würdigen und schmerzfreien
-Lebens bis zum Eintreten des Todes. Die Bedürfnisse der Patienten sind
-unterschiedlich und richten sich zum Beispiel nach dem Alter, der
-Erkrankung, den familiären Umständen, der Religion, usw.
+Die {dfn}`Palliativbehandlung` {index}` <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung von Patienten, für die es keine heilende Therapie mehr gibt, oder sich gegen eine solche entschieden haben. Ziel ist nicht die Heilung einer Krankheit, sondern das Ermöglichen eines würdigen und schmerzfreien Lebens bis zum Eintreten des Todes. Die Bedürfnisse der Patienten sind unterschiedlich und richten sich zum Beispiel nach dem Alter, der Erkrankung, den familiären Umständen, der Religion, usw.
 
 ### Der Umgang mit "geplant" sterbenden Patienten im Rettungs- und Krankentransportdienst
 
-Die Zeitdauer des Kontakts ist naturgemäß eher gering, und die
-palliative Versorgung ist nicht unbedingt ein Schwerpunkt während eines
-Transportes. Dennoch gibt es einige Dinge zu bedenken:
+Die Zeitdauer des Kontakts ist naturgemäß eher gering, und die palliative Versorgung ist nicht unbedingt ein Schwerpunkt während eines Transportes. Dennoch gibt es einige Dinge zu bedenken:
 
 - *Angst und Ausnahmesituation*:
   Sowohl die Angehörigen wie auch der
@@ -260,14 +221,7 @@ Transportes. Dennoch gibt es einige Dinge zu bedenken:
 
 ### Der Helfer und der Sterbende
 
-Der Kontakt und der Umgang mit Sterbenden ist oft auch für den Helfer
-problematisch und kann eine psychische Belastung darstellen. Das
-Besondere am Umgang mit Sterbenden ist, dass viele Dinge, die sonst im
-Leben und in der Ausübung von Gesundheitsberufen selbstverständlich
-sind, hier keine Geltung haben. Der Tod soll dort normalerweise um jeden
-Preis vermieden und bekämpft werden. Derartige, in diesem Bereich
-unerfüllbare, Zielsetzungen ("Heilen wollen") führen zwangsläufig zu
-einer Überforderung.
+Der Kontakt und der Umgang mit Sterbenden ist oft auch für den Helfer problematisch und kann eine psychische Belastung darstellen. Das Besondere am Umgang mit Sterbenden ist, dass viele Dinge, die sonst im Leben und in der Ausübung von Gesundheitsberufen selbstverständlich sind, hier keine Geltung haben. Der Tod soll dort normalerweise um jeden Preis vermieden und bekämpft werden. Derartige, in diesem Bereich unerfüllbare, Zielsetzungen ("Heilen wollen") führen zwangsläufig zu einer Überforderung.
 
 Folgende Leitsätze können unter Umständen hilfreich sein:
 

@@ -22,12 +22,8 @@
 :::
 ::::
 
-Als {dfn}`Lungenödem` wird die Flüssigkeitsansammlung im
-Zwischengewebsraum und in den Alveolen und der Lungen bezeichnet.
-Ein Lungenödem kann klassisch
-aufgrund einer *Herzschwäche* (*kardial*),
-aufgrund einer *hypertensiven Krise* oder
-aufgrund von *Inhalation giftiger Substanzen* (*toxisch*) entstehen:
+Als {dfn}`Lungenödem` wird die Flüssigkeitsansammlung im Zwischengewebsraum und in den Alveolen und der Lungen bezeichnet.
+Ein Lungenödem kann klassisch aufgrund einer *Herzschwäche* (*kardial*), aufgrund einer *hypertensiven Krise* oder aufgrund von *Inhalation giftiger Substanzen* (*toxisch*) entstehen:
 
 - Ein **kardiales Lungenödem** entsteht durch eine akute
   {ref}`Linksherzinsuffizienz <Linksherzinsuffizienz>`.
@@ -55,13 +51,10 @@ aufgrund von *Inhalation giftiger Substanzen* (*toxisch*) entstehen:
   Lungengewebe.
 
 :::{note}
-Ein kardiales und ein hypertensives Lungenödem
-zeigen mit dem Leitsymptom "Atemnot" zwar primär ein Ⓑ-*Symptom*,
-ursächlich ist jedoch eine Kreislaufstörung und somit ein ₢-*Problem*.
+Ein kardiales und ein hypertensives Lungenödem zeigen mit dem Leitsymptom "Atemnot" zwar primär ein Ⓑ-*Symptom*, ursächlich ist jedoch eine Kreislaufstörung und somit ein ₢-*Problem*.
 :::
 
-In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den *Gasaustausch*, d. h. die Diffuion, massiv,
-beim kardialen Lungenödem kommt noch das begleitende Herz- und damit Kreislaufproblemproblem dazu.
+In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den *Gasaustausch*, d. h. die Diffuion, massiv, beim kardialen Lungenödem kommt noch das begleitende Herz- und damit Kreislaufproblemproblem dazu.
 
 ## ABCDE: Lungenödem
 
@@ -274,11 +267,9 @@ Taktik
 Beatmungstherapie
 : - CPAP-Beatmung erwägen
 
-Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCDE-Problem
-sind grundsätzlich notarztpflichtig.
+Patienten mit Lungenödem und brodelndem Atemgeräusch oder ABCDE-Problem sind grundsätzlich notarztpflichtig.
 
-Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor
-Ort Vorrang.
+Auch bei kurzer Transportzeit hat die Stabilisierung des Patienten vor Ort Vorrang.
 
 Bereits der Transport in das Fahrzeug kann gefährlich sein!
 
@@ -303,7 +294,6 @@ negative Bilanz.
 NIV senkt die Mortalität beim Lungenödem!
 
 
-Kardiale Rekompensation durch NIV: Senkung Vor-und Nachlast, Verbessertes VO2,
-Herabsetzung der transmuralen Wandspannung durch weniger negativen intrathorakalen Druck.
+Kardiale Rekompensation durch NIV: Senkung Vor-und Nachlast, Verbessertes VO2, Herabsetzung der transmuralen Wandspannung durch weniger negativen intrathorakalen Druck.
 Respiratorische Rekompensation: Vergrößerung des FRC, verminderter Re-Li-Shunt, verminderte Atemarbeit
 

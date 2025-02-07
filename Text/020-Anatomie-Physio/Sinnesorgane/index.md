@@ -8,11 +8,9 @@
 
 ### Allgemeine Anatomie
 
-Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan, das sensibel
-auf Lichtreize reagiert.
+Das Auge als Sehorgan ist ein spezialisiertes Sinnesorgan, das sensibel auf Lichtreize reagiert.
 Es besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
-(eigentliches Sinnesorgan) sowie den *Hilfseinrichtungen* (Augenlidern,
-Tränenapparat, äußere Augenmuskeln).
+(eigentliches Sinnesorgan) sowie den *Hilfseinrichtungen* (Augenlidern, Tränenapparat, äußere Augenmuskeln).
 
 ### Bulbus oculi (Augapfel)
 
@@ -49,8 +47,7 @@ Tränenapparat, äußere Augenmuskeln).
   - Lider
 :::
 
-Der Bulbus befindet sich in der *Augenhöhle*
-und hat eine annähernde Kugelform.
+Der Bulbus befindet sich in der *Augenhöhle* und hat eine annähernde Kugelform.
 
 Von außen nach innen hat der Bulbus oculi drei Schichten:
 
@@ -85,11 +82,7 @@ Somit bilden sich innerhalb des Auges *3 Räume*:
 - Augeninneres
 
 Die beiden Kammern sind mit *Kammerwasser* gefüllt. Im *Kammerwinkel*
-(gebildet von Cornea und Iris), über den sich dort befindenden
-*Schlemm-Kanal* (Sinus venosus sclerae), kann das Kammerwasser abfließen
-und so der *Augeninnendruck* reguliert werden. Im Inneren des Auges
-sollte ein konstanter Druck von *16-25 mm Hg* herrschen. Er ist
-hauptsächlich abhängig von der Produktion von Kammerwasser.
+(gebildet von Cornea und Iris), über den sich dort befindenden *Schlemm-Kanal* (Sinus venosus sclerae), kann das Kammerwasser abfließen und so der *Augeninnendruck* reguliert werden. Im Inneren des Auges sollte ein konstanter Druck von *16-25 mm Hg* herrschen. Er ist hauptsächlich abhängig von der Produktion von Kammerwasser.
 
 Der *optische Apparat* ist aus folgenden Teilen aufgebaut:
 
@@ -101,9 +94,7 @@ Der *optische Apparat* ist aus folgenden Teilen aufgebaut:
 - Cornea (Hornhaut)
 - Corpus vitreum (Glaskörper)
 
-Die *Akkomodation* beschreibt die Veränderung des Linsendurchmessers und
-damit die Veränderung ihrer Brechkraft. Dies passiert über die
-*Ziliarmuskeln* und den *Zonulafasern*.
+Die *Akkomodation* beschreibt die Veränderung des Linsendurchmessers und damit die Veränderung ihrer Brechkraft. Dies passiert über die *Ziliarmuskeln* und den *Zonulafasern*.
 
 ```{eval-rst}
 =========== ======= ========== ======== =====
@@ -112,9 +103,7 @@ erschlafft  straff  abgeflacht nimmt ab Ferne
 =========== ======= ========== ======== =====
 ```
 
-Über *M. sphincter pupillae* und *M. dilatator pupillae* wird die Iris
-bewegt. Verengung (*Miosis*, bis zu 1,5 mm) wird parasympathisch,
-Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
+Über *M. sphincter pupillae* und *M. dilatator pupillae* wird die Iris bewegt. Verengung (*Miosis*, bis zu 1,5 mm) wird parasympathisch, Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
 
 *Innere Augenmuskeln*:
 
@@ -122,31 +111,19 @@ Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
 - 13. sphincter pupillae
 - 13. dilatator pupillae
 
-Wenn man einem Lichtstrahl folgt, der in das Auge einfällt, muss dieser
-zuerst die Hornhaut durchdringen, darauf folgt die Vorderkammer
+Wenn man einem Lichtstrahl folgt, der in das Auge einfällt, muss dieser zuerst die Hornhaut durchdringen, darauf folgt die Vorderkammer
 (der Bereich zwischen Hornhaut und Iris).
-Nun durchdringt er die *Linse*,
-sie bündelt das Licht und sorgt dafür, dass wir scharf
-sehen können.
-Die Linse hat einen eigenen Aufhängungsapparat, der sie
-schmäler (für die Fernsicht) und breiter (für die Nahsicht) machen kann.
+Nun durchdringt er die *Linse*, sie bündelt das Licht und sorgt dafür, dass wir scharf sehen können.
+Die Linse hat einen eigenen Aufhängungsapparat, der sie schmäler (für die Fernsicht) und breiter (für die Nahsicht) machen kann.
 Nach der Linse folgt der *Glaskörper*.
-Er hat eine gallertartige
-Konsistenz und verflüssigt sich mit dem Alter.
+Er hat eine gallertartige Konsistenz und verflüssigt sich mit dem Alter.
 Zusammen mit der Lederhaut bestimmt er die pralle Form des Auges.
 
 Nun landet der Lichtstrahl auf der {dfn}`Retina` (*Netzhaut*).
-Die
-lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden
-nach einer Passage durch die lichtbrechenden Strukturen des Augapfels
-erreicht.
+Die lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden nach einer Passage durch die lichtbrechenden Strukturen des Augapfels erreicht.
 
-Die Retina wird in den *lichtempfindlichen*, hinteren Teil (Pars optica
-retinae) und den *lichtunempfindlichen*, vorderen Teil (Pars caeca
-retinae) unterteilt. Die *Ora serata* (gezackte Linie) bildet zwischen
-diesen Teilen die Grenze. Man kann die Mündungsstelle des N. opticus
-(Papilla n. optici, *blinder Fleck*), sowie die Macula lutea mit der
-Fovea centralis (*gelber Fleck*) am Augenhintergrund erkennen.
+Die Retina wird in den *lichtempfindlichen*, hinteren Teil (Pars optica retinae) und den *lichtunempfindlichen*, vorderen Teil (Pars caeca retinae) unterteilt. Die *Ora serata* (gezackte Linie) bildet zwischen diesen Teilen die Grenze. Man kann die Mündungsstelle des N. opticus
+(Papilla n. optici, *blinder Fleck*), sowie die Macula lutea mit der Fovea centralis (*gelber Fleck*) am Augenhintergrund erkennen.
 
 Die Pars optica besteht aus mehreren Schichten. Das *Stratum nervosum*
 (lichtempfindlich) unter dem *Stratum pigmentosum* (lichtunempfindlich)
@@ -160,20 +137,15 @@ enthält die ersten drei Neurone der Sehbahn. Von außen nach innen:
 Durch die Reihenfolge des Lichtweges ist die Schichtung (insg. 10)
 invers!
 
-Die
-Informationen der Sinneszellen (Stäbchen und Zapfen) werden im Sehnerv
-gesammelt und an das Sehzentrum im Gehirn weitergeleitet.
+Die Informationen der Sinneszellen (Stäbchen und Zapfen) werden im Sehnerv gesammelt und an das Sehzentrum im Gehirn weitergeleitet.
 
 Sehbahn:
 
 Photorezeptoren ➛ Retinaganglienzellen ➛ Opticusganglienzellen ➛ N.
 opticus ➛ Chiasma opticum (Kreuzung der nasalen Netzhauthälften) ➛
-Tractus opticus ➛ Corpus geniculatum laterale gSehstrahlung ➛ Sulcus
-calcarinus (Lobus occipitalis).
+Tractus opticus ➛ Corpus geniculatum laterale gSehstrahlung ➛ Sulcus calcarinus (Lobus occipitalis).
 
-Das jeweils *linke Gesichtsfeld* wird in die *rechten Hemisphäre*
-projiziert, das jeweils r*echte Gesichtsfeld* in die *linke
-Hemisphäre*.
+Das jeweils *linke Gesichtsfeld* wird in die *rechten Hemisphäre* projiziert, das jeweils r*echte Gesichtsfeld* in die *linke Hemisphäre*.
 
 ### Hilfseinrichtungen
 
@@ -213,8 +185,7 @@ Die Hilfseinrichtungen des Auges umfassen:
       - 13. obliquus inferior (III): Ursprung am Orbitarand
     :::
 
-Diese Augenmuskeln bewegen die Augen und sorgen für folgende
-*Bewegungen*:
+Diese Augenmuskeln bewegen die Augen und sorgen für folgende *Bewegungen*:
 
 - konjugierte Augenbewegungen
 - Vergenzbewegungen
@@ -230,8 +201,7 @@ Diese Augenmuskeln bewegen die Augen und sorgen für folgende
 
 Visuelle und visomotorische Areale bilden 60% der Hirnoberfläche -
 hauptsächlich im parietalen und inferotemporalen Kortex gelegen.
-Visuelle Funktionen werden in Untergruppen verteilt und parallel in
-*unterschiedlichen Hirnarealen* verarbeitet:
+Visuelle Funktionen werden in Untergruppen verteilt und parallel in *unterschiedlichen Hirnarealen* verarbeitet:
 
 - Raum- und Bewegungsanalyse
 - Repräsentation des extrapersonalen Raumes ➛ Parietallappen
@@ -262,22 +232,17 @@ Visuelle Funktionen werden in Untergruppen verteilt und parallel in
 :::
 
 Das Ohr wird in *zwei Sinnesorgane* unterteilt:
-eines für das Gehör,
-das zweite für das Gleichgewicht.
-Beide Organe liegen im Innenohr (Pars
-petrosa des Os temporale).
+eines für das Gehör, das zweite für das Gleichgewicht.
+Beide Organe liegen im Innenohr (Pars petrosa des Os temporale).
 
-Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und
-Mittelohr dem Innenohr vorgeschaltet.
+Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und Mittelohr dem Innenohr vorgeschaltet.
 
 - Töne ➛ Sinusschwingungen aus einer einzigen Frequenz
 - Klänge ➛ Grundton und mehrere Obertöne
 - Geräusch ➛ Schallereignis des täglichen Lebens, umfassen in
   wechselndem Ausmaß praktisch alle Frequenzen des Hörbereichs
 
-Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine
-Zunahme des Schalldrucks (dB) führt zu einer Zunahme der
-Lautstärkeempfindung.
+Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine Zunahme des Schalldrucks (dB) führt zu einer Zunahme der Lautstärkeempfindung.
 
 ```{eval-rst}
 .. subfigstart::
@@ -288,8 +253,7 @@ Lautstärkeempfindung.
 
 Das Ohr im Querschnitt.
 
-Man sieht den äußeren Gehörgang, das Trommelfell,
-die Gehörknöchelchen, die Schnecke und die Bogengänge.
+Man sieht den äußeren Gehörgang, das Trommelfell, die Gehörknöchelchen, die Schnecke und die Bogengänge.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
@@ -299,9 +263,7 @@ die Gehörknöchelchen, die Schnecke und die Bogengänge.
 
 Das Mittelohr:
 
-Im Detail sind hier das Trommelfell,
-sowie die Gehörknöchelchen Hammer,
-Amboss und Steigbügel zu sehen.
+Im Detail sind hier das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss und Steigbügel zu sehen.
 
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
@@ -343,27 +305,12 @@ Die Cochlea besteht aus 3 getrennte Räumen:
 - Scala vestibuli (darüberliegende Vorhoftreppe)
 - Scala tympani (darunterliegende Paukentreppe)
 
-Beide Scalae gehen an der Spitze (*Helicotrema*) in einander über, enden
-an Fenestra cochleae (rundem Fenster) und Fenestra vestibuli (ovalem
-Fenster). Die Schneckenspindel wird Modiolus genannt. Grenze des Ductus
-cochlearis nach oben ist die *REISSNER-Membran*, nach unten die Lamina
-basilaris (*Basalmembran*). Auf Basalmembran liegt das Corti-Organ mit
-den Hörsinneszellen. Hohe Töne werden an der Schneckenbasis, tiefe Töne
-an der Schneckenspitze gehört.
+Beide Scalae gehen an der Spitze (*Helicotrema*) in einander über, enden an Fenestra cochleae (rundem Fenster) und Fenestra vestibuli (ovalem Fenster). Die Schneckenspindel wird Modiolus genannt. Grenze des Ductus cochlearis nach oben ist die *REISSNER-Membran*, nach unten die Lamina basilaris (*Basalmembran*). Auf Basalmembran liegt das Corti-Organ mit den Hörsinneszellen. Hohe Töne werden an der Schneckenbasis, tiefe Töne an der Schneckenspitze gehört.
 
-Schwingungen erregen die Sinneszellen über die mit der Membrana tectoria
-verbundenen *Sinneshaare*. Die *Frequenz nimmt zur Schneckenspitze hin
-ab* (Basilarmembran an Basis schmal, zur Schneckenspitze breiter), daher
-werden höhere Töne an Schneckenbasis, tiefe Töne an Schneckenspitze
-wahrgenommen. Der Hörbereich des Menschen liegt *zwischen 20 und 16.000
-Hz*, wir sind am empfindlichsten *zwischen 2.000 und 5.000* Hz. Jedoch
-ist nicht nur die Frequenz, sondern auch der Schalldruckpegel wichtig
+Schwingungen erregen die Sinneszellen über die mit der Membrana tectoria verbundenen *Sinneshaare*. Die *Frequenz nimmt zur Schneckenspitze hin ab* (Basilarmembran an Basis schmal, zur Schneckenspitze breiter), daher werden höhere Töne an Schneckenbasis, tiefe Töne an Schneckenspitze wahrgenommen. Der Hörbereich des Menschen liegt *zwischen 20 und 16.000 Hz*, wir sind am empfindlichsten *zwischen 2.000 und 5.000* Hz. Jedoch ist nicht nur die Frequenz, sondern auch der Schalldruckpegel wichtig
 (Db, Lautstärke).
 
-Frequenzabhängig liegt die normale Hörschwelle ca. bei 8 dB, der
-Hauptsprachbereich liegt zwischen 50 und 75 dB, die
-Unbehaglichkeitsschwelle liegt bei 100 dB und die Schmerzschwelle bei
-130 dB.
+Frequenzabhängig liegt die normale Hörschwelle ca. bei 8 dB, der Hauptsprachbereich liegt zwischen 50 und 75 dB, die Unbehaglichkeitsschwelle liegt bei 100 dB und die Schmerzschwelle bei 130 dB.
 
 Hörbahn
 
@@ -386,18 +333,13 @@ Zum Gleichgewichtsorgan gehören:
 - *Utriculus* (großes Vorhofsäckchen) mit Macula utriculi (Sinnesfeld)
 - *Sacculus* (kleines Vorhofsäcken) mit Macula sacculi (Sinnesfeld)
 
-Die Macula utriculi ist *horizontal* ausgerichtet und ist damit für
-Horizontalbeschleunigungen zuständig. Die Macula sacculi ist *vertikal*
-ausgerichtet und bemerkt Vertikalbeschleunigungen. In den Maculae sind
-Kristalle (Statolithen) eingelagtert.
+Die Macula utriculi ist *horizontal* ausgerichtet und ist damit für Horizontalbeschleunigungen zuständig. Die Macula sacculi ist *vertikal* ausgerichtet und bemerkt Vertikalbeschleunigungen. In den Maculae sind Kristalle (Statolithen) eingelagtert.
 
 Die Cristae ampullares registrieren vor allem *Drehbeschleunigungen*.
 
 Gleichgewichtsbahn
 
-Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei
-vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven,
-Rückenmark
+Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven, Rückenmark
 
 ```{index} single: Haut
 ```
@@ -414,15 +356,10 @@ Rückenmark
 
 ### Allgemeine Anatomie
 
-Die Haut ist das größte Sinnesorgan sowie die größte Barriere des
-menschlichen Körpers gegen die Außenwelt.
-Die Hautdecke eines Menschen beträgt ca. 1,7
-Quadratmeter.
+Die Haut ist das größte Sinnesorgan sowie die größte Barriere des menschlichen Körpers gegen die Außenwelt.
+Die Hautdecke eines Menschen beträgt ca. 1,7 Quadratmeter.
 
-Die *Hautfarbe* wird durch die Einlagerung von *Melanin* und *Karotin*
-sowie durch oxygeniertes und desoxygeniertes *Blut* in den Blutgefäßen
-beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
-*Leistenhaut* (an Hand- und Fußflächen) und eine *Felderhaut*
+Die *Hautfarbe* wird durch die Einlagerung von *Melanin* und *Karotin* sowie durch oxygeniertes und desoxygeniertes *Blut* in den Blutgefäßen beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine *Leistenhaut* (an Hand- und Fußflächen) und eine *Felderhaut*
 (restlicher Körper) unterteilen.
 
 :::{margin} Aufgaben der Haut
@@ -444,21 +381,12 @@ beeinflusst. Basierend auf äußeren Merkmalen kann man die Haut in eine
 - Sinnesorgan (Tast-, Temperatursinn)
 :::
 
-Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie
-verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für
-einen ausgeglichenen Wasser- und Elektrolythaushalt, indem sie den
-Körper vor Austrocknung schützt.
+Die Haut ist eine mechanische *Barriere gegen Umwelteinflüsse*. Sie verhindert das Eindringen von Fremdkörpern und Keimen und sorgt für einen ausgeglichenen Wasser- und Elektrolythaushalt, indem sie den Körper vor Austrocknung schützt.
 
-Neben der Lunge dient vor allen Dingen die Haut als wichtigstes Organ
-zur *Thermoregulation*: Durch ihren Aufbau stellt sie an sich schon eine
-(passive) Isolationsschicht dar. Weiters kann sie auch aktiv den
-Wärmehaushalt regulieren: Die Blutgefäße der Haut sind stark ineinander
-verwickelt und können sich bei Bedarf stark erweitern. Eine stark
-durchblutete Haut steigert die Wärmeabgabe deutlich. Weiters kann durch
-die Verdunstungskälte des Schweißes ebenfalls Wärme abgegeben werden.
+Neben der Lunge dient vor allen Dingen die Haut als wichtigstes Organ zur *Thermoregulation*: Durch ihren Aufbau stellt sie an sich schon eine
+(passive) Isolationsschicht dar. Weiters kann sie auch aktiv den Wärmehaushalt regulieren: Die Blutgefäße der Haut sind stark ineinander verwickelt und können sich bei Bedarf stark erweitern. Eine stark durchblutete Haut steigert die Wärmeabgabe deutlich. Weiters kann durch die Verdunstungskälte des Schweißes ebenfalls Wärme abgegeben werden.
 
-Als größtes *Sinnesorgan* des Körpers dient die Haut der Tastempfindung
-sowie der Temperaturempfindung.
+Als größtes *Sinnesorgan* des Körpers dient die Haut der Tastempfindung sowie der Temperaturempfindung.
 
 Folgende Aufgaben soll sie also erfüllen:
 

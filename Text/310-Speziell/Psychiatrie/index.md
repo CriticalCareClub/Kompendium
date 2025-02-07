@@ -6,51 +6,30 @@
 
 ## Allgemeines
 
-Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
-Therapie psychischer Störungen und ist ein sehr
-kompliziertes und anspruchsvolles Fachgebiet der Medizin.
-Sie beschäftigt sich einerseits mit handfesten, körperlich bedingten
-Störungen, die Auswirkungen auf das Denken und die geistige
-Leistungsfähigkeit haben. Andererseits hat man es in der Psychiatrie
-sehr oft mit Störungen zu tun, von deren Ursache die Wissenschaft kaum
-eine Ahnung hat. In der Psychiatrie ist es auch besonders schwierig,
-zwischen "gesund" und "krank" treffsicher zu unterscheiden.
+Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und Therapie psychischer Störungen und ist ein sehr kompliziertes und anspruchsvolles Fachgebiet der Medizin.
+Sie beschäftigt sich einerseits mit handfesten, körperlich bedingten Störungen, die Auswirkungen auf das Denken und die geistige Leistungsfähigkeit haben. Andererseits hat man es in der Psychiatrie sehr oft mit Störungen zu tun, von deren Ursache die Wissenschaft kaum eine Ahnung hat. In der Psychiatrie ist es auch besonders schwierig, zwischen "gesund" und "krank" treffsicher zu unterscheiden.
 
-Grundsätzlich muss aber gesagt werden, dass psychiatrische
-Erkrankungen [^psyerkrankung] etwas alltägliches und nichts außergewöhnliches
-sind. Je nach Studie leiden bis zu 30% der Bevölkerung an
-psychiatrischen Erkrankungen, allen voran an Depressionen und der
-Alkoholkrankheit.
+Grundsätzlich muss aber gesagt werden, dass psychiatrische Erkrankungen [^psyerkrankung] etwas alltägliches und nichts außergewöhnliches sind. Je nach Studie leiden bis zu 30% der Bevölkerung an psychiatrischen Erkrankungen, allen voran an Depressionen und der Alkoholkrankheit.
 
 [^psyerkrankung]: Sofern der Begriff *"Erkrankung"* überhaupt angebracht ist …
 
 ### Der Krankheitsbegriff in der Psychiatrie
 
-Man trifft oft auch auf nicht klar umrissene Krankheitsbilder, und auch
-deren jeweiliger Krankheitswert ist oft umstritten, sehr vom einzelnen
-Patienten und seiner Situation abhängig: Während der eine Mensch an
-seiner Depression leidet, verarbeitet ein anderer seine
-Gefühlserfahrungen zu einem Lied und sichert sich dank der AKM [^akm]
+Man trifft oft auch auf nicht klar umrissene Krankheitsbilder, und auch deren jeweiliger Krankheitswert ist oft umstritten, sehr vom einzelnen Patienten und seiner Situation abhängig: Während der eine Mensch an seiner Depression leidet, verarbeitet ein anderer seine Gefühlserfahrungen zu einem Lied und sichert sich dank der AKM [^akm]
 eine Einnahmequelle.
-(Subjektiv betrachtet erscheint die Depression
-manchmal als ein treibender Motor der Singer-/Songwriter-Szene.)
+(Subjektiv betrachtet erscheint die Depression manchmal als ein treibender Motor der Singer-/Songwriter-Szene.)
 
-Einer der bekanntesten psychiatrischen Patienten war der niederländische Maler *Vincent van Gogh* (1853—1890). 
-Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von Wahnvorstellungen, Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner
-Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend
-Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und
-Impulsgeber der modernen Malerei. [^cite_wp-vangogh]
+Einer der bekanntesten psychiatrischen Patienten war der niederländische Maler *Vincent van Gogh* (1853—1890).
+Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von Wahnvorstellungen, Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und Impulsgeber der modernen Malerei. [^cite_wp-vangogh]
 
 > - Die psychiatrische Diagnose verhält sich zum Patienten wie ein
 >   Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen
 >   des Codes.
 
-:::{figure} /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.\*
-Vincent van Gogh: Sternennacht über der Rhone
+:::{figure} /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.\* Vincent van Gogh: Sternennacht über der Rhone
 :::
 
-Der Krankheitswert eines Zustandes beginnt dort, wo dieser Zustand für
-den Patienten selbst oder für seine Umgebung ein Problem darstellt.
+Der Krankheitswert eines Zustandes beginnt dort, wo dieser Zustand für den Patienten selbst oder für seine Umgebung ein Problem darstellt.
 Dabei gibt es keine scharfe Grenze und die Grauzone ist beträchtlich.
 
 [^akm]: Autoren, Komponisten und Musikverleger. Die AKM ist die größte
@@ -59,33 +38,17 @@ Dabei gibt es keine scharfe Grenze und die Grauzone ist beträchtlich.
 ### Psychiatrische Erkrankung in der Praxis
 
 In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die
-Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als
-behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als
-behandlungspflichtig gelten zum Beispiel die *Eigen-* und
-*Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat
-der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der
-geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche
-Schritte nach sich ziehen, im Sinne einer Besachwaltung.
+Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als behandlungspflichtig gelten zum Beispiel die *Eigen-* und *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche Schritte nach sich ziehen, im Sinne einer Besachwaltung.
 
 ### Der psychiatrische Patient ist nicht entrechtet!
 
-Es ist hierbei jedoch festzuhalten, dass auch ein psychiatrischer
-Patient – genauso wie jeder andere Patient auch – über die selben
-Selbstbestimmungsrechte verfügt, d. h. es ihm grundsätzlich zusteht eine
-Behandlung zu verweigern. Sollten im Rahmen der gesetzlichen
-Bestimmungen (*Unterbringungsgesetz*) Maßnahmen durchzuführen sein, so
-sind diese von der *Exekutive* (Polizei) vorzunehmen.
+Es ist hierbei jedoch festzuhalten, dass auch ein psychiatrischer Patient – genauso wie jeder andere Patient auch – über die selben Selbstbestimmungsrechte verfügt, d. h. es ihm grundsätzlich zusteht eine Behandlung zu verweigern. Sollten im Rahmen der gesetzlichen Bestimmungen (*Unterbringungsgesetz*) Maßnahmen durchzuführen sein, so sind diese von der *Exekutive* (Polizei) vorzunehmen.
 Der Rettungsdienst führt von sich aus keine Zwangsmaßnahmen durch.
-Das Ziel des
-Unterbringungsgesetz ist es, das Maß der *Einschränkung der Freiheit des
-Patienten so gering wie möglich zu halten*.
+Das Ziel des Unterbringungsgesetz ist es, das Maß der *Einschränkung der Freiheit des Patienten so gering wie möglich zu halten*.
 
-Auch im Rahmen der *Erwachsenenvertretung* kann ein *Gericht* das
-Selbstbestimmungsrecht des Patienten einschränken.
+Auch im Rahmen der *Erwachsenenvertretung* kann ein *Gericht* das Selbstbestimmungsrecht des Patienten einschränken.
 
-Für die Arbeit im Rettungsdienst ist die Kenntnis einiger spezieller
-Krankheitsbilder und Symptome notwendig, sowie ein allgemeines
-Verständnis über den Umgang mit psychiatrischen Patienten.
+Für die Arbeit im Rettungsdienst ist die Kenntnis einiger spezieller Krankheitsbilder und Symptome notwendig, sowie ein allgemeines Verständnis über den Umgang mit psychiatrischen Patienten.
 
 (umgang-psy)=
 
@@ -93,18 +56,12 @@ Verständnis über den Umgang mit psychiatrischen Patienten.
 
 ### Allgemeines
 
-Wie in der Einleitung erwähnt, ist eine psychiatrische Erkrankung etwas
-durchaus Alltägliches, oft stellt selbige nicht einmal den Behandlungs-
-bzw. Transportgrund dar. Ebenso wurde erwähnt, dass der psychiatrische
-Patient grundsätzlich über die selben (Selbstbestimmungs-)Rechte wie
-jeder andere Patient verfügt.
+Wie in der Einleitung erwähnt, ist eine psychiatrische Erkrankung etwas durchaus Alltägliches, oft stellt selbige nicht einmal den Behandlungs-
+bzw. Transportgrund dar. Ebenso wurde erwähnt, dass der psychiatrische Patient grundsätzlich über die selben (Selbstbestimmungs-)Rechte wie jeder andere Patient verfügt.
 
 ### Haltung gegenüber dem Patienten
 
-Dementsprechend gelten grundsätzlich auch die gleichen Regeln für die
-Gesprächsführung wie sie unter {ref}`kommunikationsregeln` besprochen
-wurden. Der Patient verdient den gleichen Respekt und die gleiche
-Wertschätzung wie ein körperlich Erkrankter.
+Dementsprechend gelten grundsätzlich auch die gleichen Regeln für die Gesprächsführung wie sie unter {ref}`kommunikationsregeln` besprochen wurden. Der Patient verdient den gleichen Respekt und die gleiche Wertschätzung wie ein körperlich Erkrankter.
 
 ### Auftreten
 
@@ -120,14 +77,9 @@ Wertschätzung wie ein körperlich Erkrankter.
 
 ### Eigenschutz
 
-Auch wenn vom durchschnittlichen psychiatrischen Patienten keine höhere
-Gefahr als von der Normalbevölkerung ausgeht, so ist es doch ratsam
-grundlegende Punkte des Eigenschutzes zu beachten:
+Auch wenn vom durchschnittlichen psychiatrischen Patienten keine höhere Gefahr als von der Normalbevölkerung ausgeht, so ist es doch ratsam grundlegende Punkte des Eigenschutzes zu beachten:
 
-1. Fluchtweg freihalten
-2. Rücken freihalten
-3. Patienten nicht beengen/bedrängen
-4. Patienten über Handlungen informieren und evtl. extra um
+1. Fluchtweg freihalten 2. Rücken freihalten 3. Patienten nicht beengen/bedrängen 4. Patienten über Handlungen informieren und evtl. extra um
    Einverständnis fragen (angurten, …)
 
 Diese Punkte sind grundsätzlich für jeden Einsatz sinnvoll!
@@ -137,13 +89,9 @@ Diese Punkte sind grundsätzlich für jeden Einsatz sinnvoll!
 ### Der Patient mit Wahnvorstellungen
 
 Menschen können – aus unterschiedlichen Gründen – Wahnvorstellungen
-(Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und
-alle Sinne betreffen. Man kann Dinge *hören* (Stimmen hören, …) oder
-Sachen *sehen* ("weiße Mäuse", …) die nicht existieren. Der Betroffene
-nimmt dies jedoch als vollkommen "echt" und real wahr.
+(Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und alle Sinne betreffen. Man kann Dinge *hören* (Stimmen hören, …) oder Sachen *sehen* ("weiße Mäuse", …) die nicht existieren. Der Betroffene nimmt dies jedoch als vollkommen "echt" und real wahr.
 
-Der Wirklichkeitsbezug kann teilweise erhalten oder nahezu komplett
-verloren gegangen sein.
+Der Wirklichkeitsbezug kann teilweise erhalten oder nahezu komplett verloren gegangen sein.
 
 #### Fallgeschichte
 
@@ -163,9 +111,7 @@ verloren gegangen sein.
 #### Fazit
 
 Auch psychiatrische Patienten haben "normale" Alltagsprobleme, wie z. B.
-einen grippalen Infekt. Die Wahnvorstellungen werden von den Patienten
-komplett real erlebt, auch wenn sie vielleicht sogar wissen, dass sie
-nicht real sein können.
+einen grippalen Infekt. Die Wahnvorstellungen werden von den Patienten komplett real erlebt, auch wenn sie vielleicht sogar wissen, dass sie nicht real sein können.
 
 Diese Patientin hat noch eine teilweise intakte Realitätswahrnehmung:
 Psychiatrische Erkrankungen oder Symptome funktionieren *nicht* nach dem
@@ -173,12 +119,9 @@ Psychiatrische Erkrankungen oder Symptome funktionieren *nicht* nach dem
 
 #### Wahnidee – Wahnsysteme
 
-Auch die Wahrnehmung der Umgebung insgesamt kann gestört sein, auch hier
-gibt es verschiedene Abstufungen.
+Auch die Wahrnehmung der Umgebung insgesamt kann gestört sein, auch hier gibt es verschiedene Abstufungen.
 
-Die einfachste Form ist die {dfn}`Wahnidee` {index}` <Wahnidee>`. Hierbei hat der
-Patient eine klar abgegrenzte Vorstellung von etwas, was mit der
-Realität kaum oder gar nicht plausibel vereinbar ist:
+Die einfachste Form ist die {dfn}`Wahnidee` {index}` <Wahnidee>`. Hierbei hat der Patient eine klar abgegrenzte Vorstellung von etwas, was mit der Realität kaum oder gar nicht plausibel vereinbar ist:
 
 > *"Das Gebühren-Info-Service des ORF kontrolliert jede Woche am
 > Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
@@ -216,15 +159,12 @@ Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 
 
 
-Die — für den Außenstehenden — wirren Vorstellungen
-stellen das Fachpersonal vor die Frage,
-wie mit diesen Patienten umzugehen ist.
+Die — für den Außenstehenden — wirren Vorstellungen stellen das Fachpersonal vor die Frage, wie mit diesen Patienten umzugehen ist.
 
 Ziel ist:
 
 1. Abwendung von unmittelbaren Gefahren für den
-   Patienten und die Umgebung
-2. Korrekte und professionelle Durchführung eines
+   Patienten und die Umgebung 2. Korrekte und professionelle Durchführung eines
    Transportes in eine geeignete Einrichtung.
 
 Es gelten somit folgende Grundsätze:
@@ -243,11 +183,8 @@ Es gelten somit folgende Grundsätze:
 
 ### Psychomotorische Unruhe und Aggressivität
 
-Unruhe und Aggressivität kann ein Anzeichen für viele Krankheitsbilder
-sein. Die Differentialdiagnosen umfassen z. B. Blutzuckerstörungen,
-Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u. v. a. m.
-Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang
-mit diesen Patienten eingegangen werden.
+Unruhe und Aggressivität kann ein Anzeichen für viele Krankheitsbilder sein. Die Differentialdiagnosen umfassen z. B. Blutzuckerstörungen, Demenz, Intoxikation, Panikattacken, Manie, akute Psychosen u. v. a. m.
+Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit diesen Patienten eingegangen werden.
 
 (pf92091c)=
 
@@ -275,31 +212,19 @@ mit diesen Patienten eingegangen werden.
 
 {dfn}`Suizid` {index}` <! Suizid>`
 bezeichnet die absichtliche Selbsttötung.
-Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und
-fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche
-(*SMV*) gehören zu den häufigen Einsatzgründen im
-Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche
-Handlungen nicht auf den ersten Blick als solche erkennbar.
+Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche
+(*SMV*) gehören zu den häufigen Einsatzgründen im Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche Handlungen nicht auf den ersten Blick als solche erkennbar.
 
-Wenn der Verdacht auf eine suizidale Handlung besteht, soll dies
-vertraulich, aber *direkt angesprochen und geklärt werden*. Es ist dabei
-wichtig, einen **neutralen Tonfall** zu verwenden und **nicht anklagend
-zu klingen!**
+Wenn der Verdacht auf eine suizidale Handlung besteht, soll dies vertraulich, aber *direkt angesprochen und geklärt werden*. Es ist dabei wichtig, einen **neutralen Tonfall** zu verwenden und **nicht anklagend zu klingen!**
 
 > *"Wollten Sie sich verletzen?"*
 >
 > *"Wollten Sie sich umbringen?"*
 
-Häufig berichten Patienten über Gefühle der Hoffnungslosigkeit,
-Einsamkeit, Verzweiflung, innerer Leere oder lassen einen fehlenden
-Realitätsbezug erkennen. *Die geäußerten Aussagen und Gefühle des
-Patienten sollen nicht gewertet, verharmlost oder verniedlicht werden!*
+Häufig berichten Patienten über Gefühle der Hoffnungslosigkeit, Einsamkeit, Verzweiflung, innerer Leere oder lassen einen fehlenden Realitätsbezug erkennen. *Die geäußerten Aussagen und Gefühle des Patienten sollen nicht gewertet, verharmlost oder verniedlicht werden!*
 
-Ein misslungener – oft zögerlicher – Selbstmordversuch wird oft von
-Unwissenden im Sinne von *"Der hat es gar nicht so gemeint"* aufgefasst.
-Das ist meistens falsch! Ein Selbstmordversuch ist oft der letzte
-Hilferuf, den ein Mensch – sei es aus Vereinsamung oder aus anderen
-Gründen – aussenden kann.
+Ein misslungener – oft zögerlicher – Selbstmordversuch wird oft von Unwissenden im Sinne von *"Der hat es gar nicht so gemeint"* aufgefasst.
+Das ist meistens falsch! Ein Selbstmordversuch ist oft der letzte Hilferuf, den ein Mensch – sei es aus Vereinsamung oder aus anderen Gründen – aussenden kann.
 
 - Jede Suizidäußerung des Patienten muss ernst genommen und
   dokumentiert werden.
@@ -319,17 +244,9 @@ Gründen – aussenden kann.
 
 ### Psychose
 
-{dfn}`Psychose` {index}` <Psychose>` ist eine allgemeine Bezeichnung für eine
-*psychische Störung* mit strukturellem *Wandel des Erlebens*
-{term}`🗎 Pschyrembel 259`. Man unterscheidet zwischen organischen, körperlich
-begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren
-Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen,
-vgl. {ref}`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen
-können Störungen und Verletzungen des ZNS, z. B. bei Hirntumoren, Folge
-eines SHT, Intoxikationen, Stoffwechselstörungen u.v. a.m. sein.
-Grundsätzlich muss bis zum Beweis des Gegenteils von einer
-*organischen* Psychose (mit behebbarer Ursache) ausgegangen
-werden!
+{dfn}`Psychose` {index}` <Psychose>` ist eine allgemeine Bezeichnung für eine *psychische Störung* mit strukturellem *Wandel des Erlebens*
+{term}`🗎 Pschyrembel 259`. Man unterscheidet zwischen organischen, körperlich begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen, vgl. {ref}`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen können Störungen und Verletzungen des ZNS, z. B. bei Hirntumoren, Folge eines SHT, Intoxikationen, Stoffwechselstörungen u.v. a.m. sein.
+Grundsätzlich muss bis zum Beweis des Gegenteils von einer *organischen* Psychose (mit behebbarer Ursache) ausgegangen werden!
 
 :::{list-table} Einteilung der Psychosen nach {term}`🗎 Pschyrembel 259`
 :name: Table-psychosen-einteilung
@@ -358,29 +275,18 @@ werden!
 
 #### Symptome
 
-Die Symptome einer Psychose sind vielfältig und abhängig von der
-konkreten Störung und dem Schweregrad. Sie sind durch *Störungen des
-Denkens, der Wahrnehmung und des Affektes* charaktersisiert.
+Die Symptome einer Psychose sind vielfältig und abhängig von der konkreten Störung und dem Schweregrad. Sie sind durch *Störungen des Denkens, der Wahrnehmung und des Affektes* charaktersisiert.
 
 ### Demenz
 
-Die {dfn}`Demenz` {index}` <! Demenz>` ist eine fortschreitende Einschränkung
-der geistigen Leistungsfähigkeit des Gehirns.
-Die häufigste Form ist
-die *Altersdemenz*, daneben gibt es noch viel andere Formen der Demenz.
+Die {dfn}`Demenz` {index}` <! Demenz>` ist eine fortschreitende Einschränkung der geistigen Leistungsfähigkeit des Gehirns.
+Die häufigste Form ist die *Altersdemenz*, daneben gibt es noch viel andere Formen der Demenz.
 Die bekannteste Form ist die Demenz im Rahmen der *Alzheimer*-Krankheit.
-Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion,
-z. B. das Gedächtnis, das Denkvermögen, die Sprache, die Motorik, sowie
-die Persönlichkeitsstruktur und Affektverarbeitung.
+Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion, z. B. das Gedächtnis, das Denkvermögen, die Sprache, die Motorik, sowie die Persönlichkeitsstruktur und Affektverarbeitung.
 
 #### Symptome
 
-Die Symptome sind je nach Form, Fortschritt und Person vielfältig und
-unterschiedlich, und darüber hinaus auch sehr *wechselhaft* und von der
-Tagesverfassung abhängig. Klassisch ist eine
-*zeitliche oder örtliche Desorientiertheit*,
-*Gedächtnisschwäche* (insbesonders das Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch
-psychomotorische *Unruhe* und *Aggressivität*.
+Die Symptome sind je nach Form, Fortschritt und Person vielfältig und unterschiedlich, und darüber hinaus auch sehr *wechselhaft* und von der Tagesverfassung abhängig. Klassisch ist eine *zeitliche oder örtliche Desorientiertheit*, *Gedächtnisschwäche* (insbesonders das Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch psychomotorische *Unruhe* und *Aggressivität*.
 
 (manie)=
 
@@ -392,43 +298,22 @@ psychomotorische *Unruhe* und *Aggressivität*.
 
 Die {dfn}`Depression`
 {index}` <! Depression>`
-ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte
-Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte
-Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
+ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
 Die {dfn}`Manie`
 {index}` <! Manie>`
 ist dagegen ein
-Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und
-Willenssphäre sowie des Denkens.
+Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und Willenssphäre sowie des Denkens.
 
-Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa
-10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
-. Sie tritt mit einer Vielzahl von unterschiedlichen
-Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung
-abzugrenzen.
+Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
+. Sie tritt mit einer Vielzahl von unterschiedlichen Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung abzugrenzen.
 
-Die Depression tritt oft episodenhaft auf. Bei den typischen Episoden
-leidet der betroffene Patient unter einer *gedrückten Stimmung* und
-einer *Verminderung von Antrieb und Aktivität*. Die Fähigkeit zu Freude,
-das Interesse und die Konzentration sind vermindert. Ausgeprägte
-*Müdigkeit* kann nach jeder kleinsten Anstrengung auftreten. Der Schlaf
-ist meist gestört, der Appetit vermindert. Selbstwertgefühl und
-Selbstvertrauen sind fast immer beeinträchtigt. Sogar bei der leichten
-Form kommen Schuldgefühle oder Gedanken über eigene *Wertlosigkeit* vor.
+Die Depression tritt oft episodenhaft auf. Bei den typischen Episoden leidet der betroffene Patient unter einer *gedrückten Stimmung* und einer *Verminderung von Antrieb und Aktivität*. Die Fähigkeit zu Freude, das Interesse und die Konzentration sind vermindert. Ausgeprägte *Müdigkeit* kann nach jeder kleinsten Anstrengung auftreten. Der Schlaf ist meist gestört, der Appetit vermindert. Selbstwertgefühl und Selbstvertrauen sind fast immer beeinträchtigt. Sogar bei der leichten Form kommen Schuldgefühle oder Gedanken über eigene *Wertlosigkeit* vor.
 
-Die gedrückte Stimmung verändert sich von Tag zu Tag wenig, *reagiert
-nicht auf Lebensumstände* und kann von so genannten "somatischen"
-Symptomen begleitet werden, wie Interessenverlust oder Verlust der
-Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung,
-Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
-Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode
-als leicht, mittelgradig oder schwer zu bezeichnen. Im schweren Fällen kann es zum Übergang in ein
-*suizidales Syndrom* kommen ({ref}`suizidalität`).
+Die gedrückte Stimmung verändert sich von Tag zu Tag wenig, *reagiert nicht auf Lebensumstände* und kann von so genannten "somatischen"
+Symptomen begleitet werden, wie Interessenverlust oder Verlust der Freude, Früherwachen, Morgentief, deutliche psychomotorische Hemmung, Agitiertheit, Appetitverlust, Gewichtsverlust und Libidoverlust.
+Abhängig von Anzahl und Schwere der Symptome ist eine depressive Episode als leicht, mittelgradig oder schwer zu bezeichnen. Im schweren Fällen kann es zum Übergang in ein *suizidales Syndrom* kommen ({ref}`suizidalität`).
 
-Die Episoden können regelmäßig wiederkommen (rezidivierende depressive
-Störung). Die erste Episode kann in jedem Alter zwischen Kindheit und
-Senium auftreten, der Beginn kann akut oder schleichend sein, die Dauer
-reicht von wenigen Wochen bis zu vielen Monaten.
+Die Episoden können regelmäßig wiederkommen (rezidivierende depressive Störung). Die erste Episode kann in jedem Alter zwischen Kindheit und Senium auftreten, der Beginn kann akut oder schleichend sein, die Dauer reicht von wenigen Wochen bis zu vielen Monaten.
 
 ### Alkohol- und Drogenentzug
 
@@ -457,16 +342,12 @@ reicht von wenigen Wochen bis zu vielen Monaten.
 
 #### Entzugsdelir und Durchgangssyndrom
 
-Im Extremfall leidet der Patient an einem Entzugsdelir (Delirium
-tremens). Dabei kann es zu Zittern, Unruhe, Angst, *Halluzinationen*
-("weiße Mäuse", …), vegetativer Entgleisung (Tachykardie,
-Hypo-/Hypertonie) und zerebralen Krampfanfällen kommen. Es handelt sich
-um einen **lebensbedrohlichen Zustand**!
+Im Extremfall leidet der Patient an einem Entzugsdelir (Delirium tremens). Dabei kann es zu Zittern, Unruhe, Angst, *Halluzinationen*
+("weiße Mäuse", …), vegetativer Entgleisung (Tachykardie, Hypo-/Hypertonie) und zerebralen Krampfanfällen kommen. Es handelt sich um einen **lebensbedrohlichen Zustand**!
 
 ### Panikattacke
 
-Eine Panikattacke kann sich sehr unterschiedlich äußern und körperliche
-Beschwerden vortäuschen.
+Eine Panikattacke kann sich sehr unterschiedlich äußern und körperliche Beschwerden vortäuschen.
 
 - Plötzliches Angstgefühl
 - Dauer: Sekunden bis Minuten

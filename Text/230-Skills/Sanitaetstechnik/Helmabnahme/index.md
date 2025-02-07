@@ -2,8 +2,7 @@
 
 # Helmabnahme und manuelle HWS-Stabilisierung
 
-Ein Patient mit aufgesetztem Sturzhelm stellt eine besondere
-Herausforderung dar. Der Sturzhelm ist grundsätzlich immer abzunehmen!
+Ein Patient mit aufgesetztem Sturzhelm stellt eine besondere Herausforderung dar. Der Sturzhelm ist grundsätzlich immer abzunehmen!
 
 ## Material und Personal
 
@@ -124,4 +123,4 @@ HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.
 [^footnote-1]: HWS-Immobilisation / Zug / ASBÖ: Nach der Lehrmeinung 07/2011 vom
     01.02.2011 (Bundesverband/Bundesschulung, n.d.) darf der Kopf nicht
     mehr unter Zug gehalten werden. Dies ist konsistent mit ITLS (6.A.)
-    
+

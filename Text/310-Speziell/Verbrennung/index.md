@@ -14,14 +14,13 @@
 ::::
 
 :::{admonition} Definition
+
 Eine Verbrennung
 {index}` <Verbrennung>`
 {index}` <Combustio>`
 {index}` <Comb.>`
 (*Lat.* *Combustio*, *Abkz.* *Comb.*)
-ist eine durch
-Hitzeeinwirkung entstandene Schädigung des Gewebes,
-besonders häufig der Haut.
+ist eine durch Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der Haut.
 Sie ist eine thermische Wunde.
 
 Eine {dfn}`Verbrühung`
@@ -30,18 +29,11 @@ Eine {dfn}`Verbrühung`
 {index}` <! Amb.>`
 {index}` <! scald>`
 (*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
-ist eine thermische Schädigung durch heiße Flüssigkeit
-oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
+ist eine thermische Schädigung durch heiße Flüssigkeit oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
 :::
 
-Verbrennungen reichen von kleinen Brandblasen bis
-schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
-großflächige Verkohlung). Um die Schwere der Verletzung rasch
-einschätzen zu können müssen die Ausdehnung und der Schweregrad der
-Verbrennung beurteilt werden. Dazu stehen die *Neunerregel* sowie die
-Einteilung nach (Schwere-)Graden zur Verfügung. Schwere Verbrennungen
-können – wie alle Wunden – Auswirkungen auf den gesamten Organismus
-haben. [^footnote-2]
+Verbrennungen reichen von kleinen Brandblasen bis schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
+großflächige Verkohlung). Um die Schwere der Verletzung rasch einschätzen zu können müssen die Ausdehnung und der Schweregrad der Verbrennung beurteilt werden. Dazu stehen die *Neunerregel* sowie die Einteilung nach (Schwere-)Graden zur Verfügung. Schwere Verbrennungen können – wie alle Wunden – Auswirkungen auf den gesamten Organismus haben. [^footnote-2]
 
 [^footnote-1]: Verbrennung / ASBÖ-Lehrmeinung: Dieser Abschnitt ist kompatibel mit
     der ASBÖ-Lehrmeinung, publiziert unter *(ASBÖ Akademie 2010)* (ASBÖ
@@ -54,8 +46,7 @@ haben. [^footnote-2]
     einschlägigen Literatur entsprechend definiert.
 
 Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
-({ref}`inhalationstrauma`) oder andere Begleitverletzungen gedacht
-werden.
+({ref}`inhalationstrauma`) oder andere Begleitverletzungen gedacht werden.
 
 (verbrennungskrankheit)=
 
@@ -69,22 +60,12 @@ werden.
 - Unterkühlung
 :::
 
-In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es
-besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. 20–30% verbrannter
-Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>`
+In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
+Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>`
 entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
-Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit
-der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und
-es bilden sich Ödeme. Aufgrund des *Flüssigkeitsverlustes* durch die
-Verbrennungskrankheit und Verdunstung besteht bei großflächigen
-Verbrennungen *Schockgefahr* (hypovolämischer Schock)! Der Schock
-entwickelt sich allerdings erst allmählich.
+Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und es bilden sich Ödeme. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bei großflächigen Verbrennungen *Schockgefahr* (hypovolämischer Schock)! Der Schock entwickelt sich allerdings erst allmählich.
 
-Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann
-sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes
-abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung*
-bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
+Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung* bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
 
 [^footnote-3]: (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
     einer über 40%ig erhöhten Chance zu versterben wenn die
@@ -106,12 +87,8 @@ bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
 :::
 ::::
 
-Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird
-in Prozent der verbrannten Körperoberfläche angegeben. Diese kann
-entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt
-werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche
-(ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche
-entspricht.
+Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche
+(ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
 
 Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>`
 angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
@@ -217,11 +194,8 @@ Ablederung
 :::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-03-escharotomie.\*
 :width: 100%
 
-Aufgrund der ringförmigen Verbrennung am Thorax
-zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die
-Atmung dadurch beeinträchtigt (Verbrennungspanzer).
-Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb
-wieder sich auszudehnen und dem Patienten damit zu atmen.
+Aufgrund der ringförmigen Verbrennung am Thorax zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die Atmung dadurch beeinträchtigt (Verbrennungspanzer).
+Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb wieder sich auszudehnen und dem Patienten damit zu atmen.
 
 ₢ David Hauer {term}`ℓ MfG`
 :::
@@ -238,16 +212,9 @@ wieder sich auszudehnen und dem Patienten damit zu atmen.
 :::
 ::::
 
-Man unterscheidet zwischen einer *leichten* und einer *schweren*
-Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der
-*Verbrennungsgrad*. Ab einer betroffenen Körperoberfläche von >20%
-(Erwachsene; Kinder >10%, Säuglinge >5%) gilt eine Verbrennung als
-*großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die
-Verbrennungskrankheit und Verdunstung besteht bereits ab *10%* (oder *5%
-bei Kindern*) *≥ 2°* verbrannter Körperoberfläche
-*Schockgefahr* (hypovolämischer Schock), diese Verbrennungen gelten
-daher als *schwer*! Der Schock entwickelt sich allerdings erst
-allmählich.
+Man unterscheidet zwischen einer *leichten* und einer *schweren* Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der *Verbrennungsgrad*. Ab einer betroffenen Körperoberfläche von >20%
+(Erwachsene; Kinder >10%, Säuglinge >5%) gilt eine Verbrennung als *großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bereits ab *10%* (oder *5%
+bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovolämischer Schock), diese Verbrennungen gelten daher als *schwer*! Der Schock entwickelt sich allerdings erst allmählich.
 
 :::{attention}
 - Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
@@ -355,9 +322,7 @@ allmählich.
 
 Von einem
 {dfn}`Inhalationstrauma` {index}` <! Inhalationstrauma>`
-spricht man bei
-Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine
-Schädigung der Atemwege und der Lunge zur Folge hat.
+spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
 Typische Leitsymptome sind:
 
 - Z. n. Gasexposition
@@ -369,9 +334,7 @@ Typische Leitsymptome sind:
 - Stridor
 - Atemnot
 
-Das volle Ausmaß der Schädigung kann unmittelbar oder innerhalb von
-Stunden erreicht werden. Eine engmaschige Beobachtung des Patienten ist
-daher sehr wichtig.
+Das volle Ausmaß der Schädigung kann unmittelbar oder innerhalb von Stunden erreicht werden. Eine engmaschige Beobachtung des Patienten ist daher sehr wichtig.
 
 Das volle Ausmaß wird oft erst nach Stunden erreicht!
 
@@ -415,22 +378,11 @@ Notbrause
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
 
-Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe
-weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit
-Verbrennungsschäden auf. Daher werden diese Verletzungen oft auch als
-*"chemische Verbrennung"* bezeichnet, auch wenn meist keine Hitze im
-Spiel ist.
+Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit Verbrennungsschäden auf. Daher werden diese Verletzungen oft auch als *"chemische Verbrennung"* bezeichnet, auch wenn meist keine Hitze im Spiel ist.
 
-Genau wie bei der Verbrennung kommt es zu einem Ausfall der
-Schutzfunktion der Haut, oft zu Schmerzen und zu gefährlichen
-Schockzuständen. Auch die Einschätzung der Ausdehnung der Verwundung
-erfolgt wie bei der Verbrennung mit der Neuner-Regel o.ä.
+Genau wie bei der Verbrennung kommt es zu einem Ausfall der Schutzfunktion der Haut, oft zu Schmerzen und zu gefährlichen Schockzuständen. Auch die Einschätzung der Ausdehnung der Verwundung erfolgt wie bei der Verbrennung mit der Neuner-Regel o.ä.
 
-Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit
-welchem u.U. der Patient, dessen Kleidung und evtl. auch die Umgebung
-kontaminiert ist. Von diesem Stoff kann sowohl für den Patienten, als
-auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
-*Dekontamination* muss großer Wert gelegt werden.
+Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. der Patient, dessen Kleidung und evtl. auch die Umgebung kontaminiert ist. Von diesem Stoff kann sowohl für den Patienten, als auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die *Dekontamination* muss großer Wert gelegt werden.
 
 (tt30041c)=
 
@@ -482,8 +434,7 @@ auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die
 ## 54. Verbrennungen *
 
 - Verbrühung (Ambustio)
-- Brandverletzung (Combustio): Flammen, Strom, Strahlen, Reibung,
-Kontakt heiß)
+- Brandverletzung (Combustio): Flammen, Strom, Strahlen, Reibung, Kontakt heiß)
 - Verätzungen durch Säuren oder Laugen
 - Epidermolyse (z.B. nach AB-Gabe, am ganzen Körper auch SH innen!)
 
@@ -495,8 +446,7 @@ Nachbrennen.
 - Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck
 
 Traumacheck:
-Begleitverletzungen?  Durch Druckwelle bei Explosionen (pulmonal, extrapulmonal),
-Inhalationstrauma, Intoxikation, Begleitverletzungen traumatisch bei VU
+Begleitverletzungen?  Durch Druckwelle bei Explosionen (pulmonal, extrapulmonal), Inhalationstrauma, Intoxikation, Begleitverletzungen traumatisch bei VU
 - Airway Management: Schutzintubation rasch (Ödembildung innerhalb von Stunden!), rasch Tracheotomieren
 - Großlumige Zugänge, ZVK
 - Schmerztherapie: Ultiva (Opiate!)
@@ -510,8 +460,7 @@ Verbrennungsausmaß: Neunerregel + 1% Handfläche des Patienten Erw: 9% Kopf, Ar
 
 
 Verbrennungstiefe:
-Grad I: Rötung, Epidermis betroffen Grad IIa: Blasen, wegdrückbare Rötung, schmerzhaft, Epidermis und oberflächliche Dermis betroffen Grad IIb: Blasen, bleibende Rötung, schmerzhaft, Epidermis und Dermis Grad III: Zerstörung Epidermis und Dermis, Gewebe weiß, keine Schmerzen!! = gekochtes Eiweis,
-ischämisch
+Grad I: Rötung, Epidermis betroffen Grad IIa: Blasen, wegdrückbare Rötung, schmerzhaft, Epidermis und oberflächliche Dermis betroffen Grad IIb: Blasen, bleibende Rötung, schmerzhaft, Epidermis und Dermis Grad III: Zerstörung Epidermis und Dermis, Gewebe weiß, keine Schmerzen!! = gekochtes Eiweis, ischämisch
 
 
 
@@ -522,29 +471,21 @@ Vor allem in den ersten 24-36 Stunden ist das größte capillary leak  =  „tro
 Beginn mit Kristalloiden und nach 6-8 h  FFB (hyperkoagulatorischer Status, keine Gerinnungsfaktoren!). Albumin nur sparsam einsetzen.
 Vasopressoren und Inotropika sollen einen suffizienten Perfusionsdruck und HZV bewirken. Keine Normalwerte anstreben!
 
-Kompartmentsyndrom: zirkuläre Verbrennungen (Thorax, Extremitäten, Abdomen) müssen sofort (vor Transfer ins Zentrum) Fasciotomiert werden!! Folgen sind Myonekrosen,
-Hyperkaliämie, Crush-Niere, Organminderperfusion, Beatmungsprobleme, Herzkreislaufstillstand.
+Kompartmentsyndrom: zirkuläre Verbrennungen (Thorax, Extremitäten, Abdomen) müssen sofort (vor Transfer ins Zentrum) Fasciotomiert werden!! Folgen sind Myonekrosen, Hyperkaliämie, Crush-Niere, Organminderperfusion, Beatmungsprobleme, Herzkreislaufstillstand.
 
 Folgen:
-Beatmungsschwierigkeiten,
-Myonekrosen,
-Hyperkaliämie,
-Crushniere,
-Organminderperfusion Nekrosen machen Infektionen: erste Nekrosektomie am 3  Tag (oft hoher Blutverlust!), Ziel ist rasche Entfernung der Nekrosen und Wunddeckung mit Spalthaut, Epigard,
-VAC)
+Beatmungsschwierigkeiten, Myonekrosen, Hyperkaliämie, Crushniere, Organminderperfusion Nekrosen machen Infektionen: erste Nekrosektomie am 3  Tag (oft hoher Blutverlust!), Ziel ist rasche Entfernung der Nekrosen und Wunddeckung mit Spalthaut, Epigard, VAC)
 
 Ausreichende Analgesie mit erhaltener Spontanatmung ist das Ziel!
 - Diclofenac/Paracetamol + Ultiva
 - Midazolam + Ketanest, ev. Dexdor (Dexmedetomidine)
-Problem: großflächige Wunden mit Rezidiveingriffen,
-schmerzhafte Verbandswechsel
+Problem: großflächige Wunden mit Rezidiveingriffen, schmerzhafte Verbandswechsel
 +  Sandbett (Nanokrist. Glas, Pat. schwebt, Seekrankheit des vest. Systems, trocknet von dorsal aus)
 +
 
 ## 55. Inhalationstrauma
 
-= durch Wasserdampf oder Rauch,
-Nebel/Gase, welche toxische Substanzen enthalten.
+= durch Wasserdampf oder Rauch, Nebel/Gase, welche toxische Substanzen enthalten.
 Thermisch-chemisch-toxisch
 - Obere AW thermisch + chemisch, untere AW va. wasserlösliche Substanzen z.B. Aldehyde
 -  Lungenparenchym mit inflammatorischer Reaktion
@@ -552,8 +493,7 @@ Thermisch-chemisch-toxisch
 Schutzintubation: Ödem mukös und submukös!
 Blutungen, Ulcerationen!
 
-Diagnose: Anamnese, Klinik, C/P, CT, EVLW,
-Serum CO-Bestimmung (KEINE Bronchoskopie!!)
+Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchoskopie!!)
 Hinweise: geschlossener Unfallraum mit Explosion, Brandverletzung im Gesicht, Verrußte Atemwege, angesengte Nasenhaare, Rußspuren auf der Kleidung,...
 
 
@@ -569,10 +509,8 @@ Therapie:
 - Forcierte Diurese: initial rasch Lasix-Perfusor, bei älteren Patienten rasch HF
 
 Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50%  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO2!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
-Ab 20%  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen,
-Krampfanfälle, Tod)
+Ab 20%  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen, Krampfanfälle, Tod)
 
 
 Therapie: Sauerstoff!!!! HBO umstritten.
-Spätschäden nach CO-Intox: Persönlichkeitsveränderungen, Psychosen, Parkinson, Demenz,
-Kardiale Leistungsschwäche.
+Spätschäden nach CO-Intox: Persönlichkeitsveränderungen, Psychosen, Parkinson, Demenz, Kardiale Leistungsschwäche.

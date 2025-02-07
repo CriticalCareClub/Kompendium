@@ -17,7 +17,7 @@
 # Kompendium des CCCA
 
 ::::{only} html
-:::{image} /Bilder/Gabriel-Sebastian-CCCA/Teaser-001.jpg
+:::{image} /Bilder/Gabriel-Sebastian-CCCA/Auge-blur_001342.jpg
 :align: center
 :width: 100%
 :::

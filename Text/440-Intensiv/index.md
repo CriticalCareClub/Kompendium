@@ -18,4 +18,5 @@ Im Gegensatz zum internistischen Intensivpatienten hat der anständige chirurgis
 Darmmotilitaet/index
 Nierenersatztherapie/index
 No/index
+Ernaehrung/index
 :::

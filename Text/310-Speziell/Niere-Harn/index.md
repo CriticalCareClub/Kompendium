@@ -2,7 +2,9 @@
 
 Erkrankungen des harnableitenden Systems.
 
-```{index} pair: Ausfuhr; Flüssigkeitsbilanz pair: Einfuhr; Flüssigkeitsbilanz
+```{index} pair: Ausfuhr; Flüssigkeitsbilanz
+```
+```{index} pair: Einfuhr; Flüssigkeitsbilanz
 ```
 ```{index} single: Harnkatheter
 ```
@@ -342,10 +344,162 @@ Maßnahmen
   - Rascher Transport
 
 
-## Niereninsuffizienz
+## 19. Niereninsuffizienz
 
-### AKI
+Die Niere beansprucht zirka 20% des HZV (ca, 1,2l Blut). Der Großteil geht in den überversorgten Cortex, die vulnerable Zone, weil nur grenzwertig versorgt, ist die Medulla mit den Henle Schleifen. Dort befindet sich auch die Na-K-ATPase, welche der größte Sauerstoffkonsument der Niere ist.
+
+Aufbau: Nephron  =  Glomerulus in Bowman Kapsel mit Vas afferenz und efferenz und juxtaglomerulärem Apparat -- proximaler Tubulus (Konvolut) -- Henle Schleife in Medulla -- distaler Tubulus -- Sammelrohr.
+
+Filter: kapilläres Endothel mit gap junctions bis 60nm + Basalmembran (Größe, Form und Ladung d. Moleküle) + viszerales Epithel (Ladung und Form)
+Primärharn = ca. 180l/d Ultrafiltrat des Plasma, proteinfrei
+
+
+
+
+Nierenfunktionsparameter:
+- Kreatinin: Abbauprod. Muskelmetabolismus abhängig von der Muskelmasse, indirekt proportional zur GFR, 0,6-1,3mg/dl
+- GRF: normal 90ml/min (=  Krea 1), Nierenversagen  \<  25ml/min (=  Krea  \>4)  über Kreatinin-
+Clearance bestimmt.
+- Kreatinin Clearance ml/min = Urinkrea x Urinvolumen ml / Serumkrea x 24h Sammelzeit
+- Harnstoff: 13-54 mg/dl: entsteht beim Eiweißabbau in der Leber und wird  über die Niere ausgeschieden
+- BUN = blood urea nitrogen: Abbauprodukt von Protein zu Ammonium 10-20mg/dl, ist erhöht bei reduzierter GFR (Dehydration) oder Proteinkatabolismus.  \>  50 renale Ursache!
+(Azotämie)
+- Harnmenge: \> 0,5ml/kg/h
+
+
+Autoregulation des renalen Blutflusses:
+Zwischen MAP 80-200 mmHg konstant mit konstanter GFR
+(Vasokonstr. vas afferenz)
+Erhöhter Sympatikotonus mit reduziertem RBF bewirkt eine Vasodilatation durch Prostaglandine
+(CAVE: NSAR) und autokrine Hormone wie NO, Endothelin, sowie eine Vasokonstriktion der Vasa efferenz durch ATII (CAVE: ACEI).
+Tubuloglomeruläres Feedback:
+verhindert die
+Überforderung einzelner Nephrone
+(unterschiedliche GFR im Cortex und Medulla)
+
+
+Aufgaben Nepron:
+1) Proximaler Tubulus: komplette Glucoserückaufnahme im Symport mit Na, 60-70%
+Wasserrücktransport,
+Harnstoff
++
+Phosphat+Cl+HCO3-
+Reabsorption.
+CAVE:
+Carboanhydrasehemmer verhindern Bicarbonatrücktransfer und damit auch Wasserrückresorption), Sekretion von Säuren und Basen.
+1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium  =  hyperosmolar, hier keine Wasserpermeabilität),
+Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
+1) Distaler Tubulus: Na-Reabsorption 4) Sammelrohr: Aquaporine (ADH) für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
+JGA (juxtaglomerulärer Apparat)
+Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
+Ausschüttung bei:
+Hyponatriämie (Macula densa) und vermindertem Extrazellulärvolumen, weiters bei Hypotonie durch Barorezeptoren im Vas afferenz Sympathikusaktivierung.
+RAA-Mechanismus Renin spaltet Angiotensinogen in AT I -- ACE spaltet in ATII. Diese wirkt direkt Vasokonstriktorisch und hebt Afterload, und setzt Aldosteron frei =  Na und Wasserretention steigt  =  preload steigt.
+Aldosteron hemmt Reninfreisetzung.
+
+ADH = antidiuretisches Hormon = Vasopressin Im Hypothalamus gebildet und HHL gespeichert,  öffnet Aquaporine im distalen Tubulus und Sammerlrohren  =  Wasserretention und Harnstoff  =  Harnkonzentrierung! Mangel  =  IADHS, Diab.
+Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen)
+und Aterien (Druck)
+(Minirin, Desmopressin/Octostim)
+Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase,
+und Na-H+-Antiport)
+
+
+
+Chronische Niereninsuffizienz: Hauptursachen sind art.
+Hypertonie, Diabetes, Adipositas. Die Einteilung erfolgt nach KDIGO-Guidlines 2012 nach GFR in G1-G5 (ab G3b deutlich erhöhte kardiovaskuläre Mortalität und Morbidität) und Albuminurie A1-A3. Zur Berechnung der GFR war die MDRD-GFR bei einer GFR \> 60ml/min/ 1,73 m² nicht ausreichend validiert. Daher ist aktuell die CKD-EPIFormel (Chronic Kidney Disease Epidemiology Collaboration) „state of the art". Ein Screening sollte bei arterieller Hypertonie, Diabetes und familiärer Belastung erfolgen.
+
+Anästhetika bei CNI:
+- Barbiturate und Benzodiazepine = erhöhte Sensitivität
+- Opioide werden in der Leber metabolisiert und  über die Niere ausgeschieden, Morphium kann akkumulieren.
+- Volatile Anästhetika sind ideal bei CNI
+(Sevo theor. Akumulation von Fluoriden)
+- Succinylcholin nur bei K \< 5!!
+- Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron
+(Rocuronium) wird zu 20% renal eleminiert (TOF!).
+
+Röntgenkontrastmittel induzierte Nephropathie Akute renale Verschlechterung innerhalt 48 bis 72h nach KM-Gabe mit Kreatininanstieg  +25%
+oder +0,5mg/dl!
+Ursache: Vasokonstriktion mit Perfusionsminderung (ATII vermittelt) in der Niere, KM ist zytotoxisch und proapoptotisch und setzt freie Radikale frei.
+Risikofaktoren:
+Vorbestehende NI mit Krea \> 1,4mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1ml/kg/h bis 24h nach KM), keine Diuretika Gabe, ev. ACC 600mg vor und 12h nach KM, max 300ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26% iv: 3ml/kg/h 60min vor KM, 1ml/kg/h während und 6 h nach der Untersuchung.
+Rhabdomyolyse:
+= Degeneration und Nekrose von quergestreiften Muskelfasern (Skelett und Herzmuskulatur)
+Urs: Alkohol, Heroin, MH, Propofolinfusionssyndrom Hämoglobin, Myoglobin und Eiweiß verstopfen den distalen Tubulus und führen zum NV = Crush Niere! (Kompartmentsyndrom!)
+Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH,
+(K + Laktat bei Kompartment)
+Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
+
+
+HUS = hämolytisch urämisches Syndrom/TTP Urs: Endothelschaden mit überwiegen von TXA2 und Mikrothrombenbildung durch Cyclosporin A,
+Bakterielle/virale Infektionen.
+Klinik: ANV (HUS), Hämolyse (Fragmentozyten),    und Thrombozytopenie (Thrombotisch-
+thrombozytopenische Purpura TTP), ZNS-Symptomatik mit neurologischen Ausfällen (TTP),
+Hypertonie.
+ Therapie: Methylprednisolon, Plasmaaustauschbehandlung,
+Hämodialyse
+
+
+
+## 20. Akutes Nierenversagen = AKI = acute kidney injury (network)
+
+Ist selten ein isoliertes Ereignis, oft im Rahmen einer Erkrankung, verschlechtert die Prognose und verlängert die Krankenhausaufenthaltsdauer.
+Co-Morbititäten sind entscheident!
+Ursachen:
+1. Prärenal: Hypovolämie/Hypotonie (Sepsis mit Kapillarleak), DIC durch Stase oder Hyperkoagulopathie 2. Selten renal: Urosepsis, tox. Prozess, chron. NV,
+CRUSH-Niere, Kontrastmittel!
+3. Postrenal: Obstruktion der ableitenden Harnwege Diagnose über Kreatininanstieg und Änderung der Diurese!
+
+AKIN-Definition: akut innerhalb 48h, Anstieg Krea um 1  ½  fache (oder 0,3mg/dl) oder Einschränkung der Diurese auf \< 0,5ml/kg/h über \> 6h!
+
+Rifle-Stadium      AKIN-Statium                     Kreatinin                              Diurese Risk                                  1                         1 ½
+fache/+0,3 GFR -25%            \< 0,5ml/kg/h über \> 6h Injury                               2                         2-3fache, GFR -50%                      \<0,5ml/kg/h über \> 12h Failure                             3
+-                       \> 3fache/\> 4! GFR -75%
+- \< 0,3ml/kg/h über 24h/ Anurie Loss function                 -                Nierenversagen über \>
+4 Wochen ESRD                               -                 Nierenversagen über \>
+3 Monate
+
+Polyurische Phase: Ischämie des Nierenmarks, va. Henle Schleife, hypertones Intertitium kann nicht aufrecht erhalten werden
+= fehlender passiver Wasserrückstrom = Polyurie
+
+
+Oligourische Phase: Tubuluszellen gehen zu Grunde, ICAM´s verlieren ihre Funktion, Na-K-Atpase funktioniert nicht mehr, nur noch Basalmembran. Desquamierte Zellen verstopfen die Tubuli  =
+Oligourie/Anurie Die primäre Harneinschänkung ohne Kreatininanstieg ist aufgrund einer reduzierten GFR, hier sind die Tubuli noch intakt. Bei Kreatininanstieg ist man eigentlich schon zu spät dran...
+
+
+Therapie:
+Ursache beseitigen! Kreislauf stabilisieren und für ausreichenden Perfusionsdruck bei adäquater Füllung sorgen!
+- Mikrozirkulation aufrechterhalten (Laktat, ScvO2, MAP, HF)
+- Flüssigkeitsmanagement nach PICCO/Pulmi (PCWP), C/P, Klinisches Bild, ev. TEE im Zweikammerblick/Füllungszustand
+- Vasopressoren: Noradrenalin wirkt mehr auf vas eff.  =  +  GFR, Dopamin in Nierendosis 0,5-
+3mcg/kg/min dilatiert vas. Aff. Und vasokonstr. vas eff = erhöhter Filtrationsdruck (langfristig kein Vorteil)
+- NEV bei Kalium  \>  6,5 mmol/l, Harnstoff  \>180/200mg/dl, Kreatinin  \>  8mg/dl, Hypervolämie mit Lungenödem, Anurie/Oligourie, metabolische Azidose, urämische Intoxikation, BUN
+\>100, Crea-Clearance \< 15, Somnolenz,..
+
+
+Prävention:
+- Hydration: Elomel, NaCl... (kein RL bei CNI)
+- Diurese fördern: Mannit (Osmodiurese, bei CRUSH-Niere trendmäßig Verbesserung),
+Schleifendiuretika/Lasix immer in Kombination mit Volumen
+- MAP \> 60-70 (ev. Vasopressoren)
+
+
+
+
+
+- Reduzieren von NMH für Thromboseprophylaxe bei CNI!!!!
+Schleifendiuretika senken in der Theorie den Sauerstoffbedarf der Niere durch eine vermehrte Natriumrückresorbtion + kortikale Vasodilatation = „Auswascheffekt".
+KI bei AKIN \> III
+
+Die Folgen der akuten Urämie sind eine metabolische Entgleisung, Akumulation von Urämietoxinen,
+metabolische Störungen
+(Insulinresistenz,
+Hyperparathyreoidismus),
+metabolische Azidose.
+
+
+
 
 Siehe auch:
 
-- {ref}`Thema-Haemofiltration`
+- {ref}`Nierenersatzverfahren`

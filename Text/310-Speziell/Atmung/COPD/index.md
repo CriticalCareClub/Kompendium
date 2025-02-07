@@ -11,8 +11,6 @@
 
 # Chronische Bronchitis und COPD
 
-::::{only} not nosidebar
-
 :::{margin} COPD
 - Husten mit Auswurf, anfänglich "Raucherhusten"
 
@@ -36,7 +34,6 @@
   - Meist Infekt-bedingt
   - Vermehrte Atemnot, Husten und Auswurf
 :::
-::::
 
 Die {dfn}`chronische Bronchitis` ist eine chronische
 entzündliche Schleimhautschädigung der unteren Atemwege.
@@ -366,3 +363,49 @@ Palliative Therapie
     bzw. das Stadium oder der Fortschritt der Erkrankung
     die Indikation zur palliativen Therapiestrategie stellt.
     Einzelfallentscheidung!
+
+-----
+
+
+## 30.2. COPD *
+
+Chronische Bronchitis  +  Lungenemphysem +  smal airway disease mit erhöhter Resistance durch Bronchospasmus, SH-Hypertrophie und SH-Ödem, sowie Dyskrinie. Endexspiratorischer Kollaps der Bronchien (ab 16 Generation keine Knorpelspangen mehr) mit endexspiratorischen Restflow =
+intrinsic PEEP  =  Überblähung durch Airtrapping  =  erhöhte FRC mit erhöhter Totraumventilation und Kapillarkompression mit erhöhtem PVR. Die Folge ist erhöht isometrische Atemarbeit  =
+Restflow muss überwunden werden, bevor der inspiratorische Fluss zustande kommt. (Bis zu 50%
+der Atemarbeit bei COPD IV ist eine flussunwirksame Atemarbeit!)
+
+
+Einteilung nach GOLD:
+I: FEV1 \> 80%, mit/ohne Husten/Auswurf II: FEV1 \< 80% mit Husten/Auswurf III: FEV1 \< 50 mit Husten/Auswurf IV: FEV1\<30% oder \<50% mit chron respiratorischer Insuffizienz
+
+
+Klinik
+: Dyspnoe, zentrale Zyanose, Fassthorax, verminderte Atemgeräusche, verlängertes Expirium mit pfeifen, giemen, Rechtsherzbelastung mit Jugularvenenstau und peripheren Ödemen, Polyglobulie; C/P: Emphysem mit flachen Zwerchfellkuppen
+
+
+LUFU
+: vermind. VK und red. FEV1, obstruktive Ventilationsstörung, BGA paCO2 erhöht Erhöhte Compliance bei verminderter Struktur (elastische Fasern zerstört), aber auch verminderte Rückstellkraft und Obstruktion = erhöhte Resistance.
+
+Indikation zur NIV
+: Ist das klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen,
+Schaukelatmung, muskuläre Erschöpfung. paCO2\>55 steigende Tendenz, paO2 \< 55 mit SaO2\<88 trotz Sauerstoffgabe, pH \< 7,3
+
+
+Beatmungseinstellung NIV: der extrinsische PEEP muss UNTER dem intrinsischem PEEP liegen = Reduktion der Atemarbeit (innere Schienung)  +  Offenhalten der kleinen Atemwege (vermindert Resistance). Bei CPAP-ASB Rampe max 0,2sec (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
+
+:::{warning}
+Cave: Desynchronisation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein.
+
+Therapie: Ursache beheben, exspiratorischen PEEP anheben. PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös  überbläht, sondern zur Reduktion der Atemarbeit! PEEP schrittweise steigern,
+Druckunterstützung 5-10 CPAP-ASB.
+:::
+
+
+- PEEPe \< PEEPi
+
+
+Kriterien zur Intubation:
+Zunehmende Somnolenz, unzureichende Schutzreflexe, rapid shallow breathing (AF\>35/min, VT \<
+300), weiterer paCO2 Anstieg mit pH-Abfall, zunehmende hämodynamische Instabilität,
+Schocksymptomatik, HF \> 140/min.
+Intubation so restriktiv wie möglich!

@@ -26,6 +26,7 @@ HerzKreislauf/index
 Gerinnung/index
 Anaphylaxie/index
 Abdomen/index
+Leber/index
 Infektion/index
 Stoffwechsel/index
 Endokrinologie/index

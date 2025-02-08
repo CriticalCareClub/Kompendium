@@ -1,5 +1,50 @@
 # Abkürzungsverzeichnis und Glossar
 
+## Abkürzungen
+
+{.glossary}
+aHT
+: {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
+
+CT
+: Computertomographie
+
+CO
+: 1. Cardiac Output
+  2. chem. Formel für Kohlenmoinoxid
+
+ETI
+: endotracheale Intubation
+
+FMC
+: First Medical Contact
+
+ICP
+: Intracranial Pressure; intrakranieller Druck
+
+ICR
+: Intercostalraum. Vgl. {ref}`Intercostalraum`
+
+KHK
+: Koronoare Herzkankheit, siehe {ref}`KHK`
+
+LVH
+: Linksventrikelhypertrophie
+
+NSTEMI
+: Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
+Siehe auch: {ref}`AkutesKoronarsyndrom`.
+
+STEMI
+: ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
+Siehe auch: {ref}`AkutesKoronarsyndrom`.
+
+SR
+: Sinusrhythmus
+
+
+
+## Glossar
 ```{raw} latex
 \begin{ParWide}
 \begin{multicols}{3}
@@ -38,19 +83,8 @@ Erysipel
   muss diese antibiotische Behandlung stationär mittels intravenöse
   Infusion erfolgen.
 
-ETI
-: endotracheale Intubation
-  Als {dfn}`endotracheale Intubation` ({dfn}`ETI`) wird das Einführen eines Tubus in
-  die Trachea bezeichnet. Sie ist eine Maßnahme des invasiven
-  Atemwegsmanagements und wird als Goldstandard hinsichtlich der Qualität
-  der Atemwegssicherung angesehen, dies berücksichtigt aber nicht die
-  Sicherheit der Anwendung.
-
 Exspiration
 : Ausatmung
-
-FMC
-: First Medical Contact
 
 Gestosen
 : Oberbegriff für durch die Schwangerschaft bedingte Erkrankungen. Man
@@ -62,12 +96,6 @@ Gestosen
   (übermäßiges, anhaltendes Erbrechen),
   die EPH-Gestose bzw. Präekplampsie,
   die Eklampsie und das HELLP-Syndrom.
-
-ICP
-: Intracranial Pressure; intrakranieller Druck
-
-ICR
-: Intercostalraum. Vgl. {ref}`Intercostalraum`
 
 Inspiration
 : Einatmung
@@ -149,17 +177,8 @@ Kontrastmittel
   Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind ein Wärme-
   oder Hitzegefühl sowie ein metallischer Geschmack.
 
-
 Mekonium
 : Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
-
-NSTEMI
-: Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
-Siehe auch: {ref}`AkutesKoronarsyndrom`.
-
-STEMI
-: ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
-Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
 Tokolyse
 : *Syn.* *Wehenhemmung*. Hemmung der Wehentätigkeit durch Medikamente.

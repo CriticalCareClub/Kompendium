@@ -158,9 +158,6 @@ In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den 
     vital bedroht, ein bestmögliches Monitoring ist jedoch wichtig.
 
 
-
-SAMPLER: Lungenödem
-===================
 ```
 
 ## SAMPLER: Lungenödem

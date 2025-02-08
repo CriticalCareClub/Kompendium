@@ -20,7 +20,10 @@ Eine Abklärung ist präklinisch oft nicht möglich, und auch unter stationären
 Es gibt jedoch auch typische "Kollaps-Situationen":
 Ein schwüler Tag in einer überfüllten U-Bahn-Garnitur, nicht gefrühstückt, auf dem Weg zu einem Vorstellungstermin und seit gestern in der Menstruation.
 Oder im stickigen Veranstaltungszelt bei 40°C, wobei der der ganze Flüssigkeitskonsum aus 5 (entwässernden) Dosen RedBull bestand.
-So mancher war auch ob eines Begräbnisses so ergriffen, dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
+So
+```{index} single: Hypotonie
+```
+
 
 ## Symptome
 

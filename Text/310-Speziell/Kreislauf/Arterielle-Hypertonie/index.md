@@ -3,7 +3,7 @@
 ```{index} single: Bluthochdruck
 ```
 
-(arteriellehypertonie)=
+(Arterielle-Hypertonie)=
 
 # Arterielle Hypertonie
 

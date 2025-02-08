@@ -110,7 +110,6 @@ Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsst
 ```
 
 (bewusstseinsstoerung-grade)=
-
 (bewusstseinsgrad-neurologie)=
 
 ### Bewusstseinsgrad
@@ -188,7 +187,6 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
 ```
 
 (mr40001b)=
-
 (m-bewusstseinstruebung)=
 
 ### Maßnahmen: Bewusstseinseintrübung
@@ -216,7 +214,6 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
     - (Fremd-)Anamnese, Umstände, Szenerie
 
 (mr40021b)=
-
 (m-bewusstlosigkeit)=
 
 ### Maßnahmen: Bewusstlose und soporöse Patienten
@@ -298,7 +295,6 @@ Das *große Hinterhauptsloch* als Durchtrittsstelle des Rückenmarks ist die ein
 Da sich im Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 (insult)=
-
 (schlaganfall)=
 
 ## Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
@@ -480,7 +476,6 @@ Vor Anmeldung zu einer Stroke-Unit müssen folgende Informationen erhoben worden
 - Vorbestehende Beeinträchtigungen
 
 (ni64xx0c)=
-
 (m-insult)=
 
 ### Maßnahmen: Insult
@@ -572,7 +567,6 @@ Eine definitive Therapie in einer Spezialabteilung (*Stroke Unit*) kann andere, 
 ## Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
 
 (krampfanfall)=
-
 (zerebrale-krampfanfaelle)=
 
 ### Beschreibung und Einteilung
@@ -743,7 +737,6 @@ Er besteht dann, wenn der Anfall nicht nach kurzer Zeit vergeht oder innerhalb k
 Der Krampf muss dann mit Medikamenten durchbrochen werden.
 
 (nr56081c)=
-
 (m-zerebraler-krampfanfall-bestendend)=
 
 ### Maßnahmen Krampfender Patient
@@ -787,7 +780,6 @@ Taktik
   Intensivüberwachung)
 
 (nr56082c)=
-
 (m-zerebraler-krampfanfall-status-post)=
 
 ### Maßnahmen: Nicht-(mehr) krampfender Patient

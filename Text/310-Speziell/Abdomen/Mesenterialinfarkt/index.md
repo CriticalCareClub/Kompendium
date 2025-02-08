@@ -36,7 +36,6 @@ Nach ungefähr 12–24 h wird ein *Darmverschluss* bemerkbar und die Darmwand 
 Es kann zu *blutigen, übel riechenden Stuhlabgängen* kommen.
 
 (ck55001c)=
-
 (m-mesenterialinfarkt)=
 
 ## Maßnahmen: Mesenterialinfarkt

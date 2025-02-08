@@ -369,7 +369,6 @@ EKG: Asystolie
 :::
 
 (tafel-herzrhythmusstoerungenwichtige)=
-
 (tafel-herzrhythmusstoerungen)=
 
 :::{list-table} Wichtige Herzrhythmusstörungen
@@ -583,7 +582,6 @@ Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fra
 {term}`♛ ERC 2021 05`
 
 (proc-mr47091c)=
-
 (m-tachykarde-attacke)=
 
 ### Kritische *Tachykardie*

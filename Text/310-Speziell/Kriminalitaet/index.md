@@ -45,7 +45,6 @@ Ist man aufgrund der ungewohnten Situation unschlüssig, wie man "richtig reagie
 Für Patienten in einer Ausnahmesituation ist es wichtig, *"sich irgendwo anhalten zu können"* bzw. *"einen Plan zu haben"*. Dementsprechend wichtig ist auch die Information über alle zu setzenden Maßnahmen und das weitere Procedere (sofern absehbar).
 
 (m-vergewaltigung)=
-
 (proc-mt74021c)=
 
 ##### Maßnahmen: Vergewaltigung
@@ -165,7 +164,6 @@ Eine {dfn}`Kindesmisshandlung` ist die Ausübung von absichtlicher psychischer o
 - Verhaltensstörungen.
 
 (kt74011c)=
-
 (m-kindesmisshandlung)=
 
 #### Maßnahmen: Kindesmisshandlung

@@ -6,7 +6,6 @@
 ```
 
 (abcde-a)=
-
 (airway)=
 
 # Ⓐ Atemweg (Airway)

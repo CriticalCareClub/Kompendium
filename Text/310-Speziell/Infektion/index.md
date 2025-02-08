@@ -29,7 +29,6 @@ Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgefü
 ## Alltägliche Erkrankungen
 
 (grippe)=
-
 (influenza)=
 
 ### Grippe
@@ -85,7 +84,6 @@ In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden, man spr
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
 
 (lungenentzuendung)=
-
 (pneumonie)=
 
 ### Lungenentzündung (Pneumonie)
@@ -108,7 +106,6 @@ Die Symptome sind oft nicht charakteristisch, eine Diagnose kann meist erst im K
 Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen kaum an.
 
 (ij18090c)=
-
 (m-pneumonie)=
 
 #### Maßnahmen: Pneumonie
@@ -153,7 +150,6 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckun
     control (2006)
 
 (ia16091c)=
-
 (m-tuberkulose)=
 
 #### Maßnahmen: Tuberkulose
@@ -167,7 +163,6 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckun
   - Desinfektion laut Hygieneplan
 
 (hiv)=
-
 (aids)=
 
 ### HIV und AIDS
@@ -208,7 +203,6 @@ Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche Lebensverläng
 Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer Nadelstichverletzung kann innerhalb von zwei Stunden eine *Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei Sexualkontakten stellt die Verwendung von Kondomen einen effektiven, wenn auch keinen 100%-igen Schutz dar.
 
 (hepatitis-toxisch)=
-
 (hepatitis)=
 
 ### Entzündung der Leber: Hepatitis
@@ -295,7 +289,6 @@ Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen kommen, am
 :::
 
 (ig03091c)=
-
 (m-meningitis)=
 
 #### Maßnahmen: Meningitis

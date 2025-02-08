@@ -142,7 +142,6 @@ Man kann dies als 3 Säulen beschreiben und beurteilen:
 
 
 (mediastinal-mass-syndrome)=
-
 (thoraxtumormasseneffekte)=
 
 ## Besonderheiten bei Tumorpatienten

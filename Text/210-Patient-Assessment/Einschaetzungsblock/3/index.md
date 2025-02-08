@@ -33,7 +33,6 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
 ```
 
 (bewusstseinsstoerunggrade)=
-
 (bewusstseinsgrad)=
 
 ## Bewusstseinsgrad

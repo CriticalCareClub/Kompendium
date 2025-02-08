@@ -2,7 +2,6 @@
 ```
 
 (anamnese)=
-
 (sampler)=
 
 # Anamnese: SAMPLER

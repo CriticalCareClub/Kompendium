@@ -6,7 +6,6 @@
 ```
 
 (allergie)=
-
 (anaphylaxie)=
 
 # Allergie und Anaphylaxie

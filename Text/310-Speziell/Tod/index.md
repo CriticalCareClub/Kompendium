@@ -76,9 +76,7 @@ Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch oft nicht 
 ```
 
 (proc-my51990c)=
-
 (m-reanimation-unterlassung)=
-
 (reanimation-unterlassung)=
 
 ## Unterlassung einer Reanimation

@@ -49,7 +49,6 @@ Dennoch muss man bei jedem Patienten versuchen, so gut als möglich die in Frage
 **Anmerkungen:** Abdomen weich, keine Druck- oder Loslassschmerzen
 
 (ckxxxx1c)=
-
 (m-am-abdominalerkrankungen)=
 
 ## ℞ Maßnahmen: Abdominalerkrankung

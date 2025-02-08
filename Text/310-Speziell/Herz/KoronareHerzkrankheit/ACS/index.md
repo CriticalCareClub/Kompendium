@@ -279,7 +279,6 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 [^ldh]: LDH: Laktatdehydrogenase
 
 (m-akutes-koronarsyndrom-beschwerdefrei)=
-
 (m-akutes-koronarsyndrom)=
 
 ## 🩹 Therapie

@@ -15,7 +15,6 @@ Eine {dfn}`Amputation` {index}` <! Amputation>` (*Lat.* *Amputatio* (*Amp.*)) be
 Amputationen erfolgen meist bei Motorradunfällen oder Schnittverletzungen (z. B. mit einer Kreissäge). Je glatter die Wundränder sind desto größer ist die Chance dass das Amputat wieder erfolgreich angenäht werden kann. Nach dem Amputat ist in jedem Fall zu suchen. Der Amputatstumpf wird steril mit einem Druckverband versorgt (kein Abbinden!). An große Blutungen und Schockgefahr denken!
 
 (tt14071c)=
-
 (m-amputat)=
 
 ### Maßnahmen Versorgung eines Amputats

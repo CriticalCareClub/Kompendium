@@ -1,7 +1,5 @@
 (absaugung-taetigkeit)=
-
 (absaugung)=
-
 (absauggeraete)=
 
 # Absaugung

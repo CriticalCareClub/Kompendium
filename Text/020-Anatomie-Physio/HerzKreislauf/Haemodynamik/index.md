@@ -1,9 +1,6 @@
 (blutkreislauf)=
-
 (vitalfunktion-kreislauf)=
-
 (kreislauf)=
-
 (haemodynamik)=
 
 # Kreislauf und Hämodynamik

@@ -170,7 +170,6 @@ Offene Fraktur des Mittelfingers
 ```
 
 (tt14200c)=
-
 (m-fraktur)=
 
 ### Maßnahmen: Fraktur

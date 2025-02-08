@@ -1,5 +1,4 @@
 (endotrachealeintubation)=
-
 (intubation)=
 
 # Konventionelle endotracheale Intubation (oral)

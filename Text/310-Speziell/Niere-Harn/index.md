@@ -65,7 +65,6 @@ Sie ist eine äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch,
 Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die Schamlippen ausstrahlen kann. Im Gegensatz zu anderen abdominellen Erkrankungen ist der Patient extrem unruhig und agitiert (*"Der Stein wandert, der Schmerz wandert, der Patient wandert"*). Oft läuft er gestikulierend und wehklagend durch die Gegend. Mitunter ist eine entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 (mn23xx0c)=
-
 (m-nierenkolik)=
 
 ### Maßnahmen: Nierenkolik
@@ -150,7 +149,6 @@ Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die sc
     Wirbelsäulenverletzungen
 
 (mr33xx1c)=
-
 (m-harnverhalten)=
 
 ### Maßnahmen: Akuter Harnverhalt
@@ -162,7 +160,6 @@ Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die sc
     Blasenpunktion (Spital)
 
 (niereninsuffizienz)=
-
 (cni-therapie-dialyse)=
 
 ## Niereninsuffizienz, Nierenversagen und Dialyse

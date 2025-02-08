@@ -6,7 +6,6 @@
 ```
 
 (lungenembolie)=
-
 (pulmonalembolie)=
 
 # Pulmonalembolie
@@ -195,7 +194,6 @@ Herkunft des Thrombus
 - Perfusionsszintigraphie
 
 (m-lungenembolie)=
-
 (m-pulmonalembolie)=
 
 ## Maßnahmen: Pulmonalembolie

@@ -150,7 +150,6 @@ Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 ```
 
 (pf22091c)=
-
 (m-wahnvorstellungen)=
 
 ##### Maßnahmen: Wahnvorstellungen
@@ -185,7 +184,6 @@ Unruhe und Aggressivität kann ein Anzeichen für viele Krankheitsbilder sein. D
 Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit diesen Patienten eingegangen werden.
 
 (pf92091c)=
-
 (m-aggressiver-patient)=
 
 #### Maßnahmen: Unruhiger oder aggressiver Patient
@@ -203,7 +201,6 @@ Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit die
   - Selbstschutz, Fluchtweg offen halten
 
 (suizidalitat)=
-
 (suizid1)=
 
 ### Suizidalität
@@ -285,7 +282,6 @@ Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion, z. B
 Die Symptome sind je nach Form, Fortschritt und Person vielfältig und unterschiedlich, und darüber hinaus auch sehr *wechselhaft* und von der Tagesverfassung abhängig. Klassisch ist eine *zeitliche oder örtliche Desorientiertheit*, *Gedächtnisschwäche* (insbesonders das Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch psychomotorische *Unruhe* und *Aggressivität*.
 
 (manie)=
-
 (depression)=
 
 ### Depression und Manie
@@ -330,7 +326,6 @@ Die Episoden können regelmäßig wiederkommen (rezidivierende depressive Störu
 - …
 
 (alkoholentzugsdelir)=
-
 (durchgangssyndrom)=
 
 #### Entzugsdelir und Durchgangssyndrom

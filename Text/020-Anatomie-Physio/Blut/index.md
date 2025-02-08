@@ -327,7 +327,6 @@ Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile, sodass
 Die Organisation von derartigen Produkten kann aufwendig und zeitkritisch sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im geringen Umfang vorrätig sind.
 
 (immunsystem)=
-
 (vitalfunktion-immunsystem)=
 
 ## Immunsystem

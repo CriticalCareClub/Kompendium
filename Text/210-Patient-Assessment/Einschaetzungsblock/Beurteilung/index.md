@@ -1,5 +1,4 @@
 (abcde-beurteilung)=
-
 (abcde)=
 
 # Beurteilung `=`
@@ -73,7 +72,6 @@ Während des weiteren Behandlungsverlaufs kann man auf weitere Befunde oder Fakt
 ```
 
 (patientenmanagementerstmassnahmen)=
-
 (patientenmanagementsofortmassnahmen)=
 
 ## Sofortmaßnahmen

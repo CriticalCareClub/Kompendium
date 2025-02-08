@@ -2,7 +2,6 @@
 ```
 
 (beatmungassistiert)=
-
 (beatmungkontrolliert)=
 
 # Beatmung
@@ -483,11 +482,8 @@ Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit z
 ```
 
 (peepventil)=
-
 (peepbasic)=
-
 (peep)=
-
 (peep-ventil)=
 
 ## Das PEEP-Ventil sorgt für einen positiven Druck am Ende der Ausatmung

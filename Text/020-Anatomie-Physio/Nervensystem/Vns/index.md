@@ -4,9 +4,7 @@
 ```
 
 (vegetatives-nervensystem)=
-
 (nervensystem-vegetatives)=
-
 (vegetativesnervensystem)=
 
 # Vegetatives Nervensystem (VNS)
@@ -64,7 +62,6 @@ Die {dfn}`Nervi splanchnici`
 sind die Nerven des vegetativen Nervensystems, welche die inneren Organe versorgen.
 
 (sympathikus)=
-
 (parasymapthikus)=
 
 ## Sympathikus und Parasympathikus sind Gegenspieler

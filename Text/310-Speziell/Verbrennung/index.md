@@ -247,7 +247,6 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
   - Ggfs. Schockbekämpfung
 
 (tt30002c)=
-
 (m-verbrennung-schwer)=
 
 ## Maßnahmen: Verbrennung, schwer
@@ -327,7 +326,6 @@ Das volle Ausmaß der Schädigung kann unmittelbar oder innerhalb von Stunden er
 Das volle Ausmaß wird oft erst nach Stunden erreicht!
 
 (tt49091c)=
-
 (m-inhalationstrauma)=
 
 ### Maßnahmen: Inhalationstrauma
@@ -373,7 +371,6 @@ Genau wie bei der Verbrennung kommt es zu einem Ausfall der Schutzfunktion der H
 Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. der Patient, dessen Kleidung und evtl. auch die Umgebung kontaminiert ist. Von diesem Stoff kann sowohl für den Patienten, als auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die *Dekontamination* muss großer Wert gelegt werden.
 
 (tt30041c)=
-
 (m-chemische-verletzungen)=
 
 ### Maßnahmen: Verletzungen mit chemischen Substanzen

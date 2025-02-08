@@ -28,7 +28,6 @@ Da Gelenke durch Bänder vor unnatürlichen bzw. übermäßigen Bewegungen gesch
 Bei einer Distorsion klagt der Patient über *Schmerzen* im Gelenksbereich. Je nach Unfallschwere kann der Patient das entsprechende Gelenk evtl. *eingeschränkt bewegen*. Durch die Weichteilverletzung kommt es zu einem *Anschwellen* des umliegenden Gewebes und zu einem *Bluterguss* (Hämatom). Falls es zu einem Bänderriss gekommen ist, berichten der Patient oder die Unfallzeugen meist über ein hörbares *Schnalzen*.
 
 (tt14031c)=
-
 (m-verstauchung)=
 
 
@@ -69,7 +68,6 @@ Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im Sch
 Der Patient klagt über Schmerzen im Bereich des Gelenks, durch die Weichteilverletzung kommt es zu einer Schwellung der umliegenden Gewebe und zu einem Hämatom. Klinisch kann man eine abnorme Gelenksstellung, welche einen federnd fixierten Charakter hat, feststellen. Der Patient kann das entsprechende Gelenk nicht bewegen.
 
 (tt14032c)=
-
 (m-verrenkung)=
 
 ### Maßnahmen Verrenkung

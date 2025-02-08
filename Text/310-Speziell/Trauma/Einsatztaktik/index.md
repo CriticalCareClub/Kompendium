@@ -306,7 +306,6 @@ Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …
 Aus allen einsatztaktischen Überlegungen ergibt sich ein Bündel an Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
 (ty14101c)=
-
 (m-am-unfaelle)=
 
 

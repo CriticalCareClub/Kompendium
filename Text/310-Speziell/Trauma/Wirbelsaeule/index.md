@@ -91,7 +91,6 @@ Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im Rückenmark
 Aufgrund des Unfalls kommt es zu einer plötzlichen Durchtrennung des Rückenmarks, wodurch die Steuerung der Gefäßregulation (und somit der Gefäßtonus) versagt. Somit sinkt der Blutdruck rasch ab, es kommt zu einer lebensbedrohlichen Kreislaufstörung. Bei einem hohen Querschnitt kann auch nervöse die Atemmuskulatur betroffen sein und es zur Atemlähmung kommen.
 
 (tt09031c)=
-
 (m-ws-trauma-verdacht)=
 
 ### Maßnahmen: Rückenmarksverletzung, Verdacht
@@ -120,7 +119,6 @@ Taktik
     lokalen Gegebenheiten
 
 (tt09032c)=
-
 (m-ws-trauma)=
 
 ### Maßnahmen: Rückenmarksverletzung mit Symptomen

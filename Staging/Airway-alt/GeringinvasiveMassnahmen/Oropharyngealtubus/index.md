@@ -2,7 +2,6 @@
 ```
 
 (guedeltubus)=
-
 (guedel-tubus)=
 
 # Oropharyngealtubus (Guedel-Tubus)

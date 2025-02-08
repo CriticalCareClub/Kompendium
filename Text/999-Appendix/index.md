@@ -1,11 +1,7 @@
 (gefahrenzonen)=
-
 (gefahrenbereich-strom)=
-
 (gefahrengutunfall)=
-
 (triage)=
-
 (adr)=
 
 # Appendix

@@ -2,7 +2,6 @@
 ```
 
 (wunde)=
-
 (wunden)=
 
 # Wunden
@@ -343,7 +342,6 @@ Verbrennungen) einschätzen, die Infektionsgefahren so gut wie möglich
 abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
 (ty61000c)=
-
 (m-wundversorgung)=
 
 ### Maßnahmen: Basis-Wundversorgung
@@ -412,7 +410,6 @@ Desinfektion einer frischen Wunde
 :::
 
 (dekubitusprophylaxe)=
-
 (dekubitus)=
 
 ## Dekubitus und Dekubitusprophylaxe

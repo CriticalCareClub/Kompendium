@@ -44,7 +44,6 @@
 ```
 
 (duodenum)=
-
 (mesenterium)=
 
 # Dünndarm (Intestinum tenue): Duodenum, Jejunum, Ileum

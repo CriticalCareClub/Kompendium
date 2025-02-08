@@ -39,7 +39,6 @@ Klassische Zeichen einer Magen-Darm-Grippe sind Erbrechen (*Emesis*) und Durchfa
 Besonders betroffen davon sind Kleinkinder, da sie normalerweise einen höheren Wasseranteil am Körpergewicht haben. Die Symptome sind klassisch: Oberbauchkrämpfe, die ziemlich heftig sein können, Übelkeit, Erbrechen, Durchfälle. Exsikkose-Gefahr!
 
 (ca09091c)=
-
 (m-gastroenteritis)=
 
 ## ⛑ Basismaßnahmen

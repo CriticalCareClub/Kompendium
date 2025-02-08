@@ -182,7 +182,6 @@ Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von Thun {term}`ğ
 :::
 
 (kommunikationsregeln)=
-
 (einer-redet)=
 
 ### Allgemeine Grundregeln und RatschlÃ¤ge

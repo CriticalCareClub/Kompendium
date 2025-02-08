@@ -49,7 +49,6 @@ Offenes Bauchtrauma mit Austritt von Darmschlingen
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die Größe der Eintrittswunde sagt nichts über den Schweregrad der Verletzung aus, da unter der Eintrittswunde unterschiedlich schwere Organschäden mit inneren Blutungen versteckt sein können. In 25% der Fälle treten Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).
 
 (ts31011c)=
-
 (m-bauchtraume-offen)=
 
 
@@ -123,7 +122,6 @@ Geschlossene Bauchtraumata sind aufgrund der inneren Blutungen besonders gefähr
 ```
 
 (milzruptur)=
-
 (milzruptur-zweizeitig)=
 
 ## Milzruptur
@@ -182,9 +180,7 @@ Die Milz ist ein sehr gut durchblutetes Organ, daher ist bei einer Verletzung di
     Milzblutung nachgewiesen werden.
 
 (leberruptur)=
-
 (aortenruptur)=
-
 (nierenruptur)=
 
 ## Weitere innere Verletzungen

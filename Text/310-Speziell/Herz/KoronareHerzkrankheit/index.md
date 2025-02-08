@@ -217,11 +217,8 @@ dem der gleiche Mechanismus wie der Angina pectoris zu Grunde liegt,
 wobei es beim Infarkt im *Gegensatz* zur Angina pectoris zu einem *totalen* Herzkranzgefäß*verschluss* mit Absterben von Herzmuskelgewebe kommt.
 
 (herzinfarkt)=
-
 (myocardinfarkt)=
-
 (mci)=
-
 (myokardinfarkt)=
 
 ## Herzinfarkt (Myokardinfarkt, MCI)

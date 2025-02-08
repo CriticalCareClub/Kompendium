@@ -227,9 +227,7 @@ erfüllt werden. Gleichzeitig treffen auch die Organisation und das
 Personal Rechte und Pflicht im Umgang miteinander.
 
 (haftbarkeitspruefung)=
-
 (strafbarkeitsvoraussetzung)=
-
 (haftbarkeitsvoraussetzung)=
 
 ### Straf- und Haftbarkeitsvoraussetzungen
@@ -425,11 +423,8 @@ Einsatzpersonals) mittels Unterschrift zu bestätigen.
 ```
 
 (selbsthilferechte)=
-
 (notstand)=
-
 (notwehr)=
-
 (anhalterecht-privater)=
 
 #### Selbsthilferecht
@@ -561,7 +556,6 @@ aufgelistet und gegenübergestellt.
 - {ref}`jus-langer-dienst-fall-2`
 
 (unterbringung)=
-
 (unterbringung-jus)=
 
 #### Unterbringungsrecht
@@ -979,7 +973,6 @@ zumutbar, wenn man …
 ```
 
 (dokumentationspflicht)=
-
 (dokumentation-rechtlich)=
 
 #### Dokumentationspflicht
@@ -1053,7 +1046,6 @@ der Patient das Fachpersonal von der *Schweigepflicht entbunden* hat.
 ```
 
 (auskunftspflicht)=
-
 (anzeigepflicht)=
 
 #### Informationspflichten
@@ -1346,7 +1338,6 @@ Intubation prüfen lassen.
 ### Im Straßenverkehr
 
 (einsatzfahrt)=
-
 (einsatzfahrtt-missbrauch)=
 
 #### Allgemein

@@ -114,7 +114,6 @@ Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser 
 ```
 
 (tj93090c)=
-
 (m-pneumothorax)=
 
 ### Maßnahmen: Pneumothorax

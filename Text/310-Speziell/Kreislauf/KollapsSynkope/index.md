@@ -39,7 +39,6 @@ So
 Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und weiß nicht, was geschehen ist. Er erzählt, es wäre ihm schwarz vor den Augen geworden. Der Blutdruck ist meist niedrig, der Patient ist eventuell bradykard oder tachykard.
 
 (proc-mr55xx0c)=
-
 (m-kollaps)=
 
 ## Maßnahmen: Kollaps

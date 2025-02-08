@@ -12,7 +12,6 @@ Vgl. {ref}`schwangerschaft`
 ```
 
 (fehlgeburt)=
-
 (abort)=
 
 #### Fehlgeburt
@@ -59,7 +58,6 @@ Sollten Zweifel hinsichtlich der Lebensfähigkeit des Kindes bestehen, muss mit 
 :::
 
 (go06xx1c)=
-
 (m-abort)=
 
 ##### Maßnahmen: Abort
@@ -113,7 +111,6 @@ Mit zunehmender Größe der Frucht wird der Eileiter gedehnt, dabei kommt es zu 
 :::
 
 (go00091c)=
-
 (m-eileiterschwangerschaft-verdacht)=
 
 ##### Maßnahmen: Eileiterschwangerschaft, Verdacht
@@ -122,7 +119,6 @@ Mit zunehmender Größe der Frucht wird der Eileiter gedehnt, dabei kommt es zu 
 : - Symptomatische Erstversorgung
 
 (go00092c)=
-
 (m-eileiterschwangerschaft-rupturiert)=
 
 ##### Maßnahmen: Eileiterschwangerschaft, rupturiert
@@ -151,7 +147,6 @@ Aufgrund einer Einblutung zwischen Plazenta und Gebärmutter kann es zu einer vo
 Die Symptome sind unspezifisch: Im Vordergrund steht der *Schock* infolge der Blutung. Zusätzlich zu den Schocksymptomen kann die Frau Symptome eines *akuten Abdomens* zeigen.
 
 (go45090c)=
-
 (m-plazentaloesung)=
 
 ##### Maßnahmen: Vorzeitige Plazentalösung
@@ -181,7 +176,6 @@ Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere Hohlvene
 :::
 
 (go26051c)=
-
 (m-vena-cava-syndrom)=
 
 ##### Maßnahmen: Vena-cava-Syndrom
@@ -191,11 +185,8 @@ Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere Hohlvene
     hochschwangeren Patientinnen.
 
 (praeeklampsie)=
-
 (eklampsie)=
-
 (hellp-syndrom)=
-
 (eph-gestose)=
 
 #### Präeklampsie, EPH-Gestose, HELLP-Syndrom, Eklampsie
@@ -249,7 +240,6 @@ Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*
 (Leberdehnungsschmerz). Bei einer drohenden Eklampsie klagt die Patientin über *Kopfschmerzen*, Sehstörungen sowie Übelkeit und Erbrechen.
 
 (go14090c)=
-
 (m-praeeklampsie-verdacht)=
 
 ##### Maßnahmen: Präeklampsie
@@ -264,7 +254,6 @@ Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*
 % -   (im Vollbild: vorzeitige Beendigung der  Schwangerschaft)
 
 (go15091c)=
-
 (m-eklampsie)=
 
 ##### Maßnahmen: Eklampsie, eklamptischer Krampfanfall
@@ -280,7 +269,6 @@ Der Fötus schwimmt während Schwangerschaft in steriler Flüssigkeit
 (Keimbesiedlung der Fruchthöhle). Die Patientin ist an einer geburtshilflichen Abteilung vorzustellen.
 
 (go42090c)=
-
 (m-fruchtwasserabgang)=
 
 ##### ⛑ Basismaßnahmen: Vorzeitiger Blasensprung
@@ -467,7 +455,6 @@ Ab Beginn der Presswehen bzw. wenn der Kindskopf oder -teile
 (Nabelschnur, Hand, …) zwischen den Schamlippen sichtbar sind, ist der weitere Transport zu unterlassen und das Fachpersonal muss bei der Geburt Hilfestellung leisten.
 
 (go80xx1c)=
-
 (m-geburt)=
 
 #### Maßnahmen: Spontangeburt
@@ -489,7 +476,6 @@ Geburt
   - Dokumentation von Geburtszeit und Geburtsort
 
 (gy51310c)=
-
 (m-neugeborenes)=
 
 #### Maßnahmen: Versorgung des Neugeborenen
@@ -671,7 +657,6 @@ Es soll nicht auf die Nachgeburt gewartet werden. Sollte die Plazenta vor Eintre
 #### Basisreanimation des Neugeborenen
 
 (gy51140c)=
-
 (m-neugeborenes-basisreanimation)=
 
 ##### Maßnahmen: Basisreanimation des Neugeborenen
@@ -705,7 +690,6 @@ Das Leitsymptom einer Asphyxie ist eine *Herzfrequenz \< 100 / min*, eine 
 Weitere Hinweise auf eine Asphyxie sind eine grünlich-trübe Verfärbung des Fruchtwassers sowie eine *fortbestehende Zyanose* (eine Zyanose unmittelbar nach der Geburt ist normal).
 
 (gp21090c)=
-
 (m-asphyxie)=
 
 ##### Maßnahmen: Asphyxie des Neugeborenen
@@ -718,7 +702,6 @@ Bei einem Nabelschnurvorfall in den Geburtskanal bestehen zwei Gefahren:
 Einerseits wird während des Geburtsvorganges die Nabelschnur durch den Kindskopf abgeklemmt, und somit ist die Sauerstoffversorgung des Kindes nicht mehr gewährleistet. Andererseits kann sich die Nabelschnur um den Hals des Kindes wickeln und es kommt während der Geburt zur Strangulation des Kindes.
 
 (go69000c)=
-
 (m-nabelschnurvorfall)=
 
 ##### Maßnahmen: Nabelschnurvorfall
@@ -753,7 +736,6 @@ ist eine vaginale Geburt unmöglich. Außerdem kann es durch vorzeitiges Lösen 
 Unter Wehentätigkeit kommt es zu starken Blutungen aus der Scheide.
 
 (go69041c)=
-
 (m-placenta-praevia)=
 
 ##### Maßnahmen: Placenta praevia bei bevorstehender Geburt
@@ -778,7 +760,6 @@ Alle Lagen des Kindes, bei denen nicht zuerst der Kopf im Geburtskanal erscheint
 Die größte Gefahr bei allen Lageanomalien ist, dass die Nabelschnur abgedrückt wird. Daher sollte unter allen Umständen die Geburt im KH, mittels Kaiserschnitt, durchgeführt werden. Die Geburt in jedem Fall verhindern bzw. verzögern. Ein Armvorfall ist eine geburtsunmögliche Lageanomalie.
 
 (go64090c)=
-
 (m-pathologische-geburtslagen)=
 
 ##### Maßnahmen: Pathologische Geburtslagen
@@ -802,7 +783,6 @@ Die größte Gefahr bei allen Lageanomalien ist, dass die Nabelschnur abgedrück
 Die Uterusruptur kommt meistens nur nach vorangegangenem Kaiserschnitt vor. Es treten während der Wehen plötzlich Schmerzen auf, welche anders als Wehenschmerzen empfunden werden. Die Wehen nehmen dann ab oder hören plötzlich auf. Damit wird der Geburtsvorgang gestoppt und es herrscht Lebensgefahr für die Mutter aufgrund starker Blutungen und für das Kind wegen des O₂-Mangels.
 
 (go71010c)=
-
 (m-uterusruptur)=
 
 ##### Maßnahmen: Uterusruptur
@@ -829,9 +809,7 @@ Blutungen in der Nachgeburtsperiode können sehr schwerwiegend sein und können 
 Normalerweise zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen und komprimiert somit die Blutgefäße. Bei der Uterusatonie kommt es jedoch zur Erschlaffung (Atonie) der Gebärmutter, die Folge sind lebensbedrohliche Blutungen durch das Fehlen der Kontraktion des Uterus nach der Plazentalösung.
 
 (go72000c)=
-
 (proc-go72000c)=
-
 (m-blutung-nachgeburtsperiode)=
 
 ##### Maßnahmen: Blutung in der Nachgeburtsperiode
@@ -866,7 +844,6 @@ Die vaginale Blutung ist präklinisch schwer abzuklären und kann viele Ursachen
 [^footnote-2]: Entjungferung
 
 (gn93091c)=
-
 (m-vaginale-blutung)=
 
 

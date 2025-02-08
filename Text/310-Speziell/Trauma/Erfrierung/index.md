@@ -21,7 +21,6 @@ Deshalb ist es wichtig, die Warnsymptome ernst zu nehmen!
 ```
 
 (tt35071c)=
-
 (m-erfrierung)=
 
 ## Maßnahmen: Erfrierungen

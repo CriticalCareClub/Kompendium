@@ -266,7 +266,6 @@ Beim Schock können einzelne oder mehrere Teile des Kreislaufsystems (Blut, Gef�
 :::
 
 (schockhypovolaemischer)=
-
 (schock-hypovolaemischer)=
 
 ## Hypovolämischer Schock
@@ -306,7 +305,6 @@ Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem bei Lin
 Häufig klagen die Patienten über *Atemnot*.
 
 (schockanaphylaktischer)=
-
 (schock-anaphylaktischer)=
 
 ## Anaphylaktischer Schock
@@ -356,9 +354,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 :::
 
 (schockseptischer)=
-
 (schocktoxischer)=
-
 (schock-septischer)=
 
 ## Septischer Schock und Toxischer Schock
@@ -389,9 +385,7 @@ Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor, bei der
 :::
 
 (mr57xx0b)=
-
 (am-schock)=
-
 (m-am-schock)=
 
 ## Maßnahmen: Schock

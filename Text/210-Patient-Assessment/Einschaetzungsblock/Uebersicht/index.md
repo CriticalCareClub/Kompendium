@@ -37,7 +37,6 @@
 ```
 
 (table-checkliste-patientenmanagement)=
-
 (table-pam-weiterfuehrende)=
 
 :::{list-table} 1--E Kurzübersicht

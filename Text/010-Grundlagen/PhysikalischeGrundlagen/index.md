@@ -325,7 +325,6 @@ Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt 
 ```
 
 (henrygesetz)=
-
 (henrykonstante)=
 
 #### Henry-Gesetz

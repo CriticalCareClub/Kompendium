@@ -6,11 +6,8 @@
 ```
 
 (membrumsuperius)=
-
 (obereextremitaet)=
-
 (obere-extremitaet)=
-
 (schulterguertel)=
 
 # Obere Extremität (Membrum superius)
@@ -319,7 +316,6 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 ```
 
 (articulatioglenohumeralis)=
-
 (schultergelenk)=
 
 ### Articulatio glenohumeralis (Schultergelenk)
@@ -360,7 +356,6 @@ supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das Schulter
 ```
 
 (articulatio-cubiti)=
-
 (ellenbogengelenk)=
 
 ### Articulatio cubiti (Ellenbogengelenk)

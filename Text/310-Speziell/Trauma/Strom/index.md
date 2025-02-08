@@ -132,7 +132,6 @@ Bei Gewitterblitzen treten Spannungen von Millionen von Volt und Stromstärken v
 - Herzrhythmusstörungen
 
 (tt75040c)=
-
 (m-stromunfall)=
 
 ## Maßnahmen: Stromunfälle

@@ -407,7 +407,6 @@ Eine Amputation des Unterschenkels.
 ```
 
 (m-mrsa-transport)=
-
 (proc-iu-81001c)=
 
 #### Maßnahmen
@@ -806,7 +805,6 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
 ```
 
 (schutzkleidung-hygiene)=
-
 (atemmasken)=
 
 #### Schutzkleidung
@@ -938,7 +936,6 @@ Spitze Gegenstände
 Die Maßnahmen beim Transport von Patienten mit resistenten Keimen werden unter {ref}`m-mrsa-transport`: besprochen.
 
 (nadelstichverletzung)=
-
 (m-nadelstichverletzung)=
 
 ### Nadelstichverletzungen
@@ -984,7 +981,6 @@ Basierend auf {term}`🗎 OeAG 2007`
 :::
 
 (entsorgung-infektioeser-abfall)=
-
 (abfall-infektioeser-entsorgung)=
 
 ### Entsorgung von Abfall

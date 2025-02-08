@@ -49,7 +49,6 @@ Bei einer Ateminsuffizienz sinkt der *O₂-Gehalt* im Blut. Es kommt zu einer *H
 In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung* ({ref}`respiratorische Azidose <azidose-respiratorische>`) kommen.
 
 (table-atemstoerungen-ursachen)=
-
 (tab-atemstoerungen-ursachen)=
 
 :::{list-table} Ursachen von Atemstörungen
@@ -171,7 +170,6 @@ Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid, Hyperv
 ## Maßnahmen
 
 (m-atmung-insuffizient)=
-
 (proc-mj96091c)=
 
 ### Insuffiziente Atmung
@@ -185,7 +183,6 @@ Anm.: AF \< 8 oder > 30 / min, bzw. AZV zu niedrig
 - Ursachenforschung
 
 (m-atemstillstand)=
-
 (proc-mr09020b)=
 
 ### Atemstillstand

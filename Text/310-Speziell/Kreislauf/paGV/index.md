@@ -136,7 +136,6 @@ Die Symptome ergeben sich aus der Unterversorgung der Extremität mit sauerstoff
   gerinnungshemmender Therapie.
 
 (m-arterieller-gefaessverschluss)=
-
 (proc-mi74041c)=
 
 ## Maßnahmen: Peripherer arterieller Gefäßverschluss

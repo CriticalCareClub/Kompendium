@@ -1,5 +1,4 @@
 (wasser-elektrolythaushalt)=
-
 (vitalfunktion-wasserhaushalt)=
 
 # Wasser- und Elektrolythaushalt
@@ -37,9 +36,7 @@ Das Körperwasser macht ca. 60% des Körpergewichtes aus und teilt sich auf:
 Der Intrazellularraum (IZR) wird vom Extrazellularraum (EZR) durch die Zellmembran getrennt, der Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 
 (atome)=
-
 (ionen)=
-
 (elektrolyte)=
 
 ## Atome, Ionen und Elektrolyte
@@ -104,13 +101,9 @@ Dies ist besonders für die Erregungsleitung im Herzen, für die Nerven und den 
     wäre innen der Minuspol und außen der Pluspol.
 
 (osmose)=
-
 (diffusion)=
-
 (osmolaritaet)=
-
 (osmolalitaet)=
-
 (kolloidosmotischerdruck)=
 
 ## Osmose und Diffusion
@@ -188,7 +181,6 @@ Zu solchen Verteilungsstörungen kann es z. B. nach einer Blutwäsche
     die die Ionen zwischen den intra- und extrazelluärraum befördern.
 
 (elektrolytstoerungen)=
-
 (dialyse-elektrolyte)=
 
 ## Häufige Ursachen von Elektrolytstörungen

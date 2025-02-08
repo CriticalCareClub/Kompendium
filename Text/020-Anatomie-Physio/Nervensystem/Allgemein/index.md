@@ -61,7 +61,6 @@ Beim restlichen *Neuralrohr* lassen sich drei Zonen unterteilen:
 - Flügelplatte: Ursprungsgebiet sensibler Nerven
 
 (vitalfunktion-bewusstsein)=
-
 (bewusstsein)=
 
 ### Exkurs: Bewusstsein

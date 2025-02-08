@@ -4,7 +4,6 @@
 ```
 
 (gastrointestinale-blutung)=
-
 (oesophagusvarizenblutung)=
 
 # Gastrointestinale Blutungen und Ösophagusvarizenblutung
@@ -66,7 +65,6 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 ::::
 
 (ck92020c)=
-
 (m-blutung-verdauungstrakt)=
 
 ## ⛑ Basismaßnahmen

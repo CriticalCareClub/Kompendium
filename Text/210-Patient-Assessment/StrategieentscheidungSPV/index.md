@@ -1,5 +1,4 @@
 (pamstrategie)=
-
 (strategieentscheidung)=
 
 # Strategieentscheidung

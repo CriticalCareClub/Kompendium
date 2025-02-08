@@ -6,7 +6,6 @@
 ```
 
 (konisation-mit-curettage)=
-
 (hysteroskopie-und-curettage)=
 
 # 8.5.2 Hysteroskopie, Curettage, Konisation

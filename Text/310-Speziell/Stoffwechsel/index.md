@@ -204,7 +204,6 @@ Eine Hypoglykämie kann *fast alle neurologischen Störungen vortäuschen*!
 Häufig sind Kopfschmerzen und Bewusstseinsstörungen, evtl. auch Krampfanfälle. Bei jeder neurologischen Symptomatik muss man daher an eine Hypoglykämie denken!
 
 (me16020c)=
-
 (m-hypoglykaemie)=
 
 #### Maßnahmen: Hypoglykämie
@@ -278,7 +277,6 @@ Die Hyperglykämie betrifft praktisch nur Diabetes mellitus-Patienten.
 Bei Patienten, die einen noch unerkannten DM Typ I haben, ist ein hyperglykämischer Notfall oft die Erstmanifestation (die Diagnose Diabetes ist noch nicht bekannt!). Sonst sind Diätfehler oder eine mangelnde Insulinzufuhr häufige Ursachen. Auch Stress und Begleiterkrankungen wie z. B. akute Infektionen kommen in Betracht, da hier der Insulinbedarf steigt.
 
 (diabetisches-koma)=
-
 (koma-diabetisches)=
 
 #### Symptome
@@ -320,7 +318,6 @@ Mitunter kann auch ein blumig/fruchtiger oder Azeton-artiger Atemgeruch wahrgeno
 verwechselt werden!
 
 (me14012c)=
-
 (m-hyperglykaemisches-koma)=
 
 #### Maßnahmen: Hyperglykämisches Koma

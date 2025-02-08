@@ -2,7 +2,6 @@
 ```
 
 (vakuummatratze-beschreibung)=
-
 (vakuummatratze-anwendung)=
 
 # Vakuummatratze

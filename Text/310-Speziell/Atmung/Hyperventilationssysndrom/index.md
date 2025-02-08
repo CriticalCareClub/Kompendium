@@ -4,7 +4,6 @@
 ```
 
 (hyperventilationssyndrom)=
-
 (hyperventilationstetanie)=
 
 # Hyperventilationssyndrom und -tetanie
@@ -159,7 +158,6 @@ Auch im Rahmen von (Pop-)Konzerten und ähnlichen Veranstaltungen sind oft Patie
   Verlust des Arbeitsplatzes, …).
 
 (proc-mf45331c)=
-
 (m-hyperventilationssysndrom)=
 
 ## Maßnahmen: Hyperventilationssyndrom

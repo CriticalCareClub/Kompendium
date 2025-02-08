@@ -155,7 +155,6 @@ Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig unterneh
 Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptomatischer Therapie.
 
 (mt65091c)=
-
 (m-am-vergiftung)=
 
 ## Maßnahmen: Vergiftungen, allgemein
@@ -397,7 +396,6 @@ Psychisch kommt es dosisabhängig zu Halluzinationen und Panik-Attacken.
 Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Krampfanfälle*, *hypertensive Krisen*, massiver *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei durch Schwitzen viel Flüssigkeit verliert.
 
 (mt43091c)=
-
 (m-intoxikation-uppers)=
 
 #### Maßnahmen: Vergiftung mit Uppers
@@ -416,7 +414,6 @@ Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Kramp
 ### Vergiftungen mit Stickgasen
 
 (mt59xx1c)=
-
 (m-am-stickgase)=
 
 #### Maßnahmen: Vergiftung mit Stickgasen
@@ -500,7 +497,6 @@ Es stehen die Symptome des *Sauerstoffmangels* im Vordergrund (Hypoxie):
 Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemeinsymptomen wie Schwindel, Kopfschmerz, Übelkeit und Erbrechen, evtl. besteht auch eine Tachykardie. Es können sich rasch Bewusstseinsstörungen bis hin zur Bewusstlosigkeit entwickeln, auch Krämpfe sind gut möglich.
 
 (mt58001c)=
-
 (m-intoxikation-kohlenmonoxid)=
 
 ##### Maßnahmen: Vergiftung mit Kohlenmonoxid
@@ -709,7 +705,6 @@ Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es zur Bildung 
 - Übelkeit, Erbrechen
 
 (mt17023c)=
-
 (m-schaumbildner)=
 
 #### Maßnahmen: Einnahme von schaumbildenden Substanzen

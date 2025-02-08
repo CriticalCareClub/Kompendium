@@ -293,7 +293,6 @@ Wichtigste Herzvenen:
 ```
 
 (mechanische-herzfunktion)=
-
 (herzfunktion)=
 
 ## Mechanische Pumpfunktion: Herzaktion

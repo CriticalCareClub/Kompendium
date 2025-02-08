@@ -198,9 +198,7 @@ Grundsätzlich ist beim Schädel-Hirn-Trauma die übliche Trauma-Diagnostik durc
 :::
 
 (ts06xx0c)=
-
 (m-am-sht)=
-
 (m-sht)=
 
 ## Maßnahmen SHT

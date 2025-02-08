@@ -146,7 +146,6 @@ Diese Infektion wird durch Viren verursacht.
 Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer Stridor)* wahrnehmbar, und es besteht Heiserkeit und Dyspnoe. Fieber ist eher diskret und steht nicht im Vordergrund. Die Laryngitis tritt vor allem im Alter zwischen 3 Monaten und 6 Jahren auf, gut geheizte und trockene Räume fördern das Auftreten.
 
 (kj05000c)=
-
 (m-laryngitis)=
 
 #### Akute obstruktive Laryngitis
@@ -188,7 +187,6 @@ Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung* und darau
 Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient hält den Mund offen und es ist ein Speichelfluss bemerkbar. Der Patient ist eher ruhig und spricht kaum, er hat Angst.
 
 (kj05010c)=
-
 (m-epiglottitis)=
 
 #### Akute Epiglottitis
@@ -257,7 +255,6 @@ Letzten Endes ist die genaue *Ursache unbekannt*, eine verlässliche Vorhersage,
 Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich ist und *die Eltern keine Schuld trifft*!
 
 (kr95090c)=
-
 (m-sids)=
 
 #### Maßanhamen: SIDS
@@ -307,7 +304,6 @@ Nobody is dead until warm and dead!
 :::
 
 (mt75010c)=
-
 (m-ertrinkungsunfall)=
 
 #### Maßnahmen: Ertrinkungsunfall
@@ -345,7 +341,6 @@ Eine Besonderheit stellt jedoch der
 Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe entwickeln. Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu behandeln. Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
 (kr56001c)=
-
 (m-fieberkrampf-kindesalter)=
 
 ##### Maßnahmen: Fieberkrampf im Kindesalter

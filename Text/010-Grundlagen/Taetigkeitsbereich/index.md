@@ -239,7 +239,6 @@ ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 äußerst zurückhaltend {term}`🗎 Enne 2012`.
 
 (belastung)=
-
 (anforderung)=
 
 #### Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?

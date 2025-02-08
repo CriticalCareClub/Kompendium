@@ -1,4 +1,6 @@
-```{index} pair: OP; Hüft-TEP pair: Hüft-TEP; Tranexamsäure
+```{index} pair: OP; Hüft-TEP 
+```
+```{index} pair: Hüft-TEP; Tranexamsäure
 ```
 
 (thema-op-tephuefte)=

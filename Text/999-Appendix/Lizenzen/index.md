@@ -7,8 +7,7 @@
 
 ## Lizenz des Werkes
 
-Das vorliegende Werk ist im Entwicklungsstadium und nicht
-veröffentlicht. Alle Rechte vorbehalten.
+Das vorliegende Werk ist im Entwicklungsstadium und nicht veröffentlicht. Alle Rechte vorbehalten.
 
 Eine Verbreitung ist nicht gestattet.
 
@@ -30,8 +29,7 @@ Eine Verbreitung ist nicht gestattet.
 
 ### Kurzfassung der Nutzungsbestimmungen (unverbindlich)
 
-Das vorliegende Werk ist im Entwicklungsstadium und nicht
-veröffentlicht. Alle Rechte vorbehalten.
+Das vorliegende Werk ist im Entwicklungsstadium und nicht veröffentlicht. Alle Rechte vorbehalten.
 
 **Eine Verbreitung ist nicht gestattet.**
 
@@ -48,30 +46,21 @@ Zu den folgenden Bedingungen:
 - *Keine Bearbeitung* – Dieses Werk bzw. dieser Inhalt darf nicht
   bearbeitet, abgewandelt oder in anderer Weise verändert werden.
 
-*Hinweis* – Im Falle einer Verbreitung müssen Sie anderen alle
-Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten
-ist es, an entsprechender Stelle einen Link auf
+*Hinweis* – Im Falle einer Verbreitung müssen Sie anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, an entsprechender Stelle einen Link auf
 <http://creativecommons.org/licenses/by-nd/3.0/at/> einzubinden.
 
-```{index} single: Lizenz pair: Lizenzen; Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
+```{index} single: Lizenz 
+```
+```{index} pair: Lizenzen; Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
 ```
 
 (topic-lizenz)=
 
 ### Creative Commons Namensnennung – Keine Bearbeitungen 3.0 Österreich
 
-*Der Gegenstand dieser Lizenz (wie unter "Schutzgegenstand" definiert)
-wird unter den Bedingungen dieser \*Creative Commons Public License*
-(*CCPL*, *Lizenz* oder *Lizenzvertrag*) zur Verfügung gestellt. Der
-Schutzgegenstand ist durch das Urheberrecht und / oder andere Gesetze
-geschützt. Jede Form der Nutzung des Schutzgegenstandes, die nicht
-aufgrund dieser Lizenz oder durch Gesetze gestattet ist, ist unzulässig.
-Durch die Ausübung eines durch diese Lizenz gewährten Rechts an dem
-Schutzgegenstand erklären sie sich mit den Lizenzbedingungen
-rechtsverbindlich einverstanden. Soweit diese Lizenz als Lizenzvertrag
-anzusehen ist, gewährt ihnen der Lizenzgeber die in der Lizenz genannten
-Rechte unentgeltlich und im Austausch dafür, dass Sie das Gebundensein
-an die Lizenzbedingungen akzeptieren.\*
+*Der Gegenstand dieser Lizenz (wie unter "Schutzgegenstand" definiert) wird unter den Bedingungen dieser \*Creative Commons Public License*
+(*CCPL*, *Lizenz* oder *Lizenzvertrag*) zur Verfügung gestellt. Der Schutzgegenstand ist durch das Urheberrecht und / oder andere Gesetze geschützt. Jede Form der Nutzung des Schutzgegenstandes, die nicht aufgrund dieser Lizenz oder durch Gesetze gestattet ist, ist unzulässig.
+Durch die Ausübung eines durch diese Lizenz gewährten Rechts an dem Schutzgegenstand erklären sie sich mit den Lizenzbedingungen rechtsverbindlich einverstanden. Soweit diese Lizenz als Lizenzvertrag anzusehen ist, gewährt ihnen der Lizenzgeber die in der Lizenz genannten Rechte unentgeltlich und im Austausch dafür, dass Sie das Gebundensein an die Lizenzbedingungen akzeptieren.\*
 
 ```{raw} latex
 \scriptsize
@@ -366,15 +355,16 @@ an die Lizenzbedingungen akzeptieren.\*
 \normalsize
 ```
 
-```{index} single: Lizenz-Addendum pair: Lizenzen; Lizenz-Addendum
+```{index} single: Lizenz-Addendum 
+```
+```{index} pair: Lizenzen; Lizenz-Addendum
 ```
 
 (topic-lizenzaddendum)=
 
 ### Erweiterung der Nutzungsrechte (Lizenz-Addendum)
 
-Zusätzlich zu den unter {ref}`Lizenz` angeführten Bedingungen sind
-folgende Nutzungen gestattet:
+Zusätzlich zu den unter {ref}`Lizenz` angeführten Bedingungen sind folgende Nutzungen gestattet:
 
 1. Sie dürfen ein einzelnes vollständiges und unverändertes Kapitel
    gemäß den Bedingungen von {ref}`Lizenz` nutzen.
@@ -400,8 +390,7 @@ folgende Nutzungen gestattet:
 ## Andere verwendete ℓ — Lizenzen
 
 :::{important}
-Die Auflistung dieser Lizenzen bedeutet nicht, dass das Werk als
-Ganzes unter diesen Lizenzen lizensiert sind!
+Die Auflistung dieser Lizenzen bedeutet nicht, dass das Werk als Ganzes unter diesen Lizenzen lizensiert sind!
 :::
 
 ```{raw} latex

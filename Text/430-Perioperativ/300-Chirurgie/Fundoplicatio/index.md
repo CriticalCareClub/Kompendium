@@ -2,7 +2,6 @@
 ```
 
 (magen-osophagus)=
-
 (fundoplikatio)=
 
 # 8.2.2 Fundoplicatio

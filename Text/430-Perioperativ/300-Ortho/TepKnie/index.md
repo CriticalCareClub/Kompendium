@@ -1,4 +1,6 @@
-```{index} pair: OP; Knie-TEP pair: Knei-TEP; Tranexamsäure
+```{index} pair: OP; Knie-TEP 
+```
+```{index} pair: Knei-TEP; Tranexamsäure
 ```
 
 (thema-op-tepknie)=

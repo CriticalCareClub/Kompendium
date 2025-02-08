@@ -2,7 +2,6 @@
 ```
 
 (wunde)=
-
 (wunden)=
 
 # Wunden
@@ -12,15 +11,8 @@
 ## Allgemeines und Einteilung von Wunden
 
 Eine {dfn}`Wunde`
-{index}` <! Wunde>`
-(*Lat.* (*Vuln.*)) ist eine
-Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische,
-thermische, Strahlen- oder chemische Einwirkungen
-mit oder ohne Substanzverlust {term}`🗎 Pschyrembel 259`.Wunden lassen
-sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
-In den folgende Abschnitten sind Einteilungen nach der physikalischen
-Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der
-Schädigung (Wundart) angeführt.
+{index}` <! Wunde>` (*Lat.* (*Vuln.*)) ist eine Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische, thermische, Strahlen- oder chemische Einwirkungen mit oder ohne Substanzverlust {term}`🗎 Pschyrembel 259`.Wunden lassen sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
+In den folgende Abschnitten sind Einteilungen nach der physikalischen Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der Schädigung (Wundart) angeführt.
 
 ### Physikalische Verletzungsursache
 
@@ -56,8 +48,7 @@ Eine Einteilung bezieht sich auf die *physikalische Verletzungsursache*
 
 ### Tiefe der Schädigung
 
-Eine weitere Unterteilung kann nach der *Tiefe der Schädigung* des
-Gewebes vorgenommen werden.
+Eine weitere Unterteilung kann nach der *Tiefe der Schädigung* des Gewebes vorgenommen werden.
 
 - *Oberflächliche* Wunden: Leichte Verletzungen, welche max. bis zur
   Lederhaut reichen.
@@ -69,8 +60,7 @@ Gewebes vorgenommen werden.
 
 ### Zeitlicher Verlauf
 
-Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen
-werden:
+Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen werden:
 
 - *Frische* Wunden (Rezente Wunden, "rec."): Wunden innerhalb der
   ersten 6 h nach der Entstehung
@@ -85,7 +75,9 @@ werden:
 ```
 ```{index} single: Vulnus; scissum
 ```
-```{index} single: Vuln.; sciss. single: Stichwunde
+```{index} single: Vuln.; sciss. 
+```
+```{index} single: Stichwunde
 ```
 ```{index} single: Vulnus; ictum
 ```
@@ -95,11 +87,15 @@ werden:
 ```
 ```{index} single: Vulnus; laceratum
 ```
-```{index} single: Vuln.; lac. single: Quetschwunde
+```{index} single: Vuln.; lac. 
+```
+```{index} single: Quetschwunde
 ```
 ```{index} single: Vulnus; contusum
 ```
-```{index} single: Vuln.; cont. single: Rissquetschwunde
+```{index} single: Vuln.; cont. 
+```
+```{index} single: Rissquetschwunde
 ```
 ```{index} single: Vulnus; lacero-contusum
 ```
@@ -134,10 +130,8 @@ werden:
 
 ### Wundarten
 
-Unterschiedliche *Entstehungsmechanismen* erzeugen unterschiedliche
-*Wundarten* bzw. *Wundformen*.
-In {ref}`Table-Wundarten` findet sich eine
-Aufstellung und kurze Erklärung der häufigsten Wundarten.
+Unterschiedliche *Entstehungsmechanismen* erzeugen unterschiedliche *Wundarten* bzw. *Wundformen*.
+In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der häufigsten Wundarten.
 
 (table-wundarten)=
 
@@ -297,11 +291,8 @@ Ablederung nach schwerer Verbrennung
 
 ### Gefahren von Wunden
 
-Jede Wunde ist nicht nur eine lokale Verletzung sondern hat auch (in
-unterschiedlichem Ausmaß) eine Auswirkung auf den Gesamtorganismus.
-Neben der Beurteilung der Wunde selbst muss daher immer auch eine
-Beurteilung der Vitalfunktionen und der Schmerzen des Patienten sowie
-der Infektionsgefahren bei der Wundversorgung erfolgen.
+Jede Wunde ist nicht nur eine lokale Verletzung sondern hat auch (in unterschiedlichem Ausmaß) eine Auswirkung auf den Gesamtorganismus.
+Neben der Beurteilung der Wunde selbst muss daher immer auch eine Beurteilung der Vitalfunktionen und der Schmerzen des Patienten sowie der Infektionsgefahren bei der Wundversorgung erfolgen.
 
 - *Verletzung wichtiger Gewebestrukturen (Organe):*
   Je nach betroffener
@@ -334,16 +325,10 @@ der Infektionsgefahren bei der Wundversorgung erfolgen.
 
 ## Wundversorgung frischer Wunden
 
-Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke
-der Blutung.
-Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich
-Prioritäten bzgl. der optimalen Vorgehensweise setzen, die vitale
-Bedrohung durch Flüssigkeitsmangel (durch Blutverlust oder
-Verbrennungen) einschätzen, die Infektionsgefahren so gut wie möglich
-abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
+Die Wundversorgung orientiert sich an der Wundart sowie an der Stärke der Blutung.
+Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich Prioritäten bzgl. der optimalen Vorgehensweise setzen, die vitale Bedrohung durch Flüssigkeitsmangel (durch Blutverlust oder Verbrennungen) einschätzen, die Infektionsgefahren so gut wie möglich abwenden und ggf. eine ärztliche Schmerztherapie einleiten (lassen).
 
 (ty61000c)=
-
 (m-wundversorgung)=
 
 ### Maßnahmen: Basis-Wundversorgung
@@ -412,7 +397,6 @@ Desinfektion einer frischen Wunde
 :::
 
 (dekubitusprophylaxe)=
-
 (dekubitus)=
 
 ## Dekubitus und Dekubitusprophylaxe
@@ -424,46 +408,26 @@ Desinfektion einer frischen Wunde
   Querschnittsgelähmte
 :::
 
-Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine
-Lage zu ändern, kann es zum Wundliegen kommen.
+Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine Lage zu ändern, kann es zum Wundliegen kommen.
 Die Wunden nennt man
 {dfn}`Dekubitus` {index}` <! Dekubitus>` oder Druckgeschwüre.
-Sie sind eine
-lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als
-Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
-Durch den Auflagedruck des Körpers kann die Durchblutung der Haut
-abgedrückt werden. Dies geschieht dann, wenn der Druck, welcher auf der
-Körperstelle lastet, den Blutdruck in den Kapillargefäßen übersteigt
-(ca. 30 mm Hg). Es kommt dann zur Unterversorgung des Gewebes mit
-Sauerstoff und anderen Nährstoffen. Bereits der Auflagedruck durch das
-Gewicht des eigenen Körpers auf einer Unterlage kann ausreichen um zu
-solch einer Unterversorgung zu führen. Besonders Stellen, an denen
-*Knochen ohne Muskel- oder Fettpolster direkt unter der Haut* liegen
-sind gefährdet:
+Sie sind eine lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
+Durch den Auflagedruck des Körpers kann die Durchblutung der Haut abgedrückt werden. Dies geschieht dann, wenn der Druck, welcher auf der Körperstelle lastet, den Blutdruck in den Kapillargefäßen übersteigt (ca. 30 mm Hg). Es kommt dann zur Unterversorgung des Gewebes mit Sauerstoff und anderen Nährstoffen. Bereits der Auflagedruck durch das Gewicht des eigenen Körpers auf einer Unterlage kann ausreichen um zu solch einer Unterversorgung zu führen. Besonders Stellen, an denen *Knochen ohne Muskel- oder Fettpolster direkt unter der Haut* liegen sind gefährdet:
 
 - Kreuzbein
 - Fersen
 - Sitzbein
 - Großer Rollhügel (Trochanter maior des Oberschenkels)
 
-Gleiches gilt für alle Arten von *Fremdkörpern*, auf denen der Patient
-aufliegt, z. B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
+Gleiches gilt für alle Arten von *Fremdkörpern*, auf denen der Patient aufliegt, z. B. Kleidungsfalten, Schnallen, im Bett vergessenes Material,
 …
 
-Ein gesunder Mensch kann effektiv die Entstehung eines Dekubitus
-verhindern, indem er sich instinktiv umlagert.
-Bei *bettlägrigen* oder sogar
-bewusstlosen oder narkotisierten Patienten ist dies nur mehr
-eingeschränkt oder gar nicht mehr möglich. Betroffen sind somit vor
-allem alte oder pflegebedürftige bettlägrige Menschen, bewusstlose
-Patienten bzw. sedierte Intensivpatienten sowie Patienten mit
-Querschnittsläsionen. Es ist Aufgabe des Fachpersonals für eine korrekte
-Lagerung zu sorgen.
+Ein gesunder Mensch kann effektiv die Entstehung eines Dekubitus verhindern, indem er sich instinktiv umlagert.
+Bei *bettlägrigen* oder sogar bewusstlosen oder narkotisierten Patienten ist dies nur mehr eingeschränkt oder gar nicht mehr möglich. Betroffen sind somit vor allem alte oder pflegebedürftige bettlägrige Menschen, bewusstlose Patienten bzw. sedierte Intensivpatienten sowie Patienten mit Querschnittsläsionen. Es ist Aufgabe des Fachpersonals für eine korrekte Lagerung zu sorgen.
 
 ### Faktoren
 
-Die Entstehung eines Dekubitus wird im wesentlichen von fünf Faktoren
-bestimmt:
+Die Entstehung eines Dekubitus wird im wesentlichen von fünf Faktoren bestimmt:
 
 - *Druck*:
   Je höher der Druck, desto größer ist die Schädigung.
@@ -527,8 +491,7 @@ Einteilung der Schweregrade {term}`🗎 Shea 1975`:
   geschädigter Bereiche.
 - *Bauchlage* {index}` <Bauchlage>`
 
-Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht
-alle Lagerungsarten bei einem Patienten angewendet werden.
+Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht alle Lagerungsarten bei einem Patienten angewendet werden.
 
 ### Dekubitusprophylaxe allgemein
 
@@ -558,23 +521,12 @@ alle Lagerungsarten bei einem Patienten angewendet werden.
 
 ### Dekubitusprophylaxe im Rettungs- und Krankentransportdienst
 
-Grundsätzlich gilt das vorher Gesagte auch im Rettungs- und
-Krankentransportdienst, jedoch sind die technischen Möglichkeiten
-eingeschränkt. Bei jedem Krankentransport, welcher *länger als eine
-Stunde* dauert, muss jedenfalls an die Möglichkeit eines Dekubitus
-gedacht werden und ggfs. entsprechende Maßnahmen ergriffen werden. Im
-Rahmen der Übergabe des Patienten müssen etwaige Dekubitus-Gefahren oder
-bereits vorhandene Geschwüre besprochen werden.
+Grundsätzlich gilt das vorher Gesagte auch im Rettungs- und Krankentransportdienst, jedoch sind die technischen Möglichkeiten eingeschränkt. Bei jedem Krankentransport, welcher *länger als eine Stunde* dauert, muss jedenfalls an die Möglichkeit eines Dekubitus gedacht werden und ggfs. entsprechende Maßnahmen ergriffen werden. Im Rahmen der Übergabe des Patienten müssen etwaige Dekubitus-Gefahren oder bereits vorhandene Geschwüre besprochen werden.
 
-Die Mobilisation bzw. regelmäßige Umlagerung soll nach Möglichkeit auch
-während des Transports durchgeführt werden.
-Als einfaches technisches
-Hilfsmittel steht die (nicht abgesaugte!) Vakuummatratze zur Verfügung,
-welche bei geringen Dekubitusrisiko als Unterlage verwendet werden kann.
+Die Mobilisation bzw. regelmäßige Umlagerung soll nach Möglichkeit auch während des Transports durchgeführt werden.
+Als einfaches technisches Hilfsmittel steht die (nicht abgesaugte!) Vakuummatratze zur Verfügung, welche bei geringen Dekubitusrisiko als Unterlage verwendet werden kann.
 Außerdem sind diverse künstliche Auflagefelle [^auflagefelle] am Markt verfügbar.
-Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll
-unbedingt mit einer diplomierten Pflegeperson Rücksprache gehalten
-werden und eine individuelle Lösung gefunden werden.
+Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll unbedingt mit einer diplomierten Pflegeperson Rücksprache gehalten werden und eine individuelle Lösung gefunden werden.
 
 [^auflagefelle]: Felle als Unterlage sind im stationären Bereich eher verpönt, im
     Rahmen des Krankentransports haben sie dennoch eine gewisse

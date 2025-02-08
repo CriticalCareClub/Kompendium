@@ -287,13 +287,14 @@ Wichtigste Herzvenen:
 ```
 ```{index} single: Systole
 ```
-```{index} single: Füllungsphase (Herz) single: Diastole
+```{index} single: Füllungsphase (Herz) 
+```
+```{index} single: Diastole
 ```
 ```{index} single: Blutdruck
 ```
 
 (mechanische-herzfunktion)=
-
 (herzfunktion)=
 
 ## Mechanische Pumpfunktion: Herzaktion
@@ -348,7 +349,11 @@ Folgende Herzfunktionen können vom Zentralen Nervensystem aus über das autonom
 
 Der *Sympathikus (über Noradrenalin)* steigert die Herzaktion gleichmäßig das gesamte Herz betreffend, der *Parasympathikus (über Acetylcholin)* bremst die Herzaktion insbesondere des Vorhofes (Sinusknoten und AV-Knoten).
 
-```{index} single: β₁-Rezeptoren (Myokard) single: α₁-Rezeptoren (Myokard) single: Ca⁺⁺ (Myokard)
+```{index} single: β₁-Rezeptoren (Myokard) 
+```
+```{index} single: α₁-Rezeptoren (Myokard) 
+```
+```{index} single: Ca⁺⁺ (Myokard)
 ```
 
 ### Kontraktion der Herzmuskelzellen

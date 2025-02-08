@@ -148,15 +148,12 @@ Weiters kann es zu Stößen durch im Fahrzeug herumfliegende Teile kommen.
 :::
 ::::
 
-Bei Frontalzusammenstößen wird die Kraft von vorne auf das Unfallopfer
-übertragen. Der Insasse wird aufgrund der Trägheit nach vorne geschleudert und schlägt daher u. U. auf das Lenkrad oder die Frontscheibe auf.
+Bei Frontalzusammenstößen wird die Kraft von vorne auf das Unfallopfer übertragen. Der Insasse wird aufgrund der Trägheit nach vorne geschleudert und schlägt daher u. U. auf das Lenkrad oder die Frontscheibe auf.
 Im Allgemeinen gilt: War der Patient nicht angegurtet, ist mit schweren Verletzungen zu rechnen!
 Aufgrund der Kraftrichtung von vorne sind folgende schwere Verletzungen typisch:
 Thoraxtrauma mit Herzkontusion und Pneumothorax, HWS-Trauma, Leber- und Milzruptur, Beckenfraktur.
 
-Ein Heckaufprall hat für den Patienten meistens die gleichen Folgen wie ein Frontalzusammenstoß. In diesem Fall wird der Patient nicht aufgrund der Trägheit nach vorne geschleudert, sondern aufgrund der von hinten wirkenden Kraft. Beim Heckaufprall kann es daher ebenso zu HWS-Trauma
-(Schleudertrauma) oder Thoraxtrauma (Brust wird gegen Lenkrad gedrückt)
-kommen. Die von hinten auf den Patient einwirkende Kraft wird zu einem Großteil vom Sitz abgefedert.
+Ein Heckaufprall hat für den Patienten meistens die gleichen Folgen wie ein Frontalzusammenstoß. In diesem Fall wird der Patient nicht aufgrund der Trägheit nach vorne geschleudert, sondern aufgrund der von hinten wirkenden Kraft. Beim Heckaufprall kann es daher ebenso zu HWS-Trauma (Schleudertrauma) oder Thoraxtrauma (Brust wird gegen Lenkrad gedrückt) kommen. Die von hinten auf den Patient einwirkende Kraft wird zu einem Großteil vom Sitz abgefedert.
 
 Es gilt in beiden Fällen besonders zu beachten:
 
@@ -213,9 +210,7 @@ Stellt man im Szeneüberblick fest, dass ein *Fußgänger von einem Fahrzeug (fr
 :::
 ::::
 
-Bei Stürzen aus großen Höhen
-(z. B. Leiter, Gerüst, Balkon)
-ist im Szeneüberblick an folgende Fragestellungen zu denken:
+Bei Stürzen aus großen Höhen (z. B. Leiter, Gerüst, Balkon) ist im Szeneüberblick an folgende Fragestellungen zu denken:
 
 - Aus welcher Höhe ist der Patient gestürzt?
 
@@ -311,7 +306,6 @@ Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …
 Aus allen einsatztaktischen Überlegungen ergibt sich ein Bündel an Erstmaßnahmen, welche bei Unfällen durchgeführt werden müssen.
 
 (ty14101c)=
-
 (m-am-unfaelle)=
 
 

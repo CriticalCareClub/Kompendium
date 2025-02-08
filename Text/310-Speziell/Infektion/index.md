@@ -29,7 +29,6 @@ Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgefü
 ## Alltägliche Erkrankungen
 
 (grippe)=
-
 (influenza)=
 
 ### Grippe
@@ -37,8 +36,7 @@ Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgefü
 Die {dfn}`Grippe` {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch Viren verursachte Infektionskrankheit.
 Sie ist eine *virale* Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper sehr belastend sein kann und einen sehr schweren Verlauf nehmen und auch tödlich enden kann. Gefürchtet sind *Komplikationen* wie Lungen- oder Herzmuskelentzündungen oder weitere (Folge-)Infektionen. Besonders gefährdet sind ältere und immunsupprimierte Personen.
 
-Die Grippe tritt besonders in der kalten Jahreszeit, meistens als *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe
-(1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote)[^footnote-1].
+Die Grippe tritt besonders in der kalten Jahreszeit, meistens als *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe (1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote)[^footnote-1].
 
 [^footnote-1]: <http://de.wikipedia.org/wiki/Influenza>
 
@@ -59,23 +57,19 @@ Je nach Unterart verhalten sich die Viren anders und man beobachtet Unterschiede
 
 #### Schutzimpfung
 
-Gegen die Grippe wird eine *Schutzimpfung* angeboten. Sie basiert auf der *Voraussage*, welcher Stamm in der jeweils bevorstehenden Grippewelle vorherrschen wird. Sie wirkt daher nur für ein Jahr (eine Saison) und muss jede Saison wiederholt werden. Die Impfung bietet keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind
-(darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die Impfung hat einen schlechten Ruf, da Geimpfte häufig über Impfreaktionen wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
+Gegen die Grippe wird eine *Schutzimpfung* angeboten. Sie basiert auf der *Voraussage*, welcher Stamm in der jeweils bevorstehenden Grippewelle vorherrschen wird. Sie wirkt daher nur für ein Jahr (eine Saison) und muss jede Saison wiederholt werden. Die Impfung bietet keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind (darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die Impfung hat einen schlechten Ruf, da Geimpfte häufig über Impfreaktionen wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
 {term}`🗎 Gallaher 2009` {term}`🗎 Cutler 2009` {term}`🗎 Peiris 2009` {term}`🗎 Wolf 2009`
 
 #### Schweinegrippe, Vogelgrippe
 
-Grippeviren befallen nicht nur den Menschen, auch (Wasser-)Vögel und andere Tiere erkranken an der Grippe. Normalerweise erfolgt keine
-Übertragung vom Tier zum Menschen. Überschreitet ein Erreger diese Grenze wird es gefährlich: Die Tierwelt beinhaltet dann einen nahezu unbegrenzten Vorrat an Keimen (Keimreservoir). Dieser kann praktisch nicht kontrolliert werden, schließlich lassen sich Zugvögel nicht so leicht unter Quarantäne stellen …
+Grippeviren befallen nicht nur den Menschen, auch (Wasser-)Vögel und andere Tiere erkranken an der Grippe. Normalerweise erfolgt keine Übertragung vom Tier zum Menschen. Überschreitet ein Erreger diese Grenze wird es gefährlich: Die Tierwelt beinhaltet dann einen nahezu unbegrenzten Vorrat an Keimen (Keimreservoir). Dieser kann praktisch nicht kontrolliert werden, schließlich lassen sich Zugvögel nicht so leicht unter Quarantäne stellen …
 
-Glücklicherweise entwickelten sich in letzter Zeit nur Viren, welche zwar vom Tier auf den Menschen und dann weiter auf den Menschen
-übertragbar waren, jedoch waren sie (bis jetzt) nicht übermäßig infektiös oder zeigten keinen besonders schweren Verlauf.
+Glücklicherweise entwickelten sich in letzter Zeit nur Viren, welche zwar vom Tier auf den Menschen und dann weiter auf den Menschen übertragbar waren, jedoch waren sie (bis jetzt) nicht übermäßig infektiös oder zeigten keinen besonders schweren Verlauf.
 
 Einerseits stellt der mögliche Übertragungsweg vom Tier auf den Mensch und von dort auf andere Menschen (*Tier-Mensch-Mensch-Übertragung*) eine ständige Gefahr dar. Andererseits ist das Risiko einer möglichen *Kreuzung* mit Stämmen, die sehr infektiös und schwer verlaufend sind, gefährlich. Dies kann passieren wenn ein Patient mit mehreren Stämmen gleichzeitig infiziert ist. Daher ist es wichtig die Infektionen so rasch als möglich einzudämmen.
 
-Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf den Menschen in Mexiko im Frühjahr 2009
-({dfn}`Schweinegrippe` {index}` <! Schweinegrippe>`).
+Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf den Menschen in Mexiko im Frühjahr 2009 ({dfn}`Schweinegrippe` {index}` <! Schweinegrippe>`).
 Der neue Stamm breitete sich sehr rasch um die ganze Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders junge Menschen infiziert wurden.
 
 ### Grippaler Infekt
@@ -90,21 +84,18 @@ In der Folge kann sich die Schleimhaut der Nasennebenhöhlen entzünden, man spr
 Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden und auf Meningismus-Zeichen geprüft werden ({ref}`meningismuszeichen`).
 
 (lungenentzuendung)=
-
 (pneumonie)=
 
 ### Lungenentzündung (Pneumonie)
 
-Streng genommen ist die {dfn}`Lungenentzündung` {index}` <! Lungenentzündung>` *Term.*
-(*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den Symptomen eher die entzündliche Komponente im Vordergrund (Fieber, allgemeine Schwäche, …).
+Streng genommen ist die {dfn}`Lungenentzündung` {index}` <! Lungenentzündung>` *Term.* (*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den Symptomen eher die entzündliche Komponente im Vordergrund (Fieber, allgemeine Schwäche, …).
 
 #### Ursachen
 
 Eine Lungenentzündung kann grundsätzlich durch eine Infektion durch Bakterien, Viren oder Pilze[^footnote-3] oder eine chemische Schädigung, z. B.
 als Folge einer Aspiration von Magensaft entstehen.
 
-Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da
-ältere Patienten ein schwächeres Abwehrsystem haben.
+Höheres Lebensalter begünstigt Infektionen wie z. B. Pneumonien, da ältere Patienten ein schwächeres Abwehrsystem haben.
 
 [^footnote-3]: Pilz-Pneumonien sind besonders häufig bei
     immunsuppremierten Patienten anzutreffen.
@@ -115,7 +106,6 @@ Die Symptome sind oft nicht charakteristisch, eine Diagnose kann meist erst im K
 Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen kaum an.
 
 (ij18090c)=
-
 (m-pneumonie)=
 
 #### Maßnahmen: Pneumonie
@@ -132,11 +122,8 @@ Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen kaum an.
 
 ### Tuberkulose
 
-Die {dfn}`Tuberkulose` {index}` <! Tuberkulose>`
-(*Abk.* {dfn}`Tbc` {index}` <! Tbc>`, *umgs.* Schwindsucht)
-ist eine bakterielle Erkrankung, welche praktisch alle Organe befallen kann.
-Der Verlauf wird vor allem davon bestimmt, welches Organ befallen ist
-(Lunge, Skelett, Darm, Haut, Genitalien, ...).
+Die {dfn}`Tuberkulose` {index}` <! Tuberkulose>` (*Abk.* {dfn}`Tbc` {index}` <! Tbc>`, *umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch alle Organe befallen kann.
+Der Verlauf wird vor allem davon bestimmt, welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien, ...).
 Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
 Zunehmend treten auf Antibiotika resistente Erreger auf (MDR-TB, XDR-TB).
@@ -163,7 +150,6 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckun
     control (2006)
 
 (ia16091c)=
-
 (m-tuberkulose)=
 
 #### Maßnahmen: Tuberkulose
@@ -177,7 +163,6 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckun
   - Desinfektion laut Hygieneplan
 
 (hiv)=
-
 (aids)=
 
 ### HIV und AIDS
@@ -218,7 +203,6 @@ Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche Lebensverläng
 Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer Nadelstichverletzung kann innerhalb von zwei Stunden eine *Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei Sexualkontakten stellt die Verwendung von Kondomen einen effektiven, wenn auch keinen 100%-igen Schutz dar.
 
 (hepatitis-toxisch)=
-
 (hepatitis)=
 
 ### Entzündung der Leber: Hepatitis
@@ -226,10 +210,8 @@ Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. 
 #### Beschreibung und Ursachen
 
 Die {dfn}`Hepatitis`
-{index}` <Hepatitis>`
-ist eine Entzündung der Leber durch verschiedene Erreger oder durch schädigende Substanzen.
-Diese Entzündung kann durch Erreger wie Viren, oder Mikroorganismen hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol, Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen)
-Entzündung führen. Auch ein länger bestehender Rückstau der Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu einer Entzündung führen.
+{index}` <Hepatitis>` ist eine Entzündung der Leber durch verschiedene Erreger oder durch schädigende Substanzen.
+Diese Entzündung kann durch Erreger wie Viren, oder Mikroorganismen hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol, Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen) Entzündung führen. Auch ein länger bestehender Rückstau der Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu einer Entzündung führen.
 
 Je nach Ursache der Hepatitis kann es vorkommen, dass es zu keiner Abheilung kommt und die Hepatitis dauerhaft bestehen bleibt. Man spricht dann von der
 {dfn}`chronischen Hepatitis`{index}` <Hepatitis; chronische>`.
@@ -284,8 +266,7 @@ Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt i. d. R.
 ### Infektiöse Meningitis
 
 Die infektiöse
-{dfn}`Meningitis` {index}` <Meningitis>`
-ist eine Entzündung der Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
+{dfn}`Meningitis` {index}` <Meningitis>` ist eine Entzündung der Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
 Sie ist ist eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist, und andererseits rasch tödlich enden kann. Als Krankheitserreger treten zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
 (meningismuszeichen)=
@@ -308,7 +289,6 @@ Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen kommen, am
 :::
 
 (ig03091c)=
-
 (m-meningitis)=
 
 #### Maßnahmen: Meningitis
@@ -370,8 +350,7 @@ Eine mangelhafte Aufklärung bzw. Dokumentation bezüglich Tetanus und dessen Im
 
 Eine Sepsis liegt dann vor, wenn sich innerhalb des Körpers ein Herd gebildet hat, von dem kontinuierlich oder periodisch pathogene Bakterien in den Kreislauf gelangen und zwar derart, dass dadurch Krankheitserscheinungen ausgelöst werden (Schottmüller 1914).
 Dabei kommt es zu einer gesteigerten Freisetzung von Stoffen des Entzündungs-, Gerinnungs- und Immunsystems, welche zu den unten angeführten Symptomen führt. Eine derartige Reaktion des Körpers ist auch ohne Infektion im Rahmen eines Systemic Inflammatory Response Syndrome (SIRS) möglich, z. B. nach einem schweren Trauma, nach Verbrennungen oder Gewebshypoxie.
-Siehe auch: Septischer Schock und Toxischer Schock
-({ref}`schock-septischer`).
+Siehe auch: Septischer Schock und Toxischer Schock ({ref}`schock-septischer`).
 
 #### Symptome
 
@@ -393,8 +372,7 @@ Grundsätzlich:
 
 ### Ebola
 
-Die {dfn}`Ebola-Viruserkrankung` ({dfn}`Ebola`, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*)
-ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
+Die {dfn}`Ebola-Viruserkrankung` ({dfn}`Ebola`, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
 Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber!hämorrhagisches>` Fieber).
 Das Virus verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon sind auch die Blutgefäße betroffen.
 Je nach Virus-Typ verläuft die Erkrankung in 25—90% der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.

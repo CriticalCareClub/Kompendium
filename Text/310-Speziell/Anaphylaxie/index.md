@@ -6,13 +6,11 @@
 ```
 
 (allergie)=
-
 (anaphylaxie)=
 
 # Allergie und Anaphylaxie
 
-Eine **Allergie** ist eine fehlgeleitete Reaktion des Immunsystems (Immunreaktion)
-auf wiederholte Zufuhr körperfremder, typischerweise harmloser, Stoffe (Antigene).
+Eine **Allergie** ist eine fehlgeleitete Reaktion des Immunsystems (Immunreaktion) auf wiederholte Zufuhr körperfremder, typischerweise harmloser, Stoffe (Antigene).
 Die **Anaphylaxie** ist eine akute, systemische, und überschießende allergische Reaktion, die schnell einsetzt und zum Tod führen kann.
 
 Mögliche **Auslöser** können sein:
@@ -24,8 +22,7 @@ Mögliche **Auslöser** können sein:
 - Lebensmittel (Meeresfrüchte, Nüsse, etc.)
 - und vieles andere …
 
-Grundsätzlich kann man vier Arten von Allergien unterscheiden, in der Akutsituation ist vor allem der Typ-I ("Soforttyp")
-entscheidend, bei dem es innerhalb von Sekunden oder Minuten durch Freisetzung von Mediatoren aus Granulozyten und Mastzellen zu einer allergischen Rekation kommt.
+Grundsätzlich kann man vier Arten von Allergien unterscheiden, in der Akutsituation ist vor allem der Typ-I ("Soforttyp") entscheidend, bei dem es innerhalb von Sekunden oder Minuten durch Freisetzung von Mediatoren aus Granulozyten und Mastzellen zu einer allergischen Rekation kommt.
 
 ```{index} single: Urtikaria
 ```
@@ -40,8 +37,7 @@ entscheidend, bei dem es innerhalb von Sekunden oder Minuten durch Freisetzung v
 
 ## Symptome
 
-Das Bild der allergischen Reaktion reicht von leichten Hautreaktionen, Rhinitis,
-über Organfunktionsstörungen bis zum akut lebensbedrohlichen anaphylaktischen Schock und kann verschiedene Körperregionen betreffen:
+Das Bild der allergischen Reaktion reicht von leichten Hautreaktionen, Rhinitis, über Organfunktionsstörungen bis zum akut lebensbedrohlichen anaphylaktischen Schock und kann verschiedene Körperregionen betreffen:
 
 - Haut: Urtikaria (Nesselsucht)
   mit erhabenen, juckenden, rötlichen *Quaddeln*
@@ -241,8 +237,7 @@ In höheren Dosierungen können Antihistaminika anticholinerge Wirkungen wie Tac
 
 **Glukokortikoide** haben einen *langsamen Wirkungseintritt* und daher kaum Einfluss auf die akute Phase einer Anaphylaxie, sie sind aber effektiv bei Behandlung von *Asthma* und wirken protrahierten bzw. biphasischen Reaktionen entgegen.
 Eine unspezifische membranstabilisierende Wirkung innerhalb von zehn bis 30 Minuten nach Zufuhr hoher Glukokortikoiddosen wird diskutiert.
-Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vitalfunktionen und lebensrettenden Sofortmaßnahmen
-(Sauerstoff-, Adrenalin-, Volumengabe) erfolgen.
+Eine Behandlung mit Glukokortikoiden sollte erst *nach* Stabilisierung der Vitalfunktionen und lebensrettenden Sofortmaßnahmen (Sauerstoff-, Adrenalin-, Volumengabe) erfolgen.
 {term}`♛ S2k Anaphylaxie 2021`
 
 ## Literatur

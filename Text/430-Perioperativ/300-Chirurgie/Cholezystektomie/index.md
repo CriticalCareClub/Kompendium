@@ -2,7 +2,6 @@
 ```
 
 (che)=
-
 (cholecystektomie-laparoskopisch)=
 
 # 8.2.12 Cholecystektomie, laparoskopisch

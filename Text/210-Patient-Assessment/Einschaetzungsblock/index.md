@@ -1,7 +1,5 @@
 (einschaetzungsblock)=
-
 (m-ersteinschaetzung)=
-
 (m-einschaetzungsblock)=
 
 # Einschätzungsblock: 1234–ABCDE

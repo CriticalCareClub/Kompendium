@@ -235,7 +235,6 @@ Arterien der Bauchorgane ➛ Nährstoffaufnahme ➛ Pfortader ➛ Leber ➛ Vv. 
 Flüssigkeit im Extrazellularraum ➛ Lymphkapillaren ➛ Lymphgefäße mit eingeschalteten Lymphknoten ➛ Ductus thoracicus bzw. Ductus lymphaticus dexter ➛ V. cava superior
 
 (blutgefaesse-wichtige)=
-
 (pfortader)=
 
 ```{eval-rst}

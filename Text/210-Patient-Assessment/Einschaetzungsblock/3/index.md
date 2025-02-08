@@ -21,19 +21,29 @@ Ein bewusstseinsklarer Mensch kann sich gegen Gefahren wehren, ein eingetrübter
 
 Bei der Diagnostik beurteilt man den **Bewusstseinsgrad**
 (**quantitativ**;
-*Wieviel* Bewusstsein ist vorhanden?)
-und die **Orientierung**
+*Wieviel* Bewusstsein ist vorhanden?) und die **Orientierung**
 (**qualitativ**;
 *Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich, zur Situation und zur Person).
 Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 ```{index} single: WASB
 ```
-```{index} single: Bewusstseinsgrad pair: klar; Bewusstseinsgrad pair: somnolent; Bewusstseinsgrad pair: Somnolenz; Bewusstseinsgrad pair: soporös; Bewusstseinsgrad pair: Sopor; Bewusstseinsgrad pair: komatös; Bewusstseinsgrad
+```{index} single: Bewusstseinsgrad 
+```
+```{index} pair: klar; Bewusstseinsgrad 
+```
+```{index} pair: somnolent; Bewusstseinsgrad 
+```
+```{index} pair: Somnolenz; Bewusstseinsgrad 
+```
+```{index} pair: soporös; Bewusstseinsgrad 
+```
+```{index} pair: Sopor; Bewusstseinsgrad 
+```
+```{index} pair: komatös; Bewusstseinsgrad
 ```
 
 (bewusstseinsstoerunggrade)=
-
 (bewusstseinsgrad)=
 
 ## Bewusstseinsgrad
@@ -47,8 +57,7 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
 - Bewusstlos *komatös*
 :::
 
-Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
-(*Wieviel* Bewusstsein ist vorhanden?).
+Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins (*Wieviel* Bewusstsein ist vorhanden?).
 Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
 {dfn}`WASB` ist die Abkürzung für *Wach*, Reaktion auf *Ansprechen* oder leichte Weckreize, Reaktion auf *Schmerzreiz* und *Bewusstlos*.
 Dementsprechend kann ein Patient **bewusstseinsklar**, **somnolent**, **soporös** oder **komatös** bzw. *bewusstlos* sein, vgl. {ref}`Table-Wasb`.
@@ -161,8 +170,7 @@ Als Bewusstseinsstörungen bezeichnet man insbesonders Störungen der Wachheit u
 
 Das Bewusstsein ist wesentlich an der *Abwehr von Gefahren* beteiligt.
 Je mehr das Bewusstsein gestört oder reduziert ist, desto gefährlicher ist dies für den Patienten.
-Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen
-(Ausfall der "{dfn}`Schutzrefelexe`), und es kann Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
+Ab einem gewissen Punkt können auch so wesentliche Funktionen wie der *Schluck-*, *Würge-* bzw. *Hustenreflex* ausfallen (Ausfall der "{dfn}`Schutzrefelexe`), und es kann Mageninhalt, Speichel oder Blut in die Lunge gelangen (*Aspiration*).
 Bei schweren Bewusstseinsstörungen kann es auch zum Erschlaffen der Zungenmuskulatur kommen.
 Fällt diese zurück, kann sie den *Atemweg verlegen*.
 Dabei ist manchmal ein dem *Schnarchen ähnliches* Atemgeräusch zu vernehmen.

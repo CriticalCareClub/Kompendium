@@ -1,9 +1,6 @@
 (blutkreislauf)=
-
 (vitalfunktion-kreislauf)=
-
 (kreislauf)=
-
 (haemodynamik)=
 
 # Kreislauf und Hämodynamik
@@ -83,4 +80,22 @@ Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
 - Hypotonie: \<100-105 mmHg systolisch
 - normaler Blutdruck: \<145/\<90 mmHg
 - Grenzwertig: 145-165/90-95 mmHg
-- Hypertonie: >165/>95 mmHg
+- Hypertonie: >165/>95 mmHg ({ref}`Arterielle-Hypertonie`)
+
+
+(hypotonie)=
+
+### Hypotonie
+
+::::{only} not nosidebar
+
+:::{margin} Hypotonie
+- Erwachsener: RR{sub}`sys` \< ca. 100 mm Hg
+- Individuell unterschiedlich
+- Kinder haben andere Normalwerte
+:::
+::::
+
+Als {dfn}`Hypotonie` bezeichnet man einen unangemessen zu niedrigen Blutdruck.
+
+Beim Erwachsenen beträgt der *untere* Grenzwert des systolischen Blutdrucks 100 mm Hg. Dieser Grenzwert ist jedoch sehr individuell. Viele Menschen haben auch unter Normalbedingungen einen systolischen Blutdruck von 90 mm Hg oder sogar noch weniger, ohne Beschwerden zu haben. Dies muss bei der Interpretation des Wertes berücksichtigt werden. Bei Kindern gelten grundsätzlich andere Nomalwerte.

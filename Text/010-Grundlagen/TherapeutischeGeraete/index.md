@@ -95,7 +95,9 @@ Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 
 ### Lagerungshilfen
 
-```{index} single: DisposaView® single: Bauchlage
+```{index} single: DisposaView® 
+```
+```{index} single: Bauchlage
 ```
 
 #### DisposaView®

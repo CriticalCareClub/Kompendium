@@ -16,11 +16,9 @@
 
 Als {dfn}`Aneurysma` bezeichnet man eine Aussackung und Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
 
-Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta, Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen
-(rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder ein blutiger Insult sein.
+Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta, Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen (rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder ein blutiger Insult sein.
 
 (bauchaortenaneurysma)=
-
 (aortenaneurysma)=
 
 ## Aortenaneurysma
@@ -34,10 +32,8 @@ Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann
 :::
 ::::
 
-Aneurysmen können im gesammten Verlauf der Aorta auftreten, man unterscheidet zwischen dem *thorakalen* und dem abdominellen Aortenaneurysma
-(*Bauchaortenaneurysma*).
-Zumeist ist eine krankhafte Veränderung der Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus, Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es können einzelne Schichten der Gefäßwand einreißen und eine
-(verletzliche) Ausbuchtung bilden. Die akute Gefahr ist eine Ruptur.
+Aneurysmen können im gesammten Verlauf der Aorta auftreten, man unterscheidet zwischen dem *thorakalen* und dem abdominellen Aortenaneurysma (*Bauchaortenaneurysma*).
+Zumeist ist eine krankhafte Veränderung der Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus, Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es können einzelne Schichten der Gefäßwand einreißen und eine (verletzliche) Ausbuchtung bilden. Die akute Gefahr ist eine Ruptur.
 
 Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z. B. bei Röntgenuntersuchungen entdeckt.
 Da das Operationsrisiko sehr hoch ist werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen Formen werden nur regelmäßige Kontrollen durchgeführt.

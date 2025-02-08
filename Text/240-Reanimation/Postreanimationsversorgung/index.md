@@ -1,6 +1,8 @@
 ```{index} single: ROSC
 ```
-```{index} single: Resumption Of Spontaneaus Circulation pair: Reanimation; Postreanimationsbehandlung
+```{index} single: Resumption Of Spontaneaus Circulation 
+```
+```{index} pair: Reanimation; Postreanimationsbehandlung
 ```
 
 # Postreanimationsbehandlung
@@ -53,9 +55,7 @@ Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Ums
 % - Verdachtsdiagnose
 % - Auswahl eines geeigneten Transportziels
 
-Wird bei der Reanimation der Kreislauf wiederhergestellt
-({dfn}`ROSC`, {dfn}`Resumption Of Spontaneous Circulation`)
-ist die weitere Versorgung wichtig.
+Wird bei der Reanimation der Kreislauf wiederhergestellt ({dfn}`ROSC`, {dfn}`Resumption Of Spontaneous Circulation`) ist die weitere Versorgung wichtig.
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
@@ -75,10 +75,7 @@ Besonders zu beachten ist:
 - Ⓓ: Pupillen, Blutzucker
 - Ⓔ: 12-Kanal-EKG!
 
-Die Ermittlung der **Ursache**, sofern möglich, bzw. einer Verdachtsdiagnose ist wichtig um die weitere Versorgung zu planen
-(*"Zwischen einem Herzkatheter und einem Neurochirurgen
-(oder Hämofiltrationsplatz, Schockraum, ...)
-liegen im besten Fall Stockwerke, im schlimmsten Fall Kilometer ..."*).
+Die Ermittlung der **Ursache**, sofern möglich, bzw. einer Verdachtsdiagnose ist wichtig um die weitere Versorgung zu planen (*"Zwischen einem Herzkatheter und einem Neurochirurgen (oder Hämofiltrationsplatz, Schockraum, ...) liegen im besten Fall Stockwerke, im schlimmsten Fall Kilometer ..."*).
 Hevorzuheben ist die Notwendigkeit einer *Herzkatheteruntersuchung* nach einem Kreislaufstillstand mit vermutet kardialer Ursache bzw.
 die Durchführung eines Schädel-CT bei möglicher cerebralem Geschehen (Blutung, Insult).
 
@@ -103,13 +100,10 @@ Grundsätzlich wird eine Reanimation fortgesetzt, solange Kammerflimmern oder ei
 Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht {term}`🗎 Bonnin 1993` {term}`♛ ERC 2021 12`.
 
 Gewisse Bedingungen, etwa eine Hypothermie zum Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wieder-
-herstellung ohne neurologische Schäden, sodass normale Prognosekriterien
-(z. B. eine über 20 min andauernde Asystolie)
-*nicht anwendbar* sind.
+herstellung ohne neurologische Schäden, sodass normale Prognosekriterien (z. B. eine über 20 min andauernde Asystolie) *nicht anwendbar* sind.
 
 Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere Umstände, welche Einfluss auf die Entscheidung haben {term}`♛ ERC 2021 12`.
 Besonders berücksichtigenswert ist der mutmaßliche oder vorab geäußerte Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen
 {ref}`Patientenverfügung <Patientenverfuegung>`.
 
-Die Abbruchsentscheidung ist grundsätzlich *von einem Arzt* zu treffen
-(sofern keine dringenden Gründe wie unsichere Umgebung oder Erschöpfung vorliegen).
+Die Abbruchsentscheidung ist grundsätzlich *von einem Arzt* zu treffen (sofern keine dringenden Gründe wie unsichere Umgebung oder Erschöpfung vorliegen).

@@ -15,21 +15,14 @@
 
 :::{admonition} Definition
 
-Eine Verbrennung
-{index}` <Verbrennung>`
-{index}` <Combustio>`
-{index}` <Comb.>`
-(*Lat.* *Combustio*, *Abkz.* *Comb.*)
-ist eine durch Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der Haut.
+Eine Verbrennung {index}` <Verbrennung>` {index}` <Combustio>` {index}` <Comb.>` (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der Haut.
 Sie ist eine thermische Wunde.
 
 Eine {dfn}`Verbrühung`
 {index}` <! Verbrühung>`
 {index}` <! Ambustio>`
 {index}` <! Amb.>`
-{index}` <! scald>`
-(*Lat.* *Ambustio* (*Amb.*), *engl.* scald)
-ist eine thermische Schädigung durch heiße Flüssigkeit oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
+{index}` <! scald>` (*Lat.* *Ambustio* (*Amb.*), *engl.* scald) ist eine thermische Schädigung durch heiße Flüssigkeit oder Dampf[^footnote-1] {term}`🗎 Pschyrembel 259`.
 :::
 
 Verbrennungen reichen von kleinen Brandblasen bis schweren Schädigungen der Haut und der darunter liegenden Gewebe (z. B.
@@ -45,8 +38,7 @@ großflächige Verkohlung). Um die Schwere der Verletzung rasch einschätzen zu 
     eingeführt und die Begriffe im Konsens und nach Maßgabe der
     einschlägigen Literatur entsprechend definiert.
 
-Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
-({ref}`inhalationstrauma`) oder andere Begleitverletzungen gedacht werden.
+Abhängig von den Umständen muss auch an ein *Inhalationstrauma* ({ref}`inhalationstrauma`) oder andere Begleitverletzungen gedacht werden.
 
 (verbrennungskrankheit)=
 
@@ -61,8 +53,7 @@ Abhängig von den Umständen muss auch an ein *Inhalationstrauma*
 :::
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>`
-entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
+Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>` entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und es bilden sich Ödeme. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bei großflächigen Verbrennungen *Schockgefahr* (hypovolämischer Schock)! Der Schock entwickelt sich allerdings erst allmählich.
 
 Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung* bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
@@ -87,11 +78,9 @@ Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich da
 :::
 ::::
 
-Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche
-(ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
+Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
 
-Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>`
-angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
+Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
 der Vebrennung abschätzen zu können.
 
 (neunerregel)=
@@ -258,7 +247,6 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
   - Ggfs. Schockbekämpfung
 
 (tt30002c)=
-
 (m-verbrennung-schwer)=
 
 ## Maßnahmen: Verbrennung, schwer
@@ -321,8 +309,7 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 ::::
 
 Von einem
-{dfn}`Inhalationstrauma` {index}` <! Inhalationstrauma>`
-spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
+{dfn}`Inhalationstrauma` {index}` <! Inhalationstrauma>` spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
 Typische Leitsymptome sind:
 
 - Z. n. Gasexposition
@@ -339,7 +326,6 @@ Das volle Ausmaß der Schädigung kann unmittelbar oder innerhalb von Stunden er
 Das volle Ausmaß wird oft erst nach Stunden erreicht!
 
 (tt49091c)=
-
 (m-inhalationstrauma)=
 
 ### Maßnahmen: Inhalationstrauma
@@ -385,7 +371,6 @@ Genau wie bei der Verbrennung kommt es zu einem Ausfall der Schutzfunktion der H
 Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. der Patient, dessen Kleidung und evtl. auch die Umgebung kontaminiert ist. Von diesem Stoff kann sowohl für den Patienten, als auch für den Helfer eine Gefahr ausgehen. Auf den Selbstschutz und die *Dekontamination* muss großer Wert gelegt werden.
 
 (tt30041c)=
-
 (m-chemische-verletzungen)=
 
 ### Maßnahmen: Verletzungen mit chemischen Substanzen
@@ -478,8 +463,7 @@ Beatmungsschwierigkeiten, Myonekrosen, Hyperkaliämie, Crushniere, Organminderpe
 
 Ausreichende Analgesie mit erhaltener Spontanatmung ist das Ziel!
 - Diclofenac/Paracetamol + Ultiva
-- Midazolam + Ketanest, ev. Dexdor (Dexmedetomidine)
-Problem: großflächige Wunden mit Rezidiveingriffen, schmerzhafte Verbandswechsel
+- Midazolam + Ketanest, ev. Dexdor (Dexmedetomidine) Problem: großflächige Wunden mit Rezidiveingriffen, schmerzhafte Verbandswechsel
 +  Sandbett (Nanokrist. Glas, Pat. schwebt, Seekrankheit des vest. Systems, trocknet von dorsal aus)
 +
 
@@ -489,12 +473,10 @@ Problem: großflächige Wunden mit Rezidiveingriffen, schmerzhafte Verbandswechs
 Thermisch-chemisch-toxisch
 - Obere AW thermisch + chemisch, untere AW va. wasserlösliche Substanzen z.B. Aldehyde
 -  Lungenparenchym mit inflammatorischer Reaktion
-- Systemisch bei toxischen Gasen (CO, CO2)
-Schutzintubation: Ödem mukös und submukös!
+- Systemisch bei toxischen Gasen (CO, CO2) Schutzintubation: Ödem mukös und submukös!
 Blutungen, Ulcerationen!
 
-Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchoskopie!!)
-Hinweise: geschlossener Unfallraum mit Explosion, Brandverletzung im Gesicht, Verrußte Atemwege, angesengte Nasenhaare, Rußspuren auf der Kleidung,...
+Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchoskopie!!) Hinweise: geschlossener Unfallraum mit Explosion, Brandverletzung im Gesicht, Verrußte Atemwege, angesengte Nasenhaare, Rußspuren auf der Kleidung,...
 
 
 Therapie:

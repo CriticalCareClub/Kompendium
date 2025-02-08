@@ -6,7 +6,6 @@
 :::
 
 (guedeltubus)=
-
 (guedel-tubus)=
 (AATW-KP-Guedel-Tubus)=
 

@@ -122,8 +122,7 @@ eine kalte Umgebungstemperatur. Die Tabelle {ref}`Tafel-Schocksymptomatik`, list
 ## Schockschere
 
 Normalerweise ist die Herzfrequenz niedriger als der systolische Blutdruck.
-(Achtung: *Kinder haben andere Normalwerte für HF und RR!* Die Faustregel ist deshalb nicht anwendbar!)
-Wenn der Körper versucht den Schock zu kompensieren, kann sich dieses Verhältnis umkehren. Man spricht dann von der Schockschere, der Patient befindet sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
+(Achtung: *Kinder haben andere Normalwerte für HF und RR!* Die Faustregel ist deshalb nicht anwendbar!) Wenn der Körper versucht den Schock zu kompensieren, kann sich dieses Verhältnis umkehren. Man spricht dann von der Schockschere, der Patient befindet sich dann *bereits im Vollbild eines Schocks!* *Die Schockschere ist ein
 \*spätes Zeichen!* Auch wenn sich ein Patient (noch) nicht in der Schockschere befindet, kann er trotzdem einen Schock haben!\*
 
 ::::{only} not nosidebar
@@ -267,7 +266,6 @@ Beim Schock können einzelne oder mehrere Teile des Kreislaufsystems (Blut, Gef�
 :::
 
 (schockhypovolaemischer)=
-
 (schock-hypovolaemischer)=
 
 ## Hypovolämischer Schock
@@ -307,15 +305,13 @@ Durch den *Blutrückstau* kann es zu Stauungszeichen kommen (Lungenödem bei Lin
 Häufig klagen die Patienten über *Atemnot*.
 
 (schockanaphylaktischer)=
-
 (schock-anaphylaktischer)=
 
 ## Anaphylaktischer Schock
 
 **Schock aufgrund einer überschießenden allergischen Reaktion – "Allergischer Schock".**
 
-Ein anaphylaktischer Schock wird durch eine überschießende Reaktion der Körperabwehr
-(Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versackt und es kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
+Ein anaphylaktischer Schock wird durch eine überschießende Reaktion der Körperabwehr (Immunreaktion) auf bestimmte Stoffe (Antigene) ausgelöst. Durch von den Immunzellen gebildete Stoffe werden die Gefäße erweitert, zusätzlich steigt die Durchlässigkeit der Gefäße (Gefäßpermeabilität). Das Blut versackt und es kommt zu einem Plasmaverlust in den Zwischengewebsraum (Interstitium); der Blutdruck fällt massiv ab! Mögliche *Auslöser* können sein:
 
 - Pollen
 - Medikamente, Antibiotika
@@ -358,9 +354,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 :::
 
 (schockseptischer)=
-
 (schocktoxischer)=
-
 (schock-septischer)=
 
 ## Septischer Schock und Toxischer Schock
@@ -383,8 +377,7 @@ Der Patient kann sowohl hohes oder auch kein Fieber haben, die Haut ist anfängl
 **Schockzustand ausgelöst durch eine Unterbrechung oder Störung der nervlichen Versorgung der Kreislaufregulation. Es kommt zu inadäquater arterieller und venöser Gefäßerweiterung. (Vasodilatation)**
 
 Auch die Muskulatur der Blutgefäßwand wird mit Nerven versogrt, damit die Weite der Gefäße reguliert werden kann. Im Rahmen von Erkrankungen und Verletzungen kann diese nervale Versorgung unterbochen sein, in weiterer Folge weiten sich die betroffenen Gefäße und das Blut versackt.
-Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor, bei der das Rückenmark geschädigt bzw. unterbrochen wird
-(*Querschnitt-Syndrom*).
+Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor, bei der das Rückenmark geschädigt bzw. unterbrochen wird (*Querschnitt-Syndrom*).
 
 :::{note}
 - Grundsatz:
@@ -392,9 +385,7 @@ Typischerweise kommt dies im Rahmen einer *Wirbelsäulenverletzung* vor, bei der
 :::
 
 (mr57xx0b)=
-
 (am-schock)=
-
 (m-am-schock)=
 
 ## Maßnahmen: Schock

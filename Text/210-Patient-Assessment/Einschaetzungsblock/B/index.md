@@ -1,8 +1,11 @@
-```{index} single: Atmung; Einschätzungsblock pair: Breathing; Einschätzungsblock pair: B; Einschätzungsblock
+```{index} single: Atmung; Einschätzungsblock 
+```
+```{index} pair: Breathing; Einschätzungsblock 
+```
+```{index} pair: B; Einschätzungsblock
 ```
 
 (abcde-b)=
-
 (breathing)=
 
 # Ⓑ Atmung (Breathing)
@@ -53,17 +56,14 @@ Als nächstes wird die Funktion der *Atmung* beurteilt:
 
 ## Totraumventilation und Schnappatmung
 
-Unter dem {dfn}`Totraum` versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt, im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen
-(Alveolen).
+Unter dem {dfn}`Totraum` versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt, im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen).
 Er beträgt beim Erwachsenen ca. 150 mL.
 
-Bei der {ref}`Totraumventilation <Totraumventilation>`
-ist das Atemzugvolumen im Verhältnis zum Totraum zu gering, sodass nicht ausreichend Frischluft in die Alveolen gelangt.
+Bei der {ref}`Totraumventilation <Totraumventilation>` ist das Atemzugvolumen im Verhältnis zum Totraum zu gering, sodass nicht ausreichend Frischluft in die Alveolen gelangt.
 
 Insbesonders bei der {dfn}`Schnappatmung` kann genau dies passieren:
 Hierbei handelt es sich, dem Namen entsprechend, um, teils eindrucksvolle, schnappende Atembewegungen, welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
-Das Atemzugsvolumen folglich so gering dass es zu einer Totraumventilation kommt und die Atmung somit hochgradig insuffizient
-(d. h.: faktisch nicht vorhanden) ist.
+Das Atemzugsvolumen folglich so gering dass es zu einer Totraumventilation kommt und die Atmung somit hochgradig insuffizient (d. h.: faktisch nicht vorhanden) ist.
 
 :::{list-table} Übersicht Normalwerte: Atmung (grobe Richtwerte)
 :header-rows: 1

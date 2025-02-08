@@ -1,4 +1,8 @@
-# 26. Herz-Kreislauf-Störungen
+
+(sec-herz-kreislauf-stoerungen)=
+(herz-kreislauf-stoerungen)=
+
+# Herz
 
 
 
@@ -11,12 +15,9 @@ Bei Volumenmangel reagiert die Haut rasch mit Umverteilung/Zentralisation = Kalt
 Das Splanchnikusgebiet reagiert am langsamsten auf einen Blutdruckabfall.
 
 Vasovagale Synkope: verminderter venöser Rückstrom zum Herzen  --  rechtes Herz ist leer  --
-Reflex der VV-Synkope. Marathonläufer: beim Stillstand fehlt Muskelpumpe, Herz pumpt weiter,
-leer, Schwindel, Synkope, Tod). Bei Vasodilation venöses Blutpooling mit red. ZVD bis ZVD  =  0,
-dann Synkope.
+Reflex der VV-Synkope. Marathonläufer: beim Stillstand fehlt Muskelpumpe, Herz pumpt weiter, leer, Schwindel, Synkope, Tod). Bei Vasodilation venöses Blutpooling mit red. ZVD bis ZVD  =  0, dann Synkope.
 
-Kranke haben nur eingeschränkte Kompensationsmechanismen. Problem bei Fieber mit hyperdynamischen Zustandsbild: das Blutvolumen befindet sich zu großen Teilen in der Haut
-(Splanchnikusdurchblutung vermindert!) Transmuraler Druck in den Venen wird bei Bedarf mobilisiert = stressed volumen. Preload ist abhängig vom ZVD und Gefäßwiderstand.
+Kranke haben nur eingeschränkte Kompensationsmechanismen. Problem bei Fieber mit hyperdynamischen Zustandsbild: das Blutvolumen befindet sich zu großen Teilen in der Haut (Splanchnikusdurchblutung vermindert!) Transmuraler Druck in den Venen wird bei Bedarf mobilisiert = stressed volumen. Preload ist abhängig vom ZVD und Gefäßwiderstand.
 
 Intensivpatient: Reduzierte zentrales Blutvolumen + oft schlechte Herzfunktion! Hohe HF, Verlust SVV (beatmet, relaxiert, regelm. Rhythmus). Hyperdynamer Zustand mit herabgesetzten TPVR und MAP\<50 mit hypovolämen Schock bei Sepsis.
 
@@ -26,19 +27,7 @@ Intensivpatient: Reduzierte zentrales Blutvolumen + oft schlechte Herzfunktion! 
 ```{toctree}
 :maxdepth: 1
 
-ArterielleHypertonie/index
 Herzrhythmusstoerungen/index
 KoronareHerzkrankheit/index
 Herzinsuffizienz/index
-Blutdruckstoerungen/index
-KollapsSynkope/index
-Schock/index
-Kreislaufstillstand/index
-PeriphererArteriellerGefaessverschluss/index
-PeriphererVenoeserGefaessverschluss/index
-Aneurysmen/index
 ```
-(sec-herz-kreislauf-stoerungen)=
-
-(herz-kreislauf-stoerungen)=
-

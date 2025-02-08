@@ -2,7 +2,9 @@
 ```
 ```{index} single: Gaster
 ```
-```{index} single: Pförtner (Magen) single: Pylorus
+```{index} single: Pförtner (Magen) 
+```
+```{index} single: Pylorus
 ```
 
 (magen)=

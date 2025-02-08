@@ -19,9 +19,7 @@
 
 Von Herzrhythmusstörungen spricht man, wenn es zur Störung der Reizbildung oder Reizleitung im Herzen kommt.
 
-Herzrhythmusstörungen sind häufig, allerdings auch oft sehr unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig gefährlich, andere können plötzlich auftreten und sogar akut lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das Problem darstellen, als auch *als Komplikationen* im Rahmen anderer Krankheitsbilder
-(z. B. Herzinfarkt, Elektrolytstörungen etc.)
-auftreten.
+Herzrhythmusstörungen sind häufig, allerdings auch oft sehr unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig gefährlich, andere können plötzlich auftreten und sogar akut lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das Problem darstellen, als auch *als Komplikationen* im Rahmen anderer Krankheitsbilder (z. B. Herzinfarkt, Elektrolytstörungen etc.) auftreten.
 
 :::{figure} /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.jpg
 :width: 100%
@@ -50,14 +48,10 @@ Für die genaue Zuordnung ist ein EKG essentiell.
 Eine Sonderform nimmt die *Entkoppelung der elektrischen und der mechanischen Herzaktion* ein, wenn nicht jedem elektrischen Impuls ein Herzschlag folgt.
 Dies wird als **elektromechanische Dissoziation**
 {index}` <Dissoziation; elektromechanische>`
-{index}` <elektromechanische Dissoziation>`
-bezeichnet und kann dauerhaft oder
-{term}`intermittierend <intermittieren>`
-auftreten.
+{index}` <elektromechanische Dissoziation>` bezeichnet und kann dauerhaft oder
+{term}`intermittierend <intermittieren>` auftreten.
 
-Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vorhof, AV-Leitungsbahn, Kammer), ihren Ursachen oder nach ihrer klinischen Auswirkung
-(Regelmäßigkeit, Frequenz)
-unterscheiden.
+Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vorhof, AV-Leitungsbahn, Kammer), ihren Ursachen oder nach ihrer klinischen Auswirkung (Regelmäßigkeit, Frequenz) unterscheiden.
 
 ### … Frequenz: *Tachy-* und *Bradykardie*
 
@@ -74,18 +68,14 @@ Individuell kann es zu physiologischen Abweichungen vom Normbereich kommen, so k
 
 Eine Frequenz darunter wird als {dfn}`Bradykardie`, Werte darüber als {dfn}`Tachykardie` bezeichnet.
 
-Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände
-(Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht werden!
+Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände (Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht werden!
 
 Rhythmusstörungen lassen sich nach unterschiedlichen Kriterien einteilen, nach …
 
 ### … Lokalisation
 
-Rhythmusstörungen können direkt in der Herzkammer (**ventrikulär**)
-oder oberhalb der Kammer (**supraventrikulär**) begründet sein.
-Supraventrikulär wird außerdem zwischen dem Vorhof (*atrial*)
-und der AV-Überleitung
-(AV-Knoten, *nodal*; bzw. *akzessorische Leitungsbahnen*) unterschieden.
+Rhythmusstörungen können direkt in der Herzkammer (**ventrikulär**) oder oberhalb der Kammer (**supraventrikulär**) begründet sein.
+Supraventrikulär wird außerdem zwischen dem Vorhof (*atrial*) und der AV-Überleitung (AV-Knoten, *nodal*; bzw. *akzessorische Leitungsbahnen*) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
 
 :::{figure} /Bilder/WikipediaCcBySa-3.0-unported/De-Atrial_ventricular\_(CardioNetworks_ECGpedia).\*
@@ -158,12 +148,9 @@ Für spezielle Fragestellungen kann eine elektrophysiologische Untersuchung mitt
 
 Eine Extrasystolen sind **vorzeitige Herzaktionen** ("Extraschläge").
 Sie können vereinzelt oder gehäuft auftreten, eventuell auch "salvenartig".
-Je nach dem Ort der Entstehung unterscheidet man zwischen **ventrikulären** Extrasystolen (*VES*)
-und **supraventrikuläre** Extrasystolen (*SVES*).
+Je nach dem Ort der Entstehung unterscheidet man zwischen **ventrikulären** Extrasystolen (*VES*) und **supraventrikuläre** Extrasystolen (*SVES*).
 VES und SVES treten häufig bei *Gesunden* auf, können aber auch Ausdruck einer *herzstrukturellen* oder anderen Erkrankung sein.
-Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (**Stress**, **Hyperthyreose**)
-oder das Reizleitungssystem beeinflussen (**Elektrolytstörungen**)
-können Extrasystolen gehäuft auslösen.
+Insbesonders Erkrankungen und Störungen, welche mit einem erhöhten Sympathikotonus einhergehen (**Stress**, **Hyperthyreose**) oder das Reizleitungssystem beeinflussen (**Elektrolytstörungen**) können Extrasystolen gehäuft auslösen.
 
 Je nach Häufigkeit haben Extrasystolen unterschiedliche Auswirkungen auf den Kreislauf und können symptom- bzw. bedeutungslos sein, oder auch Beschwerden verursachen.
 Wenn die Extrasystolen die normale Herzpumpfunktion massiv stören, können sie auch lebensbedrohlich sein.
@@ -204,8 +191,7 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige *Kompli
     (z. B. *Marcoumar*, der Patient ist blutungsgefährdet)
 
 Im **EKG** *fehlt die p-Welle*, stattdessen sind durchgehende *Flimmerwellen*, welche durch die unregelmäßigen, aber sonst wohlgeformten Kammerkomplexe unterbrochen werden, zu sehen (*Arrhythmia absoluta*).
-Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer kann es zu Brady- als auch zu (supraventrikulären Schmalkomplex-)Tachykardien kommen
-(*Bradyarrhythmia*- bzw. *Tachyarrhythmia absoluta*).
+Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer kann es zu Brady- als auch zu (supraventrikulären Schmalkomplex-)Tachykardien kommen (*Bradyarrhythmia*- bzw. *Tachyarrhythmia absoluta*).
 
 :::{figure} /Bilder/WikipediaCcBySa-4.0-International/ECG_Atrial_Fibrillation_98_bpm.jpg
 :width: 100%
@@ -238,8 +224,7 @@ Im EKG zeigt sich typischerweise eine **regelmäßige Schmalkomplextachykardie**
 
 Im AV-Knoten finden sich bei diesen Patienten *zwei* nebeneinander liegende Bahnen (engl. Pathway), welche die Erregung in die Kammern weiterleiten (*"doppelter AV-Knoten"*).
 Diese Bahnen unterscheiden sich in der Leitungsgeschwindigkeit:
-Der **fast-pathway** beginnt am anterioren Eingang des AV-Knotens, leitet schneller und kann in beide Richtungen, d. h. antegrad (vom Vorhof zur Kammer)
-und retrograd (von der Kammer zum Vorhof) leiten.
+Der **fast-pathway** beginnt am anterioren Eingang des AV-Knotens, leitet schneller und kann in beide Richtungen, d. h. antegrad (vom Vorhof zur Kammer) und retrograd (von der Kammer zum Vorhof) leiten.
 Der **slow-pathway** beginnt am posterioren Eingang, leitet langsamer und hat eine kürzere Refraktärzeit.
 Nun kann es zu folgenden Situationen kommen:
 
@@ -265,7 +250,11 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 ₢ WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo), {term}`ℓ CC BY-SA 4.0`
 :::
 
-```{index} single: Tachykardie; FBI- single: Tachykardie; unregelmäßige Breitkomplex- single: FBI-Tachykardie
+```{index} single: Tachykardie; FBI- 
+```
+```{index} single: Tachykardie; unregelmäßige Breitkomplex- 
+```
+```{index} single: FBI-Tachykardie
 ```
 
 (fbi-tachykardie)=
@@ -275,8 +264,7 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 Die FBI-Tachykardie ist eine **unregelmäßige Breitkomplextachykardie** mit **polymorphen Kammerkomplexen**.
 Sie kommt zu Stande bei Vorliegen von *Vorhofflimmern* mit einer *akzessorischen Leitungsbahn*.
 Die reguläre AV-Reizleitung wirkt hier hemmend auf die schnelle Überleitung über die akzessorische Bahn.
-Es dürfen daher keine AV-blockierenden Medikamente
-(Betablocker, Verapamil, Adenosin, Digitalis, auch {ref}`Amiodaron <Amiodaron>` ist eher kritisch zu sehen) eingesetzt werden!
+Es dürfen daher keine AV-blockierenden Medikamente (Betablocker, Verapamil, Adenosin, Digitalis, auch {ref}`Amiodaron <Amiodaron>` ist eher kritisch zu sehen) eingesetzt werden!
 Antiarrhythmikum der Wahl ist {ref}`Ajmalin <Ajmalin>` oder die elektrische Kardioversion.
 
 (pulsloseventrikulaeretachykardie)=
@@ -362,8 +350,7 @@ EKG: Übersicht: AV-Blockaden
 
 ### Ventrikulärer Ersatzrhythmus
 
-In der Hirarchie des {ref}`Reizleitungssystems <Reizleitungssystem>`
-ist das Kammermyokard die letzte Stufe der Reizbildung.
+In der Hirarchie des {ref}`Reizleitungssystems <Reizleitungssystem>` ist das Kammermyokard die letzte Stufe der Reizbildung.
 Dementsprechend ist ein Kammerersatzrhythmus die *"letzte Reserve"* nach Ausfall oder Blockierung der übergeordneten Erregungsbildungszentren.
 Er hat eine Frequenz von lediglich **15—40 b / min**, dadurch kann es auch in Ruhe bereits zu Symptomen einer Kreislaufschwäche kommen.
 
@@ -386,7 +373,6 @@ EKG: Asystolie
 :::
 
 (tafel-herzrhythmusstoerungenwichtige)=
-
 (tafel-herzrhythmusstoerungen)=
 
 :::{list-table} Wichtige Herzrhythmusstörungen
@@ -536,8 +522,7 @@ Fragestellung:
 ```{rubric} 🅂 — Symptome und Schmerzen
 ```
 
-Der Patient klagt oft
-über ein *"Herzklopfen"* (Palpitationen) und ist unruhig. Manchmal wird der Anfall von Angstgefühlen begleitet.
+Der Patient klagt oft über ein *"Herzklopfen"* (Palpitationen) und ist unruhig. Manchmal wird der Anfall von Angstgefühlen begleitet.
 
 Oft kommen *Begleitsymptome* dazu, wie zum Beispiel Atemnot oder ein leichter Brustschmerz. Dies sind erste Zeichen, dass das Herz an die Grenze seiner Belastbarkeit stößt.
 
@@ -601,7 +586,6 @@ Im Akutmanagement von Rhythmusstörungen stellen sich *drei* grundsätzliche Fra
 {term}`♛ ERC 2021 05`
 
 (proc-mr47091c)=
-
 (m-tachykarde-attacke)=
 
 ### Kritische *Tachykardie*
@@ -807,10 +791,8 @@ Hier könnte man sich endlos vertiefen, daher sei an dieser Stelle auf Expertenr
 Bedrohliche Symptome vorhanden?
 1. Schock (Kaltschweißig, Somnolent, Hypotonie, Tachykardie)
 2. Synkope (Folge der cerebralen Minderdurchblutung)
-3. Herzversagen mit Lungenödem (Linksherzversagen)
-oder erhöhtem jugularvenen Druck und Leberstauung (Rechtsherzversagen)
-4. Myokardischämiezeichen: Thoraxschmerz
-(AP) oder stummer Infarkt (DM!)
+3. Herzversagen mit Lungenödem (Linksherzversagen) oder erhöhtem jugularvenen Druck und Leberstauung (Rechtsherzversagen)
+4. Myokardischämiezeichen: Thoraxschmerz (AP) oder stummer Infarkt (DM!)
 
 Therapie: Elektrisch (Kardioversion, SM) oder medikamentös (Antiarrhythmika, Betablocker)
 
@@ -818,8 +800,7 @@ Therapie: Elektrisch (Kardioversion, SM) oder medikamentös (Antiarrhythmika, Be
 
 
 Instabiler Patient:
-- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300mg Amiodaron
-über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900mg  über 24h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
+- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300mg Amiodaron über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900mg  über 24h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
 
 
 Stabiler Patient:
@@ -844,12 +825,10 @@ Amiodaron
 
 :::
 
-Erregungsbildung/leitung am Herzen: Depolarisation (schneller Natriumeinstrom, QR), frühe Repolarisation (Kaliumausstrom, RS), Plateauphase (langsamer Calciumeinstrom, ST), terminale Repolarisation (Kaliumausstrom T-Welle), diastolisches Ruhepotential (P)
-Am AV-Knoten wirken: Calciumkanalblocker, Adenosin, Digoxin!
+Erregungsbildung/leitung am Herzen: Depolarisation (schneller Natriumeinstrom, QR), frühe Repolarisation (Kaliumausstrom, RS), Plateauphase (langsamer Calciumeinstrom, ST), terminale Repolarisation (Kaliumausstrom T-Welle), diastolisches Ruhepotential (P) Am AV-Knoten wirken: Calciumkanalblocker, Adenosin, Digoxin!
 An den Akzessorischen Bahnen: Phytoin Am Ventrikel: Lidocain
 
-Adenosin: verlangsamt die  Überleitung am AV-Knoten, hat aber wenig Effekt auf anderen myokardialen Zellen und Erregungsleitungsbahnen.    HWZ 10-15 sec! Bolus zu rasch laufender Infusion. Dosis: 6 -- 12 -- 12mg. NW der Gabe: Übelkeit, Hitzegefühl, Thoraxschmerz. KI bei WPW
-(induziert VHF mit gefährlich schneller Ventrikelüberleitung mit VT/VF)
+Adenosin: verlangsamt die  Überleitung am AV-Knoten, hat aber wenig Effekt auf anderen myokardialen Zellen und Erregungsleitungsbahnen.    HWZ 10-15 sec! Bolus zu rasch laufender Infusion. Dosis: 6 -- 12 -- 12mg. NW der Gabe: Übelkeit, Hitzegefühl, Thoraxschmerz. KI bei WPW (induziert VHF mit gefährlich schneller Ventrikelüberleitung mit VT/VF)
 
 
 
@@ -868,12 +847,10 @@ Betablocker: z.B. Atenolol, Metoprolol, Labetalol (α+β), Propranolol, Esmolol,
 
 Brugada-Syndrom:
 EKG: RSB, ST-Hebung in V1/2
-= Na-Kanalmutation mit Gefahr des sudden HF Kontraindiziert: Betablocker, Natriumkanalblocker
-(Lidocain, Phenytoin)
+= Na-Kanalmutation mit Gefahr des sudden HF Kontraindiziert: Betablocker, Natriumkanalblocker (Lidocain, Phenytoin)
 
 Long QT-Syndrom:
-Mit  „Torsades de pointes"  oft als Medikamentennebenwirkung (Neuroleptika, Erythromycin,...)
-oder bei Hypocalciämie.
+Mit  „Torsades de pointes"  oft als Medikamentennebenwirkung (Neuroleptika, Erythromycin,...) oder bei Hypocalciämie.
 Therapie: Absetzen aller QT-verlängernden Medikamente, 2g Magnesium und hochdosiert Betablocker
 
 VES: Therapie bei Salven, polymorphen VES mit Rhythmonorma, Sedacoron, Mg.

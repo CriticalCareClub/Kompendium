@@ -144,9 +144,7 @@ Digitus quartus
 Digitus quintus
 
 (beckenboden)=
-
 (beckenguertel)=
-
 (beckenring)=
 
 ## Pelvis (Beckenring)

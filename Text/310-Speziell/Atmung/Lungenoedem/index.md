@@ -203,7 +203,6 @@ SAMPLER: Lungenödem
 ```
 
 (proc-mj81xx1c)=
-
 (m-lungenoedem-leicht)=
 
 ## Maßnahmen: Kardiales Lungenödem, leicht
@@ -229,7 +228,6 @@ Beatmungstherapie
 : - CPAP-Beatmung erwägen
 
 (proc-mj81xx2c)=
-
 (m-lungenoedem-schwer)=
 
 ## Maßnahmen: Kardiales Lungenödem, schwer

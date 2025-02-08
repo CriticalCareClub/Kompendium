@@ -1,6 +1,10 @@
-```{index} single: Keatmin; S- single: S-Ketamin
+```{index} single: Keatmin; S- 
 ```
-```{index} single: Ketanest™ single: dissoziative Anästhesie
+```{index} single: S-Ketamin
+```
+```{index} single: Ketanest™ 
+```
+```{index} single: dissoziative Anästhesie
 ```
 ```{index} single: Anästhesie; dissoziative
 ```
@@ -8,8 +12,7 @@
 # Ketamin, S-
 
 Kombiniertes Hypnotikum und Analgetikum, induziert eine dissoziative Anästhesie mit tranceähnlichen Zustand, Schmerzlinderung, Sedierung Amnesie.
-Charakteristisch sind eine erhaltene Atmung und Atemwegsreflexe,
-sowie eine Sympathikuswirkung im Sinne von Kreislaufstimulation (relativ und nicht verlässlich) und eine Bronchodilatation.
+Charakteristisch sind eine erhaltene Atmung und Atemwegsreflexe, sowie eine Sympathikuswirkung im Sinne von Kreislaufstimulation (relativ und nicht verlässlich) und eine Bronchodilatation.
 
 :::{warning}
 Unterschiedliche Konzentrationen im Handel!
@@ -48,6 +51,5 @@ Unterschiedliche Konzentrationen im Handel!
 ```
 
 :::{note}
-V.a. bei Kindern mit Atropin kombinieren
-(Hypersalivation), Kombination mit Benzos empfohlen.
+V.a. bei Kindern mit Atropin kombinieren (Hypersalivation), Kombination mit Benzos empfohlen.
 :::

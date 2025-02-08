@@ -33,8 +33,7 @@ Das menschliche Skelett.
 ## Knochenverbindungen (Juncturen)
 
 Knochenverbindungen (Juncturen) können in **Synarthrosen** (kontinuierliche / unbewegliche Knochenverbindungen, Fugen / Haften) und **Diarthrosen**
-(diskontinuierliche / bewegliche Knochenverbindungen, Gelenke)
-unterteilt werden.
+(diskontinuierliche / bewegliche Knochenverbindungen, Gelenke) unterteilt werden.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenk-edited.\*
 :width: 50%
@@ -94,30 +93,22 @@ Die *Knochenenden* sind durch einen **Gelenkspalt** getrennt und mit **hyalinem 
 Die **Gelenkkapsel** ist die äußere Begrenzung des Gelenks und schließt die *Gelenkflüssigkeit* (*Synovia*) ein.
 In manchen Gelenken gibt es *Gelenkkörper* (Discus, Labrum, Meniscus, z.B. Kniegelenk).
 Die Gelenkkapsel besteht aus zwei Schichten:
-Eine derbe bindegewebige Schicht
-(*Membrana fibrosa*; straff, bestehend aus Kollagenfasern) ist außen und meist durch Ligamenta (Bänder) verstärkt.
-Die Gelenkinnenhaut
-({dfn}`Membrana synovialis`; Gefäß- und Nervenreich)
-sorgt für die Produktion der Gelenkflüssigkeit, die für die Nährstoffversorgung des Knorpels von großer Bedeutung ist.
+Eine derbe bindegewebige Schicht (*Membrana fibrosa*; straff, bestehend aus Kollagenfasern) ist außen und meist durch Ligamenta (Bänder) verstärkt.
+Die Gelenkinnenhaut ({dfn}`Membrana synovialis`; Gefäß- und Nervenreich) sorgt für die Produktion der Gelenkflüssigkeit, die für die Nährstoffversorgung des Knorpels von großer Bedeutung ist.
 
 Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen*
 (*Chondrozyten)* besteht dieser Knorpel aus *Extrazellulärmatrix*
 {deep}`(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)`.
-{deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.`
-Er ist auch aufgrund des mangelndem Knorpelhaut
-(Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
+{deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.` Er ist auch aufgrund des mangelndem Knorpelhaut (Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
 
 Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
-"Basisausstattung" der Gelenke dazugehört: Verstärkungsbänder
-(Ligamentum), Zwischenscheiben (Discus articularis), Gelenklippen
-(Labrum), Gleitbeutel (Recessus; dies sind keine Schleimbeutel!).
+"Basisausstattung" der Gelenke dazugehört: Verstärkungsbänder (Ligamentum), Zwischenscheiben (Discus articularis), Gelenklippen (Labrum), Gleitbeutel (Recessus; dies sind keine Schleimbeutel!).
 
 Die Gelenke werden je nach Ausstattung unterschiedlich *gesichert* und in *exzessiver Bewegung gehemmt*.
 Es gibt daher die *Bandhemmung*
 (Bewegungshemmung durch Bänder, z. B. Kniegelenk), die *Knochenhemmung*
-(Bewegungshemmung durch Knochen, z. B. Ellenbogengelenk), die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk, Hüftgelenk)
-und die *Weichteilhemmung* (Bewegungshemmung durch sonstige Weichteile, z. B. Ellenbogengelenk, Kniegelenk).
+(Bewegungshemmung durch Knochen, z. B. Ellenbogengelenk), die *Muskelhemmung* (Bewegungshemmung durch Muskeln, z.B. Handgelenk, Hüftgelenk) und die *Weichteilhemmung* (Bewegungshemmung durch sonstige Weichteile, z. B. Ellenbogengelenk, Kniegelenk).
 
 Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es gibt
 
@@ -127,17 +118,29 @@ Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es gibt
 
 ```{index} single: Kugelgelenk
 ```
-```{index} single: Gelenk;Kugel- single: Eigelenk
+```{index} single: Gelenk;Kugel- 
 ```
-```{index} single: Gelenk;Ei- single: Sattelgelenk
+```{index} single: Eigelenk
 ```
-```{index} single: Gelenk;Sattel- single: Scharniergelenk
+```{index} single: Gelenk;Ei- 
 ```
-```{index} single: Gelenk;Scharnier- single: Zapfengelenk
+```{index} single: Sattelgelenk
 ```
-```{index} single: Gelenk;Zapfen- single: Zusammengesetztes Gelenk
+```{index} single: Gelenk;Sattel- 
 ```
-```{index} single: Gelenk;zusammengesetztes - single: Zusammengesetztes Gelenk
+```{index} single: Scharniergelenk
+```
+```{index} single: Gelenk;Scharnier- 
+```
+```{index} single: Zapfengelenk
+```
+```{index} single: Gelenk;Zapfen- 
+```
+```{index} single: Zusammengesetztes Gelenk
+```
+```{index} single: Gelenk;zusammengesetztes - 
+```
+```{index} single: Zusammengesetztes Gelenk
 ```
 ```{index} single: Gelenk;zusammengesetztes -
 ```
@@ -209,15 +212,13 @@ Zusätzlich muss man noch folgende unterschiedliche *Gelenksarten* unterscheiden
 
 Zum Aufbau der Muskel siehe {ref}`Muskel`.
 
-Muskel überspannen mindestens ein Gelenk und sind direkt oder über Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* {deep}`(Origio)`
-und ein *Ansatz* {deep}`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und der Ansatz Rumpf-fern.
+Muskel überspannen mindestens ein Gelenk und sind direkt oder über Sehnen an den angrenzenden Knochen befestigt. Zur durchgehenden Nomenklatur wurde für den Skelettmuskel jeweils ein *Ursprung* {deep}`(Origio)` und ein *Ansatz* {deep}`(Insertio)` definiert. Der Ursprung liegt Rumpf-nahe und der Ansatz Rumpf-fern.
 
 Eine weitere Beschreibungsmöglichkeit von Muskeln umfasst die Begriffe **Punctum mobile** — der Skelettteil der bewegt wird —
 und **Punctum fixum** — der Skelettteil der unbewegt bleibt.
 In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctum mobile wechseln (z.B. {ref}`Atemhilfsmuskulatur <Atemhilfsmuskulatur>`)!
 
-Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** notwendig, um eine Bewegung aufzuheben
-(**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.:
+Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** notwendig, um eine Bewegung aufzuheben (**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.:
 ein Muskel streckt den Arm, ein *anderer* beugt ihn).
 
 :::{figure} /Bilder/WikipediaPd/Gray361.\*
@@ -267,10 +268,7 @@ Wie bereits erwähnt, besitzen Muskeln *Hilfseinrichtungen*, um das richtige Fun
 {index}` <Muskel; -faszie>`
 Die Muskelfasern sind von Bindegewebe (*Endo*mysium) umhüllt. Diese bilden dann gemeinsam Muskelbündel, die wiederum von Bindegewebe (*Peri*mysium) umhüllt werden. Mehrere Muskelbündel gemeinsam bilden den Muskel, welcher vom *Epi*mysium umhüllt ist. Der Muskel ist zudem in eine **Muskelfaszie** verpackt, um eine möglichst reibungsarme Bewegung zu ermöglichen.
 
-Einige Muskeln besitzen auch einen
-{index}` <Hypomochlion>`
-{index}` <Umlenkpunkt; Muskel>`
-*Umlenkpunkt* (**Hypomochlion**), da Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen, z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
+Einige Muskeln besitzen auch einen {index}` <Hypomochlion>` {index}` <Umlenkpunkt; Muskel>` *Umlenkpunkt* (**Hypomochlion**), da Muskelursprung und Muskelsehne nicht immer in einer (Zug-)Linie liegen, z.B. Muskeln mit Ursprung am Unterschenkel und Ansatz an den Zehen.
 
 Die **Muskelwirkung** ist immer abhängig vom *Hebelarm* und lässt sich mittels folgenden Formeln darstellen:
 
@@ -279,5 +277,4 @@ Die **Muskelwirkung** ist immer abhängig vom *Hebelarm* und lässt sich mittels
 
 Zusätzlich ist die Muskelkraft immer abhängig vom *physiologischen Querschnitt*. Dieser physiologische Querschnitt ist definiert als die Summe der Querschnitte aller Fasern.
 
-{index}` <Endplatte; motorische>`
-Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem motorischen Nerv über die **motorische Endplatte**, eine spezialisierte Form der Synapse.
+{index}` <Endplatte; motorische>` Den Anreiz, sich zu kontrahieren, erhält der Muskel von einem motorischen Nerv über die **motorische Endplatte**, eine spezialisierte Form der Synapse.

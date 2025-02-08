@@ -2,8 +2,7 @@
 
 ## Umgang mit Kindern
 
-Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
-(Be-)Handlung einbezogen werden.
+Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die (Be-)Handlung einbezogen werden.
 Nach Möglichkeit soll das Kind während der Betreuung eng bei der Vertrauensperson belassen werden auf den Schoss setzen, …).
 
 
@@ -12,8 +11,7 @@ Nach Möglichkeit soll das Kind während der Betreuung eng bei der Vertrauensper
 ## Anatomische und physiologische Besonderheiten
 
 Kinder unterscheiden sich wesentlich von erwachsenen Patienten, nicht nur in ihrer Fähigkeit, ihre Umwelt und gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer Anatomie und Physiologie.
-Die Tabelle {ref}`Table-altersgruppen-kinder` zeigt eine
-Übersicht über die Einteilung von Kindern nach Altersgruppen.
+Die Tabelle {ref}`Table-altersgruppen-kinder` zeigt eine Übersicht über die Einteilung von Kindern nach Altersgruppen.
 In der Literatur kommt es gelegentlich zu abweichenden Definitionen.
 So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
 
@@ -148,7 +146,6 @@ Diese Infektion wird durch Viren verursacht.
 Das Leitsymptom ist ein typischer, *trockener, bellender Husten*. Oft ist auch ein pfeifendes Geräusch beim Einatmen *(inspiratorischer Stridor)* wahrnehmbar, und es besteht Heiserkeit und Dyspnoe. Fieber ist eher diskret und steht nicht im Vordergrund. Die Laryngitis tritt vor allem im Alter zwischen 3 Monaten und 6 Jahren auf, gut geheizte und trockene Räume fördern das Auftreten.
 
 (kj05000c)=
-
 (m-laryngitis)=
 
 #### Akute obstruktive Laryngitis
@@ -190,7 +187,6 @@ Bei der Epiglottitis handelt es sich um eine *bakterielle Entzündung* und darau
 Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch bei der Einatmung wahrnehmbar (*inspiratorischer Stridor*). Der Patient hält den Mund offen und es ist ein Speichelfluss bemerkbar. Der Patient ist eher ruhig und spricht kaum, er hat Angst.
 
 (kj05010c)=
-
 (m-epiglottitis)=
 
 #### Akute Epiglottitis
@@ -259,7 +255,6 @@ Letzten Endes ist die genaue *Ursache unbekannt*, eine verlässliche Vorhersage,
 Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich ist und *die Eltern keine Schuld trifft*!
 
 (kr95090c)=
-
 (m-sids)=
 
 #### Maßanhamen: SIDS
@@ -309,7 +304,6 @@ Nobody is dead until warm and dead!
 :::
 
 (mt75010c)=
-
 (m-ertrinkungsunfall)=
 
 #### Maßnahmen: Ertrinkungsunfall
@@ -347,13 +341,11 @@ Eine Besonderheit stellt jedoch der
 Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe entwickeln. Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu behandeln. Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
 (kr56001c)=
-
 (m-fieberkrampf-kindesalter)=
 
 ##### Maßnahmen: Fieberkrampf im Kindesalter
 
-Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen
-({ref}`m-zerebraler-krampfanfall-bestendend`).
+Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen ({ref}`m-zerebraler-krampfanfall-bestendend`).
 Die Körpertemperatur ist immer zu messen!
 
 ### Kindesmisshandlung

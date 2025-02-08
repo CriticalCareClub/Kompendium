@@ -6,11 +6,8 @@
 ```
 
 (membrumsuperius)=
-
 (obereextremitaet)=
-
 (obere-extremitaet)=
-
 (schulterguertel)=
 
 # Obere Extremität (Membrum superius)
@@ -319,7 +316,6 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 ```
 
 (articulatioglenohumeralis)=
-
 (schultergelenk)=
 
 ### Articulatio glenohumeralis (Schultergelenk)
@@ -348,7 +344,9 @@ supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das Schulter
 ```
 ```{index} single: Ellenbogengelenk
 ```
-```{index} single: Gelenk; Ellenbogen- single: Schleimbeutel; Ellenbogengelenk
+```{index} single: Gelenk; Ellenbogen- 
+```
+```{index} single: Schleimbeutel; Ellenbogengelenk
 ```
 ```{index} single: Bursa; olecrani
 ```
@@ -360,7 +358,6 @@ supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das Schulter
 ```
 
 (articulatio-cubiti)=
-
 (ellenbogengelenk)=
 
 ### Articulatio cubiti (Ellenbogengelenk)
@@ -384,7 +381,9 @@ anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist knochen- und ba
 ```
 ```{index} single: Daumensattelgelenk
 ```
-```{index} single: Gelenk; Daumensattel- single: Articulatio; radiocarpea
+```{index} single: Gelenk; Daumensattel- 
+```
+```{index} single: Articulatio; radiocarpea
 ```
 ```{index} single: Articulatio; radiocarpea
 ```

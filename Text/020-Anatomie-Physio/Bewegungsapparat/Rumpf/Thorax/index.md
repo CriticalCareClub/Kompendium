@@ -8,11 +8,8 @@
 ```
 
 (brustkorb-skelett)=
-
 (thorax)=
-
 (intercostalraum)=
-
 (rippengefaessnervenbuendel)=
 
 # Thorax (Brustkorb)

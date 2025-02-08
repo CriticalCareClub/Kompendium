@@ -1,4 +1,6 @@
-```{index} pair: OP; Curettage pair: OP; Hysteroskopie
+```{index} pair: OP; Curettage 
+```
+```{index} pair: OP; Hysteroskopie
 ```
 ```{index} pair: OP; Konisation
 ```
@@ -6,7 +8,6 @@
 ```
 
 (konisation-mit-curettage)=
-
 (hysteroskopie-und-curettage)=
 
 # 8.5.2 Hysteroskopie, Curettage, Konisation

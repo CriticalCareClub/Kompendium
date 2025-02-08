@@ -21,9 +21,7 @@ Meistens liegt eine chronische Schädigung der Gefäße infolge anderer Erkankun
 ```{rubric} Chronische Grunderkrankung: pAVK
 ```
 
-Wenn die Gefäße nur verengt sind,
-spricht man von der *peripheren arteriellen Verschlusskrankheit*,
-abgekürzt
+Wenn die Gefäße nur verengt sind, spricht man von der *peripheren arteriellen Verschlusskrankheit*, abgekürzt
 {dfn}`paVK`.
 Sie ist eine häufige chronische Erkrankung.
 (*Achtung*: Obwohl es
@@ -138,7 +136,6 @@ Die Symptome ergeben sich aus der Unterversorgung der Extremität mit sauerstoff
   gerinnungshemmender Therapie.
 
 (m-arterieller-gefaessverschluss)=
-
 (proc-mi74041c)=
 
 ## Maßnahmen: Peripherer arterieller Gefäßverschluss

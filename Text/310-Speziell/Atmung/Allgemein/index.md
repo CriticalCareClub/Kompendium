@@ -1,6 +1,8 @@
 ```{index} single: Ateminsuffizienz
 ```
-```{index} single: Insuffizienz; Atem- single: Dyspnoe
+```{index} single: Insuffizienz; Atem- 
+```
+```{index} single: Dyspnoe
 ```
 ```{index} single: Apnoe
 ```
@@ -26,14 +28,12 @@
 ::::
 
 Störungen der Atmung können aus vielen Ursachen eintreten.
-Die Tabelle {ref}`Table-atemstoerungen-ursachen`
-beschreibt die wichtigsten Pathomechanismen und Störungen.
+Die Tabelle {ref}`Table-atemstoerungen-ursachen` beschreibt die wichtigsten Pathomechanismen und Störungen.
 
 Der Begriff {dfn}`Ateminsuffizienz` beschreibt allgemein eine *nicht ausreichende Atmung*, unabhängig von der Ursache der Störung. Sie führt zu einem Sauerstoffmangel (Hypoxie).
 Der {dfn}`Atemstillstand` ({dfn}`Apnoe`) ist die extremste Form der Ateminsuffizenz.
 Störungen der Atemgeschwindigkeit werden als *Bradypnoe* (zu langsam) und als *Tachypnoe* (zu schnell) bezeichnet.
-Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot*
-({dfn}`Dyspnoe`).
+Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot* ({dfn}`Dyspnoe`).
 Oft führen Störungen außerhalb des Atemsystems zu einer Störung der Sauerstoffversorgung des Körpers und dadurch zu Atemnot.
 
 ## Gefahr der Ateminsuffizienz
@@ -48,12 +48,9 @@ Oft führen Störungen außerhalb des Atemsystems zu einer Störung der Sauersto
 ::::
 
 Bei einer Ateminsuffizienz sinkt der *O₂-Gehalt* im Blut. Es kommt zu einer *Hypoxie* und in weiterer Folge zu einer Unterversorgung lebenswichtiger Organe wie Herz und Hirn mit Sauerstoff. Außerdem ist die *CO₂-Abgabe* gestört und es kommt zu einer Anhäufung von CO₂ im Blut.
-In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung*
-({ref}`respiratorische Azidose <azidose-respiratorische>`)
-kommen.
+In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung* ({ref}`respiratorische Azidose <azidose-respiratorische>`) kommen.
 
 (table-atemstoerungen-ursachen)=
-
 (tab-atemstoerungen-ursachen)=
 
 :::{list-table} Ursachen von Atemstörungen
@@ -116,12 +113,10 @@ Atemstörungen können viele verschiedene Symptome verursachen.
 
 Häufig erkennbar sind z. B. eine *Zyanose*, Klage über subjektive *Atemnot*, eine zu schnelle oder langsame Atmung (Tachy-/Bradypnoe; *AF
 \< 8 / min oder > 30 / min*), eine auffällige *Atemtiefe* (flach, tief, evtl.
-*Schnappatmung*), pathologische Atemmuster, eine paradoxe oder überhaupt fehlende Atmung oder andere Symptome der Atemnot
-({ref}`Table-atmung-symptome`).
+*Schnappatmung*), pathologische Atemmuster, eine paradoxe oder überhaupt fehlende Atmung oder andere Symptome der Atemnot ({ref}`Table-atmung-symptome`).
 Bei der Auskultation kann eine ungleichseitige Belüftung der Lungen festgestellt werden, sowie diverse Atemnebengeräusche (feuchte Rasselgeräusche, spastische Atemgeräusche).
 
-Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid,
-Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
+Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid, Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 
 ```{eval-rst}
 .. table:: Symptome von Atemstörungen
@@ -177,7 +172,6 @@ Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das Vorhandensein v
 ## Maßnahmen
 
 (m-atmung-insuffizient)=
-
 (proc-mj96091c)=
 
 ### Insuffiziente Atmung
@@ -191,7 +185,6 @@ Anm.: AF \< 8 oder > 30 / min, bzw. AZV zu niedrig
 - Ursachenforschung
 
 (m-atemstillstand)=
-
 (proc-mr09020b)=
 
 ### Atemstillstand
@@ -199,8 +192,7 @@ Anm.: AF \< 8 oder > 30 / min, bzw. AZV zu niedrig
 Bei einem mit Atemstillstand vorgefundenen Patienten ist grundsätzlich auch von einem Kreislaufstillstand auszugehen.
 
 Nur in sehr seltenen Fällen kann primär ein isolierter Atemstillstand ohne gleichzeitigem Kreislaufstillstand beobachtet werden. Auf diese Spezialfälle (z. B.
-Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose)
-wird an dieser Stelle nicht behandelt.
+Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemstillstand (z. B. im Rahmen einer Narkose) wird an dieser Stelle nicht behandelt.
 
 
 -----
@@ -234,11 +226,9 @@ Pneumonie
     Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
 ```
 
-Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem,
-Atelektasen)
+Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
 
-Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes
-(Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
+Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
 
 Lagerung: Trendelenburglagerung, Verschüttung
 

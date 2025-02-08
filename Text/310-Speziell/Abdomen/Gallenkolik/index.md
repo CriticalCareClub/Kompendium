@@ -32,7 +32,6 @@ Der rechte Oberbauch ist äußerst druckschmerzhaft, der Patient ist sehr *unruh
 ::::
 
 (ck80811c)=
-
 (m-gallenkolik)=
 
 ## ⛑ Basismaßnahmen

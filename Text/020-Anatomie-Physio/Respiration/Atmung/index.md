@@ -4,7 +4,6 @@
 ```
 
 (atemhilfsmuskulatur)=
-
 (atemmechanik)=
 
 ## Atemmechanik
@@ -65,9 +64,7 @@ $$
 ```
 
 (atemzyklus)=
-
 (inspiration)=
-
 (exspiration)=
 
 ### Resultat: Der Atemzyklus
@@ -134,7 +131,6 @@ Die *Alveolarventilation* (Anteil der Atemluft für den eigentlichen Sauerstoffa
 ```
 
 (totraum)=
-
 (totraumventilation)=
 
 ## Totraum

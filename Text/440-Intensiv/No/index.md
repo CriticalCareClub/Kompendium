@@ -45,7 +45,9 @@
 
 ## Einleitung
 
-```{index} pair: Stickstoffmonoxid; NO-A pair: NO; NO-A
+```{index} pair: Stickstoffmonoxid; NO-A 
+```
+```{index} pair: NO; NO-A
 ```
 ```{index} single: NO-Therapie
 ```
@@ -60,11 +62,24 @@
 Das Molekül Stickstoffmonoxid, kurz NO, ist aus einem Sauerstoff- und einem Stickstoffatom aufgebaut, welche über eine Doppelbindung verknüpft sind.
 Es spielt als Gasotransmitter eine entscheidende Rolle bei der Regulation der Weite von Blutgefäßen. [^cite_dc-fx-no]
 
-Stickstoffmonoxid reagiert im Blut innerhalb von Sekunden mit Oxyhämoglobin zu NO₃⁻,
-daher ist die Wirkung auf das Applikationsgebiet beschränkt.
+Stickstoffmonoxid reagiert im Blut innerhalb von Sekunden mit Oxyhämoglobin zu NO₃⁻, daher ist die Wirkung auf das Applikationsgebiet beschränkt.
 Stickstoffmonoxid ist als **Arzneimittel** zugelassen.
 
-```{index} single: Stickstoffmonoxid Messer pair: ARDS; NO-Therapie pair: COVID-19; NO-Therapie pair: Pneumonie; NO-Therapie pair: Hypertonie, pulmonale; NO-Therapie pair: Neugeborene, respiratorische Insuffizienz; NO-Therapie pair: Druck, pulmonalarterieller; NO-Therapie pair: Pulmonaliskatheter; NO-Therapie
+```{index} single: Stickstoffmonoxid Messer 
+```
+```{index} pair: ARDS; NO-Therapie 
+```
+```{index} pair: COVID-19; NO-Therapie 
+```
+```{index} pair: Pneumonie; NO-Therapie 
+```
+```{index} pair: Hypertonie, pulmonale; NO-Therapie 
+```
+```{index} pair: Neugeborene, respiratorische Insuffizienz; NO-Therapie 
+```
+```{index} pair: Druck, pulmonalarterieller; NO-Therapie 
+```
+```{index} pair: Pulmonaliskatheter; NO-Therapie
 ```
 
 (no-a-indikationen)=
@@ -105,8 +120,7 @@ Neben der unzureichenden Sauerstoffversorgung des Blutes stellt beim akuten Lung
 Gibt man der Atemluft Stickstoffmonoxid hinzu, kommt es an den *pulmonalen Gefäßmuskelzellen* über die gleichen Mechanismen wie durch endogen gebildetes NO zur *Vasodilatation*.
 Dadurch reichert sich mehr Sauerstoff im Blut an, und der Blutdruck sinkt.
 Weitere Daten belegen, daß zusätzlich die Pumpleistung des rechten Herzens zunimmt und sich weniger Wasser in der Lunge einlagert.
-Weil das NO in der Blutbahn sofort durch die Erythrozyten inaktiviert wird, bleibt der Effekt auf das *Lungengebiet begrenzt*,
-so daß der bei diesen Patienten meist erniedrigte systemische Blutdruck nicht noch weiter gesenkt wird.
+Weil das NO in der Blutbahn sofort durch die Erythrozyten inaktiviert wird, bleibt der Effekt auf das *Lungengebiet begrenzt*, so daß der bei diesen Patienten meist erniedrigte systemische Blutdruck nicht noch weiter gesenkt wird.
 
 Als Indikationsgebiete für die NO-Inhalationstherapie, für die schon klinische Erfahrungen bestehen, gelten neben unfall- oder entzündungsbedingtem akuten Lungenversagen die pulmonale Hypertonie bei Neugeborenen, nach kardiochirurgischen Eingriffen oder nach Lungen­trans­plan­ta­tion. [^cite_blaeser-kiel-1996]
 
@@ -117,12 +131,17 @@ Man hat beobachtet, daß auch bei länger dauernder NO-Inhalationstherapie der t
 ```
 
 Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
-Die *Anfangsdosis* beträgt 20 ppm,
-eine rasche Reduktion auf 5 ppm ist anzustreben.
+Die *Anfangsdosis* beträgt 20 ppm, eine rasche Reduktion auf 5 ppm ist anzustreben.
 Bei ARDS ist das Monitoring mit *Pulmonaliskatheter* zwecks Einschätzung der kardialen Funktion großzügig zu stellen.
 Kontraindikationen beachten!
 
-```{index} pair: NO-Therapie; Kontraindikationen pair: Herzinsuffizienz; NO-Therapie pair: PCWP; NO-Therapie pair: Shunt; NO-Therapie
+```{index} pair: NO-Therapie; Kontraindikationen 
+```
+```{index} pair: Herzinsuffizienz; NO-Therapie 
+```
+```{index} pair: PCWP; NO-Therapie 
+```
+```{index} pair: Shunt; NO-Therapie
 ```
 
 (no-a-kontraindikationen)=
@@ -157,7 +176,17 @@ Kontraindikationen beachten!
 
 Die NO-Therapie sollte nicht abrupt abgesetzt werden, weil dies zu einem Anstieg des Pulmonalarteriendrucks (PAP) und/oder einer Verschlechterung der Blutoxygenierung (PaO₂) führen kann. [^cite_fi-no]
 
-```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie pair: Methämoglobin; NO-Therapie pair: Stickstoffdioxid; NO-Therapie pair: NO₂; NO-Therapie pair: Thrombozyten; NO-Therapie pair: Gerinnung; NO-Therapie
+```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie 
+```
+```{index} pair: Methämoglobin; NO-Therapie 
+```
+```{index} pair: Stickstoffdioxid; NO-Therapie 
+```
+```{index} pair: NO₂; NO-Therapie 
+```
+```{index} pair: Thrombozyten; NO-Therapie 
+```
+```{index} pair: Gerinnung; NO-Therapie
 ```
 ```{index} single: Hämostase; NO-Therapie
 ```
@@ -169,11 +198,9 @@ Die NO-Therapie sollte nicht abrupt abgesetzt werden, weil dies zu einem Anstieg
 ```
 
 Ein großer Anteil des Stickstoffmonoxids für die Inhalation wird systemisch absorbiert.
-Die in den systemischen Kreislauf eintretenden Endprodukte des Stickstoffmonoxids sind hauptsächlich
-Methämoglobin und Nitrat.
+Die in den systemischen Kreislauf eintretenden Endprodukte des Stickstoffmonoxids sind hauptsächlich Methämoglobin und Nitrat.
 Die Methämoglobinkonzentration im Blut muss überwacht werden:
-Bei Erwachsenen sollte der Methhämoglobinspiegel
-*innerhalb einer Stunde* nach Therapie-Beginn  gemessen werden.
+Bei Erwachsenen sollte der Methhämoglobinspiegel *innerhalb einer Stunde* nach Therapie-Beginn  gemessen werden.
 [^cite_fi-no]
 
 Siehe {ref}`Probleme-Methhaemoglobin`.
@@ -186,8 +213,7 @@ NO bildet zusammen mit O₂ rasch Stickstoffdioxid (NO₂).
 Dadurch können Entzündungen und Schädigungen der Atemwege ausgelöst werden.
 
 Die Konzentration von **NO₂**
-muss so niedrig wie möglich gehalten werden
-und darf **max. 0,5 ppm** betragen.
+muss so niedrig wie möglich gehalten werden und darf **max. 0,5 ppm** betragen.
 Darüber hinaus muss die Stickstoffmonoxiddosis oder FiO₂ reduziert werden.
 Siehe {ref}`Probleme-No-2-hoch`.
 
@@ -197,14 +223,10 @@ Unmittelbar vor Beginn der Behandlung muss bei jedem Patienten NO₂ mit einem g
 .. rubric:: Wirkung auf Thrombozyten
 ```
 
-Tierversuche haben gezeigt,
-dass NO mit der Hämostase interagieren und zu verlängerten Blutungszeiten führen kann.
+Tierversuche haben gezeigt, dass NO mit der Hämostase interagieren und zu verlängerten Blutungszeiten führen kann.
 Die an Erwachsenen gewonnenen Daten widersprechen sich.
 
-Eine regelmäßige Überwachung der Hämostase und Messung der Blutungszeit während der Anwendung von NO über mehr als 24 Stunden wird empfohlen
-bei Patienten mit funktionellen oder quantitativen Thrombozytenanomalien,
-einem niedrigen Gerinnungsfaktor
-oder bei Patienten unter Antikoagulationstherapie.
+Eine regelmäßige Überwachung der Hämostase und Messung der Blutungszeit während der Anwendung von NO über mehr als 24 Stunden wird empfohlen bei Patienten mit funktionellen oder quantitativen Thrombozytenanomalien, einem niedrigen Gerinnungsfaktor oder bei Patienten unter Antikoagulationstherapie.
 
 [^cite_fi-no]
 
@@ -217,13 +239,10 @@ oder bei Patienten unter Antikoagulationstherapie.
 
 ### Indikationen und Kontraindikationen beachten, Therapie planen
 
-Die kardiale Situation ist vor Therapiebeginn zu beachten
-und ggfs. zu evaluieren,
-siehe {ref}`Kontraindikationen <No-A-Kontraindikationen>`.
+Die kardiale Situation ist vor Therapiebeginn zu beachten und ggfs. zu evaluieren, siehe {ref}`Kontraindikationen <No-A-Kontraindikationen>`.
 Bei ARDS ist das Monitoring mit *Pulmonaliskatheter* zwecks Einschätzung der kardialen Funktion großzügig zu stellen.
 
-Die **Anfangsdosis** beträgt **20 ppm**,
-eine *rasche Reduktion* auf **5 ppm** ist anzustreben.
+Die **Anfangsdosis** beträgt **20 ppm**, eine *rasche Reduktion* auf **5 ppm** ist anzustreben.
 Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
 
 (probleme)=
@@ -234,13 +253,8 @@ Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
 
 ### NO{sub}`2` > 0,5 ppm
 
-Steigt die NO₂-Konzentration über 0,5 ppm,
-muss das Abgabesystem auf eine Fehlfunktion untersucht,
-das NO₂-Analysengerät erneut kalibriert 6 und INOmax und/oder FiO₂,
-wenn möglich, reduziert werden.
-Tritt eine unerwartete Veränderung der INOmax-Konzentration auf,
-muss das Abgabesystem auf eine Fehlfunktion untersucht
-und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
+Steigt die NO₂-Konzentration über 0,5 ppm, muss das Abgabesystem auf eine Fehlfunktion untersucht, das NO₂-Analysengerät erneut kalibriert 6 und INOmax und/oder FiO₂, wenn möglich, reduziert werden.
+Tritt eine unerwartete Veränderung der INOmax-Konzentration auf, muss das Abgabesystem auf eine Fehlfunktion untersucht und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
 
 :::{danger}
 Die **NO₂**-Konzentration muss **unter 0,5 ppm** liegen!
@@ -250,9 +264,7 @@ Die **NO₂**-Konzentration muss **unter 0,5 ppm** liegen!
 
 ### Unerwartete Veränderung der gemessenen Gas-Konzentrationen
 
-Tritt eine unerwartete Veränderung der Gas-Konzentration auf,
-muss das Abgabesystem auf eine Fehlfunktion untersucht
-und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
+Tritt eine unerwartete Veränderung der Gas-Konzentration auf, muss das Abgabesystem auf eine Fehlfunktion untersucht und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
 
 ```{index} pair: Methhämoglobin; NO-A
 ```
@@ -261,13 +273,8 @@ und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
 
 ### Methhämoglobinspiegel steigt
 
-Bei Erwachsenen sollte der Methhämoglobinspiegel
-*innerhalb einer Stunde* nach Therapie-Beginn gemessen werden.
-Steigt der Anteil von Methämoglobin auf einen Wert,
-der potentiell eine adäquate Sauerstoffzufuhr beeinträchtigt,
-ist die Dosis von Stickstoffmonoxid Messer zu senken
-und die Anwendung von Reduktionsmitteln
-wie *Methylenblau* in Erwägung zu ziehen.
+Bei Erwachsenen sollte der Methhämoglobinspiegel *innerhalb einer Stunde* nach Therapie-Beginn gemessen werden.
+Steigt der Anteil von Methämoglobin auf einen Wert, der potentiell eine adäquate Sauerstoffzufuhr beeinträchtigt, ist die Dosis von Stickstoffmonoxid Messer zu senken und die Anwendung von Reduktionsmitteln wie *Methylenblau* in Erwägung zu ziehen.
 
 ## Literatur und Quellen
 

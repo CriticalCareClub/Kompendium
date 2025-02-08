@@ -49,7 +49,6 @@ Grundsätzlich kommt fast jede Erkrankung oder Verletzung in Betracht die Strukt
 - …
 
 (cr10000c)=
-
 (m-akutes-abdomen)=
 
 ## Maßnahmen: Akutes Abdomen

@@ -64,11 +64,8 @@ Zyanotische Lippen können schon frühzeitig auffallen.
 ```
 
 (m-einschaetzung-indikation-ws-immobilisation)=
-
 (proc-yy14200b)=
-
 (yy14200b)=
-
 (indikationwirbelsaeulenimmobilisation)=
 
 ## Indikation zur Wirbelsäulenimmobilisation

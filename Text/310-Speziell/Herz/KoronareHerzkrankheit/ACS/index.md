@@ -30,17 +30,13 @@ Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infar
 
 :::{admonition} Definition
 
-Das {dfn}`Akute Koronarsyndrom`
-(*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
+Das {dfn}`Akute Koronarsyndrom` (*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
 :::
 
 Bei diesen Krankheitsbildern kommt es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und Sauerstoff aufgrund der Durchblutungsstörung.
-Die Ursache sind in erster Linie verengte oder verstopfte Herzkranzgefäße
-(*Ischämie*, {ref}`ischaemie`).
+Die Ursache sind in erster Linie verengte oder verstopfte Herzkranzgefäße (*Ischämie*, {ref}`ischaemie`).
 Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.
-Daneben gibt es noch andere Erkrankungen, welche sich von den vorgenannten entweder durch die Pathogenese
-(z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus
-(z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
+Daneben gibt es noch andere Erkrankungen, welche sich von den vorgenannten entweder durch die Pathogenese (z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
 
 
 
@@ -108,8 +104,7 @@ Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig 
 ```{rubric} |Text-Abcde-4|
 ```
 
-Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot*
-(*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
+Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
 Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
 Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen, welcher als Verdauungsstörung oder Magen-Darm-Erkrankung fehlgedeutet werden kann.
 
@@ -201,10 +196,13 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 ## 🔎 Diagnostik
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
-Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`)
-und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
+Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`) und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
 
-```{index} pair: STEMI-Kriterien; EKG pair: Hauptstammbild; EKG pair: CX-Infarkt; EKG
+```{index} pair: STEMI-Kriterien; EKG 
+```
+```{index} pair: Hauptstammbild; EKG 
+```
+```{index} pair: CX-Infarkt; EKG
 ```
 
 ### STEMI-Kriterien
@@ -284,7 +282,6 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 [^ldh]: LDH: Laktatdehydrogenase
 
 (m-akutes-koronarsyndrom-beschwerdefrei)=
-
 (m-akutes-koronarsyndrom)=
 
 ## 🩹 Therapie
@@ -425,7 +422,11 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
     und 50—70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
     somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
 
-```{index} single: P2Y₁₂ single: P2Y₁₂-Inhibitor
+
+
+```{index} single: P2Y₁₂ 
+```
+```{index} single: P2Y₁₂-Inhibitor
 ```
 ```{index} single: Ticagrelor; ACS
 ```
@@ -438,20 +439,14 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
 
 #### P2Y₁₂-Inhibitor
 
-Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten und ist als Chemorezeptor für Adenosindiphosphat (ADP)
-an der Thrombozytenaggregation beteiligt und somit ein wichtiger Regulator der Blutgerinnung.
-Beim ACS ist eine Hemmung mittels eines potenten *P2Y₁₂-Inhibitors*
-(*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*)
-empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
-(und weiter für 12 Monate), sofern keine Kontraindikationen oder ein Risiko für exzessive Blutungen besteht.
+Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten und ist als Chemorezeptor für Adenosindiphosphat (ADP) an der Thrombozytenaggregation beteiligt und somit ein wichtiger Regulator der Blutgerinnung.
+Beim ACS ist eine Hemmung mittels eines potenten *P2Y₁₂-Inhibitors* (*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*) empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI (und weiter für 12 Monate), sofern keine Kontraindikationen oder ein Risiko für exzessive Blutungen besteht.
 P2Y₁₂-Inhibitor indiziert.
 
 Beim **STEMI** ist das Mittel der Wahl **Ticagrelor** (*Brilique®*).
-Es ist einfach anwendbar, behindert Interventionen kaum, ist auch grundsätzlich beim NSTEMI einsetzbar und ist als *Schmelztablette* einsetzbar
-(Cave: keine Resorption über Mundschleimhaut, sondern im GI-Trakt;
+Es ist einfach anwendbar, behindert Interventionen kaum, ist auch grundsätzlich beim NSTEMI einsetzbar und ist als *Schmelztablette* einsetzbar (Cave: keine Resorption über Mundschleimhaut, sondern im GI-Trakt;
 Gabe z. B. über Magensonde möglich).
-Für das alternativ anwendbare **Prasugrel** (*Efient®*)
-bestehen diverse Kontraindikationen (Alter, Gewicht), was die Anwendung verkompliziert.
+Für das alternativ anwendbare **Prasugrel** (*Efient®*) bestehen diverse Kontraindikationen (Alter, Gewicht), was die Anwendung verkompliziert.
 
 Bei **stabilen KHK-Patienten** und ACS-Patienten, welche kein Prasugrel oder Ticagrelor erhalten können, sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie, ist **Clopidogrel** (*Plavix®*) empfohlen.
 
@@ -477,7 +472,19 @@ Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 - (AT-II-Inhibitoren)
 - (Statine)
 
-```{index} single: STEMI (Therapie) single: GP IIb/IIIa-Inhibitor (STEMI) single: Ticagrelor (STEMI) single: Brilique® (STEMI) single: Heparin (STEMI) single: ASS  (STEMI) single: PCI (STEMI)
+```{index} single: STEMI (Therapie) 
+```
+```{index} single: GP IIb/IIIa-Inhibitor (STEMI) 
+```
+```{index} single: Ticagrelor (STEMI) 
+```
+```{index} single: Brilique® (STEMI) 
+```
+```{index} single: Heparin (STEMI) 
+```
+```{index} single: ASS  (STEMI) 
+```
+```{index} single: PCI (STEMI)
 ```
 
 ### ℞ Therapiestrategie *STEMI mit Primär-PCA*
@@ -500,9 +507,15 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 - **Ticagrelor** (Brilique®) 180 mg p. o.
 
-```{index} single: Lyse (STEMI) single: Metalyse® single: Tenecteplase
+```{index} single: Lyse (STEMI) 
 ```
-```{index} single: STEMI (Lyse) single: Lyse, Kontraindikationen
+```{index} single: Metalyse® 
+```
+```{index} single: Tenecteplase
+```
+```{index} single: STEMI (Lyse) 
+```
+```{index} single: Lyse, Kontraindikationen
 ```
 ```{index} single: Kontraindikationen, Lyse
 ```
@@ -538,8 +551,7 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 ```
 
 Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
-{abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
-*so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
+{abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)` *so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
 
 - Schmerztherapie:
   z. B. **Morphin** i. v., titriert in 2—5 mg-Schritten

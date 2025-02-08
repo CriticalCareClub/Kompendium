@@ -269,7 +269,6 @@ nicht möglich.
 ## Selbstbestimmungsrecht
 
 (jus-langer-dienst-fall-4)=
-
 (jus-fall-aufklaerung)=
 
 ### Fall 4. Aufklärung und Einwilligung
@@ -615,7 +614,6 @@ Körperverletzung und riskiert uU. zivilrechtliche Schadenersatzansprüche
 (→ Nitro-Gabe nicht lege artis).
 
 (jus-langer-dienst-fall-9)=
-
 (dokumentationspflicht-fallbeispiel)=
 
 ### Fall 9. Dokumentationspflicht
@@ -696,7 +694,6 @@ Auskunftsberechtigten, solange der Patient die Weitergabe von
 Informationen nicht gestattet.
 
 (jus-fall-fortbildung)=
-
 (jus-langer-dienst-fall-11)=
 
 ### Fall 11. Fortbildungspflicht
@@ -924,7 +921,6 @@ Gleiche Lösung wie bei Fall 12.
 ## Behandlungspflicht
 
 (behandlungspflichtjus)=
-
 (jus-langer-dienst-fall-14)=
 
 ### Fall 14. Behandlungspflicht von Krankenanstalten, Ärzten, Sanitätern und Durchschnittsbürgern:
@@ -1034,7 +1030,6 @@ Gesundheitsberufe aufgrund der schon erwähnten Auskunftspflicht gem. 7
 SanG.
 
 (strafbare-handlungen)=
-
 (jus-langer-dienst-fall-16)=
 
 ### Fall 16. Strafbare Handlungen

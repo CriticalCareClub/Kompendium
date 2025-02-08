@@ -4,8 +4,7 @@
 
 ```
  _________________________________________
-( Your object is to save the world, while )
-( still leading a pleasant life.          )
+( Your object is to save the world, while ) ( still leading a pleasant life.          )
  -----------------------------------------
   o
    o   \_\_    _/_/
@@ -30,53 +29,24 @@
 
 #### Sanitäter in der Theorie
 
-Der Beruf bzw. die Tätigkeit des Sanitäters wurde 2002 durch das
-*Sanitätergesetz* (SanG) geregelt. Demnach unterteilt man in
-*Rettungssanitäter* oder *Notfallsanitäter*. Der Beruf bzw. die
-Tätigkeiten des Sanitäters dürfen nur nach Maßgabe des Sanitätergesetzes
-ausgeübt werden.
+Der Beruf bzw. die Tätigkeit des Sanitäters wurde 2002 durch das *Sanitätergesetz* (SanG) geregelt. Demnach unterteilt man in *Rettungssanitäter* oder *Notfallsanitäter*. Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen nur nach Maßgabe des Sanitätergesetzes ausgeübt werden.
 
-Sanitäter haben ihre Tätigkeit *ohne Ansehen der Person* gewissenhaft
-auszuüben und haben das Wohl der Patienten und der betreuten Personen
-nach *Maßgabe der fachlichen und wissenschaftlichen Erkenntnisse und
-Erfahrungen* zu wahren. *Fortbildung* ist ein wichtiger Teil der
-Tätigkeit. Sanitäter haben sich daher laufend tätigkeitsrelevant
-fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
-Tätigkeitspflichten* erfüllt werden (z. B. Dokumentationspflicht,
-Verschwiegenheitspflicht, Auskunftspflicht, vgl.
+Sanitäter haben ihre Tätigkeit *ohne Ansehen der Person* gewissenhaft auszuüben und haben das Wohl der Patienten und der betreuten Personen nach *Maßgabe der fachlichen und wissenschaftlichen Erkenntnisse und Erfahrungen* zu wahren. *Fortbildung* ist ein wichtiger Teil der Tätigkeit. Sanitäter haben sich daher laufend tätigkeitsrelevant fortzubilden. Darüber hinaus müssen die *Berufs- bzw.
+Tätigkeitspflichten* erfüllt werden (z. B. Dokumentationspflicht, Verschwiegenheitspflicht, Auskunftspflicht, vgl.
 ({ref}`sanitaeter-pflichten`).
 
 ##### Allgemeiner Tätigkeitsbereich
 
-Der Tätigkeitsbereich des Sanitäters beinhaltet eine Reihe von
-Tätigkeiten, welche *eigenverantwortlich* durchgeführt werden. Dazu
-gehört die eigenverantwortliche Anwendung von Maßnahmen der
-qualifizierten Ersten Hilfe, Sanitätshilfe und Rettungstechnik,
-einschließlich diagnostischer und therapeutischer Verrichtungen.
+Der Tätigkeitsbereich des Sanitäters beinhaltet eine Reihe von Tätigkeiten, welche *eigenverantwortlich* durchgeführt werden. Dazu gehört die eigenverantwortliche Anwendung von Maßnahmen der qualifizierten Ersten Hilfe, Sanitätshilfe und Rettungstechnik, einschließlich diagnostischer und therapeutischer Verrichtungen.
 
 ##### Tätigkeitsbereich des Rettungssanitäters
 
-Der Tätigkeitsbereich des Rettungssanitäters umfasst die
-selbständige und *eigenverantwortliche Versorgung und Betreuung kranker,
-verletzter und sonstiger hilfsbedürftiger Personen*, die medizinisch
-indizierter Betreuung bedürfen, vor und während des Transports, die
-Übernahme sowie die Übergabe des Patienten oder der betreuten Person im
-Zusammenhang mit einem Transport, eine qualifizierte Durchführung von
-lebensrettenden Sofortmaßnahmen sowie die sanitätsdienstliche
-Durchführung von Sondertransporten.
+Der Tätigkeitsbereich des Rettungssanitäters umfasst die selbständige und *eigenverantwortliche Versorgung und Betreuung kranker, verletzter und sonstiger hilfsbedürftiger Personen*, die medizinisch indizierter Betreuung bedürfen, vor und während des Transports, die Übernahme sowie die Übergabe des Patienten oder der betreuten Person im Zusammenhang mit einem Transport, eine qualifizierte Durchführung von lebensrettenden Sofortmaßnahmen sowie die sanitätsdienstliche Durchführung von Sondertransporten.
 
 ##### Tätigkeitsbereich des Notfallsanitäters
 
-Der Tätigkeitsbereich des Notfallsanitäters umfasst zusätzlich
-die *Unterstützung des Arztes* bei allen notfall- und
-katastrophenmedizinischen Maßnahmen einschließlich der Betreuung und des
-sanitätsdienstlichen Transports von *Notfallpatienten*, die
-Verabreichung von dafür freigegebenen *Arzneimitteln*, die
-eigenverantwortliche Betreuung der berufsspezifischen Geräte,
-Materialien und Arzneimittel und die Mitarbeit in der *Forschung*.
-Notfallsanitäter können die Berechtigung zur Durchführung allgemeiner
-und besonderer *Notfallkompetenzen* erwerben (Arzneimittellehre,
-Venenzugang und Infusion, Beatmung und Intubation).
+Der Tätigkeitsbereich des Notfallsanitäters umfasst zusätzlich die *Unterstützung des Arztes* bei allen notfall- und katastrophenmedizinischen Maßnahmen einschließlich der Betreuung und des sanitätsdienstlichen Transports von *Notfallpatienten*, die Verabreichung von dafür freigegebenen *Arzneimitteln*, die eigenverantwortliche Betreuung der berufsspezifischen Geräte, Materialien und Arzneimittel und die Mitarbeit in der *Forschung*.
+Notfallsanitäter können die Berechtigung zur Durchführung allgemeiner und besonderer *Notfallkompetenzen* erwerben (Arzneimittellehre, Venenzugang und Infusion, Beatmung und Intubation).
 
 ```{eval-rst}
 .. subfigstart::
@@ -87,9 +57,7 @@ Venenzugang und Infusion, Beatmung und Intubation).
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-transfer-lbk.jpg
 :width: 100%
 
-Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie
-zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn
-danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
+Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -97,8 +65,7 @@ danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-arzt-sani.jpg
 :width: 100%
 
-Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine
-Einheit.
+Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine Einheit.
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -106,8 +73,7 @@ Einheit.
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg
 :width: 100%
 
-Im Notfall ist die Organisationszugehörigkeit
-nebensächlich.
+Im Notfall ist die Organisationszugehörigkeit nebensächlich.
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -125,11 +91,7 @@ nebensächlich.
 
 ##### Dienstverhältnis
 
-Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen *ehrenamtlich*,
-*berufsmäßig*, als *Zivildienstleistender* oder unter anderen bestimmten
-Umständen [^footnote-1] ausgeübt werden. Die *berufsmäßige* Ausübung von
-Tätigkeiten des Sanitäters setzt neben der jeweiligen Fachausbildung die
-Absolvierung eines *Berufsmoduls* voraus.
+Der Beruf bzw. die Tätigkeiten des Sanitäters dürfen *ehrenamtlich*, *berufsmäßig*, als *Zivildienstleistender* oder unter anderen bestimmten Umständen [^footnote-1] ausgeübt werden. Die *berufsmäßige* Ausübung von Tätigkeiten des Sanitäters setzt neben der jeweiligen Fachausbildung die Absolvierung eines *Berufsmoduls* voraus.
 
 [^footnote-1]: Die Tätigkeiten des Sanitäters dürfen ferner als Soldat im
     Bundesheer, als Organ des öffentlichen Sicherheitsdienstes,
@@ -138,65 +100,30 @@ Absolvierung eines *Berufsmoduls* voraus.
 
 ##### Befristung
 
-Die Berufs- und Tätigkeitsberechtigung ist mit jeweils zwei Jahren
-*befristet*. Zur Verlängerung der Berufs- und Tätigkeitsberechtigung
-bedarf es der Absolvierung von Fortbildungen sowie einer
-Rezertifizierung.
+Die Berufs- und Tätigkeitsberechtigung ist mit jeweils zwei Jahren *befristet*. Zur Verlängerung der Berufs- und Tätigkeitsberechtigung bedarf es der Absolvierung von Fortbildungen sowie einer Rezertifizierung.
 
 #### Sanitäter in der Praxis
 
-Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte
-Berufsfeld der Gesundheitsberufe "hineinpasst". Die Berufsgruppen der
-Ärzte, Hebammen, Pflegepersonal usw. gibt es schon seit Jahrzehnten oder
-gar Jahrhunderten und es blieb genug Zeit für Streitigkeiten bezüglich
-der jeweiligen Kompetenz und der Abgrenzung der Tätigkeitsfelder. Des
-öfteren hat der Gesetzgeber Regelungen aufgestellt und die Gerichte haben
-Orientierungspunkte gegeben; darüber hinaus wurden durch die ständige
-Arbeit miteinander Realitäten "geschaffen". In manchen Punkten ist aber
-auch heutzutage einiges unklar, oder einem stetigen Wandel unterworfen.
+Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte Berufsfeld der Gesundheitsberufe "hineinpasst". Die Berufsgruppen der Ärzte, Hebammen, Pflegepersonal usw. gibt es schon seit Jahrzehnten oder gar Jahrhunderten und es blieb genug Zeit für Streitigkeiten bezüglich der jeweiligen Kompetenz und der Abgrenzung der Tätigkeitsfelder. Des öfteren hat der Gesetzgeber Regelungen aufgestellt und die Gerichte haben Orientierungspunkte gegeben; darüber hinaus wurden durch die ständige Arbeit miteinander Realitäten "geschaffen". In manchen Punkten ist aber auch heutzutage einiges unklar, oder einem stetigen Wandel unterworfen.
 
 ##### Sanitätergesetz 2002 (Österreich)
 
-Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die
-Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit
-schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des
-Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu
-diversen Themen beweisen. Bezüglich der genauen rechtlichen Regelungen
-sei auf das Kapitel {ref}`chp-JUS`, verwiesen, an dieser Stelle wollen wir
-uns aus praktischer Sicht dem Tätigkeitsfeld und den Aufgaben der
-Sanitäter widmen.
+Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu diversen Themen beweisen. Bezüglich der genauen rechtlichen Regelungen sei auf das Kapitel {ref}`chp-JUS`, verwiesen, an dieser Stelle wollen wir uns aus praktischer Sicht dem Tätigkeitsfeld und den Aufgaben der Sanitäter widmen.
 
 ##### Das Miteinander
 
-Es scheint ein Naturgesetz zu sein, dass, sobald zwei oder mehr
-Berufsgruppen aufeinander treffen, es zu Streitigkeiten bezüglich der
-jeweiligen Kompetenzen, Rechte und Befugnisse kommt. Auf der Strecke
-bleibt oft das Potential, welches entwickelt werden könnte, würden die
-Berufsgruppen konstruktiv und zielgerichtet zusammenarbeiten.
+Es scheint ein Naturgesetz zu sein, dass, sobald zwei oder mehr Berufsgruppen aufeinander treffen, es zu Streitigkeiten bezüglich der jeweiligen Kompetenzen, Rechte und Befugnisse kommt. Auf der Strecke bleibt oft das Potential, welches entwickelt werden könnte, würden die Berufsgruppen konstruktiv und zielgerichtet zusammenarbeiten.
 
 ##### Der Sanitäter – heute
 
-Das Aufgabengebiet des Sanitäters von heute wird immer mehr um
-Tätigkeiten erweitert, die medizinisch-wissenschaftliche Kenntnisse
-voraussetzen und noch vor einiger Zeit nur den Ärzten oder anderen
-Berufsgruppen vorbehalten waren (z. B. Medikamentengabe).
+Das Aufgabengebiet des Sanitäters von heute wird immer mehr um Tätigkeiten erweitert, die medizinisch-wissenschaftliche Kenntnisse voraussetzen und noch vor einiger Zeit nur den Ärzten oder anderen Berufsgruppen vorbehalten waren (z. B. Medikamentengabe).
 
-Dies geschah anfangs durch das SanG, später aber auch durch die
-Anforderungen, welche sich zwangsläufig aus der Arbeit in der Praxis
-ergeben und z. T. gar nicht gesetzlich geregelt sind.
+Dies geschah anfangs durch das SanG, später aber auch durch die Anforderungen, welche sich zwangsläufig aus der Arbeit in der Praxis ergeben und z. T. gar nicht gesetzlich geregelt sind.
 
-In letzter Zeit kommt es auch zu einem Einfluss privater, meist
-kommerzieller, internationaler Ausbildungsprogramme wie z. B.
-AMLS[^footnote-2],
-ITLS[^footnote-3],
-PHTLS[^footnote-4] etc.
-Deren Lehrinhalte sind meist auf den
-Kompetenzbereich von Paramedics[^footnote-5] ausgelegt, und reizen Grenzen
-dessen, was allgemein als Aufgaben der Sanitäter angesehen wird,
-weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer
-wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen[^footnote-6]
-*müssen*[^footnote-7], und was sie *nicht* tun oder
-unterlassen dürfen.
+In letzter Zeit kommt es auch zu einem Einfluss privater, meist kommerzieller, internationaler Ausbildungsprogramme wie z. B.
+AMLS[^footnote-2], ITLS[^footnote-3], PHTLS[^footnote-4] etc.
+Deren Lehrinhalte sind meist auf den Kompetenzbereich von Paramedics[^footnote-5] ausgelegt, und reizen Grenzen dessen, was allgemein als Aufgaben der Sanitäter angesehen wird, weitgehend aus, oder überschreiten diese. Diesbezüglich kommt es immer wieder zu Diskussionen, was Sanitäter tun bzw. unterlassen[^footnote-6]
+*müssen*[^footnote-7], und was sie *nicht* tun oder unterlassen dürfen.
 
 [^footnote-2]: Advanced Medical Life Support
 
@@ -220,26 +147,11 @@ unterlassen dürfen.
 
 ##### Kompetenzen werden erweitert
 
-Anfänglich war das Tätigkeitsprofil weitgehend auf das traditionelle
-Gebiet der "erweiterten Ersten Hilfe" beschränkt. Die ändert sich
-zunehmend. Einerseits durch die gesetzlich definierten
-Notfallkompetenzen, welche dem ärztlichen Leiter einen großen Spielraum
-hinsichtlich der Definition von Therapiemaßnahmen lassen, welche durch
-(Notfall-) Sanitäter durchgeführt werden können; andererseits werden
-andernorts auch Kompetenzerweiterungen auch mit dem sich wandelnden
-Stand der Wissenschaft begründet und durchgeführt. Als Beispiel sei die
-Einführung des Larynxtubus genannt, für die es eine entsprechende
-Rechtsansicht des zuständigen Bundesministerium gibt (Bundesministerium
-für Gesundheit, n.d.). Andernorts wurde bereits der Einsatz von Lachgas
-zur Schmerzbekämpfung erprobt {term}`🗎 Hansak 2012 07`{term}`🗎 Koppensteiner 2012 08`.
+Anfänglich war das Tätigkeitsprofil weitgehend auf das traditionelle Gebiet der "erweiterten Ersten Hilfe" beschränkt. Die ändert sich zunehmend. Einerseits durch die gesetzlich definierten Notfallkompetenzen, welche dem ärztlichen Leiter einen großen Spielraum hinsichtlich der Definition von Therapiemaßnahmen lassen, welche durch (Notfall-) Sanitäter durchgeführt werden können; andererseits werden andernorts auch Kompetenzerweiterungen auch mit dem sich wandelnden Stand der Wissenschaft begründet und durchgeführt. Als Beispiel sei die Einführung des Larynxtubus genannt, für die es eine entsprechende Rechtsansicht des zuständigen Bundesministerium gibt (Bundesministerium für Gesundheit, n.d.). Andernorts wurde bereits der Einsatz von Lachgas zur Schmerzbekämpfung erprobt {term}`🗎 Hansak 2012 07`{term}`🗎 Koppensteiner 2012 08`.
 
-Die Situation in Österreich ist jedoch noch recht uneinheitlich: Während
-in manchen Regionen eifrig Notfallsanitäter und Notfallkompetenzen
-ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
-äußerst zurückhaltend {term}`🗎 Enne 2012`.
+Die Situation in Österreich ist jedoch noch recht uneinheitlich: Während in manchen Regionen eifrig Notfallsanitäter und Notfallkompetenzen ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen äußerst zurückhaltend {term}`🗎 Enne 2012`.
 
 (belastung)=
-
 (anforderung)=
 
 #### Anforderungen – Beanspruchung – Belastung: Was erwartet die Welt von mir?
@@ -265,11 +177,7 @@ ausgebildet bzw. angewendet werden, sind manche (Landes-) Organisationen
 :::
 ::::
 
-Die Tätigkeit im medizinischen Bereich geht aufgrund der Komplexität der
-Aufgaben mit einer Fülle von körperlichen, wissensmäßigen und
-psychischen Anforderungen einher. Einen nur kargen Hinweis darüber,
-welche Qualitäten z. B. von einem Sanitäter erwartet werden, liefert das
-Anforderungsprofil des Arbeitsmarktservice (AMS):
+Die Tätigkeit im medizinischen Bereich geht aufgrund der Komplexität der Aufgaben mit einer Fülle von körperlichen, wissensmäßigen und psychischen Anforderungen einher. Einen nur kargen Hinweis darüber, welche Qualitäten z. B. von einem Sanitäter erwartet werden, liefert das Anforderungsprofil des Arbeitsmarktservice (AMS):
 
 - Körperliche und psychische Belastbarkeit
 - rasches Auffassungs- und Reaktionsvermögen
@@ -297,59 +205,24 @@ Anforderungsprofil des Arbeitsmarktservice (AMS):
 - Teamfähigkeit
 - *körperliche* und *psychische* Belastungsfähigkeit
 
-Der (richtige) Umgang mit Frustration ist wesentlich,
-um im Rettungs- und Krankentransportdienst auf Dauer
+Der (richtige) Umgang mit Frustration ist wesentlich, um im Rettungs- und Krankentransportdienst auf Dauer
 "zu überleben".
 :::
 ::::
 
-Es versteht sich von selbst, dass die professionelle Versorgung
-erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen*
-voraussetzt und damit auch einhergehend die praktischen Kompetenzen,
-dieses *zuverlässig und eigenverantwortlich* in schwierigen Situationen
-umzusetzen zu können.
+Es versteht sich von selbst, dass die professionelle Versorgung erkrankter bzw. verunfallter Menschen solides *medizinisches Wissen* voraussetzt und damit auch einhergehend die praktischen Kompetenzen, dieses *zuverlässig und eigenverantwortlich* in schwierigen Situationen umzusetzen zu können.
 
-Dringliche Versorgungssituationen bzw. Notfälle, in denen jede zeitliche
-Verzögerung zulasten des Patienten fallen könnten, machen ein *schnelles
-Einschätzen der Lage* so wie die Bereitschaft, *Verantwortung zu
-übernehmen*, notwendig.
-Da es sich stets um eine Interaktion zwischen
-zwei Personen – nämlich Versorgendem und zu Versorgenden – handelt,
-gelten zwischenmenschliche Fähigkeiten, wie höfliche Umgangsformen,
-*Kommunikationsfähigkeit* sowie *Einfühlungsvermögen*, als
-Grundvoraussetzung.
+Dringliche Versorgungssituationen bzw. Notfälle, in denen jede zeitliche Verzögerung zulasten des Patienten fallen könnten, machen ein *schnelles Einschätzen der Lage* so wie die Bereitschaft, *Verantwortung zu übernehmen*, notwendig.
+Da es sich stets um eine Interaktion zwischen zwei Personen – nämlich Versorgendem und zu Versorgenden – handelt, gelten zwischenmenschliche Fähigkeiten, wie höfliche Umgangsformen, *Kommunikationsfähigkeit* sowie *Einfühlungsvermögen*, als Grundvoraussetzung.
 
-Erkrankung bzw. Unfall stellen für die Betroffenen in häufigen Fällen
-*kein alltägliches Geschehen* dar, sondern haben oft einen
-kritisch-krisenhaften, jedenfalls aber frustrierend-belastenden
-Charakter. Deshalb soll an dieser Stelle die besondere Wichtigkeit einer
-*einfühlenden und verständnisvollen Grundhaltung* betont werden. Dies
-kann für den professionellen Helfer auch damit einhergehen, *seine
-eigenen Bedürfnisse* bzw. Empfindungen für den Moment *hintanzustellen*,
-also eine hohe *Frustrationstoleranz* erforderlich machen.
+Erkrankung bzw. Unfall stellen für die Betroffenen in häufigen Fällen *kein alltägliches Geschehen* dar, sondern haben oft einen kritisch-krisenhaften, jedenfalls aber frustrierend-belastenden Charakter. Deshalb soll an dieser Stelle die besondere Wichtigkeit einer *einfühlenden und verständnisvollen Grundhaltung* betont werden. Dies kann für den professionellen Helfer auch damit einhergehen, *seine eigenen Bedürfnisse* bzw. Empfindungen für den Moment *hintanzustellen*, also eine hohe *Frustrationstoleranz* erforderlich machen.
 
-Im Rettungs- und Krankentransportdienst beschäftigte Personen arbeiten
-die meiste Zeit in Teams, sodass Qualitäten wie Toleranz,
-Kritikfähigkeit und Selbstdisziplin (*"Teamfähigkeit"*) ebenso von hoher
-Bedeutung sind (Die Praxis zeigt, dass hier häufig viel Spielraum für
-Verbesserungen besteht ).
+Im Rettungs- und Krankentransportdienst beschäftigte Personen arbeiten die meiste Zeit in Teams, sodass Qualitäten wie Toleranz, Kritikfähigkeit und Selbstdisziplin (*"Teamfähigkeit"*) ebenso von hoher Bedeutung sind (Die Praxis zeigt, dass hier häufig viel Spielraum für Verbesserungen besteht ).
 
-Weiters sei auf die Wichtigkeit der *körperlichen* Belastungsfähigkeit
-als erforderliches Kriterium hingewiesen: das Tätigkeitsfeld des
-Rettungssanitäters umfasst diverse Aufgaben, die mit körperlichem
-Einsatz und dementsprechender Anstrengung verbunden sind.
+Weiters sei auf die Wichtigkeit der *körperlichen* Belastungsfähigkeit als erforderliches Kriterium hingewiesen: das Tätigkeitsfeld des Rettungssanitäters umfasst diverse Aufgaben, die mit körperlichem Einsatz und dementsprechender Anstrengung verbunden sind.
 
-Zu guter Letzt und im besonderen sei auf die Bedeutung *psychischer
-Belastbarkeit* hingewiesen, v. a. in Hinblick auf den Umgang mit
-psychischem Stress: Sanitätsdienst zu leisten, bedeutet tägliche
-*Konfrontation* mit dem persönlichen Leid von Mitmenschen, des weiteren
-die *Verantwortlichkeit* – ggfs. auch noch unter Zeitdruck – darauf
-professionell zu reagieren und zusätzlich die besonderen und generellen
-*Stressauslöser des Arbeitsbereichs* eines Sanitäters zu meistern. Dies
-benötigt eine hinreichend funktionierende psychische
-Verarbeitungsfähigkeit, um ein gesundes seelisches Gleichgewicht bzw.
-sein persönliches Wohlbefinden wahren und pathologischen Entwicklungen
-(Burnout, Belastungsreaktion, etc.) präventiv entgegenwirken zu können.
+Zu guter Letzt und im besonderen sei auf die Bedeutung *psychischer Belastbarkeit* hingewiesen, v. a. in Hinblick auf den Umgang mit psychischem Stress: Sanitätsdienst zu leisten, bedeutet tägliche *Konfrontation* mit dem persönlichen Leid von Mitmenschen, des weiteren die *Verantwortlichkeit* – ggfs. auch noch unter Zeitdruck – darauf professionell zu reagieren und zusätzlich die besonderen und generellen *Stressauslöser des Arbeitsbereichs* eines Sanitäters zu meistern. Dies benötigt eine hinreichend funktionierende psychische Verarbeitungsfähigkeit, um ein gesundes seelisches Gleichgewicht bzw.
+sein persönliches Wohlbefinden wahren und pathologischen Entwicklungen (Burnout, Belastungsreaktion, etc.) präventiv entgegenwirken zu können.
 
 Weitere Informationen zu Stress und Belastungen finden sich unter
 {ref}`belastung-psi`.
@@ -492,8 +365,7 @@ Ambulanzraum bei einem Sanitätsdienst
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00942-0154pt-0300dpi.\*
 :width: 100%
 
-Organisation im Großschadensfall, hier ein Wagenhalteplatz bei
-einer Nachtübung
+Organisation im Großschadensfall, hier ein Wagenhalteplatz bei einer Nachtübung
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -501,8 +373,7 @@ einer Nachtübung
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00568-0154pt-0300dpi.\*
 :width: 100%
 
-Führungsrolle bei der Bewältigung eines
-Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
+Führungsrolle bei der Bewältigung eines Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -534,8 +405,7 @@ Zusammenarbeit zwischen den Organisationen
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-bundesheer1.jpg
 :width: 100%
 
-Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der
-Bundesheersanitäter
+Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der Bundesheersanitäter
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -543,8 +413,7 @@ Bundesheersanitäter
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_1853_1.jpg
 :width: 100%
 
-Die Zusammenarbeit mit der Exekutive – auch
-an sozialen Brennpunkten – ist Alltag
+Die Zusammenarbeit mit der Exekutive – auch an sozialen Brennpunkten – ist Alltag
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::
@@ -564,10 +433,7 @@ an sozialen Brennpunkten – ist Alltag
 
 ## Ärzte
 
-Der Arzt ist zur Ausübung der Medizin berufen. Dies umfasst jede auf
-medizinisch-wissenschaftlichen Erkenntnissen begründete Tätigkeit, die
-unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt
-wird. [^footnote-8]
+Der Arzt ist zur Ausübung der Medizin berufen. Dies umfasst jede auf medizinisch-wissenschaftlichen Erkenntnissen begründete Tätigkeit, die unmittelbar am Menschen oder mittelbar für den Menschen ausgeführt wird. [^footnote-8]
 
 [^footnote-8]: Die Ausübung der Medizin umfasst insbesonders die Untersuchung auf
     das Vorliegen oder Nichtvorliegen von körperlichen und psychischen
@@ -581,9 +447,7 @@ wird. [^footnote-8]
 
 ### Ausbildung
 
-Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes
-Universitätsstudium, der weitere Ausbildungsweg ist jedoch international
-sehr unterschiedlich.
+Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes Universitätsstudium, der weitere Ausbildungsweg ist jedoch international sehr unterschiedlich.
 
 ```{index} single: Arzt; approbierter
 ```
@@ -599,17 +463,9 @@ sehr unterschiedlich.
 #### Situation in Österreich
 
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
-Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich
-Ärzten für Allgemeinmedizin,
-*approbierten* {index}` <Arzt!approbierter>` Ärzten
-sowie *Fachärzten* {index}` <Facharzt>` vorbehalten
-(*Arztvorbehalt*, von diesem
-Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende
-Ausnahmeregelungen in den jeweiligen Berufsgesetzen).
+Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich Ärzten für Allgemeinmedizin, *approbierten* {index}` <Arzt!approbierter>` Ärzten sowie *Fachärzten* {index}` <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende Ausnahmeregelungen in den jeweiligen Berufsgesetzen).
 
-Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die
-*Österreichische Ärztekammer* bzw. die jeweils zuständigen
-Landesärztekammern.
+Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die *Österreichische Ärztekammer* bzw. die jeweils zuständigen Landesärztekammern.
 
 ```{index} single: Turnusarzt
 ```
@@ -624,17 +480,10 @@ Landesärztekammern.
 
 ##### Ausbildung und Jus practicandi
 
-In Österreich dauert das Studium der Humanmedizin je nach Universität
-und Curriculum 5—6 Jahre. Im Anschluss an das Studium
-verfügen die Absolventen *nicht* über das Recht zur Berufsausübung, sie
-sind auch nach dem Studium noch nicht als Ärzte, sondern als Mediziner
-zu bezeichnen.
+In Österreich dauert das Studium der Humanmedizin je nach Universität und Curriculum 5—6 Jahre. Im Anschluss an das Studium verfügen die Absolventen *nicht* über das Recht zur Berufsausübung, sie sind auch nach dem Studium noch nicht als Ärzte, sondern als Mediziner zu bezeichnen.
 
-Nach Abschluss des Studiums wird ein Ausbildungsverhältnis angetreten
-und es erfolgt die Aufnahme in die *Ärzteliste* der Österreichischen Ärztekammer.
-Der Arzt in Ausbildung darf dabei
-nur an einer anerkannten Ausbildungseinrichtungen unter Aufsicht
-ärztlich tätig werden.
+Nach Abschluss des Studiums wird ein Ausbildungsverhältnis angetreten und es erfolgt die Aufnahme in die *Ärzteliste* der Österreichischen Ärztekammer.
+Der Arzt in Ausbildung darf dabei nur an einer anerkannten Ausbildungseinrichtungen unter Aufsicht ärztlich tätig werden.
 
 Die Ausbildung gliedert sich in eine Basisausbildung, gefolgt von der Ausbildung zum Arzt für Allgemeinmedizin oder als Facharzt ind einem Sonderfach. Die Dauer ist abhängig von der jeweiligen Fachrichtung und beträgt ca. 5—6 Jahre. [^turnusarzt]
 
@@ -644,13 +493,9 @@ Die Ausbildung gliedert sich in eine Basisausbildung, gefolgt von der Ausbildung
     Fachabteilungen,
     daher rührt die Bezeichnung **Turnusarzt**.
 
-Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes
-uneingeschränktes {dfn}`Jus practicandi` (Recht zu
-praktizieren). Ein Facharzt verfügt ebenfalls über ein Jus practicandi,
-welches jedoch auf Tätigkeiten in seinem Fachgebiet beschränkt ist, es
-sei denn, der betreffende Facharzt hat auch die Ausbildung zum Arzt für
-Allgemeinmedizin absolviert. Gegenwärtig gibt es in Österreich über 40
-Sonderfächer für die man sich qualifizieren kann.
+Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes uneingeschränktes {dfn}`Jus practicandi` (Recht zu praktizieren). Ein Facharzt verfügt ebenfalls über ein Jus practicandi, welches jedoch auf Tätigkeiten in seinem Fachgebiet beschränkt ist, es sei denn, der betreffende Facharzt hat auch die Ausbildung zum Arzt für Allgemeinmedizin absolviert. Gegenwärtig gibt es in Österreich über 40 Sonderfächer für die man sich qualifizieren kann.
+
+
 
 ```{index} single: Notarzt
 ```
@@ -675,26 +520,20 @@ Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
   entsprechende Berufserfahrung als Notarzt sowie die Absolvierung
   eines entsprechenden Kurs voraus.
 
+
+
 ```{index} single: Hebamme
 ```
-```{index} single: Gesetz; Hebammen- single: HebG
+```{index} single: Gesetz; Hebammen- 
+```
+```{index} single: HebG
 ```
 
 ## Hebammen
 
-Der Hebammenberuf umfasst die Betreuung, Beratung und Pflege der
-Schwangeren, Gebärenden und Wöchnerin, die Beistandsleistung bei der
-Geburt sowie die Mitwirkung bei der Mutterschafts- und
-Säuglingsfürsorge. Die Berufsgruppe der Hebammen betreut werdende und
-gebärende Mütter und ist zur Leitung von Geburten berechtigt. Sie ist
-zur Durchführung von relevanten medizinischen Maßnahmen, darunter fallen
-auch Blutabnahmen, das Setzen von peripheren Venenverweilkanülen, die
-Gabe von bestimmten Medikamenten, sowie einschlägige chirurgische
-Eingriffe (Versorgung eines Dammrisses, …), berechtigt. Die Ausbildung zur
-Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt
-die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für
-weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage
-bietet das *Hebammengesetz* (*HebG*).
+Der Hebammenberuf umfasst die Betreuung, Beratung und Pflege der Schwangeren, Gebärenden und Wöchnerin, die Beistandsleistung bei der Geburt sowie die Mitwirkung bei der Mutterschafts- und Säuglingsfürsorge. Die Berufsgruppe der Hebammen betreut werdende und gebärende Mütter und ist zur Leitung von Geburten berechtigt. Sie ist zur Durchführung von relevanten medizinischen Maßnahmen, darunter fallen auch Blutabnahmen, das Setzen von peripheren Venenverweilkanülen, die Gabe von bestimmten Medikamenten, sowie einschlägige chirurgische Eingriffe (Versorgung eines Dammrisses, …), berechtigt. Die Ausbildung zur Hebamme erfolgt in einer entsprechenden Fachschule, neuerdings erfolgt die Ausbildung auch in Fachhochschulen. Die Bezeichnung Hebamme gilt für weibliche und männliche Berufsangehörige. Die gesetzliche Grundlage bietet das *Hebammengesetz* (*HebG*).
+
+
 
 ```{index} single: Gehobener Gesundheits- und Krankenpflegedienst
 ```
@@ -706,9 +545,13 @@ bietet das *Hebammengesetz* (*HebG*).
 ```
 ```{index} single: DKKP
 ```
-```{index} single: Pflege; Gesundheits- und Kranken- single: GuKG
+```{index} single: Pflege; Gesundheits- und Kranken- 
 ```
-```{index} single: Gesetz; Gesundheits- und Krankenpflege- single: Gesundheits- und Krankenpflege
+```{index} single: GuKG
+```
+```{index} single: Gesetz; Gesundheits- und Krankenpflege- 
+```
+```{index} single: Gesundheits- und Krankenpflege
 ```
 
 ## Gesundheits- und Krankenpflege
@@ -721,33 +564,13 @@ Die Gesundheits- und Krankenpflegeberufe sind im Gesundheits- und Krankenpflegeg
 
 ### Gehobener Gesundheits- und Krankenpflegedienst
 
-Der gehobene Gesundheits- und Krankenpflegedienst besteht aus den
-Diplomierten Gesundheits- und Krankenpflegern bzw. Diplomierten Gesundheits- und Krankenpflegerinnen (*DGKP*).
-Die Ausbildung erfolgte früher an Fachschulen,
-aktuell wird die Ausbildung zunehmend im Rahmen eines Fachhochschulstudiums
-absolviert.
-Darüber hinaus ist eine Spezialisierung möglich
-(z. B. Kinder- und Jugendlichenpflege,
-Psychiatrische Gesundheits- und Krankenpflege,
-Intensiv-, Anästhesiepflege ...).
+Der gehobene Gesundheits- und Krankenpflegedienst besteht aus den Diplomierten Gesundheits- und Krankenpflegern bzw. Diplomierten Gesundheits- und Krankenpflegerinnen (*DGKP*).
+Die Ausbildung erfolgte früher an Fachschulen, aktuell wird die Ausbildung zunehmend im Rahmen eines Fachhochschulstudiums absolviert.
+Darüber hinaus ist eine Spezialisierung möglich (z. B. Kinder- und Jugendlichenpflege, Psychiatrische Gesundheits- und Krankenpflege, Intensiv-, Anästhesiepflege ...).
 
-Der Tätigkeitsbereich des gehobenen Gesundheits- und
-Krankenpflegedienstes beinhaltet einen *eigenverantwortlichen*
-Tätigkeitsbereich, welcher insbesonders die Pflege von Patienten
-vorsieht, sowie einen *mitverantwortlichen* Tätigkeitsbereich, welcher
-die Durchführung von einfachen ärztlichen Tätigkeiten (Blutentnahme,
-Verabreichung von Infusionen und Medikamenten, …) vorsieht. Für
-spezielle Tätigkeitsbereiche gibt es entsprechende Sonderausbildungen
-(Kinder- und Jugendlichenpflege, psychiatrische Pflege, Intensivpflege,
-Anästhesiepflege, Pflege im Operationsbereich, …).
+Der Tätigkeitsbereich des gehobenen Gesundheits- und Krankenpflegedienstes beinhaltet einen *eigenverantwortlichen* Tätigkeitsbereich, welcher insbesonders die Pflege von Patienten vorsieht, sowie einen *mitverantwortlichen* Tätigkeitsbereich, welcher die Durchführung von einfachen ärztlichen Tätigkeiten (Blutentnahme, Verabreichung von Infusionen und Medikamenten, …) vorsieht. Für spezielle Tätigkeitsbereiche gibt es entsprechende Sonderausbildungen (Kinder- und Jugendlichenpflege, psychiatrische Pflege, Intensivpflege, Anästhesiepflege, Pflege im Operationsbereich, …).
 
-Der
-*interdisziplinäre* Tätigkeitsbereich umfasst jene Bereiche, die sowohl
-die Gesundheits- und Krankenpflege als auch andere Berufe des
-Gesundheitswesens betreffen. Dabei haben Angehörige des gehobenen
-Dienstes für Gesundheits- und Krankenpflege das Vorschlags- und
-Mitentscheidungsrecht und tragen die Durchführungsverantwortung für alle
-von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
+Der *interdisziplinäre* Tätigkeitsbereich umfasst jene Bereiche, die sowohl die Gesundheits- und Krankenpflege als auch andere Berufe des Gesundheitswesens betreffen. Dabei haben Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege das Vorschlags- und Mitentscheidungsrecht und tragen die Durchführungsverantwortung für alle von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
 
 ```{index} single: Pflegeassistenz
 ```
@@ -756,9 +579,7 @@ von ihnen in diesen Bereichen gesetzten pflegerischen Maßnahmen.
 
 ### Pflegeassistenzberufe
 
-Pflegeassistenzberufe sind
-die *Pflegeassistenz* und
-die *Pflegefachassistenz*.
+Pflegeassistenzberufe sind die *Pflegeassistenz* und die *Pflegefachassistenz*.
 
 Ihre Aufgabe ist die Unterstützung von Angehörigen des gehobenen Dienstes für Gesundheits- und Krankenpflege sowie von Ärzten.
 Sie umfassen die Durchführung der ihnen nach Beurteilung durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege im Rahmen des Pflegeprozesses übertragenen Aufgaben und Tätigkeiten in verschiedenen Pflege- und Behandlungssituationen bei Menschen aller Altersstufen in mobilen, ambulanten, teilstationären und stationären Versorgungsformen sowie auf allen Versorgungsstufen.

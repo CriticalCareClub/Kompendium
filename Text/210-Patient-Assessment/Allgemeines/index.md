@@ -13,11 +13,8 @@ Patientenmanagement besteht aus vielen einzelnen Komponenten, welche wie eine Ma
 ```
 
 (m-standardmassnahmen-immer)=
-
 (m-standardmassnahmenimmer)=
-
 (standardmassnahmen-immer)=
-
 (tafel-pam-weiterfuehrende)=
 
 ## Immer durchzuführende Standardmaßnahmen

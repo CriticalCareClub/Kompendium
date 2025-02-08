@@ -102,6 +102,8 @@ Häufig betroffene Gewebe sind:
   (Periphere arterielle Verschlusskrankheit,
   arterieller peripherer Gefäßverschluss, {ref}`ArteriellerGefaessverschluss`)
 
+
+
 ```{index} single: Tumor
 ```
 ```{index} single: Raumforderung
@@ -110,7 +112,11 @@ Häufig betroffene Gewebe sind:
 ```
 ```{index} single: Karzinom
 ```
-```{index} single: Ca. single: N. single: Neoplasma
+```{index} single: Ca. 
+```
+```{index} single: N. 
+```
+```{index} single: Neoplasma
 ```
 ```{index} single: Blastom
 ```
@@ -125,12 +131,10 @@ Die meisten Zellen des menschlichen Körper teilen sich regelmäßig.
 Eine Kontrolle dieses Vorgangs ist jedoch erforderlich um zu gewährleisten, dass die Zellen nicht unkomtrolliert und wild zu wuchern beginnen.
 Der Körper verfügt über verschiedene Mechanismen um die Zellteilung im richtigen Maß zu halten.
 
-Wenn diese Mechanismen versagen, kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe
-({dfn}`Neoplasie`, als Diagnose oft mit " `N.`" abgekürzt).
+Wenn diese Mechanismen versagen, kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe ({dfn}`Neoplasie`, als Diagnose oft mit " `N.`" abgekürzt).
 Daraus resultiert in der Regel eine *Raumforderung*.
 
-Man unterscheidet zwischen *gutartigen* (**benignen**)
-und *bösartigen* (**malignen**) Neubildungen:
+Man unterscheidet zwischen *gutartigen* (**benignen**) und *bösartigen* (**malignen**) Neubildungen:
 
 ```{eval-rst}
 
@@ -147,8 +151,7 @@ Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *K
 Maligne Neoplasien wergen umgangssprachlich als *Krebs* (engl. *Cancer*) bezeichnet.
 
 Der Fachbereich der sich mit malignen Neubildungen (Krebserkrankungen) befasst ist die *Onkologie*.
-Grundsätzlich können alle teilungsfähigen Zellen entarten. Dies kann spontan geschehen oder durch andere Faktoren
-(radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
+Grundsätzlich können alle teilungsfähigen Zellen entarten. Dies kann spontan geschehen oder durch andere Faktoren (radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
 
 :::{note}
 Der Begriff {dfn}`Tumor` bedeutet ganz allgemein "Schwellung"

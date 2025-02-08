@@ -1,5 +1,4 @@
 (o2)=
-
 (sauerstoff)=
 
 # Sauerstoff — O₂
@@ -297,9 +296,7 @@ Sauerstofflasche
 :::
 
 (berieselung)=
-
 (berieselungsbrille)=
-
 (berieselungsmaske)=
 
 ### O₂-Berieselung bei erhaltener Eigenatmung
@@ -377,7 +374,6 @@ Sauerstoffmaske mit Reservoir
 ```
 
 (m-sauerstoffberieselung)=
-
 (proc-sy52210a)=
 
 #### Durchführung: O₂-Berieselung

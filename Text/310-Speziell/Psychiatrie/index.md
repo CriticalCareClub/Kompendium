@@ -37,8 +37,7 @@ Dabei gibt es keine scharfe Grenze und die Grauzone ist beträchtlich.
 
 ### Psychiatrische Erkrankung in der Praxis
 
-In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die
-Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als behandlungspflichtig gelten zum Beispiel die *Eigen-* und *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche Schritte nach sich ziehen, im Sinne einer Besachwaltung.
+In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als behandlungspflichtig gelten zum Beispiel die *Eigen-* und *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche Schritte nach sich ziehen, im Sinne einer Besachwaltung.
 
 ### Der psychiatrische Patient ist nicht entrechtet!
 
@@ -88,8 +87,7 @@ Diese Punkte sind grundsätzlich für jeden Einsatz sinnvoll!
 
 ### Der Patient mit Wahnvorstellungen
 
-Menschen können – aus unterschiedlichen Gründen – Wahnvorstellungen
-(Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und alle Sinne betreffen. Man kann Dinge *hören* (Stimmen hören, …) oder Sachen *sehen* ("weiße Mäuse", …) die nicht existieren. Der Betroffene nimmt dies jedoch als vollkommen "echt" und real wahr.
+Menschen können – aus unterschiedlichen Gründen – Wahnvorstellungen (Halluzinationen) entwickeln. Diese können sehr unterschiedlich sein und alle Sinne betreffen. Man kann Dinge *hören* (Stimmen hören, …) oder Sachen *sehen* ("weiße Mäuse", …) die nicht existieren. Der Betroffene nimmt dies jedoch als vollkommen "echt" und real wahr.
 
 Der Wirklichkeitsbezug kann teilweise erhalten oder nahezu komplett verloren gegangen sein.
 
@@ -152,7 +150,6 @@ Verfolgungswahn, Größenwahn oder der Verarmungswahn.
 ```
 
 (pf22091c)=
-
 (m-wahnvorstellungen)=
 
 ##### Maßnahmen: Wahnvorstellungen
@@ -187,7 +184,6 @@ Unruhe und Aggressivität kann ein Anzeichen für viele Krankheitsbilder sein. D
 Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit diesen Patienten eingegangen werden.
 
 (pf92091c)=
-
 (m-aggressiver-patient)=
 
 #### Maßnahmen: Unruhiger oder aggressiver Patient
@@ -205,15 +201,12 @@ Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit die
   - Selbstschutz, Fluchtweg offen halten
 
 (suizidalitat)=
-
 (suizid1)=
 
 ### Suizidalität
 
-{dfn}`Suizid` {index}` <! Suizid>`
-bezeichnet die absichtliche Selbsttötung.
-Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche
-(*SMV*) gehören zu den häufigen Einsatzgründen im Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche Handlungen nicht auf den ersten Blick als solche erkennbar.
+{dfn}`Suizid` {index}` <! Suizid>` bezeichnet die absichtliche Selbsttötung.
+Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche (*SMV*) gehören zu den häufigen Einsatzgründen im Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche Handlungen nicht auf den ersten Blick als solche erkennbar.
 
 Wenn der Verdacht auf eine suizidale Handlung besteht, soll dies vertraulich, aber *direkt angesprochen und geklärt werden*. Es ist dabei wichtig, einen **neutralen Tonfall** zu verwenden und **nicht anklagend zu klingen!**
 
@@ -289,7 +282,6 @@ Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion, z. B
 Die Symptome sind je nach Form, Fortschritt und Person vielfältig und unterschiedlich, und darüber hinaus auch sehr *wechselhaft* und von der Tagesverfassung abhängig. Klassisch ist eine *zeitliche oder örtliche Desorientiertheit*, *Gedächtnisschwäche* (insbesonders das Kurzzeitgedächtnis betreffend), das Verkennen von Personen, oder auch psychomotorische *Unruhe* und *Aggressivität*.
 
 (manie)=
-
 (depression)=
 
 ### Depression und Manie
@@ -297,12 +289,9 @@ Die Symptome sind je nach Form, Fortschritt und Person vielfältig und unterschi
 #### Beschreibung: Depression und Manie
 
 Die {dfn}`Depression`
-{index}` <! Depression>`
-ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
+{index}` <! Depression>` ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
 Die {dfn}`Manie`
-{index}` <! Manie>`
-ist dagegen ein
-Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und Willenssphäre sowie des Denkens.
+{index}` <! Manie>` ist dagegen ein Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und Willenssphäre sowie des Denkens.
 
 Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
 . Sie tritt mit einer Vielzahl von unterschiedlichen Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung abzugrenzen.
@@ -337,13 +326,11 @@ Die Episoden können regelmäßig wiederkommen (rezidivierende depressive Störu
 - …
 
 (alkoholentzugsdelir)=
-
 (durchgangssyndrom)=
 
 #### Entzugsdelir und Durchgangssyndrom
 
-Im Extremfall leidet der Patient an einem Entzugsdelir (Delirium tremens). Dabei kann es zu Zittern, Unruhe, Angst, *Halluzinationen*
-("weiße Mäuse", …), vegetativer Entgleisung (Tachykardie, Hypo-/Hypertonie) und zerebralen Krampfanfällen kommen. Es handelt sich um einen **lebensbedrohlichen Zustand**!
+Im Extremfall leidet der Patient an einem Entzugsdelir (Delirium tremens). Dabei kann es zu Zittern, Unruhe, Angst, *Halluzinationen* ("weiße Mäuse", …), vegetativer Entgleisung (Tachykardie, Hypo-/Hypertonie) und zerebralen Krampfanfällen kommen. Es handelt sich um einen **lebensbedrohlichen Zustand**!
 
 ### Panikattacke
 

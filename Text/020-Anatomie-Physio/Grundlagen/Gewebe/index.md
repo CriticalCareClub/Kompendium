@@ -131,7 +131,11 @@ Innerhalb des Knorpelgewebes kann man **hyalinen** (z. B. Gelenksknorpel), **e
 ```
 ```{index} single: Gelenkfläche
 ```
-```{index} single: Kopf (Knochen) single: Hals (Knochen) single: Schaft (Knochen)
+```{index} single: Kopf (Knochen) 
+```
+```{index} single: Hals (Knochen) 
+```
+```{index} single: Schaft (Knochen)
 ```
 
 (knochen)=
@@ -159,7 +163,13 @@ Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des
   centralis) angeordnet. Der Begriff Osteon beschreibt diesen
   Gefäßkanal mit seinen Lamellen.
 
-```{index} single: Knochen;platte - single: Knochen;Röhren- single: Knochen;Würfel- single: Knochen;irreguläre -
+```{index} single: Knochen;platte - 
+```
+```{index} single: Knochen;Röhren- 
+```
+```{index} single: Knochen;Würfel- 
+```
+```{index} single: Knochen;irreguläre -
 ```
 
 #### Knochenformen
@@ -301,7 +311,11 @@ Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brot
 ```
 ```{index} single: Herzmuskulatur
 ```
-```{index} single: Muskulatur, Skelett- single: Muskulatur, Herz- single: Muskulatur, glatte
+```{index} single: Muskulatur, Skelett- 
+```
+```{index} single: Muskulatur, Herz- 
+```
+```{index} single: Muskulatur, glatte
 ```
 
 (muskel)=

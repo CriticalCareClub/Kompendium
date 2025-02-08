@@ -9,8 +9,7 @@ Intoxikationen
 Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →
 Koma.
 =  Sedierung mit Herabgesetzter Sensitivität der Chemorezeptoren auf CO2 und O2 mit Bradypnoe.
-Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis
-(„Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
+Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis („Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
 Entzugssymtomatik mit Gefahr des Entzug-GM-Anfalls , max.
 2 Ampullen geben!
 
@@ -44,15 +43,13 @@ TCA (Tricyklische Antidepressiva): Saroten (heute Schmerztherapie!), ...
 
 
 Klinik:
-- Long QT durch erhöhte Transportleistung der Natriumkanäle
-(QT länger als ½ Strecke R-R)
+- Long QT durch erhöhte Transportleistung der Natriumkanäle (QT länger als ½ Strecke R-R)
 - Zentral anticholinerges Syndrom: Nesteln und Faseln (Zunge klebt am Gaumen)
 - Peripher anticholinerges Syndrom: Tachyarrhythmie, Mydriasis, trockene rote Haut, trockener Mund, keine Darmperistaltik; Therapie: Physostigmin (Anticholium) titriert!
 - Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos, Beatmung,...
 
 
-SSRI (systemische Serotonin reuptake Inhibitoren)
-Seropram, Seroquel, Trittico, Tresleen, Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
+SSRI (systemische Serotonin reuptake Inhibitoren) Seropram, Seroquel, Trittico, Tresleen, Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
 
 
 Therapie: repetitive Aktivkohle, NaBIC, symptomatisch
@@ -120,18 +117,15 @@ CO2-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere
 
 
 
-Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ)
-Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
+Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ) Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
 
 Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 
 ## Beschreibung
 
-Eine {dfn}`Vergiftung` {index}` <! Vergiftung>` ist eine (meist dosisabhängige)
-organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus durch eine aufgenommene Substanz.
+Eine {dfn}`Vergiftung` {index}` <! Vergiftung>` ist eine (meist dosisabhängige) organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus durch eine aufgenommene Substanz.
 
-Vergiftungen sind eine interessante Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein
-Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das meist tödlich. Sonst nützliche Medikamente können schon bei einer Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
+Vergiftungen sind eine interessante Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das meist tödlich. Sonst nützliche Medikamente können schon bei einer Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
 
 Andererseits können Vergiftung in Abhängigkeit vom ursächlichen Stoff so ziemlich alle Erscheinungsformen darbieten. Oft findet man nur *unspezifische Symptome* vor, wie z. B. Erbrechen, Durchfall, Schmerzen im Magen-Darm-Trakt, Bewusstseinsstörungen, Krampfanfälle oder Entgleisung der Vitalparameter. Es ist weder möglich, noch sinnvoll, auf sämtliche mögliche Vergiftungen im Detail einzugehen. Im Folgenden werden einige häufig anzutreffende Vergiftungen sowie Herangehensweisen für andere, weniger häufige, vorgestellt und besprochen.
 
@@ -161,7 +155,6 @@ Gegen die meisten Vergiftungen kann man präklinisch, ursächlich wenig unterneh
 Das Hauptaugenmerk liegt daher auf der Sicherung der Vitalfunktionen und symptomatischer Therapie.
 
 (mt65091c)=
-
 (m-am-vergiftung)=
 
 ## Maßnahmen: Vergiftungen, allgemein
@@ -234,8 +227,7 @@ Wenn der Betroffene "über’s Ziel hinaus schießt", kann es schnell zu lebensb
 Alkohol wirkt enthemmend, z. T. stimulierend und stimmungsmodulatorisch.
 Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
-Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit
-(Alkoholkrankheit) zu unterscheiden.
+Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit (Alkoholkrankheit) zu unterscheiden.
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/dif-w2-zelt-1.\*
 :width: 100%
@@ -340,8 +332,7 @@ Die gefährlichste Wirkung der Opiate ist die Atemdepressionen, d. h. die Atem
 Die Patienten zeigen dementsprechend Zeichen einer Hypoxie (Zyanose).
 Charakteristisch ist die starke Verengung der Pupillen *(stecknadelkopfgroße Pupillen)*. Oft findet man alte Einstichstellen in der Armbeuge.
 Da in der "Szene" oft unsauberes oder getauschtes Spritzbesteck verwendet wird, besteht eine erhöhte Erkrankungsrate an HIV und Hepatitis C.
-Eine weitere Gefahr geht vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird
-(**Vorsicht vor der Nadel!**)
+Eine weitere Gefahr geht vom Spritzbesteck aus, wenn es nicht sicher verwahrt wird (**Vorsicht vor der Nadel!**)
 
 #### Gegenmittel
 
@@ -378,8 +369,7 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 % -   Gesteigertes Erleben der Umwelt.
 :::
 
-Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA
-(3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der Umwelt.
+Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA (3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der Umwelt.
 
 #### Symptome
 
@@ -406,7 +396,6 @@ Psychisch kommt es dosisabhängig zu Halluzinationen und Panik-Attacken.
 Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Krampfanfälle*, *hypertensive Krisen*, massiver *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei durch Schwitzen viel Flüssigkeit verliert.
 
 (mt43091c)=
-
 (m-intoxikation-uppers)=
 
 #### Maßnahmen: Vergiftung mit Uppers
@@ -425,7 +414,6 @@ Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Kramp
 ### Vergiftungen mit Stickgasen
 
 (mt59xx1c)=
-
 (m-am-stickgase)=
 
 #### Maßnahmen: Vergiftung mit Stickgasen
@@ -509,7 +497,6 @@ Es stehen die Symptome des *Sauerstoffmangels* im Vordergrund (Hypoxie):
 Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemeinsymptomen wie Schwindel, Kopfschmerz, Übelkeit und Erbrechen, evtl. besteht auch eine Tachykardie. Es können sich rasch Bewusstseinsstörungen bis hin zur Bewusstlosigkeit entwickeln, auch Krämpfe sind gut möglich.
 
 (mt58001c)=
-
 (m-intoxikation-kohlenmonoxid)=
 
 ##### Maßnahmen: Vergiftung mit Kohlenmonoxid
@@ -668,8 +655,7 @@ Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
 
 #### Beschreibung
 
-Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung)
-von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
+Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 #### Symptome
 
@@ -719,7 +705,6 @@ Schaumbildner vermindern die Oberflächenspannung, dadurch kommt es zur Bildung 
 - Übelkeit, Erbrechen
 
 (mt17023c)=
-
 (m-schaumbildner)=
 
 #### Maßnahmen: Einnahme von schaumbildenden Substanzen

@@ -18,7 +18,9 @@
 ```
 ```{index} single: AT-III; Heparin-Wirkung
 ```
-```{index} single: aPTT; Heparin-Dosierung pair: HIT-Syndrom; Heparin
+```{index} single: aPTT; Heparin-Dosierung 
+```
+```{index} pair: HIT-Syndrom; Heparin
 ```
 
 (heparin)=

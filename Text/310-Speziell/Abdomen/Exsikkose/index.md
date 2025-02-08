@@ -23,8 +23,7 @@ Als {dfn}`Exsikkose` {index}` <! Exsikkose>` ({dfn}`Dehydratation` {index}` <! D
 
 Grundsätzlich wird (wurde) entweder *zu wenig Flüssigkeit zugeführt* oder *zu viel Flüssigkeit an die Außenwelt abgegeben* (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen:
 
-Besonders ältere Menschen haben oft ein mangelndes Durstgefühl und daher einen *verminderten Trinkantrieb*. Auch durch die Einnahme von *Drogen*
-(Ecstacy) kann auf den Durst "vergessen" werden. Andererseits kann es zu einem erhöhtren *Flüssigkeitsverlust* durch *Erbrechen*, *Durchfall* sowie *starkes Schwitzen* kommen. Bei *Fieber* wird auch vermehrt Feuchtigkeit abgeatmet, und natürlich können auch *Medikamente* entwässern.
+Besonders ältere Menschen haben oft ein mangelndes Durstgefühl und daher einen *verminderten Trinkantrieb*. Auch durch die Einnahme von *Drogen* (Ecstacy) kann auf den Durst "vergessen" werden. Andererseits kann es zu einem erhöhtren *Flüssigkeitsverlust* durch *Erbrechen*, *Durchfall* sowie *starkes Schwitzen* kommen. Bei *Fieber* wird auch vermehrt Feuchtigkeit abgeatmet, und natürlich können auch *Medikamente* entwässern.
 
 Die genannten Ursachen sind natürlich nur ein kleiner Teil von sehr vielen Möglichkeiten.
 

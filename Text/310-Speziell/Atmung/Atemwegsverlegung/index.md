@@ -141,8 +141,7 @@ Die (Un-) Fähigkeit zu sprechen und zu husten ist das wesentliche Kriterium um 
     Bei der milden Verlegung ist die Einschätzung von den Befunden
     abhängig.
 
-.. index::
-    single: Heimlich-Manöver
+
 ```
 
 ```{index} single: Heimlich-Manöver

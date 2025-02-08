@@ -35,15 +35,12 @@ PEEP-Einstellung:
 
 
 Permessive Hyperkapnie:
-oft paCO2 erhöht, limitierend ist pH mit Zielgröße  \>  7,2 (bis dahin durch Rechtsverschiebung Vorteil der leichteren O2-Abgabe ans Gewebe) Unerwünschte Folgen der Azidose sind verminderte Myokardkontraktion
-(calciumantagon.
-Effekt der Azidose), vermehrt Herzrhythmusstörungen, Hyperkaliämie. Keine Pufferung mit NaBiC (CO2 kann nicht abgeatmet werden!) KI der PHC: Rechtsherzinsuffizienz, Katecholaminpflichtige MI, SHT mit erhöhtem ICP, IRV \> 1:1 um Kontaktzeit zu verlängern (verkürzt jedoch auch Expirationszeit mit CO2 Abatmung)
-NO-Inhalativ, Prostazyklin (Flolan)
+oft paCO2 erhöht, limitierend ist pH mit Zielgröße  \>  7,2 (bis dahin durch Rechtsverschiebung Vorteil der leichteren O2-Abgabe ans Gewebe) Unerwünschte Folgen der Azidose sind verminderte Myokardkontraktion (calciumantagon.
+Effekt der Azidose), vermehrt Herzrhythmusstörungen, Hyperkaliämie. Keine Pufferung mit NaBiC (CO2 kann nicht abgeatmet werden!) KI der PHC: Rechtsherzinsuffizienz, Katecholaminpflichtige MI, SHT mit erhöhtem ICP, IRV \> 1:1 um Kontaktzeit zu verlängern (verkürzt jedoch auch Expirationszeit mit CO2 Abatmung) NO-Inhalativ, Prostazyklin (Flolan)
 
 
 Kreislaufmanagement:
-ausgeglichene Bilanz um ein weiteres Lungenödem zu vermeiden
-(neg. Bilanz, Diurese fördern, ev.
+ausgeglichene Bilanz um ein weiteres Lungenödem zu vermeiden (neg. Bilanz, Diurese fördern, ev.
 HF), jedoch Hypotonie und MOF vermeiden!
 
 
@@ -52,10 +49,8 @@ Ev. Pulmonalisdruck senken (NO wirkt Rechtsherzversagen entgegen)
 
 Lagerungstherapie: Seitenlagerung und Bauchlagerung
 
-AB z.B. Augmentin und Klacid (atyp.Keime)
-KH arme Ernährung (vermind.
-CO2 Prod.) und Omega-3-FS reich (immunmodul.)
-Extrakorporale CO2-Eliminationsverfahren (ECMO, ILA) bei unbeherrschbarer Hyperkapnie, Azidose Medikamente: Ketoconazol und Glucocortikoide werden nicht mehr empfohlen.
+AB z.B. Augmentin und Klacid (atyp.Keime) KH arme Ernährung (vermind.
+CO2 Prod.) und Omega-3-FS reich (immunmodul.) Extrakorporale CO2-Eliminationsverfahren (ECMO, ILA) bei unbeherrschbarer Hyperkapnie, Azidose Medikamente: Ketoconazol und Glucocortikoide werden nicht mehr empfohlen.
 Ev. Antioxianzien (Selen, N-Acetylcystein), Mucosolvan (Ambroxol) soll Surfactantproduktion positiv beeinflussen.
 
 Voraussetzung für Messung des UIP und OIP: Pat.

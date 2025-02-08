@@ -15,7 +15,6 @@ Bei vital bedrohten (zeitkritischen) Patienten wird ggfs.
 bewusst *kein vollständiger* Traumacheck durchgeführt um nicht unnötig Zeit zu verlieren!
 
 (tupfertest)=
-
 (dms)=
 
 ## *Vollständiger* Traumacheck

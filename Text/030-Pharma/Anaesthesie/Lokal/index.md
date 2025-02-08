@@ -2,7 +2,6 @@
 :::{index} single: Lokalanästhetikum
 :::
 (GREG-VO-Lokalanaesthetika)=
-
 (Lokalanaesthetika)=
 
 # Lokalanästhetika

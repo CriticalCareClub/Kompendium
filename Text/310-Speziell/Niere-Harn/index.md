@@ -22,14 +22,12 @@ Erkrankungen des harnableitenden Systems.
 :::
 ::::
 
-Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch
-(Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
+Ein *Harnkatheter* ist ein harnableitendes System, bei dem ein Schlauch (Katheter) über die Harnröhre in die Harnblase eingeführt wird, um Harn abzulassen. Mittels eines aufblasbaren Ballons kann der Katheter in der Blase fixiert werden, man spricht dann vom *Dauerkatheter*.
 Am Harnkatheter kann ein **Harnbeutel** {index}` <Harnbeutel>` angeschlossen werden, welcher den Urin sammelt und sich entleeren lässt.
 Der Harnbeutel muss *unter dem Patienten angebracht* sein, damit der Urin der Schwerkraft folgend abrinnen kann;
 andernfalls würde der Urin zurückrinnen.
 Beim Umlagern ist daher der zum Patienten führende *Schlauch abzuklemmen*. Der Katheter und das daran hängende System ist eine mögliche *Eintrittspforte für Keime*, daher ist auf einen sauberen, kontaminationsfreien Umgang zu achten.
-Wenn der Harnbeutel abgelassen werden muss, so ist die abgelassene Menge zu notieren, damit der Flüssigkeitshaushalt (Einfuhr, Ausfuhr; Flüssigkeitsbilanz)
-bilanziert werden kann.
+Wenn der Harnbeutel abgelassen werden muss, so ist die abgelassene Menge zu notieren, damit der Flüssigkeitshaushalt (Einfuhr, Ausfuhr; Flüssigkeitsbilanz) bilanziert werden kann.
 
 Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und entsprechend oft bei Patienten anzutreffen.
 
@@ -48,11 +46,9 @@ Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und entsprec
 
 ### Beschreibung und Ursachen
 
-Eine {dfn}`Nierenkolik` {index}` <! Nierenkolik>`
-ist gekennzeichnet durch kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem daraus folgenden Harnstau und Dehnung des Harnleiters, vgl. {ref}`Kolik <kolik>`.
+Eine {dfn}`Nierenkolik` {index}` <! Nierenkolik>` ist gekennzeichnet durch kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem daraus folgenden Harnstau und Dehnung des Harnleiters, vgl. {ref}`Kolik <kolik>`.
 
-Sie ist eine
-äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem Dehnungsschmerz.
+Sie ist eine äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem Dehnungsschmerz.
 
 ### Symptome
 
@@ -69,7 +65,6 @@ Sie ist eine
 Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im Unterbauch der jeweiligen Seite, welcher auch in den Hoden bzw. in die Schamlippen ausstrahlen kann. Im Gegensatz zu anderen abdominellen Erkrankungen ist der Patient extrem unruhig und agitiert (*"Der Stein wandert, der Schmerz wandert, der Patient wandert"*). Oft läuft er gestikulierend und wehklagend durch die Gegend. Mitunter ist eine entsprechende Vorerkrankung *(Nierensteine)* bereits bekannt und kann erfragt werden. Unter Umständen kann Blut im Harn sein.
 
 (mn23xx0c)=
-
 (m-nierenkolik)=
 
 ### Maßnahmen: Nierenkolik
@@ -102,8 +97,7 @@ Eine {dfn}`Nierenbeckenentzüdung` {index}` <! Nierenbeckenentzüdung>` ist eine
 
 Sie ist oft bakteriell bedingt und umfasst die oberen Harnwege, das Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der häufigsten Erkrankungen der Niere {term}`🗎 Pschyrembel 259`. Im schlimmsten Fall kann sich die Infektion weiter ausbreiten und eine Sepsis verursachen ({ref}`sepsis`).
 
-Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen
-("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen Infektionen häufig multiresistente Keime ("Spitalskeime", gegen Antibiotika unempfindliche Bakterien, {ref}`multiresistente-keime`) der Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
+Harnwegsinfektionen werden häufig in Gesundheitseinrichtungen übertragen ("Spitalsinfektion"). Problematisch ist hierbei, dass bei derartigen Infektionen häufig multiresistente Keime ("Spitalskeime", gegen Antibiotika unempfindliche Bakterien, {ref}`multiresistente-keime`) der Auslöser sind, welche deutlich schwieriger zu behandeln sind. Ein besonderes Risiko stellen hierbei harnableitende Systeme (Harnkatheter,
 -beutel) da.
 
 ### Symptome
@@ -143,8 +137,7 @@ Bei der akuten Nierenbeckenentzündung leidet der Patient unter Fieber, Flankens
 :::
 ::::
 
-Ein {dfn}`Akuter Harnverhalt` {index}` <! Akuter Harnverhalt>`
-ist eineAbflussbehinderung des Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
+Ein {dfn}`Akuter Harnverhalt` {index}` <! Akuter Harnverhalt>` ist eineAbflussbehinderung des Harns aus der Harnblase, bei der verschiedene Ursachen möglich sind.
 
 Besonders betroffen sind Männer im fortgeschrittenen Alter aufgrund der häufigen altersbedingten Vergrößerung der Prostata, die die Harnröhre abschnürt.
 Davon abgesehen können auch alte Narben, Medikamente oder eine Störung der Schließmuskel der Harnblase [^harnverhaltbeispiel] zu Harnverhalten führen.
@@ -156,7 +149,6 @@ Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die sc
     Wirbelsäulenverletzungen
 
 (mr33xx1c)=
-
 (m-harnverhalten)=
 
 ### Maßnahmen: Akuter Harnverhalt
@@ -168,7 +160,6 @@ Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die sc
     Blasenpunktion (Spital)
 
 (niereninsuffizienz)=
-
 (cni-therapie-dialyse)=
 
 ## Niereninsuffizienz, Nierenversagen und Dialyse
@@ -184,8 +175,7 @@ Eine medikamentöse Schmerztherapie ist selten sinnvoll, Erlösung bringt die sc
 
 Bei der {dfn}`chronischen Niereninsuffizienz` (*Abkz.* *CNI*) besteht eine chronisch beeinträchtigte, herabgesetzte Funktion der Nieren.
 
-Typischerweise kommt es im Rahmen anderer chronischer Krankheiten
-(Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die Niereninsuffizienz ebenfalls häufig anzutreffen.
+Typischerweise kommt es im Rahmen anderer chronischer Krankheiten (Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die Niereninsuffizienz ebenfalls häufig anzutreffen.
 
 Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung, später jedoch nur die Nierentransplantation oder eine Nierenersatztherapie ({dfn}`Dialyse` {index}` <! Dialyse>`, *Blutwäsche*) zur Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten oder dritten Tag für einige Stunden an eine Maschine angeschlossen, welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des Krankentransportdienstes.
 
@@ -275,8 +265,7 @@ Die Niere beansprucht zirka 20% des HZV (ca, 1,2l Blut). Der Großteil geht in d
 
 Aufbau: Nephron  =  Glomerulus in Bowman Kapsel mit Vas afferenz und efferenz und juxtaglomerulärem Apparat -- proximaler Tubulus (Konvolut) -- Henle Schleife in Medulla -- distaler Tubulus -- Sammelrohr.
 
-Filter: kapilläres Endothel mit gap junctions bis 60nm + Basalmembran (Größe, Form und Ladung d. Moleküle) + viszerales Epithel (Ladung und Form)
-Primärharn = ca. 180l/d Ultrafiltrat des Plasma, proteinfrei
+Filter: kapilläres Endothel mit gap junctions bis 60nm + Basalmembran (Größe, Form und Ladung d. Moleküle) + viszerales Epithel (Ladung und Form) Primärharn = ca. 180l/d Ultrafiltrat des Plasma, proteinfrei
 
 
 
@@ -293,14 +282,9 @@ Clearance bestimmt.
 
 
 Autoregulation des renalen Blutflusses:
-Zwischen MAP 80-200 mmHg konstant mit konstanter GFR
-(Vasokonstr. vas afferenz)
-Erhöhter Sympatikotonus mit reduziertem RBF bewirkt eine Vasodilatation durch Prostaglandine
-(CAVE: NSAR) und autokrine Hormone wie NO, Endothelin, sowie eine Vasokonstriktion der Vasa efferenz durch ATII (CAVE: ACEI).
+Zwischen MAP 80-200 mmHg konstant mit konstanter GFR (Vasokonstr. vas afferenz) Erhöhter Sympatikotonus mit reduziertem RBF bewirkt eine Vasodilatation durch Prostaglandine (CAVE: NSAR) und autokrine Hormone wie NO, Endothelin, sowie eine Vasokonstriktion der Vasa efferenz durch ATII (CAVE: ACEI).
 Tubuloglomeruläres Feedback:
-verhindert die
-Überforderung einzelner Nephrone
-(unterschiedliche GFR im Cortex und Medulla)
+verhindert die Überforderung einzelner Nephrone (unterschiedliche GFR im Cortex und Medulla)
 
 
 Aufgaben Nepron:
@@ -313,18 +297,14 @@ CAVE:
 Carboanhydrasehemmer verhindern Bicarbonatrücktransfer und damit auch Wasserrückresorption), Sekretion von Säuren und Basen.
 1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium  =  hyperosmolar, hier keine Wasserpermeabilität), Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
 1) Distaler Tubulus: Na-Reabsorption 4) Sammelrohr: Aquaporine (ADH) für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
-JGA (juxtaglomerulärer Apparat)
-Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
+JGA (juxtaglomerulärer Apparat) Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
 Ausschüttung bei:
 Hyponatriämie (Macula densa) und vermindertem Extrazellulärvolumen, weiters bei Hypotonie durch Barorezeptoren im Vas afferenz Sympathikusaktivierung.
 RAA-Mechanismus Renin spaltet Angiotensinogen in AT I -- ACE spaltet in ATII. Diese wirkt direkt Vasokonstriktorisch und hebt Afterload, und setzt Aldosteron frei =  Na und Wasserretention steigt  =  preload steigt.
 Aldosteron hemmt Reninfreisetzung.
 
 ADH = antidiuretisches Hormon = Vasopressin Im Hypothalamus gebildet und HHL gespeichert,  öffnet Aquaporine im distalen Tubulus und Sammerlrohren  =  Wasserretention und Harnstoff  =  Harnkonzentrierung! Mangel  =  IADHS, Diab.
-Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen)
-und Aterien (Druck)
-(Minirin, Desmopressin/Octostim)
-Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase, und Na-H+-Antiport)
+Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen) und Aterien (Druck) (Minirin, Desmopressin/Octostim) Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase, und Na-H+-Antiport)
 
 
 
@@ -334,11 +314,9 @@ Hypertonie, Diabetes, Adipositas. Die Einteilung erfolgt nach KDIGO-Guidlines 20
 Anästhetika bei CNI:
 - Barbiturate und Benzodiazepine = erhöhte Sensitivität
 - Opioide werden in der Leber metabolisiert und  über die Niere ausgeschieden, Morphium kann akkumulieren.
-- Volatile Anästhetika sind ideal bei CNI
-(Sevo theor. Akumulation von Fluoriden)
+- Volatile Anästhetika sind ideal bei CNI (Sevo theor. Akumulation von Fluoriden)
 - Succinylcholin nur bei K \< 5!!
-- Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron
-(Rocuronium) wird zu 20% renal eleminiert (TOF!).
+- Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron (Rocuronium) wird zu 20% renal eleminiert (TOF!).
 
 Röntgenkontrastmittel induzierte Nephropathie Akute renale Verschlechterung innerhalt 48 bis 72h nach KM-Gabe mit Kreatininanstieg  +25%
 oder +0,5mg/dl!
@@ -346,11 +324,7 @@ Ursache: Vasokonstriktion mit Perfusionsminderung (ATII vermittelt) in der Niere
 Risikofaktoren:
 Vorbestehende NI mit Krea \> 1,4mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1ml/kg/h bis 24h nach KM), keine Diuretika Gabe, ev. ACC 600mg vor und 12h nach KM, max 300ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26% iv: 3ml/kg/h 60min vor KM, 1ml/kg/h während und 6 h nach der Untersuchung.
 Rhabdomyolyse:
-= Degeneration und Nekrose von quergestreiften Muskelfasern (Skelett und Herzmuskulatur)
-Urs: Alkohol, Heroin, MH, Propofolinfusionssyndrom Hämoglobin, Myoglobin und Eiweiß verstopfen den distalen Tubulus und führen zum NV = Crush Niere! (Kompartmentsyndrom!)
-Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH,
-(K + Laktat bei Kompartment)
-Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
+= Degeneration und Nekrose von quergestreiften Muskelfasern (Skelett und Herzmuskulatur) Urs: Alkohol, Heroin, MH, Propofolinfusionssyndrom Hämoglobin, Myoglobin und Eiweiß verstopfen den distalen Tubulus und führen zum NV = Crush Niere! (Kompartmentsyndrom!) Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH, (K + Laktat bei Kompartment) Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
 
 
 HUS = hämolytisch urämisches Syndrom/TTP Urs: Endothelschaden mit überwiegen von TXA2 und Mikrothrombenbildung durch Cyclosporin A, Bakterielle/virale Infektionen.
@@ -408,8 +382,7 @@ Prävention:
 Schleifendiuretika senken in der Theorie den Sauerstoffbedarf der Niere durch eine vermehrte Natriumrückresorbtion + kortikale Vasodilatation = „Auswascheffekt".
 KI bei AKIN \> III
 
-Die Folgen der akuten Urämie sind eine metabolische Entgleisung, Akumulation von Urämietoxinen, metabolische Störungen
-(Insulinresistenz, Hyperparathyreoidismus), metabolische Azidose.
+Die Folgen der akuten Urämie sind eine metabolische Entgleisung, Akumulation von Urämietoxinen, metabolische Störungen (Insulinresistenz, Hyperparathyreoidismus), metabolische Azidose.
 
 
 

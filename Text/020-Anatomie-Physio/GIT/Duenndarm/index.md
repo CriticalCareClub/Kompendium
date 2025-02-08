@@ -8,7 +8,9 @@
 ```
 ```{index} single: Treitz'sche Flexur
 ```
-```{index} single: Flexur, Treitz'sche - single: Pars superior duodeni
+```{index} single: Flexur, Treitz'sche - 
+```
+```{index} single: Pars superior duodeni
 ```
 ```{index} single: Ampulla duodeni
 ```
@@ -44,7 +46,6 @@
 ```
 
 (duodenum)=
-
 (mesenterium)=
 
 # Dünndarm (Intestinum tenue): Duodenum, Jejunum, Ileum

@@ -393,9 +393,7 @@ Er stellt eine  bedrohliche systemische Erkrankung dar.
 
 ## 38.2. Ileus
 
-Mechanischer Ileus: Okklusions- oder Strangulationsileus (Tumore, Gallensteine, Volvolus, Invag.)
-Funktioneller Ileus: paralytischer Ileus im Rahmen von intraabdominellen Entzündungen
-(Pankreatitits, Cholezystitis, Appendizitis, Peritonitits), metabolisch (Urämie, Hypokaliämie), hormonell (SS), Vaskulär (Claudicatio abdominalis), medikamentör (Opioide, Antidepressiva,..)
+Mechanischer Ileus: Okklusions- oder Strangulationsileus (Tumore, Gallensteine, Volvolus, Invag.) Funktioneller Ileus: paralytischer Ileus im Rahmen von intraabdominellen Entzündungen (Pankreatitits, Cholezystitis, Appendizitis, Peritonitits), metabolisch (Urämie, Hypokaliämie), hormonell (SS), Vaskulär (Claudicatio abdominalis), medikamentör (Opioide, Antidepressiva,..)
 
 Dünndarmileus: Starke Vermehrung von Darmkeimen va. E.coli und Hypersekretion der SH mit Stuhlerbrechen und vital bedrohlichen Flüssigkeitsverschiebungen und Elektrolytentgleisungen.
 Beim tiefen Dünndarmileus steht die Translokation im Vordergrund mit Gefahr des septischen MOF.

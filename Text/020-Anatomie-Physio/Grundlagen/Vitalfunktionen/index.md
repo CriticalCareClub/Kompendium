@@ -1,5 +1,4 @@
 (vitalfunktionen-definition)=
-
 (vitalfunktionen)=
 
 # Vitalfunktionen

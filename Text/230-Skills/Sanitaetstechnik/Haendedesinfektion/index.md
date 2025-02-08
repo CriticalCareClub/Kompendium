@@ -4,7 +4,6 @@
 ```
 
 (hygienische-haendedesinfektion)=
-
 (haendedesinfektion)=
 
 # Hygienische Händedesinfektion

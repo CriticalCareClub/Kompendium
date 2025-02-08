@@ -20,7 +20,10 @@ Eine Abklärung ist präklinisch oft nicht möglich, und auch unter stationären
 Es gibt jedoch auch typische "Kollaps-Situationen":
 Ein schwüler Tag in einer überfüllten U-Bahn-Garnitur, nicht gefrühstückt, auf dem Weg zu einem Vorstellungstermin und seit gestern in der Menstruation.
 Oder im stickigen Veranstaltungszelt bei 40°C, wobei der der ganze Flüssigkeitskonsum aus 5 (entwässernden) Dosen RedBull bestand.
-So mancher war auch ob eines Begräbnisses so ergriffen, dass er sich fast in die Grube neben den Sarg dazugelegt hätte …
+So
+```{index} single: Hypotonie
+```
+
 
 ## Symptome
 
@@ -36,7 +39,6 @@ So mancher war auch ob eines Begräbnisses so ergriffen, dass er sich fast in di
 Der Patient berichtet über Schwindel, evtl. ist er zusammengesackt, war kurz bewusstlos. Der Patient wacht oft auf dem Boden liegend auf und weiß nicht, was geschehen ist. Er erzählt, es wäre ihm schwarz vor den Augen geworden. Der Blutdruck ist meist niedrig, der Patient ist eventuell bradykard oder tachykard.
 
 (proc-mr55xx0c)=
-
 (m-kollaps)=
 
 ## Maßnahmen: Kollaps

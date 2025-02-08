@@ -61,8 +61,7 @@ Gefahren:
 :::
 ::::
 
-Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsstörung. Diese Schädigung kann direkt auf das ZNS einwirken
-(primäre Ursache) oder auf Organe oder Körperfunktionen einwirken, welche für das Funktionieren des ZNS erforderlich sind (sekundäre Ursache). Die Tabelle {ref}`Table-bewusstseinsstoerungen-ursachen` listet typische Ursachen auf.
+Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsstörung. Diese Schädigung kann direkt auf das ZNS einwirken (primäre Ursache) oder auf Organe oder Körperfunktionen einwirken, welche für das Funktionieren des ZNS erforderlich sind (sekundäre Ursache). Die Tabelle {ref}`Table-bewusstseinsstoerungen-ursachen` listet typische Ursachen auf.
 
 :::{list-table} Ursachen von Bewusstseinsstörungen
 :header-rows: 1
@@ -111,7 +110,6 @@ Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsst
 ```
 
 (bewusstseinsstoerung-grade)=
-
 (bewusstseinsgrad-neurologie)=
 
 ### Bewusstseinsgrad
@@ -126,8 +124,7 @@ Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsst
 :::
 ::::
 
-Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins
-(*Wieviel* Bewusstsein ist vorhanden? Vgl.
+Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins (*Wieviel* Bewusstsein ist vorhanden? Vgl.
 {ref}`bewusstseinsstoerung-grade`).
 Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
 {dfn}`WASB` ist die Abkürzung für **w**ach, Reaktion auf **a**nsprechen oder leichte Weckreize, Reaktion auf **S**chmerzreiz und **b**ewusstlos.
@@ -190,7 +187,6 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
 ```
 
 (mr40001b)=
-
 (m-bewusstseinstruebung)=
 
 ### Maßnahmen: Bewusstseinseintrübung
@@ -218,7 +214,6 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
     - (Fremd-)Anamnese, Umstände, Szenerie
 
 (mr40021b)=
-
 (m-bewusstlosigkeit)=
 
 ### Maßnahmen: Bewusstlose und soporöse Patienten
@@ -296,12 +291,10 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 :::
 ::::
 
-Das *große Hinterhauptsloch* als Durchtrittsstelle des Rückenmarks ist die einzige große Öffnung des Gehirnschädels und somit die einzige Möglichkeit des Gehirns sich auszudehnen. Kommt es aufgrund eines sehr großen Hirndrucks zu solch einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen
-(*Hirnstammeinklemmung*).
+Das *große Hinterhauptsloch* als Durchtrittsstelle des Rückenmarks ist die einzige große Öffnung des Gehirnschädels und somit die einzige Möglichkeit des Gehirns sich auszudehnen. Kommt es aufgrund eines sehr großen Hirndrucks zu solch einer Ausdehnung kann es zu der Einklemmung des Hirnstammes kommen (*Hirnstammeinklemmung*).
 Da sich im Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute **Lebensgefahr**!
 
 (insult)=
-
 (schlaganfall)=
 
 ## Ein Schlaganfall kann ischämisch oder durch eine Blutung entstehen
@@ -483,7 +476,6 @@ Vor Anmeldung zu einer Stroke-Unit müssen folgende Informationen erhoben worden
 - Vorbestehende Beeinträchtigungen
 
 (ni64xx0c)=
-
 (m-insult)=
 
 ### Maßnahmen: Insult
@@ -497,10 +489,8 @@ Taktik
   Vitalfunktionen sichern,
   rascher Transport an eine geeignete Abteilung.
 
-Grundsätzlich ist ein Schlaganfall-Patient aufgrund seiner Diagnose als **vital bedroht** und gleichzeitig als **zeitkritisch**
-(*"Time is brain."*) einzustufen.
-Eine definitive Therapie in einer Spezialabteilung
-(*Stroke Unit*) kann andere, noch nicht abgestorbene Teile des Hirns vor weiterem Schaden bewahren, d. h. es ist sehr wichtig, dass diese Therapie möglichst schnell erfolgt.
+Grundsätzlich ist ein Schlaganfall-Patient aufgrund seiner Diagnose als **vital bedroht** und gleichzeitig als **zeitkritisch** (*"Time is brain."*) einzustufen.
+Eine definitive Therapie in einer Spezialabteilung (*Stroke Unit*) kann andere, noch nicht abgestorbene Teile des Hirns vor weiterem Schaden bewahren, d. h. es ist sehr wichtig, dass diese Therapie möglichst schnell erfolgt.
 
 ⛑ Basismaßnahmen
 : - {{ TxMassVitMKBes }}
@@ -577,7 +567,6 @@ Eine definitive Therapie in einer Spezialabteilung
 ## Vom Gehirn ausgehende Krämpfe: Zerebrale Krampfanfälle
 
 (krampfanfall)=
-
 (zerebrale-krampfanfaelle)=
 
 ### Beschreibung und Einteilung
@@ -686,9 +675,7 @@ Der fokale Anfall wird auch "petit mal"[^petitmal] genannt.
 :::
 ::::
 
-Der generalisierte Krampfanfall
-(*"grand mal"*[^grandmal])
-betrifft den ganzen Körper.
+Der generalisierte Krampfanfall (*"grand mal"*[^grandmal]) betrifft den ganzen Körper.
 Häufig kommt es während des Anfalles zu einem Zungenbiss, außerdem zum Einnässen oder Einkoten.
 Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 
@@ -746,12 +733,10 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
 ::::
 
 Der Status epilepticus ist eine lebensgefährliche Steigerung des generalisierten Krampfanfalls.
-Er besteht dann, wenn der Anfall nicht nach kurzer Zeit vergeht oder innerhalb kurzer Abstände mehrere Anfälle auftreten
-(z. B. *zwei oder mehr* Anfälle innerhalb von 24 Stunden).
+Er besteht dann, wenn der Anfall nicht nach kurzer Zeit vergeht oder innerhalb kurzer Abstände mehrere Anfälle auftreten (z. B. *zwei oder mehr* Anfälle innerhalb von 24 Stunden).
 Der Krampf muss dann mit Medikamenten durchbrochen werden.
 
 (nr56081c)=
-
 (m-zerebraler-krampfanfall-bestendend)=
 
 ### Maßnahmen Krampfender Patient
@@ -795,7 +780,6 @@ Taktik
   Intensivüberwachung)
 
 (nr56082c)=
-
 (m-zerebraler-krampfanfall-status-post)=
 
 ### Maßnahmen: Nicht-(mehr) krampfender Patient
@@ -843,8 +827,7 @@ Taktik
 *Kinder* unter 4 Jahren können bei schnellem, hohen Fieberanstieg (> 39°C) *Fieberkrämpfe* entwickeln.
 Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlich genau so zu behandeln.
 
-Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben
-(und bei Eintreffen eventuell schon von den Eltern gegeben).
+Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\* Fieber
 
@@ -882,14 +865,10 @@ Dieser wird unter {ref}`eklampsie` besprochen.
 
 Verschiedene Ursachen wie z. B. eine Nervenreizung, ein Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall können zu einem Druck auf den *Ischias-Nerv* führen, welcher starke Schmerzen im Bereich der Lendenwirbelsäule (LWS) verursachen kann.
 Die Schmerzen strahlen oft ins Gesäß und in das betroffene Bein bis zum Fußaußenrand aus und werden von Gefühlsstörungen in diesem Gebiet bzw. von einer Verkrampfung der Rückenmuskulatur begleitet.
-Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem Auftreten spricht man von Lumboischialgie
-({dfn}`Lumbago` {index}` <! Lumbago>`)
-oder umgangssprachlich vom *Hexenschuss*.
+Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem Auftreten spricht man von Lumboischialgie ({dfn}`Lumbago` {index}` <! Lumbago>`) oder umgangssprachlich vom *Hexenschuss*.
 
-Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung oder durch falsches Heben großer Lasten) kann es zu einer (plötzlichen)
-Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses kommen.
+Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung oder durch falsches Heben großer Lasten) kann es zu einer (plötzlichen) Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses kommen.
 Dieser Druck verursacht ebenfalls Schmerzen, Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses Ereignis plötzlich auf, spricht man von einem
 {dfn}`akuten Bandscheibenvorfall`
 {index}` <! akuten Bandscheibenvorfall>`.
-Häufig ist die Lendenwirbelsäule (LWS-Bereich)
-betroffen.
+Häufig ist die Lendenwirbelsäule (LWS-Bereich) betroffen.

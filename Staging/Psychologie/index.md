@@ -21,7 +21,6 @@ einhergehende Belastung durch diese und andere Anforderungen und die
 daraus resultierenden Belastungen eingegangen.
 
 (beanspruchung-psi)=
-
 (belastung-psi)=
 
 ### Beanspruchung/Belastung

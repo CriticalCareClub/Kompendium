@@ -23,7 +23,9 @@ Aufgrund seiner engen Verbindung mit dem Krankheitsbild der Sepsis und der damit
 :::
 :::{index} single: Systemic Inflammatory Response Syndrome
 :::
-:::{index} single: Syndrome; Systemic Inflammatory Response pair: SIRS; Kriterien
+:::{index} single: Syndrome; Systemic Inflammatory Response 
+:::
+:::{index} pair: SIRS; Kriterien
 :::
 :::{index} single: MODS
 :::

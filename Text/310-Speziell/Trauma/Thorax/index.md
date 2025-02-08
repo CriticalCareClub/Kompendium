@@ -4,8 +4,7 @@
 # Thoraxtrauma
 
 Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.
-Thoraxverletzungen gelten als besonders gefährlich, da im Brustkorb
-(Thorax) lebenswichtige Organe (Herz, Lunge) und große Gefäße liegen.
+Thoraxverletzungen gelten als besonders gefährlich, da im Brustkorb (Thorax) lebenswichtige Organe (Herz, Lunge) und große Gefäße liegen.
 Darüber hinaus hat die Stabilität des knöchernen Thorax einen wesentlichen Einfluss auf die {ref}`Atemmechanik <atemmechanik>`.
 
 Somit beinhaltet der Begriff sowohl Verletzungen des knöchernen Thorax, als auch Weichteilverletzungen der darin liegenden Organe.
@@ -60,20 +59,14 @@ Häufig kommt es auch zu Blutungen in den Thorax ({dfn}`Hämatothorax`).
 
 Ein {dfn}`Pneumothorax` ist eine Luftansammlung im Pleuraspalt.
 
-Zwischen Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und die Lunge fällt in sich zusammen und kollabiert
-(vgl. Anatomie: {ref}`atemmechanik` und
+Zwischen Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und die Lunge fällt in sich zusammen und kollabiert (vgl. Anatomie: {ref}`atemmechanik` und
 {ref}`pleura`).
 
-Man unterscheidet zwischen
-{dfn}`offenem Pneumothorax` {index}` <Pneumothorax; offen>`
-(Luft strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt)
-und
-{dfn}`geschlossenem Pneumothorax` {index}` <Pneumothorax; geschlossen>`
-(Luft strömt durch eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
+Man unterscheidet zwischen {dfn}`offenem Pneumothorax` {index}` <Pneumothorax; offen>` (Luft strömt durch eine Verletzung der Brustwand von außen in den Pleuraspalt) und
+{dfn}`geschlossenem Pneumothorax` {index}` <Pneumothorax; geschlossen>` (Luft strömt durch eine Verletzung der Lungenoberfläche von innen in den Pleuraspalt).
 
 Ist lediglich die lungenseitige Pleura verletzt, oder entsteht durch die Form der Wunde ein Ventilmechanismus bei dem keine Luft nach ausserhalb entweichen kann, entsteht durch die sich im Pleuraraum aufstauende Luft ein Überdruck.
-Im Extremfall drückt der
-Überdruck den Mittelfellraum mit dem Herz auf die Gegenseite, wodurch auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert werden. Tritt bei einem Pneumothorax ein derartiger Ventilmechanismus auf, spricht man vom
+Im Extremfall drückt der Überdruck den Mittelfellraum mit dem Herz auf die Gegenseite, wodurch auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert werden. Tritt bei einem Pneumothorax ein derartiger Ventilmechanismus auf, spricht man vom
 {dfn}`Spannungspneumothorax` {index}` <Spannungspneumothorax>`.
 
 Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form des Pneumothorax nennt man
@@ -121,7 +114,6 @@ Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser 
 ```
 
 (tj93090c)=
-
 (m-pneumothorax)=
 
 ### Maßnahmen: Pneumothorax
@@ -154,7 +146,9 @@ Taktik
 ```
 ```{index} single: Serienrippenfraktur
 ```
-```{index} single: Fraktur; Rippen- single: Fraktur; Serienrippen-
+```{index} single: Fraktur; Rippen- 
+```
+```{index} single: Fraktur; Serienrippen-
 ```
 
 ## Rippenfraktur, Serienrippenfraktur und instabiler Thorax
@@ -181,9 +175,7 @@ Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte 
 Häufige Mechnismen sind z. B. ein Sturz auf den Thorax (insbesonders gegen einen Gegenstand oder eine Kante), Schlägereien (Knüppel!), oder Verletzungen durch einen Airbag.
 
 Nach Rippenfrakturen kann es durch spitze Fragmente zu einer Lungenfell-
-oder Lungenverletzung kommen, die aufgrund einer Blutung
-(*Hämatothorax*)
-oder Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche Komplikation ist dabei die Entstehung eines **Pneumothorax**. Eine Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane kommen.
+oder Lungenverletzung kommen, die aufgrund einer Blutung (*Hämatothorax*) oder Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche Komplikation ist dabei die Entstehung eines **Pneumothorax**. Eine Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane kommen.
 
 ```{index} single: Atmung; paradoxe; bei Serienrippenfraktur
 ```
@@ -229,9 +221,7 @@ Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht angeschnallten F
 ::::
 
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines *Pneumothorax* oder einer *Herzverletzung* bzw. einer *Herzbeuteltamponade* denken.
-Bei der {dfn}`Herbeuteltamponade` {index}` <Herbeuteltamponade>`
-kommt es durch Eintritt von Flüssigkeit (z. B. Blut)
-in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
+Bei der {dfn}`Herbeuteltamponade` {index}` <Herbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut) in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
 
 ## Verletzung des Herzens und der großen Gefäße
 
@@ -264,9 +254,7 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
 
 ## 51.1. Thoraxtrauma
 
-Pathophysio: Rippenbrüche, Lungenkontusion mit Störung der normalen Atemmechanik
-(Ventilations und Oxygenierungsstörung)
-und Erhöhung der Kapillarpermeabilität, Hämatothorax/Pneumothorax, Herabgesetzte FRC und Compliance, Ventilations/Perfusions mismatch mit intrapulm. Shunt und Hypoxämie.
+Pathophysio: Rippenbrüche, Lungenkontusion mit Störung der normalen Atemmechanik (Ventilations und Oxygenierungsstörung) und Erhöhung der Kapillarpermeabilität, Hämatothorax/Pneumothorax, Herabgesetzte FRC und Compliance, Ventilations/Perfusions mismatch mit intrapulm. Shunt und Hypoxämie.
 Blutverlust: Cardial, intrathorakal, extrathorakal Behinderung der Ventrikelfüllung durch Spannungspneumothorax, Pericardtamponade, Herzcontusion, Verletzung intracardialer Strukturen.
 
 

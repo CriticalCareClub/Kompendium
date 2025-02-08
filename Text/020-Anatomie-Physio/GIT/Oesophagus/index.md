@@ -10,7 +10,6 @@
 ```
 
 (speiseroehre)=
-
 (oesophagus)=
 
 # Ösophagus (Speiseröhre)

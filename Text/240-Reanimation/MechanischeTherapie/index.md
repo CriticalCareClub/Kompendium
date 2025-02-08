@@ -48,8 +48,7 @@ Auch wenn eine Defibrillation erfolgreich war, d. h. lt. EKG ein ordnungsgemä
 
 Der Patient muss auf einer *harten Unterlage*
 (Reanimationsbrett, Boden, …) liegen, der Helfer kniet seitlich neben dem Thorax des Patienten und beugt sich über den Patienten.
-Der Brustkorb wird frei gemacht und der *Druckpunkt* für die Herzdruckmassage aufgesucht, dieser liegt in der **Mitte des Brustbeins** zwischen den Mamillen
-(beim Mann).
+Der Brustkorb wird frei gemacht und der *Druckpunkt* für die Herzdruckmassage aufgesucht, dieser liegt in der **Mitte des Brustbeins** zwischen den Mamillen (beim Mann).
 Auf diesem Punkt wird ein *Handballen* gelegt, der Handballen der anderen Hand liegt am Handrücken der ersten Hand, direkt über dem Druckpunkt, die Finger werden ineinander verschränkt.
 Die Arme des Helfers sind durchstreckt und er drückt mit Hilfe seines eigenen Gewichts *gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.[^footnote-1]
 
@@ -156,7 +155,9 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 ```
 ```{index} single: Herz-Lungen-Maschine
 ```
-```{index} single: Maschine; Herz-Lungen- single: extrakorporale Verfahren
+```{index} single: Maschine; Herz-Lungen- 
+```
+```{index} single: extrakorporale Verfahren
 ```
 ```{index} single: Verfahren; extrakorporale
 ```
@@ -166,7 +167,6 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 ### Extrakorporale Verfahren
 
 Extrakorporale Verfahren
-(Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (ECMO))
-können mittels eines Gefäßzugangs, einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf, als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion des Herzens und der Lunge übernehmen.
+(Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (ECMO)) können mittels eines Gefäßzugangs, einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf, als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion des Herzens und der Lunge übernehmen.
 Diese Technik ist sehr ressourcenintensiv, sowohl was die eigentliche Technik, als auch Schulung und Verfügbarkeit des Personals anbelangt, und somit spezialisierten Zentren vorbehalten.
 Die Definition der Indikationen bzw. die Nutzen-Risiko-Kosten-Abschätzung ist derzeit noch unklar, hierfür sind weitere Studien erforderlich

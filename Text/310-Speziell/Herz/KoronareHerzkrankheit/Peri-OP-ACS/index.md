@@ -13,8 +13,7 @@ Diagnostik:
 - 12-Kanal-EKG (STEMI, NSTEMI)
 - Labor: hsTnT \> 14pg/ml, CK-MB, proBNP, BGA
 - C/P: Herzgröße, Ergüsse, Stauung, Pericardtamponade mit Mediastinalverbreiterung?
-- TTE: Akinesie?  Hypokinesie?  Infarktgröße und Lokalisation, EF, LVH?  Rechtsherzbelastung
-(Diff. PE), Kompl: Segelausriss MI, Perikardtamponade, VSD
+- TTE: Akinesie?  Hypokinesie?  Infarktgröße und Lokalisation, EF, LVH?  Rechtsherzbelastung (Diff. PE), Kompl: Segelausriss MI, Perikardtamponade, VSD
 
 
 Therapie:
@@ -61,10 +60,7 @@ Infarktkriterien im EKG:
 
 
 Dosierungen:
-Aspirin 500mg loadingdose, dann 100mg/d P2Y12-Blocker (Brilique), Plavix 600mg LMWH: z.B. Lovenox 1mg/kg KG 1xtgl. (cave CNI)
-Heparinperfusor bei IABP Esmolol iv. 0,5mg/kg KG initial, 50-200 mcg/kg/min KI: akutes Herzvers, AV-Bl. II+III, Asthma
-(NAW: Concor 2,5mg p.o.)
-Perlinganit 0,1-1myg/kg/min Va. Instentthrombose mit STEMI, hämodynamischer Instabilität, Rhythmusstörungen, kard.
+Aspirin 500mg loadingdose, dann 100mg/d P2Y12-Blocker (Brilique), Plavix 600mg LMWH: z.B. Lovenox 1mg/kg KG 1xtgl. (cave CNI) Heparinperfusor bei IABP Esmolol iv. 0,5mg/kg KG initial, 50-200 mcg/kg/min KI: akutes Herzvers, AV-Bl. II+III, Asthma (NAW: Concor 2,5mg p.o.) Perlinganit 0,1-1myg/kg/min Va. Instentthrombose mit STEMI, hämodynamischer Instabilität, Rhythmusstörungen, kard.
 Schock, sofort zum Herzkatheter zur PCI!
 
 ST-Streckenveränderungen mögliche Ursachen:

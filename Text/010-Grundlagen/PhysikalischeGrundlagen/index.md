@@ -214,8 +214,7 @@ Durch die Differenz von statischen Drücken kommt es zum Auftrieb.
 
 ### Venturi-Prinzip
 
-Fließt durch die Venturi-Düse ein gasförmiges oder flüssiges Medium, so ist an der engsten Stelle des Rohres der dynamische Druck (Staudruck) maximal und der statische Druck minimal. Die Geschwindigkeit des fließenden Gases (bzw. der Flüssigkeit)
-steigt im Verhältnis der Querschnitte beim Durchströmen des eingeschnürten Teils an, weil überall dieselbe Menge durchfließt. Gleichzeitig sinkt der Druck im Abnahmerohr, das genau im engen Teil sitzt. Damit entsteht ein Differenzdruck, der dann in verschiedenen Messgeräten oder zum Ansaugen von Flüssigkeiten oder Gasen benutzt wird.
+Fließt durch die Venturi-Düse ein gasförmiges oder flüssiges Medium, so ist an der engsten Stelle des Rohres der dynamische Druck (Staudruck) maximal und der statische Druck minimal. Die Geschwindigkeit des fließenden Gases (bzw. der Flüssigkeit) steigt im Verhältnis der Querschnitte beim Durchströmen des eingeschnürten Teils an, weil überall dieselbe Menge durchfließt. Gleichzeitig sinkt der Druck im Abnahmerohr, das genau im engen Teil sitzt. Damit entsteht ein Differenzdruck, der dann in verschiedenen Messgeräten oder zum Ansaugen von Flüssigkeiten oder Gasen benutzt wird.
 
 Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durch die Bernoulli-Gleichung gegeben. Bei idealen Gasen gilt die erweiterte Bernoulli-Gleichung.
 
@@ -224,7 +223,9 @@ Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durc
 
 ```
 
-```{index} single: Strömungswiderstand pair: Gleichung; Strömungswiderstand
+```{index} single: Strömungswiderstand 
+```
+```{index} pair: Gleichung; Strömungswiderstand
 ```
 
 ### Strömungswiderstand
@@ -319,13 +320,14 @@ Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt 
 
 ```{index} single: Henry-Gesetz
 ```
-```{index} single: Gesetz, Henry- single: Blut-Gas-Verteilungskoeffizient
+```{index} single: Gesetz, Henry- 
+```
+```{index} single: Blut-Gas-Verteilungskoeffizient
 ```
 ```{index} single: BGV
 ```
 
 (henrygesetz)=
-
 (henrykonstante)=
 
 #### Henry-Gesetz
@@ -387,8 +389,7 @@ Die Konzentration an Teilchen in der flüssigen Phase (hier blau dargestellt) h�
 Erhöhung des Außendrucks (hier durch Einpressen eines Kolbens dargestellt) führt zu einem höheren Partialdruck der Gasphase und folglich zu einer höheren Konzentration.
 :::
 
-Mit dem relativ einfachen Henry-Gesetz lässt sich die **Dekompressionserkrankung** {index}`\ <Dekompressionserkrankung>`
-bei Tauchern erklären.
+Mit dem relativ einfachen Henry-Gesetz lässt sich die **Dekompressionserkrankung** {index}`\ <Dekompressionserkrankung>` bei Tauchern erklären.
 Der Umgebungsdruck nimmt um etwa *1 bar pro 10 Meter* Wassertiefe zu. Mit zunehmendem Partialdruck löst sich mehr Stickstoff zunächst im Blut, das ihn in die Peripherie transportiert. Dort diffundiert er vorzugsweise in Kompartimente mit hohem Fettanteil. Erfolgt das Auftauchen zu schnell bzw. ohne die evtl. notwendigen Dekompressionspausen, so ist die Rückdiffusion von Stickstoff (Gewebe → Blut → Lunge →
 Wasser) zu langsam, sodass er ausperlt. Findet dies im Gewebe statt, spricht man von Bends (Gelenkschmerzen), im Lungenkreislauf von Chokes (Atemproblemen) oder bei Blasenbildung in Arterien, die Hirn- oder Rückenmark versorgen, von Staggers (neurologischen Symptomen).
 

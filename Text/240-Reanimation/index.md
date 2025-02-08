@@ -1,17 +1,10 @@
 (chp-als)=
-
 (chp-bls)=
-
 (atemstillstand-aed)=
-
 (kreislaufstillstand-aed)=
-
 (atemstillstand-bls)=
-
 (kreislaufstillstand-bls)=
-
 (pediatric-life-support)=
-
 (reanimation)=
 
 # Reanimation

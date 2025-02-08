@@ -1,4 +1,6 @@
-```{index} single: Divertikel; Zenker- single: Zenker-Divertikel
+```{index} single: Divertikel; Zenker- 
+```
+```{index} single: Zenker-Divertikel
 ```
 
 # Zenker-Divertikel
@@ -26,7 +28,9 @@ Operativ: offen oder endoskopisch
 
 ```{index} pair: Schnelleinleitung; Zenker-Divertikel
 ```
-```{index} single: RSI; Zenker-Divertikel pair: Aspirationsgefahr; Zenker-Divertikel
+```{index} single: RSI; Zenker-Divertikel 
+```
+```{index} pair: Aspirationsgefahr; Zenker-Divertikel
 ```
 
 ## Anästhesie

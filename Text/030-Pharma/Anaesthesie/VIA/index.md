@@ -1,3 +1,5 @@
+(VIA)=
+
 # Volatile Inhalationsanästhetika (VIA)
 
 Inhalationsanästhetika werden über die Lunge aufgenommen. Im Vergleich mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit an.

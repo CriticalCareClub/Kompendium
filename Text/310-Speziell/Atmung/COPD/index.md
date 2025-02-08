@@ -40,6 +40,18 @@ Diese geht mit bleibenden Veränderungen der unteren Atemwege einher und sind in
 Durch die erschwerte Ausatmung kommt es zu einer chronischen Überblähung der Lungenbläschen und zu einer "Fass-förmigen" Verformung des Brustkorbes.
 Im Endstadium zeigen sich Zeichen einer {ref}`Rechtsherzinsuffizienz <rechtsherzinsuffizienz>` aufgrund einer Störung im Lungenkreislauf.
 
+
+:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\*
+
+Entwicklung einer COPD-Erkrankung
+
+Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
+"Karriere" hinter sich.
+
+₢ Lena Hirtler, {term}`ℓ MfG`
+:::
+
+
 ## Im Detail
 
 Chronische Bronchitis + Lungenemphysem + smal airway disease mit erhöhter Resistance durch Bronchospasmus, Schleimhaut-Hypertrophie und SH-Ödem, sowie Dyskrinie.
@@ -50,6 +62,18 @@ Die Folge ist ein *erhöhte isometrische Atemarbeit*, da der Restflow überwunde
 Bis zu 50% der Atemarbeit bei COPD IV ist eine somit eine flussunwirksame Atemarbeit!
 
 
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\*
+:name: figure-copd-veraenderungen
+
+Veränderung der Atemwege bei der COPD
+
+*Links:* Schema eines gesunden Bronchus und einer gesunden Alveole.
+*Oben rechts:* Bei der COPD sind die kleinen Luftwege verschleimt und verengt.
+*Unten rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
+
+₢ Lena Hirtler
+{term}`ℓ MfG`
+:::
 
 :::{table} Einteilung nach GOLD
 
@@ -61,6 +85,9 @@ Bis zu 50% der Atemarbeit bei COPD IV ist eine somit eine flussunwirksame Atemar
 | IV      | FEV1\<30% oder \<50% mit chron respiratorischer Insuffizienz |
 
 :::
+
+
+
 
 ## Klinik
 
@@ -123,17 +150,8 @@ Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem Patienten
 Bei COPD-Patienten kann es bei Sauerstoffgabe zu Bewusstseinsstörungen und im Extremfall zu einem Atemstillstand kommen.
 :::
 
-(figure-copd-veraenderungen)=
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\* Veränderung der Atemwege bei der COPD
 
-*Links:* Schema eines gesunden Bronchus und einer gesunden Alveole.
-*Oben rechts:* Bei der COPD sind die kleinen Luftwege verschleimt und verengt.
-*Unten rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
-
-₢ Lena Hirtler
-{term}`ℓ MfG`
-:::
 
 ## 1234ABCDE: COPD
 
@@ -269,15 +287,6 @@ Bei COPD-Patienten kann es bei Sauerstoffgabe zu Bewusstseinsstörungen und im E
 
 : Letzte Spray-Einnahme?
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\* Entwicklung einer COPD-Erkrankung
-
-Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
-"Karriere" hinter sich.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-
 
 (m-copd-exzerbation)=
 
@@ -404,7 +413,16 @@ Es ist möglich, dass der Patient bereits im Vorfeld Therapieentscheidungen getr
 Einzelfallentscheidung!
 
 
+## Perioperatives Management
 
+- Anamnese: Verändeurng der Leistungsfähigkeit?
+- Lungenfunktion und pulmologische Vorstellung wenn Belastungsdyspnoe oder Veränderung der Leistungsfähigkeit
+- Wenn möglich, Regionalanästhesie
+- Bei Allgemeinnarkose
+  - {ref}`VIA` mit broncholytischer Wirkung bervorzugen
+  - Tagesklinischen Vorgehen nicht möglich
+- Die inhalative bzw. bronchospasmolytische Therapie wird bis zuletzt fortgesetzt!
+- Sprays bzw. Dosieraerosole sollen in den OP mitgenommen werden
 
 
 

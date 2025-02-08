@@ -45,104 +45,97 @@ Man unterscheidet zwischen einer *milden* (der Patient kann noch sprechen und hu
 Die (Un-) Fähigkeit zu sprechen und zu husten ist das wesentliche Kriterium um die Schwere einer Atemwegsverlegung einzuschätzen.
 :::
 
-## ABCDE
+## Symptome
 
-::::{only} not nosidebar
 
-:::{margin} 1234ABCDE
-①
+Das Leitsymptom ist Atemnot bzw. Fremdkörpergefühl, zusammen mit
+einer entsprechenden Anamnese.
+Oft gestikuliert der Patient entsprechend. Bei fortgeschrittener
+Hypoxie kann der Patient 🚩 **zyanotisch** sein.
+Infolge einer Hypoxie kann es auch zu einer 🚩 *Bewusstseinstrübung* kommen.
 
-: Essensreste, Spielsachen, etc.
+Der Atemweg ist teilweise oder ganz verlegt. Eventuell ist ein
+pfeifendes Atemgeräusch (*Stridor*) zu hören. Bei einer hochgradigen
+oder kompletten Verlegung ist das Atemgeräusch abgeschwächt oder
+fehlt völlig. Der Fremdkörper ist oft nicht sichtbar, da er sich oft
+unterhalb des Rachenraums befindet.
 
-②
+Je nach Ausmaß der Verlegung kann die Sauerstoffsättigung erniedrigt
+sein. Der Patient hat eine schnelle und erschwerte Atmung
+(*Tachypnoe*).
 
-: Gestik, evtl. 🚩 Zyanose
+-  *Milde Verlegung*: Bei
+    der milden Verlegung kann der Patient noch sprechen und effektiv
+    husten. Er klagt meist über Atemnot und ein Fremdkörpergefühl,
+    oft versucht er zu husten oder zu würgen. Oft ist auch ein
+    pfeifendes Atemgeräusch während der Ein- und/oder Austamung zu
+    hören (in-/exspiratorischer *Stridor*).
 
-③
+-  *Schwere Verlegung*:
+    Bei einer schweren Verlegung der Atemwege ist der Patient
+    🚩\  *unfähig zu reden oder effektiv zu husten*.
+    Eventuell kann er nur durch Nicken oder Gesten kommunizieren. In
+    besonders schweren Fällen kann es zu einem
+    🚩\  *Atemstillstand* und nach kurzer Zeit zu einer
+    🚩\  *Bewusstlosigkeit*, gefolgt von einem
+    *Kreislaufstillstand* kommen.
 
-: Evtl. 🚩 *Bewusstseinstrübung*
+Bei einer schweren Atemwegsverlegung ist der Patient vital bedroht.
+Bei der milden Verlegung ist die Einschätzung von den Befunden
+abhängig.
 
-④
+:::{list-table} Patient Assessement: Atemwegsverlegung
+:stub-columns: 1
+:name: TAB-PA-Atemwegsverlegung
 
-: Atemnot, Fremdkörpergefühl
+* - ①
+  - Essensreste, Spielsachen, etc.
+* - ②
+  - Gestik, evtl. 🚩 Zyanose
+* - ③
+  - Evtl. 🚩 *Bewusstseinstrübung*
+* - ④
+  - Atemnot, Fremdkörpergefühl
+* - Ⓐ
+  - - Fremdkörper oft nicht sichtbar
+    - Evtl. pfeifendes Atemgeräusch (Stridor)
+* - Ⓑ
+  - - Atemnot
+    - Milde Verlegung: *Kann Sprechen & Husten*
+    - Schwere Verlegung:
+    - 🚩 Unfähigkeit zu Sprechen oder effektiv zu
+      : husten
+    - Evtl. 🚩 Atemstillstand,
+      : 🚩 Bewusstlosigkeit, Hypoxie bis Kreislaufstillstand
+        möglich
+* - Ⓒ
+  - HF ↑, RR ↑
+* - Ⓓ
+  -
+* - Ⓔ
+  -
+* - =
+  - Bei schwerer Verlegung vital bedroht, sonst je nach Befund
+* - 🅂
+  -
+* - 🄰
+  -
+* - 🄼
+  -
+* - 🄿
+  -
+* - 🄻
+  -
+* - 🄴
+  -
+* - 🅁
+  -
 
-Ⓐ
-: - Fremdkörper oft nicht sichtbar
-  - Evtl. pfeifendes Atemgeräusch (Stridor)
-
-Ⓑ
-: - Atemnot
-  - Milde Verlegung: *Kann Sprechen & Husten*
-  - Schwere Verlegung:
-  - 🚩 Unfähigkeit zu Sprechen oder effektiv zu
-    : husten
-  - Evtl. 🚩 Atemstillstand,
-    : 🚩 Bewusstlosigkeit, Hypoxie bis Kreislaufstillstand
-      möglich
-
-Ⓒ
-
-: HF ↑, RR ↑
-
-`=`
-
-: Bei schwerer Verlegung vital bedroht, sonst je nach Befund
 :::
-::::
-
-```{eval-rst}
-
-:②:
-    Oft gestikuliert der Patient entsprechend. Bei fortgeschrittener
-    Hypoxie kann der Patient 🚩 **zyanotisch** sein.
-
-:③:
-    Infolge einer Hypoxie kann es zu einer
-    🚩 *Bewusstseinstrübung* kommen.
-
-:④:
-    Das Leitsymptom ist Atemnot bzw. Fremdkörpergefühl, zusammen mit
-    einer entsprechenden Anamnese.
-
-:Ⓐ:
-    Der Atemweg ist teilweise oder ganz verlegt. Eventuell ist ein
-    pfeifendes Atemgeräusch (*Stridor*) zu hören. Bei einer hochgradigen
-    oder kompletten Verlegung ist das Atemgeräusch abgeschwächt oder
-    fehlt völlig. Der Fremdkörper ist oft nicht sichtbar, da er sich oft
-    unterhalb des Rachenraums befindet.
-
-:Ⓑ:
-    Je nach Ausmaß der Verlegung kann die Sauerstoffsättigung erniedrigt
-    sein. Der Patient hat eine schnelle und erschwerte Atmung
-    (*Tachypnoe*).
-
-    -  *Milde Verlegung*: Bei
-       der milden Verlegung kann der Patient noch sprechen und effektiv
-       husten. Er klagt meist über Atemnot und ein Fremdkörpergefühl,
-       oft versucht er zu husten oder zu würgen. Oft ist auch ein
-       pfeifendes Atemgeräusch während der Ein- und/oder Austamung zu
-       hören (in-/exspiratorischer *Stridor*).
-
-    -  *Schwere Verlegung*:
-       Bei einer schweren Verlegung der Atemwege ist der Patient
-       🚩\  *unfähig zu reden oder effektiv zu husten*.
-       Eventuell kann er nur durch Nicken oder Gesten kommunizieren. In
-       besonders schweren Fällen kann es zu einem
-       🚩\  *Atemstillstand* und nach kurzer Zeit zu einer
-       🚩\  *Bewusstlosigkeit*, gefolgt von einem
-       *Kreislaufstillstand* kommen.
-
-:Ⓒ:
-    Der Patient ist tachykard. Oft liegt eine Hypertonie aufgrund des
-    Stress vor.
-
-:``=``:
-    Bei einer schweren Atemwegsverlegung ist der Patient vital bedroht.
-    Bei der milden Verlegung ist die Einschätzung von den Befunden
-    abhängig.
 
 
-```
+
+
 
 ```{index} single: Heimlich-Manöver
 ```

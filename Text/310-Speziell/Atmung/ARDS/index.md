@@ -1,5 +1,8 @@
+(ARDS)=
 
-# 31. ARDS
+# ARDS
+
+{dfn}`ARDS`: {dfn}`Acute Respiratory Distress Syndrome
 
 1) Oxygenierungsstörung Berlin Definition: mild OI 200-300 moderat OI 100-200 servere OI\<100 bei PEEP 5 2) Akuter Beginn: 7 Tage nach def. Ereignis (onset of ARDS)
 3) Linksherzversagen mit ECHO oder PCWP \< 18mmHg ausgeschlossen 4) Früher: C/P bilaterale Verschattung bei unverändertem Herzen und keinen Pleuraergüssen
@@ -10,14 +13,23 @@ DD: kardiales Lungenödem, Pneumonie, „Amiodaron Lunge"
 
 
 
-Pathomechanismus: inflammatorische Reaktion der Lunge (Zytokinausschüttung: IL 1, IL6, TNFα, µINF) mit capill. Leak/Ödem  +  gestörte Surfactantproduktion und Funktion mit Mehrkompartmentmodell der Lunge: Basal/abhängend Atelektasen -- Mitte kleine gesunde Lunge
+## Pathomechanismus
+
+inflammatorische Reaktion der Lunge (Zytokinausschüttung: IL 1, IL6, TNFα, µINF) mit capill. Leak/Ödem  +  gestörte Surfactantproduktion und Funktion mit Mehrkompartmentmodell der Lunge: Basal/abhängend Atelektasen -- Mitte kleine gesunde Lunge
 -- apikal/ventral überblähte Lunge.
 In weiterer Folge struktureller Umbau mit Fibrosierung, dissem. Verlegung der Kapillaren mit pulmonaler Hypertonie und Rechtsherzbelastung, Intrapulm. Re-Li-Shunt mit „sauerstoffrefraktärer Zyanose".
 
+## Symptome
 
 Leitsymptom: Dyspnoe und Tachypnoe mit Hypoxämie (Hyperventilation mit verm. paCO2 und Azidose)
 
-Therapieziel = adäquate Oxygenierung, keine weiteren Lungenschäden verursachen, Reduktion des extravaskulären Lungenwassers, Reduktion systemischer Entzündungsreaktionen!
+## Therapie
+
+Die wesentlichen Therapieziele sind:
+- adäquate Oxygenierung,
+- keine weiteren Lungenschäden verursachen,
+- Reduktion des extravaskulären Lungenwassers,
+- Reduktion systemischer Entzündungsreaktionen!
 
 
 Beatmung:

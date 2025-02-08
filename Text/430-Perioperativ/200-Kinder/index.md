@@ -13,7 +13,7 @@ Prävention: Saal aufheizen, Kopf wärmen, so kurz wie nötig abdecken, warme In
 Erhaltungsbedarf: 4ml/kg 1-10kg + 2ml/kg 10-20kg+1ml/kg\>20kg nach Holliday und Segar
 - NG 48h + FG: 10% Glucose 2-3ml/kg/h
 - \< 6 Monate Vollelektrolytlösungen mit 1 % Glucose
-- Na  +  BZ-Kontrollen intra-  und postopertiv! Ein besonders hohes Risiko einer Hypoglykämie haben Kinder, welche präoperativ parenteral ernährt wurden, KG  \<  3kg, OP  \>  3h, daher stündliche BZ-Kontrollen!
+- Na + BZ-Kontrollen intra-  und postopertiv! Ein besonders hohes Risiko einer Hypoglykämie haben Kinder, welche präoperativ parenteral ernährt wurden, KG  \<  3kg, OP  \>  3h, daher stündliche BZ-Kontrollen!
 - \> 6 Monate isotone Lsg (Elomel)
 
 Klinische Zeichen einer Hypovolämie bei Säugling sind Tachykardie, verlängerte Rekapillarzeit, als spätes Zeichen Hypotension, metabolische Alkalose, eingefallene Fontanellen, Letargie. Ein erhöhter Bedarf besteht bei fieber, extremen Schwitzen, Verbrennungen.
@@ -88,7 +88,7 @@ Cannot ventilate = NOTFALL!! HILFE HOLEN!
 (Mund offen)
 2. Maske korrekt halten, Guedel Tubus (nie bei oberflächlicher Narkose!)
 3. Narkose vertiefen 4. Ev. LMA,
-5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch 6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen, PEEP, ev. Relaxieren, nasaler ETT, LMA 7. Oxygenierung nicht möglich  =  Cannot ventilate and intubate  =  chir. Atemweg Quick-Trach, Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
+5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch 6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen, PEEP, ev. Relaxieren, nasaler ETT, LMA 7. Oxygenierung nicht möglich = Cannot ventilate and intubate = chir. Atemweg Quick-Trach, Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
 
 Cannot intubate, aber Oxygenierung möglich!
 Max. 2 Versuche, dann Hilfe holen!
@@ -104,7 +104,7 @@ Rocuronium 0,6mg/kg
 
 
 
-Succinylcholin 1-2mg/kg Neostigmin 40myg/kg (Amp  =  2,5mg)  +  20mcg/kg Atropin od. 0,005-0,01mg/kg Robinul (Amp =
+Succinylcholin 1-2mg/kg Neostigmin 40myg/kg (Amp = 2,5mg) + 20mcg/kg Atropin od. 0,005-0,01mg/kg Robinul (Amp =
 0,2mg)
 Atropin nie routinemäßig, sondern nur bei Bradykardie anwenden. KI sind Fieber und Mukoviszidose, NW Atropinfieber.
 
@@ -140,22 +140,22 @@ RSI: Präoxygenierung, Fentanyl 3-5µg/kg (dämpfen laryngeale Reflexe), Propofo
 Magensonde nach Blutstillung unter Sicht setzen!!
 
 
-Postoperative Schmerztherapie bei TE/AT: 0,1-0,15mg/kg Dipidolor bei Einleitung  +  1mg/kg Diclofenac Supp. bei Einleitung (ab 2  Lj)  +  Metamizol 10mg/kg ad 20ml NaCl  über 15min im Aufwachraum. KEIN Paracetamol wegen geringer analgetischer und antiphlog. Potenz. (Ögari 2013)
+Postoperative Schmerztherapie bei TE/AT: 0,1-0,15mg/kg Dipidolor bei Einleitung + 1mg/kg Diclofenac Supp. bei Einleitung (ab 2  Lj) + Metamizol 10mg/kg ad 20ml NaCl  über 15min im Aufwachraum. KEIN Paracetamol wegen geringer analgetischer und antiphlog. Potenz. (Ögari 2013)
 
 
 
-TE/AT: TIVA mit Propofol  +  Ultiva 0,3µg/kg/min  +  Spiraltubus oder Spiral LM (wird nur mit Mundspatel fixiert), Kind spontanatmend in stabiler Seitenlage mit liegender LM und O²-
+TE/AT: TIVA mit Propofol + Ultiva 0,3µg/kg/min + Spiraltubus oder Spiral LM (wird nur mit Mundspatel fixiert), Kind spontanatmend in stabiler Seitenlage mit liegender LM und O²-
 Insufflation in den Aufwachraum legen
 = schmerzfrei, weniger schreien = weniger Nachblutungen.
 
 Schmerzskala:
-- KUSS  =  Kindliche Unbehagen Schmerz Skala bei Kindern  \<  3-4 Lj: Weinen (nicht, jammern, schreien), Gesichtsausdruck (entspannt, Mund verzerrt, Grimassiert), Rumpfhaltung (neutral, unruhig, aufbäumen, krümmen), Beinhaltung (neutral, strampelt, angezogen), motorische Unruhe (keine, mäßig, ruhelos). Ab 4 Punkten Therapiebedarf!
+- KUSS = Kindliche Unbehagen Schmerz Skala bei Kindern  \<  3-4 Lj: Weinen (nicht, jammern, schreien), Gesichtsausdruck (entspannt, Mund verzerrt, Grimassiert), Rumpfhaltung (neutral, unruhig, aufbäumen, krümmen), Beinhaltung (neutral, strampelt, angezogen), motorische Unruhe (keine, mäßig, ruhelos). Ab 4 Punkten Therapiebedarf!
 - SAS
 = Smiley Analog Skala ab 3-4 Lj: von 0-5 (stärkste vorstellbare Schmerzen) (Pain Face S.)
 - NRS: numerische rating skala ab 6Lj: 0-10 (11 stufige NRS), ab 4 Handlungsbedarf.
 
 
-Pylorusstenose In BGA hypochlorämische Alkalose + ev. Hypokaliämie Initialer Bolus mit 20ml/kg  NaCl  0,9%  +  kontinuierliche Erhaltungsdosis mit NaCl 0,45 in 5%
+Pylorusstenose In BGA hypochlorämische Alkalose + ev. Hypokaliämie Initialer Bolus mit 20ml/kg  NaCl  0,9% + kontinuierliche Erhaltungsdosis mit NaCl 0,45 in 5%
 Glucose mit primär 1 ½ facher Erhaltungsdosis.
 Nach Einsetzen adäquater Harnproduktion kann Kalium ersetzt werden!
 Regelmäßige Elektrolytkontrollen! Ab HCO3- \< 28 + BE +2 kann operiert werden.
@@ -178,7 +178,7 @@ Prämed: 0,5mg Dormicum/kg po (max. 10mg po)
 
 - Dormicum 0,1mg/kg + 1-2mg/kg Ketanes +20mcg Atropin wg.
 Hypersalvisation
-- 0,1-0,2/kg Nubain langsam iv.  +  1-2mg/kg Propofol (mit 1:10 Lidocain)  +  ev. 0,5mg/kg Bolus alle 30sec. bis das Kind schläft. Bei langandauernden Untersuchungen Propofolperfusor mit 5-8mg/kg/h
+- 0,1-0,2/kg Nubain langsam iv. + 1-2mg/kg Propofol (mit 1:10 Lidocain) + ev. 0,5mg/kg Bolus alle 30sec. bis das Kind schläft. Bei langandauernden Untersuchungen Propofolperfusor mit 5-8mg/kg/h
 + Regionalanästhesie oder LA bei Punktionen!
 
 
@@ -195,7 +195,7 @@ Gesicherte Spontanatmung:
 (BLS: Atemwege freimachen, 5 initale Beatmungen, CPR 15:2, 5 Reanimationszyklen, Hilfe holen)
 
 EKG/Defi anlegen:
-- Kammerflimmern oder pulslose Kammertachykardie: Schock mit 4 J/kg -- CPR mindestens 2 Minuten fortsetzten  --  nach dem 3.Schock 4J/kg soll Adrenalin 0,01mg/kg  +  5mg/kg Amiodaron verabreicht werden -- alle 3 bis 5 Minuten Adrenalin -- nach dem 5 Schock erneut
+- Kammerflimmern oder pulslose Kammertachykardie: Schock mit 4 J/kg -- CPR mindestens 2 Minuten fortsetzten  --  nach dem 3.Schock 4J/kg soll Adrenalin 0,01mg/kg + 5mg/kg Amiodaron verabreicht werden -- alle 3 bis 5 Minuten Adrenalin -- nach dem 5 Schock erneut
 + Amiodaron - ....nach ROSC Amiodaron Dauerinfusion!
 - Asystolie, Bradykardie  \<60/min ohne Kreislaufzeichen, oder pulslose elektrische Aktivität PEA: CPR weiter mit 0,01mg/kg Adrenalin alle 3 bis 5 Minuten.
 - Spontankreislauf wiederhergestellt
@@ -262,7 +262,7 @@ Ursache erhöhter Toxizität von LA bei Kindern
 - Vermindertes saures alpha-1-Glykoprotein mit verminderter Proteinbindung der LA (Bindung erfolgt auch an Albumin) = erhöhte Spiegel freier ungebundener Aminoamid LA
 
 
-Schnellere Anschlagzeit  durch unvollständiger Myelinisierung der Nerven unter 12 Lj mit verkürzter Wirkdauer. Durch den 2-3x erhöhten lokalen Blutfluss und erhöhtem kardial Output bei Kindern kommt es  zu einer rascheren systemischen Verteilung des LA!  =  niedrigere Dosierung als beim ERW! Die geringste kardiovaskuläre und Zns-toxizität hat Ropivacain und Levobupivacain!
+Schnellere Anschlagzeit  durch unvollständiger Myelinisierung der Nerven unter 12 Lj mit verkürzter Wirkdauer. Durch den 2-3x erhöhten lokalen Blutfluss und erhöhtem kardial Output bei Kindern kommt es  zu einer rascheren systemischen Verteilung des LA! = niedrigere Dosierung als beim ERW! Die geringste kardiovaskuläre und Zns-toxizität hat Ropivacain und Levobupivacain!
 
 
 Maximale Dosis pro 6 Stunden:
@@ -283,7 +283,7 @@ Gefahr eine Fehlinjektion subcutan, periostal, rectal oder subarachnoidal!
 
 Spinalanästhesie Vorallem bei FG und ehemaligen FG unter der 56 postkonzeptionellen Woche zur Vermeidung einer AN mit erhöhtem Risiko einer postoperativen Apnoe.
 Besonderheiten: rasche kranielle Ausbreitung, hält max. 60-80min, Nach Injektion keine Lageveränderungen mehr, Punktion immer tiefer L4! Beim Kind besteht bei herabgesetztem Preload, mit verminderter rechts artrialer Füllung, ein erhöhtes Risiko einer Bradykardie mit Asystolie (Therapie: Adrenalin, Volumen und ev. HLM)
-Dosis: isobares Bupivacain 0,3ml bis 2kg Körpergewicht + weitere 0,1ml/2kg KG Epiduralanästhesie Indiziert bei großen thorakalen oder abdominellen Eingriffen. Z.B. NEC  +  Pankreatitis. Immer ultraschallgezielt vom geübten Anästhesisten.
+Dosis: isobares Bupivacain 0,3ml bis 2kg Körpergewicht + weitere 0,1ml/2kg KG Epiduralanästhesie Indiziert bei großen thorakalen oder abdominellen Eingriffen. Z.B. NEC + Pankreatitis. Immer ultraschallgezielt vom geübten Anästhesisten.
 Paravertebralblock: bei Serienrippenfraktur!!!
 
 

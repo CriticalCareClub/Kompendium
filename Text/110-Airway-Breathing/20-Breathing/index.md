@@ -12,18 +12,18 @@ Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer
 
 Hüfnersche Zahl: 1g Hb kann 1,39ml O2 binden.
 
-Hypoxämie  =  vermind. paO2 (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose  =  SaO2 vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
+Hypoxämie = vermind. paO2 (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose = SaO2 vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
 
-Respiratorischer Quotient RQ  =  CO2-Produktion: Sauerstoffaufnahme  =  0,8 normal
+Respiratorischer Quotient RQ = CO2-Produktion: Sauerstoffaufnahme = 0,8 normal
 
 Oxygenierungsindex (Horowitz-Index): paO2/FIO2 = normal \> 450 Zellatmung in den Mitochondrien: ATP mit O2 + Glucose erzeugt.
 Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO2 + H2O + 38 ATP Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
 
 
-Nicht respiratorische Funktion der Lunge: autokrin/endokrin  =  Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A  +  NA, Sekretion von IgA,
+Nicht respiratorische Funktion der Lunge: autokrin/endokrin = Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A + NA, Sekretion von IgA,
 Regulierung des Säure/Basenhaushaltes, Phagozytose, Abbau über Cytochrom P450 in der Lunge.
 = Blutfilterung, Immunabwehr, Partikelfilterung und --abtransport.
-Schnellregulation der Atmung: Karotis-Sinus-Körperchen  =  periphere Chemorezeptoren melden O2 und CO2-Gehalt ans ZNS = Steigerung des AMV um 2-3l bei 1 mmHg CO2-Anstieg.
+Schnellregulation der Atmung: Karotis-Sinus-Körperchen = periphere Chemorezeptoren melden O2 und CO2-Gehalt ans ZNS = Steigerung des AMV um 2-3l bei 1 mmHg CO2-Anstieg.
 Langsame Regulation der Atmung über zentrale Chemorezeptoren in PONS,
 Medulla.
 Prüfung: Fluss/Volumen Kurve bei Spontanatmung aufzeichen können!
@@ -31,7 +31,7 @@ Prüfung: Fluss/Volumen Kurve bei Spontanatmung aufzeichen können!
 Spirometrie: VT, IRV, ERV = Vitalkapazität Körperplethysmographie (Heliumdilutionsmethode misst RV + FRC)
 Totalkapazität = Vitalkapazität + RV FRC = ERV + RV (Lageabhängig, daher FRC auch Lageabhängig!)
 Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
-+ Closing volume Closing volume  /  Verschlussvolumen  =  Restvolumen in den Alveolen nach Expiration das die Alveolen offen hält Surfactant: reguliert Oberflächenspannung: in kleinen Alveolen niedrige OFSP damit sie leichter aufgehen + in großen Alveolen hohe Oberflächenspannung, damit sie nicht überdehnt werden.
++ Closing volume Closing volume  /  Verschlussvolumen = Restvolumen in den Alveolen nach Expiration das die Alveolen offen hält Surfactant: reguliert Oberflächenspannung: in kleinen Alveolen niedrige OFSP damit sie leichter aufgehen + in großen Alveolen hohe Oberflächenspannung, damit sie nicht überdehnt werden.
 
 
 
@@ -47,12 +47,12 @@ Sekret, ...
 Prüfung: Druck/Volumen-Kurve (Compliance) aufzeichnen können (sigmoidaler Verlauf):
 OIP: max. Alveolardehnbarkeit UIP: Alveolarverschlussdruck Linearer Teil = Spontanatmung Prüfung: Lungenvolumina (IRV, VT, ERV, RV, VK, TK, FRC) kennen!
 
-Adaption bei Belastung CO (SV x  HF) steigt  +  CI steigt ml/min/m²;  AMV (TV x  AF) steigt ab  \>  30 vor allem Totraumventilation mit rascher Erschöpfung.
+Adaption bei Belastung CO (SV x  HF) steigt + CI steigt ml/min/m²;  AMV (TV x  AF) steigt ab  \>  30 vor allem Totraumventilation mit rascher Erschöpfung.
 DO2 steigt: DO2 = HZV x Hb x SO2 x 1,34 x 10 (normal 750ml/min/m²)
 Kritischer DO2 ist 300, darunter anerober STW;  VO2 in Ruhe 3ml/kg/min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO2 um 10%)
 
 **West-Zonen**: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
-Und ven. Pulm. Druck \> Alveolardruck V/Q  =  0,8 (0 bei Shunt,  ∞  bei Totraumventilation)  =  Perfusion ist größer als die Ventilation im Durchschnitt.
+Und ven. Pulm. Druck \> Alveolardruck V/Q = 0,8 (0 bei Shunt,  ∞  bei Totraumventilation) = Perfusion ist größer als die Ventilation im Durchschnitt.
 
 **Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x   x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
 
@@ -115,7 +115,7 @@ Vorteil: erhaltene Spontanatmung, risikoarm, auch in extremen Patientenpositione
 
 Ablauf einer fiberoptischen Intubation:
 1) Aufklärung des Patienten (während des gesamten Vorgangs mit dem Patienten sprechen und auffordern durch den Mund zu atmen)
-2) Sedierung (kurzwirksam, Antidot): 3-5mg Dormicum, Ultiva 4-6ml/h 3) Anticholinergika (Atropin) 0,5mg 4) Cocain 2% in die Nase 5) Wendel bds Nasenlöcher mit 3 Größen aufdehnen 6) Linkes Nasenloch Wendel  +  O2-Line (O2-Flow 3-6l/min mit 100%  FIO2  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich)
+2) Sedierung (kurzwirksam, Antidot): 3-5mg Dormicum, Ultiva 4-6ml/h 3) Anticholinergika (Atropin) 0,5mg 4) Cocain 2% in die Nase 5) Wendel bds Nasenlöcher mit 3 Größen aufdehnen 6) Linkes Nasenloch Wendel + O2-Line (O2-Flow 3-6l/min mit 100%  FIO2  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich)
 7) Rechtes Nasenloch nasaler Tubus bis ca. 13cm 8) Mit Bronchoskop über nasalen Tubus eingehen 9) Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2-3ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB 10) Sobald in Trachea: Propofol und Esmaron spritzen 11) Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
 
 Sicherer Nachweis der korrekten Tubuslage:
@@ -124,16 +124,16 @@ Sicherer Nachweis der korrekten Tubuslage:
 - Fiberoptische Kontrolle
 - Unsichere Zeichen: Thorax hebt sich symetrisch, Auskultation bds.
 
-Therapie Postextubations-Stridor: Vernebeln 5mg Adrenalin in NaCl  +  0,5mg/kg Dexamethason iv.
+Therapie Postextubations-Stridor: Vernebeln 5mg Adrenalin in NaCl + 0,5mg/kg Dexamethason iv.
 
-(760 Atmosphärendruck  --  47 Wasserdampfdruck in den Atemwegen) x FIO²  =  piO²
+(760 Atmosphärendruck  --  47 Wasserdampfdruck in den Atemwegen) x FIO² = piO²
 (inspiratorischer Sauerstoffpartialdruck)
 
 piO² - paCO²            = ca. 100mmHg    = Alveolargasgleichung = PAO² = Sauerstoffpartialdruck in den 0,8 resp. Quotient                                                                                              Alveolen
 
 Wenn FIO² auf 100% erhöht wird, dann kann der PAO² auf max.
 680mmHg gesteigert werden.
-AaDO²  =  Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei alveolo-kapillärer Gasaustauschstörung.
+AaDO² = Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei alveolo-kapillärer Gasaustauschstörung.
 
 
 
@@ -181,7 +181,7 @@ Step by step approach:
 - Lagerungstherapie, NO-Inhalation, ILA, ECMO Spontanatmung = neg. Druckatmung; Beatmung = positive Druckatmung (dorsales ZWF starr)
 
 
-VCV: Freiheitsgrad  =  Spitzen (Tubuswiderstand)-  und Plateaudruck (Alveolardruck), der Alveolardruck kann nur in den No-Flow-Phasen gemessen werden! Stenose (Tubusknick) erhöht Spitzendruck bei unverändertem Plateaudruck. Compliance-Verminderung (z.B. Kopftieflage)
+VCV: Freiheitsgrad = Spitzen (Tubuswiderstand)-  und Plateaudruck (Alveolardruck), der Alveolardruck kann nur in den No-Flow-Phasen gemessen werden! Stenose (Tubusknick) erhöht Spitzendruck bei unverändertem Plateaudruck. Compliance-Verminderung (z.B. Kopftieflage)
 vermindert VT, sodass Spitzen und Plateaudruck erhöht werden müssen.
 
 PCV: Freiheitsgrad TV;  konstanter endexpiratorischer Druck (Plateaudruck) ohne Spitzendruck,
@@ -190,7 +190,7 @@ mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO2 steigt 
 
 Toxische Sauerstoffwirkung bei \> 0,4 FIO2
 - Erhöht Sauerstoffradikale mit erhöhter Permeabilität/Ödem, Zerstört Surfactant, aktiviert Makrophagen und Granulozyten, Stört Zilienfunktion.
-- Resorbtionsatelektasen bei hohem paO2 in der Alveole  =  viel O2 geht ins Blut, der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
+- Resorbtionsatelektasen bei hohem paO2 in der Alveole = viel O2 geht ins Blut, der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
 = Atelektase.
 
 PEEP Physiologisch 5-10mmHg in der Trachea nach Expiration, durch Tubus verhindert. PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va.
@@ -207,7 +207,7 @@ CO2-Produktion (Sedierung reduziert CO2-Produktion im Gehirn daher AF erniedrigt
 RAMPE:
 Normalerweise 0,2 sec; Ziel ist eine vollständige Inspiration in der Inspirationszeit mit kurzer NO-
 Flowphase vor Exspiration. Bei zu raschem Anstieg kann es zu reflektorischem Pressen mit hohem Spitzendrücken kommen.
-Flowtrigger: normalerweise 2l/min  =  Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung. Entscheidend ist die Einatemgeschwindigkeit!!
+Flowtrigger: normalerweise 2l/min = Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung. Entscheidend ist die Einatemgeschwindigkeit!!
 
 
 
@@ -216,8 +216,8 @@ Flowtrigger: normalerweise 2l/min  =  Wenn der Patient  \>  2l/min einatmet beko
 = Übertragen der Atemarbeit vom Respirator auf den Patienten.
 Prinzipiell 2 Möglichkeiten:
 - Kontinuierlich: augementierte Beatmungsformen mit stufenweiser Reduzierung
-- diskontinuierlich: T-Tube-Trials  =  steigende Dauer (Feuchte Nase mehrmals täglich, bei 2h,
-Extubation)  =  SBT Spontanes breathing Trial (Zeit von Anfangs 30min an feuchter Nase steigern bis 120min)
+- diskontinuierlich: T-Tube-Trials = steigende Dauer (Feuchte Nase mehrmals täglich, bei 2h,
+Extubation) = SBT Spontanes breathing Trial (Zeit von Anfangs 30min an feuchter Nase steigern bis 120min)
   Wann kann mit dem Weaning begonnen werden?
 Weaningkriterien:
 - Hämodynamik stabil
@@ -235,7 +235,7 @@ Frage: Warum lässt sich der Patient nicht weanen? --
 Mögliche Ursachen eines Weaning-Versagens:
 
 - Psyche: Delir, Panik
-- Herz: KHK, Herzinsuffizienz mit Decompensation, Vitien (unter Spontanatmung steigt das preload und sinkt das afterload mit erhöhtem Sauerstoffbedarf des Herzens  =  kardialer Stress!)
+- Herz: KHK, Herzinsuffizienz mit Decompensation, Vitien (unter Spontanatmung steigt das preload und sinkt das afterload mit erhöhtem Sauerstoffbedarf des Herzens = kardialer Stress!)
 - Atmung:
   - verminderte Compliance,
   - erhöhte Resistance, erschöpfte Atemhilfsmuskulatur,

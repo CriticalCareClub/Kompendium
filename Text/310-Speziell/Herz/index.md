@@ -15,7 +15,7 @@ Bei Volumenmangel reagiert die Haut rasch mit Umverteilung/Zentralisation = Kalt
 Das Splanchnikusgebiet reagiert am langsamsten auf einen Blutdruckabfall.
 
 Vasovagale Synkope: verminderter venöser Rückstrom zum Herzen  --  rechtes Herz ist leer  --
-Reflex der VV-Synkope. Marathonläufer: beim Stillstand fehlt Muskelpumpe, Herz pumpt weiter, leer, Schwindel, Synkope, Tod). Bei Vasodilation venöses Blutpooling mit red. ZVD bis ZVD  =  0, dann Synkope.
+Reflex der VV-Synkope. Marathonläufer: beim Stillstand fehlt Muskelpumpe, Herz pumpt weiter, leer, Schwindel, Synkope, Tod). Bei Vasodilation venöses Blutpooling mit red. ZVD bis ZVD = 0, dann Synkope.
 
 Kranke haben nur eingeschränkte Kompensationsmechanismen. Problem bei Fieber mit hyperdynamischen Zustandsbild: das Blutvolumen befindet sich zu großen Teilen in der Haut (Splanchnikusdurchblutung vermindert!) Transmuraler Druck in den Venen wird bei Bedarf mobilisiert = stressed volumen. Preload ist abhängig vom ZVD und Gefäßwiderstand.
 

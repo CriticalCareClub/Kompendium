@@ -42,12 +42,12 @@ Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegal
 
 Anästhesie:
 - Elektive Operationen immer mit euthyreoter Stoffwechsellage anstreben! Präopertiv Hormonstatus (TSH, T3/4), Kardiovaskuläre Begutachtung, HNO (Stimmbandfunktion?), C/P (Trachealverlagerung/einengung?)
-- Dosisred. Prämed, Glucocorticoide bei NNI, alle Anästhetika erlaubt, Muskelrelaxantien um 20% dosisreduziert  +  TOF!,
+- Dosisred. Prämed, Glucocorticoide bei NNI, alle Anästhetika erlaubt, Muskelrelaxantien um 20% dosisreduziert + TOF!,
 - postoperativ häufiger nachbeatmet, Nachblutung, Ileus, Hyponatriämie, höhere Sensibilität auf Opioide.
 
 Therapie:
 - Substitution von T4 (Thyrox, Euthyrox) mit langsamer Steigerung (cave KHK)
-- Koma: IT  +  Beatmen, Hydrocortisongabe 100-200mg/d, L-Thyroxingabe (loading 500µg, dann 100µg...)
+- Koma: IT + Beatmen, Hydrocortisongabe 100-200mg/d, L-Thyroxingabe (loading 500µg, dann 100µg...)
 
 Schilddrüsenoperation Präoperativ: Hormonstatus, kardiovaskuläre Begutachtung, HNO, C/P ITN mit guter Tubusfixierung, Neuromonitorin Recurrens, Magensonde, Standartmonitoring  + Temp.
 
@@ -70,7 +70,7 @@ Anästhesie: ausreichend Flüssigkeit + Calciumkontrollen.
 
   Cortisonsubstitution bei bilateraler Adrenalektomie (100mg präoperativ, 300mg  /d perioperativ), bei einseitiger Adrenalektomie keine Glukokortikoidsubstitution.
 2) Conn-Syndrom: Hyperaldosteronismus, renale Na+Cl-Rückresorption und vermehrt K und H+ Ausscheidung im Austausch, hypokaliämische hyperchlorämische Alkalose mit Hypervolämie und Hypertonie, Gewichtszunahme.
-- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \>7µg/dl nach ACTH-Gabe), Hyponatriämie  +  Hyperkaliämie  +  Übelkeit, Erbrechen;  Therapie: 20-30mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
+- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \>7µg/dl nach ACTH-Gabe), Hyponatriämie + Hyperkaliämie + Übelkeit, Erbrechen;  Therapie: 20-30mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
 - Cushing-Schwelle: Hydrocortison 30-50mg/d, Prednisolon/SoluDacortin 7,5 -- 10mg/d,
 - Dexamethason/Fortecortin 1-2mg/Tag
 - Bei Hypophysektomie, M. Addison, bilateraler Adrenalektomie beim Einleiten 25mg Hydrocortison iv., bei mittleren und schweren Eingriffen

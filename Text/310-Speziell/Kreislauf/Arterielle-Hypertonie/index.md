@@ -139,7 +139,7 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel �
 
 - 1-fach: ACE-Hemmer oder Betablocker
 - 2-fach Kombi: ACE-Hemmer oder Betablocker + Diuretikum oder Kalziumantagonisten
-- 3-fach Kombi: ACE-Hemmer  +  Diuretikum  +  Kalziumantagonisten oder Betablocker
+- 3-fach Kombi: ACE-Hemmer + Diuretikum + Kalziumantagonisten oder Betablocker
   Bsp: Acemin + Norvasc + Diuretikum
 
 

@@ -95,7 +95,7 @@ Alternative zur SPA:
 - Poplitealblock,
 - Fussblock Bsp. ASK,
 
-kann Wirkdauer  +  Ausbreitung beeinflusst werden?
+kann Wirkdauer + Ausbreitung beeinflusst werden?
 Ja, unilaterale SPA mit hyperbarem Bupivacain 0,5%, Dosisreduktion bis 5mg (1ml) möglich, Seitenlagerung bis Fixierung gegeben ist. (ca. 10min).
 Wirkdauer kann durch Zugabe von Conidin (15-30µg) um das 1,5 bis 2 fache verlängert werden, bzw. durch 10µg Fentanyl als Additiv.
 
@@ -173,7 +173,7 @@ inkompletter Block mit Ergänzungsblock, Versager AN.
 
 Blockade des Plexus Cervicalis:
 Ind: Operation an der Carotis  ;  KI: schwere neurologische oder psychiatrische Störung,
-kontralaterale Phrenicusparese;  Durchführung: US gezielte Blockade um die Carotis  +  am Vorderrand des M. Sternocleidomastoideus ODER tiefe Wurzelblockade bei C2, C3, C4  +
+kontralaterale Phrenicusparese;  Durchführung: US gezielte Blockade um die Carotis + am Vorderrand des M. Sternocleidomastoideus ODER tiefe Wurzelblockade bei C2, C3, C4  +
 Vorderrand des M.Sternocleidomastoideus mit Ropivacain.
 
 
@@ -227,7 +227,7 @@ Untere Extremität Kennmuskeln der Nerven
 **Horner-Syndrom** als Komplikation bei VIP, ISK oder Cervicalblock:
 = Unterbrechung des cervicalen sympathischen Grenzstrangs mit Miosis (Pupille eng), Ptosis
 (Oberlid hängt), Enophthalmus (Augapfel sinkt in die Augenhöhle) und Schwellung der Nasenschleimhaut.
-Phrenicus Parese  =  unilaterale Lähmung des Zwechfells mit respiratorischer Insuffizienz
+Phrenicus Parese = unilaterale Lähmung des Zwechfells mit respiratorischer Insuffizienz
 (stehendes Zwerchfell in der Durchleuchtung),
 ev. NIV
 

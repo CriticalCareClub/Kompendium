@@ -63,7 +63,7 @@ Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchsp
 ## 41. Pankreatitis *
 
 
-Patho: Freisetzung von Chemokinen bewirkt Chemotaxis  =  Anlocken von Monozyten, Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin) durch gestörte Mikrozirkulation und Einblutungen (Elastase), Permeabilitätsstörungen (Kallikrein mit Bildung von Kininen) und Schmerzentstehung mit Entzündungsinfiltrat. (SIRS entscheidet Prognose) Dauer: ca. 4-6 Wochen nekrot. Pankreatitis!
+Patho: Freisetzung von Chemokinen bewirkt Chemotaxis = Anlocken von Monozyten, Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin) durch gestörte Mikrozirkulation und Einblutungen (Elastase), Permeabilitätsstörungen (Kallikrein mit Bildung von Kininen) und Schmerzentstehung mit Entzündungsinfiltrat. (SIRS entscheidet Prognose) Dauer: ca. 4-6 Wochen nekrot. Pankreatitis!
 Urs: biliär \> alkoholtoxisch \> sonstiges (Infektionen, Medikamente, Trauma, idi
 
 
@@ -72,7 +72,7 @@ Klinik
   Geblähtes Abdomen mit fehlender Peristaltik (paralytischer Ileus) und heftigem DS im Oberbauch.
 
   Nekrotisierende Pankreatitis
-  : **CULLEN-Zeichen**: bläuliche Verfärbung um den Nabel  +  GREY TURNER Zeichen mit blaugrüner Verfärbung der Flanken aufgrund retroperitonealer und intrapankreatischer Einblutung.
+  : **CULLEN-Zeichen**: bläuliche Verfärbung um den Nabel + GREY TURNER Zeichen mit blaugrüner Verfärbung der Flanken aufgrund retroperitonealer und intrapankreatischer Einblutung.
   Komplikationen: sept. Schock, MOF
 
 
@@ -83,10 +83,10 @@ Labor
 Phase I: SIRS-Symptomatik: Fieber/Hypothermie, Tachykardie, Tachypnoe, Leukozytose/penie Phase II: schwere akute Pankreatitis, Sepsis, septischer Schock
 
 Pankreatitis Verlaufsmöglichkeiten:
-1. Interstitielle ödematöse P. mit unkomplizierter Restitution = milde P. ohne Organversagen Nekrotisierende P. mit steriler Nekrose mit postakuter Pseudozystenbildung  =  moderate P. mit vorübergehendem Organversagen 2. Nekrotisierende P. mit infizierter Nekrose mit Pankreasabszessbildung  =  schwere peristierende P.
+1. Interstitielle ödematöse P. mit unkomplizierter Restitution = milde P. ohne Organversagen Nekrotisierende P. mit steriler Nekrose mit postakuter Pseudozystenbildung = moderate P. mit vorübergehendem Organversagen 2. Nekrotisierende P. mit infizierter Nekrose mit Pankreasabszessbildung = schwere peristierende P.
 
 Diagnostik:
-- KM-CT ab dem 4  Tag (Nekrosenentwicklung erst ab 4-5 Tage!)  =  aufgelockertes Gewebe, Flüssigkeit rund um Pankreas, ev. Lufteinschlüsse
+- KM-CT ab dem 4  Tag (Nekrosenentwicklung erst ab 4-5 Tage!) = aufgelockertes Gewebe, Flüssigkeit rund um Pankreas, ev. Lufteinschlüsse
 - ERCP bei va. biliäre Genese: Papillotomie und Steinextraktion möglich
 - Sonographie hat nur eine Sensitivitt von 67%
 - Feinnadelaspiration: sterile vs. Infizierte Nekrose (Keimbestimmung, Antibiogram!)

@@ -23,13 +23,13 @@ Monitoring der Thrombozytenfunktion
 
 vWF-Mangel: vWF ist für die Adhäsion und Aggregation der Thrombozyten nötig und dient als Trägerprotein für Faktor VIII!
 I.
-Leichte Verminderung vWF  +  VIII auf 10-50%  reduziert (häufigste Form). Octostim 0,3µg/kg über 20 min kurz vor OP geben!
+Leichte Verminderung vWF + VIII auf 10-50%  reduziert (häufigste Form). Octostim 0,3µg/kg über 20 min kurz vor OP geben!
 II.
 Leichte Verminderung und gestörte Funktion vom vWF. Therapie: Haemate P oder FFP III.
 Fehlender vWF und VIII bis auf wenige Prozent erniedrigt. Therapie: Haemate P (1 IE hebt Faktor VIII um 1-2%) oder FFP
 
 
-Thienopyridine: hemmt ADP  =  Plavix. Ticragrelor (Brilique®) ist KEIN Thienopyridin, sondern bindet direkt an den P2Y12-Rezeptor, der Wirkungseintritt ist daher schneller, und die Wirkung stärker als bei Plavix!
+Thienopyridine: hemmt ADP = Plavix. Ticragrelor (Brilique®) ist KEIN Thienopyridin, sondern bindet direkt an den P2Y12-Rezeptor, der Wirkungseintritt ist daher schneller, und die Wirkung stärker als bei Plavix!
 
 
 Therapiepausen vor LA:
@@ -77,8 +77,8 @@ FFP, ev. Octostim Labor: apTT ist um das 2-3 fache verlängert bei normaler PTZ.
 
 ## 25.3. Medikamente mit Angriffspunkt in der plasmatischen Gerinnung *
 
-- UFH  =  II+X  --Inhibitator, Molekulargr. 4000-30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3h vor elektiven Eingriffen beenden, WB 1 h
-- NMWH  =  va. Xa-Inhibitator, Molek. Ca. 4000-9000 Dalton, HWZ ca. 6h, sc, 12h/24h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2h
+- UFH = II+X  --Inhibitator, Molekulargr. 4000-30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3h vor elektiven Eingriffen beenden, WB 1 h
+- NMWH = va. Xa-Inhibitator, Molek. Ca. 4000-9000 Dalton, HWZ ca. 6h, sc, 12h/24h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2h
 
 - Direkte Thrombininhib. (IIa): Hirudine z.B. Argatroban/Argatra, 2h + apTT normal, WB 4h
 - FaktorX-Inhib.: Pentasaccharid/Fondaparinux = Arixtra sc. nach HTEP, KTEP, 36h!!, WB 6h
@@ -146,11 +146,11 @@ nach der s.c. Gabe
 
 ## 25.5. Pathomechanismus der intraoperativen Blutung: *
 
-- Gefäßverletzung mit Verlust/Gerinnungsaktivierung -- Volumentherapie mit Dilution -- TRIAS Hypothermie+Azidose+Hypokalzämie  =  Blutgerinnungsstörung  --  vermehrter Blutverlust -- Verbrauch Gerinnungsfaktoren/Hyperfibrinolyse ...
+- Gefäßverletzung mit Verlust/Gerinnungsaktivierung -- Volumentherapie mit Dilution -- TRIAS Hypothermie+Azidose+Hypokalzämie = Blutgerinnungsstörung  --  vermehrter Blutverlust -- Verbrauch Gerinnungsfaktoren/Hyperfibrinolyse ...
 - POCT (Point of care test): ROTEM oder TEG
 
 Folgende Gerinnungsfaktoren stehen zur Verfügung:
-- **FFP**:  =  pro-  und antikoagulatorische Faktoren in physiologischer Konzentation. Eine gezielte Korrektur ist nicht möglich. NW: Volumenbelastung mit dilutionsbedingter Anämie und Thrombopenie! Hohe Zitratzufuhr mit Gefahr der Hypocalciämie mit Koagulopathie, Herzrhythmusstörungen und Krämpfen. Die einzige absolute Indikation ist ein Faktor V-Mangel.
+- **FFP**: = pro-  und antikoagulatorische Faktoren in physiologischer Konzentation. Eine gezielte Korrektur ist nicht möglich. NW: Volumenbelastung mit dilutionsbedingter Anämie und Thrombopenie! Hohe Zitratzufuhr mit Gefahr der Hypocalciämie mit Koagulopathie, Herzrhythmusstörungen und Krämpfen. Die einzige absolute Indikation ist ein Faktor V-Mangel.
 - **TK**: sind nur bei strenger Indikation von \< 10 000/µl ohne aktive Blutung oder \< 50 000/µl bei anhaltender Blutung empfohlen; es besteht ein hohes Risiko einer allergischen oder febrilen Transfusionsreaktion, TRALI, bzw. bei bakterieller Kontamination Komplikationen mit SEPSIS.
 - **Fibrinogen**: Gabe bei transfusionspflichtigen Blutungen, Plasmaspiegel  \<  1,5-2g/l oder Fibrinogenmangel im FIBTEM. Initialdosis sind 50mg/kg KG.
 - **Faktor XIII**: Gabe bei Blutungen und herabgesetzter Aktivität des FXIII\<60%. Initialdosis sind 30IE/kg KG.
@@ -158,7 +158,7 @@ Folgende Gerinnungsfaktoren stehen zur Verfügung:
 - **rFVIIa** = Novo7: Indiziert bei Hämophilie, FVII-Mangel, Morbus Glanzmann. Off lavel use bei vital bedrohlicher Blutung 90 -120µg/kg (Vorraussetzung sind normale Thrombozyten, Fibrinogen- und Calziumwerte, pH \>7,2 und Normothermie.
 - **FVIII**: Indiziert bei Hämophilie A und vWF-Syndrom.
 - **Tranexamsäure**/Cyclokapron: erhöht die Überlebenswahrscheinlichkeit beim Traumapatienten und senkt den perioperativen Transfusionsbedarf. Initialdosis: 20-25mg/kg KG.
-- DDAVP/**Desmopressin**  =  Octostim: stimuliert die Freisetzung des vWF, bewirkt eine Wasserretention mit Hyponatriämie. Induziert beim erworbenen vWF-Syndrom.
+- DDAVP/**Desmopressin** = Octostim: stimuliert die Freisetzung des vWF, bewirkt eine Wasserretention mit Hyponatriämie. Induziert beim erworbenen vWF-Syndrom.
 
 Tranexamsäure, FFP und rFVIIa sind bei intraoperativen massiven Blutungen sinnvoll, jedoch nie prophylaktisch präoperativ anzuwenden!
 
@@ -178,8 +178,8 @@ Faktor V-Mangel: ist der am weitesten verbreitete erbliche Risikofaktor der Thro
 
 ## 25.7. TIC = Trauma induzierte Coagulopathie
 
-Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten  +  erhöhten Verbrauch  +
-Flüssigkeitszufuhr+  TRIAS: Hypothermie (\<34°)  +  Hypokalzämie (\<1mmol/l)-Azidose (pH  \<  7,2)  +
+Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten + erhöhten Verbrauch  +
+Flüssigkeitszufuhr+  TRIAS: Hypothermie (\<34°) + Hypokalzämie (\<1mmol/l)-Azidose (pH  \<  7,2)  +
 HK \<24%
 1) Volumentherapie: Kristalloide+Kolloide (HES max. 50ml/kg/d), einmalig 4ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 2) 1-2g Tranexamsäure innerhalb der ersten 3 h (15 -20mg/kg KG)
 3) Hypothermie vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 4) Azidosekorrektur: Ziel \>7,2 (NaBIC)
@@ -232,7 +232,7 @@ Ursachen einer perioperativen Gerinnungsstörung:
 
 Heparin induzierte Thrombopenie durch AK gegen Heparin-PF4-Komplex mit prokoagulatorischer Situation. Meist postoperativ oder posttraumatisch, va. Nach UFH, NMWH um Faktor 10 seltener.
 Klinik:
-Plötzlicher Thrombozytenabfall auf meist 20-50000/l  +  Thrombose (TVT, PE, MCI, Insult,..),
+Plötzlicher Thrombozytenabfall auf meist 20-50000/l + Thrombose (TVT, PE, MCI, Insult,..),
 Hautnekrose an Einstichstelle Labor: HIT-AK negativ = Ausschluss. (50% kardiochir. Pat. HIT-AK positiv ohne Klinik!)
 Beweisend ist signifikanter Thrombozytenanstieg 3-5 Tage nach Heparin Ende.
 Score:
@@ -270,7 +270,7 @@ Antagonisten und Leberfunktionsstörung
 
 - vWF: ist bei SIRS/SEPSIS ebenfalls erniedrigt. Eine sichere Diagnostik kann daher erst nach Abklingen eines Infekts erfolgen.
 - Protein C: ist erniedrigt bei Vit-K-Antagonisten Gabe, Leberfunktionsstörung, Sepsis, DIC, kongenitalem Mangel mit Thromboseneigung
-- ACT: misst die Dauer bis zur Bildung eines Cloth´s (Blut  +  Kaolin), normal 120-150sec, Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
+- ACT: misst die Dauer bis zur Bildung eines Cloth´s (Blut + Kaolin), normal 120-150sec, Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
 
 
 ## 25.11. Antithrombotische Therapie auf der Intensivstation

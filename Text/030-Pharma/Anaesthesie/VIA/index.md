@@ -58,7 +58,7 @@ sensibilisiert auf Katecholamine = Rhythmusstörungen.
 
 ### Desfluran
 
-Übelriechend, irritierend SH;  Siedepunkt bei 22°C  =  hoher Dampfdruck spezielle Vaporisatoren;
+Übelriechend, irritierend SH;  Siedepunkt bei 22°C = hoher Dampfdruck spezielle Vaporisatoren;
 schnelles An- und Abfluten, erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH.
 
 Bewirkt einen HF-Anstieg und Blutdruckabfall bei der Einleitung, negativ inotrop mit Coronary steal Syndrom. Anwendung bei bariatrischen Eingriffen (Adipositaschirurgie).
@@ -80,7 +80,7 @@ Reduktion des MAP (senken syst. Gefäßwiderstand), Sensitivisieren das Myokard 
 Als **cardioprotektiv** gilt Sevofluran und Desfluran = öffnen ATP-unabhängige Kaliumkanäle der Mitochondrien, stabilisieren den Kalziumhaushalt, und die mitochondriale Funktion der Herzmuskelzelle bei MAC \>1.
 
 ZNS-Effekte
-: reversible Depression der Gehirnfunktion mit Bewusstseinsverlust; Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO2)  =  erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
+: reversible Depression der Gehirnfunktion mit Bewusstseinsverlust; Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO2) = erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
 
 Im EEG zuerst Frequenz und Amplitudensteigerung (Exzitationsstadium) und ab 1 MAC Verlangsamung.
 BIS verhindert keine Awareness unter volatilen Anästhetika.

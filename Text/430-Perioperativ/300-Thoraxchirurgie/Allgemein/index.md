@@ -30,11 +30,11 @@ Im Mittelpunkt stehen:
 - Lungenfunktion
 - Ev. Messung des Pulmonalarteriendrucks (v.a. bei ausgedehnten *Lungenlappenresektionen* oder *Pneumektomien)*
 
-Die **präoperative Spirometrie** ist kooperationsabhängig. 
+Die **präoperative Spirometrie** ist kooperationsabhängig.
 Sie erlaubt die Einschätzung sowohl der statischen Lungenvolumina als auch der dynamischen Lungenfunktion.
 Die beiden wichtigsten Parameter sind
 
-- die **forcierte Vitalkapazität** (**FVC**): 
+- die **forcierte Vitalkapazität** (**FVC**):
   Lungenvolumen, das nach maximaler Inspiration forciert *ausgeatmet* werden kann.
 - **exspiratorische Einsekundenkapazität** oder forciertes exspiratorisches Volumen (**FEV1**).
   Ein abgeleiteter Wert ist der **Soll-FEV1%**.
@@ -165,7 +165,7 @@ Patienten mit guter Lungenfunktion können zumeist in üblicher Weise prämedizi
 Ist der Eingriff nur kurz und soll der Patient frühzeitig mobilisiert werden, sollten *keine lang wirkenden* Sedativa zugeführt werden.
 
 Aber:
-- Patienten mit Hypoxie (paO2 \< 75 mmHg) und Hyperkapnie (paCO2 > 45 mmHg) bei Raumluftatmung dürfen *keine* atemdepressorisch wirkende Prämedikation erhalten. 
+- Patienten mit Hypoxie (paO2 \< 75 mmHg) und Hyperkapnie (paCO2 > 45 mmHg) bei Raumluftatmung dürfen *keine* atemdepressorisch wirkende Prämedikation erhalten.
   *Vielmehr ist es ratsam, auf jede Prämedikation zu verzichten, um die Hypoventilation nicht noch mehr zu verstärken.*
 - Anticholinergika sollten bei chronisch-obstruktiven Lungenerkrankungen *nicht routinemäßig* zugeführt werden, um eine Sekreteindickung (*CAVE: Erhöhung des Totraums !*) zu vermeiden.
 - Weitergabe kardialer Medikation
@@ -219,7 +219,7 @@ Die Schwere der durch die Ein-Lungen-Anästhesie entstehenden *Hypoxie* ist sehr
 
 Am wichtigsten sind:
 
-- Hypoxische pulmonale Vasokonstriktion (*Euler-Liljestrand-Reflex)* 
+- Hypoxische pulmonale Vasokonstriktion (*Euler-Liljestrand-Reflex)*
 - Ausmaß der chirurgischen Manipulation am operierten Lungenflügel
 - prä- und intraoperativer Funktionszustand des nicht-operierten Lungenflügels
 - Beatmungsverfahren für den nciht-operierten Lungenflügel
@@ -287,7 +287,7 @@ Indikationen für Bronchusblocker beim Erwachsenen sind:
 - in seltenen Fällen bei bilateralen Lungenoperationen
 
 
-<!-- 
+<!--
 ## Mediastinoskopie
 
 Komplikationen (~ 1,5%):
@@ -332,7 +332,7 @@ Präoperative Abklärung: Anamnese, physikalische Untersuchung, Labor, EKG ev. T
 C/P: Verziehungen des Bronchio-Trachealbaums und Tracheleinengungen können Intubation erschweren! Entscheidung ev. Tracheobronchial-Stent präoperativ?
 
 
-4 M´s bei Tumorpatienten (anästhesierelevant) 
+4 M´s bei Tumorpatienten (anästhesierelevant)
 1. Mass effects: Lungenabszess, Pancoast Syndrom, Recurrens oder phrenicus parese, obstructive Peumonie, Vena cava superior Syndrom,...
 2. Metabolic effects: Lambert-Eaten Syndrom, hypercalc., hyponatr., Cushing Syndrom 3. Metastases: SKBL to brain, bone, liver and adrena (Lagerung HWS-Metastasen!)
 4. Medications: Chemotherapie, lungentox. (z.B. Mitomycin), cardiotoxisch, nierentoxisch.
@@ -367,7 +367,7 @@ Lagekontrolle
   Bei trachealem Abgang des rechten OL-Bronchus darf kein re DLT gesetzt werden!! (1:250)
 
 
-Monitoring: FIO2, Diskonnektion, SaO2, EKG, Temperatur, petCO2, NiBP  +  Blasenkath, regelm.
+Monitoring: FIO2, Diskonnektion, SaO2, EKG, Temperatur, petCO2, NiBP + Blasenkath, regelm.
 BGA + ZVK, PAK, TEE bei hochrisiko Eingriffen. (ZVK bei oberer Einflussstauung über V. femoralis!)
 + Arterie!!
 
@@ -382,7 +382,7 @@ Narkoseeinleitung/Aufrechterhaltung
 
 Lagekontrolle bronchoskopisch
 : Re DLT: über das tracheale Lumen muss die Carina gesehen werden, über das bronchiale Lumen der Oberlappenbronchus identifiziert werden. (ca. 1,5cm ab Carina)
-  
+
   Li DLT: über das tracheale Lumen muss die Carina und der obere blaue Teil des endobronchialen Cuffs sichtbar sein,  über das bronchiale Lumen muss der linke Oberlappenbronchus (5cm ab Carina) idendifiziert werden.
 
 Lungenperfusion bei Einlungenventilation ELV Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77%), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23%) = Shunt!

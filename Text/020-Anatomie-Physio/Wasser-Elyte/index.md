@@ -328,7 +328,7 @@ Hypernatriämie
 Verlust an freiem Wasser größer als Zufuhr, exzessive Wasserdiurese, Diabetes insipidus, polyurisches Nierenversagen, ausgeprägte Perspiratio insensibilis, nach Verbrennungen, Gabe von natriumhaltigen Medikamenten (Penicillin, NaBIC)
 Klinik:
 Unruhe, Schwäche, Verwirrtheit, trockene SH mit Durstgefühl, Therapie:
-Perfusoren mit Aqua, 2,5%  Glucose (500ml Glucose 5%  +  500ml Aqua) auf 50-100ml/h bis 200ml/h titrieren;
+Perfusoren mit Aqua, 2,5%  Glucose (500ml Glucose 5% + 500ml Aqua) auf 50-100ml/h bis 200ml/h titrieren;
 Diabetes insipidus
 =  verminderte ADH-Sekretion mit Polyurie und Hypernatriämie;  Harnnatrium vermindert, Harnosmolariät niedrig, Serumoslolarität hoch!
 Ursache: SHT, SAB, Postoperativ Therapie: Minirin ½ Amp. iv. , Flüssigkeitssubstitution

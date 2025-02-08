@@ -426,7 +426,7 @@ Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. 
 Sofortmaßnahmen:
 - Kühlung mit Wasser (15°) nur bis
 \<10-15% KOF (sonst Unterkühlung mitVasokonstr.)
-- Vorsichtig Vasopressoren: Vasokonstriktion  =  schlechtere periphere Durchblutung  =
+- Vorsichtig Vasopressoren: Vasokonstriktion = schlechtere periphere Durchblutung  =
 Nachbrennen.
 - Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck
 
@@ -451,8 +451,8 @@ Grad I: Rötung, Epidermis betroffen Grad IIa: Blasen, wegdrückbare Rötung, sc
 
 Dort wo Basalmembran erhalten ist, kann sich die Haut regenerieren. Ist die BM zerstört muss Haut transplantiert werden.
 
-Zu viel Volumensubstitution  =  hoher IAP mit hohem Risiko eines AKI mit massiven Wundheilungsstörungen = SIRS/SEPSIS = TOD.
-Vor allem in den ersten 24-36 Stunden ist das größte capillary leak  =  „trocken führen"  nach PICCO!
+Zu viel Volumensubstitution = hoher IAP mit hohem Risiko eines AKI mit massiven Wundheilungsstörungen = SIRS/SEPSIS = TOD.
+Vor allem in den ersten 24-36 Stunden ist das größte capillary leak = „trocken führen"  nach PICCO!
 Beginn mit Kristalloiden und nach 6-8 h  FFB (hyperkoagulatorischer Status, keine Gerinnungsfaktoren!). Albumin nur sparsam einsetzen.
 Vasopressoren und Inotropika sollen einen suffizienten Perfusionsdruck und HZV bewirken. Keine Normalwerte anstreben!
 
@@ -481,7 +481,7 @@ Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchosko
 
 Therapie:
 - Schutzintubation und Beatmung mit 100% FIO2,
-- Flüssigkeitsmanagement: zu viel Volumen  =  viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab \>8mmHg), da KOD ca. 8 ! (Normal 20!)
+- Flüssigkeitsmanagement: zu viel Volumen = viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab \>8mmHg), da KOD ca. 8 ! (Normal 20!)
 
 
 

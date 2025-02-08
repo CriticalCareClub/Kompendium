@@ -10,7 +10,7 @@ Urs: Pericarditis (St.p. MCI), Malignom, Urämie, Infekt (bakt, viral, TBC), St.
 Myxödem, Z.n. LTX, Fundoplicatio, Leberchir. ,...
 
 
-Klinik: Dyspnoe mit retrosternalen Schmerzen, hämodynamische Instabilität mit Tachykardie und Hypotonie, Reduziertes SV  +  HSV, gestaute Halsvenen, Tachypnoe, Pulsus paradoxus (75%!
+Klinik: Dyspnoe mit retrosternalen Schmerzen, hämodynamische Instabilität mit Tachykardie und Hypotonie, Reduziertes SV + HSV, gestaute Halsvenen, Tachypnoe, Pulsus paradoxus (75%!
 Abschwächung bei Inspiration)
 Erhöhter ZVD, breites Mediastinum im C/P TTE: Flüssigkeit im Herzbeutel, diastolisches Kollapieren der rechten Herzkammer
 
@@ -26,7 +26,7 @@ Duke Kriterien (Major, Minor...BK, Echo?
 TEE: flottierende Vegetationen auf der MK, hochgrad. MI Positive Blutkultur Erreger: Staphylococcus aureus, Streptokokken,
 Seltener: Enterokokken, Sprosspilze,...
 
-AB: Penicillin G (Staph. Aureus, jedoch 80%  in  Österreich bereits resistent!)  +  Flucloxacilllin
+AB: Penicillin G (Staph. Aureus, jedoch 80%  in  Österreich bereits resistent!) + Flucloxacilllin
 (Streptokokken) + Gentamicin (synergy. Wirkung, KI CNI)
 Rifampicin bei schweren Staph. Aureus Infektionen als Kombinationspartner von  β-Laktam,
 Chinolon oder Glycopeptid AB!
@@ -60,8 +60,8 @@ septische CMP bei Kindern, Allograft Dysfunktion nach HTX, ...
 
 
 Indiziert bei Weaning nach der HLM (34%!), Myokardinfarkt (14%), präoperativer Support,
-refraktäres Herzversagen  =  myokardialen Ischämien und globaler Hypokontraktilität mit low cardiac output.
-Inflation  von Helium am Beginn der Diastole (Ende der T-Welle)  =  hebt Nachlast  =  erhöhter koronarer Blutfluss (Inzisur am Beginn der Diastole in der Druckkurve) und erhöhter Linksventrikulärer Druck in der Diastole durch den Blutrückstrom Deflation R-Zacken getriggert mit Beginn der Systole = senkt Nachlast = steigert Left ventrik stroke work, senkt myokardialen O2-Verbrauch, Systolischer Aortendruck ist erniedrigt (Ausgleich durch erhöhten diastolischen Aortendruck), erhöhter CO.
+refraktäres Herzversagen = myokardialen Ischämien und globaler Hypokontraktilität mit low cardiac output.
+Inflation  von Helium am Beginn der Diastole (Ende der T-Welle) = hebt Nachlast = erhöhter koronarer Blutfluss (Inzisur am Beginn der Diastole in der Druckkurve) und erhöhter Linksventrikulärer Druck in der Diastole durch den Blutrückstrom Deflation R-Zacken getriggert mit Beginn der Systole = senkt Nachlast = steigert Left ventrik stroke work, senkt myokardialen O2-Verbrauch, Systolischer Aortendruck ist erniedrigt (Ausgleich durch erhöhten diastolischen Aortendruck), erhöhter CO.
 Physiologische Effekte: distolischer Aortendruck steigt, koronarer Blutfluss steigt, kardiale Nachlast sinkt, systemischer Aortendruck sinkt (Paradoxon), cardial Output steigt, renaler Blutfluss steigt.
 Komplikationen (schwere Komplikationen bei ca. 2,8%):
 Extremitätenischämie bei zu tiefer Lage, Kompartmentsyndrom, Infektionen, Ballonfehllage/leak führt zu einer Störung der intestinalen Perfusion mit Gefahr der Darmischämie, Aortendissektion,
@@ -87,7 +87,7 @@ Der Anschluss erfolgt im rechten Vorhof und der rechten A. femoralis;  die Coron
 Oxygenierung des Blutes für die Coronararterien, da venöses Blut postkapillär  über den Bronchialkreislauf sich zumischt = SHUNT!
 
 
-Harlequin-Syndrom  =  blue head (deoxygeniertes Blut in die obere Körperhälfte)  +  red legs
+Harlequin-Syndrom = blue head (deoxygeniertes Blut in die obere Körperhälfte) + red legs
 (ECMO-Blut in die untere Körperhälfte) bei femoraler Kanülierung. Lösung: Kanüle in A. axillaris oder zentrale Kanüle in die Aorta ascendes bei OP ODER ein zusätzlicher Schenkel leitet ECMO-
 Blut in die V.cava superior Komplikationen: ANV, Blutungen, Infektionen, Ischämie der Extremitäten.
 
@@ -139,13 +139,13 @@ Therapie:
 - Inotropika bei akutes Herzversagen
 - Bei Bedarf Volumen
 - ECMO
-- Therapieziel  =  Verbesserung der Herzfunktion mit CI  \>2,0/min/m², PCWP  \<18mmHg,
+- Therapieziel = Verbesserung der Herzfunktion mit CI  \>2,0/min/m², PCWP  \<18mmHg,
 ScvO² \>65mmHg
 
 ## 44.5. Eingriffe im Herzkatheter in Sedoanalgesie: *
 
 - ICD-Implantation, Sondenrevision, Generatortausch: indiziert bei CMP NYHA II-III,
-Brugada-Syndrom.  =  Schrittmacher mit Defibrillatorfunktion. Komplikationen:
+Brugada-Syndrom. = Schrittmacher mit Defibrillatorfunktion. Komplikationen:
 Pneumothorax,
 cardiale Decompensation,
 Arrhythmien,
@@ -181,7 +181,7 @@ Folgen:
 - LVEDP erhöht = Gefahr der Myokardischämie
 -  CO fixiert (kann nicht gesteigert werden)
 - diastolische Funktionsstörung
-- atriale Kontraktion liefert 40%  des CO (normal bis max. 20%)  =  sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
+- atriale Kontraktion liefert 40%  des CO (normal bis max. 20%) = sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
 - missmatch VO2/DO2 kardial
 
 
@@ -199,7 +199,7 @@ Therapie:
 - AKE (mechanische, biologische Ersatzklappe)
 - TAVI (trans apicale valvuläre implantation) bei hohem Alter und schweren Komorbititäten: Kathetergestützes Einbringer einer Aortenklappenprothese  über die V.femoralis oder transapikal mit kleinem Hautschnitt, es erfolgt eine Ballonvalvuloplastie mit Overpacing (HF 180/min, sistieren des aortalen Blutflusses). = CORVALVE oder SAPIEN XT. Komplikationen: Anulusruptur, Herzbeuteltamponade, Arrhythmien, Insult,
 Leistenblutung.
-- ROSS-OP: die körpereigene Pulmonalklappe ersetzt die Aortenklappe  +    Homograft für Pulmonalklappenersatz
+- ROSS-OP: die körpereigene Pulmonalklappe ersetzt die Aortenklappe +   Homograft für Pulmonalklappenersatz
 
 
 ## 44.8. Hypertrophe obstruktive Cardiomyopathie (HOCM) *
@@ -307,7 +307,7 @@ Akute Klinik:
 Einteilung der Dissektion:
 - Typ A-Dissektion = Aorta asc. + Aortenbogen: operative Versorgung an der HLM in DHCA
 (deep hypothermic cardic arrest) mit Ascendesersatz, AKE oder Bogenersatz.
-- Typ B-Dissektion  =  Aorta descendens: ev. akuter Stent, sonst später elektiver thorakoabdomineller Aortenersatz mit ELV
+- Typ B-Dissektion = Aorta descendens: ev. akuter Stent, sonst später elektiver thorakoabdomineller Aortenersatz mit ELV
 
 Diagnose: Klinik! CT! C/P: breites Mediastinum; Echo!!
 
@@ -325,7 +325,7 @@ da der parasympatische Einfluss fehlt. CAVE: parasympathisch oder sympathisch wi
 Anästhesie: konstantes preload anstreben, CAVE: Antagonisierung der Relaxantien mit Bridion empfohlen (Atropin wirkt nicht!!!Bradykardie!)
 
 
-Anästhesie nach Lungen-TX Ein- oder beidseitig mit Anastomosen im Bereich der Hauptbronchien. Eigene Trachea mit Carina verbleibt  =  Hustenreflex und mukoziliäre Clearance bleiben erhalten. Aber Lymphabfluss ist durchtrennt = rasch Lungenödem! Hoch Infektgefährdet mit Gefahr der Abstoßungsreaktion!
+Anästhesie nach Lungen-TX Ein- oder beidseitig mit Anastomosen im Bereich der Hauptbronchien. Eigene Trachea mit Carina verbleibt = Hustenreflex und mukoziliäre Clearance bleiben erhalten. Aber Lymphabfluss ist durchtrennt = rasch Lungenödem! Hoch Infektgefährdet mit Gefahr der Abstoßungsreaktion!
 Va. BOOP (Bronchitis obliterans organizing pneumonia) als chronische Abstoßungsreaktion.
 Anästhesie: restrictive Flüssigkeitsgabe! Bei einseitiger LTX hat die neue Lunge einen höheren Widerstand mit Gefahr der Emphysembildung durch hohe Beatmungsdrücke in der eigenen Lunge. Am besten Pat. atmet spontan oder RA-Verfahren! Frühe Extubation! Gefahr Pneumonie mit CMV!
 

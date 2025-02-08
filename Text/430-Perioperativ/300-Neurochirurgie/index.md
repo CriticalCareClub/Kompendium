@@ -10,7 +10,7 @@
 
 
 
-- TIVA, Sevo  \<  0,7 MAC (darüber cerebrale Vasodilatation), ev. Barbiturate,  +  Ultiva (analgesiebasierte Narkose!)
+- TIVA, Sevo  \<  0,7 MAC (darüber cerebrale Vasodilatation), ev. Barbiturate, + Ultiva (analgesiebasierte Narkose!)
 - Ultiva erhöhen beim Einspannen in die Mayfield Zange. Der Patient darf sich nicht bewegen bis die Zange wieder entfernt ist!
 - Keine hypoosmolaren Flüssigkeiten, auf Diabetes Insipidus achten!
 - Komplikationen: Venöse Luftembolie bei sitzender Position mit vermindertem etCO2 und erhöhtem paCO2 . Therapie: Cava im rechten Vorhof Luft absaugen, Flachlegen, chirurgischer Verschluss des offenen Gefäßes.

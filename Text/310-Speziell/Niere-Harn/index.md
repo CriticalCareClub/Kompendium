@@ -263,7 +263,7 @@ Maßnahmen
 
 Die Niere beansprucht zirka 20% des HZV (ca, 1,2l Blut). Der Großteil geht in den überversorgten Cortex, die vulnerable Zone, weil nur grenzwertig versorgt, ist die Medulla mit den Henle Schleifen. Dort befindet sich auch die Na-K-ATPase, welche der größte Sauerstoffkonsument der Niere ist.
 
-Aufbau: Nephron  =  Glomerulus in Bowman Kapsel mit Vas afferenz und efferenz und juxtaglomerulärem Apparat -- proximaler Tubulus (Konvolut) -- Henle Schleife in Medulla -- distaler Tubulus -- Sammelrohr.
+Aufbau: Nephron = Glomerulus in Bowman Kapsel mit Vas afferenz und efferenz und juxtaglomerulärem Apparat -- proximaler Tubulus (Konvolut) -- Henle Schleife in Medulla -- distaler Tubulus -- Sammelrohr.
 
 Filter: kapilläres Endothel mit gap junctions bis 60nm + Basalmembran (Größe, Form und Ladung d. Moleküle) + viszerales Epithel (Ladung und Form) Primärharn = ca. 180l/d Ultrafiltrat des Plasma, proteinfrei
 
@@ -295,15 +295,15 @@ Phosphat+Cl+HCO3-
 Reabsorption.
 CAVE:
 Carboanhydrasehemmer verhindern Bicarbonatrücktransfer und damit auch Wasserrückresorption), Sekretion von Säuren und Basen.
-1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium  =  hyperosmolar, hier keine Wasserpermeabilität), Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
+1) Henle Schleife: Aufsteigendem Teil (Na-K-Atpase, Na-K-2Cl-Cotransport, Kalium diffundiert zurück, NaCl beibt im Interstitium = hyperosmolar, hier keine Wasserpermeabilität), Absteigender Schenkel (Wasser rinnt passiv ins hyperosmolare Interstitium)
 1) Distaler Tubulus: Na-Reabsorption 4) Sammelrohr: Aquaporine (ADH) für Wasserpermeabilität ins hypertone Interstium nach osmotischem Gradienten, Harnstoffpermeabilität ins Interstitium.
 JGA (juxtaglomerulärer Apparat) Liegt im Bereich des Vas afferenz, synthetisiert und speichert Renin.
 Ausschüttung bei:
 Hyponatriämie (Macula densa) und vermindertem Extrazellulärvolumen, weiters bei Hypotonie durch Barorezeptoren im Vas afferenz Sympathikusaktivierung.
-RAA-Mechanismus Renin spaltet Angiotensinogen in AT I -- ACE spaltet in ATII. Diese wirkt direkt Vasokonstriktorisch und hebt Afterload, und setzt Aldosteron frei =  Na und Wasserretention steigt  =  preload steigt.
+RAA-Mechanismus Renin spaltet Angiotensinogen in AT I -- ACE spaltet in ATII. Diese wirkt direkt Vasokonstriktorisch und hebt Afterload, und setzt Aldosteron frei =  Na und Wasserretention steigt = preload steigt.
 Aldosteron hemmt Reninfreisetzung.
 
-ADH = antidiuretisches Hormon = Vasopressin Im Hypothalamus gebildet und HHL gespeichert,  öffnet Aquaporine im distalen Tubulus und Sammerlrohren  =  Wasserretention und Harnstoff  =  Harnkonzentrierung! Mangel  =  IADHS, Diab.
+ADH = antidiuretisches Hormon = Vasopressin Im Hypothalamus gebildet und HHL gespeichert,  öffnet Aquaporine im distalen Tubulus und Sammerlrohren = Wasserretention und Harnstoff = Harnkonzentrierung! Mangel = IADHS, Diab.
 Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen) und Aterien (Druck) (Minirin, Desmopressin/Octostim) Dopamin: steigert die GFR, Natriurese, Vasodilatorisch (hemmt Na-K-Atpase, und Na-H+-Antiport)
 
 
@@ -363,7 +363,7 @@ Therapie:
 Ursache beseitigen! Kreislauf stabilisieren und für ausreichenden Perfusionsdruck bei adäquater Füllung sorgen!
 - Mikrozirkulation aufrechterhalten (Laktat, ScvO2, MAP, HF)
 - Flüssigkeitsmanagement nach PICCO/Pulmi (PCWP), C/P, Klinisches Bild, ev. TEE im Zweikammerblick/Füllungszustand
-- Vasopressoren: Noradrenalin wirkt mehr auf vas eff.  =  +  GFR, Dopamin in Nierendosis 0,5-
+- Vasopressoren: Noradrenalin wirkt mehr auf vas eff.  = + GFR, Dopamin in Nierendosis 0,5-
 3mcg/kg/min dilatiert vas. Aff. Und vasokonstr. vas eff = erhöhter Filtrationsdruck (langfristig kein Vorteil)
 - NEV bei Kalium  \>  6,5 mmol/l, Harnstoff  \>180/200mg/dl, Kreatinin  \>  8mg/dl, Hypervolämie mit Lungenödem, Anurie/Oligourie, metabolische Azidose, urämische Intoxikation, BUN
 \>100, Crea-Clearance \< 15, Somnolenz,..

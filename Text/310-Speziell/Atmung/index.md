@@ -2,7 +2,7 @@
 
 
 Eine respiratorische Insuffizienz liegt vor, wenn die für die Aufrechterhaltung eines suffizienten Gasaustausches notwendige Atemarbeit vom Patienten nicht mehr aufgebracht werden kann. Die pulmonale O2-Aufnahme ist in Folge so stark beeinträchtigt, dass eine ausreichende O2-Versorgung der Gewebe bzw. eine ausreichende Elimination von Kohlendioxid nicht mehr gewährleistet ist.
-Leitsymptom ist die Tachypnoe (\>  35/min)!  +  Reduziertes VT, Schaukelatmung, Einsatz der Atemhilfsmuskulatur mit erhöhtem Sympatikotonus (Unruhe, Schwitzen, Tachykardie,
+Leitsymptom ist die Tachypnoe (\>  35/min)! + Reduziertes VT, Schaukelatmung, Einsatz der Atemhilfsmuskulatur mit erhöhtem Sympatikotonus (Unruhe, Schwitzen, Tachykardie,
 Hypertonie)
 
 Grundsätzlich unterscheidet man zwischen  **3 Ursachen der respiratorischen Insuffizienz**, die als eigenständige Formen oder in Kombination auftreten können:

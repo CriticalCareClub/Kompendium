@@ -39,7 +39,7 @@ Laser in der HNO Laserarten: CO2 (Gaslaser, geringe Eindringtiefe), Neodym-YAG
 (Festkörperlaser, 5-10mm), Argon-
 Laser (Gaslaser), Helium-Laser (Gasl.)
 =  Elektronen eines geeigneten Materials werden auf ein höheres Energieniveau gehoben, beim Rückfall werden Photonen freigesetzt. (elektro-magnetische Wellen)
-Vorteil: mm-genau, wenig Schwellung und Blutung, Koagulation kleiner Gefäße, Ng-YAG  über Fiberoptik lenkbar;  Nachteil: HNO ist O2 direkt beim Laser  =  Feuer! (Alkohol, Abdeckung,
+Vorteil: mm-genau, wenig Schwellung und Blutung, Koagulation kleiner Gefäße, Ng-YAG  über Fiberoptik lenkbar;  Nachteil: HNO ist O2 direkt beim Laser = Feuer! (Alkohol, Abdeckung,
 Kunststoff, Gewebe brennt!)
 Atemweg: Lasertubus, normaler Tubus mit Schutz,
 Jet-Ventilation mit Kleinasser Rohr Schutzmaßnahmen: Lasertubus oder Umwicklung, Waser oder NaCl in Spritzen bereithalten,

@@ -33,9 +33,9 @@ Gallengangsverschluss
 - GGT erhöht bei Cholestase und alkoholischem Parenchymschaden
 
 Synthese d. Leber
-: Albumin, Gerinnungsfaktoren, ATIII, Cholinesterase, Komplementfaktoren, Akute-Phase-Proteine, Glykogensynthese  +  speicherung, Glukoneogenese, Harnstoffsynthese, Gallensäurenproduktion Stoffwechsel: Protein-  und Lipoproteinstw., Fettsäuremetab., Ketogenese, Abbau von Häm, Bilirubinkonjugation, Vitaminstoffw, Biotransform. von Pharmaka,
+: Albumin, Gerinnungsfaktoren, ATIII, Cholinesterase, Komplementfaktoren, Akute-Phase-Proteine, Glykogensynthese + speicherung, Glukoneogenese, Harnstoffsynthese, Gallensäurenproduktion Stoffwechsel: Protein-  und Lipoproteinstw., Fettsäuremetab., Ketogenese, Abbau von Häm, Bilirubinkonjugation, Vitaminstoffw, Biotransform. von Pharmaka,
 
-Exkretion: Bilirubin, Gallensäuren, Steroide (Hormone  +  GS), Pharmaka z.B. Rocuronium, Ceftriaxon
+Exkretion: Bilirubin, Gallensäuren, Steroide (Hormone + GS), Pharmaka z.B. Rocuronium, Ceftriaxon
 
 Leberperfusion: 25% des HZV; 70-80% über V.portae Rest über A. hepatica. (O2-Versorgung 50%
 A. hep. da V. portae nur 70%  paO2). Die Autoregulation der A. hepatica ist vom Grad der Nahrungsaufnahme abhängig und im Nüchternzustand außer Kraft! Bei Hypotonie in Narkose daher stark reduzierte Leberdurchblutung. Ein Anstieg oder Abfall der Pfortaderperfusion wird von A.hep. kompensiert. Umgekehrt ist dies nicht möglich. Metabolische Azidose führt zu einer Vasokonstriktion im präportalen und leberarteriellen Gebiet!
@@ -74,7 +74,7 @@ KRL: wie bei SIRS! Periphere Vasodilatation mit kompensatorisch hyperdynamen Zus
 Hypotonie mit Tachykardie und erhöhtem HZV bei erniedrigtem TPVR Niere: ANV bei MOF, direkte Nephrotoxizität bei Paracetamol! Metabolische Alkalose durch gestörte HCO -
 3 -Metabolisation.
 Bei Laktatazidose verschlechtert sich die Prognose!
-Koagulopathie: Thrombopenie, gestörte plasmatische Gerinnung (PTZ erniedrigt)  +  ATIII vermindert prod.
+Koagulopathie: Thrombopenie, gestörte plasmatische Gerinnung (PTZ erniedrigt) + ATIII vermindert prod.
 Immunsystem: gestörte Funktion begünstigt SIRS
 
 ### Diagnostik
@@ -166,7 +166,7 @@ Differenzial Ursachen zur portale Hypertension  bei Leberzirrhose: Rechtsherzins
 
 Aszitestherapie:
 - NaCl-Restriktion (4-6g/d)
-- Diuretika: Spironolacton/Aldactone 100-400mg  +  Lasix 40-160mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
+- Diuretika: Spironolacton/Aldactone 100-400mg + Lasix 40-160mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
 
 
 
@@ -174,7 +174,7 @@ Aszitestherapie:
 - TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \<3mg, Na  \>  130, \<
 60a
 
-TIPS:  =  transjugolärer intrahepatischer Pfortader Shunt  =  fist line Therapie bei Hochrisikopatienten, bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
+TIPS: = transjugolärer intrahepatischer Pfortader Shunt = fist line Therapie bei Hochrisikopatienten, bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
 
 Problem NNI  bei 50%  der Patienten mit Zirrhose und Sepsis, dh. Fehlende Möglichkeit auf die Sepsis adäquat reagieren zu können. Vor allem bei Hypotonie und Katecholaminpflichtigkeit daran denken! 50mg Hydrokortison alle 6h bis der Patient nicht mehr katecholaminpflichtig ist.
 
@@ -205,7 +205,7 @@ Postoperativer Ikterus
 Sepsis induzierte Cholestase LPS führen zur Zytokinfreisetzung systemisch und intrahepatisch = hemmen Transportsysteme für Bilirubin und Gallensäuren.
 Klinik: Fieber, Ikterus, erhöhtes konj. Bilirubin, meist normales GGT, am 2-7 d nach Bakteriämie mit Bilirubinanstieg \> 2 = hepatische Manifestation des MODS Therapie: AB + Sepsisherdsanierung Sono zur diff. mechanische Cholestase.
 
-Hypoxische Hepatitits = Schockleber Patho: läppchenzentrale Nekrosen durch Hypoxie mit erhöhtem GOT/GPT-Ratio  \>  1  +  LDH Erhöhung Risikopatienten: Rechtsherzinsuffizienz, COPD, OSAS, Leberzirrhose Therapie: Stabilisierung der Hämodynamik
+Hypoxische Hepatitits = Schockleber Patho: läppchenzentrale Nekrosen durch Hypoxie mit erhöhtem GOT/GPT-Ratio  \>  1 + LDH Erhöhung Risikopatienten: Rechtsherzinsuffizienz, COPD, OSAS, Leberzirrhose Therapie: Stabilisierung der Hämodynamik
 
 Steatosis hepatis durch TPE (totale parenterale Ernährung) Mit nichtmechanischer intrahepatischer Cholestase Risiko: TPE \> 3 Monate, Kurzdarm Patienten Path: verminderte Gallensekretion durch Dysbalance der GI Hormone, bakterielle Translok.  +
 Bildung von toxischen Gallensäuren Therapie: Vermeidung überhöhter Kalorienzufuhr, zyklische Applikation mit 6-12h Pause

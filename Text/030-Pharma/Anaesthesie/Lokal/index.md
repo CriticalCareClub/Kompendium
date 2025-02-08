@@ -372,7 +372,7 @@ Benzodiazepine für Patientenkomfort: Vorteil: antikonvulsiv;  Nachteil: Initial
 
 Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
 Phase I: Hypertension, Tachykardie, zentrale Exzitation Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
-Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff  +  Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
+Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
 100ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
 Kanäle), frühzeitig HLM, LUCAS erwägen.
 
@@ -436,15 +436,15 @@ BIER-Block
 : iv. Regionalanästhesie
 
 Wirkdauer
-: WD  ist abhängig von der Proteinbindung  =  langsame Freisetzung, lange Wirkdauer.
+: WD  ist abhängig von der Proteinbindung = langsame Freisetzung, lange Wirkdauer.
 
   Verlängerung durch Adrenalin, Clonidin und Dexamethason möglich. Die Halbwertszeit beschreibt den Konzentrationsverlauf im Plasma, und ist nicht gleichzusetzen mit der WD.
 
   Bupivacain 1,5-8h, Prilocain 1-3h, Ropivacain 3-6h, Mepivacain 1,5-3h
 
-Wirkstärke  ist abhängig von der Lipidlöslichkeit  =  hohe Potenz, aber auch hohe  Toxizität. Bsp. Bupivacain \> Ropivacain \> Lidocain \> Procain.
+Wirkstärke  ist abhängig von der Lipidlöslichkeit = hohe Potenz, aber auch hohe  Toxizität. Bsp. Bupivacain \> Ropivacain \> Lidocain \> Procain.
 
-Anschlagzeit  ist abhängig vom pKa. (pKa  =  pH bei dem 50%  des LA ionisiert vorliegen) dh. niedriger pKa = rasche Wirkung. Mepivacain 7,6 \< Bupivacain 8,1; Wirkungseintritt steigern durch Erwärmen des LA oder Alkalisierung (+ NaBic, schaffe künstlich alkalisches Umfeld)
+Anschlagzeit  ist abhängig vom pKa. (pKa = pH bei dem 50%  des LA ionisiert vorliegen) dh. niedriger pKa = rasche Wirkung. Mepivacain 7,6 \< Bupivacain 8,1; Wirkungseintritt steigern durch Erwärmen des LA oder Alkalisierung (+ NaBic, schaffe künstlich alkalisches Umfeld)
 
 
 

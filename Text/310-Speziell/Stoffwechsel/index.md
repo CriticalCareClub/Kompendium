@@ -390,12 +390,12 @@ Anästhesie:
 - CNI (diab. Nephropathie)
 - Gastroparese durch autonome Neuropathie: RSI mit hohem Aspirationsrisiko
 - Erhöhte perioperative kardiovask. Morbidität und Mortalität!
-- Schwierige Intubation bei steifer HWS  +  Larynx (stiff joint syndrom): eingeschränkte Reklination des Kopfes, kann die gefalteten Hände nicht schließen (Gebetszeichen)
+- Schwierige Intubation bei steifer HWS + Larynx (stiff joint syndrom): eingeschränkte Reklination des Kopfes, kann die gefalteten Hände nicht schließen (Gebetszeichen)
 - Erhöhte Inzidenz von Apnoe und Herzstillstand (Männer\>Frauen)
 - Erhöhtes perioperatives Risiko bei Hypoglykämie, diabetischer Ketoazidose mit Hyperkaliämie, Hypovolämie oder hyperglykämischen hyperosolaren Zuständen bei DM Typ II (Volumenmangel, neurologisches Defizit).
 
 Auswirkung der OP auf DM
-: Stress setzt Epinephrine, Glukagon, WT-Hormone, IL-6 frei mit Insulinresistenz, verminderter Insulinproduktion, erhöhter Lipolyse und Katabolie  =  Aggressionstoffwechsel mit erhöhtem BZ nach OP durch überwiegen der antiinsulinergen Faktoren (Katecholamine, Cortisol).
+: Stress setzt Epinephrine, Glukagon, WT-Hormone, IL-6 frei mit Insulinresistenz, verminderter Insulinproduktion, erhöhter Lipolyse und Katabolie = Aggressionstoffwechsel mit erhöhtem BZ nach OP durch überwiegen der antiinsulinergen Faktoren (Katecholamine, Cortisol).
 
 ### Hyperglykämisches Koma
 
@@ -408,4 +408,4 @@ Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung
 - Folge:    Bikarbonat ↓, Anionenlücke ↑
 
 Therapie:
-- Volumensubstitution (1h 1l  +  2-6h 0,5l/h), Kaliumsubstitution (Insulin senkt Kalium  + weniger Azidose senkt ebenfalls K!), Insulin mit  Ziel BZ  =  250mg/dl um 50mg/h senken um osmotisches Lungen/Hirnödem zu vermeiden, Azidoseausgleich erst bei pH \< 7.10!
+- Volumensubstitution (1h 1l + 2-6h 0,5l/h), Kaliumsubstitution (Insulin senkt Kalium  + weniger Azidose senkt ebenfalls K!), Insulin mit  Ziel BZ = 250mg/dl um 50mg/h senken um osmotisches Lungen/Hirnödem zu vermeiden, Azidoseausgleich erst bei pH \< 7.10!

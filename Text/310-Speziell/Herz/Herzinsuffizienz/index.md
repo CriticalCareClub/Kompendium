@@ -58,7 +58,7 @@ Entresto®), welche der ACE-Hemmung mit Enalapril bei symptomatischen Patienten 
 
 
 Endstage Herzinsuffizienztherapie:
-Revaskulation und Klappensanierung (Mitracliping), ICD/Defibrillator Implantation, cardiale Resynchronisation  /CRT, iv. Gabe von Levosimedan/Simtax, HTX, LVAD  =  left ventricular assist device.
+Revaskulation und Klappensanierung (Mitracliping), ICD/Defibrillator Implantation, cardiale Resynchronisation  /CRT, iv. Gabe von Levosimedan/Simtax, HTX, LVAD = left ventricular assist device.
 
 
 ### Anästhesie bei Patienten mit Herzinsuffizienz
@@ -104,7 +104,7 @@ Im Wesentlichen gefährden **3 perioperative Faktoren** den Patienten mit Herzin
     Bei eingeschränkter Pumpfunktion sollte der zentrale Venendruck 16 mmHg nicht  überschreiten.
     Eine Preloadsenkung soll mit Nitroglycerin erfolgen.
     Simdax und Dobutrex-Einsatz wenn nötig.
-    Basismonitoring  +  arterielle Blutdruckmessung mit Pulskonturanalyse (Vigileo: Herzindex + SVV)
+    Basismonitoring + arterielle Blutdruckmessung mit Pulskonturanalyse (Vigileo: Herzindex + SVV)
 3. Sympathikusaktivierung mit Auslösung von Rhythmusstörungen oder einem kardialen Pumpversagen.
 
     Ad 3) Arrhythmien und Herzinfarkte treten insbesondere in den frühen postoperativen Phase auf,

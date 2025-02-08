@@ -162,7 +162,7 @@ Angehörige dürfen ohne Sachwalterschaft unterschreiben. Bei schwerer OP zweite
 
 - \>4MET's mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
 - \>4MET's mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine leichte OP freigeben werden. Bei einer schweren OP Abklärung mittels EKG, Echo, C/P (EF? LVF?) und Auskultation nach einem pathologischen Herzgeräusch: Echo vorhanden? Vitien?
-- \<4MET's  : EKG, C/P, Spirometrie  +  BGA, Echo, ERGO nur bei instabiler AP oder hohem OP-Risiko, bei schwerem Eingriff und LEE-Index \> 2RF = interdiszipliäre Entscheidung!
+- \<4MET's  : EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OP-Risiko, bei schwerem Eingriff und LEE-Index \> 2RF = interdiszipliäre Entscheidung!
 
 
 ECHO
@@ -180,7 +180,7 @@ Risikofaktoren des card. Pat
 : art. Hypertonie, DM, erhöhte Blutfette, Rauchen Kardiovaskuläre Co-Morbiditäten: KHK, art. HT, VHF, CMP, Klappenvitien, Altersherz
 
 Erfragen
-: Belastbarkeit=  NYHA-Stadien,    KHK/AP-Beschwerden, Herzinsuffizienz/Ödeme  +  NYHA, Elektrische Instabilität/Herzrasen, Synkopen.
+: Belastbarkeit=  NYHA-Stadien,    KHK/AP-Beschwerden, Herzinsuffizienz/Ödeme + NYHA, Elektrische Instabilität/Herzrasen, Synkopen.
 
 Präoperative Abklärung bei
 : instabile KHK, dekompensierte Herzinsuffizienz, signifikante Arrhythmien (höhergradiger AV-Block, symptomatische Bradykardie, VT´s,..), Schwere AS oder symptomatische MS = MET´s + NYHA für funktionelle Kapazität!!! LEE-Index!
@@ -234,7 +234,7 @@ Dauermedikamente
 Schrittmacher:
 - Ausweis (Typ, Indikation f. SM, letzte KO \< 12 Mo?, Implantationsdatum)
 - Symptome: Synkopen, Schwindel?
-- EKG-Rhythmusstreifen: Spikes?  Reizantwort?  Sensing?  Eigenschläge?  =  Abhängigkeit, Dysfunktion?
+- EKG-Rhythmusstreifen: Spikes?  Reizantwort?  Sensing?  Eigenschläge? = Abhängigkeit, Dysfunktion?
 - C/P: Lage der Elektroden, Herzgröße, Ergüsse?
 - OP im Thoraxbereich + absol. Abh. = Umprogramieren auf asynchronen Modus od. Magnet
 - MRT: Sure Scan Modus

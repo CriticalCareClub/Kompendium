@@ -1,10 +1,10 @@
 # 56. Traumatisches Querschnittsyndrom
 
-Ursachen: Flexion/Extension, Flexion/Rotation, axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms  +  sekundär Schaden durch Autodestruktion
+Ursachen: Flexion/Extension, Flexion/Rotation, axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms + sekundär Schaden durch Autodestruktion
 
 
 Pathophysiologie: Sympatikolyse mit Hypotonie durch Vasodilatation + Blutverlust +β-Endorphine
-+  Respiratorische Insuffizienz (Parese der Atemmuskulatur  +  Verletzungen)  =  Ischämie mit direkten Zellschäden + lokale Entzündungsreaktion mit weiteren Zellschäden. Die Folge ist ein
++  Respiratorische Insuffizienz (Parese der Atemmuskulatur + Verletzungen) = Ischämie mit direkten Zellschäden + lokale Entzündungsreaktion mit weiteren Zellschäden. Die Folge ist ein
 
 Bei einer vollständigen Durchtrennung des Myelons mit spinalem Schock fehlen die spinalen Reflexe oder sind stark abgeschwächt. Die Muskulatur unterhalb der Schädigung ist paralysiert.
 Nach 2-6 Wochen kommt es zur Rückkehr der Reflexe auf Berührung anogenital, und zu einer Hyperreflexie. Die sensiblen Dermatome bleiben gefühllos.
@@ -14,7 +14,7 @@ Dauert 3 Tage bis 8 Wochen (solange soll der Patient auf der IBS bleiben!)
 
 
 1. Respiratorische Dysfunktion: \> C3 keine Spontanatmung, C5 teilweise Phrenikusparese, TH7-
-8 Interkostal und Bauchmuskeln gelähmt, L5 Beckenboden gelähmt (Widerlager beim Husten fehlt);  Muskellähmung  +  Begleitverletzungen  +  erhöhter PAP mit Lungenödem  +  hoher Endorphinspiegel mit Unterdrückung des Atemzentrums = Mikroatelektasen
+8 Interkostal und Bauchmuskeln gelähmt, L5 Beckenboden gelähmt (Widerlager beim Husten fehlt);  Muskellähmung + Begleitverletzungen + erhöhter PAP mit Lungenödem + hoher Endorphinspiegel mit Unterdrückung des Atemzentrums = Mikroatelektasen
 + Shunt 2. Kreislauf: inital systemische Hypertonie durch 2-4 fach erhöhte Katecholamine durch das Trauma (mit Nachlasterhöhung und Myokardischämien), anschließend spinaler Schock mit Hypotonie und Bradykardie 3. Blasenlähmung mit Überlaufblase 4. Darmlähmung 5. Temperaturregulationsstörung: Unterkühlung, Hitzeschlag
 
 
@@ -32,7 +32,7 @@ Schockraum bei Wirbelsäulenverletzungen:
 - Methylprednisolon laut Schema zur Neuroprotektion OP: Dekompression des RM, StabilisierungsOP + frühe Rehabilitätion Komplikation: aufsteigendes Rückenmarksödem bis 48h postoperativ mit Verschlechterung der Symptomatik.
 
 Intensivtherapie:
-- PICCO;  vorsichtige Flüssigkeitszufuhr (relative Hypotonie durch Umverteilungsstörung zwischen Peripherie und Splanchnikusgebiet) Ziel: MAP\>70, HF  \>70/min  +  Katecholamine.
+- PICCO;  vorsichtige Flüssigkeitszufuhr (relative Hypotonie durch Umverteilungsstörung zwischen Peripherie und Splanchnikusgebiet) Ziel: MAP\>70, HF  \>70/min + Katecholamine.
 Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
 - Bronchialtoilette: Inhalieren, CPAP, Atemphysiotherapie, 2h Umlagerung en-block, Sekretolytika (Mucosolvan)
 - Tracheotomie: immer bei hohem Querschnitt (C4-5)
@@ -47,7 +47,7 @@ Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
 
 Autonome Dysreflexie
 = Querschnitt oberhalb Th6 mit Verlust der supraspinalen Kontrolle mit erhöhter Erregbarkeit der Organe und α-Rezeptoren, Auslöser über Blase durch DK, Darm, Magen, Uterus, Haut.
-Klinik: Blutdruckanstieg bis RRsyst 300mmHg!  +  periphere Vasokonstriktion (Gänsehaut)  +
+Klinik: Blutdruckanstieg bis RRsyst 300mmHg! + periphere Vasokonstriktion (Gänsehaut)  +
 proximale Vasodilatation (Kopfschmerz, rotes Gesicht, Schwitzen) + Bradykardie durch Vagusreiz Therapie: Narkose vertiefen + α- Rezeptorblocker
 
 Anästhesiemanagement:

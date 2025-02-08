@@ -8,7 +8,7 @@ TURP/TURB Steinschnittlagerung Lagerungsschäden: Peronäus und Saphenus, Obtura
 TURP-Syndrom!!Besonderheiten: FRC herabgesetzt, venöser Rückstrom/preload erhöht mit Gefahr der cardialen Decompensation, Atelektasenbildung.
 
 
-Prostatektomie Extensionslagerung/Trendelenburg-Lagerung: Becken höher als das Herz  =  Gefahr der Luftembolie/Thrombembolie bei ausgedehnter Beckenlymphknotendissektion. Cerebrale Stauung durch Kopftieflage, Volumenüberlastung des Herzen mit cardialer Dekompensation. Larynxödem.
+Prostatektomie Extensionslagerung/Trendelenburg-Lagerung: Becken höher als das Herz = Gefahr der Luftembolie/Thrombembolie bei ausgedehnter Beckenlymphknotendissektion. Cerebrale Stauung durch Kopftieflage, Volumenüberlastung des Herzen mit cardialer Dekompensation. Larynxödem.
 Monitoring: Arterie, großlumige Zugänge/ZVK (ZVD durch Lagerung nicht zu verwenden, kein Harn), Magensonde.
 
 

@@ -31,7 +31,7 @@ Wichtiges im Aufwachraum:
 - Respiratorische Insuffizienz: ev. NIV;  Urs?  PE, Lungenödem, Muskelrelaxanzüberhang, Opiatüberhang, Bronchospasmus, Verlegung der Atemwege (Schwellung?  Blutung?), PE?, Pneumothorax? Atelektasen? Erguss? Vorbestehende Erkrankung: COPD, Lungenfibrose,...
 - Schmerztherapie: zentrale Aufgabe im Aufwachraum; VAS \<5 Handlungsbedarf. Opiate, NSAR
 + RA + Lagerung/Kryotherapie (multimodales Schmerzkonzept)
-- PONV: vermehrt bei Frauen, Raucher, Reisekrankheit, Volatile A., Opioide, intraoperativer Kreislaufinstabilität. RA  +  TIVA!! Dexamethason 4mg iv. am Beginn der OP (2h bis Wirkungseintritt), 5 HT3-Antagonisten: Zofran (QT-Verlängerung, Interaktion mit Paracetamol, Tramadol) + Metoclopramid, DHB, Propofol
-- Nachblutung: Hals (Struma, Carotis, HWS), UE (Kompartment), Intraabdominell (bei PDA schmerzfrei!!!), Bülaudrainagen;  diffuse  =  eher Gerinnungsproblem (ROTEM, selektive Substitution), lokal = chirurgisches Problem.
-- Shivering  =  unwillkürliches Muskelzittern als Gegenregulation bei Temperaturabfall (gegenüber dem Sollwert) mit erhöhtem Energie und Sauerstoffverbrauch. Therapie: Wärme bzw. Wärmeverlust bei OP vermeiden, Clonidin 75-150µg iv.  , ev. Pethidin, Nalbuphin, Tramadol.
+- PONV: vermehrt bei Frauen, Raucher, Reisekrankheit, Volatile A., Opioide, intraoperativer Kreislaufinstabilität. RA + TIVA!! Dexamethason 4mg iv. am Beginn der OP (2h bis Wirkungseintritt), 5 HT3-Antagonisten: Zofran (QT-Verlängerung, Interaktion mit Paracetamol, Tramadol) + Metoclopramid, DHB, Propofol
+- Nachblutung: Hals (Struma, Carotis, HWS), UE (Kompartment), Intraabdominell (bei PDA schmerzfrei!!!), Bülaudrainagen;  diffuse = eher Gerinnungsproblem (ROTEM, selektive Substitution), lokal = chirurgisches Problem.
+- Shivering = unwillkürliches Muskelzittern als Gegenregulation bei Temperaturabfall (gegenüber dem Sollwert) mit erhöhtem Energie und Sauerstoffverbrauch. Therapie: Wärme bzw. Wärmeverlust bei OP vermeiden, Clonidin 75-150µg iv.  , ev. Pethidin, Nalbuphin, Tramadol.
 - Nierenfunktion? Harnmenge ev. Einmalkatheter bei SPA

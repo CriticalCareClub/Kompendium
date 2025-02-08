@@ -24,8 +24,8 @@ Kontraindikationen
 -----
 
 
-Hohe Lipidlöslichkeit (BHS  +  Plazentagängig), schwache Säure, bei Azidose vermehrt in nicht ionisiertem Zustand; hohe Proteinbindung;
-Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt  =  Kumulation  =  Elimination nach nicht linearer Kinetik (Zw. 300 und 600mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
+Hohe Lipidlöslichkeit (BHS + Plazentagängig), schwache Säure, bei Azidose vermehrt in nicht ionisiertem Zustand; hohe Proteinbindung;
+Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt = Kumulation = Elimination nach nicht linearer Kinetik (Zw. 300 und 600mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
 
 NW
 : periphere  venöse  Vasodilation, Verminderung des cardial Output (verm. Preload, venöses Pooling, negativ inotrop va. bei zu rascher Injektion, vorübergehender verminderter Sympathikusimpuls vom ZNS), Blutdruckabfall (10-20%) mit kompensatorischen HF-Anstieg (Aktivierung der Barorezeptoren im Carotissinus), Bronchospasmus.
@@ -45,7 +45,7 @@ Thiopental ist inkompatibel mit Rocuronium, Succinylcholin, Midazolam, Alfentany
 
 3-6fach so potent wie Diazepam, hohe Proteinbindung, zuerst wasserlöslich, aber im Blut schließt sich der Ring, und es wird lipophil.
 
-Hepatischer Metabolismus  über Hydroxylierung und CYTP450 (blockiert durch Diflucan, Verapamil, Erythromycin,...)  =  verzögerte Elimination beim leberkranken, geriatrischen, und septischen Patienten.
+Hepatischer Metabolismus  über Hydroxylierung und CYTP450 (blockiert durch Diflucan, Verapamil, Erythromycin,...) = verzögerte Elimination beim leberkranken, geriatrischen, und septischen Patienten.
 
 ### Lorazepam
 
@@ -114,7 +114,7 @@ Führt zu einer selektiven Hemmung neuronaler Funktionen im Cortex und Thalamus 
 (Prophylaxe des chron. Schmerzes), lokalanästhetische Wirkung und neuroprotektive Wirkung.
 Der zentrale Atemantrieb wird wenig beeinflusst. Bronchodilation.
 
-Bei Kindern Atemregulation (CO2-Response) beeinflusst  +  Gefahr des Laryngospasmus durch Speichelfluss!
+Bei Kindern Atemregulation (CO2-Response) beeinflusst + Gefahr des Laryngospasmus durch Speichelfluss!
 Daher keine Anwendung bei Kleinkindern und Säuglingen.
 
 Ketamin stimuliert den Sympathikus durch Hemmung der NA-Wiederaufnahme = Anstieg von HF, RR, CO nicht dosisabhängig!
@@ -225,7 +225,7 @@ Prävention:
 - Regelmäßige Laborkontrollen
 - Ev. Präventive Gabe von Glukose
 
-Propofol: In Eiphospatid und Sojaöl gelöst! (Fettzufuhr: 1ml 1%  =  0,1g Fett!) Stimuliert GABA-
+Propofol: In Eiphospatid und Sojaöl gelöst! (Fettzufuhr: 1ml 1% = 0,1g Fett!) Stimuliert GABA-
 Rezeptor und damit Freisetzung von Glutamat, sowie den Natriumkanal-abhängigen Natriumeinstrom in die Zelle. Wird in der Leber konjungiert und zu 88%  über die Niere ausgeschieden. Ausgeprägter Firstpass-Effekt in der Lunge. Wirkdauer 4-6min, HWZ 55min (2%
 länger! Größeres Verteilungsvolumen), Bronchodilatatorisch ab 2,5mg/kg, Antiemetisch
 (unspezifische Wirkung auf 5HT3-Rezeptor und verminderte Serotoninfreisetzung im ZNS)

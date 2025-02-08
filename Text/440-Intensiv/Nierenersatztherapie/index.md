@@ -41,7 +41,7 @@ so kommt man auf ein tatsächliches Verhältnis von 1:3 (Blutfluss ist dreimal s
 
 Dialysatfluss!) Die Zugabe von Trinatriumcitrat erfolt patientennahe direkt beim abgehenden Schenkel. CaCl2 wird patientennahe direkt beim rückführenden Schenkel zugeleitet.
 
-Bsp Start: Dialysefluss 35ml/kg 20:1 zum Blutfluss (  =  1,75 ml/kg), Citratdosis 4,0mmol/l,
+Bsp Start: Dialysefluss 35ml/kg 20:1 zum Blutfluss ( = 1,75 ml/kg), Citratdosis 4,0mmol/l,
 Calciumdosis 1,7mmol/l Entzug: 100ml/h Postfilterkalzium 0,25-0,34mmol/l: wenn zu nieder Citratdosis reduzieren,...
 - Kalziumanpassung erfolgt über Minuten!!
 Systemisches Kalzium 1,12-1,20mmol/l: wenn zu nieder Calciumdosis erhöhen,...

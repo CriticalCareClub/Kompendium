@@ -1,4 +1,4 @@
-```{index} pair: OP; TUR-P 
+```{index} pair: OP; TUR-P
 ```
 ```{index} pair: OP; Prostata, transurethrale Resektion
 ```
@@ -151,7 +151,7 @@ Erstmaßnahme:
 - Benzodiazepine (Agetiertheit, Krampfneigung)
 - Natriumkorrektur mit 3% NaCL (max. 100ml/h) Zielwert: 125 mmol/l
 
-Natriumkorrektur muss langsam erfolgen sonst  pontine Myelinolyse  =  Demyelinisierung im Stammhirn mit Störung der zentralen vegetativen Regulationsmechanismen.
+Natriumkorrektur muss langsam erfolgen sonst  pontine Myelinolyse = Demyelinisierung im Stammhirn mit Störung der zentralen vegetativen Regulationsmechanismen.
 Klinik: 3 Tage nach Na-Korrektur von Müdigkeit, Verwirrtheit bis Koma, Gangunsicherheit bis Tetraparese und Atemlähmung, Schluckstörung.
 Diagnostik: Anamnese, evozierte Potentiale AEP, MRI, Liquorpunktion zum Ausschluss von Infektion Therapie: Symptomatisch Max. 12mmol/24h heben (häufige Laborkontrolle!!) = max. 0,5mmol/h!
 

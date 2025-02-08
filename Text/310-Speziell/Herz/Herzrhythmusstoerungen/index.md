@@ -250,9 +250,9 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 ₢ WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo), {term}`ℓ CC BY-SA 4.0`
 :::
 
-```{index} single: Tachykardie; FBI- 
+```{index} single: Tachykardie; FBI-
 ```
-```{index} single: Tachykardie; unregelmäßige Breitkomplex- 
+```{index} single: Tachykardie; unregelmäßige Breitkomplex-
 ```
 ```{index} single: FBI-Tachykardie
 ```
@@ -805,12 +805,12 @@ Instabiler Patient:
 
 Stabiler Patient:
 - ohne bedrohliche Symptome oder Verschlechterung: 12 Kanal EKG Analyse ob Schmal oder Breitkomplextachykardie (QRS\>120ms).
-- VT oder SVT mit Schenkelblock  =  regelmäßige Breitkomplextachykardie. Th: Sedacoron 300mg loading dose + 900mg über 24h
-- VHF mit Schenkelblock oder WPW-Syndrom  =  unregelmäßige BKT. Th: Kardioversion, Sedacoron. Bei WPW-Syndrom KEIN Adenosin, Diltiazem, Verapamil, Digoxin da diese den AV-Knoten blockieren und das Syndrom nur verstärken.
-- polymorphe VT (Torsades de pointes)  =  unregelmäßige BKT. Th: Alle QT-verlängerten Medikamente absetzten, Elektrolytstörungen korregieren, 2g Magnesium iv.
-- AV-Knoten-Reentry-Tachykardie  =  regelmäßige Schmalkomplextachykardie, häufigster Typ der SVT. Th: Karotis-Sinus-Massage, Valsalva-Manöver,    6mg Adenosin-Bolus (12/12), Kardioversion, Diltiazem/Verapamil (wirken länger am AV-Knoten)
-- WPW mit artioventrikulärer Reentrytachykardie  =  regelmäßige SKT. Th: Karotis-Sinus-Massage, Valsalva-Manöver, 6mg Adenosin-Bolus (12/12), Kardioversion.
-- Vorhofflattern mit 2:1 Block  =  regelmäßige SKT mit typischerweise HF 150/min. Th:
+- VT oder SVT mit Schenkelblock = regelmäßige Breitkomplextachykardie. Th: Sedacoron 300mg loading dose + 900mg über 24h
+- VHF mit Schenkelblock oder WPW-Syndrom = unregelmäßige BKT. Th: Kardioversion, Sedacoron. Bei WPW-Syndrom KEIN Adenosin, Diltiazem, Verapamil, Digoxin da diese den AV-Knoten blockieren und das Syndrom nur verstärken.
+- polymorphe VT (Torsades de pointes) = unregelmäßige BKT. Th: Alle QT-verlängerten Medikamente absetzten, Elektrolytstörungen korregieren, 2g Magnesium iv.
+- AV-Knoten-Reentry-Tachykardie = regelmäßige Schmalkomplextachykardie, häufigster Typ der SVT. Th: Karotis-Sinus-Massage, Valsalva-Manöver,    6mg Adenosin-Bolus (12/12), Kardioversion, Diltiazem/Verapamil (wirken länger am AV-Knoten)
+- WPW mit artioventrikulärer Reentrytachykardie = regelmäßige SKT. Th: Karotis-Sinus-Massage, Valsalva-Manöver, 6mg Adenosin-Bolus (12/12), Kardioversion.
+- Vorhofflattern mit 2:1 Block = regelmäßige SKT mit typischerweise HF 150/min. Th:
 Sedacoron + Kardioversion bei bedrohlichen Symptomen, ansonsten medikamentöse Frequenzkontrolle (Betablocker, Diltiazem) und Herzrhythmuskontrolle (Sedacoron, Lanitop, Digoxin), ev. Kardioversion und vorallem Antikoagulation (OAK), wenn das VHF bereits länger als 48h besteht (Thrombus Herzohr! Keine Kardioversion vor Antikoagulation)
 
 :::{table} Einteilung der Antiarrhytmika

@@ -94,8 +94,8 @@ Management der chirurgischen Versorgung
 
 Pathophysiologie des Polytraumas
 - Ischämie und Reperfusion: Blutverlust mit Hypotonie und Perfusionsabnahme  =
-  Zentralisation/Schock  =  Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
-  Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion = Einschwemmen von vasoaktiven Substanzen in den Kreislauf mit Hypotonie  +  Entstehen von Sauerstoffradikalen welche Tightjunctions schädigen, erhöhte NO-Produktion durch TNFα, Aktivierung des Komplimentsystems mit DIC.
+  Zentralisation/Schock = Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
+  Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion = Einschwemmen von vasoaktiven Substanzen in den Kreislauf mit Hypotonie + Entstehen von Sauerstoffradikalen welche Tightjunctions schädigen, erhöhte NO-Produktion durch TNFα, Aktivierung des Komplimentsystems mit DIC.
   Das Ausmaß ist vom Ausmaß der Ischämie und der Dauer der Reperfusionsphase abhängig.
 - Weichteiltrauma:    mit Schmerz, Blutung/Hämatom mit lokaler Mediatorfreisetzung und Fernwirkung der Mediatoren.
 - Immunversagen: Rascher Verbrauch der humoralen und zellulären Komponenten des Abwehrsystems.

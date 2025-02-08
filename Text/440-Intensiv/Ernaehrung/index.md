@@ -8,15 +8,15 @@ Grundvoraussetzung = mögliche Steigerung der Splanchnikusdurchblutung!
 Je nach Schwere der Erkrankung und vorbestehender Mangelernährung sollte am 2-5 Tag mit Ernährung begonnen werden. (Gewichtsverlust beachten nicht nur BMI)
 - Aggressionsphase: antiinsulinäre Faktoren
 überwiegen = Ernährung kontraindiziert
-- Postaggressionsphase: Insulin supprimiert antiins. F.  =  minimale Ernährung, langsamer Aufbau
-- Rekonvaleszenzphase: Insulin dominiert, antiinsulinäre Faktoren sind normalisiert  =  volle Ernährung angepasst an die Motilität
+- Postaggressionsphase: Insulin supprimiert antiins. F. = minimale Ernährung, langsamer Aufbau
+- Rekonvaleszenzphase: Insulin dominiert, antiinsulinäre Faktoren sind normalisiert = volle Ernährung angepasst an die Motilität
 
 Faustregel: immobile Patienten 20-25kcal/KG + mobile Patienten 25-35kcal/kg
 
 Bei BMI\>30 wird auf das Normalgewicht, während bei untergewichtigen Personen aufs tatsächliche Gewicht Bezug genommen wird. Ein erhöhter Proteinbedarf besteht bei chronisch entzündlichen Darmerkrankungen, schwerer Pankreatitis, Leberzirrhose, Verbrennungen und postoperativ.
 Erhöhter Bedarf bei:
 x 1,2 bei Sepsis, Peritonitis Polytrauma, Verbrennung Reduzierung bei:
-Schwere Störung der GI-Motilität  +  Störung der Glukoseverwertung  =  BUN\>30mg/dl/d  +
+Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\>30mg/dl/d  +
 Hypertriglyceridämie \> 350mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
 Eiweiß
 
@@ -32,7 +32,7 @@ Daher Zottenernährung: 20ml/h
 Fett: (1g = 9,3kcal) Abbau von FS durch β-Oxidation in den Mitochondrien va in der Leber, freie FS
 -- Acyl-CoA -- Acetyl-CoA -- Citratzyklus zu CO2+ATP + Überschuss zu Ketonkörper Fettsäuresynthese in der Leber im Zytoplasma: wichtigste Vorstufe ist Glucose (aber auch AS) mit Hilfe von FS-Synthase unter CO2-Produktion zu Tricylglycerolen umgewandelt und als VLDL
 (Lipoproteine) ins Blut freigesetzt.
-KH: 1g  =  (4 kcal) Darm zu Monosaccariden abgebaut und resorbiert, Transportform Glucose,
+KH: 1g = (4 kcal) Darm zu Monosaccariden abgebaut und resorbiert, Transportform Glucose,
 Abbau von Leberglycogen zur Aufrechterhaltung des Blutzuckerspiegels und Gluconeogenese in der Leber (Aus AS, Lactat, Glycerol)
 Protein: (1g = 4kcal) im MDT zu AS abgebaut und resorbiert, AS können nicht gespeichert werden,
 ständige Proteinsynthese und Proteolyse (durch Proteinasen). AS werden vorwiegend in der Leber abgebaut (Aminostickstoff wird vor allem in Form von Glutamin und Alanin im Blut zur Leber transportiert), dabei wird Ammoniak NH3    freigesetzt. Dieser wird nur in der Leber zur Ausscheidung in Harnstoff umgewandelt.
@@ -84,7 +84,7 @@ Spätestens am 3-4 postoperativen Tag müssen Darmgeräusche nachweisbar sein. �
 (POI = postoperativer Immotilität?)
 Ursache: Sofortreaktion mit neurohumoraler Aktivierung und Sympatikusstimulation durch Stress bei OP und Spätreaktion mit Inflammationsreaktion, reduzierter muskulärer Funktion und Downregulation von Motilin, Opioide oder Katecholamingaben beeinflussen direkt die Darmmuskulatur. Keine prophylaktischen Prokinetika bei POI und Intensivpatienten ohne Risikokonstellation.
 Komplikationen: intraluminale Flüssigkeitszunahme mit verstärkter Gasbildung mit intraluminaler Druckerhöhung und Distention der Darmwand = Verminderte Perfusion und Darmwandödem mit Störung der immunologischen und Barrierefunktion des Darms
-= Darm als Motor des MOF! Durch Tranlokation von Mikroorganismen durch die Darmwand mit Endotoxinämie, welche Zytokine aktiviert mit Steigerung der Permeabilität  =  toxisches oder septisches Zustandsbild.  =  Akutes Abdomen mit Peritonitis, Sepsis und Volumenmangel bei Paralytischem Ileus.
+= Darm als Motor des MOF! Durch Tranlokation von Mikroorganismen durch die Darmwand mit Endotoxinämie, welche Zytokine aktiviert mit Steigerung der Permeabilität = toxisches oder septisches Zustandsbild. = Akutes Abdomen mit Peritonitis, Sepsis und Volumenmangel bei Paralytischem Ileus.
 
 ## 37.4. Gastroparese *
 
@@ -94,7 +94,7 @@ Klinik: erhöhte RM, Völlegefühl,
 Aufstoßen, Übelkeit, Erbrechen,...
 Die Entleerung von Flüssigkeit ist oft normal, aber die Entleerung von fester Nahrung ist gestört.
 Therapie: kleine häufigere Mahlzeiten, eher flüssig als fest, fett und faserarm, Blutzucker normalisieren, Prokinetika mit Beginn der Ernährung starten (Metoclopramid, Domperidon)  +
-Makrolid AB (Erythromycin)  +  Naloxon po (Relistor®)  +  Neostigmin (Acetylcholinesteralse-
+Makrolid AB (Erythromycin) + Naloxon po (Relistor®) + Neostigmin (Acetylcholinesteralse-
 Inhibitator).
 
 
@@ -109,7 +109,7 @@ Diagnose: Duplexsonographie
 (besonders bei forcierter Einatmung), CT-Angio
 
 Steuerung der Darmmotilität über das ex- und intrinsische NS und gastrointestinale Hormone:
-- Intrinsisches Nervensystem: Plexus myentericus Auerbach zwischen Längs und Ringmuskulatur und der Plexus submucosus Meissner in der Submukosa  =  Transport und Mischvorgänge.
+- Intrinsisches Nervensystem: Plexus myentericus Auerbach zwischen Längs und Ringmuskulatur und der Plexus submucosus Meissner in der Submukosa = Transport und Mischvorgänge.
 - Extrinsisches NS: Parasympatikus (Vagus, N.sacrales) und Sympathikus (thorakolumbaler Grenzstrang, Nn. Splanchnici)
 - GI-Hormone: werden durch Mechano-  und Chemorezeptoren der Magen-  und Darmschleimhaut freigesetzt: Stimulierend sind Gastrin, Motilin, Cholezystokinin, Thyroxin.
 Hemmend wirken Sekretin, Glukagon, Somatostatin,...
@@ -134,6 +134,6 @@ Verwirrtheit, Parästhesien, Krämpfe, Koma.
 Therapie: sorgfältiges Ernährungsmanagement, engmaschiges Monitoring, Prophylaxe Untergewichtige Personen nach tatsächlichem Gewicht berechnen!
 
 Enteraler Kostaufbau:
-Early feeding Duodenalsonde: kein Bolus nur kontinuierliche Gabe, gleiche Produkte wie Magensonde: z.B. Isosource faser neutral 60/250/500/750/1000ml/Tag steigern  +  Ensure Plus 2x200ml am 6 Tag, dann chir. Kostaufbau möglich
+Early feeding Duodenalsonde: kein Bolus nur kontinuierliche Gabe, gleiche Produkte wie Magensonde: z.B. Isosource faser neutral 60/250/500/750/1000ml/Tag steigern + Ensure Plus 2x200ml am 6 Tag, dann chir. Kostaufbau möglich
 + Tee oder Mineralwasser
 

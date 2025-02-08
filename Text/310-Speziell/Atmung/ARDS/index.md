@@ -121,7 +121,7 @@ Voraussetzung für Messung des UIP und OIP
 
 Bestimmung des UIP
 : - PEEP-Steigerung in 2 mbar Schritten bis mind. 14
-  - nach immer 5 bis 10 Atemzügen Compliance  =  VT/Plateaudruck minus PEEP aufschreiben,
+  - nach immer 5 bis 10 Atemzügen Compliance = VT/Plateaudruck minus PEEP aufschreiben,
   - das PEEP-Niveau mit der besten Compliance ist der UIP (normal 1,5ml/mbar/kg, ca. 100, bei ARDS oft 20-30)
 
 
@@ -138,7 +138,7 @@ Rekruitmentmanöver
   1) Nach **Lachmann**: PCV mit 50-60 Plateaudruck und  \>  20 PEEP für 5-15 Atemzüge mit anschließendem decremental/absteigendem PEEP TRIAL für UIP
   2) **CPAP-Rekr.**: Kontinuierliche Blähung mit 40-60mbar für 20-30 sec. (bevorzugtes Manöver)
   3) **Intermitt. Seufzer**: 3 Atemzüge mit 45mbar/min
-  4) **Verlängerte Seufzer**: stufenweise Steigerung bis auf 40mbar  +  PEEP bis 30mbar für mehrere Minuten
+  4) **Verlängerte Seufzer**: stufenweise Steigerung bis auf 40mbar + PEEP bis 30mbar für mehrere Minuten
 
 Komplikationen
 : Blutdruckabfall mit akuter Rechtsherzbelastung, Bradykardie, SaO2-Abfall, ICP-

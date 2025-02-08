@@ -5,7 +5,7 @@
 Gefahren:
 - Hämodynamische Instabiliät: Anämie wird durch Hypovolämie verschleiert. Schock wird durch erhöhten Sympatikotonus verschleiert und demaskiert sich beim Einleiten! Problem Flüssigkeitsverlust in den Darm (Ileus), in den dritten Raum (Sepsis) und bei Blutungen.
 - Aspirationsgefahr: durch verzögerte Magenentleerung (Ileus, Stenosen, Aszites, Adipositas,
-SS)  +  bei Stress, Schmerz und vorbestehendem Reflux, sowie Opioide! Notfall NICHT NÜCHTERN!
+SS) + bei Stress, Schmerz und vorbestehendem Reflux, sowie Opioide! Notfall NICHT NÜCHTERN!
 Einleitung: RSI mit OK-Hochlagerung, Magensonde vor Einleitung
 
 Introperative Anästhieführung: AN mit Relaxierung, AN + PDA
@@ -21,8 +21,8 @@ Azidose mit Rechtsverschiebung verbessert die Gewebeoxygenierung!)
 Erweitertes Monitoring bei Risikopatienen: Frühzeitige Einsatz von Vasopressoren und Inotropika!
 Relaxierung immer mit TOF! Extubation TOF \>0,9 Notfallantagonisierung (Cannot intubat  --  cannot ventilate, Risikopat): 2-4-16 mg/kg Sugammadex/Bridion
 
-Perioperativer Flüssigkeitsbedarf Ziel  =  Normovolämie für hämodynamische Stabilität, optimale Mikrozirkulation und Organfunktion.
-Präoperative Defizite ausgleichen (präoperative Hypovolämie vermeiden)  +  intraoperative Verluste (Blutung,...)  +  postoperativ weitere Verluste durch capillary leak/Dekompensation zu erwarten?
+Perioperativer Flüssigkeitsbedarf Ziel = Normovolämie für hämodynamische Stabilität, optimale Mikrozirkulation und Organfunktion.
+Präoperative Defizite ausgleichen (präoperative Hypovolämie vermeiden) + intraoperative Verluste (Blutung,...) + postoperativ weitere Verluste durch capillary leak/Dekompensation zu erwarten?
 
 Folgen Hypervolämie: Lungenödem, Anastomose heilt schlecht durch  ödematöses Gewebe,
 spätere Erholung der Darmmotilität, längerer KH-Aufenthalt.
@@ -58,7 +58,7 @@ Flüssigkeitsverlust vor Einleitung korregieren!
 Hypoclorämische/hypokaliämische Alkalose? Azidose durch Dehydration? RSI nach Absaugen der Magensonde! Vasopressoren bereithalten; AB
 (Tazonam (Piperacillin/Tazobactam + Diflucan?)
 
-CAVE Eventerationssyndrom  =  Zug am Mesenterium/Darmmobilisierung führt zu Flush,
+CAVE Eventerationssyndrom = Zug am Mesenterium/Darmmobilisierung führt zu Flush,
 Tachykardie,
 Hypotension durch Prostazyklin-Freisetzung,
 Therapie:
@@ -135,15 +135,15 @@ Erweitertes Monitoring, gute Zugänge! Cell-Saver! Perfusoren mit Vasopressoren 
 
 Cross-Clamping: beim Klemmen der Aorta  steigt Afterload mit Hypertension proximal der Klemme mit Gefahr des Linksherzversagens und Hypotension/Hypoperfusion distal der Klemme.
 Volumenstatus und kardiale Pumpfunktion entscheiden! Maßnahmen: Antihypertensiva:
-Nitroperfusor  =  Nitroglycerin 1:10 (muss beim  Öffenen wieder weg sein), MAC steigern, PEEP steigern bis 10, ev. Inotropika bei Linksherzversagen.
-Suprarenale Klemmung  =  Nieren ohne Blutversorgung! Aber auch Verminderte Nierendurchblutung wenn die Klemmen infrarenal gesetzt sind, durch Vasospasmus der Nierenarterie. (Oligo/Anurie) mit Aktivierung des RAAS mit erhöhten Renin und Angiotensinspiegeln intra- und postoperativ, die zur kardiovaskolären Instabilität beitragen.
+Nitroperfusor = Nitroglycerin 1:10 (muss beim  Öffenen wieder weg sein), MAC steigern, PEEP steigern bis 10, ev. Inotropika bei Linksherzversagen.
+Suprarenale Klemmung = Nieren ohne Blutversorgung! Aber auch Verminderte Nierendurchblutung wenn die Klemmen infrarenal gesetzt sind, durch Vasospasmus der Nierenarterie. (Oligo/Anurie) mit Aktivierung des RAAS mit erhöhten Renin und Angiotensinspiegeln intra- und postoperativ, die zur kardiovaskolären Instabilität beitragen.
 Rückenmarksarterien gehen normalerweise oberhalb der Nierenarterie weg. Oft jedoch auch an anderer Stelle = Gefahr der Querschnittlähmung!
 
 
 Öffnen der Klemmen: Gefahr Volumen versackt in UE, Nachlast sinkt bei reduziertem preload
-(wenn zu schnell schlägt das Herz leer!) = declamping shock! Maßnahmen: Volumenloading mit Ziel ZVD 7-11 mit RL, Rechtzeitiges Beenden des Nitroglycerin-Perfusor  +  MAC Reduzierung,
+(wenn zu schnell schlägt das Herz leer!) = declamping shock! Maßnahmen: Volumenloading mit Ziel ZVD 7-11 mit RL, Rechtzeitiges Beenden des Nitroglycerin-Perfusor + MAC Reduzierung,
 Schrittweises  Öffnen der Klemmen durch den Chirurgen, Vasopressoren, Inotropika, NaBIC zum Azidoseausgleich, wenn nach 2h immer noch zu wenig Harn Lasixgabe.
-Problem Einschwemmen = Ischämie/Reperfusions-Syndrom mit Einschwemmen von vasoaktiven metabolischen Substanzen und Toxinen mit akuter Vasodilatation  =  Hypotonie, Tachykardie,
+Problem Einschwemmen = Ischämie/Reperfusions-Syndrom mit Einschwemmen von vasoaktiven metabolischen Substanzen und Toxinen mit akuter Vasodilatation = Hypotonie, Tachykardie,
 ARDS,... Bei chronischen Verschlüssen oft Umgehungskreisläufe mit wenig hämodynamischem Effekt. (Leriche Syndrom!)
 Postoperativ: Nachbeatmung bei Hypothermie/Hypovolämie, Volumenkorrektur.
 
@@ -166,7 +166,7 @@ respiratorische Insuffizienz, ANV (Prophylaxe: Flüssigkeit, Lasix)
 Dissektion:
 Erstmaßnahmen: Bettruhe + Analgesie, Blutdrucksenken (Urapidil/Hypotrit, Brevibloc/Esmolol) +
 C/P, TEE, CT, MRT, Angio + EK´s kreuzen.
-Ao.asc. Dissektion: Problem das Coronarostien verschlossen werden  =  Myokardinfarkt,
+Ao.asc. Dissektion: Problem das Coronarostien verschlossen werden = Myokardinfarkt,
 Einblutung ins Pericard mit Herzbeuteltamponade (massive Tachykardie mit Hypotonie) siehe Herz!
 
 

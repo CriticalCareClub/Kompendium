@@ -19,7 +19,7 @@ Benzodiazepinüberdosierung: Praxiten, Somnobene (blaue Lippen), Xanor, Psychopa
 Komplikationen:
 - Hypoxisches Hirnödem
 - Evacuo-Lungenödem: tiefe bradypnoe Atemzüge mit massiv neg. intrathor. Druck: CPAP!!!kein Lasix!!! = Hypoxämie, rasselnde AG
-- Crush Niere bei Kompartmentsyndrom (K  +  CK massiv erhöht)  +  Hypotonie LAGERUNGSSCHÄDEN GENAU INSPIZIEREN!!!! Fasciotomie, Nekrosektomie
+- Crush Niere bei Kompartmentsyndrom (K + CK massiv erhöht) + Hypotonie LAGERUNGSSCHÄDEN GENAU INSPIZIEREN!!!! Fasciotomie, Nekrosektomie
 - Herzstillstand durch Hyperkaliämie
 
 
@@ -97,7 +97,7 @@ NSAR-Intoxikation
 Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  Übelkeit, Erbrechen, heftige Bauchschmerzen (PGE2 Mangel), metabolische Azidose, ANV (verminderte renale Vasodilation).
 
 
-Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10g  =  20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
+Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10g = 20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
 
 CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
 =  240 x höhere Affinität zu Hb als O2 (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;

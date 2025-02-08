@@ -96,7 +96,7 @@ Nach 3-5 Tagen wiederholen!
 
 
 Prävention der ersten Blutung bzw. Reblutung:
-- Kleine Varizen  +  red wale marks oder Child C: Betablocker z.B. Carvedilol max 12,5mg/Dilatrend (wenig kardiosensitiv)
+- Kleine Varizen + red wale marks oder Child C: Betablocker z.B. Carvedilol max 12,5mg/Dilatrend (wenig kardiosensitiv)
 - Große Varizen über 5mm: Banding oder Betablocker
 - TIPS bei Rezidivblutung bei Hochrisikopatienten
 - LTX Evaluation

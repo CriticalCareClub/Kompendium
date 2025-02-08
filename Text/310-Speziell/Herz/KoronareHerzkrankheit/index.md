@@ -14,7 +14,7 @@ Kaskade: Gefäßverengung -- Metabolische Veränderungen -- Diastolische Fkt.st�
 
 Postoperativ häufiger MCI als prä- oder intraoperativ; \>50% klinisch stumm, meist innerhalb der ersten 24h, verschlechtern Outcome! Diagnose: Herzenzyme, EKG, TTE (siehe postoperativer MCI)
 
-Therapie: Coronarangiographie mit Dilatation oder Stent  +  Duale Plättchentherapie  +  Statin+ Betabl.
+Therapie: Coronarangiographie mit Dilatation oder Stent + Duale Plättchentherapie + Statin+ Betabl.
 
 
 ::::{only} not nosidebar

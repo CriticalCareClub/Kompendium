@@ -34,7 +34,7 @@ Konservative Therapie:
   (Betablocker,
   Amiodaron,
   Kardioversion),
-  AV-Block IIa Atropin/Isoprenslin, AV-Block IIb + III passagerer SM Phosphodiesterasehemmer  =  Inodilatator  =  positiv Inotrop  +  Vasodilatation mit Senken des Afterload
+  AV-Block IIa Atropin/Isoprenslin, AV-Block IIb + III passagerer SM Phosphodiesterasehemmer = Inodilatator = positiv Inotrop + Vasodilatation mit Senken des Afterload
 
 
 Monitoring:

@@ -146,7 +146,9 @@ Taktik
 ```
 ```{index} single: Serienrippenfraktur
 ```
-```{index} single: Fraktur; Rippen- single: Fraktur; Serienrippen-
+```{index} single: Fraktur; Rippen- 
+```
+```{index} single: Fraktur; Serienrippen-
 ```
 
 ## Rippenfraktur, Serienrippenfraktur und instabiler Thorax

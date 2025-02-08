@@ -30,8 +30,7 @@ Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infar
 
 :::{admonition} Definition
 
-Das {dfn}`Akute Koronarsyndrom`
-(*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
+Das {dfn}`Akute Koronarsyndrom` (*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
 :::
 
 Bei diesen Krankheitsbildern kommt es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und Sauerstoff aufgrund der Durchblutungsstörung.
@@ -199,7 +198,11 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
 Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`) und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
 
-```{index} pair: STEMI-Kriterien; EKG pair: Hauptstammbild; EKG pair: CX-Infarkt; EKG
+```{index} pair: STEMI-Kriterien; EKG 
+```
+```{index} pair: Hauptstammbild; EKG 
+```
+```{index} pair: CX-Infarkt; EKG
 ```
 
 ### STEMI-Kriterien
@@ -419,7 +422,11 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
     und 50—70 IU / kg mit  GP IIb/IIIa-Inhibitor empfohlen,
     somit ergibt sich eine Schnittmenge von **70 IU / kg i. v.** (IC).
 
-```{index} single: P2Y₁₂ single: P2Y₁₂-Inhibitor
+
+
+```{index} single: P2Y₁₂ 
+```
+```{index} single: P2Y₁₂-Inhibitor
 ```
 ```{index} single: Ticagrelor; ACS
 ```
@@ -465,7 +472,19 @@ Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 - (AT-II-Inhibitoren)
 - (Statine)
 
-```{index} single: STEMI (Therapie) single: GP IIb/IIIa-Inhibitor (STEMI) single: Ticagrelor (STEMI) single: Brilique® (STEMI) single: Heparin (STEMI) single: ASS  (STEMI) single: PCI (STEMI)
+```{index} single: STEMI (Therapie) 
+```
+```{index} single: GP IIb/IIIa-Inhibitor (STEMI) 
+```
+```{index} single: Ticagrelor (STEMI) 
+```
+```{index} single: Brilique® (STEMI) 
+```
+```{index} single: Heparin (STEMI) 
+```
+```{index} single: ASS  (STEMI) 
+```
+```{index} single: PCI (STEMI)
 ```
 
 ### ℞ Therapiestrategie *STEMI mit Primär-PCA*
@@ -488,9 +507,15 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 - **Ticagrelor** (Brilique®) 180 mg p. o.
 
-```{index} single: Lyse (STEMI) single: Metalyse® single: Tenecteplase
+```{index} single: Lyse (STEMI) 
 ```
-```{index} single: STEMI (Lyse) single: Lyse, Kontraindikationen
+```{index} single: Metalyse® 
+```
+```{index} single: Tenecteplase
+```
+```{index} single: STEMI (Lyse) 
+```
+```{index} single: Lyse, Kontraindikationen
 ```
 ```{index} single: Kontraindikationen, Lyse
 ```
@@ -526,8 +551,7 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 ```
 
 Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
-{abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)`
-*so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
+{abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)` *so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
 
 - Schmerztherapie:
   z. B. **Morphin** i. v., titriert in 2—5 mg-Schritten

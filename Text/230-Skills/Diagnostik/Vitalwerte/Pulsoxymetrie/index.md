@@ -2,7 +2,9 @@
 ```
 ```{index} single: Pulsoxymetrie
 ```
-```{index} single: SpO₂ single: Pulsoxymeter
+```{index} single: SpO₂ 
+```
+```{index} single: Pulsoxymeter
 ```
 
 (pulsoxymetrie)=

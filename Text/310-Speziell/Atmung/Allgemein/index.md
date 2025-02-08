@@ -1,6 +1,8 @@
 ```{index} single: Ateminsuffizienz
 ```
-```{index} single: Insuffizienz; Atem- single: Dyspnoe
+```{index} single: Insuffizienz; Atem- 
+```
+```{index} single: Dyspnoe
 ```
 ```{index} single: Apnoe
 ```

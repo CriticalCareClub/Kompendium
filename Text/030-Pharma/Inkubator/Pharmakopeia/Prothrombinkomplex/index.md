@@ -1,6 +1,8 @@
 ```{index} single: Prothrombin-Komplex
 ```
-```{index} single: Prothromblex® single: Beriplex®
+```{index} single: Prothromblex® 
+```
+```{index} single: Beriplex®
 ```
 
 # Prothrombin-Komplex

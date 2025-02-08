@@ -118,7 +118,9 @@ Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle
 ```
 ```{index} single: median
 ```
-```{index} single: Medianebene; in der --- single: dexter
+```{index} single: Medianebene; in der --- 
+```
+```{index} single: dexter
 ```
 ```{index} single: rechts
 ```

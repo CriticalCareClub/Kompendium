@@ -4,13 +4,9 @@ Als Reanimation werden Wiederbelebungsmaßnahmen im Falles eines Kreislaufstills
 Die korrekte und routinierte Durchführung der Reanimation hat großen Einfluss auf das Überleben des Patienten bzw. seine Lebensqualität nach der Entlassung aus der Spitalsbehandlung.
 Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering.
 
-Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität und dem Anwender (Laie, nicht-ärztliches und ärztliches Fachpersonal)
-in **Basic Life Support** (**BLS**)
-und **Advanced Life Support** (**ALS**), und nach der Altersgruppe
-(Erwachsene, Kinder, Neugeborene) unterschieden, von dieser GLiederung möchten wir hier absehen und einen integrativen Ansatz wählen.
+Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität und dem Anwender (Laie, nicht-ärztliches und ärztliches Fachpersonal) in **Basic Life Support** (**BLS**) und **Advanced Life Support** (**ALS**), und nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden, von dieser GLiederung möchten wir hier absehen und einen integrativen Ansatz wählen.
 Ausgehend von der Reanimation eines erwachsenen Patienten werden wir die Reanimation auf Basis der grundsätzlichen **Säulen der Reanimationstherapie** besprechen.
-Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene)
-und die Notwendigen Abweichungen werden basierend darauf in eigenen Kapiteln behandelt.
+Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene) und die Notwendigen Abweichungen werden basierend darauf in eigenen Kapiteln behandelt.
 
 (erc-reanimation)=
 
@@ -18,7 +14,11 @@ und die Notwendigen Abweichungen werden basierend darauf in eigenen Kapiteln beh
 ```
 ```{index} single: European Resuscitation Council
 ```
-```{index} single: Resuscitation (Journal) single: Journal; Resuscitation pair: Guidelines; ERC
+```{index} single: Resuscitation (Journal) 
+```
+```{index} single: Journal; Resuscitation 
+```
+```{index} pair: Guidelines; ERC
 ```
 
 ## Hintergrund: ERC-Leitlinien
@@ -36,13 +36,10 @@ Die für die Reanimation in Europa maßgebliche Fachgesellschaft ist das {dfn}`*
 Das ERC veröffentlicht alle fünf Jahre aktualisierte Guidelines zur Reanimation und verwandter Gebiete (*ERC-Guidelines*).
 Die Guidelines definieren *nicht* den einzig richtigen Weg wie eine Reanimation ablaufen muss, allerdings sind sie als weithin akzeptierte Ansicht zu verstehen, wie diese sicher und effektiv durchgeführt werden kann.
 Jeder neuen Auflage geht ein aufwendiger Forschungs- und Diskussionsprozess voraus: Es werden hunderte Studien mit vielen verschiedenen Fragestellungen an vielen Forschungszentren auf der ganzen Welt durchgeführt, die Ergebnisse ausgewertet und anschließend diskutiert.
-Die derzeit aktuelle Version der ERC-Guidelines wurde, aufgrund der SARS-CoV-2-Pandemie um ein Jahr verspätet, im Jahr **2021** veröffentlicht
-(*ERC 2020/2021*, {term}`♛ ERC 2021 01`), die nächste Aktualisierung ist im Jahr 2025 zu erwarten.
+Die derzeit aktuelle Version der ERC-Guidelines wurde, aufgrund der SARS-CoV-2-Pandemie um ein Jahr verspätet, im Jahr **2021** veröffentlicht (*ERC 2020/2021*, {term}`♛ ERC 2021 01`), die nächste Aktualisierung ist im Jahr 2025 zu erwarten.
 
-Die ERC-Leitlinien werden im Journal *Resuscitation* publiziert und können sowohl von der [Homepage des Journals](https://www.resuscitationjournal.com/)
-als auch der [ERC](https://erc.europa.eu/) kostenlos heruntergeladen werden.
-Eine deutsche Übersetzung ist auf den Homepages der deutschen und der
-österreichischen Fachgesellschaften verfügbar[^footnote-1].
+Die ERC-Leitlinien werden im Journal *Resuscitation* publiziert und können sowohl von der [Homepage des Journals](https://www.resuscitationjournal.com/) als auch der [ERC](https://erc.europa.eu/) kostenlos heruntergeladen werden.
+Eine deutsche Übersetzung ist auf den Homepages der deutschen und der österreichischen Fachgesellschaften verfügbar[^footnote-1].
 
 [^footnote-1]: *GRC*: *German Resuscitation Council*; *ARC*: *Austrian Resuscitation
     Council*

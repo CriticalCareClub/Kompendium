@@ -1,4 +1,6 @@
-```{index} pair: OP; TUR-P pair: OP; Prostata, transurethrale Resektion
+```{index} pair: OP; TUR-P 
+```
+```{index} pair: OP; Prostata, transurethrale Resektion
 ```
 
 (transurethrale-resektion-der-prostata-tur-p)=

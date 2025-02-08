@@ -84,9 +84,7 @@ Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in d
 Die Leber ist das zentrale Stoffwechselorgan und gleichzeitig die größte Drüse des Körpers.
 Die wichtigsten Aufgaben sind die Produktion von Proteinen, die Metabolisierung, Verwertung und Entgiftung von im Blut zirkulierenden Nahrungsbestandteilen, Giftstoffen und Medikamenten, die Speicherung von Zucker in Form von Glykogen und die Ausscheidung durch Produktion und Aussonderung von Gallenflüssigkeit.
 
-{index}` <First-Pass-Effekt>`
-Dementsprechend erhält die Leber das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems
-über die **Pfortader**, bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
+{index}` <First-Pass-Effekt>` Dementsprechend erhält die Leber das venöse Blut mit den resorbierten Stoffen von großen Teilen des gastrointestinalen Systems über die **Pfortader**, bevor es in den Körperkreislauf gelangt (**"First-Pass-Effekt"**).
 
 Übersichtsmäßig hat die Leber folgende Aufgaben:
 
@@ -103,7 +101,9 @@ Dementsprechend erhält die Leber das venöse Blut mit den resorbierten Stoffen 
 
 ```{index} single: Gallenflüssigkeit
 ```
-```{index} single: Reflux; galliger — single: Gallensäure
+```{index} single: Reflux; galliger — 
+```
+```{index} single: Gallensäure
 ```
 ```{index} single: Kreislauf; enterohepatischer Gallensalz—
 ```
@@ -114,8 +114,7 @@ Dementsprechend erhält die Leber das venöse Blut mit den resorbierten Stoffen 
 
 Als **exokrine Drüse** produziert die Leber die *Gallenflüssigkeit*
 (Gallensäure, Bilirubin (Endprodukt des Hämoglobin), Ausscheidungsstoffe), die über die Gallengänge in die
-{ref}`Gallenblase <Gallenblase>`
-geleitet und dort *gespeichert* wird.
+{ref}`Gallenblase <Gallenblase>` geleitet und dort *gespeichert* wird.
 
 Ihre Farbe erhält die Galle durch das rote Bilirubin und das grünliche Biliverdin, je nach ihrer Zusammensetzung kann sie gelblich-grünlich bis bräunlich aussehen, dies kann unter Umständen als *"galliger Reflux"* bei Störungen der Magen-Darm-Passage beobachtet werden.
 Weiters enthält die Galle **Gallensäuren** bzw. Gallensalze, welche für die Fettverdauung und **Fettresorption** wichtig sind: Sie setzen die Oberflächenspannung des Wassers herab und ermöglichen damit eine **Emulgierung** der Fette und damit die Resorption im Jejunum.

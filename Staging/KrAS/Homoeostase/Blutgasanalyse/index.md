@@ -4,9 +4,20 @@
 
 
 
-```{index} single: paO₂ single: paCO₂ single: HCO₃⁻ single: pH
+```{index} single: paO₂
+```{index} paCO₂ 
 ```
-```{index} single: H⁺ pair: Severinghaus; Elektrode pair: Clark; Elektrode pair: Glas; Elektrode
+```{index} single: HCO₃⁻ 
+```
+```{index} single: pH
+```
+```{index} single: H⁺ 
+```
+```{index} pair: Severinghaus; Elektrode 
+```
+```{index} pair: Clark; Elektrode 
+```
+```{index} pair: Glas; Elektrode
 ```
 
 ## Grundbegriffe
@@ -28,8 +39,7 @@ Die H⁺-Konzentration wird durch das Gleichgewicht zwischen pCO₂ und HCO₃�
 
 Gemessen wird pO₂ (Clark-Elektrode), pCO₂
 (Serveringhaus-Elektrode) und der pH (Glaselektrode).
-Berechnet wird u. a. das Standardbikarbonat, Basenüberschuss
-und die SpO₂.
+Berechnet wird u. a. das Standardbikarbonat, Basenüberschuss und die SpO₂.
 
 ```{eval-rst}
 .. rubric:: Basendefizit geschätzt
@@ -77,11 +87,7 @@ Akute respiratorische Störungen führen demnach nur zu geringen HCO₃⁻-Ausle
 
 Die renale Antwort auf eine Erhöhung des CO₂ besteht in einer Steigerung der Rückresorption von HCO₃⁻ im proximalen Tubulus bzw. in einer Verringerung der Rückresorption. Das Ausmaß der Antwort ist sowohl bei AzIdose wie auch bei ALKalose ähnlich:
 
-```{eval-rst}
 
-.. index::
-   single: Stufenanalyse (SB-Haushalt)
-```
 
 ```{index} single: Stufenanalyse (SB-Haushalt)
 ```

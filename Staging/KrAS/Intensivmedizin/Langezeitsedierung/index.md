@@ -1,8 +1,14 @@
 # Langzeit-Sedierung
 
-```{index} single: Dexmedetomidin (Langzeitsedierung) single: Clonidin (Langzeitsedierung) single: Langzeitsedierung
+```{index} single: Dexmedetomidin (Langzeitsedierung) 
 ```
-```{index} single: Sedierung (ICU) single: Sedierung (Langzeit)
+```{index} single: Clonidin (Langzeitsedierung) 
+```
+```{index} single: Langzeitsedierung
+```
+```{index} single: Sedierung (ICU) 
+```
+```{index} single: Sedierung (Langzeit)
 ```
 
 ## Dexmedetomidin vs. Clonidin

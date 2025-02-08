@@ -22,7 +22,9 @@ Probleme und Fragestellungen zu lösen.
 
 ```{index} single: Recht, öffentliches
 ```
-```{index} single: Recht, Privat- single: Privatrecht
+```{index} single: Recht, Privat- 
+```
+```{index} single: Privatrecht
 ```
 ```{index} single: Strafrecht
 ```

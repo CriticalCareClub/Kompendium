@@ -9,11 +9,7 @@
 
 
 
-Bei der {dfn}`endotrachealen Intubation` ({dfn}`ETI`) wird ein
-Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch
-den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht
-die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges
-und bietet einen Aspirationsschutz.
+Bei der {dfn}`endotrachealen Intubation` ({dfn}`ETI`) wird ein Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges und bietet einen Aspirationsschutz.
 
 ## Material und Personal
 
@@ -611,18 +607,16 @@ der Luftröhre zu bestätigen.
 
 
 
-```{index} single: Airtraq™ single: Videolaryngoskop; Airtraq™
+```{index} single: Airtraq™ 
+```
+```{index} single: Videolaryngoskop; Airtraq™
 ```
 
 ## Airtraq™
 
 Der Airtraq™
-(Prodol Meditec, Vizcaya, Spanien) ist ein fiberoptisches Gerät mit Okularoptik,
-welches für die indirekte endotracheale Intubation in schwierigen Atemwegsituationen verwendet werden kann.
+(Prodol Meditec, Vizcaya, Spanien) ist ein fiberoptisches Gerät mit Okularoptik, welches für die indirekte endotracheale Intubation in schwierigen Atemwegsituationen verwendet werden kann.
 Der Spatel ist anatomisch geformt und verfügt über eine batteriebetriebene Lichtquelle an der Spitze. Ferner enthält er eine seitliche Schiene für die Platzierung und das geführte Einführen eines Endotrachealtubus.
 
-Der Airtraq™ ist gegenüber der herkömmlichen direkten Laryngoskopie in Situationen vorteilhaft,
-in denen die Halswirbelsäule immobilisiert werden muss,
-da ein Blick auf die Glottisöffnung ohne signifikante Manipulation der Halswirbelsäule möglich ist
-und er daher eine Intubation mit minimaler Manipulation und Positionierung des Kopfes bzw. der Halswirbelsäule ermöglicht.
+Der Airtraq™ ist gegenüber der herkömmlichen direkten Laryngoskopie in Situationen vorteilhaft, in denen die Halswirbelsäule immobilisiert werden muss, da ein Blick auf die Glottisöffnung ohne signifikante Manipulation der Halswirbelsäule möglich ist und er daher eine Intubation mit minimaler Manipulation und Positionierung des Kopfes bzw. der Halswirbelsäule ermöglicht.
 Er setzt jedoch eine grundsätzlich regelhafte Anatomie voraus, da durch die vorgeformte Schiene kaum Spielraum beim Einführen des Tubus besteht.

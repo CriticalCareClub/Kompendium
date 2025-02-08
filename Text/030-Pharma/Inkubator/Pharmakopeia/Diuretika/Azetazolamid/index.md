@@ -1,6 +1,18 @@
 ```{index} single: Acetazolamid
 ```
-```{index} single: Diamox® single: Elektrolytverschiebung (Acetazolamid) single: Sulfonamide (Acetazolamid) single: Carboanhydraseinhibitor (Acetazolamid) single: Carboanhydrasehemmer (Acetazolamid) single: Glaukom (Acetazolamid) single: Epilepsie (Acetazolamid)
+```{index} single: Diamox® 
+```
+```{index} single: Elektrolytverschiebung (Acetazolamid) 
+```
+```{index} single: Sulfonamide (Acetazolamid) 
+```
+```{index} single: Carboanhydraseinhibitor (Acetazolamid) 
+```
+```{index} single: Carboanhydrasehemmer (Acetazolamid) 
+```
+```{index} single: Glaukom (Acetazolamid) 
+```
+```{index} single: Epilepsie (Acetazolamid)
 ```
 
 # Acetazolamid
@@ -15,11 +27,9 @@
 
 Carboanhydraseinhibotor, **Sulfonamid**
 
-Acetazolamid ist ein Diuretikum,
-dessen Wirkung auf der reversiblen Hydratisierung von CO₂
+Acetazolamid ist ein Diuretikum, dessen Wirkung auf der reversiblen Hydratisierung von CO₂
 und Dehydratisierung der Kohlensäure-Reaktion in den Nierenbasiert.
-Das Ergebnis ist in der Niere eine *verstärkte Ausscheidung* von HCO₃⁻-Ionen,
-die an der Ausscheidung von Natrium, Wasser und Kalium beteiligt sind.
+Das Ergebnis ist in der Niere eine *verstärkte Ausscheidung* von HCO₃⁻-Ionen, die an der Ausscheidung von Natrium, Wasser und Kalium beteiligt sind.
 
 Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
 

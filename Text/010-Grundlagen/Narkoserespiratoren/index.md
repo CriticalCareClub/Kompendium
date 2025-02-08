@@ -184,7 +184,9 @@ $$
 
 100% Desflurane-Dampf wird dem Frischgas zudosiert.
 
-```{index} single: DIVA™ single: Direct Injection of Volatile Anaesthetics
+```{index} single: DIVA™ 
+```
+```{index} single: Direct Injection of Volatile Anaesthetics
 ```
 
 ##### DIVA™: Direct Injection of Volatile Anaesthetics
@@ -204,7 +206,9 @@ $$
 ```
 ```{index} single: Calciumhydroxid
 ```
-```{index} single: Ca(OH)₂ single: Natriumhydroxid
+```{index} single: Ca(OH)₂ 
+```
+```{index} single: Natriumhydroxid
 ```
 ```{index} single: NaOH
 ```

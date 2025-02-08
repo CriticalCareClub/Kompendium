@@ -81,7 +81,9 @@ Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brus
 
 ```{index} single: endotracheale Intubation; Reanimation
 ```
-```{index} single: ETI; Reanimation pair: Reanimation; Intubation, endotracheale
+```{index} single: ETI; Reanimation 
+```
+```{index} pair: Reanimation; Intubation, endotracheale
 ```
 
 ## Endotracheale Intubation (Reanimation)

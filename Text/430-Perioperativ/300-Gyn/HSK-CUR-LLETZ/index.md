@@ -1,4 +1,6 @@
-```{index} pair: OP; Curettage pair: OP; Hysteroskopie
+```{index} pair: OP; Curettage 
+```
+```{index} pair: OP; Hysteroskopie
 ```
 ```{index} pair: OP; Konisation
 ```

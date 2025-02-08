@@ -1,8 +1,14 @@
-```{index} single: Prismaflex®; Kurzanleitung Therapieführung (Zitrat) pair: Prismaflex®; Zitrat
+```{index} single: Prismaflex®; Kurzanleitung Therapieführung (Zitrat) 
 ```
-```{index} single: Kalzium; Prismaflex® single: Kalzium; CVVHDF
+```{index} pair: Prismaflex®; Zitrat
 ```
-```{index} single: Ca; Prismaflex® single: Ca; CVVHDF
+```{index} single: Kalzium; Prismaflex® 
+```
+```{index} single: Kalzium; CVVHDF
+```
+```{index} single: Ca; Prismaflex® 
+```
+```{index} single: Ca; CVVHDF
 ```
 
 (prismaflexkurzanleitung)=
@@ -39,16 +45,12 @@ Diese Inhalte wurden noch nicht geprüft!
     +-------------------+------------------------------+-----------------------+
 ```
 
-Die Prismaflex®-Software berechnet automatisch das Verhältnis von
-Blutfluß zu PBP-Flussrate (Antikoagulanz).
+Die Prismaflex®-Software berechnet automatisch das Verhältnis von Blutfluß zu PBP-Flussrate (Antikoagulanz).
 Diese Verhältnis wird z. B.
-bei Veränderung der Blutflussrate entsprechend der angegebenen
-Zitratdosis automatisch angepasst.
-Die PBP-Flussrate wird auch automatisch angepasst,
-wenn die Zitratdosis verändert/korrigiert wird.
+bei Veränderung der Blutflussrate entsprechend der angegebenen Zitratdosis automatisch angepasst.
+Die PBP-Flussrate wird auch automatisch angepasst, wenn die Zitratdosis verändert/korrigiert wird.
 Prismaflex® regelt bei Veränderung von Flussraten den Ca⁺⁺-Ausgleich automatisch.
-Der Ca⁺⁺-Ausgleich wird automatsich bei Beginn der Therapie gestartet
-und beim Beenden der Therapie gestoppt.
+Der Ca⁺⁺-Ausgleich wird automatsich bei Beginn der Therapie gestartet und beim Beenden der Therapie gestoppt.
 
 ## Laborkontrollen
 

@@ -1,4 +1,6 @@
-```{index} single: Embolie; Pulmonal- single: Lungenembolie
+```{index} single: Embolie; Pulmonal- 
+```
+```{index} single: Lungenembolie
 ```
 ```{index} single: PE
 ```

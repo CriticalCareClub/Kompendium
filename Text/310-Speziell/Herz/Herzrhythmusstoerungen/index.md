@@ -250,7 +250,11 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 ₢ WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo), {term}`ℓ CC BY-SA 4.0`
 :::
 
-```{index} single: Tachykardie; FBI- single: Tachykardie; unregelmäßige Breitkomplex- single: FBI-Tachykardie
+```{index} single: Tachykardie; FBI- 
+```
+```{index} single: Tachykardie; unregelmäßige Breitkomplex- 
+```
+```{index} single: FBI-Tachykardie
 ```
 
 (fbi-tachykardie)=

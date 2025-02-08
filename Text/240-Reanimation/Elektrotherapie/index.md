@@ -1,18 +1,17 @@
 ```{index} single: Kardioversion, elektrische
 ```
-```{index} single: Defibrilation pair: Reanimation; Elektrotherapie
+```{index} single: Defibrilation 
+```
+```{index} pair: Reanimation; Elektrotherapie
 ```
 
 # *Elektro*therapie
 
-Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit, welche über elektrische Reize koordiniert wird
-(vgl. {ref}`Reizleitungssystem <reizleitungssystem>`).
+Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit, welche über elektrische Reize koordiniert wird (vgl. {ref}`Reizleitungssystem <reizleitungssystem>`).
 Ohne diese elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und somit zum Kreislaufstillstand.
 Oft ist eine Störung der elektrischen Herzaktivität bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.
 
-Bei bestimmten Herzrhythmen
-("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie, Kammerflimmern)
-wird die Elektrotherapie angewendet, um den Rhythmus zu normalisieren. Man nennt diesen Vorgang
+Bei bestimmten Herzrhythmen ("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie, Kammerflimmern) wird die Elektrotherapie angewendet, um den Rhythmus zu normalisieren. Man nennt diesen Vorgang
 {dfn}`elektrische Kardioversion`[^footnote-1].
 Ein Sonderfall ist die {dfn}`Defibrillation`, sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
 
@@ -61,8 +60,7 @@ Die Defibrillation soll die normale *elektrische* Herztätigkeit wiederherstelle
 :::
 ::::
 
-Geräte für die Defibrillation werden **Defibrillator** (Abk. *Defi*)
-genannt.
+Geräte für die Defibrillation werden **Defibrillator** (Abk. *Defi*) genannt.
 Man unterscheidet dabei folgende Gerätekategorien:
 
 Automatische und halbautomatische externe Defibrillatoren
@@ -110,8 +108,7 @@ Dadurch kann die Analysezeit drastisch reduziert werden und auf außerplanmäßi
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-00943pt.\*
 :width: 100%
 
-Multifunktionsmonitor mit integriertem Defibrillator
-(Corpuls³ ™)
+Multifunktionsmonitor mit integriertem Defibrillator (Corpuls³ ™)
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
@@ -340,8 +337,7 @@ Allgemein lässt sich jedoch sagen:
 ::::
 
 Grundsätzlich ist jedes Gerät so zu verwenden, wie es der Hersteller in der *Bedienungsanleitung* vorschreibt.
-Manuelle Defibrillatoren sind meist Bestandteil eines Multifunktionsgerätes, welches oft zusätzliche umfangreiche
-Überwachungsmöglichkeiten bietet.
+Manuelle Defibrillatoren sind meist Bestandteil eines Multifunktionsgerätes, welches oft zusätzliche umfangreiche Überwachungsmöglichkeiten bietet.
 
 Therapieelektroden
 

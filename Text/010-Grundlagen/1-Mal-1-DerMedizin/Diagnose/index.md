@@ -34,13 +34,19 @@ Eine Diagnose gibt einem Zustand eine Bezeichnung, das heißt einem Beschwerdebi
 
 ```{index} single: Verdachtsdiagnose
 ```
-```{index} single: V. a. single: Arbeitsdiagnose
+```{index} single: V. a. 
+```
+```{index} single: Arbeitsdiagnose
 ```
 ```{index} single: Notfalldiagnose
 ```
-```{index} single: St. p. single: Status post
+```{index} single: St. p. 
 ```
-```{index} single: Z. n. single: Zustand nach
+```{index} single: Status post
+```
+```{index} single: Z. n. 
+```
+```{index} single: Zustand nach
 ```
 ```{index} single: signum interrogationis
 ```

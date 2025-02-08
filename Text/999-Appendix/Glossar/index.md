@@ -2,16 +2,41 @@
 
 ## Abkürzungen
 
+```{raw} latex
+\begin{ParWide}
+\begin{multicols}{3}
+```
+
 {.glossary}
+AF
+: Atemfrequenz
+
 aHT
 : {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
+
+ASB
+: 1. Assisted Spontaneous Breathing
+  2. Arbeiter-Samariter-Bund
+
+BMS
+: {ref}`Bare Metal Stent <Koronarangiographie>`
+
+CPAP
+: Continous Positive Airway Pressure
+
+CPAP-ASB
+: Continous Positive Airway Pressure-Assisted Spontaneous Breathing:
+  CPAP mit Drucksupport
 
 CT
 : Computertomographie
 
 CO
-: 1. Cardiac Output
-  2. chem. Formel für Kohlenmoinoxid
+: 1. {ref}`Cardiac Output <Cardiac-Output>`
+  1. chem. Formel für Kohlenmonoxid
+
+DES
+: {ref}`Drug Eluting Stent <Koronarangiographie>`
 
 ETI
 : endotracheale Intubation
@@ -23,17 +48,29 @@ ICP
 : Intracranial Pressure; intrakranieller Druck
 
 ICR
-: Intercostalraum. Vgl. {ref}`Intercostalraum`
+: {ref}`Intercostalraum <Intercostalraum>`
 
 KHK
-: Koronoare Herzkankheit, siehe {ref}`KHK`
+: {ref}`Koronoare Herzkankheit <KHK>`
 
 LVH
 : Linksventrikelhypertrophie
 
+NIV
+: Nicht-Invasive Ventilation
+
 NSTEMI
 : Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
 Siehe auch: {ref}`AkutesKoronarsyndrom`.
+
+PCI
+: {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
+
+PEEP
+: {ref}`Positive End Expiratory Pressure <PEEP>`
+
+PTCA
+: {ref}`Perkutaneous Transluminal Coronary Angioplasty <Koronarangiographie>`
 
 STEMI
 : ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
@@ -42,12 +79,17 @@ Siehe auch: {ref}`AkutesKoronarsyndrom`.
 SR
 : Sinusrhythmus
 
+```{raw} latex
+\end{multicols}
+\end{ParWide}
+```
 
 
 ## Glossar
+
 ```{raw} latex
 \begin{ParWide}
-\begin{multicols}{3}
+\begin{multicols}{2}
 ```
 
 {.glossary}
@@ -124,47 +166,6 @@ Kapnographie
   (Spastik, Mitatmen des Patienten etc.)
 
   Siehe {ref}`Kapnometrie`
-
-Koronarangiographie
-: Interventionelle röntgengestützte
-  Untersuchung des Herzens bzw. der Herzkrankgefäße. Dabei wird über
-  eine Arterie (klassisch über die Leistenarterie) ein Katheter
-  eingebracht und bis zum Herz bzw. bis knapp vor das Herz zu den
-  Abgängen der Koronargefäße aus der Aorta vorgeschoben. Anschließend
-  wird ein Kontrastmittel appliziert um den Ventrikel
-  (*Ventrikulographie*) bzw. die Gefäße (*Koronarangiographie*)
-  mittels Röntgen sichtbar zu machen.
-
-  Bei der Koronarangiographie werden die Herzkranzgefäße auf
-  signifikante Engstellen, welche das Substrat einer koronaren
-  Herzkrankheit, eines akuten Koronarsyndroms bzw. eines Herzinfarktes
-  darstellen, untersucht. Im Rahmen des Vorganges können diese
-  Engstellen auch gleich behandelt werden (**PCI** {index}` <PCI>`,
-  *Percutaneous Coronary Intervention*; **PTCA** {index}` <PTCA>`,
-  *Perkutaneous Transluminal Coronary Angioplasty*). Als Optionen
-  stehen die Dehnung mittels eines Ballons und/oder die Einbringung
-  eines *Stents* in das betroffene Gefäß zur Wahl.
-  Ein *Stent* ist vom Prinzip aufgebaut wie ein sich selbst
-  aufspannendes, schlauchförmiges Metallgitter, welches in das Gefäß
-  eingebracht wird und dieses an der betreffenden Stelle aufdehnt. Es
-  gibt unbeschichtete (*BMS*, *Bare Metal Stent*) und beschichtete
-  (*DES*, *Drug Eluting Stent*) Stents.
-
-  :::{figure} /Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*
-  Das Herz mit seinen Koronargefäßen
-  ₢ Lena Hirtler  {term}`ℓ MfG`
-  :::
-
-  :::{figure} /Bilder/WikipediaCcBy/Hk_coronary_bionerd.\*
-  Darstellung der Herzkranzgefäße während einer
-  Herzkatheteruntersuchung
-  \[WmCo "Bionerd", CC-BY-3.0\]
-  :::
-
-  :::{figure} /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.\*
-  Die Koronargefäße versorgen den Herzmuskel von außen nach
-  innen. \[Patrick J. Lynch, CC-BY-2.5\]
-  :::
 
 Kontrastmittel
 : Kontrastmittel verbessern die Darstellung von

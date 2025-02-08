@@ -10,11 +10,11 @@
 Die {dfn}`arterielle Hypertonie` (*Bluthochdruck*, *Hochdruckkrankheit*) ist eine meist symptomlose, *chronische* Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
 Mann kann zwischen der *primären, essentiellen* Form (90%), und der *sekundären* Form aufgrund anderer Grunderkrankungen (renal, endokrin, Aortenisthmusstenose) unterscheiden.
 Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc.
-Akut kann sie im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. 
+Akut kann sie im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen.
 
-Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg (bei Patienten mit Risikofaktoren gelten andere Ziel-Grenzwerte). 
-Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten. 
-Eine Ausnahme stellen *Schwangere* dar: 
+Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg (bei Patienten mit Risikofaktoren gelten andere Ziel-Grenzwerte).
+Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten.
+Eine Ausnahme stellen *Schwangere* dar:
 Eine Hypertonie kann ein Zeichen einer schwerwiegenden Schwangerschaftserkrankung sein (*EPH-Gestose*) und muss zeitnah entsprechend abgeklärt und behandelt werden.
 
 Zu beachten ist außerdem, dass man zwischen dem grundsätzlich erstrebenswerten Blutdruck und dem in dem speziuellen Moment für das spezifische Individuum erforderlichen Blutdruck unterscheiden muss:
@@ -31,10 +31,10 @@ Neben der systemischen arteriellen Hypertonie gibt es auch andere Krankheitsbild
 
 Die arterielle Hypertonie  kann auf Dauer zu schweren Schäden an den Blutgefäßen und Endorganen führen ist damit häuifig Ursache für viele andere Erkrankungen, die ihrerseits akut lebensbedrohlich werden können. Zwei Wirkungen der Hypertonie sind dabei besonders wichtig: Die *Gefäßschädigung* und die *Belastung des Herzens durch den hohen Gegendruck*.
 
-- LVH mit Gefügedilatation und Herzinsuffizienz (CO sinkt) mit Missmatch zur Koronardurchblutung auch ohne KHK, aber häufig mit KHK; Der Vorhof leistet wichtigen Teil an der Kontraktilität, daher SR wichtig!! 
-- Verschiebung der *zerebralen Autoregulationskurve* für den Blutdruck nach rechts (Fluss -- Druck Kurve), 
-- Niere mit gestörter Autoregulation und glomerulärer Sklerose, 
-- AVK (Carotisstenose, Claudicatio b. PAVK), Aortendissektion, 
+- LVH mit Gefügedilatation und Herzinsuffizienz (CO sinkt) mit Missmatch zur Koronardurchblutung auch ohne KHK, aber häufig mit KHK; Der Vorhof leistet wichtigen Teil an der Kontraktilität, daher SR wichtig!!
+- Verschiebung der *zerebralen Autoregulationskurve* für den Blutdruck nach rechts (Fluss -- Druck Kurve),
+- Niere mit gestörter Autoregulation und glomerulärer Sklerose,
+- AVK (Carotisstenose, Claudicatio b. PAVK), Aortendissektion,
 - hypertone Retinopathie.
 
 Bei der Gefäßschädigung kommt es zur Ablagerung durch Kalk und sonstige Plaques und über längere Zeit zur *Verengung oder Verstopfung der Gefäße*.
@@ -65,7 +65,7 @@ EKG
 
 
 
-## Perioperatives Management 
+## Perioperatives Management
 
 Hypertoniker tendieren zur intraoperativen Hypotonie unter ACE-I u. ATII-Rezeptorantagonisten + vermind. intravasales Volumen.
 Daher ausreichend Volumengabe vor dem Einleiten, gute Prämedizierung, Hypo-  und Hypertension vermeiden und konsequent behandeln, an Myokardischämie denken!
@@ -94,6 +94,8 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel �
 
 
 :::{list-table}
+:header-rows: 1
+
 - - Hypertensive Krise
   - Hypertensiver Notfall
 - - RR >  (Richtwert) bzw. deutliche individuelle Erhöhung
@@ -126,13 +128,7 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel �
   Organstörung[^footnote-3].
 :::
 
-[^footnote-3]: Hypertensive Krise/Notfall: (Die Unterscheidung zwischen
-    "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der
-    Literatur nicht einheitlich. Oft wird auch nur zwischen
-    "Hypertensiver Krise ohne Symptome" bzw. "mit Symptomen"
-    unterschieden oder generell eine andere Einteilung gewählt. Von
-    diesen Spitzfindigkeiten abgesehen gilt das Vorhandensein von
-    Symptomen durchgehend als entscheidendes Kriterium.)
+[^footnote-3]: Hypertensive Krise/Notfall: (Die Unterscheidung zwischen "Hypertensiver Krise" und "Hypertensiven Notfall" ist in der Literatur nicht einheitlich. Oft wird auch nur zwischen "Hypertensiver Krise ohne Symptome" bzw. "mit Symptomen" unterschieden oder generell eine andere Einteilung gewählt. Von diesen Spitzfindigkeiten abgesehen gilt das Vorhandensein von Symptomen durchgehend als entscheidendes Kriterium.)
 
 
 
@@ -146,7 +142,56 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel �
 - 3-fach Kombi: ACE-Hemmer  +  Diuretikum  +  Kalziumantagonisten oder Betablocker
   Bsp: Acemin + Norvasc + Diuretikum
 
-[^footnote-4]
+
+
+:::{list-table} Gängige Antihypertensiva
+:stub-columns: 1
+:name: TAB-Gaengige-Antihypertensiva
+
+
+* - ACE-Hemmer
+  - Enalapril (Mepril™, Renitec™),
+    Lisinopril (Acemin™,
+    Acetan™)
+    Ramipril (Tritace™),
+    Fosinopril (Fositens™),
+    Captopril
+* - AT-II-Inhibitoren
+  - Candesartan (Atacand™, Blopress™),
+    Losartan
+    (Cosaar™),
+    Telmisartan (Micaardis™),
+    Valsartan (Diovan)™
+* - Beta-Blocker
+  - Bisoprolol (Concor™),
+    Carvedilol (Dilatrend™),
+    Metoprolol (Beloc™, Seloken™),
+    Nebivolol (Nebilan™, Nomexor™)
+* - Kalzium-Antagonisten
+  - Diltiazem, Verapamil (Isoptin™),
+    Amlodipin
+    (Norvasc™),
+    Lercanidipin (Zanidip™),
+    Nifedipin (Adalat™, Buconif™)
+* - Diuretika
+  - Furosemid (Lasix™, Furon™),
+    Spironolacton
+    (Aldactone™, Spirobene™),
+    Hydrochlorthiazid (HCT)
+
+    üblicherweise in Kombination mit andren Medikamenten
+* - Kombinationspräparate
+  - oft mit Zusätzen wie
+    "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
+    Wirkstoff- bzw. Markennamen.
+
+    Z. B.:
+    Acecomb™,
+    Exforge™,
+    Fosicomb™, ...
+:::
+
+
 
 ## Symptome (chronisch)
 
@@ -154,51 +199,47 @@ Im chronischen Stadium ist ein erhöhter Blutdruck alleine ist symptomlos und wi
 
 ## Symptome (hypertensiver Notfall)
 
-- Ⓒ deutliche Blutdruckerhöhung (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung)
-- ④ *Nasenbluten* (*Epistaxis*) das erste Zeichen einer akuten Hypertonie. 
-- *Endorganstörungen*: 
-  - ④ neurologische Symptome wie  Kopfschmerzen und **Sehstörungen**, Schwindel 
-  - Ⓒ Kardial:
-    - ④ **Brustschmerzen**, ACS-Symptomatik
-    -  Ⓒ kardiogener Schock
-  - ④ Vegetative Symptome: Übelkeit, 🚩 Erbrechen
-- Ⓑ  **Atemnot**.
-- ② Manchmal hat der Patient einen hochroten Kopf
-
+Siehe {ref}`TAB-PA-Hypertensiver-Notfall`.
 
 
 
 
 :::{list-table} Patient Assessement: Hypertensiver Notfall
+:stub-columns: 1
+:name: TAB-PA-Hypertensiver-Notfall
 
-* -
-  - Beschreibung
 * - ①
-  - 
+  -
 * - ②
-  - 
+  - Manchmal hat der Patient einen hochroten Kopf
 * - ③
-  - 
+  -
 * - ④
-  - ACS-Symptomatik, **Brustschmerzen** <br> Epistaxis, <br>Übelkeit, 🚩 Erbrechen, Kopfschmerzen, **Sehstörungen**, Schwindel
+  - ACS-Symptomatik, **Brustschmerzen**
+
+    Epistaxis
+
+    neurologische Symptome: Übelkeit, 🚩 Erbrechen, Kopfschmerzen, **Sehstörungen**, Schwindel
 * - Ⓐ
-  - 
+  -
 * - Ⓑ
   - Dyspnoe
 * - Ⓒ
-  - RR-Erhöhung, <br> (kardiogener Schock) 
+  - deutliche Blutdruckerhöhung (Richtwert RR > 200 mm Hg bzw. deutliche individuelle Erhöhung), (kardiogener Schock)
 * - Ⓓ
-  - 
+  -
 * - Ⓔ
-  - 
+  -
 * - …
-  - 
+  -
 * - 🅂
-  - 
+  -
 * - 🄰
-  - 
+  -
 * - 🄼
-  - Ca-Antagonisten, ACE-Hemmer, AT-II-Antagonisten, Betablocker, Diuretika <br> oft in 1-, 2-, 3-fach-Kombination[^footnote-4]
+  - Ca-Antagonisten, ACE-Hemmer, AT-II-Antagonisten, Betablocker, Diuretika
+
+    oft in 1-, 2-, 3-fach-Kombination, vgl. {ref}`TAB-Gaengige-Antihypertensiva`
 
     Medikamente genommen? Rezente Medikamentenumstellung?
 * - 🄿
@@ -208,52 +249,10 @@ Im chronischen Stadium ist ein erhöhter Blutdruck alleine ist symptomlos und wi
 * - 🄴
   - Gibt es Ereignisse die zu einer fehlerhaften Einnahme der Medikamente geführt haben können?
 * - 🅁
-  - 
-* - 
-  - 
+  -
 :::
 
 
-[^footnote-4]: Gängige Antihypertensive Medikamente:
-
-    > - Beta-Blocker:
-    >   Bisoprolol (Concor™),
-    >   Carvedilol (Dilatrend™),
-    >   Metoprolol (Beloc™, Seloken™),
-    >   Nebivolol (Nebilan™, Nomexor™)
-    > - ACE-Hemmer:
-    >   Enalapril (Mepril™, Renitec™),
-    >   Lisinopril (Acemin™,
-    >   Acetan™)
-    >   Ramipril (Tritace™),
-    >   Fosinopril (Fositens™),
-    >   Captopril
-    > - AT-II-Inhibitoren:
-    >   Candesartan (Atacand™, Blopress™),
-    >   Losartan
-    >   (Cosaar™),
-    >   Telmisartan (Micaardis™),
-    >   Valsartan (Diovan)™
-    > - Kalzium-Antagonisten:
-    >   Diltiazem, Verapamil (Isoptin™),
-    >   Amlodipin
-    >   (Norvasc™),
-    >   Lercanidipin (Zanidip™),
-    >   Nifedipin (Adalat™, Buconif™)
-    > - Entwässerung (Diuretika):
-    >   Furosemid (Lasix™, Furon™),
-    >   Spironolacton
-    >   (Aldactone™, Spirobene™),
-    >   Hydrochlorthiazid (HCT) üblicherweise in
-    >   Kombination mit andren Medikamenten
-    > - Kombinationspräparate: Diverse Kombinationen,
-    >   : oft mit Zusätzen wie
-    >     "Co-", "-comb", "-comp", "plus" oder Zusammensetzung aus
-    >     Wirkstoff- bzw. Markennamen.
-    >     Z. B.:
-    >     Acecomb™,
-    >     Exforge™,
-    >     Fosicomb™, ...
 
 
 
@@ -289,7 +288,7 @@ Eine notfallmäßige Blutdrucksenkung ist in der Regel *nicht* sinnvoll.
 ## Therapie: Hypertensiver Notfall
 
 Taktik
-: Blutdrucksenkung 
+: Blutdrucksenkung
 
 ### ⛑ Basismaßnahmen
 

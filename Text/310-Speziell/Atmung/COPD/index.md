@@ -52,6 +52,15 @@ Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
 :::
 
 
+
+```{index} single: Exazerbation; COPD
+```
+### Exazerbation
+
+Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
+
+
+
 ## Im Detail
 
 Chronische Bronchitis + Lungenemphysem + smal airway disease mit erhöhter Resistance durch Bronchospasmus, Schleimhaut-Hypertrophie und SH-Ödem, sowie Dyskrinie.
@@ -89,16 +98,10 @@ Veränderung der Atemwege bei der COPD
 
 
 
-## Klinik
-
-- Dyspnoe,
-- zentrale Zyanose,
-- Fassthorax,
-- verminderte Atemgeräusche,
-- verlängertes Exspirium mit Pfeifen, Giemen,
-- Rechtsherzbelastung mit Jugularvenenstau und peripheren Ödemen,
-
 ## 🔎 Diagnostik
+
+Klinisch
+: Faßthorax, Pink Puffer oder Blue Bloater, hypersonorer Klopfschall bei Emphysem
 
 🧪 Labor
 : Polyglobulie
@@ -116,17 +119,12 @@ BGA
 
 
 
-```{index} single: Exazerbation; COPD
-```
 
-## Exazerbation
 
-Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 
 ## Probleme mit Sauerstoff bei COPD-Patienten
 
-::::{only} not nosidebar
-
+<!-- ::::{only} not nosidebar
 :::{margin} COPD und O₂
 
 - Atemantrieb normalerweise durch **CO₂**-Spiegel
@@ -136,7 +134,7 @@ Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender Faktor hinz
 - Verminderte CO₂-Abatmung → Bewusstseinsstörungen
 - Extremfall: Atemstillstand
 :::
-::::
+:::: -->
 
 Beim gesunden Menschen ist der *Atemantrieb* vom *CO₂-Gehalt* des Blutes abhängig: Je höher der CO₂-Gehalt, desto stärker der Atemantrieb. Bei COPD-Patienten ist die *CO₂-Konzentration* im Blut jedoch chronisch *erhöht*, dadurch *gewöhnt* sich der Körper an diesen Zustand. Er beginnt dann den *Atemantrieb direkt über den O₂*-Gehalt im Blut zu regeln.
 
@@ -144,96 +142,89 @@ Dies kann bei der Behandlung *Probleme* bereiten: Wird bei solch einem Patienten
 
 :::{danger}
 **Bewusstseinsstörungen** bei übermäßiger Sauerstoffgabe möglich!
-:::
 
-:::{danger}
 Bei COPD-Patienten kann es bei Sauerstoffgabe zu Bewusstseinsstörungen und im Extremfall zu einem Atemstillstand kommen.
 :::
 
 
 
 
-## 1234ABCDE: COPD
+## Symptome der Exazerbation
 
-:::{rubric} {{ TxAbcde1 }}
-:::
-
-Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
-
-:::{rubric} {{ TxAbcde2 }}
-:::
-
-Einsatz der Atemhilfsmuskulatur,
-Mühe beim Atmen,
-Fassthorax,
-evtl. Heimsauerstoff,
-oft wirkt der Patient ängstlich.
-
-:::{rubric} {{ TxAbcde3 }}
-:::
-Bei schweren Anfällen kann es aufgrund der Hypoxie zu  🚩**Bewusstseinsstörungen** kommen.
-
-:::{rubric} {{ TxAbcde4 }}
-:::
-
-Atemnot
-
-:::{rubric} {{ TxAbcdeA }}
-:::
-
-Siehe Ⓑ
-
-:::{rubric} {{ TxAbcdeB }}
-:::
-
-Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
-Schleimproduktion) und Ateminsuffizienz:
-Die *Exspiration* ist erschwert, der Patient klagt über
-*Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und
-evtl. eine zentrale 🚩 *Zyanose*.
+Das Leitsymtopm ist die **Atemnot**, häufig mit einem Angstgefühl.
+Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und Schleimproduktion) und Ateminsuffizienz:
+Die *Exspiration* ist erschwert, der Patient klagt über *Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und evtl. eine zentrale 🚩 *Zyanose*.
 Das Exspirium ist verlängert, oft kann man ein *brummendes, pfeifendes oder giemendes oder vermindertes Atemgeräusch* hören.
-In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen kommen.
+
+Typisch ist der Einsatz der Atemhilfsmuskulatur (Abstützen der Arme), Mühe beim Atmen
 
 Schon beim stabilen Patienten zeigt sich in der BGA eine **Hyperkapnie** (wobei der pH-Wert im chronischen Setting häufig normal ist) und Hypoxie, sowie eine verminderte *Sauerstoffsättigung* (~ 90%).
 Bei fortgeschrittener Ateminsuffizienz bekommt der Patient oft eine *Heimsauerstofftherapie* verordnet.
 Bei akuter respiratorischer Insuffizienz kann es durch eine Hyperkapnie zu 🚩 *Bewusstseinsstörungen kommen* (*CO₂-Narkose*)!
-
-:::{rubric} {{ TxAbcdeC }}
-:::
-
-Evtl. tachkard und hyperton
-
-:::{rubric} {{ TxAbcdeFazit }}
-:::
-
-Bei 🚩 schwerer Atemnot oder 🚩 Bewusstseinsstörungen vitale Bedrohung.
-
-:::{rubric} {{ TxAbcdeAlt }}
-:::
+In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen kommen.
 
 Als Nebenbefund können Infektzeichen vorliegen (erhöhte  Körpertemperatur).
 
+Bei 🚩 schwerer Atemnot oder 🚩 Bewusstseinsstörungen vitale Bedrohung.
 
 
-## SAMPLER: COPD
 
 
-:::{rubric} 🄼 Medikation
+:::{list-table} Patient Assessement: COPD-Exazerbation
+:stub-columns: 1
+:name: TAB-PA-COPD-Exazerbation
+
+* - ①
+  - Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
+* - ②
+  -
+* - ③
+  - Bei schweren Anfällen kann es aufgrund der Hypoxie zu  🚩**Bewusstseinsstörungen** kommen.
+* - ④
+  - **Atemnot**, Angst, Erstickungsgefühl
+* - Ⓐ
+  - Siehe Ⓑ
+* - Ⓑ
+  - *Exspiration* ist erschwert, der Patient klagt über
+*Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und
+evtl. eine zentrale 🚩 *Zyanose*.
+
+    Exspirium ist verlängert, oft kann man ein *brummendes, pfeifendes oder giemendes oder vermindertes Atemgeräusch* hören.
+* - Ⓒ
+  - Evtl. tachkard und hyperton
+
+    In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen
+* - Ⓓ
+  -
+* - Ⓔ
+  -
+* - …
+  - Als Nebenbefund können Infektzeichen vorliegen (erhöhte  Körpertemperatur).
+* - =
+  - Bei 🚩 schwerer Atemnot oder 🚩 Bewusstseinsstörungen vitale Bedrohung.
+* - 🅂
+  -
+* - 🄰
+  -
+* - 🄼
+  - Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
+
+    Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
+    Antibiotika verschrieben.
+* - 🄿
+  - Eine COPD ist normalerweise vorbekannt.
+* - 🄻
+  - Letzte Spray-Einnahme?
+* - 🄴
+  -
+* - 🅁
+  -
 :::
 
-Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
-Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
-Antibiotika verschrieben.
 
-:::{rubric} 🄿 Krankengeschichte
-:::
 
-Eine COPD ist normalerweise vorbekannt.
 
-:::{rubric} 🄻 Letztes
-:::
 
-Letzte Spray-Einnahme?
 
 
 (m-copd-exzerbation)=
@@ -252,6 +243,10 @@ Taktik
 
 ### ⛑ Basismaßnahmen
 
+- Lagerung: Oberkörper hoch
+
+- Voratmen, *Lippenbremse*
+
 - {{ TxBeiVit }} {{ TxMassVitMK }}
 
 - O₂-Gabe: Soviel wie notwendig, so wenig wie möglich:
@@ -263,10 +258,6 @@ Taktik
   Heimsauerstoff soll jedenfalls weiter gegeben werden!
 
   *Atmung und Bewusstsein müssen bei der O₂-Gabe besonders sorgfältig überwacht werden!*
-
-- Lagerung: Oberkörper hoch
-
-- Voratmen, *Lippenbremse*
 
 
 
@@ -319,7 +310,7 @@ Voraussetzung für NIV
   evtl. leichte Sedierung mit Morphin erwägen.
 
 Beatmungseinstellung NIV
-: CPAP oder CPAP+ASB.
+: CPAP oder CPAP-ASB.
 
   PEEP schrittweise steigern, Druckunterstützung 5-10 CPAP-ASB.
   PEEP ist nicht zum  öffnen der Alveolen, diese sind emphysematös überbläht, sondern zur Reduktion der Atemarbeit!
@@ -331,7 +322,10 @@ Beatmungseinstellung NIV
   Bei CPAP-ASB Rampe max 0,2sec (darüber Verlängert sich die Inspirationszeit auf Kosten der Exspirationszeit mit Erhöhung des intrinsischem PEEP und der isometrischen Atemarbeit)
 
 :::{warning}
-Cave: Desynchronis*ation zwischen Patient und Respirator  =  bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern = AF des Patienten  \>  AF des Respirators.    Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein.
+Cave: **Desynchronisation** zwischen Patient und Respirator:
+Bei zu hohem intrinsischem PEEP reicht die Eigenanstrengung des Patienten nicht aus um eine Druckunterstützung zu triggern.
+Folglich ist die *Atemfrequenz des Patienten größer als die des Respirators*.
+Ursache kann ein enger Tubus, sehr hohe AF, hohe Triggerschwelle, flache Rampe, hoher ASB-Druck mit zu hohem AMV sein.
 
 Therapie: Ursache beheben, exspiratorischen PEEP anheben.
 :::

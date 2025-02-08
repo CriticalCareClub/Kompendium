@@ -2,7 +2,7 @@
 (sec-herz-kreislauf-stoerungen)=
 (herz-kreislauf-stoerungen)=
 
-# 26. Herz-Kreislauf-Störungen
+# Herz
 
 
 

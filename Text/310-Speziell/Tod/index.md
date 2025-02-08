@@ -59,9 +59,7 @@ Grundsätzlich gibt es Zeichen, die als *sichere Todeszeichen* gelten {term}`�
 4. Späte Leichenerscheinungen: *Fäulnis*, *Verwesung*, *Mumifizierung*,
    *Tierfraß* und *Skelettierung*
 
-Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ rasch auftreten. Andere frühe Leichenerscheinungen
-(aber *keine* sicheren Todeszeichen!)
-sind die *Abkühlung der Leiche* und die *Totenstarre*.
+Die ersten drei Punkte sind *frühe Leichenerscheinungen*, da sie relativ rasch auftreten. Andere frühe Leichenerscheinungen (aber *keine* sicheren Todeszeichen!) sind die *Abkühlung der Leiche* und die *Totenstarre*.
 Längere Zeit nach dem Tod treten die *späten Leichenerscheinungen* auf.
 
 Die Feststellung der Todeszeichen und Leichenerscheinungen ist jedoch oft nicht so einfach, die Anzeichen können oft auch mit anderen Sachen verwechselt werden, z. B. Totenflecke mit Blutergüssen oder die Totenstarre mit einem tonischen Krampf.

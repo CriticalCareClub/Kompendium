@@ -11,6 +11,5 @@ Klinik:
 - Gewichtsverlust da bis zu 50% des Grundumsatzes für die Atmung benötigt werden!
 
 Therapie
-: Expositionsprophylaxe, antiinflammatorische Maßnahmen
-(Steroidtherapie), LTOT, LTX
+: Expositionsprophylaxe, antiinflammatorische Maßnahmen (Steroidtherapie), LTOT, LTX
 

@@ -35,12 +35,9 @@ Das {dfn}`Akute Koronarsyndrom`
 :::
 
 Bei diesen Krankheitsbildern kommt es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und Sauerstoff aufgrund der Durchblutungsstörung.
-Die Ursache sind in erster Linie verengte oder verstopfte Herzkranzgefäße
-(*Ischämie*, {ref}`ischaemie`).
+Die Ursache sind in erster Linie verengte oder verstopfte Herzkranzgefäße (*Ischämie*, {ref}`ischaemie`).
 Das akute Koronarsyndrom ist häufig das Ergebnis einer vorbestehenden koronaren Herzkrankheit.
-Daneben gibt es noch andere Erkrankungen, welche sich von den vorgenannten entweder durch die Pathogenese
-(z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus
-(z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
+Daneben gibt es noch andere Erkrankungen, welche sich von den vorgenannten entweder durch die Pathogenese (z. B. *Prinzmetal-Angina*) oder durch den Pathomechanismus (z. B. *Tako-Tsubo-Kardiopathie*) wesentlich unterscheiden.
 
 
 
@@ -108,8 +105,7 @@ Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig 
 ```{rubric} |Text-Abcde-4|
 ```
 
-Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot*
-(*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
+Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
 Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
 Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen, welcher als Verdauungsstörung oder Magen-Darm-Erkrankung fehlgedeutet werden kann.
 
@@ -201,8 +197,7 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 ## 🔎 Diagnostik
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
-Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`)
-und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
+Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`) und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
 
 ```{index} pair: STEMI-Kriterien; EKG pair: Hauptstammbild; EKG pair: CX-Infarkt; EKG
 ```
@@ -438,20 +433,14 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
 
 #### P2Y₁₂-Inhibitor
 
-Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten und ist als Chemorezeptor für Adenosindiphosphat (ADP)
-an der Thrombozytenaggregation beteiligt und somit ein wichtiger Regulator der Blutgerinnung.
-Beim ACS ist eine Hemmung mittels eines potenten *P2Y₁₂-Inhibitors*
-(*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*)
-empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI
-(und weiter für 12 Monate), sofern keine Kontraindikationen oder ein Risiko für exzessive Blutungen besteht.
+Das P2Y₁₂-Protein befindet sich u. a. auf der Oberfläche von Thrombozyten und ist als Chemorezeptor für Adenosindiphosphat (ADP) an der Thrombozytenaggregation beteiligt und somit ein wichtiger Regulator der Blutgerinnung.
+Beim ACS ist eine Hemmung mittels eines potenten *P2Y₁₂-Inhibitors* (*Prasugrel*, *Ticagrelor*, oder, wenn nicht verfügbar, auch *Clopidogrel*) empfohlen *bevor* oder spätestens zum Zeitpunkt der PCI (und weiter für 12 Monate), sofern keine Kontraindikationen oder ein Risiko für exzessive Blutungen besteht.
 P2Y₁₂-Inhibitor indiziert.
 
 Beim **STEMI** ist das Mittel der Wahl **Ticagrelor** (*Brilique®*).
-Es ist einfach anwendbar, behindert Interventionen kaum, ist auch grundsätzlich beim NSTEMI einsetzbar und ist als *Schmelztablette* einsetzbar
-(Cave: keine Resorption über Mundschleimhaut, sondern im GI-Trakt;
+Es ist einfach anwendbar, behindert Interventionen kaum, ist auch grundsätzlich beim NSTEMI einsetzbar und ist als *Schmelztablette* einsetzbar (Cave: keine Resorption über Mundschleimhaut, sondern im GI-Trakt;
 Gabe z. B. über Magensonde möglich).
-Für das alternativ anwendbare **Prasugrel** (*Efient®*)
-bestehen diverse Kontraindikationen (Alter, Gewicht), was die Anwendung verkompliziert.
+Für das alternativ anwendbare **Prasugrel** (*Efient®*) bestehen diverse Kontraindikationen (Alter, Gewicht), was die Anwendung verkompliziert.
 
 Bei **stabilen KHK-Patienten** und ACS-Patienten, welche kein Prasugrel oder Ticagrelor erhalten können, sowie bei Patienten mit **Thrombolyse**-Reperfusionsstrategie, ist **Clopidogrel** (*Plavix®*) empfohlen.
 

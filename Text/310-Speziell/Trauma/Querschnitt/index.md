@@ -21,8 +21,7 @@ Dauert 3 Tage bis 8 Wochen (solange soll der Patient auf der IBS bleiben!)
 
 
 =  Retraktion und Ballonierung der Axonstümpfe, distale Degeneration, Pseudozystenbildung, Narbe aus Astrozyten/Mikroglia und Fibroblasten.
-Prognose schlecht bei vollständiger Lähmung anhaltend, Priapismus
-(Dauererektion nach Trauma)
+Prognose schlecht bei vollständiger Lähmung anhaltend, Priapismus (Dauererektion nach Trauma)
 
 
 Schockraum bei Wirbelsäulenverletzungen:
@@ -62,8 +61,7 @@ Anästhesiemanagement:
 (auch bei Immobilität, Vebrennungen kein Lysthenon)
 
 Prognose:
-Ist abhängig vom Ausmaß  der Rückenmarkschädigung und ist nach 2  Jahren als endgültig anzusehen. Eine Aussage kann frühestens ab dem Zeitpunkt, wenn die peripheren Reflexe
-(Analreflex, Bulbus cavernosus Reflex) zurückgekehrt sind, gemacht werden. Als günstig anzusehen sind Reiterhosenphänomene und inkomplette Lähmungen. Ungünstig sind eine vollständige Lähmung nach 72h und ein Priapismus (anhaltende Erektion) unmittelbar nach dem Trauma.
+Ist abhängig vom Ausmaß  der Rückenmarkschädigung und ist nach 2  Jahren als endgültig anzusehen. Eine Aussage kann frühestens ab dem Zeitpunkt, wenn die peripheren Reflexe (Analreflex, Bulbus cavernosus Reflex) zurückgekehrt sind, gemacht werden. Als günstig anzusehen sind Reiterhosenphänomene und inkomplette Lähmungen. Ungünstig sind eine vollständige Lähmung nach 72h und ein Priapismus (anhaltende Erektion) unmittelbar nach dem Trauma.
 Untersuchungen: klinisch neurologische Untersuchung, EMG, NLG, SSEP (somato-sensible evoziert Potentiale), MEP (motorisch evozierte Potentiale)
 
 

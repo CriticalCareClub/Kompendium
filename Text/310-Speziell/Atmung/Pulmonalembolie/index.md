@@ -23,8 +23,7 @@
 :::
 ::::
 
-Als {dfn}`Pulmonalembolie` (Abk. {dfn}`PE`, Syn. {dfn}`Lungenembolie`)
-wird der **Verschluss einer Lungenarterie**, oft durch Einschwemmen eines *Gerinnsels* (*Embolus*), bezeichnet. Der Embolus, der die Lungenarterien verstopft, entsteht normalerweise nicht in den Lungengefäßen selbst, sondern er wird über die Blutbahn angeschwemmt.
+Als {dfn}`Pulmonalembolie` (Abk. {dfn}`PE`, Syn. {dfn}`Lungenembolie`) wird der **Verschluss einer Lungenarterie**, oft durch Einschwemmen eines *Gerinnsels* (*Embolus*), bezeichnet. Der Embolus, der die Lungenarterien verstopft, entsteht normalerweise nicht in den Lungengefäßen selbst, sondern er wird über die Blutbahn angeschwemmt.
 Sehr oft löst sich ein Thrombus bei einer *tiefen Beinvenenthrombose* und schwimmt im Blut bis in die Lunge. Daher gelten die Risikofaktoren der tiefen Beinvenenthrombose (Immobilisation, lange Reisen, …) auch bei der Lungenembolie. Auch bei *Vorhofflimmern* können sich Gerinnsel im rechten Vorhof des Herzens bilden und eine Embolie verursachen. Ebenso können Gerinnungstörungen oder Krebserkrankungen zur Bildung von Blutgerinnseln führen.
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
@@ -285,8 +284,7 @@ Nach unprovozierter PE mindestens 3  Monate  +  Verlängerung je nach Rezidiv-  
 Bei rezidivierender PE/TVT dauerhafte Antikoagulation.
 Bei Patienten mit absoluter KI für eine Antikoagulation und Nachweis einer TVT, und bei Patienten mit Rezidiven unter therapeutischer INR/täglicher DOAK-Einnahme, kann ein passagerer V.cava Filter erwogen werden.
 
-Beatmung: kontrolliere Hyperventilation (paCO2 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle)
-Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flolan iv. und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
+Beatmung: kontrolliere Hyperventilation (paCO2 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle) Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flolan iv. und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
 
 
 Venöse Luftembolie: bei sitzender Op im Neuro-OP;  Druckgradient zw. rechten VH und Kopfvenen führt beim Eröffnen der Venen zum Ansaugen von Luftbläschen ins rechte Herz mit Luftembolie, akuter Rechtsherzbelastung, bei PFO Insult... Auskultatorisch Mühlradgeräusch!

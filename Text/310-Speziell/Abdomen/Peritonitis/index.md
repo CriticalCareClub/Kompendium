@@ -147,8 +147,7 @@ Bezüglich des Wundverschlusses gibt es mehrere Strategien:
 #### Programmierte Relaparotomie
 
 Bei der **programmierten Relaparotomie** wird ein chirurgisches Débridement und eine *Etappenlavage* der Bauchhöhle in Intervallen mit *intermittierendem, endgültigem Wundverschluss* durchgeführt.
-Erst bei einem sauberen Situs wird ein definitiver Bauchverschluss
-vorgenommen [{term}`🗎 Van der Most 2008`].
+Erst bei einem sauberen Situs wird ein definitiver Bauchverschluss vorgenommen [{term}`🗎 Van der Most 2008`].
 
 
 

@@ -2,18 +2,18 @@
 
 Definitionen Pneumonie (Update 2017 S3-Leitlinie):
 Neues Infiltrat plus kompatible Symptome (Fieber, Schüttelfrost, Husten, Auswurf, Dyspnoe, Tachypnoe, inspirator. Thoraxschmerzen)
-Einteilung CAP: Community-acquired Pneumonia, weniger als 48 Std. hospitalisiert, gilt auch für Patienten aus Langzeit-Institutionen HAP: Hospital-acquired, mehr als 48 h hospitalisiert VAP: Ventilation-associated, vermehrtes eitriges Trachealsekret, steigende Entzündungsparameter, verschlechterte Hämodynamik
+
+Einteilung CAP
+: Community-acquired Pneumonia, weniger als 48 Std. hospitalisiert, gilt auch für Patienten aus Langzeit-Institutionen HAP: Hospital-acquired, mehr als 48 h hospitalisiert VAP: Ventilation-associated, vermehrtes eitriges Trachealsekret, steigende Entzündungsparameter, verschlechterte Hämodynamik
 
 Pathomechanismen: lokales Inflammationsgeschehen mit Minderbelüftung und Re-Links-Shunt bis zu \> 20% des HZV, Prostazyclin vermittelte Vasokonstriktion im Rahmen der Immunreaktion;
 Erhöhte Totraumventilation bis zu 60% durch schmerzbedingte, flache Atmung und herabgesetzte Compliance. Komplikation: SIRS, SEPSIS
 
 
-Empirische Therapie amb. erworben
-(CAP) + Hospitalisationsbedürftig (schwere Pneumonie):
+Empirische Therapie amb. erworben (CAP) + Hospitalisationsbedürftig (schwere Pneumonie):
 Amoxicillin/Clavulansäure 2.2 g alle 8 h i.v (Alternativ: Ceftriaxon 2 g alle 24 h) + Initial zusätzlich Clarithromycin 500 mg alle 12 h p.o.
 
-Clarithromycin länger als 24h wenn IPS-bedürftig (48h), Legionellen-AG pos,Klinisch/Epidemiologisch Legionellose wahrscheinlich oder andere atypische Keime vermutet z.b. Mykoplasmen)
-Prednison\*\* 50mg alle 24h p.o, max 7d; vorz. Abbruch bei Entlassung / AB-Stopp (KEINE Steroide bei Influenza - während I\'-Saison: Influenza-Abstrich)
+Clarithromycin länger als 24h wenn IPS-bedürftig (48h), Legionellen-AG pos,Klinisch/Epidemiologisch Legionellose wahrscheinlich oder andere atypische Keime vermutet z.b. Mykoplasmen) Prednison\*\* 50mg alle 24h p.o, max 7d; vorz. Abbruch bei Entlassung / AB-Stopp (KEINE Steroide bei Influenza - während I\'-Saison: Influenza-Abstrich)
 
 Wechsel Antibiotika i.v. auf p.o.
 sobald Patient 24h afebril oder Stabilitätskriterien erreicht sind.
@@ -34,9 +34,7 @@ Stabilitätskriterien:
 Erreger: Streptokokkus pneumoniae bei der ambulant erworbenen Pneumonie Diagnose: Streptokokken und Legionellen Urin-Schnelltest (Antigentest) + BK, Trachealsekret, BAL für Erregernachweis und Antibiogramm.
 Antibiotika: Abhängig von der Wahrscheinlichkeit für P. aeruginosa (Risiko: COPD, KH-
 Voraufenthalt im letzten Jahr, AB-Therapie im letzten Jahr, PEG, bekannte Kononisation mit P.
-aeruginosa)
-Thrombosephrophylaxe, Stressulcusprophylaxe, Lagerungstherapie
-(kranke Seite oben)
+aeruginosa) Thrombosephrophylaxe, Stressulcusprophylaxe, Lagerungstherapie (kranke Seite oben)
 
 
 ## VAP (Ventilations assoziierte Pneumonie)
@@ -46,7 +44,5 @@ Nicht behandlungsbedürftig sind vergrünende Streptokokken, Neisseria spp., Cor
 Neg. Staphylokokken, welche Bedsiedelungen sind.
 90% entsteht innerhalb der ersten 10 Tage der Beatmung.
 
-Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%, frühe enterale Ernährung
-(Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat), wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret, Aspiration trotz Cuff möglich), subglottisches Absaugen
-(geschlossenes System), Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
+Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%, frühe enterale Ernährung (Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat), wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret, Aspiration trotz Cuff möglich), subglottisches Absaugen (geschlossenes System), Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
 Trachealsekret \> 105, BAL \> 104, PBS \> 103

@@ -41,9 +41,7 @@ Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist präklinisch n
 :::
 ::::
 
-Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf
-({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock!septischer!bei Pankreatitis>` Schock erleiden
-({ref}`schock-septischer`).
+Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf ({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock!septischer!bei Pankreatitis>` Schock erleiden ({ref}`schock-septischer`).
 
 (ck859x0c)=
 
@@ -66,9 +64,7 @@ Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchsp
 ## 41. Pankreatitis *
 
 
-Patho: Freisetzung von Chemokinen bewirkt Chemotaxis  =  Anlocken von Monozyten, Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin)
-durch gestörte Mikrozirkulation und Einblutungen (Elastase), Permeabilitätsstörungen (Kallikrein mit Bildung von Kininen) und Schmerzentstehung mit Entzündungsinfiltrat. (SIRS entscheidet Prognose)
-Dauer: ca. 4-6 Wochen nekrot. Pankreatitis!
+Patho: Freisetzung von Chemokinen bewirkt Chemotaxis  =  Anlocken von Monozyten, Makrophagen, Lymphozyten, welche pro- und antiinflammatorische Zytokine freisetzen =  führen zur Fettgewebsnekrosen (Autolyse durch Lipase) und Drüsengewebsnekrosen und Ödem (Trypsin + Chymotrypsin) durch gestörte Mikrozirkulation und Einblutungen (Elastase), Permeabilitätsstörungen (Kallikrein mit Bildung von Kininen) und Schmerzentstehung mit Entzündungsinfiltrat. (SIRS entscheidet Prognose) Dauer: ca. 4-6 Wochen nekrot. Pankreatitis!
 Urs: biliär \> alkoholtoxisch \> sonstiges (Infektionen, Medikamente, Trauma, idi
 
 

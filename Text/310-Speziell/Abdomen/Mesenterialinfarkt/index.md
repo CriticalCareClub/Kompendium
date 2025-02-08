@@ -10,8 +10,7 @@ Ein {dfn}`Mesenterialinfarkt` {index}` <! Mesenterialinfarkt>` ist eine Ischämi
     ({ref}`mesenterium`). Darin verlaufen venöse und arterielle Gefäße
     zum und vom Darm (*Mesenterialgefäße* mit *Mesenterialarterien)* {index}` <Mesenterialarterie>`.
 
-Die Folge eines Mesenterialinfarktes ist das *Absterben des entsprechenden Darmabschnitts*, dadurch kommt es zu einer Perforation mit einer Bauchfellentzündung, Sepsis und einem Versterben des Patienten. Er ist somit ein *ischämischer* {index}` <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte treten gehäuft bei Patienten mit erhöhtem thromboembolischen Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* {index}` <Vorhofflimmern!Mesenterialinfarkt>`
-({ref}`vorhofflimmern`).
+Die Folge eines Mesenterialinfarktes ist das *Absterben des entsprechenden Darmabschnitts*, dadurch kommt es zu einer Perforation mit einer Bauchfellentzündung, Sepsis und einem Versterben des Patienten. Er ist somit ein *ischämischer* {index}` <Ischämie!Mesenterialinfarkt>` Notfall. Mesenterialinfarkte treten gehäuft bei Patienten mit erhöhtem thromboembolischen Risikofaktoren auf, z. B. bei Patienten mit *Vorhofflimmern* {index}` <Vorhofflimmern!Mesenterialinfarkt>` ({ref}`vorhofflimmern`).
 
 ```{index} single: Akutes Abdomen; bei Mesenterialinfarkt
 ```
@@ -57,8 +56,7 @@ Blutversorgung des Darms = 20-30% des HZV:
 - Arteria mesenterica superior: Dünndarm und Colon bis 1/3 vom Transversum, ist mit Truncus coeliacus über Bühlersche Anastomose verbunden
 - Arteria mesenterica inferior: 2/3 Transversum, Sigma, Rectum, Ampulla recti., Anastomose zur A. Mesenterica sup.
 
-Postprandial steigt der Blutfluss in der Arteria mesenterica superior auf das 3 fache an! 2/3 davon in SH und Submukosa! Bei z.B. kardiogenem Schock ist die Zottenernährung bereits eine
-Überforderung des Darms mit Nekrosenbildung an den Zottenspitzen und Laktatanstieg, daher Ernährung pausieren!
+Postprandial steigt der Blutfluss in der Arteria mesenterica superior auf das 3 fache an! 2/3 davon in SH und Submukosa! Bei z.B. kardiogenem Schock ist die Zottenernährung bereits eine Überforderung des Darms mit Nekrosenbildung an den Zottenspitzen und Laktatanstieg, daher Ernährung pausieren!
 Die Schere zwischen VO2 und DO2 geht beim Darm viel schneller auseinander als im gesamten Körper. Auch nach Wiederherstellung des Volumenstatus brauch die Splanchnikusdurchblutung einige Stunden um sich vollkommen zu erholen.
 Ein MAP von ca. 65mmHg wäre optimal. Bereits pflegerische Tätigkeiten, wie z.B. Absaugen, verursachen Stress beim Patienten mit einer Verschlechterung der Splanchnikusdurchblutung.
 
@@ -72,11 +70,8 @@ Die Splanchnikusdurchblutung kann auch nicht selektiv gesteigert werden, daher m
 
 Perfusionsverbesserung: Hypovolämie vermeiden, DO2-Angebot verbessern (Hb, HZV, Perfusionsdruck), kritischer Einsatz von α-adrenergen Substanzen, va.
 Noradrenalin.
-Erhaltung der gastrointestinalen Integrität durch frühe, gemäßigte enterale Ernährung
-(Zottenernährung), Immunnutrition mit
-Ω-3-Fettsäuren
-(antiinflammatorisch), Selen
-(Antioxidans), Glutamin schützt vor SH-Atrophie und damit vor bakterieller Translokation.
+Erhaltung der gastrointestinalen Integrität durch frühe, gemäßigte enterale Ernährung (Zottenernährung), Immunnutrition mit
+Ω-3-Fettsäuren (antiinflammatorisch), Selen (Antioxidans), Glutamin schützt vor SH-Atrophie und damit vor bakterieller Translokation.
 
 
 ### 38.1.1 .Obstruktive Mesenterialischämie
@@ -102,6 +97,5 @@ Folge ist eine Minderperfusion aller Organe: herabgesetztes HZV (erhöhtes prelo
 Therapie: chirurgische Sanierung/Dekompression, Aszites Punktion, OK-Hochlagern, Entwässern,...
 
 Physikalische Untersuchung: Abdominelle Schmerzen?  Darmgeräusche (Totenstille bei paralytischem Ileus, klingende Darmgeräusche bei mechanischem Ileus), Palpation mit Abwehrspannung oder tympanitischem KS bei Meteorismus/Ileus, Inspektion auf Flankenhämatome bei retroperitoneler Blutung.
-Zusatzinformationen: Reflux, Erbrechen, RM, Diarrhöe, Fieber, Hämodynamik, Labor
-(Elektrolytverschiebungen, Leukos, Laktat, Azidose, Transaminasen, Amylase/Lipase, CK/CK-MB), Bildgebende Verfahren (Abdomen leer, Sono, CT, CT-Angio), Gastro/Colo bei GI-Blutungen.
+Zusatzinformationen: Reflux, Erbrechen, RM, Diarrhöe, Fieber, Hämodynamik, Labor (Elektrolytverschiebungen, Leukos, Laktat, Azidose, Transaminasen, Amylase/Lipase, CK/CK-MB), Bildgebende Verfahren (Abdomen leer, Sono, CT, CT-Angio), Gastro/Colo bei GI-Blutungen.
 Explorative Laparatomie bei kritisch Kranken großzügig indiziert.

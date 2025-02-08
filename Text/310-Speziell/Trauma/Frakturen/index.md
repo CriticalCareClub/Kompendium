@@ -12,10 +12,7 @@
 
 ## Allgemeines
 
-Ein {dfn}`Knochenbruch`
-{index}` <! Knochenbruch>`
-(*Syn.* {dfn}`Fraktur` , *lat.* {dfn}`Fract.`)
-ist eine Kontinuitätsunterbrechung eines Knochens mit Bildung von Fragmenten (Bruchstücken) {term}`🗎 Pschyrembel 259`.
+Ein {dfn}`Knochenbruch` {index}` <! Knochenbruch>` (*Syn.* {dfn}`Fraktur` , *lat.* {dfn}`Fract.`) ist eine Kontinuitätsunterbrechung eines Knochens mit Bildung von Fragmenten (Bruchstücken) {term}`🗎 Pschyrembel 259`.
 
 Grundsätzlich wird zwischen zwei Arten von Knochenbrüchen unterschieden: Beim *geschlossenen Knochenbruch* ist die Haut über der Bruchstelle noch intakt, während beim *offenen Knochenbruch*[^footnote-1]
 aufgrund der Gewalteinwirkung von außen die Haut über der Bruchstelle verletzt ist. Der Knochen muss dabei nicht herausragen[^footnote-2].
@@ -123,11 +120,8 @@ Nicht immer kann die Diagnose eines Bruches gestellt oder ausgeschlossen werden.
 - Schwere Muskelquetschung kann zu einem Sauerstoffmangel im Muskel
   führen (Kompartmentsyndrom)
 
-Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher Traumacheck durchgeführt werden, damit keine Begleitverletzungen
-übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient entkleidet wird[^footnote-3]. Beim Entfernen der Schuhe ist darauf zu achten, dass eine Person das Bein fixiert während eine andere Person den Schuh
-öffnet und schließlich mittels
-{ref}`Stiefelgriff <vacuumbeinschiene-anwendung>`
-vorsichtig vom Fuß abzieht.
+Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher Traumacheck durchgeführt werden, damit keine Begleitverletzungen übersehen werden. Dafür ist es unbedingt notwendig, dass der Patient entkleidet wird[^footnote-3]. Beim Entfernen der Schuhe ist darauf zu achten, dass eine Person das Bein fixiert während eine andere Person den Schuh öffnet und schließlich mittels
+{ref}`Stiefelgriff <vacuumbeinschiene-anwendung>` vorsichtig vom Fuß abzieht.
 
 [^footnote-3]: Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
     nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
@@ -221,8 +215,7 @@ Die beiden im Rettungsdienst am häufigsten anzutreffenden, speziellen Knochenbr
 ### Schlüsselbeinfraktur
 
 Die Schlüsselbeinfraktur entsteht meistens, wenn der Patient mit ausgestreckten Armen stürzt. Die große Gefahr dieser Fraktur liegt darin, dass die Schlüsselbeinarterie und -vene verletzt werden können.
-Die Ruhigstellung erfolgt einerseits durch ein Armtragetuch
-(Dreiecktuch) und andererseits durch Fixation des Arms am Oberkörper durch ein zweites Dreiecktuch.
+Die Ruhigstellung erfolgt einerseits durch ein Armtragetuch (Dreiecktuch) und andererseits durch Fixation des Arms am Oberkörper durch ein zweites Dreiecktuch.
 
 ### Schenkelhalsfraktur
 
@@ -232,6 +225,4 @@ Bei der Schenkelhalsfraktur handelt es sich um einen Bruch des Oberschenkelhalse
 - Betroffenes Bein ist nach außen gedreht und verkürzt
 - Unfallhergang meist Sturz (auch an Kollaps denken!)
 
-Die Versorgung erfolgt durch Rettung mittels Schaufeltrage und Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken
-(Kontrolle der Vitalparameter)! Eventuell kann eine Schmerztherapie
-(Notarzt) notwendig sein.
+Die Versorgung erfolgt durch Rettung mittels Schaufeltrage und Ruhigstellung mittels Vakuummatratze. An große Blutverluste denken (Kontrolle der Vitalparameter)! Eventuell kann eine Schmerztherapie (Notarzt) notwendig sein.

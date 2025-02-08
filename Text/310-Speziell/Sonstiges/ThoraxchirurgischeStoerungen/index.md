@@ -16,12 +16,10 @@ orphan: true
 ## Chylothorax
 
 Ein {dfn}`Chylothorax` ist ein Pleuraerguss von Lymphe (Chylon).
-Ursächlich ist oft eine Verletzung des *Ductus thoracicus*
-(iatrogen/intraoperativ, Trauma, Spontanruptur oder eine Verlegung des Duct. thoracicus.
+Ursächlich ist oft eine Verletzung des *Ductus thoracicus* (iatrogen/intraoperativ, Trauma, Spontanruptur oder eine Verlegung des Duct. thoracicus.
 
 :::{note}
-Chylon kann auch in das Mediatinum (Chylomediastinum)
-oder in das Perikard (Chyloperikard) eindringen.
+Chylon kann auch in das Mediatinum (Chylomediastinum) oder in das Perikard (Chyloperikard) eindringen.
 :::
 
 ### Symptome

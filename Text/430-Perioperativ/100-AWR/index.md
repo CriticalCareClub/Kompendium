@@ -9,8 +9,7 @@ Post-Anesthetic-Recovery-Score
 2) Respiration: tiefe Atmung+husten, eingeschränkt mit Dyspnoe, Apnoe (2,1,0)
 3) Circulation: RR +/- 20% vom Ausgang, -20-49%, -50% (2,1,0)
 4) Consciousness: wach, weckbar, reagiert nicht (2,1,0)
-5) Colour: rosa, blass, zyanotisch (2,1,0)
-Bei \< 8 überwachungspflichtig!
+5) Colour: rosa, blass, zyanotisch (2,1,0) Bei \< 8 überwachungspflichtig!
 
 ALDRETE-Score 1) Sauerstoffsättigung: \>90% bei RL, O2-Maske nötig,
 \<90% mit Maske (2,1,0)
@@ -18,8 +17,7 @@ ALDRETE-Score 1) Sauerstoffsättigung: \>90% bei RL, O2-Maske nötig,
 3) Postoperative Übelkeit: keine, vorübergehend, starke Übelkeit mit anhalt. Erbrechen (2,1,0)
 
 
-Vigilanz: abhängig von vorbestehender Beeinträchtigung (Demenz,..), Medikamentenüberhang
-(Opiate, Benzo), Neurologische Komplikationen (Lagerungsschäden, Ischämie, Blutung)
+Vigilanz: abhängig von vorbestehender Beeinträchtigung (Demenz,..), Medikamentenüberhang (Opiate, Benzo), Neurologische Komplikationen (Lagerungsschäden, Ischämie, Blutung)
 
 ZAS zentrales anticholinerges Syndrom:
 Dämpfung/Agetiertheit, Desorientierung, Schläfrigkeit, Ataxie, Halluzinationen, Unruhe, Mydriasis, tockene Haut und trockener Mund!

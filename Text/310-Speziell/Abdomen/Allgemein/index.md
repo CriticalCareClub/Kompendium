@@ -29,8 +29,7 @@ Der Patient muss bis zur endgültigen Klärung der Situation *nüchtern* belasse
 
 ## Der Bauch – unendliche Weiten
 
-Gleich vorweg: In vielen Fällen wird der Grund des Bauchschmerzes nicht mit hinreichender Sicherheit feststellbar sein und es bietet sich keine sichere Verdachtsdiagnose an. Statt einer Diagnose wird dann das *Beschwerdebild beschrieben*
-(Ort des Schmerzes, Art des Schmerzes, Dauer, Verlauf, Ausstrahlung, Ergebnis der abdominellen Tastuntersuchung:
+Gleich vorweg: In vielen Fällen wird der Grund des Bauchschmerzes nicht mit hinreichender Sicherheit feststellbar sein und es bietet sich keine sichere Verdachtsdiagnose an. Statt einer Diagnose wird dann das *Beschwerdebild beschrieben* (Ort des Schmerzes, Art des Schmerzes, Dauer, Verlauf, Ausstrahlung, Ergebnis der abdominellen Tastuntersuchung:
 Abdomen weich oder hart, Druckschmerz, Loslassschmerz).
 Dennoch muss man bei jedem Patienten versuchen, so gut als möglich die in Frage kommenden Krankheitsbilder einzugrenzen und gefährliche Erkrankungen nach Möglichkeit auszuschließen. Im folgenden sind einige häufige Krankheitsbilder beschrieben, die *erkennbar* und relativ häufig sind.
 

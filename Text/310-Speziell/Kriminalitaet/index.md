@@ -31,8 +31,7 @@ Eine Geschlechtliche Nötigung begeht, wer — außer in den Fällen von Vergewa
 #### Reaktion des Opfers
 
 Eine Vergewaltigung oder sexuelle Nötigung ist meist ein akuter Vorfall.
-Dementsprechend sieht man sich einem "unvorbereiteten", zumeist verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann
-äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z. B.
+Dementsprechend sieht man sich einem "unvorbereiteten", zumeist verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z. B.
 Verdrängung etc.). Aus dem anfänglichen Verhalten können keine Rückschlüsse auf das Ausmaß des seelischen Traumas gezogen werden!
 
 #### Reaktion des Fachpersonals
@@ -138,8 +137,7 @@ Sexueller Missbrauch umfasst grundsätzlich die Vornahme oder Verleitung zu gesc
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
-:::{admonition} Missbrauch durch Angehörige eines Gesundheitsberufes Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen
-([§ 212 Abs. 2 Z 1, Zusammenfassung](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html)).
+:::{admonition} Missbrauch durch Angehörige eines Gesundheitsberufes Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen ([§ 212 Abs. 2 Z 1, Zusammenfassung](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html)).
 :::
 
 ```{index} single: Kindesmisshandlung

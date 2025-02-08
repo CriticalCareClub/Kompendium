@@ -14,9 +14,7 @@
 :::
 ::::
 
-Ein {dfn}`Schädel-Hirn-Trauma`
-(*Abkz.* {dfn}`SHT`{index}` <! SHT>`)
-ist eine Gewalteinwirkung auf den Kopf, welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
+Ein {dfn}`Schädel-Hirn-Trauma` (*Abkz.* {dfn}`SHT`{index}` <! SHT>`) ist eine Gewalteinwirkung auf den Kopf, welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
 .
 Die häufigsten Ursachen von Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene Formen des SHT auftreten. Man unterscheidet das *gedeckte SHT*, bei dem die harte Hirnhaut (Dura mater) nicht eröffnet wird, sowie das *offene SHT*, bei dem die harte Hirnhaut eröffnet wird. Bei beiden Arten kommt es zu Bewusstseinsstörungen.
 
@@ -134,8 +132,7 @@ Das **luzide Intervall** kann zu einer katastrophalen Fehleinschätzung des Pati
 :::
 ::::
 
-Grundsätzlich ist beim Schädel-Hirn-Trauma die
-übliche Trauma-Diagnostik durchzuführen. Die *neurologische Beurteilung*, die Erhebung des *Unfallmechanismus* und die Suche nach *Begleit- oder Folgeverletzungen* sind besonders zu betonen.
+Grundsätzlich ist beim Schädel-Hirn-Trauma die übliche Trauma-Diagnostik durchzuführen. Die *neurologische Beurteilung*, die Erhebung des *Unfallmechanismus* und die Suche nach *Begleit- oder Folgeverletzungen* sind besonders zu betonen.
 
 - *Unfallmechanismus*: Anhand des Unfallmechanismus muss ermittelt
   werden, ob es eine Verletzung der (Hals-) Wirbelsäule wahrscheinlich
@@ -293,8 +290,7 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung d
 
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
-Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie
-(Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
+Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
 #### Gehirnprellung — SHT 2°
 

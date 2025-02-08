@@ -159,8 +159,7 @@ Ursächlich für die Bildung eines Blutgerinnsels ist meistens eine verminderte 
 Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser losgelöste Teil wird {dfn}`Embolus` genannt.
 Mit dem Blutstrom gelangt der Embolus über die Hohlvenen in das rechte Herz.
 Bis hierhin gibt es noch keine Probleme, da die Blutgefäße an Dicke zunehmen.
-Vom rechten Herzen gelangt der Embolus in den Lungenkreislauf
-(Lungenarterien).
+Vom rechten Herzen gelangt der Embolus in den Lungenkreislauf (Lungenarterien).
 Hier verzweigen sich die Gefäße wieder und der Durchmesser wird kleiner.
 Dies führt dazu, dass der Embolus irgendwann zu groß ist und stecken bleibt.
 Dadurch wird nun ein Lungengefäß
@@ -185,10 +184,8 @@ Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu baste
 
 Thromboseprophylaxe.
 
-Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …)
-entstehen können.
-Die Substanz wird unter die Haut ("subkutan")
-gespritzt.
+Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können.
+Die Substanz wird unter die Haut ("subkutan") gespritzt.
 
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::

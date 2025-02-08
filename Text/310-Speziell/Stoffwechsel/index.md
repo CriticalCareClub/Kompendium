@@ -239,8 +239,7 @@ Wenn der Patient nicht mehr bewusstseinsklar ist, kann die Zuckergabe nur über 
 ::::
 
 Eine {dfn}`Hyperglykämie` {index}` <! Hyperglykämie>` ist eine maßgebliche Erhöhung des Blutzuckerspiegels.
-Dies ist nicht automatisch ein Notfall. Die Bedrohlichkeit ist davon abhängig, wie rasch sich diese Erhöhung entwickelt hat. So hat ein Patient, bei dem seit Jahren ein unerkannter Diabetes mellitus besteht auch mit sehr hohen Blutzuckerwerten (akut)
-keine Probleme. Der Körper hat sich über die Zeit daran *gewöhnt*.
+Dies ist nicht automatisch ein Notfall. Die Bedrohlichkeit ist davon abhängig, wie rasch sich diese Erhöhung entwickelt hat. So hat ein Patient, bei dem seit Jahren ein unerkannter Diabetes mellitus besteht auch mit sehr hohen Blutzuckerwerten (akut) keine Probleme. Der Körper hat sich über die Zeit daran *gewöhnt*.
 
 Ein anderer Patient, bei dem der Zustand plötzlich eingetreten ist (z. B.
 Erstmanifestation eines Diabetes mellitus Typ I bei einem 19-jährigen, oder wenn das Insulin nicht gespritzt wurde, …), kann mit dem gleichen Blutzuckerwert bereits im Koma liegen.

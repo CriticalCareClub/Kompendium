@@ -124,8 +124,7 @@ Bahnanlagen
 :::
 ::::
 
-Bei Gewitterblitzen treten Spannungen von Millionen von Volt und Stromstärken von bis zu 300 000 A auf. Trotzdem gibt es auch bei Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz
-(wenige Millisekunden) ist. Typische Symptome sind
+Bei Gewitterblitzen treten Spannungen von Millionen von Volt und Stromstärken von bis zu 300 000 A auf. Trotzdem gibt es auch bei Blitzunfällen immer wieder Überlebende, da die Einwirkdauer extrem kurz (wenige Millisekunden) ist. Typische Symptome sind
 
 - Bewusstlosigkeit
 - Vorübergehende Lähmung

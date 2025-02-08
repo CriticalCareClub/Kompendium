@@ -251,9 +251,7 @@ Die Niere als naturgemäß gut durchblutetes Organ kann im Falle einer Verletzun
 
 Ein Beckentrauma ist eine Verletzung des Beckens.
 
-Besonders gefährlich sind Frakturen des Beckengürtels
-({ref}`beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich, der Patient verspürt starke Schmerzen bei jeder passiven Bewegung *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge)
-verloren gehen. Es besteht höchste *Schockgefahr!* Eine *Kompression des Beckens* ist *überlebenswichtig* um den möglichen großen Blutverlust einzudämmen.
+Besonders gefährlich sind Frakturen des Beckengürtels ({ref}`beckenguertel`). Stehen und Gehen ist dann nicht mehr möglich, der Patient verspürt starke Schmerzen bei jeder passiven Bewegung *beider* Beine. Da der Beckenknochen gut durchblutet ist, können binnen weniger Minuten bis zu fünf Liter Blut (also fast die gesamte Blutmenge) verloren gehen. Es besteht höchste *Schockgefahr!* Eine *Kompression des Beckens* ist *überlebenswichtig* um den möglichen großen Blutverlust einzudämmen.
 
 - Entstehung durch erhebliche Gewalteinwirkung (Verschüttung,
   Überrolltrauma)
@@ -303,8 +301,7 @@ verloren gehen. Es besteht höchste *Schockgefahr!* Eine *Kompression des Becken
 
 ## 51.2. Stumpfes Bauchtrauma
 
-In 30% findet sich eine Milzruptur! (Sonographie!!)
-Grad I: subkapsuläres Hämatom, \< 1cm Parenchymtiefe, nichtblutend, \<10% OF Grad II: subkapsuläres Hämatom 10-50% OF, \< 2cm Parenchymtiefe Grad III: subkapsuläres Hämatom \> 50% OF,
+In 30% findet sich eine Milzruptur! (Sonographie!!) Grad I: subkapsuläres Hämatom, \< 1cm Parenchymtiefe, nichtblutend, \<10% OF Grad II: subkapsuläres Hämatom 10-50% OF, \< 2cm Parenchymtiefe Grad III: subkapsuläres Hämatom \> 50% OF,
 \> 3cm Tiefe oder Gefäßverletzung, aktiv blutend Grad IV: Rupturiert frisch blutend, \> 25 des Organs devaskuliert Grad V: komplett zerstörtes Organ, komplett devaskuliert.
 
 Grad I-III konservative Therpie (Ausnahme: Grad III + Polytrauma), IV+V OP!!

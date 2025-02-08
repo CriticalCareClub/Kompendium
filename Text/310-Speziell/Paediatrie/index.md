@@ -2,8 +2,7 @@
 
 ## Umgang mit Kindern
 
-Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die
-(Be-)Handlung einbezogen werden.
+Der Umgang soll prinzipiell schonend erfolgen, Aufregung soll nach Möglichkeit vermieden werden. Wichtig ist, dem Kind eine Bezugsperson zu geben; Die Vertrauensperson bzw. Eltern müssen unbebedingt in die (Be-)Handlung einbezogen werden.
 Nach Möglichkeit soll das Kind während der Betreuung eng bei der Vertrauensperson belassen werden auf den Schoss setzen, …).
 
 
@@ -12,8 +11,7 @@ Nach Möglichkeit soll das Kind während der Betreuung eng bei der Vertrauensper
 ## Anatomische und physiologische Besonderheiten
 
 Kinder unterscheiden sich wesentlich von erwachsenen Patienten, nicht nur in ihrer Fähigkeit, ihre Umwelt und gesetzte Handlungen zu verstehen, sondern auch hinsichtlich ihrer Anatomie und Physiologie.
-Die Tabelle {ref}`Table-altersgruppen-kinder` zeigt eine
-Übersicht über die Einteilung von Kindern nach Altersgruppen.
+Die Tabelle {ref}`Table-altersgruppen-kinder` zeigt eine Übersicht über die Einteilung von Kindern nach Altersgruppen.
 In der Literatur kommt es gelegentlich zu abweichenden Definitionen.
 So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis unmittelbar nach der Geburt als solches klassifiziert.
 
@@ -352,8 +350,7 @@ Kleinkinder *unter 5 Jahren* können bei Fieber sogenannte Fieberkrämpfe entwi
 
 ##### Maßnahmen: Fieberkrampf im Kindesalter
 
-Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen
-({ref}`m-zerebraler-krampfanfall-bestendend`).
+Die Behandlung erfolgt grundsätzlich wie beim Erwachsenen ({ref}`m-zerebraler-krampfanfall-bestendend`).
 Die Körpertemperatur ist immer zu messen!
 
 ### Kindesmisshandlung

@@ -9,8 +9,7 @@
 
 # Gastrointestinale Blutungen und Ösophagusvarizenblutung
 
-{dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>`
-sind Blutungen im Magen-Darm-Trakt.
+{dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>` sind Blutungen im Magen-Darm-Trakt.
 {dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
 
 Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu Blutungen kommen, die auch sehr schwer ausfallen können. Die Unterscheidung nach der Stelle der Blutung ist wesentlich:
@@ -45,11 +44,8 @@ Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu Blutungen 
 ## Symptome
 
 Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
-*Hämatemesis*)
-oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
-Durch die Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich,
-ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz
-({dfn}`Meläna`{index}` <! Meläna>`).
+*Hämatemesis*) oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
+Durch die Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich, ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz ({dfn}`Meläna`{index}` <! Meläna>`).
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ::::{only} not nosidebar
@@ -97,9 +93,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 Klassifikation der Ulcus ventriculi/duodeni-Blutung nach Forrest:
 Ia. Akute Blutung Ib. Sickerblutung IIa. Gefäßstumpf IIb. Koagel
--        III. abgeheiltes Ulcus
-Ösophagusvarizenblutung Risikofaktoren: Child B/C, Varizengröße, Red Spots, Red Wale Markings (kleine Varizen auf den Großen, welche schnell bluten)
-Fundusvarizen    im Magen bluten häufig, kein Banding möglich, daher Histoacryklebung in Bauchlage, damit der Kleber nicht aufs Endoskop tropft! Hohes Aspirationsrisiko bei Intubtion!
+-        III. abgeheiltes Ulcus Ösophagusvarizenblutung Risikofaktoren: Child B/C, Varizengröße, Red Spots, Red Wale Markings (kleine Varizen auf den Großen, welche schnell bluten) Fundusvarizen    im Magen bluten häufig, kein Banding möglich, daher Histoacryklebung in Bauchlage, damit der Kleber nicht aufs Endoskop tropft! Hohes Aspirationsrisiko bei Intubtion!
 Nach 3-5 Tagen wiederholen!
 
 
@@ -118,8 +112,6 @@ Ausnahme: bei schwerer KHK, COPD, Asthma, Herzrhythmusstörungen, paVK, wird ein
 - Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage (Patienten sterben meist an einer Infektion!)
 - Gerinnungstherapie: PTZ \>50, ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
 - Erythromycin 250mg iv (Prokinetikum) = klare Sicht
-- 80mg Pantoloc iv, dann Perfusor 2ml/h (200mg auf 50ml)
-Endoskopische Therapie: Notfalls ÖGD (Banding)
-Interventioelle Radiologie: Embolisation des blutenden Gefäß
+- 80mg Pantoloc iv, dann Perfusor 2ml/h (200mg auf 50ml) Endoskopische Therapie: Notfalls ÖGD (Banding) Interventioelle Radiologie: Embolisation des blutenden Gefäß
 Wenn kein Blutungsstillstand: Denis Stent und TIPS
 

@@ -1,7 +1,6 @@
 # Thermische Schädigungen
 
 (hitzeerkrankungen)=
-
 (system-hitzeschaeden)=
 
 ## Hitzeerkrankungen
@@ -98,18 +97,14 @@ Bei der {dfn}`Hitzeerschöpfung` {index}` <! Hitzeerschöpfung>` ist die *Wärme
 
 Der Hitzschlag und der Sonnenstich sind *lebensbedrohliche Hitzeerkrankungen*.
 
-Beim {dfn}`Hitzschlag` {index}` <! Hitzschlag>`
-ist die *Regulation der Körpertemperatur gestört*.
-Es sind *sehr hohe Temperaturwerte*
-(bis 43°C) möglich.
+Beim {dfn}`Hitzschlag` {index}` <! Hitzschlag>` ist die *Regulation der Körpertemperatur gestört*.
+Es sind *sehr hohe Temperaturwerte* (bis 43°C) möglich.
 Der Patient hat eine zunächst trockene, rote und weiße, später grau-bläuliche Haut, der Kopf ist oft hochrot. Weiters kommt es zu *neurologischen Symptomen*, wie massiven Kopfschmerzen, Schwindel, Erbrechen und Bewusstseinsstörungen; bis hin zur Bewusstlosigkeit. Der Patient kann Schockzeichen zeigen, evtl. auch eine schnelle, flache Atmung.
 
 Ein {dfn}`Sonnenstich` {index}` <! Sonnenstich>` ist ein Hitzeschaden durch Hirnerwärmung infolge von direkter Sonneneinstrahlung auf den **ungeschützten Kopf**. Er ist eine Sonderform des Hitzeschadens: er entsteht durch *direkte Sonneneinstrahlung* auf den ungeschützten Kopf.
 Dadurch steigt die Temperatur im Kopf, es kommt zu einer Reizung der Hirnhäute.
 
-Die Folge sind Symptome wie bei einer Hirnhautentzündung (Meningitis)
-beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz, sind die Folge. Die *Gesichts- und Kopfhaut ist hochrot und heiß*, der restliche Körper bleibt dagegen eher kühl. Der Patient wirkt abgeschlagen und klagt über heftige Kopfschmerzen, Schwindel und
-Übelkeit, auch Unruhe, Verwirrtheitszustände und Nackensteifigkeit sind zu beobachten. In schweren Fällen kann es sogar bis zu Krampfanfällen und Bewusstlosigkeit kommen.
+Die Folge sind Symptome wie bei einer Hirnhautentzündung (Meningitis) beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz, sind die Folge. Die *Gesichts- und Kopfhaut ist hochrot und heiß*, der restliche Körper bleibt dagegen eher kühl. Der Patient wirkt abgeschlagen und klagt über heftige Kopfschmerzen, Schwindel und Übelkeit, auch Unruhe, Verwirrtheitszustände und Nackensteifigkeit sind zu beobachten. In schweren Fällen kann es sogar bis zu Krampfanfällen und Bewusstlosigkeit kommen.
 
 (mt67000c)=
 
@@ -160,8 +155,7 @@ beziehungsweise andere *neurologische Symptome*, wie z. B. Kopfschmerz, sind d
 Eine {dfn}`Unterkühlung` {index}` <! Unterkühlung>` ist eine Erniedrigung der Körperkerntemperatur auf unter 36°C. Ähnlich wie beim Schock kommt es auch bei der Unterkühlung zur Zentralisation des Blutes, um die Körperkerntemperatur aufrecht erhalten zu können. Je niedriger diese Kerntemperatur jedoch sinkt, desto schwerwiegender sind die Folgen!
 
 Es besteht die Gefahr, dass kaltes Blut aus der Peripherie zum Körper hin fließt und sich mit dem noch relativ warmen zentralisierten Blut vermischt. Es kommt dann zu einer weiteren Unterkühlung des Körperstammes, im schlimmsten Fall zu einem
-{dfn}`Bergungstod` {index}` <! Bergungstod>`
-(Blutfluss in Folge von Bewegungen während des Bergungsversuches).
+{dfn}`Bergungstod` {index}` <! Bergungstod>` (Blutfluss in Folge von Bewegungen während des Bergungsversuches).
 
 ### Symptome  und Phasen
 

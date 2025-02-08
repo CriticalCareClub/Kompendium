@@ -1,0 +1,132 @@
+
+
+#
+
+
+
+## 🔬 Im Detail
+
+
+
+### Ursachen
+
+
+
+### 🧬 Pathophysiologie
+
+
+
+## Symptome und Klinik
+
+
+
+### Chronischer Verlauf
+
+
+
+### Notfall
+
+
+
+:::{list-table} Patient Assessement:
+:stub-columns: 1
+:name: TAB-PA-
+
+* - ①
+  -
+* - ②
+  -
+* - ③
+  -
+* - ④
+  -
+* - Ⓐ
+  -
+* - Ⓑ
+  -
+* - Ⓒ
+  -
+* - Ⓓ
+  -
+* - Ⓔ
+  -
+* - ⎇
+  -
+* - ⅀
+  -
+* - 🅂
+  -
+* - 🄰
+  -
+* - 🄼
+  -
+* - 🄿
+  -
+* - 🄻
+  -
+* - 🄴
+  -
+* - 🅁
+  -
+:::
+
+🅯Ⓛ
+
+## 🔎 Diagnostik
+
+👁 Klinisch
+: Text
+
+🧪 Labor
+: Text
+
+📷 Bildgebung
+: Text
+
+🔭 Sonstiges
+: Text
+
+
+
+## ℞ Therapie
+
+Taktik
+
+: Taktik
+
+
+### ⛑ Basismaßnahmen
+
+- Lagerung:
+- {{ TxBeiVit }} {{ TxMassVitMK }}
+- O₂-Gabe:
+
+
+### 🚑 Prähospitale Versorgung
+
+Taktik
+
+: Taktik
+
+
+### 🕏 Pharmakotherapie
+
+
+
+### 🏥 Intensivtherapie
+
+
+
+#### 💨 Beatmungstherapie
+
+
+
+### Sonstiges
+
+
+
+## Perioperatives Management
+
+
+
+

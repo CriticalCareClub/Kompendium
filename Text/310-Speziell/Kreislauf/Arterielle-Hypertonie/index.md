@@ -19,9 +19,13 @@
 
 Die {dfn}`arterielle Hypertonie` (*Bluthochdruck*, *Hochdruckkrankheit*) ist eine meist symptomlose, *chronische* Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
 
-Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc. [^footnote-1]
+Sie kann auf Dauer zu schweren Schäden an den Blutgefäße und im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen. 
+Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc. [^footnote-1]
 
-Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg. Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten. Eine Ausnahme stellen *Schwangere* dar: Eine Hypertonie kann ein Zeichen einer schwerwiegenden Schwangerschaftserkrankung sein und muss zeitnah entsprechend abgeklärt und behandelt werden.
+Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg. 
+Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten. 
+Eine Ausnahme stellen *Schwangere* dar: 
+Eine Hypertonie kann ein Zeichen einer schwerwiegenden Schwangerschaftserkrankung sein und muss zeitnah entsprechend abgeklärt und behandelt werden.
 
 [^footnote-1]: Hypertonie: Neben der systemischen arteriellen (essentiellen)
     Hypertonie gibt es auch andere Krankheitsbilder, bei denen der Druck

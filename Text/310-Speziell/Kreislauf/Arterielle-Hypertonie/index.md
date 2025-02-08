@@ -137,10 +137,6 @@ Kopfschmerzen, Sehstörungen, Brustschmerzen, Übelkeit, Erbrechen, Schwindel �
 
 
 
-## 26.2. Hypertonie *
-
-
-
 ## Therapie
 
 ### Chronische Therapie

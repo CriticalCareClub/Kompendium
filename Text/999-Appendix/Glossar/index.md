@@ -44,6 +44,9 @@ ETI
 FMC
 : First Medical Contact
 
+HQ
+: {ref}`Horovitz-Quotient <Horovitz-Quotient>`
+
 ICP
 : Intracranial Pressure; intrakranieller Druck
 

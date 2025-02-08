@@ -298,6 +298,7 @@ Die Aussagekraft hinsichtlich der Respiration der BGA:
 ```
 ```{index} single: Index; Horovitz
 ```
+(Horovitz-Quotient)=
 (Q-ARMO23002-2)=
 
 #### Horovitz-Quotient

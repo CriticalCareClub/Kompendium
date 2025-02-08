@@ -155,137 +155,85 @@ Bei COPD-Patienten kann es bei Sauerstoffgabe zu Bewusstseinsstörungen und im E
 
 ## 1234ABCDE: COPD
 
-::::{only} not nosidebar
-
-:::{margin} 1234ABCDE
-①
-
-: Kalte Umgebung
-
-②
-
-: Atemhilfsmuskulatur, Anstrengung beim Atmen, ängstlich, Fassthorax, Rechtsherzbelastung mit Jugularvenenstau und peripheren Ödemen
-
-③
-
-: Evtl. **🚩**Bewusstseinsstörungen
-
-④
-
-: Atemnot
-
-Ⓐ
-
-: Siehe Ⓑ
-
-Ⓑ
-
-: Atemnot! Ausatmung erschwert, Husten Tachypnoe, 🚩 Zyanose;
-
-  verlängertes Exspirium mit Pfeifen, Giemen, verminderte Atemgeräusche
-
-  SpO₂ chronisch niedrig (~ 90%): Normalwert gilt nicht!
-
-Ⓒ
-
-: HF ↑, RR ↑
-
-`=`
-
-: Vitale Bedrohung bei schwerer Atemnot und Bewusstseinsstörungen
-
-⌥
-
-: Evtl. erhöhte Körpertemperatur
+:::{rubric} {{ TxAbcde1 }}
 :::
-::::
 
-①
+Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
 
-: Evtl. kalte Umgebung (kalte Luft führt zur Verengung der Bronchien)
+:::{rubric} {{ TxAbcde2 }}
+:::
 
-②
+Einsatz der Atemhilfsmuskulatur,
+Mühe beim Atmen,
+Fassthorax,
+evtl. Heimsauerstoff,
+oft wirkt der Patient ängstlich.
 
-: Einsatz der Atemhilfsmuskulatur,
-  Mühe beim Atmen,
-  Fassthorax,
-  evtl. Heimsauerstoff,
-  oft wirkt der Patient ängstlich.
+:::{rubric} {{ TxAbcde3 }}
+:::
+Bei schweren Anfällen kann es aufgrund der Hypoxie zu  🚩**Bewusstseinsstörungen** kommen.
 
-③
+:::{rubric} {{ TxAbcde4 }}
+:::
 
-: Bei schweren Anfällen kann es aufgrund der Hypoxie zu
-  🚩**Bewusstseinsstörungen** kommen.
+Atemnot
 
-④
+:::{rubric} {{ TxAbcdeA }}
+:::
 
-: Atemnot
+Siehe Ⓑ
 
-Ⓐ
+:::{rubric} {{ TxAbcdeB }}
+:::
 
-: Siehe Ⓑ
+Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
+Schleimproduktion) und Ateminsuffizienz:
+Die *Exspiration* ist erschwert, der Patient klagt über
+*Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und
+evtl. eine zentrale 🚩 *Zyanose*.
+Das Exspirium ist verlängert, oft kann man ein *brummendes, pfeifendes oder giemendes oder vermindertes Atemgeräusch* hören.
+In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen kommen.
 
-Ⓑ
+Schon beim stabilen Patienten zeigt sich in der BGA eine **Hyperkapnie** (wobei der pH-Wert im chronischen Setting häufig normal ist) und Hypoxie, sowie eine verminderte *Sauerstoffsättigung* (~ 90%).
+Bei fortgeschrittener Ateminsuffizienz bekommt der Patient oft eine *Heimsauerstofftherapie* verordnet.
+Bei akuter respiratorischer Insuffizienz kann es durch eine Hyperkapnie zu 🚩 *Bewusstseinsstörungen kommen* (*CO₂-Narkose*)!
 
-: Je nach Schweregrad kommt es zu Zeichen einer Atemwegsverlegung der
-  *unteren* Atemwege (Obstruktion, durch Verengung der Bronchien und
-  Schleimproduktion) und Ateminsuffizienz:
-  Die *Exspiration* ist erschwert, der Patient klagt über
-  *Belastungsdyspnoe*, ein Engegefühl, *Husten* und hat Tachypnoe und
-  evtl. eine zentrale 🚩 *Zyanose*.
-  Das Exspirium ist verlängert, oft kann man ein *brummendes, pfeifendes oder giemendes oder vermindertes Atemgeräusch* hören.
-  In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen kommen.
+:::{rubric} {{ TxAbcdeC }}
+:::
 
-  Schon beim stabilen Patienten zeigt sich in der BGA eine **Hyperkapnie** (wobei der pH-Wert im chronischen Setting häufig normal ist) und Hypoxie, sowie eine verminderte *Sauerstoffsättigung* (~ 90%).
-  Bei fortgeschrittener Ateminsuffizienz bekommt der Patient oft eine *Heimsauerstofftherapie* verordnet.
-  Bei akuter respiratorischer Insuffizienz kann es durch eine Hyperkapnie zu 🚩 *Bewusstseinsstörungen kommen* (*CO₂-Narkose*)!
+Evtl. tachkard und hyperton
 
-Ⓒ Kreislauf
+:::{rubric} {{ TxAbcdeFazit }}
+:::
 
-: Evtl. tachkard und hyperton
+Bei 🚩 schwerer Atemnot oder 🚩 Bewusstseinsstörungen vitale Bedrohung.
 
-`=` Beurteilung
+:::{rubric} {{ TxAbcdeAlt }}
+:::
 
-: Bei 🚩 schwerer Atemnot oder
-  🚩 Bewusstseinsstörungen vitale Bedrohung.
+Als Nebenbefund können Infektzeichen vorliegen (erhöhte  Körpertemperatur).
 
-⌥
 
-: Als Nebenbefund können Infektzeichen vorliegen (erhöhte
-  Körpertemperatur).
 
 ## SAMPLER: COPD
 
-::::{only} not nosidebar
 
-:::{margin} SAMPLER
-🄼
-
-: Inhalatoren, evtl. Heimsauerstoff.
-
-🄿
-
-: COPD vorbekannt
-
-🄻
-
-: Letzte Spray-Einnahme?
+:::{rubric} 🄼 Medikation
 :::
-::::
 
-🄼 Medikation
+Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
+Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
+Antibiotika verschrieben.
 
-: Inhalatoren bzw. Sprays zur Dauer- und Akuttherapie, Heimsauerstoff.
-  Häufig Kortisonpräparate; bei vorbekanntem Infekt wurden oft schon
-  Antibiotika verschrieben.
+:::{rubric} 🄿 Krankengeschichte
+:::
 
-🄿 Krankengeschichte
+Eine COPD ist normalerweise vorbekannt.
 
-: Eine COPD ist normalerweise vorbekannt.
+:::{rubric} 🄻 Letztes
+:::
 
-🄻 Letztes
-
-: Letzte Spray-Einnahme?
+Letzte Spray-Einnahme?
 
 
 (m-copd-exzerbation)=

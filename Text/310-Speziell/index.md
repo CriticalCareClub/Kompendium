@@ -7,7 +7,8 @@
 :glob:
 
 Atmung/index
-HerzKreislauf/index
+Herz/index
+Kreislauf/index
 Gerinnung/index
 Anaphylaxie/index
 Abdomen/index

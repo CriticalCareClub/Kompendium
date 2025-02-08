@@ -111,7 +111,7 @@ Ein gutes Beispiel einer Störung der Kommunikation ist das
 Um deratige
 Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfänger eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu kontrollieren, ob und wie er die Botschaft verstanden hat.
 
-:::{figure} /Bilder/WikipediaCcBySa/Sender-Empfaenger-Modell-edited.\*
+:::{figure} /Bilder/CC-BY-SA/Sender-Empfaenger-Modell-edited.\*
 
 Das Sender-Empfänger-Modell
 
@@ -173,7 +173,7 @@ Als klassisches Beispiel ist die
 > | *Appellaussage*     | Fahr los!                                          | Er will dass ich ihm das Steuer überlasse. |
 > | *Selbstoffenbarung* | Ich habe es eilig.                                 | Er will mich bevormunden.                  |
 
-:::{figure} /Bilder/WikipediaCcBySa/SchulzVonThunVierOhrenModell-edited.\*
+:::{figure} /Bilder/CC-BY-SA/SchulzVonThunVierOhrenModell-edited.\*
 
 Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von Thun {term}`🗎 Thun 1981`
 

@@ -382,7 +382,7 @@ Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den Presswehen ähnlich
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaPd/Newborn_umbilical_suction-AASS-0030mm.\*
+:::{figure} /Bilder/PD/Newborn_umbilical_suction-AASS-0030mm.\*
 :width: 100%
 
 Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt.
@@ -390,7 +390,7 @@ Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verd
 ₢ WMC: "Jeremykemp" ℓ PD
 :::
 
-:::{figure} /Bilder/WikipediaPd/Navelklem.\*
+:::{figure} /Bilder/PD/Navelklem.\*
 :width: 100%
 
 Abgeklemmte Nabelschnur
@@ -398,7 +398,7 @@ Abgeklemmte Nabelschnur
 ₢ WMC: "Harmid" ℓ PD
 :::
 
-:::{figure} /Bilder/WikipediaPd/Umbilicalstump.\*
+:::{figure} /Bilder/PD/Umbilicalstump.\*
 :width: 100%
 
 Nabelschnurstumpf nach sieben Tagen

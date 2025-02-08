@@ -1,6 +1,6 @@
 ```{index} single: Rettungskorsett
 ```
-```{index} single: KED™ 
+```{index} single: KED™
 ```
 ```{index} single: Kendrick Extrication Device™
 ```
@@ -13,7 +13,7 @@ Das Rettungskorsett wird primär für das Umlagern von sitzenden Patienten mit d
 Das Rettungskorsett wird (ausser wenn es ausschließlich dazu verwendet wird, den Patienten zur Erleichterung der Rettung mit
 "Haltegriffen" auszustatten) gemeinsam mit einer *HWS-Schiene* verwendet.
 
-:::{figure} /Bilder/WikipediaPd/KED.jpg
+:::{figure} /Bilder/PD/KED.jpg
 
 Rettungskorsett
 

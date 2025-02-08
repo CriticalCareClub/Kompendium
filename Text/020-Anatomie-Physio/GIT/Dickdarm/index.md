@@ -53,7 +53,7 @@ Diese zersetzen die unverdaulichen Nahrungsreste durch Gärungs- und Fäulnispro
 
 Da die Nahrungsstoffe bereits im Dünndarm resorbiert wurden, besteht die Aufgabe des Dickdarms in der **Aufnahme von Wasser**.
 
-:::{figure} /Bilder/WikipediaPd/Colon_anatomy.\*
+:::{figure} /Bilder/PD/Colon_anatomy.\*
 :width: 75%
 
 Der Dickdarm

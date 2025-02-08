@@ -64,7 +64,7 @@ Testmuskel:
    Dies ermöglicht die Überwachung bei *sehr tiefer Relaxierung*,
    wenn eine TOF-Stimulation keine Antwort mehr erzeugen kann.
 
-   :::{figure} /Bilder/WikipediaCcBySa/Double_burst_stimulation.\*
+   :::{figure} /Bilder/CC-BY-SA/Double_burst_stimulation.\*
    Unterschied der motorischen Reaktionen deutlicher als bei TOF-Stimulation *Wikimedia Commons / A1b2 commons*
    :::
 
@@ -73,17 +73,17 @@ Testmuskel:
    neuromuskulären Blockade und die zugehörigen TOF-Quotienten und
    TOF-Zahlen sind angegeben *Wikimedia Commons / PhilippN*
 
-   :::{figure} /Bilder/WikipediaCcBySa/Train-of-Four.\*
+   :::{figure} /Bilder/CC-BY-SA/Train-of-Four.\*
    :::
 
-   :::{figure} /Bilder/WikipediaCcBySa/Post_tetanic_count.\*
+   :::{figure} /Bilder/CC-BY-SA/Post_tetanic_count.\*
    :::
 
-   :::{figure} /Bilder/WikipediaCcBySa/Post_tetanic_count.\*
+   :::{figure} /Bilder/CC-BY-SA/Post_tetanic_count.\*
    :::
 
-{download}`/Bilder/WikipediaCcBySa/Train-of-Four.png`
+{download}`/Bilder/CC-BY-SA/Train-of-Four.png`
 
-{download}`/Bilder/WikipediaCcBySa/Post_tetanic_count.pdf`
+{download}`/Bilder/CC-BY-SA/Post_tetanic_count.pdf`
 
-{download}`/Bilder/WikipediaCcBySa/Post_tetanic_count.pdf`
+{download}`/Bilder/CC-BY-SA/Post_tetanic_count.pdf`

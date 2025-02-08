@@ -14,7 +14,7 @@
 
 ## Knochen
 
-:::{figure} /Bilder/WikipediaPd/Human_arm_bones_diagram_de-edited.\*
+:::{figure} /Bilder/PD/Human_arm_bones_diagram_de-edited.\*
 :width: 100%
 
 Der Schultergürtel und die obere Extremität
@@ -344,7 +344,7 @@ supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor). Das Schulter
 ```
 ```{index} single: Ellenbogengelenk
 ```
-```{index} single: Gelenk; Ellenbogen- 
+```{index} single: Gelenk; Ellenbogen-
 ```
 ```{index} single: Schleimbeutel; Ellenbogengelenk
 ```
@@ -381,7 +381,7 @@ anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist knochen- und ba
 ```
 ```{index} single: Daumensattelgelenk
 ```
-```{index} single: Gelenk; Daumensattel- 
+```{index} single: Gelenk; Daumensattel-
 ```
 ```{index} single: Articulatio; radiocarpea
 ```

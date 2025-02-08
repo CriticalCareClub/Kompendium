@@ -167,7 +167,7 @@ Der hydrodynamische Druck $p_d$ wächst **quadratisch** mit der Flußgeschwindig
 
 Das Kontinuitätsgesetz besagt (in integraler Form), dass der Massenstrom eines Fluids (Flüssigkeit oder Gas) in einem Rohr unabhängig davon ist, wo er gemessen wird. Für inkompressible Fluide gilt Kontinuität auch für den Volumenstrom.
 
-:::{figure} /Bilder/WikipediaCcBySa/FlowRate_gv52.png
+:::{figure} /Bilder/CC-BY-SA/FlowRate_gv52.png
 
 Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::
@@ -223,7 +223,7 @@ Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durc
 
 ```
 
-```{index} single: Strömungswiderstand 
+```{index} single: Strömungswiderstand
 ```
 ```{index} pair: Gleichung; Strömungswiderstand
 ```
@@ -320,7 +320,7 @@ Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt 
 
 ```{index} single: Henry-Gesetz
 ```
-```{index} single: Gesetz, Henry- 
+```{index} single: Gesetz, Henry-
 ```
 ```{index} single: Blut-Gas-Verteilungskoeffizient
 ```
@@ -379,12 +379,12 @@ $$
 
 Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab
 
-:::{figure} /Bilder/WikipediaCcBySa/Konzentrationsabhängigkeit_vom_Partialdruck_1.\*
+:::{figure} /Bilder/CC-BY-SA/Konzentrationsabhängigkeit_vom_Partialdruck_1.\*
 
 Die Konzentration an Teilchen in der flüssigen Phase (hier blau dargestellt) hängt vom Partialdruck ab. Eine ...
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/Konzentrationsabhängigkeit_vom_Partialdruck_2.\*
+:::{figure} /Bilder/CC-BY-SA/Konzentrationsabhängigkeit_vom_Partialdruck_2.\*
 
 Erhöhung des Außendrucks (hier durch Einpressen eines Kolbens dargestellt) führt zu einem höheren Partialdruck der Gasphase und folglich zu einer höheren Konzentration.
 :::

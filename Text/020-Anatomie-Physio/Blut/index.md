@@ -2,7 +2,7 @@
 
 # Blut
 
-:::{figure} /Bilder/WikipediaCcBy/Bleeding_finger.\*
+:::{figure} /Bilder/CC-BY/Bleeding_finger.\*
 ₢ Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
 :::
 
@@ -169,7 +169,7 @@ Es gibt folgende Blutzellen:
 
 - *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
-:::{figure} /Bilder/WikipediaPd/Red_White_Blood_cells.jpg
+:::{figure} /Bilder/PD/Red_White_Blood_cells.jpg
 
 Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 

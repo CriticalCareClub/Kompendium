@@ -139,7 +139,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 
 
-:::{figure} /Bilder/WikipediaPd/Verbrennung1-00441pt.\*
+:::{figure} /Bilder/PD/Verbrennung1-00441pt.\*
 :width: 100%
 
 Verbrennung 1°
@@ -147,7 +147,7 @@ Verbrennung 1°
 ₢ Trent Easton; de.wikipedia  ℓ  PD
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/VerbrennungGrad2a-00441pt.\*
+:::{figure} /Bilder/CC-BY-SA/VerbrennungGrad2a-00441pt.\*
 :width: 100%
 
 Verbrennung 2°
@@ -155,7 +155,7 @@ Verbrennung 2°
 ₢ Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/Verbrennung_3gradig01.\*
+:::{figure} /Bilder/CC-BY-SA/Verbrennung_3gradig01.\*
 :width: 100%
 
 Verbrennung 3°

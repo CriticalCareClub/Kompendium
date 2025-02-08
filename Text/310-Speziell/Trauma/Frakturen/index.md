@@ -146,7 +146,7 @@ Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fu�
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/WikipediaCcBy/fraktur-offen-finger.\*
+:::{figure} /Bilder/CC-BY/fraktur-offen-finger.\*
 :width: 100%
 
 Nicht immer sind offene Frakturen spektakulär:

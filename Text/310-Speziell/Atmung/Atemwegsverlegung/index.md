@@ -188,7 +188,7 @@ Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiser
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/WikipediaPd/Abdominal_thrusts3.jpg
+:::{figure} /Bilder/PD/Abdominal_thrusts3.jpg
 
 Heimlich-Manöver:
 Japanese intern Naoko Uehara at U.S. Naval Hospital, Okinawa, teaches proper technique for treating a choking victim with the assistance of Hospital Corpsman Second Class Ross Francis.

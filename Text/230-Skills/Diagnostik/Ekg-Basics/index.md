@@ -27,7 +27,7 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaCcBySa/EKG_Komplex.\*
+:::{figure} /Bilder/CC-BY-SA/EKG_Komplex.\*
 :width: 100%
 
 Eine elektrische Herzaktion.
@@ -40,7 +40,7 @@ Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche 
 ₢ WMC:Hank, {term}`ℓ CC BY-SA 2.0 DE`
 :::
 
-:::{figure} /Bilder/WikipediaCcBy/Reizleitungssystem_1.\*
+:::{figure} /Bilder/CC-BY/Reizleitungssystem_1.\*
 :width: 100%
 
 Reizleitungssystem, Schema.
@@ -223,7 +223,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
   -
 :::
 
-:::{figure} /Bilder/WikipediaPd/ECGcolor_edited.\*
+:::{figure} /Bilder/PD/ECGcolor_edited.\*
 :width: 70%
 
 Extremitätenableitungen und Brustwandableitungen
@@ -231,7 +231,7 @@ Extremitätenableitungen und Brustwandableitungen
 ₢ WmCo/Madhero88, {term}`ℓ PD`
 :::
 
-:::{figure} /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.\*
+:::{figure} /Bilder/PD/12_lead_generated_sinus_rhythm.\*
 :width: 100%
 
 10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund

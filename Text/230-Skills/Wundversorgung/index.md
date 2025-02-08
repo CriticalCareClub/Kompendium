@@ -75,7 +75,7 @@ Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen werden:
 ```
 ```{index} single: Vulnus; scissum
 ```
-```{index} single: Vuln.; sciss. 
+```{index} single: Vuln.; sciss.
 ```
 ```{index} single: Stichwunde
 ```
@@ -87,13 +87,13 @@ Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen werden:
 ```
 ```{index} single: Vulnus; laceratum
 ```
-```{index} single: Vuln.; lac. 
+```{index} single: Vuln.; lac.
 ```
 ```{index} single: Quetschwunde
 ```
 ```{index} single: Vulnus; contusum
 ```
-```{index} single: Vuln.; cont. 
+```{index} single: Vuln.; cont.
 ```
 ```{index} single: Rissquetschwunde
 ```
@@ -532,7 +532,7 @@ Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll unbedingt mit e
     Rahmen des Krankentransports haben sie dennoch eine gewisse
     Berechtigung.
 
-:::{figure} /Bilder/WikipediaPd/Escarre_Stade_4_detail.\*
+:::{figure} /Bilder/PD/Escarre_Stade_4_detail.\*
 :width: 100%
 
 Dekubitus Grad 4

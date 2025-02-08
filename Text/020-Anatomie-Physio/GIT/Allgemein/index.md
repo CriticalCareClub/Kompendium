@@ -24,7 +24,7 @@ Die Verdauungsorgane können nach Lokalisation und Aufgaben grob in einen Kopfte
   Bauchspeicheldrüse) ➛ Freisetzung der Nährstoffe, Resorption,
   Ausscheidung
 
-:::{figure} /Bilder/WikipediaPd/Digestive_system_diagram_de-edited.\*
+:::{figure} /Bilder/PD/Digestive_system_diagram_de-edited.\*
 Übersicht Verdauungstrakt
 
 ₢ Mariana Ruiz Villarreal ℓ Public domain

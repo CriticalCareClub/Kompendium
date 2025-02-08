@@ -13,7 +13,7 @@
 Man kann den Bewegungsapparat in einen **aktiven** und einen **passiven** unterteilen.
 Der passive Bewegungsapparat besteht aus dem *Skelett* und den *Knochenverbindungen*, der aktive Bewegungsapparat aus *Skelettmuskulatur*, den dazugehörigen *Sehnen* und den *Hilfseinrichtungen* der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
 
-:::{figure} /Bilder/WikipediaPd/Human_skeleton_front-edited.\*
+:::{figure} /Bilder/PD/Human_skeleton_front-edited.\*
 :width: 100%
 
 Das menschliche Skelett.
@@ -118,27 +118,27 @@ Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es gibt
 
 ```{index} single: Kugelgelenk
 ```
-```{index} single: Gelenk;Kugel- 
+```{index} single: Gelenk;Kugel-
 ```
 ```{index} single: Eigelenk
 ```
-```{index} single: Gelenk;Ei- 
+```{index} single: Gelenk;Ei-
 ```
 ```{index} single: Sattelgelenk
 ```
-```{index} single: Gelenk;Sattel- 
+```{index} single: Gelenk;Sattel-
 ```
 ```{index} single: Scharniergelenk
 ```
-```{index} single: Gelenk;Scharnier- 
+```{index} single: Gelenk;Scharnier-
 ```
 ```{index} single: Zapfengelenk
 ```
-```{index} single: Gelenk;Zapfen- 
+```{index} single: Gelenk;Zapfen-
 ```
 ```{index} single: Zusammengesetztes Gelenk
 ```
-```{index} single: Gelenk;zusammengesetztes - 
+```{index} single: Gelenk;zusammengesetztes -
 ```
 ```{index} single: Zusammengesetztes Gelenk
 ```
@@ -221,7 +221,7 @@ In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctu
 Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** notwendig, um eine Bewegung aufzuheben (**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.:
 ein Muskel streckt den Arm, ein *anderer* beugt ihn).
 
-:::{figure} /Bilder/WikipediaPd/Gray361.\*
+:::{figure} /Bilder/PD/Gray361.\*
 :align: right
 :width: 50%
 

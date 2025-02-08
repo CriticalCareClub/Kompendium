@@ -281,7 +281,7 @@ Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming vers
 
 In weiterer Folge wurde eine Vielzahl weiterer Antibiotika entwickelt und man dachte, man hätte die bakteriellen Infektionen besiegt. Doch man irrte sich gewaltig …
 
-:::{figure} /Bilder/WikipediaPd/Faroe_stamp_079_europe_fleming.\*
+:::{figure} /Bilder/PD/Faroe_stamp_079_europe_fleming.\*
 
 Alexander Fleming
 
@@ -355,7 +355,7 @@ Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der Bevölkerun
 Man spricht dann vom {dfn}`MRSA` {index}` <! MRSA>`
 (Multi-resistenter Staphylococcus aureus).
 
-:::{figure} /Bilder/WikipediaPd/11159_lores_VRSA.\*
+:::{figure} /Bilder/PD/11159_lores_VRSA.\*
 
 Ein resistenter Staph. aureus (VRSA) im Elektronenmikroskop, koloriert
 

@@ -43,7 +43,7 @@ Je nachdem wieviele Koronargefäße betroffen sind, spricht man von einer 1-, 2-
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaCcBy/Hk_coronary_bionerd.\*
+:::{figure} /Bilder/CC-BY/Hk_coronary_bionerd.\*
 :width: 100%
 
 Das Herz mit seinen Koronargefäßen
@@ -51,7 +51,7 @@ Das Herz mit seinen Koronargefäßen
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/WikipediaCcBy/Hk_coronary_bionerd.\*
+:::{figure} /Bilder/CC-BY/Hk_coronary_bionerd.\*
 :width: 100%
 
 Darstellung der Herzkranzgefäße mittels Koronarangiographie
@@ -63,7 +63,7 @@ Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntge
 ₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`
 :::
 
-:::{figure} /Bilder/WikipediaCcBy/Heart_coronary_artery_lesion-lq.\*
+:::{figure} /Bilder/CC-BY/Heart_coronary_artery_lesion-lq.\*
 :width: 100%
 
 Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
@@ -253,7 +253,7 @@ Schäden am Herzmuskel bestehen.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaCcBySa/Heart_normal_short_axis_section-00640.\*
+:::{figure} /Bilder/CC-BY-SA/Heart_normal_short_axis_section-00640.\*
 :width: 100%
 
 Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel.
@@ -262,7 +262,7 @@ Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts d
 {term}`ℓ CC BY 2.5`
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/Heart_inferior_wall_infarct-00640.\*
+:::{figure} /Bilder/CC-BY-SA/Heart_inferior_wall_infarct-00640.\*
 :width: 100%
 
 Ischämisches Herzmuskelgewebe ...
@@ -271,7 +271,7 @@ Ischämisches Herzmuskelgewebe ...
 {term}`ℓ CC BY 2.5`
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/Heart_inferior_wall_scar.\*
+:::{figure} /Bilder/CC-BY-SA/Heart_inferior_wall_scar.\*
 :width: 100%
 
 stirbt nach einger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt.
@@ -310,7 +310,7 @@ Aufgrund der Mangeldurchblutung des Herzmuskels kommt es zu einem Funktionsverlu
 
 Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
 
-:::{figure} /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.\* Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre Tachykardie, sind häufige Komplikationen eines Herzinfarktes
+:::{figure} /Bilder/PD/12_lead_generated_ventricular_tachycardia.\* Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre Tachykardie, sind häufige Komplikationen eines Herzinfarktes
 
 {term}`ℓ PD`
 :::

@@ -64,7 +64,7 @@ Das ZNS ist im Wesentlichen für *Steuer-, Regel- und Denkfunktionen* zuständig
 Das Gehirn ist ca. 1,3 kg schwer (1,1 bis 1,6 kg), wobei es hier geschlechtsspezifische Unterschiede gibt: Mann 20g/kgKG, Frau 22g/kgKG.
 Es werden mehrere Teile unterschieden - Großhirn, Zwischenhirn, Mittelhirn, Pons, Kleinhirn und verlängertes Mark.
 
-:::{figure} /Bilder/WikipediaCcBy/Human_skull_side_simplified_hirngesicht_de-edited.\*
+:::{figure} /Bilder/CC-BY/Human_skull_side_simplified_hirngesicht_de-edited.\*
 :width: 50%
 
 Das Hirn im seitlichen Querschnitt

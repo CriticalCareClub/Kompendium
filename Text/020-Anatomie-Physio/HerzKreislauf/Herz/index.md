@@ -221,7 +221,7 @@ Hier befinden sich zahlreiche sog. Gap Junctions, die über direkte Ionenströme
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaCcBy/Reizleitungssystem_1.\*
+:::{figure} /Bilder/CC-BY/Reizleitungssystem_1.\*
 :align: right
 :width: 100%
 
@@ -287,7 +287,7 @@ Wichtigste Herzvenen:
 ```
 ```{index} single: Systole
 ```
-```{index} single: Füllungsphase (Herz) 
+```{index} single: Füllungsphase (Herz)
 ```
 ```{index} single: Diastole
 ```
@@ -349,9 +349,9 @@ Folgende Herzfunktionen können vom Zentralen Nervensystem aus über das autonom
 
 Der *Sympathikus (über Noradrenalin)* steigert die Herzaktion gleichmäßig das gesamte Herz betreffend, der *Parasympathikus (über Acetylcholin)* bremst die Herzaktion insbesondere des Vorhofes (Sinusknoten und AV-Knoten).
 
-```{index} single: β₁-Rezeptoren (Myokard) 
+```{index} single: β₁-Rezeptoren (Myokard)
 ```
-```{index} single: α₁-Rezeptoren (Myokard) 
+```{index} single: α₁-Rezeptoren (Myokard)
 ```
 ```{index} single: Ca⁺⁺ (Myokard)
 ```

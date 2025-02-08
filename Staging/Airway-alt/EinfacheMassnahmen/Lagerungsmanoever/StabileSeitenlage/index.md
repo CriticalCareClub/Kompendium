@@ -22,7 +22,7 @@ Aspirationsprophylaxe.
    gedreht. Dabei kippt der Patient auf die Seite zum Helfer.
 5. Kopf des Patienten überstrecken
 
-:::{figure} /Bilder/WikipediaPd/Seitenlage1.png
+:::{figure} /Bilder/PD/Seitenlage1.png
 Stabile Seitenlage
 
 Der Helfer fasst unter das von ihm abgewandte Knie des Patienten

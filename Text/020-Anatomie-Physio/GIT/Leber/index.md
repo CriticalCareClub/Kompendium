@@ -44,7 +44,7 @@ Mikroskopisch kann die Leber in *Leberläppchen* von 1-2 mm Durchmesser einget
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaPd/Liver_and_pangreas_-_transparent.png
+:::{figure} /Bilder/PD/Liver_and_pangreas_-_transparent.png
 :width: 100%
 
 Leber, Gallenblase und Pankreas.
@@ -101,7 +101,7 @@ Die wichtigsten Aufgaben sind die Produktion von Proteinen, die Metabolisierung,
 
 ```{index} single: Gallenflüssigkeit
 ```
-```{index} single: Reflux; galliger — 
+```{index} single: Reflux; galliger —
 ```
 ```{index} single: Gallensäure
 ```

@@ -133,7 +133,7 @@ oder Gelatine.
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaPd/Semipermeable_membrane.\*
+:::{figure} /Bilder/PD/Semipermeable_membrane.\*
 :width: 100%
 
 Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand.
@@ -145,7 +145,7 @@ Die roten Scheiben sind rote Blutkörperchen.
 ₢ WMC/pidalka44 ℓ ???
 :::
 
-:::{figure} /Bilder/WikipediaPd/Osmotische_druk.\*
+:::{figure} /Bilder/PD/Osmotische_druk.\*
 :width: 100%
 
 Osmose

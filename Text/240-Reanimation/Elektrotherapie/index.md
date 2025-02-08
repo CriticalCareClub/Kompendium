@@ -1,6 +1,6 @@
 ```{index} single: Kardioversion, elektrische
 ```
-```{index} single: Defibrilation 
+```{index} single: Defibrilation
 ```
 ```{index} pair: Reanimation; Elektrotherapie
 ```
@@ -179,7 +179,7 @@ Die Herzrhythmen werden im Kapitel {ref}`herzrhythmusstoerungen`, genauer bespro
 .. subfigstart::
 ```
 
-:::{figure} /Bilder/WikipediaCcBySa/Defib_electrode_placement.\*
+:::{figure} /Bilder/CC-BY-SA/Defib_electrode_placement.\*
 :name: Figure-Defibrillation
 :width: 100%
 
@@ -194,7 +194,7 @@ Anbringen der Klebeelektroden
 Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa/Semi_automatic_defi_with_electrodes.png
+:::{figure} /Bilder/CC-BY-SA/Semi_automatic_defi_with_electrodes.png
 :width: 100%
 
 Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch
@@ -202,7 +202,7 @@ Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden
 \[WMC:Hborkyb, CC-BY-SA-2.5-US\]
 :::
 
-:::{figure} /Bilder/WikipediaPd/AED_Symbol.\*
+:::{figure} /Bilder/PD/AED_Symbol.\*
 :name: Figure-NormsymbolAed
 :width: 100%
 

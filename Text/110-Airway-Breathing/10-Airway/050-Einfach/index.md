@@ -114,7 +114,7 @@ Während die vorbeschriebenen Techniken einen prinzipiell durchgängigen Atemweg
 5. Kopf des Patienten überstrecken
 
 <!--
-:::{figure} /Bilder/WikipediaPd/Seitenlage1.png
+:::{figure} /Bilder/PD/Seitenlage1.png
 :width: 50%
 
 Stabile Seitenlage

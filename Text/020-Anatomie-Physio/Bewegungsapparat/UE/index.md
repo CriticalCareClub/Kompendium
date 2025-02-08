@@ -7,7 +7,7 @@
 Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche eingeteilt werden - **Oberschenkel** (Femur), **Unterschenkel** (Crus) und **Fuß**
 (Pes). Beim Fuß unterscheidet man weiters die *Fußwurzel* (*Tarsus*), den *Mittelfuß* (*Metatarsus*) und die *Zehen* (*Digiti*).
 
-:::{figure} /Bilder/WikipediaPd/Human_skeleton_lower-extr-edited.\*
+:::{figure} /Bilder/PD/Human_skeleton_lower-extr-edited.\*
 :align: right
 :width: 50%
 

@@ -21,7 +21,7 @@ Von Herzrhythmusstörungen spricht man, wenn es zur Störung der Reizbildung ode
 
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig gefährlich, andere können plötzlich auftreten und sogar akut lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das Problem darstellen, als auch *als Komplikationen* im Rahmen anderer Krankheitsbilder (z. B. Herzinfarkt, Elektrolytstörungen etc.) auftreten.
 
-:::{figure} /Bilder/WikipediaPd/12_lead_generated_sinus_rhythm.jpg
+:::{figure} /Bilder/PD/12_lead_generated_sinus_rhythm.jpg
 :width: 100%
 
 EKG: Normaler Sinusrhythmus
@@ -78,7 +78,7 @@ Rhythmusstörungen können direkt in der Herzkammer (**ventrikulär**) oder ober
 Supraventrikulär wird außerdem zwischen dem Vorhof (*atrial*) und der AV-Überleitung (AV-Knoten, *nodal*; bzw. *akzessorische Leitungsbahnen*) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
 
-:::{figure} /Bilder/WikipediaCcBySa-3.0-unported/De-Atrial_ventricular\_(CardioNetworks_ECGpedia).\*
+:::{figure} /Bilder/CC-BY-SA-3.0/De-Atrial_ventricular\_(CardioNetworks_ECGpedia).\*
 
 Verortung von Herzrhythmusstörungen
 
@@ -193,7 +193,7 @@ Sehr viele Leute haben Vorhofflimmern und leben ganz gut damit. Häufige *Kompli
 Im **EKG** *fehlt die p-Welle*, stattdessen sind durchgehende *Flimmerwellen*, welche durch die unregelmäßigen, aber sonst wohlgeformten Kammerkomplexe unterbrochen werden, zu sehen (*Arrhythmia absoluta*).
 Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer kann es zu Brady- als auch zu (supraventrikulären Schmalkomplex-)Tachykardien kommen (*Bradyarrhythmia*- bzw. *Tachyarrhythmia absoluta*).
 
-:::{figure} /Bilder/WikipediaCcBySa-4.0-International/ECG_Atrial_Fibrillation_98_bpm.jpg
+:::{figure} /Bilder/CC-BY-SA-4.0/ECG_Atrial_Fibrillation_98_bpm.jpg
 :width: 100%
 
 EKG: Normfrequentes Vorhofflimmern
@@ -202,7 +202,7 @@ EKG: Normfrequentes Vorhofflimmern
 {term}`ℓ CC BY-SA 4.0`
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa-3.0-unported/Afib_ecg.jpg
+:::{figure} /Bilder/CC-BY-SA-3.0/Afib_ecg.jpg
 :width: 70%
 
 EKG: Vorhofflimmern und Sinusrhythmus im Vergleich
@@ -234,7 +234,7 @@ Nun kann es zu folgenden Situationen kommen:
 - *Atypische* fast/slow AVNRT (reverse AVNRT):
   Hier führt eine Extrasystole der Kammer zum Block des fast-pathway, die Erregung läuft über den slow-pathway zu den Vorhöfen und im Kreis zurück via fast-pathway zur Kammer.
 
-:::{figure} /Bilder/WikipediaCcBySa-3.0-unported/AV_nodal_reentrant_tachycardia.png
+:::{figure} /Bilder/CC-BY-SA-3.0/AV_nodal_reentrant_tachycardia.png
 :width: 70%
 
 EKG: AV-Knoten-Reentrytachykardie (AVNRT)
@@ -242,7 +242,7 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 ₢ WMC: [Ceccomaster](https://commons.wikimedia.org/wiki/User:Ceccomaster), {term}`ℓ CC BY-SA 3.0`
 :::
 
-:::{figure} /Bilder/WikipediaCcBySa-4.0-International/ECG_AVNRT_181_bpm.jpg
+:::{figure} /Bilder/CC-BY-SA-4.0/ECG_AVNRT_181_bpm.jpg
 :width: 100%
 
 EKG: AV-Knoten-Reentrytachykardie (AVNRT)
@@ -282,7 +282,7 @@ Fehlt eine adäquate Auswurfleistung spricht man von der **pulslosen** VT (pVT),
 [^cite_vt-monopolymorphie]: *monomorphe* VT: der Kammerkomplex erscheint immer gleich,
     *polymorphe* VT: der Kammerkomplex verändert sich von Herzschlag zu Herzschlag
 
-:::{figure} /Bilder/WikipediaPd/12_lead_generated_ventricular_tachycardia.jpg
+:::{figure} /Bilder/PD/12_lead_generated_ventricular_tachycardia.jpg
 :width: 100%
 
 EKG: Ventrikuläre Tachykardie (VT)
@@ -299,7 +299,7 @@ EKG: Ventrikuläre Tachykardie (VT)
 Beim Kammerflimmern (*Ventricular Fibillation*, *VF*):
 ist die elektrische Erregung im Herzen ungerichtet, dadurch kontrahiert der Herzmuskel nicht mehr geordnet, er kommt nur noch zu einem Zittern *ohne nennenswerte Auswurfleistung*! (Kammerflimmern darf nicht mit Vorhofflimmern verwechselt werden!)
 
-:::{figure} /Bilder/WikipediaPd/Lead_II_rhythm_generated_ventricular_fibrilation_VF.jpg
+:::{figure} /Bilder/PD/Lead_II_rhythm_generated_ventricular_fibrilation_VF.jpg
 :width: 100%
 
 EKG: Kammerflimmern (VF)
@@ -340,7 +340,7 @@ Demnach werden die AV-Blockaden werden in 3 Grade eingeteilt:
 
 Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner Behandlung. Schwerere Formen (2°, 3°) führen zu einer Bradykardie und können eine Indikation für die Implantation eines passageren oder auch permanenten Schrittmachers (besonders 2° Typ Mobitz und 3°) darstellen.
 
-:::{figure} /Bilder/WikipediaCcBySa-4.0-International/Heart_block.png
+:::{figure} /Bilder/CC-BY-SA-4.0/Heart_block.png
 :width: 100%
 
 EKG: Übersicht: AV-Blockaden
@@ -363,7 +363,7 @@ Im Herz entsteht keine elektrische Erregung, der Herzmuskel kontrahiert daher au
 Grundsätzlich wird dieser Rhythmus als {ref}`reanimationspflichtig <Reanimation-Rhythmen>` bezeichnet, allerdings kann eine Asystolie auch ein Zeichen für einen seit längerem bestehenden Kreislaufstillstand und damit einer frustranen Prognose sein.
 Vgl. hierzu {ref}`Reanimation-Ende-NichtBeginn`.
 
-:::{figure} /Bilder/WikipediaPd/Lead_II_rhythm_generated_asystole.jpg
+:::{figure} /Bilder/PD/Lead_II_rhythm_generated_asystole.jpg
 :width: 100%
 
 EKG: Asystolie

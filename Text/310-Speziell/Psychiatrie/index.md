@@ -26,7 +26,7 @@ Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von 
 >   Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen
 >   des Codes.
 
-:::{figure} /Bilder/WikipediaPd/van_Gogh_Starry_Night_Over_the_Rhone.\* Vincent van Gogh: Sternennacht über der Rhone
+:::{figure} /Bilder/PD/van_Gogh_Starry_Night_Over_the_Rhone.\* Vincent van Gogh: Sternennacht über der Rhone
 :::
 
 Der Krankheitswert eines Zustandes beginnt dort, wo dieser Zustand für den Patienten selbst oder für seine Umgebung ein Problem darstellt.

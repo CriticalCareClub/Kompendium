@@ -13,7 +13,7 @@
 
 # Exkurs: Pulskonturanalyse
 
-Die {ref}`invasive arterielle Blutduckmessung <IABP>` erlaubt als Nebeneffekt auch die Interpretation der gemessenen und dargestellten Pulskurve. 
+Die {ref}`invasive arterielle Blutduckmessung <IABP>` erlaubt als Nebeneffekt auch die Interpretation der gemessenen und dargestellten Pulskurve.
 Die Pulskonturanalyse ermöglicht zwei Dinge:
 
 1. Beurteilung der Pulskurve an sich;
@@ -34,7 +34,7 @@ Die Pulskonturanalyse ermöglicht zwei Dinge:
 %
 % Die Differenz zwischen Pulsdruck (PPV) oder systolischem Druck (SPV) wird ebenfalls als Surrogatmarker verwendet, wodurch die Notwendigkeit einer Messung des Herzzeitvolumens entfällt.
 
-:::{figure} ../Bilder/PPV.jpg
+:::{todo} Grafik: PPV ../Bilder/PPV.jpg
 :alt: Bild
 :width: 100%
 
@@ -42,7 +42,7 @@ Die Änderungen der intrathorakalen Druckverhältnisse während der In- und Exsp
 Dies zeigt sich an der Druckkurve einerseits durch schwankende Minima und Maxima, als auch durch eine Amplituden- und Flächenvarianz.
 :::
 
-:::{figure} ../Bilder/SVV-1.png
+:::{todo} Grafik: SVV ../Bilder/SVV-1.png
 :alt: Bild
 :width: 100%
 
@@ -69,7 +69,7 @@ Dazu benötigt man folgende Voraussetzungen:
     Die Umrechnung von ($\sigma_{\rm AP}$ in ml/Schlag erfolgt durch Multiplikation mit dem Umrechnungsfaktor ${\rm Khi}(x)$.
     Dieser ist eine multivariate Polynomgleichung, die den Einfluss des sich ständig ändernden Gefäßtonus $x$ auf den Pulsdruck bewertet, indem die Pulsfrequenz des Patienten, der   mittlere arterielle Druck, die Standardabweichung des mittleren arteriellen Drucks, die Compliance der großen Gefäße — *wie anhand der Patientendemografie geschätzt (!)* — sowie die Schiefe und Kurtosis der arteriellen Wellenform analysiert werden. {term}`🗎 FloTrac 2020`
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230603_082107_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230603_082107_001342px.jpg
 
 Tachykardie mit deutlichem Swing in der Arterienkurve
 :::

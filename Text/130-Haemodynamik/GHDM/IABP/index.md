@@ -7,7 +7,7 @@
 :::{index} single: Transducer
 :::
 
-(ibp)= 
+(ibp)=
 (iabp)=
 
 # Invasive arterielle Blutdruckmessung (IABP)
@@ -22,7 +22,7 @@ Jede systolische Kontraktion resultiert in einer Druckwelle innerhalb des Kathet
 Der Monitor zeigt i. d. R. eine Arterienkurve sowie numerische Drücke an.
 Die Arterienkurve an sich kann interpretiert werden und ist auch Ausgangspunkt für weitere Monitoringverfahren wie z. B. die Pulskonturanalyse.
 
-Ermittelt werden somit: 
+Ermittelt werden somit:
 - Arterieller Blutdruck: systolisch, diastolisch, Mitteldruck
 - Darstellung der Puls-Druckkurve: manuelle Interpretation und Ausgangspunkt für Systeme zur Pulskonturanalyse
 
@@ -63,7 +63,7 @@ Ermittelt werden somit:
 - Nervenschäden
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
@@ -81,9 +81,9 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 
   - proximal eine **Entnahmestelle** für Blutproben, danach ein
   - **Sperrhahn** zum Verschließen des Schenkels distal der Entnahmestelle während einer Blutabnahme, dann eine
-  - Vorrichtung zur **Aspiration** von Blut (Aspirator). 
+  - Vorrichtung zur **Aspiration** von Blut (Aspirator).
     Dann folgt nach einem relativ langem Schlauchsegment der
-  - **Transducer**: Hier wird der Druck gemessen und in elektrische Signale umgewandelt , welche über ein Datenkabel weitergeleitet werden. 
+  - **Transducer**: Hier wird der Druck gemessen und in elektrische Signale umgewandelt , welche über ein Datenkabel weitergeleitet werden.
     In den Transducer ist ausserdem ein
   - **Ventil zum Spülen** des Systems integriert, sowie ein
   - **Atmosphärenausgang** um zwecks Kalibrierung eine Messung des Atmosphärendrucks als Nullreferenz zu ermöglichen.
@@ -107,13 +107,16 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 :name: BS-Arteriensystem
 :gap: 8px
 :class-grid: outline
-
+:::
 Arteriensystem
 
-![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
-![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../Bilder/restricted/77962-7534081.jpeg)
+![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../../Bilder/Logos/Logo-4.png)
 
+:::
+
+:::{todo} Foto: Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \] ../../../Bilder/restricted/77962-7534081.jpeg
 :::
 
 :::{raw} latex

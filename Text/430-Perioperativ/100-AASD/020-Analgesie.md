@@ -213,8 +213,7 @@ Memo: zur Erinnerung: Naloxon als Antidot
 
 Hochpotentente Opioide sind nur gegen Suchtgiftrezept verfügbar.
 
-:::{figure} media/image3.jpeg
-:::
+
 
 :::{note}
 Remifentanyl: wichtig: Analgesie "danach"

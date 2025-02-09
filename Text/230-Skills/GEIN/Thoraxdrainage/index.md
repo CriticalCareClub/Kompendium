@@ -12,7 +12,7 @@
 
 # Thoraxdrainage
 
-Eine Thoraxdrainage wird durch die Brustwand in den Pleuraspalt oder das Mediastinum eingeführt und ermöglicht, Luft (Pneumothorax),  Blut (Hämothorax) oder andere Flüssiggkeiten wie Chylus, Ex- oder Transsudate, Eiter usw. aus dem intrathorakalen Raum abzuleiten. 
+Eine Thoraxdrainage wird durch die Brustwand in den Pleuraspalt oder das Mediastinum eingeführt und ermöglicht, Luft (Pneumothorax),  Blut (Hämothorax) oder andere Flüssiggkeiten wie Chylus, Ex- oder Transsudate, Eiter usw. aus dem intrathorakalen Raum abzuleiten.
 Je nach klinischer Indikation gibt es unterschiedliche Drainagesysteme und -techniken.
 
 
@@ -109,9 +109,9 @@ Weitere Ursachen können sein:  Gastrointestinale Erkrankungen wie Pankreatitis,
 - (Einseitig) abgeschwächstes Atemgeräusch, hypersonorer Klopfschaff
 - Einseitige Atemexkursionen
 - Bei Überdrückbeatmung: Steigerung der Beatmungsdrücke bzw. VErminderung der Zugvolumina
-- Tachykardie 
+- Tachykardie
 - Spannungspneumothorax:
-  - Bradykardie und Hypotonie 
+  - Bradykardie und Hypotonie
   - Einflussstauung
   - Verminderung des Schlagvolumens bis hin zum Kreislaufstillstand
 
@@ -139,7 +139,7 @@ Indirekte Zeichen:
 
 Zu beachten ist jedoch, dass ein (noch) kleiner Pneumothorax je nach Strahlengang unter Umständen im Röntgen keine Konturen zeigt, sich also quasi "versteckt".
 
-:::{figure} ../../Bilder/CC-BY-SA-3.0/Spannungspneu+Drainage.png
+:::{figure} ../../../Bilder/CC-BY-SA-3.0/Spannungspneu+Drainage.png
 
 Ein linksseitiger Spannungspneumothorax vor (oben) und nach (unten) Anlage einer Thoraxdrainage. Gut zu sehen ist die Verlagerung des Mediastinums hin zur gesunden Seite sowie die fehlende Strukturzeichnung im linksseitigen Pneumothorax. [₢ [Cupr78up](https://de.wikipedia.org/wiki/Benutzer:Cupr78up), {term}`ℓ CC BY-SA 3.0`]
 :::
@@ -156,11 +156,11 @@ Ein linksseitiger Spannungspneumothorax vor (oben) und nach (unten) Anlage einer
 :::
 :::{index} single: Seashore Sign
 :::
-:::{index} single: Sign; Seashore 
+:::{index} single: Sign; Seashore
 :::
 :::{index} single: Barcode Sign
 :::
-:::{index} single: Sign; Barcode 
+:::{index} single: Sign; Barcode
 :::
 
 (Ultraschall-Pneumothorax)=
@@ -183,13 +183,13 @@ M-Mode:
 - Fehlen diese atmungsbdingten Lungenbewegungen zeigen sich im M-Mode statische Echo, welche über die Zeit als gerade Striche aufgetragen werden.
   Da dies an einen Strichcode erinnert, wird dieses Zeichen **Barcode Sign** genannt.
 
-:::{figure} ../../Bilder/CC-BY-SA-4.0/Sea_shore_sign_on_a_lung_ultrasound.jpg
+:::{figure} ../../../Bilder/CC-BY-SA-4.0/Sea_shore_sign_on_a_lung_ultrasound.jpg
 
-Das Seashore Sign im M-Mode ist ein Normalbefund, die atmungsbedingten Bewegungsartefakte erinnern an einen Sandstrand. 
+Das Seashore Sign im M-Mode ist ein Normalbefund, die atmungsbedingten Bewegungsartefakte erinnern an einen Sandstrand.
 [₢ [Tinss](https://commons.wikimedia.org/wiki/User:Tinss), {term}`ℓ CC BY-SA 4.0`]
 :::
 
-:::{figure} ../../Bilder/PD/Barcode-Zeichen.jpg
+:::{figure} ../../../Bilder/PD/Barcode-Zeichen.jpg
 :width: 50%
 
 Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponieren als Striche wenn die Echos über die Zeit aufgetragen werden.
@@ -203,12 +203,12 @@ Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponi
 :::
 (Ultraschall-Pleuraerguss)=
 
-### Pleuraerguss im Ultraschall 
+### Pleuraerguss im Ultraschall
 
 Der Ultraschall eignet sich sehr gut zur Darstellung und Vermessung von Flüssigkeiten im Pleuraraum.
 Dadurch kann sowohl die Punktionswürdigkeit, als auch der Zugangsweg gut abgeschätzt werden.
 
-:::{figure} ../Bilder/Pleuraerguss-US.jpeg
+:::{todo} US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
 :width: 100%
 
 Pleuraerguss im Ultraschall
@@ -230,7 +230,7 @@ Das CT ist die wohl aufwändigste, teuerste unde strahlenbelastenste Methode, de
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{subfigure} AB
+<!-- :::{subfigure} AB
 :subcaptions: below
 :name: Pneumothorax
 :gap: 8px
@@ -241,6 +241,9 @@ Der gleiche Pneumothorax im CP-Röntgen und im CT
 ![Ein frontal gelegener Pneumothorax ist im ap-Strahlengang nicht zu erkennen, auffällig ist jedoch das ausgeprägte Hautemphysem](../Bilder/Pneumothorax-Hautemphysem-CP.jpg)
 
 ![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../Bilder/Pneumothorax-Hautemphysem-CT.jpg)
+::: -->
+
+:::{todo} Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
 :::
 
 :::{raw} latex
@@ -267,15 +270,15 @@ Im konventionellen Thoraxröntgen kann sich, je nach Lage und Strahlengang, der 
 
 ### Drainagetypen
 
-Es sind verschiedene Typen von Throaxdrainagen mit jeweils unterschiedlichen Eigenschaften verfügbar. 
-Die Größen werden anhand ihres Außendurchmessers von 6 Fr bis 40 Fr gemessen werden. 
-Für Erwachsene werden üblicherweise 20 Fr bis 40 Fr verwendet. 
+Es sind verschiedene Typen von Throaxdrainagen mit jeweils unterschiedlichen Eigenschaften verfügbar.
+Die Größen werden anhand ihres Außendurchmessers von 6 Fr bis 40 Fr gemessen werden.
+Für Erwachsene werden üblicherweise 20 Fr bis 40 Fr verwendet.
 Für die Drainage von klaren Transsudaten ist beispielsweise ein dünnes Drain oft ausreichend, wohingegen zur Drainage von Flüssigkeiten, die zähflüssig sind oder zum Verklumpen neigen, sowie wenn zusätzlicher Sog angelegt werden soll, Drains mit größerem Durchmesser von Vorteil sind.
 
 Grundsätzlich unterscheidet man also:
-- Großlumige Zugänge: 
+- Großlumige Zugänge:
   Drainage von verklumpenten und proteinreichen Sekreten (Blut, Eiter, …), erlaubt die Anwendung von Sog
-- Kleinlumige Zugänge: 
+- Kleinlumige Zugänge:
   Drainage von gut abfließenden Flüssigkeiten (Transsudat, andere klare Sekrete); kein relevanter zusätzlicher Sog möglich, nur "Schwerkraftmodus"
 
 Für kleinlumige Systeme werden zahlreiche geschlossene oder halbgeschlossene kommerzielle Systeme angeboten, die speziell auf die Ableitung von Pleuraergüssen u. ä. spezialisiert sind.
@@ -283,13 +286,9 @@ Die genaue Ausgestaltung und Anlagetechnik (meist mittels minimalinvasiver Punkt
 
 Das klassische, dicklumige, Thoraxdrain ist ein Kunststoffschlauch, in welchem ein Throkar eingeführt ist.
 
-:::{figure} ../Bilder/Buelaudrainagen-Durchmesser.png
-:width: 100%
 
-Durchmesser von Bülau-Drainagen werden in *French* angegeben
-:::
 
-:::{figure} ../Bilder/Buelaudraingen.jpg
+:::{todo} Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
 :width: 100%
 
 Bülau-Drainagen mit Trokar in unterschiedlichen Größen
@@ -314,7 +313,7 @@ Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 Es gibt zwei typische Zugangswege, nach *Monaldi* und nach *Bülau*.
 
 
-:::{figure} ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
+:::{todo} Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
 :width: 75%
 
 Zugänge für die Thoraxdrainage
@@ -322,7 +321,7 @@ Zugänge für die Thoraxdrainage
 
 #### Zugang nach Monaldi
 
-Der Zugang nach **Monaldi** befindet sich ventral medioklavikulär im 2. ICR. 
+Der Zugang nach **Monaldi** befindet sich ventral medioklavikulär im 2. ICR.
 Er ist gut geeignet zur Entlastung eines Spannungspneumothorax, vor allem wenn dieser ventral liegt.
 Aufgrund einer möglichen Narbenbildung wird er eher für kleinlumige Drainagen verwendet, häufig auch mit simplen, dünnen Punktionsystemen.
 
@@ -332,20 +331,23 @@ Aufgrund einer möglichen Narbenbildung wird er eher für kleinlumige Drainagen 
 
 #### Zugang nach Bülau
 
-Der **Bülau**-Zugang liegt im 3.-5. ICR in der mittleren Axillarlinie. 
-Das als für die Punktion sichere Areal wird als **Triangle of Safety** bezeichnet und ist begrenzt durch den 
-  - Hinterrand des M. pectoralis 
+Der **Bülau**-Zugang liegt im 3.-5. ICR in der mittleren Axillarlinie.
+Das als für die Punktion sichere Areal wird als **Triangle of Safety** bezeichnet und ist begrenzt durch den
+  - Hinterrand des M. pectoralis
   - Vorderrand des M. latissimus dorsi
   - 5. ICR in Höhe der Mamille (in "männlich-anatomischer Normallage")
 
 Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fürdickere Draingen.
-:::{figure} ../Bilder/Pleuradrainage-Triangle-of.Safety.jpeg
+
+:::{todo} Foto/Grafik: Triangle of Safety
+
+../Bilder/Pleuradrainage-Triangle-of.Safety.jpeg
 :width: 75%
 
 **Triangle of safety**: Begrenzung Hinterrand des **M. pectoralis**, Vorderrand des **M. lat. dors.** und **Mamille** (mittlere Axillarlinie)
 :::
 
-:::{figure} ../Bilder/Pleuradrainage-Schema.jpg
+:::{todo} Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
 :width: 75%
 
 Schema einer Pleuradrainage mit Wasserschloss
@@ -388,7 +390,7 @@ Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des 
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.
 
 
-:::{figure} ../Bilder/cmH20_001342px.jpeg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Graph/cmH20_001342px.jpeg
 :width: 100%
 
 Physik des Ballermann-Urlaubs, Teil I: Um einen Margarita über 1 Meter anzusaugen, wird ein Sog von -100 cm H₂O benötigt.
@@ -404,20 +406,20 @@ Weiters kann man in der Flüssigkeit die Luft in Form von Luftblasen beobachten,
 Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, können über diese Sekrete gesammelt werden.
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
-:::{figure} ../Bilder/Wasserschloss-Schema-1.jpeg
+:::{todo} ../Bilder/Wasserschloss-Schema-1.jpeg
 :width: 100%
 
 Ein Wasserschloss kann mit oder ohne Sog betrieben werden.
 Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
 :::
 
-:::{figure} ../Bilder/Wasserschloss-Schema-2.jpeg
+:::{todo} ../Bilder/Wasserschloss-Schema-2.jpeg
 :width: 50%
 
 Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
 :::
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20200607_114533_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20200607_114533_001342px.jpg
 
 Wasserschloss, unter dem Patientenbett positioniert
 :::
@@ -425,7 +427,7 @@ Wasserschloss, unter dem Patientenbett positioniert
 Eine Weiterentwicklung stellen elektronische Systeme, wie z. B. das Medela™-System, dar.
 Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Generierung des Sogs, etwaige Leckagen werden aufgezeichnet und können im Zeitverlauf betrachtet werden.
 
-:::{figure} ../Bilder/Medela.jpg
+:::{todo} ../Bilder/Medela.jpg
 :width: 75%
 
 Medela™-System
@@ -441,7 +443,7 @@ Medela™-System
 ## Anlage
 
 Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE** 
+: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
 
 Die Anlage erfolgt grundsätzlich immer unter streng sterilen Kautelen.
 
@@ -453,10 +455,10 @@ Im Notfall, wenn keine Sonographie verfügbar ist, soll nicht unterhalb des 4. I
 - Lokalanästhesie
 - Hautincision von 4-5 cm mit Skalpell
 - Stumpfes Präparieren mit dem Zeigefinger oder mit stumpfer Kornzange
-- IMMER am **Oberrand der Rippe**: 
-  Die **Gefäßnervenscheide** verläuft am Unterrand der Rippe! 
+- IMMER am **Oberrand der Rippe**:
+  Die **Gefäßnervenscheide** verläuft am Unterrand der Rippe!
 - Die Pleura tastet sich als prall- elastischer Widerstand
-- Eröffnung Pleura, Trokar in das Drain zurückziehen, Drain vorsichtig entlang Finger einbringen. 
+- Eröffnung Pleura, Trokar in das Drain zurückziehen, Drain vorsichtig entlang Finger einbringen.
   Alternativ ist auch eine Führung mittels einer Kornzange o.ä. möglich.
 - Anschluss Wasserschloss mit Sog, Nahtfixation des Drains
 - Wundverschluss mit U-Naht (*Tabaksbeutelnaht*)
@@ -473,17 +475,14 @@ Der Throkar dient nur zur Führung des Drains, keinesfalls zur Punktion!
 
 Anlage einer Thoraxdrainage
 
+![Aufsuchen der Rippe](../../../Bilder/KS/Pleuradrainage-020_001342px.jpg)
 
+![Stumpfe Präparation](../../../Bilder/KS/Pleuradrainage-030_001342px.jpg)
 
+![Einführen der Drainage geschient mittels Trokar](../../../Bilder/KS/Pleuradrainage-050_001342px.jpg)
 
-![Aufsuchen der Rippe](../Bilder/Pleuradrainage-020_001342px.jpg)
+![Faden der U-Naht wird um Drain gewckelt](../../../Bilder/KS/Pleuradrainage-060_001342px.jpg)
 
-![Stumpfe Präparation](../Bilder/Pleuradrainage-030_001342px.jpg)
-
-![Einführen der Drainage geschient mittels Trokar](../Bilder/Pleuradrainage-050_001342px.jpg)
-
-![Faden der U-Naht wird um Drain gewckelt](../Bilder/Pleuradrainage-060_001342px.jpg)
-   
 :::
 
 

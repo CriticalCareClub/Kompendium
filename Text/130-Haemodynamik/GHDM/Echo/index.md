@@ -5,7 +5,7 @@
 
 # Echokardiographie
 
-Die Echokardiographie ("Echo") wird in der Intensivmedizin zunehmend nur als diagnostisches Verfahren, sondern auch zur diskontinuierlichen hämodynamischen Überwachung eingesetzt. 
+Die Echokardiographie ("Echo") wird in der Intensivmedizin zunehmend nur als diagnostisches Verfahren, sondern auch zur diskontinuierlichen hämodynamischen Überwachung eingesetzt.
 Mittels Echokardiographie kann man einerseits den *Füllungszustand* des Herzens und der zuführenden Gefäße, wie auch die eigentliche *Herzleistung* beurteilen und Rückschlüsse über die **Inotropie** ziehen.
 Darüber hinaus lässt sich damit auch oft *kausale Diagnostik* betreiben (*Wandbewegungsstörungen*, *Klappenfehler* etc.).
 
@@ -28,48 +28,48 @@ Um einen Überblick über den Volumenstatus und die Herzleistung zu erhalten, ha
 - Video: **Echokardiographie-Einführungskurs** von V. Kavalerchyk, OA Kardiologie der Helios Kliniken Schwerin.
   <https://www.youtube.com/watch?v=0E5lXIrPMrc>
 
-:::{figure} ../Bilder/Echo-002.png
+:::{todo} ../Bilder/Echo-002.png
 :alt: Bild
 :width: 100%
 
 Verschiedene transthorakale Echo-Schnitte
 :::
 
-:::{figure} ../Bilder/Vena-Cava-inferior_US.png
+:::{todo} ../Bilder/Vena-Cava-inferior_US.png
 :width: 100%
 
 Echo: Beurteilung der V. cava inferior
 :::
 
-:::{figure} ../Bilder/Echo-001.jpg
+:::{todo} ../Bilder/Echo-001.jpg
 :alt: Bild
 :width: 100%
 
 Text
 :::
 
-:::{figure} ../Bilder/Echo-003.png
+:::{todo} ../Bilder/Echo-003.png
 :alt: Bild
 :width: 100%
 
 Text
 :::
 
-:::{figure} ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
+:::{todo} ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
 :alt: Bild
 :width: 100%
 
 Vergleich der globalen Pumpleistung im 4-Kammer-Blick
 :::
 
-:::{figure} ../Bilder/Echo-SubkostalerBlick.png
+:::{todo} ../Bilder/Echo-SubkostalerBlick.png
 :alt: Bild
 :width: 100%
 
 TTE subkostaler Blick
 :::
 
-:::{figure} ../Bilder/Echo-Ventrikel.png
+:::{todo} ../Bilder/Echo-Ventrikel.png
 :alt: Bild
 :width: 100%
 
@@ -94,18 +94,18 @@ Aufgrund der Nähe des Schallkopfs sowohl zum Herzen als auch zu den großen Gef
 Zahlreichen Einschränkungen der Oberflächenultraschalluntersuchung wie Fettleibigkeit, Emphysem, Verbände etc. fallen weg, auch ist der Zugang zu bestimmten Strukturen anatomisch bedingt einfacher.
 In bestimmten klinischen Situationen identifiziert TEE schnell die Ursache eines Schocks (lokalisierter Perikardhämatome, Thromben, anhaltende Hypovolämie, Vasoplegie, rechts- oder linksventrikulärer systolischer Dysfunktion, ...).
 
-Neben der quantitativen Messung und Berechnung herkömmlicher hämodynamischer Parameter (linksventrikulären ejection fraction, stroke index, Kollapsibilitätsindex der oberen Hohlvene) ist auch die qualitative Schätzung und Einstufung hämodynamischer Parameter ein adäquater Einsatz. 
+Neben der quantitativen Messung und Berechnung herkömmlicher hämodynamischer Parameter (linksventrikulären ejection fraction, stroke index, Kollapsibilitätsindex der oberen Hohlvene) ist auch die qualitative Schätzung und Einstufung hämodynamischer Parameter ein adäquater Einsatz.
 Dazu zählen z.B.:
  - linksventrikuläre systolische Funktion: normal, übernormal, mäßig deprimiert oder stark deprimiert,
  - Respiratorische Variation der Größe der oberen Hohlvene: null, mäßig (teilweiser Inspirationskollaps) oder deutlich (vollständiger Inspirationskollaps)
  - Rechte Herzkammer:  normal, mäßig oder stark erweitert
 
-Dieser qualitative Ansatz kann die Therapie z.B. bei septischen Patienten effizient steuern. 
-Die größere Reproduzierbarkeit und größere Bedienerunabhängigkeit der TEE-Messungen ermöglicht dabei die genauere Überwachung der  therapeutischen Interventionen: 
+Dieser qualitative Ansatz kann die Therapie z.B. bei septischen Patienten effizient steuern.
+Die größere Reproduzierbarkeit und größere Bedienerunabhängigkeit der TEE-Messungen ermöglicht dabei die genauere Überwachung der  therapeutischen Interventionen:
 Beispielsweise können der Stroke Index und der Kollapsibilitätsindex der oberen Hohlvene vor und nach einer Flüssigkeitsbelastung seriell gemessen werden, und die linksventrikuläre systolische Funktion kann nach Einleitung eines Vasopressors oder einer inotropen Unterstützung neu beurteilt werden (Therapiekontrolle).
 
 Ferner erlaubt die TEE die Identifizierung rechtsventrikulärer Dysfunktion als Ursache für Low-Flow-Zustände.
-Während bei fehlender Flüssigkeitsreagibilität eine "blinde" hämodynamische Überwachung auf Thermodilutionsbasis ein niedriges Herzzeitvolumen weder auf eine links- noch rechtsventrikuläre Insuffizienz zurückführen kann, erlaubt die TEE eine differenziertere Betrachtung und liefert relevante Informationen zur rechtsventrikulären Funktion. 
+Während bei fehlender Flüssigkeitsreagibilität eine "blinde" hämodynamische Überwachung auf Thermodilutionsbasis ein niedriges Herzzeitvolumen weder auf eine links- noch rechtsventrikuläre Insuffizienz zurückführen kann, erlaubt die TEE eine differenziertere Betrachtung und liefert relevante Informationen zur rechtsventrikulären Funktion.
 
 
 

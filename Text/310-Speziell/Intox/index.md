@@ -509,7 +509,9 @@ Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemei
     ({ref}`m-am-stickgase`)
   - Hyperbare O₂-Therapie in der Druckkammer erwägen
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\* CO-Vergiftung in einem Wohnhaus in Wien
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\*
+
+CO-Vergiftung in einem Wohnhaus in Wien
 
 Regelmäßig kommt es zu Unfällen durch defekte Gasthermen oder Heizlüfter. Bei diesem Einsatz war ein RTW des ASB Floridsdorf-Donaustadt beteiligt.
 Die dritte Patientin wurde erst, nachdem die Feuerwehr *sämtliche*(!) Wohnungen des Wohnhauses aufgebrochen hatte, in der *darüberliegenden Wohnung* gefunden.

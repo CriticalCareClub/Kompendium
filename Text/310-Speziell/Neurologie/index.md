@@ -271,7 +271,9 @@ Es kommt es zu einer typischen Kombination von Symptomen:
   Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
   der Extremitäten.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\* Anisokorie
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
+
+Anisokorie
 
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
@@ -829,7 +831,9 @@ Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlic
 
 Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\* Fieber
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\*
+
+Fieber
 
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::

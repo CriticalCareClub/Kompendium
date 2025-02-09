@@ -1,0 +1,2 @@
+resize max 00800x
+gamma correction 1.8

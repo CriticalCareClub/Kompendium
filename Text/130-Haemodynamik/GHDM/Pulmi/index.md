@@ -93,10 +93,10 @@ Normalerweise hat ein PAC *vier* Ports:
 
 - **Proximal, Blau**: Messung des ZVD/RAP, Injektionsanschluss zur Messung des Herzzeitvolumens
 - **Distal, Gelb**: Messung des PAP bzw. in Wedge-Position des {ref}`pulmonal-kappillären Wedge-Drucks <PCWP>`, Blutabnahme für SmvO₂
-- **Ballonanschluss, Rot**: Wedge-Ballon ; 1,5 ml Spezialspritze  
+- **Ballonanschluss, Rot**: Wedge-Ballon ; 1,5 ml Spezialspritze
 - **Infusionsport, Weiß**: Wie ZVK-Lumen
 
-:::{figure} ../Bilder/Pulmi.jpg
+:::{todo} Foto: ../Bilder/Pulmi.jpg
 :alt: Bild
 :width: 100%
 
@@ -117,7 +117,7 @@ Die Anwendung erfolgt über eine venöse Schleuse.
 Diese wird grundsätzlich wie ein ZVK an der V. iug. int. dext. (alternativ V. subclavia) angelegt.
 Um das sterile Vor- und Zurückschieben des Katheters zu ermöglichen, wird an der Schleuse über den PAC ein flexibler Schutzüberzug angebracht und distal am PAC fixiert, sodass die Innenseite und damit der PAC immer steril bleibt.
 
-:::{figure} ../Bilder/Pulmi-009.jpg
+:::{todo} Foto: Über eine venöse Schleuse eingeführter PAC ../Bilder/Pulmi-009.jpg
 :alt: Bild
 :width: 50%
 
@@ -170,7 +170,7 @@ Druckkurve im Verlauf während des Vorschiebens des PAC.
 
 Da es keine Klappen zwischen den Lungenkapillaren und dem linken Vorhof gibt, ist der *PCWP* ein Spiegelbild des *linksatrialen Drucks* (*LAP*).
 Während der Diastole, wenn die Mitralklappe geöffnet ist, spiegelt der PCWP den *linksventrikulären enddiastolischen Druck* (*LVEDP*) wider.
-Der LVEDP lässt wiederum Rückschlüsse auf das *linksventrikulären enddiastolischen Volumen* (*LVEDV*) als Maß der linksventrikulären Vorlast zu. 
+Der LVEDP lässt wiederum Rückschlüsse auf das *linksventrikulären enddiastolischen Volumen* (*LVEDV*) als Maß der linksventrikulären Vorlast zu.
 Dabei ist jedoch zu beachten, dass eine direkte Korrelation zwischen Druck und Volumen nur bei normaler Compliance des linken Ventrikels besteht.
 
 

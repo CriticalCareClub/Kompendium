@@ -12,7 +12,7 @@
 # Thoraximpedanz
 
 Die Impedanzpneumographie basiert auf der Beziehung zwischen **Atemvolumen** und **Änderungen der transthorakalen Impedanz** während der Atmung und erlaubt Rückschlüsse auf **Atemfrequenz**, **Atemzugvolumen**, funktioneller Residualkapazität, Lungenwasser und Herzzeitvolumen [{term}`🗎 Grenvik 1972`, {term}`🗎 Larsen 1984`].
-Die Messung der transthorakalen Impedanz kann somit verwendet werden, um das Atemzugvolumen und Änderungen des intrathorakalen Flüssigkeitsvolumens zu bestimmen [{term}`🗎 Stick 1981`]. 
+Die Messung der transthorakalen Impedanz kann somit verwendet werden, um das Atemzugvolumen und Änderungen des intrathorakalen Flüssigkeitsvolumens zu bestimmen [{term}`🗎 Stick 1981`].
 
 Eine simple und weit verbreitete Anwendung dieses Prinzips ist die Ermittlung der Atemfrequenz **über die EKG-Elektroden**:
 Das Füllen und Entleeren der Lunge zu Veränderungen der elektrischen Impedanz des Brustkorbs.
@@ -36,9 +36,9 @@ Dabei kommt ein zirkulär um den Körper angebrachten Elektrodengürtel mit 16-3
 
 Thorax-Impedanztomographie
 
-![Elektrodenanordnung für die Elektrische Impedanztomographie \[₢ Chrisfellner, ℓ CC BY-SA 3.0\]](../../Bilder/CC-BY-SA-3.0/Eit_electrodes_schema.svg.png)
+![Elektrodenanordnung für die Elektrische Impedanztomographie \[₢ Chrisfellner, ℓ CC BY-SA 3.0\]](../../../Bilder/CC-BY-SA-3.0/Eit_electrodes_schema.svg.png)
 
-![Fusions-EIT Thorax eines COPD-Patienten: Die reduzierte Ventilation im ventralen Bereich der linken Lunge (im Bild rechts oben dargestellt) ist deutlich zu erkennen \[₢ Brisanti, ℓ CC BY-SA 4.0\]](../../Bilder/CC-BY-SA-4.0/CT_EIT_Superposition.jpg)
+![Fusions-EIT Thorax eines COPD-Patienten: Die reduzierte Ventilation im ventralen Bereich der linken Lunge (im Bild rechts oben dargestellt) ist deutlich zu erkennen \[₢ Brisanti, ℓ CC BY-SA 4.0\]](../../../Bilder/CC-BY-SA-4.0/CT_EIT_Superposition.jpg)
 
 :::
 

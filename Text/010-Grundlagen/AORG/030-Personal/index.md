@@ -85,9 +85,9 @@ Darüber hinaus müssen die *Berufs- bzw. Tätigkeitspflichten* erfüllt werden 
 
 Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`\]
 
-![Hilfeleistung](../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
+![Hilfeleistung](../../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
 
-![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
+![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
 :::
 
 
@@ -264,7 +264,7 @@ Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen
 
 
 
-:::{figure} ../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg
+:::{figure} ../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg
 :width: 100%
 
 Ein Notarzt bei einer endotracheale Intubation

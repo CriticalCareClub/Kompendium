@@ -71,9 +71,12 @@ Die Scores sind maximal eine Hilfestellung, die **klinische Einschätzung** eine
 
 Klinische Einschätzung des Atemwegsrisikos von Außen
 
-![Thyreomentaler Abstand](media/image22.jpeg)
+![Thyreomentaler Abstand](/Bilder/Logos/Logo-4.png)
 
 ![Mallampati-Score \[₢ [Jmarchn](https://commons.wikimedia.org/wiki/User:Jmarchn)  ℓ CC BY-SA 3.0\]](/Bilder/CC-BY-SA-3.0/Mallampati.\*)
+:::
+
+:::{todo} Photo: Thyreomentaler Abstand media/image22.jpeg
 :::
 
 

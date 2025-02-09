@@ -14,14 +14,14 @@ Dies ist regelhaft ab L2 der Fall.
 Punktionen werden daher in den Segmenten L3/L4 sowie L4/L5 durchgeführt.
 
 
-:::{figure} SPA-Querschnitt.png
+:::{todo} Wirbelsäule mit Punktionskanüle im Querschnitt SPA-Querschnitt.png
 
 Wirbelsäule mit Punktionskanüle im Querschnitt
 
 :::
 
 
-:::{subfigure} AB
+<!-- :::{subfigure} AB
 :subcaptions: above
 :name: SPA-BS
 :gap: 8px
@@ -33,8 +33,10 @@ Spinalanästhesie
 
 ![Liquor tropft aus der Spinalnadel](SPA-tropft.png)
 
-:::
+::: -->
 
+:::{todo} Fotos: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
+:::
 
 ## Indikationen
 
@@ -62,12 +64,13 @@ Spinalanästhesie
 
 Tätowierungen an der Punktionsstelle sind nicht unbedingt ein Ausschlussgrund ({term}`🗎 Kluger 2020`).
 
-:::{figure} SPA-Set.png
+:::{todo} SPA-Set.png
 
 SPA-Set
 :::
 
-:::{figure} SPA-Lagerung.png
+:::{todo} SPA-Lagerung.png
+
 :width: 50%
 
 Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
@@ -80,7 +83,7 @@ Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
   - Traumatische Kanülen: z.B. {index}`Quincke-Kanüle`: Seitlicher Schliff, stanzt Loch, Öffnung an der Spitze
 - Introducer (Führungskanüle): Kräftige, kurze Kanüle zur Führung der dünnen Spinalkanüle
 
-:::{subfigure} AB
+<!-- :::{subfigure} AB
 :subcaptions: above
 :name: Spinalnadeln
 :gap: 8px
@@ -91,6 +94,9 @@ Spinalnadeln
 ![Spinalnadeln (links, Mitte) und Introducer (rechts)](SPA-Nadeltypen.png)
 
 ![Schliff: Quincke, Sprotte](SPA-Schliff.png)
+:::
+ -->
+:::{todo} Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
 :::
 
 :::{note}

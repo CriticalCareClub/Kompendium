@@ -184,7 +184,9 @@ Grundsätzlich ist beim Schädel-Hirn-Trauma die übliche Trauma-Diagnostik durc
 
   **Luzides Intervall**
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\* PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten Hirndruck sein!
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
+
+PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten Hirndruck sein!
 
 ₢ Sebastian Gabriel {term}`ℓ MfG`
 :::

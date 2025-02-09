@@ -22,7 +22,7 @@ Grundsätzlich interessant sind immer die Parameter:
 - Flow über die Zeit
 - Dauer der der In- und Exspirationszeit bzw. I:E:-Verhältnis
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_215016_edited_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_215016_edited_001342px.jpg
 :width: 100%
 
 Moderner Narkoserespirator mit integriertem Monitoring (Dräger Primus™)
@@ -36,13 +36,13 @@ Beachte dass das Kapnogramm zu den Druck- und Flusskurven zeitverzögert ist (CO
 
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20150818_085352_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20150818_085352_001342px.jpg
 
 Narkoserespirator mit Spirometrie-Anzeige (GE Aisys™)
 :::
 
 
-:::{figure} ../../Bilder/Screenshots/G5-WeaningImBereich-36-Minuten.png
+:::{figure} ../../../Bilder/Screenshots/G5-WeaningImBereich-36-Minuten.png
 
 Intensivbeatmunsgerät Hamilton G5
 :::
@@ -57,9 +57,9 @@ Intensivbeatmunsgerät Hamilton G5
 In das Dokumentationssystem übermittelte Messwerte
 
 
-![Beatmunsmodus DuoPAP (entspricht BiBAP™)](../../Bilder/Metavision/MV_Respirator-Messungen-2.png)
+![Beatmunsmodus DuoPAP (entspricht BiBAP™)](../../../Bilder/Metavision/MV_Respirator-Messungen-2.png)
 
-![Beatmungsmodus ASV](../../Bilder/Metavision/MV_Respirator-Messungen.png)
+![Beatmungsmodus ASV](../../../Bilder/Metavision/MV_Respirator-Messungen.png)
 
 
 :::

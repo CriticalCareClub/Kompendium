@@ -24,25 +24,23 @@ Hämostase
 :::
 ## Gerinnungskaskade
 
-:::{figure} ../Pictures/Gerinnungskaskade-001.png
+:::{todo} Gerinnungskaskade — Was geschieht wo?
+
+../Pictures/Gerinnungskaskade-001.png
 :width: 100%
 
-Gerinnungskaskade — Was geschieht wo?
 :::
 
-:::{todo}
-`2DO-APHA-Graf-031` Gerinnungskaskade — Was geschieht wo?
-:::
 
-:::{figure} ../Pictures/Gerinnungskaskade-002.png
+
+:::{todo} Gerinnungskaskade — Phasen
+
+../Pictures/Gerinnungskaskade-002.png
 :width: 100%
 
-Gerinnungskaskade — Phasen
 :::
 
-:::{todo}
-`2DO-APHA-Graf-032` Gerinnungskaskade — Phasen
-:::
+
 
 (gerinnungsdiagnostik)=
 
@@ -89,23 +87,25 @@ Gerinnungskaskade — Phasen
   -
 :::
 
-:::{figure} ../Pictures/Gerinnungskaskade-Interventionen.png
+:::{todo} Grafik: Gerinnungskaskade und Interventionen
+
+../Pictures/Gerinnungskaskade-Interventionen.png
 :width: 100%
 
-Gerinnungskaskade und Interventionen
 :::
 
-:::{todo}
-`2DO-APHA-Graf-033` Gerinnungskaskade und Interventionen
-:::
+
 
 Klinische Bedeutung der Labortests?
 
-:::{figure} ../Pictures/Gerinnungsnanamnese.png
+:::{todo} Grafik: Gerinnungsnamnese
+
+../Pictures/Gerinnungsnanamnese.png
 :width: 100%
 
-Gerinnungsnamnese
 :::
+
+
 
 :::{index} single: Rotations-Thromboelastometrie
 :::
@@ -121,10 +121,10 @@ ROTEM. TEG; Point of Care Messung
 
 Störungen der Gerinnselbildung und der Gerinnselfestigkeit
 
-:::{figure} ../Pictures/ROTEM.jpg
-:width: 100%
+:::{todo} Grafik: ROTEM: Rotations-Thromboelastometrie
 
-ROTEM: Rotations-Thromboelastometrie
+../Pictures/ROTEM.jpg
+:width: 100%
 :::
 
 :::{admonition} Links
@@ -151,18 +151,18 @@ ROTEM: Rotations-Thromboelastometrie
  -->
 
 
-:::{figure} ../Pictures/Blutungsnamnese-Entscheidungsbaum.png
+:::{todo} Grafik: Blutungsnamnese Entscheidungsbaum
+
+../Pictures/Blutungsnamnese-Entscheidungsbaum.png
 :width: 100%
 
-Blutungsnamnese Entscheidungsbaum
 :::
 
-:::{todo}
-`2DO-APHA-Graf-034` Blutungsnamnese Entscheidungsbaum
-:::
+
 
 :::{index} single: Gerinnung; Störungen
 :::
+
 ## Angeborene Störungen
 
 Hämophilie A
@@ -194,8 +194,11 @@ Erworbene Störungen
 - Hüftoperation bei Patientin unter Pradaxa?
 - Hirnblutung unter Pradaxa?
 
+
+
 :::{index} single: Thrombozythenfunktionshemmung; perioperativ
 :::
+
 (APHA-VO-Thromboaggregationshemmer)=
 
 ## Perioperative Thrombozythenfunktionshemmung
@@ -259,6 +262,7 @@ Thrombozytenaggregationshemmer
 :::
 :::{index} single: Anti-Xa
 :::
+
 ### Neue orale Antikoagulantien - NOAKs, Direkte orale Antikoagulantien – DOAKs
 
 - Anti FIIa Typ – direkter Thrombininhibitor -- Dabigatran (Pradaxa™)
@@ -277,16 +281,19 @@ Thrombozytenaggregationshemmer
 
 - Im Notfall Praxbind™ oder PPSB (Prothrombinkomplexkonzentrat) oder Plasma
 
-:::{figure} ../Pictures/DOAK.png
+:::{todo} Grafik: DOAKs: Pause vor und nach Interventionen
+
+../Pictures/DOAK.png
 :width: 100%
 
-DOAKs: Pause vor und nach Interventionen
 :::
 
-:::{figure} ../Pictures/Management-perioperatives-Blutungsrisiko.png
+:::{todo} Grafik: Management des perioperativen Blutungsrisikos
+
+../Pictures/Management-perioperatives-Blutungsrisiko.png
 :width: 100%
 
-Management des perioperativen Blutungsrisikos
+
 :::
 
 :::{admonition} Empfehlungen - Guidelines
@@ -309,11 +316,14 @@ Management des perioperativen Blutungsrisikos
 - Einhalten von Pausen vor Anlegen eines Regionalanästhesiekatheters
 - Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
 
-:::{figure} ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
+:::{todo} Management der Blutung unter oraler Antikoagulation
+
+../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
 :width: 100%
 
-Management der Blutung unter oraler Antikoagulation
 :::
+
+
 
 ## Gerinnungssubstitution
 
@@ -413,11 +423,11 @@ Therapieoptionen:
 
 Willkommen Am Beginn der Massivblutungstherapie \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Die ersten Erythrozytenkonzentrate, FFPs, balancierte Kristalloide Infusionslösungen, ...](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113615_001342px.jpg)
+![Die ersten Erythrozytenkonzentrate, FFPs, balancierte Kristalloide Infusionslösungen, ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113615_001342px.jpg)
 
-![... Tranexamsäure, ...](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113644_001342px.jpg)
+![... Tranexamsäure, ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113644_001342px.jpg)
 
-![... Fibrinogen (Haemocomplettan™), ...](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113639_001342px.jpg)
+![... Fibrinogen (Haemocomplettan™), ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113639_001342px.jpg)
 :::
 
 :::{table} Gerinnungsfaktoren: Halbwertszeiten

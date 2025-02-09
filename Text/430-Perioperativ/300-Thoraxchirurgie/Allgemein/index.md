@@ -256,7 +256,7 @@ Da der Abgang des linken Oberlappens weiter von der Carina entfernt ist als der 
 
 Wird ein rechtsseitig-gebogener Tubus verwendet, besteht ein realistisches Risiko, dass der Abgang zum rechten Oberlappen durch den Tubus verlegt wird und der rechte Oberlappen nicht beatmet wird.
 
-:::{subfigure} AB
+<!-- :::{subfigure} AB
 :subcaptions: below
 :name: BS-Doppellumentubus
 :gap: 8px
@@ -267,10 +267,15 @@ Doppellumentubus
 ![Doppellumentubus](Doppellumentubus.jpeg)
 
 ![Doppellumentubus, Schema](Doppellumentubus-Schema.png)
+::: -->
+
+:::{todo} Grafik: Doppellumentubsu, Schema
+:::
+:::{todo} Foto: Doppellumentubus
 :::
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg
 
 Doppellumentubus
 :::

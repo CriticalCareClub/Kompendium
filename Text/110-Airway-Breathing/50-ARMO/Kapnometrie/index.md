@@ -78,7 +78,7 @@ Davon leitet sich auch die Bezeichnung {dfn}`etCO₂` ab: Sie steht für den
 Die CO₂-Messung (Kapnometrie) ist ein Standardmonitoringverfahren bei beatmeten Patienten
 :::
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000440-01341px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000440-01341px.jpg
 :width: 100%
 
 Kapnographie mittels eines Multifunktionsmonitors (unterste Reihe)
@@ -88,7 +88,9 @@ Hyperkapnie und Hyperthermie mit einer Temperatur von 40,8°C und Tachykardie al
 \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
-:::{figure} ../../Bilder/KS/RespMon-Monitor.jpeg
+:::{todo} Grafik: Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
+
+../../Bilder/KS/RespMon-Monitor.jpeg
 :width: 100%
 
 Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
@@ -145,7 +147,7 @@ Erniedrigte Werte (bzw. keine Werte) deuten unter anderem auf eine
 
 Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes sind ein kritisches Alarmzeichen.
 
-:::{figure} ../../Bilder/sketchymedicine/Mike/capnography_edited.jpg
+:::{figure} ../../../Bilder/sketchymedicine/Mike/capnography_edited.jpg
 :width: 100%
 
 Veränderungen der Kapnographiekurve
@@ -182,7 +184,9 @@ Mittels Nebenstromverfahren kann auch in einem *nicht-geschlossenen* System eine
 Der absolute Wert ist dabei zwar nicht aussagekräftig, jedoch kann mittels Kapnogramm die Exspiration an sich monitiert werden.
 Zur Anwendung kann dies z. B. bei spontan atmenden, sedierten Patienten kommen.
 
-:::{figure} ../../Bilder/KS/RespMon-KapnoSpontan_edited.jpeg
+:::{tofo} Foto: Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.
+
+../../Bilder/KS/RespMon-KapnoSpontan_edited.jpeg
 :width: 100%
 
 Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.

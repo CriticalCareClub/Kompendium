@@ -98,7 +98,7 @@ Somit ist so ziemlich alles, was auf einer Intensivstation passiert, ein Risikof
 
 ### CAM Confusion Assessement Method
 
-:::{figure} media/image7.jpeg
+:::{todo} p-CAM-ICU-Schema zur Früherkennung eines Delir media/image7.jpeg
 
 p-CAM-ICU-Schema zur Früherkennung eines Delir
 :::

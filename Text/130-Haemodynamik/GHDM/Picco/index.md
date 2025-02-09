@@ -23,7 +23,7 @@ Als Kalibriertechnik wird die *transpulmonale* {ref}`Thermodilution <Thermodilut
 Diese verwendet grundsätzlich das Stewart-Hamilton-Prinzip, allerdings wird die Temperaturänderungen **von einem zentral-venösen** Zugang zu einem **zentralen arteriellen Zugang**, z. B. in der A. femoralis, erfasst.
 Somit wird auch die Lungenstrombahn miterfasst, die Herzkammern und die Lunge mit dem extravaskulären Lungenwasser sind die Mischkammern für den kalten Bolus.
 
-:::{figure} ../Bilder/Picco-Kreislauf.png
+:::{todo} Grafik: ../Bilder/Picco-Kreislauf.png
 :alt: Bild
 :width: 100%
 
@@ -42,15 +42,15 @@ Downsloapzeit (DSt)
 
 
 
-:::{figure} ../Bilder/Thermodilution-Downsloap.png
+:::{todo} Grafik: ../Bilder/Thermodilution-Downsloap.png
 :alt: Bild
 :width: 100%
 
 Thermodilution-Downsloap
 :::
 
-Die aus der Thermodilution mit kalter Kochsalzlösung abgeleitete Kurve wird verwendet, um die arterielle Kontur zu kalibrierenund eine kontinuierliche Überwachung zu ermöglichen. 
-Der PiCCO-Algorithmus ist abhängig von der Morphologie der Blutdruckwellenform (mathematische Analyse der Wellenform). 
+Die aus der Thermodilution mit kalter Kochsalzlösung abgeleitete Kurve wird verwendet, um die arterielle Kontur zu kalibrierenund eine kontinuierliche Überwachung zu ermöglichen.
+Der PiCCO-Algorithmus ist abhängig von der Morphologie der Blutdruckwellenform (mathematische Analyse der Wellenform).
 Die transpulmonale Thermodilution umfasst das rechte Herz, den Lungenkreislauf und das linke Herz, was eine weitere mathematische Analyse der Thermodilutionskurve ermöglicht und Messungen des *Herzfüllvolumens* (Globales End-Diastolisches Volumen, *GEDV*), des *intrathorakalen Blutvolumens* (Volumen in den Kammern des Herzens und des Lungenkreislaufs, *ITBV*) und des *extravaskulären Lungenwassers* (ELW, *ELWI*) liefert.
 
 Die transpulmonale Thermodilution ermöglicht eine weniger invasive Kalibrierung, ist jedoch weniger genau als die pulmonalarterielle Thermodilution und erfordert einen zentralevenösen und arteriellen Zugang mit den damit verbundenen Infektionsrisiken.

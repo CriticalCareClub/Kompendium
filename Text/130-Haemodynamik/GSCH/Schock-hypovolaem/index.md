@@ -59,7 +59,7 @@ Typische Symptome eines hypovolämen Schocks sind:
 - schneller, schwacher, fadenförmiger Puls aufgrund einer verminderten Durchblutung in Kombination mit Tachykardie
 - Tachypnoe
 - Durstgefühl
-- Hypotonie 
+- Hypotonie
   - Cave: Ein isoliert reduzierter Blutdruck hat nur geringe Aussagekraft, durch die Kompensationsmechanismen kann er vom Körper relativ lange hochgehalten werden, wobei schon eine Minderperfusion eingetreten sein kann.
 - Marmorierung der Haut (Livedo reticularis, Mottling)
 
@@ -71,7 +71,7 @@ Die Symptome sind anfangs häufig diskret ausgeprägt!
 
 ## Diagnostik
 
-Wichtig ist natürlich primär die kausale Ursache zu finden und die Schwere abzuschätzen: 
+Wichtig ist natürlich primär die kausale Ursache zu finden und die Schwere abzuschätzen:
 
 - Bildgebung:
   - Ultraschall ({ref}`E-FAST <E-FAST>`: innere Blutung?)
@@ -79,10 +79,10 @@ Wichtig ist natürlich primär die kausale Ursache zu finden und die Schwere abz
   - Lungenröntgen, ev. CT (Pulmonalembolie?)
   - Bei Trauma: CT "Traumaspirale"
 - Arterienkatheter und {ref}`invasive Blutdruckmessung <IABP>`
-  
+
   Der isoliert betrachtete Blutdruck hat nur eine geringe Aussagekraft.
   Natürliche (oder iatrogene) Kompensationsmechanismen können den Blutdruck relativ lange im Normbereich halten.
-  Ein minimaler Perfusionsdruck ist für alle Organe notwendig, dessen Höhe ist jedoch nicht genau definiert. 
+  Ein minimaler Perfusionsdruck ist für alle Organe notwendig, dessen Höhe ist jedoch nicht genau definiert.
 - **Labor**
   - *Blutbild*, *Hämoglobin*, Hämatokrit
   - {ref}`Gerinnungsdiagnostik <Gerinnungsdiagnostik>`, ev. Point-of-Care: {ref}`Rotationsthrombelastometrie (ROTEM™) <ROTEM>`
@@ -182,7 +182,9 @@ Sonderform des hypovolämen Schocks, nach {term}`♛ S2k PPH 2022`
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} /Bilder/med/S2k-PPH-2022.\*
+:::{todo} Interdisziplinärer PPH-Behandlungsalgorithmus: "PPH 2022" \[₢ {term}`♛ S2k PPH 2022`\]
+
+/Bilder/med/S2k-PPH-2022.\*
 :name: PPH-2022
 :width: 100%
 

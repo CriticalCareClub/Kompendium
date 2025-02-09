@@ -7,12 +7,12 @@
 :::{index} single: Peritonitis
 :::
 
-(Peritonitis)= 
+(Peritonitis)=
 
 # Peritonitis
 
 Syn.
-: Bauchfellentzündung 
+: Bauchfellentzündung
 
 
 
@@ -28,13 +28,15 @@ Syn.
 
 Eine **Peritonitis** (Bauchfellentzündung) ist die Entzündung des Peritoneums.
 Sie kann lokalisiert auftreten oder generalisiert das gesamte Peritoneum betreffen ("4-Quadranten-Peritonitis").
-Durch die Entzündung bzw. Infektion des Bauchfelles kommt es zu Symptomen eines Akuten Abdomens. 
-Oft ist die Perforation eines Hohlorganes (Magendurchbruch, Darmperforation, Blinddarmdurchbruch, …) Ursache der Entzündung. 
+Durch die Entzündung bzw. Infektion des Bauchfelles kommt es zu Symptomen eines Akuten Abdomens.
+Oft ist die Perforation eines Hohlorganes (Magendurchbruch, Darmperforation, Blinddarmdurchbruch, …) Ursache der Entzündung.
 Eine Bauchfellentzündung führt üblicherweise zu einer schweren körperweiten Entzündungsreaktion.
 Sie ist nur **selten eine eigenständige Erkrankung**, sondern häufig eine Folgeerscheinung eines anderen Krankheitsprozesses und umfasst einen heterogenen Komplex von klinischen Krankheitsbildern.
 Die Behandlung und Prognose ist wesentlich vom zugrunde liegenden Krankheitsbild abhängig.
 
-:::{figure} Peritonitis.png
+:::{todo} Foto: 4-Quadranten-Peritonitis
+
+Peritonitis.png
 
 Bild einer 4-Quadranten-Peritonitis: Fibrinbelegte, verbackene Darmschlingen, fäkulentes Sekret eintrige Auflagerungen
 :::
@@ -170,7 +172,7 @@ Besser eine ergebnislose Relaparotomie als eine befundreiche Autopsie.
 
 :::{index} single: Vakuum-Verband; intraperitonealer
 :::
-:::{index} single: Abthera Advance™ 
+:::{index} single: Abthera Advance™
 :::
 
 #### V.A.C.-Strategie
@@ -207,13 +209,13 @@ Theoretische Ansätze zur kontinuierlichen Lavage in Verbindung mit einem VAC-Sy
 
 Intraperitonealer VAC-Verband
 
-![Einlage eines subfazialen folierten VAC-Schwammes](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240913_082527_001342px.jpg)
+![Einlage eines subfazialen folierten VAC-Schwammes](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240913_082527_001342px.jpg)
 
-![Anlage eines Netzes über dem subfaszialen VAC-Anteil zur Faszienadaptation](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152119_001342px.jpg) 
+![Anlage eines Netzes über dem subfaszialen VAC-Anteil zur Faszienadaptation](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152119_001342px.jpg)
 
-![Subkutaner VAC-Schwamm, welcher über den saubfaszialen Schwann aufgelegt wird](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152156_001342px.jpg) 
+![Subkutaner VAC-Schwamm, welcher über den saubfaszialen Schwann aufgelegt wird](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152156_001342px.jpg)
 
-![Einlage des subkutanen Schwamms vor Anlage des Folienverbandes](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152924_001342px.jpg)
+![Einlage des subkutanen Schwamms vor Anlage des Folienverbandes](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20231005_152924_001342px.jpg)
 
 :::
 
@@ -247,10 +249,10 @@ Vgl. auch {ref}`schock-Therapie`.
 - **Hämodynamisches Monitoring**
 - Extrakorporale **Endotoxinadsorption** bei gramnegativer Sepsis: Die Reduktion der Mortalität durch Eliminierung von Endotoxinen ist ein Streitthema und bis dato nicht bewiesen
 - Angepasste **Flüssigkeitstherapie**
-  - Humanalbumin als Volumenersatzmittel erwägen: 
+  - Humanalbumin als Volumenersatzmittel erwägen:
     Humanalbumin ist nicht mit einer Erhöhung der Letalität assoziiert, allerdings ist auch kein Überlebensvorteil vorhanden.
 - **Laktatclearance**: Prozentuale Reduktion der Laktatkonzentration zwischen Aufnahme und 6h nach der Aufnahme, eine frühzeitige Laktatclearance korreliert mit der Prognose des Patienten.
-- **Hydrokortison**: 
+- **Hydrokortison**:
   Niedrig dosiertes Hydrokortison führt zu einer raschen hämodynamischen Stabilisierung und sollte daher bei Patienten mit septischen Schock, die trotz ausreichender Volumentherapie Vasopressin benötigen um einen adäquaten Blutdruck aufrecht zu erhalten, verabreicht werden.
 
 
@@ -272,9 +274,9 @@ Gelingt schlussendlich der Bauchdeckenschluss kann es durch eine Dehiszenz der F
 
 Komplikationen einer Peritonitis
 
-![Blockbauch: Nach andauernder Entzündung  haben Fibroblasten aus dem Darmkonvolut einen kompakten Fibrinblock geformt](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240913_091204_001342px.jpg)
+![Blockbauch: Nach andauernder Entzündung  haben Fibroblasten aus dem Darmkonvolut einen kompakten Fibrinblock geformt](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240913_091204_001342px.jpg)
 
-![Platzbauch: Defekt (Dehiszenz) der Bauchfaszie und Aufbrechen der ursprünglichen Inzision nach einer Laparotomie (links unten das Entlastungsstoma)](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240927_182159_001342px.jpg)
+![Platzbauch: Defekt (Dehiszenz) der Bauchfaszie und Aufbrechen der ursprünglichen Inzision nach einer Laparotomie (links unten das Entlastungsstoma)](../../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_20240927_182159_001342px.jpg)
 
 :::
 

@@ -410,13 +410,13 @@ NarkEinA -> C -> Weiter;
 
 Endotracheale Intubation in der Praxis \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
 
-![Zureichen des Laryngoskops (*linke* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.\*)
+![Zureichen des Laryngoskops (*linke* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg)
 
-![Zureichen des Tubus (*rechte* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.\*)
+![Zureichen des Tubus (*rechte* Hand!)](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.jpg)
 
-![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.\*)
+![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.jpg)
 
-![Cuffen nach Entfernung des Führungsdrahtes](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.\*)
+![Cuffen nach Entfernung des Führungsdrahtes](../../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.jpg)
 ::::
 
 

@@ -19,7 +19,9 @@
 - **Auf ICU nur flexible Bronchoskopie**
 - **Fiberoptik oder Video Bronchoskopie**
 
-:::{figure} ../Bilder/Bronchoskop-flexibel.jpg
+:::{todo} Foto: Flexibles Bronchoskop
+
+../Bilder/Bronchoskop-flexibel.jpg
 :width: 75%
 
 Flexibles Bronchoskop
@@ -59,35 +61,13 @@ Therapeutisch:
 ### Anatomie
 
 
-:::{figure} ../Bilder/Bronchialbaum-Schema.jpg
+:::{todo} ../Bilder/Bronchialbaum-Schema.jpg
 :width: 100%
 
 Bronchialbaum
 :::
 
-:::{figure} ../Bilder/Bronchoskopie-Bronchialbaum-Bild-010.jpeg
-:width: 100%
-
-A: Knorpelspangen, B: Pars membranacea
-:::
-
-:::{figure} ../Bilder/Bronchoskopie-Bronchialbaum-Bild-020.jpeg
-:width: 100%
-
-Karina
-:::
-
-:::{figure} ../Bilder/Bronchoskopie-Bronchialbaum-Bild-030.jpeg
-:width: 100%
-
-Rechter Hauptbronchus 
-:::
-
-
-:::{figure} ../Bilder/Bronchoskopie-Bronchialbaum-Bild-050.jpeg
-:width: 100%
-
-Linker Hauptbronchus
+:::{todo} Bronchsoskopie: verschiedene Ansichten
 :::
 
 

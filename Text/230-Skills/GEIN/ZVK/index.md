@@ -10,10 +10,10 @@
 
 # Anlage eines ZVK
 
-Ein zentraler Venenkatheter (ZVK) ist ein Katheter, der in eine große Vene eingeführt wird und dessen Ende in der V. cava zu liegen kommt. 
+Ein zentraler Venenkatheter (ZVK) ist ein Katheter, der in eine große Vene eingeführt wird und dessen Ende in der V. cava zu liegen kommt.
 Übliche Gefäßzugänge sind die Vena jugularis interna, die Vena subclavia und die Vena femoralis.
-ZVKs werden eingesetzt um einen zuverlässigen Gefäßzugang sicherzustellen oder um Medikamente zu verabreichen, die verdünnt werden müssen, um die Venenschädigung möglichst gering zu halten. 
-Ferner erlaubt der ein ZVK die Messung des {ref}`zentralvenösen Drucks (ZVD) <zvd>`. 
+ZVKs werden eingesetzt um einen zuverlässigen Gefäßzugang sicherzustellen oder um Medikamente zu verabreichen, die verdünnt werden müssen, um die Venenschädigung möglichst gering zu halten.
+Ferner erlaubt der ein ZVK die Messung des {ref}`zentralvenösen Drucks (ZVD) <zvd>`.
 Die verwendeten Katheter sind üblicherweise 15–20 cm lang, bestehen aus Silikon oder Polyurethan und haben ein oder mehrere Lumen.
 
 (GEIN-KP-ZVK-Indikationen)=
@@ -51,7 +51,7 @@ Kontraindikationen für einen zentralen Venenzugang sind immer relativ und häng
 ## Komplikationen
 
 Die Gesamtkomplikationsrate bei der Platzierung zentraler Venenkatheter liegt bei etwa 15% [{term}`🗎 McGee 2003`, {term}`🗎 Sznajder 1986`].
-Zu den typischen Komplikationen bei der Platzierung gehören Arterienpunktion, Katheterfehlstellung, Hämato- und Pneumothorax, ventrikuläre Arrhythmien, subkutanes Hämatom. 
+Zu den typischen Komplikationen bei der Platzierung gehören Arterienpunktion, Katheterfehlstellung, Hämato- und Pneumothorax, ventrikuläre Arrhythmien, subkutanes Hämatom.
 Die Ultraschall-gezielte Punktion kann die Komplikationsrate erheblich senken.
 
 Neben den anlageassoziierten Komplikationen müssen aber auch auf die Komplikationen während der gesamten Verweildauer und bei Entfernung des Katheters bedacht werden.
@@ -150,7 +150,7 @@ Kritische Risikofaktoren sind die Verweildauer und die Anzahl der Lumina.
 Prüfungsrelevanz
 : ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☐ PJ-Reife | ☐ PJ Tertialprüfung
 
-Beim Zugang über die Vena iugularis interna sollte die Nadel an der Spitze des Dreiecks eingeführt werden, das durch die beiden Köpfe des Musculus sternocleidomastoideus oberhalb des medialen Schlüsselbeins gebildet wird und sich normalerweise 5 cm oberhalb des Schlüsselbeins befindet.  
+Beim Zugang über die Vena iugularis interna sollte die Nadel an der Spitze des Dreiecks eingeführt werden, das durch die beiden Köpfe des Musculus sternocleidomastoideus oberhalb des medialen Schlüsselbeins gebildet wird und sich normalerweise 5 cm oberhalb des Schlüsselbeins befindet.
 Dies sollte seitlich zur Karotispulsation erfolgen und die Nadel sollte seitlich in der Sagittalebene in Richtung der ipsilateralen Brustwarze gerichtet sein.
 Das Drehen des Kopfes des Patienten zur kontralateralen Seite hebt Orientierungspunkte hervor und erleichtert die Platzierung des ZVK. [{term}`🗎 StatPearls CLP`]
 
@@ -168,7 +168,7 @@ Das Drehen des Kopfes des Patienten zur kontralateralen Seite hebt Orientierungs
 10. Schale für Desinfektionsmittel verwerfen
 11. *Sterilen Kittel* anlegen
 12. Material auf sterilen Tisch ordnen
-13. Assistenz füllt Schale für Kochsalzlösung 
+13. Assistenz füllt Schale für Kochsalzlösung
 14. *Spül-Spritze* mit Kochsalzlösung füllen
 15. Katheterlumina *spülen*
 16. Abdecktücher vorbereiten
@@ -194,8 +194,8 @@ Das Drehen des Kopfes des Patienten zur kontralateralen Seite hebt Orientierungs
     - Wenn arterielle Punktion vermutet (hellrotes, spritzendes Blut) oder im Zweifel: BGA-Kontrolle
 29. Wenn venöse Punktion gesichert: *Führungsdraht* ansetzen und einführen
     - Stopp wenn Widerstand!
-    - Der Führungsdraht sollte nur über die erwartete Katheterlänge hinaus eingeführt werden, um ein Vordringen ins Herz zu vermeiden. 
-    - Wenn Führungsdraht den rechten Vorhof erreicht können häufig Extrasystolen ausgelöst werden. 
+    - Der Führungsdraht sollte nur über die erwartete Katheterlänge hinaus eingeführt werden, um ein Vordringen ins Herz zu vermeiden.
+    - Wenn Führungsdraht den rechten Vorhof erreicht können häufig Extrasystolen ausgelöst werden.
       Wenn eine Arrhythmie auftritt, sollte der Führungsdraht zurückgezogen werden, bis sie sich auflöst.
 30. Kanüle über Führungsdraht *ausfädeln*
 31. Führungsdraht mittels *Ultraschall* im Gefäß darstellen
@@ -218,11 +218,11 @@ Das Drehen des Kopfes des Patienten zur kontralateralen Seite hebt Orientierungs
 47. *Händedesinfektion*
 48. *BGA-Ergebnis* kontrollieren
 49. Je nach Hausstandard ev. {ref}`Thoraxsonographie zum Pneumothorax-Ausschluss <Ultraschall-Pneumothorax>`
-50. *Thoraxröntgen* durchführen 
+50. *Thoraxröntgen* durchführen
     - Fragestellung: "Lagekontrolle, Pneumothorax?"
 51. Dokumentation
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20160109_110329_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20160109_110329_001342px.jpg
 
 ZVK in der V. iug. int. dext.
 :::
@@ -230,7 +230,7 @@ ZVK in der V. iug. int. dext.
 :::{admonition} Weiterführende Ressourcen
 
 - {term}`🗎 StatPearls CLP`: **Central Line Placement** by Audrey Tse and Michael A. Schick.
-  In: StatPearls [Internet]. 
+  In: StatPearls [Internet].
   Bookshelf ID: [NBK470286](http://www.ncbi.nlm.nih.gov/books/nbk470286/)
 - Video: **ZVK legen gemäß RKI Empfehlung**:
   <https://www.youtube.com/watch?v=RwoNJE89IFQ>

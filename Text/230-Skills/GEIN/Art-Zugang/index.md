@@ -31,7 +31,7 @@
 ## Anlage
 
 Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE** 
+: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
 
 Die Anlage einer arteriellen Kanüle zur Druckmessung kann in direkter Punktionstechnik (analog zu einer peripheren Venenverweilkanüle) oder in Seldinger-Technik erfolgen.
 Ein typischer Punktionsort ist die A. radialis, alternativ sind aber auch andere Punktionsorte möglich (Aa. brachialis, ulnaris, femoralis, dorsalis pedis).
@@ -59,9 +59,9 @@ Ein modifizierter **Allen-Test** zur Kontrolle des Kollateralkreislaufs wird hä
 
 Übersicht: Verschiedene Arterienkanülen [₢ MrArifnajafov {term}`ℓ CC BY-SA 3.0`]
 
-![Arterielle Kanülen nach der Seldinger-Technik](../../Bilder/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
+![Arterielle Kanülen nach der Seldinger-Technik](../../../Bilder/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
 
-![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../Bilder/CC-BY-3.0/Arterial_kateter_800px.jpg)
+![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../../Bilder/CC-BY-3.0/Arterial_kateter_800px.jpg)
 
 :::
 
@@ -74,7 +74,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 
 :::{hlist}
 - Arterienkanüle
-- Tupfer mit Hautantiseptikum mit remmanenter Wirkung 
+- Tupfer mit Hautantiseptikum mit remmanenter Wirkung
 - trockene Tupfer
 - *steriles* (!) Ultraschallgel
 - steriler Überzug für Ultraschallkopf
@@ -107,7 +107,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 9.  Händedesinfektion
 10. Sterile Handschuhe anlegen
 11. Desinfektion der Punktionsstelle mit alkoholischem Hautantiseptikum: 3× von innen nach außen, Einwirkzeit beachten!
-    - idealerweise Hautantiseptikum mit remmanenter Wirkung (z.B. Octenidin-hältig)  
+    - idealerweise Hautantiseptikum mit remmanenter Wirkung (z.B. Octenidin-hältig)
 12. Sterile Abdeckung, z.B. Lochtuch
 13. Sterilen Überzug über Ultraschallkopf anlegen und Schallkopf nehmen, steriles Ultraschallgel auftragen, Seitenbestimmung
 14. Aufsuchen der Arterie im Ultraschall im Querschnitt, Verlauf nach proximal und distal verfolgen, ggfs. orientierend auch im Längsschnitt. Passende Punktionsstelle suchen. Die ideale Punktionstelle:
@@ -133,7 +133,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 21. Mandrin fixieren und Katheter in das Gefäß vorschieben.
 22. Mandrin entfernen, Abwurf in Nadelabwurfbehälter. Es sollte heftiger, pulsierender, hellroter Blutfluss folgen.
 23. Schiebeklemme am Katheter schließen.
-24. Desinfizierende Reinigung mittels Hautantiseptikum mit remmanenter Wirkung 
+24. Desinfizierende Reinigung mittels Hautantiseptikum mit remmanenter Wirkung
 25. Reinigung, Fixierung und Verband gem. Hausstandard.
 26. Luftblasen-freies Konnektieren des gespülten Druckabnahmesystems
 27. Öffnen der Schiebeklemme am Katheter und Spülen des Katheters.
@@ -149,7 +149,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 
 34. Dokumentation
 
-:::{figure} ../../Bilder/CC-BY-SA-4.0/Arterial-line-shaded.png
+:::{figure} ../../../Bilder/CC-BY-SA-4.0/Arterial-line-shaded.png
 :alt: Bild
 :width: 75%
 
@@ -158,7 +158,7 @@ Success: Arterielles System in situ an der A. radialis
 ₢ Red Roan {term}`ℓ CC BY-SA 4.0`
 :::
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
@@ -174,7 +174,7 @@ Ischämie der Akren nach Anlage eines arteriellen Katheters.
 ## Blutabnahme über ein Arteriensystem
 
 Prüfungsrelevanz
-: ☑ **Praktikum** | ☐ Schriftliche Prüfung | ☑ **PJ-Reife / OSCE** 
+: ☑ **Praktikum** | ☐ Schriftliche Prüfung | ☑ **PJ-Reife / OSCE**
 
 
 :::{warning}
@@ -195,10 +195,13 @@ Zur Verhinderung von Katheterinfektionen müssen die hygienischen Maßnahmen str
 
 Arteriensystem
 
-![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
-![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../Bilder/restricted/77962-7534081.jpeg)
+![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../../Bilder/Logos/Logo-4.png)
 
+:::
+
+:::{todo} Foto: Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \] ../../../Bilder/restricted/77962-7534081.jpeg
 :::
 
 :::{raw} latex

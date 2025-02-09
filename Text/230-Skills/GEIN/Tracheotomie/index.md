@@ -20,7 +20,7 @@
 
 Die Tracheotomie bzw. Tracheostomie ist grundsätzlich ein chirurgischer Eingriff zur Atemwegssicherung, bei dem ventral am Hals durch einen Schnitt in der Trachea  ein direkter Zugang eröffnet und mittels einer Trachealkanüle gesichert wird.
 
-Bei der **perkutanen Dilatationstracheotomie** (**PDT**) wird der Zugang nicht chirurgisch, sondern mittels Punktion der Trachea und Einführend von Dilatatoren und der Kanüle mittels Seldinger-Technik erreicht. 
+Bei der **perkutanen Dilatationstracheotomie** (**PDT**) wird der Zugang nicht chirurgisch, sondern mittels Punktion der Trachea und Einführend von Dilatatoren und der Kanüle mittels Seldinger-Technik erreicht.
 
 
 :::{subfigure} AB
@@ -31,9 +31,9 @@ Bei der **perkutanen Dilatationstracheotomie** (**PDT**) wird der Zugang nicht c
 
 Perkutane Dilatationstracheotomie: Relevante Anatomie
 
-![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../Bilder/Larynx-Anatomie.jpeg)
+![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../../../Bilder/PD/Larynx-Anatomie.jpeg)
 
-![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../Bilder/unrestricted/Traqueostomia.png)
+![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../../Bilder/unrestricted/Traqueostomia.png)
 
 :::
 
@@ -43,10 +43,10 @@ Perkutane Dilatationstracheotomie: Relevante Anatomie
 
 ## Perkutane Dilatationstracheostomie vs. chirurgische Technik
 
-Die PDT ist grundsätzlich atraumatischer und kann im intensivmedizinischen Setting am Krankenbett des Patienten durchgeführt werden. 
+Die PDT ist grundsätzlich atraumatischer und kann im intensivmedizinischen Setting am Krankenbett des Patienten durchgeführt werden.
 Fällt die Indikation für die Trachealkanüle weg und wird diese Entfernt verschließt sich das Tracheostoma erheblich schneller.
 
-Dies ist jedoch auch gleichzeitig der Nachteil: 
+Dies ist jedoch auch gleichzeitig der Nachteil:
 Kommt es zur unbeabsichtigten Entfernung der Kanüle verschliesst sich der Zugang rasch, es kommt zu einem "Kulissenphänomen".
 Eine Rekanülierung ist dann schwer oder gar nicht mehr möglich.
 
@@ -68,8 +68,8 @@ Die **Koniotomie** stellt eher eine **Notfallprozedur** dar, hierbei ist die Zie
 
 Bei der PDT steht, im Gegensatz zur chirurgischen Anlage, die primäre Sicherung eines Atemweges unter Umgehung des Oropharynx nicht im Vordergrund, da sich die PDT in Situationen, wo der reguläre Atemweg z.B. aufgrund von Tumoren o.ä. nicht zu Verfügung steht, aufgrund der {ref}`Gefahr bei akzidentieller Dekanülierung` von vornherein verbietet.
 
-Die Stärke der PDT liegt bei beatmeten Patienten, bei denen entweder 
-- aufgrund der langen Beatmungsdauer der oropharyngeale Tubus die Pflege erschwert und Verletzungen wir Druckstellen etc. verursacht, oder 
+Die Stärke der PDT liegt bei beatmeten Patienten, bei denen entweder
+- aufgrund der langen Beatmungsdauer der oropharyngeale Tubus die Pflege erschwert und Verletzungen wir Druckstellen etc. verursacht, oder
 - die Reduktion der Sedierung aufgrund des Tubusreizes nicht möglich ist.
 
 Somit handelt es sich also um Patienten, bei denen davon ausgegangen ist, dass nach erfolgtem Weaning von der Beatmung und Beendigung der Intensivtherapie keine weitere Indikation für das Tracheostoma bestehen wird.
@@ -150,7 +150,7 @@ Manche Kanülen besitzen:
 Blockbare Trachealkanülen werden bei Beatmung und Aspirationsgefährdung angewendet.
 Bei Spontanatmung und Vorhandensein der notwendigen Schutzreflexe und das störungsfreie Schlucken möglich ist, wird eine ungeblockte Kanüle verwendet. Dabei ist auch die Verwendung einer Metallkanüle möglich, die keinen Cuff und auch keinen Konnektor besitzt, aber gut gereinigt, desinfiziert und bei Bedarf auch sterilisiert werden kann.
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140940_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140940_001342px.jpg
 
 Patient mit Trachealkanüle
 :::
@@ -167,13 +167,14 @@ Die Durchführung einer PDT soll daher exemplarisch dargestellt werden.
 
 
 
-:::{figure} ../Bilder/Punktionstracheotomie-Schema.jpg
+:::{todo} Grafik: ../Bilder/Punktionstracheotomie-Schema.jpg
+
 :width: 100%
 
 Schema einer Punktions-Dilatationstracheotomie
 :::
 
-Die Anlage erfolgt unter sterilen Kautelen. 
+Die Anlage erfolgt unter sterilen Kautelen.
 Mittels Fiberoptik (Bronchoskop) in der Trachea während der Punktion wird sichergestellt dass es zu keiner Verletzung der Hinterwand der Trachea oder Punktion des Tubus kommt.
 
 
@@ -185,13 +186,13 @@ Mittels Fiberoptik (Bronchoskop) in der Trachea während der Punktion wird siche
 
 Durchführung einer Dilatationstracheotomie am beatmeten Patienten 1
 
-![Lagerung](../Bilder/Punktionstracheotomie-110_001342px.jpg)
+![Lagerung](../../../Bilder/KS/Punktionstracheotomie-110_001342px.jpg)
 
-![Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.](../Bilder/Punktionstracheotomie-010.jpg)
+![Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.](../../../Bilder/KS/Punktionstracheotomie-010.jpg)
 
-![Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration](../Bilder/Punktionstracheotomie-022_001342px.jpg)
+![Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration](../../../Bilder/KS/Punktionstracheotomie-022_001342px.jpg)
 
-![Sicht im Bronchoskpop: Punktion der Trachea](../Bilder/Punktionstracheotomie-023.jpg)
+![Sicht im Bronchoskpop: Punktion der Trachea](../../../Bilder/KS/Punktionstracheotomie-023.jpg)
 
 :::
 
@@ -203,13 +204,13 @@ Durchführung einer Dilatationstracheotomie am beatmeten Patienten 1
 
 Durchführung einer Dilatationstracheotomie 2
 
-![Einfädeln des Führungsdrahtes](../Bilder/Punktionstracheotomie-040_001342px.jpg)
+![Einfädeln des Führungsdrahtes](../../../Bilder/KS/Punktionstracheotomie-040_001342px.jpg)
 
-![Dilatator](../Bilder/Punktionstracheotomie-030_001342px.jpg)
+![Dilatator](../../../Bilder/KS/Punktionstracheotomie-030_001342px.jpg)
 
-![2. Dilatator](../Bilder/Punktionstracheotomie-060_001342px.jpg)
+![2. Dilatator](../../../Bilder/KS/Punktionstracheotomie-060_001342px.jpg)
 
-![Dilatator mit Führungsmandrin](../Bilder/Punktionstracheotomie-070_001342px.jpg)
+![Dilatator mit Führungsmandrin](../../../Bilder/KS/Punktionstracheotomie-070_001342px.jpg)
 
 :::
 
@@ -221,13 +222,13 @@ Durchführung einer Dilatationstracheotomie 2
 
 Durchführung einer Dilatationstracheotomie 3
 
-![Einführen der Kanüle mit Dilatator.](../Bilder/Punktionstracheotomie-080_001342px.jpg)
+![Einführen der Kanüle mit Dilatator.](../../../Bilder/KS/Punktionstracheotomie-080_001342px.jpg)
 
-![Kanüle in situ](../Bilder/Punktionstracheotomie-100_001342px.jpg)
+![Kanüle in situ](../../../Bilder/KS/Punktionstracheotomie-100_001342px.jpg)
 
-![Kanülendilatator wird entfernt](../Bilder/Punktionstracheotomie-090_001342px.jpg)
+![Kanülendilatator wird entfernt](../../../Bilder/KS/Punktionstracheotomie-090_001342px.jpg)
 
-![Einbau eines Ports für das Bronchoskop](../Bilder/Punktionstracheotomie-020_001342px.jpg)
+![Einbau eines Ports für das Bronchoskop](../../../Bilder/KS/Punktionstracheotomie-020_001342px.jpg)
 
 :::
 
@@ -240,9 +241,9 @@ Durchführung einer Dilatationstracheotomie 3
 
 Durchführung einer Dilatationstracheotomie 4
 
-![Einführen des Bronchoskops](../Bilder/Punktionstracheotomie-130_001342px.jpg)
+![Einführen des Bronchoskops](../../../Bilder/KS/Punktionstracheotomie-130_001342px.jpg)
 
-![Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.](../Bilder/Punktionstracheotomie-140.jpg)
+![Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.](../../../Bilder/KS/Punktionstracheotomie-140.jpg)
 
 :::
 

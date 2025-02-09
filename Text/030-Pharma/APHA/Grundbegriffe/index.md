@@ -66,15 +66,10 @@ Rezeptoren sind komplexe, große **(Protein-)Moleküle**, welche über Bindungss
 Die Bindung eines Liganden führt zu einer **Veränderung der räumlichen Anordnung** des Proteins (*Tertiär-* und *Quartärstruktur*) und damit zu einer **Veränderung des Funktionszustands** des Proteins.
 Sie können sich sowohl in der Zellmembran als auch intrazellulär befinden.
 
-:::{figure} ../Pictures/Rezeptor-Ligand-tr.png
-:width: 50%
-
-Rezeptor mit Ligand
+:::{todo} Grafik: Rezeptor mit Ligand
 :::
 
-:::{todo}
-`2DO-APHA-Graf-025` Rezeptor mit Ligand
-:::
+
 
 ### Wirkungsprinzipien
 
@@ -90,25 +85,23 @@ Man unterscheidet:
 - **Liganden**-gesteuerte Ionenkanäle
 - **G-Protein** gesteuerte Rezeptoren
 
-:::{figure} ../Pictures/Liganden-gesteuerter-Ionenkanal.png
+:::{todo} Grafik: Liganden-gesteuerter Ionenkanal
+
+../Pictures/Liganden-gesteuerter-Ionenkanal.png
 :width: 100%
 
-Liganden-gesteuerter Ionenkanal
 :::
 
-:::{todo}
-`2DO-APHA-Graf-026` Liganden-gesteuerter Ionenkanal
-:::
 
-:::{figure} ../Pictures/G-Protein-gesteuerter-Rezeptor.png
+
+:::{todo} Grafik: G-Protein-gesteuerter Rezeptor
+
+../Pictures/G-Protein-gesteuerter-Rezeptor.png
 :width: 100%
 
-G-Protein-gesteuerter Rezeptor
 :::
 
-:::{todo}
-`2DO-APHA-Graf-027` G-Protein-gesteuerter Rezeptor
-:::
+
 
 :::{list-table}
 :header-rows: 1
@@ -161,15 +154,13 @@ G-Protein-gesteuerter Rezeptor
 
 ### Überträger im autonomen Nervensystem
 
-:::{figure} ../Pictures/Uebertraeger-autonomes-Nervensystem.png
+:::{todo} Grafik: Überträger im autonomen Nervensystem
+
+../Pictures/Uebertraeger-autonomes-Nervensystem.png
 :width: 100%
-
-Überträger im autonomen Nervensystem
 :::
 
-:::{todo}
-`2DO-APHA-Graf-028` Überträger im autonomen Nervensystem
-:::
+
 
 (Q-APHA23001)=
 (Q-APHA23002)=

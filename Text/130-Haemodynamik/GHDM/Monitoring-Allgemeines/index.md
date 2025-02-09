@@ -12,14 +12,7 @@ Im Intensivsetting werden verschiedene Parameter routinemäßig überwacht:
   - Messwerte: Temperatur, *Diurese*, Atemfrequenz, Blutzucker, ...
   - **Klinischer Status**: Hautkolorit, *Rekapillarisierung*, Diaphorese, *Vigilanz und Neurologie*, ...
 
-:::{figure} ../Bilder/Karrikatur_HD_2.png
-:align: center
-:alt: Bild
-:width: 70%
 
-Das hämodynamische Monitoring setzt sich aus verschiedenen Komponenten zusammen.
-Apparatives Monitoring ist nur ein Teilbereich.
-:::
 
 Die jeweiligen Messwerte müssen jedenfalls immer **im Kontext** beurteilt werden:
 

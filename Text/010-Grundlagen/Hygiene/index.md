@@ -837,9 +837,7 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
   FFP 2 und FFP 3.
 - *Schutzanzüge* kommen in speziellen Situationen zum Einsatz.
 
-[^footnote-14]: Beim Ausbruch von SARS in Hongkong in 2003 konnten simple OP-Masken
-    das Infektionsrisiko für das Personal auf 0 senken (das infizierte
-    Personal trug entweder keine Maske oder einfache Papiermasken) {term}`🗎 Seto 2003`.
+[^footnote-14]: Beim Ausbruch von SARS in Hongkong in 2003 konnten simple OP-Masken das Infektionsrisiko für das Personal auf 0 senken (das infizierte Personal trug entweder keine Maske oder einfache Papiermasken) {term}`🗎 Seto 2003`.
 
 :::{list-table} Arten von Schutzmasken und Rückhaltevermögen
 :header-rows: 1

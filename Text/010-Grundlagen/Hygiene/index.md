@@ -1,10 +1,8 @@
----
-Autoren: Diverse
-Maintainer: Sebastian Gabriel
-Reviewer: Alexander Blacky, Standard-Reviewprozess
----
 
 # Hygiene
+
+Hygiene ist allgemein die Lehre von der Gesunderhaltung und der Maßnahmen zur Erhaltung und Verbesserung der Gesundheit.
+Im engeren Sinne bezeichnet sie die Lehre von den Infektionserkrankungen und der Maßnahmen zu deren Vermeidung. 
 
 ## Grundlagen
 

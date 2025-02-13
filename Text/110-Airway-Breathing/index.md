@@ -7,5 +7,6 @@
 20-Breathing/index
 30-Sauerstoff/index
 40-Beatmung/index
-50-ARMO/index
+50-Respiratoren/index
+60-ARMO/index
 ```

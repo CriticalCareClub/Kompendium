@@ -4,7 +4,199 @@
 Hygiene ist allgemein die Lehre von der Gesunderhaltung und der Maßnahmen zur Erhaltung und Verbesserung der Gesundheit.
 Im engeren Sinne bezeichnet sie die Lehre von den Infektionserkrankungen und der Maßnahmen zu deren Vermeidung. 
 
-## Grundlagen
+
+
+## Erreger
+
+Ein {dfn}`Pathogen` ist ein Organismus oder Stoff der eine Erkrankung verursacht, also ein Krankheitserreger.
+Als {dfn}`Infektion` wird das Eindringen von pathogenen Krankheitserregern in den Organismus bezeichnet.
+Zwischen der Infektion (Eintritt d. Erregers in den Organismus) und dem Auftreten erster Krankheitssymptome liegt die symtomlose {dfn}`Inkubationszeit` {index}` <Inkubationszeit>`.
+Tabelle {ref}`TAB-Erregerarten` zeigt die wichtigsten potentiellen Erregerarten.
+
+
+Die Welt ist jedoch nicht schwarz-weiß:
+Nicht jeder potentielle Krankheitserrger erzeugt auch wirklich eine Erkrankung:
+Während z.B. ein bestimmter Keim im Darm eines Patienten normal und auch erwünscht ist, kann er an einem anderen Platz (z.B. dem Kniegelenk etc.) katastrophalen Schaden anrichten.
+Ebenso können manche Erreger nur unter bestimmten Umständen ihren Schaden entfalten (Luftabschluss, Schwächung des Immunsystems etc.).
+Diese Erreger nennt man {dfn}`fakultative Erreger`.
+
+
+Die Eigenschaft der {dfn}`Pathogenität` steht für die Fähigkeit eines Krankheitserregers oder Stoffs eine Erkrankung oder einen Schaden auszulösen.
+Die {dfn}`Resistenz` hingegen bezeichnet allgemein die  Widerstandsfähigkeit eines Organismus.
+Das kann einerseits bezogen sein auf einen Organismus, der gegen Erreger resistent ist, aber auch auf einen Erreger, der gegen bestimmte Gegenmaßnahmen (z.B. Antibiotika) eine Widerstandskraft besitzt.
+
+
+:::{list-table} Übersicht der Erregerarten
+:header-rows: 1
+:name: TAB-Erregerarten
+
+- - Erreger
+  - Kurzbeschreibung
+- - Bakterien
+  - klein, im Mikroskop meist sichtbar;
+    Zellen
+- - Viren
+  - sehr klein,
+    im Mikroskop i.d.R. nicht sichtbar,
+    keine echten Zellen,
+    müssen Zellen befallen um sich  vermehren zu können
+- - Pilze
+  -
+- - Parasiten, Tiere
+  - Würmer, Maden, …
+:::
+
+```{index} single: Bakterien
+```
+
+### Bakterien sind Zellen
+
+:::{margin} Bakterien
+- Eigenständige Zellen/Lebewesen
+- Nicht grundsätzlich schlecht
+:::
+
+Bakterien sind eigenständige Zellen, welche leben und aktiv etwas tun können.
+Dazu gehört z. B. die Produktion von diversen
+— z. T. schädlichen —
+Substanzen (Toxine, Gase etc.).
+Sie können die unterschiedlichsten Formen (Kugeln, Stäbchen, Geißeln …) haben.
+
+Bakterien sind nicht grundsätzlich schlecht.
+Viele können für den Menschen gut, neutral oder manchmal auch schädlich sein.
+Dies hängt von verschiedenen Faktoren ab, s.u.
+
+#### Bakterien und Pathogenität
+
+:::{margin} Bakterien: Pathogenität
+- Bakterienart
+- Keimzahl
+- Ort der Besiedelung
+- Konkurrenzkampf
+- Abwehrkräfte des Patienten
+
+  - Kind, Chemotherapie, AIDS, ...
+  - Körperliche Verfassung
+  - Alter, Ernährung, Stress, ...
+:::
+
+Unter *Pathogenität* versteht man die Eigenschaft eines Bakteriums, eine Erkrankung oder sonstigen Schaden auszulösen. 
+Die Schädlichkeit von Bakterien hängt von verschiedenen Faktoren ab.
+Grundsätzlich entscheidend ist die *Bakterienart*: Je nachdem welcher Spezies und welchem Stamm das Bakterium angehört, kann es unterschiedliche Wirkungen haben. 
+Der *Ort der Besiedelung* ist ebenso entscheidend.
+Viele Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen oder sogar vorkommen müssen, damit eine gewünschte Funktion (z. B. die Verdauung) funktioniert.
+Damit eine Bakterienart nicht ungehemmt wuchern kann, ist der "*Konkurrenzkampf der Bakterien*" notwendig.
+Wenn sich verschiedene Bakterienarten um den gleichen Raum und die gleichen Nährstoffe ’streiten’ müssen, können einzelne Stämme keine derart schädigende Wirkung entfalten, als wie wenn sie ungestört und ungehemmt wachsen könnten.
+
+Die *Abwehrkräfte des Patienten* (Immunstatus) sind gerade im medizinischen Umfeld ein wichtiger Faktor.
+Normalerweise kommt das Immunsystem des Menschen gut mit den natürlich vorkommenden Keimen zurande.
+Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist, können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
+Besonders betroffen sind Patienten mit einer *chemotherapeutischen Behandlung* oder Leukämie [^footnote-1], sowie Patienten mit *Immunschwäche*-Erkrankungen (z. B. AIDS, {ref}`aids`). Auch *Kinder*, *ältere Personen* oder Patienten in schlechter körperlicher Verfassung haben oft ein schwächeres Immunsystem.
+Auch sonst gesunde Menschen können aufgrund von Stress oder schlechter Ernährung anfälliger für Krankheiten sein.
+
+[^footnote-1]: *Leukämie*: Bösartige Erkrankung des blutbildenden Systems, es kommt
+    u.a. zu einer unzureichenden Bildung von für das Immunsystem
+    wichtigen weißen Blutkörperchen.
+
+:::{note}
+Daraus folgt:
+Manche Keime machen immer krank, manche nur unter Umständen. *Opportunisten* machen nur krank wenn der Wirt geschwächt ist.
+Das sind viele Patienten im Rettungs- und Krankentransport!
+:::
+
+#### Bakterien, Antibiotika und Resistenzen
+
+:::{margin} Bakterien: Resistenzen
+- Bakterien können Resistenzen gegen Antibiotika bilden.
+:::
+
+Antibiotika sind Medikamente, die Bakterien abtöten oder deren Vermehrung hemmen.
+Sie haben i.d.R. ein bestimmtes Spektrum, dh. wirken nur auf bestimmte Keime.
+
+Ein großes Problem ist die zunehmende Bildung von *Resistenzen* von Bakterien gegen Antibiotika, welche diese Medikamente wirkungslos machen.
+Man spricht auch von der Bildung von *multiresistenten Keimen*.
+Diese werden unter {ref}`multiresistente-keime` näher besprochen.
+
+```{index} single: Viren
+```
+
+### *Viren* sind keine vollständigen Zellen
+
+:::{margin} Viren
+- Keine vollständigen Zellen
+
+- Benötigen Wirtszellen zur Vermehrung
+
+- Virale Erkrankungen sind häufig:
+
+  - Grippe
+  - Feuchtblattern
+  - Hepatitis-Formen
+  - …
+  - Diagnostisches Fenster: Test erst einige Zeit nach  Infektion positiv
+:::
+
+{dfn}`Viren` sind kleiner als Bakterien und sind keine vollständigen Zellen. [^footnote-2] Sie brauchen Wirtszellen um sich vermehren zu können.
+Sie schleusen ihr eigenes genetisches Programm
+(Erbinformationen) in die fremde Zelle ein, diese produziert dann neue Viren.
+Die so missbrauchte Zelle verliert i. d. R.
+ihr eigentliche Funktion oder wird komplett zerstört, oder kann auch zu einer Neoplasie entarten.
+
+[^footnote-2]: Sie sind so klein dass sie im Lichtmikroskop nicht sichtbar sind.
+
+Virale Infektionen sind sehr häufig.
+Die meisten sog.
+*"Verkühlungskrankheiten"*, sowie andere bekannte Krankheiten wie z. B.
+die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden durch Viren verursacht.
+
+Tests zum Nachweis von Viren haben üblicherweise ein *diagnostisches Fenster*, in dem eine Infektion (noch) nicht nachweisbar ist. [^footnote-3]
+
+[^footnote-3]: Viren lassen sich nicht auf Nährböden anzüchten. Man verwendet
+    entweder indirekte Antigen- oder Antikörpernachweistests oder die
+    Polymerase-Kettenreaktion (PCR) zum direkten Nachweis der
+    Virus-DNA/RNA. Es dauert jedoch einige Zeit bis nach einer Infektion
+    ausreichend entsprechendes Material gebildet wird um den Test positiv
+    werden zu lassen.
+
+## Erreger können über verschiedene **Übertragungswege** übertragen werden
+
+Krankheitserreger können auf unterschiedliche Wege in den Körper gelangen und eine Infektion verursachen:
+
+- Fäkal-oral (Schmierinfektion, z. B. Badesee)
+- Aerogen (Tröpfcheninfektion, Aerosol)
+- Genital (Geschlechtsverkehr)
+- Über/durch die Haut
+- Diaplazentär (während Schwangerschaft)
+- Während der Geburt
+
+Als Eintrittspforte kommt grundsätzlich alles in Betracht was "irgendwie offen" oder durchlässig ist:
+
+- Wunden, Schleimhäute, Magen-Darm-Trakt, Atemwege, Auge, Penis, Scheide, Plazenta (eingeschränkt), perforierte Organe …
+
+Ein besonderes Risiko stellen *Fremdkörper* dar:
+Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschlossen sind stellen sie ideale Besiedelungswege und -räume für Fremdkörper dar ("Wohnhäuser und Autobahnen für Keime"):
+
+- Harnkatheter, venöse Zugänge, Tubus, künstlicher Mageneingang,
+  Dialysekatheter …
+
+```{index} single: Kreuzinfektion
+```
+
+(kreuzinfektion)=
+
+### Kreuzinfektion
+
+:::{margin} Kreuzinfektion
+- Kreuzinfektion: *Patient 1 → \*Personal*
+  → Patient 2\*
+:::
+
+Unter einer {dfn}`Kreuzinfektion` {index}` <! Kreuzinfektion>` versteht man die Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
+anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
+*Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind wichtige Mittel zur *Vermeidung von Kreuzinfektionen*. Patient 1
+→ *Personal* → Patient 2
+
+
 
 ```{index} single: Infektion
 ```
@@ -13,32 +205,9 @@ Im engeren Sinne bezeichnet sie die Lehre von den Infektionserkrankungen und der
 ```{index} single: Resistenz
 ```
 
-### Wichtige Begriffe
+## Wichtige Begriffe
 
-{dfn}`Infektion`
 
-: Eindringen von Krankheitserregern in den Organismus.
-
-{dfn}`Pathogenität`
-
-: Fähigkeit eines Krankheitserregers oder Stoffs eine Krankheit oder
-  einen Schaden auszulösen.
-
-{dfn}`Resistenz`
-: Allg.:
-
-  : Widerstandsfähigkeit.
-
-  Spez.:
-  : 1. W. eines Organismus gegen die krankmachenden Eigenschaften
-       eines Erregers.
-    2. W. eines Krankheitserregers gegen eine Behandlung (z. B. durch
-       Antibiotika, Desinfektionsmittel, …).
-
-{dfn}`Inkubationszeit` {index}` <Inkubationszeit>`
-
-: symptomlose Zeit zwischen Infektion (Eintritt d. Erregers in den
-  Organismus) und dem Auftreten erster Symptome.
 
 {dfn}`Epidemie` {index}` <Epidemie>`
 
@@ -94,165 +263,11 @@ Im engeren Sinne bezeichnet sie die Lehre von den Infektionserkrankungen und der
 
 : Zum Immunsystem zählende Proteine, welche gegen Bestandteile eines Antigens gerichtet sind und an dieses binden können.
 
-### Die wichtigsten Erreger
-
-:::{list-table} Übersicht der Erregerarten
-:header-rows: 1
-
-- - Erreger
-  - Kurzbeschreibung
-- - Bakterien
-  - klein, im Mikroskop meist sichtbar;
-    Zellen
-- - Viren
-  - sehr klein,
-    im Mikroskop i.d.R. nicht sichtbar,
-    keine echten Zellen,
-    müssen Zellen befallen um sich  vermehren zu können
-- - Pilze
-  -
-- - Parasiten, Tiere
-  - Würmer, Maden, …
-:::
-
-```{index} single: Bakterien
-```
-
-#### Bakterien sind Zellen
-
-:::{margin} Bakterien
-- Eigenständige Zellen/Lebewesen
-- Nicht grundsätzlich schlecht
-:::
-
-Bakterien sind eigenständige Zellen, welche leben und aktiv etwas tun können. Dazu gehört z. B. die Produktion von diversen
-— z. T. schädlichen —
-Substanzen (Toxine, Gase etc.).
-Sie können die unterschiedlichsten Formen (Kugeln, Stäbchen, Geißeln …) haben.
-
-Bakterien sind nicht grundsätzlich schlecht. Viele können für den Menschen gut, neutral oder manchmal auch schädlich sein. Dies hängt von verschiedenen Faktoren ab, s.u.
-
-##### Bakterien und Pathogenität
-
-:::{margin} Bakterien: Pathogenität
-- Bakterienart
-
-- Keimzahl
-
-- Ort der Besiedelung
-
-- Konkurrenzkampf
-
-- Abwehrkräfte des Patienten
-
-  - Kind, Chemotherapie, AIDS, ...
-  - Körperliche Verfassung
-  - Alter, Ernährung, Stress, ...
-:::
-
-Unter *Pathogenität* versteht man die Eigenschaft eines Bakteriums, eine Erkrankung oder sonstigen Schaden auszulösen. Die Schädlichkeit von Bakterien hängt von verschiedenen Faktoren ab. Grundsätzlich entscheidend ist die *Bakterienart*: Je nachdem welcher Spezies und welchem Stamm das Bakterium angehört, kann es unterschiedliche Wirkungen haben. Der *Ort der Besiedelung* ist ebenso entscheidend. Viele Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen oder sogar vorkommen müssen, damit eine gewünschte Funktion (z. B. die Verdauung) funktioniert. Damit eine Bakterienart nicht ungehemmt wuchern kann, ist der "*Konkurrenzkampf der Bakterien*" notwendig. Wenn sich verschiedene Bakterienarten um den gleichen Raum und die gleichen Nährstoffe ’streiten’ müssen, können einzelne Stämme keine derart schädigende Wirkung entfalten, als wie wenn sie ungestört und ungehemmt wachsen könnten.
-
-Die *Abwehrkräfte des Patienten* (Immunstatus) sind gerade im medizinischen Umfeld ein wichtiger Faktor. Normalerweise kommt das Immunsystem des Menschen gut mit den natürlich vorkommenden Keimen zurande. Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist, können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
-Besonders betroffen sind Patienten mit einer *chemotherapeutischen Behandlung* oder Leukämie [^footnote-1], sowie Patienten mit *Immunschwäche*-Erkrankungen (z. B. AIDS, {ref}`aids`). Auch *Kinder*, *ältere Personen* oder Patienten in schlechter körperlicher Verfassung haben oft ein schwächeres Immunsystem. Auch sonst gesunde Menschen können aufgrund von Stress oder schlechter Ernährung anfälliger für Krankheiten sein.
-
-[^footnote-1]: *Leukämie*: Bösartige Erkrankung des blutbildenden Systems, es kommt
-    u.a. zu einer unzureichenden Bildung von für das Immunsystem
-    wichtigen weißen Blutkörperchen.
-
-:::{note}
-Daraus folgt: Manche Keime machen immer krank, manche nur unter Umständen. *Opportunisten* machen nur krank wenn der Wirt geschwächt ist. Das sind viele Patienten im Rettungs- und Krankentransport!
-:::
-
-##### Bakterien, Antibiotika und Resistenzen
-
-:::{margin} Bakterien: Resistenzen
-- Bakterien können Resistenzen gegen Antibiotika bilden.
-:::
-
-Antibiotika sind Medikamente, die Bakterien abtöten oder deren Vermehrung hemmen. Sie haben i.d.R. ein bestimmtes Spektrum, dh. wirken nur auf bestimmte Keime.
-
-Ein großes Problem ist die zunehmende Bildung von *Resistenzen* von Bakterien gegen Antibiotika, welche diese Medikamente wirkungslos machen. Man spricht auch von der Bildung von *multiresistenten Keimen*.
-Diese werden unter {ref}`multiresistente-keime` näher besprochen.
-
-```{index} single: Viren
-```
-
-#### *Viren* sind keine vollständigen Zellen
-
-:::{margin} Viren
-- Keine vollständigen Zellen
-
-- Benötigen Wirtszellen zur Vermehrung
-
-- Virale Erkrankungen sind häufig:
-
-  - Grippe
-  - Feuchtblattern
-  - Hepatitis-Formen
-  - …
-  - Diagnostisches Fenster: Test erst einige Zeit nach  Infektion positiv
-:::
-
-{dfn}`Viren` sind kleiner als Bakterien und sind keine vollständigen Zellen. [^footnote-2] Sie brauchen Wirtszellen um sich vermehren zu können. Sie schleusen ihr eigenes genetisches Programm
-(Erbinformationen) in die fremde Zelle ein, diese produziert dann neue Viren.
-Die so missbrauchte Zelle verliert i. d. R. ihr eigentliche Funktion oder wird komplett zerstört, oder kann auch zu einer Neoplasie entarten.
-
-[^footnote-2]: Sie sind so klein dass sie im Lichtmikroskop nicht sichtbar sind.
-
-Virale Infektionen sind sehr häufig. Die meisten sog.
-*"Verkühlungskrankheiten"*, sowie andere bekannte Krankheiten wie z. B.
-die *Grippe*, *Feuchtblattern* und viele *Hepatitis*-Formen, werden durch Viren verursacht.
-
-Tests zum Nachweis von Viren haben üblicherweise ein *diagnostisches Fenster*, in dem eine Infektion (noch) nicht nachweisbar ist. [^footnote-3]
-
-[^footnote-3]: Viren lassen sich nicht auf Nährböden anzüchten. Man verwendet
-    entweder indirekte Antigen- oder Antikörpernachweistests oder die
-    Polymerase-Kettenreaktion (PCR) zum direkten Nachweis der
-    Virus-DNA/RNA. Es dauert jedoch einige Zeit bis nach einer Infektion
-    ausreichend entsprechendes Material gebildet wird um den Test positiv
-    werden zu lassen.
-
-### Erreger können über verschiedene Übertragungswege übertragen werden
-
-Krankheitserreger können auf unterschiedliche Wege in den Körper gelangen und eine Infektion verursachen:
-
-- Fäkal-oral (Schmierinfektion, z. B. Badesee)
-- Aerogen (Tröpfcheninfektion, Aerosol)
-- Genital (Geschlechtsverkehr)
-- Über/durch die Haut
-- Diaplazentär (während Schwangerschaft)
-- Während der Geburt
-
-Als Eintrittspforte kommt grundsätzlich alles in Betracht was "irgendwie offen" oder durchlässig ist:
-
-- Wunden, Schleimhäute, Magen-Darm-Trakt, Atemwege, Auge, Penis, Scheide, Plazenta (eingeschränkt), perforierte Organe …
-
-Ein besonderes Risiko stellen *Fremdkörper* dar:
-Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschlossen sind stellen sie ideale Besiedelungswege und -räume für Fremdkörper dar ("Wohnhäuser und Autobahnen für Keime"):
-
-- Harnkatheter, venöse Zugänge, Tubus, künstlicher Mageneingang,
-  Dialysekatheter …
-
-```{index} single: Kreuzinfektion
-```
-
-(kreuzinfektion)=
-
-### Kreuzinfektion
-
-:::{margin} Kreuzinfektion
-- Kreuzinfektion: *Patient 1 → \*Personal*
-  → Patient 2\*
-:::
-
-Unter einer {dfn}`Kreuzinfektion` {index}` <! Kreuzinfektion>` versteht man die Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
-anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
-*Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind wichtige Mittel zur *Vermeidung von Kreuzinfektionen*. Patient 1
-→ *Personal* → Patient 2
 
 ### Angepasste Hygiene
 
-Grundsätzlich müssen die Hygienevorgaben und -maßnahmen dem jeweiligen Anforderungen und Gegebenheiten angepasst werden: Bei einem zu Hause lebenden Krankentransportpatienten bestehen zum Beispiel andere Risiken als bei einem beatmeten Intensivpatienten.
+Grundsätzlich müssen die Hygienevorgaben und -maßnahmen dem jeweiligen Anforderungen und Gegebenheiten angepasst werden:
+Bei einem zu Hause lebenden Krankentransportpatienten bestehen zum Beispiel andere Risiken als bei einem beatmeten Intensivpatienten.
 
 (multiresistente-keime)=
 
@@ -264,10 +279,14 @@ Grundsätzlich müssen die Hygienevorgaben und -maßnahmen dem jeweiligen Anford
 
 ### Geschichte und Bedeutung der Antibiotika
 
-Vor der Entdeckung der Antibiotika im 20. Jahrhundert waren bakterielle Infektionen sehr gefürchtet, viele Menschen sind an – nach heutiger Sicht simplen – Infektionen gestorben. Wer es im Ersten Weltkrieg lebendig in ein Lazarett geschafft hatte, verstarb dort im Verlauf oft an den Folgen des *Wundbrandes*. Erkrankungen wie *Scharlach* oder
+Vor der Entdeckung der Antibiotika im 20. Jahrhundert waren bakterielle Infektionen sehr gefürchtet, viele Menschen sind an – nach heutiger Sicht simplen – Infektionen gestorben.
+Wer es im Ersten Weltkrieg lebendig in ein Lazarett geschafft hatte, verstarb dort im Verlauf oft an den Folgen des *Wundbrandes*. Erkrankungen wie *Scharlach* oder
 "Blutvergiftungen" waren häufig ein Todesurteil.
 
-Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming versehentlich eine Nährplatte mit Bakterienkulturen. Er bemerkte, dass in der Umgebung des Pilzes die Bakterien nicht wachsen konnten: das *Penicillin* war entdeckt. [^footnote-4] Der erste Patient der mit Penicillin behandelt wurde war ein Londoner Polizist. Er hatte sich beim Rasieren verletzt und eine Blutvergiftung zugezogen – er galt als unrettbar.  [^footnote-5]
+Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming versehentlich eine Nährplatte mit Bakterienkulturen.
+Er bemerkte, dass in der Umgebung des Pilzes die Bakterien nicht wachsen konnten:
+das *Penicillin* war entdeckt. [^footnote-4] Der erste Patient der mit Penicillin behandelt wurde war ein Londoner Polizist.
+Er hatte sich beim Rasieren verletzt und eine Blutvergiftung zugezogen – er galt als unrettbar.  [^footnote-5]
 
 [^footnote-4]: Zuvor hatten bereits deutsche Wissenschaftler eine andere
     Antibiotika-Art entwickelt, die Sulfonamide.
@@ -277,7 +296,8 @@ Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming vers
     nach anfänglicher deutlicher Besserung – als das experimentell
     hergestellte Penicillin aufgebraucht war.
 
-In weiterer Folge wurde eine Vielzahl weiterer Antibiotika entwickelt und man dachte, man hätte die bakteriellen Infektionen besiegt. Doch man irrte sich gewaltig …
+In weiterer Folge wurde eine Vielzahl weiterer Antibiotika entwickelt und man dachte, man hätte die bakteriellen Infektionen besiegt.
+Doch man irrte sich gewaltig …
 
 :::{figure} /Bilder/PD/Faroe_stamp_079_europe_fleming.\*
 
@@ -299,10 +319,14 @@ Alexander Fleming
     Medizin!
 :::
 
-Bakterien können Resistenzen gegen Antibiotika entwickeln, welche dann nicht mehr oder nur noch sehr abgeschwächt helfen. Als behandelnder Arzt steht man dann hilflos vor dem Patienten. Es muss daher das Ziel Aller sein die weitere Ausbreitung von resistenten Keimen zu verhindern. Dem Rettungs- und Krankentransport kommt dabei eine *Schlüsselrolle* zu, da es hier leicht zu *Kreuzinfektionen* kommen kann.
+Bakterien können Resistenzen gegen Antibiotika entwickeln, welche dann nicht mehr oder nur noch sehr abgeschwächt helfen.
+Als behandelnder Arzt steht man dann hilflos vor dem Patienten.
+Es muss daher das Ziel Aller sein die weitere Ausbreitung von resistenten Keimen zu verhindern.
+Dem Rettungs- und Krankentransport kommt dabei eine *Schlüsselrolle* zu, da es hier leicht zu *Kreuzinfektionen* kommen kann.
 
 Gesundheitseinrichtungen wie Spitäler oder Pflegeheime sind eine ideale
-"Zuchtanstalt" und Brutstätte für Resistenzen: Es werden viele Antibiotika verwendet, viele Patienten liegen räumlich nahe beieinander.
+"Zuchtanstalt" und Brutstätte für Resistenzen:
+Es werden viele Antibiotika verwendet, viele Patienten liegen räumlich nahe beieinander.
 Es finden sich daher dort *gehäuft* resistente Keime, umgangssprachlich spricht man in der Fachwelt auch von {dfn}`Spitalskeimen` {index}` <! Spitalskeime>`.
 Resistente Keime verursachen komplizierte Infektionen, eine Erhöhung der Komplikations- und Sterblichkeitsrate, in Folge eine Verlängerung des Krankenhausaufenthaltes und nicht zuletzt enorme zusätzliche –
 vermeidbare – Kosten {term}`🗎 Kucera 2010`.
@@ -328,12 +352,15 @@ vermeidbare – Kosten {term}`🗎 Kucera 2010`.
 :::
 
 Da im Krankentransport natürlich häufig Patienten aus Gesundheitseinrichtungen (oder zwischen Gesundheitseinrichtungen)
-transportiert werden, ist man auch hier mit dem Problem der resistenten Keime besonders konfrontiert. Deshalb sind spezielle Maßnahmen erforderlich.
+transportiert werden, ist man auch hier mit dem Problem der resistenten Keime besonders konfrontiert.
+Deshalb sind spezielle Maßnahmen erforderlich.
 
 Der wohl bekannteste Problemkeim ist der
 {dfn}`MRSA` {index}` <! MRSA>`
 (Multiresistenter Staphylococcus aureus, siehe unten).
-Das liegt schlicht daran, dass er der erste war. In den letzten Jahren ist die Resistenzentwicklung aber auch bei vielen anderen Keimen zu beobachten, Beispiele dafür sind die ESBLs und VREs, sowie der VRSA (Extended Spectrum Beta-Laktamase-Bildner, Vancomycin-resistente Enterokokken, Vancomycin-resistenter Staph. aureus). Auch bei der Tuberkulose treten mittlerweile resistente Keime auf: *2008* wurden die ersten Fälle registriert, bei denen der Keim auf mind. *4* Antibiotika resistent war [^footnote-6]. *Das Problem der multiresistenten Keime wird immer größer.*
+Das liegt schlicht daran, dass er der erste war.
+In den letzten Jahren ist die Resistenzentwicklung aber auch bei vielen anderen Keimen zu beobachten, Beispiele dafür sind die ESBLs und VREs, sowie der VRSA (Extended Spectrum Beta-Laktamase-Bildner, Vancomycin-resistente Enterokokken, Vancomycin-resistenter Staph.
+aureus). Auch bei der Tuberkulose treten mittlerweile resistente Keime auf: *2008* wurden die ersten Fälle registriert, bei denen der Keim auf mind. *4* Antibiotika resistent war [^footnote-6]. *Das Problem der multiresistenten Keime wird immer größer.*
 
 [^footnote-6]: Quelle: AGES
 
@@ -349,7 +376,9 @@ Das liegt schlicht daran, dass er der erste war. In den letzten Jahren ist die R
 - aber resistente Form: {dfn}`MRSA` {index}` <! MRSA>`
 :::
 
-Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der Bevölkerung sind besiedelt. Vor allem ist die vordere Nasenhöhle besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die Schleimhäute können ihn beherbergen. Auch im Spital ist er häufig, aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon Antibiotika-resistent:
+Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der Bevölkerung sind besiedelt.
+Vor allem ist die vordere Nasenhöhle besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die Schleimhäute können ihn beherbergen.
+Auch im Spital ist er häufig, aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon Antibiotika-resistent:
 Man spricht dann vom {dfn}`MRSA` {index}` <! MRSA>`
 (Multi-resistenter Staphylococcus aureus).
 
@@ -446,7 +475,9 @@ Für die anderen Problemkeime gelten sinngemäß die gleichen Verfahrensweisen.
 
 ## Reinigung und hygienische Wiederaufbereitung
 
-Medizinprodukte, sowie Materialien, mit denen Patienten in Kontakt kommen, müssen, sofern sie wiederverwendbar sind, nach einer Anwendung und vor einer neuerlichen Verwendung hygienisch wiederaufbereitet werden, sodass eine Gefährdung des Patienten durch Keime oder Schmutz ausgeschlossen werden kann. Gleiches gilt sinngemäß auch für Räumlichkeiten, in welchen Patienten behandelt werden. Je nach Produkt und Anwendungsfall kommen unterschiedliche Techniken und Strategien zum Einsatz.
+Medizinprodukte, sowie Materialien, mit denen Patienten in Kontakt kommen, müssen, sofern sie wiederverwendbar sind, nach einer Anwendung und vor einer neuerlichen Verwendung hygienisch wiederaufbereitet werden, sodass eine Gefährdung des Patienten durch Keime oder Schmutz ausgeschlossen werden kann.
+Gleiches gilt sinngemäß auch für Räumlichkeiten, in welchen Patienten behandelt werden.
+Je nach Produkt und Anwendungsfall kommen unterschiedliche Techniken und Strategien zum Einsatz.
 
 ### Techniken zur Wiederaufbereitung
 
@@ -468,7 +499,8 @@ Diese Maßnahmen sind mit Geräten und geeigneten validierten Verfahren so durch
 
 Unter {dfn}`Reinigung` {index}` <! Reinigung>` versteht man das Entfernen von groben
 – oft sichtbaren – Verunreinigungen mit vorrangig mechanischen Mitteln.
-Sie muss möglichst *rasch nach der Kontamination begonnen* werden, da es sonst zum Eintrocknen der Verunreinigungen kommen kann. Gereinigte Gegenstände können noch infektiös sein! Eine (Vor-)Reinigung ist Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
+Sie muss möglichst *rasch nach der Kontamination begonnen* werden, da es sonst zum Eintrocknen der Verunreinigungen kommen kann.
+Gereinigte Gegenstände können noch infektiös sein! Eine (Vor-)Reinigung ist Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
 
 (desinfektion-grundzuege)=
 
@@ -484,8 +516,14 @@ Sie muss möglichst *rasch nach der Kontamination begonnen* werden, da es sonst 
   - Keine Desinfektion ohne vorhergehender Reinigung!
 :::
 
-Unter dem Begriff {dfn}`Desinfektion` {index}` <! Desinfektion>` versteht man Maßnahmen die der *Keimreduktion* dienen, um einen Gegenstand so aufzubereiten, dass er nicht infektiös ist. Der Gegenstand ist dabei jedoch *nicht* keimfrei. Die Desinfektionsmaßnahmen töten i.d.R. nur bestimmte Keime ab. Weit verbreitet ist die Desinfektion mittels chemischer Substanzen
-(Desinfektionslösungen, Einlegebäder, …). Dabei muss unbedingt die korrekte Konzentration der Lösung und die vorgeschriebene Einwirkzeit beachtet werden. Eine Desinfektion ist i.d.R. für Gegenstände ausreichend, die *nur mit intakter Haut* in Berührung kommen.
+Unter dem Begriff {dfn}`Desinfektion` {index}` <! Desinfektion>` versteht man Maßnahmen die der *Keimreduktion* dienen, um einen Gegenstand so aufzubereiten, dass er nicht infektiös ist.
+Der Gegenstand ist dabei jedoch *nicht* keimfrei.
+Die Desinfektionsmaßnahmen töten i.d.R.
+nur bestimmte Keime ab.
+Weit verbreitet ist die Desinfektion mittels chemischer Substanzen
+(Desinfektionslösungen, Einlegebäder, …). Dabei muss unbedingt die korrekte Konzentration der Lösung und die vorgeschriebene Einwirkzeit beachtet werden.
+Eine Desinfektion ist i.d.R.
+für Gegenstände ausreichend, die *nur mit intakter Haut* in Berührung kommen.
 Voraussetzung für eine Desinfektion ist eine *vorhergehende Reinigung* des Gegenstandes.
 
 *(Desinfektions-)Mittel*, welche zur Wiederaufbereitung von Medizinprodukten eingesetzt werden, gelten ebenfalls als *Medizinprodukte* [^footnote-8]; es gelten daher die gleichen *Unterweisungspflichten*.
@@ -527,7 +565,9 @@ Diese ist jedoch z.T. sehr stark von der Art des Desinfektionsmittels, der Art d
 Jedes Desinfektionsmittel hat einen klar umrissenen Einsatzbereich
 (Flächendesinfektionsmittel, Instrumentendesinfektionsmittel, Desinfektionsmittel für Einlegebäder, Händedesinfektionsmittel, Hautdesinfektionsmittel, …).
 Ein Desinfektionsmittel darf nur im dafür vorgesehenen Bereich verwendet werden, da es sonst wirkungslos oder schädlich sein kann. [^footnote-9]
-Verschiedene Flächen können auch unterschiedliche Desinfektionsmittel benötigen: So dürfen Acryl-Oberflächen keinesfalls mit Alkohol-hältigen Mitteln desinfiziert werden, da sonst das Material angegriffen und stark geschädigt wird. Es muss für jede Oberfläche ein passendes Mittel verwendet werden.
+Verschiedene Flächen können auch unterschiedliche Desinfektionsmittel benötigen:
+So dürfen Acryl-Oberflächen keinesfalls mit Alkohol-hältigen Mitteln desinfiziert werden, da sonst das Material angegriffen und stark geschädigt wird.
+Es muss für jede Oberfläche ein passendes Mittel verwendet werden.
 
 [^footnote-9]: So darf man zum Beispiel nicht vor einer Venenpunktion die Haut
     mittels eines Händedesinfektionsmittel desinfizieren.
@@ -535,20 +575,25 @@ Verschiedene Flächen können auch unterschiedliche Desinfektionsmittel benötig
     hautverträglicher zu sein. Gelangen diese durch den Stich in das
     Blutgefäß kann es zu Venenreizungen kommen.
 
-Die *Pflegehinweise des Herstellers* des zu reinigenden Produktes sind zu beachten! Hinweise zur Reinigung und hygienischen Wiederaufbereitung eines Medizinproduktes müssen Bestandteil jeder *Einschulung* sein und müssen auch in der *Gebrauchsanweisung* zu finden sein. In Fahrzeugen dürfen i.d.R. aufgrund der Acryloberflächen nur Flächendesinfektionsmittel ohne Alkohol verwendet werden (z. B.
+Die *Pflegehinweise des Herstellers* des zu reinigenden Produktes sind zu beachten! Hinweise zur Reinigung und hygienischen Wiederaufbereitung eines Medizinproduktes müssen Bestandteil jeder *Einschulung* sein und müssen auch in der *Gebrauchsanweisung* zu finden sein.
+In Fahrzeugen dürfen i.d.R. aufgrund der Acryloberflächen nur Flächendesinfektionsmittel ohne Alkohol verwendet werden (z. B.
 *Acryl-Des*, *Acrylan*)!
 
 ###### Einwirkzeit
 
-Der wichtigste Faktor ist die Einwirkzeit: Erst nach einer gewissen Zeit beginnt das Mittel zu wirken und tötet tatsächlich Keime ab. Hält man die notwendige Zeit nicht ein, so ist das Desinfektionsmittel nahezu *wirkungslos*. Die erforderliche Zeit ist den jeweiligen Herstellerangaben zu entnehmen und ist für jedes Produkt unterschiedlich!
+Der wichtigste Faktor ist die Einwirkzeit:
+Erst nach einer gewissen Zeit beginnt das Mittel zu wirken und tötet tatsächlich Keime ab.
+Hält man die notwendige Zeit nicht ein, so ist das Desinfektionsmittel nahezu *wirkungslos*. Die erforderliche Zeit ist den jeweiligen Herstellerangaben zu entnehmen und ist für jedes Produkt unterschiedlich!
 
 ###### Konzentration
 
-Manche Desinfektionslösungen müssen vom Anwender selber durch *Verdünnung eines Konzentrates* hergestellt werden. Die vorgeschriebene Verdünnung muss exakt eingehalten werden, da es sonst zu einem Wirkungsverlust kommt.
+Manche Desinfektionslösungen müssen vom Anwender selber durch *Verdünnung eines Konzentrates* hergestellt werden.
+Die vorgeschriebene Verdünnung muss exakt eingehalten werden, da es sonst zu einem Wirkungsverlust kommt.
 
 ###### Unsachgemäße Anwendung
 
-Die unsachgemäße Herstellung, Anwendung oder Pflege von Desinfektionsmitteln und -lösungen kann *katastrophale Folgen* haben. Im besten Fall tritt nur ein Wirkungsverlust ein, es kann jedoch auch dazu kommen dass sich in der Desinfektionslösung *Keime sogar vermehren!*
+Die unsachgemäße Herstellung, Anwendung oder Pflege von Desinfektionsmitteln und -lösungen kann *katastrophale Folgen* haben.
+Im besten Fall tritt nur ein Wirkungsverlust ein, es kann jedoch auch dazu kommen dass sich in der Desinfektionslösung *Keime sogar vermehren!*
 
 :::{note}
 - Desinfektionsmittel müssen richtig hergestellt, gepflegt und
@@ -570,15 +615,22 @@ Die unsachgemäße Herstellung, Anwendung oder Pflege von Desinfektionsmitteln u
 
 Es handelt sich hierbei um eine schlechte Möglichkeit zur Desinfektion, da der Erfolg der Desinfektion von vielen variablen Faktoren abhängt und eine zufriedenstellende Leistung kaum sichergestellt werden kann
 (*nicht validierbares Verfahren*).
-Sie ist daher nur dann zulässig, wenn eine geringe Kontaminiation und Infektionsgefahr besteht und keine andere Methode sinnvoll durchführbar ist. Für Instrumente ist eine Desinfektion mittels Einlegebad ist nur zulässig, wenn diese ausschließlich in Kontakt mit intakter Haut kommen.
+Sie ist daher nur dann zulässig, wenn eine geringe Kontaminiation und Infektionsgefahr besteht und keine andere Methode sinnvoll durchführbar ist.
+Für Instrumente ist eine Desinfektion mittels Einlegebad ist nur zulässig, wenn diese ausschließlich in Kontakt mit intakter Haut kommen.
 
-Bei der Desinfektion mittels Einlegebad wird in einer geeigneten Wanne eine Desinfektionslösung zubereitet [^footnote-10] und Gegenstände darin über einen längeren Zeitraum (mehrere Stunden) eingelegt. Dabei ist es wichtig, dass die gesamte Oberfläche benetzt ist, es muss daher *luftblasenfrei* eingelegt werden. Schwimmende Teile werden mittels eines *Niederhaltesiebes* unter den Flüssigkeitsspiegel gedrückt.
+Bei der Desinfektion mittels Einlegebad wird in einer geeigneten Wanne eine Desinfektionslösung zubereitet [^footnote-10] und Gegenstände darin über einen längeren Zeitraum (mehrere Stunden) eingelegt.
+Dabei ist es wichtig, dass die gesamte Oberfläche benetzt ist, es muss daher *luftblasenfrei* eingelegt werden.
+Schwimmende Teile werden mittels eines *Niederhaltesiebes* unter den Flüssigkeitsspiegel gedrückt.
 Zerlegbare Gegenstände müssen *soweit als möglich zerlegt* werden;
-Scheren, Klemmen und ähnliches werden geöffnet eingelegt. Die *Einwirkzeit* muss strikt eingehalten werden. Nach der Einlegedesinfektion ist i.d.R. eine *Endreinigung* durchzuführen, um Rückstände des Desinfektionsmittels zu beseitigen.
+Scheren, Klemmen und ähnliches werden geöffnet eingelegt.
+Die *Einwirkzeit* muss strikt eingehalten werden.
+Nach der Einlegedesinfektion ist i.d.R.
+eine *Endreinigung* durchzuführen, um Rückstände des Desinfektionsmittels zu beseitigen.
 
 [^footnote-10]: Typischer Weise wird ein Konzentrat entsprechend verdünnt.
 
-Die hergestellte Lösung ist nur *begrenzt haltbar* und muss regelmäßig getauscht werden. Ein Tausch ist auch unbedingt notwendig, wenn die Lösung sichtlich getrübt oder verschmutzt ist!
+Die hergestellte Lösung ist nur *begrenzt haltbar* und muss regelmäßig getauscht werden.
+Ein Tausch ist auch unbedingt notwendig, wenn die Lösung sichtlich getrübt oder verschmutzt ist!
 
 #### Flächen- und Wischdesinfektion
 
@@ -599,12 +651,15 @@ Die hergestellte Lösung ist nur *begrenzt haltbar* und muss regelmäßig getaus
 - Einweg-Tücher, regelmäßig wechseln
 :::
 
-Eine Flächendesinfektion wird mit dafür vorgesehenen *Flächendesinfektionsmitteln* durchgeführt. Dabei ist darauf zu achten, dass für *jede Oberfläche das richtige Mittel* verwendet wird. So zerstören z. B. Alkohol-haltige Desinfektionsmittel Acryl-Oberflächen, wie sie oft in Fahrzeugen oder bei medizinischen Geräten vorzufinden sind (s.o.). Es werden in so einem Fall Alkohol-freie Mittel (z. B.
+Eine Flächendesinfektion wird mit dafür vorgesehenen *Flächendesinfektionsmitteln* durchgeführt.
+Dabei ist darauf zu achten, dass für *jede Oberfläche das richtige Mittel* verwendet wird.
+So zerstören z. B. Alkohol-haltige Desinfektionsmittel Acryl-Oberflächen, wie sie oft in Fahrzeugen oder bei medizinischen Geräten vorzufinden sind (s.o.). Es werden in so einem Fall Alkohol-freie Mittel (z. B.
 Acryl-Des, Acrylan) angewendet.
 
 Auch hier ist die vom Hersteller vorgegebene *Einwirkzeit* zu beachten, die Fläche muss während dieser Zeit *feucht* gehalten werden!
 
-Um den Schmutz nicht zu verteilen wird *von außen in Richtung einer Schmutzquelle gewischt*. Es dürfen nur Einweg-Putztücher verwendet werden, diese sind regelmäßig zu wechseln. Die Verwendung von Putzlappen zur Wischdesinfektion ist *nicht zulässig*!
+Um den Schmutz nicht zu verteilen wird *von außen in Richtung einer Schmutzquelle gewischt*. Es dürfen nur Einweg-Putztücher verwendet werden, diese sind regelmäßig zu wechseln.
+Die Verwendung von Putzlappen zur Wischdesinfektion ist *nicht zulässig*!
 
 #### Sterilisation: Keimfreiheit
 
@@ -697,10 +752,15 @@ Sterilisationsverfahren sind relativ aufwendig und setzen Wissen und Erfahrung v
 - Hygienebeauftragter: Ansprechpartner mit Zusatzausbildung
 :::
 
-Der {dfn}`Hygieneplan` {index}` <! Hygieneplan>` regelt die konkreten Hygienemaßnahmen zur Erkennung, Verhütung und Bekämpfung von Infektionen bzw. deren Übertragungsmöglichkeiten. Es wird dort festgelegt was, wann, wie, und womit (wo) zu geschehen hat. Der Hygieneplan ist allgemein ausgehängt und hat i. d. R. die Bedeutung einer dienstlichen Weisung.
+Der {dfn}`Hygieneplan` {index}` <! Hygieneplan>` regelt die konkreten Hygienemaßnahmen zur Erkennung, Verhütung und Bekämpfung von Infektionen bzw. deren Übertragungsmöglichkeiten.
+Es wird dort festgelegt was, wann, wie, und womit (wo) zu geschehen hat. 
+Der Hygieneplan ist allgemein ausgehängt und hat i. d. R. die Bedeutung einer dienstlichen Weisung.
 
 Der {dfn}`Hygienebeauftragte` {index}` <! Hygienebeauftragte>` (bzw. Hygieneverantwortliche)
-ist Ansprechpartner für Belange der Hygiene. Er hat Maßnahmen zu setzen oder zu veranlassen, die der Erkennung, Verhütung und Bekämpfung von Infektionen, deren Übertragung und der Gesunderhaltung dienen. Zur Durchführung dieser Maßnahmen erstellt er u. a. den Hygieneplan. Je nach Art der Einrichtung hat er eine spezielle Ausbildung [^footnote-12] bzw.
+ist Ansprechpartner für Belange der Hygiene.
+Er hat Maßnahmen zu setzen oder zu veranlassen, die der Erkennung, Verhütung und Bekämpfung von Infektionen, deren Übertragung und der Gesunderhaltung dienen.
+Zur Durchführung dieser Maßnahmen erstellt er u. a. den Hygieneplan.
+Je nach Art der Einrichtung hat er eine spezielle Ausbildung [^footnote-12] bzw.
 Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 [^footnote-12]: Hygienefachkraft, Arzt mit Weiterbildung für Krankenhaushygiene,
@@ -730,14 +790,18 @@ Kenntnisse im Bereich der Infektionslehre und Hygiene.
 
 Die persönliche Hygiene des Fachpersonals ist ein wesentlicher Schritt zur Vermeidung von (Kreuz-)Infektionen.
 Schmuck, Uhren, Freundschaftsarmbänder sind perfekte Nährböden für Keime
-(warm, feucht durch Schweiß), und verhindern gleichzeitig eine effektive Reinigung. Daher müssen diese Dinge vor dem Dienst ablegt werden!
-Weiters müssen bei Dienstantritt die Hände gewaschen und anschließend eine hygienische Händedesinfektion durchgeführt werden. [^footnote-13] Die Nägel und Nagelfalze müssen optisch sauber sein. Künstliche Fingernägel oder Nagellack sind nicht statthaft, da sich auf den künstlichen Oberflächen leicht Keime ansiedeln können. Lange Haare müssen nach hinten gebunden werden.
+(warm, feucht durch Schweiß), und verhindern gleichzeitig eine effektive Reinigung.
+Daher müssen diese Dinge vor dem Dienst ablegt werden!
+Weiters müssen bei Dienstantritt die Hände gewaschen und anschließend eine hygienische Händedesinfektion durchgeführt werden. [^footnote-13] Die Nägel und Nagelfalze müssen optisch sauber sein.
+Künstliche Fingernägel oder Nagellack sind nicht statthaft, da sich auf den künstlichen Oberflächen leicht Keime ansiedeln können.
+Lange Haare müssen nach hinten gebunden werden.
 
 [^footnote-13]: Die Händewaschung dient dem mechanischen Entfernen von Schmutz und
     der Verringerung der Anzahl von Bakteriensporen, welchedurch die
     alkoholische Händedesinfektion nicht abgetötet werden können.
 
-Die Dienstkleidung muss gemäß Hygieneplan regelmäßig gewaschen und natürlich bei Kontamination gewechselt werden. Wenn mit einer Kontamination gerechnet werden kann, sollen nach Möglichkeit Einwegschürzen verwendet werden.
+Die Dienstkleidung muss gemäß Hygieneplan regelmäßig gewaschen und natürlich bei Kontamination gewechselt werden.
+Wenn mit einer Kontamination gerechnet werden kann, sollen nach Möglichkeit Einwegschürzen verwendet werden.
 
 #### Kontaminierte Geräte
 
@@ -747,12 +811,17 @@ Die Dienstkleidung muss gemäß Hygieneplan regelmäßig gewaschen und natürlic
 - Von wem eingelegt
 :::
 
-Unmittelbar nach der Kontamination muss das Eintrocknen von Schmutzresten verhindert werden. Dazu wird sofort eine Vorreinigung und
-– wenn möglich – eine Wischdesinfektion durchgeführt. Schläuche müssen unbedingt mit einer Reinigungslösung oder evtl.
+Unmittelbar nach der Kontamination muss das Eintrocknen von Schmutzresten verhindert werden.
+Dazu wird sofort eine Vorreinigung und
+– wenn möglich – eine Wischdesinfektion durchgeführt.
+Schläuche müssen unbedingt mit einer Reinigungslösung oder evtl.
 Instrumentendesinfektionsmittel durchgespült werden.
 
-Sofern kein geeignetes Ersatzmaterial zur Verfügung steht, ist das Fahrzeug *nicht einsatzbereit* und das kontaminierte Material muss getauscht werden. Auf der Station wird das Material gemäß
-Herstellerangaben zerlegt und noch einmal gespült, und dann der Desinfektion zugeführt. Üblicherweise erfolgt die Desionfektion mittels Einlegens in eine Desinfektionswanne. Das Material muss dazu luftblasenfrei eingelegt und vollständig eingetaucht werden, ggfs. ist ein Niederhaltesieb zu verwenden. Es muss vermerkt werden:
+Sofern kein geeignetes Ersatzmaterial zur Verfügung steht, ist das Fahrzeug *nicht einsatzbereit* und das kontaminierte Material muss getauscht werden.
+Auf der Station wird das Material gemäß
+Herstellerangaben zerlegt und noch einmal gespült, und dann der Desinfektion zugeführt. Üblicherweise erfolgt die Desionfektion mittels Einlegens in eine Desinfektionswanne.
+Das Material muss dazu luftblasenfrei eingelegt und vollständig eingetaucht werden, ggfs. ist ein Niederhaltesieb zu verwenden.
+Es muss vermerkt werden:
 
 Wenn eine sofortige Desinfektion nicht möglich ist (z. B. weil die Desinfektionwanne bereits benutzt wird), muss das Material in einen dicht verschlossenen Plastiksack verpackt werden, welcher ebenso beschriftet wird.
 
@@ -876,7 +945,9 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
     Teammitglied hat Patientenkontakt, der andere reicht zu!
 :::
 
-Unter {ref}`einer-redet` wurde bereits erwähnt, dass möglichst nur ein Teammitglied ein Patientengespräch führen soll. Dies ist auch aus hygienischer Sicht ähnlich: Derjenige, welcher direkten Patientenkontakt hat, sollte nach Möglichkeit keinen Kontakt mit dem sauberen Material aus der Tasche, etc. haben, um es nicht unnötig zu beschmutzen.
+Unter {ref}`einer-redet` wurde bereits erwähnt, dass möglichst nur ein Teammitglied ein Patientengespräch führen soll.
+Dies ist auch aus hygienischer Sicht ähnlich:
+Derjenige, welcher direkten Patientenkontakt hat, sollte nach Möglichkeit keinen Kontakt mit dem sauberen Material aus der Tasche, etc. haben, um es nicht unnötig zu beschmutzen.
 Benötigtes Material soll ihm von einem anderen Teammitglied *zugereicht* werden.
 
 (nadelabwurfbehaelter)=
@@ -902,7 +973,9 @@ Spitze Gegenstände (Kanülen, Lanzetten, …)
 sind sofort nach Gebrauch in den Nadelabwurfbehälter ("Gelbe Box",
 "Kontamed", "Sharp-Box", …) zu entsorgen!
 
-Es gibt jedoch *eine Ausnahme*: wenn aus einer Kanüle Blut für diagnostische Zwecke entnommen werden soll, darf diese nicht gleich verworfen werden. In der Praxis wird manchmal der *Blutzuckerwert mit Blut aus der Kanüle* bestimmt, um den Patienten einen weiteren Stich zu ersparen. Dies muss jedoch vorher ausdrücklich kund getan werden.
+Es gibt jedoch *eine Ausnahme*: wenn aus einer Kanüle Blut für diagnostische Zwecke entnommen werden soll, darf diese nicht gleich verworfen werden.
+In der Praxis wird manchmal der *Blutzuckerwert mit Blut aus der Kanüle* bestimmt, um den Patienten einen weiteren Stich zu ersparen.
+Dies muss jedoch vorher ausdrücklich kund getan werden.
 
 :::{attention}
 Spitze Gegenstände
@@ -925,7 +998,8 @@ Spitze Gegenstände
 - **Kreuzinfektion!**
 :::
 
-… wie z. B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für das Personal. Daher sind auch in Hinblick auf den Selbstschutz die entsprechenden Hygienemaßnahmen zu ergreifen!
+… wie z. B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für das Personal.
+Daher sind auch in Hinblick auf den Selbstschutz die entsprechenden Hygienemaßnahmen zu ergreifen!
 
 ### MRSA und andere Resistente Keime
 
@@ -1043,7 +1117,9 @@ unterscheidet zwischen:
    ({ref}`adr`); sie sind vor der Abfallbereitstellung zu desinfizieren
 
 Die im Rettungs- und Krankentransportdienst anfallenden Abfällen gehören i. d. R. den Gruppen 1 und 2 an.
-Für diese ist der Entsorgungsweg je nach Gegebenheit (Landesgesetze /-verodnungen, Verträge mit Entsorgungsbetrieben) unterschiedlich, die betriebsinternen Richtlinien sind zu beachten und genau zu befolgen. Es empfiehlt sich, kontaminiertes Material bei Übergabe des Patienten bereits im Spital entsprechend zu entsorgen. Ebenso ist bei umweltgefährdenden Abfällen
+Für diese ist der Entsorgungsweg je nach Gegebenheit (Landesgesetze /-verodnungen, Verträge mit Entsorgungsbetrieben) unterschiedlich, die betriebsinternen Richtlinien sind zu beachten und genau zu befolgen.
+Es empfiehlt sich, kontaminiertes Material bei Übergabe des Patienten bereits im Spital entsprechend zu entsorgen.
+Ebenso ist bei umweltgefährdenden Abfällen
 (Batterien, Chemikalien, …) der betriebsinterne Entsorgungsweg zu befolgen.
 
 ## Literatur

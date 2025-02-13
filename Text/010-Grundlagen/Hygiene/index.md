@@ -5,6 +5,19 @@ Hygiene ist allgemein die Lehre von der Gesunderhaltung und der Maßnahmen zur E
 Im engeren Sinne bezeichnet sie die Lehre von den Infektionserkrankungen und der Maßnahmen zu deren Vermeidung. 
 
 
+```{index} single: Infektion
+```
+```{index} single: Pathogenität
+```
+```{index} single: Resistenz
+```
+
+(Pathogen)=
+(Pathogenitaet)=
+(Infektion)=
+(Inkubationszeit)=
+(fakultative-Erreger)=
+(Resistenz)=
 
 ## Erreger
 
@@ -19,6 +32,16 @@ Nicht jeder potentielle Krankheitserrger erzeugt auch wirklich eine Erkrankung:
 Während z.B. ein bestimmter Keim im Darm eines Patienten normal und auch erwünscht ist, kann er an einem anderen Platz (z.B. dem Kniegelenk etc.) katastrophalen Schaden anrichten.
 Ebenso können manche Erreger nur unter bestimmten Umständen ihren Schaden entfalten (Luftabschluss, Schwächung des Immunsystems etc.).
 Diese Erreger nennt man {dfn}`fakultative Erreger`.
+
+Die *Abwehrkräfte des Patienten* (Immunstatus) sind gerade im medizinischen Umfeld ein wichtiger Faktor.
+Normalerweise kommt das Immunsystem des Menschen gut mit den natürlich vorkommenden Keimen zurande.
+Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist, können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
+Besonders betroffen sind Patienten mit einer *chemotherapeutischen Behandlung* oder Leukämie [^footnote-1], sowie Patienten mit *Immunschwäche*-Erkrankungen (z. B. AIDS, {ref}`aids`). Auch *Kinder*, *ältere Personen* oder Patienten in schlechter körperlicher Verfassung haben oft ein schwächeres Immunsystem.
+Auch sonst gesunde Menschen können aufgrund von Stress oder schlechter Ernährung anfälliger für Krankheiten sein.
+
+[^footnote-1]: *Leukämie*: Bösartige Erkrankung des blutbildenden Systems, es kommt
+    u.a. zu einer unzureichenden Bildung von für das Immunsystem
+    wichtigen weißen Blutkörperchen.
 
 
 Die Eigenschaft der {dfn}`Pathogenität` steht für die Fähigkeit eines Krankheitserregers oder Stoffs eine Erkrankung oder einen Schaden auszulösen.
@@ -46,8 +69,11 @@ Das kann einerseits bezogen sein auf einen Organismus, der gegen Erreger resiste
   - Würmer, Maden, …
 :::
 
+
+
 ```{index} single: Bakterien
 ```
+(Bakterien)=
 
 ### Bakterien sind Zellen
 
@@ -88,15 +114,7 @@ Viele Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen o
 Damit eine Bakterienart nicht ungehemmt wuchern kann, ist der "*Konkurrenzkampf der Bakterien*" notwendig.
 Wenn sich verschiedene Bakterienarten um den gleichen Raum und die gleichen Nährstoffe ’streiten’ müssen, können einzelne Stämme keine derart schädigende Wirkung entfalten, als wie wenn sie ungestört und ungehemmt wachsen könnten.
 
-Die *Abwehrkräfte des Patienten* (Immunstatus) sind gerade im medizinischen Umfeld ein wichtiger Faktor.
-Normalerweise kommt das Immunsystem des Menschen gut mit den natürlich vorkommenden Keimen zurande.
-Wenn das *Immunsystem* jedoch *geschädigt oder geschwächt* ist, können *auch sonst harmlose Keime* zu einer großen Gefahr werden!
-Besonders betroffen sind Patienten mit einer *chemotherapeutischen Behandlung* oder Leukämie [^footnote-1], sowie Patienten mit *Immunschwäche*-Erkrankungen (z. B. AIDS, {ref}`aids`). Auch *Kinder*, *ältere Personen* oder Patienten in schlechter körperlicher Verfassung haben oft ein schwächeres Immunsystem.
-Auch sonst gesunde Menschen können aufgrund von Stress oder schlechter Ernährung anfälliger für Krankheiten sein.
 
-[^footnote-1]: *Leukämie*: Bösartige Erkrankung des blutbildenden Systems, es kommt
-    u.a. zu einer unzureichenden Bildung von für das Immunsystem
-    wichtigen weißen Blutkörperchen.
 
 :::{note}
 Daraus folgt:
@@ -198,71 +216,6 @@ anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
 
 
 
-```{index} single: Infektion
-```
-```{index} single: Pathogenität
-```
-```{index} single: Resistenz
-```
-
-## Wichtige Begriffe
-
-
-
-{dfn}`Epidemie` {index}` <Epidemie>`
-
-: örtlich begrenztes, zeitlich vermehrtes Auftreten einer
-  Infektionserkrankung (z. B. Grippe, Salmonellen).
-
-{dfn}`Pandemie` {index}` <Pandemie>`
-
-: Epidemie die sich über Länder u. Kontinente ausbreitet (z. B. Pest im
-  Mittelalter).
-
-{dfn}`Endemie` {index}` <Endemie>`
-
-: Auf kleinere Gebiete beschränktes, zeitlich jedoch nicht begrenztes
-  Auftreten einer Infektionserkrankung (z. B. FSME, Malaria, Lepra).
-
-{dfn}`Morbidität` {index}` <Morbidität>`
-
-: Anteil der an einer Erkrankung *Erkrankten* einer bestimmten
-  *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
-
-{dfn}`Mortalität` {index}` <Mortalität>`
-
-: Anteil der an einer Erkrankung *Verstorbenen* einer bestimmten
-  *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
-
-{dfn}`Letalität` {index}` <Letalität>`
-
-: Anteil der an einer Erkrankung *Verstorbenen* bezogen auf die
-  *Gesamtzahl der Erkrankten* (*"1 von 5 Erkrankten stirbt"*).
-
-{dfn}`Entzündung` {index}` <Entzündung>`
-
-: Reaktion des Körpers mit den Symptomen
-
-  1. Rötung,
-  2. Schwellung,
-  3. Überwärmung,
-  4. Schmerzen,
-  5. Funktionsverlust.
-
-  Vgl. {ref}`entzuendung`.
-
-{dfn}`Prophylaxe` {index}` <Prophylaxe>`
-
-: Vorbeugende Maßnahme(n).
-
-{dfn}`Antigen` {index}` <Antigen>`
-
-: Substanzen, an die sich Antikörper u. ä. binden können.
-
-{dfn}`Antikörper` {index}` <Antikörper>`
-
-: Zum Immunsystem zählende Proteine, welche gegen Bestandteile eines Antigens gerichtet sind und an dieses binden können.
-
 
 ### Angepasste Hygiene
 
@@ -306,7 +259,7 @@ Alexander Fleming
 \[Postverk Føroya – Philatelic Office, PD\]
 :::
 
-### Resistenzen
+## Resistenzen
 
 :::{margin} Resistenzen
 - Bakterien können Resistenzen entwickeln!
@@ -472,6 +425,71 @@ Eine Amputation des Unterschenkels.
   Desinfektionsmaßnahmen ist das Fahrzeug wieder einsatzbereit.
 
 Für die anderen Problemkeime gelten sinngemäß die gleichen Verfahrensweisen.
+
+
+
+
+
+
+
+## Epidemiologie
+
+
+
+{dfn}`Epidemie` {index}` <Epidemie>`
+
+: örtlich begrenztes, zeitlich vermehrtes Auftreten einer
+  Infektionserkrankung (z. B. Grippe, Salmonellen).
+
+{dfn}`Pandemie` {index}` <Pandemie>`
+
+: Epidemie die sich über Länder u. Kontinente ausbreitet (z. B. Pest im
+  Mittelalter).
+
+{dfn}`Endemie` {index}` <Endemie>`
+
+: Auf kleinere Gebiete beschränktes, zeitlich jedoch nicht begrenztes
+  Auftreten einer Infektionserkrankung (z. B. FSME, Malaria, Lepra).
+
+{dfn}`Morbidität` {index}` <Morbidität>`
+
+: Anteil der an einer Erkrankung *Erkrankten* einer bestimmten
+  *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
+
+{dfn}`Mortalität` {index}` <Mortalität>`
+
+: Anteil der an einer Erkrankung *Verstorbenen* einer bestimmten
+  *Bevölkerungsgruppe* (z. B. 5 pro 100000 Einwohner).
+
+{dfn}`Letalität` {index}` <Letalität>`
+
+: Anteil der an einer Erkrankung *Verstorbenen* bezogen auf die
+  *Gesamtzahl der Erkrankten* (*"1 von 5 Erkrankten stirbt"*).
+
+{dfn}`Entzündung` {index}` <Entzündung>`
+
+: Reaktion des Körpers mit den Symptomen
+
+  1. Rötung,
+  2. Schwellung,
+  3. Überwärmung,
+  4. Schmerzen,
+  5. Funktionsverlust.
+
+  Vgl. {ref}`entzuendung`.
+
+{dfn}`Prophylaxe` {index}` <Prophylaxe>`
+
+: Vorbeugende Maßnahme(n).
+
+{dfn}`Antigen` {index}` <Antigen>`
+
+: Substanzen, an die sich Antikörper u. ä. binden können.
+
+{dfn}`Antikörper` {index}` <Antikörper>`
+
+: Zum Immunsystem zählende Proteine, welche gegen Bestandteile eines Antigens gerichtet sind und an dieses binden können.
+
 
 ## Reinigung und hygienische Wiederaufbereitung
 

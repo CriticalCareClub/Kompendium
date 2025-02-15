@@ -2,7 +2,7 @@
 (vergiftung)=
 
 
-# 53. Vergiftungen
+# Intox / 53. Vergiftungen
 
 Intoxikationen
 

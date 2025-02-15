@@ -1,4 +1,4 @@
-# Infektions- und Entzündungskrankheiten
+# Infekt / Infektions- und Entzündungskrankheiten
 
 ## Störungen des Immunsystems
 

@@ -1,4 +1,4 @@
-# Gynäkologie
+# Gyn / Gynäkologie
 
 ## Betreuung in der Schwangerschaft
 

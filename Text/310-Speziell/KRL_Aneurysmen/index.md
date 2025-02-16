@@ -1,0 +1,133 @@
+```{index} single: Aneurysma
+```
+
+(aneurysma)=
+
+# Kreislauf / Aneurysmen der großen arteriellen Gefäße
+
+::::{only} not nosidebar
+
+:::{margin} Aneurysma
+- Aussackung eines Blutgefäßes
+- Z. B. Aorta, Hirngefäße
+- Gefahr: Schock, Insult
+:::
+::::
+
+Als {dfn}`Aneurysma` bezeichnet man eine Aussackung und Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
+
+Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta, Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen (rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder ein blutiger Insult sein.
+
+(bauchaortenaneurysma)=
+(aortenaneurysma)=
+
+## Aortenaneurysma
+
+::::{only} not nosidebar
+
+:::{margin} Anmerkungen
+- Gefäßwandaussackung
+- Thorakales und abdominelles Aortenaneurysma
+- Evtl. vorbekannt
+:::
+::::
+
+Aneurysmen können im gesammten Verlauf der Aorta auftreten, man unterscheidet zwischen dem *thorakalen* und dem abdominellen Aortenaneurysma (*Bauchaortenaneurysma*).
+Zumeist ist eine krankhafte Veränderung der Aortenwand im Rahmen von Begleiterkrankungen (Diabetes mellitus, Hypertonie, Arteriosklerose, Bindegewebserkrankungen) oder ein Trauma verantwortlich. Die Aussackung kann alle Gefäßschichten umfassen oder es können einzelne Schichten der Gefäßwand einreißen und eine (verletzliche) Ausbuchtung bilden. Die akute Gefahr ist eine Ruptur.
+
+Oft sind Aneurysmen asymptomatisch und werden als Zufallsbefund z. B. bei Röntgenuntersuchungen entdeckt.
+Da das Operationsrisiko sehr hoch ist werden Aneurysmen erst ab einer gewissen Größe operiert, bei kleinen Formen werden nur regelmäßige Kontrollen durchgeführt.
+
+Aortenaneurysmen sind sehr oft schwer zu diagnostizieren, in der präklinischen Versorgung kann im Regelfall nur durch die Anamnese bei einem bereits bekannten Aneurysma ein entsprechender Verdacht geäussert werden – eine sichere Diagnose ist praktisch kaum möglich. Auch in der klinischen Behandlung werden Aneurysmen häufig erst sehr spät erkannt, da die Symptome oft eher auf andere Erkrankungen hinweisen (Lumbago, ACS, Koliken, …).
+
+{term}`🗎 Meron 2004`
+
+### ABCDE
+
+::::{only} not nosidebar
+
+:::{margin} ABCDE
+②
+
+: Evtl.  **Schockzeichen**, Schonhaltung
+
+④
+
+: &#8201;**Brust-, Bauch- oder Rückenschmerzen**; evtl.
+  Symptome eines  **ACS**
+
+Ⓒ
+
+: Kreislaufstabil, evtl.  **Schockzeichen**
+
+Ⓔ
+
+: **Harte Bauchdecke** bei Blutung in Bauch
+:::
+::::
+
+②
+
+: Evtl. können  **Schockzeichen** vorliegen (Blässe,
+  Kaltschweißigkeit, …). Manche Patienten nehmen eine Schonhaltung
+  aufgrund der Schmerzen ein.
+
+④
+
+: Je nach Ort des Aneurysmas klagt der Patient über
+  *Brust-*, *Bauch-* oder *Rückenschmerzen*,
+  diese werden oft
+  als schneidend und plötzlich einsetzend beschrieben und sind oft
+  (aber nicht immer) heftig (*Vernichtungsschmerz*). Bei thorakalen
+  Aortenaneurysmen kommt es häufig zu Symptomen eines
+  *Akuten Koronarsyndroms* (ACS, vgl. {ref}`Acs`).
+
+Ⓒ
+
+: Je nach Umfang der Blutung kann der Patient völlig *kreislaufstabil*
+  sein oder  **Schockzeichen** zeigen
+  (hypovolämischer Schock). Herzfrequenz und Blutdruck können
+  entsprechend eines Schockgeschehens verändert sein.
+
+Ⓔ
+
+: Bei einer Blutung in den Bauchraum kann es zu einer Verhärtung der
+  Bauchdecke kommen (**Akutes Abdomen**).
+  Selten kann eine deutliche pulsierende
+  Schwellung bei einem abdominellen Aortenaneurysma im Bauch getastet
+  werden.
+
+### SAMPLER
+
+::::{only} not nosidebar
+
+:::{margin} SAMPLER
+🅂
+
+: Siehe ABCDE; evtl. Rückenschmerzen
+
+🄿
+
+: Aneurysma evtl. vorbekannt
+
+🅁
+
+: Kreislauferkrankungen, Bindegewebsschwäche
+:::
+::::
+
+🅂
+
+: Siehe ABCDE. Evtl. haben die ersten Beschwerden vor einigen Tagen
+  oder Wochen z. B. in Form von leichten Rückenschmerzen begonnen.
+
+🄿
+
+: Mitunter ist bereits das Aneurysma bekannt (Befunde, Arztbriefe!).
+
+🅁
+
+: Besonders betroffen sind Patienten mit systemischen
+  Kreislauferkrankungen (Hypertonie, erhöhte Blutfette, …), sowie
+  Patienten mit einer krankhaften Bindegewebsschwäche (Z. B.
+  Marfan-Syndrom).

@@ -1,4 +1,4 @@
-\begin{savenotes}\begin{ParWide}\begin{minipage}{\linewidth}\sffamily\small\sphinxattablestart
+\begin{savenotes}\begin{ParWide}\begin{minipage}{\linewidth}\sphinxattablestart\sffamily
 \sphinxthistablewithglobalstyle
 <% if 'booktabs' in table.styles -%>
 \sphinxthistablewithbooktabsstyle
@@ -22,9 +22,9 @@
 \sphinxthistablewithnocolorrowsstyle
 <% endif -%>
 <% if table.align -%>
-  <%- if table.align in ('center', 'default') -%>
-  \raggedright
-  <%- elif table.align == 'left' -%>
+  <%- if table.align in ('center') -%>
+  \centering
+  <%- elif table.align == ('left', 'default') -%>
   \raggedright
   <%- else -%>
   \raggedleft
@@ -40,7 +40,7 @@
 <% elif labels -%>
 \phantomsection<%= labels %>\nobreak
 <% endif -%>
-\begin{tabulary}{\linewidth}[t]<%= table.get_colspec() -%>
+\begin{tabular}[t]<%= table.get_colspec() -%>
 \sphinxtoprule
 <%= ''.join(table.header) -%>
 <%- if table.header -%>
@@ -49,6 +49,6 @@
 \sphinxtableatstartofbodyhook
 <%=- ''.join(table.body) -%>
 \sphinxbottomrule
-\end{tabulary}
+\end{tabular}
 \sphinxtableafterendhook\par
 \sphinxattableend\end{minipage}\end{ParWide}\end{savenotes}

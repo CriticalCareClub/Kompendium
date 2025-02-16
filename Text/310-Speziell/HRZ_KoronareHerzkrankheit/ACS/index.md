@@ -96,12 +96,12 @@ Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim ischämi
 : Vital bedroht
 ::: -->
 
-:::{rubric} {{ TxAbbcde3 }}
+:::{rubric} {{ TxAbcde3 }}
 :::
 
 Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig und blass.
 
-:::{rubric} {{ TxAbbcde4 }}
+:::{rubric} {{ TxAbcde4 }}
 :::
 
 Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
@@ -115,14 +115,14 @@ Blässe, Kaltschweißigkeit, Hypotonie, etc.
 
 
 
-:::{rubric} {{ TxAbbcdeB }}
+:::{rubric} {{ TxAbcdeB }}
 :::
 
 &#8201;*Atemnot* kommt häufig vor und ist ein Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
 
 
-:::{rubric} {{ TxAbbcdeC }}
+:::{rubric} {{ TxAbcdeC }}
 :::
 
 Der Puls kann unregelmäßig sein.
@@ -132,14 +132,14 @@ Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
 
 
-:::{rubric} {{ TxAbbcdeE }}
+:::{rubric} {{ TxAbcdeE }}
 :::
 
 Das EKG kann wichtige Hinweise über Ausdehnung, Alter und Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung ist jedoch nur entsprechend ausgebildeten und geübten Personal vorbehalten.
 
 
 
-:::{rubric} {{ TxAbbcdeFazit }}
+:::{rubric} {{ TxAbcdeFazit }}
 :::
 
 Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche Diagnose ist auch hinsichtlich der Auswahl des richtigen Transportziel (Herzkatheterlabor?) entscheidend.

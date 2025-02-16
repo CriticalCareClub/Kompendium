@@ -14,7 +14,7 @@
 (fakultative-Erreger)=
 (Resistenz)=
 
-## Erreger
+# Erreger
 
 Ein {dfn}`Pathogen` ist ein Organismus oder Stoff der eine Erkrankung verursacht, also ein Krankheitserreger.
 Als {dfn}`Infektion` wird das Eindringen von pathogenen Krankheitserregern in den Organismus bezeichnet.
@@ -70,7 +70,7 @@ Das kann einerseits bezogen sein auf einen Organismus, der gegen Erreger resiste
 ```
 (Bakterien)=
 
-### Bakterien sind Zellen
+## Bakterien sind Zellen
 
 :::{margin} Bakterien
 - Eigenständige Zellen/Lebewesen
@@ -87,7 +87,7 @@ Bakterien sind nicht grundsätzlich schlecht.
 Viele können für den Menschen gut, neutral oder manchmal auch schädlich sein.
 Dies hängt von verschiedenen Faktoren ab, s.u.
 
-#### Bakterien und Pathogenität
+### Bakterien und Pathogenität
 
 :::{margin} Bakterien: Pathogenität
 - Bakterienart
@@ -117,7 +117,7 @@ Manche Keime machen immer krank, manche nur unter Umständen. *Opportunisten* ma
 Das sind viele Patienten im Rettungs- und Krankentransport!
 :::
 
-#### Bakterien, Antibiotika und Resistenzen
+### Bakterien, Antibiotika und Resistenzen
 
 :::{margin} Bakterien: Resistenzen
 - Bakterien können Resistenzen gegen Antibiotika bilden.
@@ -133,7 +133,7 @@ Diese werden unter {ref}`multiresistente-keime` näher besprochen.
 ```{index} single: Viren
 ```
 
-### *Viren* sind keine vollständigen Zellen
+## *Viren* sind keine vollständigen Zellen
 
 :::{margin} Viren
 - Keine vollständigen Zellen

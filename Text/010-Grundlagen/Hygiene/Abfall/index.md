@@ -2,9 +2,9 @@
 (entsorgung-infektioeser-abfall)=
 (abfall-infektioeser-entsorgung)=
 
-### Entsorgung von Abfall
+# Entsorgung von Abfall
 
-#### Abfall
+## Abfall
 
 Von Abfällen gehen im Wesentlichen zwei Gefahren aus, nämlich eine *Verletzungsgefahr*
 (Kanülen und andere spitze Gegenstände)

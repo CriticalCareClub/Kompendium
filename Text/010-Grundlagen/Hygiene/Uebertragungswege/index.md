@@ -1,5 +1,5 @@
 
-## Erreger können über verschiedene **Übertragungswege** übertragen werden
+# Erreger können über verschiedene **Übertragungswege** übertragen werden
 
 Krankheitserreger können auf unterschiedliche Wege in den Körper gelangen und eine Infektion verursachen:
 
@@ -25,7 +25,7 @@ Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschl
 
 (kreuzinfektion)=
 
-### Kreuzinfektion
+## Kreuzinfektion
 
 :::{margin} Kreuzinfektion
 - Kreuzinfektion: *Patient 1 → \*Personal*
@@ -40,7 +40,7 @@ anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
 
 
 
-### Angepasste Hygiene
+## Angepasste Hygiene
 
 Grundsätzlich müssen die Hygienevorgaben und -maßnahmen dem jeweiligen Anforderungen und Gegebenheiten angepasst werden:
 Bei einem zu Hause lebenden Krankentransportpatienten bestehen zum Beispiel andere Risiken als bei einem beatmeten Intensivpatienten.

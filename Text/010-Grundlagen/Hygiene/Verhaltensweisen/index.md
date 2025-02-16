@@ -1,8 +1,8 @@
 
 
-## Besondere Verhaltensweisen
+# Besondere Verhaltensweisen
 
-### Selbstschutz
+## Selbstschutz
 
 Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:
 
@@ -14,7 +14,7 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
 (schutzkleidung-hygiene)=
 (atemmasken)=
 
-#### Schutzkleidung
+### Schutzkleidung
 
 - *Untersuchungshandschuhe* sind obligat und *immer* bei
   Patientenkontakt u. ä. zu tragen! Auch beim Hantieren mit infektiösen
@@ -74,7 +74,7 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
     SARS-CoV-2 bei Situationen mit erhöhter Aerosolbildung (Intubation etc.)
 :::
 
-#### Arbeitsaufteilung
+### Arbeitsaufteilung
 
 :::{margin} Arbeitsaufteilung
 - Material nicht unnötig kontaminieren.
@@ -92,7 +92,7 @@ Benötigtes Material soll ihm von einem anderen Teammitglied *zugereicht* werden
 
 (nadelabwurfbehaelter)=
 
-#### Umgang mit spitzen Gegenständen
+### Umgang mit spitzen Gegenständen
 
 :::{margin} Umgang mit spitzen Gegenständen
 - Nadelabwurfbehälter.
@@ -131,7 +131,7 @@ Spitze Gegenstände
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-#### Keimvehikel
+### Keimvehikel
 
 :::{margin} Keimvehikel
 - Kugelschreiber, Haltegriffe, Lenkrad …
@@ -141,16 +141,16 @@ Spitze Gegenstände
 … wie z. B. Kugelschreiber, Haltegriffe, etc. sind nicht nur für den Patienten im Sinne einer Kreuzinfektion ein Problem, sondern auch für das Personal.
 Daher sind auch in Hinblick auf den Selbstschutz die entsprechenden Hygienemaßnahmen zu ergreifen!
 
-### MRSA und andere Resistente Keime
+## MRSA und andere Resistente Keime
 
 Die Maßnahmen beim Transport von Patienten mit resistenten Keimen werden unter {ref}`m-mrsa-transport`: besprochen.
 
 (nadelstichverletzung)=
 (m-nadelstichverletzung)=
 
-### Nadelstichverletzungen
+## Nadelstichverletzungen
 
-#### Maßnahmen
+### Maßnahmen
 
 Basierend auf {term}`🗎 OeAG 2007`
 

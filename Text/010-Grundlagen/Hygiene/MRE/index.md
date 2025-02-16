@@ -1,13 +1,13 @@
 
 (multiresistente-keime)=
 
-## Multiresistente Keime
+# Multiresistente Keime
 
 :::{admonition} Linktip
 ("EUREGIO Mrsa-Net: Gemeinsam Gegen Mrsa," n.d.) *EUREGIO MRSA-net* <http://www.mrsa-net.org/>
 :::
 
-### Geschichte und Bedeutung der Antibiotika
+## Geschichte und Bedeutung der Antibiotika
 
 Vor der Entdeckung der Antibiotika im 20. Jahrhundert waren bakterielle Infektionen sehr gefürchtet, viele Menschen sind an – nach heutiger Sicht simplen – Infektionen gestorben.
 Wer es im Ersten Weltkrieg lebendig in ein Lazarett geschafft hatte, verstarb dort im Verlauf oft an den Folgen des *Wundbrandes*. Erkrankungen wie *Scharlach* oder "Blutvergiftungen" waren häufig ein Todesurteil.
@@ -36,7 +36,7 @@ Alexander Fleming
 \[Postverk Føroya – Philatelic Office, PD\]
 :::
 
-## Resistenzen
+# Resistenzen
 
 :::{margin} Resistenzen
 - Bakterien können Resistenzen entwickeln!
@@ -72,7 +72,7 @@ vermeidbare – Kosten {term}`🗎 Kucera 2010`.
   Haltegriff im Krankentransportwagen vergleichbar.
 :::
 
-### Im Krankentransport gibt es Problemkeime
+## Im Krankentransport gibt es Problemkeime
 
 :::{margin} Problemkeime
 
@@ -94,11 +94,11 @@ aureus). Auch bei der Tuberkulose treten mittlerweile resistente Keime auf: *200
 
 [^footnote-6]: Quelle: AGES
 
-### MRSA: Multi-Resistenter Staphylococcus aureus
+## MRSA: Multi-Resistenter Staphylococcus aureus
 
 > Ursprünglich: Methicillin-Resistenter Staphylococcus Aureus
 
-#### Staphylococcus aureus
+### Staphylococcus aureus
 
 :::{margin} Stahylokokkus aureus
 
@@ -166,7 +166,7 @@ Eine Amputation des Unterschenkels.
 (m-mrsa-transport)=
 (proc-iu-81001c)=
 
-#### Maßnahmen
+### Maßnahmen
 
 - Informationen über MRSA-Trägerschaft sowie Art/Ort der
   MRSA-Besiedelung

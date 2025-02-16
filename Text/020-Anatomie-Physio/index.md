@@ -32,7 +32,6 @@ HerzKreislauf/index
 Blut/index
 Respiration/index
 GIT/index
-Endokrin/index
 Harn/index
 Sinnesorgane/index
 Stoffwechsel/index

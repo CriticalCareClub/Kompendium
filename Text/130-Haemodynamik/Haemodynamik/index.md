@@ -101,9 +101,9 @@ $$
 
 
 
-:::{index} single: 
+:::{index} single: Cardiac Output
 :::
-:::{index} single: 
+:::{index} single: CO
 :::
 
 (GHDM-VO-Cardiac-Output)=

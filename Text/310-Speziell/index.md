@@ -1,8 +1,6 @@
 # Krankheitsbilder
 
-:::{contents}
-:local: 
-:::
+
 
 
 

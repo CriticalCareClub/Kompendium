@@ -18,7 +18,6 @@ AK/index.md
 
 300-Augen/index
 300-Chirurgie/index
-300-Gyn/index
 300-Gefaess/index
 300-Geriatrie/index
 300-Gyn/index

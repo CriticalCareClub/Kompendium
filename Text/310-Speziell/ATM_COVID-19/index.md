@@ -53,7 +53,7 @@ Labor
 
 
 
-[^ctwert]: Ct-Wert: *Threshold Cycle*.
+[^CtWert]: Ct-Wert: *Threshold Cycle*.
     Zahl der notwendigen PCR-Zyklen bis zum positiven Signal,
     Maß für die Virenkonzentration im Abstrichmaterial.
     Nach gegenwärtigem Wissensstand ist bei einem Ct-Wert > 30 von einer geringen Viruslast auszugehen.

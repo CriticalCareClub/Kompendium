@@ -1,16 +1,16 @@
 
-```{index} single: Akutes Koronarsyndrom
-```
-```{index} single: ACS
-```
-```{index} single: Koronarsyndrom; akutes
-```
-```{index} single: Infarkt; Herz-
-```
-```{index} single: STEMI
-```
-```{index} single: NSTEMI
-```
+:::{index} single: Akutes Koronarsyndrom
+:::
+:::{index} single: ACS
+:::
+:::{index} single: Koronarsyndrom; akutes
+:::
+:::{index} single: Infarkt; Herz-
+:::
+:::{index} single: STEMI
+:::
+:::{index} single: NSTEMI
+:::
 
 (acs)=
 (akuteskoronarsyndrom)=
@@ -96,13 +96,13 @@ Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim ischämi
 : Vital bedroht
 ::: -->
 
-```{rubric} |Text-Abcde-3|
-```
+:::{rubric} {{ TxAbbcde3 }}
+:::
 
 Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig und blass.
 
-```{rubric} |Text-Abcde-4|
-```
+:::{rubric} {{ TxAbbcde4 }}
+:::
 
 Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
 Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
@@ -113,32 +113,38 @@ Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu einem schmerzlo
 Blässe, Kaltschweißigkeit, Hypotonie, etc.
 ({ref}`SchockKardiogener`).
 
-```{eval-rst}
-.. rubric:: |Text-Abcde-B|
-```
+
+
+:::{rubric} {{ TxAbbcdeB }}
+:::
 
 &#8201;*Atemnot* kommt häufig vor und ist ein Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
-```{eval-rst}
-.. rubric:: |Text-Abcde-C|
-```
+
+
+:::{rubric} {{ TxAbbcdeC }}
+:::
 
 Der Puls kann unregelmäßig sein.
 Der Blutdruck kann in jede Richtung verändert sein.
 Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
 Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
-```{eval-rst}
-.. rubric:: |Text-Abcde-E|
-```
+
+
+:::{rubric} {{ TxAbbcdeE }}
+:::
 
 Das EKG kann wichtige Hinweise über Ausdehnung, Alter und Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung ist jedoch nur entsprechend ausgebildeten und geübten Personal vorbehalten.
 
-```{eval-rst}
-.. rubric:: |Text-Abcde-Fazit|
-```
+
+
+:::{rubric} {{ TxAbbcdeFazit }}
+:::
 
 Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche Diagnose ist auch hinsichtlich der Auswahl des richtigen Transportziel (Herzkatheterlabor?) entscheidend.
+
+
 
 ### SAMPLER beim akuten Koronarsyndrom
 
@@ -185,6 +191,8 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 : Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn
   des Anfalls berichtet.
 
+
+
 ## Differentialdiagnosen
 
 - Pneumonie, Pleuritis, Pneumothorax
@@ -193,17 +201,21 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 - musko-skelettal
 - funktionell
 
+
+
 ## 🔎 Diagnostik
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
 Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`) und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
 
-```{index} pair: STEMI-Kriterien; EKG 
-```
-```{index} pair: Hauptstammbild; EKG 
-```
-```{index} pair: CX-Infarkt; EKG
-```
+
+
+:::{index} pair: STEMI-Kriterien; EKG 
+:::
+:::{index} pair: Hauptstammbild; EKG 
+:::
+:::{index} pair: CX-Infarkt; EKG
+:::
 
 ### STEMI-Kriterien
 
@@ -246,16 +258,18 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 - Patienten mit Diabetes mellitus
 - Patienten mit Niereninffuzienz
 
-```{index} single: CK
-```
-```{index} single: CK-MB
-```
-```{index} single: LDH
-```
-```{index} single: Herzenzyme
-```
-```{index} single: Troponin
-```
+
+
+:::{index} single: CK
+:::
+:::{index} single: CK-MB
+:::
+:::{index} single: LDH
+:::
+:::{index} single: Herzenzyme
+:::
+:::{index} single: Troponin
+:::
 
 ### 🔬 Weiterführende Diagnostik
 
@@ -280,6 +294,8 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 [^ckmb]: CK-MB: myokardspezifische Creatininkinase
 
 [^ldh]: LDH: Laktatdehydrogenase
+
+
 
 (m-akutes-koronarsyndrom-beschwerdefrei)=
 (m-akutes-koronarsyndrom)=
@@ -339,9 +355,8 @@ Dazu stehen im Wesentlichen zwei Methoden zur Wahl:
 Somit kann eine kardiologische Betten-, Überwachungs- oder Intensivstation alleine *keine* adäquate Versorgung bereitstellen.
 In der Regel muss das erstversorgende Fachpersonal über die Indikation zur Einleitung einer Reperfusionsbehandlung stellen bzw. das geeignete Verfahren auswählen.
 
-```{eval-rst}
-.. rubric:: Ressourcen
-```
+:::{rubric} Ressourcen
+:::
 
 - Video, Youtube: *Der Akute Herzinfarkt*
   <http://youtu.be/DGZ443jO2ik>
@@ -364,24 +379,24 @@ Daraus ergeben sich folgende logistische Empfehlungen
 
 
 
-```{index} single: GP IIb/IIIa-Inhibitor (ACS)
-```
-```{index} single: Ticagrelor (ACS)
-```
-```{index} single: Brilique® (ACS)
-```
-```{index} single: Clopidogrel (ACS)
-```
-```{index} single: Prasugrel (ACS)
-```
-```{index} single: Efient® (ACS)
-```
-```{index} single: Morphin (ACS)
-```
-```{index} single: Heparin (ACS)
-```
-```{index} single: ASS  (ACS)
-```
+:::{index} single: GP IIb/IIIa-Inhibitor (ACS)
+:::
+:::{index} single: Ticagrelor (ACS)
+:::
+:::{index} single: Brilique® (ACS)
+:::
+:::{index} single: Clopidogrel (ACS)
+:::
+:::{index} single: Prasugrel (ACS)
+:::
+:::{index} single: Efient® (ACS)
+:::
+:::{index} single: Morphin (ACS)
+:::
+:::{index} single: Heparin (ACS)
+:::
+:::{index} single: ASS  (ACS)
+:::
 
 ### 🞺 ⛑ Allgemein und Basics
 
@@ -424,18 +439,18 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
 
 
 
-```{index} single: P2Y₁₂ 
-```
-```{index} single: P2Y₁₂-Inhibitor
-```
-```{index} single: Ticagrelor; ACS
-```
-```{index} single: Brilique®; ACS
-```
-```{index} single: Prasugrel; ACS
-```
-```{index} single: Efient®; ACS
-```
+:::{index} single: P2Y₁₂ 
+:::
+:::{index} single: P2Y₁₂-Inhibitor
+:::
+:::{index} single: Ticagrelor; ACS
+:::
+:::{index} single: Brilique®; ACS
+:::
+:::{index} single: Prasugrel; ACS
+:::
+:::{index} single: Efient®; ACS
+:::
 
 #### P2Y₁₂-Inhibitor
 
@@ -456,12 +471,13 @@ Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 - Prasugrel oder Ticagrelor vorbestehend:
   Loading Dose 24 h nach der letzten Einnahme
 
-```{eval-rst}
-.. todo::
-    Ticagrelor bei ACS unabhängig von der Therapiestrategie
+:::{todo}
+Ticagrelor bei ACS unabhängig von der Therapiestrategie
 
-    -   Warum dann bei NSTEMI und bei STEMI+Lyse Clopidogrel?
-```
+-   Warum dann bei NSTEMI und bei STEMI+Lyse Clopidogrel?
+:::
+
+
 
 #### Additiv -- Erwäge:
 
@@ -472,20 +488,20 @@ Bei P2Y₁₂-Vortherapie gilt hinsichtlich Loading:
 - (AT-II-Inhibitoren)
 - (Statine)
 
-```{index} single: STEMI (Therapie) 
-```
-```{index} single: GP IIb/IIIa-Inhibitor (STEMI) 
-```
-```{index} single: Ticagrelor (STEMI) 
-```
-```{index} single: Brilique® (STEMI) 
-```
-```{index} single: Heparin (STEMI) 
-```
-```{index} single: ASS  (STEMI) 
-```
-```{index} single: PCI (STEMI)
-```
+:::{index} single: STEMI (Therapie) 
+:::
+:::{index} single: GP IIb/IIIa-Inhibitor (STEMI) 
+:::
+:::{index} single: Ticagrelor (STEMI) 
+:::
+:::{index} single: Brilique® (STEMI) 
+:::
+:::{index} single: Heparin (STEMI) 
+:::
+:::{index} single: ASS  (STEMI) 
+:::
+:::{index} single: PCI (STEMI)
+:::
 
 ### ℞ Therapiestrategie *STEMI mit Primär-PCA*
 
@@ -507,34 +523,34 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 - **Ticagrelor** (Brilique®) 180 mg p. o.
 
-```{index} single: Lyse (STEMI) 
-```
-```{index} single: Metalyse® 
-```
-```{index} single: Tenecteplase
-```
-```{index} single: STEMI (Lyse) 
-```
-```{index} single: Lyse, Kontraindikationen
-```
-```{index} single: Kontraindikationen, Lyse
-```
+:::{index} single: Lyse (STEMI) 
+:::
+:::{index} single: Metalyse® 
+:::
+:::{index} single: Tenecteplase
+:::
+:::{index} single: STEMI (Lyse) 
+:::
+:::{index} single: Lyse, Kontraindikationen
+:::
+:::{index} single: Kontraindikationen, Lyse
+:::
 
 ### ℞ Therapiestrategie *STEMI mit Lyse*
 
 % Bei Patienten über 75 Jahre sollte die Hälfte der
 % Dosis überlegt werden. (2aB)
 
-```{eval-rst}
-.. rubric:: Indikation
-```
+:::{rubric}  Indikation
+:::
 
 - *Time to PCI* > 120 min,
   bei jungen, kurz symptomatischen STEMI-Patienten > 60 min
 
-```{eval-rst}
-.. rubric:: Kontraindikationen für Lyse
-```
+
+
+:::{rubric}  Kontraindikationen für Lyse
+:::
 
 - Operation \< 14 Tagen
 - Organpunktion \< 7 Tagen
@@ -546,9 +562,12 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 - Bekannte Blutungsneigung
 - OAK-Therapie
 
-```{eval-rst}
-.. rubric:: Durchführung
-```
+
+
+  
+
+:::{rubric} Durchführung
+:::
 
 Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 {abbr}`STEMI (ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt)` *so früh wie möglich* initiiert werden (\< 10 min. nach {term}`FMC`).
@@ -617,17 +636,16 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 %         - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
 %         - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
 
-```{eval-rst}
-.. todo::
-    -   Heparindosis:
+:::{todo}
+-   Heparindosis:
 
-        -   lt. "Therapieschema NÖ 5000 IE
-        -   lt. Folie "Begleittherapie 4000 IE
+    -   lt. "Therapieschema NÖ 5000 IE
+    -   lt. Folie "Begleittherapie 4000 IE
 
-    -   Patient mit = 75 a?
+-   Patient mit = 75 a?
 
 
-```
+:::
 
 ### ℞ Therapiestrategie NSTEMI
 

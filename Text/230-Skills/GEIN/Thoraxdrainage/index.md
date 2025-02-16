@@ -209,7 +209,7 @@ Der Ultraschall eignet sich sehr gut zur Darstellung und Vermessung von Flüssig
 Dadurch kann sowohl die Punktionswürdigkeit, als auch der Zugangsweg gut abgeschätzt werden.
 
 :::{todo} US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
-:width: 100%
+
 
 Pleuraerguss im Ultraschall
 :::
@@ -289,7 +289,7 @@ Das klassische, dicklumige, Thoraxdrain ist ein Kunststoffschlauch, in welchem e
 
 
 :::{todo} Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
-:width: 100%
+
 
 Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 :::
@@ -314,7 +314,7 @@ Es gibt zwei typische Zugangswege, nach *Monaldi* und nach *Bülau*.
 
 
 :::{todo} Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
-:width: 75%
+
 
 Zugänge für die Thoraxdrainage
 :::
@@ -348,7 +348,7 @@ Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fü
 :::
 
 :::{todo} Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
-:width: 75%
+
 
 Schema einer Pleuradrainage mit Wasserschloss
 :::
@@ -407,14 +407,14 @@ Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, könn
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
 :::{todo} ../Bilder/Wasserschloss-Schema-1.jpeg
-:width: 100%
+
 
 Ein Wasserschloss kann mit oder ohne Sog betrieben werden.
 Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
 :::
 
 :::{todo} ../Bilder/Wasserschloss-Schema-2.jpeg
-:width: 50%
+
 
 Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
 :::
@@ -428,7 +428,7 @@ Eine Weiterentwicklung stellen elektronische Systeme, wie z. B. das Medela™-
 Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Generierung des Sogs, etwaige Leckagen werden aufgezeichnet und können im Zeitverlauf betrachtet werden.
 
 :::{todo} ../Bilder/Medela.jpg
-:width: 75%
+
 
 Medela™-System
 :::

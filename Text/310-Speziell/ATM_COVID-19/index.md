@@ -29,7 +29,7 @@ Das neuartige Coronavirus erhielt den offiziellen Namen „SARS-CoV-2“; klinis
 Sars-CoV-2-Diagnostik
 : Wenn bereits positiv getestet,
   Verlaufskontrolle
-  (PCR nasopharyngeal und tracheal/Sputum inkl. Ct-Wert [#CtWert]_)
+  (PCR nasopharyngeal und tracheal/Sputum inkl. Ct-Wert [^CtWert])
   nach *14 Tagen*
 
   Siehe Tabelle :ref:`Diagnostikmoeglichkeiten`
@@ -282,63 +282,63 @@ Falls dennoch notwendig: **Tubus abklemmen**, *Beatmung* am Gerät *stoppen!*
 
 Mögliche apparative Therapieeskalation bei akuter respiratorischer Insuffizeinz infolge COVID-19
 
-\[nach: [^cite_kluge-2020], modifiziert\]
+\[nach: [^cite-kluge-2020], modifiziert\]
 :::
 
 ## Anderes
 
-```{eval-rst}
-
-:Bronchoskopie:
-    Möglichst vermeiden
-    (ebenfalls nur bei therapeutischer Konsequenz)
-
-    Es besteht die große Gefahr der Virusübertragung
-
-    Einmal-Bronchoskope verwenden!
-
-:Monitoring:
-    Erweitertes hämodynamisches Monitoring:
-    Indikation großzügig stellen
-    (kreislaufinstabil,
-    hoher Katecholaminbedarf/vermeintlich hoher Volumsbedarf)
-
-    1.  Vigileo
-    2.  Picco
-    3.  Pulmonaliskatheter (aber nur bei Rechtsherzbelastung/Versagen)
-
-    Echocardiografie: Myocardiale Mitbeteiligung möglich (offensichtlich ist
-    die Häufigkeit aber regional unterschiedlich)
-
-:Transport:
-    **Transportrespiratoren immer mit 100% O2 betreiben**, da bei
-    niedrigeren FiO2-Konzentrationen die Maschine Raumluft aus der Umgebung dazumischt,
-    sodass Virus-belastete Aerosole in die Maschine gelangen
-    könnten.
 
 
-```
+Bronchoskopie
+: Möglichst vermeiden
+  (ebenfalls nur bei therapeutischer Konsequenz)
 
-[^cite_kluge-2020], [^cite_bmsgpk-2020], [^cite_veklury-fi], [^cite_bauer-2020]
+  Es besteht die große Gefahr der Virusübertragung
+
+  Einmal-Bronchoskope verwenden!
+
+Monitoring
+: Erweitertes hämodynamisches Monitoring:
+  Indikation großzügig stellen
+  (kreislaufinstabil,
+  hoher Katecholaminbedarf/vermeintlich hoher Volumsbedarf)
+
+  1.  Vigileo
+  2.  Picco
+  3.  Pulmonaliskatheter (aber nur bei Rechtsherzbelastung/Versagen)
+
+  Echocardiografie: Myocardiale Mitbeteiligung möglich (offensichtlich ist
+  die Häufigkeit aber regional unterschiedlich)
+
+Transport
+: **Transportrespiratoren immer mit 100% O2 betreiben**, da bei
+  niedrigeren FiO2-Konzentrationen die Maschine Raumluft aus der Umgebung dazumischt,
+  sodass Virus-belastete Aerosole in die Maschine gelangen
+  könnten.
+
+
+
+
+[^cite-kluge-2020], [^cite-bmsgpk-2020], [^cite-veklury-fi], [^cite-_bauer-2020]
 
 ## Literatur & Quellen
 
 
-[^cite_bauer-2020]: Bauer Th; Moritz A.: **KS_AN_000050: COVID-19: Intensivmedizinische Handlungsempfehlungen.**
+[^cite-bauer-2020]: Bauer Th; Moritz A.: **KS_AN_000050: COVID-19: Intensivmedizinische Handlungsempfehlungen.**
     Version 3.0.0, 29.10.2020.
     Universitätsklinikum Krems.
 
-[^cite_bmsgpk-2020]: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz:
+[^cite-bmsgpk-2020]: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz:
     *Empfehlung zur Entlassung von COVID-19-Fällen aus der Absonderung.*
     Stand: 23.07.2020, basierend auf Empfehlungen des Robert Koch Instituts.
     <https://www.sozialministerium.at/dam/jcr:531f7e21-0f53-4180-b214-848e19668b52/Empfehlung%20zur%20Entlassung%20von%20COVID-19-F%C3%A4llen%20aus%20der%20Absonderung_final_230720.pdf>.
 
-[^cite_kluge-2020]: S. Kluge et al.:
+[^cite-kluge-2020]: S. Kluge et al.:
     **Empfehlungen zur intensivmedizinischen Therapie von Patienten mit COVID-19 — Version 3 (S1-Leitlinie).**
     Anaesthesist 2020 69:653—664.
     <https://doi.org/10.1007/s00101-020-00833-3>.
 
-[^cite_veklury:fi]: Gilead Sciences Ireland: Veklury™ Fachinformation.
+[^cite-veklury-fi]: Gilead Sciences Ireland: Veklury™ Fachinformation.
 
 ## Links
 

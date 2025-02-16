@@ -36,23 +36,17 @@
 :::
 ::::
 
-Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist\[#PH-1\].\_ Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
+Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^PH-1]. 
+Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
 Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
 
-[^ph-1]: Ein pH-Wert \<7 gilt als *sauer*,
-    ein pH=7 als *neutral* und ein ph>7
-    als *basisch*.
+[^ph-1]: Ein pH-Wert \<7 gilt als *sauer*, ein pH=7 als *neutral* und ein ph>7 als *basisch*.
 
 [^ph-2]: Der richtige pH-Wert ist lebenswichtig.
-    Er wird beim Menschen
-    normalerweise vom Körper sehr konstant um ca 7,4 gehalten.
-    Bereits einen pH-Wert unter 7,35 (!) bezeichnet man als *Azidose*,
-    bzw. über 7,45 als *Alkalose*.
-    Leider gibt es präklinisch normalerweise keine
-    Möglichkeit den pH-Wert zu messen,
-    jedoch hat die Atmung bzw.
-    Beatmung sowie Erkrankungen großen Einfluss auf ihn.
+    Er wird beim Menschen normalerweise vom Körper sehr konstant um ca 7,4 gehalten.
+    Bereits einen pH-Wert unter 7,35 (!) bezeichnet man als *Azidose*, bzw. über 7,45 als *Alkalose*.
+    Leider gibt es präklinisch normalerweise keine Möglichkeit den pH-Wert zu messen, jedoch hat die Atmung bzw. Beatmung sowie Erkrankungen großen Einfluss auf ihn.
 
 ## Regulationsmechanismen
 

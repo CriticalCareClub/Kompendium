@@ -2,10 +2,10 @@
 
 
 
-```{index} single: Druck
-```
-```{index} single: p
-```
+:::{index} single: Druck
+:::
+:::{index} single: p
+:::
 
 (druck)=
 
@@ -15,18 +15,18 @@ $$
 p=\frac{F}{A}
 $$
 
-```{index} single: Pascal
-```
-```{index} single: Pa
-```
-```{index} single: Bar
-```
-```{index} single: Torr
-```
-```{index} single: mm Hg
-```
-```{index} single: atm
-```
+:::{index} single: Pascal
+:::
+:::{index} single: Pa
+:::
+:::{index} single: Bar
+:::
+:::{index} single: Torr
+:::
+:::{index} single: mm Hg
+:::
+:::{index} single: atm
+:::
 
 ### Druckeinheiten
 
@@ -40,10 +40,10 @@ $$
 >
 > 1 atm ≈ 1 Bar
 
-```{index} single: Temperatur
-```
-```{index} single: Kelvin
-```
+:::{index} single: Temperatur
+:::
+:::{index} single: Kelvin
+:::
 
 ## Temperatur
 
@@ -55,8 +55,8 @@ $$
 T \propto \langle E_{\mbox{kin}} \rangle
 $$
 
-```{index} single: Gasgesetze
-```
+:::{index} single: Gasgesetze
+:::
 
 ## Gase — Gasgesetze
 
@@ -76,8 +76,8 @@ V \propto T \quad \ldots p~\mbox{konstant}
 P \propto T \quad \ldots V~\mbox{konstant}
 $$
 
-```{index} single: R; Gaskonstante Gaskonstante Zustandsgleichung; ideale Gase
-```
+:::{index} single: R; Gaskonstante Gaskonstante Zustandsgleichung; ideale Gase
+:::
 
 ### Zustandsgleichung *idealer* Gase
 
@@ -87,8 +87,8 @@ $$
 
 Molzahl $n$, {index}`Gaskonstante` $R$ (8,314J/(mol K))
 
-```{index} Kohäsionsbinnendruck; Zustandsgleichung realer Gase Zustandsgleichung; reales Gase
-```
+:::{index} Kohäsionsbinnendruck; Zustandsgleichung realer Gase Zustandsgleichung; reales Gase
+:::
 
 ### Zustandsgleichung *realer* Gase
 
@@ -105,10 +105,10 @@ ${\color{green}b}$ Eigenvolumen der Gasmoleküle
 
 Der Druck in strömenden Medien besteht aus einem statischen und einem dynamischen Anteil. Beide Teile sind von der Dichte abhängig. Sie unterscheiden sich dadurch, dass der statische Druck (bei konstanter Dichte) *linear* mit der Höhe $h$ der Flüssigkeitssäule steigt und von der (Erd-)beschleunigung $g$ abhängig ist. Der dynamische Anteil wächst dagegen *quadratisch* mit der Strömungsgeschwindigkeit des Fluids.
 
-```{index} single: Druck, hydrostatischer
-```
-```{index} single: hydrostatischer Druck
-```
+:::{index} single: Druck, hydrostatischer
+:::
+:::{index} single: hydrostatischer Druck
+:::
 
 (hydrostatischerdruck)=
 
@@ -123,26 +123,25 @@ $g$ Erdbeschleunigung (9,81 m / s²),
 $h$ Höhe \[m\],
 $p_0$ Luftdruck auf Flüssigkeitsoberfläche
 
-```{index} single: Paradoxon; hydrostatisches
-```
+:::{index} single: Paradoxon; hydrostatisches
+:::
 
 (hydrostatischesparadoxon)=
 
 #### Hydrostatisches Paradoxon
 
-```{eval-rst}
-.. todo::   ?? Bild unterschiedliche Gefäße  Hydrostatisches_Paradoxon4.svg
-```
+:::{todo}   ?? Bild unterschiedliche Gefäße  Hydrostatisches_Paradoxon4.svg
+:::
 
 Auch bei unterschiedlich geformten Gefäßen ist der hydrostatische Druck am Boden überall gleich groß (*hydrostatisches Paradoxon*;
 Wandkräfte; gilt nur für Flüssigkeiten!).
 
-~~~{index} single: Druck; hydrodynamischer
-```
-```{index} single: Staudruck
-```
-```{index} single: p\ :sub:`d`
-~~~
+:::{index} single: Druck; hydrodynamischer
+:::
+:::{index} single: Staudruck
+:::
+:::{index} single: p\ :sub:`d`
+:::
 
 (hydrodynamischerdruck)=
 
@@ -160,8 +159,8 @@ Der hydrodynamische Druck $p_d$ wächst **quadratisch** mit der Flußgeschwindig
 
 ## Strömungen
 
-```{index} single: Kontinuitätsgesetz
-```
+:::{index} single: Kontinuitätsgesetz
+:::
 
 ### Kontinuitätsgesetz
 
@@ -172,10 +171,10 @@ Das Kontinuitätsgesetz besagt (in integraler Form), dass der Massenstrom eines 
 Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::
 
-```{index} single: Kontinuitätsgleichung
-```
-```{index} single: Kontinuitätsgesetz
-```
+:::{index} single: Kontinuitätsgleichung
+:::
+:::{index} single: Kontinuitätsgesetz
+:::
 
 #### Kontinuitätsgleichung
 
@@ -218,15 +217,15 @@ Fließt durch die Venturi-Düse ein gasförmiges oder flüssiges Medium, so ist 
 
 Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durch die Bernoulli-Gleichung gegeben. Bei idealen Gasen gilt die erweiterte Bernoulli-Gleichung.
 
-```{eval-rst}
+:::{eval-rst}
 .. todo:: ?? Venturirohr.jpg
 
-```
+:::
 
-```{index} single: Strömungswiderstand
-```
-```{index} pair: Gleichung; Strömungswiderstand
-```
+:::{index} single: Strömungswiderstand
+:::
+:::{index} pair: Gleichung; Strömungswiderstand
+:::
 
 ### Strömungswiderstand
 
@@ -252,10 +251,10 @@ $\dot{V}$
 
 Das entspricht dem aus der Elektrik bekannten $R=\frac{U}{I}$.
 
-```{index} single: Hagen-Poiseuille-Gleichung
-```
-```{index} single: Gleichung; Hagen-Poiseuille
-```
+:::{index} single: Hagen-Poiseuille-Gleichung
+:::
+:::{index} single: Gleichung; Hagen-Poiseuille
+:::
 
 ### Hagen-Poiseuille-Gleichung
 
@@ -273,8 +272,8 @@ $$
 - $l$                 Länge.
 :::
 
-```{index} single: Reynolds-Zahl
-```
+:::{index} single: Reynolds-Zahl
+:::
 
 ### Turbulent oder laminar? Die Reynolds-Zahl
 
@@ -302,9 +301,9 @@ $η$
 
 Cut-off: $Re$ = 1200, darüber eher turbulent, darunter eher laminar.
 
-```{eval-rst}
+:::{eval-rst}
 .. todo:: Bild Kerze ??
-```
+:::
 
 ## Dämpfe
 
@@ -313,19 +312,19 @@ Man Unterscheidet zwischen festen, flüssigen und gasförmigen Phasen.
 
 Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt er bei 273,16 K und 613 Pa.
 
-```{index} single: Dampfdruck
-```
+:::{index} single: Dampfdruck
+:::
 
 ### Dampfdruck
 
-```{index} single: Henry-Gesetz
-```
-```{index} single: Gesetz, Henry-
-```
-```{index} single: Blut-Gas-Verteilungskoeffizient
-```
-```{index} single: BGV
-```
+:::{index} single: Henry-Gesetz
+:::
+:::{index} single: Gesetz, Henry-
+:::
+:::{index} single: Blut-Gas-Verteilungskoeffizient
+:::
+:::{index} single: BGV
+:::
 
 (henrygesetz)=
 (henrykonstante)=
@@ -359,7 +358,7 @@ $$
 \mathsf{BGV} = H^{cc} = \frac{c_{\mathsf{Blut}}}{\cdot c_{\mathsf{Gas}}}
 $$
 
-```{eval-rst}
+:::{eval-rst}
 .. table:: BGV
 
       +--------------+--------+--------------------------------------------+
@@ -375,7 +374,7 @@ $$
       +--------------+--------+--------------------------------------------+
       | Xenon        | 0,14   | niedrige Löslichkeit, schnelles Anfluten   |
       +--------------+--------+--------------------------------------------+
-```
+:::
 
 Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab
 

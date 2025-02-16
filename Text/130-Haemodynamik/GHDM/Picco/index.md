@@ -24,6 +24,8 @@ Diese verwendet grundsätzlich das Stewart-Hamilton-Prinzip, allerdings wird die
 Somit wird auch die Lungenstrombahn miterfasst, die Herzkammern und die Lunge mit dem extravaskulären Lungenwasser sind die Mischkammern für den kalten Bolus.
 
 :::{todo} Grafik: ../Bilder/Picco-Kreislauf.png
+
+
 :alt: Bild
 :width: 100%
 
@@ -43,6 +45,8 @@ Downsloapzeit (DSt)
 
 
 :::{todo} Grafik: ../Bilder/Thermodilution-Downsloap.png
+
+
 :alt: Bild
 :width: 100%
 

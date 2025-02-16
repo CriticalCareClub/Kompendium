@@ -190,4 +190,3 @@ Der menschliche Körper hat drei wesentliche Stoffwechselsysteme, die ihm zur Ve
   (vgl. {ref}`gerinnungsfaktoren`),
   Zellmembranbausteine u. a. zum Einsatz.
 
-______________________________________________________________________

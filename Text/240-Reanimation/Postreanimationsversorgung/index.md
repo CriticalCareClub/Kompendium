@@ -85,7 +85,7 @@ Jedenfalls darf der Patient nicht hypertherm werden.
 Die Grundsätze des cerebroprotektiven Managements sollen situativ angemessen angewendet werden.
 
 Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung geschenkt. Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
-[^cite_erc:2015:05:de] {term}`🗎 ERC 2015 05`
+
 
 ```{index} pair: Reanimation; Ende
 ```

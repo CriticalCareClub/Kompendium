@@ -35,6 +35,8 @@ Die Pulskonturanalyse ermöglicht zwei Dinge:
 % Die Differenz zwischen Pulsdruck (PPV) oder systolischem Druck (SPV) wird ebenfalls als Surrogatmarker verwendet, wodurch die Notwendigkeit einer Messung des Herzzeitvolumens entfällt.
 
 :::{todo} Grafik: PPV ../Bilder/PPV.jpg
+
+
 :alt: Bild
 :width: 100%
 
@@ -43,6 +45,8 @@ Dies zeigt sich an der Druckkurve einerseits durch schwankende Minima und Maxima
 :::
 
 :::{todo} Grafik: SVV ../Bilder/SVV-1.png
+
+
 :alt: Bild
 :width: 100%
 

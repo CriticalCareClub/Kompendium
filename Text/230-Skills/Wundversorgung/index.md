@@ -1,5 +1,5 @@
-```{index} single: Wunde
-```
+:::{index} single: Wunde
+:::
 
 (wunde)=
 (wunden)=
@@ -69,64 +69,64 @@ Eine weitere Unterteilung kann nach dem *zeitlichen Verlauf* getroffen werden:
 - *Chronische* Wunden: Wunden, welche seit langer Zeit bestehen und
   Wundheilungsstörungen aufweisen
 
-```{index} single: Schürfwunde
-```
-```{index} single: Schnittwunde
-```
-```{index} single: Vulnus; scissum
-```
-```{index} single: Vuln.; sciss.
-```
-```{index} single: Stichwunde
-```
-```{index} single: Vulnus; ictum
-```
-```{index} single: Vuln.; ict
-```
-```{index} single: Risswunde
-```
-```{index} single: Vulnus; laceratum
-```
-```{index} single: Vuln.; lac.
-```
-```{index} single: Quetschwunde
-```
-```{index} single: Vulnus; contusum
-```
-```{index} single: Vuln.; cont.
-```
-```{index} single: Rissquetschwunde
-```
-```{index} single: Vulnus; lacero-contusum
-```
-```{index} single: Bisswunde
-```
-```{index} single: Ablederung
-```
-```{index} single: Amputation
-```
-```{index} single: Pfählung
-```
-```{index} single: Schusswunde
-```
-```{index} single: Vulnus; sclopetarium
-```
-```{index} single: Verbrennung
-```
-```{index} single: Verbrühung
-```
-```{index} single: Verätzung
-```
-```{index} single: Vulnus; morsum
-```
-```{index} single: Decollement
-```
-```{index} single: Vulnus; perforans
-```
-```{index} single: Vuln.; mors
-```
-```{index} single: Vuln; sclopet.
-```
+:::{index} single: Schürfwunde
+:::
+:::{index} single: Schnittwunde
+:::
+:::{index} single: Vulnus; scissum
+:::
+:::{index} single: Vuln.; sciss.
+:::
+:::{index} single: Stichwunde
+:::
+:::{index} single: Vulnus; ictum
+:::
+:::{index} single: Vuln.; ict
+:::
+:::{index} single: Risswunde
+:::
+:::{index} single: Vulnus; laceratum
+:::
+:::{index} single: Vuln.; lac.
+:::
+:::{index} single: Quetschwunde
+:::
+:::{index} single: Vulnus; contusum
+:::
+:::{index} single: Vuln.; cont.
+:::
+:::{index} single: Rissquetschwunde
+:::
+:::{index} single: Vulnus; lacero-contusum
+:::
+:::{index} single: Bisswunde
+:::
+:::{index} single: Ablederung
+:::
+:::{index} single: Amputation
+:::
+:::{index} single: Pfählung
+:::
+:::{index} single: Schusswunde
+:::
+:::{index} single: Vulnus; sclopetarium
+:::
+:::{index} single: Verbrennung
+:::
+:::{index} single: Verbrühung
+:::
+:::{index} single: Verätzung
+:::
+:::{index} single: Vulnus; morsum
+:::
+:::{index} single: Decollement
+:::
+:::{index} single: Vulnus; perforans
+:::
+:::{index} single: Vuln.; mors
+:::
+:::{index} single: Vuln; sclopet.
+:::
 
 ### Wundarten
 
@@ -221,8 +221,8 @@ Rissquetschwunde nach der Versorgung im Spital
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-```{todo} Bild Schnittwunde
-```
+:::{todo} Bild Schnittwunde
+:::
 
 :::{figure} /Bilder/Hauer-David-CCCA/stichwunde-klein.\*
 :width: 100%
@@ -515,7 +515,7 @@ Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht alle Lag
   beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
   Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
   Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-  Luftstrom-Matratzensysteme. [^cite_pflegewiki:dekubitus]
+  Luftstrom-Matratzensysteme. 
 - *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
   verwiesen.
 
@@ -540,8 +540,8 @@ Dekubitus Grad 4
 *WMC/PD*
 :::
 
-```{rubric} Literatur
-```
+:::{rubric} Literatur
+:::
 
 {term}`🗎 Biergans Wundversorgung 2`
 

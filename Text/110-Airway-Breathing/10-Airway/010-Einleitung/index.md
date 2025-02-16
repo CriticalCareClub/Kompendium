@@ -23,5 +23,3 @@ schließlich bringt der "offenste" Atemweg keinen Benefit, wenn die notwendige A
 
 Grundsätzlichen kann man zwischen *einfachen* Maßnahmen, die nach Schulung jedem Laien zumutbar sind, *geringinvasiven* und *erweiterten invasiven* Maßnahmen unterscheiden, wobei die Grenzen fließend sind.
 Jedoch ist klar, dass sich mit steigender Komplexität die Anforderungen an den Anwender und die Gefahren der Anwendung erhöhen.
-
------

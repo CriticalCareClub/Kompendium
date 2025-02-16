@@ -29,6 +29,8 @@ Je höher das Herzzeitvolumen, desto schneller der Blutfluss und desto kürzer, 
 Bei niedrigem CO ist die Kurve träge, mit einer großen Fläche unter der Kurve (AUC).
 
 :::{todo} Grafik: ../Bilder/Thermodilution_Injektion_Verlauf.png
+
+
 :alt: Bild
 :width: 100%
 

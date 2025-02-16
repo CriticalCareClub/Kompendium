@@ -1,6 +1,12 @@
 # Krankheitsbilder
 
-```{toctree}
+:::{contents}
+:local: 
+:::
+
+
+
+:::{toctree}
 :maxdepth: 1
 :caption: Atmung
 
@@ -18,22 +24,20 @@ ATM_OSAS/index
 ATM_Hepato-pulmonales-Syndrom/index
 ATM_Lungenkontusion/index
 ATM_ILD/index
-```
+:::
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Herz
-
 
 HRZ_Herzrhythmusstoerungen/index
 HRZ_KoronareHerzkrankheit/index
 HRZ_Herzinsuffizienz/index
-```
+:::
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Kreislauf
-
 
 KRL_Arterielle-Hypertonie/index
 KRL_KollapsSynkope/index
@@ -43,14 +47,13 @@ KRL_Aneurysmen/index
 KRL_paGV/index
 KRL_pvGV/index
 KRL_Kreislaufstillstand/index
-```
+:::
 
 
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Abdomen
-
 
 ABD_Allgemein/index
 ABD_Zenker/index
@@ -65,12 +68,11 @@ ABD_Gallenkolik/index
 ABD_GIT-Blutung/index
 ABD_Gastroenteritis/index
 ABD_Diarrhoe/index
-```
+:::
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Sonstiges
-
 
 Gerinnung/index
 Anaphylaxie/index
@@ -83,12 +85,11 @@ Gynaekologie/index
 Paediatrie/index
 Neurologie/index
 Psychiatrie/index
-```
+:::
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Trauma
-
 
 TOX_Intox/index
 TRA_Allgemein/index
@@ -106,13 +107,12 @@ TRA_Erfrierung/index
 TRA_Strom/index
 Thermisch/index
 Verbrennung/index
-```
+:::
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
 :caption: Speziell
 
-
 SPZ_Kriminalitaet/index
 SPZ_Tod/index
-```
+:::

@@ -139,7 +139,7 @@ Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von 
 ## Beispiele herausfordernder Atemwege
 
 
-:::{subfigure} AB|CD
+:::{subfigure} AB
 :subcaptions: below
 :name: Figure-Bilderserie-Atemwege-1
 :class-grid: outline
@@ -152,7 +152,7 @@ Bilderserie: Herausfordernde Atemwege 1
 ![Tonsillenhypertrophie](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230728_091908_cropped_001342px.jpg)
 :::
 
-:::{subfigure} AB|CD
+:::{subfigure} AB
 :subcaptions: below
 :name: Figure-Bilderserie-Atemwege-2
 :class-grid: outline

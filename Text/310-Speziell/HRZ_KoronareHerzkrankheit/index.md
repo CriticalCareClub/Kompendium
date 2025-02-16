@@ -323,9 +323,9 @@ Die akute Ausformung der koronaren Herzkrankheit wird unter dem Symptomenkomplex
 {ref}`akuten Koronarsyndroms (Acute Coronary Syndrome, ACS) <Acs>`
 zusammengefasst, zu Symptomen und Therapie siehe ebendort.
 
-```{toctree}
-:caption: 'KHK akut: Akutes Koronarsyndrom'
+:::{toctree}
 :maxdepth: 1
 
-ACS/index Peri-OP-ACS/index.md
-```
+ACS/index 
+Peri-OP-ACS/index.md
+:::

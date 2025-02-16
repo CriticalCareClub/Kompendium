@@ -57,8 +57,6 @@ Akklimatisation:
   - Prostaglandin E2: zentraler Mediator der nervös gesteuerten
     Fieberreaktion
 
-______________________________________________________________________
-
 
 
 ### Temperaturregulation
@@ -81,5 +79,3 @@ Die normale Körper-Kerntemperatur beträgt *37°* Celsius. Verschiedene Mechani
       - Ca. 0,5 L / d
       - Bis max. 1,5 L / h bei schwerer körperlicher Arbeit
 :::
-
-______________________________________________________________________

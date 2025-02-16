@@ -29,6 +29,8 @@ Um einen Überblick über den Volumenstatus und die Herzleistung zu erhalten, ha
   <https://www.youtube.com/watch?v=0E5lXIrPMrc>
 
 :::{todo} ../Bilder/Echo-002.png
+
+
 :alt: Bild
 :width: 100%
 
@@ -36,12 +38,16 @@ Verschiedene transthorakale Echo-Schnitte
 :::
 
 :::{todo} ../Bilder/Vena-Cava-inferior_US.png
+
+
 :width: 100%
 
 Echo: Beurteilung der V. cava inferior
 :::
 
 :::{todo} ../Bilder/Echo-001.jpg
+
+
 :alt: Bild
 :width: 100%
 
@@ -49,6 +55,8 @@ Text
 :::
 
 :::{todo} ../Bilder/Echo-003.png
+
+
 :alt: Bild
 :width: 100%
 
@@ -56,6 +64,8 @@ Text
 :::
 
 :::{todo} ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
+
+
 :alt: Bild
 :width: 100%
 
@@ -63,6 +73,8 @@ Vergleich der globalen Pumpleistung im 4-Kammer-Blick
 :::
 
 :::{todo} ../Bilder/Echo-SubkostalerBlick.png
+
+
 :alt: Bild
 :width: 100%
 
@@ -70,6 +82,8 @@ TTE subkostaler Blick
 :::
 
 :::{todo} ../Bilder/Echo-Ventrikel.png
+
+
 :alt: Bild
 :width: 100%
 

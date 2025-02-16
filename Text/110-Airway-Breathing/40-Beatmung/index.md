@@ -1,5 +1,5 @@
-```{index} single: Beatmung
-```
+:::{index} single: Beatmung
+:::
 
 (beatmungassistiert)=
 (beatmungkontrolliert)=
@@ -20,7 +20,7 @@ Beatmung-KrAS/index
   Spontanatmung wird unterstützt
 :::
 
-Bei Vorliegen einer Ateminsuffizienz\[#Ateminsuffizienz\]) kann eine *künstliche Beatmung* durchgeführt werden.
+Bei Vorliegen einer Ateminsuffizienz[^Ateminsuffizienz]) kann eine *künstliche Beatmung* durchgeführt werden.
 Dabei wird die Atmung des Patienten künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt.
 Es handelt sich um eine *Überdruckbeatmung*[^ueberdruckbeatmung], d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
 (Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck durch den Patienten eingesogen.) Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
@@ -46,8 +46,8 @@ Bei der {dfn}`kontrollierten Beatmung` wird die gesamte Atmung künstlich aufrec
 Eine Beatmung durch Fachpersonal sollte wenn möglich immer mit Hilfsmitteln wie dem *Beatmungsbeutel* oder einem *Beatmungsgerät*
 durchgeführt werden.
 
-```{rubric} Gefahren
-```
+:::{rubric} Gefahren
+:::
 
 ::::{only} not nosidebar
 
@@ -114,8 +114,8 @@ Mögliche Sauerstoffkonzentrationen bei der Beatmung
 +-------------------------------------------------------------------------+------------------------+
 ```
 
-```{index} single: Beatmungsbeutel
-```
+:::{index} single: Beatmungsbeutel
+:::
 
 (beatmungsbeutel)=
 
@@ -123,8 +123,8 @@ Mögliche Sauerstoffkonzentrationen bei der Beatmung
 
 Der selbstfüllende Beatmungsbeutel ist das einfachste Hilfsmittel, welches dem Fachpersonal zur Verfügung steht, und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus, …) zum Einsatz. Er ermöglicht die kontrollierte oder assistierte Beatmung eines Patienten. Er kann mittels einer Beatmungsmaske angewendet, oder an andere Systeme (Tuben) angeschlossen werden.
 
-```{rubric} Besonderheit: Beatmung während der Reanimation
-```
+:::{rubric} Besonderheit: Beatmung während der Reanimation
+:::
 
 Die Beatmung während der Reanimation ist eine kontrollierte Beatmung.
 Wird eine Beatmungsmaske verwendet, so ist das Verhältnis zur Herzdruckmassage zu beachten (vgl. {ref}`Chp-Bls`).
@@ -132,20 +132,20 @@ Sobald die Beatmung über einen Beamtungsschlauch (Tubus) erfolgt, kann sie unab
 
 ## Maschinelle Beatmung
 
-```{index} single: Driving Pressure
-```
-```{index} single: pressure; driving
-```
-```{index} single: I:E-Verhältnis
-```
-```{index} single: Flow
-```
-```{index} single: Volumen
-```
-```{index} single: Compliance
-```
-```{index} single: Resistance
-```
+:::{index} single: Driving Pressure
+:::
+:::{index} single: pressure; driving
+:::
+:::{index} single: I:E-Verhältnis
+:::
+:::{index} single: Flow
+:::
+:::{index} single: Volumen
+:::
+:::{index} single: Compliance
+:::
+:::{index} single: Resistance
+:::
 
 ### Die Basics
 
@@ -195,64 +195,63 @@ Essentiell ist das Verständnis dass die Parameter miteinander in Verbindung ste
 
 ### Essentielle Beatmungsmuster
 
-```{index} single: Volumenkontrollierte Beatmung
-```
-```{index} single: Beatmung; volumenkontrollierte
-```
-```{index} single: VCV
-```
-```{index} single: Volume Controlled Ventilation
-```
-```{index} single: IPPV
-```
-```{index} single: Intermittend Positive Pressure Ventilation
-```
+:::{index} single: Volumenkontrollierte Beatmung
+:::
+:::{index} single: Beatmung; volumenkontrollierte
+:::
+:::{index} single: VCV
+:::
+:::{index} single: Volume Controlled Ventilation
+:::
+:::{index} single: IPPV
+:::
+:::{index} single: Intermittend Positive Pressure Ventilation
+:::
 
 #### Volumenkontrollierte Beatmung: `VCV`, `IPPV`
 
-```{eval-rst}
 
-:IPPV:
-     :dfn:`Intermittend Positive Pressure Ventilation`, Synonym für VCV
+PPV
+: :dfn:`Intermittend Positive Pressure Ventilation`, Synonym für VCV
 
-Bei der klassischen volumenkontrollierten Beatmung wird über eine
-```
+  
+
 
 Bei der klassischen volumenkontrollierten Beatmung wird über eine definierte Inspirationszeit ein konstanter Flow angelegt, der Atemwegsdruck p{sub}`aw` steigt im Verlauf an.
 
-```{index} single: Druckkontrollierte Beamtung
-```
-```{index} single: Beamtung; druckkontrollierte
-```
-```{index} single: PCV
-```
-```{index} single: Pressure Controlled Ventilation
-```
-```{index} single: Driving Pressure
-```
-```{index} single: pressure; driving
-```
-```{index} single: dezelerierender Flow
-```
-```{index} single: Flow; dezelerierender
-```
+:::{index} single: Druckkontrollierte Beamtung
+:::
+:::{index} single: Beamtung; druckkontrollierte
+:::
+:::{index} single: PCV
+:::
+:::{index} single: Pressure Controlled Ventilation
+:::
+:::{index} single: Driving Pressure
+:::
+:::{index} single: pressure; driving
+:::
+:::{index} single: dezelerierender Flow
+:::
+:::{index} single: Flow; dezelerierender
+:::
 
 #### Druckkontrollierte Beatmung: `PCV`
 
 Bei der klassischen druckkontrollierten Beatmung ({dfn}`PCV`, {dfn}`Pressure Controlled Ventilation`) wird ein konstanter Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein Flow, der über die Zeit, aufgrund der Angleichung von Außen- und Innendruck, schwächer wird (*dezelerierender Flow*).
 
-```{index} single: Spontanatemmuster
-```
-```{index} single: CPAP
-```
-```{index} single: Continous Positive Airway Pressure
-```
-```{index} single: PSV
-```
-```{index} single: Pressure Support Ventilation
-```
-```{index} single: PEEP; CPAP
-```
+:::{index} single: Spontanatemmuster
+:::
+:::{index} single: CPAP
+:::
+:::{index} single: Continous Positive Airway Pressure
+:::
+:::{index} single: PSV
+:::
+:::{index} single: Pressure Support Ventilation
+:::
+:::{index} single: PEEP; CPAP
+:::
 
 #### Reine Spontanatemmuster: `CPAP`, `PSV`
 
@@ -265,12 +264,12 @@ Im {dfn}`PSV`-Modus ({dfn}`Pressure Support Ventilation`) triggert die Eigenatmu
 
 
 
-```{index} single: Nicht-invasive Beatmung
-```
-```{index} single: Beatmung; nicht-invasive
-```
-```{index} single: NIV
-```
+:::{index} single: Nicht-invasive Beatmung
+:::
+:::{index} single: Beatmung; nicht-invasive
+:::
+:::{index} single: NIV
+:::
 
 #### Nicht-invasive Beatmung (NIV)
 
@@ -278,20 +277,20 @@ Der Begriff {dfn}`nicht-invasive Beatmung` ({dfn}`NIV`) beschreibt eigentlich ke
 Die NIV wird meist mittels Gesichtsmaske, Helm oder ähnlichen Hilfsmitteln durchgeführt.
 Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
 
-```{index} single: Beatmungsgerät
-```
-```{index} single: Intensivbeatmungsgerät
-```
-```{index} single: Beatmungsgerät; Intensiv- 
-```
-```{index} single: Transportbeatmungsgerät
-```
-```{index} single: Beatmungsgerät; Transport- 
-```
-```{index} single: Notfallbeatmungsgerät
-```
-```{index} single: Beatmungsgerät; Notfall-
-```
+:::{index} single: Beatmungsgerät
+:::
+:::{index} single: Intensivbeatmungsgerät
+:::
+:::{index} single: Beatmungsgerät; Intensiv- 
+:::
+:::{index} single: Transportbeatmungsgerät
+:::
+:::{index} single: Beatmungsgerät; Transport- 
+:::
+:::{index} single: Notfallbeatmungsgerät
+:::
+:::{index} single: Beatmungsgerät; Notfall-
+:::
 
 (beatmungsgeraete)=
 
@@ -340,10 +339,10 @@ Notfallbeatmungsgeräte
 
 
 
-```{index} single: Medumat™; Standard
-```
-```{index} single: Berieselungsmodul
-```
+:::{index} single: Medumat™; Standard
+:::
+:::{index} single: Berieselungsmodul
+:::
 
 #### Beispiel: Medumat™ Standard
 
@@ -407,18 +406,18 @@ Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit z
 
 ```
 
-```{index} single: PEEP
-```
-```{index} single: PEEP-Ventil
-```
-```{index} single: Ventil; PEEP- 
-```
-```{index} single: Positiver end-exspiratorischer Druck
-```
-```{index} single: Positive End-Exspiratory Pressure
-```
-```{index} single: Alveolen; PEEP
-```
+:::{index} single: PEEP
+:::
+:::{index} single: PEEP-Ventil
+:::
+:::{index} single: Ventil; PEEP- 
+:::
+:::{index} single: Positiver end-exspiratorischer Druck
+:::
+:::{index} single: Positive End-Exspiratory Pressure
+:::
+:::{index} single: Alveolen; PEEP
+:::
 
 (peepventil)=
 (peepbasic)=

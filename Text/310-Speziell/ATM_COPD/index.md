@@ -55,7 +55,7 @@ Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
 
 ```{index} single: Exazerbation; COPD
 ```
-### Exazerbation
+## Exazerbation
 
 Kommt zu der ohnehin schweren Grunderkrankung noch ein erschwerender Faktor hinzu, z. B. eine Infektion der Atemwege, kann es zu einer plötzlichen Verschlechterung kommen, zur *Exazerbation*. Diese ist meist durch vermehrte Atemnot, Husten und Auswurf gekennzeichnet.
 

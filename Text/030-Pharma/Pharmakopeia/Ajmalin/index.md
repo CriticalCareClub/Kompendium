@@ -1,5 +1,5 @@
-```{index} single: Ajmalin (Brevier)
-```
+:::{index} single: Ajmalin (Brevier)
+:::
 
 (ajmalin)=
 
@@ -14,13 +14,13 @@ Pharmakokinetik
 
   Ajmalin wirkt sowohl auf den Vorhof als auch auf den Ventrikel
 
-:Indikation
+Indikation
 : Mittel der Wahl bei (*FBI*: Fast, Broad, Irregular;
   typisch bei Vorhofflimmern mit akzessorischer Bahn);
   Ventrikulare Tachykardie,
   Supraventrikuläre Tachykardie,
-  WPW-Syndrom  [^WPW]_,
-  LGL-Syndrom  [^LGL]_.
+  WPW-Syndrom[^WPW],
+  LGL-Syndrom[^LGL].
 
 Kontraindikationen
 : Bradykardie, AV-Block, Schenkelblock, manifeste Herzinsuffizenz

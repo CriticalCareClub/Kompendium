@@ -181,23 +181,19 @@ In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den 
 :::
 ::::
 
-```{eval-rst}
 
-:🄿:
-    Häufig berichten die Patienten über Herz-Kreislauferkrankungen wie
+
+🄿
+:   Häufig berichten die Patienten über Herz-Kreislauferkrankungen wie
     z. B. Herzinsuffizienz, Z.n. Herzinfarkt, Bluthochdruck oder
     Herzklappenerkrankungen.
 
-:🄴:
-    War der Patient chemischen Substanzen ausgesetzt? Ertrinkungsunfall?
+🄴
+:   War der Patient chemischen Substanzen ausgesetzt? Ertrinkungsunfall?
 
     Erschwerender Faktor bei vorbestehender Herzerkrankung (Infekt, …)?
 
 
-
-.. _Proc-MJ81XX1C:
-.. _m-lungenoedem-leicht:
-```
 
 (proc-mj81xx1c)=
 (m-lungenoedem-leicht)=

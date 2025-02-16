@@ -1,33 +1,26 @@
 
-README — Kompendium des CCCA
-#######################################################################
+# README — Kompendium des CCCA
+
 
 Herausgegeben vom Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA).
 
 
-Kurzinfo
-***********************************************************************
+## Kurzinfo
+
 
 Eine aktuelle **Preview** der Entwicklungsversion des ``master``-Zweiges findet sich
 unter:
 
--   https://criticalcareclubaustria.gitlab.io/Ccca-Kompendium
+-   https://kompendium.criticalcare.at/
 
 Web-Versionen der einzelnen in Entwicklung befindlichen Zweige befinden sich im *Playground:*
 
 -   https://playground.criticalcare.at/
 
-    Die Verzeichnisnamen ergeben sich aus dem Namen des Zweiges: ``Ccca-Kompendium-<Zweigname>``
 
-Das **Projekthandbuch** findet sich unter:
 
--   https://criticalcareclubaustria.gitlab.io/Projekthandbuch
 
-Technische Dokumentation und Notizen findet man auch im **Wiki**:
-
--   https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/wikis/home
-
-::
+:::
 
      _________________________________________
     ( Your objective is to save the world,    )
@@ -41,39 +34,37 @@ Technische Dokumentation und Notizen findet man auch im **Wiki**:
                    ||----w |
                    ||     ||
 
-
-.. [4]
-   salus aegroti suprema lex *lat.*: *Das Wohl des Kranken ist oberstes
-   Gebot.*
+:::
 
 
 
-Projektinfo
-***********************************************************************
 
-
-:Projektleitung:
-    `Sebastian GABRIEL <https://gitlab.com/GabrielSebastian>`_
+## Projektinfo
 
 
 
-Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
-***********************************************************************
+Projektleitung:
+: Sebastian GABRIEL
+
+
+
+## Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
+
 
 Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
 
-| Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)
-| Engerthstraße 146/8/3
-| A-1200 Wien – AUSTRIA
+> Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) <br>
+> Engerthstraße 146/8/3 <br>
+> A-1200 Wien – AUSTRIA
 
-E-Mail:
-    office@criticalcare.at
+E-Mail
+: office@criticalcare.at
 
-Homepage:
-    http://www.criticalcare.at
+Homepage
+: http://www.criticalcare.at
 
-ZVR:
-    846678982
+ZVR
+: 846678982
 
 
 

@@ -56,7 +56,9 @@ Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger Organe* wi
 
 Dies funktioniert allerdings nur eine gewisse Zeit und in einem gewissen Ausmaß gut, daher ist eine schnell einsetzende Therapie wichtig! Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom *dekompensierten Schock*. Es besteht spätestens dann akute *Lebensgefahr*!
 
-:::{admonition} Synopsis Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
+:::{admonition} Synopsis 
+
+Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
 :::
 
 (schockallgemeinesymptomatik)=

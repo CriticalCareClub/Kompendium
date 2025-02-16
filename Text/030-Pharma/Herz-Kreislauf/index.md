@@ -266,7 +266,7 @@ Strophantin    (Kombetin™)
 ============== ==================================================
 ```
 
-Herzglykoside *(*[Tab. 2](#anchor-12)*)* bewirken über eine Steigerung von Schlagarbeit und Herzminutenvolumen einen Rückgang der Symptome der Herzinsuffizienz. Die Herzfrequenz wird normalisiert und der periphere Blutkreislauf verbessert. Die Förderung der Nierendurchblutung resultiert in einer Zunahme der Harnausscheidung
+Herzglykoside  bewirken über eine Steigerung von Schlagarbeit und Herzminutenvolumen einen Rückgang der Symptome der Herzinsuffizienz. Die Herzfrequenz wird normalisiert und der periphere Blutkreislauf verbessert. Die Förderung der Nierendurchblutung resultiert in einer Zunahme der Harnausscheidung
 (Diurese) und einer Ausschwemmung von Ödemen.
 
 Tab. 2 Wirkung der Herzglykoside
@@ -690,7 +690,7 @@ Daher ist die Therapie auch nur bei bestehender Symptomatik indiziert:
 
 ### Herzrhythmus-Störungen
 
-Herzrhythmusstörungen sind Störungen in der Erregungsbildung und Erregungsleitung des Herzmuskels, die in einer Störung des Herzschlages resultieren *(*[Tab. 3](#anchor-18)*).*
+Herzrhythmusstörungen sind Störungen in der Erregungsbildung und Erregungsleitung des Herzmuskels, die in einer Störung des Herzschlages resultieren.
 
 Meist merkt man bei Herzrhytmusstörungen Herzklopfen oder Herzstolpern
 (Palpitationen), aber auch Schwindel und Ohnmachtsanfälle (Synkope) sind im Symptomspektrum vorhanden.
@@ -742,9 +742,9 @@ Sonst wird zuviel Zeit verschwendet, die dem Patienten unter Umständen das Lebe
 
 ### Herzinsuffizienz
 
-Unter Herzinsuffizienz *(*[Abb. 9](#anchor-21)*)* versteht man die Unfähigkeit des Herzens, die für die normale Aufrechterhaltung der Körperfunktion benötigte Blutmenge ohne Erhöhung des Druckes durch den Körper zu schicken.
+Unter Herzinsuffizienz  versteht man die Unfähigkeit des Herzens, die für die normale Aufrechterhaltung der Körperfunktion benötigte Blutmenge ohne Erhöhung des Druckes durch den Körper zu schicken.
 
-Die New York Heart Association (NYHA) hat eine Klassifikation der Herzinsuffizienz *(*[Tab. 4](#anchor-22)*)* anhand der Symptome erstellt:
+Die New York Heart Association (NYHA) hat eine Klassifikation der Herzinsuffizienz  anhand der Symptome erstellt:
 
 Tab. 4 NYHA Herzinsuffizienz
 

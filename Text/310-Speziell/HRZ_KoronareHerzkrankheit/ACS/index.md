@@ -22,10 +22,12 @@
 
 # Akutes Koronarsyndrom (ACS)
 
-Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393) [^cite_esc-2017-guidelinesstemi]
+Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393) 
 
-[^cite_damman-2017] [^cite_ibanez-2017] [^cite_ibanez-2018]
-
+{term}`♛ ESC STEMI 2017`
+{term}`🗎 Damman 2017`  
+{term}`🗎 Ibanez 2017` 
+{term}`🗎 Ibanez 2018` 
 
 
 :::{admonition} Definition
@@ -366,7 +368,7 @@ In der Regel muss das erstversorgende Fachpersonal über die Indikation zur Einl
 
 Wichtiges Ziel in der MCI-Versorgung ist die Reduktion des *System Delay*.
 Daraus ergeben sich folgende logistische Empfehlungen
-[^cite_esc-2017-guidelinesstemi] :
+{term}`♛ ESC STEMI 2017`:
 
 - Organisation regionaler STEMI Netzwerke
 - SOPs für Rettungsdienst und PCI-Zentren

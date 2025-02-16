@@ -147,8 +147,7 @@ immer MRT Mittel der Wahl
 10. *AD LX* (ME 90)
 11. *TG SX* (TG 0)
 
-- Basic perioperative transesophageal echocardiography examination: a consensus statement of the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists (2013)
-  [^cite_reeves:2013]
-- Guidelines for performing a comprehensive transesophageal echocardiographic examination: recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists (2013) [^cite_hahn:2013]  {download}`PDF</Literatur/Hahn2013.pdf>`
+- Basic perioperative transesophageal echocardiography examination: a consensus statement of the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists (2013) {term}`🗎 Reeves 2013`
+- {term}`🗎 Hahn 2023` Guidelines for performing a comprehensive transesophageal echocardiographic examination: recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists (2013) {term}`🗎 Hahn 2013` {download}`PDF</Literatur/Hahn2013.pdf>`
 - {download}`Transthorakale Schnitte -- Theorie</FilesRestricted/Ttes-Theorie.pdf>`
 - {download}`Grundlagen Sondenmanipulation und Schnittführung im TTE und TEE</FilesRestricted/TteUndTee-GrundlagenSondenmanipulationUndSchnittfuehrung.pdf>`

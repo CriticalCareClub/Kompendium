@@ -217,10 +217,7 @@ Fließt durch die Venturi-Düse ein gasförmiges oder flüssiges Medium, so ist 
 
 Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durch die Bernoulli-Gleichung gegeben. Bei idealen Gasen gilt die erweiterte Bernoulli-Gleichung.
 
-:::{eval-rst}
-.. todo:: ?? Venturirohr.jpg
 
-:::
 
 :::{index} single: Strömungswiderstand
 :::
@@ -301,9 +298,7 @@ $η$
 
 Cut-off: $Re$ = 1200, darüber eher turbulent, darunter eher laminar.
 
-:::{eval-rst}
-.. todo:: Bild Kerze ??
-:::
+
 
 ## Dämpfe
 
@@ -358,22 +353,17 @@ $$
 \mathsf{BGV} = H^{cc} = \frac{c_{\mathsf{Blut}}}{\cdot c_{\mathsf{Gas}}}
 $$
 
-:::{eval-rst}
-.. table:: BGV
 
-      +--------------+--------+--------------------------------------------+
-      | e. g.        | BGV    |                                            |
-      +==============+========+============================================+
-      | Ether        | 12,1   | hohe Löslichkeit, langsames Anfluten       |
-      +--------------+--------+--------------------------------------------+
-      | Chloroform   | 8,4    |                                            |
-      +--------------+--------+--------------------------------------------+
-      | Halothan     | 2,3    |                                            |
-      +--------------+--------+--------------------------------------------+
-      | Lachgas      | 0,47   |                                            |
-      +--------------+--------+--------------------------------------------+
-      | Xenon        | 0,14   | niedrige Löslichkeit, schnelles Anfluten   |
-      +--------------+--------+--------------------------------------------+
+
+:::{table} Blut-Gas-Verteilungskoeffizient (BGV) verschiedener Narkosegase
+
+| Narkosegas | BGV  |                                          |
+| ---------- | ---- | ---------------------------------------- |
+| Ether      | 12,1 | hohe Löslichkeit, langsames Anfluten     |
+| Chloroform | 8,4  |                                          |
+| Halothan   | 2,3  |                                          |
+| Lachgas    | 0,47 |                                          |
+| Xenon      | 0,14 | niedrige Löslichkeit, schnelles Anfluten |
 :::
 
 Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab

@@ -343,7 +343,7 @@ Therapie:
 Hier kommt es zu einer Durchblutungsbehinderung der Extremitäten durch Arteriosklerose. Diese Patienten haben meist zusätzlich auch eine KHK.
 Leitsyndrom ist der Extremitäten-Schmerz.
 
-Die PAVK wird nach Fontane *(*[Tab. 3](#anchor-4)*)* in folgende Stadien eingeteilt:
+Die PAVK wird nach Fontane in folgende Stadien eingeteilt:
 
 Tab. 3 Stadien nach Fontane
 
@@ -364,8 +364,7 @@ Tab. 3 Stadien nach Fontane
 +-----+------------------------------+---------------------------+
 ```
 
-Je nach Stadium wird eine andere Therapie *(*[Tab.
-4](#anchor-6)*)* eingesetzt:
+Je nach Stadium wird eine andere Therapieeingesetzt:
 
 Tab. 4 Therapie
 

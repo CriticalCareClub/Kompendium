@@ -33,6 +33,6 @@ RR-Monitorkontrolle, Abbruch bei Verbreiterung der QRS-Komplexe
 
 
 
-[^wpw]: Wolf-Parkinson-White-Syndrom
+[^WPW]: Wolf-Parkinson-White-Syndrom
 
-[^lgl]: Lown-Gang-Levine-Syndrom
+[^LGL]: Lown-Gang-Levine-Syndrom

@@ -932,7 +932,7 @@ u. kolorektales Karzinom, Reduzierung des Auftretens von Zyklusstörungen, Ovari
 
 Pearl-Index:
 
-Der Pearl-Index ([Tab. 1](#anchor-8)) gibt an, wieviele Schwangerschaften eintreten, wenn 100 sexuell aktive Frauen ein Jahr lang eine bestimmte Verhütungsmethode nutzen. Je niedriger der Pearl-Index ist, desto sicherer ist also die Methode.
+Der Pearl-Index  gibt an, wieviele Schwangerschaften eintreten, wenn 100 sexuell aktive Frauen ein Jahr lang eine bestimmte Verhütungsmethode nutzen. Je niedriger der Pearl-Index ist, desto sicherer ist also die Methode.
 
 Tab. 1 Pearl Index
 

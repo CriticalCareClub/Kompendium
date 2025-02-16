@@ -20,7 +20,8 @@ eine Einnahmequelle.
 (Subjektiv betrachtet erscheint die Depression manchmal als ein treibender Motor der Singer-/Songwriter-Szene.)
 
 Einer der bekanntesten psychiatrischen Patienten war der niederländische Maler *Vincent van Gogh* (1853—1890).
-Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von Wahnvorstellungen, Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und Impulsgeber der modernen Malerei. [^cite_wp-vangogh]
+Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von Wahnvorstellungen, Albträumen, Depressionen und wiederholten Selbstmordversuchen geprägt war. Es sollte nicht bei den Versuchen bleiben, doch bis zu seiner Selbsttötung am 29. Juli 1890 schuf er hunderte Gemälde und über tausend Zeichnungen. Heute gilt van Gogh als bedeutender Mitbegründer und Impulsgeber der modernen Malerei.
+
 
 > - Die psychiatrische Diagnose verhält sich zum Patienten wie ein
 >   Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen

@@ -59,7 +59,7 @@ Je nach Unterart verhalten sich die Viren anders und man beobachtet Unterschiede
 
 Gegen die Grippe wird eine *Schutzimpfung* angeboten. Sie basiert auf der *Voraussage*, welcher Stamm in der jeweils bevorstehenden Grippewelle vorherrschen wird. Sie wirkt daher nur für ein Jahr (eine Saison) und muss jede Saison wiederholt werden. Die Impfung bietet keinen hundertprozentigen Schutz, wird aber trotzdem für Risikopatienten und Personen die einem erhöhten Infektionsrisiko ausgesetzt sind (darunter fällt auch Personal im Gesundheitsbereich) empfohlen. Die Impfung hat einen schlechten Ruf, da Geimpfte häufig über Impfreaktionen wie leichtes Fieber oder leichte Verkühlungen ein paar Tage nach der Impfung klagen.
 
-{term}`🗎 Gallaher 2009` {term}`🗎 Cutler 2009` {term}`🗎 Peiris 2009` {term}`🗎 Wolf 2009`
+ {term}`🗎 Cutler 2009`
 
 #### Schweinegrippe, Vogelgrippe
 
@@ -312,7 +312,7 @@ Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen kommen, am
 Der Erreger des Wundstarrkrampfes[^footnote-5] kommt *überall in der Umgebung* ("ubiquitär") vor.
 Bei Verletzungen können durch Kontamination diese Sporen in die Wunde kommen. Bei ungünstigen Wundverhältnissen (*anaerobe* Verhältnisse) kann es dann zu einer Infektion kommen. Der Erreger produziert einen Giftstoff (Toxin), welches einen tonischen Krampf der Skelettmuskulatur auslöst.
 Die Inkubationszeit beträgt ca. 4–21 Tage.
-Erste Vorzeichen sind Müdigkeit und Inappetenz. {term}`🗎 HahnMikrobio 6`
+Erste Vorzeichen sind Müdigkeit und Inappetenz.
 
 [^footnote-5]: Sporen von *Clostridium tetani*
 

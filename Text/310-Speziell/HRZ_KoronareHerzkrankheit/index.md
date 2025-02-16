@@ -327,5 +327,5 @@ zusammengefasst, zu Symptomen und Therapie siehe ebendort.
 :maxdepth: 1
 
 ACS/index 
-Peri-OP-ACS/index.md
+Peri-OP-ACS/index
 :::

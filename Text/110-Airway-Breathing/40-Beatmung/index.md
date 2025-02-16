@@ -22,11 +22,11 @@ Beatmung-KrAS/index
 
 Bei Vorliegen einer Ateminsuffizienz[^Ateminsuffizienz]) kann eine *künstliche Beatmung* durchgeführt werden.
 Dabei wird die Atmung des Patienten künstlich durch geeignete Hilfsmittel ersetzt oder ergänzt.
-Es handelt sich um eine *Überdruckbeatmung*[^ueberdruckbeatmung], d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
+Es handelt sich um eine *Überdruckbeatmung*[^Ueberdruckbeatmung], d. h. es wird mit Druck Luft in die Atemwege des Patienten gepumpt.
 (Im Unterschied dazu wird bei der natürlichen Atmung Luft mit Unterdruck durch den Patienten eingesogen.) Man unterscheidet zwischen einer *kontrollierten* und einer *assistierten*
 Beatmung.
 
-[^ateminsuffizienz]: Zur Beurteilung einer Ateminsuffizienz sind verschiedene Faktoren zu beachten.
+[^Ateminsuffizienz]: Zur Beurteilung einer Ateminsuffizienz sind verschiedene Faktoren zu beachten.
     Bei einem Atemstillstand oder einer Schnappatmung ist jedenfalls von einer (beatmungspflichtigen) Ateminsuffizienz auszugehen.
     Darüber hinaus können klinische Parameter wie die Atemfrequenz,
     die Atemmechanik des Patienten,
@@ -34,7 +34,7 @@ Beatmung.
     auf das Vorliegen einer Ateminsuffizienz hinweisen
     bzw. deren Schwere beurteilen.
 
-[^ueberdruckbeatmung]: Theoretisch kann auch mittels einer Unterdruckkammer eine
+[^Ueberdruckbeatmung]: Theoretisch kann auch mittels einer Unterdruckkammer eine
     Unterdruckbeatmung durchgeführt werden
     (*Eiserne Lunge* {index}` <Lunge; eiserne>`),
     dies ist aber sehr aufwendig und wird

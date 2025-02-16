@@ -107,7 +107,7 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 :name: BS-Arteriensystem
 :gap: 8px
 :class-grid: outline
-:::
+
 Arteriensystem
 
 ![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)

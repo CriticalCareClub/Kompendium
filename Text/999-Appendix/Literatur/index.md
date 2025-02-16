@@ -118,7 +118,7 @@
   PMID: 32860058,
   DOI: [10.1093/eurheartj/ehaa575](https://doi.org/10.1093/eurheartj/ehaa575)
 
-♛ ESC STEMI 2017/18
+♛ ESC STEMI 2017
 : **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
   by B. Ibanez et al.
   *European heart journal*, 2018(39):119-177.
@@ -357,6 +357,11 @@
 Citation needed
 : **Citation needed**
 
+🗎 Chang 1987
+: Chang, J. C.:
+  How to differentiate neoplastic fever from infectious fever in patients with cancer: usefulness of the naproxen test.
+  Heart & lung : the journal of critical care, 1987, 16, 122-7
+
 🗎 Chauhan 2016
 : **Nasal intubation: A comprehensive review.**
   by Chauhan V, Acharya G.
@@ -415,6 +420,11 @@ Citation needed
   2003.\*Gesprächsführung – Eine
   Praktische Anleitung.\*
   1\. Auflage,  Thieme.
+
+🗎 Damman 2017
+: **2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation: comments from the Dutch ACS working group.**
+  by Damman, P.; van 't Hof, A. W. et al.
+  Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation, 2017, 25, 181-185.
 
 🗎 DavisonKlinPsy 1988
 : by Davison, G. C. und J. M. Neale, eds:
@@ -492,6 +502,10 @@ Citation needed
 : by Wells, Hein J. J. and Mary Conover:
   2006.\*The Ecg in Emergency
   Decision Making.\* 2nd ed. Saunders Elsevier.
+
+🗎 Edwards 2005
+: Edwards P et al.: **Final results of MRC CRASH.**
+  Lancet 2005:1957.
 
 🗎 Eisenburger 2008
 : by Eisenburger, P., C. Havel, F. Sterz, T. Uray, A. Zeiner, M. Haugk, H.
@@ -644,14 +658,14 @@ Citation needed
   doi:[10.1007/s00134-002-1290-x](https://doi.org/10.1007/s00134-002-1290-x).
 
 🗎 Guerri 2009
-: **Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behaviour.**
+: **Foetal Alcohol Spectrum Disorders and Alterations in Brain and Behaviour**
   by Guerri, Consuelo, Alissa Bazinet and Edward P Riley.
   *Alcohol Alcohol*
   2009:44(2), 108–14.
   doi:[10.1093/alcalc/agn105](https://doi.org/10.1093/alcalc/agn105).
 
 🗎 Gu 2019
-: **Use of gastrografin in the management of faecal impaction in patients with severe chronic constipation: a randomized clinical trial.**
+: **Use of gastrografin in the management of faecal impaction in patients with severe chronic constipation: a randomized clinical trial**
   by Lili Gu et al.
   ANZ J Surg. 2019 Mar;89(3):239-243.
   doi: [10.1111/ans.14863](https://doi.org/10.1111/ans.14863). Epub 2018 Oct 8.
@@ -659,6 +673,13 @@ Citation needed
 
   > **Gastrografin** given through nasointestinal tube was more effective than enema in the treatment of FI inducing colon obstruction.
   > Gastrografin might be taken into consideration as an effective and safe therapeutic option for FI.
+
+🗎 Hahn 2013
+: **Guidelines for performing a comprehensive transesophageal echocardiographic examination: recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists**
+  by Hahn, R. T. et al.
+  Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography, 2013, 26, 921-64.
+  {download}`PDF</Literatur/Hahn2013.pdf>`.
+  DOI: 10.1016/j.echo.2013.07.009
 
 🗎 Hansak 2012 07
 : by Hansak, Peter, Klaus Pesenbacher, Peter Baumgartner und Haris Begovic.
@@ -744,6 +765,17 @@ Citation needed
   DOI: [10.1055/s-0029-1238282](https://doi.org/10.1055/s-0029-1238282)
 
   > Zur Verhinderung von Folgeschäden sollten kontaminierte tiefe Wunden an der Hand operativ debridiert und nicht mit dem Antiseptikum Octenisept® gespült werden. Octensept® scheint in nicht abgegrenztem Gewebe® irritativ-toxisch zu wirken. Durch langsamen Abbau verbleibt es lange im Interstitium.
+
+🗎 Ibanez 2017
+: **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
+  by Ibanez, B.; James, S.; Agewall, S. et al.
+  European heart journal, 2017.
+  DOI: 10.1093/eurheartj/ehx393
+
+🗎 Ibanez 2018
+: **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
+  by Ibanez, B.; James, S. et al.
+  European heart journal, 2018, 39, 119-177.
 
 🗎 IBCC
 : **The Internet Book of Critical Care (IBCC).**
@@ -1579,10 +1611,6 @@ Citation needed
     edited by Plutchik H. and Kellerman H., 3:37–60. San Diego: by Academic
     Press.
 
-[^cite_verbrennungsmed-2009praehosp]: by Krause, Th. und T. Loerbroks:
-    **Verbrennungsmedizin – Vom
-    Unfallort Bis Zur Rehabilitation.**
-    Thieme. 2009.
 
 [^cite_pflegewiki:dekubitus]: by PflegeWiki, ed. 2012.
     **Dekubitus.** PflegeWiki. Accessed August 25.

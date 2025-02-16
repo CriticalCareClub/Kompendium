@@ -319,7 +319,7 @@ Transport
 
 
 
-[^cite-kluge-2020], [^cite-bmsgpk-2020], [^cite-veklury-fi], [^cite-_bauer-2020]
+[^cite-kluge-2020], [^cite-bmsgpk-2020], [^cite-veklury-fi], [^cite-bauer-2020]
 
 ## Literatur & Quellen
 

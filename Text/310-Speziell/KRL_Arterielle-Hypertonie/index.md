@@ -12,7 +12,7 @@ Mann kann zwischen der *primären, essentiellen* Form (90%), und der *sekundäre
 Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc.
 Akut kann sie im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen.
 
-Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen [^footnote-2] beim Erwachsenen bei 140 mm Hg (bei Patienten mit Risikofaktoren gelten andere Ziel-Grenzwerte).
+Bei der chronischen arteriellen Hypertonie liegt der obere Grenzwert im Allgemeinen beim Erwachsenen bei 140 mm Hg (bei Patienten mit Risikofaktoren gelten andere Ziel-Grenzwerte).
 Dieser Grenzwert ist nur für die dauerhafte Behandlung maßgeblich, akute Beschwerden sind erst bei deutlich höheren Werten zu erwarten.
 Eine Ausnahme stellen *Schwangere* dar:
 Eine Hypertonie kann ein Zeichen einer schwerwiegenden Schwangerschaftserkrankung sein (*EPH-Gestose*) und muss zeitnah entsprechend abgeklärt und behandelt werden.

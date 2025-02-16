@@ -26,8 +26,7 @@ Phosphat-Ausscheidung auch auf den Knochenhaushalt. Weiters kontrolliert sie dur
 
 Zum besseren Verstehen der Ansatzpunkte von Diuretika ist die Kenntnis vom Bau der Nephrone wichtig.
 
-Die Niere wird von etwa einer Million Nephrone ([Abb. 2](#anchor-1))
-gebildet, die sich ihrerseits in folgende Unterabschnitte unterteilen:
+Die Niere wird von etwa einer Million Nephrone gebildet, die sich ihrerseits in folgende Unterabschnitte unterteilen:
 
 - hin- und wegführende Gefäße (Kapillaren)
 - Glomerulum

@@ -44,7 +44,7 @@
 
   v. a. Lymphome, akute Leukämien, Nierenzellkarzinom, Mamma-Adenokrazinom, heptaozelluläres Karzinom (HCC), Lebermetastasen
 
-  Naproxen-Test: promptes Entfiebern innerhalb 36 h bei regelmässiger 12-stdl. Naproxen-Gabe [^cite_chang:1987]
+  Naproxen-Test: promptes Entfiebern innerhalb 36 h bei regelmässiger 12-stdl. Naproxen-Gabe {term}`🗎 Chang 1987` 
 
 - Zentrales Fieber?
 

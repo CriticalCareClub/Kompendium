@@ -136,7 +136,9 @@ Sexueller Missbrauch umfasst grundsätzlich die Vornahme oder Verleitung zu gesc
 
 Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur selten ein "akutes" Problem. Wichtig hierbei ist es, ihn zu erkennen und eine ausführliche Dokumentation schon im Verdachtsfall anzufertigen.
 
-:::{admonition} Missbrauch durch Angehörige eines Gesundheitsberufes Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen ([§ 212 Abs. 2 Z 1, Zusammenfassung](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html)).
+:::{admonition} Missbrauch durch Angehörige eines Gesundheitsberufes 
+
+Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen ([§ 212 Abs. 2 Z 1, Zusammenfassung](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html)).
 :::
 
 ```{index} single: Kindesmisshandlung

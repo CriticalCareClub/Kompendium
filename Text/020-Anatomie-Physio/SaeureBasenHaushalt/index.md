@@ -23,6 +23,8 @@
     vereinfacht sagen:
     *"entspricht Säure"*
 
+
+
 (ph)=
 
 ## pH-Wert
@@ -36,7 +38,7 @@
 :::
 ::::
 
-Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^PH-1]. 
+Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^ph-1]. 
 Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
 Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].

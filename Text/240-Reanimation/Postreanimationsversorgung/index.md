@@ -94,8 +94,7 @@ Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung
 
 ## Ende oder Nicht-Beginn der Reanimation
 
-In ca. 70—95% der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt
-[^cite_striebelanaesthesie2-band2].
+In ca. 70—95% der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt.
 Grundsätzlich wird eine Reanimation fortgesetzt, solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
 Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht {term}`🗎 Bonnin 1993` {term}`♛ ERC 2021 12`.
 

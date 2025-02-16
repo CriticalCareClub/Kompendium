@@ -286,7 +286,6 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 
 
 {term}`🗎 Kamolz 2009`
-[^cite_verbrennungsmed-2009praehosp]
 {term}`🗎 Loennecker 2001`
 {term}`🗎 Beneker 2004`
 

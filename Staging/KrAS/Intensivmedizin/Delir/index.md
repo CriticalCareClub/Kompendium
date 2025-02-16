@@ -31,7 +31,14 @@ Early postillness psychiatric symptoms were predictors of later
 psychiatric morbidity.
 Psychiatric morbidity appears to be a substantial problem for
 pediatric critical illness survivors.
-[^cite_davydow:2009:a] [^cite_davydow:2009:b] [^cite_davydow:2009:c] [^cite_davydow:2009:d] [^cite_davydow:2010]
+
+
+{term}`🗎 Davydow 2009a`
+{term}`🗎 Davydow 2009b`
+{term}`🗎 Davydow 2009c`
+{term}`🗎 Davydow 2009d`
+{term}`🗎 Davydow 2010`
+
 
 Affektive Morbidität
 
@@ -57,4 +64,7 @@ Post-OP Delir, psot-OP-kongnitive Defizite
 - Analgesia first
 - ?frühe tiefe Sedierung?
 
-[^cite_davydow:2009:a] [^cite_davydow:2009:b] [^cite_davydow:2009:c] [^cite_davydow:2009:d]
+{term}`🗎 Davydow 2009a`
+{term}`🗎 Davydow 2009b`
+{term}`🗎 Davydow 2009c`
+{term}`🗎 Davydow 2009d`

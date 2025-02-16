@@ -5,7 +5,7 @@
 
 (Arterielle-Hypertonie)=
 
-# Arterielle Hypertonie
+# Kreislauf / Arterielle Hypertonie
 
 Die {dfn}`arterielle Hypertonie` (*Bluthochdruck*, *Hochdruckkrankheit*) ist eine meist symptomlose, *chronische* Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
 Mann kann zwischen der *primären, essentiellen* Form (90%), und der *sekundären* Form aufgrund anderer Grunderkrankungen (renal, endokrin, Aortenisthmusstenose) unterscheiden.

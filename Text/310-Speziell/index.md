@@ -1,10 +1,8 @@
 # Krankheitsbilder
 
-
-
 ```{toctree}
 :maxdepth: 1
-:glob:
+:caption: Atmung
 
 ATM_Allgemein/index
 ATM_Atemwegsverlegung/index
@@ -20,20 +18,40 @@ ATM_OSAS/index
 ATM_Hepato-pulmonales-Syndrom/index
 ATM_Lungenkontusion/index
 ATM_ILD/index
-Herz/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Herz
+
+
 HRZ_Herzrhythmusstoerungen/index
 HRZ_KoronareHerzkrankheit/index
 HRZ_Herzinsuffizienz/index
-Kreislauf/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Kreislauf
+
+
 KRL_Arterielle-Hypertonie/index
 KRL_KollapsSynkope/index
+KRL_Exsikkose/index
 KRL_Schock/index
 KRL_Aneurysmen/index
 KRL_paGV/index
 KRL_pvGV/index
 KRL_Kreislaufstillstand/index
-Gerinnung/index
-Anaphylaxie/index
+```
+
+
+
+```{toctree}
+:maxdepth: 1
+:caption: Abdomen
+
+
 ABD_Allgemein/index
 ABD_Zenker/index
 ABD_Akutes-Abdomen/index
@@ -46,18 +64,33 @@ ABD_Ulcus-ventriculi-duodeni/index
 ABD_Gallenkolik/index
 ABD_GIT-Blutung/index
 ABD_Gastroenteritis/index
-ABD_Exsikkose/index
 ABD_Diarrhoe/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Sonstiges
+
+
+Gerinnung/index
+Anaphylaxie/index
 Leber/index
 Infektion/index
-Stoffwechsel/index
-Endokrinologie/index
+STW_Diabetes-mellitus/index
+EDK_Endokrinologie/index
 Niere-Harn/index
 Gynaekologie/index
 Paediatrie/index
 Neurologie/index
 Psychiatrie/index
-Intox/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Trauma
+
+
+TOX_Intox/index
 TRA_Allgemein/index
 TRA_Einsatztaktik/index
 TRA_Frakturen/index
@@ -73,6 +106,13 @@ TRA_Erfrierung/index
 TRA_Strom/index
 Thermisch/index
 Verbrennung/index
-Kriminalitaet/index
-Tod/index
+```
+
+```{toctree}
+:maxdepth: 1
+:caption: Speziell
+
+
+SPZ_Kriminalitaet/index
+SPZ_Tod/index
 ```

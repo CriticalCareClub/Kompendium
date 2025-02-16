@@ -3,7 +3,7 @@
 
 (aneurysma)=
 
-# Aneurysmen der großen arteriellen Gefäße
+# Kreislauf / Aneurysmen der großen arteriellen Gefäße
 
 ::::{only} not nosidebar
 

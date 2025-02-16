@@ -1,4 +1,4 @@
-# Sterben und Tod
+# Spezielöl / Sterben und Tod
 
 ```
  ________________________________________

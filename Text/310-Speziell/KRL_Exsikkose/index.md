@@ -1,7 +1,7 @@
 
 (exsikkose)=
 
-# Flüssigkeitsmangel: Exsikkose
+# Kreislauf /  Exsikkose
 
 ::::{only} not nosidebar
 

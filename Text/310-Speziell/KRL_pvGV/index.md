@@ -1,6 +1,6 @@
 (thrombose)=
 
-# Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
+# Kreislauf / Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose
 
 ::::{only} not nosidebar
 

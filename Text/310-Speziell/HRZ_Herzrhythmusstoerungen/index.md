@@ -1,6 +1,6 @@
 (herzrhythmusstoerungen)=
 
-# Herzrhythmusstörungen
+# Herz / Herzrhythmusstörungen
 
 :::{todo} `#127 Weitere Herzrhythmusstoerungen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/127>`_
 

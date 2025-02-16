@@ -4,7 +4,7 @@ Querverweis: '{ref}`Reanimation`'
 
 (kreislaufstillstand)=
 
-# Kreislaufstillstand
+# Kreislauf / Kreislaufstillstand
 
 Ein Kreislaufstillstand ist ein totales Pumpversagen des Herzens und Stillstand des Kreislaufes. Das Pumpversagen kann unterschiedliche Ursachen haben:
 

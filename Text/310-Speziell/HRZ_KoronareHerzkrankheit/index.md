@@ -1,4 +1,6 @@
-# 26.1. Koronare Herzkrankheit (KHK)
+# Herz /  Koronare Herzkrankheit (KHK)
+
+> 26.1.
 
 = koronare Herzkrankheit durch Verschlusskrankheit der Koronarien
 = vorausgegangener MCI, typische AP, atypische AP mit pos. ERGO, Szintigr. Nachweis Hohe Wahrscheinlichkeit bei Gefäßpatienten + Rauchen, DM, art.

@@ -1,12 +1,9 @@
-# Stoffwechselstörungen
-
-Metabolische Störungen.
 
 (diabetes-mellitus)=
 
-## Blutzuckerstoffwechsel: Diabetes mellitus
+# Stoffwechsel / Diabetes mellitus
 
-### Beschreibung: Blutzuckerstoffwechsel
+## Beschreibung: Blutzuckerstoffwechsel
 
 Der {dfn}`Diabetes mellitus` {index}` <! Diabetes mellitus>` ist eine chronische Stoffwechselerkrankung, bei der die Blutzuckerregulation gestört ist.
 Durch die Erkrankung oder die unsachgemäße Behandlung kann es zu folgenden Notfällen kommen:
@@ -38,7 +35,7 @@ Interpretation des BZ-Wertes: RichtwerteDer Blutzuckerspiegel wird in *Milligram
   - sehr stark erhöht
 :::
 
-### Insulin
+## Insulin
 
 ::::{only} not nosidebar
 
@@ -60,7 +57,7 @@ Insulin wird therapeutisch zur Behandlung des Diabetes mellitus angewendet. Wenn
    (*Gewöhnungseffekt*), irgendwann kann aber der Körper nicht mehr
    Insulin produzieren.
 
-### Diabetes mellitus: Typen
+## Diabetes mellitus: Typen
 
 ::::{only} not nosidebar
 
@@ -112,7 +109,7 @@ Ausgehend von den das Insulin betreffenden Störungen unterscheidet man 2 Typen 
   aufwärts, aufgrund der zunehmend fett- und kohlehydratreichen
   Ernährungsgewohnheiten werden die Patienten aber immer jünger.
 
-### Spätfolgen
+## Spätfolgen
 
 ::::{only} not nosidebar
 
@@ -153,7 +150,7 @@ Die eigentlichen Probleme der Zuckerkrankheit sind – zumindest beim Typ-II-Dia
 
 - *Augenschäden*: Bis hin zur Erblindung
 
-### Bei der Hypoglykämie herrscht ein Blutzuckermangel
+## Bei der Hypoglykämie herrscht ein Blutzuckermangel
 
 ::::{only} not nosidebar
 
@@ -169,7 +166,7 @@ Die {dfn}`Hypoglykämie` {index}` <! Hypoglykämie>` ist eine maßgebliche Ernie
 
 Die häufigsten Ursachen für eine plötzliche Hypoglykämie sind *Diätfehler* und/oder eine *Überdosierung von Insulin* oder bestimmten anderen Diabetes-Medikamenten. Aufgrund besonderer *Anstrengungen* kann es zu einem gesteigerten Zuckerbedarf des Körper kommen, wodurch der Blutzuckerspiegel sinkt. Dies kommt häufig im Rahmen von Begleiterkrankungen, wie z. B. grippalen Infekten, vor. Auch die Alkohol-Intoxikation kann zu einer Hypoglykämie führen (Löffler and Petrides 2003).
 
-#### Symptome
+### Symptome
 
 ::::{only} not nosidebar
 
@@ -206,7 +203,7 @@ Häufig sind Kopfschmerzen und Bewusstseinsstörungen, evtl. auch Krampfanfälle
 (me16020c)=
 (m-hypoglykaemie)=
 
-#### Maßnahmen: Hypoglykämie
+### Maßnahmen: Hypoglykämie
 
 
 Taktik
@@ -227,7 +224,7 @@ Taktik
 
 Wenn der Patient nicht mehr bewusstseinsklar ist, kann die Zuckergabe nur über eine venöse Gabe, z. B. durch einen Notarzt oder NKV, erfolgen (getrübte Patienten dürfen aufgrund der Aspirationsgefahr nichts mehr essen).
 
-### Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
+## Bei der Hyperglykämie ist der Blutzuckerspiegel erhöht
 
 ::::{only} not nosidebar
 
@@ -243,7 +240,7 @@ Dies ist nicht automatisch ein Notfall. Die Bedrohlichkeit ist davon abhängig, 
 Ein anderer Patient, bei dem der Zustand plötzlich eingetreten ist (z. B.
 Erstmanifestation eines Diabetes mellitus Typ I bei einem 19-jährigen, oder wenn das Insulin nicht gespritzt wurde, …), kann mit dem gleichen Blutzuckerwert bereits im Koma liegen.
 
-#### Auswirkungen
+### Auswirkungen
 
 ::::{only} not nosidebar
 
@@ -260,7 +257,7 @@ Erstmanifestation eines Diabetes mellitus Typ I bei einem 19-jährigen, oder wen
 Im Grunde verursacht der Zuckerspiegel im Akutfall zwei Probleme:
 Einerseits wirkt der Zucker wie ein Elektrolyt auf den *Flüssigkeitshaushalt* ein und stört diesen, es kommt zu einer ungünstigen Wasserumverteilung. Andererseits mangelt es den Körperzellen an Zucker, da das Insulin fehlt, um den Zucker in die Zellen hineinzubekommen – es entsteht ein *Nährstoffmangel*.
 
-#### Ursachen
+### Ursachen
 
 ::::{only} not nosidebar
 
@@ -279,7 +276,7 @@ Bei Patienten, die einen noch unerkannten DM Typ I haben, ist ein hyperglykäm
 (diabetisches-koma)=
 (koma-diabetisches)=
 
-#### Symptome
+### Symptome
 
 ::::{only} not nosidebar
 
@@ -320,7 +317,7 @@ verwechselt werden!
 (me14012c)=
 (m-hyperglykaemisches-koma)=
 
-#### Maßnahmen: Hyperglykämisches Koma
+### Maßnahmen: Hyperglykämisches Koma
 
 
 

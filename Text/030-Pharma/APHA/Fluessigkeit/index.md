@@ -85,7 +85,7 @@ Hauptverantwortlicher ist das Albumin.
 
 ### Kristalloide
 
-:::{margin} Kristalloide
+:::{sidebar} Kristalloide
 
 - Kristalloide
 - Vollelektrolytlösungen
@@ -105,27 +105,41 @@ Hauptverantwortlicher ist das Albumin.
 **Kristalloide** Infusionslösungen enthalten Elektrolyte und optional Zucker.
 Sie diffundieren rasch aus den Gefäßen ins Gewebe, es bleiben ca. rund 20 % intravasal.
 
-**Vollelektrolytlösungen** enthalten eine Natrium-Konzentration über 120 mmol / L und können sich in der genauen Zusammensetzung der Elektrolyte unterscheiden, nähern sich aber den Konzentrationen im Plasma an und sind somit annähernd isoton.
-**Balancierte Lösungen** weisen eine möglichst physiologische Natrium- und Chloridkonzentration auf.
-Auch bei großen Mengen Infusionen tritt keine metabolische Azidose auf.
+GHrundsätzlich steht man bei kristalloiden Infusinslösungen vor mehreren Herausforderungen:
+
+1. Die Lösung sollte im Regelfall **isoton** sein
+2. Der **Anteil der jeweiligen Elektrolyte** sollte möglichst **physiologisch** sein.
+3. Die **Ladungen** (Anionen und Kationen) müssen **ausgeglichen** sein:
+   - Im Plasma liegen *negative Ladungen* jedoch auch in Form von *Aminosäuren* bzw. *Birkarbonat* vor, Kristalloide sind jedoch proteinfrei und Bikarbonat galenisch nicht stabil.  
+   - *Chlorid* bietet sich als Ersatz an, kann jedoch zu einer *hyperchlorämischen Azidose* führen.   
+
+
+**Vollelektrolytlösungen** enthalten eine *Natrium-Konzentration über 120 mmol / L* und können sich in der genauen Zusammensetzung der Elektrolyte unterscheiden, nähern sich aber den Konzentrationen im Plasma an und sind somit annähernd isoton.
+**Isotone Vollelektrolytlösungen *ohne* metabolisierbare Anionen** enthalten zum *Ladungsausgleich* in der Regel eine  hohe *Chloridkonzentration* und können zu einer *hyperchlorämen Azidose* führen. {term}`🗎 Hulde 2017`
+
+**Isotone Vollelektrolytlösungen *mit* metabolisierbaren Anionen**(*Azetat*, *Malat*, *Laktat*, *Glukonat*, *Zitrat*) enthalten ebenjene metabolisierbare Anionen zum Ladungsausgleich. 
+Diese **balancierten Lösungen** weisen damit möglichst *physiologische Natrium- und Chloridkonzentration* auf, auch bei großen Infusionsmengen tritt damit keine keine metabolische Azidose auf.
 Sie eignen sie gut zur Deckung des täglichen Flüssigkeitsbedarfs und Substitution eines Flüssigkeitsdefizits.
-Isotone Vollelektrolytlösungen ohne **metabolisierbare Anionen** (*Azetat*, *Malat*, *Laktat*, *Glukonat*, *Zitrat*) enthalten zum *Ladungsausgleich* in der Regel eine  hohe *Chloridkonzentration* und können zu einer *hyperchlorämen Azidose* führen. {term}`🗎 Hulde 2017`
+
 
 Die metabolisierbaren Anionen werden in der **Leber** oder, im Falle von Azetat und Malat,  im **Muskel** zu **Bikarbonat** metabolisiert.
 Im Rahmen einer **Leberinsuffizienz** sollten daher **keine Laktat-hältigen Lösungen** eingesetzt werden, da die Verstoffwechslung beeinträchtigt sein und eine *Laktatazidose* drohen kann.
-Darüber hinaus verbraucht die Verstoffwechslung von *Azetat rund ein Drittel weniger Sauerstoff* verglichen mit Laktat. {term}`🗎 Hulde 2017`
+Darüber hinaus verbraucht die Verstoffwechselung von Laktat deutlich mehr Sauerstoff als die von Azetat (*Azetat rund ein Drittel weniger*). {term}`🗎 Hulde 2017`
 
 Man kann unterscheiden:
 
 - Isotone **balancierte Elektrolytlösung mit metabolisierbare Anionen**, z.B.:
   - Ringerlaktat
-- Isotone **Elektrolytlösung ohne metabolisierbare Anionen**, z.B.:
+- Isotone **Vollelektrolytlösungen ohne metabolisierbare Anionen**, z.B.:
   - Isotone „physiologische“ Kochsalzlösung (*"NaCl 0,9%"*; die absolut **un**physiologischte Infusionslösung nach destillierten Wasser)
+- Isotone **Vollelektrolytlösungen mit metabolisierbaren Anionen** (balancierte Lösungen), z.B.:
+  - Ringerlaktat
+  - ELO-MEL™ isoton (Azetat-haltig)
 - Vollelektrolytlösungen **mit Kohlehydraten** sind infolge der **Glukose anfänglich hyperton**, bis ebendiese **verstoffwechselt** wurde.
   Im Gegensatz zu reinen Glukoselösungen verbleibt nach der Verstoffwechslung nicht "freies Wasser", sondern eine annähernd balancierte Eletrolytlösung im Gefäß.
-  - Z.B.: ELO-MEL OP (postoperativ) G
+  - Z.B.: ELO-MEL™ OP (postoperativ) G
 
-Neben den Vollektrolytlösungen gibt es auch für spezielle Anwendungsfälle (hypertone Dehydratation, Hypernatriämie, Kaliummangel, Infusionszusätze etc.) auch Lösungen mit **reduziertem Elektrolytgehalt** (**⅔-**, **½-**, **⅓-Elektrolytlösungen**)
+Neben den Vollektrolytlösungen gibt es auch für spezielle Anwendungsfälle (hypertone Dehydratation, Hypernatriämie, Kaliummangel, Infusionszusätze etc.) auch Lösungen mit **reduziertem Elektrolytgehalt** (**2/3-**, **½-**, **1/3-Elektrolytlösungen**)
 
 **Kaliumfreie Elektrolytlösungen** sind ... Kalium-frei. Klassisches Beispiel ist die isotone Kochsalzlösung (NaCl 0,9%).
 
@@ -137,6 +151,11 @@ Eine (hyperchloräme) **Azidose** ***verstärkt*** eine **Hyperkaliämie** durch
 Reine **Glukoselösungen** enthalten Glukose (z.B. 5% Glukoselösung) und sonst ... Wasser.
 Durch die Aufnahme der osmotisch wirksamen Glukose in die Zellen entsteht in Folge **freies Wasser**!
 Kann dieses nicht renal in ausreichendem Maß ausgeschieden werden, kommt es zu einem Abfall der Plasmaormolarität und zu Ödemen und Hämolyse.
+
+
+:::{tip}
+Die besten Infusionslösungen für den Flüssigkeitsersatz sind in der Regel  **isotone Vollelektrolytlösungen mit metabolisierbaren Anionen** (balancierte Lösungen) mit **Azetat**, sofern keine anderen speziellen Anforderungen (z.B. Glukose-Bedarf, vorbestehende Elektrolytstörungen etc.) vorliegen.
+:::
 
 
 ```{eval-rst}

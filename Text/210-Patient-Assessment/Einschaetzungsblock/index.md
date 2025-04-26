@@ -6,7 +6,7 @@
 
 > *"Von 1 bis E."*
 
-Der Einschätzungsblock dienst dem Erkennen einer vitalen Bedrohung,
+Der Einschätzungsblock dient dem Erkennen einer vitalen Bedrohung,
 dem raschen Ergreifen von Sofortmaßnahmen
 und dem Erkennen der Hauptbeschwerde und von Leitsymptomen.
 

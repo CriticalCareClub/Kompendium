@@ -1,4 +1,4 @@
-# Nerven
+# Nervensystem
 
 Das Nervensystem wird aus *Nervenzellen* aufgebaut, welche miteinander
 verschalten sind. Die Fortleitung von Informationen innerhalb einer

@@ -62,7 +62,7 @@
 ::::{admonition} Versionsinformationen
 
 Version
-: |version|
+: {{version}}
 
 Release
 : |release|

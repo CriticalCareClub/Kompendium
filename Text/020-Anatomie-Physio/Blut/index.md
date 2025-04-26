@@ -225,7 +225,7 @@ Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 
 
 
-(gerinnungsfaktoren)=
+
 
 ## Blutstillung, Blutgerinnung
 
@@ -233,18 +233,6 @@ Siehe {ref}`Gerinnung-Physiologie`
 
 
 
-
-
-## Fibrinolyse
-
-Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben kommt, ist die **Fibrinolyse**, bei der es zur Auflösung von Thromben kommt.
-Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das Blut weder zu schnell noch zu langsam gerinnt.
-
-Phasen der *Fibrinolyse*:
-
-- Aktivatoren in Blut und Gewebe 
-— Plasminogen wird in Plasmin umgewandelt
-— das Fibrin wird aufgelöst, der Thrombus wird resorbiert.
 
 
 

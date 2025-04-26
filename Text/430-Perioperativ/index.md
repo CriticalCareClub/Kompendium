@@ -8,6 +8,7 @@ AK/index.md
 100-AASD/index
 100-GREG/index
 100-Prae-OP/index
+100-Patient-Blood-Management/index
 100-AWR/index
 200-Kinder/index
 :::

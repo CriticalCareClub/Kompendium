@@ -1,4 +1,4 @@
-# Herz-Kreislaufsystem
+# Herz-Kreislauf
 
 :::{margin} Kreislauf
 - 3 Komponenten:

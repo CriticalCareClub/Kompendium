@@ -1,4 +1,4 @@
-# Respiratorisches System
+# Respiratorion
 
 ```{toctree}
 :maxdepth: 1

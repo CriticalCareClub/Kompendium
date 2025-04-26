@@ -1,6 +1,6 @@
 (geschlechtsorgane)=
 
-# Reproduktives System
+# Reproduktion
 
 Als {dfn}`Geschlechtsorgane` (*Genitale*) werden jene
 Organe bezeichnet, welche der Arterhaltung durch Bildung, Aufbewahrung

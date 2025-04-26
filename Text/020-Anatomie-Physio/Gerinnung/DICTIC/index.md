@@ -1,0 +1,64 @@
+# DIC und TIC
+## 25.7. TIC = Trauma induzierte Coagulopathie
+
+Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten + erhöhten Verbrauch  +
+Flüssigkeitszufuhr+  TRIAS: Hypothermie (\<34°) + Hypokalzämie (\<1mmol/l)-Azidose (pH  \<  7,2)  +
+HK \<24%
+1. Volumentherapie: Kristalloide+Kolloide (HES max. 50ml/kg/d), einmalig 4ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
+2. 1-2g Tranexamsäure innerhalb der ersten 3 h (15 -20mg/kg KG)
+3. Hypothermie vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 
+4. Azidosekorrektur: Ziel \>7,2 (NaBIC)
+5. Hypokalzämie vermeiden: Ca \> 1 mmol/l (Calciumglukonat)
+6. Anämiekorrektur: Ziel Hb 8-10 
+7. Thrombozyten Soll 50-100000 
+8. Hohe Fibrinogenspiegel sind protektiv 150-200mg/dl, FIBTEM\<7mm Gabe 50mg/kg Hämocomplettan 
+9. PPSP (Prothrombinkomplex II, VII, IX, X) z.B. Beriplex sofort bei Marcoumarpatienten, und Eliquis oder Xarelto! aPPSP bei Pradaxa! EXTEM CT \> 80sec trotz Fibrinogengabe = 20-30IE/kg
+(1 IE/kg hebt PTZ um 1%)
+10. Novo7 (aFVII) ultimo ratio, off lavel use: Thrombos und Fibrinogen muss normal sein, ph \> 7,2 Temp \> 34°C. Gabe: 90-120mcg/kg Einzeldosis, ev. wiederholen 
+11. FFP 30ml/kg bei Faktor V-Mangel, sonst umstritten 
+12. Desmopressin (Octostim) 0,3mcg/kg über 20min, bei ASS und Plavix-Patienten 
+13. Protamin (1000-2000 U) bei heparinisierten Patienten 
+14. Faktor XIII (1250 U) bei instabilem Gerinsel im Extem und Aptem, welches nicht durch Hyperfibrinolyse bedingt ist.
+15. \+ hämostyptische Wundverbände (z.B. Quick cloth)
+
+:::{admonition} Für die Gerinnung gilt kurz gesagt:
+
+1. Achte auf ein schweres Trauma mit Hyperfibrinolyse: Tranexamsäure
+2. Achte auf Fibrinpolymerisation mit Fibrinogenmangel: Fibrinogen
+3. Achte auf Thrombinbildung mit Faktorenmangel: PPSB
+4. Achte auf Plättchenmangel: TK
+5. Achte auf Plättchenfunktionsstörung: Octostim
+:::
+
+## DIC = disseminierte intravasale coagulopathie
+
+Ursache: Sepsis, Trauma, Organnekrosen, SS, Lebertoxizität, Malignom, Transplantation 
+
+Man unterscheidet: Fulminate (Score \>5) oder kompensierte (Score \<5) DIC
+
+
+:::{table} DIC-Score
+
+| Parameter  | 0       Punkte | 1 Punkt    | 2 Punkte |
+| ---------- | :------------: | :--------: | :------: |
+| Thrombos   | > 100 000       | < 100 000 , | < 50 000  |
+| D-Dimer    | < 1            | 1-5        | > 5      |
+| Fibrinogen | > 100          | < 100      |          |
+| PTZ        | > 70           | 40-70      | < 40     |
+|            |                |            |          |
+:::
+
+Therapie:
+- Ursache beseitigen: Herdsanierung, Blutung stoppen, AB,...
+- ISV: Volumen, Katecholamine, Beatmung,...
+- Substitution von Erythrozytenkonzentraten, FFP und ev. Thrombozyten
+- Wenn Organdysfunktion ohne Blutung im Vordergrund steht und die Thrombos \> 50000 sind
+= UFH 400 IE/h
+
+
+Ursachen einer perioperativen Gerinnungsstörung:
+- Massive Blutung mit Verlust von Gerinnungsfaktoren und Thrombozyten
+- Dilutionskoagulopathie durch Verdünnung (Infusionen) und Fibrinpolymerisationsstörung durch HES, Gelatine
+- Hyperfibrinolyse
+- Hypothermie + Azidose + Hypokalziämie
+- Anämie vorbestehend

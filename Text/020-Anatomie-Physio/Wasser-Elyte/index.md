@@ -1,7 +1,7 @@
 (wasser-elektrolythaushalt)=
 (vitalfunktion-wasserhaushalt)=
 
-# Wasser- und Elektrolythaushalt
+# Wasser- & Elektrolyte
 
 ## Verteilungsräume
 
@@ -35,25 +35,21 @@ Das Körperwasser macht ca. 60% des Körpergewichtes aus und teilt sich auf:
 
 Der Intrazellularraum (IZR) wird vom Extrazellularraum (EZR) durch die Zellmembran getrennt, der Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 
+
+
 (atome)=
 (ionen)=
 (elektrolyte)=
 
 ## Atome, Ionen und Elektrolyte
 
-{dfn}`Atome`
-sind die kleinsten Grundbestandteile von Materie.
+{dfn}`Atome` sind die kleinsten Grundbestandteile von Materie.
 {dfn}`Ionen` sind Atome die *elektrisch geladen* sind, sie sind gut in Wasser löslich.
 Die wichtigsten Ionen im Körper sind Natrium (Na⁺), Kalium (K⁺), Kalzium (Ca⁺⁺) und Chlorid (Cl⁻).
-Wenn die Ionen in Wasser gelöst sind, heißen sie {dfn}`Elektrolyte`[^fnelektrolyte]
-Man unterscheidet dabei zwischen positiv geladenen Teilchen, sog. *Kationen*
-(z. B. Kalium (K⁺), Natrium (Na⁺), Magnesium (Mg⁺), Kalzium (Ca⁺⁺), …)
-und negativ geladenen Teilchen, den *Anionen*
-(z. B. Chlorid (Cl⁻)).
+Wenn die Ionen in Wasser gelöst sind, heißen sie {dfn}`Elektrolyte`[^fnelektrolyte].
+Man unterscheidet dabei zwischen positiv geladenen Teilchen, sog. *Kationen* (z. B. Kalium (K⁺), Natrium (Na⁺), Magnesium (Mg⁺), Kalzium (Ca⁺⁺), …), und negativ geladenen Teilchen, den *Anionen* (z. B. Chlorid (Cl⁻)).
 
-[^fnelektrolyte]: Elektrolyte sind geladene Teilchen,
-    die bei Aufspaltung von Säuren,
-    Laugen oder deren Salzen in wässriger Lösung entstehen.
+[^fnelektrolyte]: Elektrolyte sind geladene Teilchen, die bei Aufspaltung von Säuren, Laugen oder deren Salzen in wässriger Lösung entstehen.
 
 Diese Ionen sind unterschiedlich verteilt:
 Im IZR ist die Kalium-Konzentration hoch, dagegen gibt es wenig Natrium;
@@ -63,15 +59,11 @@ Spezielle Transportsysteme sorgen dafür, dass diese Ionen derartig verteilt wer
 Durch die unterschiedliche Verteilung von unterschiedlich geladenen Elektrolyten im Intra- und Extrazellulärraum kann es zur Bildung einer *elektrischen Spannung* zwischen dem Zellinneren und der Umgebung kommen.
 
 :::{admonition} Synopsis
-- Im Wasser gelöste, elektrisch geladene Teilchen,
-  wie z. B.
-  Natrium, Kalium und Chlorid,
-  heißen {dfn}`Elektrolyte`.
-  Sie sind negativ oder positiv geladen,
-  im Körper unterschiedlich verteilt
-  und können dadurch
-  eine elektrische Spannung ausbilden.
+- Im Wasser gelöste, elektrisch geladene Teilchen, wie z. B. Natrium, Kalium und Chlorid, heißen {dfn}`Elektrolyte`.
+  Sie sind negativ oder positiv geladen, im Körper unterschiedlich verteilt und können dadurch eine elektrische Spannung ausbilden.
 :::
+
+
 
 ## Funktion der Elektrolyte
 
@@ -99,6 +91,8 @@ Dies ist besonders für die Erregungsleitung im Herzen, für die Nerven und den 
 [^zellladung]: Würde man winzig kleine Elektroden in eine Zelle
     und in ihre Umgebung stechen,
     wäre innen der Minuspol und außen der Pluspol.
+
+
 
 (osmose)=
 (diffusion)=
@@ -341,6 +335,8 @@ Cerebral salt wasting Syndrom
 = Hyponatriämie aufgrund paradox hoher renaler Natriumausscheidung infolge einer Störung der zentralen Regulation des Natriumhaushaltes un der Osmoregulation mit hypotoner Dehydration.
 Ursache: SHT, Hirntumoren, intrakranielle Blutungen
 
+
+
 ```{index} single: Wasserclearence, freie
 ```
 
@@ -366,6 +362,8 @@ Beträgt sie 0 bedeutet das, dass die Nieren Urin produzieren, der im Vergleich 
 Ist die freie Wasser-Clearance > 0, produzieren die Nieren durch die Ausscheidung freien Wassers verdünnten hypotonen Urin und es wird mehr Wasser ausgeschieden, als es für einen plasmaisotonen Harn notwendig ist.
 
 Werte \< 0 weisen darauf hin, dass die Nieren Flüssigkeit zurückhalten (z. B. unter ADH-Einfluss).
+
+
 
 ## Osmotische Clearence
 

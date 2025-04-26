@@ -1,6 +1,6 @@
 (vitalfunktion-temperaturregulation)=
 
-# Temperaturhaushalt
+# Temperatur
 
 ## Allgemeines
 

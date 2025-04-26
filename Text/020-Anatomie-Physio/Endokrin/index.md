@@ -1,4 +1,4 @@
-# Endokrines System
+# Endokrin
 
 (allgemeine-anatomie-11)=
 

@@ -6,6 +6,8 @@
 ₢ Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
 :::
 
+
+
 (allgemeine-anatomie-2)=
 
 ## Allgemeines
@@ -25,6 +27,8 @@ Zwei Begriffe müssen zum besseren Verständnis von Antigen-Antikörper-Reaktion
   Sie führen  unter anderem zur Bildung von Antikörpern, die spezifisch gegen Strukturen dieser Moleküle gerichtet sind und mit diesen reagieren können.
 - *Antikörper*: Antikörper (Immunglobuline, Ig) sind Proteine, die von Plasmazellen produziert und sezerniert werden.
   Sie sind gegen Bestandteile eines Antigens gerichtet und besitzen die Fähigkeit an dieses zu binden.
+
+
 
 :::{index} single: Blut, feste Bestandteile
 :::
@@ -183,35 +187,32 @@ Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutv
 Die **flüssigen Bestandteile** des Blutes, das {dfn}`Plasma` besteht zum größten Teil (ca. 90%) aus *Wasser*.
 Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*, *Glukose* und *Fette*, konkret:
 
-```
--   *Proteine 70 %*:
-```
 
-> - Albumine: Zuständig für den Transport von Ca⁺⁺-Ionen,
->   Fettsäuren, Bilirubin, Gallensäuren, Hormonen und Vitaminen. Die
->   Höhe der Albumine bestimmt maßgeblich den kolloidosmotischen Druck
->   im Blut.
->
-> - a1-, a2-, b-Globuline: Transport von freiem Hämoglobin, Eisen,
->   Vitamin B₁₂, Nebennierenrinden-Hormonen, Chylomikronen,
->   Chylomikronenreste (VLDL, LDL, HDL)
->
-> - g-Globuline: Immunglobuline = Antikörper des Immunsystems,
->   gebildet von Plasmazellen.
->
->   - Immunglobulin A (IgA): Abwehrvorgänge an Schleimhäuten
->   - Immunglobulin D (IgD): Oberflächenrezeptor für B-Lymphozyten
->   - Immunglobulin E (IgE):
->     v.a. allergische Reaktionen, parasitäre Infektionen
->   - Immunglobulin ➛ (IgG):
->     wichtigsten Antikörper, 75 % der Immunglobuline
->   - Immunglobulin M (IgM): bei Antigenkontakt
-
+- *Proteine 70 %*:
+  - Albumine: Zuständig für den Transport von Ca⁺⁺-Ionen,
+    Fettsäuren, Bilirubin, Gallensäuren, Hormonen und Vitaminen. Die
+    Höhe der Albumine bestimmt maßgeblich den kolloidosmotischen Druck
+    im Blut.
+ 
+  - a1-, a2-, b-Globuline: Transport von freiem Hämoglobin, Eisen,
+    Vitamin B₁₂, Nebennierenrinden-Hormonen, Chylomikronen,
+    Chylomikronenreste (VLDL, LDL, HDL)
+ 
+  - g-Globuline: Immunglobuline = Antikörper des Immunsystems,
+    gebildet von Plasmazellen.
+ 
+    - Immunglobulin A (IgA): Abwehrvorgänge an Schleimhäuten
+    - Immunglobulin D (IgD): Oberflächenrezeptor für B-Lymphozyten
+    - Immunglobulin E (IgE):
+      v.a. allergische Reaktionen, parasitäre Infektionen
+    - Immunglobulin ➛ (IgG):
+      wichtigsten Antikörper, 75 % der Immunglobuline
+    - Immunglobulin M (IgM): bei Antigenkontakt
 - *niedermolekulare Stoffe*
   (z.B. Nahrungsstoffe, Stoffwechselprodukte, Vitamine, Spurenelemente, Hormone, Zellstoffwechselprodukte, Ausscheidungsprodukte, Enzyme, Fette) 20 %
 - *Elektrolyte* 10 %: Gesamt-Osmotischer Druck im Plasma ca. 290 mosmol / L
 
-Die *Osmolarität* bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit (vgl. {ref}`Osmose und Diffusion <Osmose>`).
+Die **Osmolarität** bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit (vgl. {ref}`Osmose und Diffusion <Osmose>`).
 Normalerweise sollte die Osmolarität intrazellulär gleich sein wie extrazellulär (isoton).
 Infusionslösungen sollten ebenfals isoton sein, d. h. die gleiche Osmolarität besitzen wie das Plasma.
 Wenn man hypertone Lösungen einsetzt (höherer osmotischer Druck), wird Wasser den Zellen entzogen, es kommt zu einer Zellschrumpfung.
@@ -222,36 +223,30 @@ Es enthält weiters die Bestandteile für die plasmatische Blutgerinnung und das
 Durch die Elektrolyte ist es am Wasserhaushalt beteiligt und sorgt mit Puffersubstanzen für einen ausgeglichenen pH-Wert im menschlichen Körper.
 Schlußendlich sorgt es auch für die Wärmeverteilung im Körper.
 
+
+
 (gerinnungsfaktoren)=
 
-## Blutstillung, Blutgerinnung und das Gegenteil davon
+## Blutstillung, Blutgerinnung
+
+Siehe {ref}`Gerinnung-Physiologie`
 
 
-Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
-Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.
-Die einzelnen Komponenten sind netz- und kaskadenartig miteiannder verbunden, wobei sie fördernde als auch hemmende Einflüsse auf die Gerinnung haben können.
 
-Global gesehen beträgt die  *Blutungszeit* durchschnittlich ca. 2 bis 4 Minuten, bei kleineren Verletzungen u. U. auch länger.
 
-Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase) und *Blutgerinnung* (sekundäre Hämostase) ab:
 
-Aktivierung der Thrombokinase - Prothrombin wird hierdurch in Thrombin umgewandelt - das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es kommt zu einer Verfestigung des Thrombus (Retraktion)
+## Fibrinolyse
 
-In einem ersten Schritt haften Blutplättchen an der verletzten Stelle des Blutgefäßes aneinander und bilden einen *Thrombozytenpfropf*, der die Wunde grob verschließt (vorläufiger Wundverschluss, primäre Blutstillung).
-Erst in einem zweiten Schritt kommt es durch die *Blutgerinnung* zum endgültigen Wundverschluss ( sekundäre Blutstillung).
-Für die Bildung der Thrombozytenpfropfen sind die festen Bestandteile des Blutes und für die Blutstillung das Blutplasma (flüssiger Bestandteil) zuständig.
-Am Ende der Wundheilung werden defekte Zellen abgebaut und Bindegewebe aufgebaut.
-
-Bei der Blutgerinnung werden nacheinander mehrere im Blutplasma gelöste Gerinnungsfaktoren  aktiviert.
-Dadurch verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in einen klebrigen und später in einen festen, die Wunde verschließenden Blutpfropfen (Thrombus).
-
-Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben kommt, ist die Fibrinolyse, bei der es zur Auflösung von Thromben kommt.
+Das Gegenstück zur Blutgerinnung, bei der es zur Bildung von Thromben kommt, ist die **Fibrinolyse**, bei der es zur Auflösung von Thromben kommt.
 Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das Blut weder zu schnell noch zu langsam gerinnt.
 
 Phasen der *Fibrinolyse*:
 
-Aktivatoren in Blut und Gewebe — Plasminogen wird in Plasmin umgewandelt
+- Aktivatoren in Blut und Gewebe 
+— Plasminogen wird in Plasmin umgewandelt
 — das Fibrin wird aufgelöst, der Thrombus wird resorbiert.
+
+
 
 (blut-sauerstofftransport)=
 
@@ -285,7 +280,15 @@ Es ist jedoch wichtig zu wissen dass u. a. der {ref}`pH-Wert <PH>` die Sauerst
 Bei einer Azidose nimmt die Affinität ab (Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben), bei einer Alkalose nimmt die Affinität zu (Sauerstoff wird leichter aufgenommen, aber im Gewebe schlechter abgegeben).
 Man kann diese Dynamik auf in einer Grafik auf einer Kurve, der *Sauerstoffbindungskurve*, darstellen.
 
-Die gesamte **Sauerstofftransportkapazität** wird weiters neben der Bindekapazität auch von der Sauerstoffsättigung, vom Herzauswurf (Cardiac Output, CO) und der Herzfrequenz bestimmt.
+Die gesamte **Sauerstoffbindungskapazität** wird weiters neben der Bindekapazität auch von der Sauerstoffsättigung, vom Herzauswurf (Cardiac Output, CO) und der Herzfrequenz bestimmt.
+
+:::{math} Sauerstoffbindungskapazität CaO₂
+\text{CaO₂} = \text{Hb} \times 1,34 \times \text{SaO₂}
+:::
+
+
+
+
 
 ## Blutgruppenmerkmale
 

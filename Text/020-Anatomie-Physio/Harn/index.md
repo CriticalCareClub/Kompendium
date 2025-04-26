@@ -1,6 +1,6 @@
 {{ PROLOG }}
 
-# Harnproduzierendes und -ableitendes System
+# Harn
 
 (allgemeine-anatomie-5)=
 

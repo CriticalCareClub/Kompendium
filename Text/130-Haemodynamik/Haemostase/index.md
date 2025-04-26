@@ -46,12 +46,8 @@ Dadurch verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in
 Haemostase-primaer/index
 Haemostase-sekundaer/index
 Thrombelastometrie/index
-Haemophilie/index
 OAK-Huefte/index
-Blutung-Intra-OP/index
-DICTIC/index
 Labor/index
-HIT/index
 ATT-ICU/index
 :::
 

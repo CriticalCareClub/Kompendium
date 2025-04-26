@@ -51,6 +51,17 @@ KRL_Kreislaufstillstand/index
 
 :::{toctree}
 :maxdepth: 1
+:caption: Gerinnung
+
+GER_Blutung-Intra-OP/index
+GER_Haemophilie/index
+GER_DICTIC/index
+GER_HIT/index
+GER_vWF/index
+:::
+
+:::{toctree}
+:maxdepth: 1
 :caption: Abdomen
 
 ABD_Allgemein/index

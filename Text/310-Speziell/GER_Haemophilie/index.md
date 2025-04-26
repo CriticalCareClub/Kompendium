@@ -13,7 +13,7 @@
 (Haemophilie-A)=
 (Haemophilie-B)=
 
-# Hämophilie 
+# Gerinnung / Hämophilie 
 
 A (VIII-Mangel) + B (IX-Mangel) (vWF ist normal vorhanden!)
 

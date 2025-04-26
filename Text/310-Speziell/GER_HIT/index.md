@@ -1,4 +1,4 @@
-# Heparin induzierte Thrombopenie 
+# Gerinnung / Heparin induzierte Thrombopenie 
 
 <!-- 25.9.  -->
 

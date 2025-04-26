@@ -83,7 +83,6 @@ ABD_Diarrhoe/index
 :maxdepth: 1
 :caption: Sonstiges
 
-Gerinnung/index
 Anaphylaxie/index
 Leber/index
 Infektion/index

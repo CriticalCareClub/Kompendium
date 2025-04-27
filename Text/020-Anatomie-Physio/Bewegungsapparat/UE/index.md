@@ -159,17 +159,18 @@ Die Symphyse stellt eine straffe Knorpelverbindung vorne zwischen den beiden Bec
 (Dehnungsfuge, für Geburtsvorgang notwendig).
 Dieser ist normalerweise um 60° geneigt.
 
-{deep}`Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae ant., Ligg. sacroiliacae interossea, Lig. sacroiliacae post., Lig.
-iliolumbale, Lig. sacrotuberale, Lig. sacrospinale.``
+{.deep}
+Dieser Ring wird durch mehrere Bänder stabilisiert: Lig. sacroiliacae ant., Ligg. sacroiliacae interossea, Lig. sacroiliacae post., Lig. iliolumbale, Lig. sacrotuberale, Lig. sacrospinale.
 
 Im Beckenraum kann man zwei Bereiche unterscheiden.
 Das **große Becken** wird von den Beckenschaufeln eingefasst.
 Dieser Bereich wird noch zum *Abdomen* gerechnet.
 Die *Linea terminalis* grenzt das große vom **kleinen Becken** ab.
-Sie führt vom Promontorium über die Linea arcuata und die Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior
-(Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis inferior) wird vom muskulären Beckenboden verschlossen.
+Sie führt vom Promontorium über die Linea arcuata und die Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior (Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis inferior) wird vom muskulären Beckenboden verschlossen.
 
-Im Vergleich zwischen Mann und Frau weist das Becken spezifische *Geschlechtsunterschiede* auf. In seiner Gesamtform ist das Becken der Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger. Die Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher längsoval. Das Foramen obturatorium ist beim Mann rundlich, bei der Frau queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim Mann, kleiner als 70°).
+Im Vergleich zwischen Mann und Frau weist das Becken spezifische *Geschlechtsunterschiede* auf. In seiner Gesamtform ist das Becken der Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger.
+Die Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher längsoval.
+Das Foramen obturatorium ist beim Mann rundlich, bei der Frau queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim Mann, kleiner als 70°).
 
 Das Becken wird nach kaudal durch den *Beckenboden* — mehrere Schichten von Bindegewebe und Muskulatur — verschlossen.
 Von superficial nach profund unterscheidet man:
@@ -193,6 +194,8 @@ Von superficial nach profund unterscheidet man:
   - M. sphincter ani externus
   - [M. bulbospongiosus]{.deep}
   - [M. isciocavernosus]{.deep}
+
+
 
 ## Gelenke
 

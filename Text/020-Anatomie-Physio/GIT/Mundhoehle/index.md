@@ -30,12 +30,12 @@ In der Mundhöhle wird die Nahrung über den Mund aufgenommen und durch die Zäh
 - hinten: Übergang in den Pharynx (Rachenenge: Isthmus faucium)
 
 Die Mundhöhle kann in den Mundvorhof
-{deep}`(Vestibulum oris)`, der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche Mundhöhle {deep}`(Cavitas oris propria)` unterteilt werden.
-Diese geht dann im Schlund {deep}`(Fauces)`
-mit der Rachenenge {deep}`(Isthmus faucium)` in den Rachen
+[(Vestibulum oris)]{.deep}, der Bereich zwischen Lippen und Zähnen, sowie in die eigentliche Mundhöhle [(Cavitas oris propria)]{.deep} unterteilt werden.
+Diese geht dann im Schlund [(Fauces)]{.deep}
+mit der Rachenenge [(Isthmus faucium)]{.deep} in den Rachen
 (Pharynx) über.
 Die *Rachenenge* (Isthmus faucium) wird seitlich von zwei Gaumenbögen
-{deep}`(Arcus palatoglossus, Arcus palatopharyngeus)`
+[(Arcus palatoglossus, Arcus palatopharyngeus)]{.deep}
 mit der in ihrer Mitte liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen beiden Bögen liegen die Gaumenmandeln (Tonsillae palatinae).
 
 % Der *Gaumen* wird aus folgenden Muskeln gebildet:
@@ -47,7 +47,7 @@ mit der in ihrer Mitte liegenden Uvula (Zäpfchen) begrenzt. Zwischen diesen bei
 % -   M. uvulae - verkürzt die Uvula
 
 Der Mundboden wird aus den
-{deep}`suprahyoidalen` Muskeln[^suprahyoidalenmuskeln]
+[suprahyoidalen]{.deep} Muskeln[^suprahyoidalenmuskeln]
 gebildet.
 Sie sind beteiligt beim Öffnen des Mundes und beim Schlucken.
 
@@ -59,7 +59,7 @@ Die *Zunge* besteht aus quergestreiftem Muskel[^zungenmuskeln].
 Neben ihrer Rolle als *Sinnesorgan* für Geschmacks- und Tastempfindungen spielt die Zunge auch eine wichtige Rolle beim *Sprechen* und Schlucken von Nahrung und Speichel.
 Ihre Muskeln können grob in *innere und äußere Zungenmuskeln* eingeteilt werden und ermöglichen Zungenbewegungen in allen drei Raumebenen.
 Um alle feinen Bewegungen der Zunge zu ermöglichen, gibt es die meisten Zungenmuskeln paarig — in der Mitte werden die beiden Zungenhälften durch eine Zwischensehne
-{deep}`(Septum linguale)` getrennt.
+[(Septum linguale)]{.deep} getrennt.
 
 Die Innervation der Zunge erfolg über {ref}`Hirnnerven <Hirnnerven>`, speziell motorisch über den **N. hypoglossus** (**XII**), sensibel über *N. glossopharyngeus* (**IX**)
 und *N. vagus* (**X**) im hinteren Drittel sowie über den *N. trigeminus* (**V**) in den vorderen zwei Dritteln.
@@ -104,10 +104,10 @@ Die Zähne sind auf 4 Quadranten, jeweils rechts—links im Ober- und Unterkiefe
 Nach den Milchzähnen (20 Stück) im Kindesalter zerkleinern die bleibenden Zähne (32 Stück) die zugeführte Nahrung.
 Abhängig von der jeweiligen Form und Aufgabe unterscheidet man pro Quadrant:
 
-- 2 Schneidezähne {deep}`(Dens incisivus)`: Abbeißen
-- 1 Eckzahn {deep}`(Dens caninus)`: Reißen, Festhalten
-- 2 Backenzähne ("Premolare", {deep}`Dens premolaris`): Mahlen
-- 3 Mahlzähne ("Molare", {deep}`Dens molaris`): Mahlen
+- 2 Schneidezähne [(Dens incisivus)]{.deep}: Abbeißen
+- 1 Eckzahn [(Dens caninus)]{.deep}: Reißen, Festhalten
+- 2 Backenzähne ("Premolare", [Dens premolaris]{.deep}): Mahlen
+- 3 Mahlzähne ("Molare", [Dens molaris]{.deep}): Mahlen
 
 :::{admonition} Zahnformel
 ```
@@ -137,10 +137,10 @@ Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7, lateraler Schn
 
 Der Dens (Zahn) besteht aus der *Zahnkrone* (*Corona dentis*), dem *Zahnhals* (*Cervix dentis*)
 und der *Zahnwurzel* (*Radix dentis*).
-Drei knochenähnliche Substanzen — Zahnbein {deep}`(Dentin)`, Zahnschmelz {deep}`(Enamelum)`
-und Zement {deep}`(Cementum)` —
+Drei knochenähnliche Substanzen — Zahnbein [(Dentin)]{.deep}, Zahnschmelz [(Enamelum)]{.deep}
+und Zement [(Cementum)]{.deep} —
 bauen den Zahn auf.
-Über die Wurzelhaut {deep}`(Desmodontium)` ist der Zahn federnd im Wurzelfach {deep}`(Alveole)` des Kiefers befestigt. Eigene Kollagenfasern {deep}`(Sharpey-Fasern)` durchziehen das Desmodontium.
+Über die Wurzelhaut [(Desmodontium)]{.deep} ist der Zahn federnd im Wurzelfach [(Alveole)]{.deep} des Kiefers befestigt. Eigene Kollagenfasern [(Sharpey-Fasern)]{.deep} durchziehen das Desmodontium.
 Das Zahnbein ist schmerzempfindlich.
 Der Zahnhals und die beiden Kieferbögen sind von Zahnfleisch (Gingiva) bedeckt.
 

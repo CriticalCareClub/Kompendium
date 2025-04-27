@@ -7,9 +7,8 @@
 
 # Rumpf (Truncus)
 
-Zum Rumpfskelett gehören die Columna vertebralis (Wirbelsäule) sowie die
-Knochen des Thorax (Brustkorbs) - Costae (Rippen) und Sternum
-(Brustbein).
+Zum Rumpfskelett gehören die  *Wirbelsäule* (Columna vertebralis) sowie die
+Knochen des **Brustkorbs** (**Thorax**), **Rippen** (*Costae*) und das **Brustbein** (**Sternum**).
 
 ```{toctree}
 :maxdepth: 1

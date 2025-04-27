@@ -131,9 +131,9 @@ Innerhalb des Knorpelgewebes kann man **hyalinen** (z. B. Gelenksknorpel), **e
 ```
 ```{index} single: Gelenkfläche
 ```
-```{index} single: Kopf (Knochen) 
+```{index} single: Kopf (Knochen)
 ```
-```{index} single: Hals (Knochen) 
+```{index} single: Hals (Knochen)
 ```
 ```{index} single: Schaft (Knochen)
 ```
@@ -163,11 +163,11 @@ Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des
   centralis) angeordnet. Der Begriff Osteon beschreibt diesen
   Gefäßkanal mit seinen Lamellen.
 
-```{index} single: Knochen;platte - 
+```{index} single: Knochen;platte -
 ```
-```{index} single: Knochen;Röhren- 
+```{index} single: Knochen;Röhren-
 ```
-```{index} single: Knochen;Würfel- 
+```{index} single: Knochen;Würfel-
 ```
 ```{index} single: Knochen;irreguläre -
 ```
@@ -176,21 +176,21 @@ Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des
 
 Vereinfacht kann man nach ihrem Aussehen unterschiedliche Knochenformen unterscheiden:
 
-- **Röhrenknochen** {deep}`(Ossa longa)`:
+- **Röhrenknochen** [(Ossa longa)]{.deep}:
   bestehen aus einem
   langen, röhrenförmigen Schaft mit zwei meist verdickten Enden:
   z. B. Oberarmknochen, Oberschenkelknochen, Schienbein
-- **platte Knochen** {deep}`(Ossa plana)`
+- **platte Knochen** [(Ossa plana)]{.deep}
   sind flache, kompakte Knochen,
   z. B. Beckenknochen, Schulterblatt, Brustbein, Schädel
-- **kurze Knochen** {deep}`(Ossa brevia)`, z. B. Handwurzelknochen)
-- **unregelmäßige Knochen** {deep}`(Ossa irregularia)`
+- **kurze Knochen** [(Ossa brevia)]{.deep}, z. B. Handwurzelknochen)
+- **unregelmäßige Knochen** [(Ossa irregularia)]{.deep}
   können aufgrund ihrer Form in keine der vorgenannten Gruppen eingeordnet werden,
   z. B. Unterkieferknochen, Wirbelknochen, Jochbein
-- **beflüftete Knochen** {deep}`(Ossa pneumatica)`
+- **beflüftete Knochen** [(Ossa pneumatica)]{.deep}
   beinhalten Luftkammern,
   z. B. Gesichtsknochen mit Nebenhöhlen
-- **Sesambeine** {deep}`(Ossa sesamoidea)`: z. B. Kniescheiben
+- **Sesambeine** [(Ossa sesamoidea)]{.deep}: z. B. Kniescheiben
 
 Das klassische Beispiel eines Knochens ist immer der Röhrenknochen. An ihm kann man zwei *Epiphysen* (Knochenenden), zwei *Metaphysen*
 (Knochenhals) und eine *Diaphyse* (Knochenschaft) unterscheiden. Im Bereich der Metaphyse befindet sich die **Epiphysenfuge**
@@ -311,9 +311,9 @@ Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brot
 ```
 ```{index} single: Herzmuskulatur
 ```
-```{index} single: Muskulatur, Skelett- 
+```{index} single: Muskulatur, Skelett-
 ```
-```{index} single: Muskulatur, Herz- 
+```{index} single: Muskulatur, Herz-
 ```
 ```{index} single: Muskulatur, glatte
 ```

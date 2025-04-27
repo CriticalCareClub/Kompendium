@@ -48,9 +48,9 @@ Truncus brachiocephalicus
 
   - A. profunda brachii
 
-  - {deep}`A. collateralis ulnaris superior`
+  - [A. collateralis ulnaris superior]{.deep}
 
-  - {deep}`A. collateralis ulnaris inferior`
+  - [A. collateralis ulnaris inferior]{.deep}
 
   - Endäste:
 
@@ -68,34 +68,34 @@ Truncus brachiocephalicus
 
     1. vordere Äste:
 
-       - {deep}`A. thyroidea superior`
-       - {deep}`A. lingualis`
-       - {deep}`A. facialis`
+       - [A. thyroidea superior]{.deep}
+       - [A. lingualis]{.deep}
+       - [A. facialis]{.deep}
 
     2. mediale bzw. hintere Äste:
 
-       - {deep}`A. pharyngea ascendens`
-       - {deep}`A. occipitalis`
-       - {deep}`A. auricularis posterior`
+       - [A. pharyngea ascendens]{.deep}
+       - [A. occipitalis]{.deep}
+       - [A. auricularis posterior]{.deep}
 
     3. Endäste:
 
-       - {deep}`A. temporalis superficialis`
-       - {deep}`A. maxillaris`
+       - [A. temporalis superficialis]{.deep}
+       - [A. maxillaris]{.deep}
 
   - **A. carotis interna** (4 Anteile):
 
-    1. {deep}`Pars cervicalis — ohne Äste`
+    1. [Pars cervicalis — ohne Äste]{.deep}
 
-    2. {deep}`Pars petrosa — im Os temporale`
+    2. [Pars petrosa — im Os temporale]{.deep}
 
-       - {deep}`Aa. caroticotympanicae`
+       - [Aa. caroticotympanicae]{.deep}
 
     3. {deep}`Pars cavernosa ➛ im Corpus cavernosum, Siphon caroticum`
 
-       - {deep}`A. hypophysialis inferior`
+       - [A. hypophysialis inferior]{.deep}
 
-    4. {deep}`Pars cerebralis`
+    4. [Pars cerebralis]{.deep}
 
        - **A. ophthalmica**
        - A. communicans posterior
@@ -129,11 +129,11 @@ Truncus brachiocephalicus
 (mit * unpaare Äste der Aorta)
 
 :::{hlist}
-- {deep}`A. phrenica inferior (p)`
+- [A. phrenica inferior (p)]{.deep}
 
-- {deep}`Aa. lumbales (p)`
+- [Aa. lumbales (p)]{.deep}
 
-- {deep}`A. sacralis mediana (p)`
+- [A. sacralis mediana (p)]{.deep}
 
 - Truncus coeliacus * (v)
 
@@ -145,7 +145,7 @@ Truncus brachiocephalicus
 
 - A. mesenterica inferior\* (v)
 
-- {deep}`A. suprarenalis media (v)`
+- [A. suprarenalis media (v)]{.deep}
 
 - A. renalis (v)
 
@@ -161,8 +161,8 @@ Ca. auf Höhe des 4. Lendenwirbelkörper, Teilung in A. iliaca communis
   :::{hlist}
   - parietale Äste
 
-    - {deep}`A. iliolumbalis`
-    - {deep}`Aa. sacralis laterales`
+    - [A. iliolumbalis]{.deep}
+    - [Aa. sacralis laterales]{.deep}
     - A. obturatoria (g Corona mortis, Anastomose mit A. epigastrica inferior)
     - A. glutea superior
     - A. glutea inferior (g A. comitans n. ischiadici)
@@ -171,17 +171,17 @@ Ca. auf Höhe des 4. Lendenwirbelkörper, Teilung in A. iliaca communis
 
     - A. umbilicalis
     - A. uterina
-    - {deep}`A. vesicalis inferior`
-    - {deep}`A. vaginalis`
-    - {deep}`A. rectalis media`
-    - {deep}`A. pudenda interna`
-    - {deep}`A. rectalis inferior`
-    - {deep}`A. perinealis`
-    - {deep}`Rr. labiales posteriores bzw. scrotales`
+    - [A. vesicalis inferior]{.deep}
+    - [A. vaginalis]{.deep}
+    - [A. rectalis media]{.deep}
+    - [A. pudenda interna]{.deep}
+    - [A. rectalis inferior]{.deep}
+    - [A. perinealis]{.deep}
+    - [Rr. labiales posteriores bzw. scrotales]{.deep}
     - A. urethralis
-    - {deep}`A. bulbi vestibuli bzw. bulbi penis`
-    - {deep}`A. profunda clitoridis bzw. penis`
-    - {deep}`A. dorsalis clitoridis bzw. penis`
+    - [A. bulbi vestibuli bzw. bulbi penis]{.deep}
+    - [A. profunda clitoridis bzw. penis]{.deep}
+    - [A. dorsalis clitoridis bzw. penis]{.deep}
   :::
 
 - **A. iliaca externa**

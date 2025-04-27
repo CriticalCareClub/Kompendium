@@ -54,7 +54,7 @@ Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
 (*fliegende Rippen*, Costae fluctuantes).
 Der Raum zwischen benachbarten Rippen heißt **Intercostalraum** (**ICR**).
 
-Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und der Rippenknorpel (Cartilago costalis) zusammen. {deep}`An jedem Rippenknochen können Rippenkopf (Caput costae), Rippenhals (Collum costae), Rippenkörper (Corpus costae) mit der` *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die *Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
+Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und der Rippenknorpel (Cartilago costalis) zusammen. [An jedem Rippenknochen können Rippenkopf (Caput costae), Rippenhals (Collum costae), Rippenkörper (Corpus costae) mit der]{.deep} *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die *Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
 unterschieden werden. {deep}`Der Sulcus costalis fehlt an der 1., 2. und 12.
 Rippe.` Die Rippen sind, um den Thorax zu formen, nach innen gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral, sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
 
@@ -129,7 +129,7 @@ Zwischen den Rippen spannt sich die {dfn}`Zwischenrippenmuskulatur`
 
 Von den **echten Atemmuskeln**[^echteatemmuskeln] ist das **Zwerchfell** (*Diaphragma*) als **wichtigster Atemmuskel** zu nennen.
 Es ist kuppelförmig, linke Zwerchfellkuppel liegt tiefer als die rechte (Leber), kaudale Begrenzung zwischen Thorax und Abdomen (Bauchraum), die Höhe der Zwerchfellkuppeln unterscheidet sich zwischen Exspiration (links: 5. Rippe, rechts: 4. Rippe) und Inspiration (3-6 cm nach kaudal).
-Durch drei Zwerchfellöffnungen passieren die V. cava inferior und der N. phrenicus dext. {deep}`(Foramen V. cavae)`, die Aorta und  der Ductus thoracicus {deep}`(Hiatus aorticus)`, sowie durch den **Hiatus** *oesophageus* der Ösophagus, N. vagus. der Ösophagus und der N. vagus.
+Durch drei Zwerchfellöffnungen passieren die V. cava inferior und der N. phrenicus dext. [(Foramen V. cavae)]{.deep}, die Aorta und  der Ductus thoracicus [(Hiatus aorticus)]{.deep}, sowie durch den **Hiatus** *oesophageus* der Ösophagus, N. vagus. der Ösophagus und der N. vagus.
 
 [^echteatemmuskeln]: *Echte Atemmuskeln*:
 

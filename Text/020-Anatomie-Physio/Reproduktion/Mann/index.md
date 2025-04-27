@@ -26,13 +26,13 @@ Sie liegen im *Hodensack (Scrotum)*.
 Nach ihrer Entstehung an der Rückwand der Bauchhöhle treten sie am Ende der Fetalentwicklung durch den Leistenkanal in den Hodensack (*Descensus testis*).
 Hierdurch wird eine niedrigere Temperatur ermöglicht, die für die Heranreifung der Samen wichtig ist.
 
-Der Hoden hat eine derbe, *bindegewebige Hülle* {deep}`(Tunica albuginea)`, von dieser gehen Septen {deep}`(Septula testis)`` nach innen ab und unterteilen den Hoden in *Läppchen* {deep}`(Lobuli, >200)`.
-Diese Lobuli enthalten {deep}`jeweils 2-4 stark geschlängelte` Hodenkanälchen {deep}`(Tubuli seminiferi contorti)`.
+Der Hoden hat eine derbe, *bindegewebige Hülle* [(Tunica albuginea)]{.deep}, von dieser gehen Septen [(Septula testis)]{.deep}` nach innen ab und unterteilen den Hoden in *Läppchen* {deep}`(Lobuli, >200)`.
+Diese Lobuli enthalten [jeweils 2-4 stark geschlängelte]{.deep} Hodenkanälchen [(Tubuli seminiferi contorti)]{.deep}.
 {deep}`Die Gesamtlänge der Hodenkanälchen würde ungefähr 350 m betragen.`
 Im Epithel der Kanälchen findet die **Spermatogenese** statt.
-Die geraden Hodenkanälchen {deep}`(Tubuli seminiferi recti)` verbinden die geschlängelten {deep}`Tubuli seminiferi contorti`
-mit einem feinen Netzwerk an kommunizierenden Kanälen, den {deep}`Rete testis`, welches diese  mit den Ausfürungsgänge des Hodens
-{deep}`(Ductuli efferentes)` verbindet.
+Die geraden Hodenkanälchen [(Tubuli seminiferi recti)]{.deep} verbinden die geschlängelten [Tubuli seminiferi contorti]{.deep}
+mit einem feinen Netzwerk an kommunizierenden Kanälen, den [Rete testis]{.deep}, welches diese  mit den Ausfürungsgänge des Hodens
+[(Ductuli efferentes)]{.deep} verbindet.
 
 Die *Leydig-Zellen* im Bindegewebe zwischen den Hodenkanälchen bilden die männlichen Geschlechthormone (v. a. *Testosteron*).
 Dieses Hormon fördert die Samenzellbildung, das Wachstum der äußeren Geschlechtsmerkmale, das geschlechtsspezifische Verhalten und hat eine anabole Wirkung auf den Stoffwechsel.
@@ -178,7 +178,7 @@ Drei *Schwellkörper* ermöglichen durch Blutaufnahme die Erektion des Penis:
   durch Septum penis
   getrennt, über zwei Schenkel an Os pubis befestigt
 - Corpus spongiosum penis (unpaar): umgibt Harnröhre,
-  {deep}`am Ansatz Bulbus penis mit den Mm. bulbospongiosi.`
+  [am Ansatz Bulbus penis mit den Mm. bulbospongiosi.]{.deep}
   Dadurch dass sich dieser Körper
   nicht so sehr mit Blut füllt, wird die Harnröhre nicht abgedrückt
   und die Ejakulation ermöglicht.

@@ -107,9 +107,9 @@ Der gesamte Magen-Darm-Trakt zeigt einen charakteristischen Wandaufbau:
 
 - {index}`Tunica mucosa` (Schleimhaut)
 
-  - {deep}`Lamina epithelialis`
-  - {deep}`Lamina propria`
-  - {deep}`Lamina muscularis mucosae`
+  - [Lamina epithelialis]{.deep}
+  - [Lamina propria]{.deep}
+  - [Lamina muscularis mucosae]{.deep}
 
 - {index}`Tunica submucosa` (lockere Bindegewebsschicht)
 

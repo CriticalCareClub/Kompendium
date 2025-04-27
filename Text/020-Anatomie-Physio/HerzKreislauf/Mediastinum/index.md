@@ -30,7 +30,7 @@ Als diagnostische Maßnahme ist die **Mediastinoskopie**, ein endoskopischer Zug
 
 [^mediastinum-einteilung]: Das Mediastinum kann in mehrere Bereiche eingeteilt werden:
 
-    - {deep}`Mediastinum superius`:
+    - [Mediastinum superius]{.deep}:
       A. thoracica interna,
       Vv. brachiocephalicae,
       V. cava superior, **Thymus** (Bries),
@@ -42,11 +42,11 @@ Als diagnostische Maßnahme ist die **Mediastinoskopie**, ein endoskopischer Zug
       **Ösophagus** (Speiseröhre),
       *Ductus thoracicus*
 
-    - {deep}`Mediastinum inferius`:
+    - [Mediastinum inferius]{.deep}:
 
-      - {deep}`Mediastinum anterius:`
+      - [Mediastinum anterius:]{.deep}
         A. thoracica interna
-      - {deep}`Mediastinum medius:`
+      - [Mediastinum medius:]{.deep}
         **Herz** (Cor),
         **Aorta ascendens**,
         **Truncus pulmonalis**,
@@ -54,7 +54,7 @@ Als diagnostische Maßnahme ist die **Mediastinoskopie**, ein endoskopischer Zug
         V. cava superior,
         V. azygos,
         A. und V. percardiacophrenica
-      - {deep}`Mediastinum posterius:`
+      - [Mediastinum posterius:]{.deep}
         **Aorta descendens** mit deren Abgängen,
         V. azygos,
         V. hemiazygos,

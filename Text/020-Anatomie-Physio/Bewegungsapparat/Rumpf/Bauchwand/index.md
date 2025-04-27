@@ -55,9 +55,9 @@ Der M. psoas major vereinigt sich im Beckenbreich mit dem M. iliacus zum *M. ili
 Alle Bauchmuskeln wirken als *Atemhilfsmuskeln* bei der Atmung mit
 (forcierte Exspiration).
 
-Wie bereits erwähnt, bildet der kaudalste Anteil des {deep}`M. obliquus externus abdominis` das **Leistenband** {deep}`(Lig. inguinale)`.
+Wie bereits erwähnt, bildet der kaudalste Anteil des [M. obliquus externus abdominis]{.deep} das **Leistenband** [(Lig. inguinale)]{.deep}.
 Über dises verläuft der **Leistenkanal** als Verbindung vom Bauchraum zur Genitalregion. Diese Verbindung ist insbesondere bei der Genitalentwicklung des Mannes wichtig für das Hinabwandern der Hoden vom Ort ihrer Anlage in der dorsalen Bauchregion Richtung Hodensackden
-{deep}`(Descensus testis)`.
+[(Descensus testis)]{.deep}.
 
 Der M. rectus abdominis wird durch die Aponeurosen der seitlichen Bauchmuskeln umhüllt (*Rektusscheide*). Die Rektusscheide unterscheidet sich in ihrem Aufbau oberhalb und unterhalb des Nabels -
 die Grenze bildet die *Linea arcuata* (bogenförmige Linie). In der Mitte sind alle Aponeurosen über die *Linea alba* (weiße Linie) miteinander verbunden.

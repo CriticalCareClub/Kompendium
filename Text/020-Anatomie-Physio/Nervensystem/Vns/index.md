@@ -176,20 +176,20 @@ Sie sind somit Ansatzpunkt für diverse Medikamente, klassische, aber nicht auss
 
   - α1
 
-  - {deep}`α1A`
+  - [α1A]{.deep}
 
-    {deep}`α1B`
+    [α1B]{.deep}
 
-    {deep}`α1D`
+    [α1D]{.deep}
 - -
 
   - α2
 
-  - {deep}`α2A`
+  - [α2A]{.deep}
 
-    {deep}`α2B`
+    [α2B]{.deep}
 
-    {deep}`α2C`
+    [α2C]{.deep}
 - - β
 
   - β1

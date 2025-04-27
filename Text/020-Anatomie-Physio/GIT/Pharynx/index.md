@@ -14,8 +14,8 @@ Während des Schluckaktes wird der untere Atemwegstrakt verschlossen, um ein Ein
 - **Unwillkürliche** Phase:
 
   - **Anheben des weichen Gaumens** gegen die hinterer Pharynxwand
-    {deep}`(Passavant'scher Wulst)` durch
-    {deep}`M. levator veli palatini und M. tensor veli palatini`. Nun sind die oberen Luftwege vom Speiseweg
+    [(Passavant'scher Wulst)]{.deep} durch
+    [M. levator veli palatini und M. tensor veli palatini]{.deep}. Nun sind die oberen Luftwege vom Speiseweg
     abgetrennt.
   - **Anheben von Os hyoideum und Larynx** durch
     *Kontraktion des Mundbodens*,

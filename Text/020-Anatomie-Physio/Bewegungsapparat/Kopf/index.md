@@ -44,8 +44,8 @@ Am Kopfschädel können zwei Abschnitte unterschieden werden:
 - **Oberkiefer** (*Maxilla*): unpaar
 - **Gaumenbein** (Os *palatinum*): paarig
 - **Unterkiefer** (*Mandibula*): unpaar
-- {deep}`Corpus: Foramen mentale, Angulus mandibulae.`
-- {deep}`Ramus: Proc. coronoideus, Proc. condylaris mit Caput mandibulae und Collum mandibulae, darunter Incisura mandibulae, Foramen mandibulae.`
+- [Corpus: Foramen mentale, Angulus mandibulae.]{.deep}
+- [Ramus: Proc. coronoideus, Proc. condylaris mit Caput mandibulae und Collum mandibulae, darunter Incisura mandibulae, Foramen mandibulae.]{.deep}
 
 Die **Schädelbasis** ist der Bereich der Schädelknochen, die das Gehirn tragen.
 
@@ -76,10 +76,10 @@ Aufsicht auf die Schädelbasis
 Am Schädeldach (Kalotte) kann man beim Erwachsenen einige **Schädelnähte**
 (*Suturen*: Syndesmosen / Synostosen) erkennen. Die wichtigsten sind:
 
-- Kranznaht {deep}`(Sutura coronalis)`
-- Pfeilnaht {deep}`(Sutura sagittalis)`
-- Lambdanaht {deep}`(Sutura lambdoidea)`
-- Schuppennaht {deep}`(Sutura squamosa)`
+- Kranznaht [(Sutura coronalis)]{.deep}
+- Pfeilnaht [(Sutura sagittalis)]{.deep}
+- Lambdanaht [(Sutura lambdoidea)]{.deep}
+- Schuppennaht [(Sutura squamosa)]{.deep}
 
 Die Schädelnähte sind Überbleibsel aus der Wachstumsphase des Menschen — im Gegensatz zu den Röhrenknochen (indirekte Ossifikation) findet hier das Knochenwachstum *am Knochenrand* (direkte Ossifikation) statt. Am Schädel eines *Neugeborenen* liegen zwischen den einzelnen Knochenkernen bindegewebige Lücken. Zwischen den Ossae frontales und den Ossae parietales sowie dem Os occipitale und Ossae parietales gibt es aufgrund der hier charakteristischen desmalen Ossifikation speziell große Wachstumszonen, die **Fontanellen**:
 
@@ -110,9 +110,9 @@ Hier werden zwei Gruppen unterschieden:
   innerviert.
 
   - M. **masseter**: Kieferschluss, kräftigster Muskel
-  - {deep}`M. temporalis: Kieferschluss`
-  - {deep}`M. pterygoideus medialis: Kieferschluss`
-  - {deep}`M. pterygoideus lateralis: Kieferöffnung`
+  - [M. temporalis: Kieferschluss]{.deep}
+  - [M. pterygoideus medialis: Kieferschluss]{.deep}
+  - [M. pterygoideus lateralis: Kieferöffnung]{.deep}
 
 ## Kiefergelenk (Art. temporomandibularis)
 

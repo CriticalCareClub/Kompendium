@@ -1,5 +1,3 @@
-{{ PROLOG }}
-
 (untere-extremitaet)=
 
 # Untere Extremität (Membrum inferius)
@@ -42,52 +40,56 @@ Zur unteren Extremität gehören folgende Skelett-Anteile:
   - Ossa digitorum (Zehenknochen):
     Phalanx proximalis, distalis I-V; media nur II-V (insg. 14 Ossa digitorum)!
 
+
+
 ## Knochen
 
 ### Beckenknochen (Os coxae)
 
-Das Os coxae besteht aus drei verschiedenen Knochenteilen - dem *Os ilium* (Darmbein), dem *Os pubis* (Schambein) und dem *Os ischii*
-(Sitzbein) - die im Bereich des Acetabulums (Hüftgelenkpfanne)
-aufeinandertreffen. Dort verknöchert zwischen dem 14. und 16. Lebensjahr die Wachstumsfuge (Y-Fuge).
+Das **Os coxae** besteht aus drei verschiedenen Knochenteilen:
+- **Os ilium** (*Darmbein*)
+  - [Corpus, Ala mit Facies glutea und Fossa iliaca, Crista iliaca mit der Spina iliaca anterior superior und der Spina iliaca anterior inferior, Spina iliaca posterior superior und der Spina iliaca posterior inferior.]{.deep}
+- **Os pubis** (*Schambein*)
+  - [Corpus, Ramus superior und inferior.]{.deep}
+- **Os ischii** (*Sitzbein*)
+  - [Corpus, Spina ischiadica, Ramus ischiadicum mit dem Tuber ischiadicum.]{.deep}
 
-Acetabulum: Limbus acetabuli, Fossa acetabuli, Fascies lunata, Incisura acetabuli verschlossen durch das Lig. transversum acetabuli (bildet somit einen Teil der Gelänksfläche des Hüftgelenks!)
+Diese teile treffen im Bereich des **Acetabulums** (*Hüftgelenkpfanne*) aufeinander.
+Dort verknöchert zwischen dem 14. und 16. Lebensjahr die Wachstumsfuge (Y-Fuge).
+
+Strukturen des Acetabulum
+: Limbus acetabuli, Fossa acetabuli, Fascies lunata, Incisura acetabuli verschlossen durch das Lig. transversum acetabuli (bildet somit einen Teil der Gelänksfläche des Hüftgelenks!)
 
 Foramen obturatorium
 
-Os pubis: Corpus, Ramus superior und inferior.
 
-Os ilium: Corpus, Ala mit Facies glutea und Fossa iliaca, Crista iliaca mit der Spina iliaca anterior superior und der Spina iliaca anterior inferior, Spina iliaca posterior superior und der Spina iliaca posterior inferior.
-
-Os ischium: Corpus, Spina ischiadica, Ramus ischiadicum mit dem Tuber ischiadicum.
 
 ### Femur
 
-Der {dfn}`Femur` (*Oberschenkelknochen*) bildet als einziger Knochen den Oberschenkel. Er ist gekenzeichnet durch einen ausgeprägten
-{dfn}`Schenkelhals` mit "Knick" zwischen Kopf-Hals-Bereich und Körper.
-Proximal ist  der Femur am Hüftgelenk beteiligt, distal endet er im Kniegelenk.
+Der **Femur** (*Oberschenkelknochen*) bildet als einziger Knochen den Oberschenkel.
+Er ist gekenzeichnet durch einen ausgeprägten **Schenkelhals** mit "Knick" zwischen Kopf-Hals-Bereich und Körper.
+Proximal ist der Femur am Hüftgelenk beteiligt, distal endet er im Kniegelenk.
 
-Veränderungen im Winkel zwischen Collum und Corpus (CCD) - beim Kind ca.
-150°, beim Erwachsenen ca. 126° und beim alten Menschen unter 126°.
+Veränderungen im Winkel zwischen Collum und Corpus (CCD) - beim Kind ca. 150°, beim Erwachsenen ca. 126° und beim alten Menschen unter 126°.
 
-Extremitas proximalis: Caput femoris, Fovea capitis femoris, Collum femoris, Trochanter major, Trochanter minor, Linea intertrochanterica
+Strukturen:
+- *Extremitas proximalis*: Caput femoris, Fovea capitis femoris, Collum femoris, Trochanter major, Trochanter minor, Linea intertrochanterica
 (ventral), Crista intertrochanterica (dorsal)
+- *Corpus femoris*: Linea aspera (dorsal)
+- *Extremitas distalis*: Condylus medialis, Condylus lateralis, Facies patellaris (ventral), Fossa intercondylaris (dorsal), Epicondylus medialis, Epicondylus lateralis.
 
-Corpus femoris: Linea aspera (dorsal)
 
-Extremitas distalis: Condylus medialis, Condylus lateralis, Facies patellaris (ventral), Fossa intercondylaris (dorsal), Epicondylus medialis, Epicondylus lateralis.
 
 ### Patella
 
-Die
-{dfn}`Patella` (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestreckers.
+Die **Patella** (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestreckers.
 
-Basis patellae
+- Basis patellae
+- Apex patellae
+- Facies anterioris patellae
+- Facies posterioris patellae mit der Gelenkfläche
 
-Apex patellae
 
-Facies anterioris patellae
-
-Facies posterioris patellae mit der Gelenkfläche
 
 ### Unterschenkel: Schienbein (Tibia) und Wadenbein (Fibula)
 
@@ -178,19 +180,19 @@ Von superficial nach profund unterscheidet man:
 
   - {deep}`M. levator ani: M. puborectalis, M. pubococcygeus, M.
     iliococcygeus`
-  - {deep}`M. ischiococcygeus`
+  - [M. ischiococcygeus]{.deep}
 
 - *Diaphragma urogenitale*:
 
-  - {deep}`M. transversus perinei profundus`
-  - {deep}`M. transversus perinei superficialis`
-  - {deep}`Centrum perinei`
+  - [M. transversus perinei profundus]{.deep}
+  - [M. transversus perinei superficialis]{.deep}
+  - [Centrum perinei]{.deep}
 
 - *Sphinkter- und Schwellkörpermuskulatur*:
 
   - M. sphincter ani externus
-  - {deep}`M. bulbospongiosus`
-  - {deep}`M. isciocavernosus`
+  - [M. bulbospongiosus]{.deep}
+  - [M. isciocavernosus]{.deep}
 
 ## Gelenke
 

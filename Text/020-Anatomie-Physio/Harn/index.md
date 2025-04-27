@@ -32,9 +32,9 @@ Die beiden Nieren liegen *retroperitoneal* links und rechts der Wirbelsäule unt
 Sie haben eine bohnenförmige Gestalt und sind ca. 10 bis 12 cm lang, ca. 5 bis 6,5 cm breit und ca. 120 bis 300 g schwer.
 Die linke Niere liegt unter der Milz, die rechte Niere liegt etwas tiefer nach kaudal unter der Leber.
 Am Nierenhilum treten die Nierengefäße sowie das Nierenbecken ein und aus.
-Die Niere wird von einer Fettkapsel {deep}`(Capsula adiposa)` und einer bindegewebigen Faszie
-{deep}`(Fascia renalis)` umhüllt.
-Sie besitzt selbst noch eine derbe bindegewebige Kapsel {deep}`(Capsula renalis)`.
+Die Niere wird von einer Fettkapsel [(Capsula adiposa)]{.deep} und einer bindegewebigen Faszie
+[(Fascia renalis)]{.deep} umhüllt.
+Sie besitzt selbst noch eine derbe bindegewebige Kapsel [(Capsula renalis)]{.deep}.
 Am oberen Nierenpol liegt die Nebenniere an.
 
 :::{figure} /Bilder/PD/Kidneys.\*
@@ -227,10 +227,10 @@ Zu den Harnwegen gehören:
       (Spritzgänge) und die Ausführungsgänge der Prostata ein.
       Bei einer Vergrößerung der Prostata kann der Harnabfluss bis zur Unpassierbarkeit erschwert sein
       ({ref}`Harnverhalt <harnverhalten>`).
-    - {deep}`Pars membranacea:` enger, kurzer Abschnitt
+    - [Pars membranacea:]{.deep} enger, kurzer Abschnitt
       durch den Beckenboden,
-      {deep}`Einmündung der Cowper-Drüsen (Bulbourethral-Drüsen).`
-    - {deep}`Pars spongiosa:` länger,
+      [Einmündung der Cowper-Drüsen (Bulbourethral-Drüsen).]{.deep}
+    - [Pars spongiosa:]{.deep} länger,
       zieht durch den Harnröhrenschwellkörper
       und endet an der äußeren Harnröhrenöffnung
       an der Eichel.

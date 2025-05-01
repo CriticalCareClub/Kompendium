@@ -1,4 +1,7 @@
 
+:::{index} single: Patient Blood Management
+:::
+
 (Patient-Blood-Management)=
 
 # Patient Blood Management

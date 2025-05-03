@@ -10,7 +10,11 @@ AK/index.md
 100-Prae-OP/index
 100-Patient-Blood-Management/index
 100-AWR/index
+100-Kapnoperitoneum/index
+100-Ambulante-Anaesthesie/index
 200-Kinder/index
+200-Adipositas/index
+200-Geriatrisch/index
 :::
 
 :::{toctree}
@@ -22,6 +26,7 @@ AK/index.md
 300-Gefaess/index
 300-Geriatrie/index
 300-Gyn/index
+300-Geburtshilfe/index
 300-Herzchirurgie/index
 300-HNO/index
 300-Neurochirurgie/index
@@ -30,6 +35,8 @@ AK/index.md
 300-Trauma/index
 300-Urologie/index
 300-ZaMuKie/index
+400-Awareness/index
+400-TUR-Syndrom/index
 :::
 
 

@@ -278,7 +278,7 @@ Falls dennoch notwendig: **Tubus abklemmen**, *Beatmung* am Gerät *stoppen!*
     notfallmäßige Intubationen müssen vermieden werden
 :::
 
-:::{figure} AN_AA_000050_V003.000.000_Therapieeskalation.\*
+:::{figure} ATM_COVID-19_AN_AA_000050_V003.000.000_Therapieeskalation.\*
 
 Mögliche apparative Therapieeskalation bei akuter respiratorischer Insuffizeinz infolge COVID-19
 

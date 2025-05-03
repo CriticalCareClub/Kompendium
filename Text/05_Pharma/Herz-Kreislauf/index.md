@@ -167,6 +167,44 @@ für Nebenwirkungen und Kontraindikationen siehe β-Blocker
 ⚠
 **Propanolol** **(Dociton™, Inderal™, Proprahexal™)**: Tabletten nach dem Essen unzerkaut einnehmen. Vorsicht Bradykardie!
 
+
+#### 35.2. Betablocker
+
+β1-Rezeptoren
+: postsynaptisch va. am Herzen
+  (positiv chronotrop am Sinusknoten und AV-Knoten, positiv inotrop im Vorhof und Ventrikel), aber auch in anderen Organen (Niere/Reninfreisetzung, fördert Glykogenolyse und Glukoneogenese)
+
+β2-Rezeptoren
+: Bronchien (Dilatation), Uterus (Tonussenkend), Fördert Glykogenolyse und Gluconeogenese, Fördert Insulinausschüttung
+
+β1-selektive Blocker kardioselektiv
+: bei SVT, VT, paroxymalen Tachykardien, MCI, Hypertonie,..
+  z.B. Brevibloc, Beloc/Metoprolol = Reduzieren den kardialen Sympathikotonus (Auswirkung der Blockade umso stärker, je höher der Sympathikotonus ist). Bei höherer Dosierung auch  β2-Blockade!
+
+NW: Potenzstörungen, vegetative Hypotonie, eingeschränkte körperliche Leistungsfähigkeit.
+
+- Ein Teil der Betablocker hat noch eine gewisse Beta-Rezeptoren-stimulierende Wirkung  = intrinsische sympathomimetische Aktivität. Überlebensvorteil nach MCI nur bei Betablockern ohne ISA.
+- Wirken membranstabilisierend und damit antiarrhythmisch. (Klasse II-Antiarrhythmika)
+- Verminderung des myokardialen VO2 durch Herabsetzung der Herzfrequenz und Kontraktilität und Reduktion des peripheren Gefäßwiderstands (durch zentrale Dämpfung der Sympathikusaktivität) mit herabgesetzter Nachlast.
+- Carvedilol (Dilatrend) hat neben der betaantagonistischen auch eine alphaantagonistische Komponente und löst auch eine periphere Vasodilatation aus.
+- Verminderung der Reninfreisetzung (Vasodilatation durch vermindert ATII, Vermindertes Plasmavolumen durch vermindert Aldosteron)
+- Heraufgesetzte Empfindlichkeit der Barorezeptoren (geringere reflektorische Vasokonstriktion bei Abfall des SV)
+- Niedrigdosierte Betablockertherapie verhindert eine Downregulation der kardialen Betarezeptoren bei chronischer Herzinsuffizienz, führen zu einer Upregulation mit verbessertem Ansprechen auf endogene Katecholamine. Vorraussetzung ist eine stabile Herzinsuffizienz und langsame Steigerung bei minimaler Dosis.
+
+Indikation
+: stabile AP, Reiinfarktprophylaxe, arterielle Hypertonie, SVT, Hyperthyreose, HOCM, stabile chronische Herzinsuffizienz,
+β2:
+bronchiale Obstruktion,
+periphere Durchblutungsstörungen, Hypoglykämie, Rebound Effekt bei abruptem Absetzen (UP-Regulation der Rezeptoren), Langzeittherapie NW: Hypertriglyceridämie, Hyperkaliämie.
+
+Perioperative Anwendung: SVT, Tachyarrhythmie, Hypertonie bei adrenerger Stimulation. Eine Hypovolämie, intraoperative Narkosetiefe und Analgesie müssen vorher abgeklärt werden.
+
+Kontraindikationen
+: Hypovolämie, dekompensierte Herzinsuffizienz NYHA IV, bradykarde erzrhythmusstörungen,
+WPW-Syndrom, obstruktive Atemwegserkrankungen, Schwangerschaft, Allergie.
+
+
+
 ### Klasse III: „Kaliumkanalblocker“
 
 Durch die Hemmung des Kaliumausstromes aus der Zelle kann die Aktionspotentialdauer und die absolute Refraktärzeit, das ist die Zeit bis das Myokard zu einer neuerlichen Kontraktion bereit ist, des Herzgewebes verändert werden.

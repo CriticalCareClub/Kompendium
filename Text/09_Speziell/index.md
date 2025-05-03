@@ -83,17 +83,55 @@ ABD_Gastroenteritis
 ABD_Diarrhoe
 :::
 
+
+:::{toctree}
+:maxdepth: 1
+:caption: Gynäkologie
+
+GYN_Vaginale-Blutung
+:::
+
+:::{toctree}
+:maxdepth: 1
+:caption: Schwangerschaft
+
+GRA_Abort
+GRA_Blasensprung
+GRA_EPH-Gestose
+GRA_Plazentaloesung
+GRA_Tubaria
+GRA_Vena-cava-Kompressionssyndrom
+:::
+
+:::{toctree}
+:maxdepth: 1
+:caption: Geburtshilfe
+
+GBH_Geburt
+GBH_Basisrea
+GBH_Asphyxie
+GBH_Nabelschnurvorfall
+GBH_Pathologische-Geburtslagen
+GBH_Postpartale-Blutung
+GBH_Uterusruptur
+GBH_Placenta-praevia
+:::
+
 :::{toctree}
 :maxdepth: 1
 :caption: Sonstiges
 
+Sepsis
 Anaphylaxie
 Leber
 INF_Infektionen
+INF_Nosokomiale-Infektionen
 STW_Diabetes-mellitus
 EDK_Endokrinologie
 Niere-Harn
-GYN_Gynaekologie
+
+
+
 Paediatrie
 Neurologie
 Psychiatrie
@@ -127,4 +165,9 @@ TRA_Verbrennung
 
 SPZ_Kriminalitaet
 SPZ_Tod
+Neuromuskulaer
+Koma
+Subarachnoidalblutung
+Hirntod
+Maligne-Hyperthermie
 :::

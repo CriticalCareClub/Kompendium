@@ -19,4 +19,7 @@ Darmmotilitaet/index
 Nierenersatztherapie/index
 NO/index
 Ernaehrung/index
+Lungenersatzverfahren/index
+Therapiebegrenzung/index
+Transport/index
 :::

@@ -136,6 +136,142 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
   *das CO₂ wird abgeatmet.*
   Es kommt zu einer *tiefen, schnellen Atmung*.
 
+
+
+
+### Aust 21. Puffersysteme
+
+Bikarbonatpuffer, Hämoglobin, Plasmaproteine, Phosphate Gleichgewichtsreaktion für Bicarbonatpuffer: HCO -
+3  + H+ ↔ H2O + CO2   (20:1)
+Henderson-Hasselbalch-Gleichung pH = 6,1 + log\[HCO -
+3  / paCO2\]
+
+
+Elimination von Säuren:
+ Durch Abatmung von CO2werden Protonen eliminiert(CO2+ H2O H2CO3H++ HCO3-)
+•renale Ausscheidung der „fixen Säuren" als Ammonium-(NH4+), Phosphat-(HPO42-) und Sulfat-
+Ionen (SO42-) normal: 40-60 mmol/Tag
+
+
+Metabolische Azidoseeine potentiell lebensbedrohliche Erkrankung!
+Schnelle, fokussierte Diagnostik ist wichtig!
+1. Liegt eine einfache oder komplexe metabolische Azidose vor 2. Liegt ein Verlust von Bikarbonat oder eine Anreicherung von Protonen vor?
+
+Auswirkungen der schweren Azidose (pH\<7.20)auf den Organismus:
+
+Zerebral:Benommenheit, Somnolenz, Koma
+
+Hemmung von Glucosestoffwechsel und Zellvolumenregulation
+
+zerebrale Vasodilatation
+
+Stoffwechsel:verstärkter Proteinkatabolismus
+
+Insulinresistenz, Hyperkaliämie
+
+Reduktion der ATP-Synthese
+
+Atmung: Hyperventilation
+
+Kardiovaskulär:Kontraktilität ↓, Arrhythmieneigung ↑
+
+pulmonaler Gefäßwiderstand↑
+
+Verminderung der Katecholaminsensitivität (pH \<7.20)
+
+Ursachen der metabolischen Azidose 1. Vermehrte endogene Produktion fixer Säuren,
+deren Menge die Ausscheidungskapazität der Niere übersteigt. Beispiel:Laktatazidose, Ketoazidose 1. Erkrankungen des Nierenparenchyms, die mit verminderter Ausscheidung von Säuren einhergehen Beispiel:Azidose bei chronischer Niereninsuffizienz 1. Verlust von Bikarbonat durch vermehrte renale oder enterale Ausscheidung. Beispiel:Diarrhoe,
+proximal renale tubuläre Azidose 1. Exogene Zufuhr von organischen Säuren. Beispiel:Methanol,
+Äthylenglykol,
+Salizylateetabolische
+
+Anionenlücke: Na -- (Cl+HCO -
+3 ) = normalerweise 8-16 Bei Azidoseformen durch Bicarbonatverlust entsteht, korregieren dies durch Cloridanstieg  =
+normale Anionenlücke. Z.B. Diarrhoe, Fisteln oder renale Bicarbonatverluste (renal tubuläre Azidose). = Hyperchlorämische Azidose!
+Azidosen, welche durch vermehrte Bildung von Säuren zustande kommen, wie Laktatazidose
+(Hunger) oder Ketoazidose (Diabetes), Intoxikation und chronische Niereninsuffizienz, haben eine vergrößerte Anionenlücke.
+
+
+Merke:    Bei metabolischen Störungen  ändert sich der pCO²  und BE mit dem pH, bei respiratorischen Störungen  ändert sich der pCO²  und BE gegenläufig/revers zum pH.    Eine
+Änderung des pH um 0,1 entspricht einer Änderung des pCO² von 12mmHg bzw. BE von 6.
+
+
+Ketoazidose:
+Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung von Azetoazetat und beta-Hydroxybutyrat (Azidose)
+-Bikarbonat puffert entstehende Protonen.
+-Azetoazetat und beta-Hydroxybutyrat „ersetzen" Bikarbonat Folge:    Bikarbonat ↓, Anionenlücke ↑
+
+Therapie: Volumensubstitution, Kaliumsubstitution, Insulin,
+
+-                 Azidoseausgleich erst bei pH \< 7.10!
+
+Laktatazidose:
+-verminderte Gewebeperfusion (Schock, Sepsis, Ischämie, Typ A)
+-Therapie mit Metformin, INH (Typ B)
+Entstehung von Laktat durch anaerobe Glykolyse (Azidose)
+-Bikarbonat puffert entstehende Protonen
+-Laktat „ersetzt" Bikarbonat im Plasma Folge: Bikarbonat ↓, Anionenlücke ↑
+Therapie: Verbesserung der Gewebeperfusion (kausale Therapie),
+Absetzen der Noxe;
+-                 Bikarbonatgabe? Hämodialyse?
+
+50% der Säure/Basen-Störungen im KH sind metabolische Alkalosen!
+
+Ursachen von metabolischen Alkalosen:
+1. Verlust von Säure (enteral)
+2. Shift von H+nach intrazellulär bei Hypokaliämie 3. Exzessive Gabe von Bikarbonat 4. Kontraktionsalkalose (Volumenkontraktion bei niedrigem Cl-)
+
+Zur Diagnostik muss die Anamnese (Erbrechen,...) mit Klinik (Volumenmangel?) erhoben werden.
+Die Vitalparameter und Nierenfunktionswerte (GFR) geben ebenfalls wertvolle Hinweise. Selten findet sich eine Normovolämie mit hyertensiver Blutdrucklage bei Hyperaldosteronismus,
+schwerem Kaliummangel, Lakritzeabusus,
+Cushingsyndrom oder Liddle-Syndrom.
+Typischerweise findet man eine Hypovolämie mit erniedrigtem Chlorid bei Gastrointestinalen Verlusten (Erbrechen, Magensaftdrainage,... NaCl sensitiv: Volumengabe korregiert die Alkalose),
+oder erhöhten Chloridwerten bei Diuretikaabusus.
+
+Therapie der zugrundeliegenden Ursache der metabolischen Alkalose:
+- NaCl bzw. KCl-Gabe bei Verlusten
+- Dosisreduktion bzw. Umstieg auf kaliumsparende Diuretika
+- Operative Sanierung einen NNR-Adenoms.
+
+
+
+
+
+BGA-Beurteilung:
+1) Wie hoch ist der pH? = Azidose oder Alkalose 2) Wie hoch ist das Bicarbonat?
+2) Wie hoch ist das CO2?
+3) Metabolische oder respiratorische oder kombinierte Störung?
+
+
+Normalwerte: pH = 7,35--7,45 pCO2 = 35--45 mm Hg bzw.
+4,6--6,0[ kPa ](https://de.wikipedia.org/wiki/KPa)HCO3(std) = 23--27 mmol/l BE = -2 bis +3 mmol/l)
+
+
+Analyse der respiratorischen Kompensation von metabolischen Störungen:
+\[HCO3-\] + 15 = pCO2 (mmHg)= pH Bsp: Patient mit pH 7,20 und einem HCO3- von 14 1) pCO2 = 29mmHg mit pH 7,29 = adäquate Kompensation 2) pCO2 \<29mmHg mit pH \>7,29 = zusätzliche respiratorische Alkalose 3) pCO2 \>29mmHg mit pH \< 7,29 = zusätzliche respiratorische Azidose Erkennen von gemischten Ursachen einer metabolischen Störung mit Hilfe der Delta/Delta-
+Analyse = Um wieviel verändert sich die Anionenlücke im Verhältnis zum Bicarbonat?
+
+Osmolarität: Maß für die Anzahl der Teilchen in einem Lösungsmittel.
+Osmolarlität: Maß für die molare Konzentration aller osmotisch aktiven Teilchen pro kg. Wasser.
+KOD: wird durch Makromoleküle an einer für diese undurchlässigen Membran, der Kapillarwand,
+hervorgerufen. KOD des Plasmas = 25-28mmHg (va.
+durch Albuminmoleküle)
+Vollelektrolytlösungen: Na \> 120mmol/l Halbelektrolytlösungen: Na 61-90mmol/l NaCl: Na 154mmol/l + Cl 154mmol/l (= nicht physiologisch!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (azidose-respiratorische)=
 
 ## Atmungsbedingte Übersäuerung (Respiratorische Azidose)

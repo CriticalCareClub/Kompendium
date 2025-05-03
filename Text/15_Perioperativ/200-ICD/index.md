@@ -1,6 +1,8 @@
 
 
-# 50. Anästhesie bei Schrittmacher /ICD *
+# Anästhesie bei Schrittmacher/ICD-Trägern
+
+<!-- 50. -->
 
 Mögliches Problem: elektromagnetische Interferenzen beim Kautern (langandauernd,
 kontinuierlich)

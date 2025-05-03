@@ -1,4 +1,6 @@
-# 24. Kapnoperitoneum LSK
+#  Kapnoperitoneum LSK
+
+<!-- 24. -->
 
 Die CO2-Resorption ist abhängig von der Fläche, Dauer, Druck, Elimination, HZV, bei Hautemphysem ist die Resorptionsfläche massiv erhöht!
 

@@ -1,5 +1,7 @@
 
-# 16. Adipositas
+#  Adipositas
+
+<!-- 16. -->
 
 BMI = kg/m²
 Bis 25 normal, unter 18,5 Untergewicht Grad I 30-35 Grad II 35-40 Grad III 40 plus Morbide Adipositas zw. 40 und 50 (Mortalität steigt ab 40

@@ -1,7 +1,9 @@
 
 
 
-# 23. Anästhesie in der Urologie
+# Spezielle Anästhesie: Urologie
+
+<!-- 23.  -->
 
 TURP/TURB Steinschnittlagerung Lagerungsschäden: Peronäus und Saphenus, Obturatorius und N. femoralis durch  Überstreckung, Plexus brachialis (häufigster LS), Kompartmentsyndrom, bei TURB Gefahr der Blasenperforation durch elektrische Stimulation des N. Obturatorius mit Reflexbewegung.
 (RA: Obturatoriusblock! bei Seitenwandbeteiligung)

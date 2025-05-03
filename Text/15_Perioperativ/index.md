@@ -24,7 +24,6 @@ AK/index.md
 300-Augen/index
 300-Chirurgie/index
 300-Gefaess/index
-300-Geriatrie/index
 300-Gyn/index
 300-Geburtshilfe/index
 300-Herzchirurgie/index
@@ -35,25 +34,15 @@ AK/index.md
 300-Trauma/index
 300-Urologie/index
 300-ZaMuKie/index
-400-Awareness/index
-400-TUR-Syndrom/index
 :::
 
+:::{toctree}
+:caption: "Spezielle Anästhesie"
+:maxdepth: 1
 
 
-## Komplikationen
-
-### Mastozytose
-
-Cave Histaminausschüttung
-
-- gite Prämedikation
-- 1 h prä-operativ H₁- und H₂-Blocker + Kortikoid i. v. (Fenistil™, Ulsal™, Prednisolon)
-- perioperativ: Adrenalin vorbereiten
-- langsam applizieren, keine Temperaturschwankungen
-
-
-
-HOHES Risiko:
-: Morphin, NSAID, *Metamizol*, Thio, Lyst, Atracurium, *Rocuronium*, Lidocain, Atropin, Iod.
+400-Awareness/index
+400-TUR-Syndrom/index
+400-Mastozytose/index
+:::
 

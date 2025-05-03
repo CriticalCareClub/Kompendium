@@ -1,5 +1,7 @@
 
-# 60. Aufwachraum *
+#  Aufwachraum *
+
+<!-- 60. -->
 
 Beurteilung des stationstauglichen Patienten:
 

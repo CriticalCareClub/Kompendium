@@ -1,5 +1,7 @@
 
-# 59. Awareness
+#  Awareness
+
+<!-- 59. -->
 
 Tritt häufig erst nach 24-48h auf, Patienten sagen oft nichts (Angst nicht ernst genommen zu werden), wir wollen es nicht hören, wir müssen strukturiert fragen. Ca.
 0,8-1% ?

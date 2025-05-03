@@ -1,6 +1,8 @@
 
 
-# 61. Ambulante Anästhesie *
+# Ambulante Anästhesie 
+
+<!-- 61. -->
 
 Häufigsten ambulanten Eingriffe 3 „C" = Catarakt, CC, Curettagen.
 Vorteil: billiger, Reduktion nosokomialer Infektionen, keine Hospitalisierung Gründe für Wiederaufnahme: Blutung aus der Wunde, Wundschmerzen, PONV Ziel des Anästhesieverfahrens: gute Steuerbarkeit, geringe NW, kurze Aufwachzeit,

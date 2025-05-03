@@ -1,4 +1,8 @@
-# 12. Anästhesiologische Besonderheiten der Neurochirurgie: *
+# Spezielle Anästhesie:  Neurochirurgie: *
+
+
+<!-- 12. -->
+
 
 - Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO²-Anstieg mit einem ICP-Anstieg kommt.
 - Tubus gut fixieren!

@@ -1,6 +1,8 @@
 
 
-# 62. Der geriatische Patient *
+# Der geriatische Patient
+
+<!-- 62. -->
 
 Das Patientengut wird immer  älter, mit eingeschränkter Leistungsfähigkeit, reduzierter physiologischer Reserve und gestörter Homöostase.
 - Herz/Kreislauf: geringere Elastizität der Gefäße mit erhöhtem Afterload und erhöhtem systolischen Blutdruck;

@@ -184,6 +184,9 @@ Kontrastmittel
 Mekonium
 : Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
 
+Proteinurie
+: Eiweiß im Harn 
+
 Tokolyse
 : *Syn.* *Wehenhemmung*. Hemmung der Wehentätigkeit durch Medikamente.
 Eine Tokolyse wird vor allem bei vorzeitiger Wehentätigkeit

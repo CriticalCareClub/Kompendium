@@ -4,9 +4,11 @@
 
 (vena-cava-syndrom)=
 
-# Vena-cava-Kompressionssyndrom
+# Gravida / Vena-cava-Kompressionssyndrom
 
-Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere Hohlvene der Mutter abdrückt*. Dadurch wird der Blutstrom zum Herzen vermindert und es kann zu einem *plötzlichen Kollaps der Mutter* und einer Unterversorgung des Kindes kommen. Durch eine Linksseitenlagerung wird der Druck, den das Kind ausübt, vermindert, da die Hohlvene eher rechts der Körpermitte verläuft.
+Bei hochschwangeren Frauen kann es vorkommen, dass das *Kind die untere Hohlvene der Mutter abdrückt*. 
+Dadurch wird der Blutstrom zum Herzen vermindert und es kann zu einem *plötzlichen Kollaps der Mutter* und einer Unterversorgung des Kindes kommen. 
+Durch eine Linksseitenlagerung wird der Druck, den das Kind ausübt, vermindert, da die Hohlvene eher rechts der Körpermitte verläuft.
 
 :::{note}
 - *Jede hochschwangere Patientin* soll in (leichter)

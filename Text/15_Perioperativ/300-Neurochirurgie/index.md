@@ -1,4 +1,4 @@
-# Spezielle Anästhesie:  Neurochirurgie: *
+# Spezielle Anästhesie:  Neurochirurgie
 
 
 <!-- 12. -->
@@ -9,7 +9,9 @@
 - Großlumige Zugänge! (PTZ \>70%, Thrombos\>100000)
 - Kontrollierte Hyperventilation
 - Restriktive Volumengabe, Mannitol bei Bedarf (=  hyperton zur  Ödemtherapie, Hirndrucksenk.)
-- Bei Tumorkraniotomie ev. 20mg Dexamethason und Mannitol vor Duraeröffnung. Zur Behandlung des vasogenen Hirnödems bei Hirntumoren wird 12 -- 16mg Dexamethason/Tag unter Magenschutz gegeben.
+- Bei Tumorkraniotomie ev. 20mg Dexamethason und Mannitol vor Duraeröffnung. 
+  
+  Zur Behandlung des vasogenen Hirnödems bei Hirntumoren wird 12 -- 16mg Dexamethason/Tag unter Magenschutz gegeben.
 
 
 
@@ -25,10 +27,15 @@
 - Ventrikeldrainage für den Transport schließen.
 
 
-End of Life Decisions DNR Therapiebegrenzung
+## End of Life Decisions DNR 
+
+Therapiebegrenzung
+
 - Passive Sterbehilfe: Verzicht auf lebensverlängernde Behandlungsmaßnahmen bei infauster Prognose. (Therapie würde Sterbevorgang verlängern)
 - Indirekte Sterbehife:
-Palliative Behandlung mit Inkaufnahme einer möglichen Lebenszeitverkürzung va. Schmerztherapie bei Schwerstkranken (Vendalperfusor) Würde des Menschen ist zu achten. Mutmaßliche Wille des Patienten zu respektieren.
+  Palliative Behandlung mit Inkaufnahme einer möglichen Lebenszeitverkürzung va. Schmerztherapie bei Schwerstkranken (Vendalperfusor) 
+
+Würde des Menschen ist zu achten. Mutmaßliche Wille des Patienten zu respektieren.
 (Angehörige, behandelnde Ärzte, mündliche oder schriftliche Äußerung des Pat).
 Pat. hat das Recht auf eine Behandlung zu verzichten oder sich dieser jederzeit zu widersetzen!
 

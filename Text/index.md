@@ -34,24 +34,42 @@
 :::{toctree}
 :caption: Inhalt
 :maxdepth: 1
+:numbered: 3
+:glob:
 
-000-Prolog/index
-010-Grundlagen/index
-020-Anatomie-Physio/index
-030-Pharma/index
-110-Airway-Breathing/index
-130-Haemodynamik/index
-210-Patient-Assessment/index
-220-CRM/index
-230-Skills/index
-310-Speziell/index
-240-Reanimation/index
-410-Praehospital/index
-420-Schockraum/index
-430-Perioperativ/index
-440-Intensiv/index
-999-Appendix/index
+0*/index
+1*/index
+2*/index
+3*/index
+4*/index
+5*/index
+6*/index
+7*/index
+8*/index
+9*/index
 :::
+
+<!-- 
+01_Prolog/index
+02_Grundlagen/index
+03_Medizinprodukte/index
+04_Anatomie-Physio/index
+05_Pharma/index
+06_Airway/index
+07_Breathing/index
+08_Haemodynamik/index
+09_Speziell/index
+10_Patient-Assessment/index
+11_CRM/index
+12_Skills/index
+13_Reanimation/index
+14_Praehospital/index
+15_Schockraum/index
+16_Perioperativ/index
+17_Intensiv/index
+18_Appendix/index
+ -->
+
 
 :::::{only} html
 :::{image} /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
@@ -60,12 +78,6 @@
 :::
 
 ::::{admonition} Versionsinformationen
-
-Version
-: {{version}}
-
-Release
-: |release|
 
 :::{git_commit_detail}
 :branch:

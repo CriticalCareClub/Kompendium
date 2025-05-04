@@ -3,112 +3,54 @@
 
 (appendektomie)=
 
-# 8.2.3 Appendektomie
+# Appendektomie
 
-(allgemein-6)=
+:::{list-table} Kurzübersicht: Appendektomie
+:stub-columns: 1
 
-## 8.2.3.1 Allgemein
+* - Abkürzung, Synonyme
+  - AE
+* - Varianten
+  - laparoskopisch (Standard), alternativ offen
+* - Beschreibung, Pathophysiologie
+  - Entzündung des Appendix vermiformis ± Perforation
+* - Dringlichkeit
+  - innherhalb von 6 h (je nach Klinik auch dringlicher)
+* - Dauer (S/N)
+  - ca. 30 min
+* - Präanästhesie, Aufklärung
+  - Erhöhtes Aspirationsrisiko, Rapid Sequence Induction, Magensonde
+* - Prä-OP-Diagnostik
+  - —
+* - Blutmanagement
+  - BG+ASK
+* - Lagerung
+  - Rückenlage, ev. Kopf tief
+* - Aufstellung
+  - Operateure stehen links, Anästhesie am Kopf
+* - Geräte
+  - Laparoskopie-Turm
+* - Antibiotika
+  - ja (oft bereits laufende Antibiose)
+* - Anästhesieverfahren
+  - AN, {ref}`RSI <RSI>`! (Patienten mit Appendicitis acuta sind per Definition als nicht nüchtern zu betrachten!)
+* - Airway
+  - AGT-Tubus, Ableitung nach caudal
+* - Invasivitäten
+  - Magensonde (fakultativ, per os)
+* - Narkoseführung
+  - bevorzugt TIVA oder {ref}`IVASG`
+* - Peri-OP-Diagnostik
+  - —
+* - OP-Ablauf
+  - 
+* - Typische Komplikationen
+  - - Umstieg von Laparoskopie auf offen
+    - Perforation
+* - Gefahren
+  - 
+* - Postoperatives Management
+  - {ref}`AWR <AWR>`
 
-Varianten, Abkürzung, Synonyme
+:::
 
-: laparoskopisch oder offen
-
-Beschreibung, Pathophysiologie
-
-: ???
-
-Dringlichkeit
-
-: innherhalb von 6 h (je nach Klinik auch dringlicher)
-
-Dauer
-
-: ca. 30 min
-
-(praanasthesie-6)=
-
-## 8.2.3.2 Präanästhesie
-
-Besondere Aufklärung auf
-
-: Erhöhtes Aspirationsrisiko,
-  Rapid Sequence Induction, Magensonde
-
-(perioperative-planung-6)=
-
-## 8.2.3.3 Perioperative Planung
-
-Lagerung
-
-: */ Arme: rechts , LINKS /* Kopf: ; Besondere Stützen: //
-
-Aufstellung
-
-: ???
-
-Besondere Geräte
-
-: Laparoskopie-Turm
-
-(besondere-perioperative-masznahmen-6)=
-
-## 8.2.3.4 Besondere perioperative Maßnahmen
-
-Anästhesieverfahren, Airway
-
-: Patienten mit Appendicitis acuta sind
-  per Definition als nicht nüchtern zu betrachten: RSI
-
-Blutmanagement
-
-: \---
-
-Invasivitäten
-
-: Magensonde (per os)
-
-Sonstiges
-
-: ???
-
-(narkosefuhrung-7)=
-
-## 8.2.3.5 Narkoseführung
-
-Einleitung
-
-: ???
-
-Aufrechterhaltung
-
-: ???
-
-Perioperative Diagnostik
-
-: ???
-
-Ausleitung
-
-: ???
-
-Antibiotika
-
-: ???
-
-(gefahren-7)=
-
-## 8.2.3.6 Gefahren
-
-1. ?? Text fehlt ??
-
-(postoperatives-management-6)=
-
-## 8.2.3.7 Postoperatives Management
-
-Strategie
-
-: AWR-Standard
-
-Sonstiges
-
-: ???

@@ -3,43 +3,8 @@
 
 (tracheotomie-1)=
 
-# 8.4.13 Tracheotomie
+# Tracheotomie
 
-(allgemein-28)=
-
-## 8.4.13.1 Allgemein
-
-Varianten, Abkürzung, Synonyme
-
-: ???
-
-Beschreibung, Pathophysiologie
-
-: ???
-
-Dringlichkeit
-
-: ???
-
-Dauer
-
-: ???
-
-(praanasthesie-27)=
-
-## 8.4.13.2 Präanästhesie
-
-Besondere Aufklärung auf
-
-: ???
-
-Erforderliche Untersuchungen
-
-: ???
-
-(perioperative-planung-28)=
-
-## 8.4.13.3 Perioperative Planung
 
 Lagerung
 
@@ -51,45 +16,10 @@ Aufstellung
 : Narkosemaschine nach hinten versetzt, Infusionsständer
   bds. in Kopfhöhe, Tubus muss gut zuämglich sein,
 
-Besondere Geräte
-
-: ???
-
-(besondere-perioperative-masznahmen-28)=
-
-## 8.4.13.4 Besondere perioperative Maßnahmen
-
 Anästhesieverfahren, Airway
 : 1. LA
   2. AN mit ETI
 
-Blutmanagement
-
-: AKS
-
-Gerinnung
-
-: ???
-
-Invasivitäten
-
-: ???
-
-Sonstiges
-
-: ???
-
-(narkosefuhrung-29)=
-
-## 8.4.13.5 Narkoseführung
-
-Einleitung
-
-: ???
-
-Aufrechterhaltung
-
-: ???
 
 Verlauf
 
@@ -106,36 +36,6 @@ Verlauf
   fixiert. Vor OP-Ende sollen die Lungen zur *Lagekontrolle*
   auskultiert werden.
 
-Perioperative Diagnostik
-
-: ???
-
-Ausleitung
-
-: ???
-
-Antibiotika
-
-: ???
-
-(gefahren-29)=
-
-## 8.4.13.6 Gefahren
-
-1. ?? Text fehlt ??
-
-(postoperatives-management-28)=
-
-## 8.4.13.7 Postoperatives Management
-
-Strategie
-
-: ???
-
 Post-OP-Kontrollen
 
 : Röntgen: Cor-Pulmo
-
-Sonstiges
-
-: ???

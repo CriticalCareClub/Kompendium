@@ -9,12 +9,4 @@
 HE/index
 HE-Erweitert/index
 HSK-CUR-LLETZ/index
-Lavh/index
-Myomextirpation/index
-OvarialzysteLaparoskopisch/index
-Perineal/index
-Sectio/index
-SterilisationPostPartum/index
-Tubargraviditaet/index
-Vulva/index
 ```

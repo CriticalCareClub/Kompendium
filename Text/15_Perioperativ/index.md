@@ -24,13 +24,13 @@ AK/index.md
 300-Augen/index
 300-Chirurgie/index
 300-Gefaess/index
+300-Thoraxchirurgie/index
 300-Gyn/index
 300-Geburtshilfe/index
 300-Herzchirurgie/index
 300-HNO/index
 300-Neurochirurgie/index
 300-Ortho/index
-300-Thoraxchirurgie/index
 300-Trauma/index
 300-Urologie/index
 300-ZaMuKie/index

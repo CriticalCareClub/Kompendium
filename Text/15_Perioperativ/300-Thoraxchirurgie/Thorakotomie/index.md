@@ -49,13 +49,20 @@
       - ggfs. Jet-Ventilation
       - ggfs. intermitterend Single Lung beenden
 * - Lagerung
-  - Seitenlage, aufgeknickt; Gelring
+  - - Kontralaterale Seitenlage, aufgeknickt 
+    - Arme: seitlich, CAVE Dehnung im Schulterbereich 
+    - Kopf: Gelring, CAVE Ohr und Auge
+    - Lagerungsschäden: N.Peronäus, Plexus brachialis, Ohr, Augen!
 * - Aufstellung
-  - 
+  - Instrumentaria am Fußende, Operateur und Assistenz  seitlich vom Patienten (Seite variabel), Video-Turm via-á-vis von Operateur
 * - Geräte
   - Videoturm
 * - Peri-OP-Diagnostik
-  - Regelmäßige BGA-Kontrollen, Korrelation etCO₂ und pCO₂
+  - - Bronchoskopie zur Lagekontrolle
+      1. nach Intubation
+      2. nach Lagerung
+      3. Ständige Bereitschaft
+    - Regelmäßige BGA-Kontrollen, Korrelation etCO₂ und pCO₂
 * - OP-Ablauf
   - 
 * - Gefahren

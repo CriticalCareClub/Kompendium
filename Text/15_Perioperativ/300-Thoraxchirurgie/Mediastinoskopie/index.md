@@ -5,120 +5,35 @@
 
 # Mediastinoskopie
 
-(allgemein-1)=
+Komplikationen (~ 1,5%):
 
-## Allgemein
+- Blutungen,
+- Pneumothorax,
+- Schädigung des N. recurrens,
+- **Tumorverschleppung in die Wunde,**
+- **Schädigung des N. phrenicus,**
+- **Verletzungen des** Ösophagus,
+- Chylothorax,
+- Luftembolie,
+- vorübergehende Hemiparese,
+- Infektionen.
 
-Varianten, Abkürzung, Synonyme
+Praxis:
 
-: ???
+Für die Mediastinoskopie ist meist eine tiefe Narkose erforderlich Hierzu eignet sich eine **Inhalationsanästhesie** oder die Kombination von **Remifentanil** mit einem Inhalationsanästhetikum oder mit Propofol.
 
-Beschreibung, Pathophysiologie
+Die Standardüberwachung umfasst
 
-: ???
+- EKG-Monitor,
+- Blutdruckmanschette,
+- Pulsoxymeter,
+- Kapnometer,
+- Temperatursonde,
+- Stethoskop.
 
-Dringlichkeit
+Bedenke:
 
-: ???
-
-Dauer
-
-: ???
-
-(praanasthesie-1)=
-
-## Präanästhesie
-
-Besondere Aufklärung auf
-
-: ???
-
-Erforderliche Untersuchungen
-
-: ???
-
-(perioperative-planung-1)=
-
-## Perioperative Planung
-
-Lagerung
-
-: */ Arme: rechts , LINKS /* Kopf: ; Besondere Stützen: //
-
-Aufstellung
-
-: ???
-
-Besondere Geräte
-
-: ???
-
-(besondere-perioperative-masznahmen-1)=
-
-## Besondere perioperative Maßnahmen
-
-Anästhesieverfahren, Airway
-
-: ???
-
-Blutmanagement
-
-: BG+ASK, keine EK
-
-Gerinnung
-
-: ???
-
-Invasivitäten
-
-: ???
-
-Sonstiges
-
-: ???
-
-(narkosefuhrung-2)=
-
-## Narkoseführung
-
-Einleitung
-
-: ???
-
-Aufrechterhaltung
-
-: ???
-
-Perioperative Diagnostik
-
-: ???
-
-Ausleitung
-
-: ???
-
-Antibiotika
-
-: ???
-
-(gefahren-2)=
-
-## Gefahren
-
-1. ?? Text fehlt ??
-
-(postoperatives-management-1)=
-
-## Postoperatives Management
-
-Strategie
-
-: ???
-
-Post-OP-Kontrollen
-
-: ???
-
-Sonstiges
-
-: ???
+- Als **venöser Zugang** reicht gewöhnlich eine großlumige Venenkanüle.
+- Wegen der **Blutungsgefahr** sollte vor dem Eingriff Blut gekreuzt werden.
+- Wegen der starken Überstreckung des Halses sollte für die endotracheale Intubation ein **Spiraltubus** verwendet werden.
+- Das Mediastinoskop kann die **A. anonyma komprimieren,** so dass die rechte A. carotis und A. subclavia weniger Blut erhalten. **Puls- und Drucklosigkeit am rechten Arm** weisen auf diese Komplikation hin. Aus diesem Grund sollten am linken Arm der Blutdruck und an der rechten Hand der Fingerpuls kontinuierlich

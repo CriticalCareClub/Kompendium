@@ -58,6 +58,7 @@
   - - Kontralaterale Seitenlage, aufgeknickt 
     - Arme: seitlich, CAVE Dehnung im Schulterbereich 
     - Kopf: Gelring, CAVE Ohr und Auge
+    - Lagerungsschäden: N.Peronäus, Plexus brachialis, Ohr, Augen!
 * - Aufstellung
   - Instrumentaria am Fußende, Operateur und Assistenz  seitlich vom Patienten (Seite variabel), Video-Turm via-á-vis von Operateur
 * - Geräte

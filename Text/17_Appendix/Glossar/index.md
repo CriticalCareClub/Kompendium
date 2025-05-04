@@ -18,6 +18,19 @@ ASB
 : 1. Assisted Spontaneous Breathing
   2. Arbeiter-Samariter-Bund
 
+ASK
+: 1. Arthroskopie
+  2. Antikörpersuchtest
+
+BG
+: Blutgruppe
+
+BG+ASK
+: Blutgruppe und Antikörpersuchtest
+
+BGA
+: Blutgasnalyse
+
 BMS
 : {ref}`Bare Metal Stent <Koronarangiographie>`
 
@@ -55,6 +68,12 @@ ICR
 
 KHK
 : {ref}`Koronoare Herzkankheit <KHK>`
+
+Lap
+: Laparotomie
+
+LSK
+: Laparoskopie
 
 LVH
 : Linksventrikelhypertrophie

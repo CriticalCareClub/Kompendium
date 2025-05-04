@@ -4,9 +4,10 @@
 :maxdepth: 1
 
 Allgemein/index
-SingleLungVentilation/index
-Vats/index
+Single-Lung-Ventilation/index
 Mediastinoskopie/index
+VATS/index
+Thorakotomie/index
 ```
 
 Text

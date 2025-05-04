@@ -14,8 +14,6 @@ Allgemein/index
 Appendektomie/index
 Cholezystektomie/index
 Fundoplicatio/index
-VATS/index
-Thorakotomie/index
 Mamma/index
 Strumektomie/index
 TAPP/index

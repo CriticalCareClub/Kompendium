@@ -1,6 +1,6 @@
-# Allgemeines  33. Anästhesie in der Thoraxchirurgie
+# Allgemeines
 
-
+<!-- 33. -->
 
 Das Patientenkollektiv gliedert sich im Wesentlichen in zwei Gruppen:
 
@@ -23,11 +23,22 @@ Im Mittelpunkt stehen:
 - Evaluierung der Atem- und Herz-Kreislauf-Funktion
 - Operabilität
 - Risiko von postoperativen Störungen
+- Komorbdidäten 
+- Optimierung möglich (Bronchiolyse, Antibiose, Raucherentwöhnung, kardiale Therapie) ?
+
+
+Methoden:
+- Anamnese
 - Körperliche Untersuchung
 - Präoperative Laboruntersuchungen: wie für andere große Eingriffe → besonderer Beachtung bedürfen hohe Hämatokritwerte trotz normaler Hydrierung und ein erhöhter paCO₂
 - EKG: v.a. Zeichen der Rechtsherzbelastung
-- Thorax-Röntgenbilder
+- Thorax-Röntgen (oder CT):
+  - Verziehungen des Bronchio-Trachealbaums und Tracheleinengungen können Intubation erschweren! Entscheidung ev. Tracheobronchial-Stent präoperativ?
+  - mediastinale Massen?
+- Labor
 - Lungenfunktion
+- BGA
+- ev. TTE
 - Ev. Messung des Pulmonalarteriendrucks (v.a. bei ausgedehnten *Lungenlappenresektionen* oder *Pneumektomien)*
 
 Die **präoperative Spirometrie** ist kooperationsabhängig.
@@ -117,7 +128,9 @@ Daraus ergibt sich eine Risikoeinschätzung gem. Tab. {ref}`tab-ppoFEV1-Risiko`.
 
 :::
 
+> Abschätzung respiratorischer Komplikationen: ppoFEV1 (predicted postoperativ FEV1) \> 50%: keine/minimale Komplikationen zu erwarten.
 
+>
 
 
 ### Beurteilung der Oxygenation
@@ -137,6 +150,8 @@ Man kann dies als 3 Säulen beschreiben und beurteilen:
 3. Zirkulation und kardio-pulmonale Reserve:
    - VO2 max (vgl. {ref}`VO2`): 15 ml / kg / min
 
+     Bestimmung der VO2max am Ergometer: junger untrainierter Erwachsener hat ca. 40ml/kg/min (Ruhe VO2 3ml/kg/min)
+
      Zur Beurteilung erfolgt normalerweise kein invasives hämodynamisches Monitoring, sondern eine Erhebung der Belastbarkeit des Patienten:
      - 2 Stöcke Stiegen steigen, 6 Minuten gehen
 
@@ -152,7 +167,7 @@ Die 4 „M“
 
 - Masseneffekte: Obstruktive Pneumonie, Lungen-Abszess, Tracheo-bronchiale Verlagerung, Pancoast-Syndrome, Rekurrens-Parese, Phrenicus-Parese, Vena-Cava-Superior Syndrom, Mediastinale Vergrößerungen
 - Metabolic effects: Lambert-Eaton Syndrom, Hyperkalziämie, Hyponatriämie, Cushing-Syndrom
-- Metastasen: Speziell in Gehirn, Knochen, Leber und Nebenniere
+- Metastasen: Speziell in Gehirn, Knochen (Lagerung!), Leber und Nebenniere
 - Medication: Chemotherapie, pulmonale Toxizität (Bleomycin, Mitomycin), cardiale Toxizität (Doxorubicin), renale Toxizität (Cisplatin)
 
 
@@ -174,19 +189,20 @@ Aber:
 ## Intraoperatives Monitoring
 
 Standard-Überwachung bei sonst Gesunden ohne operative Besonderheiten:
-- EKG-Monitor
+- FIO2, Diskonnektion, 
+- Pulsoxymetrie, EKG, Temperatur,
 - Blutdruckmanschette
-- inspiratorische Sauerstoffkonzentration
-- Pulsoxymetrie
 - Kapnometrie
 - Temperatursonde
-- intraarterielle Druckmessung je nach geplanten Eingriff
+- NIBP oder IBP je nach geplanten Eingriff
 
 Zusätzliche Überwachung bei Lungenoperationen und bei thoraxchirurgischen Risikopatienten:
-- intraarterielle Druckmessung
-- zentrale Venendruckmessung
+- intraarterielle Druckmessung (großzügige Indikation)
+- zentrale Venendruckmessung (ZVK bei oberer Einflussstauung über V. femoralis!)
 - arterielle Blutgasanalysen: obligatorisch bei Ein-Lungen-Anästhesie
 - Blasenkatheter bei Eingriffen > 2 h Dauer
+- TEE bei Hochrisiko-Eingriffen
+- Bei speziellen Fragestellunken: Pulmi
 
 Bei schwerer Kardio-pulmonaler Grunderkrankung und geplanter Pneumektomie:
 - Pulmonaliskatheter erwägen
@@ -194,8 +210,23 @@ Bei schwerer Kardio-pulmonaler Grunderkrankung und geplanter Pneumektomie:
 - Berechnung des pulmonalen Gefäßwiderstandes
 
 
+## Narkoseführung/Aufrechterhaltung
 
-## Ein-Lungen-Beatmung
+- (Robinul oder Atropin vorab)
+- ev. Antihistaminika u. Bronchiolytika
+- TIVA, bei Single-Lung-Ventilation kein Narkosegas
+- Cave: Auto PEEP,  Überblähung der Lunge, Hypokapnie, Hohe Atemwegsdrücke und oberflächliche Narkose vermeiden! (hyperreag. Bronchien mit Gefahr des Bronchospasmus!)
+- Lagerungsschäden: N.Peronäus, Plexus brachialis, Ohr, Augen!
+
+
+
+
+```{index} single: Single-Lung-Ventilation
+```
+
+## Single lung Beatmung
+
+
 
 Insbesonders bei der Videoassistierten Thorakoskopie (VATS) ist die expandierte, beatmete Lunge in der Thoraxhöhle im Weg.
 Bei der Ein-Lungen-Beatmung wird mittels eines Doppellumentubus oder eines Bronchusblockers gezielt eine Seite (d.h. die nicht operierte Seite) beatmet, somit kann der operierte Lungenflügel geplant kollabieren.
@@ -203,17 +234,22 @@ Bei der Ein-Lungen-Beatmung wird mittels eines Doppellumentubus oder eines Bronc
 ### Indikationen
 
 - absolute Indikationen
-  - Prävention einer Infektion der gesunden Lunge
-  - massive Blutungen
+  - Prävention einer Infektion der gesunden Lunge, einseitige Infektion
+  - massive einseitige Blutungen
+  - einseitige bronchioalveoläre Lavage
   - bronchopleurale Fistel
   - einseitige Riesenzyste
   - alveoläre Proteinose einer Lunge
+  - Tracheobronchiales Leak bei z.B. Pfählungsverletzung
+
 - relative Indikationen
 
   - thorakale Aortenaneurysmen
-  - Pneumektomie, Lobektomie des Oberlappens
+  - Pneumektomie, Lobektomie
   - Ösophagusresektion
   - Lobektomie
+
+> Häufigster Einsatz bei: VATS, Pneumonektomie, Oberlappenresektion, thorakales Aortenaneurysma 
 
 Die Schwere der durch die Ein-Lungen-Anästhesie entstehenden *Hypoxie* ist sehr variabel, weil zahlreiche Faktoren die *Größe der Durchblutung* der *nichtbeatmeten* Lunge bestimmen.
 
@@ -243,6 +279,21 @@ Tritt eine schwere Hypoxie auf, können *folgende Maßnahmen* durchgeführt werd
 - Die Gesamtzeit der einseitigen Beatmung sollte so *kurz* wie möglich sein.
 
 
+Möglichkeiten:
+1. Single lumen Endobronchialtubus (länger mit kleineren Cuff für rechtsseitige Beatmung)
+2. Fogarty Katheter: zum Stilllegen eines Bronchus unter Bronchoskopischer Kontrolle 
+3. Arndt Bronchialblocker, Easy-blocker (EZ-Blocker)
+4. Univent Tubus SL-Tubus mit integr. Endobronchialblocker (Nachteil: high pressure cuff, Lungenkollaps oft inkomplett, Applikation von PEEP nicht möglich, Absaugen nicht möglich)
+5. Doppellumentubus (kleiner Innendurchmesser, daher zum Weaning immer umintubieren auf SLT, da Spontanatmung sonst kaum möglich!)
+
+
+Intubation mit DLT (Doppellumentubus)
+: Bei schwierigem Atemweg mit SLT intubieren und über Cook-Stab umfädeln auf DLT.
+
+Lagekontrolle
+: Bronchoskopisch, (auskultieren, Brustkorbextensionen)
+  Bei trachealem Abgang des rechten OL-Bronchus darf kein re DLT gesetzt werden!! (1:250)
+
 
 ### Doppellumen-Tubus
 
@@ -255,6 +306,8 @@ Es gibt eine Vielzahl an verschiedenen Typen mit einer nach links und nach recht
 Da der Abgang des linken Oberlappens weiter von der Carina entfernt ist als der rechte, erlaubt der linksseitig gebogene eine einfachere und risikoärmere Positionierung.
 
 Wird ein rechtsseitig-gebogener Tubus verwendet, besteht ein realistisches Risiko, dass der Abgang zum rechten Oberlappen durch den Tubus verlegt wird und der rechte Oberlappen nicht beatmet wird.
+
+Sollte der Patient postoperativ intubiert bleiben, muss auf einen normalen Tubus umintubiert werden (kleiner Innendurchmesser, daher zum Weaning immer umintubieren da Spontanatmung sonst kaum möglich!).
 
 <!-- :::{subfigure} AB
 :subcaptions: below
@@ -290,6 +343,60 @@ Indikationen für Bronchusblocker beim Erwachsenen sind:
 - bei Hämoptysen oder hämorrhagischen Diathesen
 - wenn ein Doppellumentubus aufgrund schwieriger Atemwegverhältnisse nicht platziert werden kann
 - in seltenen Fällen bei bilateralen Lungenoperationen
+
+### Lagekontrolle bronchoskopisch
+
+Re DLT: über das tracheale Lumen muss die Carina gesehen werden, über das bronchiale Lumen der Oberlappenbronchus identifiziert werden. (ca. 1,5cm ab Carina)
+
+Li DLT: über das tracheale Lumen muss die Carina und der obere blaue Teil des endobronchialen Cuffs sichtbar sein, über das bronchiale Lumen muss der linke Oberlappenbronchus (5cm ab Carina) idendifiziert werden.
+
+
+### Lungenperfusion bei Einlungenventilation 
+
+Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77%), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23%) = Shunt!
+HPV und Hyperkapnie verschlechtern eine vorbestehende Rechtsherzinsuffizienz (Cor pulmonale!)
+
+Mechanismen um intraoperative Hypoxie bei ELV zu vermeiden:
+- Klemmen der A. pulmonalis
+- FIO2 1,0
+- PEEP auf die abhängige Lunge (cave. COPD)
+- CPAP auf die nicht abhängige Lunge (die oben liegende Lunge wird mit O2 gebläht aber NICHT beatmet!)
+- Blähmanöver nach endotrachialer Absaugung
+- Ultimo ratio: beidseitige Beatmung nach Absprache mit dem Operateur (solange wie möglich)
+- Vermeidung von Tubusfehllage und hohen Atemdrücken
+
+Risikofaktoren für Hypoxämie:
+Rechtsseitiger Eingriff (größeres Shuntvolumen), paO2-Abfall bei Seitenlage, hoher Perfusions/Ventilationsgrad der operierten Lunge in der Szintigraphie paO2 ist abhängig vom Shunt-Volumen, Effizienz des Gasaustausches der ventilierten Lunge, HZV Hyperkapnie führt zur Vasokonstriktion in der ventillierte Lunge, und damit zur Blutumverteilung in die nicht ventilierte Lunge!    PEEP in der ventilierten Lunge erhöht den intraalveolären Druck und damit den Gefäßwiderstand und vermindert so die HPV!
+
+
+## Schmerztherapie: 
+
+- thorakale PDA zur Frühmobilisation, Sekretmobilisierung durch Verhinderung von Schonatmung (Atelektasen, Infektionen!)!
+- Oder PCA mit Opioiden, Interkostaler oder paravertebraler Block (unter Sicht durch den Chirurgen) +NSAR!
+
+## Post-OP
+
+Postoperative Nachbeatmung (CPAP) in Absprache mit dem Operateur im AWR oder IMCU, BGA und C/P bei Aufnahme
+
+:::{danger}
+Cave: KEIN Sog auf Thoraxdrain nach Pneumonektomie!
+Bei Sog am Drain wird das Herz auf die leere Seite gezogen und die Coronarperfusion abgedrückt + Vena cava abgedrückt = Herz schlägt leer!
+:::
+
+
+
+## 33.2. Idiopathisches Lungenödem post Pneumonektomie *
+
+Ursache
+: zu viel Flüssigkeit intraoperativ (lieber Vasopressor!), zu hohe Beatmungsdrücke mit Barotrauma, 
+
+Ultimo ratio intra- und postoperativ ECMO!
+
+:::{margin} Prüfung: 
+
+Möglichkeiten die HPV zu vermindern: NO, Prostacyclin, volatile Anästhetika, Opioide, Hypokapnie.
+:::
+
 
 
 <!--
@@ -329,96 +436,4 @@ Bedenke:
 - Das Mediastinoskop kann die **A. anonyma komprimieren,** so dass die rechte A. carotis und A. subclavia weniger Blut erhalten. **Puls- und Drucklosigkeit am rechten Arm** weisen auf diese Komplikation hin. Aus diesem Grund sollten am linken Arm der Blutdruck und an der rechten Hand der Fingerpuls kontinuierlich
  -->
 
-
------
-
-Präoperative Abklärung: Anamnese, physikalische Untersuchung, Labor, EKG ev. TTE, Lungenfunktion mit BGA, C/P, Komorbdidät, Optimierung möglich (Bronchiolyse, Antibiose, Raucherentwöhnung, kardiale Therapie) ?
-
-C/P: Verziehungen des Bronchio-Trachealbaums und Tracheleinengungen können Intubation erschweren! Entscheidung ev. Tracheobronchial-Stent präoperativ?
-
-
-4 M´s bei Tumorpatienten (anästhesierelevant)
-1. Mass effects: Lungenabszess, Pancoast Syndrom, Recurrens oder phrenicus parese, obstructive Peumonie, Vena cava superior Syndrom,...
-2. Metabolic effects: Lambert-Eaten Syndrom, hypercalc., hyponatr., Cushing Syndrom 3. Metastases: SKBL to brain, bone, liver and adrena (Lagerung HWS-Metastasen!)
-4. Medications: Chemotherapie, lungentox. (z.B. Mitomycin), cardiotoxisch, nierentoxisch.
-
-Abschätzung respiratorischer Komplikationen: ppoFEV1 (predicted postoperativ FEV1)  \>  50%
-keine/minimale Komplikationen zu erwarten.
-Bestimmung der VO2max am Ergometer: junger untrainierter Erwachsener hat ca. 40ml/kg/min!
-(Ruhe VO2 3ml/kg/min!!!)
-
-OP: Thorakotomie, VATS (video assisted thoracoscopic surgery)
-
-## 33.1 Single lung Beatmung
-
-Indikationen für seitengetrennte Beatmung:
-Tracheobronchiales Leak bei z.B. Pfählungsverletzung, einseitige Infektion, einseitige Lungenblutung, einseitige bronchioalveoläre Lavage.
-Häufigster Einsatz bei: Pneumonektomie, Oberlappenresektion, thorakales Aortenaneurysma Relative Ind: Mittel- und Unterlappenresektion, Ösophagusresektion
-
-
-Möglichkeiten:
-1. Single lumen Endobronchialtubus (länger mit kleineren Cuff für rechtsseitige Beatmung)
-2. Fogarty Katheter: zum Stilllegen eines Bronchus unter Bronchoskopischer Kontrolle 3. Arndt Bronchialblocker, Easy-blocker (EZ-Blocker)
-4. Univent Tubus SL-Tubus mit integr. Endobronchialblocker (Nachteil: high pressure cuff, Lungenkollaps oft inkomplett, Applikation von PEEP nicht möglich, Absaugen nicht möglich)
-
-Heute: Doppellumentubus (kleiner Innendurchmesser, daher zum Weaning immer umintubieren auf SLT, da Spontanatmung sonst kaum möglich!)
-
-
-Intubation mit DLT (Doppellumentubus)
-: Bei schwierigem Atemweg mit SLT intubieren und über Cook-Stab umfädeln auf DLT.
-
-Lagekontrolle
-: Bronchoskopisch, (auskultieren, Brustkorbextensionen)
-  Bei trachealem Abgang des rechten OL-Bronchus darf kein re DLT gesetzt werden!! (1:250)
-
-
-Monitoring: FIO2, Diskonnektion, SaO2, EKG, Temperatur, petCO2, NiBP + Blasenkath, regelm.
-BGA + ZVK, PAK, TEE bei hochrisiko Eingriffen. (ZVK bei oberer Einflussstauung über V. femoralis!)
-+ Arterie!!
-
-
-Narkoseeinleitung/Aufrechterhaltung
-- Robinul oder Atropin vorab
-- Fentanyl/Remifentanil + Propofol/Etomidate, Ketamin+ ev. Antihistaminika u. Bronchiolytika
-- TIVA oder Sevo möglich.
-- Cave: Auto PEEP,  Überblähung der Lunge, Hypokapnie, Hohe Atemwegsdrücke und oberflächliche Narkose vermeiden! (hyperreag. Bronchien mit Gefahr des Bronchospasmus!)
-- Lagerungsschäden: N.Peronäus, Plexus brachialis, Augen!!
-
-
-Lagekontrolle bronchoskopisch
-: Re DLT: über das tracheale Lumen muss die Carina gesehen werden, über das bronchiale Lumen der Oberlappenbronchus identifiziert werden. (ca. 1,5cm ab Carina)
-
-  Li DLT: über das tracheale Lumen muss die Carina und der obere blaue Teil des endobronchialen Cuffs sichtbar sein,  über das bronchiale Lumen muss der linke Oberlappenbronchus (5cm ab Carina) idendifiziert werden.
-
-Lungenperfusion bei Einlungenventilation ELV Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77%), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23%) = Shunt!
-HPV und Hyperkapnie verschlechtern eine vorbestehende Rechtsherzinsuffizienz (Cor pulmonale!)
-
-Mechanismen um intraoperative Hypoxie bei ELV zu vermeiden:
-- Klemmen der A. pulmonalis
-- FIO2 1,0
-- PEEP auf die abhängige Lunge (cave. COPD)
-- CPAP auf die nicht abhängige Lunge (die oben liegende Lunge wird mit O2 gebläht aber NICHT beatmet!)
-- Blähmanöver nach endotrachialer Absaugung
-- Ultimo ratio: beidseitige Beatmung nach Absprache mit dem Operateur (solange wie möglich)
-- Vermeidung von Tubusfehllage und hohen Atemdrücken
-
-Risikofaktoren für Hypoxämie:
-Rechtsseitiger Eingriff (größeres Shuntvolumen), paO2-Abfall bei Seitenlage, hoher Perfusions/Ventilationsgrad der operierten Lunge in der Szintigraphie paO2 ist abhängig vom Shunt-Volumen, Effizienz des Gasaustausches der ventilierten Lunge, HZV Hyperkapnie führt zur Vasokonstriktion in der ventillierte Lunge, und damit zur Blutumverteilung in die nicht ventilierte Lunge!    PEEP in der ventilierten Lunge erhöht den intraalveolären Druck und damit den Gefäßwiderstand und vermindert so die HPV!
-
-Schmerztherapie: thorakale PDA zur Frühmobilisation, Sekretmobilisierung durch Verhinderung von Schonatmung (Atelektasen, Infektionen!)!
-Oder PCA mit Opioiden, Interkostaler oder paravertebraler Block (unter Sicht durch den Chirurgen) +NSAR!
-Postoperative Nachbeatmung im AWR oder IBS, BGA und C/P bei Aufnahme!!
-
-
-
-
-## 33.2. Idiopathisches Lungenödem post Pneumonektomie *
-
-Urs: zu viel Flüssigkeit intraoperativ (lieber Vasopressor!), zu hohe Beatmungsdrücke mit Barotrauma, ...Cave: KEIN Sog auf Thoraxdrain! Nach Pneumonektomie!
-Bei Sog am Drain wird das Herz auf die leere Seite gezogen und die Coronarperfusion abgedrückt
-+ Vena cava abgedrückt = Herz schlägt leer!
-
-Ultimo ratio intra- und postoperativ ECMO!
-
-Prüfung: Möglichkeiten die HPV zu vermindern: NO, Prostacyclin, volatile Anästhetika, Opioide, Hypokapnie.
 

@@ -17,8 +17,7 @@ Fundoplicatio/index
 VATS/index
 Thorakotomie/index
 Mamma/index
-Noduli/index
 Strumektomie/index
-Tapp/index
+TAPP/index
 Varizen/index
 ```

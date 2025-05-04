@@ -1,5 +1,13 @@
 
-#  Aufwachraum *
+:::{index} single: AWR
+:::
+:::{index} single: Aufwachraum
+:::
+
+(AWR)=
+(Aufwachraum)=
+
+#  Aufwachraum
 
 <!-- 60. -->
 

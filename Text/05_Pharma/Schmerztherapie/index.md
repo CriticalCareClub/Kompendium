@@ -1,5 +1,7 @@
 
-# 7. Schmerztherapie
+# Schmerztherapie
+
+<!-- 7. -->
 
 Das Ziel ist schmerzfreiheit bzw. Reduktion der Schmerzen zur Verbesserung der Lebensqualität.
 Ein interdisziplinäres Vorgehen (med, psych, sozial) wird empfohlen;  spezifische Schmerzdiagnose, Dauerschmerz braucht Dauertherapie (keine kurzwirsamen Opioide wg. Sucht),

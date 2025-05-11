@@ -85,6 +85,10 @@ NSTEMI
 : Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
 Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
+Pa
+: Pascal, SI-Einheit für {ref}`Druck <Druck>`. 
+  1 Pa = 1 N / m²
+
 PCI
 : {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
 

@@ -1,6 +1,6 @@
 # Therapeutische Geräte
 
-
+<!-- 
 
 ## Infusionstherapie
 
@@ -21,6 +21,10 @@
 
 ### Externer Schrittmacher
 
+
+ -->
+
+
 ## Sonstige Gerätschaften im OP
 
 ```{index} single: Blutsperre; Bier-Block
@@ -34,37 +38,44 @@
 
 ### Blutsperren
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110940-01341px.jpg
 
-Doppelte Blutsperre für Bier-Block
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Fig-BS-Blutsperren
+:class-grid: outline
+:gap: 20px
+
+Blutsperren
+
+![Doppelte Blutsperre für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110940-01341px.jpg)
+
+![Doppelmanschette für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110959-01341px.jpg)
+
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111025-01341px.jpg)
+
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111253-01341px.jpg)
+
+
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110959-01341px.\*
 
-Doppelmanschette für Bier-Block
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111025-01341px.\*
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111253-01341px.\*
-:::
 
 ```{index} single: MAT
 ```
 ```{index} single: Autotransfusionssysteme, maschinelle
 ```
 
+
+## Blut
+
 ### Maschinelle Autotransfusionssysteme (MAT)
 
-#### CellSaver
 
-### Blut
 
 ```{index} single: Vivostat®
 ```
 
-#### Vivostat
+### Vivostat
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150311_104812-00640px.\*
 Entnahme von Patientenblut aus dem arteriellen Zugang
@@ -74,7 +85,7 @@ Entnahme von Patientenblut aus dem arteriellen Zugang
 Vivostat®
 :::
 
-### Navigation
+## Navigation
 
 ### Nervenstimulation
 
@@ -93,14 +104,14 @@ Elektroden zur N.-recurrens-Stimulation
 Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 :::
 
-### Lagerungshilfen
+## Lagerungshilfen
 
 ```{index} single: DisposaView® 
 ```
 ```{index} single: Bauchlage
 ```
 
-#### DisposaView®
+### DisposaView®
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150512_091232-01341px.\*
 Bauchlagerung mit DisposaView
@@ -109,29 +120,27 @@ Bauchlagerung mit DisposaView
 ## Sonstiges
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20141108_163331-01341px.\*
+
 {index}`Lucas 2®` Thoraxkompressionsgerät
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115409-01341px.\*
+
+
+:::{subfigure} AB
+:subcaptions: below
+:name: Fig-BS-Absaugung
+:class-grid: outline
+:gap: 20px
+
 Absaugung
+
+![Absaugung](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115409-01341px.jpg)
+
+![Absaugung (off)](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115426-01341px.jpg)
+
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115426-01341px.\*
-Absaugung (off)
-:::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.\*
-Miosis
-:::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150327_134545-01341px.\*
-Sevofluran-Flaschen
-:::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150410_083059-01341px.\*
-Infusionen: Beschriftung
-:::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150511_131856-01341px.\*
-Falsche Anzeige
-:::

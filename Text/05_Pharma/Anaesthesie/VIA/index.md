@@ -5,6 +5,9 @@
 Inhalationsanästhetika werden über die Lunge aufgenommen. Im Vergleich mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit an.
 Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine ausreichende Narkosetiefe. Daher werden sie bevorzugt in Kombination mit i.v.-Anästhetika eingesetzt.
 
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150327_134545-01341px.\*
+Sevofluran-Flaschen
+:::
 
 Verstärken die inhibitatorische Funktion und dämpfen die Erregungsübertragung an den Synapsen durch Störung der Ionenkanäle.
 

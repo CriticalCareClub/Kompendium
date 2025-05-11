@@ -174,3 +174,323 @@ Diagnosen, welche bei den jeweiligen Symptomen auch möglich, jedoch weniger wah
     Migraine, Hirnblutung, Schlaganfall, Hypoglykämie, Intoxikation,
     …
 ```
+
+
+
+## Unfallchirurgische Diagnosen
+
+Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als Referenz angeführt, welche man häufig auf unfallchirurgischen Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche Aufstellung findet sich in {term}`🗎 Lippert 4`.
+Die Diagnosen werden durch {ref}`RichtungsLageangaben` ergänzt.
+
+### Wund- und Verletzungsarten
+
+```{eval-rst}
+
+:Abscessus:
+
+    (*Abscess.*) Abszeß
+
+:Amputatio traumatica:
+
+    (*Amput. traumat.*) Unfallbedingte Abtrennung
+
+:Articulatio aperta:
+
+    (*Artic. apert.*) Gelenkseröffnung
+
+:Bulla haemorrhagica:
+
+    (*Bulla haemorrh.*) Blutblase
+
+:Bulla infecta:
+
+    (*Bulla infect.*) infizierte Blase
+
+:Bursa aperta:
+
+    (*Bursa apert.*)
+    Eröffnung des Schleimbeutels
+
+:Bursitis: Schleimbeutelentzündung
+
+    :- purulenta: eitrige ~
+
+:Cauterisatio:
+
+    (*Cauteris.*)
+    Verätzung
+
+:Combustio (graddus ...):
+
+    (*Comb. (grad. n)*)
+    Verbrennung n. Grades
+
+:Congelatio:
+
+    (*Congel.*)
+    Erfrierung
+
+:Contusio:
+
+    (*Cont.*)
+    Prellung, Quetschung
+
+:Corpus alienum:
+
+    (*Corp. alien.*)
+    Fremdkörper
+
+    :- ligneum, - ferreum, - vitreum: Holz-, Eisen-, Glas-Fremdkörper
+
+:Corpus liberum:
+
+    Freier Gelenkskörper
+
+:Decollement:
+
+    Hautabscherung
+
+:Defectus cutis:
+
+    (*Defect. cutis*)
+    Hautverlust
+
+:Discissio:
+
+    (*Disciss.*)
+    Durchtrennung
+
+    :Discissio nervi:
+
+        Burchtrennung des Nervs (an den Fingern numeriert von 1-10 beginnend von der radialen Daumenseite)
+
+:Distorsio:
+
+    (*Dist.*)
+    Zerrung
+
+:Empyema articulare: Gelenkseiterung
+
+:Enucleatio traumatica: Auslösung im Gelenk
+
+:Epidermiolysis:
+
+    (*Epidermiol.*)
+    Ablederung der oberen Haut
+
+:Epiphysiolysis:
+
+    (*Epiphys.*)
+    Wachstumsfugenlösung
+
+:Excoriatio:
+
+    (*Excor.*)
+    Hautabschürfung
+
+:Fissura:
+
+    (*Fiss.*)
+    Sprung des Knochens
+
+:Fistula: Fistel
+
+:Fractura:
+
+    (*Fract.*)
+
+    Fraktur, Bruch des Knochens
+
+    :Fractura aperta:
+
+        (*Fract. apert.*)
+        offener Bruch
+
+    :Fractura comminuta: Trümmerbruch
+
+    :Fractura duplex/triplex: zwei/dreifacher Bruch
+
+    :Fractura epiphysis: Bruch der Epiphyse
+
+    :Fractura subperiostalis: Grünholzbruch
+
+:Hämarthros: Bluterguß im Gelenk
+
+:Hämatoma: Bluterguß
+
+:Hydrops: Erguß im Gelenk
+
+:Inflammatio:   Hautrötung,Entzündung
+
+:Laesio:
+
+    (*Laes.*)
+    Verletzung, Läsion
+
+    :Laesio cartilaginis:
+
+        (*Laes. cartilag.*)
+        Verletzung des Knorpels
+
+    :Laesio nervi:
+
+        (*Laes. nerv.*)
+        Verletzung des Nervs
+
+:Luxatio:
+
+    (*Lux.*)
+    Verrenkung
+
+:Luxatio et fractura:
+
+    (*Luxfract.*)
+    Verrenkungsbruch
+
+:Lyphangitis-adenitis: Lymphbahn-knotenentzündung
+
+:Necrosis cutis: abgestorbene Haut
+
+:Panaritium subcutaneum: Eiterung des Unterhautfettgewebes an Fingern oder Zehen
+
+:Panaritium tendineum: eitrige Sehnenscheidenentz.
+
+:Paralysis: Lähmung
+
+:Paresis: Teillähmung
+
+:Paronychia: Nagelbettentzündung
+
+:Phlegmona: Phlegmone
+
+:Refractura:
+
+    (*Refract.*)
+    Neuerlicher Bruch im Bereich eines alten Bruches
+
+:Ruptura:
+
+    (*Rupt.*)
+    Riß, Zerreißung
+
+:Ruptura syndesmosis: Syndesmosenzerreißung
+
+:Seroma: Erguß seröser Flüssigkeit
+
+:Subluxatio:
+
+    (*Sublux.*)
+    Teilverrenkung
+
+:supraarticularis:
+
+    (*supraartic.*)
+    über dem Gelenk
+
+:Vulnus:
+
+   (*Vuln.*)
+   Wunde
+
+    :Vulnus ictum:
+
+        (*Vuln. ict.*)
+        Stichwunde
+
+    :Vulnus lacero-contusum:
+
+        (*Vlc.*)
+        Rißquetschwunde
+
+    :Vulnus morsum animalis:
+
+        (*Vuln. mors. anim.*)
+        Tierbiß
+
+    :Vulnus morsum hominis:
+
+        (*Vuln. mors. hom.*)
+        Menschenbiß
+
+    :Vulnus perforans: Durchdringende Stichwunde
+
+    :Vulnus scissum:
+
+        (*Vuln. sciss.*)
+        Schnittwunde
+
+    :Vulnus sclopetarium:
+
+        (*Vuln. sclopet.*)
+        Schußwunde
+
+Zusätze
+=================================================================
+```
+
+### Zusätze
+
+```{eval-rst}
+
+:non recens:
+
+    (*non rec.*)
+    nicht frisch;
+    bei bereits sichtbar infizierten oder über 8 Stunden alten Wunden
+    oder offenen Brüchen,
+    bei geschlossenen Brüchen nach 24 Stunden
+
+:infectus, -a, -um: infiziert
+
+:inveteratus:
+
+    (*invet.*)
+    veraltet
+
+:apertus:
+
+    (*apert.*)
+    offen
+
+:ossea sanata:
+
+    (*oss. san.*)
+    knöchern geheilt
+
+:repositus:
+
+    (*repos.*)
+    eingerichtet, reponiert
+
+:utriusque:
+
+    (*utr.*)
+    rechts und links
+
+:bilateralis:
+
+    (*bilat.*)
+    beiderseitig an einer Extremität
+    (d. h. innen und aussen, radial und ulnar etc.)
+
+:operatus:
+
+    (*operat.*)
+    operiert
+
+:suturatus:
+
+    (*suturat.*)
+    genäht
+
+:fixatus:
+
+    (*fixat.*)
+    ruhiggestellt im Gips
+
+:signum interrogationis:
+
+    (*s. i.*)
+    fraglich, Zusatz bei unsicherer Diagnose
+```
+

@@ -6,15 +6,6 @@
 :::
 :::{index} single: p
 :::
-
-(druck)=
-
-## Druck
-
-$$
-p=\frac{F}{A}
-$$
-
 :::{index} single: Pascal
 :::
 :::{index} single: Pa
@@ -28,17 +19,39 @@ $$
 :::{index} single: atm
 :::
 
-### Druckeinheiten
+(druck)=
 
-> 1 Pascal (Pa) = 1 N / m²
->
-> 1 Bar = 10⁵ Pa
->
-> 1 Pa = 133,3 Torr
->
-> 1 Torr = 1 mm Hg
->
-> 1 atm ≈ 1 Bar
+## Druck
+
+Druck ist eine fundamentale physikalische Größe, die beschreibt, wie viel Kraft auf eine bestimmte Fläche wirkt. 
+Die SI-Einheit ist **Pascal** (**Pa**), 1 Pascal (Pa) ist definiert als 1 N / m². 
+
+Mathematisch wird Druck als Kraft pro Fläche beschrieben:
+
+:::{math} Druck
+:name: EQ-Druck
+
+p=\frac{F}{A}
+:::
+
+
+:::{table} Druckeinheiten
+
+| Druckeinheit   | Wert in Pascal (Pa)     |
+|----------------|--------------------------|
+| 1 atm          | 101 325 Pa               |
+| 1 bar          | 100 000 Pa               |
+| 1 mbar         | 100 Pa                   |
+| 1 cmH₂O        | 98.0665 Pa               |
+| 1 mmHg         | 133.322 Pa               |
+| 1 Torr         | 133.322 Pa               |
+| 1 psi          | 6 894.76 Pa              |
+| 1 Pa           | 1 Pa                     |
+| 1 kPa          | 1 000 Pa                 |
+| 1 MPa          | 1 000 000 Pa             |
+:::
+
+
 
 :::{index} single: Temperatur
 :::
@@ -47,63 +60,42 @@ $$
 
 ## Temperatur
 
-Maßeinheit *Kelvin* (**K**). Absoluter Nullpunkt: **273,15** °C.
+Temperatur ist eine grundlegende physikalische Größe, die den thermischen Zustand eines Systems beschreibt. 
+Sie steht in direktem Zusammenhang mit der mittleren kinetischen Energie der Teilchen in einem Stoff. 
+Die SI-Einheit ist **Kelvin** (**K**), der **absoluter Nullpunkt** (0K) beträgt **273,15** °C.
+Die Temperatur beeinflusst zahlreiche physikalische Prozesse und ist eine zentrale Größe in der Thermodynamik.
 
 Die Temperatur $T$ ist proportional zur mittleren kinetischen Energie der Moleküle:
 
-$$
+:::{math}
+:name: EQ-Temperatur
+
 T \propto \langle E_{\mbox{kin}} \rangle
-$$
+:::
+
+
+
+
+| Wert in Einheit    | Einheit | Entspricht in Kelvin (K) |
+| ------------------ | ------- | ------------------------ |
+| 1  Kelvin          | K       | 1 K                      |
+| 1  Grad Celsius    | °C      | 274,15 K                 |
+| 1  Grad Fahrenheit | °F      | 255,93 K                 |
+
+
 
 :::{index} single: Gasgesetze
 :::
 
-## Gase — Gasgesetze
 
-Drei Variablen:
 
-- Volumen $V$,
-- Temperatur $T$,
-- Druck $p$
 
-Es gilt:
-
-$$
-p \propto \frac{1}{V} \quad \ldots T~\mbox{konstant}
-
-V \propto T \quad \ldots p~\mbox{konstant}
-
-P \propto T \quad \ldots V~\mbox{konstant}
-$$
-
-:::{index} single: R; Gaskonstante Gaskonstante Zustandsgleichung; ideale Gase
-:::
-
-### Zustandsgleichung *idealer* Gase
-
-$$
-p \cdot V = n \cdot R \cdot T
-$$
-
-Molzahl $n$, {index}`Gaskonstante` $R$ (8,314J/(mol K))
-
-:::{index} Kohäsionsbinnendruck; Zustandsgleichung realer Gase Zustandsgleichung; reales Gase
-:::
-
-### Zustandsgleichung *realer* Gase
-
-*Reale* Gase: Moleküle haben Ausdehnung, Kräfte zwischen den Molekülen:
-
-$$
-\left(p + {\frac{a}{V^2}}\right) \cdot \left(V - {\color{green}b}\right) = n \cdot R \cdot T
-$$
-
-${{\frac{a}{V^2}}}$ Kohäsionsbinnendruck,
-${\color{green}b}$ Eigenvolumen der Gasmoleküle
 
 ## Drücke in Flüssigkeiten
 
 Der Druck in strömenden Medien besteht aus einem statischen und einem dynamischen Anteil. Beide Teile sind von der Dichte abhängig. Sie unterscheiden sich dadurch, dass der statische Druck (bei konstanter Dichte) *linear* mit der Höhe $h$ der Flüssigkeitssäule steigt und von der (Erd-)beschleunigung $g$ abhängig ist. Der dynamische Anteil wächst dagegen *quadratisch* mit der Strömungsgeschwindigkeit des Fluids.
+
+
 
 :::{index} single: Druck, hydrostatischer
 :::
@@ -123,6 +115,8 @@ $g$ Erdbeschleunigung (9,81 m / s²),
 $h$ Höhe \[m\],
 $p_0$ Luftdruck auf Flüssigkeitsoberfläche
 
+
+
 :::{index} single: Paradoxon; hydrostatisches
 :::
 
@@ -135,6 +129,8 @@ $p_0$ Luftdruck auf Flüssigkeitsoberfläche
 
 Auch bei unterschiedlich geformten Gefäßen ist der hydrostatische Druck am Boden überall gleich groß (*hydrostatisches Paradoxon*;
 Wandkräfte; gilt nur für Flüssigkeiten!).
+
+
 
 :::{index} single: Druck; hydrodynamischer
 :::
@@ -157,7 +153,11 @@ $$
 Der hydrodynamische Druck $p_d$ wächst **quadratisch** mit der Flußgeschwindigkeit.
 :::
 
+
+
 ## Strömungen
+
+
 
 :::{index} single: Kontinuitätsgesetz
 :::
@@ -171,6 +171,8 @@ Das Kontinuitätsgesetz besagt (in integraler Form), dass der Massenstrom eines 
 Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::
 
+
+
 :::{index} single: Kontinuitätsgleichung
 :::
 :::{index} single: Kontinuitätsgesetz
@@ -178,7 +180,7 @@ Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Ali
 
 #### Kontinuitätsgleichung
 
-:::{admonition} Gleichung: Kontinuitätsgleiuchung
+:::{admonition} Gleichung: Kontinuitätsgleichung
 $$
 A_1 ⋅ v_1 = A_2 ⋅ v_2
 $$
@@ -186,6 +188,10 @@ $$
 
 :::{figure} /Bilder/Sketches/Sketch-000002.\*
 :::
+
+
+
+(Bernoulli-Gleichung)=
 
 #### Bernoulli-Gleichung
 
@@ -204,6 +210,8 @@ Gesamtdruck ist konstant.
 :::{figure} /Bilder/Sketches/Sketch-000003.\*
 :::
 
+
+
 #### Bernoulli-Prinzip
 
 Durch die Differenz von statischen Drücken kommt es zum Auftrieb.
@@ -211,11 +219,18 @@ Durch die Differenz von statischen Drücken kommt es zum Auftrieb.
 :::{figure} /Bilder/Sketches/Sketch-000001.\*
 :::
 
+
+
 ### Venturi-Prinzip
 
-Fließt durch die Venturi-Düse ein gasförmiges oder flüssiges Medium, so ist an der engsten Stelle des Rohres der dynamische Druck (Staudruck) maximal und der statische Druck minimal. Die Geschwindigkeit des fließenden Gases (bzw. der Flüssigkeit) steigt im Verhältnis der Querschnitte beim Durchströmen des eingeschnürten Teils an, weil überall dieselbe Menge durchfließt. Gleichzeitig sinkt der Druck im Abnahmerohr, das genau im engen Teil sitzt. Damit entsteht ein Differenzdruck, der dann in verschiedenen Messgeräten oder zum Ansaugen von Flüssigkeiten oder Gasen benutzt wird.
+Fließt durch die **Venturi-Düse** ein *gasförmiges* oder *flüssiges* Medium, so ist *an der engsten Stelle* des Rohres *der dynamische Druck (Staudruck) maximal* und der *statische Druck minimal*. 
 
-Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durch die Bernoulli-Gleichung gegeben. Bei idealen Gasen gilt die erweiterte Bernoulli-Gleichung.
+Die Geschwindigkeit des fließenden Gases (bzw. der Flüssigkeit) steigt im Verhältnis der Querschnitte beim Durchströmen des eingeschnürten Teils an, weil überall dieselbe Menge durchfließt. 
+Gleichzeitig sinkt der Druck im Abnahmerohr, das genau im engen Teil sitzt. 
+Damit entsteht ein **Differenzdruck**, der dann in verschiedenen Messgeräten oder zum *Ansaugen* von Flüssigkeiten oder Gasen benutzt wird.
+
+Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durch die {ref}`Bernoulli-Gleichung <Bernoulli-Gleichung>` gegeben. 
+Bei idealen Gasen gilt die erweiterte Bernoulli-Gleichung.
 
 
 
@@ -226,8 +241,9 @@ Die Druckdifferenz ist bei Flüssigkeiten (inkompressibel und ohne Reibung) durc
 
 ### Strömungswiderstand
 
-Der Strömungswiderstand ist die physikalische Größe, die in der Fluiddynamik die Kraft bezeichnet, die das Fluid als Medium einer Bewegung entgegensetzt. Ein Körper, der sich relativ zu einem gasförmigen oder flüssigen Medium bewegt, erfährt einen Strömungswiderstand, eine der Relativgeschwindigkeit entgegengesetzt wirkende Kraft. Bewegt sich eine Person (z. B.
-ein Jogger) oder ein Gegenstand (z. B. ein Flugzeug) an der Luft oder durch die Luft, so spricht man auch vom Luftwiderstand oder von der Luftreibung, bei hydrodynamischen Problemen im Wasser von Wasserwiderstand.
+Der Strömungswiderstand ist die physikalische Größe, die in der Fluiddynamik die Kraft bezeichnet, die das Fluid als Medium einer Bewegung *entgegensetzt*. 
+Ein Körper, der sich relativ zu einem gasförmigen oder flüssigen Medium bewegt, erfährt einen Strömungswiderstand, eine der Relativgeschwindigkeit entgegengesetzt wirkende Kraft. 
+Bewegt sich eine Person (z. B. ein Jogger) oder ein Gegenstand (z. B. ein Flugzeug) an der Luft oder durch die Luft, so spricht man auch vom Luftwiderstand oder von der Luftreibung, bei hydrodynamischen Problemen im Wasser von Wasserwiderstand.
 
 :::{admonition} Gleichung: Strömungswiderstand
 $$
@@ -246,7 +262,9 @@ $\dot{V}$
 : Volumsstromstärke.
 :::
 
-Das entspricht dem aus der Elektrik bekannten $R=\frac{U}{I}$.
+Das entspricht dem aus der Elektrik bekannten $R=\frac{U}{I}$ (**Ohm'sches Gesetz**).
+
+
 
 :::{index} single: Hagen-Poiseuille-Gleichung
 :::
@@ -300,12 +318,67 @@ Cut-off: $Re$ = 1200, darüber eher turbulent, darunter eher laminar.
 
 
 
-## Dämpfe
+## Gase
 
 Der Aggregatzustand eines Stoffes ist abhängig von der Temperatur und dem Umgebungsdruck.
 Man Unterscheidet zwischen festen, flüssigen und gasförmigen Phasen.
 
 Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt er bei 273,16 K und 613 Pa.
+
+### Gasgesetze
+
+Drei Variablen:
+
+- Volumen $V$,
+- Temperatur $T$,
+- Druck $p$
+
+Es gilt:
+
+$$
+p \propto \frac{1}{V} \quad \ldots T~\mbox{konstant}
+
+V \propto T \quad \ldots p~\mbox{konstant}
+
+P \propto T \quad \ldots V~\mbox{konstant}
+$$
+
+
+
+:::{index} single: R; Gaskonstante 
+:::
+:::{index} single: Gaskonstante 
+:::
+:::{index} single: Zustandsgleichung; ideale Gase
+:::
+
+### Zustandsgleichung *idealer* Gase
+
+$$
+p \cdot V = n \cdot R \cdot T
+$$
+
+Molzahl $n$, {index}`Gaskonstante` $R$ (8,314J/(mol K))
+
+
+
+:::{index} Kohäsionsbinnendruck; Zustandsgleichung realer Gase 
+:::
+:::{index} single: Zustandsgleichung; reales Gase
+:::
+
+### Zustandsgleichung *realer* Gase
+
+*Reale* Gase: Moleküle haben Ausdehnung, Kräfte zwischen den Molekülen:
+
+$$
+\left(p + {\frac{a}{V^2}}\right) \cdot \left(V - {\color{green}b}\right) = n \cdot R \cdot T
+$$
+
+${{\frac{a}{V^2}}}$ Kohäsionsbinnendruck,
+${\color{green}b}$ Eigenvolumen der Gasmoleküle
+
+
 
 :::{index} single: Dampfdruck
 :::

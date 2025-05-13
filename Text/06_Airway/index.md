@@ -5,6 +5,7 @@
 :::{index} single: Airway
 :::
 
+(Airway-Techniken)=
 (AATW)=
 
 # Atemweg

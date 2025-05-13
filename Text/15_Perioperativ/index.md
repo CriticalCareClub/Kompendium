@@ -3,7 +3,6 @@
 :::{toctree}
 :maxdepth: 1
 
-AK/index.md
 100-Allgemeinnarkose/index
 100-AASD/index
 100-GREG/index
@@ -46,50 +45,50 @@ AK/index.md
 400-Mastozytose/index
 :::
 
-<!--  
-:::{list-table} Kurzübersicht: 
+<!--
+:::{list-table} Kurzübersicht:
 :stub-columns: 1
 
 * - Abkürzung, Synonyme
-  - 
+  -
 * - Varianten
-  - 
+  -
 * - Beschreibung, Pathophysiologie
-  - 
+  -
 * - Dringlichkeit
-  - 
+  -
 * - Dauer (S/N)
-  - 
+  -
 * - Präanästhesie, Aufklärung
-  - 
+  -
 * - Prä-OP-Diagnostik
   - —
 * - Blutmanagement
-  - 
+  -
 * - Antibiotika
-  - 
+  -
 * - Anästhesieverfahren
-  - 
+  -
 * - Airway
-  - 
+  -
 * - Invasivitäten
-  - 
+  -
 * - Narkoseführung
-  - 
+  -
 * - Lagerung
-  - 
+  -
 * - Aufstellung
-  - 
+  -
 * - Geräte
-  - 
+  -
 * - Peri-OP-Diagnostik
   - —
 * - OP-Ablauf
-  - 
+  -
 * - Gefahren
-  - 
+  -
 * - Typische Komplikationen
-  - 
+  -
 * - Postoperatives Management
   - {ref}`AWR <AWR>`
 

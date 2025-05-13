@@ -3,8 +3,28 @@
 :::{index} single: Esmeron®
 :::
 
+(Rocuronium)=
+
 # Rocuronium
 
+:::{seealso}
+- {ref}`Muskelrelaxantien`
+:::
+
+
+Esmeron
+
+Anschlagszeit: 2—3 min
+
+= NdMR; 0,6mg/kg KG, bei RSI 1mg/kg/KG mit Anschlagzeit mit Lysthenon gleichwertig;
+Bei kurzen Eingriffen 0,3-0,5mg/kg KG mit Intubation nach 90-120 Sekunden, WD 15-25 min. Bei Gabe von 2 facher ED95 bis zu 90 Minuten Wirkdauer bei RSI.
+Biliäre und renale Elimination; Antagonisierung: Normastigmin (+Atropin oder Robinul),
+Bridion
+
+
+:::{danger}
+Verwechslungsgefahr: Esmolol
+:::
 
 
 Beschreibung

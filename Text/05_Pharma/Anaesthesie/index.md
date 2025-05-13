@@ -1,4 +1,6 @@
-# Anästhesie
+(Pharma-Anaesthesie)=
+
+# Anästhesie (Pharmakologie)
 
 Ziel einer Allgemeinnarkose ist das Auslösen eines *schlafähnlichen* Zustands des Patienten unter Ausschaltung des Bewusstseins und der Schmerzempfindung.
 Es kommt schließlich zu:

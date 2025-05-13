@@ -1,4 +1,5 @@
 
+(Muskelrelaxantien)=
 
 # Muskelrelaxantien
 
@@ -105,71 +106,13 @@ Eine Intubation ohne Relaxation ist in Ausnahmefällen in tiefer AN möglich, br
 - Bronchospasmus und Laryngospasmus beim Kind,
 - schlechtere Intubationsbedingungen.
 
-
-:::{index} single: Succinylcholin
-:::
-:::{index} single: Suxamethonium
-:::
-:::{index} single: Lysthenon
-:::
-
-(Succinylcholin)=
-
-## Succinylcholin
-
-Suxamethonium, Lysthenon
-
-=  Depolarisierendes Muskelrelaxans;
-1-1,5mg/kg KG;
-
-bindet an postsynaptischen N2 und muskarinen Rezeptoren (parasympatomimetische NW mit Bradykardie);
-
-NW
-: Dysarrhythmien bis Asystolie, Muskelschmerzen, Kaliumfreisetzung, Erhöhung des ICP, IOP, intragastralen Druck, Myoglobulinurie, CK-Erhöhung, maligne Hyperthermie. Bei Kindern nur im  äußersten Notfall anwenden, da Gefahr der unbekannten Muskeldystrophie.
-
-Kontraindikationen
-: Hyperkaliämie, {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`, schwere Niereninsuffizienz, Verbrennungen, Polytrauma, Immobile Patienten/Intensivpatienten, Sepsis, erhöhtem ICP, perforierenden Augenverletzungen, Muskeldystrophien, Myasthenia Gravis, Querschnittlähmung,
-Cholinesterasemangel.
-
-Decurarisieren
-: 2-3 Minuten vor Succinylcholingabe kleine Dosis NdMR;  Faszikulationen können nicht verhindert werden, langsamere Anschlagzeit, umstritten.
-
-Abbau über Pseudocholinesterase des Plasmas und Abdiffusion.
-
-
-:::{danger}
-Triggersubstanz für {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`!
+:::{seealso}
+- {ref}`Succinylcholin`
+- {ref}`Rocuronium`
+- {ref}`Cisatracurium`
 :::
 
 
-:::{index} single: Rocuronium
-:::
-:::{index} single: Esmeron
-:::
-
-(Rocuronium)=
-
-## Rocuronium
-
-Esmeron
-
-Anschlagszeit: 2—3 min
-
-= NdMR; 0,6mg/kg KG, bei RSI 1mg/kg/KG mit Anschlagzeit mit Lysthenon gleichwertig;
-Bei kurzen Eingriffen 0,3-0,5mg/kg KG mit Intubation nach 90-120 Sekunden, WD 15-25 min. Bei Gabe von 2 facher ED95 bis zu 90 Minuten Wirkdauer bei RSI.
-Biliäre und renale Elimination; Antagonisierung: Normastigmin (+Atropin oder Robinul),
-Bridion
-
-
-:::{danger}
-Verwechslungsgefahr: Esmolol
-:::
-
-
-:::{index} single: Vecuronium
-:::
-:::{index} single: Norcuron
-:::
 
 (Vecuronium)=
 
@@ -180,19 +123,6 @@ Norcuron
 = ndMR; 0,1mg/kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
 
 
-
-:::{index} single: Cisatracurium
-:::
-:::{index} single: Nimbex
-:::
-
-(Cisatracurium)=
-
-## Cisatracurium
-
-Nimbex
-
-=  ndMR;  0,1mg/kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  Organunabhängige Elimination durch Hoffmann-Elimination (CNI geeignet!);  Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
 
 
 

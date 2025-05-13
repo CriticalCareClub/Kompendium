@@ -58,7 +58,19 @@ Häufige Atemwegs-Techniken bzw. -Devices im Rahmen der Allgemeinnarkose sind di
 
 
 :::{seealso}
-{ref}`Airway-Techniken`
+- {ref}`Airway-Techniken`
+- {ref}`Pharma-Anaesthesie`
+- {ref}`Hypnotika`
+  - {ref}`Propofol`
+  - {ref}`Midazolam`
+  - {ref}`Esketamin`
+  - {ref}`VIA`
+- {ref}`Opiate`
+  - {ref}`Fentanyl`
+  - {ref}`Remifentanil`
+- {ref}`Muskelrelaxantien`
+  - {ref}`Rocuronium`
+  - {ref}`Succinylcholin`
 :::
 
 

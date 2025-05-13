@@ -38,7 +38,9 @@ Die Aufnahme eines VIA ist abhängig vom BGVK, HMV und der alveo/venösen Partia
 **Siedepunkt** bei Raumtemperaur 22,8°C Desfluran, Sevofluran 58,5°C, Lachgas -88°C.
 
 
-
+:::{danger}
+Triggersubstanz für {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`!
+:::
 
 Bei VIA verhindert ein BIS-Monitoring keine Awareness {term}`Citation needed`. Zur Überwachung der Narkosetiefe wird MAC herangezogen!
 

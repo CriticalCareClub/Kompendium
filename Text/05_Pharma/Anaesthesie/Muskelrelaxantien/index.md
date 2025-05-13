@@ -106,8 +106,18 @@ Eine Intubation ohne Relaxation ist in Ausnahmefällen in tiefer AN möglich, br
 - schlechtere Intubationsbedingungen.
 
 
+:::{index} single: Succinylcholin
+:::
+:::{index} single: Suxamethonium
+:::
+:::{index} single: Lysthenon
+:::
+
+(Succinylcholin)=
 
 ## Succinylcholin
+
+Suxamethonium, Lysthenon
 
 =  Depolarisierendes Muskelrelaxans;
 1-1,5mg/kg KG;
@@ -118,7 +128,7 @@ NW
 : Dysarrhythmien bis Asystolie, Muskelschmerzen, Kaliumfreisetzung, Erhöhung des ICP, IOP, intragastralen Druck, Myoglobulinurie, CK-Erhöhung, maligne Hyperthermie. Bei Kindern nur im  äußersten Notfall anwenden, da Gefahr der unbekannten Muskeldystrophie.
 
 Kontraindikationen
-: Hyperkaliämie, Maligne Hyperthermie, schwere Niereninsuffizienz, Verbrennungen, Polytrauma, Immobile Patienten/Intensivpatienten, Sepsis, erhöhtem ICP, perforierenden Augenverletzungen, Muskeldystrophien, Myasthenia Gravis, Querschnittlähmung,
+: Hyperkaliämie, {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`, schwere Niereninsuffizienz, Verbrennungen, Polytrauma, Immobile Patienten/Intensivpatienten, Sepsis, erhöhtem ICP, perforierenden Augenverletzungen, Muskeldystrophien, Myasthenia Gravis, Querschnittlähmung,
 Cholinesterasemangel.
 
 Decurarisieren
@@ -127,10 +137,21 @@ Decurarisieren
 Abbau über Pseudocholinesterase des Plasmas und Abdiffusion.
 
 
+:::{danger}
+Triggersubstanz für {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`!
+:::
 
 
+:::{index} single: Rocuronium
+:::
+:::{index} single: Esmeron
+:::
 
-## Rocuronium/Esmeron
+(Rocuronium)=
+
+## Rocuronium
+
+Esmeron
 
 Anschlagszeit: 2—3 min
 
@@ -140,6 +161,18 @@ Biliäre und renale Elimination; Antagonisierung: Normastigmin (+Atropin oder Ro
 Bridion
 
 
+:::{danger}
+Verwechslungsgefahr: Esmolol
+:::
+
+
+:::{index} single: Vecuronium
+:::
+:::{index} single: Norcuron
+:::
+
+(Vecuronium)=
+
 ## Vecuronium
 
 Norcuron
@@ -147,12 +180,28 @@ Norcuron
 = ndMR; 0,1mg/kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
 
 
+
+:::{index} single: Cisatracurium
+:::
+:::{index} single: Nimbex
+:::
+
+(Cisatracurium)=
+
 ## Cisatracurium
 
 Nimbex
 
 =  ndMR;  0,1mg/kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  Organunabhängige Elimination durch Hoffmann-Elimination (CNI geeignet!);  Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
 
+
+
+:::{index} single: Mivacurium
+:::
+:::{index} single: Mivacron
+:::
+
+(Mivacurium)=
 
 ## Mivacurium
 
@@ -164,6 +213,14 @@ langsam spritzen (Flush)
 
 =  ndMR;  0,15-02mg/kg, 3-4min AZ, 10-20min WD, Erholungszeit unabhängig von der verabreichten Dosis;  Abbau durch Pseudocholestinesterase;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
 
+
+
+:::{index} single: Atracurium
+:::
+:::{index} single: Tracrium
+:::
+
+(Atracurium)=
 
 ### Atracurium
 
@@ -184,6 +241,12 @@ Sectio
 
 
 
+
+:::{index} single: Neostigmin
+:::
+
+(Neostigmin)=
+
 ### Neostigmin
 
 hemmt Ach-Esterase, Ach im synaptischen Spalt ↑, Erregung parasymp. Organe
@@ -202,6 +265,14 @@ Nachteil viele NW
 : Bradykardie, Hypotonie, Hypersekretion, Asthma, Hyperperistaltik, Diarrhoe, Harndrang, Übelkeit, Erbrechen, Miosis, Muskelzuckungen, Depolarisationsblock.
 
   Ein tiefer Block kann nicht so reversiert werden!
+
+
+:::{index} single: Sugammadex
+:::
+:::{index} single: Bridion
+:::
+
+(Sugammadex)=
 
 #### Sugammadex/Bridion:
 

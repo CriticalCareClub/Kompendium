@@ -4,34 +4,9 @@
 
 ```{toctree}
 :maxdepth: 1
+:glob:
 
-Acetazolamid/index
-Adenosin/index
-Adrenalin/index
-Ajmalin/index
-Amiodaron/index
-CisAtracurium/index
-Diazepam/index
-Esmolol/index
-Etomidate/index
-Furosemid/index
-Glycopyrronium/index
-Metamizol/index
-Metoprolol/index
-Methylprednisolon/index
-Nalbuphin/index
-Paracetamol/index
-Pethidin/index
-Piritramid/index
-Prednisolon/index
-Propofol/index
-Remifentanil/index
-Rocuronium/index
-Sufentanil/index
-Succinylcholin/index
-Terbutalin/index
-Thiopental/index
-Tranexamsaeure/index
+*
 ```
 
 % Medikament

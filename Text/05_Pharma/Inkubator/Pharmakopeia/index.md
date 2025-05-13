@@ -1,25 +1,15 @@
 # Pharmakopeia — Inkubator
 
 ```{toctree}
-:caption: "Priorit\xE4t"
 :maxdepth: 1
 
-Atropin/index
-Benzodiazepine/index
-Fentanyl/index
-Flumazenil/index
-Heparin/index
-KetaminS/index
-S-Ketamin/index
-Midazolam/index
-Morphin/index
-Naloxon/index
-Propofol/index
+*/index
 ```
 
 ```{toctree}
 :caption: Backlog
 :maxdepth: 1
+:glob:
 
 Antiarrhythmika/index
 Anticholinergika/index

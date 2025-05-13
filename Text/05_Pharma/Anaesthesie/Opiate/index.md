@@ -9,13 +9,21 @@ Miosis
 :::
 
 
-```{eval-rst}
-============ ================================
-Alfentanil   Rapifen®
-Fentanyl     **Fentanyl Janssen®, Fentamed®**
-Remifentanil Ultiva®
-Sufentanil   Sufenta®
-============ ================================
+
+
+```{list-table}
+:header-rows: 1
+
+* - **Wirkstoff**
+  - **Handelsname(n)**
+* - Alfentanil
+  - Rapifen®
+* - Fentanyl
+  - **Fentanyl Janssen®, Fentamed®**
+* - Remifentanil
+  - Ultiva®
+* - Sufentanil
+  - Sufenta®
 ```
 
 unerwünschte Wirkungen:
@@ -34,49 +42,61 @@ Für Opioide gibt es drei verschieden Rezeptoren, die für die unterschiedlichen
 
 Durch die verschiedenen Affinitäten ergeben sich vier Untergruppen der Opioide.
 
-Tab. 1 Opioide – geordnet nach analgetischer Potenz
 
-```{eval-rst}
-+---------------+-------------------------+-------------------------+
-| Sufentanil    | Sufenta®                | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Remifentanil  | Ultiva®                 | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Fentanyl      | **Fentanyl Janssen®,    | reiner Agonist          |
-|               | Durogesic ®,            |                         |
-|               | Fentoron®**             |                         |
-+---------------+-------------------------+-------------------------+
-| Alfentanil    | Rapifen®                | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Buprenorphin  | Temgesic®, Transtec®,   | Partialagonist          |
-|               | Tridol®, Subutex®       |                         |
-+---------------+-------------------------+-------------------------+
-| Levomethadon  | **L-Polamidon®**        | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Morphin       | Compensan®, Vendal®,    | reiner Agonist          |
-|               | Modiscop®               |                         |
-+---------------+-------------------------+-------------------------+
-| Piritramid    | **Dipidolor®**          | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Nalbuphin     | **Nubain®**             | gemischer               |
-|               |                         | Agonist-Antagonist      |
-+---------------+-------------------------+-------------------------+
-| Pentazocin    | **Fortral®**            | gemischer               |
-|               |                         | Agonist-Antagonist      |
-+---------------+-------------------------+-------------------------+
-| Dihydrocodein | **DHC Mundipharma®,     | reiner Agonist          |
-|               | Codidol®, Dehace®**     |                         |
-+---------------+-------------------------+-------------------------+
-| Pethidin      | **Dolantin®, Alodan®**  | reiner Agonist          |
-+---------------+-------------------------+-------------------------+
-| Tramadol      | Tramal®, Adamon®,       | reiner Agonist          |
-|               | Dolol®, Zalidar®        |                         |
-+---------------+-------------------------+-------------------------+
-| Naloxon       | **Narcanti®**           | Antagonist              |
-+---------------+-------------------------+-------------------------+
-| Naltrexon     | **Nemexin®, Revia®,     | Antagonist              |
-|               | Ethylex®, Dependex®**   |                         |
-+---------------+-------------------------+-------------------------+
+
+
+
+```{list-table} Opioide – geordnet nach analgetischer Potenz
+:header-rows: 1
+
+* - **Wirkstoff**
+  - **Handelsname(n)**
+  - **Wirkprinzip**
+* - Sufentanil
+  - Sufenta®
+  - reiner Agonist
+* - Remifentanil
+  - Ultiva®
+  - reiner Agonist
+* - Fentanyl
+  - **Fentanyl Janssen®, Durogesic®, Fentoron®**
+  - reiner Agonist
+* - Alfentanil
+  - Rapifen®
+  - reiner Agonist
+* - Buprenorphin
+  - Temgesic®, Transtec®, Tridol®, Subutex®
+  - Partialagonist
+* - Levomethadon
+  - **L-Polamidon®**
+  - reiner Agonist
+* - Morphin
+  - Compensan®, Vendal®, Modiscop®
+  - reiner Agonist
+* - Piritramid
+  - **Dipidolor®**
+  - reiner Agonist
+* - Nalbuphin
+  - **Nubain®**
+  - gemischer Agonist-Antagonist
+* - Pentazocin
+  - **Fortral®**
+  - gemischer Agonist-Antagonist
+* - Dihydrocodein
+  - **DHC Mundipharma®, Codidol®, Dehace®**
+  - reiner Agonist
+* - Pethidin
+  - **Dolantin®, Alodan®**
+  - reiner Agonist
+* - Tramadol
+  - Tramal®, Adamon®, Dolol®, Zalidar®
+  - reiner Agonist
+* - Naloxon
+  - **Narcanti®**
+  - Antagonist
+* - Naltrexon
+  - **Nemexin®, Revia®, Ethylex®, Dependex®**
+  - Antagonist
 ```
 
 ## reine Agonisten
@@ -101,12 +121,19 @@ Im folgenden werden die Charakteristika der einzelnen Medikamente aufgezeigt.
   - Gefahr der Kumulation
   - Analgetikum in Anästhesie und Intensivmedizin
 
-```{eval-rst}
-============ ========
-Alfentanil   Rapifen®
-Remifentanil Ultiva®
-Sufentanil   Sufenta®
-============ ========
+
+
+```{list-table}
+:header-rows: 1
+
+* - **Wirkstoff**
+  - **Handelsname**
+* - Alfentanil
+  - Rapifen®
+* - Remifentanil
+  - Ultiva®
+* - Sufentanil
+  - Sufenta®
 ```
 
 -> wie Fentanyl
@@ -138,12 +165,17 @@ Diese Gruppe sind Antagonisten am μ-Rezeptor, daher bewirken sie in nur geringe
 
 Wichtig ist zu beachten, dass es bei steigender Dosierung dieser Medikamente zu einem „ceiling-Effekt“ kommt, das heißt es gibt dann keine weitere Zunahme von Analgesie und Atemdepression.
 
-```{eval-rst}
-============== ============
-**Nalbuphin**  **Nubain®**
-**Pentazocin** **Fortral®**
-============== ============
+```{list-table}
+:header-rows: 1
+
+* - **Wirkstoff**
+  - **Handelsname**
+* - **Nalbuphin**
+  - **Nubain®**
+* - **Pentazocin**
+  - **Fortral®**
 ```
+
 
 ## Partialagonisten
 

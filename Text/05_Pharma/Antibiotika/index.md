@@ -1,4 +1,6 @@
-# 35.1. Antibiotika *
+# Antibiotika
+
+<!-- 35.1. -->
 
 Risiken für multiresistente Erreger: chronische Erkrankung, DM, Alkoholismus, chron.
 Organmanifestation,

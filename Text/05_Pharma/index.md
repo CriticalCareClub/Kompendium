@@ -24,13 +24,11 @@ Blut/index
 Analgetika/index
 Antibiotika/index
 Hormonsystem/index
-Immunsuppressiva-Zytostatika/index
 Respirationstrakt/index
-SonstigeAntiinfaktiva/index
+Sonstige-Antiinfaktiva/index
 Vergiftungen/index
 Virostatika/index
 WasserElythaushalt/index
-Haut/index
 Spezielle/index
 Fragen/index
 Pharmakopeia/index

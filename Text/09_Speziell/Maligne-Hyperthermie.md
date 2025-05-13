@@ -1,6 +1,32 @@
 
 
-# 14. Maligne Hyperthermie
+# Maligne Hyperthermie
+
+
+
+Darunter versteht man eine lebensbedrohliche Störung der Skelettmuskulatur. Sie wird durch sog. Triggersubstanzen ausgelöst.
+Diese sind alle Inhalationsanästhetika, **Succinylcholin** und Stress.
+
+Der Patient weißt an frühen Symptomen eine Tachykardie, eine Hyperkapnie sowie eine Zyanose und einen Muskelrigor auf. Die Hyerthermie tritt erst spät auf.
+
+Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlinien zur Therapie der Malignen Hyperthermie herausgegeben:
+
+- Triggersubstanzen sofort absetzen
+- Dantrolen i.v. zur direkten Relaxation der Skelettmuskulatur
+- schnellstmögliche Beendigung der OP
+- symptomatische Therapie
+
+:::{danger}
+Die Maligne Hyperthermie kann unerkannt fatal enden!
+:::
+
+Folgende Anästhetika können bei Patienten mit Neigung zu Malignen Hyperthermie gefahrlos eingesetzt werden:
+
+- Lachgas
+- i.v.-Anästhetika
+- nicht-depolarisierende Muskelrelaxantien
+
+-----
 
 Ursache: Mutation am Ryanodinrezeptor RYR1 am Sarkoplasmatischen Retikulum der Muskelzelle, welcher die Ca-Freisetzung reguliert; autosomal dominater Erbgang.
 Neuromuskuläre Erkrankung mit RYR1-Mutation: Central core disease, King Denborough Syndrom Fragliche Assoziation mit MH: Exertional heat illness, exercise induced Rhabomyolysis, myotone Muskeldystrophie.

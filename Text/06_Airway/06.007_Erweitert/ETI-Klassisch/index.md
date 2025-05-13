@@ -61,7 +61,7 @@ Er ermöglicht die Beatmung des Patienten (auch mit hohen Beatmungsdrücken) bei
 
 ### Auswahl der Strategie: Nüchtern vs. nicht-nüchtern
 
-Rapid Sequence Induction beim nicht-nüchternen Patienten
+{ref}`Rapid Sequence Induction <RSI>` ("Schnelleinleitung") beim nicht-nüchternen Patienten
 
 Grundsätzlich unterscheidet man bei der Durchführung die ETI beim nüchternen und beim nicht-nüchternen Patienten.
 
@@ -70,40 +70,9 @@ Grundsätzlich unterscheidet man bei der Durchführung die ETI beim nüchternen 
 Beim nüchternen Patienten kann die Narkoseeinleitung und anschließende Atemwegssicherung ohne Zeitstress durchgeführt werden.
 Entscheidend ist, dass nach der Narkoseeinleitung bis zur Intubation eine suffiziente Beatmung, i. d. R. eine Maskenbeatmung, möglich ist.
 
-
-
-:::{index} single: Rapid Sequence Induction
+:::{seealso}
+{ref}`RSI`
 :::
-:::{index} single: Induction; Rapid Sequence
-:::
-:::{index} single: Blitzen
-:::
-:::{index} single: Blitzintubation
-:::
-:::{index} single:  Schnelleinleitung
-:::
-:::{index} single: RSI
-:::
-
-(RSI)=
-
-#### ETI beim nicht-nüchternen Patienten
-
-Beim nicht nüchternen Patienten besteht eine hohe **Aspirationsgefahr** zwischen Beginn der Narkoseeinleitung (und dem damit einhergehenden Verlust der Schutzreflexe) bis zur Vollendung der Atemwegssicherung mittels des gecufften Tubus.
-
-Somit wird in der Regel eine **Rapid Sequence Induktion** (**RSI**; *Blitzintubation*, *Schnelleinleitung*) durchgeführt, um dieses Intervall möglichst zu verkürzen.
-Diese zeichnet sich durch folgende Maßnahmen aus:
-
-- Intensive Präoxygenierung vor Narkoseeinleitung
-- Es wird möglichst kein (oder nur wenig) Hustenreiz-verursachendes Opiat verabreicht
-- Lagerung des Patienten mit erhöhten Oberkörper
-- Möglichst mehrere Absaugevorrichtungen
-- Schnelle Gabe des Hypnotikums
-- Schnellwirksames Muskelrelaxanz
-- Intubationsmethode mit dem am schnellsten zu erwartenden Intubationserfolg: Führungsdraht, ev. Videolaryngoskopie[^RSI-Videolaryngoskopie] etc.
-
-[^RSI-Videolaryngoskopie]: Die Videolaryngoskopie ist per se *kein* Garant für einen schnellen Intubationserfolg. Bei hellem Umgebungslicht oder viel Sekret (Blut, Erbrochenes etc.: blockiert die Kamera) kann sie nachteilig sein.
-
 
 
 :::{index} single: Laryngoskop

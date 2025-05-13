@@ -78,3 +78,45 @@ Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **e
 - Stillpause: 24 h
 - Nicht zur kontinuierlichen Anwendung geeignet (wegen Hemmung der Cortisolsynthese).
 :::
+
+
+
+-----
+
+Einleitung: 0,2 mg / kg
+
+Cave NNR-Suppression, keine repetitive Gabe
+
+NW: Myoklonien
+
+-----
+
+Handelsname: Hypnomidate®. Details siehe {ref}`Charakteristika von Etomidate <Etomidate>`.
+
+Etomidate ist ein reines, mäßig effektives  Hypnotikum mit kurzer Halbwertszeit und verhältnismäßig geringer Kreislaufdepression ("Was wenig Wirkung hat, hat auch wenig Nebenwirkung")
+Aufgrund der verhätnismäßig geringen Kreislaufdepression wird es gerne bei kardialen Risikopatientin oder im fortgeschrittenen Patientenalter eingesetzt.
+
+Etomidate führt zu einer primären **Nebennierensuppression** durch eine reversible Hemmung der 11β-Hydroxylase.
+Dies wird bei einer Vielzahl von akuten Erkrankungen mit einer **erhöhten Mortalität** und Morbidität in Verbindung gebracht. {term}`🗎 Cuthbertson 2009` {term}`🗎 Morris 2005` {term}`🗎 Wagner 1984` ..
+
+:::{danger}
+Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **erhöhten Mortalität** *nicht* bei kritisch kranken, insbesonders septischen, Patienten eingesetzt werden!
+:::
+
+-----
+
+
+Geringe kardiovaskuläre NW, daher vor allem bei kardiovaskulär instabilen Patienten (\>  ASA III)
+geeignet.
+
+Nachteil: hemmt die Steroid-Produktion der NNR bis zu einigen Wochen lang (Sepsis!)
+mit erhöhter Mortalität nach Langzeitsedierung bei ISB-Patienten. Nach Bolusgabe 24h Hemmung.
+
+NW: Myoklonien, Injektionsschmerz, PONV. Abbau in der Leber. KEINE repetative Anwendung!!
+
+Indikation: früher: Notfallintubation bei schweren Schockzuständen (kardialer Schock) und SHT!
+
+Alternative: Niedrig dosiertes Propofol mit Ketamin kombiniert!
+
+Notfallintubation nur mit Ketamin.
+

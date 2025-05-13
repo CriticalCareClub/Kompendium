@@ -92,3 +92,43 @@ Paravasat oder intraarterielle Injektion verursacht schwere
 
 zunehmend durch Propofol verdrängt wird.
 
+-----
+
+
+{ref}`Thiopental <Thiopental>` (Trapanal®)
+
+Diese Substanzklasse führt zu einer Hemmung der sog. Formatio reticularis im Gehirn. Dadurch wirken sie hypnotisch, nicht analgetisch
+(sogar Gefahr der Hyperalgesie) und führen jedoch nicht zu einer ausreichenden Muskelrelaxation.
+
+Barbiturate werden zur Narkoseeinleitung nur in Kombination mit anderen Narkotika und beim Status epileptikus in der Neurologie verwendet.
+
+Unerwünschte Wirkungen:
+
+: Barbiturate führen zu einer Depression von Atmung und Kreislauf. Weiters
+  können sich vegetative Reflexe, allergische Reaktionen, Gefäßreizungen
+  und Symptome wie bei einer akuten intermittierenden Porphyrie zeigen.
+
+Kontraindikationen
+
+: akute Porphyrie, Leber- und Nierenfunktionsstörung,
+  Schock, Myokardinsuffizienz, akute Alkoholintoxikation.
+
+-----
+
+
+Hohe Lipidlöslichkeit (BHS + Plazentagängig), schwache Säure, bei Azidose vermehrt in nicht ionisiertem Zustand; hohe Proteinbindung;
+Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt = Kumulation = Elimination nach nicht linearer Kinetik (Zw. 300 und 600mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
+
+NW
+: periphere  venöse  Vasodilation, Verminderung des cardial Output (verm. Preload, venöses Pooling, negativ inotrop va. bei zu rascher Injektion, vorübergehender verminderter Sympathikusimpuls vom ZNS), Blutdruckabfall (10-20%) mit kompensatorischen HF-Anstieg (Aktivierung der Barorezeptoren im Carotissinus), Bronchospasmus.
+
+Kann akute intermittierende Porphyrie auslösen!
+
+Einleitungsdosis
+: 4-6mg/kg KG (va. bei alten Patienten LANGSAM!!!), erhöhte Dosis bei Kindern, da großes HZV (3x BV/min) + rasche Umverteilung; Säuglinge 6-8mg/kg KG (Sectio 4 -- 6 mg/kg KG keine Auswirkung auf das NG)
+
+ZNS
+: Antikonvulsiv, Antianalgetisch (senkt Schmerzschwelle), Atemregulation (vermindert Atemantwort auf Hypoxie und erhöhtem CO2), senkt ICP durch Vasokonstriktion mit reduziertem CBF und senkt O2-Bedarf des ZNS.
+
+
+Thiopental ist inkompatibel mit Rocuronium, Succinylcholin, Midazolam, Alfentanyl, und Sufenta, daher nie im gemeinsamen Schenkel verabreichen!!!

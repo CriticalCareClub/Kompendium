@@ -33,3 +33,10 @@
 Atemdepression, Antagonist: Anexate, Bei Erfolglosigkeit im
 Status Valproat
 :::
+
+
+-----
+
+
+5-10 fach potenter wie Diazepam; Alternative für IBS: Leber- und Nierenerkrankungs-unabhängige Elimination, durch Konjunktion mit Glukuronsäure zu inaktiven Metaboliten.
+

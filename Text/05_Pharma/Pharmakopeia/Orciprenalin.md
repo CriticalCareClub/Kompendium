@@ -1,6 +1,12 @@
 ```{index} single: Orciprenalin
 ```
 
-(topic-orciprenalin)=
+(Orciprenalin)=
 
 # Orciprenalin
+
+:::{seealso}
+
+- {ref}`Antiarrhythmika`
+
+:::

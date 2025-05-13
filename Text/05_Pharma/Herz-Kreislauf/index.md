@@ -7,6 +7,7 @@ Querverweise:
 - {ref}`Kreislauf <Kreislauf>`
 
 :::{toctree}
+:maxdepth: 1
 
 Antiarrhythmika
 Herzglykoside

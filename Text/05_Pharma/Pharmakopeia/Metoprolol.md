@@ -1,6 +1,12 @@
 ```{index} single: Metoprolol
 ```
 
-(topic-metoprolol)=
+(Metoprolol)=
 
 # Metoprolol
+
+:::{seealso}
+
+- {ref}`Antiarrhythmika`
+
+:::

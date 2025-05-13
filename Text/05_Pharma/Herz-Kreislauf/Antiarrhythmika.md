@@ -14,7 +14,7 @@ Antiarrhythmika blockieren meist einen bestimmten Elektronen-Kanal des Herzgeweb
 {ref}`Aktionspotential des Herzens <Fig-AktionspotentialHerz>`
 beeinflussen.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz- Aktionspotential.png
+:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Aktionspotential.png
 :name: Fig-AktionspotentialHerz
 :width: 100%
 
@@ -27,6 +27,7 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
 
 :::{list-table} Modifizierte Antiarrhythmikaeinteilung, angelegt nach Vaughan Williams
 :name: Tab-VaughanWilliams
+:header-rows: 1
 :stub-columns: 1
 :widths: 10 20 50 20
 
@@ -34,7 +35,7 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   - Beispiele
   - Eigenschaften
   - Handelsnamen
-- - I  (Natriumkanalblocker)
+- - I: {ref}`Na⁺-Kanalblocker <Natriumkanalblocker>`
   -
   -
   -
@@ -42,171 +43,121 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   - mittellange Blockade
   -
-- - ⤷
+- - [⤷]{.deep}
   - {ref}`Ajmalin <Ajmalin>`
   -
   - Gilurytmal™
-- - ⤷
+- - [⤷]{.deep}
   - Chinidin
   -
-  - Chinidin, Duriles™
-
-- - ⤷
-  - Disopyramid
-  -
-  - Rythmodul™, Rythmodan™
-
-- - ⤷
+  - Duriles™
+- - [⤷]{.deep}
   - Prajmalin
   -
   - Neo Gilurytmal™
 - - Ib
-  - ⤷
+  - [⤷]{.deep}
   - kurze Blockade
   -
-
-- - ⤷
-  - Aprindin
-  -
-  - Amidonal™
-
-- - ⤷
+- - [⤷]{.deep}
   - {ref}`Lidocain <Lidocain>`
   -
   - Lidocorit™
-
-- - ⤷
-  - Mexiletin
-  -
-  - Mexitil™
-
-- - ⤷
+- - [⤷]{.deep}
   - Phenytoin
   -
   - Zentropril™
-
-- - ⤷
+- - [⤷]{.deep}
   - Tocainid
   -
-  - Xylotocan™
+  -
 - - Ic
   -
   - lange Blockade
   -
-- - ⤷
+- - [⤷]{.deep}
   - Flecainid
   -
   - Aristocor™
 - -
   - Propafenon
   -
-  - Rytmonorm™,   Rythmocor)
-- - II (Betablocker)
+  - Rytmonorm™,Rythmocor™
+- - II: {ref}`β-Blocker <Betablocker>`
   -
   -
   -
-
-- - ⤷
+- - [⤷]{.deep}
   - {ref}`Esmolol <Esmolol>`
   - kurz wirksam
   - Brevibloc™
-
-- - ⤷
+- - [⤷]{.deep}
   - Landiolol
   - ultrakurz wirksam
   - Rapibloc™
-
-- - ⤷
+- - [⤷]{.deep}
   - Bisoprolol
   -
-  - Bisocor™, Concor™, Biostad™, Rivacor™
-
-- - ⤷
-  - Metoprolol
+  - Bisocor™, Concor™, Rivacor™
+- - [⤷]{.deep}
+  - {ref}`Metoprolol <Metoprolol>`
   -
-  - Beloc™, Seloken™, Lanoc™
-
-- - ⤷
-  - Acebutolol
-  -
-  - Prent™
-
-- - ⤷
+  - Beloc™, Seloken™
+- - [⤷]{.deep}
   - Atenolol
   -
-  - Atehexal™, Tenormin™, Tenoretic™
-
-- - ⤷
-  - Betaxolol
-  -
-  - Kerlone™
-- - ⤷
+  - Tenormin™, Tenoretic™
+- - [⤷]{.deep}
   - Nebivolol
-  - ⤷
-  - Nebilet™, Hypoloc™, Nomexor™
-- -
-  - Oxprenolol
-  - ⤷
-  - Trasicor™
-
-- - ⤷
+  -
+  - Nomexor™
+- - [⤷]{.deep}
   - Pindolol
   -
   - Visken™
-
-- - ⤷
+- - [⤷]{.deep}
   - Propranolol
   -
-  - Dociton™, Inderal™, Proprahexal™
-
-- - ⤷
+  - Inderal™
+- - [⤷]{.deep}
   - Sotalol
   -
-  - Sotalex™, Sotacor™, Sotahexal™
-
-- - ⤷
-  - Timolol
-  -
-  - Temserin™, Blocadren™, Moducrin™
-- - III (Kaliumkanalblocker)
+  - Sotalex™, Sotacor™
+- - III: {ref}`K⁺-Kanalblocker <Kaliumkanalblocker>`
   -
   -
   -
-
-- - ⤷
+- - [⤷]{.deep}
   - {ref}`Amiodaron <Amiodaron>`
   -
-  - Cordarex™,   Sedacoron™
-
-- - ⤷
+  - Cordarex™, Sedacoron™
+- - [⤷]{.deep}
   - Sotalol
+  - auch ein β-Blocker!
+  - Sotalex™, Sotacor™
+- - IV: {ref}`Ca⁺⁺-Kanalblocker <Kalziumantagonisten>`
   -
-  - Sotalex™, Sotacor™, Sotahexal™
-- - IV (Calciumkanalblocker
   -
   -
-  -
-
-- - ⤷
+- - [⤷]{.deep}
   - Diltiazem
   -
-  - Dilzem™,  Diltahexal™
+  - Dilzem™
 
-- - ⤷
+- - [⤷]{.deep}
   - Gallopamil
   -
   - Procorum™
-
-- - ⤷
-  - Verapamil
+- - [⤷]{.deep}
+  - {ref}`Verapamil <Verapamil>`
   -
-  - Isoptin™, Verapabene™, Verastad™
+  - Isoptin™
 - - Herzglykoside
   -
   -
   -
-- - ⤷
-  - Digoxin
+- - [⤷]{.deep}
+  - {ref}`Digoxin <Digoxin>`
   -
   - Lanicor™
 - - [⤷]{.deep}
@@ -217,38 +168,42 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - {.deep}⤷
+- - [⤷]{.deep}
   - Adrenalin
   -
   -
-- - ⤷
+- - [⤷]{.deep}
   - Isoprenalin
   -
+  - Isoprel™
+- -
+  - {ref}`Orciprenalin <Orciprenalin>`
   -
+  - Alupent™
 - - Parasympatholytika
   -
   -
   -
-- - ⤷
-  - Atropin
+- - [⤷]{.deep}
+  - {ref}`Atropin <Atropin>`
   -
   -
-- - ⤷
-  - Glykopyrronium
+- - [⤷]{.deep}
+  - {ref}`Glycopyrronium <Glycopyrronium>`
   -
-  -
+  - Robinul™
 - - Elektrolyte
   -
   -
   -
-- - ⤷
+- - [⤷]{.deep}
   - Kalium
   -
   -
-- - ⤷
-  - Magnesium
+- - [⤷]{.deep}
+  - {ref}`Magnesium <Magnesium>`
   -
-  -
+  - Cormagnesin™
 :::
 
 
@@ -266,31 +221,10 @@ Da sie aber selbst auch arrhythmogen (= Rhythmusstörungen verursachend) wirken 
 
 Die Antiarrhythmika der Klasse I können nach der Kinetik der Na⁺-Kanalblockade noch weiter unterteilt werden:
 
-:::{list-table} Natriumkanalblocker
-:name: Tab-Natriumkanalblocker
-:stub-columns: 1
-:widths: 30 70
+- Ia: mittellange Blockade
+- Ib: kurze Blockade
+- Ic: lange Blockade
 
-- - Klasse
-  - Beispiele
-- - Ia (mittellange Blockade)
-  - {ref}`Ajmalin <Ajmalin>` [(Gilurytmal™)]{.deep}
-
-    Chinidin (Chinidin, Duriles™)
-
-    Disopyramid (Rythmodul™, Rythmodan™)
-
-    Prajmalin (Neo Gilurytmal™)Natriumkanalblocker
-
-    Phenytoin (Zentropril™)
-
-    Tocainid (Xylotocan™)
-- - Ic (lange Blockade)
-
-  - Flecainid (Aristocor™)
-
-    Propafenon (Rytmonorm™,   Rythmocor)
-:::
 
 <!-- :::{note}
 ⚠ **Chinidin (Chinidin Duriles™)**: Kein zerteilen oder kauen der Tabletten
@@ -413,12 +347,6 @@ Kontraindikationen
 :::
 
 
-
-
-
-
-
-
 Trivia
 : - Ein Teil der Betablocker hat noch eine gewisse Beta-Rezeptoren-stimulierende Wirkung  = intrinsische sympathomimetische Aktivität.
   Überlebensvorteil nach MCI nur bei Betablockern ohne ISA.
@@ -430,11 +358,6 @@ Trivia
   - Niedrigdosierte Betablockertherapie verhindert eine Downregulation der kardialen Betarezeptoren bei chronischer Herzinsuffizienz, führen zu einer Upregulation mit verbessertem Ansprechen auf endogene Katecholamine.
     Vorraussetzung ist eine stabile Herzinsuffizienz und langsame Steigerung bei minimaler Dosis.
 
-
- Langzeittherapie NW:
-
-Kontraindikationen
-:
 
 
 
@@ -500,14 +423,14 @@ siehe Herzglykoside
 Ihre Anwendungsgebiete decken sich mit den Klasse-IV-Antiarrhythmika weitgehend.
 
 Wirkstoffe
-: Digoxin, Digitoxin
+: {ref}`Digoxin <Digoxin>`, {ref}`Digitoxin <Digitoxin>`Digitoxin
 
 
 ## Sympathomimetika
 
 Diese Substanzklasse ahmt die Wirkung des Sympathikus nach:
 
-{ref}`Adrenalin <Adrenalin>` (Suprarenin™), Ocriprenalin (Alupent™)
+{ref}`Adrenalin <Adrenalin>` (Suprarenin™), {ref}`Ocriprenalin <Ocriprenalin>` (Alupent™)
 
 Sie sind das Mitte der ersten Wahl bei der Reanimation (siehe Advanced Life Support, ALS).
 
@@ -522,9 +445,11 @@ Parasympatholytika:
 
 Diese Substanzen steigern Herzfrequenz und Kontraktionskraft des Herzens, indem sie die hemmenden Einflüsse des Parasympathikus verringern.
 
-{ref}`Atropin <Atropin>`          (Atropinum sulfuricum™, Myocardon™), *Ipatropiumbromid* (Atrovent™, Itrop™, Berodual™)
+- {ref}`Atropin <Atropin>`          (Atropinum sulfuricum™, Myocardon™),
+- Ipatropiumbromid (Atrovent™, Itrop™, Berodual™)
 
-Atropin wird auch im Rahmen des ALS eingesetzt. Außerdem sind beide Stoffe bei der temporären Behandlung einer Bradykardie indiziert. Die Applikation erfolgt i.v.
+Außerdem sind beide Stoffe bei der temporären Behandlung einer Bradykardie indiziert.
+Die Applikation erfolgt i.v.
 
 
 **Adenosin (Adrekar™)**:
@@ -536,17 +461,39 @@ Unerwünschte Wirkungen: Flush, Kurzatmigkeit, Brustschmerzen. Die Wirkung kann 
 
 ### Glycopyrronium
 
+:::{seealso}
+
+- {ref}`Glycopyrronium`
+
+:::
+
 Parasymaptolytikum, hemmt Ach aus muskarin. Rezeptoren
 
 WIRK: HF↑, Speichel und Schweiß ↓, Harnverhalt, Obstipation, Mydriasis, Hyperpyrexie
 
 ### Atropin
 
+:::{seealso}
+
+- {ref}`Atropin`
+
+:::
+
 Parasymaptolytikum (Anticholin)
 
 WIRK: HF↑, Speichel & Schweiß ↓, Blockade der Vagus-Reflexe, Mydriasis, Bronchodilatation, pos. dromotrop, Spasmolyse
 
 ## Elektrolyte
+
+### Magnesium
+
+
+
+:::{seealso}
+
+- {ref}`Magnesium`
+
+:::
 
 **Magnesium (Mg-5-Sulfat 50%™):**
 

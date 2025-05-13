@@ -11,6 +11,11 @@
 
 Allgemein/index
 Grundbegriffe/index
+Lokal/index
+Hypnotika/index
+Opiate/index
+VIA/index
+Muskelrelaxantien/index
 Herz-Kreislauf/index
 Anaesthesie/index
 Schmerztherapie/index

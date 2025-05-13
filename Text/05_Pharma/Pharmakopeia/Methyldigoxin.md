@@ -1,9 +1,15 @@
-```{index} single: Methyldigoxin
+```{index} single: Digoxin
 ```
 
-(topic-methyldigoxin)=
+(Digoxin)=
 
-# Methyldigoxin
+# Digoxin
+
+:::{seealso}
+
+- {ref}`Antiarrhythmika`
+
+:::
 
 ```{eval-rst}
 

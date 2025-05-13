@@ -4,3 +4,10 @@
 (atropin)=
 
 # Atropin
+
+
+:::{seealso}
+
+- {ref}`Antiarrhythmika`
+
+:::

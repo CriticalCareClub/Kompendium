@@ -1,6 +1,12 @@
 ```{index} single: Verapamil
 ```
 
-(topic-verapamil)=
+(Verapamil)=
 
 # Verapamil
+
+:::{seealso}
+
+- {ref}`Antiarrhythmika`
+
+:::

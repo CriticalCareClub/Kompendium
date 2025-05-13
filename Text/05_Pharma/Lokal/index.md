@@ -6,11 +6,6 @@
 
 # Lokalanästhetika
 
-
-
-
-
-
 Lokalanästhetika unterbinden die Reizweiterleitung an Nervenzellen durch Blockade der Fähigkeit der Nervenzelle zur Depolarisation und bewirken damit eine örtlich begrenzte reversible Hemmung der Schmerzempfindung.
 
 
@@ -320,7 +315,6 @@ Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder \<6 Monate nic
 
 ## Nebenwirkungen
 
-
 - Risiko einer allergischen Reaktion abhängig von der chemischen Struktur Ester \> Amide, oder durch Zusatzstoffe.
 - Lokale Toxizität bei stark lipophilen LA: Nervenschäden (Axon, Schwannschen Zellen), Störung der nervalen Blutversorung, TNS (transiente neurologische Symptome) oder Cauda equina Syndrom nach SPA mit hyperbaren, hochprozentigem Lidocain.
 - Myotoxizität bei Retrobulbärblock mit Bupivacain.
@@ -367,8 +361,9 @@ Symptome:
 :::{index} single: Lipid Rescue®; Lokalanästhetika-Intoxikation
 :::
 
+## Lokalanästhetika-Intoxikation
 
-## 5.2. Lokalanästhetika-Intoxikation *
+<!-- 5.2 -->
 
 Prodromal Stadium mit ZNS Erregung  -- Präkonvulsiv mit ZNS Dämpfung  -- Konvulsivstadium -- ZNS-Depression mit Koma und kardiale Probleme. (max. nach 15-40min)
 

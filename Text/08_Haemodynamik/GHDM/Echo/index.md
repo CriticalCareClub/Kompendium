@@ -145,7 +145,7 @@ Absolute Kontraindikationen:
 
 Relative Kontraindikationen:
 - Ösophagus-/Magenvarizen
-- Barrett-Ösophagus
+- {ref}`Barrett-Ösophagus <Barrett-Oesophagus>`
 - Zencker-Divertikel
 - Ösophaguskarzinom
 - Frühere thorakale Strahlentherapie

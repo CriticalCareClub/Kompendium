@@ -53,6 +53,14 @@ Hepatischer Metabolismus  über Hydroxylierung und CYTP450 (blockiert durch Difl
 
 ## Etomidate
 
+Einleitung: 0,2 mg / kg
+
+Cave NNR-Suppression, keine repetitive Gabe
+
+NW: Myoklonien
+
+-----
+
 Handelsname: Hypnomidate®. Details siehe {ref}`Charakteristika von Etomidate <Etomidate>`.
 
 Etomidate ist ein reines, mäßig effektives  Hypnotikum mit kurzer Halbwertszeit und verhältnismäßig geringer Kreislaufdepression ("Was wenig Wirkung hat, hat auch wenig Nebenwirkung")
@@ -135,6 +143,18 @@ Ind: Risikopatienten, Trauma Patienten, Notfallintubation beim septischen Schock
 
 
 ## Propofol (Disoprivan®, Diprivan®)
+
+Einleitung: 2 mg / kg. Erhaltung: 2—6 mg / kg / h
+
+Wirkungseintritt 15—45 s, bei langer Kreislaufzeit auch länger
+
+Dauer der hypn. Wirkung: 5—10 min
+
+Elim.-HWZ ca. 1 h
+
+Atemdepression, negativ inotrop,, Vasodilatation, antiemetisch
+
+-----
 
 Dieses sehr beliebte Medikament für die Narkoseeinleitung zeichnet sich durch die kurze und allein hypnotische Wirkdauer (5-8 min) aus. Es wird in einer Öl-in-Wasser-Emulsion (10% Sojaöl, dadurch die weiße Farbe)
 verabreicht.

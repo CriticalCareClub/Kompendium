@@ -107,7 +107,7 @@ Eine Intubation ohne Relaxation ist in Ausnahmefällen in tiefer AN möglich, br
 
 
 
-### Succinylcholin
+## Succinylcholin
 
 =  Depolarisierendes Muskelrelaxans;
 1-1,5mg/kg KG;
@@ -130,7 +130,9 @@ Abbau über Pseudocholinesterase des Plasmas und Abdiffusion.
 
 
 
-### Rocuronium/Esmeron
+## Rocuronium/Esmeron
+
+Anschlagszeit: 2—3 min
 
 = NdMR; 0,6mg/kg KG, bei RSI 1mg/kg/KG mit Anschlagzeit mit Lysthenon gleichwertig;
 Bei kurzen Eingriffen 0,3-0,5mg/kg KG mit Intubation nach 90-120 Sekunden, WD 15-25 min. Bei Gabe von 2 facher ED95 bis zu 90 Minuten Wirkdauer bei RSI.
@@ -138,32 +140,59 @@ Biliäre und renale Elimination; Antagonisierung: Normastigmin (+Atropin oder Ro
 Bridion
 
 
-### Vecuronium/Norcuron
+## Vecuronium
+
+Norcuron
+
 = ndMR; 0,1mg/kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
 
 
-### Cisatracurium/Nimbex
+## Cisatracurium
+
+Nimbex
+
 =  ndMR;  0,1mg/kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  Organunabhängige Elimination durch Hoffmann-Elimination (CNI geeignet!);  Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
 
 
-### Mivacurium/Mivacron
+## Mivacurium
+
+Mivacron
+
+langsam spritzen (Flush)
+
+0,2 mg / kg, 1 ml / 10 kg
+
 =  ndMR;  0,15-02mg/kg, 3-4min AZ, 10-20min WD, Erholungszeit unabhängig von der verabreichten Dosis;  Abbau durch Pseudocholestinesterase;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
 
 
-### Atracurium/Tracrium
+### Atracurium
+
+Tracrium
+
 = NdMR; 0,5mg/kg KG, langsamere Anschlagzeit als Esmeron; Empfohlen bei Porphyrie.
 
 
 ### Einfluß anderer Medikamente auf ndMR:
+
 - Antagonisierend: Carbamazepin, Phenytoin
 - Potenzierend: Volatile Anästhetika, Lokalanästhetika, Kalziumblocker, Magnesium, Dantrolen, Aminoglykoside, Clindamycin, +Hypothermie \<35°C Allgemein: Alter (Kinder, Senioren), Adipositas, Schwangerschaft, gestörte Organfunktion.
 
 Sectio
 : Succinylcholin tritt mehr  über Plazentaschranke als alle anderen;  Esmeron zur RSI zugelassen; keine Restrelaxation beim NG bekannt.
 
-### Antagonisierung
+## Antagonisierung
 
-#### Neostigmin
+
+
+### Neostigmin
+
+hemmt Ach-Esterase, Ach im synaptischen Spalt ↑, Erregung parasymp. Organe
+
+NW: HF↓, RR↓, Cave Asystolie, Bronchialabstruktion, Hypersalivation, Harndrang, Darmmotilität, Schwitzen, Miosis
+
+KIN: Met. über Leber, renale Ausscheidung
+
+-----
 
 0,3-0,6mg/kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
 
@@ -175,6 +204,12 @@ Nachteil viele NW
   Ein tiefer Block kann nicht so reversiert werden!
 
 #### Sugammadex/Bridion:
+
+Enkapsulierung von Rocuronium
+
+NW. Geschmacksstörungen (bitter), ↓ Wirkung von hormonellen Kontrazeptiva
+
+2—4 mg / kg
 
 Bridion antagonisiert nur Rocuronium und Vecuronium aufgrund seiner chemischen Struktur,
 bildet es mit Esmeron einen festen Komplex. Rasche Reversierung bisher ohne bekannte NW. Ab 2 Jahren zugelassen;  Elimination unklar, daher nicht zugelassen bei Krea-Clearance  \<

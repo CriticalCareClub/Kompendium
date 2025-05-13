@@ -1,6 +1,7 @@
----
-orphan: true
----
+
+
+(Pharma)=
+(APHA)=
 
 # Pharmakotherapie
 
@@ -8,12 +9,16 @@ orphan: true
 :caption: Inhalt
 :maxdepth: 1
 
-APHA/index
-Inkubator/index
-Pharmakopeia/index
+Grundbegriffe/index
 Herz-Kreislauf/index
 Anaesthesie/index
-Blutprodukte/index
 Schmerztherapie/index
+Gerinnung/index
+Blutprodukte/index
+Fluessigkeit/index
 Antibiotika/index
+Antiallergika/index
+Bronchodilatatoren/index
+Pharmakopeia/index
+Inkubator/index
 :::

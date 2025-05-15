@@ -77,7 +77,7 @@ Weiteres Vorgehen: beruhigen, abwarten, ev. nachinjizieren.
 | ----------- | ---------------------------------------------------------------------- |
 | B           | präganglionäre sympathische Fasern → Gefäßdilatation, Wärmegefühl, RR↓ |
 | Aδ, C       | Schmerz, Temperatur                                                    |
-| Aδ | Kälte/Wärme |
+| Aδ          | Kälte/Wärme                                                            |
 | Aβ          | Druck, Berührung                                                       |
 | Aα          | Motorik, Vibrations- und Lageempfinden                                 |
 :::
@@ -135,12 +135,12 @@ Die Unterscheidung von **Amid-** und den **Ester-Typ** ist hinsichtlich des Abba
 :::{table} Lokalanästhetika vom Amid- und Ester-Typ, Beispiele
 :align: left
 
-| Amid-Typ            | Ester-Typ        |
-| ------------------- | ---------------- |
-| {index}`Lidocain`   | {index}`Cocain`  |
-| {index}`Mepivacain` | {index}`Procain` |
-| {index}`Bupivacain` |                  |
-| {index}`Ropivacain` |                  |
+| Amid-Typ          | Ester-Typ        |
+| ----------------- | ---------------- |
+| {ref}`Lidocain`   | {index}`Cocain`  |
+| {ref}`Mepivacain` | {index}`Procain` |
+| {ref}`Bupivacain` |                  |
+| {ref}`Ropivacain` |                  |
 :::
 
 :::{todo} Grafik: Strukturformeln im Vergleich: Aminoester und Aminoamide
@@ -164,11 +164,17 @@ Strukturformel-LA.png
 :::
 
 (Q-GREG-KP-24001)=
+(Dissoziationskonstante)=
 
 ## Ladung und Nicht-Ladung
 
 Entscheidend für die Wirkung des Lokalanästhetikums ist u.a. die Fähigkeit des Wirkstoffes durch die Zellmembran zu diffundieren und in das Zellinnere vorzudringen.
 Dies wird wesentlich von der *Ladung* beeinflusst, welche wiederum vom pH-Wert abhängig ist.
+
+
+Die Dissoziationskonstante pKa = pH + log (Säure/Base) =  Henderson-Hasselbach Gleichung
+
+
 
 Grundlegend zum Verständnis ist die **Henderson-Hasselbalch-Gleichung**[^Henderson-Hasselbalch-Gleichung] ("Puffergleichung").
 Sie beschreibt den Zusammenhang zwischen dem pH-Wert und dem **Gleichgewicht** einer Säure-Base-Reaktion.
@@ -183,6 +189,13 @@ Der **pKa-Wert** ist ein *substanzspezifischer pH-Wert*, bei dem 50% als ungelad
 
     \rm pK_a = pH - \log{\frac{\rm Base}{\rm Kation}}
     :::
+
+:::{note}
+Je höher der pKa eines LA, desto größer ist der Anteil an ionisierten LA.
+Je kleiner der pKa-Wert, deso kürzer ist die Anschlagzeit (Basenanteil) z.B. Ropivacain und Bupivacain haben pKa 8,1 Mepivacain hingegen hat 7,6 pKa.
+Mit steigender Temperatur sinkt der pKa.
+Bei entzündlichem Gewebe mit Azidose (saurer Gewebe-pH) erfolgt nur eine schlechte Penedration und damit schlechte Wirkung eines LA.
+:::
 
 Lokalanästhetika sind schwach basisch und haben einen pKA-Wert zwischen 7 und 9.
 Sie sind nur in der ionisierten (protonierten) Form, d. h. bei pH-Werten unter dem jeweiligen pKa-Wert, wasserlöslich, daher haben Injektionslösungen einen leicht sauren pH von 4–6.
@@ -268,13 +281,13 @@ Eine hohe Plasmaeiweißbindung hat eine geringe allergische Potenz und eine geri
 
 :::{table} Lokalanästhetika, Beispiele
 
-| Wirkstoff           | Markennamen                             | Eigenschaften              | Typische Anwendungen                                           |
-| ------------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------- |
-| {index}`Lidocain`   | {index}`Xylanaest™`, {index}`Xylocain™` | mittellang wirksam         | Lokalanästhesie                                                               |
-| {index}`Bupivacain` | {index}`Carbostesin™`                   | langsam, aber lang wirksam | {ref}`Spinalanästhesie <SPA>`                                  |
-| {index}`Ropivacain` |                                         | langsam, aber lang wirksam | {ref}`Periduralanästhesie <PDA>`, periphere Regionalanästhesie |
-| {index}`Mepivacain` |                                         | mittellang wirksam         | Regionalanästhesie, mittellange Eingriffe                                                               |
-|                     |                                         |                            |                                                                |
+| Wirkstoff         | Markennamen                             | Eigenschaften              | Typische Anwendungen                                           |
+| ----------------- | --------------------------------------- | -------------------------- | -------------------------------------------------------------- |
+| {ref}`Lidocain`   | {index}`Xylanaest™`, {index}`Xylocain™` | mittellang wirksam         | Lokalanästhesie                                                |
+| {ref}`Bupivacain` | {index}`Carbostesin™`                   | langsam, aber lang wirksam | {ref}`Spinalanästhesie <SPA>`                                  |
+| {ref}`Ropivacain` |                                         | langsam, aber lang wirksam | {ref}`Periduralanästhesie <PDA>`, periphere Regionalanästhesie |
+| {ref}`Mepivacain` |                                         | mittellang wirksam         | Regionalanästhesie, mittellange Eingriffe                      |
+|                   |                                         |                            |                                                                |
 
 :::
 
@@ -296,7 +309,8 @@ Tetracain  Pantocain®
 
 ### EMLA®-Salbe
 
-Diese 5%ige Creme enthält 2,5% Lidocain und 2,5% Prilocain. Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
+Diese 5%ige Creme enthält 2,5% {ref}`Lidocain <Lidocain>` und 2,5% Prilocain.
+Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
 Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder \<6 Monate nicht zugelassen.
 
 
@@ -346,10 +360,10 @@ Symptome:
 
 ### Maximaldosis der LA:
 
-- Lidocain 3-4mg/kg (300mg), mit Adrenalin 7mg/kg
-- Bupivacain 2mg/kg (150mg), oder 30mg/h kontinuierlich, mit Adrenalin 2-3mg/kg
-- Ropivacain 3-4mg/kg (250mg), oder 37,5mg/h
-- Prilocain 5-6mg/kg (400mg), mit Adrenalin 8-9mg/kg (600mg)
+- {ref}`Lidocain <Lidocain>` 3-4mg/kg (300mg), mit Adrenalin 7mg/kg
+- {ref}`Bupivacain <Bupivacain>` 2mg/kg (150mg), oder 30mg/h kontinuierlich, mit Adrenalin 2-3mg/kg
+- {ref}`Ropivacain <Ropivacain>` 3-4mg/kg (250mg), oder 37,5mg/h
+- {ref}`Prilocain <Prilocain>` 5-6mg/kg (400mg), mit Adrenalin 8-9mg/kg (600mg)
 
 
 
@@ -365,15 +379,20 @@ Symptome:
 
 <!-- 5.2 -->
 
-Prodromal Stadium mit ZNS Erregung  -- Präkonvulsiv mit ZNS Dämpfung  -- Konvulsivstadium -- ZNS-Depression mit Koma und kardiale Probleme. (max. nach 15-40min)
+- Prodromal Stadium mit ZNS Erregung  -
+- Präkonvulsiv mit ZNS Dämpfung  -
+- Konvulsivstadium -
+- ZNS-Depression mit Koma und kardiale Probleme. (max. nach 15-40min)
 
 Prophylaxe der LA-Intoxikation: negative Testdosis (Adrenalin-Zusatz, HF-Anstieg?), fraktionierte Injektion mit Aspiration,  Überwachung der Vitalparameter, gezielte Wahl von LA, Dosis und Konzentration, exakte Technik/Sonographie, Equipment für Notfall bereit halten.
 Benzodiazepine für Patientenkomfort: Vorteil: antikonvulsiv;  Nachteil: Initialsymptome werden verschleiert, keine sichere Kommunikation möglich.
 
 
 Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
-Phase I: Hypertension, Tachykardie, zentrale Exzitation Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
-Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
+- Phase I: Hypertension, Tachykardie, zentrale Exzitation
+- Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
+- Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
+
 100ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
 Kanäle), frühzeitig HLM, LUCAS erwägen.
 

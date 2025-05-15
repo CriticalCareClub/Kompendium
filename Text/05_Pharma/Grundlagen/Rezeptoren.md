@@ -1,0 +1,91 @@
+# Rezeptoren
+
+Rezeptoren sind komplexe, große **(Protein-)Moleküle**, welche über Bindungsstellen eine **selektive** Anlagerung von Substanzen (**Liganden**, Agonisten) erlauben, welche über Wechselwirkungen eine **Signalübertragung** in die oder in der **Zelle** erlauben.
+Die Bindung eines Liganden führt zu einer **Veränderung der räumlichen Anordnung** des Proteins (*Tertiär-* und *Quartärstruktur*) und damit zu einer **Veränderung des Funktionszustands** des Proteins.
+Sie können sich sowohl in der Zellmembran als auch intrazellulär befinden.
+
+:::{todo} Grafik: Rezeptor mit Ligand
+:::
+
+
+
+## Wirkungsprinzipien
+
+| Wirkungsart  | Vorgang                    | Grundlage                    | Topografie                                  | Schwellendosis |
+| ------------ | -------------------------- | ---------------------------- | ------------------------------------------- | -------------- |
+| spezifisch   | Interaktion mit Rezeptoren | molekulare Passgenauigkeit   | abhängig von Rezeptorverteilung und -dichte | niedrig        |
+| unspezifisch | Einlagerung in Membranen   | physikochemische Löslichkeit | ubiquitär im Organismus                     | hoch           |
+
+## Art der Rezeptoren
+
+Man unterscheidet:
+
+- **Liganden**-gesteuerte Ionenkanäle
+- **G-Protein** gesteuerte Rezeptoren
+
+:::{todo} Grafik: Liganden-gesteuerter Ionenkanal
+
+../Pictures/Liganden-gesteuerter-Ionenkanal.png
+:width: 100%
+
+:::
+
+
+
+:::{todo} Grafik: G-Protein-gesteuerter Rezeptor
+
+../Pictures/G-Protein-gesteuerter-Rezeptor.png
+:width: 100%
+
+:::
+
+
+
+:::{list-table}
+:header-rows: 1
+
+- - Liganden-gesteuerter Ionenkanal
+  - G-Protein-gesteuerte Rezeptoren
+- - - Acetylcholin Rezeptor vom Nikotin-Typ
+    - Serotoninrezeptor vom 5-HT3-Subtyp
+    - GABAA-Rezeptor
+    - Glutamatrezeptor vom NMDA und Non-NMDA-Typ
+    - Glycinrezeptor
+    Einfacher Weg der Signalübertragung, rascher Anpassung
+    - Spannungsabhängige Ionenkanäle – Nervenleitung
+  - - Acetylcholin Rezeptor vom Muskarin-Typ
+    - Adrenerge und dopaminergen Rezeptoren (α,β, D1/D2)
+    - Serotoninrezeptoren außer 5-HT3-Subtyp
+    - Histamin-,Adenosin-,Angiotensin-, Brandykinin-,Vasopressin- und
+    - Prostaglandinrezeptoren
+    - GABAB-Rezeptor
+    - Opioidrezeptoren (µ,κ,δ)
+    - Cannabinoidrezeptoren (CB1/CB2)
+:::
+
+| Steuerung                       | Axonale Konduktion                 | Synaptische Transmission      | Humorale Transduktion              |
+| ------------------------------- | ---------------------------------- | ----------------------------- | ---------------------------------- |
+| Spannungsabhängige Ionenkanäle  | Sehr schnelle Effekttransformation | 0                             | 0                                  |
+| Liganden gesteuerte Ionenkanäle | 0                                  | Schnelle Effekttransformation | Langsame Effekttransformation      |
+| G-Protein gesteuerte Rezeptoren | 0                                  | Langsame Effekttransformation | Langsame Effekttransformation      |
+| Intrazelluläre Rezeptoren       | 0                                  | 0                             | Sehr langsame Effekttransformation |
+
+```{eval-rst}
++--------------+---------------------+-----------------------------------------------------+----------------------------------+
+| Hauptgruppe  | Untergruppe         | Mechanismus                                         | Relative intrisische Aktivität a |
++==============+=====================+=====================================================+==================================+
+| Agonisten    | rein                | Rezeptor-spezifische Aktivierung                    | 1                                |
+|              +---------------------+                                                     +----------------------------------+
+|              | partiell            |                                                     | 0>a>1                            |
++--------------+---------------------+-----------------------------------------------------+----------------------------------+
+| Antagonisten | partiell kompetitiv | Rezeptor-spezifische Inaktivierung                  | 0>a>                             |
+|              +---------------------+-----------------------------------------------------+----------------------------------+
+|              | nicht kompetitiv    | Allosterisch, effektbezogeneIrreversible Inhibierun | 0                                |
+|              +---------------------+-----------------------------------------------------+                                  |
+|              | funktionell         | Unterschiedliche Wirkort                            |                                  |
+|              +---------------------+-----------------------------------------------------+                                  |
+|              | physiologisch       | Gegenregulation durch Homöostase                    |                                  |
+|              +---------------------+-----------------------------------------------------+                                  |
+|              | chemisch            | Chemische Inaktivierung                             |                                  |
++--------------+---------------------+-----------------------------------------------------+----------------------------------+
+```

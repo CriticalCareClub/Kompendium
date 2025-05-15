@@ -139,7 +139,7 @@ Abbau von Noradrenalin und Adrenalin
     dromotrop mit gesteigertem kardialem VO2;  \>10µg/kg/min  α1-Stimulation mit Vasokonstriktion.
 4.  Dobutamin/Dobutrex:
     selektiver β1-Agonist mit verbesserter Inotropie ohne Blutdruckanstieg aber mit Herzfrequenzanstieg.
-5.  Phenylephrin (Neosynephrin): synthetisches Nicht-Katecholamin, bewirkt eine  α1-Stimulation mit Blutdruckanstieg und oft Reflexbradykardie.
+5.  {ref}`Phenylephrin` (Neosynephrin): synthetisches Nicht-Katecholamin, bewirkt eine  α1-Stimulation mit Blutdruckanstieg und oft Reflexbradykardie.
 6.  Ephedrin: α+β-Agonist, Blutdruck und Herzfrequenzanstieg.
 
 
@@ -149,12 +149,12 @@ Praktische Anwendung
 : - Hypotonie mit Bradykardie: Ephedrin (ab 50mg NA-Speicher leer, keine weitere Wirkung zu erwarten)
   - Hypotonie mit Tachykardie: NA, Phenylephrin
 
-### Clonidin  
+### Clonidin
 
 α2-Agonist, lipophil gute zentrale Hemmung der NA-Freisetzung, antihypertensiv, Entzugsdelir, Verlängert LA-Wirkung (Caudalblock), senkt Narkosebedarf, verbessert Kreislaufstabilisierung während AN durch Reduktion der zirkulierenden Katecholamine/Sympatikotonus. NW: Bradykardie,
 Hypotonie, Polyurie, Obstipation.
 
-### Dexmedetomidine/Dexdor 
+### Dexmedetomidine/Dexdor
 
 Wirkt sedativ-hypnotisch, mit  Änderung des Schlafmusters wie im natürlichen Schlaf,
 unveränderter CO2 Atemantrieb; hochselektiver α2- Agonist; Wirkt analgetisch im Locus caeruleus und RM, bei akuten, neuropathischen und Tumorschmerzen.

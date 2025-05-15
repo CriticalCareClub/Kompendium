@@ -1,4 +1,6 @@
 
+(Anaesthesie-Augen)=
+
 # Spezielle Anästhesie: Augenheilkunde
 
 <!--  57.  -->
@@ -45,10 +47,12 @@ LA (Lidocain 2%, Bupivacain 0,5-0,75% +Hyaluronidase + Epinephrin als Zusatz)
 Peribulbärblock = Injektion in das Fettgewebe außerhalv des Muskelkonus für z.B. Katarakt-OP Episkleralanästhesie = LA in den episkleralen Spaltraum Retrobulbärblock = Injektion intrakonisch;  Kompl: Zittern, Erbrechen, kontralaterale Blindheit, Krämpfe, Hypoventilation und Atemstillstand durch Hirnstammanästhesie bei Fehlinjektion)
 Allgm. Kompl: Orbitale Blutung, Nervenverletzung, Glaskörpereinblutung, Bindehautblutung, Rektusparese, intravakuläre Fehlinjektion mit kardialen und ZNS-Wirkung.
 
-Phenylephrin
-=  Sympathomimetikum (Alpharezeptoren) zur Dilatation der Pupille bei Ophthalmoskopie, postoperativer Iritis NW: Koronarspasmen, MCI, Herzinsuffizienz, Hypertension, Tachykardie, Arrhythmien, Lungenödem, Intracerbrale Blutungen beim Ng und Fg.
-Phenylephrin Augentropfen für Mydriase bei Kindern: kann hypertensive Krise mit Lungenödem auslösen.
+{ref}`Phenylephrin`
+: Sympathomimetikum (Alpharezeptoren) zur Dilatation der Pupille bei Ophthalmoskopie, postoperativer Iritis
 
-Atropin Augentropfen:
-Parasympatholyticum, Mydriasis, Hemmt Azetylcholin
-über muskarinartigen Rezeptor, toxisch 70µg/kg NW: Tachykardie, Vermindert Sekretion: Schweiß, Speichel, Bronchien und Magen, Verminderte Darmmotilität, ZNS: Verwirrung, Halluzinationen, Ataxien Antidot: Anticholium (Physiostigmin)
+  NW: Koronarspasmen, MCI, Herzinsuffizienz, Hypertension, Tachykardie, Arrhythmien, Lungenödem, Intracerbrale Blutungen beim Ng und Fg.
+
+  Phenylephrin Augentropfen für Mydriase bei Kindern: kann hypertensive Krise mit Lungenödem auslösen.
+
+Atropin Augentropfen
+: Parasympatholyticum, Mydriasis, Hemmt Azetylcholin über muskarinartigen Rezeptor, toxisch 70µg/kg NW: Tachykardie, Vermindert Sekretion: Schweiß, Speichel, Bronchien und Magen, Verminderte Darmmotilität, ZNS: Verwirrung, Halluzinationen, Ataxien Antidot: Anticholium (Physiostigmin)

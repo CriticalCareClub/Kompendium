@@ -1,158 +1,6 @@
-# Grundbegriffe
-
-## Pharmakokinetik
-
-Umfasst alles, was der Organismus mit dem Pharmakon macht.
-
-Bioverfügbarkeit
-
-: Anteil der in die systemische Zirkulation gelangt
-
-  z. B. orale Bioverfügbarkeit = $\frac{\rm AUC_{\rm oral}}{\rm AUC_{\rm intravenös}}$
-
-Verteilungsvolumen — Dosis/Plasmakonzentration
-
-: beschreibt einen **virtuellen** Raum in dem sich das Arzneimittel verteilt
-
-Plasmaclearence
-
-: Plasmavolumen, welches pro Zeiteinheit durch Biotransformation oder Elimination befreit wird
-
-Plasmahalbwertszeit
-
-: Ist jene Zeit in der die Hälfte des Ausgangswertes erreicht ist, sie hängt von der *Clearence* und dem *Verteilungsvolumen* ab
-
-  ${\rm Halbwertszeit}=\frac{\ln{2} \times {\rm Verteilungsvolumen}}{{\rm Clearence}}$
-
-  Für die *Eliminiations-HWS* gilt, dass mehr als 4—5 HWZ abgewartet werden müssen, bis mehr als 93% einer Substanz ausgeschieden sind.
-
-Initialdosis
-
-: ${\rm Initialdosis}=\frac{{\rm Plasmavolumen} \times {\rm Verteilungsvolumen}}{{\rm Bioverfügbarkeit}}$
-
-Erhaltungsdosis
-
-: … ist abhängig von der Clearence:
-
-  $\frac{{\rm Halbwertszeit}}{{\rm Zeit}}={\rm Plasmakonzentration} \times {\rm Clearence}$
-
-Kompartmentmodell
-
-<!--
-:::{figure} ../Pictures/Kompartmentmodell.png
-:width: 100%
-
-`2DO-APHA-Graf-036` Kompartmentmodell
-:::
--->
-
-**Eigenschaften die Verteilung beeinflussen**
-
-- Molekülgröße
-- Ionisierungsgrad
-- Lipidlöslichkeit
-- Proteinbindung im Plasma
-- Bindung an Gewebsproteine
-
-## Pharmakodynamik
-
-Umfasst alles, was ein Pharmakon mit dem Organismus macht
-
-(APHA-VO-Rezeptoren)=
-
-## Rezeptoren
-
-Rezeptoren sind komplexe, große **(Protein-)Moleküle**, welche über Bindungsstellen eine **selektive** Anlagerung von Substanzen (**Liganden**, Agonisten) erlauben, welche über Wechselwirkungen eine **Signalübertragung** in die oder in der **Zelle** erlauben.
-Die Bindung eines Liganden führt zu einer **Veränderung der räumlichen Anordnung** des Proteins (*Tertiär-* und *Quartärstruktur*) und damit zu einer **Veränderung des Funktionszustands** des Proteins.
-Sie können sich sowohl in der Zellmembran als auch intrazellulär befinden.
-
-:::{todo} Grafik: Rezeptor mit Ligand
-:::
 
 
-
-### Wirkungsprinzipien
-
-| Wirkungsart  | Vorgang                    | Grundlage                    | Topografie                                  | Schwellendosis |
-| ------------ | -------------------------- | ---------------------------- | ------------------------------------------- | -------------- |
-| spezifisch   | Interaktion mit Rezeptoren | molekulare Passgenauigkeit   | abhängig von Rezeptorverteilung und -dichte | niedrig        |
-| unspezifisch | Einlagerung in Membranen   | physikochemische Löslichkeit | ubiquitär im Organismus                     | hoch           |
-
-### Art der Rezeptoren
-
-Man unterscheidet:
-
-- **Liganden**-gesteuerte Ionenkanäle
-- **G-Protein** gesteuerte Rezeptoren
-
-:::{todo} Grafik: Liganden-gesteuerter Ionenkanal
-
-../Pictures/Liganden-gesteuerter-Ionenkanal.png
-:width: 100%
-
-:::
-
-
-
-:::{todo} Grafik: G-Protein-gesteuerter Rezeptor
-
-../Pictures/G-Protein-gesteuerter-Rezeptor.png
-:width: 100%
-
-:::
-
-
-
-:::{list-table}
-:header-rows: 1
-
-- - Liganden-gesteuerter Ionenkanal
-  - G-Protein-gesteuerte Rezeptoren
-- - - Acetylcholin Rezeptor vom Nikotin-Typ
-    - Serotoninrezeptor vom 5-HT3-Subtyp
-    - GABAA-Rezeptor
-    - Glutamatrezeptor vom NMDA und Non-NMDA-Typ
-    - Glycinrezeptor
-    Einfacher Weg der Signalübertragung, rascher Anpassung
-    - Spannungsabhängige Ionenkanäle – Nervenleitung
-  - - Acetylcholin Rezeptor vom Muskarin-Typ
-    - Adrenerge und dopaminergen Rezeptoren (α,β, D1/D2)
-    - Serotoninrezeptoren außer 5-HT3-Subtyp
-    - Histamin-,Adenosin-,Angiotensin-, Brandykinin-,Vasopressin- und
-    - Prostaglandinrezeptoren
-    - GABAB-Rezeptor
-    - Opioidrezeptoren (µ,κ,δ)
-    - Cannabinoidrezeptoren (CB1/CB2)
-:::
-
-| Steuerung                       | Axonale Konduktion                 | Synaptische Transmission      | Humorale Transduktion              |
-| ------------------------------- | ---------------------------------- | ----------------------------- | ---------------------------------- |
-| Spannungsabhängige Ionenkanäle  | Sehr schnelle Effekttransformation | 0                             | 0                                  |
-| Liganden gesteuerte Ionenkanäle | 0                                  | Schnelle Effekttransformation | Langsame Effekttransformation      |
-| G-Protein gesteuerte Rezeptoren | 0                                  | Langsame Effekttransformation | Langsame Effekttransformation      |
-| Intrazelluläre Rezeptoren       | 0                                  | 0                             | Sehr langsame Effekttransformation |
-
-```{eval-rst}
-+--------------+---------------------+-----------------------------------------------------+----------------------------------+
-| Hauptgruppe  | Untergruppe         | Mechanismus                                         | Relative intrisische Aktivität a |
-+==============+=====================+=====================================================+==================================+
-| Agonisten    | rein                | Rezeptor-spezifische Aktivierung                    | 1                                |
-|              +---------------------+                                                     +----------------------------------+
-|              | partiell            |                                                     | 0>a>1                            |
-+--------------+---------------------+-----------------------------------------------------+----------------------------------+
-| Antagonisten | partiell kompetitiv | Rezeptor-spezifische Inaktivierung                  | 0>a>                             |
-|              +---------------------+-----------------------------------------------------+----------------------------------+
-|              | nicht kompetitiv    | Allosterisch, effektbezogeneIrreversible Inhibierun | 0                                |
-|              +---------------------+-----------------------------------------------------+                                  |
-|              | funktionell         | Unterschiedliche Wirkort                            |                                  |
-|              +---------------------+-----------------------------------------------------+                                  |
-|              | physiologisch       | Gegenregulation durch Homöostase                    |                                  |
-|              +---------------------+-----------------------------------------------------+                                  |
-|              | chemisch            | Chemische Inaktivierung                             |                                  |
-+--------------+---------------------+-----------------------------------------------------+----------------------------------+
-```
-
-### Überträger im autonomen Nervensystem
+# Überträger im autonomen Nervensystem
 
 :::{todo} Grafik: Überträger im autonomen Nervensystem
 
@@ -161,11 +9,10 @@ Man unterscheidet:
 :::
 
 
-
 (Q-APHA23001)=
 (Q-APHA23002)=
 
-#### Adrenerges System
+## Adrenerges System
 
 Regulation des Gefäßtonus, Innervation des peripheren sympathischen Nervensystems
 
@@ -226,7 +73,7 @@ Der Transmitter im **parasympathischen** Nervensystem ist **Acetylcholin**.
 
 (Q-APHA23003-1)=
 
-#### Kontraktion der Gefäßmuskulatur
+### Kontraktion der Gefäßmuskulatur
 
 Unter **Vasokonstriktion** versteht man die Kontraktion von Blutgefäßen und erfolgt durch die glatte Gefäßmuskulatur.
 Das Gegenteil ist die **Vasodilatation**.
@@ -265,7 +112,7 @@ Zu den Stoffen mit der höchsten vasopressorischen Wirkung gehören Noradrenalin
 :::
 -->
 
-#### Signalwege der kardialen Kontraktion
+### Signalwege der kardialen Kontraktion
 
 Auch in der Steuerung der kardialen Kontraktion spielen Adrenorezeptoren eine wichtige Rolle, hier sind jedoch vor allem die **β₁-Rezeptoren** als Gegenspieler des muskarinergen M2-Rezeptors vorherrschend, vgl. Tab. {ref}`Tab-Autonomes-Nervensystem-Rezeptoren`.
 

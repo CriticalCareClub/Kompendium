@@ -123,9 +123,15 @@ Die Wahl hängt von der Art des Eingriffs, dem Patienten und auch technischen Vo
 * - Methode
   - Typische Indikationen
 * - **Gasnarkose**
-  - Bronchospasmus-Neigung, Routineeingriffe, inhalative Einleitung bei Kindern, kurze bis mittellange Eingriffe
+  - Bronchospasmus-Neigung,
+    Routineeingriffe,
+    inhalative Einleitung bei Kindern,
+    kurze bis mittellange Eingriffe
 * - **TIVA**
-  - PONV, EEG-Monitoring (Neuro), Laser-Eingriffe im Mund-Rachen-Bereich, Langzeiteingriffe,
+  - PONV,
+    EEG-Monitoring (Neuro),
+    Laser-Eingriffe im Mund-Rachen-Bereich,
+    Langzeiteingriffe,
     Maligne Hyperthermie,
 * - **Balancierte Anästhesie**
   - Standard bei vielen Eingriffen, gute Steuerbarkeit und Analgesie
@@ -141,7 +147,7 @@ Nicht jede Anästhesieform ist für jeden Patienten geeignet. Es gibt klare Kont
 * - Methode
   - Wichtige Kontraindikationen
 * - **Gasnarkose**
-  - Maligne Hyperthermie, erhöhter ICP, PONV-Risiko, Laser-OPs, Eingriffe, bei denen eine Uterus-Relaxation nachteilig ist (Curretagen, postpartale Blutung, ...), {ref}`OSAS <OSAS>`, neuromuskuläre Erkrankungen
+  - Maligne Hyperthermie, erhöhter ICP, PONV-Risiko, Laser-OPs, substanzabhängig: Eingriffe, bei denen eine Uterus-Relaxation nachteilig ist (Curretagen, postpartale Blutung, ...), {ref}`OSAS <OSAS>`, neuromuskuläre Erkrankungen
 * - **TIVA**
   - Organinsuffizienz bei kumulierenden Substanzen
 * - **Balancierte Anästhesie**
@@ -160,7 +166,7 @@ Die folgenden Tabellen geben eine Übersicht über zentrale Vor- und Nachteile d
   - Nachteile
 * - **Gasnarkose**
   - Oft adäquate Steuerbarkeit, bronchospasmolytisch, geringere Awareness-Gefahr
-  - PONV, Umweltbelastung, MH-Risiko, Uterus-Reaxierung, Relaxierung der Schlund-Muskulatur
+  - PONV, Umweltbelastung, MH-Risiko, Uterus-Reaxierung (substanzabhängig), Relaxierung der Schlund-Muskulatur (substanzabhängig)
 * - **TIVA**
   - Weniger PONV, weniger Pressen beim Ausleiten, Tubustoleranz beim spontan atmenden kooperativen Patienten eher möglich, konstantere Narkosefürhung möglich (Neurominitoring), kein MH-Trigger, EEG-Awareness-Monitoring-tauglich
   - Materialbedarf, höhere Awareness-Gefahr, Gefahr der postoperativen Hyperalgesie bei alleiniger Verwendung von kurzwirksamen Opiaten, mögliche Kumulation

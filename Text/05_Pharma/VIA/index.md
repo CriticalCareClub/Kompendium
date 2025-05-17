@@ -2,8 +2,13 @@
 
 # Volatile Inhalationsanästhetika (VIA)
 
-Inhalationsanästhetika werden über die Lunge aufgenommen. Im Vergleich mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit an.
-Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine ausreichende Narkosetiefe. Daher werden sie bevorzugt in Kombination mit i.v.-Anästhetika eingesetzt.
+Inhalationsanästhetika werden über die Lunge aufgenommen und auch wieder eleminiert.
+
+<!--
+Im Vergleich mit i.v.-Anästhetika zeichnen sie sich durch ihre gute Steuerbarkeit aus.
+Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine ausreichende Narkosetiefe.
+Daher werden sie bevorzugt in Kombination mit i.v.-Anästhetika eingesetzt.
+-->
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150327_134545-01341px.\*
 Sevofluran-Flaschen
@@ -13,11 +18,11 @@ Verstärken die inhibitatorische Funktion und dämpfen die Erregungsübertragung
 
 Meyer-Overton-Regel
 : Potenz des VIA ist proportional zu seiner Lipophilie.
-Ferguson Regel
 
+Ferguson Regel
 : Der Dampfdruck ist umgekehrt proportional zur biologischen Wirksamkeit, substanzspezifisch und temperaturabhängig. Je höher der Dampfdruck umso weniger anästhetische Potenz hat ein VIA.
 
-Blut-Gas-Verteilungskoeffizient
+Blut-Gas-Verteilungskoeffizient (BGVK)
 : Löslichkeit des VIA im Blut 12 Methoxifluran \> 2,3 Halothan \> 1,4 Isofluran \> 0,65 Sevofluran \> 0,47 Lachgas \> 0,46 Desfluran Dh. Je höher die Blutlöslichkeit/BGVK, umso mehr VIA kann das Blut aufnehmen, und das verlängert die Narkoseeinleitung und Ausleitungszeit. (Je höher die inspirat. Konzentration umso rascher)
 
 Second Gas Effekt
@@ -30,8 +35,7 @@ MAC
 
   Erhöhung bei: Hyperthermie, Säuglingen, Hypernatriämie, Alkoholikern,   Drogensüchtigen, MAOH
 
-  Erniedrigung bei: Hypothermie, Senium, Schwangerschaft, Kombination mit iv. Anästhetika od.
-Sedierung, Lithium, herzkranke Patienten, Sepsis,...
+  Erniedrigung bei: Hypothermie, Senium, Schwangerschaft, Kombination mit iv. Anästhetika od. Sedierung, Lithium, herzkranke Patienten, Sepsis,...
 
 
 Die Aufnahme eines VIA ist abhängig vom BGVK, HMV und der alveo/venösen Partialdruckdifferenz.
@@ -42,43 +46,14 @@ Die Aufnahme eines VIA ist abhängig vom BGVK, HMV und der alveo/venösen Partia
 Triggersubstanz für {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`!
 :::
 
-Bei VIA verhindert ein BIS-Monitoring keine Awareness {term}`Citation needed`. Zur Überwachung der Narkosetiefe wird MAC herangezogen!
+Bei VIA verhindert ein BIS-Monitoring keine Awareness {term}`Citation needed`.
+Zur Überwachung der Narkosetiefe wird MAC herangezogen!
 
-## Gase
 
-### Lachgas N2O
 
-B/G-VK 0,47 = rasches An- und Abfluten; erhöht den ICP, daher kein Einsatz in der Neurochirurgie!
+## Gemeinsame Eigenschaften volatiler Anästhetika
 
-Diffundiert in Hohlräume (30x mehr löslich als Stickstoff) mit Expansion des Volumens und Druckanstieg = KI bei erhöhtem Hirndruck, Ileus, Pneumothorax, Mediastinalemphysem, LSK, Thympanoplastik, Augen-OP, Cuffdruck!; Teratogen.
-
-### Halothan
-
-In  Österreich nur experimentelle Zwecke (maligne Hyperthermie Diagnostik), 2,3 BGVK;
-sensibilisiert auf Katecholamine = Rhythmusstörungen.
-
-### Isofluran
-
-Übelriechend da mit Lösungsmittel versetzt. Keine HLM und HF möglich, weil die Membranen durch Isofluran zerstört werden; erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH
-
-### Desfluran
-
-Übelriechend, irritierend SH;  Siedepunkt bei 22°C = hoher Dampfdruck spezielle Vaporisatoren;
-schnelles An- und Abfluten, erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH.
-
-Bewirkt einen HF-Anstieg und Blutdruckabfall bei der Einleitung, negativ inotrop mit Coronary steal Syndrom. Anwendung bei bariatrischen Eingriffen (Adipositaschirurgie).
-
-### Sevofluran
-
-0,65 BGVK; nicht Schleimhaut irritierend und nicht übelriechend, potentiell nephrotoxisch durch Compound A  Bildung und toxischer Fluoride, NW: delirante Zustände va. bei Kindern, neg. inotrop, leichte Bronchodilatation, Uterusatonie in höherer Dosis (\>0,5 MAC)
-
-KI: MH, Vorsicht bei Sectio und schwerer Niereninsuffizienz.
-
-### Xenon:
-
-inertes Gas; teuer!!
-
-## 3.1. Gemeinsame Eigenschaften volatiler Anästhetika: *
+<!-- 3.1. -->
 
 Reduktion des MAP (senken syst. Gefäßwiderstand), Sensitivisieren das Myokard gegenüber Adrenalin!
 
@@ -106,7 +81,33 @@ Hepatische Effekte
 
 
 
-### Isofluran (Forene ®)
+## Gase
+
+### Stickoxydul = Lachgas = N₂O
+
+BGVK 0,47 = rasches An- und Abfluten; erhöht den **ICP**, daher kein Einsatz in der Neurochirurgie!
+
+**Diffundiert in Hohlräume** (30x mehr löslich als Stickstoff) mit Expansion des Volumens und Druckanstieg = KI bei erhöhtem Hirndruck, Ileus, Pneumothorax, Mediastinalemphysem, LSK, Thympanoplastik, Augen-OP, Cuffdruck!; Teratogen.
+
+
+Lachgas wirkt analgetisch, schwach anästhetisch und nicht muskelrelaxierend. Durch die nur schwach anästhetische Wirkung ist es als Monosubstanz nicht einsetzbar.
+
+Als Zusatzanästhetikum eingesetzt bewirkt es eine Wirkzunahme und Dosisreduktion von i.v.- und Inhalations-Anästhetika.
+
+
+
+### Halothan
+
+In Österreich klinisch obsolet, nur experimentelle Zwecke (maligne Hyperthermie Diagnostik), 2,3 BGVK;
+sensibilisiert auf Katecholamine = Rhythmusstörungen.
+
+
+
+### Isofluran
+
+(Forene ®)
+
+Übelriechend, da mit Lösungsmittel versetzt. Keine HLM und HF möglich, weil die Membranen durch Isofluran zerstört werden; erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH
 
 Dieses Gas wirkt nicht analgetisch und ausgeprägt hypnotisch.
 
@@ -117,9 +118,16 @@ und Herzfrequenzsenkend. Man kann eine Atemdepression beobachten, in der Niere s
 
 Kontraindikationen: maligne Hyperthermie, erhöhter Hirndruck, Patienten mit halothanassoziiertem Leberschaden.
 
-ähnlich, aber außer Handel: Halothan, Enfluran
+### Desfluran
 
-### Desfluran (Suprane®)
+(Suprane®)
+
+Übelriechend, irritierend SH;  Siedepunkt bei 22°C = hoher Dampfdruck spezielle Vaporisatoren;
+schnelles An- und Abfluten, erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH.
+
+Bewirkt einen HF-Anstieg und Blutdruckabfall bei der Einleitung, negativ inotrop mit Coronary steal Syndrom. Anwendung bei bariatrischen Eingriffen (Adipositaschirurgie).
+
+
 
 Dieses Präparat weist eine sehr geringe Löslichkeit im Blut auf. Dadurch ergibt sich eine verbesserte Steuerbarkeit während der Narkose und ein Zeitgewinn bei Ein-und Ausleitung.
 
@@ -129,12 +137,18 @@ Unerwünschte Wirkung:
 
 Bei höheren Dosen kam Desfluran zu einer starken Reaktion des Sympathikus mit Blutdruckanstieg und Tachykardie führen.
 
-### Sevofluran (Sevorane®)
+### Sevofluran
 
 Auch hier zeigt sich eine geringe Löslichkeit im Blut. Durch den angenehmeren Geruch ist Sevofluran für eine Maskeneinleitung besser geeignet.
 
-### Stickoxydul = Lachgas = N₂O
+0,65 BGVK; nicht Schleimhaut irritierend und nicht übelriechend, potentiell nephrotoxisch durch Compound-A-Bildung und toxischer Fluoride,
 
-Lachgas wirkt analgetisch, schwach anästhetisch und nicht muskelrelaxierend. Durch die nur schwach anästhetische Wirkung ist es als Monosubstanz nicht einsetzbar.
+NW: delirante Zustände va. bei Kindern, neg. inotrop, leichte Bronchodilatation, Uterusatonie in höherer Dosis (\>0,5 MAC)
 
-Als Zusatzanästhetikum eingesetzt bewirkt es eine Wirkzunahme und Dosisreduktion von i.v.- und Inhalations-Anästhetika.
+KI: MH, Vorsicht bei Sectio und schwerer Niereninsuffizienz.
+
+
+
+### Xenon
+
+inertes Gas; teuer!!

@@ -11,6 +11,6 @@ Haemodynamik/index
 Fragestellungen/index
 GHDM/index
 GSCH/index
-Haemostase/index
+Gerinnung/index
 Aust-Monitoring/index
 :::

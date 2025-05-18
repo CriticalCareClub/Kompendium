@@ -268,7 +268,9 @@ Iloprost     **Ilomedin®**
 
 Diese Substanzen bewirken eine Vasodilatation und eine ihrem Thrombozytenaggregationshemmung.
 
-⚠Nach dem Absetzen von Thrombozytenaggregationshemmern sollte man beachten, dass ihre Wirkung noch für ungefähr eine Woche anhält.
+:::{note}
+Nach dem Absetzen von Thrombozytenaggregationshemmern sollte man beachten, dass ihre Wirkung noch für ungefähr eine Woche anhält.
+:::
 
 ## Fibrinolytika
 
@@ -287,10 +289,11 @@ Sie wirken fibrinolytisch durch die Aktivierung der inaktiven Vorstufe Plasminog
 
 Die Substanzen werden zur Fibrinolyse nach akutem STEMI (klassischer Herzinfarkt mit EKG-Veränderung \[ST-Strecken-Hebung, „Katzenbuckel“\]), Lungenembolie, tiefe Beinvenenthrombose, akutem arteriellen Verschluss, akutem ischämischem zerebralen Insult und in der Reanimation eingesetzt.
 
-Unerwünschte Wirkungen:
+Unerwünschte Wirkungen
+: Hierzu zählen Blutungskomplikationen und allergische Reaktionen.
 
-Hierzu zählen Blutungskomplikationen und allergische Reaktionen.
 
+<!-- 
 ## Therapien der wichtigsten hämatologischen Erkrankungen
 
 ### Phlebothrombose (= Venenthrombose)
@@ -385,11 +388,11 @@ Tab. 4 Therapie
 
 Wichtig für alle Stadien ist außerdem die Therapie der Risikofaktoren wie z.B. Rauchen.
 
-### Anämien
+## Anämien
 
 Unter einer Anämie versteht man eine Verminderung des Hämoglobins, des Hämatokrits und der Erythrozytenzahl im Blut. Dies geht mit einer verminderten Sauerstofftransportkapazität des Blutes einher.
 
-- Eisenmangelanämie:
+### Eisenmangelanämie:
 
 Wird meist verursacht durch Blutungen, erhöhten Eisenbedarf, verminderte Eisen-Zufuhr oder einer Resorptionsstörung. Therapiert wird diese Anämieform durch Eisengabe.
 
@@ -397,15 +400,16 @@ Wird meist verursacht durch Blutungen, erhöhten Eisenbedarf, verminderte Eisen-
 
 ⚠Die Eisengabe sollte äußerst langsam erfolgen, so kann man die unerwünschten Begleiterscheinungen mildern.
 
-- megaloblastäre Anämie:
+### megaloblastäre Anämie:
 
 Hier kann man zwei Ursachen unterscheiden - einen Vitamin B12-Mangel
 (verursacht durch Gastrektomie (Magenentfernung), perniziösen Anämie, Malassimilation) und einen Folsäuremangel (verursacht durch Mangelernährung bzw. erhöhten Bedarf).
 
 Die Therapie besteht bei Vitamin B12-Mangel in der Gabe von Hydroxycobalamin (Vitamin B12) und bei Folsäuremangel in der Gabe von Folsäure.
 
-- renale Anämie:
+### renale Anämie:
 
 Wird hauptsächlich durch den Erythropoeitinmangel bei chronischer Niereninsuffizienz verursacht.
 
 Daher wird diese Erkrankung auch durch Erythropoeitin-Gabe behandelt.
+ -->

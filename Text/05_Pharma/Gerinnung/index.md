@@ -7,7 +7,7 @@
 
 (APHA-VO-Gerinnung)=
 
-# Blutgerinnung und Anästhesie
+# Gerinnung
 
 Hämostase
 : - Gerinnungssystem

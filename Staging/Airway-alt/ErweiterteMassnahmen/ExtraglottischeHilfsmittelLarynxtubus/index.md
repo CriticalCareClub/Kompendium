@@ -96,26 +96,47 @@ Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
 
 ```
 
-```{eval-rst}
-.. table:: Larynxtubus: Größen
+:::{list-table} Larynxtubus: Größen
+:name: larynxtubus-groessen
+:header-rows: 1
 
-   +-------------+-----------------+-----------------------+---------------+----+
-   | **Größe**   | **Farbe**       | **Patientengruppe**   |   **Größe**   |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *0*         | *Transparent*   | Neugeborene           | < 5 kg        |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *1*         | *Weiß*          | Kleinkinder           | 5–12 kg       |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *2*         | *Grün*          | Kinder                | 12–25 kg      |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *3*         | *Gelb*          | Erwachsene (klein)    | < 155 cm      |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *4*         | *Rot*           | Erwachsene (mittel)   |  155–180 cm   |    |
-   +-------------+-----------------+-----------------------+---------------+----+
-   | *5*         | *Violett*       | Erwachsene (groß)     | > 180 cm      |    |
-   +-------------+-----------------+-----------------------+---------------+----+
+* - Größe
+  - Farbe
+  - Patientengruppe
+  - Körpergewicht / Körpergröße
+  - 
+* - 0
+  - Transparent
+  - Neugeborene
+  - < 5 kg
+  - 
+* - 1
+  - Weiß
+  - Kleinkinder
+  - 5–12 kg
+  - 
+* - 2
+  - Grün
+  - Kinder
+  - 12–25 kg
+  - 
+* - 3
+  - Gelb
+  - Erwachsene (klein)
+  - < 155 cm
+  - 
+* - 4
+  - Rot
+  - Erwachsene (mittel)
+  - 155–180 cm
+  - 
+* - 5
+  - Violett
+  - Erwachsene (groß)
+  - > 180 cm
+  - 
+:::
 
-```
 
 ## Intubation mittels Larynxtubus
 

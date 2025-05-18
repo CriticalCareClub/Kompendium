@@ -9,8 +9,7 @@
 
 {dfn}`VC-SIMV` ist ein zyklischer, volumskontrollierter Modus, welcher Spontanamtung erlaubt. Vorgeschriebene Mindest-Atemhübe werden definiert.
 
-```{eval-rst}
-.. rubric:: Synonyme
+```{rubric} Synonyme
 ```
 
 ```{eval-rst}

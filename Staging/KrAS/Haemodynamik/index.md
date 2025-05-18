@@ -22,8 +22,7 @@ zur Steuerung der Volumens- und Katecholamin-Therapie bei
 - ARDS
 - Polytrauma
 
-```{eval-rst}
-.. rubric:: Normwerte
+```{rubric} Normwerte
 ```
 
 ```{eval-rst}

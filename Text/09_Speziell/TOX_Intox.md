@@ -293,13 +293,10 @@ Neben unabsichtlichen Fehleinnahmen oder Überdosierungen werden Arzneimittel of
 
 ### Paracetamol
 
-```{eval-rst}
-
-Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten
-```
-
 Paracetamol kann in hoher Dosis zu Leberversagen führen. Symptome treten erst nach Stunden auf.
 Es gibt ein Gegenmittel (n-Acetylcystein), dieses muss jedoch rechtzeitig gegeben werden. Ohne Behandlung kommt es zum Leberversagen und in Folge zum Tod.
+
+
 
 ```{index} pair: Intoxikation; Digitalis
 ```

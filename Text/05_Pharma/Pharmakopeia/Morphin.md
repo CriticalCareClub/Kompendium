@@ -25,9 +25,9 @@
 
 :Dosierung:
 
-   - Erw: 2,5--10 mg |IV|,
+   - Erw: 2,5--10 mg i.v.,
 
-   - Kinder: 0,05 mg / kg |IV|; auch sc/im.
+   - Kinder: 0,05 mg / kg i.v.; auch sc/im.
 
 :Anmerkungen:
 

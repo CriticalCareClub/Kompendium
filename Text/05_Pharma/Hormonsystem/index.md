@@ -180,51 +180,99 @@ Der ovarielle Zyklus
 ₢ Lena Hirtler  {term}`ℓ MfG`
 :::
 
+
+
+
+
+:::{index} single: Thyroliberin
+:::
+:::{index} single: TRH
+:::
+:::{index} single: Thyreotropin
+:::
+:::{index} single: TSH
+:::
+:::{index} single: CRF
+:::
+:::{index} single: ACTH
+:::
+:::{index} single: GnRH
+:::
+:::{index} single: FSH
+:::
+:::{index} single: LH
+:::
+:::{index} single: Somatoliberin
+:::
+:::{index} single: Somatostatin
+:::
+:::{index} single: Somatotropin
+:::
+:::{index} single: STH
+:::
+:::{index} single: Prolaktostatin
+:::
+:::{index} single: Prolaktin
+:::
+
 (hypothalamus-und-hypophyse-1)=
 
 ## Hypothalamus und Hypophyse
 
-```{eval-rst}
-+--------------------+--------------+--------------------------------+
-| Hormon             | Bildungsort  | Wirkung                        |
-+--------------------+--------------+--------------------------------+
-| Thyroliberin (TRH) | Hypothalamus | TSH-, STH- und                 |
-|                    |              | Prolaktin-Ausschüttung         |
-+--------------------+--------------+--------------------------------+
-| Thyreotropin (TSH) | Hypophyse    | Schilddrüsenhormon-Synthese,   |
-|                    |              | -Ausschüttung                  |
-+--------------------+--------------+--------------------------------+
-| CRF                | Hypothalamus | ACTH-Ausschüttung              |
-+--------------------+--------------+--------------------------------+
-| ACTH               | Hypophyse    | Kortikoid-Synthese,            |
-|                    |              | -Ausschüttung                  |
-+--------------------+--------------+--------------------------------+
-| GnRH               | Hypothalamus | LH-, FSH-Ausschüttung          |
-+--------------------+--------------+--------------------------------+
-| FSH                | Hypophyse    | ♀: Östrogenproduktion,         |
-|                    |              | Follikelreifung                |
-|                    |              |                                |
-|                    |              | ♂: Spermiogenese               |
-+--------------------+--------------+--------------------------------+
-| LH                 | Hypophyse    | ♀: Follikelsprung, Umwandlung  |
-|                    |              | ins Corpus luteum              |
-|                    |              |                                |
-|                    |              | ♂: Testosteronproduktion       |
-+--------------------+--------------+--------------------------------+
-| Somatoliberin      | Hypothalamus | Somatotropin-Ausschüttung      |
-+--------------------+--------------+--------------------------------+
-| Somatostatin       | Hypothalamus | Hemmung der                    |
-|                    |              | Somatotropin-Ausschüttung      |
-+--------------------+--------------+--------------------------------+
-| Somatotropin (STH) | Hypophyse    | Wachstum, Proteinaufbau        |
-+--------------------+--------------+--------------------------------+
-| Prolaktostatin     | Hypothalamus | Hemmung der                    |
-|                    |              | Prolaktin-Ausschüttung         |
-+--------------------+--------------+--------------------------------+
-| Prolaktin          | Hypophyse    | Milchproduktion, Hemmung der   |
-|                    |              | LH- und FSH-Ausschüttung       |
-+--------------------+--------------+--------------------------------+
-```
+:::{list-table} Hypothalamus und Hypophyse
+:header-rows: 1
+
+* - Hormon
+  - Bildungsort
+  - Wirkung
+* - Thyroliberin (TRH)
+  - Hypothalamus
+  - TSH-, STH- und  
+    Prolaktin-Ausschüttung
+* - Thyreotropin (TSH)
+  - Hypophyse
+  - Schilddrüsenhormon-Synthese,  
+    -Ausschüttung
+* - CRF
+  - Hypothalamus
+  - ACTH-Ausschüttung
+* - ACTH
+  - Hypophyse
+  - Kortikoid-Synthese,  
+    -Ausschüttung
+* - GnRH
+  - Hypothalamus
+  - LH-, FSH-Ausschüttung
+* - FSH
+  - Hypophyse
+  - ♀: Östrogenproduktion,  
+    Follikelreifung  
+    ♂: Spermiogenese
+* - LH
+  - Hypophyse
+  - ♀: Follikelsprung, Umwandlung  
+    ins Corpus luteum  
+    ♂: Testosteronproduktion
+* - Somatoliberin
+  - Hypothalamus
+  - Somatotropin-Ausschüttung
+* - Somatostatin
+  - Hypothalamus
+  - Hemmung der  
+    Somatotropin-Ausschüttung
+* - Somatotropin (STH)
+  - Hypophyse
+  - Wachstum, Proteinaufbau
+* - Prolaktostatin
+  - Hypothalamus
+  - Hemmung der  
+    Prolaktin-Ausschüttung
+* - Prolaktin
+  - Hypophyse
+  - Milchproduktion,  
+    Hemmung der LH- und FSH-Ausschüttung
+:::
+
 
 Es werden nur einige wenige Hypothalamus- bzw. Hypophysenhormone als Therapeutika eingesetzt.
 
@@ -238,15 +286,30 @@ Es werden nur einige wenige Hypothalamus- bzw. Hypophysenhormone als Therapeutik
   postpartalen Blutungen, Antagonist ist **Atosiban (Tractocile®)** (Gabe
   bei drohender Frühgeburt)
 
-**•**ADH = Vasopressin:
 
-```{eval-rst}
-============ ==============
-Desmopressin Minirin®
-Ornipressin  Por 8 Sandoz®
-Terlipressin Glycylpressin®
-============ ==============
-```
+
+:::{index} single: Desmopressin
+:::
+:::{index} single: Ornipressin
+:::
+:::{index} single: Terlipressin
+:::
+
+### ADH = Vasopressin:
+
+:::{list-table} Vasopressin-Analoga
+:header-rows: 1
+
+* - Wirkstoff
+  - Handelsname(n)
+* - Desmopressin
+  - Minirin®
+* - Ornipressin
+  - Por 8 Sandoz®
+* - Terlipressin
+  - Glycylpressin®
+:::
+
 
 Anwendung bei zentralem Diabetes insipidus sowie bei
 Ösophagusvarizenblutung.

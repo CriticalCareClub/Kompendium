@@ -15,8 +15,7 @@
 
 {dfn}`BiLevel` ist ein PCV-Modus, welcher ein **alternierendes hohes und tiefes Druckniveau** vorgibt, wobei eine *Spontanatmung* in beiden Druckniveaus möglich ist, meist auch mit *Pressure Support*.
 
-```{eval-rst}
-.. rubric:: Synonyme
+```{rubric} Synonyme
 ```
 
 ```{eval-rst}
@@ -30,8 +29,7 @@
 .. rubric:: Wichtige Einstellungen
 ```
 
-```{eval-rst}
-.. rubric:: Wichtige Einstellungen
+```{rubric} Wichtige Einstellungen
 ```
 
 - PEEP, Paw, Tinsp,

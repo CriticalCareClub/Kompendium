@@ -19,7 +19,7 @@
 .. |H2O| replace:: H\ :sub:`2`\ O
 .. |H+| replace:: H\ :sup:`+`
 .. |HCO3-| replace:: HCO\ :sub:`3`\ :sup:`-`
-.. |IV| replace:: i. v.
+.. i.v. replace:: i. v.
 .. |McgPerKg| replace:: mcg / kg
 .. |McgPerKgPerH| replace:: mcg / kg / h
 .. |McgPerKgPerMin| replace:: mcg / kg / min

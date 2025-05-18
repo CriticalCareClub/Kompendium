@@ -112,9 +112,8 @@ Als **Off-Label-Use** kommen folgende Indikationen in Frage:
 
 - Als Bridging bis zur ECMO-Therapie
 
-```{eval-rst}
-.. rubric:: NO beim akuten Lungenversagen
-```
+:::{rubric} NO beim akuten Lungenversagen
+:::
 
 Neben der unzureichenden Sauerstoffversorgung des Blutes stellt beim akuten Lungenversagen die *pulmonale Hypertonie* das größte Problem dar.
 Gibt man der Atemluft Stickstoffmonoxid hinzu, kommt es an den *pulmonalen Gefäßmuskelzellen* über die gleichen Mechanismen wie durch endogen gebildetes NO zur *Vasodilatation*.
@@ -126,9 +125,9 @@ Als Indikationsgebiete für die NO-Inhalationstherapie, für die schon klinische
 
 Man hat beobachtet, daß auch bei länger dauernder NO-Inhalationstherapie der therapeutische Effekt nicht nachlässt.
 
-```{eval-rst}
-.. rubric:: Grundlegendes zur Therapie
-```
+:::{rubric} Grundlegendes zur Therapie
+:::
+
 
 Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
 Die *Anfangsdosis* beträgt 20 ppm, eine rasche Reduktion auf 5 ppm ist anzustreben.
@@ -193,8 +192,7 @@ Die NO-Therapie sollte nicht abrupt abgesetzt werden, weil dies zu einem Anstieg
 
 #### Gefahren
 
-```{eval-rst}
-.. rubric:: Bildung von Methämoglobin
+```{rubric} Bildung von Methämoglobin
 ```
 
 Ein großer Anteil des Stickstoffmonoxids für die Inhalation wird systemisch absorbiert.
@@ -205,8 +203,7 @@ Bei Erwachsenen sollte der Methhämoglobinspiegel *innerhalb einer Stunde* nach 
 
 Siehe {ref}`Probleme-Methhaemoglobin`.
 
-```{eval-rst}
-.. rubric:: Bildung von Stickstoffdioxid
+```{rubric} Bildung von Stickstoffdioxid
 ```
 
 NO bildet zusammen mit O₂ rasch Stickstoffdioxid (NO₂).
@@ -219,8 +216,7 @@ Siehe {ref}`Probleme-No-2-hoch`.
 
 Unmittelbar vor Beginn der Behandlung muss bei jedem Patienten NO₂ mit einem geeigneten Verfahren aus dem System gespült werden. [^cite_fi-no]
 
-```{eval-rst}
-.. rubric:: Wirkung auf Thrombozyten
+```{rubric} Wirkung auf Thrombozyten
 ```
 
 Tierversuche haben gezeigt, dass NO mit der Hämostase interagieren und zu verlängerten Blutungszeiten führen kann.

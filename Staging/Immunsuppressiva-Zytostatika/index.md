@@ -1,5 +1,14 @@
 # Immunsuppressive, Zytostatika
 
+:::{index} single: Antihuman-T-Zell-Immunserum
+:::
+:::{index} single: Basiliximab
+:::
+:::{index} single: Daclizumab
+:::
+:::{index} single: Muromonab-CD3
+:::
+
 ## Immunsuppressiva
 
 Im munsuppressiva sind Arzneimittel, die die körpereigene
@@ -33,14 +42,18 @@ Angriffstellen der Immunsuppressiva am Immunsystem des Organismus
   akuter Abstoßungsreaktion. Nebenwirkungen dosisabhängig.
 - Lymphozyten-Antikörper:
 
-```{eval-rst}
-=========================== ================================
-Antihuman-T-Zell-Immunserum Lympthoglobulin®, Thymoglobulin®
-Basiliximab                 Simulect®
-Daclizumab                  Zenapax®
-Muromonab-CD3               Orthoclone®
-=========================== ================================
-```
+:::{list-table} Immunsuppressiva
+
+* - Antihuman-T-Zell-Immunserum
+  - Lympthoglobulin®, Thymoglobulin®
+* - Basiliximab
+  - Simulect®
+* - Daclizumab
+  - Zenapax®
+* - Muromonab-CD3
+  - Orthoclone®
+:::
+
 
 Wirkung über Blockade der T-Zellen, Förderung von opportunistischen
 Infektionen, erhöhtes Malignomrisiko

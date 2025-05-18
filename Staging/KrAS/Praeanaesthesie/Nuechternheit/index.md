@@ -3,8 +3,7 @@
 
 # Nüchternheit
 
-```{eval-rst}
-.. rubric:: Allgemeine Karenz
+```{rubric} Allgemeine Karenz
 ```
 
 vor einer elektiven Operation
@@ -33,8 +32,7 @@ vor einer elektiven Operation
     - *Klare Flüssigkeiten* wie bei Erwachsenen
       [^cite_esa-2011-periopfastening]
 
-```{eval-rst}
-.. rubric:: "Nüchternheits-Medikation"
+```{rubric} "Nüchternheits-Medikation"
 ```
 
 Der klinischen Nutzen von routinemäßigen Gaben von
@@ -43,8 +41,7 @@ vor einer elektiven Operation
 (bei nicht geburtshilflichen Patienten) ist *zweifelhaft*
 [^cite_esa-2011-periopfastening].
 
-```{eval-rst}
-.. rubric:: Postoperative Wiederaufnahme von Flüssigkeiten
+```{rubric} Postoperative Wiederaufnahme von Flüssigkeiten
 ```
 
 Erwachsene und Kinder sollten nach einer elektiven Operation
@@ -54,8 +51,7 @@ bevor nicht die Kriterien für die Entlassung aus einer Einrichtung für ambulan
 oder einem Tagestagesaufenthalt
 erfüllt sind [^cite_esa-2011-periopfastening].
 
-```{eval-rst}
-.. rubric:: Geburtshilfliche Patienten
+```{rubric} Geburtshilfliche Patienten
 
 ```
 

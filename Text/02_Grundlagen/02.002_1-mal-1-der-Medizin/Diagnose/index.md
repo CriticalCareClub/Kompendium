@@ -424,8 +424,7 @@ Die Diagnosen werden durch {ref}`RichtungsLageangaben` ergänzt.
         (*Vuln. sclopet.*)
         Schußwunde
 
-Zusätze
-=================================================================
+
 ```
 
 ### Zusätze

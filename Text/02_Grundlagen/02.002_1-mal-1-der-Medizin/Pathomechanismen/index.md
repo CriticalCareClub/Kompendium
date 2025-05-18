@@ -136,16 +136,16 @@ Daraus resultiert in der Regel eine *Raumforderung*.
 
 Man unterscheidet zwischen *gutartigen* (**benignen**) und *bösartigen* (**malignen**) Neubildungen:
 
-```{eval-rst}
 
-:Bösartige Neubildungen:
-    bestehen aus *entarteten* Zellen, welche ihre typischen Zelleigenschaften und -funktionen verloren haben.
-    Sie wachsen in andere Gewebestrukturen ein (wachsen *infiltrativ*) und können *Absiedelungen* (:dfn:`Metastasen`) bilden.
-    Metastasen können z. B. über die Blutbahn an andere Stellen des
-    Körper gelangen und dort als Absiedelungen ebenfalls zu wachsen beginnen.
+
+Bösartige Neubildungen
+: bestehen aus *entarteten* Zellen, welche ihre typischen Zelleigenschaften und -funktionen verloren haben.
+  Sie wachsen in andere Gewebestrukturen ein (wachsen *infiltrativ*) und können *Absiedelungen* (:dfn:`Metastasen`) bilden.
+  Metastasen können z. B. über die Blutbahn an andere Stellen des
+  Körper gelangen und dort als Absiedelungen ebenfalls zu wachsen beginnen.
 
 Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man
-```
+
 
 Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man von *Leukämien* {index}` <Leukämie>` bzw. *Lymphomen* {index}` <Lymphom>`.
 Maligne Neoplasien wergen umgangssprachlich als *Krebs* (engl. *Cancer*) bezeichnet.

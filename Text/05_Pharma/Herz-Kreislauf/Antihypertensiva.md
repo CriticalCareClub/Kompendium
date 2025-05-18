@@ -1,40 +1,69 @@
 # Antihypertensiva
 
 
+:::{index} single: Benazepril
+:::
+:::{index} single: Captopril
+:::
+:::{index} single: Cilazapril
+:::
+:::{index} single: Enalapril
+:::
+:::{index} single: Fosinopril
+:::
+:::{index} single: Lisinopril
+:::
+:::{index} single: Moexipril
+:::
+:::{index} single: Perindopril
+:::
+:::{index} single: Quinapril
+:::
+:::{index} single: Ramipril
+:::
+:::{index} single: Spirapril
+:::
+:::{index} single: Tandolapril
+:::
+
 ## ACE-Hemmer
 
 Diese Substanzgruppe wirkt über die Blockade des Angiotensin-Converting-Enzyms welches Angiotensin I in Angiotensin II umwandelt. Antiotensin II ist der stärkste Vasokonstriktor des menschlichen Körpers und bewirkt vor allem einen Blutdruckanstieg.
 
-```{eval-rst}
-+-----------------+---------------------------------------------------+
-| Benazepril      | **Cibacen™**                                      |
-+-----------------+---------------------------------------------------+
-| Captopril       | **Capace™, Lopirin™, Captor™, Debax™, Veracapt™** |
-+-----------------+---------------------------------------------------+
-| Cilazapril      | **Dynorm™, Inhibace™**                            |
-+-----------------+---------------------------------------------------+
-| Enalapril       | **Pres™, Alapril™, Enac „Hexal“ ™, Mepril™,       |
-|                 | Renitec™, Baroprine™, Prilenal™**                 |
-+-----------------+---------------------------------------------------+
-| Fosinopril      | **Forinorm™, Fosicomb™, Fositens™**               |
-+-----------------+---------------------------------------------------+
-| Lisinopril      | **Acerbon™, Acetan™, Prinivil™, Acecomb™,         |
-|                 | Zestoretic™**                                     |
-+-----------------+---------------------------------------------------+
-| Moexipril       | **Fempress™**                                     |
-+-----------------+---------------------------------------------------+
-| **Perindopril** | **Coversum™, Predonium™, Preterax™**              |
-+-----------------+---------------------------------------------------+
-| Quinapril       | **Accupro™, Quinastad™, Accuzide™**               |
-+-----------------+---------------------------------------------------+
-| Ramipril        | **Delix™, Hypren™, Lannapril™,Tritace™,           |
-|                 | Lasitace™, Trialix™**                             |
-+-----------------+---------------------------------------------------+
-| Spirapril       | **Quadropril™**                                   |
-+-----------------+---------------------------------------------------+
-| Tandolapril     | **Gopten™**                                       |
-+-----------------+---------------------------------------------------+
-```
+:::{list-table} ACE-Hemmer
+:header-rows: 1
+
+* - Wirkstoff
+  - Handelsname(n)
+* - Benazepril
+  - Cibacen™
+* - Captopril
+  - Capace™, Lopirin™, Captor™, Debax™, Veracapt™
+* - Cilazapril
+  - Dynorm™, Inhibace™
+* - Enalapril
+  - Pres™, Alapril™, Enac „Hexal“ ™, Mepril™,  
+    Renitec™, Baroprine™, Prilenal™
+* - Fosinopril
+  - Forinorm™, Fosicomb™, Fositens™
+* - Lisinopril
+  - Acerbon™, Acetan™, Prinivil™, Acecomb™,  
+    Zestoretic™
+* - Moexipril
+  - Fempress™
+* - Perindopril
+  - Coversum™, Predonium™, Preterax™
+* - Quinapril
+  - Accupro™, Quinastad™, Accuzide™
+* - Ramipril
+  - Delix™, Hypren™, Lannapril™, Tritace™,  
+    Lasitace™, Trialix™
+* - Spirapril
+  - Quadropril™
+* - Tandolapril
+  - Gopten™
+:::
+
 
 Eingesetzt wird diese Substanzklasse zur Therapie von Hypertonie, chronischer Herzinsuffizienz und nach Herzinfarkt.
 

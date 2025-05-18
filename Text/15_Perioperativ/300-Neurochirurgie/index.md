@@ -165,8 +165,7 @@ AF ↑ → CBF↓
 ```{index} pair: Mannitol; ICP-Reduktion
 ```
 
-```{eval-rst}
-.. rubric:: Mannit
+```{rubric} Mannit
 ```
 
 ICP-Reduktion mit Mannit

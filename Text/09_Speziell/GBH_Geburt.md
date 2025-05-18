@@ -342,23 +342,35 @@ Der *Apgar-Score* ist nach Virginia Apgar benannt und ist ein Punkteschema zur B
 - Punkteschema zur Beurteilung von Neugeborenenen
 - Max. 9—10 Punkte
 
-```{eval-rst}
-.. table:: Apgar-Score
+:::{list-table} Apgar-Score
+:header-rows: 1
 
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | **Kriterium**       | **0 Punkte**   | **1 Punkt**                        | **2 Punkte**                       |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | *Herzfrequenz*      | unter 60 / min | 60–99 / min                        | über 100 / min                     |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | *Atemanstrengung*   | keine          | unregelmäßig, flach                | regelmäßig, Kind schreit           |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | *Reflexe*           | keine          | Grimassieren                       | kräftiges Schreien                 |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | *Muskeltonus*       | schlaff        | leichte Beugung der Extremitäten   | aktive Bewegung der Extremitäten   |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-    | *(Haut-) Farbe*     | blau, blass    | Stamm rosig, Extremitäten blau     | gesamter Körper rosig              |
-    +---------------------+----------------+------------------------------------+------------------------------------+
-```
+* - Kriterium
+  - 0 Punkte
+  - 1 Punkt
+  - 2 Punkte
+* - Herzfrequenz
+  - unter 60 / min
+  - 60–99 / min
+  - über 100 / min
+* - Atemanstrengung
+  - keine
+  - unregelmäßig, flach
+  - regelmäßig, Kind schreit
+* - Reflexe
+  - keine
+  - Grimassieren
+  - kräftiges Schreien
+* - Muskeltonus
+  - schlaff
+  - leichte Beugung der Extremitäten
+  - aktive Bewegung der Extremitäten
+* - (Haut-) Farbe
+  - blau, blass
+  - Stamm rosig, Extremitäten blau
+  - gesamter Körper rosig
+:::
+
 
 ### Nach der Geburt
 

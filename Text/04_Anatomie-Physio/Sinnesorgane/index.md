@@ -96,12 +96,20 @@ Der *optische Apparat* ist aus folgenden Teilen aufgebaut:
 
 Die *Akkomodation* beschreibt die Veränderung des Linsendurchmessers und damit die Veränderung ihrer Brechkraft. Dies passiert über die *Ziliarmuskeln* und den *Zonulafasern*.
 
-```{eval-rst}
-=========== ======= ========== ======== =====
-kontrahiert schlaff gewölbt    nimmt zu Nähe
-erschlafft  straff  abgeflacht nimmt ab Ferne
-=========== ======= ========== ======== =====
-```
+:::{list-table}
+
+* - kontrahiert
+  - schlaff
+  - gewölbt
+  - nimmt zu
+  - Nähe
+* - erschlafft
+  - straff
+  - abgeflacht
+  - nimmt ab
+  - Ferne
+:::
+
 
 Über *M. sphincter pupillae* und *M. dilatator pupillae* wird die Iris bewegt. Verengung (*Miosis*, bis zu 1,5 mm) wird parasympathisch, Erweiterung (*Mydriasis*, bis zu 8 mm) wird sympathisch vermittelt.
 

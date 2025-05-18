@@ -99,8 +99,3 @@ STEMI
   Siehe auch: {ref}`AkutesKoronarsyndrom`.
 :::
 
-```{eval-rst}
-.. rubric:: Sonderzeichen-Test
-```
-
-V̇ Dot above (U+0307)

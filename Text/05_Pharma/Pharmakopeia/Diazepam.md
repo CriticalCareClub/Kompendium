@@ -5,41 +5,35 @@
 
 # Diazepam
 
-```{eval-rst}
+## Pharmakodynamik
 
-:Pharmakodynamik:
+## Pharmakokinetik
 
-:Pharmakokinetik:
+Der *Abbau* erfolgt ... Die *Ausscheidung* ...
 
-         Der *Abbau* erfolgt ... Die *Ausscheidung* ...
+## Indikation
 
-:Indikation:
+- Sedierung  
+- Epilepsie  
+- Eklampsie  
+- Prämedikation (CV)  
+- Rektal bei Krämpfen
 
-         Sedierung,
-         Epilepsie,
-         Eklampsie,
-         Prämediaktion (CV),
-         Rectal bei Krämpfen
+## Kontraindikationen
 
-:Kontraindikationen:
+- Chronische Hyperkapnie (relativ)  
+- Myasthenia gravis  
+- Intoxikation mit zentral dämpfenden Substanzen (relativ)
 
-         Chron. Hyperkapnie (relativ), Myasthenia gravis, Intoxikation
-         mit zentral dämpfenden Substanzen (relativ)
+## Wechselwirkungen
 
-:Wechselwirkungen:
+## Dosierung
 
-:Dosierung:
+**i.v.:** 0,2–0,5 mg/kg, max. 20 mg  
+**rektal:**  
+- ≤ 15 kg: 5 mg  
+- > 15 kg: 10 mg
 
-   |IV|:  0,2-0,5 mg / kg max. 20 mg
-
-   Rektal: ≤ 15 kg: 5 mg;  > 15 kg: 10 mg
-
-.. note::
-
-         Antidot: Flumazenil (Anexate);
-
-.. warning::
-```
 
 :::{note}
 Antidot: Flumazenil (Anexate);

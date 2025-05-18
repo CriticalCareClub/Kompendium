@@ -22,18 +22,41 @@ die das Festsaugen an dem Patienten verhindert.
 Die Absaugkatheter sind steril verpackt und müssen auch dementsprechend behandelt werden.
 Die Farbkodierung gibt den Durchmesser des Absaugkatheters an (vgl. Tabelle {ref}`Table-Absaugkatheter`).
 
-```{eval-rst}
-.. table:: Farbcodierung: Absaugkatheter
-    :name: Table-Absaugkatheter
+:::{list-table} Farbcodierung: Absaugkatheter
+:header-rows: 1
 
-    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-    | **Farbe**            | **grau**   | **hellgrün**   | **blau**   | **schwarz**   | **weiß**   | **grün**   | **orange**   | **rot**   | **gelb**   |
-    +======================+============+================+============+===============+============+============+==============+===========+============+
-    | Durchmesser in mm    | 1,7        | 2,0            | 2,7        | 3,3           | 4,1        | 4,7        | 5,3          | 6,1       | 6,6        |
-    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-    | Größe in Charrière   | CH 5       | CH 6           | CH 8       | CH 10         | CH 12      | CH 14      | CH 16        | CH 18     | CH 20      |
-    +----------------------+------------+----------------+------------+---------------+------------+------------+--------------+-----------+------------+
-```
+* - Farbe
+  - grau
+  - hellgrün
+  - blau
+  - schwarz
+  - weiß
+  - grün
+  - orange
+  - rot
+  - gelb
+* - Durchmesser in mm
+  - 1,7
+  - 2,0
+  - 2,7
+  - 3,3
+  - 4,1
+  - 4,7
+  - 5,3
+  - 6,1
+  - 6,6
+* - Größe in Charrière
+  - CH 5
+  - CH 6
+  - CH 8
+  - CH 10
+  - CH 12
+  - CH 14
+  - CH 16
+  - CH 18
+  - CH 20
+:::
+
 
 ## Oro-Sauger
 

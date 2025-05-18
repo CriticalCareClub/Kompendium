@@ -7,8 +7,7 @@
 
 # {dfn}`CPAP`: {dfn}`Continuous Positive Airway Pressure`
 
-```{eval-rst}
-.. rubric:: Synonyme
+```{rubric} Synonyme
 ```
 
 ```{eval-rst}

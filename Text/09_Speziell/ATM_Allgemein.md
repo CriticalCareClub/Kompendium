@@ -118,56 +118,75 @@ Bei der Auskultation kann eine ungleichseitige Belüftung der Lungen festgestell
 
 Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid, Hyperventilationssyndrom). Ebenso wichtig sind Umstände wie das Vorhandensein von Heimsauerstoff oder anderen Atemhilfen.
 
-```{eval-rst}
-.. table:: Symptome von Atemstörungen
-    :name: Table-atmung-symptome
+:::{list-table} Symptome von Atemstörungen
+:header-rows: 1
 
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | **Kriterium**       | **Befund**                                          | **Beschreibung**                                                     |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Beschwerde*        | Atemnot (Dyspnoe)                                   | Leitsymptom                                                          |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Atemgeräusch*      | Brodeln                                             | Blubbern, klassisch für Lungenödem                                   |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Stridor                                             |                                                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Brummen, Giemen                                     |                                                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Rasselgeräusche                                     |                                                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Frequenz*          | Beschleunigt                                        | Tachypnoe                                                            |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Verlangsamt                                         | Bradypnoe                                                            |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Atemzugsvolumen*   | Schnappatmung                                       | :ref:`Schnappatmung`                                                 |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Flache Atmung                                       |                                                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Tiefe Atmung                                        | z. B. Kußmaul’sche Atmung                                            |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Hautfarbe*         | Blass                                               | Normal, Anämie, Blutverlust                                          |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Rosig                                               | Normal, -Vergiftung                                                  |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Bläulich                                            | Zyanose: Hypoxie!                                                    |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Körperlich*        | Einziehungen an den Rippen                          | Einsatz der Zwischenrippenmuskulatur                                 |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Aufstützen                                          | Einsatz der Atemhilfsmuskulatur                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Nasenflügeln                                        | Atemnot, besonders bei Kleinkindern                                  |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Aufrechte Position                                  |                                                                      |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Paradoxe Atmung                                     | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur  |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    | *Geräte*            | Pulsoxymetrie                                       | :ref:`Pulsoxymetrie`                                                 |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
-    |                     | Kapnometrie                                         |  CO₂-Messung                                                         |    |
-    +---------------------+-----------------------------------------------------+----------------------------------------------------------------------+----+
+* - Kriterium
+  - Befund
+  - Beschreibung
+* - Beschwerde
+  - Atemnot (Dyspnoe)
+  - Leitsymptom
+* - Atemgeräusch
+  - Brodeln
+  - Blubbern, klassisch für Lungenödem
+* - 
+  - Stridor
+  - -
+* - 
+  - Brummen, Giemen
+  - -
+* - 
+  - Rasselgeräusche
+  - -
+* - Frequenz
+  - Beschleunigt
+  - Tachypnoe
+* - 
+  - Verlangsamt
+  - Bradypnoe
+* - Atemzugsvolumen
+  - Schnappatmung
+  - {ref}`Schnappatmung`
+* - 
+  - Flache Atmung
+  - -
+* - 
+  - Tiefe Atmung
+  - z. B. Kußmaul’sche Atmung
+* - Hautfarbe
+  - Blass
+  - Normal, Anämie, Blutverlust
+* - 
+  - Rosig
+  - Normal, -Vergiftung
+* - 
+  - Bläulich
+  - Zyanose: Hypoxie!
+* - Körperlich
+  - Einziehungen an den Rippen
+  - Einsatz der Zwischenrippenmuskulatur
+* - 
+  - Aufstützen
+  - Einsatz der Atemhilfsmuskulatur
+* - 
+  - Nasenflügeln
+  - Atemnot, besonders bei Kleinkindern
+* - 
+  - Aufrechte Position
+  - -
+* - 
+  - Paradoxe Atmung
+  - Brustkorb _senkt_ sich bei Einatmung, z. B. bei Serienrippenfraktur
+* - Geräte
+  - Pulsoxymetrie
+  - {ref}`Pulsoxymetrie`
+* - 
+  - Kapnometrie
+  - CO₂-Messung
+:::
 
 
-```
 
 ## Maßnahmen
 
@@ -199,32 +218,31 @@ Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemst
 
 # Atmungsstörungen
 
-```{eval-rst}
-.. todo:: Code/Tabelle
+:::{todo} Code/Tabelle
 
-    [H]LLStörung des/der & Beispiele
-    O2-Angebotes &
-```
+[H]LLStörung des/der & Beispiele
+O2-Angebotes &
+:::
 
 Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
 
 Stickgase (Gärkeller (CO2↑, O2↓); defekte Gastherme (CO))
 
-```{eval-rst}
-.. todo:: Code/Tabelle
+:::{todo} Code/Tabelle
 
-    Ertrinken
-    O2-Diffusion & Lungenödem
-```
+Ertrinken
+O2-Diffusion & Lungenödem
+:::
 
 Pneumonie
 
-```{eval-rst}
-.. todo:: Code/Tabelle
+:::{todo} Code/Tabelle
 
-    Pulmonalembolie
-    Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
-```
+Pulmonalembolie  
+Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
+
+:::
+
 
 Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
 
@@ -232,12 +250,13 @@ Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktu
 
 Lagerung: Trendelenburglagerung, Verschüttung
 
-```{eval-rst}
-.. todo:: Code/Tabelle
+:::{todo} Code/Tabelle
 
-    Kapnoperitoneum
-    Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
-```
+Kapnoperitoneum  
+Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
+
+:::
+
 
 Insult
 
@@ -251,12 +270,13 @@ Muskelerkrankungen
 
 Nervenerkrankung
 
-```{eval-rst}
-.. todo:: Code/Tabelle
+:::{todo} Code/Tabelle
 
-    Stoffwechselstörungen
-    Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
-```
+Stoffwechselstörungen  
+Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
+
+:::
+
 
 - Zyanose, Atemnot
 - Tachy-/Bradypnoe (AF \<=8= / min oder >=30= / min )

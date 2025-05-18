@@ -43,8 +43,7 @@ Wirkungsspektrum-Übersicht: {download}`PDF<Files/AMBOSS-Antibiotika-Wirkspektru
 
 Nach Wirkung:
 
-```{eval-rst}
-.. rubric:: Bakterizide Substanzen
+```{rubric} Bakterizide Substanzen
 ```
 
 ```{eval-rst}
@@ -83,8 +82,7 @@ Nach Wirkung:
 .. rubric:: Bakteriostatische Substanzen
 ```
 
-```{eval-rst}
-.. rubric:: Bakteriostatische Substanzen
+```{rubric} Bakteriostatische Substanzen
 ```
 
 ```{eval-rst}
@@ -167,8 +165,7 @@ empirische AB-Therapie bei V. a.:
 
 ### Antimykotika
 
-```{eval-rst}
-.. rubric:: Antimykotische Therapie: 1. Wahl und Alternativen
+```{rubric} Antimykotische Therapie: 1. Wahl und Alternativen
 ```
 
 ```{eval-rst}

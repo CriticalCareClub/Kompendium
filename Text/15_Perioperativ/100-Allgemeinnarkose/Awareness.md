@@ -23,7 +23,11 @@ Narkotrend
 
 Kontext sensitive HWZ  = Zeit die nach Beendigung der Infusion eines Pharmakons notwendig ist, bis die Plasmakonzentreation um 50%  abgefallen ist. Context bezieht sich auf die Dauer der Infusion.
 
-![Kontextsensitive Halbwertszeit](Kontextsensitive-Halbwertszeit.png)
+
+:::{figure} ../../Bilder/Hirtler-Lena-CCCA/Pharma/Kontextsensitive-Halbwertszeit.png
+
+Kontextsensitive Halbwertszeit
+:::
 
 
 Lange Aufwachzeiten nach langer TIVA ergeben sich aus der verlängerten 80%

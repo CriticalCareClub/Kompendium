@@ -108,7 +108,7 @@ Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte Berufsfe
 
 ##### Sanitätergesetz 2002 (Österreich)
 
-Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu diversen Themen beweisen. Bezüglich der genauen rechtlichen Regelungen sei auf das Kapitel {ref}`chp-JUS`, verwiesen, an dieser Stelle wollen wir uns aus praktischer Sicht dem Tätigkeitsfeld und den Aufgaben der Sanitäter widmen.
+Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu diversen Themen beweisen. 
 
 ##### Das Miteinander
 

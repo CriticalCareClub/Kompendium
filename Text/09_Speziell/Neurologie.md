@@ -131,60 +131,101 @@ Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
 Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 *bewusstlos* sein, vgl. {ref}`Table-bewusstseinsgrade`.
 
-```{eval-rst}
-.. table:: Bewusstseinsgrade: WASB-Schema
-    :name: Table-bewusstseinsgrade
+:::{list-table} Bewusstseinsgrade: WASB-Schema
+:header-rows: 1
 
-    +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
-    | **W**   | *W*\ ach                       | *bewusstseinsklar*                     | wach                                                           |                     |
-    +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
-    | **A**   | Reaktion auf *A*\ nsprache     | somnolent                              | schläfrig, aber leicht erweckbar.                              |                     |
-    +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
-    | **S**   | Reaktion auf *S*\ chmerzreiz   | soporös                                | kaum und nur mit erheblichen Aufwand (Schmerzreiz) erweckbar   | *Gefahr!*           |
-    +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
-    | **B**   | *B*\ ewusstlosigkeit           | komatös                                | nicht erweckbar, ohne Bewusstsein                              | **Lebensgefahr!**   |
-    +---------+--------------------------------+----------------------------------------+----------------------------------------------------------------+---------------------+
-```
+* - W
+  - Wach
+  - bewusstseinsklar
+  - wach
+  - 
+* - A
+  - Reaktion auf Ansprache
+  - somnolent
+  - schläfrig, aber leicht erweckbar.
+  - 
+* - S
+  - Reaktion auf Schmerzreiz
+  - soporös
+  - kaum und nur mit erheblichem Aufwand (Schmerzreiz) erweckbar
+  - Gefahr!
+* - B
+  - Bewusstlosigkeit
+  - komatös
+  - nicht erweckbar, ohne Bewusstsein
+  - Lebensgefahr!
+:::
 
-```{eval-rst}
-.. table:: GCS: Glasgow Coma Scale für den Erwachsenen.
-    :name: Table-gcs
 
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         | **Max.**   | **Punkte**   | **Reaktion**                  |
-    +-------------------------+------------+--------------+-------------------------------+
-    | *Augenöffnung*          | 4          | 4            | spontan                       |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 3            | auf Ansprache                 |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 2            | Schmerzreiz                   |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 1            | nicht                         |
-    +-------------------------+------------+--------------+-------------------------------+
-    | *Verbale Antwort*       | 5          | 5            | klar                          |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 4            | verwaschen                    |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 3            | unzusammenhängende Worte      |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 2            | unartikuliert                 |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 1            | nicht                         |
-    +-------------------------+------------+--------------+-------------------------------+
-    | *Motorische Reaktion*   | 6          | 6            | spontan                       |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 5            | gezielte Abwehrbewegungen     |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 4            | ungezielte Abwehrbewegungen   |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 3            | Beugung                       |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 2            | Strecken                      |
-    +-------------------------+------------+--------------+-------------------------------+
-    |                         |            | 1            | bewegt gar nicht              |
-    +-------------------------+------------+--------------+-------------------------------+
+:::{list-table} GCS: Glasgow Coma Scale für den Erwachsenen.
+:header-rows: 1
 
-```
+* - 
+  - Max.
+  - Punkte
+  - Reaktion
+* - Augenöffnung
+  - 4
+  - 4
+  - spontan
+* - 
+  - 
+  - 3
+  - auf Ansprache
+* - 
+  - 
+  - 2
+  - Schmerzreiz
+* - 
+  - 
+  - 1
+  - nicht
+* - Verbale Antwort
+  - 5
+  - 5
+  - klar
+* - 
+  - 
+  - 4
+  - verwaschen
+* - 
+  - 
+  - 3
+  - unzusammenhängende Worte
+* - 
+  - 
+  - 2
+  - unartikuliert
+* - 
+  - 
+  - 1
+  - nicht
+* - Motorische Reaktion
+  - 6
+  - 6
+  - spontan
+* - 
+  - 
+  - 5
+  - gezielte Abwehrbewegungen
+* - 
+  - 
+  - 4
+  - ungezielte Abwehrbewegungen
+* - 
+  - 
+  - 3
+  - Beugung
+* - 
+  - 
+  - 2
+  - Strecken
+* - 
+  - 
+  - 1
+  - bewegt gar nicht
+:::
+
 
 (mr40001b)=
 (m-bewusstseinstruebung)=

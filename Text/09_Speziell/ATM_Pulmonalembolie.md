@@ -200,12 +200,12 @@ Herkunft des Thrombus
 
 ## Maßnahmen: Pulmonalembolie
 
-```{eval-rst}
-.. todo::
+:::{todo}
 
-    Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
+Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
 
-```
+:::
+
 
 Taktik:
 

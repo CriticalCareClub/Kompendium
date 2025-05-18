@@ -41,8 +41,7 @@ Gemessen wird pO₂ (Clark-Elektrode), pCO₂
 (Serveringhaus-Elektrode) und der pH (Glaselektrode).
 Berechnet wird u. a. das Standardbikarbonat, Basenüberschuss und die SpO₂.
 
-```{eval-rst}
-.. rubric:: Basendefizit geschätzt
+```{rubric} Basendefizit geschätzt
 ```
 
 neg. BE . kg / 3

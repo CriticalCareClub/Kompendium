@@ -374,8 +374,7 @@ Bradykardie: Primär Hypoxie behandlen, danne rst Atropin
 
 Bradykardie: Primär Hypoxie behandlen, danne rst Atropin
 
-```{eval-rst}
-.. rubric:: Perioperatives Flüssigkeitsmanagement
+```{rubric} Perioperatives Flüssigkeitsmanagement
 ```
 
 ```{eval-rst}

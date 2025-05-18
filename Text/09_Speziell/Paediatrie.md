@@ -203,23 +203,23 @@ Die Epiglottitis geht mit hohem Fieber einher. Es ist ein Atemgeräusch bei der 
 
 Die Unterscheidung beider Krankheiten kann auch für den erfahrenen Sanitäter schwer sein. Darum hier eine Gegenüberstellung der Differenzialdiagnosen Laryngitis und Epiglottitis:
 
-```{eval-rst}
-.. table:: Gegenüberstellung Laryngitis vs. Epiglottitis
+:::{list-table} Gegenüberstellung Laryngitis vs. Epiglottitis
+:header-rows: 1
 
-    +-----------------------------+----------------------------------+
-    | Laryngitis                  | Epiglottitis                     |
-    +=============================+==================================+
-    | Wenig bedrohlich            | Lebensgefährlich                 |
-    +-----------------------------+----------------------------------+
-    | Kind ist weinerlich         | Ruhiges Kind, apathisch          |
-    +-----------------------------+----------------------------------+
-    | Kann schlucken              | Speichelfluss                    |
-    +-----------------------------+----------------------------------+
-    | Kaum Fieber                 | Hohes Fieber                     |
-    +-----------------------------+----------------------------------+
-    | Kind schreit; weint evtl.   | Sehr leise, verfällt zusehends   |
-    +-----------------------------+----------------------------------+
-```
+* - Laryngitis
+  - Epiglottitis
+* - Wenig bedrohlich
+  - Lebensgefährlich
+* - Kind ist weinerlich
+  - Ruhiges Kind, apathisch
+* - Kann schlucken
+  - Speichelfluss
+* - Kaum Fieber
+  - Hohes Fieber
+* - Kind schreit; weint evtl.
+  - Sehr leise, verfällt zusehends
+:::
+
 
 (sids)=
 

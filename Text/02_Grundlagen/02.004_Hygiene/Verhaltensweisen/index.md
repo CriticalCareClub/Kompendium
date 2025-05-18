@@ -152,7 +152,6 @@ Die Maßnahmen beim Transport von Patienten mit resistenten Keimen werden unter 
 
 ### Maßnahmen
 
-Basierend auf {term}`🗎 OeAG 2007`
 
 - Erstmaßnahmen durchführen:
 

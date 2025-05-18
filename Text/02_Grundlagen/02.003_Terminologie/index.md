@@ -131,7 +131,7 @@ Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit an
 {index}`Base`
 
 : *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-  Sie reagieren mit Säuren und bilden Salze. {term}`🗎 SchmuckChemie 1`
+  Sie reagieren mit Säuren und bilden Salze. 
 
 {index}`Enzym`
 
@@ -145,7 +145,7 @@ Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit an
 {index}`Säure`
 
 : Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-  bilden Salze. {term}`🗎 SchmuckChemie 1`.
+  bilden Salze. 
 
 ## Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 

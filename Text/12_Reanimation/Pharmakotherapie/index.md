@@ -13,49 +13,54 @@ um eine schnelle Spülung zu ermöglichen.
 
 Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein intraossärer Zugang mittels spezieller Hilfsmittel gelegt werden. Früher war es auch üblich, Medikamente über einen Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
-```{eval-rst}
-.. tabularcolumns:: LLLL
+```{tabularcolumns} LLLL
 ```
 
-```{eval-rst}
-.. table:: Übersicht: Die wichtigsten bei der Reanimation eingesetzten
-    Medikamente
+:::{list-table} Übersicht: Die wichtigsten bei der Reanimation eingesetzten Medikamente
+:header-rows: 1
 
-    +---------------+--------------------------+-----------------------------------+---------------------------------------+
-    | **Wirkstoff** | **Erläuterungen**        | **Indikation**                    | **Spezialitäten**                     |
-    +===============+==========================+===================================+=======================================+
-    | *Adrenalin*   | Vasokonstriktor          | Schockbarer Rhythmus              | Suprarenin™    (1:1.000, 1 mg = 1 mL) |
-    |               |                          |                                   |                                       |
-    |               |                          | Nicht-schockbarer Rhythmus        | L-Adrenalin (1:10.000; 1 mg = 10 ml)  |
-    +---------------+--------------------------+-----------------------------------+---------------------------------------+
-    | *Amiodaron*   | Antiarrhythmikum Kl. III | Schockbarer Rhytmus               | Sedacoron™                            |
-    +---------------+--------------------------+-----------------------------------+---------------------------------------+
-    | *Atropin*     | Antiparasymathomimetikum | Seit 2010 kein Standardmedikament | Atropinum sulfuricum (0,5 mg / ml)    |
-    +---------------+--------------------------+-----------------------------------+---------------------------------------+
+* - Wirkstoff
+  - Erläuterungen
+  - Indikation
+  - Spezialitäten
+* - Adrenalin
+  - Vasokonstriktor
+  - Schockbarer Rhythmus  
+    Nicht-schockbarer Rhythmus
+  - Suprarenin™ (1:1.000, 1 mg = 1 mL)  
+    L-Adrenalin (1:10.000; 1 mg = 10 mL)
+* - Amiodaron
+  - Antiarrhythmikum Kl. III
+  - Schockbarer Rhythmus
+  - Sedacoron™
+* - Atropin
+  - Antiparasympathomimetikum
+  - Seit 2010 kein Standardmedikament
+  - Atropinum sulfuricum (0,5 mg / mL)
+:::
 
+
+```{tabularcolumns} LLL
 ```
 
-```{eval-rst}
-.. tabularcolumns:: LLL
-```
+:::{list-table} Standard-Reanimationsmedikamente ERC 2010 (vereinfacht)
+:header-rows: 1
 
-```{eval-rst}
-.. table:: Standard-Reanimationsmedikamente ERC 2010 (vereinfacht)
+* - Medikament
+  - Schockbarer Rhythmus
+  - Nicht-schockbarer Rhythmus
+* - Adrenalin
+  - 1 mg i.v.  
+    Erstmals nach dem 3. Schock  
+    Wiederholen nach jedem ungeraden Schock
+  - 1 mg i.v. sobald venöser Zugang etabliert ist  
+    Wiederholen alle 3–5 min (4 min)
+* - Amiodaron
+  - 300 mg i.v. einmalig nach dem 3. Schock  
+    Evtl. einmalig 150 mg i.v. repetitieren
+  - Nicht indiziert
+:::
 
-    +----------------+-------------------------------------------+-----------------------------------------------+
-    | **Medikament** | **Schockbarer Rhythmus**                  | **Nicht-schockbarer Rhythmus**                |
-    +================+===========================================+===============================================+
-    | *Adrenalin*    | 1 mg i.v.                                 | 1 mg i.v. sobald venöser Zugang etabliert ist |
-    |                |                                           |                                               |
-    |                | Erstmals *nach* dem 3. Schock             | Wiederholen alle 3--5 min (4 min)             |
-    |                |                                           |                                               |
-    |                | Wiederholen nach jedem ungeraden Scock    |                                               |
-    +----------------+-------------------------------------------+-----------------------------------------------+
-    | *Amiodaron*    | 300 mg i.v. einmalig *nach* dem 3. Schock | Nicht indiziert                               |
-    |                |                                           |                                               |
-    |                | Evtl. einmalig 150 mg i.v. repetitieren   |                                               |
-    +----------------+-------------------------------------------+-----------------------------------------------+
-```
 
 ```{eval-rst}
 .. subfigstart::

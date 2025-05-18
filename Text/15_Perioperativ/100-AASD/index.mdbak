@@ -316,39 +316,44 @@ BIS, Entropie zur Überwachung tiefer Sedierung
 
 ### RASS: Richmond Agitation Sedation Scale
 
-```{eval-rst}
-+----------+-------------------+-------------------------------------+
-| **Wert** | **Bezeichnung**   | **Erläuterung**                     |
-+----------+-------------------+-------------------------------------+
-| + 4      | streitlustig      | Aggressives verhalten, Personal     |
-|          |                   | gefährdet                           |
-+----------+-------------------+-------------------------------------+
-| + 3      | Sehr agitiert     | Zieht oder entfernt „Schläuche“,    |
-|          |                   | aggressiv                           |
-+----------+-------------------+-------------------------------------+
-| + 2      | agitiert          | Häufig ungezielte Bewegungen, atmet |
-|          |                   | gegen den Respirator                |
-+----------+-------------------+-------------------------------------+
-| + 1      | unruhig           | Ängstlich, Bewegungen aber nicht    |
-|          |                   | aggressiv oder lebhaft              |
-+----------+-------------------+-------------------------------------+
-| 0        | aufmerksam        | und ruhig                           |
-+----------+-------------------+-------------------------------------+
-| - 1      | schläfrig         | Erwacht anhaltend mit Blickkontakt  |
-|          |                   | bei Ansprache (> 10 sec)            |
-+----------+-------------------+-------------------------------------+
-| - 2      | leichte Sedierung | Kurzes Erwachen mit Blickkontakt    |
-|          |                   | bei Ansprache (< 10 sec)            |
-+----------+-------------------+-------------------------------------+
-| - 3      | mäßige Sedierung  | Bewegung oder Augenöffnung bei      |
-|          |                   | Ansprache (ohne Blickkontakt)       |
-+----------+-------------------+-------------------------------------+
-| - 4      | tiefe Sedierung   | Keine Reaktion auf Ansprache        |
-+----------+-------------------+-------------------------------------+
-| - 5      | Nicht erwecbar    | Keine Reaktion auf Ansprache oder   |
-|          |                   | körperlichen Reiz                   |
-+----------+-------------------+-------------------------------------+
-```
+:::{list-table} RASS: Richmond Agitation Sedation Scale
+:header-rows: 1
+
+* - Wert
+  - Bezeichnung
+  - Erläuterung
+* - +4
+  - streitlustig
+  - Aggressives Verhalten, Personal gefährdet
+* - +3
+  - Sehr agitiert
+  - Zieht oder entfernt „Schläuche“, aggressiv
+* - +2
+  - agitiert
+  - Häufig ungezielte Bewegungen, atmet gegen den Respirator
+* - +1
+  - unruhig
+  - Ängstlich, Bewegungen aber nicht aggressiv oder lebhaft
+* - 0
+  - aufmerksam
+  - und ruhig
+* - -1
+  - schläfrig
+  - Erwacht anhaltend mit Blickkontakt bei Ansprache (> 10 sec)
+* - -2
+  - leichte Sedierung
+  - Kurzes Erwachen mit Blickkontakt bei Ansprache (< 10 sec)
+* - -3
+  - mäßige Sedierung
+  - Bewegung oder Augenöffnung bei Ansprache (ohne Blickkontakt)
+* - -4
+  - tiefe Sedierung
+  - Keine Reaktion auf Ansprache
+* - -5
+  - Nicht erweckbar
+  - Keine Reaktion auf Ansprache oder körperlichen Reiz
+:::
+
 
 
 

@@ -1,14 +1,18 @@
 # DIC und TIC
-## 25.7. TIC = Trauma induzierte Coagulopathie
+
+## Trauma induzierte Coagulopathie (TIC)
+
+25.7.<!--  -->
 
 Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten + erhöhten Verbrauch  +
 Flüssigkeitszufuhr+  TRIAS: Hypothermie (\<34°) + Hypokalzämie (\<1mmol/l)-Azidose (pH  \<  7,2)  +
 HK \<24%
-1. Volumentherapie: Kristalloide+Kolloide (HES max. 50ml/kg/d), einmalig 4ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
-2. 1-2g Tranexamsäure innerhalb der ersten 3 h (15 -20mg/kg KG)
-3. Hypothermie vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 
-4. Azidosekorrektur: Ziel \>7,2 (NaBIC)
-5. Hypokalzämie vermeiden: Ca \> 1 mmol/l (Calciumglukonat)
+
+1. **Volumentherapie**: Kristalloide+Kolloide (HES max. 50ml/kg/d), einmalig 4ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
+2. 1-2g **Tranexamsäure** innerhalb der ersten 3 h (15 -20mg/kg KG)
+3. **Hypothermie** vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 
+4. *Azidosekorrektur*: Ziel \>7,2 (NaBIC)
+5. **Hypokalzämie** vermeiden: Ca \> 1 mmol/l (Calciumglukonat)
 6. Anämiekorrektur: Ziel Hb 8-10 
 7. Thrombozyten Soll 50-100000 
 8. Hohe Fibrinogenspiegel sind protektiv 150-200mg/dl, FIBTEM\<7mm Gabe 50mg/kg Hämocomplettan 
@@ -30,7 +34,9 @@ HK \<24%
 5. Achte auf Plättchenfunktionsstörung: Octostim
 :::
 
-## DIC = disseminierte intravasale coagulopathie
+
+
+## Disseminierte Intravasale Coagulopathie (DIC)
 
 Ursache: Sepsis, Trauma, Organnekrosen, SS, Lebertoxizität, Malignom, Transplantation 
 

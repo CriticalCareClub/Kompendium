@@ -43,17 +43,22 @@ Beide Hämostasephasen sind eng miteinander verbunden und stimulieren sich gegen
 
 Folgende Substanzen sind Inhibitoren der Gerinnung:
 
-```{eval-rst}
-================ =============
-Antithrombin III physiologisch
-Protein C
-Protein S
-Heparin          medikamentös
-Cumarine
-================ =============
-```
+:::{list-table} Gerinnungsinhibitoren
 
-:::{figure} media/Pictures/100000000000132200001428585ABA80CF5D66CB.png
+* - Antithrombin III
+  - physiologisch
+* - Protein C
+  - -
+* - Protein S
+  - -
+* - Heparin
+  - medikamentös
+* - Cumarine
+  - -
+:::
+
+
+:::{figure} ../../Bilder/Hirtler-Lena-CCCA/Pharma/100000000000132200001428585ABA80CF5D66CB.png
 :name: Fig-GerinnungFibrinolyse
 :width: 100%
 
@@ -70,34 +75,41 @@ Unter Fibrinolyse versteht man das Auflösen eines Thrombus. Gerinnung und Fibri
 
 Folgende Substanzen aktivieren die Fibrinolyse:
 
-Tab. 1 Fibrinolyse-Aktivatoren
+:::{list-table} Fibrinolyse-Aktivatoren
 
-```{eval-rst}
-================================== ====================================
-Urokinase                          physiologisch
-Gewebe-Plasminogen-Aktivator (tPA)
-Streptokinase                      können medikamentös zugeführt werden
-APSAC (Antistreplase)
-Urokinase
-Pro-Urokinase
-================================== ====================================
-```
+* - Urokinase
+  - physiologisch
+* - Gewebe-Plasminogen-Aktivator (tPA)
+  - 
+* - Streptokinase
+  - können medikamentös zugeführt werden
+* - APSAC (Antistreplase)
+  - 
+* - Urokinase
+  - 
+* - Pro-Urokinase
+  - 
+:::
+
 
 Inhibitoren der Fibrinolyse:
 
-Tab. 2 Fibrinolyse Inhibitoren
+:::{list-table} Fibrinolyse Inhibitoren
 
-```{eval-rst}
-================== =============
-Antiplasmin        physiologisch
-PAI-1
-Aprotinin          medikamentös
-ε-Aminocapronsäure
-Tranexamsäure
-================== =============
-```
+* - Antiplasmin
+  - physiologisch
+* - PAI-1
+  - -
+* - Aprotinin
+  - medikamentös
+* - ε-Aminocapronsäure
+  - -
+* - Tranexamsäure
+  - -
+:::
 
-:::{figure} media/Pictures/100000000000130E0000119F530F8DB4653403C2.png
+
+:::{figure} ../../Bilder/Hirtler-Lena-CCCA/Pharma/100000000000130E0000119F530F8DB4653403C2.png
 :name: Fig-PlasminogenPlasminKaskadeFibrinolyse
 :width: 100%
 

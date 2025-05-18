@@ -136,46 +136,44 @@ Bei Transaminasen- oder Bilirubinanstieg unter Therapie, Therapieabbruch bei Üb
 
 ## Medikamentöse Therapie
 
-```{eval-rst}
+Analgosedierung  
+: - Propofol oder Midazolam  
+  - Sufentanil (oder Remifentanil (Ultiva™))
 
-:Analgosedierung:
-    -   Propofol oder Midazolam
-    -   Sufentanil (oder Remifentanil (Ultiva™))
+Relaxierung  
+: Nicht als Standardtherapie (nur bei Bauchlage oder wenn  
+  trotz ausreichender Analgosedierung eine  
+  Patienten-Respirator-Dyssynchronie besteht)  
 
-:Relaxierung:
-    nicht als Standardtherapie (nur bei Bauchlage oder wenn
-    trotz ausreichender Analgosedierung eine
-    Patienten-Respirator-Dyssynchronie besteht)
+  Rocuronium (Esmeron™)
 
-    Rocuronium (Esmeron™)
+Ernährung  
+: Beginn enteraler Ernährung möglichst innerhalb von 24 Stunden  
 
-:Ernährung:
-    Beginn enteraler Ernährung möglichst innerhalb von 24 Stunden
+  In *Bauchlage* Zottennahrung erwägen,  
+  wenn hinsichtlich Reflux möglich  
 
-    In *Bauchlage* Zottennahrung erwägen,
-    wenn hinsichtlich Reflux möglich
+  Parenterale Ernährung nur, wenn nach 5–7 Tagen das Kalorienziel  
+  enteral nicht erreicht werden kann.
 
-    Parenterale Ernährung nur, wenn nach 5—7 Tagen das Kalorienziel
-    enteral nicht erreicht werden kann.
+Flüssigkeitstherapie  
+: **Bilanzziel negativ (maximal ausgeglichen)!**  
 
-:Flüssigkeitstherapie:
-    **Bilanzziel negativ (maximal ausgeglichen)!**
+  **Dauerinfusion max. 50 ml / h**, *KEINESFALLS ERHÖHEN*  
 
-    **Dauerinfusion max. 50 ml / h**, *KEINESFALLS ERHÖHEN*
+  Bei Volumsbedarf  
+  (Zeichen der Minderperfusion UND positiver *leg raising test*)  
+  Volumenbolus
 
-    Bei Volumsbedarf
-    (Zeichen der Minderperfusion UND positiver *leg raising test*)
-    Volumenbolus
+Hämodynamik  
+: **CAVE Amiodarongabe** bei Viruspneumonie!  
+  (Amiodaron-Induced Interstitial Pneumonitis) →  
+  bei Tachyarrhythmien ist Amiodaron in einzelnen Bolusgaben möglich;  
+  Perfusor- oder Langzeittherapie nur *ultima ratio*.  
 
-:Hämodynamik:
-    **CAVE Amiodarongabe** bei Viruspneumonie!
-    (Amiodaron-Induced Interstitial Pneumonitis) →
-    bei Tachyarrhythmien ist Amiodaron in einzelnen Bolusgaben möglich;
-    Perfusor- oder Langzeittherapie nur ultima ratio.
+  Falls hämodynamisch möglich, vorsichtige Titration mit β-Blocker erwägen  
+  (kontinuierliche Gabe, z. B. Landiolol (Rapibloc™)).
 
-    Falls hämodynamisch möglich, vorsichtige Titration mit β-Blocker erwägen (kontinuierliche Gabe, z. B. Landiolol (Rapibloc™)).
-
-```
 
 Weitere Therapie
 : - *Zink* 30mg 1-1-1 i. v.
@@ -212,29 +210,23 @@ Weitere Therapie
 Der Eigenschutz bei {term}`CPR` hat Vorrang!
 :::
 
-```{eval-rst}
+Defibrillation  
+: Eine Defibrillation ist wahrscheinlich  
+  auch beim nicht-intubierten Patienten *nicht* aerosol-generierend.  
+  
+  Sofern ein schockbarer Rhythmus vorliegt,  
+  können bis zu *3 Schocks in Serie* abgegeben werden,  
+  bis das Personal die komplette Schutzkleidung angelegt hat.
 
-:Defibrillation:
-    Eine Defibrillation ist wahrscheinlich
-    auch beim nicht-intubierten Patienten
-    *nicht* aerosol-generierend.
+Bauchlage  
+: In **Bauchlage** ist die CPR beim intubierten Patienten prinzipiell möglich,  
+  der Druckpunkt befindet sich dann *zwischen den Schulterblättern*.  
+  Die Defi-Pads sind anterior—posterior oder bi-axillär anzubringen.
 
-    Sofern ein schockbarer Rhythmus vorliegt,
-    können bis zu
-    *3 Schocks in Serie*
-    abgegeben werden
-    bis das Personal die komplette Schutzkleidung angelegt hat.
+Lyse  
+: Aufgrund gehäufter VTEs bzw. **Pulmonalembolien** bei COVID-19-Patienten  
+  bei hochgradigem Verdacht **Lyse** im Rahmen der CPR erwägen!
 
-:Bauchlage:
-    In **Bauchlage** ist die CPR beim intubierten Patienten prinzipiell möglich, der Druckpunkt befindet sich dann *zwischen den Schulterblättern*.
-    Die Defi-Pads sind anterior—posterior oder bi-axillär anzubringen.
-
-:Lyse:
-    Aufgrund gehäufter VTEs bzw. **Pulmonalembolien** bei COVID-19-Patienten bei hochgradigem Verdacht **Lyse** im Rahmen der CPR erwägen!
-
-
-
-```
 
 ## Beatmung
 
@@ -245,31 +237,26 @@ Der Eigenschutz bei {term}`CPR` hat Vorrang!
 Falls dennoch notwendig: **Tubus abklemmen**, *Beatmung* am Gerät *stoppen!*
 :::
 
-```{eval-rst}
+Bauchlagerung  
+: Bei ARDS mit **paO₂/FiO₂ < 150 mm Hg** (Horovitz-Index);  
+  mind. über 16 h, bei Bedarf wiederholen
 
-:Bauchlagerung:
-    Bei ARDS mit **paO₂/FiO₂ < 150 mm Hg** (Horovitz-Index);
-    mind. über 16 h, bei Bedarf wiederholen
+Therapierefraktäre Hypoxie  
+: Bei schwerem ARDS mit therapierefraktärer Hypoxie  
+  (paO₂/FiO₂ < 80 bzw. 60 mm Hg)  
+  **NO-Inhalation** bzw. veno-venöse **ECMO**  
+  (UK St. Pölten (primär) oder AKH Wien) erwägen!
 
-:Therapierefraktäre Hypoxie:
-    Bei schwerem ARDS mit therapierefraktärer Hypoxie
-    (paO₂/FiO₂ < 80 bzw. 60 mm Hg)
-    **NO-Inhalation**
-    bzw. veno-venöse **ECMO**
-    (UK St. Pölten (primär) oder AKH Wien)
-    erwägen!
+Weaning  
+: Häufig werden sekundäre respiratorische Verschlechterungen gesehen,  
+  deshalb kein voreiliges Weaning!
 
-:Weaning:
-    Häufig werden sekundäre respiratorische Verschlechterungen gesehen,
-    deshalb kein voreiliges Weaning!
+CPAP/NIV  
+: Therapieversuch bei SpO₂ < 90 % bzw. AF ≥ 30 /min für 1–2 h  
 
-:CPAP/NIV:
-    Therapieversuch bei SpO₂   < 90% bzw. AF ≥ 30 / min für 1—2 h
+  - CPAP: PEEP 10 mbar  
+  - NIV: PEEP 5–10 mbar + Support 6–10 mbar
 
-        -   CPAP: PEEP 10 mbar
-        -   NIV: PEEP 5—10 mbar + Support 6—10 mbar
-
-```
 
 :::{danger}
 

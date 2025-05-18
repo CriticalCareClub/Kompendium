@@ -7,6 +7,5 @@
 
 # PC-SIMV: Synchronized Pressure-Controlled Ventilation
 
-```{eval-rst}
-.. todo:: PC-SIMV
+```{todo} PC-SIMV
 ```

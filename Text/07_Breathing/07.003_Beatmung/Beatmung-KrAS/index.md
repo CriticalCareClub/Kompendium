@@ -69,39 +69,17 @@ Konrollierte Beatmung
 
 ## Beamtungsmodi -- Kurzbeschreibung
 
-```{eval-rst}
-
-:CPAP:
-    ?? Text fehlt ??
-
--  :: ???
-```
-
-- \:: ???
-
-```{eval-rst}
-
-:ASB:
-
-   *Assisted Spontaneous Ventilation*. *Syn.* *ASB*. Trigger löst
-   Beatmung mittel voreingestellten Druck aus.
-
-   #. Einstellung, Regelgrößen
-
-      Triggerschwelle (Druck- oder Flowtrigger)
 
 
+ASB
+: *Assisted Spontaneous Ventilation*. *Syn.* *ASB*. Trigger löst
+  Beatmung mittel voreingestellten Druck aus.
+
+  #. Einstellung, Regelgrößen
+
+     Triggerschwelle (Druck- oder Flowtrigger)
 
 
-Simulatoren
-===========
-
--   Hamilton C2:
-    https://www.hamilton-medical.com/.static/HAMILTON-C2/start.html
-
--   Hamilton T1:
-    https://www.hamilton-medical.com/.static/HAMILTON-T1/start.html
-```
 
 ## Simulatoren
 

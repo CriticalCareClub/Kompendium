@@ -67,6 +67,8 @@ Die hier angeführten Definitionen sind zum Zwecke der Verständlichkeit grob ve
 Die genauen Kriterien zur Definition und Diagnose einer Sepsis und eines septischen Schocks sind wesentlich diffiziler, vgl. {term}`🗎 Sepsis-3`.
 :::
 
+
+
 ## Symptome
 
 Frühe Anzeichen einer Sepsis können sein:
@@ -90,6 +92,8 @@ Diese beinhalten:
 - Mottling (Marmorierung)
 - Exantheme: Petechien, Hämatome
 
+
+
 ## Ursachen, Auslöser und Pathophysiologie
 
 Auslöser eines SIRS können infektiöse oder nicht infektiöse Ursachen sein, wie zum Beispiel Trauma, Operation, akute Entzündung, Ischämie, Reperfusion oder Malignität \[{term}`🗎 SIRS 2023`\].
@@ -107,6 +111,8 @@ Im weiteren Verlauf des septischen Schocks kommt es häufig zu einer disseminier
 Auch nach initial erfolgreicher Therapie des Schockgeschehens können zu Beginn ausgelöste lokale und generalisierte humorale und zelluläre Veränderungen zu einem **SIRS** führen.
 Das Ausmaß eines SIRS hängt vom Schweregrad und von der Dauer des Schockgeschehens, vom Alter und Zustand des Patienten, von der primären Notfallversorgung und der operativen Behandlung, Gewebsschädigungen und Begleit-, Grunderkrankungen ab.
 Das SIRS kann zum **Multiorgandysfunktionssyndrom** (**MODS**) oder zu **Multiorganversagen** (**MOF**) führen.
+
+
 
 ## Diagnostik
 
@@ -195,35 +201,63 @@ qSOFA erscheint dabei spezifischer, aber weniger empfindlich als zwei von vier S
 Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instrumente für die Sepsis \[{term}`🗎 Fernando 2018`, {term}`🗎 Herwanto 2019`, {term}`🗎 Serafim 2018`, {term}`🗎 Liu 2020`\].
 :::
 
-```{eval-rst}
-.. table:: 🖼 SOFA-Score nach :term:`🗎 Sepsis-3`
-    :name: Tab-SOFA-Score
 
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |     Organsystem     |       Parameter       |        1        |            2            |                3                |               4                |
-    +=====================+=======================+=================+=========================+=================================+================================+
-    |      **Atmung**     | PaO₂/FiO₂             | < 400           | < 300                   | < 200 und künstliche Beatmung   | < 100 und künstliche Beatmung  |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |   **Nervensystem**  | GCS                   | 13–14           | 10–12                   | 6–9                             | < 6                            |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    | **Herz-Kreislauf**  | | Katecholaminbedarf  | MAP < 70 mm Hg  | | Dopamin ≤ 5 oder      | | Dopamin > 5 oder              | | Dopamin > 15 oder            |
-    |                     | | [µg / kg / min]     |                 | | Dobutamin (beliebig)  | | Adrenalin ≤ 0,1 oder          | | Adrenalin > 0,1 oder         |
-    |                     |                       |                 |                         | | Noradrenalin ≤ 0,1            | | Noradrenalin > 0,1           |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |      **Leber**      | | Bilirubin           | 1,2–1,9         | 2,0–5,9                 | 6,0–11,9                        | > 12,0                         |
-    |                     | | [mg / dL]           |                 |                         |                                 |                                |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |    **Gerinnung**    | | Thrombozyten        | < 150           | < 100                   | < 50                            | < 20                           |
-    |                     | | [1.000 / µL]        |                 |                         |                                 |                                |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |      **Niere**      | | Kreatinin           | 1,2–1,9         | 2,0–3,4                 | 3,5–4,9                         | > 5,0                          |
-    |                     | | [mg / dL]           |                 |                         |                                 |                                |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
-    |                     | | Diurese             |                 |                         | < 500                           | < 200                          |
-    |                     | | [mL / d]            |                 |                         |                                 |                                |
-    +---------------------+-----------------------+-----------------+-------------------------+---------------------------------+--------------------------------+
 
-```
+:::{list-table} 🖼 SOFA-Score nach {term}`🗎 Sepsis-3`
+:header-rows: 1
+:stub-columns: 2
+
+* - Organsystem
+  - Parameter
+  - 1
+  - 2
+  - 3
+  - 4
+* - Atmung
+  - PaO₂/FiO₂
+  - < 400
+  - < 300
+  - < 200 und künstliche Beatmung
+  - < 100 und künstliche Beatmung
+* - Nervensystem
+  - GCS
+  - 13–14
+  - 10–12
+  - 6–9
+  - < 6
+* - Herz-Kreislauf
+  - Katecholaminbedarf [µg/kg/min]
+  - MAP < 70 mm Hg
+  - Dopamin ≤ 5 oder Dobutamin (beliebig)
+  - Dopamin > 5 oder Adrenalin ≤ 0,1 oder Noradrenalin ≤ 0,1
+  - Dopamin > 15 oder Adrenalin > 0,1 oder Noradrenalin > 0,1
+* - Leber
+  - Bilirubin [mg/dL]
+  - 1,2–1,9
+  - 2,0–5,9
+  - 6,0–11,9
+  - \> 12,0
+* - Gerinnung
+  - Thrombozyten [1.000/µL]
+  - < 150
+  - < 100
+  - < 50
+  - < 20
+* - Niere
+  - Kreatinin [mg/dL]
+  - 1,2–1,9
+  - 2,0–3,4
+  - 3,5–4,9
+  - \> 5,0
+* - 
+  - Diurese [mL/d]
+  - 
+  - 
+  - < 500
+  - < 200
+:::
+
+
 
 :::{list-table} 🖼 Modified Early Warning Score (MEWS, nach {term}`🗎 Subbe 2001`)
 :header-rows: 1

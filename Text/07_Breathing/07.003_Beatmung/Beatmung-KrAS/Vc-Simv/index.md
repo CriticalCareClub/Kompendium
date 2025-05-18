@@ -12,13 +12,9 @@
 ```{rubric} Synonyme
 ```
 
-```{eval-rst}
+GE  
+: SIMV-VC
 
-:GE:
+Hamilton  
+: SIMV
 
-    SIMV-VC
-
-:Hamilton:
-
-    SIMV
-```

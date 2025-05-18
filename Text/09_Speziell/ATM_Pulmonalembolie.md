@@ -82,58 +82,49 @@ Herkunft des Thrombus
 :::
 ::::
 
-```{eval-rst}
+②  
+: Kann man beim Patienten Hinweise auf Bettlägrigkeit (Alter,  
+  Gipsverband, körperlicher Zustand, …) erkennen?
 
-:②:
-    Kann man beim Patienten Hinweise auf Bettlägrigkeit (Alter,
-    Gipsverband, körperlicher Zustand, …) erkennen?
+④  
+: Das Leitsymptom ist die 🚩 *Atemnot*, eventuell in  
+  Kombination mit (atemabhängigen) 🚩 Thorax- oder Rückenschmerzen.  
+  Eine Unterscheidung zwischen einer Lungenembolie und einem Akuten  
+  Koronarsyndrom ist oft nicht möglich.
 
-:④:
-    Das Leitsymptom ist die 🚩\  *Atemnot*, eventuell in
-    Kombination mit (atemabhängigen) 🚩\  Thorax- oder
-    Rückenschmerzen.
+Ⓑ  
+: Meist atmet der Patient schnell (Tachypnoe) und klagt über einen  
+  *atemabhängigen 🚩 Thoraxschmerz*.
 
-    Eine Unterscheidung zwischen einer Lungenembolie und einem Akuten
-    Koronarsyndrom ist oft nicht möglich.
+Ⓒ  
+: Es kommt zu einer *Tachykardie* und Angstgefühlen, oft findet man  
+  deutlich hervortretende, *gestaute Venen* am Hals aufgrund des  
+  Blutrückstaus.  
+  Evtl. kann man auch einen *arrhythmischen Puls*  
+  aufgrund eines Vorhofflimmerns ertasten.  
+  Der Blutdruck kann normal oder vermindert sein.  
+  Bei einer schweren Lungenembolie kann es zu einem 🚩 *kardiogenen Schock*  
+  kommen, es ist daher wichtig auf 🚩 Schockzeichen zu achten!
 
-:Ⓑ:
-    Meist atmet der Patient schnell (Tachypnoe) und klagt über einen
-    *atemabhängigen 🚩\  Thoraxschmerz*.
+Ⓔ  
+: Es kann zu — meist unspezifischen — *EKG-Veränderungen* kommen.  
+  Klassisch, aber selten ausgeprägt, ist der S{sub}`I`Q{sub}`III`-Typ als Zeichen einer Rechtsherzbelastung.  
+  Daneben kann es zur Ausbildung eines Rechtstyps,  
+  einem P pulmonale,  
+  einer T-Wellen-Inversion (V1–V3),  
+  zur Ausbildung eines Rechtsschenkelblocks  
+  und auch zu ST-Streckenveränderungen  
+  (Senkungen V4—V6, Hebungen III, V1, aVR) kommen.  
+  Die Sensitivität und Spezifität der EKG-Veränderungen sind jedoch gering.
 
-:Ⓒ:
-    Es kommt zu einer *Tachykardie* und Angstgefühlen, oft findet man
-    deutlich hervortretende, *gestaute Venen* am Hals aufgrund des
-    Blutrückstaus. Evtl. kann man auch einen *arrhythmischen Puls*
-    aufgrund eines Vorhofflimmerns, ertasten. Der Blutdruck kann normal
-    oder vermindert sein. Bei einer schweren Lungenembolie kann es zu
-    einem 🚩\  *kardiogenen Schock* kommen, es ist daher
-    wichtig auf 🚩\  Schockzeichen zu achten!
+⌥  
+: Je nach Ursache der Embolie und Herkunft des Embolus kann man  
+  Zeichen anderer Krankheitsbilder wahrnehmen:  
+  Bei einer *tiefen Beinvenenthrombose* ist ein Bein geschwollen, überwärmt,  
+  rot/rot-bläulich verfärbt und schmerzhaft ({ref}`thrombose`).
 
-:Ⓔ:
-    Es kann zu — meist unspezifischen — *EKG-Veränderungen* kommen. Klassisch, aber selten ausgeprägt, ist der  S\ :sub:`I`\ Q\ :sub:`III`-Typ als Zeichen einer Rechtsherzbelastung.
-    Daneben kann es zur Ausbildung eines Rechtstyps,
-    einem P pulmonale,
-    einer T-Wellen-Inversion (V1-V3),
-    zur Ausbildung eines Rechtsschenkelblocks
-    und auch zu ST-Streckenveränderungen
-    (Senkungen V4—V6, Hebungen III, V1, aVR)
-    kommen.
-    Die Sensitivität und Spezifität der EKG-Veränderungen sind jedoch gering.
-
-:⌥:
-    Je nach Ursache der Embolie und Herkunft des Embolus kann man
-    Zeichen anderer Krankheitsbilder wahrnehmen: Bei einer *tiefen
-    Beinvenenthrombose* ist ein Bein geschwollen, überwärmt,
-    rot/rot-bläulich verfärbt und schmerzhaft (:ref:`thrombose`).
-
-``=``
-    Bei 🚩\  anhaltender Atemnot oder 🚩\
-    Thoraxschmerzen besteht eine vitale Bedrohung.
-```
-
-`=`
-
-: Bei 🚩 anhaltender Atemnot oder 🚩Thoraxschmerzen besteht eine vitale Bedrohung.
+=
+: Bei 🚩 anhaltender Atemnot oder 🚩 Thoraxschmerzen besteht eine **vitale Bedrohung**.
 
 ## SAMPLER: Pulmonalembolie
 

@@ -18,6 +18,5 @@ Glossar/index
 ../CHANGELOG.md
 ```
 
-```{eval-rst}
-.. todolist::
+```{todolist}
 ```

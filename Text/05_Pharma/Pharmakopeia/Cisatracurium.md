@@ -10,7 +10,7 @@
 
 Nimbex
 
-=  ndMR;  0,1mg/kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  Organunabhängige Elimination durch Hoffmann-Elimination (CNI geeignet!);  Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
+=  ndMR;  0,1 mg / kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  Organunabhängige Elimination durch Hoffmann-Elimination (CNI geeignet!);  Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
 
 
 

@@ -31,7 +31,7 @@ Harnnatrium massiv erniedrigt, Serumnatrium steigend.
 - Blutzuckereinstellung (Hypo-  und Hyperglykämien vermeiden, da schlechteres neurologisches Outcome)
 
 Ursachen sekundärer Hirnschäden bei SAB:
-- 20-40%  Gefäßspasmen zw. 3 und 14 Tag (Maximum 10-14 Tag): Nimotop 6x60mg po. Für mindestens 14 Tage, Flussgeschwindigkeiten im transcraniellem Doppler  über 100cm/s sprechen für Gefäßspasmen. (normal 50-80cm/s) Bettruhe nach Absprache mit NC.
+- 20-40%  Gefäßspasmen zw. 3 und 14 Tag (Maximum 10-14 Tag): Nimotop 6x60 mg po. Für mindestens 14 Tage, Flussgeschwindigkeiten im transcraniellem Doppler  über 100cm/s sprechen für Gefäßspasmen. (normal 50-80cm/s) Bettruhe nach Absprache mit NC.
 - 20-25% posthämorrhagischen Okklusionshydrocephalus
 - Intracerebrales Hämatom, weitere Einblutung, ischämischer Infarkt Weaning nach Rücksprache mit den Neurochirurgen bei stabilem ICP möglich. Wenn keine adäquate Erholung aus dem Koma erfolgt Frühtracheotomie planen!
 

@@ -11,7 +11,7 @@ Ein Erwachsener hat zwischen 4 und 6 Liter Blut.
 Das Blut besteht aus folgenden Untereinheiten:
 
 - Plasma: Das Plasma des menschlichen Körpers enthält pro Liter 900-910g
-  Wasser, 65-80g Eiweiß (Albumin, α₁-, α₂-, ß-,
+  Wasser, 65-80 g Eiweiß (Albumin, α₁-, α₂-, ß-,
   γ-Globuline) und 20 kleinmolekulare Substanzen. Außerdem findet man
   Fette, Kohlenhydrate und Aminosäuren.
 - Erythrozyten (rote Blutkörperchen): dienen dem Atemgastransport

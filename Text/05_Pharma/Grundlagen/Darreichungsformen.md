@@ -269,7 +269,7 @@ Sie sind:
 
 Infusion: Einfließenlassen größerer Flüssigkeitsmengen, zumeist iv (sc.
 selten). Die Aufbewahrung erfolgt in Plastik- oder Glasflaschen mit 250,
-500 oder 1000 ml
+500 oder 1000 ml
 
 Injektion: schnelle Applikation von gelösten oder suspendieren Stoffen unter Umgehung von Haut und Schleimhäuten. Zufuhr kleinerer Flüssigkeitsmengen. Die Aufbewahrung erfolgt in Brechampullen,
 Stechampullen (mit Gummistopfen verschlossen) oder in Trockenampullen
@@ -296,7 +296,7 @@ Ratschläge für Ordnung im Arzneikasten
   können.
 - Verbrauch zuerst älterer Packungen, neue nach hinten einschlichten
   (Verbrauchsdatum!)
-- Sortierung nach Stärke (2, 5, 10 mg)
+- Sortierung nach Stärke (2, 5, 10 mg)
 - Aufbewahrung in Originalpackungen und –gefäßen inklusive
   Beipackzettel
 - Rechtzeitige Neubestellung
@@ -404,7 +404,7 @@ Kontrolle von 5 Punkten:
     Verfalldatum?
     Sichtbare Veränderungen? Verfall, Verfärbung, Ausflockung?
 * - Richtige Stärke/Konzentration?
-  - Passt die Stärke? (z. B. 5, 10, 20 mg)
+  - Passt die Stärke? (z. B. 5, 10, 20 mg)
     Passt die Form? (Einfach-, Retardform?)
     Passt die Menge? (Tablettenzahl, ml)
 * - Richtiger Applikationsort und richtige Applikationsform?

@@ -21,7 +21,7 @@ Glukose 33% 100 mL + Insulin 20 IE
 - Falls verfügbar, ABO-gleich transfundieren
 - Wenn nicht möglich, dann entsprechend der Regeln für
   Erythrozytentransfusion auswählen (siehe Tabelle)
-  (Ausnahme: Bei Kindern mit einem KG \<25 kg möglichst
+  (Ausnahme: Bei Kindern mit einem KG \<25 kg möglichst
   Plasma (Minor) - inkompatible Thrombozytengabe
   vermeiden!)
 - Wenn nicht möglich, auf die verfügbaren TK einer anderen
@@ -527,7 +527,7 @@ Pankreatitis
 - Postoperativ
 - Duodenal-Divertikel
 - Penetrierendes Ulcus ventriculi/ duodeni
-- Ausgeprägte Hypertriglyceridämie (>1000mg/dl)
+- Ausgeprägte Hypertriglyceridämie (>1000 mg/dl)
 - Hyperkalziämie (prim. Hyperparathyreodismus)
 - Pankreas divisum
 - Viren (Mumps, Coxsackie, HIV, CMV, HPV)
@@ -718,7 +718,7 @@ Glukose:
 - Hoher negativer prädiktiver Wert : normaler BZ (bei
   Nicht-Diabetikern) schließt nekrotisierende Pankreatitis weitgehend
   aus)
-- BZ \< 125mg/dl – 92% KEINE nekrot.Pankreatitis
+- BZ \< 125 mg/dl – 92% KEINE nekrot.Pankreatitis
 
 Hämatokrit:
 
@@ -827,7 +827,7 @@ Imrie-Score nach 48 Stunden
 
 - Alter > 55 Jahre
 - Leukozyten > 15000/µl
-- Glukose > 200 mg/dl
+- Glukose > 200 mg/dl
 - Harnstoff > 16 mmol/l
 - Kalzium \< 2mmol/l
 - Albumin \< 3,2 g/dl
@@ -840,7 +840,7 @@ Ranson – Score nach 48 Stunden
 - Leukozyten > 16000/µl
 - GOT > 255 U/l
 - LDH > 350 U/l
-- Glukose > 200 mg/dl
+- Glukose > 200 mg/dl
 - 0-2 Punkte - \< 1% Letalität
 - 3-4 Punkte – 15% Letalität
 - 5-6 Punkte – 40% Letalität
@@ -872,7 +872,7 @@ Elektrolyt-Ausgleich:
 - Kalium
 - Calzium (ab \< 1,6mmol/l)
 
-Insulin-Perfusor (ab BZ 250 mg/dl)
+Insulin-Perfusor (ab BZ 250 mg/dl)
 
 ANV
 
@@ -925,7 +925,7 @@ Steuerung
 
 - ZVD (Ziel: 8-10cm H20 ) MEMO : ZVK bei schwerer Pankreatitis obligat
   !
-- Diurese (Ziel: > 0,5ml/kg/h)
+- Diurese (Ziel: > 0,5 ml/kg / h)
 - HK – 30-35%
 - Ggf.auch PICCO-Messung
 - Volumengabe bis zur Normalisierung des Laktats
@@ -1124,7 +1124,7 @@ z.B. Lobektomie rechter UL:
 #### Lungen-Mechanik Parenchym-Funktion Kardio-pulmonale Reserve
 
 - FEV1 DLCO VO2 max
-- (ppo\< 40%) (ppo\< 40%) (15ml/kg/min)
+- (ppo\< 40%) (ppo\< 40%) (15 ml/kg / min)
 - MVV, FVC PaO2 \< 65 2 Stöcke Stiegen steigen
 - RV/TLC PaCO2 > 45 6 Minuten gehen
 
@@ -1214,7 +1214,7 @@ Am wichtigsten sind:
 Die Praxis …. Hypoxie vermeiden !
 :::
 
-Zu Beginn der Ein-Lungen-Anästhesie wird die untere Lunge mit einem Atemzugvolumen von ca. **8–10 ml/kg** beatmet. Die ursprünglich eingestellte Atemfrequenz wird beibehalten. Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO2 bleibt meist im Normbereich, ebenso der paCO2.
+Zu Beginn der Ein-Lungen-Anästhesie wird die untere Lunge mit einem Atemzugvolumen von ca. **8–10 ml/kg** beatmet. Die ursprünglich eingestellte Atemfrequenz wird beibehalten. Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO2 bleibt meist im Normbereich, ebenso der paCO2.
 
 Während der gesamten Zeit der einseitigen Beatmung werden hohe inspiratorische Sauerstoffkonzentrationen eingestellt, um die Hypoxiegefahr zu vermindern. Hierbei muss jedoch beachtet werden, dass ein intrapulmonaler Rechts-links-Shunt durch Erhöhung der inspiratorischen Sauerstoffkonzentration nicht wesentlich beeinflusst wird.
 

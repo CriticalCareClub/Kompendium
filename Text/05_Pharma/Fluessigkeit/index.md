@@ -29,14 +29,14 @@ Gesamtkörperwasser ist abhängig von Alter, Geschlecht, Körperbau:
 Extrazellulärflüssigkeit
 : - Interstitielle Flüssigkeit
   - Flüssigkeit außerhalb der Zellen und der Blutgefäße
-  - 15% des Körpergewichts, 120-165ml/kgKG
+  - 15% des Körpergewichts, 120-165 ml/kgKG
   - Plasmavolumen
-  - Flüssigkeit innerhalb des Gefäßsystems, außerhalb der Blutzellen 5% des Körpergewichts, 30-35ml/kgKG
+  - Flüssigkeit innerhalb des Gefäßsystems, außerhalb der Blutzellen 5% des Körpergewichts, 30-35 ml/kgKG
 
 Blutvolumen
 : - Gesamtblutvolumen ca 7,5% des Körpergewichts
-  - 69 ml/kgKG Männer
-  - 65ml/kgKG Frauen
+  - 69 ml/kgKG Männer
+  - 65 ml/kgKG Frauen
   - Gilt für Erwachsene
   - Gleichgewicht zwischen Interstitium und Plasmavolumen,
   - Flüssigkeit im Gefäßsystem abhängig vom onkotischen Druck durch Plasmaproteine
@@ -242,7 +242,7 @@ Isotone Vollelektrolytlösungen ohne metabolisierbare Anionen enthalten eine hoh
       - Gefahr bei septischen Patienten (Capillary Leakage!)
       - Blutgerinnung
       - Coating der Thrombozyten und Hemmung der Aggregationsfähigkeit
-      - Maximaldosis von 50ml/kg/d (HES 130/0,4)
+      - Maximaldosis von 50 ml/kg/d (HES 130/0,4)
 
   - **Gelatine**
 

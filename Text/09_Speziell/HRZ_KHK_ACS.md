@@ -582,7 +582,7 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 - **Metalyse®** (TNK-tPA)
 
   - Patient \< 60 kg à 6000 IE
-  - Ab 60 kg 100 IE/kg/KG
+  - Ab 60 kg 100 IE/kg / KG
 
 - Begleittherapie  **\< 75 Jahre**
 
@@ -590,7 +590,7 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 
   - **Clopidogral** 300 mg
 
-  - **Enoxaparin** *30 mg* Bolus *i. v.* **und** *1 mg/kg s.c.* 15 min. später
+  - **Enoxaparin** *30 mg* Bolus *i. v.* **und** *1 mg / kg s.c.* 15 min. später
 
     wenn kein Enoxaparin zur Verfügung steht:
     **Heparin** 60 IU / kg bis max. 4000 IU
@@ -601,7 +601,7 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 
   - **Clopidogral** *75 mg*
 
-  - **Enoxaparin** *0,75 mg/kg* Bolus s.c.
+  - **Enoxaparin** *0,75 mg / kg* Bolus s.c.
 
     wenn kein Enoxaparin zur Verfügung steht:
     **Heparin** 60 IU / kg bis max. 4000 IU
@@ -632,8 +632,8 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
 %         - 300 mg
 %         - **75 mg**
 %     *   - **Enoxaparin**
-%         - **30 mg** Bolus **i. v.** und **1 mg/kg s.c.** 15 min. später
-%         - **0,75 mg/kg** Bolus s.c.
+%         - **30 mg** Bolus **i. v.** und **1 mg / kg s.c.** 15 min. später
+%         - **0,75 mg / kg** Bolus s.c.
 %     *   - Heparin
 %         - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht
 %         - 60 IU / kg bis max. 4000 IU nur wenn kein Enoxaparin zur Verfügung steht

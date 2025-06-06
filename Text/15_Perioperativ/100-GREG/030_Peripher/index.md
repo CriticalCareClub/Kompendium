@@ -494,7 +494,7 @@ Indiziert ist er für Eingriffe am distalen Penis, insbesonders bei Eingriffen a
 2. zweizeitige, laterale Methode
 
 Dosierung
-: Bupivacin 0,1 mg/kg, max. 10 mL
+: Bupivacin 0,1 mg / kg, max. 10 mL
 
 
 :::{figure} Dorsal_penile_nerve_block.jpg

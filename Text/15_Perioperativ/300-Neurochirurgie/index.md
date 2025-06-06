@@ -9,9 +9,9 @@
 - Großlumige Zugänge! (PTZ \>70%, Thrombos\>100000)
 - Kontrollierte Hyperventilation
 - Restriktive Volumengabe, Mannitol bei Bedarf (=  hyperton zur  Ödemtherapie, Hirndrucksenk.)
-- Bei Tumorkraniotomie ev. 20mg Dexamethason und Mannitol vor Duraeröffnung. 
+- Bei Tumorkraniotomie ev. 20 mg Dexamethason und Mannitol vor Duraeröffnung. 
   
-  Zur Behandlung des vasogenen Hirnödems bei Hirntumoren wird 12 -- 16mg Dexamethason/Tag unter Magenschutz gegeben.
+  Zur Behandlung des vasogenen Hirnödems bei Hirntumoren wird 12 -- 16 mg Dexamethason/Tag unter Magenschutz gegeben.
 
 
 
@@ -23,7 +23,7 @@
 - Lagerungsschäden: Kinn-Sternum 2-3cm (sonst Überdehnung des Halsmarks und des Plexus brachialis), Flexion der Hüfte  \<  80°  (Dehnung des N. ischiadikus und verminderter venöser Rückstrom), Nervenläsionen des N. ulnaris und N. peronaeus.
 - Verzögertes Aufwachen bei Pneumocephalus!
 - Postoperativ Normothermie für frühzeitige neurologische Beurteilung. Husten und Pressen vermeiden!
-- Vasogenes Hirnödem bei Tumoren: Dexametason 12-16mg/d + Ulcus Prophylaxe
+- Vasogenes Hirnödem bei Tumoren: Dexametason 12-16 mg/d + Ulcus Prophylaxe
 - Ventrikeldrainage für den Transport schließen.
 
 

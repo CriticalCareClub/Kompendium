@@ -26,14 +26,14 @@ bei Kopfschmerz, Schmerzen des Bewegungsapparats, posttraumatisch oder postopera
 Prostaglandinsynthese: Phospholipide  → Arachidonsäure→ COX1 +  COX2 zu Prostaglandin H2→
 TXA2, Prostacyclin und Prostaglandine.
 
-NSAR: Diclofenac/Voltaren (150-200mg THD), Mefenaminsäure/Parkemed (1500mg THD),
-Dexibuprofen/Seractil (1200mg THD), Lornoxicam/Xefo (16mg THD),... hemmen COX I  und/oder COX II mit verminderter Bildung von Prostaglandinen. (TH-ASS irreversibl mit verminderter Bildung von TXA2 = antiaggregatorisch) COX II-Hemmer (KI bei KHK, cerebrovask. Erkr.):
+NSAR: Diclofenac/Voltaren (150-200 mg THD), Mefenaminsäure/Parkemed (1500 mg THD),
+Dexibuprofen/Seractil (1200 mg THD), Lornoxicam/Xefo (16 mg THD),... hemmen COX I  und/oder COX II mit verminderter Bildung von Prostaglandinen. (TH-ASS irreversibl mit verminderter Bildung von TXA2 = antiaggregatorisch) COX II-Hemmer (KI bei KHK, cerebrovask. Erkr.):
 Celecoxib/Celebrex Nicht saure antipyretische Analgetika: Paracetamol: zentrale Wirkung, serotinerges System
 (5HT3 Rezeptor;  daher nicht mit Zofran geben),    Cannabinoidrezeptor und COX3-Hemmung;
-fiebersenkend aber nicht antiphlogistisch, 3-4g THD, Leberschädigung!
+fiebersenkend aber nicht antiphlogistisch, 3-4 g THD, Leberschädigung!
 Dosisreduktion bei CNI.
 Metamizol/Novalgin: unbekannter Wirkmechanismus, analgetisch, antipyretisch, spasmolytisch,
-Synergismus mit Opioiden, 4-6g THD, NW: Agranulozytose, allergische Rkt., daher KI Leukopenie!!!
+Synergismus mit Opioiden, 4-6 g THD, NW: Agranulozytose, allergische Rkt., daher KI Leukopenie!!!
 
 Auswahlkriterien: Blutungsneigung (Paracetamol, Metamizol, Parecoxib), Hypovolämie oder relevante kardiale Insuffizienz (kein NSAR), CNI (kein NSAR sondern Paracetamol oder Metamizol),
 Herz-OP (kein Dynastat)
@@ -64,13 +64,13 @@ Agonist/Antagonist (Pentazocin) \> Antagonist (Naloxon).
 
 
 Tramadol/Tramal, Adamon retard: schwache µ-Affinität + Metaboliten wirken als Noradrenalin-
-und Serotonin Reuptake-Hemmer. Anwendung bei neuropathischen Schmerzen. Ab Tagesdosis von 600mg keine Wirkungssteigerung mehr zu erwarten = Wechsel auf starkes Opioid.
+und Serotonin Reuptake-Hemmer. Anwendung bei neuropathischen Schmerzen. Ab Tagesdosis von 600 mg keine Wirkungssteigerung mehr zu erwarten = Wechsel auf starkes Opioid.
 Hydromorphon/Hydal: 5 bis 7mal stärker als Morphin; reiner µ-Agonist;
 
 Morphium/ Vendal, Morapid, Mundidol: analgetisch Morphin +Morphin-6-Glukuronid;  Morphin-
 3-Glukuronid antagonistisch und zentral krampflösend. Schlecht lipidlöslich daher bei iv. Gabe 20min bis Wirkungseintritt. Kumulation bei CNI und Leberinsuffizienz (auch bei epiduraler und intrathekaler Gabe)
 Methadon/Heptadon:    Racemat aus L-Methadon (reiner  µ-Agonist) und D-Methadon einem NMDA-Antagonisten = auch bei schwer kontrollierbaren neuropathischen Schmerzen gut wirksam!
-Buprenorphin/Temgesic: 30-40mal stärkere Affinität zu  µ-Rezeptoren als Morphium! (0,3mg Buprenorphin = 10mg Morphium)    Partieller Agonist;  verhindert opioidinduzierte Hyperalgesie;
+Buprenorphin/Temgesic: 30-40mal stärkere Affinität zu  µ-Rezeptoren als Morphium! (0,3 mg Buprenorphin = 10 mg Morphium)    Partieller Agonist;  verhindert opioidinduzierte Hyperalgesie;
 hoher first pass über CYP450, daher subingual,
 i.v., TTS (auch epidural und intrathekal)
 Umrechnung Morphin: Tramal 0,1, Dipi 0,7, Hydal 7, Fentanyl 100,...
@@ -78,10 +78,10 @@ Umrechnung Morphin: Tramal 0,1, Dipi 0,7, Hydal 7, Fentanyl 100,...
 Prüfung: Morphin zu Oxycodon 1:2, Hydromorphon 1:7, Fentanyl 1:100, Sufenta 1:800-1000,
 Remifentanil 1:100, Alfentanil 1:10, Tramal 1:0,5-1 Morphin per os: peridural: intrathekal = 100:10:1 Morphin von iv. auf oral = 1:3
 
-Beispiel: Durogesic TTS 100µg/h = 240mg/Tag = 240mg Morphin p.o./Tag  :3 = 80mg iv Morphin/Tag Beispiel: 600mg Mundidol bei Patient mit Ileus soll auf iv. umgestellt werden. Da von den 600mg wahrscheinlich nicht alles resorbiert wurde wird nicht mit 200mg iv, sondern mit 100mg iv /24 h begonnen. = PCA mit 4mg/h +  Bolus für Schmerzspitzen in der Höhe von 50 bis 100%
-der Stundendosis = 2 -- 4 mg mit 20 min. Sperrzeit.
-Beispiel: PCA mit 3mg/h soll auf TTS umgestellt werden. 3 x 24 = 72mg/24h → x 3 = 216mg/24h TTS →: 24h = 90µg/h →
-Durogesic 75µg/h + z.B. Morapid für Durchbruchschmerzen.
+Beispiel: Durogesic TTS 100 µg/h = 240 mg/Tag = 240 mg Morphin p.o./Tag  :3 = 80 mg iv Morphin/Tag Beispiel: 600 mg Mundidol bei Patient mit Ileus soll auf iv. umgestellt werden. Da von den 600 mg wahrscheinlich nicht alles resorbiert wurde wird nicht mit 200 mg iv, sondern mit 100 mg iv /24 h begonnen. = PCA mit 4 mg/h +  Bolus für Schmerzspitzen in der Höhe von 50 bis 100%
+der Stundendosis = 2 -- 4 mg mit 20 min. Sperrzeit.
+Beispiel: PCA mit 3 mg/h soll auf TTS umgestellt werden. 3 x 24 = 72 mg / 24h → x 3 = 216 mg / 24h TTS →: 24h = 90 µg/h →
+Durogesic 75 µg/h + z.B. Morapid für Durchbruchschmerzen.
 
 Opioid-Umrechnungstabellen erleichtern die Schmerztherapie-Umstellung!
 
@@ -93,7 +93,7 @@ Adjuvantien:
 Co-Analgetika:
 - Antidepressiva bei Tumorschmerzen und neuropathischen Schmerzen: Cymbalta,
 Efectin
-- Antikonvulsiva bei neuropathischen Schmerzen: Neurontin, Lyrica (NW!! Max 600mg/d), bei Trigeminusneuralgie Carbamazepin (Tegretol);  Phantomschmerzen: Calcitonin + Neurontin
+- Antikonvulsiva bei neuropathischen Schmerzen: Neurontin, Lyrica (NW!! Max 600 mg/d), bei Trigeminusneuralgie Carbamazepin (Tegretol);  Phantomschmerzen: Calcitonin + Neurontin
 (off label use)
 - Corticoide: bei Schmerzen durch Schwellung
 - Antiemetika: 5HT3-Rezeptorantagonsiten wie Ondansetron/Zofran (cave: Paracetamol)
@@ -195,7 +195,7 @@ hier sind jedoch die Interneuronen,
 welche eine Verbindung zu schmerzleitenden Aδ und C-Fasern sonst verhindern, durch Zelltod zugrunde gegangen.
 
 Zentrale Hyperalgesie:
-Es kommt zur LTP (Langzeitpotentierung) an den nozizeptiven Synapsen = hohe Rezeptordichte mit verstärker Schmerzempfindung = wind up der AMPA-Rezeptoren (intrazellulärer Natriumanstieg) und NMDA-Rezeptoren (intrazellulärer Calciumanstieg) mit verstärker Depolarisation und Schmerzempfindung. Daher bei langen OP´s: Perfusor mit 2mg/h Ketanest (bei ca. 70kg) für Phantomschmerzprophylaxe bis zu 1  Woche erwägen. Intraopertive Gabe von Ketamin + Lidocain (Bolus vor Schnitt + Perfusoren) erwägen.
+Es kommt zur LTP (Langzeitpotentierung) an den nozizeptiven Synapsen = hohe Rezeptordichte mit verstärker Schmerzempfindung = wind up der AMPA-Rezeptoren (intrazellulärer Natriumanstieg) und NMDA-Rezeptoren (intrazellulärer Calciumanstieg) mit verstärker Depolarisation und Schmerzempfindung. Daher bei langen OP´s: Perfusor mit 2 mg/h Ketanest (bei ca. 70 kg) für Phantomschmerzprophylaxe bis zu 1  Woche erwägen. Intraopertive Gabe von Ketamin + Lidocain (Bolus vor Schnitt + Perfusoren) erwägen.
 
 Schmerzskalen:
 1) VAS: visuelle Analogskala 2) NRS: numerische Schätzskala 3) VRS: verbale Schätzskala (bei Fehlsichtigkeit, Somnolenz: nur Ja/nein, wenig/stark)
@@ -223,12 +223,12 @@ Unerwünschte Opioidwirkung ist Hyperalgesie und Opioidtoleranz, welche mit  α2
 
 
 Fentanyl/Fentamed, Durogesic, Matrifen: 100mal stärker als Morphin;  reiner  µ-Agonist;
-Anschlagzeit iv. 2 Minuten, Wirkdauer 45min; Bsp. Durogesic 75µg/h entspricht ca. 60mg Vendal oder 90mg Dipidolor! Kumulationsgefahr bei kontinuierlicher Gabe! (lange ksHWZ) Stärker atemdepressiv als Sufentanil.
+Anschlagzeit iv. 2 Minuten, Wirkdauer 45min; Bsp. Durogesic 75 µg/h entspricht ca. 60 mg Vendal oder 90 mg Dipidolor! Kumulationsgefahr bei kontinuierlicher Gabe! (lange ksHWZ) Stärker atemdepressiv als Sufentanil.
 
 
 
 
-Remifentanyl /Ultiva 0,1 -- 0,15µg/kg/h 100mal stärker als Morphin, KEINE Kumulation;  kurze Wirkdauer, bereits nach 20 min.
+Remifentanyl /Ultiva 0,1 -- 0,15 µg / kg / h 100mal stärker als Morphin, KEINE Kumulation;  kurze Wirkdauer, bereits nach 20 min.
 Einstülpung der Opioidrezeptoren in die Membran mit verminderter Rezeptordichte. Diese Down-
 Regulation kann durch die vorhergehende Gabe eines Opioidrezeptorblockers verhindert werden,
 da Remifentanyl dann nur die Restrezeptoren besetzen kann. Enthält neurotox. Glycin, daher nicht unter 2a und SS, nie bei SPA/PDA anwenden.
@@ -237,19 +237,19 @@ Eine Hyperalgesie kann duch langsames Ausschleichen über mind. 15 Minuten verhi
 + Ketanest.
 
 Alfentanyl/Rapifen: 10-20mal wie Morphin;  Wirkungseintritt nach 1 Minute, kumuliert weniger als Fentanyl und Sufentanyl.
-Sufentanyl/Sufenta 0,2 -- 1,5µg/kg/h: am häufisten verwendet, 500-1000mal stärker als Morphin,
+Sufentanyl/Sufenta 0,2 -- 1,5 µg / kg / h: am häufisten verwendet, 500-1000mal stärker als Morphin,
 geringer atemdepressiv, stärker sedierend, KEINE Kumulation, Monotherapie oder Kombination mit Dormicum/Clonidin (α-Agonist).
 Piritramid/Dipidolor: 70%  der Wirksamkeit von Morphin, intermittierend oder als PCA;  für kurzzeitige Analgesie.
 Hydromorphon: 7,5mal stärker als Morphin, keine aktiven Metaboliten, Bolus, PCA und kontinuierlich möglich.
 Ketamin: bindet an NMDA und Opioidrezeptoren;  psychomimetische NW, sympathomimetische Potenz, bronchodilatorisch, opioidsparend, va. bei Opioidobstipation, Bronchospasmus,...
-Dosis 0,5-1mg/kg/h Clonidin: dämpft die postoperative Stressantwort, sympatholytisch, anxiolytisch, sedierend,
+Dosis 0,5-1 mg / kg / h Clonidin: dämpft die postoperative Stressantwort, sympatholytisch, anxiolytisch, sedierend,
 opioidsparend. NW: Bradykardie, Hypotonie, Polyurie, Obstipation.
-Dexmedetomidin/Dexdor: Dosis 0,2-1,4µg/kg/h, bei Delir;  NW: Verlängert Refraktärzeit am AV-
+Dexmedetomidin/Dexdor: Dosis 0,2-1,4 µg / kg / h, bei Delir;  NW: Verlängert Refraktärzeit am AV-
 Knoten mit Bradykardie, Hypotonie, Polyurie und Obstipation.
 = Psycholeptikum Propofol: gute Steuerbarkeit, antiemetisch, Metabolisierung  über die Leber, 90%  renale Ausscheidung, 2% zur Reduzierung der Fettbelastung. (siehe Propofolinfusionssyndrom)
 Midazolam/Dormicum: kurzwirkames Benzodiazepin, EliminationsHWZ 1-3h,
 Ceiling Effekt,
-Dosis 0,05-0,1mg/kg/h
+Dosis 0,05-0,1 mg / kg / h
 
 Sedierungsmonitoring alle 8h:
 1) RASS (Richmond agitation sedation score): Ziel vorgeben z.B. sedierter Pat. 0 bis  -2 oder Hirndrucktherapie -5; -5 ist nicht weckbar 0 ruhig und wach

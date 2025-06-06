@@ -278,7 +278,7 @@ EKG: hohe spitze T-Welle, QRS-Verbreiterung, AV-Block, Verlust der P-Welle.
 
 Therapie:
 - Diurese steigern (Schleifendiuretika)
-- Glucose-Insulin-Gabe (10 IE Altinsulin in 100ml 20% Glucose)
+- Glucose-Insulin-Gabe (10 IE Altinsulin in 100 ml 20% Glucose)
 - Kalziumgluconat 10%
 - NaBIC
 - Kationentauscher p.o./Einlauf (Resonium)
@@ -322,7 +322,7 @@ Hypernatriämie
 Verlust an freiem Wasser größer als Zufuhr, exzessive Wasserdiurese, Diabetes insipidus, polyurisches Nierenversagen, ausgeprägte Perspiratio insensibilis, nach Verbrennungen, Gabe von natriumhaltigen Medikamenten (Penicillin, NaBIC)
 Klinik:
 Unruhe, Schwäche, Verwirrtheit, trockene SH mit Durstgefühl, Therapie:
-Perfusoren mit Aqua, 2,5%  Glucose (500ml Glucose 5% + 500ml Aqua) auf 50-100ml/h bis 200ml/h titrieren;
+Perfusoren mit Aqua, 2,5%  Glucose (500 ml Glucose 5% + 500 ml Aqua) auf 50-100 ml/h bis 200 ml/h titrieren;
 Diabetes insipidus
 =  verminderte ADH-Sekretion mit Polyurie und Hypernatriämie;  Harnnatrium vermindert, Harnosmolariät niedrig, Serumoslolarität hoch!
 Ursache: SHT, SAB, Postoperativ Therapie: Minirin ½ Amp. iv. , Flüssigkeitssubstitution

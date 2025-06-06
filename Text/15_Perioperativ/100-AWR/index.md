@@ -32,7 +32,7 @@ Vigilanz: abhängig von vorbestehender Beeinträchtigung (Demenz,..), Medikament
 ZAS zentrales anticholinerges Syndrom:
 Dämpfung/Agetiertheit, Desorientierung, Schläfrigkeit, Ataxie, Halluzinationen, Unruhe, Mydriasis, tockene Haut und trockener Mund!
 Differential Diagnose:  Überhang Opiate, Benzodiazepine, Muskelrelaxantien, volle Blase, neurologische Komplikationen.
-Therapie: Phyiostigmin (Anticholium) 2mg ad KI   CAVE: KI bei Glaukom! Bei zu rascher Infektion Brady/Tachykardie, Bronchospasmus, Krämpfe.
+Therapie: Phyiostigmin (Anticholium) 2 mg ad KI   CAVE: KI bei Glaukom! Bei zu rascher Infektion Brady/Tachykardie, Bronchospasmus, Krämpfe.
 
 
 
@@ -41,7 +41,7 @@ Wichtiges im Aufwachraum:
 - Respiratorische Insuffizienz: ev. NIV;  Urs?  PE, Lungenödem, Muskelrelaxanzüberhang, Opiatüberhang, Bronchospasmus, Verlegung der Atemwege (Schwellung?  Blutung?), PE?, Pneumothorax? Atelektasen? Erguss? Vorbestehende Erkrankung: COPD, Lungenfibrose,...
 - Schmerztherapie: zentrale Aufgabe im Aufwachraum; VAS \<5 Handlungsbedarf. Opiate, NSAR
 + RA + Lagerung/Kryotherapie (multimodales Schmerzkonzept)
-- PONV: vermehrt bei Frauen, Raucher, Reisekrankheit, Volatile A., Opioide, intraoperativer Kreislaufinstabilität. RA + TIVA!! Dexamethason 4mg iv. am Beginn der OP (2h bis Wirkungseintritt), 5 HT3-Antagonisten: Zofran (QT-Verlängerung, Interaktion mit Paracetamol, Tramadol) + Metoclopramid, DHB, Propofol
+- PONV: vermehrt bei Frauen, Raucher, Reisekrankheit, Volatile A., Opioide, intraoperativer Kreislaufinstabilität. RA + TIVA!! Dexamethason 4 mg iv. am Beginn der OP (2h bis Wirkungseintritt), 5 HT3-Antagonisten: Zofran (QT-Verlängerung, Interaktion mit Paracetamol, Tramadol) + Metoclopramid, DHB, Propofol
 - Nachblutung: Hals (Struma, Carotis, HWS), UE (Kompartment), Intraabdominell (bei PDA schmerzfrei!!!), Bülaudrainagen;  diffuse = eher Gerinnungsproblem (ROTEM, selektive Substitution), lokal = chirurgisches Problem.
-- Shivering = unwillkürliches Muskelzittern als Gegenregulation bei Temperaturabfall (gegenüber dem Sollwert) mit erhöhtem Energie und Sauerstoffverbrauch. Therapie: Wärme bzw. Wärmeverlust bei OP vermeiden, Clonidin 75-150µg iv.  , ev. Pethidin, Nalbuphin, Tramadol.
+- Shivering = unwillkürliches Muskelzittern als Gegenregulation bei Temperaturabfall (gegenüber dem Sollwert) mit erhöhtem Energie und Sauerstoffverbrauch. Therapie: Wärme bzw. Wärmeverlust bei OP vermeiden, Clonidin 75-150 µg iv.  , ev. Pethidin, Nalbuphin, Tramadol.
 - Nierenfunktion? Harnmenge ev. Einmalkatheter bei SPA

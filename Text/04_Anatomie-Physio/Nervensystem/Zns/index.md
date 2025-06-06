@@ -61,7 +61,7 @@ Das ZNS ist im Wesentlichen für *Steuer-, Regel- und Denkfunktionen* zuständig
   - Hirnnerven
 :::
 
-Das Gehirn ist ca. 1,3 kg schwer (1,1 bis 1,6 kg), wobei es hier geschlechtsspezifische Unterschiede gibt: Mann 20g/kgKG, Frau 22g/kgKG.
+Das Gehirn ist ca. 1,3 kg schwer (1,1 bis 1,6 kg), wobei es hier geschlechtsspezifische Unterschiede gibt: Mann 20g / kgKG, Frau 22g / kgKG.
 Es werden mehrere Teile unterschieden - Großhirn, Zwischenhirn, Mittelhirn, Pons, Kleinhirn und verlängertes Mark.
 
 :::{figure} /Bilder/CC-BY/Human_skull_side_simplified_hirngesicht_de-edited.\*
@@ -376,7 +376,7 @@ Sinus:
 ## Liquorsystem
 
 Liquor ist funktionell sehr wichtig für unser Zentralnervensystem.
-Innerhalb der*inneren und äußeren Liquorräume* befindet sich insgesamt 130 bis 150 ml Liquor. Der Liquor fließt einerseits im Subarachnoidealraum (äußere Liquorräume) und andererseits in den Innenräumen des Gehirns (Ventrikelsystem, innere Liquorräume).
+Innerhalb der*inneren und äußeren Liquorräume* befindet sich insgesamt 130 bis 150 ml Liquor. Der Liquor fließt einerseits im Subarachnoidealraum (äußere Liquorräume) und andererseits in den Innenräumen des Gehirns (Ventrikelsystem, innere Liquorräume).
 
 Liquor dient zum Schutz des Gehirns (*Stoßdämpfer*) und verringert auch das tatsächliche Gewicht des Gehirns um *ca. 90%*.
 
@@ -395,7 +395,7 @@ Die Verbindungen zwischen den Ventrikel sind:
 - Aquaeductus cerebri: zwischen III und IV
 - Aperturae: IV zu Subarachnoidalraum
 
-Es wird ca. 30 ml Liquor pro Stunde in den Plexus choroideus gebildet, im Bereich des Sinus sagittalis superior gibt es Arachnoidalzotten zum Liquorabfluss bzw. im Bereich der Spinalnerven das Venengeflecht des Rückenmarks. Die Bildung des Liquors erfolgt im Plexus choroideus in den Ventrikeln, der Abbau (Abbgabe an das venöse System) über die Granulationes arachnoidales.
+Es wird ca. 30 ml Liquor pro Stunde in den Plexus choroideus gebildet, im Bereich des Sinus sagittalis superior gibt es Arachnoidalzotten zum Liquorabfluss bzw. im Bereich der Spinalnerven das Venengeflecht des Rückenmarks. Die Bildung des Liquors erfolgt im Plexus choroideus in den Ventrikeln, der Abbau (Abbgabe an das venöse System) über die Granulationes arachnoidales.
 
 ## Funktionelle Systeme
 

@@ -62,7 +62,7 @@ Während das Spray tiefer in den Rachenraum eingeführt wird, wird der Patient a
 Dies kann mit abschwellen Mitteln kombiniert werden.
 Die Verwendung einer Kokain-Lösung ist ebenso üblich.
 
-Es kann auch eine **translaryngeale Anästhesie** erfolgen, Dabei wird unter sterilen Vorsichtsmaßnahmen 2 ml 2 %iges Lidocain mit Adrenalin-Zusatz durch die Haut und die Cricothyreoidea-Membran in das Lumen des Kehlkopfes verabreicht.
+Es kann auch eine **translaryngeale Anästhesie** erfolgen, Dabei wird unter sterilen Vorsichtsmaßnahmen 2 ml 2 %iges Lidocain mit Adrenalin-Zusatz durch die Haut und die Cricothyreoidea-Membran in das Lumen des Kehlkopfes verabreicht.
 Während der Patient hustet, wird das Anästhetikum vernebelt und der Bereich von der Carina bis zur Epiglottis lokal besprüht. {term}`🗎 Chauhan 2016`
 
 Mittels unterschiedlich großer {ref}`Nasopharyngeal-Tuben (Wendl-Tuben) <wendl-tubus>` kann das Nasenloch schrittweise dilatiert werden

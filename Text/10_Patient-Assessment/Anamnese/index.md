@@ -282,10 +282,10 @@ Wir berichten über den Aufenthalt unseres Patienten Herrn Peter ZAPFL, geb. am 
 
 > | Präparat          |     | Dosierung   |
 > | ----------------- | --- | ----------- |
-> | Renitec 10 mg     |     | 1-1-1       |
-> | Diabetex 850 mg   |     | 1-1-1       |
+> | Renitec 10 mg     |     | 1-1-1       |
+> | Diabetex 850 mg   |     | 1-1-1       |
 > | Diab Diät 12 BE   |     | 2-1-4-2-2-1 |
-> | Thromboass 100 mg |     | 1-0-0       |
+> | Thromboass 100 mg |     | 1-0-0       |
 
 Die nunmehrige Aufnahme erfolgte mit dem ASB, der wegen zunehmender Verschlechterung des AZ des Patienten vom Wohnungsnachbarn berufen wurde.
 
@@ -375,9 +375,9 @@ Die nunmehrige Aufnahme erfolgte mit dem ASB, der wegen zunehmender Verschlechte
 
 > ```{eval-rst}
 > +------------------------------------+----+-----------------+
-> | Renistad Tab. 5,0 mg               |    | 1-1-1           |
+> | Renistad Tab. 5,0 mg               |    | 1-1-1           |
 > +------------------------------------+----+-----------------+
-> | Glucophage 850 mg Tab              |    | 1-1-1           |
+> | Glucophage 850 mg Tab              |    | 1-1-1           |
 > +------------------------------------+----+-----------------+
 > | Diab. Diät 12 BE                   |    | (2-1-4-2-2-1)   |
 > +------------------------------------+----+-----------------+

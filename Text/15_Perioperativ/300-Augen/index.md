@@ -55,4 +55,4 @@ Allgm. Kompl: Orbitale Blutung, Nervenverletzung, Glaskörpereinblutung, Bindeha
   Phenylephrin Augentropfen für Mydriase bei Kindern: kann hypertensive Krise mit Lungenödem auslösen.
 
 Atropin Augentropfen
-: Parasympatholyticum, Mydriasis, Hemmt Azetylcholin über muskarinartigen Rezeptor, toxisch 70µg/kg NW: Tachykardie, Vermindert Sekretion: Schweiß, Speichel, Bronchien und Magen, Verminderte Darmmotilität, ZNS: Verwirrung, Halluzinationen, Ataxien Antidot: Anticholium (Physiostigmin)
+: Parasympatholyticum, Mydriasis, Hemmt Azetylcholin über muskarinartigen Rezeptor, toxisch 70 µg / kg NW: Tachykardie, Vermindert Sekretion: Schweiß, Speichel, Bronchien und Magen, Verminderte Darmmotilität, ZNS: Verwirrung, Halluzinationen, Ataxien Antidot: Anticholium (Physiostigmin)

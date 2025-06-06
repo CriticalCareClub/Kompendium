@@ -44,7 +44,7 @@ LUFU: Obstruktion mit ausgeprägter Reversibilität im Spasmolysetest
 
 Therapie:
 - Allergenkarenz,
-- inhalative Steroide (1mg/d inhal. = 10mg/d oral),
+- inhalative Steroide (1 mg/d inhal. = 10 mg/d oral),
 - Betasympathomimetika inhalativ,
 - Theophyllin oral oder iv.
 

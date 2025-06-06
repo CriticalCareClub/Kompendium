@@ -45,28 +45,28 @@ Kontraindikation(en)
   - **70 kg**
   - **100 kg**
 * - **Einleitung**
-  - 2--5 mg / kg
+  - 2--5 mg / kg
   -
   -
   -
 * - **Erwachsene**
-  - 2--3 mg / kg
+  - 2--3 mg / kg
   -
-  - 140--210 mg
-  - 200--300 mg
+  - 140--210 mg
+  - 200--300 mg
 * - **Ältere**
-  - 1--1,5 mg / kg
+  - 1--1,5 mg / kg
   -
-  - 70--105 mg
-  - 100--150 mg
+  - 70--105 mg
+  - 100--150 mg
 * - **TIVA**
-  - Beginn 12 mg / kg / h
-    danach 6--10 mg / kg / h
+  - Beginn 12 mg / kg / h
+    danach 6--10 mg / kg / h
   -
   -
   -
 * - **Sedierung**
-  - 1--4 mg / kg / h
+  - 1--4 mg / kg / h
   -
   -
   -
@@ -104,18 +104,18 @@ Kontraindikationen: Schwangerschaft, Stillzeit, Kinder.
 
 Stark lipophil, nicht wasserlöslich in Emulsion aus Sojabohnenöl (Sojaallergie!!), Lecithin, Glycerin und Eiphosphatid (Eiallergie?);  Um Bakterienwachstum zu verhindern ist EDTA oder Sulfit zugesetzt, welche Allergien und Bronchospasmus auslösen können.
 
-Injektionsschmerz: 20ml Lidocain zu 20ml Propofol, Fentanyl Vorgabe.
-Dosis: Kinder 3-5mg/kg KG, Erwachsene 1-2,5mg/kg KG, Geriatrische Patienten 1-1,75mg/kg KG langsam injizieren!
+Injektionsschmerz: 20 ml Lidocain zu 20 ml Propofol, Fentanyl Vorgabe.
+Dosis: Kinder 3-5 mg / kg KG, Erwachsene 1-2,5 mg / kg KG, Geriatrische Patienten 1-1,75 mg / kg KG langsam injizieren!
 
 TIVA
-: 3-9mg/kg/h Sedierung: 1,5-4,5mg/kg/h Antiemetisch: 10-20mg Bolus alle 5-10 Minuten, 0,6mg/kg/h
+: 3-9 mg / kg / h Sedierung: 1,5-4,5 mg / kg / h Antiemetisch: 10-20 mg Bolus alle 5-10 Minuten, 0,6 mg / kg / h
 
 Nebenwirkung
 : Abnahme von MAP, CO, SVR (Vasodilatation, vermind. SVR, neg. inotrop, vermindert Barorezeptorenreflex), HF unverändert oder Bradykardie bis AV-Block sind möglich.
 
   Apnoe (\>60sec) nach AN-Einleitung durch Verminderten Atemantrieb auf Hypoxie und CO2, setzt die Reaktivität der Atemwege (Husten, Glottisschluss) herab.
 
-  Propofolinfusionssyndrom siehe KINDER! (\> 48h Sed mit \>5mg/kg/h + \> 5h Narkose)
+  Propofolinfusionssyndrom siehe KINDER! (\> 48h Sed mit \>5 mg / kg / h + \> 5h Narkose)
 
   Es wirkt antiemetisch, daher Einsatz bei PONV.
 
@@ -126,10 +126,10 @@ Elimination
 
 
 TIVA mit Propofol
-: Zielplasmakonzentration =  durchschnittlich 3µg/ml 1)
+: Zielplasmakonzentration =  durchschnittlich 3 µg / ml 1)
 
 Manuelles Propofol-Infusions-Regime
-: Bolus 1mg/kg + 10-8-6 (für 10 Minuten 10mg/kg, für weiter 10 Minuten 8mg/kg, danach 6mg/kg/h; nicht ideal Zielplasmakonzentration wird erst nach ca. 30 Minuten erreicht.
+: Bolus 1 mg / kg + 10-8-6 (für 10 Minuten 10 mg / kg, für weiter 10 Minuten 8 mg / kg, danach 6 mg / kg / h; nicht ideal Zielplasmakonzentration wird erst nach ca. 30 Minuten erreicht.
 
 (Prämedizierte Patienten und Ältere brauchen weniger)
 1) TCI (Target Controlled Infusion): Steuerung nach Größe, Gewicht und Alter anhand von Modellen (Marsh Plasma Modus, Schnider Wirkort Modus)
@@ -147,7 +147,7 @@ Narkosetiefe Unzuverlässige Zeichen: Blutdruck und HF, Somatische Zeichen (Trä
 
 Ursache: Störung der Fettsäureoxydation durch Entkoppelung der Atmungskette mit mangelnder Bereitstellung von ATP, mit Zelluntergang bei erhöhtem Energiebedarf = Muskelzellnekrosen mit Laktatazidose. Letalität bis 85%
 
-Risikofaktoren: Hochdosierte (\>  5mg/kg/h) Langzeitsedierung (\>48h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
+Risikofaktoren: Hochdosierte (\>  5 mg / kg / h) Langzeitsedierung (\>48h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
 
 
 Klinik:
@@ -172,17 +172,17 @@ Therapie:
 
 Prävention:
 - Keine Langzeitsedierung Schwerkranker  über 48h mit Propofol in höherer Dosis (\>4-
-6mg/kg/h)
-- Maximal 7 Tage Langzeitsedierung für alle Patienten mit max. 4mg/kg/h
+6 mg / kg / h)
+- Maximal 7 Tage Langzeitsedierung für alle Patienten mit max. 4 mg / kg / h
 - Keine Langzeitsedierung von Kindern unter 17 Jahren.
 - Regelmäßige Laborkontrollen
 - Ev. Präventive Gabe von Glukose
 
-Propofol: In Eiphospatid und Sojaöl gelöst! (Fettzufuhr: 1ml 1% = 0,1g Fett!) Stimuliert GABA-
+Propofol: In Eiphospatid und Sojaöl gelöst! (Fettzufuhr: 1 ml 1% = 0,1 g Fett!) Stimuliert GABA-
 Rezeptor und damit Freisetzung von Glutamat, sowie den Natriumkanal-abhängigen Natriumeinstrom in die Zelle. Wird in der Leber konjungiert und zu 88%  über die Niere ausgeschieden. Ausgeprägter Firstpass-Effekt in der Lunge. Wirkdauer 4-6min, HWZ 55min (2%
-länger! Größeres Verteilungsvolumen), Bronchodilatatorisch ab 2,5mg/kg, Antiemetisch
+länger! Größeres Verteilungsvolumen), Bronchodilatatorisch ab 2,5 mg / kg, Antiemetisch
 (unspezifische Wirkung auf 5HT3-Rezeptor und verminderte Serotoninfreisetzung im ZNS)
-Narkoseinduktion: Erw. 1,5-2,5mg/kg, Kind \< 8Lj 2,5-4mg/kg, Kind \> 8Lj 2,5mg/kg NW: Atemdepressiv, Hypotonie durch Vasodilatation, Injektionschmerz (+Lidocain bei Kindern 1:10), Myoklonien, EEG-Veränderungen, Leberverfettung, Pankreatitis.
+Narkoseinduktion: Erw. 1,5-2,5 mg / kg, Kind \< 8Lj 2,5-4 mg / kg, Kind \> 8Lj 2,5 mg / kg NW: Atemdepressiv, Hypotonie durch Vasodilatation, Injektionschmerz (+Lidocain bei Kindern 1:10), Myoklonien, EEG-Veränderungen, Leberverfettung, Pankreatitis.
 CAVE:
 Fettstoffwechselstörungen!
 

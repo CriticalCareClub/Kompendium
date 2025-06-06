@@ -17,7 +17,7 @@ Harnverhalt
 Empfohlen wird: PDA (weniger Infektionen durch antiinflammatorische Wirkung der RA) + milde Hyperkapnie (respir.
 Azidose mit Rechtsverschiebung verbessert die Gewebeoxygenierung!)
 Erweitertes Monitoring bei Risikopatienen: Frühzeitige Einsatz von Vasopressoren und Inotropika!
-Relaxierung immer mit TOF! Extubation TOF \>0,9 Notfallantagonisierung (Cannot intubat  --  cannot ventilate, Risikopat): 2-4-16 mg/kg Sugammadex/Bridion
+Relaxierung immer mit TOF! Extubation TOF \>0,9 Notfallantagonisierung (Cannot intubat  --  cannot ventilate, Risikopat): 2-4-16 mg / kg Sugammadex/Bridion
 
 Perioperativer Flüssigkeitsbedarf Ziel = Normovolämie für hämodynamische Stabilität, optimale Mikrozirkulation und Organfunktion.
 Präoperative Defizite ausgleichen (präoperative Hypovolämie vermeiden) + intraoperative Verluste (Blutung,...) + postoperativ weitere Verluste durch capillary leak/Dekompensation zu erwarten?

@@ -27,8 +27,8 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
   - Vasokonstriktor
   - Schockbarer Rhythmus  
     Nicht-schockbarer Rhythmus
-  - Suprarenin™ (1:1.000, 1 mg = 1 mL)  
-    L-Adrenalin (1:10.000; 1 mg = 10 mL)
+  - Suprarenin™ (1:1.000, 1 mg = 1 ml)  
+    L-Adrenalin (1:10.000; 1 mg = 10 ml)
 * - Amiodaron
   - Antiarrhythmikum Kl. III
   - Schockbarer Rhythmus
@@ -36,7 +36,7 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
 * - Atropin
   - Antiparasympathomimetikum
   - Seit 2010 kein Standardmedikament
-  - Atropinum sulfuricum (0,5 mg / mL)
+  - Atropinum sulfuricum (0,5 mg / mL)
 :::
 
 
@@ -50,14 +50,14 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
   - Schockbarer Rhythmus
   - Nicht-schockbarer Rhythmus
 * - Adrenalin
-  - 1 mg i.v.  
+  - 1 mg i.v.  
     Erstmals nach dem 3. Schock  
     Wiederholen nach jedem ungeraden Schock
-  - 1 mg i.v. sobald venöser Zugang etabliert ist  
+  - 1 mg i.v. sobald venöser Zugang etabliert ist  
     Wiederholen alle 3–5 min (4 min)
 * - Amiodaron
-  - 300 mg i.v. einmalig nach dem 3. Schock  
-    Evtl. einmalig 150 mg i.v. repetitieren
+  - 300 mg i.v. einmalig nach dem 3. Schock  
+    Evtl. einmalig 150 mg i.v. repetitieren
   - Nicht indiziert
 :::
 

@@ -768,7 +768,7 @@ Kritisch, kein AV-Block 3°
   - Wenn nicht erfolgreich, weiter bei "Risiko Asystolie"
 
 Risiko Asystolie
-: - wenn kein AV-Block 3°: Atropin 0,5 mg i.v. Bolus bis max. 3 mg
+: - wenn kein AV-Block 3°: Atropin 0,5 mg i.v. Bolus bis max. 3 mg
   - Isoprenalin 0,005 mg / min i.v.
   - {ref}`Adrenalin <Adrenalin>` 0,002—0,010 mg / min i.v.,
     ggfs. Bolus-Gabe 0,010 mg i.v. ("Supra-Blitz")
@@ -800,16 +800,16 @@ Therapie: Elektrisch (Kardioversion, SM) oder medikamentös (Antiarrhythmika, Be
 
 
 Instabiler Patient:
-- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300mg Amiodaron über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900mg  über 24h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
+- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300 mg Amiodaron über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900 mg  über 24h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
 
 
 Stabiler Patient:
 - ohne bedrohliche Symptome oder Verschlechterung: 12 Kanal EKG Analyse ob Schmal oder Breitkomplextachykardie (QRS\>120ms).
-- VT oder SVT mit Schenkelblock = regelmäßige Breitkomplextachykardie. Th: Sedacoron 300mg loading dose + 900mg über 24h
+- VT oder SVT mit Schenkelblock = regelmäßige Breitkomplextachykardie. Th: Sedacoron 300 mg loading dose + 900 mg über 24h
 - VHF mit Schenkelblock oder WPW-Syndrom = unregelmäßige BKT. Th: Kardioversion, Sedacoron. Bei WPW-Syndrom KEIN Adenosin, Diltiazem, Verapamil, Digoxin da diese den AV-Knoten blockieren und das Syndrom nur verstärken.
-- polymorphe VT (Torsades de pointes) = unregelmäßige BKT. Th: Alle QT-verlängerten Medikamente absetzten, Elektrolytstörungen korregieren, 2g Magnesium iv.
-- AV-Knoten-Reentry-Tachykardie = regelmäßige Schmalkomplextachykardie, häufigster Typ der SVT. Th: Karotis-Sinus-Massage, Valsalva-Manöver,    6mg Adenosin-Bolus (12/12), Kardioversion, Diltiazem/Verapamil (wirken länger am AV-Knoten)
-- WPW mit artioventrikulärer Reentrytachykardie = regelmäßige SKT. Th: Karotis-Sinus-Massage, Valsalva-Manöver, 6mg Adenosin-Bolus (12/12), Kardioversion.
+- polymorphe VT (Torsades de pointes) = unregelmäßige BKT. Th: Alle QT-verlängerten Medikamente absetzten, Elektrolytstörungen korregieren, 2 g Magnesium iv.
+- AV-Knoten-Reentry-Tachykardie = regelmäßige Schmalkomplextachykardie, häufigster Typ der SVT. Th: Karotis-Sinus-Massage, Valsalva-Manöver,    6 mg Adenosin-Bolus (12/12), Kardioversion, Diltiazem/Verapamil (wirken länger am AV-Knoten)
+- WPW mit artioventrikulärer Reentrytachykardie = regelmäßige SKT. Th: Karotis-Sinus-Massage, Valsalva-Manöver, 6 mg Adenosin-Bolus (12/12), Kardioversion.
 - Vorhofflattern mit 2:1 Block = regelmäßige SKT mit typischerweise HF 150/min. Th:
 Sedacoron + Kardioversion bei bedrohlichen Symptomen, ansonsten medikamentöse Frequenzkontrolle (Betablocker, Diltiazem) und Herzrhythmuskontrolle (Sedacoron, Lanitop, Digoxin), ev. Kardioversion und vorallem Antikoagulation (OAK), wenn das VHF bereits länger als 48h besteht (Thrombus Herzohr! Keine Kardioversion vor Antikoagulation)
 
@@ -828,7 +828,7 @@ Amiodaron
 Erregungsbildung/leitung am Herzen: Depolarisation (schneller Natriumeinstrom, QR), frühe Repolarisation (Kaliumausstrom, RS), Plateauphase (langsamer Calciumeinstrom, ST), terminale Repolarisation (Kaliumausstrom T-Welle), diastolisches Ruhepotential (P) Am AV-Knoten wirken: Calciumkanalblocker, Adenosin, Digoxin!
 An den Akzessorischen Bahnen: Phytoin Am Ventrikel: Lidocain
 
-Adenosin: verlangsamt die  Überleitung am AV-Knoten, hat aber wenig Effekt auf anderen myokardialen Zellen und Erregungsleitungsbahnen.    HWZ 10-15 sec! Bolus zu rasch laufender Infusion. Dosis: 6 -- 12 -- 12mg. NW der Gabe: Übelkeit, Hitzegefühl, Thoraxschmerz. KI bei WPW (induziert VHF mit gefährlich schneller Ventrikelüberleitung mit VT/VF)
+Adenosin: verlangsamt die  Überleitung am AV-Knoten, hat aber wenig Effekt auf anderen myokardialen Zellen und Erregungsleitungsbahnen.    HWZ 10-15 sec! Bolus zu rasch laufender Infusion. Dosis: 6 -- 12 -- 12 mg. NW der Gabe: Übelkeit, Hitzegefühl, Thoraxschmerz. KI bei WPW (induziert VHF mit gefährlich schneller Ventrikelüberleitung mit VT/VF)
 
 
 
@@ -838,11 +838,11 @@ Amiodaron: wirkt an den Na, K und Ca-Kanälen und hat ebenso  α  und  β-blocki
 Thrombophlebitis (wenn möglich ZVK!)
 
 
-Kalziumantagonisten (Verapamil, Diltiazem): Kalziumkanalblocker verlängern die Überleitung am AV-Knoten und die Refraktärzeit. KI bei WPW und VT (Kreislaufversagen)! Verapamil 2,5-5mg, 5-
-10mg bis max. 20mg; Diltiazem 250µg/kg.
+Kalziumantagonisten (Verapamil, Diltiazem): Kalziumkanalblocker verlängern die Überleitung am AV-Knoten und die Refraktärzeit. KI bei WPW und VT (Kreislaufversagen)! Verapamil 2,5-5 mg, 5-
+10 mg bis max. 20 mg; Diltiazem 250 µg / kg.
 
 
-Betablocker: z.B. Atenolol, Metoprolol, Labetalol (α+β), Propranolol, Esmolol, verringern den Effekt von zirkulierenden Katecholaminen und senken die HF und RR, kardioprotektiv bei KHK; KI bei AV-Block II und III, Hypotonie, schwere kongestive Herzinsuffizienz, Ashma, bronchospastische Lungenerkrankungen. Z.B. Brevibloc Perfusor, Initial 500µg/kg langsam iv., Beloc p.o.
+Betablocker: z.B. Atenolol, Metoprolol, Labetalol (α+β), Propranolol, Esmolol, verringern den Effekt von zirkulierenden Katecholaminen und senken die HF und RR, kardioprotektiv bei KHK; KI bei AV-Block II und III, Hypotonie, schwere kongestive Herzinsuffizienz, Ashma, bronchospastische Lungenerkrankungen. Z.B. Brevibloc Perfusor, Initial 500 µg / kg langsam iv., Beloc p.o.
 
 
 Brugada-Syndrom:
@@ -851,7 +851,7 @@ EKG: RSB, ST-Hebung in V1/2
 
 Long QT-Syndrom:
 Mit  „Torsades de pointes"  oft als Medikamentennebenwirkung (Neuroleptika, Erythromycin,...) oder bei Hypocalciämie.
-Therapie: Absetzen aller QT-verlängernden Medikamente, 2g Magnesium und hochdosiert Betablocker
+Therapie: Absetzen aller QT-verlängernden Medikamente, 2 g Magnesium und hochdosiert Betablocker
 
 VES: Therapie bei Salven, polymorphen VES mit Rhythmonorma, Sedacoron, Mg.
 SVES: Therapie nur wenn symptomatisch mit Digitalis, Rhythmonorma.
@@ -867,9 +867,9 @@ Dazu gehören:
 -                    zum Ausfall. Meist asymptomatisch
 -               II°  Mobitz    mit 1:1, 2:1, 3:1, 4:1  Überleitung, symptomatisch, kann sich zu kompletten AV-Block III° entwickeln
 -             III° Komplette AV-Knoten Blockade mit Kammerersatzrhythmus Therapie:
-1) 0,5mg Atropin iv., wenn nötig alle 3 -- 5 Minuten bis zu einer Gesamtdosis von 3mg.
-2 Wahl sind: Isoprenalin (5µg/min Startdosis), Adrenalin (2-10µg/min), Dopamin (2-
-10µg/min). Theophyllin (100-200mg langsam iv.) kann bei Vorderwandinfarkten, nach HTX oder bei spinalen Schädigungen zur Anwendung kommen.
+1) 0,5 mg Atropin iv., wenn nötig alle 3 -- 5 Minuten bis zu einer Gesamtdosis von 3 mg.
+2 Wahl sind: Isoprenalin (5 µg/min Startdosis), Adrenalin (2-10 µg/min), Dopamin (2-
+10 µg/min). Theophyllin (100-200 mg langsam iv.) kann bei Vorderwandinfarkten, nach HTX oder bei spinalen Schädigungen zur Anwendung kommen.
 2) Perkutaner SM unter Sedierung und Analgesie (kann schmerzhaft sein!)
 
 

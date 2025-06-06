@@ -99,7 +99,7 @@ Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
 
   In akuten Fällen i. v.: (anfänglich 500 mg i.v.; die Behandlung wird mit Tabletten fortgesetzt, siehe oben).
 
-  Dosen zwischen 125 mg (½ Tablette Diamox 250 mg täglich) und 750 mg täglich, die in 2 Einzeldosen aufgeteilt werden, können für eine Langzeitbehandlung verwendet werden. Sowohl bei der kurzfristigen als auch bei der langfristigen Behandlung sollte die Dosis für jeden Patienten individuell festgelegt und durch regelmäßige Überwachung des Augeninnendrucks überprüft werden.
+  Dosen zwischen 125 mg (½ Tablette Diamox 250 mg täglich) und 750 mg täglich, die in 2 Einzeldosen aufgeteilt werden, können für eine Langzeitbehandlung verwendet werden. Sowohl bei der kurzfristigen als auch bei der langfristigen Behandlung sollte die Dosis für jeden Patienten individuell festgelegt und durch regelmäßige Überwachung des Augeninnendrucks überprüft werden.
 
 - **Ödem:** 1 Tablette täglich morgens für die ersten 2-3 Tage. Als Erhaltungsdosis wird in jedem Fall nach 2 Tagen Behandlung mit 250-375 mg täglich (1-11⁄2 Tabletten Diamox 250 mg) eine eintägige Pause empfohlen. Alternativ kann Diamox auch jeden zweiten Tag verabreicht werden. Eine Erhöhung der Dosis führt nicht zu einer Steigerung der Urinausscheidung. In behandlungsresistenten Fällen wird Diamox abwechselnd mit Saluretika verabreicht. Diamox kann die Wirkung von Saluretika erhöhen. Es ist möglicherweise erforderlich, zusätzlich Herzglykoside zu verabreichen.
 

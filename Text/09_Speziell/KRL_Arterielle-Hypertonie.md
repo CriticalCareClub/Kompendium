@@ -302,6 +302,6 @@ Taktik
 
 ### 🕏 Pharmakotherapie
 
-- Urapidil (Ebrantil™): 10mg i.v. unter ständiger Blutdruckkontrolle, Repition nach Blutdruck
+- Urapidil (Ebrantil™): 10 mg i.v. unter ständiger Blutdruckkontrolle, Repition nach Blutdruck
 - Clonidin (Monitoring!)
 - Anpassung der Dauermedikation

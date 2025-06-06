@@ -26,8 +26,8 @@
 
 :Dosierung:
 
-   - Erw: 0,4 mg iv., im., sc
-   - Kinder: 0,1 mg / kg iv., im., sc.
+   - Erw: 0,4 mg iv., im., sc
+   - Kinder: 0,1 mg / kg iv., im., sc.
 
 :Nebenwirkungen:
 

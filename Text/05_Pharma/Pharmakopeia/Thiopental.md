@@ -117,7 +117,7 @@ Kontraindikationen
 
 
 Hohe Lipidlöslichkeit (BHS + Plazentagängig), schwache Säure, bei Azidose vermehrt in nicht ionisiertem Zustand; hohe Proteinbindung;
-Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt = Kumulation = Elimination nach nicht linearer Kinetik (Zw. 300 und 600mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
+Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt = Kumulation = Elimination nach nicht linearer Kinetik (Zw. 300 und 600 mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
 
 NW
 : periphere  venöse  Vasodilation, Verminderung des cardial Output (verm. Preload, venöses Pooling, negativ inotrop va. bei zu rascher Injektion, vorübergehender verminderter Sympathikusimpuls vom ZNS), Blutdruckabfall (10-20%) mit kompensatorischen HF-Anstieg (Aktivierung der Barorezeptoren im Carotissinus), Bronchospasmus.
@@ -125,7 +125,7 @@ NW
 Kann akute intermittierende Porphyrie auslösen!
 
 Einleitungsdosis
-: 4-6mg/kg KG (va. bei alten Patienten LANGSAM!!!), erhöhte Dosis bei Kindern, da großes HZV (3x BV/min) + rasche Umverteilung; Säuglinge 6-8mg/kg KG (Sectio 4 -- 6 mg/kg KG keine Auswirkung auf das NG)
+: 4-6 mg / kg KG (va. bei alten Patienten LANGSAM!!!), erhöhte Dosis bei Kindern, da großes HZV (3x BV/min) + rasche Umverteilung; Säuglinge 6-8 mg / kg KG (Sectio 4 -- 6 mg / kg KG keine Auswirkung auf das NG)
 
 ZNS
 : Antikonvulsiv, Antianalgetisch (senkt Schmerzschwelle), Atemregulation (vermindert Atemantwort auf Hypoxie und erhöhtem CO2), senkt ICP durch Vasokonstriktion mit reduziertem CBF und senkt O2-Bedarf des ZNS.

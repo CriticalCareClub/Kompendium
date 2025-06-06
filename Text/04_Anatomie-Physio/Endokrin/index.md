@@ -253,7 +253,7 @@ Die Bauchspeicheldrüse bildet eine Kreuzungsstelle zwischen endokrinem und exok
 - in den D-Zellen (15 %): Somatostatin, beeinflusst die Ausnutzung von
   aus dem Darm aufgenommenen Nährstoffen
 
-Die Hormine Insulin und Glukagon sind dafür verantwortlich, dass der Blutzuckerspiegel möglichst konstant ist (60-100 mg/100ml).
+Die Hormine Insulin und Glukagon sind dafür verantwortlich, dass der Blutzuckerspiegel möglichst konstant ist (60-100 mg / 100 ml).
 
 - *Insulin*: fördert Glukoseaufnahme in die Zellen (senkt Blutzucker),
   fördert Speicherung aufgenommener Nahrung in Form von Glykogen und

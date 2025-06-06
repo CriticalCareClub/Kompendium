@@ -11,10 +11,10 @@ Klassifikation des hämorrhagischen Schock
 
 |     | Blutverlust  | Klinik                                                         |
 | --- | ------------ | -------------------------------------------------------------- |
-| I   | \< 750ml,    | normale Vitalparameter                                         |
-| II  | 750-1500ml,  | HF\>100, AF 20-30/min, Diurese eingeschränkt, RRsyst normal    |
-| III | 1500-2000ml, | HF \>120, AF 30-40/min, Hypotonie, Diurese stark eingeschränkt |
-| IV  | \> 2000ml,   | HF \> 140, Hypotonie!!!, AF \> 35, keine Diurese mehr          |
+| I   | \< 750 ml,    | normale Vitalparameter                                         |
+| II  | 750-1500 ml,  | HF\>100, AF 20-30/min, Diurese eingeschränkt, RRsyst normal    |
+| III | 1500-2000 ml, | HF \>120, AF 30-40/min, Hypotonie, Diurese stark eingeschränkt |
+| IV  | \> 2000 ml,   | HF \> 140, Hypotonie!!!, AF \> 35, keine Diurese mehr          |
 
 Va. Becken \> Femur \> Tibia/Fibula Frakturen!
 

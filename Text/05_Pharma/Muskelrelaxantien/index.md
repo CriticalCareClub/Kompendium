@@ -120,7 +120,7 @@ Eine Intubation ohne Relaxation ist in Ausnahmefällen in tiefer AN möglich, br
 
 Norcuron
 
-= ndMR; 0,1mg/kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
+= ndMR; 0,1 mg / kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
 
 
 
@@ -139,9 +139,9 @@ Mivacron
 
 langsam spritzen (Flush)
 
-0,2 mg / kg, 1 ml / 10 kg
+0,2 mg / kg, 1 ml / 10 kg
 
-=  ndMR;  0,15-02mg/kg, 3-4min AZ, 10-20min WD, Erholungszeit unabhängig von der verabreichten Dosis;  Abbau durch Pseudocholestinesterase;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
+=  ndMR;  0,15-02 mg / kg, 3-4min AZ, 10-20min WD, Erholungszeit unabhängig von der verabreichten Dosis;  Abbau durch Pseudocholestinesterase;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
 
 
 
@@ -156,7 +156,7 @@ langsam spritzen (Flush)
 
 Tracrium
 
-= NdMR; 0,5mg/kg KG, langsamere Anschlagzeit als Esmeron; Empfohlen bei Porphyrie.
+= NdMR; 0,5 mg / kg KG, langsamere Anschlagzeit als Esmeron; Empfohlen bei Porphyrie.
 
 
 ### Einfluß anderer Medikamente auf ndMR:
@@ -187,7 +187,7 @@ KIN: Met. über Leber, renale Ausscheidung
 
 -----
 
-0,3-0,6mg/kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
+0,3-0,6 mg / kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
 
 =  indirekter Antagonist, hemmt Acetylcholinesterase, dadurch ist mehr Ach vorhanden und verdrängt kompeativ das NdMR wieder vom Rezeptor.
 
@@ -214,11 +214,11 @@ NW. Geschmacksstörungen (bitter), ↓ Wirkung von hormonellen Kontrazeptiva
 
 Bridion antagonisiert nur Rocuronium und Vecuronium aufgrund seiner chemischen Struktur,
 bildet es mit Esmeron einen festen Komplex. Rasche Reversierung bisher ohne bekannte NW. Ab 2 Jahren zugelassen;  Elimination unklar, daher nicht zugelassen bei Krea-Clearance  \<
-30ml/min/kg,
+30 ml/min/kg,
 
 Reversiert jede Blockadetiefe.
 
 Dosierung
-: 2-4mg/kg KG, 200mg so gut wie immer ausreichend. (Notfall 16mg/kg nach 1mg/kg Esmaron, Neuerliche Relaxierung mit Esmaron nach Bridion ist möglich, lt. Studien bereits nach 5 min)
+: 2-4 mg / kg KG, 200 mg so gut wie immer ausreichend. (Notfall 16 mg / kg nach 1 mg / kg Esmaron, Neuerliche Relaxierung mit Esmaron nach Bridion ist möglich, lt. Studien bereits nach 5 min)
 
 

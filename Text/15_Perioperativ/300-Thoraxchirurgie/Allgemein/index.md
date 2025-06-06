@@ -150,7 +150,7 @@ Man kann dies als 3 Säulen beschreiben und beurteilen:
 3. Zirkulation und kardio-pulmonale Reserve:
    - VO2 max (vgl. {ref}`VO2`): 15 ml / kg / min
 
-     Bestimmung der VO2max am Ergometer: junger untrainierter Erwachsener hat ca. 40ml/kg/min (Ruhe VO2 3ml/kg/min)
+     Bestimmung der VO2max am Ergometer: junger untrainierter Erwachsener hat ca. 40 ml/kg / min (Ruhe VO2 3 ml/kg / min)
 
      Zur Beurteilung erfolgt normalerweise kein invasives hämodynamisches Monitoring, sondern eine Erhebung der Belastbarkeit des Patienten:
      - 2 Stöcke Stiegen steigen, 6 Minuten gehen

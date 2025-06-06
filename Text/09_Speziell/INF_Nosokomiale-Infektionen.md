@@ -70,7 +70,7 @@ Diagnose
 Therapie
 : AB absetzen, eine antimikrobielle Therapie nur bei gesicherter Clostridium Difficile-Infektion.
 
-  Metronidazol 3  x tgl 500mg p.o. für 10-14 Tage, bei schwerem Verlauf Vancomycin p.o.  , Elektrolyt und Flüssigkeitsausgleich. (Ev. Teicoplanin/Targocid po)
+  Metronidazol 3  x tgl 500 mg p.o. für 10-14 Tage, bei schwerem Verlauf Vancomycin p.o.  , Elektrolyt und Flüssigkeitsausgleich. (Ev. Teicoplanin/Targocid po)
 
 Prävention
 : Restriktiver AB-Einsatz, Hygienemaßnahmen (Handschuhe/Kittel/Einzelzimmer), Sporen sind alkoholresistent, daher Hände mit Wasser und Seife reinigen.

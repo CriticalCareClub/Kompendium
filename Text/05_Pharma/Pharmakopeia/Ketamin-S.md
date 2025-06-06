@@ -42,7 +42,7 @@ Unterschiedliche Konzentrationen im Handel!
 :Dosierung:
 
     -   Analgesie: 0,1—0,25 mg / kg i. v., 0,25—0,5 mg / kg i. m.;
-    -   Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg im.;
+    -   Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg im.;
     -   Bronchospasmus: 1—2,5 mg / kg i. v.
     -   Rep: halbe Initialdosis.
 
@@ -97,11 +97,11 @@ Ketamin stimuliert den Sympathikus durch Hemmung der NA-Wiederaufnahme = Anstieg
 Wirkt negativ inotrop, daher KI bei KHK und ACS! Eine Abschwächung des Sympathikus (ZNS) wurde bei Dauerinfusion und Midazolam Prämedizierung beobachtet.
 
 Dosis
-: - 0,5-2mg/kg KG für Einleitung AN
-  - Sedierung und Analgesie: 0,2-0,8mg/kg innerhalb von 2-3 Minuten
-  - Präventive Analgesie: 0,15-0,25mg/kg KG
+: - 0,5-2 mg / kg KG für Einleitung AN
+  - Sedierung und Analgesie: 0,2-0,8 mg / kg innerhalb von 2-3 Minuten
+  - Präventive Analgesie: 0,15-0,25 mg / kg KG
 
-Senkt den Opioidbedarf! Faustregel: 0,25mg/kg KG als Kurzinfusion postoperativ zur Schmerztherapie.
+Senkt den Opioidbedarf! Faustregel: 0,25 mg / kg KG als Kurzinfusion postoperativ zur Schmerztherapie.
 
 ZNS: neuroprotektiv wenn ICP konstant bei kontrollierter Beatmung und Normokapnie, Kombination mit Dormicum.
 

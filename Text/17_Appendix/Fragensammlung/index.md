@@ -3,7 +3,7 @@
 # Fragensammlung
 
 
-- Ein 5jähriger Bub, 20kg, wird mit Nachblutung bei Z.n. TE vorstellig. 
+- Ein 5jähriger Bub, 20 kg, wird mit Nachblutung bei Z.n. TE vorstellig. 
   Er ist ansprechbar, auffallend blass und ruhig. Volumengabe?  Was, wieviel?  Tubusgröße?, PONV-Prophylaxe, Atemwegskomplikationen postextubationem? Behandlung dieser!
 - Klappenfehler: Patient mit AKS (Veränderungen am Herzen, Symptome, Anästhesiologische Besonderheiten)
 - WedgeDruck, Pulmi, Veränderungen bei Herzerkrankungen
@@ -57,17 +57,17 @@
 - 65a, KnieTEP, keine Anamnese, IDDM, 2 postoperativen Tag, TnT 0,3, EKG, was zu tun?
 - HNO-Laserchir, Sicherheitsmaßnahmen, Anästhesie
 - OL rechts Resektion, Ind. ELV, Lufu, hypoxische Vasokonstriktion (SaO2 fällt)
-- EDA für KTEP, Hypertonie, 59a, 15 min nach 100mg Ropivacain Blutdruckabfall, HF 68/min
+- EDA für KTEP, Hypertonie, 59a, 15 min nach 100 mg Ropivacain Blutdruckabfall, HF 68/min
 - Neurochirurgie, Glioblastom, 49j, wesensverändert lt. Angehöriger, häufig Kopfschmerz, Monitoring, Lagerung, Narkose, Schmerz (Zange), Prämed.
 - Alte Pat, BMS Stent, Hallux, Dyspnoe bei schwerer körperlicher Belastung RA, Welche Nerven müssen blockiert werden? Vorteile? Komplikationen
 - Pat, kard. Anamnese mit Stent vor 6 Monaten, CHE
 - 10j. Kind TE, Unterschied Barbiturate/Propofol, NW Lysthenon, ndMR, Restrelaxierung, Schmerztherapie Ziel baldige E/Tagesklinisch.
-- 95kg Pat, nach CHE, ST-Hebung in II, III und aVF, kommt intubiert auf ISV; diagn. Vorgehen, RR 120/80, HF normal, VES Therapie?  RR-Abfall, HF80, K3,5?  AV-Block II Wenckebach Therapie? Plötzlich VT Algorithmus.
+- 95 kg Pat, nach CHE, ST-Hebung in II, III und aVF, kommt intubiert auf ISV; diagn. Vorgehen, RR 120/80, HF normal, VES Therapie?  RR-Abfall, HF80, K3,5?  AV-Block II Wenckebach Therapie? Plötzlich VT Algorithmus.
 - Alkoholintox., 34j, intubiert ohne Med, Aufnahme IBS, Beatmung
 - Pat. 67j, lumbale CSE für KTEP, Komplikationen, insuff. Analgesie Ursachen, Wirkdauer LA, Adjuvantien um Analgesie zu verbessern
-- Pat, 48a, ASA III, 65kg, renale Retention, KHK, präop. Intrathekal Morphin, systemisch Opioide weiter. Kompl? Umstellung oral, NRSA dazu?
+- Pat, 48a, ASA III, 65 kg, renale Retention, KHK, präop. Intrathekal Morphin, systemisch Opioide weiter. Kompl? Umstellung oral, NRSA dazu?
 - Kleinzelliges Bronchus CA mit Stenose re OL, Muskelschwäche, CHE in AN, postoperativ Reintubation bei respiratorischer Insuffizienz, Lambert Eaton
-- Pat. 62j, 156cm, 65kg, Hemikolektomie bei perf. Divertikulitis mit kotiger 4 Quadrantenperitonitis, MOF (Niere, Lunge). Nach 2  Wochen fieberfrei, EZP rückläufig, Aterenol 0,15µg/kg/min stabil. Patientin wird hämofiltriert. Kann mit dem Weaning begonnen werden?
+- Pat. 62j, 156cm, 65 kg, Hemikolektomie bei perf. Divertikulitis mit kotiger 4 Quadrantenperitonitis, MOF (Niere, Lunge). Nach 2  Wochen fieberfrei, EZP rückläufig, Aterenol 0,15 µg / kg / min stabil. Patientin wird hämofiltriert. Kann mit dem Weaning begonnen werden?
 - Weaningkriterien, SBT, Augementierte Beatmungsformen weaning.
 - 82j, US-Fraktur OP, im Aufwachraum starke Bauchschmerzen, blutiger Stuhlgang, KHK, VHF, RR 110/70, arrythmischer Puls, 90-130/min, SaO2 95%
 - Dg. Mesenterialinfarkt (embolisch), Weitere Untersuchungen (Labor, EKG, Abdomen leer, CT Angio, TEE Thrombus linkes Herz?, Endoskopie?) Therapie (OP, Katheterembolektomie, Lyse), nicht okklusive Darmischämie

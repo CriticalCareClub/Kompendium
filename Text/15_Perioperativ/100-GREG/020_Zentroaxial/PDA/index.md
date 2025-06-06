@@ -122,7 +122,7 @@ Je nach Penetration des Lokalanästhetikums sind unterschiedliche Modalitäten e
 
 Die **Ausdehnung** der Blockade ist abhängig von
 
-- Volumen des Lokalanästhetikums (ca 1,5ml/Segement)
+- Volumen des Lokalanästhetikums (ca 1,5 ml/Segement)
 - Konzentration des Lokalanästhetikums
   - Konzentration x Volumen = Menge des Lokalanästhetikums
 - Lage
@@ -141,10 +141,10 @@ Für rein sensorische Blockaden wird eher eine niedrige Konzentration, für moto
 
 | Wirkstoff  | Konz. |Volumen | Dosis | Wirkeintritt | Wirkdauer |
 | ---------- | ---------: | -----: | -------: | ------------------: | ---------------: |
-| Lidocain   | 1-2%       | 15-30 mL | 200-500 mg | 10-30 min             | 100 ± 40 min         |
-| Mepivacain | 1-2%       | 15-30 mL | 150-500 mg | 15-20 min             | 120 ± 50 min         |
-| Bupivacain | 0,25-0,75% | 15-30 mL | 150 mg     | 18-30 min             | 200 ± 80 min         |
-| Ropivacain | 0,2-1%     | 15-30 mL | 220 mg     | 10-20 min             | 180 ± 360 min        |
+| Lidocain   | 1-2%       | 15-30 ml | 200-500 mg | 10-30 min             | 100 ± 40 min         |
+| Mepivacain | 1-2%       | 15-30 ml | 150-500 mg | 15-20 min             | 120 ± 50 min         |
+| Bupivacain | 0,25-0,75% | 15-30 ml | 150 mg     | 18-30 min             | 200 ± 80 min         |
+| Ropivacain | 0,2-1%     | 15-30 ml | 220 mg     | 10-20 min             | 180 ± 360 min        |
 
 :::
 

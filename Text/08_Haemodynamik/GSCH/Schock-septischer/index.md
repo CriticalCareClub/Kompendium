@@ -226,7 +226,7 @@ Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instr
   - 6–9
   - < 6
 * - Herz-Kreislauf
-  - Katecholaminbedarf [µg/kg/min]
+  - Katecholaminbedarf [µg / kg / min]
   - MAP < 70 mm Hg
   - Dopamin ≤ 5 oder Dobutamin (beliebig)
   - Dopamin > 5 oder Adrenalin ≤ 0,1 oder Noradrenalin ≤ 0,1
@@ -336,7 +336,7 @@ Die Volumentherapie in der Sepsis ist seit Jahrzehnten Schauplatz intensiver Stu
 Spitze Gegenstände sowie Glasflaschen sind in einschlägigen Sessions auf Kongressen zumeist am Eingang abzugeben.
 
 Die Flüssigkeitstherapie soll grundsätzlich mittels intravenöser **balancierter kristalloider Flüssigkeit** erfolgen.
-In der Erstphase sollen dabei mindestens 30 ml/kg intravenöse (i.v.) innerhalb der ersten 3 h verabreicht werden.
+In der Erstphase sollen dabei mindestens 30 ml/kg intravenöse (i.v.) innerhalb der ersten 3 h verabreicht werden.
 
 Darüber hinaus gibt es *keine ausreichende Evidenz* hinsichtlich der Empfehlung *restriktiver versus großzügiger Flüssigkeitsstrategien* in den ersten 24 Stunden der Therapie bei Patienten, die nach der initialen Therapie immer noch Anzeichen einer Hypoperfusion und eines Volumenmangels aufweisen.
 Eine intensivierte Flüssigkeitstherapie sollte aber nur dann durchgeführt werden, wenn Patienten Anzeichen einer Hypoperfusion aufweisen.

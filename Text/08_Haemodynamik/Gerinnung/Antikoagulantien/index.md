@@ -32,7 +32,7 @@ Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoag
     b. DXA = direkte Faktor Xa-Inhibitatoren (Eliquis/Apixaban, Xarelto/Rivaroxaban, Edoxaban- /Lixiana)
 
 Indikationen der DOAKs:
-DTI: Pradaxa: Therapeutisch bei VHF mit 2x150mg/d DXA: Xarelto: Prophylaktisch 1x10mg/d bei elektiver KTEP und HTEP. Therapeutisch mit 2x15mg und präventiv mit 1x20mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern DXA: Eliquis: Prophylaktisch 2,5mg po 2x tgl nach elektiven KTEP und HTEP. Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5mg nach einer Loadingdosis von 2 x tgl. 10mg für die ersten 7 Tage! Eine Halbierung der Dosis ist bei schwerer Niereninsuffizienz empfohlen.
+DTI: Pradaxa: Therapeutisch bei VHF mit 2x150 mg/d DXA: Xarelto: Prophylaktisch 1x10 mg/d bei elektiver KTEP und HTEP. Therapeutisch mit 2x15 mg und präventiv mit 1x20 mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern DXA: Eliquis: Prophylaktisch 2,5 mg po 2x tgl nach elektiven KTEP und HTEP. Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5 mg nach einer Loadingdosis von 2 x tgl. 10 mg für die ersten 7 Tage! Eine Halbierung der Dosis ist bei schwerer Niereninsuffizienz empfohlen.
 DXA: Lixiana zur Thromboseprophylaxe bei orthopädischen Eingriffen
 
 

@@ -8,19 +8,19 @@ Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten + erhöhten Verbrauch  
 Flüssigkeitszufuhr+  TRIAS: Hypothermie (\<34°) + Hypokalzämie (\<1mmol/l)-Azidose (pH  \<  7,2)  +
 HK \<24%
 
-1. **Volumentherapie**: Kristalloide+Kolloide (HES max. 50ml/kg/d), einmalig 4ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
-2. 1-2g **Tranexamsäure** innerhalb der ersten 3 h (15 -20mg/kg KG)
+1. **Volumentherapie**: Kristalloide+Kolloide (HES max. 50 ml/kg/d), einmalig 4 ml/kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
+2. 1-2 g **Tranexamsäure** innerhalb der ersten 3 h (15 -20 mg / kg KG)
 3. **Hypothermie** vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 
 4. *Azidosekorrektur*: Ziel \>7,2 (NaBIC)
 5. **Hypokalzämie** vermeiden: Ca \> 1 mmol/l (Calciumglukonat)
 6. Anämiekorrektur: Ziel Hb 8-10 
 7. Thrombozyten Soll 50-100000 
-8. Hohe Fibrinogenspiegel sind protektiv 150-200mg/dl, FIBTEM\<7mm Gabe 50mg/kg Hämocomplettan 
+8. Hohe Fibrinogenspiegel sind protektiv 150-200 mg/dl, FIBTEM\<7mm Gabe 50 mg / kg Hämocomplettan 
 9. PPSP (Prothrombinkomplex II, VII, IX, X) z.B. Beriplex sofort bei Marcoumarpatienten, und Eliquis oder Xarelto! aPPSP bei Pradaxa! EXTEM CT \> 80sec trotz Fibrinogengabe = 20-30IE/kg
 (1 IE/kg hebt PTZ um 1%)
-10. Novo7 (aFVII) ultimo ratio, off lavel use: Thrombos und Fibrinogen muss normal sein, ph \> 7,2 Temp \> 34°C. Gabe: 90-120mcg/kg Einzeldosis, ev. wiederholen 
-11. FFP 30ml/kg bei Faktor V-Mangel, sonst umstritten 
-12. Desmopressin (Octostim) 0,3mcg/kg über 20min, bei ASS und Plavix-Patienten 
+10. Novo7 (aFVII) ultimo ratio, off lavel use: Thrombos und Fibrinogen muss normal sein, ph \> 7,2 Temp \> 34°C. Gabe: 90-120 mcg / kg Einzeldosis, ev. wiederholen 
+11. FFP 30 ml/kg bei Faktor V-Mangel, sonst umstritten 
+12. Desmopressin (Octostim) 0,3 mcg / kg über 20min, bei ASS und Plavix-Patienten 
 13. Protamin (1000-2000 U) bei heparinisierten Patienten 
 14. Faktor XIII (1250 U) bei instabilem Gerinsel im Extem und Aptem, welches nicht durch Hyperfibrinolyse bedingt ist.
 15. \+ hämostyptische Wundverbände (z.B. Quick cloth)

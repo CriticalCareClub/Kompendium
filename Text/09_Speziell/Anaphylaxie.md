@@ -173,7 +173,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
   - **Adrenalin i. m.** (wenn Atem- oder Kreislaufsymptome vorhanden):
 
-    i. m.-Applikation 0,3–0,5 mg Adrenalin (ab 30–50 kg KG)
+    i. m.-Applikation 0,3–0,5 mg Adrenalin (ab 30–50 kg KG)
     in die Außenseite des Oberschenkels
 
     Wiederholung bei fehlender Wirkung
@@ -190,7 +190,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
       über Verneblermaske
     - Bei Uvulaschwellung, Larynxödem:
       Adrenalin inhalativ
-      (z. B. 2 mL à 1 mg / mL)
+      (z. B. 2 mL à 1 mg / mL)
       über Verneblermaske
 
   - **Antihistaminika**
@@ -201,7 +201,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu
 
     - H1-Rezeptorblocker:
 
-      Dimetinden (Fenistil™): 0,1 mg/kg KG: ca. 4—8 mg (1—2 Amp.)
+      Dimetinden (Fenistil™): 0,1 mg / kg KG: ca. 4—8 mg (1—2 Amp.)
 
       alternativ: Diphenhydraminhydrochlorid (Dibondrin™)
 
@@ -277,9 +277,9 @@ Therapie:
 - Adrenalin/Suprarenin vernebelt oder iv. bei ALS
 
 Prophylaxe bei anaphylaktischer Prädisposition bei va. KM-Untersuchungen:
-Vorabend: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o.
-+ 50mg Prednisolon OP-Tag morgens: Fenistil 2mg p.o., Cimetidin/Tagamet 200mg p.o. + 50mg Prednisolon ODER bei der Einleitung: 4mg Fenistil ad. KI, 400mg Cimetidin iv.
-+ 100-250mg Solu-Dac
+Vorabend: Fenistil 2 mg p.o., Cimetidin/Tagamet 200 mg p.o.
++ 50 mg Prednisolon OP-Tag morgens: Fenistil 2 mg p.o., Cimetidin/Tagamet 200 mg p.o. + 50 mg Prednisolon ODER bei der Einleitung: 4 mg Fenistil ad. KI, 400 mg Cimetidin iv.
++ 100-250 mg Solu-Dac
 
 
 

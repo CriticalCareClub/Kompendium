@@ -47,7 +47,7 @@ Anästhesie:
 
 Therapie:
 - Substitution von T4 (Thyrox, Euthyrox) mit langsamer Steigerung (cave KHK)
-- Koma: IT + Beatmen, Hydrocortisongabe 100-200mg/d, L-Thyroxingabe (loading 500µg, dann 100µg...)
+- Koma: IT + Beatmen, Hydrocortisongabe 100-200 mg/d, L-Thyroxingabe (loading 500 µg, dann 100 µg...)
 
 Schilddrüsenoperation Präoperativ: Hormonstatus, kardiovaskuläre Begutachtung, HNO, C/P ITN mit guter Tubusfixierung, Neuromonitorin Recurrens, Magensonde, Standartmonitoring  + Temp.
 
@@ -68,13 +68,13 @@ Anästhesie: ausreichend Flüssigkeit + Calciumkontrollen.
 
 1) Cushing Syndrom: Hypercortisolismus, mit art. HT, ischämischer Herzerkrankung, Hypokaliämie, DM, erhöhtem F  VIII mit Thromboseneigung;  alle Anästhetika erlaubt;
 
-  Cortisonsubstitution bei bilateraler Adrenalektomie (100mg präoperativ, 300mg  /d perioperativ), bei einseitiger Adrenalektomie keine Glukokortikoidsubstitution.
+  Cortisonsubstitution bei bilateraler Adrenalektomie (100 mg präoperativ, 300 mg  /d perioperativ), bei einseitiger Adrenalektomie keine Glukokortikoidsubstitution.
 2) Conn-Syndrom: Hyperaldosteronismus, renale Na+Cl-Rückresorption und vermehrt K und H+ Ausscheidung im Austausch, hypokaliämische hyperchlorämische Alkalose mit Hypervolämie und Hypertonie, Gewichtszunahme.
-- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \>7µg/dl nach ACTH-Gabe), Hyponatriämie + Hyperkaliämie + Übelkeit, Erbrechen;  Therapie: 20-30mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
-- Cushing-Schwelle: Hydrocortison 30-50mg/d, Prednisolon/SoluDacortin 7,5 -- 10mg/d,
-- Dexamethason/Fortecortin 1-2mg/Tag
-- Bei Hypophysektomie, M. Addison, bilateraler Adrenalektomie beim Einleiten 25mg Hydrocortison iv., bei mittleren und schweren Eingriffen
-+ 100mg/d für 48-72h postoperativ.
+- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \>7 µg/dl nach ACTH-Gabe), Hyponatriämie + Hyperkaliämie + Übelkeit, Erbrechen;  Therapie: 20-30 mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
+- Cushing-Schwelle: Hydrocortison 30-50 mg/d, Prednisolon/SoluDacortin 7,5 -- 10 mg/d,
+- Dexamethason/Fortecortin 1-2 mg/Tag
+- Bei Hypophysektomie, M. Addison, bilateraler Adrenalektomie beim Einleiten 25 mg Hydrocortison iv., bei mittleren und schweren Eingriffen
++ 100 mg/d für 48-72h postoperativ.
 Perioperative Cortisontherapie: präoperativ normale Dosis am OP-Tag einnehmen.
 
 
@@ -86,7 +86,7 @@ Klinik
 : paroxymale oder permanente Hypertonie, Kopfschmerzen, Tachykardie, Gewichtsverlust, Schwitzen, Fieber.
 
 Diagnose
-: Katecholaminspiegel im Plasma (**Metanephrine**), **Vanillinmandelsre** im Harn, Sono, CT, Szinti, **Clonidintest** (0,3mg p.o. führt beim Gesunden zum Abfall der Katecholamine)
+: Katecholaminspiegel im Plasma (**Metanephrine**), **Vanillinmandelsre** im Harn, Sono, CT, Szinti, **Clonidintest** (0,3 mg p.o. führt beim Gesunden zum Abfall der Katecholamine)
 
 Therapie
 : Der  **α-Blocker** Phenoxybenzamin/Dibenzyran ist ein irreversibler nicht spezifischer alpha-Blocker, reduziert das Risiko hypertensiver Krisen, Blutdruckschwankungen bei Manipulation am TU, myokardiale Komplikationen.
@@ -110,9 +110,9 @@ Narkose
     - Therapie: Noradrenalin ev. in hoher Dosis wirkt trotz Alpha-Rezeptorblockertherapie + Volumen!
 
   - Intraoperativer Blutdrucksenkung:
-    - Natriumprussid (Nipruss) Perfusor mit max. 1,5mg/kg für 2-3 Stunden (NO-Freisetzung, Vasodil, Tachyphylaxie, Bildung von Cyanmethämoglobin, gut steuerbar kurze HWZ von 3-5 Minuten)
+    - Natriumprussid (Nipruss) Perfusor mit max. 1,5 mg / kg für 2-3 Stunden (NO-Freisetzung, Vasodil, Tachyphylaxie, Bildung von Cyanmethämoglobin, gut steuerbar kurze HWZ von 3-5 Minuten)
 
-    Nitroglycerin (Nitro) mit HWZ 5-10min, 0,5-2µg/kg/min 50% der Patienten bleiben postoperativ für 1-3 Tage hyperton.
+    Nitroglycerin (Nitro) mit HWZ 5-10min, 0,5-2 µg / kg / min 50% der Patienten bleiben postoperativ für 1-3 Tage hyperton.
 
     In den ersten 24 Stunden besteht die Gefahr einer Hypoglykämie, daher regelmäßig BZ kontrollieren. (Postoperativ 24h Überwachung!)
 
@@ -129,7 +129,7 @@ Präoperativ
 Narkose
 : KEINE Barbiturate, Atracurium, Succinylcholin, Mivacron (Histamin)
 
-Bei **Karzinoidkrise** mit Bronchospasmus und Hypotonie: *Octreotid* 10-20mg iv. (hemmt Freisetz. Mediatoren) + Volumen!
+Bei **Karzinoidkrise** mit Bronchospasmus und Hypotonie: *Octreotid* 10-20 mg iv. (hemmt Freisetz. Mediatoren) + Volumen!
 
 Bei RA: Sympatikolyde bei SPA/EDA, Hypotonie durch Vasodilatation kann Anfall auslösen, Reflektorische Steigerung des Sympatikus möglich; gutes Volumenloading.
 

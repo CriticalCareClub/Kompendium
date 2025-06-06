@@ -176,12 +176,12 @@ Hämodynamik
 
 
 Weitere Therapie
-: - *Zink* 30mg 1-1-1 i. v.
+: - *Zink* 30 mg 1-1-1 i. v.
 
-  - *Vitamin C*: 7,5g 0-1-0 i. v. bei normalen
-    Nierenfunktionsparametern, bei eingeschränkter Funktion 1g Vitamin C 0-1-0 i. v.
+  - *Vitamin C*: 7,5 g 0-1-0 i. v. bei normalen
+    Nierenfunktionsparametern, bei eingeschränkter Funktion 1 g Vitamin C 0-1-0 i. v.
 
-  - *Selen* 200µg 1-0-1 i.v.
+  - *Selen* 200 µg 1-0-1 i.v.
 
   - **Thromboseprophylaxe** (Niedermolekulare Heparine, LMWH):
     Tal-anti-Xa-Ziel: 0,2—0,3.

@@ -133,7 +133,7 @@ Definierte Risikofaktoren:
 2. Bestehende koronare Herzkrankheit
 3. Zerebrovaskuläre Erkrankungen
 4. Insulinpflichtiger Diabetes mellitus
-5. Niereninsuffizienz mit Serumkreatinin > 2 mg/dl
+5. Niereninsuffizienz mit Serumkreatinin > 2 mg/dl
 6. Hochrisikoeingriff
    (thorakal, intraperitoneal, suprainguinal vaskulär)
 
@@ -177,7 +177,7 @@ Definierte Risikofaktoren:
 ## MET: Metabolisches Äquivalent
 
 Beurteilung der **kardiopulmonalen Reserve** in **metabolischen Äquivalenten** des *Ruhe-Sauerstoffverbrauchs*
-(1 MET = Sauerstoffverbrauch eines 70 kg schweren 40-jährigen Mannes in Ruhe (♂ 3,5 ml / kg / min, ♀ 3,15 ml / kg / min; *Ruheumsatz*;
+(1 MET = Sauerstoffverbrauch eines 70 kg schweren 40-jährigen Mannes in Ruhe (♂ 3,5 ml / kg / min, ♀ 3,15 ml / kg / min; *Ruheumsatz*;
 **~ 3 mL / kg / min**)).
 
 :::{note}

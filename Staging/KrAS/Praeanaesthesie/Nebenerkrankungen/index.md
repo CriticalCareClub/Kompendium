@@ -33,8 +33,8 @@ symptomatische MS = MET´s + NYHA für funktionelle Kapazität!!! LEE-Index!
 Eine Belastungsintoleranz ist unabhängig von ST-Senkungen ein Risikofaktor, der mittels ERGO,
 pharmakologischem Stressecho, oder Myokardszintigraphie abgeklärt werden muss!
 
-Eine präoperative Antibiotikaprophylaxe sollte bei Z.n. Klappenersatz erfolgen: Amoxicillin 2g 1h
-vor OP p.o, und 6h postoperativ. (Bei Penicillinallergie: Clindamycin 600mg 1h)
+Eine präoperative Antibiotikaprophylaxe sollte bei Z.n. Klappenersatz erfolgen: Amoxicillin 2 g 1h
+vor OP p.o, und 6h postoperativ. (Bei Penicillinallergie: Clindamycin 600 mg 1h)
 
 Risikoeinschätzung des Eingriffs bezüglich perioperativer Infarkt/Herztod:
 
@@ -68,7 +68,7 @@ P2Y12-Rezeptorblocker = Thienopyridine (ADP-Freisetzung):
 - Prasugrel/Efient: 7-10 Tage Pause, WB nach 6h (erhöhte cerebrale Blutungen >75Lj)
 - Ticagrelor / Brilique: 5 Tage Pause, WB nach 6h: reversible Antagonist, in den ersten 12h nach Einnahme werden auch transfundierte Thrombozyten gehemmt, und sind wirkungslos! Hohe Proteinbindung, nur durch Plasmapherese reversierbar.
 - Cangrelor: 1-6h Pause: parenteraler P2Y12-Blocker mit 5-6 Minuten HWZ!
-- Thrombo-ASS 100mg: irreversibler Thrombozytenfunktionshemmer (COX): 3 Tage Pause
+- Thrombo-ASS 100 mg: irreversibler Thrombozytenfunktionshemmer (COX): 3 Tage Pause
 
 Dauermedikamente:
 Betablocker etc. weitergeben, perioperativ neu mit Betablocker beginnen, bei hohem operativem
@@ -107,9 +107,9 @@ Pulmonale Patienten mit \<4MET´s + schwerer Eingriff = interdisziplinäre Entsc
 ## Diabetes Mellitus
 
 OP-Morgen: 1/3 des Gesamtinsulinbedarfes als langwirksames Insulin geben
-Erster OP Punkt! Engmaschige BZ-KO! Ev. Glucose 5% (Werte >70 und >250mg/dl müssen dem Arzt gemeldet werden!)
+Erster OP Punkt! Engmaschige BZ-KO! Ev. Glucose 5% (Werte >70 und >250 mg/dl müssen dem Arzt gemeldet werden!)
 Postoperative BZ-Ko (+ intraoperativ bei längeren Eingriffen)
-Abend nach OP: NZ >180mg/dl die gewohnte Dosis IE verabreichen
+Abend nach OP: NZ >180 mg/dl die gewohnte Dosis IE verabreichen
 Biguanide/Meformin/Glucophage 48h prä- und 24h postoperativ pausieren, wegen Laktatanstieg. (Verminderte Gluconeogenese aus Laktat)
 Sulfonylharnstoffe/Amaryl 24h präoperativ pausieren, da 24h Gefahr Hypoglykämie durch
 gesteigerte Insulinausschüttung
@@ -122,8 +122,8 @@ Keine oder reduzierte Prämedikamentation
 Antihypertensiva weitergeben
 Diuretika bei schwerer NI weitergeben, Gefahr des Lungenödems und kard. Decomp.
 Erhöhtes Aspirationsrisiko: bei CNV verzögerte Magenentleerung auch postoperativ!
-GFR 25-40ml/min Hydration(NaCl, Elomel, kein RL) und Diurese forcieren (Lasix,
-Harnvolumen > 0,5ml/kg/h) + Hypotonie vermeiden (RBF!) um ANV zu verhindern!
+GFR 25-40 ml/min Hydration(NaCl, Elomel, kein RL) und Diurese forcieren (Lasix,
+Harnvolumen > 0,5 ml/kg / h) + Hypotonie vermeiden (RBF!) um ANV zu verhindern!
 
 ## Adipositas
 

@@ -271,14 +271,14 @@ Filter: kapilläres Endothel mit gap junctions bis 60nm + Basalmembran (Größe,
 
 
 Nierenfunktionsparameter:
-- Kreatinin: Abbauprod. Muskelmetabolismus abhängig von der Muskelmasse, indirekt proportional zur GFR, 0,6-1,3mg/dl
-- GRF: normal 90ml/min (=  Krea 1), Nierenversagen  \<  25ml/min (=  Krea  \>4)  über Kreatinin-
+- Kreatinin: Abbauprod. Muskelmetabolismus abhängig von der Muskelmasse, indirekt proportional zur GFR, 0,6-1,3 mg/dl
+- GRF: normal 90 ml/min (=  Krea 1), Nierenversagen  \<  25 ml/min (=  Krea  \>4)  über Kreatinin-
 Clearance bestimmt.
 - Kreatinin Clearance ml/min = Urinkrea x Urinvolumen ml / Serumkrea x 24h Sammelzeit
-- Harnstoff: 13-54 mg/dl: entsteht beim Eiweißabbau in der Leber und wird  über die Niere ausgeschieden
-- BUN = blood urea nitrogen: Abbauprodukt von Protein zu Ammonium 10-20mg/dl, ist erhöht bei reduzierter GFR (Dehydration) oder Proteinkatabolismus.  \>  50 renale Ursache!
+- Harnstoff: 13-54 mg/dl: entsteht beim Eiweißabbau in der Leber und wird  über die Niere ausgeschieden
+- BUN = blood urea nitrogen: Abbauprodukt von Protein zu Ammonium 10-20 mg/dl, ist erhöht bei reduzierter GFR (Dehydration) oder Proteinkatabolismus.  \>  50 renale Ursache!
 (Azotämie)
-- Harnmenge: \> 0,5ml/kg/h
+- Harnmenge: \> 0,5 ml/kg / h
 
 
 Autoregulation des renalen Blutflusses:
@@ -309,7 +309,7 @@ Insipidus. Freisetzung über Dehnungsrezeptoren in den Vorhöfen (Volumen) und A
 
 
 Chronische Niereninsuffizienz: Hauptursachen sind art.
-Hypertonie, Diabetes, Adipositas. Die Einteilung erfolgt nach KDIGO-Guidlines 2012 nach GFR in G1-G5 (ab G3b deutlich erhöhte kardiovaskuläre Mortalität und Morbidität) und Albuminurie A1-A3. Zur Berechnung der GFR war die MDRD-GFR bei einer GFR \> 60ml/min/ 1,73 m² nicht ausreichend validiert. Daher ist aktuell die CKD-EPIFormel (Chronic Kidney Disease Epidemiology Collaboration) „state of the art". Ein Screening sollte bei arterieller Hypertonie, Diabetes und familiärer Belastung erfolgen.
+Hypertonie, Diabetes, Adipositas. Die Einteilung erfolgt nach KDIGO-Guidlines 2012 nach GFR in G1-G5 (ab G3b deutlich erhöhte kardiovaskuläre Mortalität und Morbidität) und Albuminurie A1-A3. Zur Berechnung der GFR war die MDRD-GFR bei einer GFR \> 60 ml/min/ 1,73 m² nicht ausreichend validiert. Daher ist aktuell die CKD-EPIFormel (Chronic Kidney Disease Epidemiology Collaboration) „state of the art". Ein Screening sollte bei arterieller Hypertonie, Diabetes und familiärer Belastung erfolgen.
 
 Anästhetika bei CNI:
 - Barbiturate und Benzodiazepine = erhöhte Sensitivität
@@ -319,10 +319,10 @@ Anästhetika bei CNI:
 - Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron (Rocuronium) wird zu 20% renal eleminiert (TOF!).
 
 Röntgenkontrastmittel induzierte Nephropathie Akute renale Verschlechterung innerhalt 48 bis 72h nach KM-Gabe mit Kreatininanstieg  +25%
-oder +0,5mg/dl!
+oder +0,5 mg/dl!
 Ursache: Vasokonstriktion mit Perfusionsminderung (ATII vermittelt) in der Niere, KM ist zytotoxisch und proapoptotisch und setzt freie Radikale frei.
 Risikofaktoren:
-Vorbestehende NI mit Krea \> 1,4mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1ml/kg/h bis 24h nach KM), keine Diuretika Gabe, ev. ACC 600mg vor und 12h nach KM, max 300ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26% iv: 3ml/kg/h 60min vor KM, 1ml/kg/h während und 6 h nach der Untersuchung.
+Vorbestehende NI mit Krea \> 1,4 mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1 ml/kg / h bis 24h nach KM), keine Diuretika Gabe, ev. ACC 600 mg vor und 12h nach KM, max 300 ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26% iv: 3 ml/kg / h 60min vor KM, 1 ml/kg / h während und 6 h nach der Untersuchung.
 Rhabdomyolyse:
 = Degeneration und Nekrose von quergestreiften Muskelfasern (Skelett und Herzmuskulatur) Urs: Alkohol, Heroin, MH, Propofolinfusionssyndrom Hämoglobin, Myoglobin und Eiweiß verstopfen den distalen Tubulus und führen zum NV = Crush Niere! (Kompartmentsyndrom!) Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH, (K + Laktat bei Kompartment) Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
 
@@ -342,12 +342,12 @@ Ursachen:
 1. Prärenal: Hypovolämie/Hypotonie (Sepsis mit Kapillarleak), DIC durch Stase oder Hyperkoagulopathie 2. Selten renal: Urosepsis, tox. Prozess, chron. NV, CRUSH-Niere, Kontrastmittel!
 3. Postrenal: Obstruktion der ableitenden Harnwege Diagnose über Kreatininanstieg und Änderung der Diurese!
 
-AKIN-Definition: akut innerhalb 48h, Anstieg Krea um 1  ½  fache (oder 0,3mg/dl) oder Einschränkung der Diurese auf \< 0,5ml/kg/h über \> 6h!
+AKIN-Definition: akut innerhalb 48h, Anstieg Krea um 1  ½  fache (oder 0,3 mg/dl) oder Einschränkung der Diurese auf \< 0,5 ml/kg / h über \> 6h!
 
 Rifle-Stadium      AKIN-Statium                     Kreatinin                              Diurese Risk                                  1                         1 ½
-fache/+0,3 GFR -25%            \< 0,5ml/kg/h über \> 6h Injury                               2                         2-3fache, GFR -50%                      \<0,5ml/kg/h über \> 12h Failure                             3
+fache/+0,3 GFR -25%            \< 0,5 ml/kg / h über \> 6h Injury                               2                         2-3fache, GFR -50%                      \<0,5 ml/kg / h über \> 12h Failure                             3
 -                       \> 3fache/\> 4! GFR -75%
-- \< 0,3ml/kg/h über 24h/ Anurie Loss function                 -                Nierenversagen über \>
+- \< 0,3 ml/kg / h über 24h/ Anurie Loss function                 -                Nierenversagen über \>
 4 Wochen ESRD                               -                 Nierenversagen über \>
 3 Monate
 
@@ -364,8 +364,8 @@ Ursache beseitigen! Kreislauf stabilisieren und für ausreichenden Perfusionsdru
 - Mikrozirkulation aufrechterhalten (Laktat, ScvO2, MAP, HF)
 - Flüssigkeitsmanagement nach PICCO/Pulmi (PCWP), C/P, Klinisches Bild, ev. TEE im Zweikammerblick/Füllungszustand
 - Vasopressoren: Noradrenalin wirkt mehr auf vas eff.  = + GFR, Dopamin in Nierendosis 0,5-
-3mcg/kg/min dilatiert vas. Aff. Und vasokonstr. vas eff = erhöhter Filtrationsdruck (langfristig kein Vorteil)
-- NEV bei Kalium  \>  6,5 mmol/l, Harnstoff  \>180/200mg/dl, Kreatinin  \>  8mg/dl, Hypervolämie mit Lungenödem, Anurie/Oligourie, metabolische Azidose, urämische Intoxikation, BUN
+3 mcg / kg / min dilatiert vas. Aff. Und vasokonstr. vas eff = erhöhter Filtrationsdruck (langfristig kein Vorteil)
+- NEV bei Kalium  \>  6,5 mmol/l, Harnstoff  \>180/200 mg/dl, Kreatinin  \>  8 mg/dl, Hypervolämie mit Lungenödem, Anurie/Oligourie, metabolische Azidose, urämische Intoxikation, BUN
 \>100, Crea-Clearance \< 15, Somnolenz,..
 
 

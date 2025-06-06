@@ -142,9 +142,9 @@ Indikationen
     - Therapierefraktäre kardiale Dekompensation
 
 Dopamin
-: - **1-3 µg/kg/min**: Steigerung der Nieren-, Splanchinikus und Koronardurchblutung
-  - **1-10 µg/kg/min**: β1 Rezeptorwirkung – Steigerung der Myokardkontraktillität und der Herzfrequenz
-  - **5-10 µg/kg/min**: Steigerung des peripheren Widerstands, Abnahme der Nierendurchblutung
+: - **1-3 µg / kg / min**: Steigerung der Nieren-, Splanchinikus und Koronardurchblutung
+  - **1-10 µg / kg / min**: β1 Rezeptorwirkung – Steigerung der Myokardkontraktillität und der Herzfrequenz
+  - **5-10 µg / kg / min**: Steigerung des peripheren Widerstands, Abnahme der Nierendurchblutung
 
 
 ## Inodilatatoren

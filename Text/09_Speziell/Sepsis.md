@@ -24,7 +24,7 @@ SEPTISCHER SCHOCK
 
 PIRO der Sepsis: Prädisposition (chron. Erkrankung, Alter) + Insult/Ischämie/Infektion + Response (Mediatorenfreisetzung) + Organ Dysfunktion
 
-Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\<300, Oligourie mit positiver Bilanz \>20ml/kg in 24h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir, Hyperglykämie \>140mg/dl ohne DM)
+Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\<300, Oligourie mit positiver Bilanz \>20 ml/kg in 24h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir, Hyperglykämie \>140 mg/dl ohne DM)
 
 Tissue perfusions variables: Laktatanstieg, verkürzte Rekapill. Zeit, marmorierte Haut
 
@@ -75,16 +75,16 @@ Monitoring:
 ## 27.2. Therapie der Sepsis
 
 Hämodynamischer Support:
-- Flüssigkeit: 30ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
+- Flüssigkeit: 30 ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
   KEIN HES bei schwerer Sepsis/septischem Schock. Gelatine erwägen.
 - Kein NaBIC bei pH \> 7,15
-- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200mg/d (sonst immunsupressiv), absetzen wenn nach 24h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
+- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200 mg/d (sonst immunsupressiv), absetzen wenn nach 24h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
 - Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output, CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate, Oxygenierung.
 
 
 
 
-Erythrozytenkonzentrate bei Hb\<7g/dl, außer bei Myokardischämie, schwere Hypoxämie, akute Blutung. (Ziel Hb 7-9g/dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
+Erythrozytenkonzentrate bei Hb\<7 g / dl, außer bei Myokardischämie, schwere Hypoxämie, akute Blutung. (Ziel Hb 7-9 g / dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
 
 Thrombozytenkonzentrate nach strenger Indikation (\<10 000 ohne Blutung,  \<20 000 bei Blutungsgefahr, \<50 000 bei Blutung oder OP)
 - Herdidentifikation und Kontrolle: Fragen nach Schmerzen wo? (Pankreatitis,\...)

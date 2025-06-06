@@ -20,8 +20,8 @@ Faustregel: immobile Patienten 20-25kcal/KG + mobile Patienten 25-35kcal/kg
 Bei BMI\>30 wird auf das Normalgewicht, während bei untergewichtigen Personen aufs tatsächliche Gewicht Bezug genommen wird. Ein erhöhter Proteinbedarf besteht bei chronisch entzündlichen Darmerkrankungen, schwerer Pankreatitis, Leberzirrhose, Verbrennungen und postoperativ.
 Erhöhter Bedarf bei:
 x 1,2 bei Sepsis, Peritonitis Polytrauma, Verbrennung Reduzierung bei:
-Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\>30mg/dl/d  +
-Hypertriglyceridämie \> 350mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
+Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\>30 mg/dl/d  +
+Hypertriglyceridämie \> 350 mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
 Eiweiß
 
 
@@ -33,14 +33,14 @@ CIMON: kontinuierliche abdominelle Druckmessung mit kombinierter Ernährungs-  u
 Nahrungskarenz
 : Downregulation der Enzymaktivität, verminderte Mukosaproliferation, Apoptoserate steigt mit Läsionen der Darmschleimhaut und Blutungen, mit Bakterieller Überwucherung und gestörter lymphatischer Clearance, gestörte Motilität.
 
-Daher Zottenernährung: 20ml/h
+Daher Zottenernährung: 20 ml/h
 
-Fett: (1g = 9,3kcal) Abbau von FS durch β-Oxidation in den Mitochondrien va in der Leber, freie FS
+Fett: (1 g = 9,3kcal) Abbau von FS durch β-Oxidation in den Mitochondrien va in der Leber, freie FS
 -- Acyl-CoA -- Acetyl-CoA -- Citratzyklus zu CO2+ATP + Überschuss zu Ketonkörper Fettsäuresynthese in der Leber im Zytoplasma: wichtigste Vorstufe ist Glucose (aber auch AS) mit Hilfe von FS-Synthase unter CO2-Produktion zu Tricylglycerolen umgewandelt und als VLDL
 (Lipoproteine) ins Blut freigesetzt.
-KH: 1g = (4 kcal) Darm zu Monosaccariden abgebaut und resorbiert, Transportform Glucose,
+KH: 1 g = (4 kcal) Darm zu Monosaccariden abgebaut und resorbiert, Transportform Glucose,
 Abbau von Leberglycogen zur Aufrechterhaltung des Blutzuckerspiegels und Gluconeogenese in der Leber (Aus AS, Lactat, Glycerol)
-Protein: (1g = 4kcal) im MDT zu AS abgebaut und resorbiert, AS können nicht gespeichert werden,
+Protein: (1 g = 4kcal) im MDT zu AS abgebaut und resorbiert, AS können nicht gespeichert werden,
 ständige Proteinsynthese und Proteolyse (durch Proteinasen). AS werden vorwiegend in der Leber abgebaut (Aminostickstoff wird vor allem in Form von Glutamin und Alanin im Blut zur Leber transportiert), dabei wird Ammoniak NH3    freigesetzt. Dieser wird nur in der Leber zur Ausscheidung in Harnstoff umgewandelt.
 
 Parenertal: SMOF Kabiven 1100kcal (3 Kammern-Mischbeutel) ab dem 7  Tag durch Vitamine
@@ -49,16 +49,16 @@ Supradyn)+ Spurenelemente (Cernevit) ergänzen. Kontraindiziert bei Sojaallergie
 
 Zusammensetzung enteraler Sondenkost (enthalten ausreichend Spurenelemente):
 Starter: keine Ballaststoffe, 2/3 Protein 1/3 KH minimal Fett Survimed OPD: oligopeptide, vollresorbierbar, 68% KH,
-12% Fett, 20% Proteine Isosource Standart: 30% Fett, 20% Protein, 50% KH + Ballaststoffe, 500ml
-à 500kcal Novasource GI Control: 30% Fett, 20% Protein, 50% Kh + lösliche Ballaststoffe 500ml/500kcal Fresubin energy fibre: 750kcal/500ml Fresubin 2kcal HP fibre: 1000kcal/500ml 20% Protein 33%KH 48% Fett Diabetika: Isosource Faser Ca. 1500ml enterale Ernährung deckt den Bedarf an Vitaminen und Spurenelementen
+12% Fett, 20% Proteine Isosource Standart: 30% Fett, 20% Protein, 50% KH + Ballaststoffe, 500 ml
+à 500kcal Novasource GI Control: 30% Fett, 20% Protein, 50% Kh + lösliche Ballaststoffe 500 ml/500kcal Fresubin energy fibre: 750kcal/500 ml Fresubin 2kcal HP fibre: 1000kcal/500 ml 20% Protein 33%KH 48% Fett Diabetika: Isosource Faser Ca. 1500 ml enterale Ernährung deckt den Bedarf an Vitaminen und Spurenelementen
 
 In der Praxis werden nur 50-70%  der verordneten Menge gegeben, weil erhöhte Restmengen,
 Übelkeit, Erbrechen, Diarrhoe, Eingriffe, Diagnostik.
 Ernährungsprotokoll empfohlen.
 
 Restmengen 1-2x tgl bestimmen: def. Ernährungspause vor Bestimmung, ab welchen Mengen EN reduziert oder gestoppt?  PEG-Sonde nötig?  Am besten zw. 6h und 10 Uhr Ernährungspause,
-Vorteil bei Pflege kein Erbrechen; Vor Extubation Ernährung abdrehen und Magen absaugen (RM nach 2h) RM\<500ml o.B. \>500ml Zufuhr reduzieren Gastroparese.
-BZ: Zielbereich 110-150mg/dl, Ziel homogener Verlauf Prokinetika geben!
+Vorteil bei Pflege kein Erbrechen; Vor Extubation Ernährung abdrehen und Magen absaugen (RM nach 2h) RM\<500 ml o.B. \>500 ml Zufuhr reduzieren Gastroparese.
+BZ: Zielbereich 110-150 mg/dl, Ziel homogener Verlauf Prokinetika geben!
 Medikamente wenn möglich iv. lassen: Störung der Arzneimittelresorption durch Nahrung z.B.
 Furosemid, SD-Hormone,...
 
@@ -67,17 +67,17 @@ Furosemid, SD-Hormone,...
 
 ## 37.2. Prokinetika: *
 
-- Domperidon/Motilium p.o. 3x10mg, partieller D2-Rezeptor Antagonist, passiert BHS nicht,
+- Domperidon/Motilium p.o. 3x10 mg, partieller D2-Rezeptor Antagonist, passiert BHS nicht,
 daher keine neurologischen NW, iv. wg. Schwerer Arrhythmien vom Markt genommen;
-- Metoclopramid/Paspertin (KI Parkinson) 3x10mg i.v.;  wirkt  über D2-Rezeptoren des Hirnstamms und Antagonisiert 5HT3Rezeptoren am Vagus und Hirnstamm antiemetisch und
+- Metoclopramid/Paspertin (KI Parkinson) 3x10 mg i.v.;  wirkt  über D2-Rezeptoren des Hirnstamms und Antagonisiert 5HT3Rezeptoren am Vagus und Hirnstamm antiemetisch und
 über 5HT4Rezeptoren prokinetisch. NW sind extrapyramidale, Agitiertheit, Benommenheit,
 Tachyphylaxie!!
 - Erythromycin/Makrolidantibiotikum wirkt auf Motilinrezeptoren im ENS und glatten Muskelzellen des Darms;
 3 x
-100mg iv.
+100 mg iv.
 max.
 3 Tage wegen Tachyphylaxie/Rezeptordownregulation + QT-Verlängerung mit malignen Arrhythmien.
-- Neostigmin 0,5-1mg/d, höhere Dosis hemmt die Motilität (Acetylcholinesterasehemmer, KI bei Bradykardie, Hypotonie, Bronchospasmus, Krea \>3, Va.
+- Neostigmin 0,5-1 mg/d, höhere Dosis hemmt die Motilität (Acetylcholinesterasehemmer, KI bei Bradykardie, Hypotonie, Bronchospasmus, Krea \>3, Va.
 Perforation)
 - Prucaloprid, hochselektiver 5HT4Rezeptor Agonist ohne arrhythmogene NW, steigert Motilität und Transitzeit des Colon.
 
@@ -107,7 +107,7 @@ Inhibitator).
 Schwere Motilitätsstörungen findet man bei Splanchnikusminderperfusion und abdominellem Kompartmentsyndrom.
 
 Unterstützende Therapieoptionen: Laxantien (osmotische L. wie Mg, Lactulose, Sorbit),
-Opioidrezeptor Antagonisten, Einläufe/Klysmol (cave Phosphatanstieg) Microklist phosphatfrei auch für CNI geeignet. Gastrografin 1 x 60-100ml p.o.,
+Opioidrezeptor Antagonisten, Einläufe/Klysmol (cave Phosphatanstieg) Microklist phosphatfrei auch für CNI geeignet. Gastrografin 1 x 60-100 ml p.o.,
 Dulcolax Supp. (setzt CO2 frei und erregt so die Dehnungsrezeptoren, sehr schonend!) Dampfwickel.
 
 Dunbar-Syndrom: junge Patienten mit rezidivierender Gastroparese durch Kompression des Truncus coeliacus durch das Ligamentum arcuatum mediale des Zwerchfells;
@@ -140,6 +140,6 @@ Verwirrtheit, Parästhesien, Krämpfe, Koma.
 Therapie: sorgfältiges Ernährungsmanagement, engmaschiges Monitoring, Prophylaxe Untergewichtige Personen nach tatsächlichem Gewicht berechnen!
 
 Enteraler Kostaufbau:
-Early feeding Duodenalsonde: kein Bolus nur kontinuierliche Gabe, gleiche Produkte wie Magensonde: z.B. Isosource faser neutral 60/250/500/750/1000ml/Tag steigern + Ensure Plus 2x200ml am 6 Tag, dann chir. Kostaufbau möglich
+Early feeding Duodenalsonde: kein Bolus nur kontinuierliche Gabe, gleiche Produkte wie Magensonde: z.B. Isosource faser neutral 60/250/500/750/1000 ml/Tag steigern + Ensure Plus 2x200 ml am 6 Tag, dann chir. Kostaufbau möglich
 + Tee oder Mineralwasser
 

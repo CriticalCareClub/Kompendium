@@ -82,7 +82,7 @@ Therapieoptionen:
 - **Rekombinanter Faktor VIIa (NovoSeven™)** soll eine auf den Ort der Blutung (Verletzung) beschränkte Aktivierung des Gerinnungssystems bewirken
 - **FFP Fresh Frozen Plasma:** Aus einer Einzelspende oder gepoolten Spenden.
   Die gerinnungsaktive Qualität von Frischplasmen ist *sehr variabel* (Konzentration der Gerinnungsfaktoren beim Spender (große interindividuelle Schwankungen!), Lagerung (Temperatur), Herstellungsverfahren, Auftauvorgang (Temperatur und Geschwindigkeit), **Zeitpunkt der Gabe** (nach dem Auftauen verlieren die Gerinnungsfaktoren rasch an Aktivität: etwa 60–70% der Ausgangsaktivität nach dem Auftauen, Faktor V sogar nur etwa 40–50%, da sehr labil)).
-  - Massivblutung ohne gezielte  Substitutionsmöglichkeit von Fibrinogen oder PPSB (30ml/kg), *Verdünnungskoagulopathie* infolge Massivtransfusion, *Verbrauchskoagulopathie*
+  - Massivblutung ohne gezielte  Substitutionsmöglichkeit von Fibrinogen oder PPSB (30 ml/kg), *Verdünnungskoagulopathie* infolge Massivtransfusion, *Verbrauchskoagulopathie*
   - Mangel an Faktor V, angeborener Faktor-V- und -XI-Mangel
   - Volumeneffekt
   - *Massivtranfusion*: *EK* und *FFP* im Verhältnis *3:1* bis notfalls 1:1 geben. Kalzium nicht vergessen!

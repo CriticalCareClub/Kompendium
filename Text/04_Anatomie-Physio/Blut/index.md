@@ -96,7 +96,7 @@ Zwei Begriffe müssen zum besseren Verständnis von Antigen-Antikörper-Reaktion
 :::
 
 Die gesamte Blutmenge des menschlichen Körpers wird mit *7 - 8 %* des gesamten Körpergewichts beziffert.
-Damit beträgt das gesamte Blutvolumen eines Durchschnitts-Menschen mit 70kg ungefähr 5-6 l.
+Damit beträgt das gesamte Blutvolumen eines Durchschnitts-Menschen mit 70 kg ungefähr 5-6 l.
 Ungefähr 80% befinden sich davon im Körperkreislauf, 20% im Lungenkreislauf.
 Das Blut kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
 

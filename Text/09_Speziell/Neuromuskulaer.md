@@ -22,7 +22,7 @@ AN: keine Cholinesterasehemmer (verschlechtern!), sondern Kalziumkanalblocker (3
 = 80% nAChR-Ak positiv, Rest seronegative MG Klinik: abnorme Ermüdbarkeit der Muskulatur, belastungsabhängige Symptome, Besserung nach Ruhephasen, keine Sensibilitätsstörungen, schmerzlos.
 Test: Simpson Test (Doppelbilder, Ptose), EMG/ENG,
 Antikörperbestimmung Therapie:
-- Symptomatisch: Mestinon 3  x 60mg p.o. (=  Pyridostigmin-Bromid) = Azetylcholin-Esterase-
+- Symptomatisch: Mestinon 3  x 60 mg p.o. (=  Pyridostigmin-Bromid) = Azetylcholin-Esterase-
 Inhibatoren oder Ubretid (Distigminbromid)
 - Immunsupressiv: Prednisolon, Ciclosporin A
 - Immunologisch: monoklonale Ak

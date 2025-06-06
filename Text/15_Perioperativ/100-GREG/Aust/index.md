@@ -96,8 +96,8 @@ Alternative zur SPA:
 - Fussblock Bsp. ASK,
 
 kann Wirkdauer + Ausbreitung beeinflusst werden?
-Ja, unilaterale SPA mit hyperbarem Bupivacain 0,5%, Dosisreduktion bis 5mg (1ml) möglich, Seitenlagerung bis Fixierung gegeben ist. (ca. 10min).
-Wirkdauer kann durch Zugabe von Conidin (15-30µg) um das 1,5 bis 2 fache verlängert werden, bzw. durch 10µg Fentanyl als Additiv.
+Ja, unilaterale SPA mit hyperbarem Bupivacain 0,5%, Dosisreduktion bis 5 mg (1 ml) möglich, Seitenlagerung bis Fixierung gegeben ist. (ca. 10min).
+Wirkdauer kann durch Zugabe von Conidin (15-30 µg) um das 1,5 bis 2 fache verlängert werden, bzw. durch 10 µg Fentanyl als Additiv.
 
 Bsp.
 KTEP Möglichkeiten?
@@ -109,7 +109,7 @@ KTEP Möglichkeiten?
 - Psoaskompartmentblock Bsp. Außenknöchelfraktur?  PDA, SPA (unilateral), proximaler oder distaler Ischiadikusblock (popliteal), Femoralisblock mit distaler Saphenusblockade.
 
 Anwendung im Schockraum: OE mit ISK oder supraclav.
-Block, UE mit Fasc. Iliaca comp. Block Sattelblock: ist eine Sonderform der SPA mit hyperbarem Bupivacain 0,2%  ca. 1,5ml (0,8-1,2ml bei 0,5%) und für 15min sitzen lassen. Ind: Sakraldermoid, TURP
+Block, UE mit Fasc. Iliaca comp. Block Sattelblock: ist eine Sonderform der SPA mit hyperbarem Bupivacain 0,2%  ca. 1,5 ml (0,8-1,2 ml bei 0,5%) und für 15min sitzen lassen. Ind: Sakraldermoid, TURP
 
 
 
@@ -120,7 +120,7 @@ Die Grenzen sind das Lig. Longitudinale posterior, der laterale Wirbelbogen, die
 Die Distanz zur Haut beträgt 3 bis 8 cm! Inhalt ist Fett, Arterien, klappenlose Venen.
 Die Weite des Epiduralraums beträgt bei L2 = 5mm, Th6 = 2,5-3mm!!!
 Thorakal schwieriger!!
-Risiko intrathekale und intravasale Fehlinjektion;  Dosierung pro Segment lumbal 2-2,5ml und thorakal 1,5-2ml. Bei einer lumbalen PDA kann loss of resistance fehlen.
+Risiko intrathekale und intravasale Fehlinjektion;  Dosierung pro Segment lumbal 2-2,5 ml und thorakal 1,5-2 ml. Bei einer lumbalen PDA kann loss of resistance fehlen.
 
 Eine PDA unterhalb TH4 führt zu einem venösen Pooling und arterieller Vasodilatation mit Absinken des Herzzeitvolumens.
 Die Blockade der **N. splanchnici** führt zu vermehrter Mukosaperfusion und vermehrter Peristaltik mit verbesserter Wundheilung!
@@ -197,7 +197,7 @@ Obturatoriusblock: TURB mit Seitenwandbeteiligung
 
 Ischiadikusblock: Unterschenkelfraktur (anteriorer Zugang in Rückenlage + Saphenus für Haut)
 
-Distaler Ischiadikusblock: bei Achillessehnenruptur mit ca. 30ml LA Poplitealblock: Fußeingriffe
+Distaler Ischiadikusblock: bei Achillessehnenruptur mit ca. 30 ml LA Poplitealblock: Fußeingriffe
 
 Prüfung: Hallux-OP RA bei COPD IV? = Fussblock (alternativ: Poplitealblock)
 1. Ringwall subkutan 1  Handbreit  über dem Knöchel (N. fibularis superf., N. suralis, N. saphenus)

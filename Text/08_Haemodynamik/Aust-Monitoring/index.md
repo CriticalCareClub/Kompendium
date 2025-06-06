@@ -42,9 +42,9 @@ ab 4 Tag, Lungeninfarkt bei Dauerwedge.
 
 
 Messungen PAK:
-1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
+1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
 3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO2 (oder BGA) 70-75%
-   SV = 60-90ml, SVR 900-1400, PVR 150-250
+   SV = 60-90 ml, SVR 900-1400, PVR 150-250
 
 Prüfung: Nenne 10 Parameter des PAK! ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP,
 PCWP, CO, SVI, SVRI, PVRI, SgvO², DO², VO²
@@ -79,8 +79,8 @@ Vorteile des PICCO: wenig invasiv, wenig Komplikationen, kontinuierliche HZV-Mes
 
 Gemischt venöse Sättigung SgvO²  = 20-25%  niedriger als SaO²; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV, bei weniger Ausschöpfung (Schock, MOF) und bei guter Sedierung (weniger VO²).
 
-DO² = HZV x Hb x SaO²  x 1,34 x 10 =  normalerweise 750ml/min/m² ; der kritische DO²  liegt bei 300ml/min/m²
-VO² beträgt in Ruhe 3ml/min/kg
+DO² = HZV x Hb x SaO²  x 1,34 x 10 =  normalerweise 750 ml/min/m² ; der kritische DO²  liegt bei 300 ml/min/m²
+VO² beträgt in Ruhe 3 ml/min/kg
 
 CeVOX: kontinuierliche ScvO2-Messung über einen Standart ZVK mit CeVox-Sonde.
 LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV, SV, SVV, PPV VIGILEO: Pulskontur HZV-Messung CardioQ: Ösophageale Dopplersonde (Aorta descendens Kurve): Vorteil keine Arterie, kein ZVK CNAP: continous Non invasiv Arterial Bloodpressure mit Doppelfingermanchete

@@ -13,7 +13,7 @@
 
         0,005 mg / kg (1 Amp. / 100 kg ) i. v. titriert oder s. c.
         Bewährt hat sich: 1 Amp. (0,5 mg ) auf 10 mL → 0,050 mg / mL: mL-weise titrieren
-        Alternativ lässt sich Terbutalin auch gut unverdünnt über eine 1 mL -Spritze titrieren.
+        Alternativ lässt sich Terbutalin auch gut unverdünnt über eine 1 ml -Spritze titrieren.
 
     -   Tokolyse
 

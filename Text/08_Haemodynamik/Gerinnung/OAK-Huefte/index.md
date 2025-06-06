@@ -24,22 +24,22 @@ Bei sofort notwendiger operativen Versorgung (Therapiepause nicht möglich):
 Antidot für Dabigatran **Idarucizumab** (Praxbind®) bindet nach intravenöser Gabe freies Dabigatran und an Thrombin-gebundenes Dabigatran und neutralisiert dessen Wirkung.
 Idarucizumab bindet nicht an andere direkte Thrombininhibitoren oder an direkte Faktor Xa-Inhibitoren.
 Idarucizumab inaktiviert nach intravenöser Gabe die gerinnungshemmende Wirkung von Dabigatran sofort und komplett, ohne pro- oder antikoagulatorischen Effekt.
-Bei guter und eingeschränkter Nierenfunktion mit einer eGFR  \>  50 ml/min nach intravenöser Bolusgabe von (1-)2 x  2,5 g  Idarucizumab die Dabigatranwirkung innerhalb von Minuten aufgehoben werden  --  die Operation kann sofort durchgeführt werden. Dies ist vor allem bei kopferhaltenden Eingriffen zu erwägen (z.B. dislozierte mediale Schenkelhalsfraktur bei biologisch jüngeren Patienten).
-Bei schlechter Nierenfunktion (eGFR \< 50 ml/min) wird die Dabigatranwirkung nicht innerhalb der 48h-Grenze abgeklungen sein.
-Nach intravenöser Bolusgabe von 2 x 2,5 g Idarucizumab in 50 ml Trägerlösung wird die Dabigatranwirkung innerhalb von Minuten aufgehoben  --  die Operation kann sofort durchgeführt werden. Normalwerte der TZ können zur Bestätigung der Antidotwirkung eingeholt werden.
+Bei guter und eingeschränkter Nierenfunktion mit einer eGFR  \>  50 ml/min nach intravenöser Bolusgabe von (1-)2 x  2,5 g  Idarucizumab die Dabigatranwirkung innerhalb von Minuten aufgehoben werden  --  die Operation kann sofort durchgeführt werden. Dies ist vor allem bei kopferhaltenden Eingriffen zu erwägen (z.B. dislozierte mediale Schenkelhalsfraktur bei biologisch jüngeren Patienten).
+Bei schlechter Nierenfunktion (eGFR \< 50 ml/min) wird die Dabigatranwirkung nicht innerhalb der 48h-Grenze abgeklungen sein.
+Nach intravenöser Bolusgabe von 2 x 2,5 g Idarucizumab in 50 ml Trägerlösung wird die Dabigatranwirkung innerhalb von Minuten aufgehoben  --  die Operation kann sofort durchgeführt werden. Normalwerte der TZ können zur Bestätigung der Antidotwirkung eingeholt werden.
 Es ist zu beachten, dass entsprechend der Halbwertszeit von Idarucizumab die Operation innerhalb von 12h nach Antidotgabe erfolgen soll.
 Eine klinische Warnung gegen Idarucizumab ist bei Fruktoseintoleranz. Hierbei erscheint jedoch das Risiko durch eine Blutungsmanifestation höher und daher insgesamt die Antidotgabe trotz möglicher Intoleranzreaktion gerechtfertigt.
 Da Idarucizumab keine prokoagulatorischen Effekte hat, steigt das Thromboserisiko nur durch das Fehlen des Antikoagulans.
-Wenn während der Operation eine schwere Blutungsmanifestation (bei verlängerter TZ) auftritt, kann eine Repetition (2. Bolusgabe) mit bis zu 5g Idarucizumab erfolgen.
+Wenn während der Operation eine schwere Blutungsmanifestation (bei verlängerter TZ) auftritt, kann eine Repetition (2. Bolusgabe) mit bis zu 5 g Idarucizumab erfolgen.
 
 Ein postoperatives Bridging sollte nach Stratifizierung des thromboembolischen Risikos nach CHA2DS2-VASc Score erfolgen (Herzerkrankung, Alter, art. HT, DM, Z.n. thromboembolischen Ereignis, Geschlecht).
 Mittleres Thromboserisiko: bei Doppelflügelklappe in Aortenposition mit einem Risikofaktor (z.B.
-Vorhofflimmern, Schlaganfall/transitorisch ischämische Attacke  \>  6 Monaten, arterielle Hypertension): Bridging mit Heparinen in halbtherapeutische Dosierung (z.B. 1 x  1 mg/kg Enoxaparin) mit Anti-Xa-Aktivitätsbestimmung (2-4 Std. nach der s.c.
+Vorhofflimmern, Schlaganfall/transitorisch ischämische Attacke  \>  6 Monaten, arterielle Hypertension): Bridging mit Heparinen in halbtherapeutische Dosierung (z.B. 1 x  1 mg / kg Enoxaparin) mit Anti-Xa-Aktivitätsbestimmung (2-4 Std. nach der s.c.
 Gabe)
 
 
 
 Hohes Thromboserisiko:
 bei Mitralklappenersatz,
-Doppelklappenersatz oder Schlaganfall/transitorisch ischämische Attacke  ≤  6 Monaten: Bridging mit Heparinen in therapeutische Dosierung (z.B. 2 x 1 mg/kg Enoxaparin) mit Anti-XaAktivitätsbestimmung (2-4 Std.
+Doppelklappenersatz oder Schlaganfall/transitorisch ischämische Attacke  ≤  6 Monaten: Bridging mit Heparinen in therapeutische Dosierung (z.B. 2 x 1 mg / kg Enoxaparin) mit Anti-XaAktivitätsbestimmung (2-4 Std.
 nach der s.c. Gabe

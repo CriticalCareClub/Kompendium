@@ -8,9 +8,9 @@
 ## Plansectio
 
 SPA
-: - Bubivacain 0,5% ca. 2ml (= 10mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
-  - Volumen 500-1500ml O2-Maske 2-4l Bei Hypotonie und Tachykardie: Phenylephrin Bolus 50-100mcg (α-Agonist) mit Reflexbradykardie
-  - + Phenylephrin Perfusor mit 30ml/h (= 50mcg/min) nach SPA bis zur Abnabelung des Kindes 
+: - Bubivacain 0,5% ca. 2 ml (= 10 mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
+  - Volumen 500-1500 ml O2-Maske 2-4l Bei Hypotonie und Tachykardie: Phenylephrin Bolus 50-100 mcg (α-Agonist) mit Reflexbradykardie
+  - + Phenylephrin Perfusor mit 30 ml/h (= 50 mcg/min) nach SPA bis zur Abnabelung des Kindes 
 
 
 
@@ -33,11 +33,11 @@ Ind
 = Zeit von Narkoseeinleitung bis Nabelschnurabklemmung soll  \<  10 min sein!
 
 RSI
-: - Thiopental 4-6mg/kg KG
-  - Succinylcholin 1-1,5mg/kg KG oder Esmaron 1mg/kg KG
+: - Thiopental 4-6 mg / kg KG
+  - Succinylcholin 1-1,5 mg / kg KG oder Esmaron 1 mg / kg KG
   - Sevofluran bis MAC 0,6 ?
-  - Fentanyl 4ml (200mcg), AB und Pabal/Synto nach Nabelschnurklemmung 
+  - Fentanyl 4 ml (200 mcg), AB und Pabal/Synto nach Nabelschnurklemmung 
   
 PDK liegend
-: Aufspritzen mit 10ml 2%  Naropin + 10ml 7,5%  Naropin oder fraktioniert bis max. 25ml Ampres/Chloroprocain 10mg/ml
+: Aufspritzen mit 10 ml 2%  Naropin + 10 ml 7,5%  Naropin oder fraktioniert bis max. 25 ml Ampres/Chloroprocain 10 mg / ml
 

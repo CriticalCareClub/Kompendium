@@ -11,7 +11,7 @@ Der Mensch ist ein Sauerstoffregulierer: ist das HZV vermindert wird mehr O2 aus
 Ab 100/min Sympathikusaktivierung, davor nur Rücknahme des Parasympathikus.
 HF und Cardial Output steigen parallel linear an. Das SV ist durch die notwendige Füllungszeit limitiert.
 Bei hoher HF verkürzt sich va. die Diastole und reduziert damit auch die Coronardurchblutung.
-Bei Volumenmangel reagiert die Haut rasch mit Umverteilung/Zentralisation = Kaltschweißigkeit und Blässe, das SV steigt von 100 auf ca. 120ml durch vermehrt venösen Rückstrom (Blutreserve in der Lunge für den linken Ventrikel).
+Bei Volumenmangel reagiert die Haut rasch mit Umverteilung/Zentralisation = Kaltschweißigkeit und Blässe, das SV steigt von 100 auf ca. 120 ml durch vermehrt venösen Rückstrom (Blutreserve in der Lunge für den linken Ventrikel).
 Das Splanchnikusgebiet reagiert am langsamsten auf einen Blutdruckabfall.
 
 Vasovagale Synkope: verminderter venöser Rückstrom zum Herzen  --  rechtes Herz ist leer  --

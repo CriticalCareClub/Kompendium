@@ -568,7 +568,7 @@ Citation needed
   > qSOFA had poor sensitivity and moderate specificity for short-term mortality. The SIRS criteria had sensitivity superior to that of qSOFA, supporting their use for screening of patients and as a prompt for treatment initiation.
 
 🗎 FI AmiodaronHameln 2020
-: **Amiodaron-hameln 50 mg/ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
+: **Amiodaron-hameln 50 mg / ml Konzentrat zur Herstellung einer Injektions- /Infusionslösung.**
   by Fachinformation
   Dezember 2020.
   hameln pharma gmbh.
@@ -1512,7 +1512,7 @@ Citation needed
   By Wang, C. et al.
   Thrombosis research, 2016, 141, 119-23.
 
-  > CONCLUSION: IV-TXA at 10mg/kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15mg/kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15mg/kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
+  > CONCLUSION: IV-TXA at 10 mg / kg significantly reduced blood loss and mitigated the decrease in hemoglobin and hematocrit after THA, but it did not significantly reduce the need for transfusions. In contrast, a dose of 15 mg / kg reduced both bleeding and transfusion requirements. Our results argue for a dose of 15 mg / kg when using single-dose IV-TXA. LEVEL OF EVIDENCE: Therapeutic Level I.
 
 🗎 Weil 1971
 : **Proposed reclassification of shock states with special reference to distributive defects**

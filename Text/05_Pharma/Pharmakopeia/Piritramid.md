@@ -22,9 +22,9 @@
 
 :Dosierung:
 
-   Erw: 1–2 mL iv., 2–4 mL im
+   Erw: 1–2 ml iv., 2–4 ml im
 
-   KK: 0,1 mg / kg, SK: 0,1–0,2mg / kg
+   KK: 0,1 mg / kg, SK: 0,1–0,2 mg / kg
 
    Wiederholung nach 30 Min .
 

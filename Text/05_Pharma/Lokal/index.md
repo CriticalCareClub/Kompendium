@@ -360,10 +360,10 @@ Symptome:
 
 ### Maximaldosis der LA:
 
-- {ref}`Lidocain <Lidocain>` 3-4mg/kg (300mg), mit Adrenalin 7mg/kg
-- {ref}`Bupivacain <Bupivacain>` 2mg/kg (150mg), oder 30mg/h kontinuierlich, mit Adrenalin 2-3mg/kg
-- {ref}`Ropivacain <Ropivacain>` 3-4mg/kg (250mg), oder 37,5mg/h
-- {ref}`Prilocain <Prilocain>` 5-6mg/kg (400mg), mit Adrenalin 8-9mg/kg (600mg)
+- {ref}`Lidocain <Lidocain>` 3-4 mg / kg (300 mg), mit Adrenalin 7 mg / kg
+- {ref}`Bupivacain <Bupivacain>` 2 mg / kg (150 mg), oder 30 mg/h kontinuierlich, mit Adrenalin 2-3 mg / kg
+- {ref}`Ropivacain <Ropivacain>` 3-4 mg / kg (250 mg), oder 37,5 mg/h
+- {ref}`Prilocain <Prilocain>` 5-6 mg / kg (400 mg), mit Adrenalin 8-9 mg / kg (600 mg)
 
 
 
@@ -391,9 +391,9 @@ Benzodiazepine für Patientenkomfort: Vorteil: antikonvulsiv;  Nachteil: Initial
 Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
 - Phase I: Hypertension, Tachykardie, zentrale Exzitation
 - Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
-- Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3mg iv. bei Bradykardie mit massiver Kardiodepression.
+- Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3 mg iv. bei Bradykardie mit massiver Kardiodepression.
 
-100ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
+100 ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
 Kanäle), frühzeitig HLM, LUCAS erwägen.
 
 
@@ -403,15 +403,15 @@ Therapie toxischer ZNS-Symptome:
 
 - Injektion abbrechen, auch bei Verdacht.
 - Hyperventilation (=  resp. Alkalose, dh. weniger LA kann ins ZNS, und in die Herzmuskelzelle eintreten) + Sauerstoffgabe
-- Benzodiazepine: Krampfprophylaxe mit z.B. Dormicum 2-3mg iv.
+- Benzodiazepine: Krampfprophylaxe mit z.B. Dormicum 2-3 mg iv.
 - Therapie der Krämpfe (Thiopental)
 - Beatmung/Hyperventilation, ev. Intubation
-- 100ml Intralipid 20%, wiederholen bis stabiler KRL
-- Ev. Lidocain 100-200mg bei Bupivacain-Intoxikation
+- 100 ml Intralipid 20%, wiederholen bis stabiler KRL
+- Ev. Lidocain 100-200 mg bei Bupivacain-Intoxikation
 - Prolongierte CPR, ev. HLM, LUCAS
 - Antiepileptika
 - Allgemeinnarkose
-- Lipidinfusion Lipid Rescue®: Bolus Intralipid 20%  100ml sofort und ev. wiederholen;  in der Lipidphase soll mehr Bupivacain gebunden werden, vermehrt NO gebildet, und der Bupivacain-Transport in die Myokardzelle gehemmt werden. Propofol ist als Ersatz NICHT geeignet!
+- Lipidinfusion Lipid Rescue®: Bolus Intralipid 20%  100 ml sofort und ev. wiederholen;  in der Lipidphase soll mehr Bupivacain gebunden werden, vermehrt NO gebildet, und der Bupivacain-Transport in die Myokardzelle gehemmt werden. Propofol ist als Ersatz NICHT geeignet!
 - Azidoseprophylaxe
 - Elektrolytausgleich
 - Kreislaufunterstützung

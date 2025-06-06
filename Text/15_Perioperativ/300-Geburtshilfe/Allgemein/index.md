@@ -84,7 +84,7 @@ Prophylaxe/Therapie
 - Kurzzeitige Schmerztherapie mit Tramadol, Piritramid, Fentanyl und Morphin ist keine Einschränkung des Stillens! (Pethidin \>Morphin\>Piritramid) (Morphin:Pethidin = 1:0,1)
 - Stillzeit: Paracetamol, Ibuprufen, Indomethacin, Morphin, Fentanyl, Methadon
 
-Normaler Blutverlust bei Geburt ist ca. 600ml!
+Normaler Blutverlust bei Geburt ist ca. 600 ml!
 
 
 

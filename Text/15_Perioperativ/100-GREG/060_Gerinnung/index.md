@@ -27,7 +27,7 @@ Die Risikoeinschätzung umfasst:
   - Pharmakokinetik
   - Dosierung (z.B. "prophylaktische" vs. "therapeutische" Dosierung)
 - Nierenfunktionsstörungen:
-  Aufgrund der **Akkumulationsgefahr** mit zunehmender Niereninsuffizienz unterscheiden sich die empfohlenen Zeitintervalle bei Patienten mit Niereninsuffizienz unter einer GFR von 30-60 ml/h deutlich.
+  Aufgrund der **Akkumulationsgefahr** mit zunehmender Niereninsuffizienz unterscheiden sich die empfohlenen Zeitintervalle bei Patienten mit Niereninsuffizienz unter einer GFR von 30-60 ml/h deutlich.
   Zur Beurteilung der Nierenfunktion und Risikoevaluierung soll die Kreatininclearance herangezogen werden. {term}`♛ S1 RM-RA Antikoag 2021`
 - Leberfunktionsstörungen
 - Gerinnungstörungen
@@ -40,7 +40,7 @@ Eine Faustregel zum erforderlichen Sicherheitsabstand zwischen der letzten Gabe 
 - 2 Halbwertszeiten bei Monotherapie bzw.
 - 4–5 Halbwertszeiten bei zusätzlicher ASS-Einnahme
 
-Unter geplanter Fortführung von ASS (≤ 100mg/d) sollten zusätzliche Antikoagulanzien (in prophylaktischer Dosierung) 4-5 HWZ vor Punktion/ Katheterentfernung pausiert werden {term}`♛ S1 RM-RA Antikoag 2021`.
+Unter geplanter Fortführung von ASS (≤ 100 mg/d) sollten zusätzliche Antikoagulanzien (in prophylaktischer Dosierung) 4-5 HWZ vor Punktion/ Katheterentfernung pausiert werden {term}`♛ S1 RM-RA Antikoag 2021`.
 
 :::{warning}
 Bei allen Patienten unter Antithrombotika ist Abwägung des Blutungs- und Thrombembolierisikos (Art und Umfang des Eingriffes einerseits, Grunderkrankung andererseits) obligat.

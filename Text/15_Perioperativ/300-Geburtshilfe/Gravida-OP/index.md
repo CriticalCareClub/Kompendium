@@ -20,14 +20,14 @@ Problem bei SS
     - Needle cricothyreoidektomie/Koniotomie
   - Hohes Aspirationsrisiko: nie nüchtern! RSI! 
   
-    Präop: **Natriumcitrat** 30ml p.o. wirkt nach 10-15min, H2-Blocker wirken nach 60min iv. z.B. Zantac 50mg
+    Präop: **Natriumcitrat** 30 ml p.o. wirkt nach 10-15min, H2-Blocker wirken nach 60min iv. z.B. Zantac 50 mg
 
 Erlaubte Anästhetika
 : - Benzodiazepine (Atemdepression Ng?)
   - Propofol/Thiopental
   - Muskelrelaxantien
   - LA: Ropivacain und Bubivacain sind aufgrund hoher Proteinbindung schlecht Plazentagängig
-  - Ketanest bis 1mg/kg KG (ab 2mg/kg KG entspricht es ca. 10 IE Synto!)
+  - Ketanest bis 1 mg / kg KG (ab 2 mg / kg KG entspricht es ca. 10 IE Synto!)
   - Volatile Anästh: MAC um 40%  reduzieren, weil red. FRC! Hemmen dosisabhängig die Uteruskontraktion, mit Gefahr eines atonen Uterus.
   - Penicillin und Cephalosporine nach strenger Ind.
   - NRSA nur im 1+2 Trimester, ab 3  Trimester nur Paracetamol, da sonst erhöhte Blutungsneigung und vorzeitiger Verschluss des Ductus botalli
@@ -36,7 +36,7 @@ Tokolyse
 : bei ungeplanter Sectio, prophylaktisch bei Bauchchir. zw. 23 und 34 SSW 
 
   - Gynipral = Beta-2-Sympatomimetikum, CAVE: Tachykardie und Lungenödem 
-  - Magnesium: 4mg Bolus + Erhaltungsdosis 
+  - Magnesium: 4 mg Bolus + Erhaltungsdosis 
   - Calciumantagonist: Nifedipin 
-  - Tractocile = Ocytocin Antagonist 6,75mg über 1 min, dann Perfusor
+  - Tractocile = Ocytocin Antagonist 6,75 mg über 1 min, dann Perfusor
 

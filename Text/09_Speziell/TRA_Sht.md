@@ -421,11 +421,11 @@ Ebrantil-Perfusor...
 
 Regulation des CBF:
 Autoregulation zwischen 60-140MAP konstanter CBF, außerhalb dieses Bereiches abhängig vom MAP lineare Beziehung zum paCO2: steigt dieser um 1mmHg,
-steigt CBF um 2ml/100g/min paO2-Schwellenwert: paO2 \< 50mmHg = steigt der CBF. Der CPP (Cerebraler Perfusions Pressure)
+steigt CBF um 2 ml/100g/min paO2-Schwellenwert: paO2 \< 50mmHg = steigt der CBF. Der CPP (Cerebraler Perfusions Pressure)
 sollte zwischen 60 und 70mmHg liegen! (MAP -- ICP = CPP)
 Der intracranielle Blutfluss beträgt 14%  des Herzminutenvolumens und verbraucht 25%  des Ruhesauerstoffverbrauches.
 BHS: mechanische Barriere mit Tight junctions und metabolischer Barriere, H2O + CO2 + O2 kann frei diffundieren. Schützt vor Toxinen, hält Glucose im Gehirn stabil, hält Neurotransmitter im Gehirn, Kontrolliert den Elektrolyttransfer.
-Liquor: Die Produktion erfolgt im Plexus choroideus, ca. 150  - 550ml, HWZ 2-6h, Ultrafiltrat des Blutplasmas, dämpft Gehirnmasse, reguliert Atemzentrum der Medulla oblongata durch den CO2-
+Liquor: Die Produktion erfolgt im Plexus choroideus, ca. 150  - 550 ml, HWZ 2-6h, Ultrafiltrat des Blutplasmas, dämpft Gehirnmasse, reguliert Atemzentrum der Medulla oblongata durch den CO2-
 Gehalt.
 CCT-KO: bei Vigilanzverschlechterung/Somnolenz beim wachen Patienten, beim intubierten Patienten, 6h nach dem Trauma Blutungskontrolle. Hirndruckzeichen im CCT sind das Verstreichen der basalen Zisternen und Verlust der Sulci, Midlineshift mit Abklemmung der Gefäße an der Falx cerebri mit Perfusionsstop (CT-Angio,
 transcranieller Doppler)
@@ -453,7 +453,7 @@ Maßnahmen zur ICP-Senkung:
 - 15 bis 30° Oberkörperhochlagerung mit Neutralstellung des Kopfes
 - Tiefe Analgosedierung mit Optimal Handling Kat.I
 - Liquordrainage EVD, neurochirurgische Entlastungsoperation
-- Mannitol 0,5-1g/kg KG
+- Mannitol 0,5-1g / kg KG
 (Hyperhaes, TRIS)(TRIS beeinflusst Liquorazidose und Ödem günstig)
 - Kurzfristig: Hyperventilation paCO2 \< 30mmHg.
 - Ev. Milde Hypothermie 33-34°C bei therapierefraktären Krisen mittels Coolguard
@@ -471,24 +471,24 @@ Goldstandart zur Liquordrainage ist die Ventrikelsonde, aber auch lumbal möglic
 
 Beatmung:
 Pmax 35mmHg, PEEP 5-8mmHg, I:E \< 1,5, paCO2 33-36mmHg,
-pO2 \>100, VT 6-8ml/kgKG Bei schlechter Oxygenierung initial FIO2 hoch, PEEP nur unter ICP-Kontrolle steigern!
+pO2 \>100, VT 6-8 ml/kgKG Bei schlechter Oxygenierung initial FIO2 hoch, PEEP nur unter ICP-Kontrolle steigern!
 Cave: neurogenes Lungenödem möglich
 
 
 Sedierung:
 - Sufentanil: analgesierend und sedierend (NW: Abhängigkeit, Darmparalyse)
-- Propofol bis 4mg/kgKG senkt cerebralen O2-Verbrauch
+- Propofol bis 4 mg / kgKG senkt cerebralen O2-Verbrauch
 - Barbiturate: Thiopental oder Methohexital: senken ICP und O2-Bedarf des Hirns
 - Midazolam: verstärkt die Opiatwirkung
 - Ketanest: beim beatmeten Patienten mit konstantem paCO2 und stabilem MAP neuroprotektiv über NMDA-Rezeptoren.
 - Clonidin: sediert und verstärkt Opiatwirkung, bei Entzungssymtomatik, Weaning (0,075-
-0,6mg/h) NW: Bradykardie, selten Hypotonie
+0,6 mg/h) NW: Bradykardie, selten Hypotonie
 
 Ein  Barbiturat-Koma bis zur Burst-Supression im EEG  wird bei therapierefraktärer Hirndruckerhöhung oder beim therapierefraktären Status epileptikus angewendet.
 
 Allgemeine Maßnahmen:
 - Ernährung: enteraler Kostaufbau sobald möglich, 12,5kcal/kg KG beginnen und ab dem 3 Tag 25kcal/kg KG.
-- Obstipationsprophylaxe: Erythromycin 3x 200mg po, Gastrographin, Movichol,...
+- Obstipationsprophylaxe: Erythromycin 3x 200 mg po, Gastrographin, Movichol,...
 - Thromboseprophylaxe:
 ersten 3-5 Tage bei massiver Blutung mechanische Thrombosestrümpfe, danach NMWH sc nach Rücksprache mit dem NC.
 - Stressulcusprophylaxe: Pantoloc, Sucralfat,...
@@ -515,13 +515,13 @@ Wellen \>4Hz große langsame Wellen in Allgemeinnarkose. Eine Burst-Supression u
 Komplikationen:
 - Krampfanfälle: akut Midazolam, regelmäßig: Valproinsäure (Convulex, Depakine), Phenytoin
 (Epilan), Keppra (Levetiracetam), Vimpat (Lacosamid, KI bei AV-Block). Die antiepileptische Therapie kann nach dem ersten Anfall, soll nach dem zweiten und muss nach dem dritten Anfall begonnen werden.
-- Posttraumatischer Diabetes insipidus: durch vermind. ADH-Sekretion, ½ Amp. Minirin (= 2µg iv. Desmopressin)
+- Posttraumatischer Diabetes insipidus: durch vermind. ADH-Sekretion, ½ Amp. Minirin (= 2 µg iv. Desmopressin)
 - Cerebral salt wasting Syndrom: Hyponatriämie mit Volumenmangel
 + hohes Harnnatrium
 - SIADH mit Na und Wasserretention: Hyponatriämie führt zum Sistieren der ADH-Sekretion bei gestörtem Regelkreis bei SHT, Urinosm. \> Serumosm. (\<280),
 Oligourie.
 
-Mannit: 0,25  --  0,5g/kg KG rasch verabreicht senkt den ICP bis zu 4h! Es ist hyperosmolar
+Mannit: 0,25  --  0,5g / kg KG rasch verabreicht senkt den ICP bis zu 4h! Es ist hyperosmolar
 (1100mosmol/l bei 20%  Lsg), führt jedoch auch zur Hypotension und Dehydrierung mit Gefahr eines prärenalem Nierenversagens und Elektrolytstörungen. Erhöht die Blutviskosität.
 
 

@@ -27,7 +27,7 @@ Morrison-Pouch, Leber, Milz, suprapubisch
 - Stauung Ca. 20% der derklinisch-kardial dekompensirten Pateiten
   zeigen keine CP-Korrelation
 
-- Pleuraerguss Sensitivität 66% (abhängig von Ergussmenge, ab 300 ml
+- Pleuraerguss Sensitivität 66% (abhängig von Ergussmenge, ab 300 ml
   möglich)
 
 - Atelektase Sensitivität 65%, Spezifität 89%

@@ -149,7 +149,7 @@ Erstmaßnahme:
 - Flüssigkeitszufuhr stoppen
 - Diurese forcieren: Schleifendiuretika
 - Benzodiazepine (Agetiertheit, Krampfneigung)
-- Natriumkorrektur mit 3% NaCL (max. 100ml/h) Zielwert: 125 mmol/l
+- Natriumkorrektur mit 3% NaCL (max. 100 ml/h) Zielwert: 125 mmol/l
 
 Natriumkorrektur muss langsam erfolgen sonst  pontine Myelinolyse = Demyelinisierung im Stammhirn mit Störung der zentralen vegetativen Regulationsmechanismen.
 Klinik: 3 Tage nach Na-Korrektur von Müdigkeit, Verwirrtheit bis Koma, Gangunsicherheit bis Tetraparese und Atemlähmung, Schluckstörung.

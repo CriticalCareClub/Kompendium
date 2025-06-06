@@ -735,7 +735,7 @@ Der Diabetes mellitus ist wegen seiner Komplikationen unbedingt therapiebedürft
 
 I Akute Komplikationen:
 
-> A: Hypoglykämie: Definiert als Blutzuckerspiegel unter 45mg/dl plus
+> A: Hypoglykämie: Definiert als Blutzuckerspiegel unter 45 mg/dl plus
 > klinische Symptome, die sogar bis zum Schock (Hypoglykämischer
 > Schock) führen können. Die Symptome könne äußerst verschieden sein –
 > Konzentrationsstörungen, Schwitzen, Sehstörungen, Kribbelgefühl,

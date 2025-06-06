@@ -111,4 +111,4 @@ Bsp: Verlängerung der HWZ für Muskelrelaxantien unter Phenytoin-Therapie!
 
 Nach repetitiven Gaben akkumulieren Medikamente bis ein steady state (nach 3 bis 5 t1/2)vorliegt.
 
-> Bsp. Morphin t1/2 = 3h 10mg -- nach 3h 5mg +10 -- 6h 7,5+10 -- 9h 8,5+10 -- 12h 9+10 -- 15h 10+10 steady state Zum angemessenen intravenösen Regime muss eine Zielkonzentration und eine loading dose und eine Erhaltungsdosis berechnet werden.
+> Bsp. Morphin t1/2 = 3h 10 mg -- nach 3h 5 mg +10 -- 6h 7,5+10 -- 9h 8,5+10 -- 12h 9+10 -- 15h 10+10 steady state Zum angemessenen intravenösen Regime muss eine Zielkonzentration und eine loading dose und eine Erhaltungsdosis berechnet werden.

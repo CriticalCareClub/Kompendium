@@ -32,7 +32,7 @@ Unterschiedliche Konzentrationen im Handel!
 :Dosierung:
 
     -   Analgesie: 0,1—0,25 mg / kg i. v., 0,25—0,5 mg / kg i. m.;
-    -   Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg im.;
+    -   Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg im.;
     -   Bronchospasmus: 1—2,5 mg / kg i. v.
     -   Rep: halbe Initialdosis.
 

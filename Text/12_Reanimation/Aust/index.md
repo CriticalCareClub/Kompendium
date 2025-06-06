@@ -6,7 +6,7 @@
 - Thoraxkompressionen: Beatmung 30:2
 - Thoraxkompressionen weiterführen und DEFI-Paddels anbringen: defibrillierbarer Rhythmus
 (KV, pulslose VT)? Ja: Defi laden -- alle weg -- Schock 360Joule monophasisch (biphasisch 150-
-200 Joule) -- Kompressionen sofort weiterführen ohne Herzrhythmus neu zu beurteilen. Nach 2 Minuten neuerliche Beurteilung des Rhythmus -- 2 Schock 360 J und für 2 Minuten sofort CPR weiter  --  3 Schock 360 j  --  ROSC  ??  nein = 1mg Adrenalin + 300mg Amiodaron sobald Kompressionen weiter + 3-5 Minuten Adrenalin 1mg iv..... ev. weitere Gabe von 150mg Amiodaron bei refratärer VF/VT
+200 Joule) -- Kompressionen sofort weiterführen ohne Herzrhythmus neu zu beurteilen. Nach 2 Minuten neuerliche Beurteilung des Rhythmus -- 2 Schock 360 J und für 2 Minuten sofort CPR weiter  --  3 Schock 360 j  --  ROSC  ??  nein = 1 mg Adrenalin + 300 mg Amiodaron sobald Kompressionen weiter + 3-5 Minuten Adrenalin 1 mg iv..... ev. weitere Gabe von 150 mg Amiodaron bei refratärer VF/VT
 - Nicht defibrillierbarer Rhythmus: Asystolie, pulslose elektrische Aktivität  --  CPR + Adrenalin alle 3-5 Minuten, Asystolie (EKG-Ableitung korrekt? P-welle vorhanden bei AV-Block III ind.
 Transkutaner PM)
 - Reversible Ursachen prüfen, ev. Paddelsposition verändern, Thrombolyse indiziert?  PCI indiziert?
@@ -41,7 +41,7 @@ Thoraxkompressionen nur kurz unterbrechen um den Herzrhytmus zu beurteilen. Für
 (max. 10 sec zum Einführen in Stimmritze). Beatmung mit ca. 10/min!! etCO2-Nachweis mit kolorimetrisch mit Lackmuspapier,
 Infrarotspektrometer ohne Kurve, Kapnographie.
 Helfer für Thoraxkompressionen alle 2 Minuten auswechseln.
-Peripher injizierten Medikamenten muss ca. 20ml Flüssigkeit nachgespült werden + Hochlagern der Extremität für 10-20 sec.
+Peripher injizierten Medikamenten muss ca. 20 ml Flüssigkeit nachgespült werden + Hochlagern der Extremität für 10-20 sec.
 Die Reanimation wird, wenn der Beginn angemessen war, in der Regel fortgesetzt, solange ein VF/VT besteht.
 Ausnahme: Dreischocktherpie im HerzOP/Herzkatheterlabor = 3 schnell aufeinanderfolgende Schocks mit anschließenden Thoraxkompressionen. (Defi bereits angeschlossen).
 PEA = pulslose elektrische Aktivität  bei extrem schwacher Myokardkontraktion, die trotz elektrischer Aktivität, keinen Auswurf/Puls zustande bringt. Oft durch reversible Ursachen bedingt!
@@ -51,11 +51,11 @@ Adrenalin:  α-adrenere Vasokonstriktion mit Anstieg des koronaren und zerebrale
 
 
 
-Adrenalin gibt es in 2 Verdünnungen 1:1000 1ml = 1mg und 1:10000 10ml =1mg
+Adrenalin gibt es in 2 Verdünnungen 1:1000 1 ml = 1 mg und 1:10000 10 ml =1 mg
 
-Amiodaron: 300mg  --  150mg  --  900mg Perfusor  über 24h;  verbessert durch Membranstabilisierung und damit Verlängerung des Aktionspotentials und durch Verlangsamung der atrioventrikulären  Überleitung bei therapierefraktären VF das Kurzzeitüberleben. Eine Histaminausschüttung mit Hypotension entsteht durch zu rasche Injektion durch das Lösungsmittel der Substanz. (Chron. NW: Einschränkung der SD-Funktion, korneale Mikroablagerungen,
+Amiodaron: 300 mg  --  150 mg  --  900 mg Perfusor  über 24h;  verbessert durch Membranstabilisierung und damit Verlängerung des Aktionspotentials und durch Verlangsamung der atrioventrikulären  Überleitung bei therapierefraktären VF das Kurzzeitüberleben. Eine Histaminausschüttung mit Hypotension entsteht durch zu rasche Injektion durch das Lösungsmittel der Substanz. (Chron. NW: Einschränkung der SD-Funktion, korneale Mikroablagerungen,
 periphere Neuropathie, pulmonale und hepatische Infiltrate.)
-Alternative 100mg  Lidocain, wenn kein Amiodaron zur Verfügung steht: membranstabilisierend durch Verlängerung der Refraktärphase in der Muskelzelle. Wirksam daher vorallem bei Depolarisation durch Ischämie, Digitalisintoxikation. Wenig wirksam bei normal polarisierten Zellen bei VHF.
+Alternative 100 mg  Lidocain, wenn kein Amiodaron zur Verfügung steht: membranstabilisierend durch Verlängerung der Refraktärphase in der Muskelzelle. Wirksam daher vorallem bei Depolarisation durch Ischämie, Digitalisintoxikation. Wenig wirksam bei normal polarisierten Zellen bei VHF.
 
 
 Magnesium (Cormagnesin, Magnesiocard): für ATP-Bildung im Muskel, senkt die Acetylcholin-
@@ -105,7 +105,7 @@ STEMI: Koronarangiographie mit PCI
 
 Krampfkontrolle: Benzodiazepine, Propofol, Barbiturate
 
-Blutzuckereinstellung: Hyperglykämie ist mit schlechtem neurologischen Outcome vergesellschaftet! Daher Ziel \<180mg/dl.
+Blutzuckereinstellung: Hyperglykämie ist mit schlechtem neurologischen Outcome vergesellschaftet! Daher Ziel \<180 mg/dl.
 
 Temperaturkontrolle: 48h Hypothermie bei komatösen Patienten (VF) 34°C. Drei Phasen:
 Einleitung (Sofort nach ROSC transnasal), Erhaltung mit  Überwachung der Temperatur

@@ -52,7 +52,7 @@ Bei **Zwischenfall**:
 2. aufheben, 
 3. dokumentieren/rückmelden.
 
-Bei **akuten hämolytischen Reaktionen** kann *Soludacortin* bis 1000mg gegeben werden. 
+Bei **akuten hämolytischen Reaktionen** kann *Soludacortin* bis 1000 mg gegeben werden. 
 - Diurese anregen. 
 - Schock bekämpfen.
 - Ev. HF/HDF

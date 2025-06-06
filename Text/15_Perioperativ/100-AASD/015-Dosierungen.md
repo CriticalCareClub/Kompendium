@@ -23,9 +23,9 @@ Bei Konzentrationsangaben in Prozent zeigt sich, dass Mediziner mit Naturwissens
 |                | Konz. per ml         |
 | -------------- | --------------------------: |
 | 1%             | 10 mg / ml                  |
-| 1 mg / 50 ml   | 0,020 mg / ml =  20 µg / ml |
-| 5 mg / 50 ml   | 0,100 mg / ml = 100 µg / ml |
-| 10 mg / 50 ml  | 0,200 mg / ml = 200 µg / ml |
+| 1 mg / 50 ml   | 0,020 mg / ml =  20 µg / ml |
+| 5 mg / 50 ml   | 0,100 mg / ml = 100 µg / ml |
+| 10 mg / 50 ml  | 0,200 mg / ml = 200 µg / ml |
 :::
 
 Viele Arzneimittel werden unter dem gleichen Markennamen, aber mit deutlich unterschiedlicher Konzentration vertrieben, {numref}`Tab-Gleicher-Wirkstoff-unterschiedliche-Konzentrationen` zeigt einige bekannte Beispiele.
@@ -37,11 +37,11 @@ Viele Arzneimittel werden unter dem gleichen Markennamen, aber mit deutlich unte
 | --------- | --------: | -------------- | ------------ |
 | Propofol  | Propofol  | 1%             | 10 mg / ml   |
 | Propofol  | Propofol  | 2%             | 20 mg / ml   |
-| Dormicum™ | Midazolam | 5 mg / 1 ml    | 5 mg / ml    |
-| Dormicum™ | Midazolam | 5 mg / 5 ml    | 1 mg / ml    |
-| Dormicum™ | Midazolam | 15 mg / 3 ml   | 5 mg / ml    |
-| Ketanest™ | S-Ketamin | 25 mg / 5 ml   | 5 mg / ml    |
-| Ketanest™ | S-Ketamin | 250 mg / 10 ml | 25 mg / ml   |
+| Dormicum™ | Midazolam | 5 mg / 1 ml    | 5 mg / ml    |
+| Dormicum™ | Midazolam | 5 mg / 5 ml    | 1 mg / ml    |
+| Dormicum™ | Midazolam | 15 mg / 3 ml   | 5 mg / ml    |
+| Ketanest™ | S-Ketamin | 25 mg / 5 ml   | 5 mg / ml    |
+| Ketanest™ | S-Ketamin | 250 mg / 10 ml | 25 mg / ml   |
 :::
 
 ## Dosisrate

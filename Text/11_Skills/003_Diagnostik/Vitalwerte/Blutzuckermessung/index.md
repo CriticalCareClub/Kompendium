@@ -72,7 +72,7 @@ Material zur Blutzuckermessung
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg
 :width: 100%
 
-Ergebnis: "90mg/dL
+Ergebnis: "90 mg/dL
 :::
 
 ```{eval-rst}

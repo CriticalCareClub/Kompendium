@@ -85,7 +85,7 @@ Bilderserie: Breathing \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ## Totraumventilation und Schnappatmung
 
-<!-- Anm. SCHINNERL: Totraum beim Kind? 2ml/kg? -->
+<!-- Anm. SCHINNERL: Totraum beim Kind? 2 ml/kg? -->
 
 Unter dem **Totraum** versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt, im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen).
 Er beträgt beim Erwachsenen physiologisch ca. 150—200 mL.

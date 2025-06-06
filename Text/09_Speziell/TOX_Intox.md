@@ -9,7 +9,7 @@ Intoxikationen
 Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →
 Koma.
 =  Sedierung mit Herabgesetzter Sensitivität der Chemorezeptoren auf CO2 und O2 mit Bradypnoe.
-Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis („Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
+Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis („Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4 mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
 Entzugssymtomatik mit Gefahr des Entzug-GM-Anfalls , max.
 2 Ampullen geben!
 
@@ -46,14 +46,14 @@ Klinik:
 - Long QT durch erhöhte Transportleistung der Natriumkanäle (QT länger als ½ Strecke R-R)
 - Zentral anticholinerges Syndrom: Nesteln und Faseln (Zunge klebt am Gaumen)
 - Peripher anticholinerges Syndrom: Tachyarrhythmie, Mydriasis, trockene rote Haut, trockener Mund, keine Darmperistaltik; Therapie: Physostigmin (Anticholium) titriert!
-- Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos, Beatmung,...
+- Sofortmaßnahmen: Repetitiv Aktivkohle alle 4-6h 15g; 100 ml NaBIC im Schuss (Alkalisierung bewirkt vermehrte Serumproteinbindung der TCA mit geringerer Bioverfügbarkeit und verbesserung der cardialen Reizleitung/EKG) + Infusionen, Benzos, Beatmung,...
 
 
 SSRI (systemische Serotonin reuptake Inhibitoren) Seropram, Seroquel, Trittico, Tresleen, Risperdal,... (+ Neuroleptika: Dominal, Deanxit,...)
 
 
 Therapie: repetitive Aktivkohle, NaBIC, symptomatisch
-- Aktivkohle (Carbo medicinalis) initial 30g  + 2 EL Magnesiumsulfat, dann repetitiv 15g  + 1EL Magnesiumsulfat alle 2-6 Stunden.
+- Aktivkohle (Carbo medicinalis) initial 30 g  + 2 EL Magnesiumsulfat, dann repetitiv 15 g  + 1EL Magnesiumsulfat alle 2-6 Stunden.
 - Magenspülung: bei lebensbedrohlichen/organtoxischen Substanzen innerhalb einer Stunde, KI bei alkalischen Lsg. und Säuren. (Abwägen Aggravierung der Vergiftungssympomatik bei 2 Resorptions-Peak!)
 - Darmlavage mit Ipecacuana Sirup bei Salicylatvergiftung, Metothrexat
 
@@ -76,8 +76,8 @@ Therapie: symptomatisch, Korrektur von Flüssigkeits-  und Elektrolytstörungen,
 
 
 Paracetamolintoxikation
-=  Acetamiophen,  über Cytochrom P450 in Leber abgebaut, bei  Überdosierung toxische Metaboliten, die zu Leberzelltot führen: tox. Dosis sind 7-15g Erw.
-(bei Kindern 150-200mg/kgKG)
+=  Acetamiophen,  über Cytochrom P450 in Leber abgebaut, bei  Überdosierung toxische Metaboliten, die zu Leberzelltot führen: tox. Dosis sind 7-15 g Erw.
+(bei Kindern 150-200 mg / kgKG)
 
 
 Verlaufsphasen:
@@ -97,7 +97,7 @@ NSAR-Intoxikation
 Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  Übelkeit, Erbrechen, heftige Bauchschmerzen (PGE2 Mangel), metabolische Azidose, ANV (verminderte renale Vasodilation).
 
 
-Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10g = 20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
+Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10 g = 20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
 
 CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
 =  240 x höhere Affinität zu Hb als O2 (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;

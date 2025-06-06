@@ -29,7 +29,7 @@ Der *Abbau* erfolgt ... Die *Ausscheidung* ...
 
 ## Dosierung
 
-**i.v.:** 0,2–0,5 mg/kg, max. 20 mg  
+**i.v.:** 0,2–0,5 mg / kg, max. 20 mg  
 **rektal:**  
 - ≤ 15 kg: 5 mg  
 - > 15 kg: 10 mg

@@ -114,11 +114,11 @@ Intensiv-Kriterien: höhergradige HE (Somnolenz), eingeschränkte Nierenfunktion
 - FFP und TK´s bei Blutungen
 - Glucosemonitoring Ziel 80-110 (Cave: Hypoglykämien)
 - Albuminsubstitution
-- Hirndrucktherapie: ICP-Sonde, Sedierung, Mannitol 20%  0,5-1mg/kg  über 20 min, milde Hypothermie 35-36°, OK- Hochlagerung 20-30°
+- Hirndrucktherapie: ICP-Sonde, Sedierung, Mannitol 20%  0,5-1 mg / kg  über 20 min, milde Hypothermie 35-36°, OK- Hochlagerung 20-30°
 - Ernährung: Energiebedarf um 20-30%  gesteigert, wenn möglich enterale Ernährung;  BZ-KO;
-- Eiweißrestriktion ausschließlich im Akutstadium der HE 0,5g/kg für 24h, danach 1,2-1,5g/kg mit verzweigten Aminosäuren (va. pflanzliches Eiweiß und Milcheiweiß)
+- Eiweißrestriktion ausschließlich im Akutstadium der HE 0,5g / kg für 24h, danach 1,2-1,5g / kg mit verzweigten Aminosäuren (va. pflanzliches Eiweiß und Milcheiweiß)
 - Resorptionshemmung des intestinalen intraluminalen Ammoniaks infolge pH-Erniedrigung durch den Einsatz von Lactulose und Lactitol
-- (30-60g/d je nach Stuhlfrequenz)
+- (30-60 g / d je nach Stuhlfrequenz)
 - Reduzierung der ammonikproduzierenden bakteriellen Darmflora durch orale Gabe von Metronidazol.
 - Enterale oder parenterale Applikiation von Ornithinaspartat/Hepamerz    zur Verbesserten Harnstoffsynthese
 - Anexate/Flumazenil ev. bei sedativainduz. HE
@@ -136,16 +136,16 @@ KI für LTX: Extrahepatische Malignome, unbehandelte Sepsis und schwere Pneumoni
 
 ## 39.2. Paracetamolintoxikation
 
-40% aller Leberversagen in den USA Toxische Dosis: Erwachsener 7-15g/d, Kind 150-200mg/kg/d Antidot: N-Acetylcystein (Fluimicil i.v. 150mg/kg Bolus, 50mg über 4h, 100mg über 16h)
+40% aller Leberversagen in den USA Toxische Dosis: Erwachsener 7-15 g / d, Kind 150-200 mg / kg/d Antidot: N-Acetylcystein (Fluimicil i.v. 150 mg / kg Bolus, 50 mg über 4h, 100 mg über 16h)
 
 
 Kings LTX-Kriterien bei Paracetamolintox:
-pH \< 7,3 oder Laktat \> 3 nach Optimierung des Wasserhaushaltes ODER PTT \> 100sec und Krea \> 3,4 und HE Grad III-IV Postoperative Schmerztherapie: hohe Vulnerabilität der Leber bei Vorschädigung und Stauungsleber bei Rechtsherzinsuffienz, OSAS, COPD Therapie:  *20 Stunden nach Prescott*  (innerhalb von 10 Stunden nach Intoxikation): Initial Bolus 150 mg/kg (über 15 Min.), gefolgt von 50 mg/kg  über 4  h, gefolgt von 100 mg/kg  über 16 h.
-Gesamtdosis 300 mg/kg; Gesamtdauer 20 h.
+pH \< 7,3 oder Laktat \> 3 nach Optimierung des Wasserhaushaltes ODER PTT \> 100sec und Krea \> 3,4 und HE Grad III-IV Postoperative Schmerztherapie: hohe Vulnerabilität der Leber bei Vorschädigung und Stauungsleber bei Rechtsherzinsuffienz, OSAS, COPD Therapie:  *20 Stunden nach Prescott*  (innerhalb von 10 Stunden nach Intoxikation): Initial Bolus 150 mg / kg (über 15 Min.), gefolgt von 50 mg / kg  über 4  h, gefolgt von 100 mg / kg  über 16 h.
+Gesamtdosis 300 mg / kg; Gesamtdauer 20 h.
 ## 39.3. Pilzvergiftung (va. Knollenblätterpilz mit Amatoxin) *
 
 Gift hemmt irreversibel die RNA Poymerase II und führt initial zu  Übelkeit, Erbrechen und Diarrhöe. Nach einer Latenzzeit von ca. 48h kommt es zum ALV.
-Antidot: Silibinin 5mg/kg 4 x tgl. iv. (Penicillin G und Steroide haben keinen Effekt!)
+Antidot: Silibinin 5 mg / kg 4 x tgl. iv. (Penicillin G und Steroide haben keinen Effekt!)
 
 
 ## 39.4. Akuter Morbus Wilson *
@@ -165,26 +165,26 @@ Differenzial Ursachen zur portale Hypertension  bei Leberzirrhose: Rechtsherzins
 
 
 Aszitestherapie:
-- NaCl-Restriktion (4-6g/d)
-- Diuretika: Spironolacton/Aldactone 100-400mg + Lasix 40-160mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
+- NaCl-Restriktion (4-6 g / d)
+- Diuretika: Spironolacton/Aldactone 100-400 mg + Lasix 40-160 mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
 
 
 
-- Therapeutische Paracentese (+Humanalbumin nach Aszitespunktion 8g HA/l Aszities = 100ml HA 20% / 2l)
-- TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \<3mg, Na  \>  130, \<
+- Therapeutische Paracentese (+Humanalbumin nach Aszitespunktion 8 g HA/l Aszities = 100 ml HA 20% / 2l)
+- TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \<3 mg, Na  \>  130, \<
 60a
 
 TIPS: = transjugolärer intrahepatischer Pfortader Shunt = fist line Therapie bei Hochrisikopatienten, bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
 
-Problem NNI  bei 50%  der Patienten mit Zirrhose und Sepsis, dh. Fehlende Möglichkeit auf die Sepsis adäquat reagieren zu können. Vor allem bei Hypotonie und Katecholaminpflichtigkeit daran denken! 50mg Hydrokortison alle 6h bis der Patient nicht mehr katecholaminpflichtig ist.
+Problem NNI  bei 50%  der Patienten mit Zirrhose und Sepsis, dh. Fehlende Möglichkeit auf die Sepsis adäquat reagieren zu können. Vor allem bei Hypotonie und Katecholaminpflichtigkeit daran denken! 50 mg Hydrokortison alle 6h bis der Patient nicht mehr katecholaminpflichtig ist.
 
-Spontane bakterielle Peritonitis (SBP) ohne peritoneales klinisches Bild mit positiver Kultur und Leukozytose findet sich bei ca. 15-20%  der Patienten mit Ascites.    Therapie: AB (Claforan, Rocephin) und Humanalbumin zur Prophylaxe des Hepatorenalen Syndroms. (1,5g/kg ab 3  Tag 1g/kg HA), Diuretika, Kontrollpunktion.
+Spontane bakterielle Peritonitis (SBP) ohne peritoneales klinisches Bild mit positiver Kultur und Leukozytose findet sich bei ca. 15-20%  der Patienten mit Ascites.    Therapie: AB (Claforan, Rocephin) und Humanalbumin zur Prophylaxe des Hepatorenalen Syndroms. (1,5g / kg ab 3  Tag 1g / kg HA), Diuretika, Kontrollpunktion.
 
 Hepatischer Hydrothorax
 =  Aszites läuft  über Zwerchfelllücken in den Pleuraspalt, meist rechts. Therapie wie bei Aszites, Drainagen wenn möglich vermeiden, wenn therapierefraktär dann TIPS.
 
 Niereninsuffizienz bei Zirrhose Ursache: prärenal durch Hypovolämie u.
-Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kreaanstieg um \> 1,5mg/dl
+Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kreaanstieg um \> 1,5 mg/dl
 - Absetzten von Diuretika, NSAR, \...
 - Volumentherapie, ev. Albuminsubstitution
 - Diagnostik und Therapie von Infektionen
@@ -193,7 +193,7 @@ Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kre
 ## 39.6. Hepatorenales Syndrom *
 
 =  funktionelle Niereninsuffizienz bei fortgeschrittener Lebererkrankung.    (LTX führt zur Normalisierung der Nierenfunktion). 75% Aszites bei terminaler Lebererkrankung und HE.
-Patho: TPVR nimmt ab, vorallem im Splanchnikusgebiet = RAAS aktiviert mit Vasokonstriktion der Nieren und Extremitäten, mit Oligourie und Natriumretention und progredienter Zunahme der harnpflichtigen Substanzen (va. U/P Harnstoff  \>  8, U/P Kreatinin  \>40 Narium im Harn stark erniedrigt = \>500 mosmol/kg) Therapie: Albumin 1g/kg/d (bis Serum Albumin  \>  45mg/dl, Terlipressin oder Noradrenalin, Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
+Patho: TPVR nimmt ab, vorallem im Splanchnikusgebiet = RAAS aktiviert mit Vasokonstriktion der Nieren und Extremitäten, mit Oligourie und Natriumretention und progredienter Zunahme der harnpflichtigen Substanzen (va. U/P Harnstoff  \>  8, U/P Kreatinin  \>40 Narium im Harn stark erniedrigt = \>500 mosmol/kg) Therapie: Albumin 1g / kg/d (bis Serum Albumin  \>  45 mg/dl, Terlipressin oder Noradrenalin, Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400 mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
 Prophylaxe: Humanalbumingabe, Vermeiden von Auslösern (KM, NSAR, hohe Diuretikadosierung, Hypovolämie)
 
 

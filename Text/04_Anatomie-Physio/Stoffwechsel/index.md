@@ -16,17 +16,17 @@ Der *tägliche Energiebedarf* ist abhängig von Gewicht, Alter, Geschlecht, Umge
 Der physikalische *Brennwert* von Nahrungsbestandteilen beträgt (=
 energielefernd!):
 
-1g Kohlenhydrate: 17,6 kJ / 4,2 kcal
+1 g Kohlenhydrate: 17,6 kJ / 4,2 kcal
 
-1g Fett: 38,9 kJ / 9,3 kcal
+1 g Fett: 38,9 kJ / 9,3 kcal
 
-1g Protein: 17,2 kJ / 4,1 kcal
+1 g Protein: 17,2 kJ / 4,1 kcal
 
-(1g Alkohol: 30,0 kJ / 7,1 kcal)
+(1 g Alkohol: 30,0 kJ / 7,1 kcal)
 
 Der *physiologische Brennwert* errechnet sich aus dem physikalischen Brennwert unter Abzug der Nahrungsenergie, die durch Stuhl und Harn dem Körper verloren geht.
 
-Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56g Protein = 10%, 75g Fett = 30%, 340g Kohlenhydrate = 60%):
+Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56 g Protein = 10%, 75 g Fett = 30%, 340 g Kohlenhydrate = 60%):
 
 - Proteine: Aminosäurelieferanten
 
@@ -50,9 +50,9 @@ Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56g Protein
 
 - Mineralstoffe
 
-  - Mengenelemente (\< 50 mg/kgKG): Kalzium (1,5 kg), Magnesium,
+  - Mengenelemente (\< 50 mg / kgKG): Kalzium (1,5 kg), Magnesium,
     Phosphor, Natrium, Kalium, Chlor, Schwefel
-  - Spurenelemente (\< 50 mg/kgKG): z.B. Aluminium, Arsen, Barium,
+  - Spurenelemente (\< 50 mg / kgKG): z.B. Aluminium, Arsen, Barium,
     Chrom, Eisen (4,5g), Fluor, Germanium, Gold, Jod, Kobalt, Kupfer,
     Mangan, Molybdän, Nickel, Rubidium, Selen, Silizium, Vanadium,
     Zink, Zinn - insg. 8-9 g.

@@ -61,14 +61,14 @@ Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlini
 - Trigger entfernen (Verdampfer entfernen, Maschine wechseln)
 - 100% FIO2 mit hohem Flow (3x AMV) 18l
 - Hilfe holen!!!
-- Dantrolen 2mg/kg KG alle 5  min (bei 20mg/kgKG Diagnose hinterfragen) Eine Ampulle a 20mg wird in 60ml Aqua aufgelöst = beachtliches Volumen!! Eine Person nur zum Auflösen nötig!
+- Dantrolen 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen) Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!! Eine Person nur zum Auflösen nötig!
 - Grosslumige Zugänge, Arterie, Temperatursonde, Kühlen!!
 - Reichlich NaCl!! (Kein RL wegen K!)
 - OP rasch beenden, Pat ad IBS
 
 ### Weiterführende Intensivtherapie
 
-- Dantrolen weiter 5 bzw. 10mg/kg KG über 24 h (abh. vom initalen Bedarf)
+- Dantrolen weiter 5 bzw. 10 mg / kg KG über 24 h (abh. vom initalen Bedarf)
 - Diurese forcieren: Lasix und Volumen bei Gefahr einer CRUSH Niere.
 - Pufferung: Nabic
 - Antiarrhythmika: Sedacoron

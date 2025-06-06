@@ -58,7 +58,7 @@
 
     -   Sonstige AV- oder ventrikuläre tachykarde Rhythmusstörung:
 
-        5 mg / kg Körpergewicht i.v. Infusion über einen Zeitraum von 20—120 min (verdünnt in 250 ml 5%iger Glukoselösung).
+        5 mg / kg Körpergewicht i.v. Infusion über einen Zeitraum von 20—120 min (verdünnt in 250 ml 5%iger Glukoselösung).
         Daran kann sich eine wiederholte Infusion von bis zu kumulativ
         1.200 mg / 24 h (ca. 15 mg / kg KG) anschließen (Perfusor).
 
@@ -92,7 +92,7 @@
 :Kontraindikation(en):
     Reanimation: keine, sonst:
 
-    -   Jod-Unverträglichkeit (eine Ampulle enthält etwa 56 mg Jod).
+    -   Jod-Unverträglichkeit (eine Ampulle enthält etwa 56 mg Jod).
     -   Neugeborene (Benzylalkohol)
     -   Bolus: schwere arterielle Hypotonie,
         Herzversagen und Kardiomyopathie

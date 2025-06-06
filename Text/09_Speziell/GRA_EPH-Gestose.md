@@ -104,16 +104,16 @@ Differentialdiagnose zur SS-Fettleber
   - **Dihydralazin/Nepresol** ist erste Wahl, 
   - Metoprolol bei Reflextachykardie, 
   - Urapidil/Ebrantil senkt intrazerebralen Druck 
-   - (Nepresol bewirkt va. arterielle Vasodil und senkt Afterload 5mg alle 20min oder Perfusor, beeinträchtigt nicht die uteroplazentare Perfusion!)
+   - (Nepresol bewirkt va. arterielle Vasodil und senkt Afterload 5 mg alle 20min oder Perfusor, beeinträchtigt nicht die uteroplazentare Perfusion!)
 - ANV verhindern: 
-  - Flüssigkeit und Mannitol 0,5-1g/kg KG 
+  - Flüssigkeit und Mannitol 0,5-1g / kg KG 
   - (Lasix nur bei drohendem Lungenödem und Oligurie)
 - Antikonvulsive Therapie: 
   - Magnesium 1-3g/h mit Zielwert 2-4mmol/l (cave: \> 5 Atemdepression \> 10 Herzstillstand), klinisch: AF \> 10 + Patellarreflex noch auslösbar.
   
-  Antidot: Kalziumglukonat, 1g Calciumchlorid (Kontraind.: Myasthenis gravis)
+  Antidot: Kalziumglukonat, 1 g Calciumchlorid (Kontraind.: Myasthenis gravis)
 - Hirndrucktherapie: Sedierung mit Diazepam (Kumuliert!), NG: floppy infant syndrom
-- Prävention Folgeschwangerschaft: *ASS* 1-1,5mg/kg KG/d (senkt TXA2-Synthese)
+- Prävention Folgeschwangerschaft: *ASS* 1-1,5 mg / kg KG/d (senkt TXA2-Synthese)
 
 ### Anästhesie bei Präeklampsie 
 
@@ -132,7 +132,7 @@ Blutdrucksenkung medikamentös i.v. ab BD systol. ≥ 160 mmHg bzw. diastol. ≥
 
 
 Uterotonica
-: Vorsichtige Oxytocingabe nach Abnabelung2 (Ziel: 5 E  in 100 ml NaCl  über 5  Min.;  bei Kreislaufinstabilität nach 1E = 20 ml stoppen - immer in Rücksprache mit OperatuerIn).
+: Vorsichtige Oxytocingabe nach Abnabelung2 (Ziel: 5 E  in 100 ml NaCl  über 5  Min.;  bei Kreislaufinstabilität nach 1E = 20 ml stoppen - immer in Rücksprache mit OperatuerIn).
 
   Oxytocin wirkt vasodilatorisch (SVR↓) → MAP ↓, kompensatorisch Herzfrequenz ↑ und Schlagvolumen (SV)↑ um HZV aufrecht zu erhalten. 
   Bei schwerer Präeklampsie kann evtl. SV nicht gesteigert werden und es kann zum HZV-Abfall ↓ mit kardialer Dekompensation kommen.

@@ -125,7 +125,7 @@ Arteriensystem
 
 
 :::{admonition} Links
-- Video: Deutsche Gesellschaft für Internistische Intensivmedizin und Notfallmedizin (DGIIN): Anlage invasive arterielle Druckmessung <https://www.youtube.com/watch?v=F1mlls0oycI>
+- Video: Deutsche Gesellschaft für Internistische Intensivmedizin und Notfallmedizin (DGIIN): Anlage invasive arterielle Druckmessung <https://www.youtube.com/watch?v=F1 mlls0oycI>
 :::
 
 

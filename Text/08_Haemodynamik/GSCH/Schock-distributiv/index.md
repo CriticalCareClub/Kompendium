@@ -161,7 +161,7 @@ Die Klinik des septischen und toxischen Schocks werden ebenda besprochen.
      Es antagonisiert funktionell über Aktivierung von **α-** und **β-Adrenorezeptoren** alle wichtigen Pathomechanismen der Anaphylaxie durch *Vasokonstriktion*, Erniedrigung der Gefäßpermeabilität und Ödembildung, *Bronchodilatation*, und *positive Inotropie* und *unterdrückt Histamin- und Leukotrienfreisetzung*.
      Es zeigt, wenn intravenös oder *intramuskulär* verabreicht, den *schnellsten Wirkungseintritt*.
 
-     - Erste Wahl: **0,5 mg i. m. (!)**., bevorzugt in den *M. vastus. lat.*. Ggfs. Repitition nach 10 Minuten, je nach Wirkung.
+     - Erste Wahl: **0,5 mg i. m. (!)**., bevorzugt in den *M. vastus. lat.*. Ggfs. Repitition nach 10 Minuten, je nach Wirkung.
      - I.v.-Gabe: nur wenn Monitoring möglich ist und durch *erfahrenes (!)*  Personal:
        1 mg / 100 mL (10 µg / mL), mL-weise titriert. Cave: Tachykardie und Rhythmusstörungen bis hin zum kardiogenen Schock möglich!
 

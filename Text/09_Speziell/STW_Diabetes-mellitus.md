@@ -366,7 +366,7 @@ Präoperativ Ziel = 120-150 NBZ:
 - Biguanide/Metformin/z.B. Glucophage 48h vor OP und 1  Tag nach OP absetzen, 2 postoperativen Tag wieder einnehmen, wenn die NFP normal sind. Gefahr des Laktatanstiegs, daher 48h präoperativ pausieren, va. bei OP mit Laktatbildung z.B. AAA!
 - Retardinsulin bis zum Vortag nach gewohntem Schema;  präoperativ 1/3 der gewohnten Dosis als langwirksames Insulin, Abend nach OP NBZ\>180 gewohnte Dosis mit 2  std. BZ Kontrollen.
 
-  (Infusionstechnik: 10% Glukose auf 60ml/h + Insulinperfusor 1,5IE/h mit regelm. BZ und Kaliumkontrollen; über 200 sollen 4-8 IE Insulin iv, \< 100 Glucose. 1 IE senkt BZ um 27mg/dl, 10g Glucose hebt BZ um 36mg/dl; \> 180 relative osmotische Diurese!!
+  (Infusionstechnik: 10% Glukose auf 60 ml/h + Insulinperfusor 1,5IE/h mit regelm. BZ und Kaliumkontrollen; über 200 sollen 4-8 IE Insulin iv, \< 100 Glucose. 1 IE senkt BZ um 27 mg/dl, 10 g Glucose hebt BZ um 36 mg/dl; \> 180 relative osmotische Diurese!!
 - Novorapid bei NIDDM NBZ \>300
 - Regelmäßige Kontrollen, ev. Glucoseinfusion
 
@@ -405,4 +405,4 @@ Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung
 - Folge:    Bikarbonat ↓, Anionenlücke ↑
 
 Therapie:
-- Volumensubstitution (1h 1l + 2-6h 0,5l/h), Kaliumsubstitution (Insulin senkt Kalium  + weniger Azidose senkt ebenfalls K!), Insulin mit  Ziel BZ = 250mg/dl um 50mg/h senken um osmotisches Lungen/Hirnödem zu vermeiden, Azidoseausgleich erst bei pH \< 7.10!
+- Volumensubstitution (1h 1l + 2-6h 0,5l/h), Kaliumsubstitution (Insulin senkt Kalium  + weniger Azidose senkt ebenfalls K!), Insulin mit  Ziel BZ = 250 mg/dl um 50 mg/h senken um osmotisches Lungen/Hirnödem zu vermeiden, Azidoseausgleich erst bei pH \< 7.10!

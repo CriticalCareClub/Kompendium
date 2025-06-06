@@ -26,7 +26,7 @@ Ziel der Gerinnungsdiagnostik
 | ---------- | ------------------------------- |
 | PTZ        | \>50%  (ZNS und Retina  \>70%), |
 | apTT       | norm,                           |
-| Fibrinogen | \>100mg/dl,                     |
+| Fibrinogen | \>100 mg/dl,                     |
 | Thromb     | \> 100000/l                     |
 |            |                                 |
 

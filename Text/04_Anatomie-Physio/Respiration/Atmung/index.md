@@ -368,7 +368,7 @@ AF
 : Atemfrequenz, *12—16 / min*
 
 AZV
-: Atemzugsvolumen, *500 ml*
+: Atemzugsvolumen, *500 ml*
 
 AMV
 : Atemminutenvolumen, *6–8 L / min*

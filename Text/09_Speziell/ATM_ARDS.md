@@ -74,7 +74,7 @@ Die wesentlichen Therapieziele sind:
 Baby-lung-concept
 : Lungenprotektion hat Vorrang vor CO2-Elimination
 
-  VT 5-6ml/kg, PEEP > UIP, Endexpiratorische Plateaudruck < OIP
+  VT 5-6 ml/kg, PEEP > UIP, Endexpiratorische Plateaudruck < OIP
 
   z.B. BIPAP mit erhaltener Spontanatmung, damit die physiologische Verteilung des Atemgases zu den basalen Lungenabschnitten erhalten bleibt und das Ventilations/Perfusionsverhältnis physioloisch bleibt.
 
@@ -122,12 +122,12 @@ Voraussetzung für Messung des UIP und OIP
 Bestimmung des UIP
 : - PEEP-Steigerung in 2 mbar Schritten bis mind. 14
   - nach immer 5 bis 10 Atemzügen Compliance = VT/Plateaudruck minus PEEP aufschreiben,
-  - das PEEP-Niveau mit der besten Compliance ist der UIP (normal 1,5ml/mbar/kg, ca. 100, bei ARDS oft 20-30)
+  - das PEEP-Niveau mit der besten Compliance ist der UIP (normal 1,5 ml/mbar/kg, ca. 100, bei ARDS oft 20-30)
 
 
 Bestimmung des OIP
 : - Umstellen auf PCV mit PEEP über UIP
-  - Reduzieren des Plateaudrucks in 2mbar Schritten nach 5-10 Atemzügen und Compliance berechnen, solange bis keine weitere Verbesserung der Compliance erreicht werden kann ODER VT kleiner als 6ml/kg wäre.
+  - Reduzieren des Plateaudrucks in 2mbar Schritten nach 5-10 Atemzügen und Compliance berechnen, solange bis keine weitere Verbesserung der Compliance erreicht werden kann ODER VT kleiner als 6 ml/kg wäre.
 
 
 Rekruitmentmanöver

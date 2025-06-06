@@ -124,19 +124,19 @@ Abbau von Noradrenalin und Adrenalin
 :  Über COMT und MAO mit Vanillinmandelsäure als Endprodukt im Harn. (Phäochromozytomdiagnostik!)
 
 1.  L-Adrenalin/Suprarenin:
-    Dosisabhängige Wirkung: \< 2µg/min β2-Stimulation mit Broncho- und Vasodilatation, von 2-
-    10µg/min  β1 und  β2 Stimulation mit Zusätzlich positiv Inotropie, Chronotropie und Dromotropie
+    Dosisabhängige Wirkung: \< 2 µg/min β2-Stimulation mit Broncho- und Vasodilatation, von 2-
+    10 µg/min  β1 und  β2 Stimulation mit Zusätzlich positiv Inotropie, Chronotropie und Dromotropie
     (Patient wird tachykard und bekommt Herzrrhythmusstörungen).
-    \>10µg/min erfolgt vorallem eine  α1-Stimulation mit Vasokonstriktion = CPR mit fixer Dosierung unabhängig vom KG!
+    \>10 µg/min erfolgt vorallem eine  α1-Stimulation mit Vasokonstriktion = CPR mit fixer Dosierung unabhängig vom KG!
 2.  Noradrenalin/Arterenol:
     Bewirkt vorallem eine
     α1 und
-    α2-Stimulation mit Vasokonstriktion ohne Herzfrequenzanstieg;  Dosierung 2-20µg/min. Gamma aufs Körpergewicht bezogen:
-    µg/kg/min...pro ml 0,1mg = z.B. 3,5ml/h = 350µg/h  : 60min = 5,8µg/min  : 80kg = 0,07
-    µg/kg/min = Gamma!  \>0,5 ist sehr hoch!!! (Wirkt auch auf  β1-Rez., aber durch Blutdruckanstieg = Barorezeptoren = Reflexbradykardie)
+    α2-Stimulation mit Vasokonstriktion ohne Herzfrequenzanstieg;  Dosierung 2-20 µg/min. Gamma aufs Körpergewicht bezogen:
+    µg / kg / min...pro ml 0,1 mg = z.B. 3,5 ml/h = 350 µg/h  : 60min = 5,8 µg/min  : 80 kg = 0,07
+    µg / kg / min = Gamma!  \>0,5 ist sehr hoch!!! (Wirkt auch auf  β1-Rez., aber durch Blutdruckanstieg = Barorezeptoren = Reflexbradykardie)
 3.  Dopamin:
-    Dosisabhängige Wirkung:  \<  2µg/kg/min D1-Stimulation mit renaler Vasodilatation und gesteigerter Diurese;  2-10µg/kg/min  β1-Stimulation mit positiv introp, chronotrop,
-    dromotrop mit gesteigertem kardialem VO2;  \>10µg/kg/min  α1-Stimulation mit Vasokonstriktion.
+    Dosisabhängige Wirkung:  \<  2 µg / kg / min D1-Stimulation mit renaler Vasodilatation und gesteigerter Diurese;  2-10 µg / kg / min  β1-Stimulation mit positiv introp, chronotrop,
+    dromotrop mit gesteigertem kardialem VO2;  \>10 µg / kg / min  α1-Stimulation mit Vasokonstriktion.
 4.  Dobutamin/Dobutrex:
     selektiver β1-Agonist mit verbesserter Inotropie ohne Blutdruckanstieg aber mit Herzfrequenzanstieg.
 5.  {ref}`Phenylephrin` (Neosynephrin): synthetisches Nicht-Katecholamin, bewirkt eine  α1-Stimulation mit Blutdruckanstieg und oft Reflexbradykardie.
@@ -146,7 +146,7 @@ Abbau von Noradrenalin und Adrenalin
 
 
 Praktische Anwendung
-: - Hypotonie mit Bradykardie: Ephedrin (ab 50mg NA-Speicher leer, keine weitere Wirkung zu erwarten)
+: - Hypotonie mit Bradykardie: Ephedrin (ab 50 mg NA-Speicher leer, keine weitere Wirkung zu erwarten)
   - Hypotonie mit Tachykardie: NA, Phenylephrin
 
 ### Clonidin

@@ -235,7 +235,7 @@ Arzneimittel der Wahl während der Schwangerschaft und Stillzeit (nach Paulus, W
 | Schmerz              | 1. Wahl: Paracetamol | 1. Wahl: Paracetamol |
 |                      |                      |                      |
 |                      | 2. ASS, Diclofenac,  | Ibuprofen (maximal   |
-|                      | Ibuprofen. Keine     | 1600 mg/Tag)         |
+|                      | Ibuprofen. Keine     | 1600 mg/Tag)         |
 |                      | Dauermedikation im   |                      |
 |                      | letzten              | Bei Bedarf           |
 |                      | Schw                 | kurzfristige Gabe    |
@@ -267,7 +267,7 @@ Arzneimittel der Wahl während der Schwangerschaft und Stillzeit (nach Paulus, W
 | A                    | Prednisolon,         | Prednisolon,         |
 | utoimmunerkrankungen | Prednison            | Prednison            |
 |                      |                      | (Dauertherapie bis   |
-|                      |                      | 20 mg/Tag ohne       |
+|                      |                      | 20 mg/Tag ohne       |
 |                      |                      | Stillpause möglich)  |
 +----------------------+----------------------+----------------------+
 ```
@@ -280,7 +280,7 @@ Karow, Mutschler
 
 Pharmakotherapie bei Kindern
 
-„125 mg Paracetamol sind in üblichen Zäpfchen zur Fiebersenkung und Schmerzlinderung für Säuglinge enthalten. Würde man einem Erwachsenen die gleiche Menge, bezogen auf sein Körpergewicht, also 2,5 Gramm verabreichen, würde er die zweieinhalbfache Überdosis erhalten\*.
+„125 mg Paracetamol sind in üblichen Zäpfchen zur Fiebersenkung und Schmerzlinderung für Säuglinge enthalten. Würde man einem Erwachsenen die gleiche Menge, bezogen auf sein Körpergewicht, also 2,5 Gramm verabreichen, würde er die zweieinhalbfache Überdosis erhalten\*.
 Säuglinge benötigen also gewichtsbezogen eine höhere Dosis Paracetamol“
 (VfA)
 
@@ -476,7 +476,7 @@ Anwendungshinweise:
 
 - Besonders feste Arzneiformen sind mit aufrechtem Oberkörper,
   möglichst im Stehen einzunehmen (nicht im Liegen!). Die Einnahme muss
-  mit viel Wasser (mindestens 100 ml) erfolgen
+  mit viel Wasser (mindestens 100 ml) erfolgen
 - Ausweichen auf andere Formulierungen – besonders bei Patienten mit
   Schluckbeschwerden oder bettlägrigen Patienten: Anwendung flüssiger
   Arzneiformen, transdermalen Systemen („Pflaster“), Arzneiformen, die

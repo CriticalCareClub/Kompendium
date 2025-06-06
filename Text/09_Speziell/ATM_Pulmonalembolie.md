@@ -262,13 +262,13 @@ Erstmaßnahme
 : O2 + Hyperventilation (NIV, IT) mit Zielgröße paO2 \> 100, paCO2 30-35 pH \> 7,45 und hämodynamische Stabilisierung des Patienten.
 
 Die Therapie richtet sich nach der Risikoeinschätzung und dem Blutungsrisiko:
-1)  Hochrisikopatienten: Milde Volumengabe (500ml), Katecholamine (NA, Suprarenin, ev. Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase, Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie. (Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \<6 Monate, ZNS-Malignom, Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
-2)  Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden. + Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \<15ml/min) sind DOAK´s nicht geeignet.
+1)  Hochrisikopatienten: Milde Volumengabe (500 ml), Katecholamine (NA, Suprarenin, ev. Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase, Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie. (Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \<6 Monate, ZNS-Malignom, Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
+2)  Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden. + Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \<15 ml/min) sind DOAK´s nicht geeignet.
 3)  Niedrigrisikopatienten: Antikoagulation mit NMWH/Fondaparinux mit  überlappender VKA-Einstellung oder DOAK´s.
     DOAKs:
-    - Rivaroxaban: Initialdosis 2x15mg für 21 Tage, Erhaltungsdosis 1 x 20mg
-    - Dabigatran: Inital NMWH, Erhaltungsdosis 2 x 150mg
-    - Apixaban: Initialdosis: 2 x 10mg f´ür 7 Tage, Erhaltungsdosis 2 x 5mg
+    - Rivaroxaban: Initialdosis 2x15 mg für 21 Tage, Erhaltungsdosis 1 x 20 mg
+    - Dabigatran: Inital NMWH, Erhaltungsdosis 2 x 150 mg
+    - Apixaban: Initialdosis: 2 x 10 mg f´ür 7 Tage, Erhaltungsdosis 2 x 5 mg
 
 Die Dauer der Therapie  soll bei PE nach TVT/OP 3  Monate betragen.
 Nach unprovozierter PE mindestens 3  Monate + Verlängerung je nach Rezidiv-  oder Blutungsrisiko (ev. ASS zur Redivprophylaxe bei hohem Blutungsrisiko nach 3  Monaten plasmatischer Antikoagulation).

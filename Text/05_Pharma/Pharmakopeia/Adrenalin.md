@@ -105,7 +105,7 @@
 
   - Erw.: 0,1 mg i.v. oder 0,2—0,3 mg s.c./i.m.
 
-    Kind: 0,01 mg / kg s.c./i.m.
+    Kind: 0,01 mg / kg s.c./i.m.
 
   -
 

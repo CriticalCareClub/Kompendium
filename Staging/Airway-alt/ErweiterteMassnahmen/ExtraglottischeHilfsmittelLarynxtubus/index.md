@@ -4,7 +4,7 @@
 
 Der {dfn}`Larynxtubus` {index}` <! Larynxtubus>` (*LT-D*) gehört
 zu der Gruppe der *supraglottischen*
-{index}` <Atemwegshilfen!supraglottische>`
+{index}` <Atemwegshilfen; supraglottische>`
 Atemwegshilfen, d. h. er
 sichert den Atemweg *oberhalb* der *Stimmritze* (Glottis) und
 durchdringt diese nicht.

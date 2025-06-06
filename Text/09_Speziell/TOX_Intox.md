@@ -390,7 +390,7 @@ Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräpa
 
 Man kann sie unterteilen in körperliche und psychische Nebenwirkungen.
 Psychisch kommt es dosisabhängig zu Halluzinationen und Panik-Attacken.
-Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Krampfanfälle*, *hypertensive Krisen*, massiver *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel!Ecstacy>` (*Dehydratation)* {index}` <Dehydratation!Ecstacy>` da der Patient einerseits auf das Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei durch Schwitzen viel Flüssigkeit verliert.
+Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Krampfanfälle*, *hypertensive Krisen*, massiver *Körpertemperaturanstieg* über 40 und *Muskelzerfall*. Bei einer ausgeprägten Vergiftung kann eine vitale Bedrohung bestehen. Häufig kommt es zum *Flüssigkeitsmangel* {index}` <Flüssigkeitsmangel; Ecstacy>` (*Dehydratation)* {index}` <Dehydratation; Ecstacy>` da der Patient einerseits auf das Trinken vergisst, und andererseits i.d.R. körperlich aktiv ist und dabei durch Schwitzen viel Flüssigkeit verliert.
 
 (mt43091c)=
 (m-intoxikation-uppers)=

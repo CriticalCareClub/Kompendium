@@ -295,7 +295,7 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
 :::
 ::::
 
-**Hirndruckzeichen** {index}` <Hirndruckzeichen>` deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller* {index}` <Druck!intrakranieller>` Druck). Eine solche Steigerung kann besonders bei Verletzungen oder blutigen Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das Hirn drück sich selbst ab."*).
+**Hirndruckzeichen** {index}` <Hirndruckzeichen>` deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller* {index}` <Druck; intrakranieller>` Druck). Eine solche Steigerung kann besonders bei Verletzungen oder blutigen Schlaganfällen vorkommen. Eine Hirndruckerhöhung wirkt sich negativ sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das Hirn drück sich selbst ab."*).
 
 Es kommt es zu einer typischen Kombination von Symptomen:
 
@@ -364,7 +364,7 @@ Da sich im Hirnstamm das Atem- und Kreislaufzentrum befindet besteht dabei akute
 Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden werden können:
 
 - {dfn}`Ischämischer Insult` ("trocken"):
-  {index}` <Ischämie!trockener Insult>`.
+  {index}` <Ischämie; trockener Insult>`.
   Verschluss eines Hirngefäßes mit
   anschließendem Absterben der versorgten Hirnregion.
   Vgl. {ref}`Ischaemie`.

@@ -17,7 +17,7 @@ ist jener Teil des Nervensystems, welcher der Regelung der Vitalfunktionen dient
 
 Wichtige Körperfunktionen wie Herz-, Kreislauf-, Atmungs-, Verdauungssystem, Stoffwechsel sowie Wärme- und Energiehaushalt werden durch das vegetative Nervensystem kontrolliert.
 Da die Abläufe weitgehend ohne bewusste Steuerung ablaufen wird es auch *autonomes*
-{index}` <Nervensystem!autonomes>` Nervensystem genannt.
+{index}` <Nervensystem; autonomes>` Nervensystem genannt.
 
 *Afferente Nerven* übertragen viszerosensible, *efferente Nerven* viszeromotorische bzw. sekretorische Informationen des vegetativen Nervensystems.
 

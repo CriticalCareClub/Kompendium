@@ -16,7 +16,7 @@ Liegt ein Verdacht auf eine Verletzung vor, werden Nase und Hals auch *abgetaste
 Weiters werden die mit freiem Ohr hörbaren *Atemgeräusche* beurteilt.
 Diese sind auch für den folgenden Punkt Ⓑ (Atmung) relevant.
 
-```{index} single: Atemweg, gefährdeter
+```{index} single: Atemweg; gefährdeter
 ```
 
 ## Befunde

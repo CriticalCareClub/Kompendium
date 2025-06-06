@@ -87,7 +87,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 5. {dfn}`Nackensteifigkeit`:
    Die Nackensteifogkeit ist ein
    {ref}`Meningismuszeichen <Meningismuszeichen>`
-   {index}` <Meningismuszeichen!Nackensteifigkeit!Untersuchung>`.
+   {index}` <Meningismuszeichen; Nackensteifigkeit; Untersuchung>`.
    Der Patient liegt *flach* auf dem Rücken. Der Untersucher fasst den
    Kopf des Patienten und versucht das Kinn an die Brust zu führen. Es
    handelt sich um eine *passive Bewegung*, der Patient darf dabei nicht

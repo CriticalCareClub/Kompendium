@@ -290,7 +290,8 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung d
 
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
-Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde* {index}` <Anmesie!retrograde>` Amnesie (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
+Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde Amnesie* {index}` <Amnesie; retrograde>` (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. 
+Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
 #### Gehirnprellung — SHT 2°
 

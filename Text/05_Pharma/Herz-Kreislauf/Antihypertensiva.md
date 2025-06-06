@@ -75,8 +75,11 @@ Häufig wird über trockenen Reizhusten geklagt. Dieser sollte sich jedoch nach 
 Kontraindikationen: Schwangerschaft, Stillzeit, Nierenarterienstenose, Aortenstenose
 
 :::{attention}
-- Bei ACE-Hemmer-Therapie kann es zu einem angioneurotischen
-  Ödem mit Ausbildung von Weichteilschwellungen kommen. Sollte es zu einer
+- Bei ACE-Hemmer-Therapie kann es zu einem angioneurotischen Ödem 
+  {index}` <Angioödem; ACE-Hemmer>` 
+  {index}` <ACE-Hemmer; Angioödem>`
+  {index}` <Ödem; Angio->`
+  mit Ausbildung von Weichteilschwellungen kommen. Sollte es zu einer
   Atemwegsverlegung durch Zungen-, Glottis- bzw. Kehlkopfbeteiligung
   kommen, müssen unverzüglich Notfallmaßnahmen (Sicherung der Atmung,
   Notarzt!) eingeleitet werden!

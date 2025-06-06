@@ -41,7 +41,7 @@ Die Symptome sind oft unspezifisch, eine Erstdiagnosestellung ist präklinisch n
 :::
 ::::
 
-Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen!bei Pankreatitis>` Abdomen auf ({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock!septischer!bei Pankreatitis>` Schock erleiden ({ref}`schock-septischer`).
+Je nach Schwere und Dauer der Entzündung kann es zum Selbstverdauen der Bauchspeicheldrüse bzw. zu einer *Ruptur* kommen. In Folge tritt ein *akutes* {index}` <Akutes Abdomen; bei Pankreatitis>` Abdomen auf ({ref}`akutes-abdomen`) und der Patient kann kann einen *septischen* {index}` <Schock; septischer; bei Pankreatitis>` Schock erleiden ({ref}`schock-septischer`).
 
 (ck859x0c)=
 (m-pankreatitis-akut)=

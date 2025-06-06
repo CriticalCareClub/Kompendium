@@ -88,7 +88,7 @@ In weiterer Folge kann es zu einer *atmungsbedingten Übersäuerung* ({ref}`resp
   - - Psychogen (z. B. Panikattacke)
 :::
 
-```{index} single: Atmung, paradoxe
+```{index} single: Atmung; paradoxe
 ```
 
 ## Befunde
@@ -315,7 +315,7 @@ Man unterscheidet zwischen einer *milden* (der Patient kann noch sprechen und hu
 
    Heimlich-Manöver
 
-   - Terminus\[Schulterblätter!Schläge zwischen die\]Schläge zwischen die
+   - Terminus\[Schulterblätter; Schläge zwischen die\]Schläge zwischen die
      Schulterblätter: Durch kräftige Schläge auf den Rücken zwischen
      die Schulterblätter kann ein festsitzender Fremdkörper evtl.
      gelockert und ausgehustet werden.

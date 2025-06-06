@@ -377,7 +377,7 @@ Grundsätzlich:
 ### Ebola
 
 Die {dfn}`Ebola-Viruserkrankung` ({dfn}`Ebola`, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
-Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber!hämorrhagisches>` Fieber).
+Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber; hämorrhagisches>` Fieber).
 Das Virus verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon sind auch die Blutgefäße betroffen.
 Je nach Virus-Typ verläuft die Erkrankung in 25—90% der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.
 

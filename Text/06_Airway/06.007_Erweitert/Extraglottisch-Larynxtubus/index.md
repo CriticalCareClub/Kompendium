@@ -1,7 +1,7 @@
 
 :::{index} single: Larynxtubus
 :::
-:::{index} single: Atemwegshilfen!supraglottische
+:::{index} single: Atemwegshilfen; supraglottische
 :::
 :::{index} single: LT-D
 :::

@@ -332,7 +332,7 @@ Taktik
 
 > - Lagerung: Stabile Seitenlage
 
-[^diabetischeketoazidose]: Genauer: *diabetischen* {index}` <Ketoazidose!diabetische>`
+[^diabetischeketoazidose]: Genauer: *diabetischen* {index}` <Ketoazidose; diabetische>`
     Ketoazidose
 
 

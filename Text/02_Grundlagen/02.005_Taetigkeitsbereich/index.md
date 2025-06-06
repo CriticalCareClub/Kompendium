@@ -463,7 +463,7 @@ Die ärztliche Ausbildung gründet sich auf einem abgeschlossenes Universitätss
 #### Situation in Österreich
 
 Der ärztliche Beruf wird durch das *Ärztegesetz* (*ÄrzteG*) geregelt.
-Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich Ärzten für Allgemeinmedizin, *approbierten* {index}` <Arzt!approbierter>` Ärzten sowie *Fachärzten* {index}` <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende Ausnahmeregelungen in den jeweiligen Berufsgesetzen).
+Die selbstständige Ausübung des ärztlichen Berufes ist ausschließlich Ärzten für Allgemeinmedizin, *approbierten* {index}` <Arzt; approbierter>` Ärzten sowie *Fachärzten* {index}` <Facharzt>` vorbehalten (*Arztvorbehalt*, von diesem Vorbehalt gibt es für andere medizinische Berufsgruppen entsprechende Ausnahmeregelungen in den jeweiligen Berufsgesetzen).
 
 Interessensvertretung und Aufsichtsbehörde für alle Ärzte ist die *Österreichische Ärztekammer* bzw. die jeweils zuständigen Landesärztekammern.
 

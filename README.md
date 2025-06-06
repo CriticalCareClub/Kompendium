@@ -5,17 +5,13 @@
 Herausgegeben vom Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA).
 
 
+
 ## Kurzinfo
 
-
-Eine aktuelle **Preview** der Entwicklungsversion des ``master``-Zweiges findet sich
+Eine aktuelle **Preview** der Entwicklungsversion des `master`-Zweiges findet sich
 unter:
 
 -   https://kompendium.criticalcare.at/
-
-Web-Versionen der einzelnen in Entwicklung befindlichen Zweige befinden sich im *Playground:*
-
--   https://playground.criticalcare.at/
 
 
 

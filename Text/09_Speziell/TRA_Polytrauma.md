@@ -87,8 +87,6 @@ Indikation für ein Polytrauma- Ganzkörper CT / Schockspirale:
 
 ## Maßnahmen Polytrauma, allgemein
 
-ziertes Personal
-
 Taktik
 
 : **Vitale Bedrohung! Zeitkritisch!**

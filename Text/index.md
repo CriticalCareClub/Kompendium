@@ -25,8 +25,6 @@
 
 :::{margin} Optionen
 [Das Kompendium des CCCA als PDF](https://kompendium.criticalcare.at/_static/CCCA-Kompendium.pdf)
-
-[Projektseite (Github)](https://github.com/CriticalCareClub/Kompendium-alpha)
 :::
 
 

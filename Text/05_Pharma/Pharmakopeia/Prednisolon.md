@@ -5,33 +5,21 @@
 
 # Prednisolon
 
-```{eval-rst}
+Beschreibung  
+: - 
 
-Beschreibung
-```
+Indikation  
+: - 
 
-Beschreibung
+Kontraindikationen  
+: - 
 
-Indikation
-
-Kontraindikationen
-
-```{eval-rst}
-
-:Kontraindikationen:
-
-      Im Notfall keine; Relativ: Pilz-, Herpes-, Tb-Infektion, akute
-      Psychosen, Ulcera
-
-.. note:: Anmerkungen
-
-      Kortikoide haben keine Sofortwirkung, Notfallindikationen sind
-      z. T. umstritten
-```
+Kontraindikationen  
+: - Im Notfall keine;  
+    Relativ: Pilz-, Herpes-, Tb-Infektion, akute Psychosen, Ulcera
 
 :::{note}
-Anmerkungen
-
-Kortikoide haben keine Sofortwirkung, Notfallindikationen sind
-z. T. umstritten
+Kortikoide haben keine Sofortwirkung, Notfallindikationen sind z. T. umstritten
 :::
+
+

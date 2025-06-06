@@ -5,29 +5,26 @@
 
 # Lorazepam
 
-```{eval-rst}
 
-:Beschreibung:
 
-:Indikation:
+Beschreibung
+: - 
 
-         Status epilepticus (1.W), Sedierung
+Indikation
+: - Status epilepticus (1.W), Sedierung
 
-:Kontraindikationen:
+Kontraindikationen
+: - chronische Hyperkapnie, Myasthenia gravis, Intox. mit zentralal
+    dämpfenden Substanzen
 
-         chronische Hyperkapnie, Myasthenia gravis, Intox. mit zentralal
-         dämpfenden Substanzen
+Dosierung
+: - Erw: 2--8 mg ;
 
-:Dosierung:
+    Status: 4 mg Wiederholung mit 4 mg nach 10 min
 
-         Erw: 2--8 mg ;
+    Kinder: 0,1 mg / kg
 
-         Status: 4 mg Wiederholung mit 4 mg nach 10 min
 
-         Kinder: 0,1 mg / kg
-
-.. note::
-```
 
 :::{note}
 Atemdepression, Antagonist: Anexate, Bei Erfolglosigkeit im

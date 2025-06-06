@@ -5,27 +5,20 @@
 
 # Flumazenil
 
-```{eval-rst}
+Beschreibung  
+: - Benzoantagonist
 
-:Beschreibung:
+Indikation  
+: - extuparrow ICP, Epi, Intox mit Trizyklika
 
-         Benzoantagonist
+Kontraindikationen  
+: - 
 
-:Indikation:
+Dosierung  
+: - initial 0,2–0,3 mg, Wiederholung 0,2 mg alle 60 s, Gesamtdosis: 1–2 mg  
+  - *Perfusor*: 0,1–0,4  
+  - *Kinder*: ??
 
-         extuparrow ICP, Epi, Intox mit Trizyklika
-
-:Kontraindikationen:
-
-:Dosierung:
-
-         initial 0,2--0,3 mg Wiederholung 0,2 mg alle 60 s,
-         Gesamtdosis: 1--2 mg.
-
-         *Perfusor*: 0,1--0,4; *Kinder*: ??
-
-.. note::
-```
 
 :::{note}
 evt. Auslösung von Entzugssymptomen, Temp.-stabil

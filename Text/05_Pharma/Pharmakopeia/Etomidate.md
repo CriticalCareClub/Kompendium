@@ -7,75 +7,49 @@
 
 # Etomidate
 
-```{eval-rst}
 
-.. danger::
-
-    Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **erhöhten Mortalität** *nicht* bei kritisch kranken, insbesonders septischen, Patienten eingesetzt werden!
-```
 
 :::{danger}
 Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **erhöhten Mortalität** *nicht* bei kritisch kranken, insbesonders septischen, Patienten eingesetzt werden!
 :::
 
-```{eval-rst}
+Pharmakodynamik  
+: - *Telenzephal* hypnotische Wirkung.  
+    Ebenso Wirkung am GABA\ :sub:`A`\ -Rezeptor.  
+    Dosisabhängige *Hemmung der Cortisolsynthese* durch reversible Enzymhemmung  
+    (11-Beta-Hydroxylase) in der Nebennierenrinde.
 
-:Pharmakodynamik:
+Pharmakokinetik  
+: - PBB 80 %. Der **Abbau** erfolgt v.a. durch *Esterhydrolyse* in der *Leber*.  
+    Die Metaboliten sind inaktiv.  
+    Die **Ausscheidung** erfolgt *renal* (85 %) und biliär (13 %).
 
-    *Telenzephal* hypnotische Wirkung.
-    Ebenso Wirkung am
-    :index:`\ <GABA-A-Rezeptor; Etomidate>`
-    GABA\ :sub:`A`-Rezeptor.
+Indikation  
+: - Kurzhypnotikum zur Narkoseeinleitung.  
+    Etomidate ist besonders kreislaufstabil, daher gut geeignet bei Kreislauf-Risikopatienten.
 
-    Dosisabhängige *Hemmung der Cortisolsynthese*
-    :index:`\ <Kortisolsynthese; Hemmung durch Etomidate>`
-    durch reversible
-    Enzymhemmung (11-Beta-Hydroxylase) in der Nebennierenrinde.
+Kontraindikationen  
+: - Kritisch kranke und verletzte, insbesondere septische, Patienten  
+  - manifeste NNR-Insuffizienz  
+  - Neugeborene und Säuglinge bis 6 Monate  
+  - strenge Indikationsstellung in der Schwangerschaft
 
-:Pharmakokinetik:
+Wirkungen  
+: - Wirkung: Hypnose ohne Analgesie
 
-    PBB 80%. Der **Abbau** erfolgt v.a. durch *Esterhydrolyse* in
-    der *Leber* statt. Die Metaboliten sind inaktiv. Die
-    **Ausscheidung** erfolgt *renal* (85%) und biliär (13%).
+Nebenwirkungen  
+: - Myoklonien  
+  - (relativ geringe) Atemdepression  
+  - Bei rascher Injektion **Masseterkrämpfe**
 
-:Indikation:
+Wechselwirkungen  
+: - 
 
-    Kurzhypnotikum zur Narkoseeinleitung.
-
-    Etomidate ist besonders
-    kreislaufstabil, daher gut geeignet bei
-    Kreislauf-Risikopatienten.
-
-:Kontraindikationen:
-
-    Kritisch kranke und verletzte, insbesonders septische, Patienten,manifeste NNR-Insuffizienz; Neugeborene und Säuglinge
-    bis 6 Monate; strenge Indikationsstellung in der
-    Schwangerschaft
-
-:Wirkungen:
-
-    Wirkung Hypnose ohne Analgesie.
-
-:Nebenwirkungen:
-
-    Myoklonien, (relativ geringe) Atemdepression
-
-    Bei rascher Injektion **Masseterkrämpfe**
-
-:Wechselwirkungen:
-
-:Dosierung:
-
-    Erw.: 20 mg
-
-.. note::
-
-    -   Stillpause: 24 h
-    -   Nicht zur kontinuierlichen Anwendung geeignet (wegen Hemmung der Cortisolsynthese).
-```
+Dosierung  
+: - Erw.: 20 mg
 
 :::{note}
-- Stillpause: 24 h
+- Stillpause: 24 h  
 - Nicht zur kontinuierlichen Anwendung geeignet (wegen Hemmung der Cortisolsynthese).
 :::
 

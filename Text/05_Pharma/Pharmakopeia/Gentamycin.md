@@ -3,10 +3,7 @@
 
 # Gentamycin
 
-```{eval-rst}
+WW
+: Furosemid:
+  -   verstärkt Ototoxizität
 
-:WW:
-    Furosemid:
-
-    -   verstärkt Ototoxizität
-```

@@ -140,7 +140,9 @@ Narkosetiefe Unzuverlässige Zeichen: Blutdruck und HF, Somatische Zeichen (Trä
 
 
 
-### 18. Propofol-Infusionssyndrom
+### Propofol-Infusionssyndrom
+
+<!-- 18.  -->
 
 1% Propofol ist zugelassen für Narkose \> 1Monat, und Sedierung IBS
 \>16Lj 2% Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj
@@ -171,8 +173,7 @@ Therapie:
 
 
 Prävention:
-- Keine Langzeitsedierung Schwerkranker  über 48h mit Propofol in höherer Dosis (\>4-
-6 mg / kg / h)
+- Keine Langzeitsedierung Schwerkranker  über 48h mit Propofol in höherer Dosis (\>4-6 mg / kg / h)
 - Maximal 7 Tage Langzeitsedierung für alle Patienten mit max. 4 mg / kg / h
 - Keine Langzeitsedierung von Kindern unter 17 Jahren.
 - Regelmäßige Laborkontrollen

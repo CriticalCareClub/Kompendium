@@ -5,31 +5,24 @@
 
 # Naloxon
 
-```{eval-rst}
+Beschreibung  
+: - Opiat-Antagonist
 
-:Beschreibung: Opiat-Antagonist
+Pharmakodynamik  
+: - μ-Antagonist
 
-:Pharmakodynamik: μ-Antagonist,
+Indikation(en)  
+: - Opiat-Antagonisierung  
+  - auch bei Gebärenden indiziert
 
+Kontraindikation(en)  
+: - Überempfindlichkeit  
+  - Atemdepression, die nicht durch Opiate ausgelöst wurde
 
-:Indikation(en):
+Dosierung  
+: - Erw: 0,4 mg i.v., i.m., s.c.  
+  - Kinder: 0,1 mg / kg i.v., i.m., s.c.
 
-   Opiat-Antagonisierung
+Nebenwirkungen  
+: - Entzugssymptomatik
 
-   auch bei Gebärenden indiziert
-
-:Kontraindikation(en):
-
-   Überempfiundlichkeit,
-
-   Atemdepression die nicht durch Opiate ausgelöst wurde.
-
-:Dosierung:
-
-   - Erw: 0,4 mg iv., im., sc
-   - Kinder: 0,1 mg / kg iv., im., sc.
-
-:Nebenwirkungen:
-
-   Entzugssymptomatik
-```

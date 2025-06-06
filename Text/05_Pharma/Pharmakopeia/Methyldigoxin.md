@@ -11,10 +11,7 @@
 
 :::
 
-```{eval-rst}
 
-Indikation
-```
 
 Indikation
 

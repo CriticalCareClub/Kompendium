@@ -8,56 +8,46 @@
 
 # Adrenalin (Epinephrin)
 
-```{eval-rst}
+Pharmakodynamik  
+: - Adrenalin ist ein direkt wirksames Sympathomimetikum (nichtselektiver Agonist),  
+    welches gleicherweise auf α- und β-Adrenorezeptoren wirkt (einschließlich der Hauptsubtypen  
+    α₁, α₂, β₁, β₂ und β). Die organspezifische Wirkung ergibt sich aus der unterschiedlichen  
+    Expression der jeweiligen Rezeptor(sub)typen.  
+    Siehe {ref}`Adrenorezeptoren`.  
+    Hämodynamisch wirkt es als Vasopressor (α₁-Rezeptor-abhängige Vasokonstriktion) und erhöht  
+    das Herzzeitvolumen durch Bindung an β₁-Rezeptoren (Inotropie und Chronotropie).
 
-:Pharmakodynamik:
+Pharmakokinetik  
+: - Der **Abbau** erfolgt insbesondere durch Catechol-O-Methyltransferase (COMT) und die Monoaminooxidase (MAO).  
+  - Die **Ausscheidung** der Stoffwechselprodukte erfolgt in konjugierter und in unkonjugierter Form über den Harn.
 
-    Adrenalin ist ein direkt wirksames Sympathomimetikum (nichtselektiver Agonist), welches gleicherweise auf α- und β-Adrenorezeptoren wirkt (einschließlich der Hauptsubtypen α₁, α₂, β₁, β₂ und β). Die organspezifische Wirkung ergibt sich aus der unterscheidlichen Expression der jeweiligen Rezeptor(sub)typen.
-    Siehe :ref:`Adrenorezeptoren`.
+Indikation(en)  
+: - {ref}`Reanimation <Reanimation-Pharmaka>`: schockbarer und nicht-schockbarer Rhythmus  
+  - Kardiogener Schock  
+  - {ref}`Anaphylaxie <Anaphylaxie>`  
+  - schweres Asthma bronchiale  
+  - Pseudokrupp (inhalativ)  
+  - Schwellungen der oberen Atemwege (inhalativ)
 
-    Hämodynamisch wirkt es als Vasopressor (α1-Rezeptor-abhängige Vasokonstriktion) und erhöht das Herzzeitvolumen durch Bindung an β1-Rezeptoren (Inotropie und Chronotropie).
+Kontraindikation(en)  
+: - Im Notfall keine.  
+  - Ansonsten relativ:  
+    - Hypertonie  
+    - KHK  
+    - Glaukom  
+    - Tachyarrhythmie  
+    - Hyperthyreose  
+    - Phäochromocytom
 
-
-
-:Pharmakokinetik:
-    Der **Abbau** erfolgt insbesonders durch Catechol-O-Methyltransferase (COMT) und die Monoaminooxidase (MAO).
-    Die **Ausscheidung** der Stoffwechselprodukte erfolgt in konjugierter und in unkonjugierter Form über den Harn.
-
-:Indikation(en):
-
-    -   :ref:`Reanimation <Reanimation-Pharmaka>`: schockbarer und nicht-schockbarer Rhythmus
-    -   Kardiogener Schock
-    -   :ref:`Anaphylaxie <Anaphylaxie>`
-    -   schweres Asthma bronchiale
-    -   Pseudokrupp (inhalativ)
-    -   Schwellungen der oberen Atemwege (inhalativ)
-
-:Kontraindikation(en):
-
-    Im Notfall keine. Ansonsten relativ:
-
-    -   Hypertonie
-    -   KHK
-    -   Glaukom
-    -   Tachyarrhythmie
-    -   Hyperthyreose
-    -   Phäochromocytom
-
-:Wechselwirkungen:
-
-    Insbesonders bei gleichzeitiger Kalzium-Gabe kann es zu Arrhythmien kommen.
-    NaBic über den gleichen Zugang inaktiviert Katecholamine.
-
-.. warning::
-
-    -   Kein Adrenalin in Akren spritzen!
-    -   Bei Betablocker-Gabe überwiegt die α-Rezeptor-Wirkung.
-```
+Wechselwirkungen  
+: - Insbesondere bei gleichzeitiger Kalzium-Gabe kann es zu Arrhythmien kommen.  
+  - NaBic über den gleichen Zugang inaktiviert Katecholamine.
 
 :::{warning}
-- Kein Adrenalin in Akren spritzen!
+- Kein Adrenalin in Akren spritzen!  
 - Bei Betablocker-Gabe überwiegt die α-Rezeptor-Wirkung.
 :::
+
 
 :::{list-table} Adrenalin Dosierung
 :header-rows: 1

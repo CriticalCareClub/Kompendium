@@ -5,28 +5,21 @@
 
 # Piritramid
 
-```{eval-rst}
+Beschreibung  
+: - Opiatanalgetikum mit langer Wirkdauer.
 
-:Beschreibung:
+Pharmakodynamik  
+: - μ-Agonist, Wirkdauer ca. 6 h
 
-   Opiatanalgetikum mit langer Wirkdauer.
+Kontraindikation(en)  
+: - Säuglinge  
+  - akute hepatische Porphyrie  
+  - MAO-Hemmer
 
-:Pharmakodynamik:
+Dosierung  
+: - Erw: 1–2 ml i.v., 2–4 ml i.m.  
+  - KK: 0,1 mg / kg  
+  - SK: 0,1–0,2 mg / kg  
+  - Wiederholung nach 30 Min.  
+  - Dosisreduktion bei älteren Patienten, LPS, schlechtem AZ
 
-   μ-Agonist, Wirkdauer ca 6 h,
-
-
-:Kontraindikation(en):
-
-   Sgl, ak hepat Porphyrie, MAO-Hemmer .
-
-:Dosierung:
-
-   Erw: 1–2 ml iv., 2–4 ml im
-
-   KK: 0,1 mg / kg, SK: 0,1–0,2 mg / kg
-
-   Wiederholung nach 30 Min .
-
-   Dosisred. bei älteren Pat, LPS, schlechtem AZ
-```

@@ -83,7 +83,7 @@ Darüber hinaus müssen die *Berufs- bzw. Tätigkeitspflichten* erfüllt werden 
 :class-grid: outline
 :gap: 20px
 
-Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`\]
+Sanitäter [₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`]
 
 ![Hilfeleistung](../../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
 

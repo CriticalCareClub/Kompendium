@@ -175,51 +175,23 @@ Man unterscheidet daher **schockbare** und **nicht-schockbare** Rhythmen:
 Beim SAED übernimmt das Gerät die Beurteilung, ob ein elektrischer Herzrhythmus schockbar oder nicht-schockbar ist.
 Die Herzrhythmen werden im Kapitel {ref}`herzrhythmusstoerungen`, genauer besprochen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Figure-Bilderserie-Defibrillation
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/CC-BY-SA/Defib_electrode_placement.\*
-:name: Figure-Defibrillation
-:width: 100%
+Bilderserie: *Defibrillation*
 
-Anbringen der Klebeelektroden
+![Anbringen der Klebeelektroden \[₢ WMC:Andersat, {term}`ℓ CC BY-SA 3.0`\]](/Bilder/CC-BY-SA/Defib_electrode_placement.\*)
 
-\[WMC:Andersat, {term}`ℓ CC BY-SA 3.0`\]
+![Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Reanimation-Defi-Achtung.\*)
+
+![Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch \[₢ WMC:Hborkyb, CC-BY-SA-2.5-US\]](/Bilder/CC-BY-SA/Semi_automatic_defi_with_electrodes.png)
+
+![Normsymbol "AED"](/Bilder/PD/AED_Symbol.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Defi-Achtung.\*
-:width: 100%
-
-Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! ₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/CC-BY-SA/Semi_automatic_defi_with_electrodes.png
-:width: 100%
-
-Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch
-
-\[WMC:Hborkyb, CC-BY-SA-2.5-US\]
-:::
-
-:::{figure} /Bilder/PD/AED_Symbol.\*
-:name: Figure-NormsymbolAed
-:width: 100%
-
-Normsymbol "AED"
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :label: Figure-Bilderserie-Defibrillation
-
-    Bilderserie: *Defibrillation*
-
-
-
-
-```
 
 (defibrillationbls)=
 

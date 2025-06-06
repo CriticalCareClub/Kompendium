@@ -60,41 +60,26 @@ lebensrettenden Sofortmaßnahmen angewendet werden.[^footnote-1]
     Vgl. Schreiben vom 10.12.2010, Geschäftszahl
     BMG-92250/0080-II/A/2010)
 
-```{eval-rst}
-.. subfigstart::
-```
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*
-:width: 100%
 
-Larynxtubus mit Blockerspritze
+
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieLarynxtuben
+:class-grid: outline
+:gap: 20px
+
+Bilderserie
+
+![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*)
+
+![Ein Larynxtubus der ersten Generation mit geblocktem Cuff. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885_textwidth.\*)
+
+![Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025_textwidth.\*)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885_textwidth.\*
-:width: 100%
 
-Ein Larynxtubus der ersten Generation mit geblocktem
-Cuff.
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025_textwidth.\*
-:width: 100%
-
-Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung.
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieLarynxtuben
-
-    Bilderserie
-
-```
 
 :::{list-table} Larynxtubus: Größen
 :name: larynxtubus-groessen

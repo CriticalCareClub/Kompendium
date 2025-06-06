@@ -133,68 +133,30 @@ Teile des Neurochecks werden während des Einschätzungsblockes
 durchgeführt.
 :::
 
-```{eval-rst}
-.. subfigstart::
-```
-
 (figure-anisokorie-bau)=
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.jpg
-:width: 100%
+:::{subfigure} AB|CD|EF|GH
+:subcaptions: below
+:name: Figure-BilderserieNeurocheck
+:class-grid: outline
+:gap: 20px
 
-Ungleiche Pupillen (Anisokorie)
+Bilderserie: *Neurocheck*
 
-₢ Sebastian Gabriel  {term}`ℓ MfG`
+![Ungleiche Pupillen (Anisokorie) \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.jpg)
+
+![Enge Pupille \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.jpg)
+
+![Pupillenreaktion, Lichtscheue, Sehstörungen](/Bilder/Motal-Michael-CCCA/00800/neuro1.jpg)
+
+![Kraftprobe an den Armen](/Bilder/Motal-Michael-CCCA/00800/neuro2.jpg)
+
+![Kraftprobe an den Beinen](/Bilder/Motal-Michael-CCCA/00800/neuro3b.jpg)
+
+![Nackensteifigkeit](/Bilder/Motal-Michael-CCCA/00800/neuro4.jpg)
+
+![Nackensteifigkeit](/Bilder/Motal-Michael-CCCA/00800/neuro5.jpg)
+
+![Blutzuckermessung](/Bilder/Motal-Michael-CCCA/00800/neuro6.jpg)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.jpg
-:width: 100%
-
-Enge Pupille
-
-₢ Sebastian Gabriel  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro1.jpg
-:width: 100%
-
-Pupillenreaktion, Lichtscheue, Sehstörungen
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro2.jpg
-:width: 100%
-
-Kraftprobe an den Armen
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro3b.jpg
-:width: 100%
-
-Kraftprobe an den Beinen
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro4.jpg
-:width: 100%
-
-Nackensteifigkeit
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro5.jpg
-:width: 100%
-
-Nackensteifigkeit
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.jpg
-:width: 100%
-
-Blutzuckermessung
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieNeurocheck
-
-    Bilderserie: *Neurocheck*
-```

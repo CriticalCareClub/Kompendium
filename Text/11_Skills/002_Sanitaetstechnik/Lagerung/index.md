@@ -15,72 +15,30 @@ Siehe Bilderserie {ref}`Figure-lagerungsarten`[^footnote-1].
     lebensgefährlich!), soll diese Bezeichnung nicht mehr verwendet
     werden.
 
-```{eval-rst}
-.. subfigstart::
+:::{subfigure} AB|CD|EF|GH|II
+:subcaptions: below
+:name: Figure-lagerungsarten
+:class-grid: outline
+:gap: 20px
 
-```
+Bilderserie: Lagerungsarten [₢ Michael Motal, {term}`ℓ MfG`]
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungflachb.jpg
-:width: 100%
+![Flachlagerung](/Bilder/Motal-Michael-CCCA/00800/lagerungflachb.jpg)
 
-Flachlagerung
+![Lagerung mit 30° erhöhtem Oberkörper](/Bilder/Motal-Michael-CCCA/00800/lagerung30gradb.jpg)
+
+![Lagerung mit stark erhöhtem Oberkörper](/Bilder/Motal-Michael-CCCA/00800/lagerungoberkoerperhochb.jpg)
+
+![Seitenlagerung](/Bilder/Motal-Michael-CCCA/00800/lagerungseiteb.jpg)
+
+![Lagerung mit erhöhten Beinen.](/Bilder/Motal-Michael-CCCA/00800/lagerungkollaps2b.jpg)
+
+![Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)](/Bilder/Motal-Michael-CCCA/00800/lagerungkollaps1b.jpg)
+
+![Lagerung zur Entspannung der Bauchdecke](/Bilder/Motal-Michael-CCCA/00800/lagerungabdomenb.jpg)
+
+![Lagerung mit erhöhter Extremität](/Bilder/Motal-Michael-CCCA/00800/lagerungthromboseb.jpg)
+
+![Lagerung mit herabhängender Gliedmaße](/Bilder/Motal-Michael-CCCA/00800/lagerungembolieb.jpg)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerung30gradb.jpg
-:width: 100%
-
-Lagerung mit 30° erhöhtem Oberkörper
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungoberkoerperhochb.jpg
-:width: 100%
-
-Lagerung mit stark erhöhtem Oberkörper
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungseiteb.jpg
-:width: 100%
-
-Seitenlagerung
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungkollaps2b.jpg
-:width: 100%
-
-Lagerung mit erhöhten Beinen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungkollaps1b.jpg
-:width: 100%
-
-Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungabdomenb.jpg
-:width: 100%
-
-Lagerung zur Entspannung der Bauchdecke
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungthromboseb.jpg
-:width: 100%
-
-Lagerung mit erhöhter Extremität
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/lagerungembolieb.jpg
-:width: 100%
-
-Lagerung mit herabhängender Gliedmaße
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-lagerungsarten
-
-    Bilderserie: Lagerungsarten
-
-    ₢ Michael Motal  :term:`ℓ MfG`
-
-```

@@ -312,35 +312,21 @@ Sauerstoffmasken mit Reservoir [^berieselungbeatmungsbeutel].
     und die Materialkosten sind deutlich höher
     (Desinfektion notwendig, bzw. Neuanschaffung bei Einwegprodukten)
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-Bilderserie-Sauerstoffberieselung
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32988_v2-AASS-0112mm.\*
-Sauerstoffbrille
+Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`ℓ MfG`]
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+![Sauerstoffbrille](/Bilder/Pallinger-Christoph-CCCA/Anton_32988_v2-AASS-0112mm.\*)
+
+![Sauerstoffmaske](/Bilder/Pallinger-Christoph-CCCA/Anton_32987_v2-AASS-0112mm.\*)
+
+![Sauerstoffmaske mit Reservoir](/Bilder/Pallinger-Christoph-CCCA/Anton_32986_v2-AASS-0112mm.\*)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32987_v2-AASS-0112mm.\*
-Sauerstoffmaske
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32986_v2-AASS-0112mm.\*
-Sauerstoffmaske mit Reservoir
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Bilderserie-Sauerstoffberieselung
-
-     Bilderserie: Mittel zur Berieselung mit Sauerstoff
-```
 
 ```{eval-rst}
 .. table::  Verabreichungsarten von Sauerstoff

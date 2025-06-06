@@ -123,37 +123,19 @@ Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten peripheren 
 
 *Vegetative Nerven* leiten Informationen des vegetativen Nervensystems ({ref}`vegetatives-nervensystem`).
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-Pns
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Spinalnerven-edited-00254pt.\*
+Bilderserie: PNS  [₢ Lena Hirtler, ℓ MfG]
 
-Vom Rückenmark (grau) gehen die peripheren Spinalnerven
-(gelb) ab.
+![Vom Rückenmark (grau) gehen die peripheren Spinalnerven (gelb) ab.](/Bilder/Hirtler-Lena-CCCA/Spinalnerven-edited-00254pt.*)
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+![Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere Spinalnerven (gelb); Wirbel (grau) und Bandscheiben (türkis). Beachte dass die Nerven geordnet nach Rückenmarkssegmenten abgehen.](/Bilder/Hirtler-Lena-CCCA/WS_Aufbau.*)
+
+![Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)](/Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.*)
+
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/WS_Aufbau.\*
-
-Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere Spinalnerven (gelb); Wirbel (grau) und Bandscheiben
-(türkis). Beachte dass die Nerven geordnet nach Rückenmarkssegmenten abgehen.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
-
-Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Pns
-
-    Bilderserie: PNS
-```

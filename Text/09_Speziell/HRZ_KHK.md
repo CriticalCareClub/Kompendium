@@ -50,47 +50,22 @@ Sie ist eine *chronische* Erkrankung, welche Folgeerkrankungen bedingt und in ak
 Je nachdem wieviele Koronargefäße betroffen sind, spricht man von einer 1-, 2- oder 3-Gefäßerkrankung
 (Term.: *1-, 2-, 3-Vessel-Disease* bzw. Abkz.: *1-, 2-, 3-VD*).
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieKoronargefaesse
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/CC-BY/Hk_coronary_bionerd.\*
-:width: 100%
+Bilderserie: Koronargefäße
 
-Das Herz mit seinen Koronargefäßen
+![Das Herz mit seinen Koronargefäßen \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/CC-BY/Hk_coronary_bionerd.\*)
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+![Darstellung der Herzkranzgefäße mittels Koronarangiographie: Bei einer Koronarangiographie (Herzkatheteruntersuchung) wird über eine periphere Arterie ein Katheter eingebracht und über die Aorta bis in die Koronargefäße vorgeschoben. Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung sichtbar zu machen. \[₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`\]](/Bilder/CC-BY/Hk_coronary_bionerd.\*)
+
+![Die Koronargefäße versorgen den Herzmuskel von außen nach innen. \[₢ Patrick Lynch, {term}`ℓ CC BY 2.5`\]](/Bilder/CC-BY/Heart_coronary_artery_lesion-lq.\*)
 :::
 
-:::{figure} /Bilder/CC-BY/Hk_coronary_bionerd.\*
-:width: 100%
 
-Darstellung der Herzkranzgefäße mittels Koronarangiographie
-
-Bei einer Koronarangiographie (Herzkatheteruntersuchung)
-wird über eine periphere Arterie ein Katheter eingebracht und über die Aorta bis in die Koronargefäße vorgeschoben.
-Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung sichtbar zu machen.
-
-₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`
-:::
-
-:::{figure} /Bilder/CC-BY/Heart_coronary_artery_lesion-lq.\*
-:width: 100%
-
-Die Koronargefäße versorgen den Herzmuskel von außen nach innen.
-
-₢ Patrick Lynch, {term}`ℓ CC BY 2.5`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieKoronargefaesse
-
-    Bilderserie: Koronargefäße
-
-
-```
 
 Eine koronare Herzkrankheit kann lange Zeit symptomlos sein, bzw. nur durch eine verminderte Leistungsfähigkeit bei Anstrengung in Erscheinung treten.
 Durch die chronische oder auch akute Unterversorgung des Herzmuskels kann es zu einer Reihe von Folgeerkrankungen kommen, wie z. B.:

@@ -53,32 +53,18 @@ Im Akutfall kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
 
 [^footnote-1]: Blutzuckermessung, Kapillarwirkung: Je nach Modell kann es hier zu Abweichungen kommen, so gibt es z. B. Geräte, bei denen der Teststreifen mit Blut benetzt werden muss. Im professionellen Umfeld sollten jedoch aus hygienischen Gründen nur Geräte verwendet werden, welche nach dem Kapillar-Prinzip verfahren.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieBlutzuckermessung
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Blutzucker_32796_export_01312.jpg
-:width: 100%
+Bilderserie: Blutzuckermessung
 
-Material zur Blutzuckermessung
+![Material zur Blutzuckermessung \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Blutzucker_32796_export_01312.jpg)
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+![](/Bilder/Motal-Michael-CCCA/00800/neuro6.jpg)
+
+![Ergebnis: "90 mg/dL"](/Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.jpg
-:width: 100%
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg
-:width: 100%
-
-Ergebnis: "90 mg/dL
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieBlutzuckermessung
-
-    Bilderserie: Blutzuckermessung
-```

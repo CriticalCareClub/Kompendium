@@ -72,50 +72,23 @@ oben* den Behälter verlassen, um zu verhindern, dass Sekret in den Mund
 des Helfers gelangt. Bei den meisten Fabrikaten kann der Behälter
 abgeschraubt und verschlossen werden.
 
-```{eval-rst}
-.. subfigstart::
-```
-
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0112mm.\*
+:::{subfigure} AB|CD
+:subcaptions: below
 :name: Figure-Absaugvorrichtungen
-:width: 100%
+:class-grid: outline
+:gap: 20px
 
-Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)
+Bilderserie: Verschiedene Absaugvorrichtungen
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac) \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0112mm.\*)
+
+![Handabsaugpumpeempty \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Handpumpe_32789-00441pt.\*)
+
+![Oro-Sauger für Neugeborene \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Orosauger_33074-00441pt.\*)
+
+![Absaugkatheter zum Einführen in Mund oder Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.\*)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Handpumpe_32789-00441pt.\*
-:width: 100%
-
-Handabsaugpumpeempty
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Orosauger_33074-00441pt.\*
-:width: 100%
-
-Oro-Sauger für Neugeborene
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.\*
-:width: 100%
-
-Absaugkatheter zum Einführen in Mund oder Nase
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.24
-    :label: Figure-Absaugvorrichtungen
-
-    Bilderserie: Verschiedene Absaugvorrichtungen
-```
 
 ## Funktionskontrolle
 
@@ -204,33 +177,19 @@ Katheter abgesteckt werden. Der Vorgang wird nach Bedarf wiederholt.
 Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 über die Nase* abgesaugt werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-AbsaugkatheterLaenge
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32999_export.\*
-:width: 100%
+Bilderserie: Länge des Absaugkatheters
 
-Katheterlänge bei Absaugung des Mundes
+![Katheterlänge bei Absaugung des Mundes \[₢ Ch. Pallinger\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32999_export.\*)
 
-\[Ch. Pallinger\]
+![Katheterlänge bei Absaugung durch die Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32990_export.\*)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Anton_32990_export.\*
-:width: 100%
-
-Katheterlänge bei Absaugung durch die Nase
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :label: Figure-AbsaugkatheterLaenge
-
-    Bilderserie: Länge des Absaugkatheters
-```
 
 ## Gefahren
 

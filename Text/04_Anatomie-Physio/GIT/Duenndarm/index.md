@@ -156,40 +156,18 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 (Enteritis bis Gastroenteritis) mit den Symptomen von Durchfall,
 Übelkeit und Erbrechen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieBauchsitus
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Bauchfilm_4032-AASS-0112mm.\*
-:width: 100%
+Bilderserie: Bauchsitus und Mesenterium [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts).
+![Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.](/Bilder/Hirtler-Lena-CCCA/Bauchfilm_4032-AASS-0112mm.\*)
 
-Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.
+![Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](/Bilder/Hirtler-Lena-CCCA/Duenndarm-Mesenterium.\*)
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+![Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](/Bilder/Hirtler-Lena-CCCA/Bauchfilm_Image_022.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Duenndarm-Mesenterium.\*
-:width: 100%
-
-Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Bauchfilm_Image_022.\*
-:width: 100%
-
-Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieBauchsitus
-
-    Bilderserie: Bauchsitus und Mesenterium
-```

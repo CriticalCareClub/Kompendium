@@ -32,38 +32,22 @@ Bei Unfällen gibt die Inspektion des Einsatzortes oft auch Aufschluss
 über den *Unfallmechanismus* und -hergang.
 Wenn notwendig, muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieSzeneueberblick
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch.\*
-:width: 100%
+Bilderserie: Szeneüberblick
 
-Absperrung (hier deutlich verbesserungswürdig)
+![Absperrung (hier deutlich verbesserungswürdig) \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch.*)
 
-₢ Gabriel {term}`ℓ MfG`
+![Warntafel](/Bilder/Normsymbole/warntafel-un-60-1710.*)
+
+![Spezifische Gefahren erkennen \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.jpg)
+
 :::
 
-:::{figure} /Bilder/Normsymbole/warntafel-un-60-1710.\*
-:width: 100%
-
-Warntafel
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.jpg
-:width: 100%
-
-Spezifische Gefahren erkennen ₢ Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.31
-    :label: Figure-BilderserieSzeneueberblick
-
-    Bilderserie: Szeneüberblick
-
-```
 
 ## Typische Maßnahmen
 

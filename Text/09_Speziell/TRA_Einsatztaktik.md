@@ -268,38 +268,21 @@ Die Besonderheit von Schussverletzungen ist, dass das Geschoss mit sehr großer 
 
 Im Körper steckende Messer, Stichwaffen und andere *Fremdkörper dürfen niemals präklinisch entfernt werden*! Eventuell verhindert ein noch steckender Fremdkörper gerade noch eine unkontrollierte Blutung. Eine Entfernung darf daher erst unter kontrollierten Bedingungen *in einem Operationssaal* erfolgen. Für den Transport muss man den *Fremdkörper mittels eines Verbandes sichern*, um ein Verrutschen und Folgeverletzungen zu verhindern.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieFremdkoerper
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hauer-David-CCCA/fremdkoerper-stich-fixierung.\*
-:width: 100%
+Bilderserie: Fremdkörper
 
-Fixierung eines penetrierenden Fremdkörpers.
+![Fixierung eines penetrierenden Fremdkörpers. \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fremdkoerper-stich-fixierung.\*)
 
-₢ David Hauer {term}`ℓ MfG`
+![Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …](/Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-01.\*)
+
+![… bis in den Operationssaal.](/Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-02.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-01.\*
-:width: 100%
-
-Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-02.\*
-:width: 100%
-
-… bis in den Operationssaal.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieFremdkoerper
-
-    Bilderserie: Fremdkörper
-
-```
 
 ## Zusammenfassung
 

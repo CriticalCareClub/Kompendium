@@ -62,34 +62,17 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
 :::
 
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: fig-cc-charts
+:class-grid: outline
+:gap: 20px
+:alt: Example Model Chart Merge
 
-(fig-cc-teddy-base)=
+Bilderserie: Reanimation
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/EKG-Reanimation-VtBewegungsartefakt-00441pt.\*
-:alt: Base Mesh + 128x128 Texture (334 KB)
-:width: 100%
+![Monitor-Bild während einer Reanimation im AED-Modus: Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.](/Bilder/Gabriel-Sebastian-CCCA/EKG-Reanimation-VtBewegungsartefakt-00441pt.\*)
 
-Monitor-Bild während einer Reanimation im AED-Modus:
-Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.
+![Während einer Reanimation kann viel Adrenalin verbraucht werden.](/Bilder/Gabriel-Sebastian-CCCA/Medikamente-LAdrenalin-Sammlung-Live-00441pt.\*)
 :::
 
-(fig-cc-teddy-25)=
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Medikamente-LAdrenalin-Sammlung-Live-00441pt.\*
-:alt: Base Mesh + 25% Stream + 256x256 Texture (568 KB)
-:width: 100%
-
-Während einer Reanimation kann viel Adrenalin verbraucht werden.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :alt: Example Model Chart Merge
-    :label: fig-cc-charts
-
-    Bilderserie: Reanimation
-```

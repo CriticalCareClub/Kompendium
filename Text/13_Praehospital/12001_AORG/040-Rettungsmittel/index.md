@@ -115,7 +115,7 @@ RTW-C: NKV oder NFS?
 :class-grid: outline
 :gap: 20px
 
-RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+RTWs [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2610_CR2_embedded_001342px.jpg)
 
@@ -188,7 +188,7 @@ Notarzt, 1 Notfallsanitäter).
 :class-grid: outline
 :gap: 20px
 
-Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Notarzteinsatzfahrzeuge [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170812_150551_001342px.jpg)
 
@@ -206,7 +206,7 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :class-grid: outline
 :gap: 20px
 
-Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Ausstattung des Niederösterreich-NEF [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172004_001342px.jpg)
 
@@ -372,7 +372,7 @@ Neben den vorgenannten "Standardtypen" werden für die Erfüllung spezieller Anf
 :class-grid: outline
 :gap: 20px
 
-Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Sonderfahrzeuge [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593_001342px.jpg)
 

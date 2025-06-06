@@ -65,44 +65,21 @@ Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis max. 120�
     den Kontakt zum Patient verliert, muss der Druckpunkt neu aufgesucht
     werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Fig-Hdm
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Druckpunkt.\*
-:width: 100%
+Bilderserie: *Herzdruckmassage* [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,
+![Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,](/Bilder/Hirtler-Lena-CCCA/Reanimation-Druckpunkt.\*)
 
-\[Lena Hirtler, {term}`ℓ MfG`\]
+![die Arme durchgestreckt](/Bilder/Hirtler-Lena-CCCA/Reanimation-Position-1.\*)
+
+![und Oberkörper nach vorne gebeugt: → Druck direkt auf Brustbein](/Bilder/Hirtler-Lena-CCCA/Reanimation-Position-2.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Position-1.\*
-:width: 100%
-
-die Arme durchgestreckt
-
-\[Lena Hirtler, {term}`ℓ MfG`\]
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Reanimation-Position-2.\*
-:width: 100%
-
-und Oberkörper nach vorne gebeugt:
-→ Druck direkt auf Brustbein
-
-\[Lena Hirtler, {term}`ℓ MfG`\]
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Fig-Hdm
-
-    Bilderserie: *Herzdruckmassage*
-
-
-```
 
 ### Fehlerquellen
 

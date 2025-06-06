@@ -25,45 +25,22 @@ Die Symptome entsprechen denen des akuten Koronarsyndroms, doch vergehen diese n
 – selbst bei optimaler Behandlung –
 Schäden am Herzmuskel bestehen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} ABC
+:subcaptions: below
+:name: Figure-BilderserieHerzischaemie
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/CC-BY-SA/Heart_normal_short_axis_section-00640.\*
-:width: 100%
+Bilderserie: Herzischämie  [₢ Patrick Lynch, Patrick J. Lynch, C. Carl Jaffe MD, ℓ CC BY 2.5]
 
-Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel.
+![Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel. \[₢ Patrick Lynch\]](/Bilder/CC-BY-SA/Heart_normal_short_axis_section-00640.*)
 
-₢ Patrick Lynch
-{term}`ℓ CC BY 2.5`
+![Ischämisches Herzmuskelgewebe … \[₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](/Bilder/CC-BY-SA/Heart_inferior_wall_infarct-00640.*)
+
+![stirbt nach einiger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt. \[₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](/Bilder/CC-BY-SA/Heart_inferior_wall_scar.*)
+
 :::
 
-:::{figure} /Bilder/CC-BY-SA/Heart_inferior_wall_infarct-00640.\*
-:width: 100%
-
-Ischämisches Herzmuskelgewebe ...
-
-₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist.
-{term}`ℓ CC BY 2.5`
-:::
-
-:::{figure} /Bilder/CC-BY-SA/Heart_inferior_wall_scar.\*
-:width: 100%
-
-stirbt nach einger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt.
-
-₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist.
-{term}`ℓ CC BY 2.5`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieHerzischaemie
-
-    Bilderserie: Herzischämie
-
-```
 
 ## Gefahren
 

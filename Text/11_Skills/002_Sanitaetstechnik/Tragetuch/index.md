@@ -14,72 +14,30 @@ angewendet werden.
 
 Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient wird immer mit den *Füßen voran* getragen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CD|EF|GH|II
+:subcaptions: below
+:name: Figure-BilderserieTragetuch
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch1b.jpg
-:width: 100%
+Bilderserie: Transport mit dem Tragetuch [₢ Michael Motal, {term}`ℓ MfG`]
 
-Tuch aufbreiten
+![Tuch aufbreiten](/Bilder/Motal-Michael-CCCA/00800/tragetuch1b.jpg)
+
+![… die näher zum Patient liegende Hälfte umschlagen…](/Bilder/Motal-Michael-CCCA/00800/tragetuch2b.jpg)
+
+![… die obere Hälfte nochmals Richtung Patient umschlagen…](/Bilder/Motal-Michael-CCCA/00800/tragetuch3b.jpg)
+
+![… und das Tuch an den Patienten legen.](/Bilder/Motal-Michael-CCCA/00800/tragetuch4b.jpg)
+
+![Patient leicht anheben und Tuch bis zur Hälfte unterschieben …](/Bilder/Motal-Michael-CCCA/00800/tragetuch5b.jpg)
+
+![… Patient schonend zurück legen.](/Bilder/Motal-Michael-CCCA/00800/tragetuch6b.jpg)
+
+![Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.](/Bilder/Motal-Michael-CCCA/00800/tragetuch7b.jpg)
+
+![Zu dritt das Tuch fest anpacken …](/Bilder/Motal-Michael-CCCA/00800/tragetuch8b.jpg)
+
+![…und auf Kommando gemeinsam anheben](/Bilder/Motal-Michael-CCCA/00800/tragetuch9b.jpg)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch2b.jpg
-:width: 100%
-
-… die näher zum Patient liegende Hälfte umschlagen…
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch3b.jpg
-:width: 100%
-
-… die obere Hälfte nochmals Richtung Patient umschlagen…
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch4b.jpg
-:width: 100%
-
-… und das Tuch an den Patienten legen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch5b.jpg
-:width: 100%
-
-Patient leicht anheben und Tuch bis zur Hälfte unterschieben …
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch6b.jpg
-:width: 100%
-
-… Patient schonend zurück legen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch7b.jpg
-:width: 100%
-
-Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch8b.jpg
-:width: 100%
-
-Zu dritt das Tuch fest anpacken …
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/tragetuch9b.jpg
-:width: 100%
-
-…und auf Kommando gemeinsam anheben
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieTragetuch
-
-    Bilderserie: Transport mit dem Tragetuch
-
-    ₢ Michael Motal  :term:`ℓ MfG`
-
-
-```

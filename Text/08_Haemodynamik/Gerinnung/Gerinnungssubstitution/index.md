@@ -96,7 +96,7 @@ Therapieoptionen:
 :class-grid: outline
 :gap: 20px
 
-Willkommen Am Beginn der Massivblutungstherapie \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Willkommen Am Beginn der Massivblutungstherapie [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Die ersten Erythrozytenkonzentrate, FFPs, balancierte Kristalloide Infusionslösungen, ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171110_113615_001342px.jpg)
 

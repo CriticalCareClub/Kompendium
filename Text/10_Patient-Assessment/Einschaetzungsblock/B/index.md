@@ -175,44 +175,22 @@ Das Atemzugsvolumen folglich so gering dass es zu einer Totraumventilation kommt
 :::
 
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieB
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm1.\*
-:width: 100%
+Bilderserie: Breathing
 
-Annäherung an den Patienten
+![Annäherung an den Patienten \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/helm1.*)
 
-₢ Michael Motal {term}`ℓ MfG`
+![Die Rippen folgen der Atembewegung \[₢ :term:`HiLe`, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.*)
+
+![Zyanotische Lippen \[₢ :term:`GaSe`, :term:`ℓ MfG`, {term}`UE2011FORTUNA-00651`\]](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.*)
+
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.\*
-:width: 100%
-
-Die Rippen folgen der Atembewegung.
-
-₢ {term}`HiLe` {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*
-:width: 100%
-
-Zyanotische Lippen
-
-₢ {term}`GaSe` {term}`ℓ MfG`
-
-{term}`UE2011FORTUNA-00651`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieB
-
-    Bilderserie: Breathing
-
-```
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.\*
 :width: 100%

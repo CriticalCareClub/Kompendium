@@ -1,34 +1,21 @@
 # Geringinvasive A-Maßnahmen
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-uebersicht-lage-atemwegshilfen
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*
-:width: 100%
+Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung  
+\[₢ Lena Hirtler :term:`ℓ MfG`\]
 
-Position des Guedel-Tubus im Querschnitt
+![Position des Guedel-Tubus im Querschnitt](/Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*)
+
+![Im Vergleich: Lage eines Larynx-Tubus](/Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*)
+
+![und eines endotrachealen Tubus.](/Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*
-:width: 100%
-
-Im Vergleich: Lage eines Larynx-Tubus
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*
-:width: 100%
-
-und eines endotrachealen Tubus.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-uebersicht-lage-atemwegshilfen
-
-    Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung ₢ Lena Hirtler  :term:`ℓ MfG`
-```
 
 ```{toctree}
 :maxdepth: 1

@@ -48,46 +48,21 @@ Der Tätigkeitsbereich des Rettungssanitäters umfasst die selbständige und *ei
 Der Tätigkeitsbereich des Notfallsanitäters umfasst zusätzlich die *Unterstützung des Arztes* bei allen notfall- und katastrophenmedizinischen Maßnahmen einschließlich der Betreuung und des sanitätsdienstlichen Transports von *Notfallpatienten*, die Verabreichung von dafür freigegebenen *Arzneimitteln*, die eigenverantwortliche Betreuung der berufsspezifischen Geräte, Materialien und Arzneimittel und die Mitarbeit in der *Forschung*.
 Notfallsanitäter können die Berechtigung zur Durchführung allgemeiner und besonderer *Notfallkompetenzen* erwerben (Arzneimittellehre, Venenzugang und Infusion, Beatmung und Intubation).
 
-```{eval-rst}
-.. subfigstart::
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieMiteinander
+:class-grid: outline
+:gap: 20px
 
+Bilderserie: Miteinander [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
-```
+![Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.](/Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-transfer-lbk.jpg)
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-transfer-lbk.jpg
-:width: 100%
+![Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine Einheit.](/Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-arzt-sani.jpg)
 
-Die gute Zusammenarbeit mit dem Spitalspersonal ist wichtig, wie zum Beispiel bei dieser Überstellung eines Intensivpatienten: Wenn danach alle Beteiligten so fröhlich sind, ist das ein gutes Zeichen.
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
+![Im Notfall ist die Organisationszugehörigkeit nebensächlich.](/Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-teamwork-arzt-sani.jpg
-:width: 100%
-
-Miteinander statt gegeneinander: Arzt und Sanitäter bilden eine Einheit.
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg
-:width: 100%
-
-Im Notfall ist die Organisationszugehörigkeit nebensächlich.
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieMiteinander
-
-    Bilderserie: Miteinander
-
-
-
-```
 
 ##### Dienstverhältnis
 
@@ -227,206 +202,87 @@ sein persönliches Wohlbefinden wahren und pathologischen Entwicklungen (Burnout
 Weitere Informationen zu Stress und Belastungen finden sich unter
 {ref}`belastung-psi`.
 
-```{eval-rst}
-.. subfigstart::
-    :columns: 2
-```
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Figure-BilderserieDiv
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg
-:width: 100%
+Bilderserie: Diverses
 
-Hilfeleistung
+![Hilfeleistung \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
 
-₢ Michael Motal {term}`ℓ MfG`
+![Autobrand mit giftigen Dämpfen \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch2.\*)
+
+![Gefahrenstoffunfall \[₢ —\]](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00518-0154pt-0300dpi.\*)
+
+![Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch2.\*
-:width: 100%
 
-Autobrand mit giftigen Dämpfen
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieDiagnostikTherapie
+:class-grid: outline
+:gap: 20px
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+Bilderserie: Diagnostik und Therapie
+
+![Blutzuckermessung \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/neuro6.\*)
+
+![Versorgung nach einem Verkehrsunfall \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.\*)
+
+![Assistenz bei ärztlichen Maßnahmen \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0030mm.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00518-0154pt-0300dpi.\*
-:width: 100%
 
-Gefahrenstoffunfall
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieArbeitsplaetze
+:class-grid: outline
+:gap: 20px
 
-₢ —
+Bilderserie: Verschiedene Arbeitsplätze  [₢ Sebastian Gabriel, {term}`ℓ MfG`]
+
+![RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).](/Bilder/Gabriel-Sebastian-CCCA/rtw_ma70_asb921-00441pt.\*)
+
+![Intensivtransporthubschrauber](/Bilder/Gabriel-Sebastian-CCCA/bh_ith_00800.jpg)
+
+![Ambulanzraum bei einem Sanitätsdienst](/Bilder/Gabriel-Sebastian-CCCA/DIF2010-000816-0154pt-0300dpi.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000193-0154pt-0300dpi.\*
-:width: 100%
 
-Ungünstige Sichtverhältnisse, hier bei einer Übung im Wiener Kaisermühlentunnel
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieGrossschadensfall
+:class-grid: outline
+:gap: 20px
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+Bilderserie: Großschadensfall [₢ Sebastian Gabriel, {term}`ℓ MfG`]
+
+![Organisation im Großschadensfall, hier ein Wagenhalteplatz bei einer Nachtübung](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00942-0154pt-0300dpi.\*)
+
+![Führungsrolle bei der Bewältigung eines Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00568-0154pt-0300dpi.\*)
 :::
 
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieDiv
 
-    Bilderserie: Diverses
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieZusammenarbeit
+:class-grid: outline
+:gap: 20px
 
+Bilderserie: Zusammenarbeit [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
+![Zusammenarbeit zwischen den Organisationen](/Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.\*)
 
+![Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der Bundesheersanitäter](/Bilder/Gabriel-Sebastian-CCCA/tae-okt26-bundesheer1.jpg)
 
-```
-
-```{eval-rst}
-.. subfigstart::
-
-```
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.\*
-:width: 100%
-
-Blutzuckermessung
-
-₢ Michael Motal {term}`ℓ MfG`
+![Die Zusammenarbeit mit der Exekutive – auch an sozialen Brennpunkten – ist Alltag](/Bilder/Gabriel-Sebastian-CCCA/IMG_1853_1.jpg)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.\*
-:width: 100%
-
-Versorgung nach einem Verkehrsunfall
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0030mm.\*
-:width: 100%
-
-Assistenz bei ärztlichen Maßnahmen
-
-₢ Michael Motal {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieDiagnostikTherapie
-
-    Bilderserie: Diagnostik und Therapie
 
 
-
-
-```
-
-```{eval-rst}
-.. subfigstart::
-```
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/rtw_ma70_asb921-00441pt.\*
-:width: 100%
-
-RTWs/NAWs der Wiener Berufsrettung (li.) und des ASB (re.).
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/bh_ith_00800.jpg
-:width: 100%
-
-Intensivtransporthubschrauber
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/DIF2010-000816-0154pt-0300dpi.\*
-:width: 100%
-
-Ambulanzraum bei einem Sanitätsdienst
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieArbeitsplaetze
-
-    Bilderserie: Verschiedene Arbeitsplätze
-
-
-
-
-
-```
-
-```{eval-rst}
-.. subfigstart::
-```
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00942-0154pt-0300dpi.\*
-:width: 100%
-
-Organisation im Großschadensfall, hier ein Wagenhalteplatz bei einer Nachtübung
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00568-0154pt-0300dpi.\*
-:width: 100%
-
-Führungsrolle bei der Bewältigung eines Großschadensereignis: Der Leiter einer Sanitätshilfestelle (SanHiSt)
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieGrossschadensfall
-
-    Bilderserie: Großschadensfall
-
-
-
-
-```
-
-```{eval-rst}
-.. subfigstart::
-```
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000253-0154pt-0300dpi.\*
-:width: 100%
-
-Zusammenarbeit zwischen den Organisationen
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/tae-okt26-bundesheer1.jpg
-:width: 100%
-
-Integraler Bestandteil der zivilen und militärischen Landesverteidigung: Der Bundesheersanitäter
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_1853_1.jpg
-:width: 100%
-
-Die Zusammenarbeit mit der Exekutive – auch an sozialen Brennpunkten – ist Alltag
-
-₢ Sebastian Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieZusammenarbeit
-
-    Bilderserie: Zusammenarbeit
-
-
-```
 
 ```{index} single: Arzt
 ```

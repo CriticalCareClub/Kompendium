@@ -67,7 +67,7 @@ Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) of
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Breathing \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Bilderserie: Breathing [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Zyanotische Lippen](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 

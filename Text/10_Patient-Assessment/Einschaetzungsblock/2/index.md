@@ -34,34 +34,19 @@ Ebenso können eventuell Hinweise auf ein *Trauma*,
 sichtbare Verletzungen,
 starke Blutungen oder Hinweise auf eine Wirbelsäulenverletzung erkannt werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieEindruck
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/imgp0722_00500.\*
-:width: 100%
+Bilderserie: Ersteindruck [₢ Gabriel, {term}`ℓ MfG`]
 
-Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung
+![Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung](/Bilder/Gabriel-Sebastian-CCCA/imgp0722_00500.\*)
 
-₢ Gabriel {term}`ℓ MfG`
+![Zyanotische Lippen können schon frühzeitig auffallen.](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*
-:width: 100%
-
-Zyanotische Lippen können schon frühzeitig auffallen.
-
-₢ Gabriel {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieEindruck
-
-    Bilderserie: Ersteindruck
-
-```
 
 (m-einschaetzung-indikation-ws-immobilisation)=
 (proc-yy14200b)=

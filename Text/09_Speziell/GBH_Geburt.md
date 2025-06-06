@@ -96,45 +96,21 @@ Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den Presswehen ähnlich
   <http://www.youtube.com/watch?v=Xath6kOf0NE>
 :::
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieNabelschnur
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/PD/Newborn_umbilical_suction-AASS-0030mm.\*
-:width: 100%
+Bilderserie: Nabelschnur
 
-Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt.
+![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](/Bilder/PD/Newborn_umbilical_suction-AASS-0030mm.\*)
 
-₢ WMC: "Jeremykemp" ℓ PD
+![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](/Bilder/PD/Navelklem.\*)
+
+![Nabelschnurstumpf nach sieben Tagen \[₢ WMC: "Fatrabbit" ℓ PD\]](/Bilder/PD/Umbilicalstump.\*)
 :::
 
-:::{figure} /Bilder/PD/Navelklem.\*
-:width: 100%
-
-Abgeklemmte Nabelschnur
-
-₢ WMC: "Harmid" ℓ PD
-:::
-
-:::{figure} /Bilder/PD/Umbilicalstump.\*
-:width: 100%
-
-Nabelschnurstumpf nach sieben Tagen
-
-₢ WMC: "Fatrabbit" ℓ PD
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieNabelschnur
-
-    Bilderserie: Nabelschnur
-
-
-
-
-```
 
 ## Die bevorstehende Geburt
 

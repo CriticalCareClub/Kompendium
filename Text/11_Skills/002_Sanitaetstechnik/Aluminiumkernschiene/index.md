@@ -16,33 +16,19 @@ muss jedoch noch mit einer Mullbinde oder mit Dreiecktuchkrawatten fixiert werde
 Die *Anpassung* erfolgt an der *gesunden* Extremität.
 Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch angelegt werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-Bilderserie
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33050_crop-AASS-0112mm.jpg
-:width: 100%
+Bilderserie: Aluminiumkernschiene Marke Sam-Splint
 
-Ein SAM-Splint® fabriksneu …
+![Ein SAM-Splint® fabriksneu …](/Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33050_crop-AASS-0112mm.jpg)
+
+![… und nach der Anpassung](/Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33053_crop-AASS-0112mm.jpg)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33053_crop-AASS-0112mm.jpg
-:width: 100%
-
-… und nach der Anpassung
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-Bilderserie
-
-    Bilderserie: Aluminiumkernschiene Marke Sam-Splint
-
-
-
-
-```
 
 ## Material und Personal
 

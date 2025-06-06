@@ -142,7 +142,7 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz ("*Eigenfrequenz
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Die Technik der Beutel-Masken-Beatmung \[₢ Lena Hirtler  {term}`ℓ MfG`\]
+Bilderserie: Die Technik der Beutel-Masken-Beatmung [₢ Lena Hirtler  {term}`ℓ MfG`]
 
 ![CE-Griff](/Bilder/Hirtler-Lena-CCCA/CGriff.\*)
 

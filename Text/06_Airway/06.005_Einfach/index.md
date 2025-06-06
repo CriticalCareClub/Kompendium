@@ -54,7 +54,7 @@ Stattdessen muss der Kopf in Neutralposition gelagert werden.
 :class-grid: outline
 :gap: 20px
 
-Manchmal reicht das simple Anheben des Kinns. \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Manchmal reicht das simple Anheben des Kinns. [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Kinn anheben](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230413_090742_001342px.jpg)
 
@@ -89,7 +89,7 @@ Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am Kieferwinkel kann de
 :::{figure} ../../Bilder/Hirtler-Lena-CCCA/EsmarchHandgriff.*
 :width: 60%
 
-Esmarch-Handgriff  \[₢ Lena Hirtler, {term}`ℓ MfG`\]
+Esmarch-Handgriff  [₢ Lena Hirtler, {term}`ℓ MfG`]
 :::
 
 :::{index} single: stabile Seitenlage
@@ -135,7 +135,7 @@ Durch die stabile Seitenlage bewegt sich die Zunge auf Grund der Schwerkraft vom
 :class-grid: outline
 :gap: 20px
 
-Stabile Seitenlage \[₢ CCCA  {term}`ℓ MfG`\]
+Stabile Seitenlage [₢ CCCA  {term}`ℓ MfG`]
 
 ![Zugewandten Arm im 90°-Winkel ausstrecken](../../Bilder/CCCA/san-00800-gamma/Seitenlage1b.JPG)
 

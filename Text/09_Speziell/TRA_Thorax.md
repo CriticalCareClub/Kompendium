@@ -73,45 +73,21 @@ Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form des Pne
 {dfn}`Spontanpneumothorax`
 {index}` <Spontanpneumothorax>` und tritt am häufigsten bei jungen, hochgewachsenen und schlanken Menschen auf. Symptome des Spontanpneumothorax sind Schmerzen, Atemnot und Todesangst.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-Bilderserie-Spannungspneumothorax
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_xray_halb.\*
-:width: 100%
+Bilderserie: Spannungspneumothorax [₢ David Hauer, {term}`ℓ MfG`]
 
-Pneumothorax. Beachte die Randlinie zwischen Lunge (unten, innen) und dem luftgefüllten Pleuraspalt (oben, außen)
+![Pneumothorax. Beachte die Randlinie zwischen Lunge (unten, innen) und dem luftgefüllten Pleuraspalt (oben, außen)](/Bilder/Hauer-David-CCCA/pneumothorax_xray_halb.\*)
 
-₢ David Hauer {term}`ℓ MfG`
+![Im Vergleich: Kompletter Pneumothorax der rechten Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.](/Bilder/Hauer-David-CCCA/pneumothorax_xray_endstadium.\*)
+
+![Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich verletzt!**](/Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*)
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_xray_endstadium.\*
-:width: 100%
-
-Im Vergleich: Kompletter Pneumothorax der rechten Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*
-:width: 100%
-
-Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich verletzt!**
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Bilderserie-
-
-     Bilderserie:
-
-
-
-
-```
 
 (tj93090c)=
 (m-pneumothorax)=

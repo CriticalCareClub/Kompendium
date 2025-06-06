@@ -118,7 +118,7 @@ Hierzu zählen die *natürlichen*, körpereigenen Katecholamine **Noradrenalin**
 :class-grid: outline
 :gap: 20px
 
-Katecholamine \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Katecholamine [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 
 ![Adrenalin ist ein Standardmedikament bei der Reanimation aufgrind seiner positiv inotropen und vasopressorischen Eigenschaften](../../../Bilder/Gabriel-Sebastian-CCCA/Medikamente-LAdrenalin-Sammlung-Live-00943pt.jpg)

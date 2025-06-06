@@ -166,45 +166,21 @@ Dadurch wird nun ein Lungengefäß
 verstopft und ein Teil der Lunge nimmt nicht mehr am Gasaustausch teil:
 Es entsteht eine *Lungenembolie*.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:label: Figure-BilderserieTeaserThrombose
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/economyclass.\*
-:width: 100%
+Bilderserie: Thrombose
 
-Die Economyclass.
-Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln.
+![Die Economyclass. Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/economyclass.\*)  
+![Thromboseprophylaxe. Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z.\, B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können. Die Substanz wird unter die Haut (\\"subkutan\\") gespritzt. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*)  
+![Eine Venenthrombose kann eine Embolie auslösen. \[Lena Hirtler {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*)
 
-₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*
-:width: 100%
 
-Thromboseprophylaxe.
-
-Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z. B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können.
-Die Substanz wird unter die Haut ("subkutan") gespritzt.
-
-₢ Sebastian Gabriel  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
-:width: 100%
-
-Eine Venenthrombose kann eine Embolie auslösen.
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieTeaserThrombose
-
-    Bilderserie: Thrombose
-```
 
 (proc-mi74042c)=
 

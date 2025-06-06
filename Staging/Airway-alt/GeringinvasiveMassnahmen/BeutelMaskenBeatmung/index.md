@@ -65,35 +65,20 @@ Messvorrichtungen (z. B. zur CO₂-Messung) angebracht werden. Er wird mit
 einer *Beatmungsmaske* oder einem Tubus – je nach Bedarf – verbunden. Am
 Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-Bilderserie-Beatmungsmasken
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Beatmungsmaske_32906_v2-AASS-0112mm.jpg
-:width: 100%
+Bilderserie: Beatmungsmasken  
+\[₢ Ch. Pallinger, {term}`ℓ MfG`\]
 
-Eine *Beatmungs*maske.
+![Eine *Beatmungs*maske.](/Bilder/Pallinger-Christoph-CCCA/Beatmungsmaske_32906_v2-AASS-0112mm.jpg)
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+![Beatmungsmasken unterschiedlicher Größen: 0, 2, 3/4, 5. Die Farben der Masken haben keine besondere Bedeutung.](/Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
-:width: 100%
-
-Beatmungsmasken unterschiedlicher Größen: 0, 2,
-3/4, 5. Die Farben der Masken haben keine besondere
-Bedeutung.
-
-₢ Ch. Pallinger  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :label: Figure-Bilderserie-Beatmungsmasken
-
-    Bilderserie: Beatmungsmasken
-```
 
 ## Hygienische Wiederaufbereitung
 
@@ -137,43 +122,18 @@ beatmet, welches über 1sec verabreicht werden soll (*nicht* stoßweise!).
 Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz
 ("*Eigenfrequenz*") erfolgen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-Technik-Beutelmaskenbeatmung
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/CGriff.\*
-:width: 100%
+Bilderserie: Die Technik der Beutel-Masken-Beatmung [₢ Lena Hirtler  :term:`ℓ MfG`]
 
-C-Griff
+![C-Griff](/Bilder/Hirtler-Lena-CCCA/CGriff.\*)
+
+![und überstreckter Kopf](/Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*)
+
+![Normalerweise wird bei der Überdruckbeatmung mit einem Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der Druck den Öffnungsdruck der Speiseröhre (ca. 20  mbar), wird Luft auch in den Magen gepumpt.](/Bilder/Hirtler-Lena-CCCA/Beutelbeatmung2.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*
-:width: 100%
-
-und überstreckter Kopf
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Beutelbeatmung2.\*
-:width: 100%
-
-Normalerweise wird bei der Überdruckbeatmung mit einem
-Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der
-Druck den Öffnungsdruck der Speiseröhre (ca. 20  mbar),
-wird Luft auch in den Magen gepumpt.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Technik-Beutelmaskenbeatmung
-
-    Bilderserie: Die Technik der Beutel-Masken-Beatmung
-
-    ₢ Lena Hirtler  :term:`ℓ MfG`
-
-
-
-
-
-
-```

@@ -19,26 +19,19 @@ wiederum zun einer Gefährung des Atemweges kommen.
 {ref}`Figure-GuedelTubusEinfuehren-1` ff. zeigt das Einführen und die
 Lage des Guedel-Tubus.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-GuedelTubusEinfuehren
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus1.\*
-:name: Figure-GuedelTubusEinfuehren-1
+Bilderserie: Einführen des Guedel-Tubus [₢ Lena Hirtler, {term}`ℓ MfG`]
+
+![](/Bilder/Hirtler-Lena-CCCA/GuedelTubus1.*)
+
+![zuerst wird der Guedel-Tubus „verkehrt“ herum eingeführt](/Bilder/Hirtler-Lena-CCCA/GuedelTubus2.*)
+
+![und anschließend mittels Drehbewegung endgültig positioniert.](/Bilder/Hirtler-Lena-CCCA/GuedelTubus3.*)
+
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus2.\*
-zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/GuedelTubus3.\*
-und anschließend mittels Drehbewegung endgültig positioniert.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-GuedelTubusEinfuehren
-
-    Bilderserie: Einführen des Guedel-Tubus ₢ Lena Hirtler, :term:`ℓ MfG`
-```

@@ -160,8 +160,7 @@ Beispiele für verschiedene Tuben-Typen sind:
 :class-grid: outline
 :gap: 20px
 
-Endotrachealtuben \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
-
+Endotrachealtuben [₢ Sebastian Gabriel. {term}`ℓ MfG`]
 
 ![Spiraltubus mit Beißschutz](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201119_140916_001342px.jpg)
 
@@ -269,7 +268,7 @@ Stethoskop
 :class-grid: outline
 :gap: 5px
 
-Vorbereitungen zur endotrachealen Intubation \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
+Vorbereitungen zur endotrachealen Intubation [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
 ![Zusammenbauen des Laryngoskops](/Bilder/Motal-Michael-CCCA/Intubation/dsc-4829-AASS-0112mm.\*)
 
@@ -379,7 +378,7 @@ NarkEinA -> C -> Weiter;
 :class-grid: outline
 :gap: 5px
 
-Endotracheale Intubation in der Praxis \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
+Endotracheale Intubation in der Praxis [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
 ![Zureichen des Laryngoskops (*linke* Hand!)](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg)
 
@@ -521,7 +520,7 @@ Endotracheale Intubation in der Praxis \[₢ Michael Motal, Critical Care Club A
 :class-grid: outline
 :gap: 5px
 
-Endotracheale Intubation: Erfolgskontrolle \[₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`\]
+Endotracheale Intubation: Erfolgskontrolle [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
 ![Stethoskop zureichen](../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4843-AASS-0112mm.\*)
 

@@ -50,75 +50,33 @@ Ein Patient mit aufgesetztem Sturzhelm stellt eine besondere Herausforderung dar
 8. Ⓑ legt eine HWS-Schiene an
    ({ref}`hws-schiene-anlegen`).
 
-```{eval-rst}
-.. subfigstart::
+:::{subfigure} AB|CD|EF|GH|II
+:subcaptions: below
+:name: Figure-Figure-helmabnahme-hws-schiene
+:class-grid: outline
+:gap: 20px
 
-```
+Bilderserie: Helmabnahme und Anlage einer HWS-Schiene [₢ Michael Motal, {term}`ℓ MfG`]
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm1.jpg
-:width: 100%
+![Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.](/Bilder/Motal-Michael-CCCA/00800/helm1.jpg)
 
-Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.
+![Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.](/Bilder/Motal-Michael-CCCA/00800/helm2.jpg)
+
+![Ggfs. Patient synchron und schonend auf den Rücken drehen.](/Bilder/Motal-Michael-CCCA/00800/helm3.jpg)
+
+![Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.](/Bilder/Motal-Michael-CCCA/00800/helm4.jpg)
+
+![Halswirbelsäule stabilisieren.](/Bilder/Motal-Michael-CCCA/00800/helm5.jpg)
+
+![Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen](/Bilder/Motal-Michael-CCCA/00800/helm6.jpg)
+
+![Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!](/Bilder/Motal-Michael-CCCA/00800/helm7.jpg)
+
+![Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.](/Bilder/Motal-Michael-CCCA/00800/helm8.jpg)
+
+![HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.](/Bilder/Motal-Michael-CCCA/00800/hwsschiene3.jpg)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm2.jpg
-:width: 100%
-
-Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm3.jpg
-:width: 100%
-
-Ggfs. Patient synchron und schonend auf den Rücken drehen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm4.jpg
-:width: 100%
-
-Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm5.jpg
-:width: 100%
-
-Halswirbelsäule stabilisieren.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm6.jpg
-:width: 100%
-
-Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm7.jpg
-:width: 100%
-
-Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/helm8.jpg
-:width: 100%
-
-Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/hwsschiene3.jpg
-:width: 100%
-
-HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Figure-helmabnahme-hws-schiene
-
-    Bilderserie: Helmabnahme und Anlage einer HWS-Schiene
-
-    ₢ Michael Motal  :term:`ℓ MfG`
-
-```
 
 [^footnote-1]: HWS-Immobilisation / Zug / ASBÖ: Nach der Lehrmeinung 07/2011 vom
     01.02.2011 (Bundesverband/Bundesschulung, n.d.) darf der Kopf nicht

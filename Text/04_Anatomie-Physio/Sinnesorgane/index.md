@@ -252,39 +252,19 @@ Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und Mittelohr dem
 
 Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine Zunahme des Schalldrucks (dB) führt zu einer Zunahme der Lautstärkeempfindung.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieOhr
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Ohr.\*
-:width: 100%
+Bilderserie: Das Ohr [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-Das Ohr im Querschnitt.
+![Das Ohr im Querschnitt. Man sieht den äußeren Gehörgang, das Trommelfell, die Gehörknöchelchen, die Schnecke und die Bogengänge.](/Bilder/Hirtler-Lena-CCCA/Ohr.\*)
 
-Man sieht den äußeren Gehörgang, das Trommelfell, die Gehörknöchelchen, die Schnecke und die Bogengänge.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
+![Das Mittelohr: Im Detail sind hier das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss und Steigbügel zu sehen.](/Bilder/Hirtler-Lena-CCCA/Mittelohr.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Mittelohr.\*
-:width: 100%
-
-Das Mittelohr:
-
-Im Detail sind hier das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss und Steigbügel zu sehen.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieOhr
-
-    Bilderserie: Das Ohr
-
-
-```
 
 ### Gehörorgan
 

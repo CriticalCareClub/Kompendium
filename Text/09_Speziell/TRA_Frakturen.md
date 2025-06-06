@@ -126,48 +126,21 @@ Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher Traumacheck durc
 [^footnote-3]: Nachdem der Patient für die Untersuchung entkleidet wurde, muss er
     nach der Untersuchung zugedeckt werden (Wärmeerhaltung)!
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-Bilderserie-OffeneFrakturen
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hauer-David-CCCA/fraktur_fehlstellung_nativ.\*
-:width: 100%
+Bilderserie: Offene Frakturen
 
-Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fußgänger) in natura …
+![Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fußgänger) in natura … \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fraktur_fehlstellung_nativ.\*)
 
-₢ David Hauer {term}`ℓ MfG`
+![… und in Röntgendarstellung \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fraktur_fehlstellung_xray.\*)
+
+![Nicht immer sind offene Frakturen spektakulär: Offene Fraktur des Mittelfingers \[₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0\]](/Bilder/CC-BY/fraktur-offen-finger.\*)
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/fraktur_fehlstellung_xray.\*
-:width: 100%
-
-… und in Röntgendarstellung
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/CC-BY/fraktur-offen-finger.\*
-:width: 100%
-
-Nicht immer sind offene Frakturen spektakulär:
-Offene Fraktur des Mittelfingers
-
-₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0\]
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-Bilderserie-OffeneFrakturen
-
-    Bilderserie: Offene Frakturen
-
-
-
-
-
-
-```
 
 (tt14200c)=
 (m-fraktur)=

@@ -23,43 +23,19 @@ Demenstsprechend kann man die EKG-Kurve in verschiedene Segmente teilen:
 Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 Überleitung vom Vorhof in die Kammern (*AV-Überleitung*). Der *QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die *ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:label: Figure-BilderserieReizleitungssystem
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/CC-BY-SA/EKG_Komplex.\*
-:width: 100%
+Bilderserie: Reizleitungssystem
 
-Eine elektrische Herzaktion.
-Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung:
-**P**-Welle ≈ Vorhoferregung,
-**PQ**-Zeit ≈ AV-Überleitung,
-**QRS**-Komplex ≈ Kammererregung,
-**ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung.
+![Eine elektrische Herzaktion. Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung: **P**-Welle ≈ Vorhoferregung, **PQ**-Zeit ≈ AV-Überleitung, **QRS**-Komplex ≈ Kammererregung, **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung. \[₢ WMC:Hank, {term}`ℓ CC BY-SA 2.0 DE`\]](/Bilder/CC-BY-SA/EKG_Komplex.\*)
 
-₢ WMC:Hank, {term}`ℓ CC BY-SA 2.0 DE`
+![Reizleitungssystem, Schema. `1`: Sinusknoten, `2`: AV-Knoten \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch, illustrator; C. Carl Jaffe MD, cardiologist, Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`\]](/Bilder/CC-BY/Reizleitungssystem_1.\*)
 :::
 
-:::{figure} /Bilder/CC-BY/Reizleitungssystem_1.\*
-:width: 100%
-
-Reizleitungssystem, Schema.
-`1`: Sinusknoten,
-`2`: AV-Knoten
-
-₢ J. Heuser,
-basierend auf der Arbeit von Patrick J. Lynch, illustrator;
-C. Carl Jaffe MD, cardiologist,
-Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieReizleitungssystem
-
-    Bilderserie: Reizleitungssystem
-```
 
 :::{note}
 - Das EKG zeigt nur die *elektrische* Aktivität, nicht aber die

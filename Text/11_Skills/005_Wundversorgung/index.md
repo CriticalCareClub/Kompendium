@@ -200,94 +200,35 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
   - Haematoma (*Haem.*)
 :::
 
-```{eval-rst}
-.. subfigstart::
-
-```
-
-:::{figure} /Bilder/Hauer-David-CCCA/wunde_rqw1.\*
-:width: 100%
-
-Rissquetschwunde vor der Versorgung im Spital
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/wunde_rqw2.\*
-:width: 100%
-
-Rissquetschwunde nach der Versorgung im Spital
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
 :::{todo} Bild Schnittwunde
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/stichwunde-klein.\*
-:width: 100%
+:::{subfigure} AB|CD|EF|GH
+:subcaptions: below
+:name: Figure-BilderserieWundarten
+:class-grid: outline
+:gap: 20px
 
-Glatte Wundränder und eigentlich ganz unauffällig:
-Die Stichwunde.
+Bilderserie: Wundarten [₢ David Hauer, :term:`ℓ MfG`]
 
-₢ David Hauer {term}`ℓ MfG`
+![Rissquetschwunde vor der Versorgung im Spital](/Bilder/Hauer-David-CCCA/wunde_rqw1.*)
+
+![Rissquetschwunde nach der Versorgung im Spital](/Bilder/Hauer-David-CCCA/wunde_rqw2.*)
+
+![Glatte Wundränder und eigentlich ganz unauffällig: Die Stichwunde.](/Bilder/Hauer-David-CCCA/stichwunde-klein.*)
+
+![Stichverletzung: unauffällig. **Dieser Patient ist lebensgefährlich verletzt!** (Pneumothorax)](/Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.*)
+
+![Stichwunde mit eröffneter Brusthöhle.](/Bilder/Hauer-David-CCCA/stichwunde-thorax-tief-01.*)
+
+![Verätzung](/Bilder/Hauer-David-CCCA/burn-chem01.*)
+
+![Verätzung](/Bilder/Hauer-David-CCCA/burn-chem02.*)
+
+![Ablederung nach schwerer Verbrennung](/Bilder/Hauer-David-CCCA/combustio-sa-02-hand.*)
+
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*
-:width: 100%
-
-Stichverletzung: unauffällig.
-
-**Dieser Patient ist lebensgefährlich verletzt!**
-(Pneumothorax)
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/stichwunde-thorax-tief-01.\*
-:width: 100%
-
-Stichwunde mit eröffneter Brusthöhle.
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/burn-chem01.\*
-:width: 100%
-
-Verätzung
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/burn-chem02.\*
-:width: 100%
-
-Verätzung
-
-\[David Hauer, {term}`ℓ MfG`\]
-:::
-
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-02-hand.\*
-:width: 100%
-
-Ablederung nach schwerer Verbrennung
-
-₢ David Hauer {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieWundarten
-
-    Bilderserie: Wundarten
-
-
-
-
-
-```
 
 ### Gefahren von Wunden
 

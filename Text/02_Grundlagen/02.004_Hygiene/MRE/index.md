@@ -119,49 +119,22 @@ Ein resistenter Staph. aureus (VRSA) im Elektronenmikroskop, koloriert
 \[Public Health Image Library, ID#: 11159, Public Domain\]
 :::
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieMultiresistenteKeime
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus.\*
-:width: 100%
+Bilderserie: Multiresistente Keime in der Praxis. Auf Nährmedien können Bakterien zu diagnostischen Zwecken gezüchtet werden. Ebenso kann man die Wirkung von Antibiotika auf den Keim untersuchen. [₢ Christine Gabriel/KARPAT]
 
-Auf einem Nährboden wurde eine Bakterienkultur angelegt.
-Jedes der sechs runden Blättchen enthält ein Antibiotikum.
-Man kann sehen dass in der Umgebung der Blättchen keine Bakterien wachsen.
+![Auf einem Nährboden wurde eine Bakterienkultur angelegt. Jedes der sechs runden Blättchen enthält ein Antibiotikum. Man kann sehen dass in der Umgebung der Blättchen keine Bakterien wachsen.](/Bilder/Gabriel-Christine-CCCA/staph-aureus.*)
 
-\[Christine Gabriel/KARPAT\]
+![Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen, d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim. Er ist *multiresistent*.](/Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.*)
+
+![Folge einer infizierten, nicht abheilenden Wunde: Eine Amputation des Unterschenkels.](/Bilder/Gabriel-Christine-CCCA/amputat-us1.*)
+
 :::
 
-:::{figure} /Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.\*
-:width: 100%
-
-Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen, d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim.
-Er ist *multiresistent*.
-
-\[Christine Gabriel/KARPAT\]
-:::
-
-:::{figure} /Bilder/Gabriel-Christine-CCCA/amputat-us1.\*
-:width: 100%
-
-Folge einer infizierten, nicht abheilenden Wunde:
-Eine Amputation des Unterschenkels.
-
-\[Christine Gabriel/KARPAT\]
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieMultiresistenteKeime
-
-    Bilderserie: Multiresistente Keime in der Praxis. Auf
-    Nährmedien können Bakterien zu diagnostischen Zwecken gezüchtet werden.
-    Ebenso kann man die Wirkung von Antibiotika auf den Keim untersuchen.
-
-
-```
 
 (m-mrsa-transport)=
 (proc-iu-81001c)=

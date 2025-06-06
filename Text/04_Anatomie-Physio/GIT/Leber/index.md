@@ -40,44 +40,21 @@ Basierend auf der Aufteilung der Portalvene kann die Leber chirurgisch in 8 Segm
 
 Mikroskopisch kann die Leber in *Leberläppchen* von 1-2 mm Durchmesser eingeteilt werden. Sie haben die sechseckige Form einer Bienenwabe mit einer Zentralvene in der Mitte. An den Grenzen der Leberläppchen befinden sich Äste der A. hepatica propria, der V. portae und ein Gallengänge. Von dort fließen die Flüssigkeiten über die Lebersinusoide in Richtung der Zentralvenen.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-LeberGallenblasePankreas
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/PD/Liver_and_pangreas_-_transparent.png
-:width: 100%
+Bilderserie: Leber, Gallenblase und Pankreas
 
-Leber, Gallenblase und Pankreas.
+![Leber, Gallenblase und Pankreas. \[₢ WMC ℓ ???\]](/Bilder/PD/Liver_and_pangreas_-_transparent.png)
 
-₢ WMC ℓ ???
+![Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Gallenblase.\*)
+
+![Lage des Pankreas zum Zwöffingerdarm. Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in den Darm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Pankreas-1.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Gallenblase.\*
-:width: 100%
-
-Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm.
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Pankreas-1.\*
-:width: 100%
-
-Lage des Pankreas zum Zwöffingerdarm.
-
-Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in den Darm.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-LeberGallenblasePankreas
-
-    Bilderserie: Leber, Gallenblase und Pankreas
-
-```
 
 ## Funktionen und Aufgaben der Leber
 

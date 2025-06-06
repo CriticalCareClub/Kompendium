@@ -29,7 +29,7 @@ Trotz korrekter Anwendung kann es aufgrund von Leckagen zur Magenüberblähung k
 :name: Figure-BilderserieLarynxtuben
 :class-grid: outline
 
-Bilderserie: Larynxtuben \[₢ Ch. Pallinger  {term}`ℓ MfG`\]
+Bilderserie: Larynxtuben [₢ Ch. Pallinger  {term}`ℓ MfG`]
 
 ![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*)
 

@@ -113,40 +113,24 @@ Es gibt *zwei Arten von Klappen*:
   - **Aortenklappe** links, **3** Taschen
   - **Pulmonalklappe** rechts, **3** Taschen
 
-```{eval-rst}
-.. subfigstart::
-```
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*
-:width: 100%
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieHerz
+:class-grid: outline
+:gap: 20px
+
+Bilderserie: Herz
+
+![\[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*)
+
+![Das Herz, schematisch \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herz-Schema_edited.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Schema_edited.\*
-:width: 100%
 
-Das Herz, schematisch
 
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
 
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Figure-BilderserieHerz
-
-    Bilderserie: Herz
-
-```
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Blutflussrichtung.png
-:width: 100%
-
-Das Herz
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
 
 (reizleitungssystem)=
 
@@ -217,36 +201,20 @@ Beispiele von Rhythmen werden unter {ref}`herzrhythmusstoerungen` vorgestellt.
 Die Reizübertragung zwischen den Herzmuskelzellen funktioniert über *Glanzstreifen*, das sind Zellverbindungen zwischen den einzelnen Zellen.
 Hier befinden sich zahlreiche sog. Gap Junctions, die über direkte Ionenströme die elektrische Erregung weiterleiten.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB
+:subcaptions: below
+:name: Fig-Reizleitungssystem
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/CC-BY/Reizleitungssystem_1.\*
-:align: right
-:width: 100%
+Bilderserie: Reizleitungssystem
 
-Reizleitungssystem, Schema
+![Reizleitungssystem, Schema \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch (Illustrator), C. Carl Jaffe (MD, Cardiologist), Yale University Center for Advanced Instructional Media, ℓ CC-BY\]](/Bilder/CC-BY/Reizleitungssystem_1.*)
 
-₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch; illustrator;
-C. Carl Jaffe; MD; cardiologist Yale University Center for Advanced Instructional Media
-ℓ CC-BY
+![Erregungsleitungssystem des Herzens \[₢ Lena Hirtler, ℓ {term}`MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herz-Erregungsleitungssystem.png)
+
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Erregungsleitungssystem.png
-:width: 100%
-
-Erregungsleitungssystem des Herzens
-
-₢ Lena Hirtler  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.45
-    :label: Fig-Reizleitungssystem
-
-    Bilderserie: Reizleitungssystem
-```
 
 Über das *vegetative Nervensystem* (Sympathikus und Parasympathikus) wird die Herzarbeit an die aktuellen Bedürfnisse angepasst.
 

@@ -105,38 +105,18 @@ Zusammen mit anderen Befunden aus den vorangegangenen Schritten des Einschätzun
 - {ref}`m-einschaetzung-indikation-ws-immobilisation`
 - {ref}`m-standardmassnahmen-vital`
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieD
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
-:width: 100%
+Bilderserie: D
 
-Anisokorie (Pupillendifferenz)
+![Anisokorie (Pupillendifferenz) \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*)
 
-₢ Gabriel {term}`ℓ MfG`
+![Kraftprobe an den Armen \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/neuro2.\*)
+
+![BZ-Messung \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/neuro6.\*)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro2.\*
-:width: 100%
-
-Kraftprobe an den Armen
-
-₢ Michael Motal {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/00800/neuro6.\*
-:width: 100%
-
-BZ-Messung
-
-₢ Michael Motal {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieD
-
-    Bilderserie: D
-```

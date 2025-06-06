@@ -123,37 +123,20 @@ Infusionslösungen ausgenützt, bei welchen die Moleküle aufgrund Ihrer Größe
 Ein verbreiteter Wirkstoff ist die Hydroxyethylstärke (HAES)
 oder Gelatine.
 
-```{eval-rst}
-.. subfigstart::
-```
 
-:::{figure} /Bilder/PD/Semipermeable_membrane.\*
-:width: 100%
 
-Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand.
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-Osmose
+:class-grid: outline
+:gap: 20px
 
-Es schwimmt viel herum:
-Die grünen, gelben, blauen und violetten Kugeln stellen Ionen und Moleküle dar.
-Die roten Scheiben sind rote Blutkörperchen.
+Osmose und Diffusion
 
-₢ WMC/pidalka44 ℓ ???
+![Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben, blauen und violetten Kugeln stellen Ionen und Moleküle dar. Die roten Scheiben sind rote Blutkörperchen. \[₢ WMC/pidalka44 ℓ ???\]](/Bilder/PD/Semipermeable_membrane.\*)
+
+![Osmose \[₢ WMC (Sander van der Molen) ℓ Public domain\]](/Bilder/PD/Osmotische_druk.\*)
 :::
-
-:::{figure} /Bilder/PD/Osmotische_druk.\*
-:width: 100%
-
-Osmose
-
-₢ WMC (Sander van der Molen) ℓ Public domain
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :label: Figure-Osmose
-
-    Osmose und Diffusion
-```
 
 ## Verteilung der Elektrolyte
 

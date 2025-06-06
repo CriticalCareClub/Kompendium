@@ -315,48 +315,22 @@ Beim gesunden Menschen ist der
 
 Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und Temperatur, psychische Erregung, arterielle Druckreize von Pressorezeptoren, Muskelarbeit, Hormone
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieAtemmechanik
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thorax-Diaphragma.\*
-:width: 100%
+Bilderserie: Atemmechanik [₢ Lena Hirtler, :term:`ℓ MfG`]
 
-Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.
+![Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.](/Bilder/Hirtler-Lena-CCCA/Thorax-Diaphragma.*)
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+![Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegung-frontal.*)
+
+![Die Rippen folgen der Atembewegung.](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.*)
+
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegung-frontal.\*
-:width: 100%
-
-Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.\*
-:width: 100%
-
-Die Rippen folgen der Atembewegung.
-
-₢ Lena Hirtler, {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieAtemmechanik
-
-    Bilderserie: Atemmechanik
-
-
-
-
-
-
-
-```
 
 ## Kenngrößen der Atmung
 

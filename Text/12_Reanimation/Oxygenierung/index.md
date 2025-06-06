@@ -196,46 +196,21 @@ Dazu gehören der Larynxtubus und die Larynxmaske.
 
 Der Larynxtubus ist unter {ref}`Larynxtubus` beschrieben.
 
-```{eval-rst}
-.. subfigstart::
-```
+:::{subfigure} AB|CC
+:subcaptions: below
+:name: Figure-BilderserieAtemwegshilfenVergleich
+:class-grid: outline
+:gap: 20px
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*
-:width: 100%
+Bilderserie: Lage von Atemwegshilfsmitteln [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-Im Vergleich: Lage eines Larynx-Tubus
+![Im Vergleich: Lage eines Larynx-Tubus](/Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*)
 
-\[Lena Hirtler, {term}`ℓ MfG`\]
+![… und eines endotrachealen Tubus.](/Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*)
+
+![Position des Guedel-Tubus im Querschnitt](/Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*)
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*
-:width: 100%
-
-… und eines endotrachealen Tubus.
-
-\[Lena Hirtler, {term}`ℓ MfG`\]
-:::
-
-:::{figure} /Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*
-:width: 100%
-
-Position des Guedel-Tubus im Querschnitt
-
-\[Lena Hirtler, {term}`ℓ MfG`\]
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieAtemwegshilfenVergleich
-
-    Bilderserie: Lage von Atemwegshilfsmittel
-
-
-
-
-
-```
 
 ## Die "richtige" Airway-Strategie im Rahmen der Reanimation
 

@@ -231,52 +231,26 @@ es besteht Verletzungungsgefahr.
 4. *Spritzkanüle* aufstecken
 5. Spritze mit Schutzkappe über Kanüle reichen, Ampulle zeigen
 
-```{eval-rst}
-.. subfigstart::
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Figure-Bilderserie
+:class-grid: outline
+:gap: 20px
 
-```
+Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
 
-:::{figure} /Bilder/Motal-Michael-CCCA/medi-kontrolle_4807-00800.\*
-:width: 100%
+![Kontrolle](/Bilder/Motal-Michael-CCCA/medi-kontrolle_4807-00800.\*)
 
-Kontrolle
+![Aufziehen mit Kanüle](/Bilder/Motal-Michael-CCCA/medi-aufziehen_4815-00800.\*)
 
-₢ Michael Motal  {term}`ℓ MfG`
+![Übergabe](/Bilder/Motal-Michael-CCCA/medi-kontrollieren_4824-00800.\*)
+
+![Verabreichung über Venflon durch befugtes Personal](/Bilder/Motal-Michael-CCCA/medi-verabreichen_4826_CLOSEUP-00800.\*)
 :::
 
-:::{figure} /Bilder/Motal-Michael-CCCA/medi-aufziehen_4815-00800.\*
-:width: 100%
-
-Aufziehen mit Kanüle
-
-₢ Michael Motal  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/medi-kontrollieren_4824-00800.\*
-:width: 100%
-
-Übergabe
-
-₢ Michael Motal  {term}`ℓ MfG`
-:::
-
-:::{figure} /Bilder/Motal-Michael-CCCA/medi-verabreichen_4826_CLOSEUP-00800.\*
-:width: 100%
-
-Verabreichung über Venflon durch befugtes Personal
-
-₢ Michael Motal  {term}`ℓ MfG`
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.48
-    :label: Figure-Bilderserie
-
-    Bilderserie: Medikamentengabe
 
 
-```
+
 
 ## Vorbereitung einer Infusion
 
@@ -321,65 +295,38 @@ Verabreichung über Venflon durch befugtes Personal
    7. Infusionsschlauch entlüften
    8. Radklemme schließen
 
-```{eval-rst}
-.. subfigstart::
-```
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.\*
-:width: 100%
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieInfusionsset
+:class-grid: outline
+:gap: 20px
 
-Infusionsbesteck
+Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
 
-₢ Christoph Pallinger {term}`ℓ MfG`
+![Infusionsbesteck](/Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.\*)
+
+![Beispiele für Infusionsbeutel und -flaschen](/Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.\*)
 :::
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.\*
-:width: 100%
 
-Beispiele für Infusionsbeutel und
--flaschen
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Figure-BilderserieInfusionsset-2
+:class-grid: outline
+:gap: 20px
 
-₢ Christoph Pallinger {term}`ℓ MfG`
+Bilderserie: Infusion [₢Sebastian Gabriel, {term}`ℓ MfG`]
+
+![Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Tropfkammer-Live-00441pt.\*)
+
+![Mit der Radklemme wird die Inf eschwindigkeit reguliert.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Stellrad-Live-00441pt.\*)
+
+![Mittels eines 3-Weg-Hahns können weitere Infusionen angeschlossen werden.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-3WegHahn-Live-00441pt.\*)
+
+![Schlussendlich wird die Infusion an einem Zugang zum Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Tropfkammer-Live-00441pt.\*
-:width: 100%
-
-Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Stellrad-Live-00441pt.\*
-:width: 100%
-
-Mit der Radklemme wird die Inf eschwindigkeit reguliert.
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-3WegHahn-Live-00441pt.\*
-:width: 100%
-
-Mittels eines 3-Weg-Hahns können weitere Infusionen angeschlossen werden.
-:::
-
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*
-:width: 100%
-
-Schlussendlich wird die Infusion an einem Zugang zum Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.
-:::
-
-```{eval-rst}
-.. subfigend::
-    :width: 0.32
-    :label: Figure-BilderserieInfusionsset
-
-    Bilderserie: Infusion
-
-
-
-
-
-
-
-```
 
 ## Periphere Venenverweilkanüle: Assistenz
 

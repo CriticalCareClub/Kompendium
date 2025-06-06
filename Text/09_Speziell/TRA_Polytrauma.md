@@ -10,7 +10,7 @@
 <!-- 51. -->
 
 
-Der Begriff {dfn}`Polytrauma` {index}` <! Polytrauma>` bezeichnet gleichzeitige *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen *wenigstens eine* allein *oder die Kombination mehrerer* *lebensgefährlich* ist.
+Der Begriff {dfn}`Polytrauma` bezeichnet gleichzeitige *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen *wenigstens eine* allein *oder die Kombination mehrerer* *lebensgefährlich* ist.
 Die Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines Verdachts, begründet auf den Unfallmechanismus und eventuell der Vitalparameter, gestellt werden.
 
 Beispiele:
@@ -57,28 +57,40 @@ Die Behandlung muss sich daher in erster Linie an der Stabilisierung der Vitalfu
 
 
 
-## Pathophysiologie des Polytraumas
-- Ischämie und Reperfusion: Blutverlust mit Hypotonie und Perfusionsabnahme  =
-  Zentralisation/Schock = Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
-  Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion = Einschwemmen von vasoaktiven Substanzen in den Kreislauf mit Hypotonie + Entstehen von Sauerstoffradikalen welche Tightjunctions schädigen, erhöhte NO-Produktion durch TNFα, Aktivierung des Komplimentsystems mit DIC.
-  Das Ausmaß ist vom Ausmaß der Ischämie und der Dauer der Reperfusionsphase abhängig.
-- Weichteiltrauma:    mit Schmerz, Blutung/Hämatom mit lokaler Mediatorfreisetzung und Fernwirkung der Mediatoren.
-- Immunversagen: Rascher Verbrauch der humoralen und zellulären Komponenten des Abwehrsystems.
 
-  Leukopenie korreliert mit Verletzungsschwere (Neutrophile Granulozyten und Makrophagen hängen am geschädigten Endothel).
-  Translokation der Darmbakterien und Einschwemmen von Endotoxinen bei Ischämie des Darms.
+:::{index} single: Gastroparese; Polytrauma
+:::
+:::{index} single: Nüchternheit; Polytrauma
+:::
+
+## Pathophysiologie des Polytraumas
+
+- **Ischämie**: Blutverlust mit Hypotonie und Perfusionsabnahme →
+  Zentralisation/Schock = Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
+  
+- **Reperfusion**: Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion → 
+  *Einschwemmen* von vasoaktiven Substanzen in den Kreislauf mit Hypotonie + Entstehen von *Sauerstoffradikalen*, welche *Tight junctions* schädigen, erhöhte *NO-Produktion* durch *TNFα*, Aktivierung des Komplimentsystems mit *DIC*.
+  Das Ausmaß ist vom Ausmaß der Ischämie und der Dauer der Reperfusionsphase abhängig.
+- **Weichteiltrauma**:    mit Schmerz, Blutung/Hämatom mit lokaler Mediatorfreisetzung und Fernwirkung der Mediatoren.
+- **Immunversagen**: Rascher Verbrauch der humoralen und zellulären Komponenten des Abwehrsystems.
+
+  *Leukopenie* korreliert mit Verletzungsschwere (Neutrophile Granulozyten und Makrophagen hängen am geschädigten Endothel).
+  *Translokation* der Darmbakterien und Einschwemmen von *Endotoxinen* bei Ischämie des Darms.
 
   Wichtig sind Hygienemassnahmen!
 
-CAVE: ab Trauma Gastroparese, daher NICHT NÜCHTERN! Oft Aspiration von bewusstlosen Verletzten!
+:::{danger}
+CAVE: ab Trauma *Gastroparese*, daher NICHT NÜCHTERN! 
 
+Oft Aspiration von bewusstlosen Verletzten!
+:::
 
 ## Diagnostik
 
 Indikation für ein Polytrauma- Ganzkörper CT / Schockspirale:
-- Unfallhergang: Sturz aus großer Höhe, Verkehrsunfall als Fußgänger oder hohe Geschwindigkeit, Explosion, Einklemmung
-- Vitalparameter: GCS \< 10, RRsyst \< 80, O2 \< 90%, Atemfrequenz \< 10 oder \> 24/min
-- Verletzungsmuster: Thorax instabil,  \>  1 großer Röhrenknochen betroffen, stumpfes Bauchtrauma, prox. Amputation
+- **Unfallhergang**: Sturz aus großer Höhe, Verkehrsunfall als Fußgänger oder hohe Geschwindigkeit, Explosion, Einklemmung
+- **Vitalparameter**: GCS \< 10, RRsyst \< 80, O2 \< 90%, Atemfrequenz \< 10 oder \> 24/min
+- **Verletzungsmuster**: Thorax instabil,  \>  1 großer Röhrenknochen betroffen, stumpfes Bauchtrauma, prox. Amputation
 
 
 

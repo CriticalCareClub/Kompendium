@@ -10,7 +10,7 @@ Unterschiedliche Konzentrationen im Handel!
 :::
 
 Beschreibung  
-: - ---
+: - 
 
 Wirkung  
 : - Erzeugt abhängig von der Dosis eine dissoziative Anästhesie

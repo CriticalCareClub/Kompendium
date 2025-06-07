@@ -227,7 +227,7 @@ Der Plexus brachialis kann an verschiedenen Punkten (interskalenär, supra- oder
 :::
 :::{index} single: Plexusblockade; axilläre
 :::
-:::{index} single: Blackade; axilläre
+:::{index} single: Blockade; axilläre
 :::
 :::{index} single: Nervus; medianus
 :::
@@ -398,7 +398,7 @@ Es gibt verschiedene Zugänge zur Punktion des N. ischiadicus.
 Der N. obturatorius entspringt dem Plexus lumbalis, hat motorische und sensorische Qualitäten und versorgt sensibel den medialen Oberschenkel und das Kniegelenk.
 Motorisch versorgt er u.a. den M. adductor magnus.
 Dies ist vor allem für urologische Kollegen, welche mit der Elektrokaustik an der seitlichen Blasenwand arbeiten, ein Erlebnis:
-Durch Stimulation kommt es zur Adduktion der Beine im Hüftgelenk des in Steinschittlagerung gelagerten Patienten und der dazwischen sitzende Operateur hat unliebsamen Körperkontakt.
+Durch Stimulation kommt es zur Adduktion der Beine im Hüftgelenk des in Steinschnittlagerung gelagerten Patienten und der dazwischen sitzende Operateur hat unliebsamen Körperkontakt.
 
 
 
@@ -433,12 +433,12 @@ N. ischiadicus L4-S3
  -->
 
 
-:::{table} Ausgewählte Nerven der unteren Extramität
+:::{table} Ausgewählte Nerven der unteren Extremität
 | Nerv            | Wurzel  | Sensorik                                              | Motorik                                             | Reaktion Nervenstim                               |
 | --------------- | ------- | ----------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- |
 | N. femoralis    | L1 - 4  | Ventraler und medialer Oberschenkel                   | Mm. Iliopsoas, sartorius, quadriceps, femoralis     | Kontraktion M. quadriceps mit Beugung der Patella |
 | N. saphenus     |         | Medialer Unterschenkel                                | -                                                   |                                                   |
-| N. obturaturius | L2 - 4  | Medialer Oberschenkel                                 | Oberschenkeladuktion                                | Adduktion am Oberschenkel                         |
+| N. obturaturius | L2 - 4  | Medialer Oberschenkel                                 | Oberschenkeladduktion                               | Adduktion am Oberschenkel                         |
 | N. ischiadicus  | L4 – S3 | Oberschenkel dorsal, Unterschenkel dorsal und lateral | Mm. Biceps femoris, semitendinosus, semimembranosus | Beugung Unterschenkel                             |
 :::
 
@@ -461,7 +461,7 @@ N. ischiadicus L4-S3
 | ----------------------- | ------- | ----------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
 | Plexus sacralis L5 – S1 |         |                                                       |                                                                                |                                         |
 | N. ischiadicus          | L4 – S3 | Oberschenkel dorsal, Unterschenkel dorsal und lateraö | Mm. Biceps femoris, semitendinosus, semimembranosus                            | Beugung Unterschenkel                   |
-| N. peroneus communis    | L4 – S1 | Fußrücken                                             | Mm peronei, Fußextensoren                                                      | Dorsalflexion Füß, Steckung der Zehen   |
+| N. peroneus communis    | L4 – S1 | Fußrücken                                             | Mm peronei, Fußextensoren                                                      | Dorsalflexion Füß, Streckung der Zehen   |
 | N. tibialis             | L4 – S2 | Dorsaler Unterschenkelplantarer Fuß                   | Mm gastrocnemius, triceps surae, soleus, tibialis post, flexor hallucis longus | Plantarflexion und Supination des Fußes |
 | N. suralis              |         | Laterale Femur-seite, lateraler Fußrand               | -                                                                              | -                                       |
  -->

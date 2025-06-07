@@ -16,6 +16,6 @@ Ziel des Anästhesieverfahrens
 : gute Steuerbarkeit, geringe NW, kurze Aufwachzeit, Schmerzfreiheit, kein PONV; daher wenn möglich RA, sonst AN.
 
 Entlassungskriterien
-: Freigabe durch Operateur und Anästhesisten: Orientiert, Respiratorisch und Hämodynmisch stabil, keine Schmerzen, kein PONV, keine Restblockaden/Miktionsstörung.
+: Freigabe durch Operateur und Anästhesisten: Orientiert, Respiratorisch und hämodynamisch stabil, keine Schmerzen, kein PONV, keine Restblockaden/Miktionsstörung.
 
 Hinweis auf eingeschränkte Orientierung für 24h (Autofahren verboten!), Sicherstellung einer Begleitperson.

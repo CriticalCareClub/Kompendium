@@ -166,9 +166,9 @@ Die folgenden Tabellen geben eine Übersicht über zentrale Vor- und Nachteile d
   - Nachteile
 * - **Gasnarkose**
   - Oft adäquate Steuerbarkeit, bronchospasmolytisch, geringere Awareness-Gefahr
-  - PONV, Umweltbelastung, MH-Risiko, Uterus-Reaxierung (substanzabhängig), Relaxierung der Schlund-Muskulatur (substanzabhängig)
+  - PONV, Umweltbelastung, MH-Risiko, Uterus-Relaxierung (substanzabhängig), Relaxierung der Schlund-Muskulatur (substanzabhängig)
 * - **TIVA**
-  - Weniger PONV, weniger Pressen beim Ausleiten, Tubustoleranz beim spontan atmenden kooperativen Patienten eher möglich, konstantere Narkosefürhung möglich (Neurominitoring), kein MH-Trigger, EEG-Awareness-Monitoring-tauglich
+  - Weniger PONV, weniger Pressen beim Ausleiten, Tubustoleranz beim spontan atmenden kooperativen Patienten eher möglich, konstantere Narkoseführung möglich (Neuromonitoring), kein MH-Trigger, EEG-Awareness-Monitoring-tauglich
   - Materialbedarf, höhere Awareness-Gefahr, Gefahr der postoperativen Hyperalgesie bei alleiniger Verwendung von kurzwirksamen Opiaten, mögliche Kumulation
 * - **Balancierte Anästhesie**
   - Flexibel, gute Kombination aus Hypnose & Analgesie, Awareness-Prophylaxe
@@ -210,7 +210,7 @@ Tabelle {numref}`TAB-Narkoseregime-Beispiele` zeigt exemplarische Situationen au
 * - Eingriffe an den Extremitäten
   - Gasnarkose
   -
-* - Patient mit i.v.-Opiatabusus
+* - Patient mit i.v.-Opiat-Abusus
   - Gasnarkose, ev. + Lachgas
   - Häufig ausgeprägter Gewöhnungseffekt gegenüber Opiaten und i.v.-Sedativa; aber: Körper "kennt Gase noch nicht"
 * - Patient mit OSAS

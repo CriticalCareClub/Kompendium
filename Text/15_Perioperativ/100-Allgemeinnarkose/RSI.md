@@ -28,7 +28,7 @@ Diese zeichnet sich durch folgende Maßnahmen aus:
 - Lagerung des Patienten mit erhöhten Oberkörper
 - Möglichst mehrere Absaugevorrichtungen in Reichweite
 - Schnelle Gabe des Hypnotikums
-- Schnellwirksames Muskelrelaxanz
+- Schnellwirksames Muskelrelaxans
 - Intubationsmethode mit dem am schnellsten zu erwartenden Intubationserfolg: Führungsdraht, ev. Videolaryngoskopie etc.
 
 :::{attention} Die Videolaryngoskopie ist per se *kein* Garant für einen schnellen Intubationserfolg.
@@ -39,7 +39,7 @@ Bei hellem Umgebungslicht oder viel Sekret (Blut, Erbrochenes etc.: blockiert di
 
 1. Präoxygenieren
 2. {ref}`Fentanyl <Fentanyl>` 0,2 mg
-3. Abwarten der Fentanylwirkung
+3. Abwarten der Fentanyl-Wirkung
 4. {ref}`Propofol <Propofol>` 200 mg
 5. {ref}`Phenylephrin <Phenylephrin>` 0,050 mg
 6. {ref}`Rocuronium <Rocuronium>` 70 mg
@@ -47,7 +47,7 @@ Bei hellem Umgebungslicht oder viel Sekret (Blut, Erbrochenes etc.: blockiert di
 8. {ref}`ETI <ETI>`
 :::
 
-:::{admonition} Bespiel: Ablauf RSI: 80 Jahre, präseptisch, 70 kg, Ileus
+:::{admonition} Beispiel: Ablauf RSI: 80 Jahre, präseptisch, 70 kg, Ileus
 
 1. Präoxygenieren
 2. {ref}`Midazolam <Midazolam>` 5 mg

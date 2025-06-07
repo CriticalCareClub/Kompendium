@@ -28,7 +28,7 @@ Die Risikoeinschätzung umfasst:
   - Dosierung (z.B. "prophylaktische" vs. "therapeutische" Dosierung)
 - Nierenfunktionsstörungen:
   Aufgrund der **Akkumulationsgefahr** mit zunehmender Niereninsuffizienz unterscheiden sich die empfohlenen Zeitintervalle bei Patienten mit Niereninsuffizienz unter einer GFR von 30-60 ml/h deutlich.
-  Zur Beurteilung der Nierenfunktion und Risikoevaluierung soll die Kreatininclearance herangezogen werden. {term}`♛ S1 RM-RA Antikoag 2021`
+  Zur Beurteilung der Nierenfunktion und Risikoevaluierung soll die Kreatininclearence herangezogen werden. {term}`♛ S1 RM-RA Antikoag 2021`
 - Leberfunktionsstörungen
 - Gerinnungstörungen
 
@@ -46,7 +46,7 @@ Unter geplanter Fortführung von ASS (≤ 100 mg/d) sollten zusätzliche Antik
 Bei allen Patienten unter Antithrombotika ist Abwägung des Blutungs- und Thrombembolierisikos (Art und Umfang des Eingriffes einerseits, Grunderkrankung andererseits) obligat.
 
 **Das blinde Absetzen von Antikoagulanzien ist keine Lösung!**
-Die notwendige Therapiestrategie, ggfs. mittels "Bridging" mit kurz wirksamen und damit besser steurerbaren Substanzen, ist ganz wesentlich von der ursprünglichen Indikation zur gerinnungshemmenden Therapie abhängig und kann oft nur in **Zusammenarbeit mit dem relevanten Fach** (z.B. Kardiologie) festgelegt werden.
+Die notwendige Therapiestrategie, ggfs. mittels "Bridging" mit kurz wirksamen und damit besser steuerbaren Substanzen, ist ganz wesentlich von der ursprünglichen Indikation zur gerinnungshemmenden Therapie abhängig und kann oft nur in **Zusammenarbeit mit dem relevanten Fach** (z.B. Kardiologie) festgelegt werden.
 :::
 
 

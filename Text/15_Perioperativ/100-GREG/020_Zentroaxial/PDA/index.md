@@ -122,7 +122,7 @@ Je nach Penetration des Lokalanästhetikums sind unterschiedliche Modalitäten e
 
 Die **Ausdehnung** der Blockade ist abhängig von
 
-- Volumen des Lokalanästhetikums (ca 1,5 ml/Segement)
+- Volumen des Lokalanästhetikums (ca 1,5 ml/Segment)
 - Konzentration des Lokalanästhetikums
   - Konzentration x Volumen = Menge des Lokalanästhetikums
 - Lage

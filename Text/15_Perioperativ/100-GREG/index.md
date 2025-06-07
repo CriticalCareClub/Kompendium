@@ -9,7 +9,7 @@
 
 
 Die Regionalanästhesie erlaubt die Betäubung von Körperregionen durch Blockade der zugehörigen nervalen Leitungsbahnen.
-Dabei kann nicht nur Schmerzfreiheit durch Blockade der afferenten Nerven erreicht werden, je nach Ort und Dosierung kann es auch zu einer motorischen oder somatischen (sympatischen) Blockade kommen.
+Dabei kann nicht nur Schmerzfreiheit durch Blockade der afferenten Nerven erreicht werden, je nach Ort und Dosierung kann es auch zu einer motorischen oder somatischen (sympathischen) Blockade kommen.
 
 Grundsätzlich unterscheidet man *zentrale*, *Plexus-* und *periphere* Nervenblockaden.
 Die zentralen Blockaden interagieren mit der *neuroaxialen* Komponente des Nervensystems, also dem Rückenmark bzw. der Cauda equina und den davon abgehenden Segmentwurzeln.

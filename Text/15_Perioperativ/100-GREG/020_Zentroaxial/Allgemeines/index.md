@@ -25,7 +25,7 @@
 ## Orientierung an der Wirbelsäule
 
 
-Zur Einschätzung der Punktionshöhe an der Wirbelsäule orientiert man sich am promintenten *Dornfortsatz des C7*, den *Schulterblättern* und der *Beckenschaufel*, siehe {ref}`WS-Orientierung`.
+Zur Einschätzung der Punktionshöhe an der Wirbelsäule orientiert man sich am prominenten *Dornfortsatz des C7*, den *Schulterblättern* und der *Beckenschaufel*, siehe {ref}`WS-Orientierung`.
 
 <!-- :::{subfigure} AB
 :subcaptions: below

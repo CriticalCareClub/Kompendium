@@ -4,13 +4,13 @@
 
 ## Kardiale Patienten
 
-\>4MET´s mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
+\> 4MET´s mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
 
-\>4MET´s mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine
+\> 4MET´s mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine
 leichte OP freigeben werden. Bei einer schweren OP Abklärung mittels EKG, Echo, C/P (EF?
 LVF?) und Auskultation nach einem pathologischen Herzgeräusch: Echo vorhanden? Vitien?
 
-\<4MET´s : EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OPRisiko, bei schwerem Eingriff und LEE-Index > 2RF = interdiszipliäre Entscheidung!
+\< 4MET´s : EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OPRisiko, bei schwerem Eingriff und LEE-Index > 2RF = interdiszipliäre Entscheidung!
 
 ECHO: Gibt keine Auskunft über perioperative Leistungsfähigkeit, aber Klappenvitien, wie AS+MS
 sind ein starker Risikofaktor für perioperative Komplikationen. Beurteilung bei akutem
@@ -40,9 +40,9 @@ Risikoeinschätzung des Eingriffs bezüglich perioperativer Infarkt/Herztod:
 
 Hochgradig (>5% MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen
 
-Mäßiggradig (1-5%) Carotis, Kopf und Hals, Orthopädie, Prostata, intrathorakale Eingriffe
+Mäßiggradig (1–5%) Carotis, Kopf und Hals, Orthopädie, Prostata, intrathorakale Eingriffe
 
-Geringgradig (\<1%) Endoskopische E., oberflächene. OP, Katarakt, Mammae…
+Geringgradig (\< 1%) Endoskopische E., oberflächene. OP, Katarakt, Mammae…
 Gerinnungsmanagement nach PTCA mit dualer Plättchentherapie (ASS + P2Y12-Blocker):
 
 Ballondilatation: OP frühestens nach 2 Wochen, ASS weiter
@@ -65,9 +65,9 @@ Gerinnungsmanagement ist abhängig vom Blutungs- und Thromboserisiko der OP:
 P2Y12-Rezeptorblocker = Thienopyridine (ADP-Freisetzung):
 
 - Clopidogrel /Plavix: 7 Tage Pause, WB sofort
-- Prasugrel/Efient: 7-10 Tage Pause, WB nach 6h (erhöhte cerebrale Blutungen >75Lj)
+- Prasugrel/Efient: 7–10 Tage Pause, WB nach 6h (erhöhte cerebrale Blutungen >75Lj)
 - Ticagrelor / Brilique: 5 Tage Pause, WB nach 6h: reversible Antagonist, in den ersten 12h nach Einnahme werden auch transfundierte Thrombozyten gehemmt, und sind wirkungslos! Hohe Proteinbindung, nur durch Plasmapherese reversierbar.
-- Cangrelor: 1-6h Pause: parenteraler P2Y12-Blocker mit 5-6 Minuten HWZ!
+- Cangrelor: 1–6 h Pause: parenteraler P2Y12-Blocker mit 5–6 Minuten HWZ!
 - Thrombo-ASS 100 mg: irreversibler Thrombozytenfunktionshemmer (COX): 3 Tage Pause
 
 Dauermedikamente:
@@ -94,15 +94,18 @@ Der Schrittmacherausweis, Nummer des Kardiologen und ein **Magnet** müssen bei 
 ## Pulmonale Patienten
 
 Anamnese: Asthma? COPD? Raucherbronchitis? Dyspnoe? Belastbarkeit?
+
 Erkennen von:
-Obstruktive Ventilationsstörung: Asthma, COPD mit erhöhtem RV und erhöhter FRC
-Restriktive Ventilationsstörung: Fibrose, Adipositas mit erniedrigtem RV und red. FRC
-Diffusionsstörungen: normale BGA in Ruhe bei erhöhtem HZV jedoch paO2 und SaO2
-erniedrigt!
-Neuromuskuläre Erkrankungen, z.B. Myasthenia Gravis, Muskeldystrophien
+- Obstruktive Ventilationsstörung: Asthma, COPD mit erhöhtem RV und erhöhter FRC
+- Restriktive Ventilationsstörung: Fibrose, Adipositas mit erniedrigtem RV und red. FRC
+- Diffusionsstörungen: normale BGA in Ruhe bei erhöhtem HZV jedoch paO₂ und SaO₂ erniedrigt!
+- Neuromuskuläre Erkrankungen, z.B. Myasthenia Gravis, Muskeldystrophien
+
 Untersuchungen: Inspektion, Perkussion, Auskultation, Spirometrie + BGA, C/P
-Normale FEV1 ist 70-85% der FRC!
-Pulmonale Patienten mit \<4MET´s + schwerer Eingriff = interdisziplinäre Entscheidung!
+
+Normale FEV1 ist 70–85% der FRC!
+
+Pulmonale Patienten mit < 4MET´s + schwerer Eingriff = interdisziplinäre Entscheidung!
 
 ## Diabetes Mellitus
 
@@ -110,8 +113,8 @@ OP-Morgen: 1/3 des Gesamtinsulinbedarfes als langwirksames Insulin geben
 Erster OP Punkt! Engmaschige BZ-KO! Ev. Glucose 5% (Werte >70 und >250 mg/dl müssen dem Arzt gemeldet werden!)
 Postoperative BZ-Ko (+ intraoperativ bei längeren Eingriffen)
 Abend nach OP: NZ >180 mg/dl die gewohnte Dosis IE verabreichen
-Biguanide/Meformin/Glucophage 48h prä- und 24h postoperativ pausieren, wegen Laktatanstieg. (Verminderte Gluconeogenese aus Laktat)
-Sulfonylharnstoffe/Amaryl 24h präoperativ pausieren, da 24h Gefahr Hypoglykämie durch
+Biguanide/Meformin/Glucophage 48 h prä- und 24 h postoperativ pausieren, wegen Laktatanstieg. (Verminderte Gluconeogenese aus Laktat)
+Sulfonylharnstoffe/Amaryl 24 h präoperativ pausieren, da 24 h Gefahr Hypoglykämie durch
 gesteigerte Insulinausschüttung
 
 ## Chronischer Niereninsuffizienz
@@ -122,15 +125,14 @@ Keine oder reduzierte Prämedikamentation
 Antihypertensiva weitergeben
 Diuretika bei schwerer NI weitergeben, Gefahr des Lungenödems und kard. Decomp.
 Erhöhtes Aspirationsrisiko: bei CNV verzögerte Magenentleerung auch postoperativ!
-GFR 25-40 ml/min Hydration(NaCl, Elomel, kein RL) und Diurese forcieren (Lasix,
-Harnvolumen > 0,5 ml/kg / h) + Hypotonie vermeiden (RBF!) um ANV zu verhindern!
+GFR 25–40 ml/min Hydration (NaCl, Elomel, kein RL) und Diurese forcieren (Lasix, Harnvolumen > 0,5 ml/kg / h) + Hypotonie vermeiden (RBF!) um ANV zu verhindern!
 
 ## Adipositas
 
 Adipositas: = hohes Aspirationsrisiko, geringe kardiopulmonale Reserve!
 Niedrige Compliance durch viel Fett auf der Brustwand, thorakale Kyphose, erniedrigte
 Lungencompliance
-O2-Verbrauch und CO2-Produktion sind erhöht, geringe Apnoetoleranz (rasche Entsättigung
+O₂-Verbrauch und CO₂-Produktion sind erhöht, geringe Apnoetoleranz (rasche Entsättigung
 Hb)
 Erniedrigte FRC und TLV durch Zwerchfellhochstand mit erhöhtem intraabdominellem Druck
 Oft schwierige Intubation (Videolaryngoskop bzw. fiberoptische Wachintubation erwägen)
@@ -172,7 +174,7 @@ Dokumentation des neurologischen Status, neurologische Begutachtung bei Verschle
   onkologische Patienten,
   Critical Care Neuropathy
 
-Ein perioperativer cerebraler Insult tritt in 45% innerhalb von 24h durch Ischämie und frühe
+Ein perioperativer cerebraler Insult tritt in 45% innerhalb von 24 h durch Ischämie und frühe
 Embolisation auf. Späte Embolien finden sich ab dem zweiten postoperativen Tag bei
 Vorhofflimmern. Ein besonders hohes Risiko ist bei Herz- und Gefäßchirurgischen Eingriffen
 vorhanden, bzw. bei vorbestehender Carotisstenose, St.p. TIA oder Insult, VHF und Patienten > 70

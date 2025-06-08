@@ -15,7 +15,7 @@ Block, VHF), autonome Dysregulation mit vermindertem Barorezeptorenreflex und ve
 - Lunge:
 Verminderte Elastizität/Compliance mit erhöhter Atemarbeit,
 Atemmuskulaturschwäche mit vermindertem IRV und ERV, sowie vermindertem FEV1.
-Verminderte Atemregulation nach CO2 und O2. Verminderte Sensibilität und Motorik der Pharynxmuskulatur mit erhöhtem Aspirationsrisiko.
+Verminderte Atemregulation nach CO₂ und O₂. Verminderte Sensibilität und Motorik der Pharynxmuskulatur mit erhöhtem Aspirationsrisiko.
 - Nervensystem: verminderte kognitive Leistung (Hirnatrophie, verminderter CBF und Neurotransmitter), verminderte Kraft und Koordination der Skelettmuskulatur durch Myelinschäden und verminderte motorische Innervation;  autonome Reflexe (Orthostase, Temperaturregulation) sind vermindert, Parasympatikus und Barorezeptoren herabgesetzt, Sympathikus verstärkt.
 - Niere: verminderte GFR und Auscheidung, oft Hypovolämie und Elektrolytstörungen (Vormedikamtente Diuretika! Relative Hypovolämie und Hypokaliämie!)
 - Leber: verminderte Syntheseleistung, verminderter Abbau von Medikamenten;

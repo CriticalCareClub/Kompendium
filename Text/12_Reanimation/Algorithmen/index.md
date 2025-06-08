@@ -41,7 +41,7 @@ Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt vor:
 03. ③ **Bewusstseinskontrolle**:
     Der Patient ist
     laut und deutlich anzusprechen. Dabei kann man gleichzeitig an den
-    Schultern des Patienten rütteln (Ausnahme: Traumageschehen!). Ein
+    Schultern des Patienten rütteln (Ausnahme: Trauma!). Ein
     Schmerzreiz wird im Bereich des Kopfes (Wange, Nasenscheidewand,
     Kieferwinkel) gesetzt.
 

@@ -135,13 +135,13 @@ Ursache: bei TURP oder Curettage Eröffnung des Venenplexus mit Absoption von  \
 
 Folge: Hyponatriämie, Hyposmolarität, Hypervolämie mit Hirnödem, Lungenödem, card.
 Dekompensation, Hämolyse, Hypotension. Hinzu kommt die toxische Wirkung der Spüllösung mit erhöhtem Glycin, BZ (Sorbitol) und Mannitol. (Vollelektrolytlösungen würden beim Kautern Verbrennungen verursachen)
-Risikofaktoren: Op-Dauer + Druck \>60cmH2O, Lagerung, Operateur,
+Risikofaktoren: Op-Dauer + Druck > 60 cm H₂O, Lagerung, Operateur,
 Alter d. Pat.
 
 Symptome:
 - Wacher Patient: Kopfschmerz, Unruhe, Verwirrtheit, Dyspnoe, Krämpfe, Somnolenz,
 Lähmungen, Koma (Bei SPA nicht sedieren!!!)
-- AN: Blutdruckschwankungen, Bradykardie, SO2-Abfall, endex. CO2-Abfall,
+- AN: Blutdruckschwankungen, Bradykardie, SO₂-Abfall, endex. CO₂-Abfall,
 Schock
 
 
@@ -153,7 +153,7 @@ Erstmaßnahme:
 
 Natriumkorrektur muss langsam erfolgen sonst  pontine Myelinolyse = Demyelinisierung im Stammhirn mit Störung der zentralen vegetativen Regulationsmechanismen.
 Klinik: 3 Tage nach Na-Korrektur von Müdigkeit, Verwirrtheit bis Koma, Gangunsicherheit bis Tetraparese und Atemlähmung, Schluckstörung.
-Diagnostik: Anamnese, evozierte Potentiale AEP, MRI, Liquorpunktion zum Ausschluss von Infektion Therapie: Symptomatisch Max. 12mmol/24h heben (häufige Laborkontrolle!!) = max. 0,5mmol/h!
+Diagnostik: Anamnese, evozierte Potentiale AEP, MRI, Liquorpunktion zum Ausschluss von Infektion Therapie: Symptomatisch Max. 12mmol/24 h heben (häufige Laborkontrolle!!) = max. 0,5mmol/h!
 
 
 

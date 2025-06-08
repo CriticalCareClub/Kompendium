@@ -58,10 +58,10 @@ Die Kapnometrie erlaubt
   bei normalem Atemzugsvolumen um ca. 5 mm Hg niedriger ist als der paCO₂.
 - die Perfusion im großen und kleinen Kreislauf (mit Einschränkungen),
 - Atemwegs-Outflow.
-- Sie kann als Zielwert[^etCO2-als-Beatmungszielwert] dienen um die *Beatmungsparameter* bei der Beatmung einstellen zu können.
+- Sie kann als Zielwert[^etCO₂-als-Beatmungszielwert] dienen um die *Beatmungsparameter* bei der Beatmung einstellen zu können.
 - Im Rahmen eines geschlossenen Beatmungs-*Kreissystems* (Narkoserespirator!) ist auch die Messung des *inspriatorischen* CO₂ (FiCO₂) wichtig um die Erschöpfung des *Atemkalks* zu detektieren.
 
-[^etCO2-als-Beatmungszielwert]: Als Beatmungszielwert ist die paCO₂ sicherlich der etCO₂ vorzuziehen, jedoch ist die Kapnometrie einerseits schnell verfügbar und kann auch kontinuierlich gemessen werden. Bei bekanntem paCO₂:etCO₂-Verhältnis und unveränderter Ventilations- und Kreislaufsituation kann die Kapnometrie ein gutes Hilfsmittel sein.
+[^etCO₂-als-Beatmungszielwert]: Als Beatmungszielwert ist die paCO₂ sicherlich der etCO₂ vorzuziehen, jedoch ist die Kapnometrie einerseits schnell verfügbar und kann auch kontinuierlich gemessen werden. Bei bekanntem paCO₂:etCO₂-Verhältnis und unveränderter Ventilations- und Kreislaufsituation kann die Kapnometrie ein gutes Hilfsmittel sein.
 
 Einfluss auf das etCO₂ haben:
 

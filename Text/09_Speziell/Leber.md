@@ -3,8 +3,8 @@
 
 Präanästhesieambulanz:
 - Peraktute und akute Geschehen: mit massiv erhöhten Transaminasen (3-5 fach), Ikterus (konj. Bili), Koagulopathie (PTZ, AT III erniedrigt), Va. Cirrhose = elektive OP verschieben.
-- Chronisch (\>6 Monate): nach OP abklären. Leberzirrhose CHILD C+MELD  \>14 keine OP-
-Freigabe, CHILD B+MELD 8-14 erhöhtes Risiko erweitertes Monitoring, CHILD A+ MELD\<8 OP möglich (Internististen/Hepatologen hinzuziehen bei Unklarheiten) Erhöhtes Risiko bei: va. alkoholischer Hepatitis (dekompensiert Child B+C 30-82% OP-Letalität)
+- Chronisch (\> 6 Monate): nach OP abklären. Leberzirrhose CHILD C+MELD  \> 14 keine OP-
+Freigabe, CHILD B+MELD 8-14 erhöhtes Risiko erweitertes Monitoring, CHILD A+ MELD\< 8 OP möglich (Internististen/Hepatologen hinzuziehen bei Unklarheiten) Erhöhtes Risiko bei: va. alkoholischer Hepatitis (dekompensiert Child B+C 30-82% OP-Letalität)
 
 Zirrhosezeichen: Thrombopenie, Ikterus, Plasmatische Gerinnungsstörung (PTZ, ATIII), Aszites, Spider naevi, Caput medusae
 
@@ -12,9 +12,9 @@ Child-Pugh Score
 
 | Parameter  | 1 Pkt  | 2 Pkt   | 3Pkt     |
 | ---------- | ------ | ------- | -------- |
-| Bilirubin  | \<2    | 2-3     | \>3      |
-| Albumin    | \>3,5  | 2,8-3,5 | \<2,8    |
-| Quick      | \>70   | 40-70   | \<40     |
+| Bilirubin  | \< 2    | 2-3     | \> 3      |
+| Albumin    | \> 3,5  | 2,8-3,5 | \< 2,8    |
+| Quick      | \> 70   | 40-70   | \< 40     |
 | Ezephalop. | Keine  | I-II    | III-IV   |
 | Aszites    | keiner | sonogr. | Klinisch |
 
@@ -37,8 +37,8 @@ Synthese d. Leber
 
 Exkretion: Bilirubin, Gallensäuren, Steroide (Hormone + GS), Pharmaka z.B. Rocuronium, Ceftriaxon
 
-Leberperfusion: 25% des HZV; 70-80% über V.portae Rest über A. hepatica. (O2-Versorgung 50%
-A. hep. da V. portae nur 70%  paO2). Die Autoregulation der A. hepatica ist vom Grad der Nahrungsaufnahme abhängig und im Nüchternzustand außer Kraft! Bei Hypotonie in Narkose daher stark reduzierte Leberdurchblutung. Ein Anstieg oder Abfall der Pfortaderperfusion wird von A.hep. kompensiert. Umgekehrt ist dies nicht möglich. Metabolische Azidose führt zu einer Vasokonstriktion im präportalen und leberarteriellen Gebiet!
+Leberperfusion: 25% des HZV; 70-80% über V.portae Rest über A. hepatica. (O₂-Versorgung 50%
+A. hep. da V. portae nur 70%  paO₂). Die Autoregulation der A. hepatica ist vom Grad der Nahrungsaufnahme abhängig und im Nüchternzustand außer Kraft! Bei Hypotonie in Narkose daher stark reduzierte Leberdurchblutung. Ein Anstieg oder Abfall der Pfortaderperfusion wird von A.hep. kompensiert. Umgekehrt ist dies nicht möglich. Metabolische Azidose führt zu einer Vasokonstriktion im präportalen und leberarteriellen Gebiet!
 Katecholamine führen zur Vasokonstriktion d. V. portae (β-Rez), sowie primäre Vasokonstriktion aber mit sekundärer Vasodilatation der A. hep. (α+β-Rez.) Reduktion des Blutflusses in Narkose durch: Propofol, Thiopental, Alfentanil, PEEP und vorallem durch Oberbaucheingriffe per se.
 
 
@@ -62,12 +62,12 @@ Wilson)
 **LIMON** Misst mittels transkutaner Pulsdensitometrie die PDR (Plasmadelaterate) von Indozyanidgrün, welches in der Leber nicht metabolisiert wird. Seine Aufnahme ist vom Blutfluss, zellulärer Aufnahme und Exkretion abhängig.
 
 
-Ind: Sepsis mit Leberdysfunktion im Rahmen eines MODS, Leberzirrhotiker vor der Teilresektion, nach LTX CAVE: Allergische Reaktionen bei Jodallergie und Hyperthyreose PDR von ICG beim Intensivpatienten soll \>16%
+Ind: Sepsis mit Leberdysfunktion im Rahmen eines MODS, Leberzirrhotiker vor der Teilresektion, nach LTX CAVE: Allergische Reaktionen bei Jodallergie und Hyperthyreose PDR von ICG beim Intensivpatienten soll > 16%
 
 TRIAS: Ikterus -- Enzephalopathie --Koagulopathie
 
 
-ZNS: akute  hepatische Enzephalopathie (HE) mit konsekutiven Hirnödem durch erhöhtem intrazerebralen Ammoniak NH3 (vermehrte Glutaminsynthese in den Astrozyten) mit osmotisch bedingtem Hirnödem mit Gefahr der Hirnstammeinklemmung bei NH3 \>200µmol/l (korreliert mit Blutspiegeln) Cave: Temp \> 38,5 Hirndruckzeichen (Symptome ab \>30mmHg): Hypertonie mit Bradykardie, erhöhter Muskeltonus (Myoklonien), gestörte Pupillenmotorik (wechselnd), Krampfgeschehen, gestörtes Atemmuster.
+ZNS: akute  hepatische Enzephalopathie (HE) mit konsekutiven Hirnödem durch erhöhtem intrazerebralen Ammoniak NH3 (vermehrte Glutaminsynthese in den Astrozyten) mit osmotisch bedingtem Hirnödem mit Gefahr der Hirnstammeinklemmung bei NH3 > 200µmol/l (korreliert mit Blutspiegeln) Cave: Temp \> 38,5 Hirndruckzeichen (Symptome ab > 30mmHg): Hypertonie mit Bradykardie, erhöhter Muskeltonus (Myoklonien), gestörte Pupillenmotorik (wechselnd), Krampfgeschehen, gestörtes Atemmuster.
 HE I: Persönlichkeitsveränderungen, Schlafstörungen, Merkstörungen, Sprache verwaschen HE II : zunehmende Schläfrigkeit, Apathie, Koordinationsstörungen (schreiben), Flapping-Tremor HE III: schläft fast immer, aber erweckbar, zeitlich und örtlich Desorientiert HE IV: Koma mit erhaltener Reaktion auf Schmerzreiz
 
 KRL: wie bei SIRS! Periphere Vasodilatation mit kompensatorisch hyperdynamen Zustand:
@@ -116,7 +116,7 @@ Intensiv-Kriterien: höhergradige HE (Somnolenz), eingeschränkte Nierenfunktion
 - Albuminsubstitution
 - Hirndrucktherapie: ICP-Sonde, Sedierung, Mannitol 20%  0,5-1 mg / kg  über 20 min, milde Hypothermie 35-36°, OK- Hochlagerung 20-30°
 - Ernährung: Energiebedarf um 20-30%  gesteigert, wenn möglich enterale Ernährung;  BZ-KO;
-- Eiweißrestriktion ausschließlich im Akutstadium der HE 0,5g / kg für 24h, danach 1,2-1,5g / kg mit verzweigten Aminosäuren (va. pflanzliches Eiweiß und Milcheiweiß)
+- Eiweißrestriktion ausschließlich im Akutstadium der HE 0,5g / kg für 24 h, danach 1,2-1,5g / kg mit verzweigten Aminosäuren (va. pflanzliches Eiweiß und Milcheiweiß)
 - Resorptionshemmung des intestinalen intraluminalen Ammoniaks infolge pH-Erniedrigung durch den Einsatz von Lactulose und Lactitol
 - (30-60 g / d je nach Stuhlfrequenz)
 - Reduzierung der ammonikproduzierenden bakteriellen Darmflora durch orale Gabe von Metronidazol.
@@ -128,7 +128,7 @@ Intensiv-Kriterien: höhergradige HE (Somnolenz), eingeschränkte Nierenfunktion
 MARS: molekular adsorbents recirculating System = Form der Albumindialyse, Mars-Flux-Filter für 50kD ist für Albumin undurchlässig, aber Toxine passieren. Sekundärkreislauf mit hoher Albuminkonzentration. (lt. Studien kein Überlebensvorteil bewiesen) Prometheus: mit Blutfilter 300kD für Albumin durchlässig, aber im Sekundärkreislauf Absorber.
 
 
-LTX-Kriterien King´s College Kriterien  : PTT  \>100s (INR  \>6,5) ODER mindestens 3  der folgenden Kriterien: Alter \<10 oder \>40, Non A-E Hep, HE \> 7 Tage nach Ikterus, PTT \> 50s (INR \>3,5), Bilirubin \> 17,4 Clichy Kriterien: \<30a +HE II-IV+Faktor V\<20% ODER \>30a+HE II-IV+Faktor V\<30%
+LTX-Kriterien King´s College Kriterien  : PTT  \> 100s (INR  \> 6,5) ODER mindestens 3  der folgenden Kriterien: Alter < 10 oder > 40, Non A-E Hep, HE \> 7 Tage nach Ikterus, PTT \> 50s (INR > 3,5), Bilirubin \> 17,4 Clichy Kriterien: < 30a +HE II-IV+Faktor V\< 20% ODER > 30a+HE II-IV+Faktor V\< 30%
 KI für LTX: Extrahepatische Malignome, unbehandelte Sepsis und schwere Pneumonie, aktiver Alkohol- und Drogenabusus, Totale Pfortaderthrombose, (HIV, COPD, KHK)
 
 
@@ -144,7 +144,7 @@ pH \< 7,3 oder Laktat \> 3 nach Optimierung des Wasserhaushaltes ODER PTT \> 100
 Gesamtdosis 300 mg / kg; Gesamtdauer 20 h.
 ## 39.3. Pilzvergiftung (va. Knollenblätterpilz mit Amatoxin) *
 
-Gift hemmt irreversibel die RNA Poymerase II und führt initial zu  Übelkeit, Erbrechen und Diarrhöe. Nach einer Latenzzeit von ca. 48h kommt es zum ALV.
+Gift hemmt irreversibel die RNA Poymerase II und führt initial zu  Übelkeit, Erbrechen und Diarrhöe. Nach einer Latenzzeit von ca. 48 h kommt es zum ALV.
 Antidot: Silibinin 5 mg / kg 4 x tgl. iv. (Penicillin G und Steroide haben keinen Effekt!)
 
 
@@ -166,12 +166,12 @@ Differenzial Ursachen zur portale Hypertension  bei Leberzirrhose: Rechtsherzins
 
 Aszitestherapie:
 - NaCl-Restriktion (4-6 g / d)
-- Diuretika: Spironolacton/Aldactone 100-400 mg + Lasix 40-160 mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K \>30 = Spironolacton steigern ist K\>30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
+- Diuretika: Spironolacton/Aldactone 100-400 mg + Lasix 40-160 mg als Morgendosis (nicht verteilen), wenn möglich immer kombinieren (Harnelektrolyte K > 30 = Spironolacton steigern ist K\> 30 Lasix steiger, Na  \>  88 Kochsalzrestriktion) Bei Gynäkomastie Amilorid/Moduretic oder Eplerenon/Inspra
 
 
 
 - Therapeutische Paracentese (+Humanalbumin nach Aszitespunktion 8 g HA/l Aszities = 100 ml HA 20% / 2l)
-- TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \<3 mg, Na  \>  130, \<
+- TIPS bei therapierefraktären Aszites verbessert das  Überleben, wenn Bil  \< 3 mg, Na  \>  130, \<
 60a
 
 TIPS: = transjugolärer intrahepatischer Pfortader Shunt = fist line Therapie bei Hochrisikopatienten, bzw. ultimo ratio bei weit fortgeschrittener Leberzirrhose.
@@ -193,7 +193,7 @@ Infektinen \> renal akut toxisch\> HRS bei Aszites Eingeschränkte Diurese + Kre
 ## 39.6. Hepatorenales Syndrom *
 
 =  funktionelle Niereninsuffizienz bei fortgeschrittener Lebererkrankung.    (LTX führt zur Normalisierung der Nierenfunktion). 75% Aszites bei terminaler Lebererkrankung und HE.
-Patho: TPVR nimmt ab, vorallem im Splanchnikusgebiet = RAAS aktiviert mit Vasokonstriktion der Nieren und Extremitäten, mit Oligourie und Natriumretention und progredienter Zunahme der harnpflichtigen Substanzen (va. U/P Harnstoff  \>  8, U/P Kreatinin  \>40 Narium im Harn stark erniedrigt = \>500 mosmol/kg) Therapie: Albumin 1g / kg/d (bis Serum Albumin  \>  45 mg/dl, Terlipressin oder Noradrenalin, Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400 mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
+Patho: TPVR nimmt ab, vorallem im Splanchnikusgebiet = RAAS aktiviert mit Vasokonstriktion der Nieren und Extremitäten, mit Oligourie und Natriumretention und progredienter Zunahme der harnpflichtigen Substanzen (va. U/P Harnstoff  \>  8, U/P Kreatinin  \> 40 Narium im Harn stark erniedrigt = \> 500 mosmol/kg) Therapie: Albumin 1g / kg/d (bis Serum Albumin  \>  45 mg/dl, Terlipressin oder Noradrenalin, Midorin/Gutron®  po (Sympathomimetikum), Octreotid®  sc (Somatostatinanalog);  Als Langzeittherapie soll Norfloxacin (400 mg/d, Chinolon AB) verabreicht werden, da es die Rezidivrate deutlich verringert und das Outcome verbessert.
 Prophylaxe: Humanalbumingabe, Vermeiden von Auslösern (KM, NSAR, hohe Diuretikadosierung, Hypovolämie)
 
 

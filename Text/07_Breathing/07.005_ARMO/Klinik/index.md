@@ -1,6 +1,6 @@
 
 (ARMO-KP-Klinik)=
-% Atemfrequenz und AZV bei erhöhtem etCO2:
+% Atemfrequenz und AZV bei erhöhtem etCO₂:
 (Q-ARMO23004-2)=
 
 # Klinische Beurteilung

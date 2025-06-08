@@ -59,7 +59,7 @@ Wird bei der Reanimation der Kreislauf wiederhergestellt ({dfn}`ROSC`, {dfn}`Res
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
-Die Sauerstoffgabe hat einen {{ SpO2 }}-Zielbereich von **94—98%**.
+Die Sauerstoffgabe hat einen {{ SpO₂ }}-Zielbereich von **94—98%**.
 Besonders zu beachten ist:
 
 - `A`: Ist der Atemweg (noch) sicher?

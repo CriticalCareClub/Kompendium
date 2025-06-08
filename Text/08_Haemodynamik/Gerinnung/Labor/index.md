@@ -57,5 +57,5 @@
   - ist erniedrigt bei Vit-K-Antagonisten Gabe, Leberfunktionsstörung, Sepsis, DIC, kongenitalem Mangel mit Thromboseneigung
 * - ACT
   - 
-  - misst die Dauer bis zur Bildung eines Cloth´s (Blut + Kaolin), normal 120-150sec, Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
+  - misst die Dauer bis zur Bildung eines Cloth´s (Blut + Kaolin), normal 120–150 sec, Verlängert bei UFH bei HLM im Hochdosisbereich, im Niedrigdosisbereich sind die Werte ungenau (ungeeignet für DTI-Monitoring) = „Vollblut-aPTT" = Globaltest der Gerinnung.
 :::

@@ -45,7 +45,7 @@
     - kein Narkosegas (erhöht Shunt-Volumen), 
     - moderater PEEP (erhöht Shunt-Volumen)
     - bei Hypoxie: 
-      - primär FiO2 erhöhen 
+      - primär FiO₂ erhöhen 
       - ggfs. Jet-Ventilation
       - ggfs. intermitterend Single Lung beenden
 * - Lagerung
@@ -73,7 +73,7 @@
     - Atelektasen
     - septisches Zustandsbild bei Pleuraempyemen
 * - Postoperatives Management
-  - - Thoraxdraingen, i.d.R. mit Sog (-20 cmH2O), bevorzugt elektronische Systeme (Medela™)
+  - - Thoraxdraingen, i.d.R. mit Sog (-20 cm H₂O), bevorzugt elektronische Systeme (Medela™)
 
       :::{danger}
       **Kein Sog bei Pneumektomie!** **Lebensgefahr!**

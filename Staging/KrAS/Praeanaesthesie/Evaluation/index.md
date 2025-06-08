@@ -24,7 +24,7 @@ Denke an:
 
 - Operatives Risiko:
 
-  - Leichte OP: \< 2 h, \< 500 ml Blutverlust: z.B. CHE, AE, Hernien,…
+  - Leichte OP: < 2 h, < 500 ml Blutverlust: z.B. CHE, AE, Hernien,…
   - Schwere OP: > 2 h, > 500 ml Blutverlust:
     Eingriffe an Thorax, Abdomen, laparoskopische Resektionen,
     OP mit großen Flüssigkeitsverschiebungen (Ileus) bzw. hämodynamischer Beeinflussung (Niere, …)
@@ -196,7 +196,7 @@ Beurteilung der **kardiopulmonalen Reserve** in **metabolischen Äquivalenten** 
     *"Cut-off-Wert"*
 - - 10
   - mäßig belastende Sportarten (Bowling, Golf) betreiben
-- - \>10
+- - \> 10
   - anstrengende Sportarten (Fußball, Leichtathletik) betreiben
 :::
 

@@ -288,7 +288,7 @@ Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instr
   - 101—159
   - 160—199
   - 200—220
-  - \>220
+  - \> 220
 - - Atemfrequenz \[min⁻¹\]
   -
   - ≤ 7

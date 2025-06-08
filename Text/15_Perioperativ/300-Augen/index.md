@@ -37,7 +37,7 @@ Strabismus OP bei Kindern Okkulocardialer Reflex OCR bei Kindern ausgeprägter, 
 
 Reninopathiea of Prematurity ROP
 = abnormale Proliferation der retinalen Gefäße des Frühgeborenen, Urs.
-Hoher paO2 Ziel paO2 = 60-80mmHg, Nachbeatmung auf ICU (Unreife des Atemzentrums)
+Hoher paO₂ Ziel paO₂ = 60-80mmHg, Nachbeatmung auf ICU (Unreife des Atemzentrums)
 Ablatio retinae
 = Netzhautablösung; Patient sieht Blitze und Schatten OP: Retina und Aderhaut an der Rissstelle wieder in Kontakt bringen mit Argon-Laser, Kryoapplikation eindellend (Plombe, Cerclage) und Vitrektomie mit Gas oder Ölfüllung.
 AN als ITN oder LMA; KEIN Lachgas!!! Augenschutzbrillen bei Lasereinsatz

@@ -14,17 +14,17 @@ Eine Sepsis wird laut aktueller Definition als lebensbedrohliche Organdysfunktio
 
 Definition Sepsis - Voraussetzung: (Guidlines 2017)
 1. dokumentierte oder suspekte Infektion
-2. qSOFA mindestens 2 (AF \>22/min; RR syst. ≤100mmHg; eingeschränkter mentaler Status)
-1. SOFA Score \>2 = Sepsis 4. Trotz adäquater Flüssigkeitsgabe 1. Vasopressor notwendig um MAD \> 65 mmHg + 2. Laktat \>
+2. qSOFA mindestens 2 (AF > 22/min; RR syst. ≤100mmHg; eingeschränkter mentaler Status)
+1. SOFA Score > 2 = Sepsis 4. Trotz adäquater Flüssigkeitsgabe 1. Vasopressor notwendig um MAD \> 65 mmHg + 2. Laktat \>
 2mmol/L = septischer Schock
 
 
 SEPTISCHER SCHOCK
-=  Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80%! MAP\< 65 RRsyst \<90 , trotz adäquater Flüssigkeitstherapie!
+=  Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80%! MAP\< 65 RRsyst < 90 , trotz adäquater Flüssigkeitstherapie!
 
 PIRO der Sepsis: Prädisposition (chron. Erkrankung, Alter) + Insult/Ischämie/Infektion + Response (Mediatorenfreisetzung) + Organ Dysfunktion
 
-Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\<300, Oligourie mit positiver Bilanz \>20 ml/kg in 24h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir, Hyperglykämie \>140 mg/dl ohne DM)
+Inflammatory variables: Leukozyten, CRP, proCalcitonin, IL-6 Hämodynamic variables: Hypotension, Organdysfunktion (OI\< 300, Oligourie mit positiver Bilanz > 20 ml/kg in 24 h, Gerinnungsstörung mit Thrombopenie und Hyperbilirubinämie, Ileus, Delir, Hyperglykämie > 140 mg/dl ohne DM)
 
 Tissue perfusions variables: Laktatanstieg, verkürzte Rekapill. Zeit, marmorierte Haut
 
@@ -57,7 +57,7 @@ Funktionsstörungen:
 - Hyperdynamer Kreislauf mit CI \> 4 l/min/m², HZV steigt dem SVR entsprechend nicht adäquat an (Hypotonie, Tachykardie)
 - reduzierter SVR  \<  800 durch Vasodilatation (NO) und Dichteabnahme der alpha-Adrenozeptoren
 - negative Inotropie (septische CMP) mit ventrikulären Dyskinesien, red. EF durch myokardial depressend factor (= TNF alpha)
-- Störung der Gewebeoxygenierung/O2-Extraktion: vergrößerte Diffusionsstrecke durch Ödeme, Entkoppelung der oxidativen Phosphorilierung = zytopathologische Hypoxie: ScvO² ist durch verminderte Extraktion vergrößert
+- Störung der Gewebeoxygenierung/O₂-Extraktion: vergrößerte Diffusionsstrecke durch Ödeme, Entkoppelung der oxidativen Phosphorilierung = zytopathologische Hypoxie: ScvO² ist durch verminderte Extraktion vergrößert
 - capillary leak: Hypovolämie, generalisierte Ödeme
 - erhöhte Darmpermeabilität mit bakt. Translokalisation
 - prärenales ANV
@@ -78,15 +78,15 @@ Hämodynamischer Support:
 - Flüssigkeit: 30 ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
   KEIN HES bei schwerer Sepsis/septischem Schock. Gelatine erwägen.
 - Kein NaBIC bei pH \> 7,15
-- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200 mg/d (sonst immunsupressiv), absetzen wenn nach 24h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
+- Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200 mg/d (sonst immunsupressiv), absetzen wenn nach 24 h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
 - Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output, CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate, Oxygenierung.
 
 
 
 
-Erythrozytenkonzentrate bei Hb\<7 g / dl, außer bei Myokardischämie, schwere Hypoxämie, akute Blutung. (Ziel Hb 7-9 g / dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
+Erythrozytenkonzentrate bei Hb\< 7 g / dl, außer bei Myokardischämie, schwere Hypoxämie, akute Blutung. (Ziel Hb 7-9 g / dl). Kein FFP und AT III (laut Studien nur Benefit, wenn AT III ohne Heparin gegeben wird bei DIC).
 
-Thrombozytenkonzentrate nach strenger Indikation (\<10 000 ohne Blutung,  \<20 000 bei Blutungsgefahr, \<50 000 bei Blutung oder OP)
+Thrombozytenkonzentrate nach strenger Indikation (\< 10 000 ohne Blutung,  \< 20 000 bei Blutungsgefahr, < 50 000 bei Blutung oder OP)
 - Herdidentifikation und Kontrolle: Fragen nach Schmerzen wo? (Pankreatitis,\...)
 - Herdsanierung: Abszessdrainage, Katheterwechsel,\... Bildgebung!
 - Abstriche/BK!
@@ -94,7 +94,7 @@ Thrombozytenkonzentrate nach strenger Indikation (\<10 000 ohne Blutung,  \<20 0
 - Antibiose (Blutkulturen VOR erster AB-Gabe abnehmen!)
   - hochdosiert AB: innerhalb 1  Stunde BreitbandAB je nach Grunderkrankung/vermuteter Ursache (golden hour of septic shock), später Wechsel nach Antibiogramm;
   - Carbapenem, Cephalosporine + Metronidazol, bei MRSA Linecolid, bei Pilz Voriconazol.
-  - Es sollte mit einer Kombinationstherapie (2 Antibiotikaklassen) begonnen werden, und innerhalb von 48h möglichst Deeskaliert werden.
+  - Es sollte mit einer Kombinationstherapie (2 Antibiotikaklassen) begonnen werden, und innerhalb von 48 h möglichst Deeskaliert werden.
 - Procalcitoninbestimmung als Entscheidungshilfe.
 
 Adjunktive Therapie
@@ -143,7 +143,7 @@ Volumenmonitoring:
 - Laborwerte: ScvO², Laktat, Laktatclearance
 - Makrohämodynamische Parameter: Blutdruck/MAP, Herzfrequenz
 - Dynamische und flussbezogene Parameter: TEE, PICCO mit Pulskonturanalyse (SVV)
-Volumenbedarfstest: Beine hochhalten, wenn RR steigt Volumen geben, wenn SO2 fällt kein Volumen!
+Volumenbedarfstest: Beine hochhalten, wenn RR steigt Volumen geben, wenn SO₂ fällt kein Volumen!
 
 Infusionspräparate:
 =  Medikamente mit erwünschten, aber auch potenziell unerwünschten Arzneimittelwirkungen.

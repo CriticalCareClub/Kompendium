@@ -114,12 +114,12 @@ Bei Patienten mit chronischer Lungenerkrankung findet man jedoch oft sehr niedri
 ::::{only} not nosidebar
 
 :::{margin} Beurteilung
-- Bedenke: Wieviel O2 bekommt der Patient bereits?
+- Bedenke: Wieviel O₂ bekommt der Patient bereits?
 - SpO₂ reagiert spät!
 :::
 ::::
 
-Bei der Beurteilung des SpO2 muss berücksichtigt werden, *ob und wieviel \*Sauerstoff* der Patient bereits erhält\*.
+Bei der Beurteilung des SpO₂ muss berücksichtigt werden, *ob und wieviel \*Sauerstoff* der Patient bereits erhält\*.
 Eine Sauerstoffsättigung von 95% bei einem Patienten ohne zusätzliche Sauerstoffgabe ist nicht beunruhigend, wohingegen derselbe Wert bei einer *Sauerstoffgabe* von 15 L / min ein Hinweis auf eine schwere Störung der Atmung darstellt.
 Der SpO₂-Wert soll außerdem auch im Verlauf beurteilt werden.
 

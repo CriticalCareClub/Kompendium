@@ -84,7 +84,7 @@ Geringe kardiovaskuläre NW, daher vor allem bei kardiovaskulär instabilen Pati
 geeignet.
 
 Nachteil: hemmt die Steroid-Produktion der NNR bis zu einigen Wochen lang (Sepsis!)
-mit erhöhter Mortalität nach Langzeitsedierung bei ISB-Patienten. Nach Bolusgabe 24h Hemmung.
+mit erhöhter Mortalität nach Langzeitsedierung bei ISB-Patienten. Nach Bolusgabe 24 h Hemmung.
 
 NW: Myoklonien, Injektionsschmerz, PONV. Abbau in der Leber. KEINE repetative Anwendung!!
 

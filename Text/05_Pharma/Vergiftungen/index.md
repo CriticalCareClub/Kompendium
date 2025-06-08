@@ -66,9 +66,9 @@ Symptomatik:
   Krampfneigung
 - 50-80 % CO-Hb: Koma, Zyanose, Schock, Krämpfe, Stammhirn-Symptomatik,
   Hypothermie
-- \>80 %: Letal innerhalb von Minuten
+- \> 80 %: Letal innerhalb von Minuten
 
-Therapie. Intubation und Beatmung bei 100% O2, optimal hyperbare Oxygenierung (Druckkammer)
+Therapie. Intubation und Beatmung bei 100% O₂, optimal hyperbare Oxygenierung (Druckkammer)
 
 ### Säuren- und Laugenvergiftung
 

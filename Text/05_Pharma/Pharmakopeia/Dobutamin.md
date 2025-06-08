@@ -25,7 +25,7 @@ Kontraindikation(en)
 Wirkung
 : - Steigerung des Schlagvolumens und des HZV, auch der Herzfrequenz.
 
-  - Wenn art. Hypotonie und Tachykardie vermieden wird bleibt die Myokardiale |O2| -Bilanz ausgeglichen.
+  - Wenn art. Hypotonie und Tachykardie vermieden wird bleibt die Myokardiale |O₂| -Bilanz ausgeglichen.
 
   :::{warning}
 

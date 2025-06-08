@@ -351,7 +351,7 @@ Trivia
 : - Ein Teil der Betablocker hat noch eine gewisse Beta-Rezeptoren-stimulierende Wirkung  = intrinsische sympathomimetische Aktivität.
   Überlebensvorteil nach MCI nur bei Betablockern ohne ISA.
   - Wirken membranstabilisierend und damit antiarrhythmisch. (Klasse II-Antiarrhythmika)
-  - Verminderung des myokardialen VO2 durch Herabsetzung der Herzfrequenz und Kontraktilität und Reduktion des peripheren Gefäßwiderstands (durch zentrale Dämpfung der Sympathikusaktivität) mit herabgesetzter Nachlast.
+  - Verminderung des myokardialen VO₂ durch Herabsetzung der Herzfrequenz und Kontraktilität und Reduktion des peripheren Gefäßwiderstands (durch zentrale Dämpfung der Sympathikusaktivität) mit herabgesetzter Nachlast.
   - Carvedilol (Dilatrend) hat neben der betaantagonistischen auch eine alphaantagonistische Komponente und löst auch eine periphere Vasodilatation aus.
   - Verminderung der Reninfreisetzung (Vasodilatation durch vermindert ATII, Vermindertes Plasmavolumen durch vermindert Aldosteron)
   - Heraufgesetzte Empfindlichkeit der Barorezeptoren (geringere reflektorische Vasokonstriktion bei Abfall des SV)

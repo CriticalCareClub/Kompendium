@@ -24,7 +24,7 @@ Das Messprinzip basiert auf einer Messung der Lichtabsorption[^pulsoxywellenlaen
 Auf diese Weise wird das Verhältnis des mit Sauerstoff gesättigten Hämoglobins zu dem nicht gesättigtem bestimmt.
 Als weiteren Wert zeigt das Pulsoxymeter die *Pulsfrequenz* an.
 
-Die so ermittelte Sauerstoffsättigung wird als fraktionelle Sauerstoffsättigung und mit SpO2 bezeichnet.
+Die so ermittelte Sauerstoffsättigung wird als fraktionelle Sauerstoffsättigung und mit SpO₂ bezeichnet.
 
 [^pulsoxywellenlaengen]: Bei ca. 900 nm ist die Absorption von HbO₂ höher als die von ungesättigtem Hb.
     Einfache, handelsübliche Pulsoxymeter messen die wellenlängenabhängige Absorption bei zwei verschiedenen und unveränderlichen Wellenlängen:

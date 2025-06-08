@@ -3,7 +3,7 @@
 # 28. Monitoring
 
 Atemfunktion:
-- Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O2-Hb gemessen = falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
+- Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O₂-Hb gemessen = falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
 - Kapnometrie: Nebenstrommessung oder Hauptstrommessung am Tubus; Tubuskonektor mit Farbänderung für Notfallmedizin, sicheres Intubationszeichen.
 - BGA
 
@@ -43,7 +43,7 @@ ab 4 Tag, Lungeninfarkt bei Dauerwedge.
 
 Messungen PAK:
 1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
-3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO2 (oder BGA) 70-75%
+3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75%
    SV = 60-90 ml, SVR 900-1400, PVR 150-250
 
 Prüfung: Nenne 10 Parameter des PAK! ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP,
@@ -68,7 +68,7 @@ Mit der Thermodilutionsmethode wird die Messung des HZV geeicht und die Flüssig
 
 
 
-- Mikrozirkulation/Oxygenierung: ScvO2  , DO2    (errechnet aus HZV, Hb, SaO2), VO2 (errechnet aus HZV, Hb, SaO2 -- ScvO2)
+- Mikrozirkulation/Oxygenierung: ScvO₂  , DO₂    (errechnet aus HZV, Hb, SaO₂), VO₂ (errechnet aus HZV, Hb, SaO₂ -- ScvO₂)
 
 Um bei Hypovolämie unterscheiden zu können ob ein Flüssigkeitsmangel, Vasodilatation oder fehlende Inotropie das Problem ist, muss der PICCO geeicht werden um aktuelle Werte zu erhalten.
 
@@ -82,7 +82,7 @@ Gemischt venöse Sättigung SgvO²  = 20-25%  niedriger als SaO²; sie ist erhö
 DO² = HZV x Hb x SaO²  x 1,34 x 10 =  normalerweise 750 ml/min/m² ; der kritische DO²  liegt bei 300 ml/min/m²
 VO² beträgt in Ruhe 3 ml/min/kg
 
-CeVOX: kontinuierliche ScvO2-Messung über einen Standart ZVK mit CeVox-Sonde.
+CeVOX: kontinuierliche ScvO₂-Messung über einen Standart ZVK mit CeVox-Sonde.
 LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV, SV, SVV, PPV VIGILEO: Pulskontur HZV-Messung CardioQ: Ösophageale Dopplersonde (Aorta descendens Kurve): Vorteil keine Arterie, kein ZVK CNAP: continous Non invasiv Arterial Bloodpressure mit Doppelfingermanchete
 
 

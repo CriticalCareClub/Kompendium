@@ -82,12 +82,12 @@ Zur Überwachung der Narkosetiefe wird MAC herangezogen!
 
 Reduktion des MAP (senken syst. Gefäßwiderstand), Sensitivisieren das Myokard gegenüber Adrenalin!
 
-Als **kardioprotektiv** gilt *Sevofluran* und *Desfluran* = öffnen ATP-unabhängige Kaliumkanäle der Mitochondrien, stabilisieren den Kalziumhaushalt, und die mitochondriale Funktion der Herzmuskelzelle bei MAC \>1.
+Als **kardioprotektiv** gilt *Sevofluran* und *Desfluran* = öffnen ATP-unabhängige Kaliumkanäle der Mitochondrien, stabilisieren den Kalziumhaushalt, und die mitochondriale Funktion der Herzmuskelzelle bei MAC > 1.
 
 ZNS-Effekte
 : reversible Depression der Gehirnfunktion mit Bewusstseinsverlust;
 
-  Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO2) = erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
+  Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO₂) = erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
 
   Im EEG zuerst Frequenz und Amplitudensteigerung (Exzitationsstadium) und ab 1 MAC Verlangsamung.
 
@@ -106,7 +106,7 @@ Renale Effekte
   Bei Sevofluran wurde nie eine Verschlechterung der Nierenretentionswerte festgestellt.
 
 Hepatische Effekte
-: Halothan-Hepatitis wurde nicht nur durch TFA, sondern auch durch reduzierten hepatischen Blutfluss und erhöhtem VO2 der Leber verursacht.
+: Halothan-Hepatitis wurde nicht nur durch TFA, sondern auch durch reduzierten hepatischen Blutfluss und erhöhtem VO₂ der Leber verursacht.
 
 
 
@@ -203,7 +203,7 @@ Durch den angenehmeren Geruch ist Sevofluran für eine Maskeneinleitung besser g
 
 BGVK 0,65; nicht Schleimhaut irritierend und nicht übelriechend, potentiell nephrotoxisch durch Compound-A-Bildung und toxischer Fluoride,
 
-NW: delirante Zustände va. bei Kindern, neg. inotrop, leichte Bronchodilatation, Uterusatonie in höherer Dosis (\>0,5 MAC)
+NW: delirante Zustände va. bei Kindern, neg. inotrop, leichte Bronchodilatation, Uterusatonie in höherer Dosis (\> 0,5 MAC)
 
 KI: MH, Vorsicht bei Sectio und schwerer Niereninsuffizienz.
 

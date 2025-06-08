@@ -59,7 +59,7 @@ Die notwendige Therapiestrategie, ggfs. mittels "Bridging" mit kurz wirksamen un
 |                           | Therapie                     | 2-3 h                 | i.v. 4-6 h s.c. 8-12 h | i.v.: 8-12 h, s.c.: 6-8 h | aPTT, ACT                  |
 | Niedermolekulare Heparine | Prophylaxe, s.c.             | 4-6 h (NFP!)          | 12 h                   | 4 h                       | Anti-Xa                    |
 |                           | KreaCl ≤ 30 ml / min         |                       | 24-30 h                |                           |                            |
-| Niedermolekulare Heparine | Therapie, s.c.               | 4-6 h (NFP!)          | 24h                    | 4 h                       | Anti-Xa                    |
+| Niedermolekulare Heparine | Therapie, s.c.               | 4-6 h (NFP!)          | 24 h                    | 4 h                       | Anti-Xa                    |
 | Fondaparinux              | 1 x 1,5-2,5 mg / d s.c.      | 17-21 (NFP!)          | 36-42 h                | 6-12 h                    | Anti-Xa                    |
 |                           | 1 x 5- 10 mg / d s.c.        | 17-21 (NFP!)          | (84-105 h)             | 6-12 h                    | Anti-Xa                    |
 | Danaparoid                | 2-3 x 750-1250 I.E. / d s.c. | 22-24 h (NFP!)        | 44-48 h                | 3-4 h                     | Anti-Xa                    |

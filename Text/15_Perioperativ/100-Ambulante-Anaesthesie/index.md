@@ -18,4 +18,4 @@ Ziel des Anästhesieverfahrens
 Entlassungskriterien
 : Freigabe durch Operateur und Anästhesisten: Orientiert, Respiratorisch und hämodynamisch stabil, keine Schmerzen, kein PONV, keine Restblockaden/Miktionsstörung.
 
-Hinweis auf eingeschränkte Orientierung für 24h (Autofahren verboten!), Sicherstellung einer Begleitperson.
+Hinweis auf eingeschränkte Orientierung für 24 h (Autofahren verboten!), Sicherstellung einer Begleitperson.

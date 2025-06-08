@@ -27,17 +27,17 @@ Intraoperativ zu beachten:
   - kleine Mundöffnung,
   - kurzer dicker Hals,
   - eingeschränkte Nackenbeweglichkeit, Pro/Retrognatie, kurzer Thyreomentaler Abstand
-- Einleitung: RSI ev. FioWachintubation, 10 min. Präoxygenieren (kurze Apnoetoleranz bei rascher Hb-Desaturation/Entsättigung, und hohem O2-Verbrauch! Wenn möglich RA!! Bei Herzinsuffizienz Einleitung mit Etomidate. Volatile Anästhetika fluten wg. Red. FRC schneller an, höheres Verteilungsvolumen lipidlöslicher Anästhetika mit Überhang nach OP!!
+- Einleitung: RSI ev. FioWachintubation, 10 min. Präoxygenieren (kurze Apnoetoleranz bei rascher Hb-Desaturation/Entsättigung, und hohem O₂-Verbrauch! Wenn möglich RA!! Bei Herzinsuffizienz Einleitung mit Etomidate. Volatile Anästhetika fluten wg. Red. FRC schneller an, höheres Verteilungsvolumen lipidlöslicher Anästhetika mit Überhang nach OP!!
 - Relaxantien nach Normalgewicht dosieren, da hydrophil mit normalem Verteilungsvolumen.
 - Hohes Aspirationsrisiko: nie nüchtern! Erhöhte Magensaftproduktion bei verzögerter Entleerung,
 hoher IAP mit Zwerchfellhochstand, oft Hiatushernie/Reflux
 - Beatmungsschwierigkeiten: FRC bis zu 40-75%  erniedrigt, Compliance herabgesetzt,
 Atemfrequenz erhöht, hohe Beatmungsdrücke oft notwendig.
 - Hämodynamische Instabilität: Blutvolumen und HZV sind erhöht, bei vermind. card. Reserve.
-- Extubation erst beim völlig wachem Patienten mit TOF\>0,9
-- Bei OSAS 24h postoperativ AWR
+- Extubation erst beim völlig wachem Patienten mit TOF\> 0,9
+- Bei OSAS 24 h postoperativ AWR
 - Erhöhte Fehlerrate bei PDA
 - Gehäuft periphere Nervenschäden durch die Lagerung!
 
-BGA: paCO2 erhöht! (höhere Produktion)
+BGA: paCO₂ erhöht! (höhere Produktion)
 Prämed: Kein Dormicum! Ev. Na-Citrat, H2-Blocker 1h präoperativ Praktisch: geeignete, zugelassene Liege/Bett, Lift?

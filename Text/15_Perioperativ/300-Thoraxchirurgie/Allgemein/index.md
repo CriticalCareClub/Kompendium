@@ -148,9 +148,9 @@ Man kann dies als 3 Säulen beschreiben und beurteilen:
    - (ppo\< 40%)
    - Blutgasanalyse
 3. Zirkulation und kardio-pulmonale Reserve:
-   - VO2 max (vgl. {ref}`VO2`): 15 ml / kg / min
+   - VO₂ max (vgl. {ref}`VO2`): 15 ml / kg / min
 
-     Bestimmung der VO2max am Ergometer: junger untrainierter Erwachsener hat ca. 40 ml/kg / min (Ruhe VO2 3 ml/kg / min)
+     Bestimmung der VO₂max am Ergometer: junger untrainierter Erwachsener hat ca. 40 ml/kg / min (Ruhe VO₂ 3 ml/kg / min)
 
      Zur Beurteilung erfolgt normalerweise kein invasives hämodynamisches Monitoring, sondern eine Erhebung der Belastbarkeit des Patienten:
      - 2 Stöcke Stiegen steigen, 6 Minuten gehen
@@ -180,7 +180,7 @@ Patienten mit guter Lungenfunktion können zumeist in üblicher Weise prämedizi
 Ist der Eingriff nur kurz und soll der Patient frühzeitig mobilisiert werden, sollten *keine lang wirkenden* Sedativa zugeführt werden.
 
 Aber:
-- Patienten mit Hypoxie (paO2 \< 75 mmHg) und Hyperkapnie (paCO2 > 45 mmHg) bei Raumluftatmung dürfen *keine* atemdepressorisch wirkende Prämedikation erhalten.
+- Patienten mit Hypoxie (paO₂ \< 75 mmHg) und Hyperkapnie (paCO₂ > 45 mmHg) bei Raumluftatmung dürfen *keine* atemdepressorisch wirkende Prämedikation erhalten.
   *Vielmehr ist es ratsam, auf jede Prämedikation zu verzichten, um die Hypoventilation nicht noch mehr zu verstärken.*
 - Anticholinergika sollten bei chronisch-obstruktiven Lungenerkrankungen *nicht routinemäßig* zugeführt werden, um eine Sekreteindickung (*CAVE: Erhöhung des Totraums !*) zu vermeiden.
 - Weitergabe kardialer Medikation
@@ -189,7 +189,7 @@ Aber:
 ## Intraoperatives Monitoring
 
 Standard-Überwachung bei sonst Gesunden ohne operative Besonderheiten:
-- FIO2, Diskonnektion, 
+- FiO₂, Diskonnektion, 
 - Pulsoxymetrie, EKG, Temperatur,
 - Blutdruckmanschette
 - Kapnometrie
@@ -266,7 +266,7 @@ Primäres Ziel: Hypoxie vermeiden !
 
 Zu Beginn der Ein-Lungen-Anästhesie wird die untere Lunge mit einem Atemzugvolumen von ca. **8–10 ml / kg** beatmet.
 Die ursprünglich eingestellte Atemfrequenz wird beibehalten.
-Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO2 bleibt meist im Normbereich, ebenso der paCO₂.
+Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO₂ bleibt meist im Normbereich, ebenso der paCO₂.
 
 Während der gesamten Zeit der einseitigen Beatmung werden hohe inspiratorische Sauerstoffkonzentrationen eingestellt, um die Hypoxiegefahr zu vermindern.
 Hierbei muss jedoch beachtet werden, dass ein intrapulmonaler Rechts-links-Shunt durch Erhöhung der inspiratorischen Sauerstoffkonzentration nicht wesentlich beeinflusst wird.
@@ -358,15 +358,15 @@ HPV und Hyperkapnie verschlechtern eine vorbestehende Rechtsherzinsuffizienz (Co
 
 Mechanismen um intraoperative Hypoxie bei ELV zu vermeiden:
 - Klemmen der A. pulmonalis
-- FIO2 1,0
+- FiO₂ 1,0
 - PEEP auf die abhängige Lunge (cave. COPD)
-- CPAP auf die nicht abhängige Lunge (die oben liegende Lunge wird mit O2 gebläht aber NICHT beatmet!)
+- CPAP auf die nicht abhängige Lunge (die oben liegende Lunge wird mit O₂ gebläht aber NICHT beatmet!)
 - Blähmanöver nach endotrachialer Absaugung
 - Ultimo ratio: beidseitige Beatmung nach Absprache mit dem Operateur (solange wie möglich)
 - Vermeidung von Tubusfehllage und hohen Atemdrücken
 
 Risikofaktoren für Hypoxämie:
-Rechtsseitiger Eingriff (größeres Shuntvolumen), paO2-Abfall bei Seitenlage, hoher Perfusions/Ventilationsgrad der operierten Lunge in der Szintigraphie paO2 ist abhängig vom Shunt-Volumen, Effizienz des Gasaustausches der ventilierten Lunge, HZV Hyperkapnie führt zur Vasokonstriktion in der ventillierte Lunge, und damit zur Blutumverteilung in die nicht ventilierte Lunge!    PEEP in der ventilierten Lunge erhöht den intraalveolären Druck und damit den Gefäßwiderstand und vermindert so die HPV!
+Rechtsseitiger Eingriff (größeres Shuntvolumen), paO₂-Abfall bei Seitenlage, hoher Perfusions/Ventilationsgrad der operierten Lunge in der Szintigraphie paO₂ ist abhängig vom Shunt-Volumen, Effizienz des Gasaustausches der ventilierten Lunge, HZV Hyperkapnie führt zur Vasokonstriktion in der ventillierte Lunge, und damit zur Blutumverteilung in die nicht ventilierte Lunge!    PEEP in der ventilierten Lunge erhöht den intraalveolären Druck und damit den Gefäßwiderstand und vermindert so die HPV!
 
 
 

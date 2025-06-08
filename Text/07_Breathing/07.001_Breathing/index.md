@@ -3,27 +3,27 @@
 
 **29. Atmung**
 
-Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. Trachea reicht von unterhalb des Cricoids bis zur Carina. Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. Der größte Widerstand ist bei der 3-4 Generation.
+Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. Trachea reicht von unterhalb des Cricoids bis zur Carina. Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. Der größte Widerstand ist bei der 3–4 Generation.
 
 Das normale Ventilation:Perfusion-Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz = Dyspnoe.
 
-Sauerstoffbindungskurve ist sigmoidal (SO2 oben und paO2 rechts). P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO2 von 27mmHg.
-Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer O2 Abgabe ans Gewebe.
+Sauerstoffbindungskurve ist sigmoidal (SO₂ oben und paO₂ rechts). P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO₂ von 27mmHg.
+Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer O₂ Abgabe ans Gewebe.
 
-Hüfnersche Zahl: 1 g Hb kann 1,39 ml O2 binden.
+Hüfner'sche Zahl: 1 g Hb kann 1,39 ml O₂ binden.
 
-Hypoxämie = vermind. paO2 (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose = SaO2 vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
+Hypoxämie = ↓ paO₂ (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose = SaO₂ vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
 
-Respiratorischer Quotient RQ = CO2-Produktion: Sauerstoffaufnahme = 0,8 normal
+Respiratorischer Quotient RQ = CO₂-Produktion: Sauerstoffaufnahme = 0,8 normal
 
-Oxygenierungsindex (Horowitz-Index): paO2/FIO2 = normal \> 450 Zellatmung in den Mitochondrien: ATP mit O2 + Glucose erzeugt.
-Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO2 + H2O + 38 ATP Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
+Oxygenierungsindex (Horowitz-Index): paO₂/FiO₂ = normal \> 450 Zellatmung in den Mitochondrien: ATP mit O₂ + Glucose erzeugt.
+Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO₂ + H₂O + 38 ATP Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
 
 
 Nicht respiratorische Funktion der Lunge: autokrin/endokrin = Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A + NA, Sekretion von IgA,
 Regulierung des Säure/Basenhaushaltes, Phagozytose, Abbau über Cytochrom P450 in der Lunge.
 = Blutfilterung, Immunabwehr, Partikelfilterung und --abtransport.
-Schnellregulation der Atmung: Karotis-Sinus-Körperchen = periphere Chemorezeptoren melden O2 und CO2-Gehalt ans ZNS = Steigerung des AMV um 2-3l bei 1 mmHg CO2-Anstieg.
+Schnellregulation der Atmung: Karotis-Sinus-Körperchen = periphere Chemorezeptoren melden O₂ und CO₂-Gehalt ans ZNS = Steigerung des AMV um 2–3l bei 1 mmHg CO₂-Anstieg.
 Langsame Regulation der Atmung über zentrale Chemorezeptoren in PONS,
 Medulla.
 Prüfung: Fluss/Volumen Kurve bei Spontanatmung aufzeichen können!
@@ -48,8 +48,8 @@ Prüfung: Druck/Volumen-Kurve (Compliance) aufzeichnen können (sigmoidaler Verl
 OIP: max. Alveolardehnbarkeit UIP: Alveolarverschlussdruck Linearer Teil = Spontanatmung Prüfung: Lungenvolumina (IRV, VT, ERV, RV, VK, TK, FRC) kennen!
 
 Adaption bei Belastung CO (SV x  HF) steigt + CI steigt ml/min/m²;  AMV (TV x  AF) steigt ab  \>  30 vor allem Totraumventilation mit rascher Erschöpfung.
-DO2 steigt: DO2 = HZV x Hb x SO2 x 1,34 x 10 (normal 750 ml/min/m²)
-Kritischer DO2 ist 300, darunter anerober STW;  VO2 in Ruhe 3 ml/kg / min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO2 um 10%)
+DO₂ steigt: DO₂ = HZV x Hb x SO₂ x 1,34 x 10 (normal 750 ml/min/m²)
+Kritischer DO₂ ist 300, darunter anerober STW;  VO₂ in Ruhe 3 ml/kg / min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO₂ um 10%)
 
 **West-Zonen**: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
 Und ven. Pulm. Druck \> Alveolardruck V/Q = 0,8 (0 bei Shunt,  ∞  bei Totraumventilation) = Perfusion ist größer als die Ventilation im Durchschnitt.
@@ -70,7 +70,7 @@ KI: instabile oder fixierte HWS 2) Flexible Bronchoskopie bei FIO-Intubation, As
 therapeutische Sekretabsaugung, Medikamete einbringen (z.B. Surfactant, Bronchodilat.),
 Tubuslagekontrolle, Blutstillung, FK-Entfernung.
 
-Erhöhtes Risiko  bei:    PEEP  \>  10, Gerinnungsstörung, paO²  \<70 bei FIO²\>0,7, MAP\<65, kardialer Pat.
+Erhöhtes Risiko  bei:    PEEP  \>  10, Gerinnungsstörung, paO²  \< 70 bei FIO²\> 0,7, MAP\< 65, kardialer Pat.
 Komplikationen: Fieber (erhöhte Zytokinausschüttung), paO²-Abfall, CO²-Anstieg, ICP-Anstieg,
 Kreislaufdepression oder Blutdruckkrisen bei unzureichender Sedierung,
 Laryngo/Bronchospasmus, Mukosaläsionen, Resorptionsatelektasen durch hohen FIO², erhöhter Auto-PEEP mit Barotrauma.
@@ -80,7 +80,7 @@ Prüfung: Aufbau Lunge grob aufzeichenen können! (Was sieht man bei der Broncho
 
 ## 29.3. Atemwegsmanagment
 
-Eine Präoxygenierung bis etO2 von 80% führt in der Lunge zu 90% O2- Reserve.
+Eine Präoxygenierung bis etO₂ von 80% führt in der Lunge zu 90% O₂- Reserve.
 Bei der Beatmung in Narkose wird die physiologische Unterdruckbeatmung durch eine
 Überdruckbeatmung ersetzt, welche zu einer Störung des Ventilations/Perfusionsverhältnisses führt, und durch vermindertem preload (Wegfall der Thoraxpumpe) zu hämodynamischer Instabilität führen kann.
 Bekannter schwieriger Atemweg: FOI planen, ev. Videolaryngoskop
@@ -115,12 +115,12 @@ Vorteil: erhaltene Spontanatmung, risikoarm, auch in extremen Patientenpositione
 
 Ablauf einer fiberoptischen Intubation:
 1) Aufklärung des Patienten (während des gesamten Vorgangs mit dem Patienten sprechen und auffordern durch den Mund zu atmen)
-2) Sedierung (kurzwirksam, Antidot): 3-5 mg Dormicum, Ultiva 4-6 ml/h 3) Anticholinergika (Atropin) 0,5 mg 4) Cocain 2% in die Nase 5) Wendel bds Nasenlöcher mit 3 Größen aufdehnen 6) Linkes Nasenloch Wendel + O2-Line (O2-Flow 3-6l/min mit 100%  FIO2  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich)
-7) Rechtes Nasenloch nasaler Tubus bis ca. 13cm 8) Mit Bronchoskop über nasalen Tubus eingehen 9) Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2-3 ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB 10) Sobald in Trachea: Propofol und Esmaron spritzen 11) Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
+2) Sedierung (kurzwirksam, Antidot): 3–5 mg Dormicum, Ultiva 4–6 ml/h 3) Anticholinergika (Atropin) 0,5 mg 4) Cocain 2% in die Nase 5) Wendel bds Nasenlöcher mit 3 Größen aufdehnen 6) Linkes Nasenloch Wendel + O₂-Line (O₂-Flow 3–6l/min mit 100%  FiO₂  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich)
+7) Rechtes Nasenloch nasaler Tubus bis ca. 13cm 8) Mit Bronchoskop über nasalen Tubus eingehen 9) Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2–3 ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB 10) Sobald in Trachea: Propofol und Esmaron spritzen 11) Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
 
 Sicherer Nachweis der korrekten Tubuslage:
 - Direkte visuelle Kontrolle
-- etCO2
+- etCO₂
 - Fiberoptische Kontrolle
 - Unsichere Zeichen: Thorax hebt sich symetrisch, Auskultation bds.
 
@@ -139,19 +139,19 @@ AaDO² = Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei alv
 
 ## 29.5. Respiratorische Insuffizienz
 * *
-(paO2 red) oder globale Insuff. (paO2 red, paCO2 erh.)
+(paO₂ red) oder globale Insuff. (paO₂ red, paCO₂ erh.)
 
 Hypox. Resp. Insuff: Oxygenierungsstörung bei Höhenaufenthalt oder luftgebundene Transporte
-(vermind. piO2/Hypoxie/HPV/Atelektasen), Hypoventilation bei Versagen der Atempumpe,
+(vermind. piO₂/Hypoxie/HPV/Atelektasen), Hypoventilation bei Versagen der Atempumpe,
 Intrapulm. Re-Li-Shunt (HPV, Atelektasen), V/Q-Mismatch, pulmonale Hypertension,
 Diffusionsstörung (Ödem, Fibrose, massive HZV-Erhöhung mit Kontaktzeitverkürzung, red. pulm.
 Blutvolumen)
-Therapie: FIO2 und PEEP-Erhöhung + Ursache beheben
+Therapie: FiO₂ und PEEP-Erhöhung + Ursache beheben
 
 
 
 
-Hyperkapnische resp. Insuff.: CO2-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre,
+Hyperkapnische resp. Insuff.: CO₂-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre,
 Phrenikusparese),
 Störung der neuromuskulären Weiterleitung
 (Myasthenia gravis,
@@ -163,7 +163,7 @@ Störung der Atemmechanik
 Tracheomalazie), Behinderung der Atemexkursion (Adipositas, erhöhter IAP)
 Therapie: NIV/Beatmung, Ursache beheben, VT und AF erhöhen.
 
-Hyperventilation ist ein wichtiger Kompensationsmechanismus um den alveolären paO2 zu steigern und so durch den größeren Partialdruck die Oxygenierung zu verbessern und Hypoxämie zu verhindern.
+Hyperventilation ist ein wichtiger Kompensationsmechanismus um den alveolären paO₂ zu steigern und so durch den größeren Partialdruck die Oxygenierung zu verbessern und Hypoxämie zu verhindern.
 Parenchymversagen: ARDS, hypoxische respiratorische Insuffizienz.
 Pumpversagen: COPD, hyperkapnische respiratorische Insuffizienz.
 
@@ -185,15 +185,15 @@ VCV: Freiheitsgrad = Spitzen (Tubuswiderstand)-  und Plateaudruck (Alveolardruck
 vermindert VT, sodass Spitzen und Plateaudruck erhöht werden müssen.
 
 PCV: Freiheitsgrad TV;  konstanter endexpiratorischer Druck (Plateaudruck) ohne Spitzendruck,
-mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO2 steigt Frischgasflow/min wird dem System zugeführt (nicht Beatmung). Z.B. Bei Flow 1l und AMV 5l werden 4l wiederverwendet. Bei minimal Flow Anästhesie  \<  0,5l muss FIO2 erhöht werden!
+mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO₂ steigt Frischgasflow/min wird dem System zugeführt (nicht Beatmung). Z.B. Bei Flow 1l und AMV 5l werden 4l wiederverwendet. Bei minimal Flow Anästhesie  \<  0,5l muss FiO₂ erhöht werden!
 (mind. 75%).
 
-Toxische Sauerstoffwirkung bei \> 0,4 FIO2
+Toxische Sauerstoffwirkung bei \> 0,4 FiO₂
 - Erhöht Sauerstoffradikale mit erhöhter Permeabilität/Ödem, Zerstört Surfactant, aktiviert Makrophagen und Granulozyten, Stört Zilienfunktion.
-- Resorbtionsatelektasen bei hohem paO2 in der Alveole = viel O2 geht ins Blut, der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
+- Resorbtionsatelektasen bei hohem paO₂ in der Alveole = viel O₂ geht ins Blut, der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
 = Atelektase.
 
-PEEP Physiologisch 5-10mmHg in der Trachea nach Expiration, durch Tubus verhindert. PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va.
+PEEP Physiologisch 5–10mmHg in der Trachea nach Expiration, durch Tubus verhindert. PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va.
 Bei AF \> 30/min) und Frischluftventilation!!
 Die Höhe des PEEPs richtet sich nach der Hämodynamik, KG, Lagerung des Patienten!
 Inspirationszeit:
@@ -201,7 +201,7 @@ BIPAP =  zeitgesteuerte Tinsp; ASB =  flussgesteuerte Tinsp (Spitzenfluss sind 1
 (IRV).
 AF:
 Ist abhängig vom absoluten KG (z.B. Mann mit 180cm/50 kg hat herabgesetzte AF), Temperatur,
-CO2-Produktion (Sedierung reduziert CO2-Produktion im Gehirn daher AF erniedrigt!)
+CO₂-Produktion (Sedierung reduziert CO₂-Produktion im Gehirn daher AF erniedrigt!)
 
 
 RAMPE:
@@ -224,8 +224,8 @@ Weaningkriterien:
 - Kompensierter Infekt (kein Fieber)
 - Keine geplante OP mehr
 - Keinen ausgeprägten Meteorismus
-- Säure/Basen-Haushalt in Ordnung pH \>7,3
-- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5-10, VT ausreichend, BGA + SO² in Ordnung, RSBI\<105 (f/VT), Atemwegsokklusionsdruck \<6
+- Säure/Basen-Haushalt in Ordnung pH > 7,3
+- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5–10, VT ausreichend, BGA + SO² in Ordnung, RSBI\< 105 (f/VT), Atemwegsokklusionsdruck < 6
 - Elektrolyte im Normbereich (Mg, Ca, K!)
 
 Atemwegsokklusionsdruck P0,1 = Maß für den zentralen Atemantrieb unter Spontanatmung. Die Maschine verschließt für 100ms das inspiratorische Ventil und bestimmt den Druck. Normal ist 1-
@@ -241,31 +241,31 @@ Mögliche Ursachen eines Weaning-Versagens:
   - erhöhte Resistance, erschöpfte Atemhilfsmuskulatur,
   - paradoxe Atmung/instabiler Thorax, Rapid S.Breathing
 
-Das Weaning muss abgebrochen werden, wen die AF \>35/min mit SO2\<90% bei unverändertem FIO2 bleibt, HF \> 140/min oder \<50/min, RRsyst. \>180 oder \<70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
-Ein erfolgreiches Weaning liegt vor, wenn der Patient 48h Spontanatmung zeigt ohne respiratorische Erschöpfung.
+Das Weaning muss abgebrochen werden, wen die AF > 35 / min mit SO₂ < 90% bei unverändertem FiO₂ bleibt, HF > 140 / min oder < 50/min, RRsyst. > 180 oder < 70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
+Ein erfolgreiches Weaning liegt vor, wenn der Patient 48 h Spontanatmung zeigt ohne respiratorische Erschöpfung.
 
 Ursache beheben:
-- Weaning induzierte kardiale Dysfunktion: mit neu aufgetretenem Lungenödem, Ischämiezeichen im EKG, reduzierter EF. Therapie mit Entwässerung, Nitroglycerin iv 40 - 600 µg/min.
-- Überlastete Atemmuskulatur mit Schaukelatmung: mit schwachem Hustenstoss, Sekretstau, und paCO2-Anstieg. Therapie: antiobstruktive Medikamente, Entwässerung, Pleurapunktion.
+- Weaning induzierte kardiale Dysfunktion: mit neu aufgetretenem Lungenödem, Ischämiezeichen im EKG, reduzierter EF. Therapie mit Entwässerung, Nitroglycerin iv 40 - 600 µg / min.
+- Überlastete Atemmuskulatur mit Schaukelatmung: mit schwachem Hustenstoss, Sekretstau, und paCO₂-Anstieg. Therapie: antiobstruktive Medikamente, Entwässerung, Pleurapunktion.
 
 Prävention: früher Spontanatemmodus, wenig Sedierung, frühe Rehabilitation.
 
 Wann kann der Patient extubiert werden? -- Extubationskriterien:
-- Screening der respiratorischen Funktion: OI \> 200, PEEP 5-10cmH2O, wach, Schutzreflexe, keine relevanten vasoaktiven Medikamente mehr?
-- AF\<35/min, VT ausreichend ? BGA, SO2
+- Screening der respiratorischen Funktion: OI > 200, PEEP 5–10 cm H₂O, wach, Schutzreflexe, keine relevanten vasoaktiven Medikamente mehr?
+- AF < 35 / min, VT ausreichend ? BGA, SO₂
 
 Eine zu frühe Extubation führt zur Reintubation, eine zu späte Extubation führt zur VAP oder Selbstextubtion.
 
-BIPAP: Sedierung stoppen, AF in 2er Schritten reduzieren, CO2 Ansteigen lassen, PEEP erst unter 10 reduzieren, wenn FIO2\<0,4 ist! Zur Extubation muss der Patient wach sein, Schutzreflexe haben (husten, Aufforderung befolgen) und AF  \>  5/min sein! Keine Reduktion der Druckunterstützung, da es nur zu vermehrter Totraumventilation kommt, wenn VT \<250 ml wird!
-ASB: Druckunterstützung in 2er Schritten reduzieren bis ca. 5; Extubation des wachen Patienten mit Schutzrefelxen ev. CPAP bei PEEP\>5
+BIPAP: Sedierung stoppen, AF in 2er Schritten reduzieren, CO₂ Ansteigen lassen, PEEP erst unter 10 reduzieren, wenn FiO₂\< 0,4 ist! Zur Extubation muss der Patient wach sein, Schutzreflexe haben (husten, Aufforderung befolgen) und AF  > 5 / min sein! Keine Reduktion der Druckunterstützung, da es nur zu vermehrter Totraumventilation kommt, wenn VT < 250 ml wird!
+ASB: Druckunterstützung in 2er Schritten reduzieren bis ca. 5; Extubation des wachen Patienten mit Schutzrefelxen ev. CPAP bei PEEP > 5 mbar
 
 Weaning bei COPD: Extubation + Anschließend NIV!
 CPAP-ASB, PSV-ASB, PPS
 
-ATC = automatische Tubuscompensation RSBI (= rapid shallow breathing index): f/VT \<105 beim Weaning = hohe AF und niedriges VT mit acuter respiratorischer Azidose  = Atemzüge/min durch das Titalvolumen in Litern =  Ein Maß für das Verhältnis von Belastung und Kapazität der Atemmuskulatur.
+ATC = automatische Tubuscompensation RSBI (= rapid shallow breathing index): f/VT < 105 beim Weaning = hohe AF und niedriges VT mit acuter respiratorischer Azidose  = Atemzüge/min durch das Titalvolumen in Litern =  Ein Maß für das Verhältnis von Belastung und Kapazität der Atemmuskulatur.
 Smart Care: Spontanatmung im ASB-Modus
 
-Unterstützungsdruck nach Frequenz, Tidalvolumen und etCO2 Smart Care vs. ASB im Weaning: smart care im postoperativem Einsatz gefahrlos anwendbar.
+Unterstützungsdruck nach Frequenz, Tidalvolumen und etCO₂ Smart Care vs. ASB im Weaning: smart care im postoperativem Einsatz gefahrlos anwendbar.
 ASB: Weaningdauer ist Personalabhängig.
 
 
@@ -287,23 +287,23 @@ Indikationen:
 - akute respiratorische Insuffizienz (bei immunsuprimierten Patienten)
 - Thoraxtrauma mit Serienrippe (Vorraussetzung Bülau bei Pneumoth.)
 - Postoperative Atelektasen (pulmonale Funktionseinschränkung va. Schmerzbedingt)
-- Weaning beim COPD-Patienten, Herzinsuffizienz, paCO2  \>45mmHg vor der Extubation, Sekretproblemen bei vermindertem Hustenstoss, Nachwirkungen einer Anästhesie, erhöhtem Intraabdominellen Druck, nach Thorax und Oberbaucheingriffen.l
+- Weaning beim COPD-Patienten, Herzinsuffizienz, paCO₂  \> 45mmHg vor der Extubation, Sekretproblemen bei vermindertem Hustenstoss, Nachwirkungen einer Anästhesie, erhöhtem Intraabdominellen Druck, nach Thorax und Oberbaucheingriffen.l
 
 Respirator muss Leckage-Kompensation und ausreichend Flow bieten.
 
 Kontraindikationen
 : Pat. ist nicht wach mit Schutzreflexen (Koma, Delir), Hämodynamische Instabilität/maligne Arrhythmien, Gesichtsschädelverletzungen/deformationen, NICHT drainierter Pneumothorax, massive Sekretproduktion;
 
-  Ausnahme: hyperkapnisches Lungenversagen mit CO2-Narkose trotzdem NIV NW: Läsionen der Nase, Irritationen der Augen, Austrocknen der SH
+  Ausnahme: hyperkapnisches Lungenversagen mit CO₂-Narkose trotzdem NIV NW: Läsionen der Nase, Irritationen der Augen, Austrocknen der SH
 
 Erfolgskriterien
-: paCO2 sinkt, paO2 steigt, AF und HF sinken, Klinische Besserung (Angst, Dyspnoe, usw.), Besserung nach 20 min!!
+: paCO₂ sinkt, paO₂ steigt, AF und HF sinken, Klinische Besserung (Angst, Dyspnoe, usw.), Besserung nach 20 min!!
 
 
 Abbruchkriterien
 : weitere Verschlechterung der respiratorischen Insuffizienz, zunehmende Eintrübung, Hämodynamische Instabilität, Arrhythmien, Maskenintoleranz, RSBI (f/VT)
 
 Narkoserespiratoren:
-Atemkalk: Pillenkalk (NaOH, Ba(OH)2  ), bindet CO2, wärmt und befeuchtet Gas, Ablaufdatum wegen Austrockung beachten! (Problem bei Kindern zu wenig CO2-Abgabe, damit zu wenig Befeuchtung und Erwärmung des Gas = bei langer OP externe Geräte empfohlen!)
+Atemkalk: Pillenkalk (NaOH, Ba(OH)2  ), bindet CO₂, wärmt und befeuchtet Gas, Ablaufdatum wegen Austrockung beachten! (Problem bei Kindern zu wenig CO₂-Abgabe, damit zu wenig Befeuchtung und Erwärmung des Gas = bei langer OP externe Geräte empfohlen!)
 
 

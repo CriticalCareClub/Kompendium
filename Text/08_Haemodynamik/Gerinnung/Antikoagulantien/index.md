@@ -14,13 +14,13 @@ Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoag
 
 ## 25.3. Medikamente mit Angriffspunkt in der plasmatischen Gerinnung 
 
-- UFH = II+X  --Inhibitator, Molekulargr. 4000-30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3h vor elektiven Eingriffen beenden, WB 1 h
-- NMWH = va. Xa-Inhibitator, Molek. Ca. 4000-9000 Dalton, HWZ ca. 6h, sc, 12h/24h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2h
+- UFH = II+X  --Inhibitator, Molekulargr. 4 000–30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3 h vor elektiven Eingriffen beenden, WB 1 h
+- NMWH = va. Xa-Inhibitator, Molek. Ca. 4 000–9 000 Dalton, HWZ ca. 6 h, sc, 12 h / 24 h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2 h
 
-- Direkte Thrombininhib. (IIa): Hirudine z.B. Argatroban/Argatra, 2h + apTT normal, WB 4h
-- FaktorX-Inhib.: Pentasaccharid/Fondaparinux = Arixtra sc. nach HTEP, KTEP, 36h!!, WB 6h
-- Direkte Xa-Inhib.: Rivaroxaban/Xarelto 24h, WB 3h und Apixaban/Eliquis 24 bis 48h (CNI!), WB je nach Blutungsrisiko
-- Direkte Thrombininhibitator: Dabigatran/Pradaxa 36 bis  \>96h (CNI!), WB je nach Blutungsrisiko
+- Direkte Thrombininhib. (IIa): Hirudine z.B. Argatroban/Argatra, 2 h + apTT normal, WB 4 h
+- FaktorX-Inhib.: Pentasaccharid/Fondaparinux = Arixtra sc. nach HTEP, KTEP, 36h!!, WB 6 h
+- Direkte Xa-Inhib.: Rivaroxaban/Xarelto 24 h, WB 3h und Apixaban/Eliquis 24–48 h (CNI!), WB je nach Blutungsrisiko
+- Direkte Thrombininhibitator: Dabigatran/Pradaxa 36 bis > 96 h (CNI!), WB je nach Blutungsrisiko
 - Vit. K-Antagonist: Phenoprocamon/Marcoumar INR/PTZ im Normbereich, WB sofort
 
 ### 25.3.1 . Orale Antikoagulantien: VKA und NOAKs (Neue orale Antikoagulantien)/DOAKs
@@ -31,9 +31,23 @@ Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoag
     a. DTI = direkte Thrombininhibitatoren (Pradaxa/Dabigatran);
     b. DXA = direkte Faktor Xa-Inhibitatoren (Eliquis/Apixaban, Xarelto/Rivaroxaban, Edoxaban- /Lixiana)
 
-Indikationen der DOAKs:
-DTI: Pradaxa: Therapeutisch bei VHF mit 2x150 mg/d DXA: Xarelto: Prophylaktisch 1x10 mg/d bei elektiver KTEP und HTEP. Therapeutisch mit 2x15 mg und präventiv mit 1x20 mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern DXA: Eliquis: Prophylaktisch 2,5 mg po 2x tgl nach elektiven KTEP und HTEP. Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5 mg nach einer Loadingdosis von 2 x tgl. 10 mg für die ersten 7 Tage! Eine Halbierung der Dosis ist bei schwerer Niereninsuffizienz empfohlen.
-DXA: Lixiana zur Thromboseprophylaxe bei orthopädischen Eingriffen
+Indikationen der DOAKs
+: - **DTI**: 
+    - **Pradaxa**: Therapeutisch bei VHF mit 2 x 150 mg/d 
+  - **DXA**: 
+    - **Xarelto**: 
+    
+      Prophylaktisch 1x10 mg/d bei elektiver KTEP und HTEP. 
+      
+      Therapeutisch mit 2 x 15 mg und präventiv mit 1x20 mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern 
+    - **Eliquis**: 
+    
+      Prophylaktisch 2,5 mg po 2 x tgl nach elektiven KTEP und HTEP. 
+      
+      Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5 mg nach einer Loadingdosis von 2 x tgl. 10 mg für die ersten 7 Tage! 
+      
+      Eine Halbierung der Dosis ist bei schwerer Niereninsuffizienz empfohlen.
+    - **Lixiana** zur Thromboseprophylaxe bei orthopädischen Eingriffen
 
 
 
@@ -41,12 +55,16 @@ DXA: Lixiana zur Thromboseprophylaxe bei orthopädischen Eingriffen
 
 <!-- 25.6. -->
 
-- AT III hemmt IIa, Xa, IXa, Xa, XIa,XIIa
+- **AT III** hemmt IIa, Xa, IXa, Xa, XIa,XIIa
 - Thrombomodelin hemmt Thrombin und aktiviert Protein C
-- Prot C hemmt Va und VIIIa
-- Protein S ist ein Kofaktor für Protein C
+- **Prot C** hemmt Va und VIIIa
+- **Protein S** ist ein Kofaktor für Protein C
 
-Faktor V-Mangel: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie = APC-Resistenz, da das aktivierte Protein C  nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5%  der Bevölkerung in Europa sind heterozygote Träger. Folgen sind TVT, PE, Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe
+Faktor V-Mangel
+: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie 
+
+  = APC-Resistenz, da das aktivierte Protein C nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5%  der Bevölkerung in Europa sind heterozygote Träger. 
+  Folgen sind TVT, PE, Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe
 
 
 
@@ -86,9 +104,9 @@ Diese haben deswegen die Bezeichnung „direkt“, da sie einen Vorgang in der G
 
   Es gibt zwei Arten von Heparinen - nach Molekulargewicht eingeteilt:
 
-  - unfraktioniertes Heparin: bildet einen Komplex mit Antithrombin II.
+  - *unfraktioniertes* Heparin: bildet einen Komplex mit *Antithrombin II*.
     Dieser Komplex inaktiviert Thrombin und die Faktoren Xa, XIIa, XIa, IXa.
-  - niedermolekulares Heparin: hemmt selektiv den Faktor Xa.
+  - *niedermolekulares* Heparin: hemmt selektiv den Faktor **Xa**.
 
 :::{list-table}
 :header-rows: 1
@@ -121,9 +139,9 @@ Niereninsuffizienz, Thrombozytopenien), Verdacht auf Läsionen im Gefäßsystem
 :::{index} single: Danaparoid-Natrium
 :::
 
-### Heparinoide:
+### Heparinoide
 
-Darunter versteht man Heparin-ähnliche Stoffe, die in den verschiedensten Organensystemen vorkommen.
+Darunter versteht man Heparin-ähnliche Stoffe, die in den verschiedensten Organsystemen vorkommen.
 
 :::{list-table} Heparinoide
 :header-rows: 1
@@ -144,7 +162,7 @@ Darunter versteht man Heparin-ähnliche Stoffe, die in den verschiedensten Organ
 :::{index} single: Lepirudin
 :::
 
-### Hirudine:
+### Hirudine
 
 Substanzen dieser Gruppe hemmen Thrombin unabhängig von Antithrombin, Basisstoff ist Hirudin, der Stoff mit dem Blutegel das Blut flüssig halten.
 
@@ -184,7 +202,7 @@ hemmen Thrombin, sind niedermolekularer als die Hirudine
 
 Wie sie werden auch diese Substanzen bei der HIT Typ II angewandt.
 
-Als einzige Substanz dieser direkten Antikoagulantien hat nur Heparin ein Antidot (**Protramin**!).
+Als einzige Substanz dieser direkten Antikoagulanzien hat nur Heparin ein Antidot (**Protramin**!).
 
 ⚠
 Niedermolekulare Heparine werden subkutan verabreicht – keines Falls intramuskulär!
@@ -200,7 +218,7 @@ Niedermolekulare Heparine werden subkutan verabreicht – keines Falls intramusk
 :::{index} single: Warfarin
 :::
 
-## Indirekt wirkende Antikoagulantien - Cumarine
+## Indirekt wirkende Antikoagulanzien - Cumarine
 
 Die Cumarine wirken über eine Synthesehemmung der Vitamin-K-abhängigen Gerinnungsfaktoren II, VII, IX, X gerinnungshemmend. Dadurch kann man bei ihrem Einsatz einen verzögerten Wirkungseintritt beobachten (noch genug intakte Gerinnungsfaktoren zu Therapiebeginn vorhanden).
 
@@ -236,7 +254,7 @@ Keine i.m.-Injektionen während Cumarin-Therapie!
 
 ## Thrombozytenaggregationshemmer
 
-### Acetylsalicylsäure
+### Azetylsalicylsäure
 
 
 (ASS®, Aspirin®, Thrombo AAS®): 
@@ -282,7 +300,7 @@ Kontraindikationen: akute innere Blutungen, erhöhtes Blutungsrisiko
 
 Die ADP-abhängige Thrombozytenaktivierung wird durch diese Substanzen blockiert.
 
-Sie werder bei gleichen Indikationen wie ASS eingesetzt, wenn zum Beispiel eine Unverträglichkeit oder eine Kontraindikation gegen Acetylsalizylsäure besteht.
+Sie werden bei gleichen Indikationen wie ASS eingesetzt, wenn zum Beispiel eine Unverträglichkeit oder eine Kontraindikation gegen Acetylsalizylsäure besteht.
 
 unerwünschte Wirkungen: Diarrhoe, Hautausschlag
 

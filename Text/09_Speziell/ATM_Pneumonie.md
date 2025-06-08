@@ -15,10 +15,10 @@ Erhöhte Totraumventilation bis zu 60% durch schmerzbedingte, flache Atmung und 
 Empirische Therapie amb. erworben (CAP) + Hospitalisationsbedürftig (schwere Pneumonie):
 Amoxicillin/Clavulansäure 2.2 g alle 8 h i.v (Alternativ: Ceftriaxon 2 g alle 24 h) + Initial zusätzlich Clarithromycin 500 mg alle 12 h p.o.
 
-Clarithromycin länger als 24h wenn IPS-bedürftig (48h), Legionellen-AG pos,Klinisch/Epidemiologisch Legionellose wahrscheinlich oder andere atypische Keime vermutet z.b. Mykoplasmen) Prednison\*\* 50 mg alle 24h p.o, max 7d; vorz. Abbruch bei Entlassung / AB-Stopp (KEINE Steroide bei Influenza - während I\'-Saison: Influenza-Abstrich)
+Clarithromycin länger als 24 h wenn IPS-bedürftig (48 h), Legionellen-AG pos,Klinisch/Epidemiologisch Legionellose wahrscheinlich oder andere atypische Keime vermutet z.b. Mykoplasmen) Prednison\*\* 50 mg alle 24 h p.o, max 7d; vorz. Abbruch bei Entlassung / AB-Stopp (KEINE Steroide bei Influenza - während I\'-Saison: Influenza-Abstrich)
 
 Wechsel Antibiotika i.v. auf p.o.
-sobald Patient 24h afebril oder Stabilitätskriterien erreicht sind.
+sobald Patient 24 h afebril oder Stabilitätskriterien erreicht sind.
 Dauer Antibiotika 2-3 d nach Entfieberung (gilt auch bei Legionellen!), wenn nach 7 Tagen weiterhin Fieber oder nicht stabil, Evaluation Diagnose/Komplikationen: Schwere CAP und Risikofaktoren resistente Keime? Piperacillin/Tazobactam 4.5 g alle 8 h i.v. + Ciprofloxacin 750 mg alle 12 h p.o.
 
 
@@ -31,7 +31,7 @@ Stabilitätskriterien:
 -  BD systolisch ≥ 90mmHg
 -  Puls ≤ 100/min
 -  Atemfrequenz ≤ 24/min
--  O2-Sättigung ≥ 90% oder pO2 ≥ 60mmHg
+-  O₂-Sättigung ≥ 90% oder pO₂ ≥ 60mmHg
 
 Erreger: Streptokokkus pneumoniae bei der ambulant erworbenen Pneumonie Diagnose: Streptokokken und Legionellen Urin-Schnelltest (Antigentest) + BK, Trachealsekret, BAL für Erregernachweis und Antibiogramm.
 Antibiotika: Abhängig von der Wahrscheinlichkeit für P. aeruginosa (Risiko: COPD, KH-

@@ -29,16 +29,16 @@ Schockraum bei Wirbelsäulenverletzungen:
 - Airwaymanagement (FOI mit liegendem Stiff neck)
 - Röntgen + CT + Sonographie Abdomen
 - En-block-Lagerung mit Chirurgen + StabilisierungsOP
-- Methylprednisolon laut Schema zur Neuroprotektion OP: Dekompression des RM, StabilisierungsOP + frühe Rehabilitätion Komplikation: aufsteigendes Rückenmarksödem bis 48h postoperativ mit Verschlechterung der Symptomatik.
+- Methylprednisolon laut Schema zur Neuroprotektion OP: Dekompression des RM, StabilisierungsOP + frühe Rehabilitätion Komplikation: aufsteigendes Rückenmarksödem bis 48 h postoperativ mit Verschlechterung der Symptomatik.
 
 Intensivtherapie:
-- PICCO;  vorsichtige Flüssigkeitszufuhr (relative Hypotonie durch Umverteilungsstörung zwischen Peripherie und Splanchnikusgebiet) Ziel: MAP\>70, HF  \>70/min + Katecholamine.
+- PICCO;  vorsichtige Flüssigkeitszufuhr (relative Hypotonie durch Umverteilungsstörung zwischen Peripherie und Splanchnikusgebiet) Ziel: MAP\> 70, HF  \> 70/min + Katecholamine.
 Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
 - Bronchialtoilette: Inhalieren, CPAP, Atemphysiotherapie, 2h Umlagerung en-block, Sekretolytika (Mucosolvan)
 - Tracheotomie: immer bei hohem Querschnitt (C4-5)
 - Thromboseprophylaxe NMWH, Physiotherpie mit Durchbewegen und Atemgymn., Strümpfe
 - Ulkusprophylaxe: H2-Blocker, Antazida
-- Blasenrehabilitätion: initial areflektorische  Überlaufblase, Automatisierung am Ende des spinalen Schocks, SBK nach 48h, häufig HWI (70%), frühzeitig Blasentraining mit Einmalkatheter 3-4h.
+- Blasenrehabilitätion: initial areflektorische  Überlaufblase, Automatisierung am Ende des spinalen Schocks, SBK nach 48 h, häufig HWI (70%), frühzeitig Blasentraining mit Einmalkatheter 3-4h.
 - Schmerztherapie: Opiate zurückhaltend wg. Atemdepression, eher NSAR
 - Infektprophylaxe: Hygiene!! Abstriche regelm.
 - Spastik: Frühphase schlaffe Areflexie + Spastik in der Spätphase; Therapie: Baclofen (Lioresal p.o.) blockiert Synapsen und dämpft Spasmen; ultima ratio longit. Myelotomie OP
@@ -61,7 +61,7 @@ Anästhesiemanagement:
 (auch bei Immobilität, Vebrennungen kein Lysthenon™)
 
 Prognose:
-Ist abhängig vom Ausmaß  der Rückenmarkschädigung und ist nach 2  Jahren als endgültig anzusehen. Eine Aussage kann frühestens ab dem Zeitpunkt, wenn die peripheren Reflexe (Analreflex, Bulbus cavernosus Reflex) zurückgekehrt sind, gemacht werden. Als günstig anzusehen sind Reiterhosenphänomene und inkomplette Lähmungen. Ungünstig sind eine vollständige Lähmung nach 72h und ein Priapismus (anhaltende Erektion) unmittelbar nach dem Trauma.
+Ist abhängig vom Ausmaß  der Rückenmarkschädigung und ist nach 2  Jahren als endgültig anzusehen. Eine Aussage kann frühestens ab dem Zeitpunkt, wenn die peripheren Reflexe (Analreflex, Bulbus cavernosus Reflex) zurückgekehrt sind, gemacht werden. Als günstig anzusehen sind Reiterhosenphänomene und inkomplette Lähmungen. Ungünstig sind eine vollständige Lähmung nach 72 h und ein Priapismus (anhaltende Erektion) unmittelbar nach dem Trauma.
 Untersuchungen: klinisch neurologische Untersuchung, EMG, NLG, SSEP (somato-sensible evoziert Potentiale), MEP (motorisch evozierte Potentiale)
 
 

@@ -362,12 +362,12 @@ Folgen: Insult, KHK, MCI, CNI, Polyneuropathie, Durchblutungsstörungen Insulin:
 
 
 Präoperativ Ziel = 120-150 NBZ:
-- Sulfonylharnstoffe/z.B. Amaryl    1 Tag vor OP absetzen (wirken 24h! Gefahr der Hypoglykämien!)
-- Biguanide/Metformin/z.B. Glucophage 48h vor OP und 1  Tag nach OP absetzen, 2 postoperativen Tag wieder einnehmen, wenn die NFP normal sind. Gefahr des Laktatanstiegs, daher 48h präoperativ pausieren, va. bei OP mit Laktatbildung z.B. AAA!
-- Retardinsulin bis zum Vortag nach gewohntem Schema;  präoperativ 1/3 der gewohnten Dosis als langwirksames Insulin, Abend nach OP NBZ\>180 gewohnte Dosis mit 2  std. BZ Kontrollen.
+- Sulfonylharnstoffe/z.B. Amaryl    1 Tag vor OP absetzen (wirken 24 h! Gefahr der Hypoglykämien!)
+- Biguanide/Metformin/z.B. Glucophage 48 h vor OP und 1  Tag nach OP absetzen, 2 postoperativen Tag wieder einnehmen, wenn die NFP normal sind. Gefahr des Laktatanstiegs, daher 48 h präoperativ pausieren, va. bei OP mit Laktatbildung z.B. AAA!
+- Retardinsulin bis zum Vortag nach gewohntem Schema;  präoperativ 1/3 der gewohnten Dosis als langwirksames Insulin, Abend nach OP NBZ\> 180 gewohnte Dosis mit 2  std. BZ Kontrollen.
 
   (Infusionstechnik: 10% Glukose auf 60 ml/h + Insulinperfusor 1,5IE/h mit regelm. BZ und Kaliumkontrollen; über 200 sollen 4-8 IE Insulin iv, \< 100 Glucose. 1 IE senkt BZ um 27 mg/dl, 10 g Glucose hebt BZ um 36 mg/dl; \> 180 relative osmotische Diurese!!
-- Novorapid bei NIDDM NBZ \>300
+- Novorapid bei NIDDM NBZ > 300
 - Regelmäßige Kontrollen, ev. Glucoseinfusion
 
 

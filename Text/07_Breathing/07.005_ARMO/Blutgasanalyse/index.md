@@ -156,7 +156,7 @@ Der Sauerstoffpartialdruck hat über die Beziehung der Sauerstoffbindungskurve e
 :::
 
 (ARMO-KP-SB-Haushalt)=
-% Bikarbonat bei erhöhtem etCO2:
+% Bikarbonat bei erhöhtem etCO₂:
 (Q-ARMO23004-2)=
 % BGA und metabolische Azidose
 (Q-ARMO23005)=
@@ -331,7 +331,7 @@ $$ (HorivitzQuotientBeispiel)
 
 Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 450. Ein Wert unter 300 gilt als Schwelle für eine leichte Lungenschädigung, unter 200 weist er auf eine mittelschwere, unter 100 auf eine schwere Lungenschädigung hin.
 
-:::{todo} BGA: Bild bearbeiten (FiO2 rot markieren)
+:::{todo} BGA: Bild bearbeiten (FiO₂ rot markieren)
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_20210331_223832_001342px.jpg

@@ -9,9 +9,9 @@ chapter-Beatmungsgeraete
 No/index
 ```
 
-paO2 = FiO2 jx 5 \[mm Hg\]
+paO₂ = FiO₂ jx 5 mm Hg
 
-FiO2: 20 + 4 x Flussrate
+FiO₂: 20 + 4 x Flussrate
 
 (z. B. 20 + 4 x 3 = 32%)
 

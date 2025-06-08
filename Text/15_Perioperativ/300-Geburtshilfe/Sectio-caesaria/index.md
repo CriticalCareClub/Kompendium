@@ -9,7 +9,7 @@
 
 SPA
 : - Bubivacain 0,5% ca. 2 ml (= 10 mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
-  - Volumen 500-1500 ml O2-Maske 2-4l Bei Hypotonie und Tachykardie: Phenylephrin Bolus 50-100 mcg (α-Agonist) mit Reflexbradykardie
+  - Volumen 500-1500 ml O₂-Maske 2-4l Bei Hypotonie und Tachykardie: Phenylephrin Bolus 50-100 mcg (α-Agonist) mit Reflexbradykardie
   - + Phenylephrin Perfusor mit 30 ml/h (= 50 mcg/min) nach SPA bis zur Abnabelung des Kindes 
 
 

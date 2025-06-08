@@ -29,7 +29,7 @@ Der Patient weißt an frühen Symptomen eine Tachykardie, eine Hyperkapnie sowie
 Die Hyperthermie tritt erst spät auf.
 
 Klinisches Bild: Hypermetabolismus
-- Endtitale CO2 steigt (Diff: oberflächliche Narkose, LSK, {ref}`Atemkalk <Atemkalk>` erschöpft,...)
+- Endtitale CO₂ steigt (Diff: oberflächliche Narkose, LSK, {ref}`Atemkalk <Atemkalk>` erschöpft,...)
 - Tachykardie, Herzrhythmusstörungen
 - Tachypnoe, respiratorische Kompensation der metabolischen Laktatazidose
 - Temperaturanstieg \> 38°
@@ -59,7 +59,7 @@ Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlini
 ### Sofortmaßnahmen bei MH-Verdacht
 
 - Trigger entfernen (Verdampfer entfernen, Maschine wechseln)
-- 100% FIO2 mit hohem Flow (3x AMV) 18l
+- 100% FiO₂ mit hohem Flow (3x AMV) 18l
 - Hilfe holen!!!
 - Dantrolen 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen) Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!! Eine Person nur zum Auflösen nötig!
 - Grosslumige Zugänge, Arterie, Temperatursonde, Kühlen!!
@@ -96,7 +96,7 @@ Die Maligne Hyperthermie kann unerkannt fatal enden!
 
 ### Planung bei bekannter MH
 
-Präoperative Planung: erster Punkt, Triggerfrei TIVA (mit hohem FGF), RA, Esmeron bei RSI., Aufwachr. 2-4h bei kleinen 24h bei großen OPs; Postop. + nach 6h Laborkontrolle!
+Präoperative Planung: erster Punkt, Triggerfrei TIVA (mit hohem FGF), RA, Esmeron bei RSI., Aufwachr. 2-4h bei kleinen 24 h bei großen OPs; Postop. + nach 6h Laborkontrolle!
 
 Folgende Anästhetika können bei Patienten mit Neigung zu Malignen Hyperthermie gefahrlos eingesetzt werden:
 

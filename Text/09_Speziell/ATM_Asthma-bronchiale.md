@@ -38,7 +38,7 @@ Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe und stützt si
 
 Immunogene Entzündungsreaktion meist durch Ag mit erhöhter Permeabilität/Ödem, Muskelkontraktion und erhöhter Sektretion ins Lumen (Hyperreagibilität durch die Entzündung)
 
-Status asthmaticus: trotz pharmakologischer Ausschöpfung schwerer Asthmaanfall \> 6-24h!
+Status asthmaticus: trotz pharmakologischer Ausschöpfung schwerer Asthmaanfall \> 6-24 h!
 
 LUFU: Obstruktion mit ausgeprägter Reversibilität im Spasmolysetest
 
@@ -99,7 +99,7 @@ Der Status asthmaticus kann tödlich enden.
   Exspiratorisches Atemgeräusch (Stridor)
 
   Schwerer Anfall: Kein oder leises Atemgeräusch,
-  🚩 SpO2 ↓↓
+  🚩 SpO₂ ↓↓
 
   Zeichen einer erschwerten Atemarbeit:
 

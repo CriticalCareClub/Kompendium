@@ -232,20 +232,20 @@ Taktik:
 ## 30.5. Pulmonalembolie *
 
 Präkapillärer mechanischer Verschluss mit Hypoxämie = HPV mit akuter Rechtsherzbelastung bis zum Schock und kardiorespiratorischer Insuffizienz.
-Kompensationsmechanismen: Gefäßrekruitment mit  Öffenen bisher verschlossener Gefäße und Dilatation bereits offener Gefäße, jedoch durch funktionellen Shunt schlechte Oxygenierung die oft auch durch FIO2-Erhöhung nicht ausgeglichen werden kann.
+Kompensationsmechanismen: Gefäßrekruitment mit  Öffenen bisher verschlossener Gefäße und Dilatation bereits offener Gefäße, jedoch durch funktionellen Shunt schlechte Oxygenierung die oft auch durch FiO₂-Erhöhung nicht ausgeglichen werden kann.
 Einteilung:
 1) Hochrisiko PE: Schock, akute Rechtsherzbelastung, myokardiale Nekrose (Troponin).
 2) Intermediärrisiko PE: akute Rechtsherzbelastung ohne Schock und myok. Nekrose.
 3) Niedrigrisiko PE: ohne Rechtsherzbelastung.
 
 Klinik
-: Dyspnoe mit thorakalen Schmerzen, Husten, Fieber, periphere Zyanose, Tachykardie, SaO2 red., Extremitäten untersuchen (Schwellung/Thrombose?), Tachypnoe, Synkope,
+: Dyspnoe mit thorakalen Schmerzen, Husten, Fieber, periphere Zyanose, Tachykardie, SaO₂ red., Extremitäten untersuchen (Schwellung/Thrombose?), Tachypnoe, Synkope,
 
 
 
 
 Labor
-: D-Dimer erhöht (normal  \<  0,5ng/dl), CO2 normal trotz Hyperventilation oder erhöht, AaDO² erhöht.
+: D-Dimer erhöht (normal  \<  0,5ng/dl), CO₂ normal trotz Hyperventilation oder erhöht, AaDO² erhöht.
 
 EKG
 : P-Pulmonale (hoch spitz), Sinustachykardie, RSB, VHF, V1-4 ST-Streckenveränderungen
@@ -259,11 +259,11 @@ Risikofaktoren
 
 
 Erstmaßnahme
-: O2 + Hyperventilation (NIV, IT) mit Zielgröße paO2 \> 100, paCO2 30-35 pH \> 7,45 und hämodynamische Stabilisierung des Patienten.
+: O₂ + Hyperventilation (NIV, IT) mit Zielgröße paO₂ \> 100, paCO₂ 30-35 pH \> 7,45 und hämodynamische Stabilisierung des Patienten.
 
 Die Therapie richtet sich nach der Risikoeinschätzung und dem Blutungsrisiko:
-1)  Hochrisikopatienten: Milde Volumengabe (500 ml), Katecholamine (NA, Suprarenin, ev. Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase, Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie. (Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \<6 Monate, ZNS-Malignom, Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
-2)  Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden. + Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \<15 ml/min) sind DOAK´s nicht geeignet.
+1)  Hochrisikopatienten: Milde Volumengabe (500 ml), Katecholamine (NA, Suprarenin, ev. Simtax), Beatmung mit möglichst niedrigem PEEP und endinspiratorischem Druck um das Preload möglichst wenig zu reduzieren, ev. ECMO, Anitkoagulation mit UFH mit Ziel 1,5 bis 2,5 fache aPTT-Verlängerung und sofortige systemische Lyse (Streptokinase, Urokinase), wenn dies nicht möglich ist herzchirurgische/interventionelle Embolektomie. (Kontraindikation zur Lyse: Hirnblutung, Ischämische Insult  \< 6 Monate, ZNS-Malignom, Schweres Trauma/OP, GI-Blutung \< 1 Monat, bekannte Blutungsneigung.)
+2)  Intermediärrisiko-Patienten: Thrombolyse nur nach strenger Risikoabwägung. Bei jüngeren Patienten mit niedrigem Blutungsrisiko dann das Überleben deutlich verbessert werden. + Antikoagulation mit NMWH oder Fondaparinux mit  überlappender VKA-Einstellung, oder DOAK (Rivaroxaban Dabigatran, Apixaban). DOAK´s sind im Vergleich zu den VKA bei der Verhinderung von Rezidiven nicht unterlegen, haben aber ein deutlich reduziertes Blutungsrisiko. Für Patienten mit schwerer Niereninsuffizienz (GFR  \< 15 ml/min) sind DOAK´s nicht geeignet.
 3)  Niedrigrisikopatienten: Antikoagulation mit NMWH/Fondaparinux mit  überlappender VKA-Einstellung oder DOAK´s.
     DOAKs:
     - Rivaroxaban: Initialdosis 2x15 mg für 21 Tage, Erhaltungsdosis 1 x 20 mg
@@ -275,12 +275,12 @@ Nach unprovozierter PE mindestens 3  Monate + Verlängerung je nach Rezidiv-  od
 Bei rezidivierender PE/TVT dauerhafte Antikoagulation.
 Bei Patienten mit absoluter KI für eine Antikoagulation und Nachweis einer TVT, und bei Patienten mit Rezidiven unter therapeutischer INR/täglicher DOAK-Einnahme, kann ein passagerer V.cava Filter erwogen werden.
 
-Beatmung: kontrolliere Hyperventilation (paCO2 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle) Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flolan iv. und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
+Beatmung: kontrolliere Hyperventilation (paCO₂ 28-35) mit respiratorischer Alkalose = pulmonale Vasodilatation, PEEP 5-8 (Steigerung nach echokardiographischer Rechtsherzbelastungskontrolle) Möglichst niedrigem Inspirationsdruck, ev. NO-Inhalation oder Prostazyklin/Flolan iv. und Inotropika mit Vasodilatorischem Effekt = Simdax, Phosphodiesterasehemmer
 
 
 Venöse Luftembolie: bei sitzender Op im Neuro-OP;  Druckgradient zw. rechten VH und Kopfvenen führt beim Eröffnen der Venen zum Ansaugen von Luftbläschen ins rechte Herz mit Luftembolie, akuter Rechtsherzbelastung, bei PFO Insult... Auskultatorisch Mühlradgeräusch!
 Klinik: Blutdruckabfall, Herzfrequenzanstieg, Jugularvenenstau, Zyanose, Mühlradgeräusch.
-Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK, Linksseitenlage, Kopftief, FIO2 100% + PEEP
+Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK, Linksseitenlage, Kopftief, FiO₂ 100% + PEEP
 
 
 

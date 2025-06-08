@@ -68,7 +68,7 @@ Kontraindikationen: maligne Hyperthermie, Verbrennungen, Polythrauma
 
 ## Neuromuskuläres Monitoring
 
-TOF = Train of four (Höhe T4/T1): Vierfachreiz 2Hz für 2  sec alle 12 sec;  Erholung bei  \>90%  !
+TOF = Train of four (Höhe T4/T1): Vierfachreiz 2Hz für 2  sec alle 12 sec;  Erholung bei  \> 90%  !
 Darunter Restrelaxierung, vorallem der Rachenmuskulatur mit reduzierten Schutzreflexen mit Aspirationsgefahr. Bei 70%  sind die Ach-Rezeptoren (Chemorezeptoren) am Glomus caroticus noch blockiert, und hemmen so den Atemantrieb mit Hypoxiegefahr! Spätfolgen sind Atelektasen und Pneumonien. Restrelaxierung kann nur mit TOF ausgeschlossen werden,
 nie klinisch!
 Relaxierung der Stimmbänder korreliert schlecht mit der der Daumenmuskulatur. Stimmbänder haben raschere Anschlagzeit, geringere Blocktiefe, kürzere Wirkdauer bei NdMR. Das Diaphragma hat ebenfalls eine raschere Anschlagzeit, braucht mehr Relaxans für komplette Blockade und hat eine raschere Erholung als die Rachenmuskulatur (Patient atmet bereits selbst, die Schutzreflexe sind aber noch mangelhaft!)
@@ -83,7 +83,7 @@ Einteilung der Muskelrelaxantien:
    Rocuronium/Esmeron,
    Atracurium/Tracrium,
    Cisatracurium/Nimbex
-4. Lang (\>45min) obsulet Es gibt große individuelle Schwankungen bis TOF \>90% erreicht wird.
+4. Lang (\> 45min) obsulet Es gibt große individuelle Schwankungen bis TOF > 90% erreicht wird.
 
 Erhöhte Empfindlichkeit für ndMR bei Hypothyreose und neuromuskulären Erkrankungen!
 ED = effektive Dosis. ED90 = beim Durchschnitt sind 90% Blockade erreicht.
@@ -162,7 +162,7 @@ Tracrium
 ### Einfluß anderer Medikamente auf ndMR:
 
 - Antagonisierend: Carbamazepin, Phenytoin
-- Potenzierend: Volatile Anästhetika, Lokalanästhetika, Kalziumblocker, Magnesium, Dantrolen, Aminoglykoside, Clindamycin, +Hypothermie \<35°C Allgemein: Alter (Kinder, Senioren), Adipositas, Schwangerschaft, gestörte Organfunktion.
+- Potenzierend: Volatile Anästhetika, Lokalanästhetika, Kalziumblocker, Magnesium, Dantrolen, Aminoglykoside, Clindamycin, +Hypothermie < 35°C Allgemein: Alter (Kinder, Senioren), Adipositas, Schwangerschaft, gestörte Organfunktion.
 
 Sectio
 : Succinylcholin tritt mehr  über Plazentaschranke als alle anderen;  Esmeron zur RSI zugelassen; keine Restrelaxation beim NG bekannt.

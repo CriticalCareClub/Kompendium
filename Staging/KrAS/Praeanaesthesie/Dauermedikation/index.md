@@ -17,13 +17,13 @@ Kalziumantagonisten
   Substanzen vom Verapamil- und Diltiazem-Typ zeigen auch im normalen
   Dosisbereich eine negativ inotrope und chronotrope Wirkung
 
-  Können kardiotoxische Wirkung von Lokaöanästhetika potenzieren
+  Können kardiotoxische Wirkung von Lokalanästhetika potenzieren
 
 α₂-Agonisten
 
 : {index}`\ <pair: α₂-Agonisten; peri-OP>`
   {index}`\ <Alpha-2-Agonisten; peri-OP>`
-  Kardioprotekin bei karialen Risikopatienten
+  Kardioprotektion bei kardialen Risikopatienten
 
   Verringern Anästhetika-Bedarf und post-OP-Analgetikabedarf
 

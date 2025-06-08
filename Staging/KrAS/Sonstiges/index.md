@@ -21,7 +21,7 @@ Glukose 33% 100 mL + Insulin 20 IE
 - Falls verfügbar, ABO-gleich transfundieren
 - Wenn nicht möglich, dann entsprechend der Regeln für
   Erythrozytentransfusion auswählen (siehe Tabelle)
-  (Ausnahme: Bei Kindern mit einem KG \<25 kg möglichst
+  (Ausnahme: Bei Kindern mit einem KG < 25 kg möglichst
   Plasma (Minor) - inkompatible Thrombozytengabe
   vermeiden!)
 - Wenn nicht möglich, auf die verfügbaren TK einer anderen
@@ -270,7 +270,7 @@ zu anderen abdominellen Peritonitis/Sepsisformen klassifiziert werden.
       Peritonitis auf Grund eines Abszesses oder Perforation
       intraperitonealer Organe)
 
-    - **Typ B** «**nosokomiale Peritonitis**» (Peritonitis die erst 48h
+    - **Typ B** «**nosokomiale Peritonitis**» (Peritonitis die erst 48 h
       nach Aufnahme durch Laparotomie verifiziert wurde oder wo bereits
       außerhalb des Krankenhauses eine antibiotischen Therapie durchgeführt
       wurde)
@@ -575,7 +575,7 @@ Atlanta – Klassifikation
 - „nekrotisierend“
 - Mit Organversagen *oder* lokalen Komplikationen (*intra-oder
   peripankreatischer Flüssigkeitsansammlung, Nekrosen, Abszesse*,...)
-- Letalität (15-20%)
+- Letalität (15–20%)
 
 **Symptome**
 
@@ -679,8 +679,8 @@ Laktat: fast immer erhöht
 - Sensitiver als Amylase
 - 97% Spezifität
 - Nur 67% Sensitivität
-- Anstieg bereits nach 4-8h
-- Normalisierung nach 5-8 Tagen
+- Anstieg bereits nach 4–8h
+- Normalisierung nach 5–8 Tagen
 - **CAVE**: Lipase Erhöhung auch bei NIereninsuffizienz
 
 MERKE:
@@ -715,10 +715,8 @@ Interleukin 6:
 Glukose:
 
 - Ausfall der endokrinen Funktion (! erst ab 80% des Gewebes!)
-- Hoher negativer prädiktiver Wert : normaler BZ (bei
-  Nicht-Diabetikern) schließt nekrotisierende Pankreatitis weitgehend
-  aus)
-- BZ \< 125 mg/dl – 92% KEINE nekrot.Pankreatitis
+- Hoher negativer prädiktiver Wert : normaler BZ (bei Nicht-Diabetikern) schließt nekrotisierende Pankreatitis weitgehend aus
+- BZ < 125 mg / dl – 92% KEINE nekrot.Pankreatitis
 
 Hämatokrit:
 
@@ -763,8 +761,8 @@ Hämatokrit:
 
 - Keine Nekrose 0P
 - \< 30% des Pankreas : 2P
-- 30-50% des Pankreas: 4P
-- \>50% des Pankreas : 6P
+- 30–50% des Pankreas: 4P
+- \> 50% des Pankreas : 6P
 
 **Balthazar-Score**
 
@@ -795,7 +793,7 @@ Zeitpunkt:
 Ansonsten innerhalb von 72 Stunden
 
 - Diagnostische ERCP im freien Intervall zur Abklärung der Ätiologie
-  **frühestens 8 – 12 Wochen** nach dem akuten Ereignis – besser jedoch
+  **frühestens 8–12 Wochen** nach dem akuten Ereignis – besser jedoch
   Durchführung einer MRCP !
 
 Post-ERCP Pankreatitis
@@ -841,9 +839,9 @@ Ranson – Score nach 48 Stunden
 - GOT > 255 U/l
 - LDH > 350 U/l
 - Glukose > 200 mg/dl
-- 0-2 Punkte - \< 1% Letalität
-- 3-4 Punkte – 15% Letalität
-- 5-6 Punkte – 40% Letalität
+- 0–2 Punkte - \< 1% Letalität
+- 3–4 Punkte – 15% Letalität
+- 5–6 Punkte – 40% Letalität
 - \> 6 Punkte – 100% Letalität
 
 ### Therapie
@@ -918,15 +916,15 @@ Oraler Kostaufbau
 
 Volumengabe
 
-- 3-5l/24h
-- Aggressive Volumentherapie (u.U.bis zu 15 Liter/Tag)
+- 3–5 l / 24 h
+- Aggressive Volumentherapie (u.U.bis zu 15 l / d)
 
 Steuerung
 
-- ZVD (Ziel: 8-10cm H20 ) MEMO : ZVK bei schwerer Pankreatitis obligat
+- ZVD (Ziel: 8–10 cm H₂0) MEMO : ZVK bei schwerer Pankreatitis obligat
   !
-- Diurese (Ziel: > 0,5 ml/kg / h)
-- HK – 30-35%
+- Diurese (Ziel: > 0,5 ml / kg / h)
+- HK – 30–35%
 - Ggf.auch PICCO-Messung
 - Volumengabe bis zur Normalisierung des Laktats
 - Evtl.*early goal directet therapy* (Katecholamine, etc.)
@@ -1001,7 +999,7 @@ IND für CHE (auch wenn bereits eine Papillotomie durchgeführt wurde)
 
 - Leichte Pankreatitis – binnen 7 Tagen (noch während des stationären
   Aufenthaltes)
-- Schwere Pankreatitis – nach 4-6 Wochen im Intervall
+- Schwere Pankreatitis – nach 4–6 Wochen im Intervall
 
 ### Prognose
 
@@ -1012,9 +1010,9 @@ Abnehmend
 Insgesamt : um die 8%
 
 - Leichte Pankreatitis: fast nie letal
-- Schwere Pankreatitis: 15-20%
+- Schwere Pankreatitis: 15–20%
 
-Der 1.“Schub“ hat eine 10-15fache höhere Mortalität als der Wiederholte
+Der 1.“Schub“ hat eine 10–15fache höhere Mortalität als der Wiederholte
 
 Schlechte Prognose bei äthylischer Genese
 
@@ -1038,7 +1036,7 @@ Wichtig PRÄOPERATIV im Mittelpunkt stehen :
 - Körperliche Untersuchung
 - Präoperative Laboruntersuchungen: wie für andere große Eingriffe →
   besonderer Beachtung bedürfen hohe Hämatokritwerte trotz normaler
-  Hydrierung und ein erhöhter paCO2.
+  Hydrierung und ein erhöhter paCO₂.
 - EKG: v.a. Zeichen der Rechtsherzbelastung
 - Thorax-Röntgenbilder.
 - Lungenfunktionsprüfungen.
@@ -1086,7 +1084,7 @@ Wichtig PRÄOPERATIV im Mittelpunkt stehen :
 - Pneumektomie > 2,5 \< 2,5
 - Lobektomie > 1,75 \< 1,75
 - Segmentresektion > 1,5 \< 1,5
-- Pneumektomie > 1,5 1,0-1,5 \< 1,0
+- Pneumektomie > 1,5 1,0–1,5 \< 1,0
 - Lobektomie, Segmentresektion > 1,2 \< 0,8
 
 ### Thoraxchirurgie **Berechnung der ppoFEV1**
@@ -1123,10 +1121,10 @@ z.B. Lobektomie rechter UL:
 
 #### Lungen-Mechanik Parenchym-Funktion Kardio-pulmonale Reserve
 
-- FEV1 DLCO VO2 max
+- FEV1 DLCO VO₂ max
 - (ppo\< 40%) (ppo\< 40%) (15 ml/kg / min)
-- MVV, FVC PaO2 \< 65 2 Stöcke Stiegen steigen
-- RV/TLC PaCO2 > 45 6 Minuten gehen
+- MVV, FVC paO₂ \< 65 2 Stöcke Stiegen steigen
+- RV/TLC PaCO₂ > 45 6 Minuten gehen
 
 ### Besonderheiten bei Tumorpatienten
 
@@ -1147,7 +1145,7 @@ z.B. Lobektomie rechter UL:
   prämediziert werden.
 - Ist der Eingriff nur kurz und soll der Patient frühzeitig mobilisiert
   werden, sollten *keine lang wirkenden* Sedativa zugeführt werden.
-- Patienten mit Hypoxie (paO2 \< 75 mmHg) und Hyperkapnie (paCO2 > 45
+- Patienten mit Hypoxie (paO₂ \< 75 mmHg) und Hyperkapnie (paCO₂ > 45
   mmHg) bei Raumluftatmung dürfen *keine* atemdepressorisch wirkende
   Prämedikation erhalten. *Vielmehr ist es ratsam, auf jede
   Prämedikation zu verzichten, um die Hypoventilation nicht noch mehr
@@ -1214,7 +1212,7 @@ Am wichtigsten sind:
 Die Praxis …. Hypoxie vermeiden !
 :::
 
-Zu Beginn der Ein-Lungen-Anästhesie wird die untere Lunge mit einem Atemzugvolumen von ca. **8–10 ml/kg** beatmet. Die ursprünglich eingestellte Atemfrequenz wird beibehalten. Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO2 bleibt meist im Normbereich, ebenso der paCO2.
+Zu Beginn der Ein-Lungen-Anästhesie wird die untere Lunge mit einem Atemzugvolumen von ca. **8–10 ml/kg** beatmet. Die ursprünglich eingestellte Atemfrequenz wird beibehalten. Unter dieser Beatmungsform steigt der Beatmungsdruck an, der paO₂ bleibt meist im Normbereich, ebenso der paCO₂.
 
 Während der gesamten Zeit der einseitigen Beatmung werden hohe inspiratorische Sauerstoffkonzentrationen eingestellt, um die Hypoxiegefahr zu vermindern. Hierbei muss jedoch beachtet werden, dass ein intrapulmonaler Rechts-links-Shunt durch Erhöhung der inspiratorischen Sauerstoffkonzentration nicht wesentlich beeinflusst wird.
 
@@ -1222,15 +1220,15 @@ Die arteriellen Blutgase müssen während der Ein-Lungen-Anästhesie sehr häufi
 
 Tritt eine schwere Hypoxie auf, können *folgende Maßnahmen* durchgeführt werden:
 
-- Vorsichtige Anwendung eines PEEP von etwa 5 cmH2O auf die beatmete
+- Vorsichtige Anwendung eines PEEP von etwa 5 cm H₂O auf die beatmete
   Lunge.
 - Ist der PEEP nicht wirksam: intermittierende Beatmung der oberen
   Lunge oder kontinuierliche Insufflation von Sauerstoff in Kombination
-  mit CPAP (5–10 cmH2O) der oberen Lunge, wenn erforderlich, auch mit
-  PEEP der unteren (5 cmH2O).
+  mit CPAP (5–10 cm H₂O) der oberen Lunge, wenn erforderlich, auch mit
+  PEEP der unteren (5 cm H₂O).
 - Bei *Pneumektomie*: Pulmonalarterie der nichtbeatmeten Lunge so früh
   wie möglich abklemmen, hierdurch wird der intrapulmonale
-  Rechts-links-Shunt schlagartig beseitigt: Der paO2 steigt meist
+  Rechts-links-Shunt schlagartig beseitigt: Der paO₂ steigt meist
   deutlich an.
 - Die Gesamtzeit der einseitigen Beatmung sollte so *kurz* wie möglich
   sein.

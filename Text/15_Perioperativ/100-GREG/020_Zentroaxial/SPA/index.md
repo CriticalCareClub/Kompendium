@@ -251,7 +251,7 @@ Therapie
 
 ### Postspinaler Kopfsschmerz
 
-- 24-48h nach Spinalanästhesie
+- 24-48 h nach Spinalanästhesie
 - Liquorverlust in der Dura
 - Okzipital oder beidseits frontal, evtl Sehstörung, Schwindel
 - Stärkster noch nie empfundener Kopfschmerz
@@ -290,6 +290,6 @@ Flachliegen und Immobilisation nach Spinalanästhesie hat keine Auswirkung auf d
 - Sehr selten
 - Direkte Schädigung durch *Punktion*, indirekt durch *Blutung*, Störung der spinalen Durchblutung durch Hypotension, *Toxizität* der verabreichten Substanzen, bakterielle *Kontamination*
 - Nicht immer durch die Spinalanästhesie, evtl vorbestehender Schaden, OP Lagerung
-- *Transiente Neurologische Symptome* (*TNS*): ausstrahlende dumpfe Rückenschmerzen, die innerhalb von 24h nach dem Abklingen einer SPA auftreten und üblicherweise 1–3 Tage anhalten
+- *Transiente Neurologische Symptome* (*TNS*): ausstrahlende dumpfe Rückenschmerzen, die innerhalb von 24 h nach dem Abklingen einer SPA auftreten und üblicherweise 1–3 Tage anhalten
 - Meningitis,
 - Conus-Cauda-Symptomatik

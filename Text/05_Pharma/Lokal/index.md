@@ -311,7 +311,7 @@ Tetracain  Pantocain®
 
 Diese 5%ige Creme enthält 2,5% {ref}`Lidocain <Lidocain>` und 2,5% Prilocain.
 Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
-Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder \<6 Monate nicht zugelassen.
+Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder < 6 Monate nicht zugelassen.
 
 
 :::{index} single: Metallgeschmack

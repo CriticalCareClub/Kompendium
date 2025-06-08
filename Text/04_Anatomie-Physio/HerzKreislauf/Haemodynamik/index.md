@@ -77,8 +77,8 @@ Der Blutdruck wird in mmHg gemessen, man gibt dabei immer zwei Werte an:
 
 Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
 
-- Hypotonie: \<100-105 mmHg systolisch
-- normaler Blutdruck: \<145/\<90 mmHg
+- Hypotonie: < 100-105 mmHg systolisch
+- normaler Blutdruck: < 145/\< 90 mmHg
 - Grenzwertig: 145-165/90-95 mmHg
 - Hypertonie: >165/>95 mmHg ({ref}`Arterielle-Hypertonie`)
 

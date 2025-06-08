@@ -43,7 +43,7 @@ Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
 Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
 
-[^ph-1]: Ein pH-Wert \<7 gilt als *sauer*, ein pH=7 als *neutral* und ein ph>7 als *basisch*.
+[^ph-1]: Ein pH-Wert < 7 gilt als *sauer*, ein pH=7 als *neutral* und ein ph>7 als *basisch*.
 
 [^ph-2]: Der richtige pH-Wert ist lebenswichtig.
     Er wird beim Menschen normalerweise vom Körper sehr konstant um ca 7,4 gehalten.
@@ -142,13 +142,13 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 ### Aust 21. Puffersysteme
 
 Bikarbonatpuffer, Hämoglobin, Plasmaproteine, Phosphate Gleichgewichtsreaktion für Bicarbonatpuffer: HCO -
-3  + H+ ↔ H2O + CO2   (20:1)
+3  + H+ ↔ H₂O + CO₂   (20:1)
 Henderson-Hasselbalch-Gleichung pH = 6,1 + log\[HCO -
-3  / paCO2\]
+3  / paCO₂\]
 
 
 Elimination von Säuren:
- Durch Abatmung von CO2werden Protonen eliminiert(CO2+ H2O H2CO3H++ HCO3-)
+ Durch Abatmung von CO₂werden Protonen eliminiert(CO₂+ H₂O H2CO3H++ HCO3-)
 •renale Ausscheidung der „fixen Säuren" als Ammonium-(NH4+), Phosphat-(HPO42-) und Sulfat-
 Ionen (SO42-) normal: 40-60 mmol/Tag
 
@@ -157,7 +157,7 @@ Metabolische Azidoseeine potentiell lebensbedrohliche Erkrankung!
 Schnelle, fokussierte Diagnostik ist wichtig!
 1. Liegt eine einfache oder komplexe metabolische Azidose vor 2. Liegt ein Verlust von Bikarbonat oder eine Anreicherung von Protonen vor?
 
-Auswirkungen der schweren Azidose (pH\<7.20)auf den Organismus:
+Auswirkungen der schweren Azidose (pH\< 7.20)auf den Organismus:
 
 Zerebral:Benommenheit, Somnolenz, Koma
 
@@ -177,7 +177,7 @@ Kardiovaskulär:Kontraktilität ↓, Arrhythmieneigung ↑
 
 pulmonaler Gefäßwiderstand↑
 
-Verminderung der Katecholaminsensitivität (pH \<7.20)
+Verminderung der Katecholaminsensitivität (pH < 7.20)
 
 Ursachen der metabolischen Azidose 1. Vermehrte endogene Produktion fixer Säuren,
 deren Menge die Ausscheidungskapazität der Niere übersteigt. Beispiel:Laktatazidose, Ketoazidose 1. Erkrankungen des Nierenparenchyms, die mit verminderter Ausscheidung von Säuren einhergehen Beispiel:Azidose bei chronischer Niereninsuffizienz 1. Verlust von Bikarbonat durch vermehrte renale oder enterale Ausscheidung. Beispiel:Diarrhoe,
@@ -239,16 +239,16 @@ Therapie der zugrundeliegenden Ursache der metabolischen Alkalose:
 
 BGA-Beurteilung:
 1) Wie hoch ist der pH? = Azidose oder Alkalose 2) Wie hoch ist das Bicarbonat?
-2) Wie hoch ist das CO2?
+2) Wie hoch ist das CO₂?
 3) Metabolische oder respiratorische oder kombinierte Störung?
 
 
-Normalwerte: pH = 7,35--7,45 pCO2 = 35--45 mm Hg bzw.
+Normalwerte: pH = 7,35--7,45 pCO₂ = 35--45 mm Hg bzw.
 4,6--6,0[ kPa ](https://de.wikipedia.org/wiki/KPa)HCO3(std) = 23--27 mmol/l BE = -2 bis +3 mmol/l)
 
 
 Analyse der respiratorischen Kompensation von metabolischen Störungen:
-\[HCO3-\] + 15 = pCO2 (mmHg)= pH Bsp: Patient mit pH 7,20 und einem HCO3- von 14 1) pCO2 = 29mmHg mit pH 7,29 = adäquate Kompensation 2) pCO2 \<29mmHg mit pH \>7,29 = zusätzliche respiratorische Alkalose 3) pCO2 \>29mmHg mit pH \< 7,29 = zusätzliche respiratorische Azidose Erkennen von gemischten Ursachen einer metabolischen Störung mit Hilfe der Delta/Delta-
+\[HCO3-\] + 15 = pCO₂ (mmHg)= pH Bsp: Patient mit pH 7,20 und einem HCO3- von 14 1) pCO₂ = 29mmHg mit pH 7,29 = adäquate Kompensation 2) pCO₂ \< 29mmHg mit pH > 7,29 = zusätzliche respiratorische Alkalose 3) pCO₂ \> 29mmHg mit pH \< 7,29 = zusätzliche respiratorische Azidose Erkennen von gemischten Ursachen einer metabolischen Störung mit Hilfe der Delta/Delta-
 Analyse = Um wieviel verändert sich die Anionenlücke im Verhältnis zum Bicarbonat?
 
 Osmolarität: Maß für die Anzahl der Teilchen in einem Lösungsmittel.

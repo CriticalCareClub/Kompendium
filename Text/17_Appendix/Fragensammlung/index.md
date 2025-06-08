@@ -8,11 +8,11 @@
 - Klappenfehler: Patient mit AKS (Veränderungen am Herzen, Symptome, Anästhesiologische Besonderheiten)
 - WedgeDruck, Pulmi, Veränderungen bei Herzerkrankungen
 - Hyper-, Hypokaliämie
-- AaDO2
+- AaDO₂
 - Kardiovaskuläre Risikoabschätzung, Präanästhesieambulanz
 - COPD, Lungenteilresektion, prognost. FEV1
 - Thoraxtrauma, Schockraum: Beatmung (Oxygenierung?)
-- PAC, DO2, VO2
+- PAC, DO₂, VO₂
 - Pneumonie
 - Bronchoskopie: starr, flexibel
 - Leberversagen: Einteilung, hepatorenal + hepatopulmonales Syndrom, Transplantation, TIPPS, CHILD, HE-Stadien, MARS
@@ -50,13 +50,13 @@
 - Doppellumentubus, ELV
 - HLM, ECMO
 - Ösophagusruptur, 62a, Anästhesie, Intub. DLT, ELV, Spiro, BGA
-- 92a, desorientiert, Femurkopfprothese, card. Decomp, NI, z.n. Insult, Med?  Rechts basal grobblasige feuchte RG´s, DD der RG´s, Schmerztherapie, Anästhesieverfahren AN/RA, Monitoring, SPA mit massive Hypotonie, etCO2 Abfall, Bradykardie Dgn?, Was tun um Risiko zu vermindern?
+- 92a, desorientiert, Femurkopfprothese, card. Decomp, NI, z.n. Insult, Med?  Rechts basal grobblasige feuchte RG´s, DD der RG´s, Schmerztherapie, Anästhesieverfahren AN/RA, Monitoring, SPA mit massive Hypotonie, etCO₂ Abfall, Bradykardie Dgn?, Was tun um Risiko zu vermindern?
 - Pat. mit Peritonitis nach Darmperf, spontanatmend, nicht intubiert, respiratorisch schlechter, Nierenfunktion schlechter, Dg?  ARDS, SEPSIS;  BGA?  Beatmung, Sedierungstiefe angeben, Therapie ARDS.
 - Kind, 2a, Hernie bds, Inhaltative Einleitung (Halothan vs. Isofluran), Caudalblock, Flüssigkeitsmanagment, Schmerztherapie, Paracetamol Supp. Dosis.
 - Primagravida, 24a, Kopfschmerz, starker Puls, 32 SSW, Präeklampsie, Physio SS,    HELLP, Sectio
 - 65a, KnieTEP, keine Anamnese, IDDM, 2 postoperativen Tag, TnT 0,3, EKG, was zu tun?
 - HNO-Laserchir, Sicherheitsmaßnahmen, Anästhesie
-- OL rechts Resektion, Ind. ELV, Lufu, hypoxische Vasokonstriktion (SaO2 fällt)
+- OL rechts Resektion, Ind. ELV, Lufu, hypoxische Vasokonstriktion (SaO₂ fällt)
 - EDA für KTEP, Hypertonie, 59a, 15 min nach 100 mg Ropivacain Blutdruckabfall, HF 68/min
 - Neurochirurgie, Glioblastom, 49j, wesensverändert lt. Angehöriger, häufig Kopfschmerz, Monitoring, Lagerung, Narkose, Schmerz (Zange), Prämed.
 - Alte Pat, BMS Stent, Hallux, Dyspnoe bei schwerer körperlicher Belastung RA, Welche Nerven müssen blockiert werden? Vorteile? Komplikationen
@@ -69,7 +69,7 @@
 - Kleinzelliges Bronchus CA mit Stenose re OL, Muskelschwäche, CHE in AN, postoperativ Reintubation bei respiratorischer Insuffizienz, Lambert Eaton
 - Pat. 62j, 156cm, 65 kg, Hemikolektomie bei perf. Divertikulitis mit kotiger 4 Quadrantenperitonitis, MOF (Niere, Lunge). Nach 2  Wochen fieberfrei, EZP rückläufig, Aterenol 0,15 µg / kg / min stabil. Patientin wird hämofiltriert. Kann mit dem Weaning begonnen werden?
 - Weaningkriterien, SBT, Augementierte Beatmungsformen weaning.
-- 82j, US-Fraktur OP, im Aufwachraum starke Bauchschmerzen, blutiger Stuhlgang, KHK, VHF, RR 110/70, arrythmischer Puls, 90-130/min, SaO2 95%
+- 82j, US-Fraktur OP, im Aufwachraum starke Bauchschmerzen, blutiger Stuhlgang, KHK, VHF, RR 110/70, arrythmischer Puls, 90-130/min, SaO₂ 95%
 - Dg. Mesenterialinfarkt (embolisch), Weitere Untersuchungen (Labor, EKG, Abdomen leer, CT Angio, TEE Thrombus linkes Herz?, Endoskopie?) Therapie (OP, Katheterembolektomie, Lyse), nicht okklusive Darmischämie
 - Nephrektomie in Bauchlage, 49j, 15 min nach Beginn deutlicher Anstieg der Beatmungsparameter;
 - Ursachen? Komplikationen bei diesen Eingriff, Monitoring?

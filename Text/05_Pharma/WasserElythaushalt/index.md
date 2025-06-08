@@ -124,7 +124,7 @@ Muskelkontraktion, Erregungsausbreitungen im Herz, Funktion von Ionenkanälen, S
 
 ```{eval-rst}
 +------------------------+----+------+-------+------------------------+
-|                        | pH | pCO2 | HCO3- | Usrache                |
+|                        | pH | pCO₂ | HCO3- | Usrache                |
 +------------------------+----+------+-------+------------------------+
 | Respiratorische        | ↓  | ↑    | ↑     | Verminderte Abatmung   |
 | Azidose                |    |      |       | von CO\ :sup:`2`       |

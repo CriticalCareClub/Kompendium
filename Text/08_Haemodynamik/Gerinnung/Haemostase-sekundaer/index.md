@@ -24,17 +24,17 @@ Ziel der Gerinnungsdiagnostik
 
 | Test       | Soll Werte                      |
 | ---------- | ------------------------------- |
-| PTZ        | \>50%  (ZNS und Retina  \>70%), |
+| PTZ        | > 50%  (ZNS und Retina  > 70%), |
 | apTT       | norm,                           |
-| Fibrinogen | \>100 mg/dl,                     |
-| Thromb     | \> 100000/l                     |
+| Fibrinogen | > 100 mg/dl,                     |
+| Thromb     | > 100000/l                     |
 |            |                                 |
 
 aPTT-Erhöhung bei
 : Heparingabe, VWS, APL-Ak, Faktor XII-Mangel, Hämophilie A+B 
 
 Erhöhte Blutungsneigung
-: Thrombos \< 50000/l, Fibrinogen\<100, FVII+IX minus 35%, PTZ\<25%
+: Thrombos < 50000/l, Fibrinogen < 100, FVII+IX minus 35%, PTZ < 25%
 
 TheraNostrisches Gerinnungsmanagement
 : klinischer Blick auf das OP-Gebiet, rasche sensitive Diagnostik, Point of Care Test/ROTEM, zielgerichtete Therapie

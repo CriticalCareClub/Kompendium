@@ -78,7 +78,7 @@ Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsst
     - Entzündungen
     - Tumor
     - …
-  - - Störungen der O2-Versorgung:
+  - - Störungen der O₂-Versorgung:
 
       - Atemstörungen (Hypoxie)
       - Herz-Kreislaufstörungen

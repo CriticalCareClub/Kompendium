@@ -6,7 +6,7 @@
 
 - Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO²-Anstieg mit einem ICP-Anstieg kommt.
 - Tubus gut fixieren!
-- Großlumige Zugänge! (PTZ \>70%, Thrombos\>100000)
+- Großlumige Zugänge! (PTZ > 70%, Thrombos\> 100000)
 - Kontrollierte Hyperventilation
 - Restriktive Volumengabe, Mannitol bei Bedarf (=  hyperton zur  Ödemtherapie, Hirndrucksenk.)
 - Bei Tumorkraniotomie ev. 20 mg Dexamethason und Mannitol vor Duraeröffnung. 
@@ -19,7 +19,7 @@
 - TIVA, Sevo  \<  0,7 MAC (darüber cerebrale Vasodilatation), ev. Barbiturate, + Ultiva (analgesiebasierte Narkose!)
 - Ultiva erhöhen beim Einspannen in die Mayfield Zange. Der Patient darf sich nicht bewegen bis die Zange wieder entfernt ist!
 - Keine hypoosmolaren Flüssigkeiten, auf Diabetes Insipidus achten!
-- Komplikationen: Venöse Luftembolie bei sitzender Position mit vermindertem etCO2 und erhöhtem paCO2 . Therapie: Cava im rechten Vorhof Luft absaugen, Flachlegen, chirurgischer Verschluss des offenen Gefäßes.
+- Komplikationen: Venöse Luftembolie bei sitzender Position mit vermindertem etCO₂ und erhöhtem paCO₂ . Therapie: Cava im rechten Vorhof Luft absaugen, Flachlegen, chirurgischer Verschluss des offenen Gefäßes.
 - Lagerungsschäden: Kinn-Sternum 2-3cm (sonst Überdehnung des Halsmarks und des Plexus brachialis), Flexion der Hüfte  \<  80°  (Dehnung des N. ischiadikus und verminderter venöser Rückstrom), Nervenläsionen des N. ulnaris und N. peronaeus.
 - Verzögertes Aufwachen bei Pneumocephalus!
 - Postoperativ Normothermie für frühzeitige neurologische Beurteilung. Husten und Pressen vermeiden!

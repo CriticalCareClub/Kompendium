@@ -21,8 +21,8 @@ Post-Anesthetic-Recovery-Score
 4) Consciousness: wach, weckbar, reagiert nicht (2,1,0)
 5) Colour: rosa, blass, zyanotisch (2,1,0) Bei \< 8 überwachungspflichtig!
 
-ALDRETE-Score 1) Sauerstoffsättigung: \>90% bei RL, O2-Maske nötig,
-\<90% mit Maske (2,1,0)
+ALDRETE-Score 1) Sauerstoffsättigung: > 90% bei RL, O₂-Maske nötig,
+\< 90% mit Maske (2,1,0)
 2) Postoperativer Schmerz: kein/mild, moderate/stark, anhaltend stark (2,1,0)
 3) Postoperative Übelkeit: keine, vorübergehend, starke Übelkeit mit anhalt. Erbrechen (2,1,0)
 
@@ -39,7 +39,7 @@ Therapie: Phyiostigmin (Anticholium) 2 mg ad KI   CAVE: KI bei Glaukom! Bei zu
 Wichtiges im Aufwachraum:
 - Hämodynamik: Hypotonie/Hypovolämie, Hypertonie Schmerz/Stress! Vorbestehende Hypertonie, Rhythmusstörungen/Elektrolytstörungen (Mg, K), Myokardischämie, PE (TTE, TEE bei unklarer Hämodynamikstörung! Diff. PE/MCI)
 - Respiratorische Insuffizienz: ev. NIV;  Urs?  PE, Lungenödem, Muskelrelaxanzüberhang, Opiatüberhang, Bronchospasmus, Verlegung der Atemwege (Schwellung?  Blutung?), PE?, Pneumothorax? Atelektasen? Erguss? Vorbestehende Erkrankung: COPD, Lungenfibrose,...
-- Schmerztherapie: zentrale Aufgabe im Aufwachraum; VAS \<5 Handlungsbedarf. Opiate, NSAR
+- Schmerztherapie: zentrale Aufgabe im Aufwachraum; VAS < 5 Handlungsbedarf. Opiate, NSAR
 + RA + Lagerung/Kryotherapie (multimodales Schmerzkonzept)
 - PONV: vermehrt bei Frauen, Raucher, Reisekrankheit, Volatile A., Opioide, intraoperativer Kreislaufinstabilität. RA + TIVA!! Dexamethason 4 mg iv. am Beginn der OP (2h bis Wirkungseintritt), 5 HT3-Antagonisten: Zofran (QT-Verlängerung, Interaktion mit Paracetamol, Tramadol) + Metoclopramid, DHB, Propofol
 - Nachblutung: Hals (Struma, Carotis, HWS), UE (Kompartment), Intraabdominell (bei PDA schmerzfrei!!!), Bülaudrainagen;  diffuse = eher Gerinnungsproblem (ROTEM, selektive Substitution), lokal = chirurgisches Problem.

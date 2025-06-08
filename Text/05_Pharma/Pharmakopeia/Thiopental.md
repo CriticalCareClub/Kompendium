@@ -128,7 +128,7 @@ Einleitungsdosis
 : 4-6 mg / kg KG (va. bei alten Patienten LANGSAM!!!), erhöhte Dosis bei Kindern, da großes HZV (3x BV/min) + rasche Umverteilung; Säuglinge 6-8 mg / kg KG (Sectio 4 -- 6 mg / kg KG keine Auswirkung auf das NG)
 
 ZNS
-: Antikonvulsiv, Antianalgetisch (senkt Schmerzschwelle), Atemregulation (vermindert Atemantwort auf Hypoxie und erhöhtem CO2), senkt ICP durch Vasokonstriktion mit reduziertem CBF und senkt O2-Bedarf des ZNS.
+: Antikonvulsiv, Antianalgetisch (senkt Schmerzschwelle), Atemregulation (vermindert Atemantwort auf Hypoxie und erhöhtem CO₂), senkt ICP durch Vasokonstriktion mit reduziertem CBF und senkt O₂-Bedarf des ZNS.
 
 
 Thiopental ist inkompatibel mit Rocuronium, Succinylcholin, Midazolam, Alfentanyl, und Sufenta, daher nie im gemeinsamen Schenkel verabreichen!!!

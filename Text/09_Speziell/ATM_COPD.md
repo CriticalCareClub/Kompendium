@@ -19,7 +19,7 @@
 - Brummendes, pfeifendes od. giemendes Ausatemgeräusch
 - Evtl. chronische Zyanose
 - Evtl. Heimsauerstoff
-- SpO2 chronisch niedrig
+- SpO₂ chronisch niedrig
 - Exazerbation:
 
   - Plötzliche Verschlechterungen
@@ -91,7 +91,7 @@ Veränderung der Atemwege bei der COPD
 | I       | FEV1 \> 80%, mit/ohne Husten/Auswurf                         |
 | II      | FEV1 \< 80% mit Husten/Auswurf                               |
 | III     | FEV1 \< 50 mit Husten/Auswurf                                |
-| IV      | FEV1\<30% oder \<50% mit chron respiratorischer Insuffizienz |
+| IV      | FEV1\< 30% oder < 50% mit chron respiratorischer Insuffizienz |
 
 :::
 
@@ -114,7 +114,7 @@ LUFU
 : vermind. VK und red. FEV1, obstruktive Ventilationsstörung,  Erhöhte Compliance bei verminderter Struktur (elastische Fasern zerstört), aber auch verminderte Rückstellkraft und Obstruktion = erhöhte Resistance.
 
 BGA
-: paCO2 erhöht mit kompensiertem pH, chronische Hyperkapnie
+: paCO₂ erhöht mit kompensiertem pH, chronische Hyperkapnie
 
 
 
@@ -303,7 +303,7 @@ NIV (CPAP. CPAP+ASB), Intubation.
 
 Indikation zur NIV
 : - klinische Bild: progredient zunehmende Dyspnoe, AF  \>  35/min, inkostale Einziehungen, Schaukelatmung, muskuläre Erschöpfung.
-  - paCO2\>55 steigende Tendenz, paO2 \< 55 mit SaO2\<88 trotz Sauerstoffgabe, pH \< 7,3
+  - paCO₂\> 55 steigende Tendenz, paO₂ \< 55 mit SaO₂\< 88 trotz Sauerstoffgabe, pH \< 7,3
 
 Voraussetzung für NIV
 : Kooperativer Patient,
@@ -334,8 +334,8 @@ Therapie: Ursache beheben, exspiratorischen PEEP anheben.
 Kriterien zur Intubation
 : - Zunehmende Somnolenz,
   - unzureichende Schutzreflexe,
-  - rapid shallow breathing (AF\>35/min, VT \< 300),
-  - weiterer paCO2 Anstieg mit pH-Abfall,
+  - rapid shallow breathing (AF\> 35/min, VT \< 300),
+  - weiterer paCO₂ Anstieg mit pH-Abfall,
   - zunehmende hämodynamische Instabilität,
   - Schocksymptomatik,
   - HF \> 140/min.

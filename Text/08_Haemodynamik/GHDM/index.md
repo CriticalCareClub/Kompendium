@@ -25,7 +25,7 @@ Dabei hat das hämodynamische Monitoring auch die wesentliche Funktion einer hä
 - TODO HD Zielwerte
 - TODO OPS/Microzirkulation-Analyse: Bilder im Vergleich
 - TODO HD Mon Passive Leg Raise
-- TODO HD Mon: Beispiel Herangehenweise (CVP Safety Limits, Indikationen, ScO2, ...)
+- TODO HD Mon: Beispiel Herangehenweise (CVP Safety Limits, Indikationen, SCO₂, ...)
 :::
 
 

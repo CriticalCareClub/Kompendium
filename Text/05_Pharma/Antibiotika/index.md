@@ -73,7 +73,7 @@ Steril: BK, Liquor, Punktion steriler Körperhöhlen Physiologisch kolonisiertes
 
 Blutkulturen:
 Es werden 3 x 2 Paare (anerob/aerob) aus einem frisch gelegtem Zugang (Venflon, ZVK, Arterie)
-oder bei va. ZVK ass. Inf. aus distalen und proximalen Schenkel und 1 periph. Vene! Optimal zum Zeitpunkt der Bakteriämie (Temp \>37,8 HF\>90/min Leukozytose = Sirs Kriterien!)
+oder bei va. ZVK ass. Inf. aus distalen und proximalen Schenkel und 1 periph. Vene! Optimal zum Zeitpunkt der Bakteriämie (Temp > 37,8 HF\> 90/min Leukozytose = Sirs Kriterien!)
 
 DTP: Diffenertial time to positivity = periphere TTP -- zentrale TTP; wenn \> 2h + gleicher Keim liegt eine ZVK assoziierte Bakteriämie vor!!
 PCR zeigt schnell welcher Erreger aber keine Resistenzen!
@@ -153,7 +153,7 @@ Vigilanzstörungen,
 Thrombozytose,
 Agranulozytose, Nephro und hepatotoxisch.
 
-Tetracycline WS: +/- Bereich, Mycoplasmen und Chlamydien WL: Enterobakterien, Pseudomonas HWZ 12-24h! Elimination hepatisch/biliär und renal.
+Tetracycline WS: +/- Bereich, Mycoplasmen und Chlamydien WL: Enterobakterien, Pseudomonas HWZ 12-24 h! Elimination hepatisch/biliär und renal.
 NW: Diarrhöe, Krampfanfälle, Vigilanzstörungen, Phototox, Wachstumstörungen in den Knochen,
 Zahnschmelzschäden mit Verfärbung = erst ab 8 Lj.
 Bsp: Doxycyclin

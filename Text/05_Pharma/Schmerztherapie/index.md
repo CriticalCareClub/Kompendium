@@ -80,7 +80,7 @@ Remifentanil 1:100, Alfentanil 1:10, Tramal 1:0,5-1 Morphin per os: peridural: i
 
 Beispiel: Durogesic TTS 100 µg/h = 240 mg/Tag = 240 mg Morphin p.o./Tag  :3 = 80 mg iv Morphin/Tag Beispiel: 600 mg Mundidol bei Patient mit Ileus soll auf iv. umgestellt werden. Da von den 600 mg wahrscheinlich nicht alles resorbiert wurde wird nicht mit 200 mg iv, sondern mit 100 mg iv /24 h begonnen. = PCA mit 4 mg/h +  Bolus für Schmerzspitzen in der Höhe von 50 bis 100%
 der Stundendosis = 2 -- 4 mg mit 20 min. Sperrzeit.
-Beispiel: PCA mit 3 mg/h soll auf TTS umgestellt werden. 3 x 24 = 72 mg / 24h → x 3 = 216 mg / 24h TTS →: 24h = 90 µg/h →
+Beispiel: PCA mit 3 mg/h soll auf TTS umgestellt werden. 3 x 24 = 72 mg / 24 h → x 3 = 216 mg / 24 h TTS →: 24 h = 90 µg/h →
 Durogesic 75 µg/h + z.B. Morapid für Durchbruchschmerzen.
 
 Opioid-Umrechnungstabellen erleichtern die Schmerztherapie-Umstellung!
@@ -206,7 +206,7 @@ obere Extemität Bewegung,...)
 ## 7.5. Anagosedierung/Schmerztherapie auf der Intensivstation
 
 
-Prinzipiell spricht man bis 24h von kurz, von 1  --  7 Tage von mittellanger und von  \>7 Tage von langer Analgosedierung. Ein frühes Weaning mit Extubtion verkürzt den Intensivaufenthalt!
+Prinzipiell spricht man bis 24 h von kurz, von 1  --  7 Tage von mittellanger und von  \> 7 Tage von langer Analgosedierung. Ein frühes Weaning mit Extubtion verkürzt den Intensivaufenthalt!
 Prinzipien:
 - Potentes Opioid + Sedativum/Hypnotikum
 - Sed/Analgie nach Erkrankungsstadium anpassen

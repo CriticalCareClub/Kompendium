@@ -37,7 +37,7 @@
   - Magensonde (peroral, kann nach OP vor Ausleiten entfernt werden)
 * - Narkoseführung
   - TIVA bevorzugt;
-    Durch Pneumoperitoneum erschwerte Beatmung: PEEP erforderlich, erhöhte Atemwegsdrücke, CO2-Anstieg //
+    Durch Pneumoperitoneum erschwerte Beatmung: PEEP erforderlich, erhöhte Atemwegsdrücke, CO₂-Anstieg //
 * - Lagerung
   - Rückenlage, reversed Trendelenburg, Beine gespreizt; Arme: rechts ausgelagert, LINKS augelagert; Kopf: Schaumstoffpolster 
 * - Aufstellung

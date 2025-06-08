@@ -34,6 +34,9 @@ BGA
 BMS
 : {ref}`Bare Metal Stent <Koronarangiographie>`
 
+C/P
+: Cor-Pulmo-Röntgen
+
 CPAP
 : Continous Positive Airway Pressure
 
@@ -89,6 +92,9 @@ Pa
 : Pascal, SI-Einheit für {ref}`Druck <Druck>`. 
   1 Pa = 1 N / m²
 
+PPSB
+: Prothrombinkomplexkonzentrat
+
 PCI
 : {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
 
@@ -98,12 +104,24 @@ PEEP
 PTCA
 : {ref}`Perkutaneous Transluminal Coronary Angioplasty <Koronarangiographie>`
 
+PVK
+: Peripher-venöser Katheter
+
 STEMI
 : ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
 Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
 SR
 : Sinusrhythmus
+
+US
+: Ultraschall
+
+VKA
+: Vitamin-K-Antagonisten
+
+ZVK
+: Zentralvenöser Katheter
 
 ```{raw} latex
 \end{multicols}

@@ -71,7 +71,7 @@ Durch Erhöhung des transpleuralen Drucks, einer Lymphabflussstörung oder einer
   - parapneumomnisch: s. {numref}`Tab-parapneumonische-Exsudate`
 :::
 
-Ein **Transsudat** ist chrakterisiert einen Proteinverhältnis Pleura:Serum von \< 0,5 und einem LDH-Quotienten von \<0,6.
+Ein **Transsudat** ist chrakterisiert einen Proteinverhältnis Pleura:Serum von \< 0,5 und einem LDH-Quotienten von < 0,6.
 Es tritt typisch bei Herzinsuffizienz, Leberzirrhose, nephrotisches Syndrom, Peritonealdialyse, Lungenembolie, Hypothyreose oder einer Mitralstenose auf.
 
 Ein **Exsudat** ist charakterisiert durch ein Proteinverhältnis von > 0,5, einem LDH-Verhältnis \> 0,6.

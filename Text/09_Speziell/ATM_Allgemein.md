@@ -221,17 +221,17 @@ Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemst
 :::{todo} Code/Tabelle
 
 [H]LLStörung des/der & Beispiele
-O2-Angebotes &
+O₂-Angebotes &
 :::
 
 Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
 
-Stickgase (Gärkeller (CO2↑, O2↓); defekte Gastherme (CO))
+Stickgase (Gärkeller (CO₂↑, O₂↓); defekte Gastherme (CO))
 
 :::{todo} Code/Tabelle
 
 Ertrinken
-O2-Diffusion & Lungenödem
+O₂-Diffusion & Lungenödem
 :::
 
 Pneumonie
@@ -339,7 +339,7 @@ Man unterscheidet zwischen einer *milden* (der Patient kann noch sprechen und hu
 ## 30. Atmungsstörungen
 
 
-Eine respiratorische Insuffizienz liegt vor, wenn die für die Aufrechterhaltung eines suffizienten Gasaustausches notwendige Atemarbeit vom Patienten nicht mehr aufgebracht werden kann. Die pulmonale O2-Aufnahme ist in Folge so stark beeinträchtigt, dass eine ausreichende O2-Versorgung der Gewebe bzw. eine ausreichende Elimination von Kohlendioxid nicht mehr gewährleistet ist.
+Eine respiratorische Insuffizienz liegt vor, wenn die für die Aufrechterhaltung eines suffizienten Gasaustausches notwendige Atemarbeit vom Patienten nicht mehr aufgebracht werden kann. Die pulmonale O₂-Aufnahme ist in Folge so stark beeinträchtigt, dass eine ausreichende O₂-Versorgung der Gewebe bzw. eine ausreichende Elimination von Kohlendioxid nicht mehr gewährleistet ist.
 Leitsymptom ist die Tachypnoe (\>  35/min)! + Reduziertes VT, Schaukelatmung, Einsatz der Atemhilfsmuskulatur mit erhöhtem Sympatikotonus (Unruhe, Schwitzen, Tachykardie,
 Hypertonie)
 
@@ -349,12 +349,12 @@ Grundsätzlich unterscheidet man zwischen  **3 Ursachen der respiratorischen Ins
 - Störungen der Ventilation, d.h des Atemgastransportes, durch eine Schwäche oder ein Versagen der Atempumpe (= Atemmuskulatur)
 - Gasaustauschstörungen als Folge von Perfusionsstörungen der Lunge. (Pulmonalembolie, Shunt)
 
-Beim pulmonalen Parenchymversagen (Oxygenationsversagen) steht die Störung der Oxygenierung (⇒ PaO2 ⇓, AaDO2 ⇑) im Vordergrund ⇒ Hypoxämisches Lungenversagen.
+Beim pulmonalen Parenchymversagen (Oxygenationsversagen) steht die Störung der Oxygenierung (⇒ paO₂ ⇓, AaDO₂ ⇑) im Vordergrund ⇒ Hypoxämisches Lungenversagen.
 Ursachen für ein Lungenparenchymversagen :
 ALI/ARDS (pulmonal-extrapulmonal), Pneumonie, Kardiogenes Lungenödem, Lungenfibrose
 (primär-sekundär)
 
-Das pulmonale Pumpversagen (Ventilationsversagen) ist durch eine insuffiziente Elimination von CO2 (⇒ PaCO2 ⇑) gekennzeichnet  ⇒  Hyperkapnisches Lungenversagen Ursachen für ein Atempumpversagen:
+Das pulmonale Pumpversagen (Ventilationsversagen) ist durch eine insuffiziente Elimination von CO₂ (⇒ PaCO₂ ⇑) gekennzeichnet  ⇒  Hyperkapnisches Lungenversagen Ursachen für ein Atempumpversagen:
 
 1.  **Zentrale** Ursachen: Störung im Atemzentrum (z.B. SHT, Intoxikation), Störung im zervikalen oder thorakalen Rückenmark (z.B. traumatischer Querschnitt, Tetanus)
 2.  **Periphere** Ursachen Störungen der Atemmechanik:

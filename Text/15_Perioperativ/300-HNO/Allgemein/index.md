@@ -5,7 +5,7 @@
 Höheres Anästhesierisiko va. bei Akuteingriffen, weil:
 Pathologie im Bereich der Atemwege mit Intubationshindernissen, behinderter Zugang zum Kopf während der OP, Blut/Sekret/Tamponade behindern Spontanatmung postoperativ, Husten unerwünscht, PONV häufiger, chron. verkühlte Kinder bei Adenoiden.
 
-OP verschieben bei: purulentes Sekret, Fieber\>38°,
+OP verschieben bei: purulentes Sekret, Fieber\> 38°,
 Affektion der tiefen Atemwege, Inappetenz.
 PONV vermehrt bei: TE, InnenohrOP, N2O, Blutschlucken,
 Kinder!!! (Dexabene + Zofran)
@@ -14,12 +14,12 @@ AT: Abtragung der Rachenmandeln mit Ringmesser; Vagusreiz evt.
 Vasokonstriktion (siehe Kinder)
 
 
-TE: Entfernung Tonsillen mit Schlinge und Blutstillung oder Laser; Nachblutung typisch \< 24h oder nach 6-8 Tage nach Ablösen des Schorfs (Lebensgefahr durch Verbluten und Aspiration),
+TE: Entfernung Tonsillen mit Schlinge und Blutstillung oder Laser; Nachblutung typisch \< 24 h oder nach 6-8 Tage nach Ablösen des Schorfs (Lebensgefahr durch Verbluten und Aspiration),
 Seitenlage zur Extubation (siehe Kinder)
 
 UPP (Uvulopalatoplastik) bei OSAS
 = OSAS mit oft Adipositas, Hyperkapnie, Intubationsproblemen, postop.
-Überwachung 24h
+Überwachung 24 h
 
 Tympanoplastik Ind.
 Chron.
@@ -37,15 +37,15 @@ Kompl: Vagusreiz mit Bradykardie, Pneumothorax oder Luftembolie!!!, Chylusfistel
 TIVA!!! Oft nur kurze OP zur PE!, oft schlechter AZ der Patienten.
 Jet-Ventilation: high frequency 600/min (1,8bar)
 
-Laser in der HNO Laserarten: CO2 (Gaslaser, geringe Eindringtiefe), Neodym-YAG
+Laser in der HNO Laserarten: CO₂ (Gaslaser, geringe Eindringtiefe), Neodym-YAG
 (Festkörperlaser, 5-10mm), Argon-
 Laser (Gaslaser), Helium-Laser (Gasl.)
 =  Elektronen eines geeigneten Materials werden auf ein höheres Energieniveau gehoben, beim Rückfall werden Photonen freigesetzt. (elektro-magnetische Wellen)
-Vorteil: mm-genau, wenig Schwellung und Blutung, Koagulation kleiner Gefäße, Ng-YAG  über Fiberoptik lenkbar;  Nachteil: HNO ist O2 direkt beim Laser = Feuer! (Alkohol, Abdeckung,
+Vorteil: mm-genau, wenig Schwellung und Blutung, Koagulation kleiner Gefäße, Ng-YAG  über Fiberoptik lenkbar;  Nachteil: HNO ist O₂ direkt beim Laser = Feuer! (Alkohol, Abdeckung,
 Kunststoff, Gewebe brennt!)
 Atemweg: Lasertubus, normaler Tubus mit Schutz,
 Jet-Ventilation mit Kleinasser Rohr Schutzmaßnahmen: Lasertubus oder Umwicklung, Waser oder NaCl in Spritzen bereithalten,
-Kochsalztupfer auf die Augen, wenn´s brennt Tubus raus!, PEEP 5-10 (verhindert Eindringen heißer Gase), FIO2 ca. 30%, feuchte Tücher,
+Kochsalztupfer auf die Augen, wenn´s brennt Tubus raus!, PEEP 5-10 (verhindert Eindringen heißer Gase), FiO₂ ca. 30%, feuchte Tücher,
 Notfalltracheotomieset bereithalten.
 
 Mund-Kiefer-Chirurgie Häufig schwierige Intubation! Bei komplexen Frakturen ev. Tracheotomie, Intubation in Tracheotomiebereitschaft. Kein Zugang zum Kopf während der OP (Tubusfix, Augenschutz),

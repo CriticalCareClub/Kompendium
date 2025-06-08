@@ -21,8 +21,8 @@ Herdsuche (C/P, CT, Sono),...siehe SIRS
 
 Klinik: Fieber, Dysurie, Bakteriämie,...
 
-Keimnachweis:  \>105 koloniebildende Einheiten KBE/ml Urin + max. 2 verschiedene Keime ODER
-\>103 bei positivem Nitrit/Leukos im Harn Einwanderung  über Außenseite des HK, beim Ablassen verunreinigen durch Darmkeime durchs Personal.
+Keimnachweis:  \> 105 koloniebildende Einheiten KBE/ml Urin + max. 2 verschiedene Keime ODER
+\> 103 bei positivem Nitrit/Leukos im Harn Einwanderung  über Außenseite des HK, beim Ablassen verunreinigen durch Darmkeime durchs Personal.
 Therapie: HK-Wechsel (in 30-50% spontane Sanierung) ev. AB
 
 

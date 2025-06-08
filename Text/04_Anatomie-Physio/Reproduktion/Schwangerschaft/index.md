@@ -30,7 +30,7 @@ Die Schwangerschaft umfasst die Befruchtung der Eizelle, den Keimtransport in Ri
 
 ## Befruchtung
 
-Die Eizelle ist nach dem Eisprung ca. *12 bis 24h befruchtungsfähig*, die Spermien ca. *3 Tage*.
+Die Eizelle ist nach dem Eisprung ca. *12 bis 24 h befruchtungsfähig*, die Spermien ca. *3 Tage*.
 Die Spermien suchen die Eizellen aktiv auf.
 Von der Gebärmutter braucht das Spermium bis zur Ampulle des Eileiters ca. 1-3 Stunden (3 mm/h).
 Dabei werden die Spermien bereits von 200 - 300 Millionen auf 300 Spermien dezimiert.

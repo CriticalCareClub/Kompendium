@@ -1,13 +1,13 @@
 # Pulsoxymetrie
 
-Das optische Messprinzip basiert auf den Umstand, dass mit O2
-beladenes Hämoglobin, sogenanntes oxygeniertes Hämoglobin (HbO2), bei
+Das optische Messprinzip basiert auf den Umstand, dass mit O₂
+beladenes Hämoglobin, sogenanntes oxygeniertes Hämoglobin (HbO₂), bei
 optischen Wellenlängen einen deutlich anderen Absorptionsverlauf als
 desoxygeniertes Hämoglobin (Hb), also Hämoglobin dessen
-Transportplätze für O2 noch frei sind, aufweist. Bei größeren
+Transportplätze für O₂ noch frei sind, aufweist. Bei größeren
 Wellenlängen dreht sich dieses Verhalten ab ca. 800 nm aufwärts um:
 Bei ca. 900 nm, diese Wellenlänge entspricht unsichtbarer naher
-Infrarotstrahlung, ist die Absorption von HbO2 höher und die von Hb
+Infrarotstrahlung, ist die Absorption von HbO₂ höher und die von Hb
 geringer.
 
 Einfache, handelsübliche Pulsoxymeter messen die
@@ -56,14 +56,14 @@ Ein Finger-Pulsoxymeter
 :::
 
 Die so ermittelte Sauerstoffsättigung wird als fraktionelle
-Sauerstoffsättigung und mit SpO2 bezeichnet. Um den Messwert dieser
+Sauerstoffsättigung und mit SpO₂ bezeichnet. Um den Messwert dieser
 nichtinvasiven, photometrischen Bestimmung eindeutig von der an einer
 entnommenem Blutprobe mittels Blutgasanalyse ermittelten arteriellen
-Sauerstoffsättigung (SaO2) zu unterscheiden, deutet das p in dieser
+Sauerstoffsättigung (SaO₂) zu unterscheiden, deutet das p in dieser
 Bezeichnung auf das pulsoxymetrische Messverfahren hin. Es gilt
 folgender Zusammenhang:
 
-> {{ SpO2 }} = Hb{{ O2 }} /  (Hb{{ O2 }} + Hb)
+> {{ SpO₂ }} = Hb{{ O₂ }} /  (Hb{{ O₂ }} + Hb)
 
 Anhand eines Vergleichs des Messergebnisses mit einer Referenztabelle
 ermittelt die Auswerteelektronik im Pulsoxymeter, welcher prozentuale

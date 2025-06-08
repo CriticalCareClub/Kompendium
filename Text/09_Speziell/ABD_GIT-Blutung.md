@@ -104,11 +104,11 @@ Prävention der ersten Blutung bzw. Reblutung:
 Therapie der ersten ÖVB vor der Akut-Endoskopie:
 - Volumentherapie bis zur Normovolämie (Hämodynamisch ähnlich Sepsis)
 - Hämodynamische Stabilisierung mit RRsyst \< 130!  , EK´s Ziel Hb 7-8;
-- Gerinnungskorrektur bei PTZ\<30%, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
+- Gerinnungskorrektur bei PTZ\< 30%, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
 - Terlipressin 2 mg iv. als Bolus gleich bei Verdachtsdiagnose ÖVB, danach für 5 Tage alle 4 h 1-2 mg iv.
 Ausnahme: bei schwerer KHK, COPD, Asthma, Herzrhythmusstörungen, paVK, wird ein Somatostatin Perfusor empfohlen.
 - Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage (Patienten sterben meist an einer Infektion!)
-- Gerinnungstherapie: PTZ \>50, ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
+- Gerinnungstherapie: PTZ > 50, ATIII \> 75 Thrombos \> 50000 = Beriplex + ATIII+TK
 - Erythromycin 250 mg iv (Prokinetikum) = klare Sicht
 - 80 mg Pantoloc iv, dann Perfusor 2 ml/h (200 mg auf 50 ml) Endoskopische Therapie: Notfalls ÖGD (Banding) Interventioelle Radiologie: Embolisation des blutenden Gefäß
 Wenn kein Blutungsstillstand: Denis Stent und TIPS

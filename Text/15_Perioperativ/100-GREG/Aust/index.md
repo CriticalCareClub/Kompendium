@@ -163,7 +163,7 @@ Kaudalblock siehe Kinderanästhesie!
 ### 5.3.2 . Periphere Nervenblockaden:
 
 Nervenstimulator
-: ideal  \<0,5 aber  \>  0,3mA, keine Injektion bei motorischer Antwort  \<0,2mA!
+: ideal  \< 0,5 aber  \>  0,3mA, keine Injektion bei motorischer Antwort  \< 0,2mA!
 
 Keine Injektion gegen Widerstand, Schmerz -- neu positionieren, Pat. wach!! Stromstärke 0-1mA,
 Impulsdauer 0,1-1ms, Frequenz 1-2Hz.

@@ -56,18 +56,18 @@ Blutversorgung des Darms = 20-30% des HZV:
 - Arteria mesenterica inferior: 2/3 Transversum, Sigma, Rectum, Ampulla recti., Anastomose zur A. Mesenterica sup.
 
 Postprandial steigt der Blutfluss in der Arteria mesenterica superior auf das 3 fache an! 2/3 davon in SH und Submukosa! Bei z.B. kardiogenem Schock ist die Zottenernährung bereits eine Überforderung des Darms mit Nekrosenbildung an den Zottenspitzen und Laktatanstieg, daher Ernährung pausieren!
-Die Schere zwischen VO2 und DO2 geht beim Darm viel schneller auseinander als im gesamten Körper. Auch nach Wiederherstellung des Volumenstatus brauch die Splanchnikusdurchblutung einige Stunden um sich vollkommen zu erholen.
+Die Schere zwischen VO₂ und DO₂ geht beim Darm viel schneller auseinander als im gesamten Körper. Auch nach Wiederherstellung des Volumenstatus brauch die Splanchnikusdurchblutung einige Stunden um sich vollkommen zu erholen.
 Ein MAP von ca. 65mmHg wäre optimal. Bereits pflegerische Tätigkeiten, wie z.B. Absaugen, verursachen Stress beim Patienten mit einer Verschlechterung der Splanchnikusdurchblutung.
 
 Ursachen für verminderte Splanchnikusdurchblutung:
 - Hypotonie und Hypovolämie
-- Beatmung mit PEEP\>10, positiv pressure Ventilation
+- Beatmung mit PEEP\> 10, positiv pressure Ventilation
 - Rekruitmentmanöver mit Inspirationsdrücken \> 40mbar
 - IABP
 - Katecholamine: Noradrenalin steigert den Perfusionsdruck Die Leber wird bevorzugt durchblutet. Die SH des Darms ist bereits bei normalen Bedingungen gefährdet. Vom HZV kann NICHT auf die Splanchnikusdurchblutung geschlossen werden!
 Die Splanchnikusdurchblutung kann auch nicht selektiv gesteigert werden, daher muss versucht werden eine iatrogene Schädigung zu verhindern:
 
-Perfusionsverbesserung: Hypovolämie vermeiden, DO2-Angebot verbessern (Hb, HZV, Perfusionsdruck), kritischer Einsatz von α-adrenergen Substanzen, va.
+Perfusionsverbesserung: Hypovolämie vermeiden, DO₂-Angebot verbessern (Hb, HZV, Perfusionsdruck), kritischer Einsatz von α-adrenergen Substanzen, va.
 Noradrenalin.
 Erhaltung der gastrointestinalen Integrität durch frühe, gemäßigte enterale Ernährung (Zottenernährung), Immunnutrition mit
 Ω-3-Fettsäuren (antiinflammatorisch), Selen (Antioxidans), Glutamin schützt vor SH-Atrophie und damit vor bakterieller Translokation.
@@ -77,7 +77,7 @@ Erhaltung der gastrointestinalen Integrität durch frühe, gemäßigte enterale 
 
 In 85%  A. mesenterica superior durch kardiale Embolie, akute Thrombose oder Mesenterialvenenthrombose.
 Mortalität 50-80% bei arteriellem Verschluss.
-Klinik: plötzlicher Schmerz mit Übelkeit und Erbrechen, blutig schaumige Durchfälle 0-6h, danach stilles Intervall (7-12h) mit dumpfen Schmerzen und blutigen Durchfällen mit beginnender Paralyse. Phase III (12-48h) transmuraler Mesenterialinfarkt mit AZ-Verschlechterung, Peritonitis, Schock.
+Klinik: plötzlicher Schmerz mit Übelkeit und Erbrechen, blutig schaumige Durchfälle 0-6h, danach stilles Intervall (7-12h) mit dumpfen Schmerzen und blutigen Durchfällen mit beginnender Paralyse. Phase III (12-48 h) transmuraler Mesenterialinfarkt mit AZ-Verschlechterung, Peritonitis, Schock.
 
 Diagnose: Anamnese, Angio-CT, Labor Spätzeichen: Leukozytose, Laktatanstieg mit metabolischer Azidose.
 Therapie: OP, Katheterembolektomie

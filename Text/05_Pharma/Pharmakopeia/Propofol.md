@@ -113,9 +113,9 @@ TIVA
 Nebenwirkung
 : Abnahme von MAP, CO, SVR (Vasodilatation, vermind. SVR, neg. inotrop, vermindert Barorezeptorenreflex), HF unverändert oder Bradykardie bis AV-Block sind möglich.
 
-  Apnoe (\>60sec) nach AN-Einleitung durch Verminderten Atemantrieb auf Hypoxie und CO2, setzt die Reaktivität der Atemwege (Husten, Glottisschluss) herab.
+  Apnoe (\> 60sec) nach AN-Einleitung durch Verminderten Atemantrieb auf Hypoxie und CO₂, setzt die Reaktivität der Atemwege (Husten, Glottisschluss) herab.
 
-  Propofolinfusionssyndrom siehe KINDER! (\> 48h Sed mit \>5 mg / kg / h + \> 5h Narkose)
+  Propofolinfusionssyndrom siehe KINDER! (\> 48 h Sed mit > 5 mg / kg / h + \> 5h Narkose)
 
   Es wirkt antiemetisch, daher Einsatz bei PONV.
 
@@ -145,16 +145,16 @@ Narkosetiefe Unzuverlässige Zeichen: Blutdruck und HF, Somatische Zeichen (Trä
 <!-- 18.  -->
 
 1% Propofol ist zugelassen für Narkose \> 1Monat, und Sedierung IBS
-\>16Lj 2% Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj
+\> 16Lj 2% Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj
 
 Ursache: Störung der Fettsäureoxydation durch Entkoppelung der Atmungskette mit mangelnder Bereitstellung von ATP, mit Zelluntergang bei erhöhtem Energiebedarf = Muskelzellnekrosen mit Laktatazidose. Letalität bis 85%
 
-Risikofaktoren: Hochdosierte (\>  5 mg / kg / h) Langzeitsedierung (\>48h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
+Risikofaktoren: Hochdosierte (\>  5 mg / kg / h) Langzeitsedierung (\> 48 h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
 
 
 Klinik:
 - Herz-Kreislauf-Störungen: therapierefraktäre Bradykardie bis Asystolie, besonders bei Kindern, bei Erwachsenen eher VT und Kammerflimmern. Hypotonie durch vermindertes Preload und Sympatikolyse.
-- Metabolische Azidose mit Laktatanstieg als Frühmarker bei 90%! Negativer BE \>10
+- Metabolische Azidose mit Laktatanstieg als Frühmarker bei 90%! Negativer BE > 10
 - Rhabdomyolyse mit CK-Erhöhung
 - Lebervergrößerung/steatose mit Transaminasenanstieg, Hypertriglyzeridämie(Frühzeichen?)
 - CRUSH-Niere (progred. NV durch Rhabdomyolyse und Minderperfusion) mit Myoglobinurie
@@ -173,7 +173,7 @@ Therapie:
 
 
 Prävention:
-- Keine Langzeitsedierung Schwerkranker  über 48h mit Propofol in höherer Dosis (\>4-6 mg / kg / h)
+- Keine Langzeitsedierung Schwerkranker  über 48 h mit Propofol in höherer Dosis (\> 4-6 mg / kg / h)
 - Maximal 7 Tage Langzeitsedierung für alle Patienten mit max. 4 mg / kg / h
 - Keine Langzeitsedierung von Kindern unter 17 Jahren.
 - Regelmäßige Laborkontrollen

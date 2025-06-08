@@ -109,7 +109,7 @@ Eine **Liquor-Untersuchung**, **Notfall-MRT** (Ausschluss eines spinalen oder ep
 - Geburtshilfe
 
 **Verlauf:**
-- 75% fulminant (< 24h), 25% eher verzögert
+- 75% fulminant (< 24 h), 25% eher verzögert
 - typischer progredienter Verlauf
 - spinaler Schmerz bei Blutungsbeginn (oft verschleiert)
 - sensorische, motorische Ausfälle (untere Extremität)

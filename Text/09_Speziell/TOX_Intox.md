@@ -8,7 +8,7 @@ Intoxikationen
 
 Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →
 Koma.
-=  Sedierung mit Herabgesetzter Sensitivität der Chemorezeptoren auf CO2 und O2 mit Bradypnoe.
+=  Sedierung mit Herabgesetzter Sensitivität der Chemorezeptoren auf CO₂ und O₂ mit Bradypnoe.
 Klinik: Atemdepression/Bradypnoe  \<  10/min OHNE Dyspnoe, Sedierung bis Koma, Miosis („Sticks"), Hypotonie, Bradykardie, Harnverhalt Therapie: Naloxon (1 Ampulle sind 0,4 mg) nach Atemfrequenz titriert AF \> 10 nicht nötig! Cave:
 Entzugssymtomatik mit Gefahr des Entzug-GM-Anfalls , max.
 2 Ampullen geben!
@@ -81,9 +81,9 @@ Paracetamolintoxikation
 
 
 Verlaufsphasen:
-- Phase I: 12-24h, Übelkeit, Erbrechen, Bauchkrämpfe, Appetitlosigkeit
-- Phase II: 24-48h, Latenzphase mit relativem Wohlbefinden
-- Phase III: \>48h Schmerzen rechter OB, LFP-anstieg, Gerinnungseinbruch
+- Phase I: 12-24 h, Übelkeit, Erbrechen, Bauchkrämpfe, Appetitlosigkeit
+- Phase II: 24-48 h, Latenzphase mit relativem Wohlbefinden
+- Phase III: > 48 h Schmerzen rechter OB, LFP-anstieg, Gerinnungseinbruch
 - Phase IV: 3-5 Tag, ALV mit Ikterus, HE, Hypoglykämie, ANV
 
 
@@ -100,24 +100,24 @@ Klinik: Bewusstseinstrübung, Koma, Krämpfe, Hypotension, Brady/Tachykardie,  �
 Therapie: symptomatisch CAVE: Parkemed/Mefenaminsäure: ab 10 g = 20 Tabletten Krampfanfälle! (häufig suizidal Mädchen)
 
 CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
-=  240 x höhere Affinität zu Hb als O2 (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;
+=  240 x höhere Affinität zu Hb als O₂ (Komplexbindung mit Fe); Toxizität von Luftkonzentration abhängig und Expositionsdauer;
 
 
 Klinik: Müdigkeit, Brechreiz, Kopfschmerz, Benommenheit, Somnolenz, Koma, Krämpfe, Hypotension, MCI, ARDS, Basalganglienschädigung, Azidose. Chron.
 Schädigung Schwerhörigkeit.
-CO-Hb 20% kardiotoxisch, 40% Koma, \>50% Atemlähmung.
+CO-Hb 20% kardiotoxisch, 40% Koma, > 50% Atemlähmung.
 
 
 Therapie: Sauerstoff!!! PEEP! HBO (Hyperbare Oxygenierung ab 30% in Grazer Druckkammer)
 
-CO2-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere Dichte als Luft)
+CO₂-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere Dichte als Luft)
 = Ersticken im Gärgas-See, Atemdepression durch Hyperkapnie, Tachykardie, Hypertonie Therapie: Sauerstoff!!
 
 
 
 
 
-Rauchgasvergiftung (Stickstoff, CO2, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ) Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FIO2 Beatmung
+Rauchgasvergiftung (Stickstoff, CO₂, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ) Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FiO₂ Beatmung
 
 Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 

@@ -5,7 +5,7 @@ Schmerz während der Geburt:
 - Eröffnungsphase: TH10-L1 Uteruskontraktion, L2-S3 Druck im Becken = visceral, marklose C-Fasern, dumpf bohrend
 - Austreibungsphase: S2-S4 N. pudendus = somatisch, myelin. A-delta-Fasern, stechend, brennend, ziehend 
 
-Schmerz steigert den O2-Verbrauch -- Hyperventilation -- respir. Alkalose -- Linksverschiebung O2-Dissoziationskurve -- erschwerte O2-Abgabe -- fetale Hypoxie -- fetale Azidose.
+Schmerz steigert den O₂-Verbrauch -- Hyperventilation -- respir. Alkalose -- Linksverschiebung O₂-Dissoziationskurve -- erschwerte O₂-Abgabe -- fetale Hypoxie -- fetale Azidose.
 
 Fetale Bradykardie \< 100/min (Asphyxie \< 60/min)
 
@@ -39,7 +39,7 @@ Auswirkung der PDA auf den Geburtsverlauf
 
 Ursache des verkleinerten Epiduralraum bei Gebärenden
 : - Venenstauung: durch erhöhtem IAP und Kompression durch den Uterus ist der vertebrale Venenplexus und die Epiduralvenen vermehrt gefüllt
-  - Extraduraler Druck ist während der Geburt erhöht. Normal sind  -1cm H2O. In der Eröffnungsphase sind 4 bis 10 cm H2O, in der Austreibungsphase bis 60 cm H2O 
+  - Extraduraler Druck ist während der Geburt erhöht. Normal sind  -1cm H₂O. In der Eröffnungsphase sind 4 bis 10 cm H₂O, in der Austreibungsphase bis 60 cm H₂O 
   
   Folge bei PDA: 
   - Die LA breiten sich schneller aus und die Blockadenhöhe ist extensiver. 
@@ -48,7 +48,7 @@ Ursache des verkleinerten Epiduralraum bei Gebärenden
 
 Was tun wenn PDK irrtümlich intrathekal liegt?
 : Im Zweifelsfall Liquortest mit positivem Zucker!
-  24h belassen: Eventuell 1-2 ml Naropin 0,1% Bolus und danach 1 ml/h kontinuierlich für Geburt.
+  24 h belassen: Eventuell 1-2 ml Naropin 0,1% Bolus und danach 1 ml/h kontinuierlich für Geburt.
   Engmaschige Blutdruck und Herzfrequenzüberwachung,
   Pulsoxy, Kein Duschen!
 

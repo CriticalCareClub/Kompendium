@@ -261,7 +261,7 @@ Auf diesen Stufen basiert auch die Therapie:
 |          |          |          |          | Glukokor |          |
 |          |          |          |          | tikoiden |          |
 +----------+----------+----------+----------+----------+----------+
-| **4**    | Th 0     | Th 1     | Th 2     | Th 3     | O2-L     |
+| **4**    | Th 0     | Th 1     | Th 2     | Th 3     | O₂-L     |
 | (**sehr  |          |          |          |          | angzeitt |
 | s        |          |          |          |          | herapie, |
 | chwer**, |          |          |          |          | chir     |

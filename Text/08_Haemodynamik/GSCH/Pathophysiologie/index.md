@@ -190,7 +190,7 @@ Eine Übersicht über typische Schocksymptome bietet Tafel {ref}`Tafel-Schocksym
     - Haut blass, evtl. kaltschweißig
     - Venen sind kollabiert oder gestaut
     - Peripherie schlecht durchblutet, Rekapzeit erhöht
-    - Oligurie (\<0,5 ml / h / kg KG)
+    - Oligurie (\< 0,5 ml / h / kg KG)
 - - **Schwerer Schock – Vollbild**
   - - Tachykardie (HF ↑, "fliehender" Puls)
     - RR-Abfall

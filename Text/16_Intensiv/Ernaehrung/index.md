@@ -1,7 +1,7 @@
 # 37.1. Ernährung *
 
-Bei Patienten die nicht selbst essen können, sollte innerhalb von 24h nach ICU Aufnahme mit der Ernährung begonnen werden, wenn keine  KI  vorliegen (Schock, instabile Erkrankungsphase,
-Laktat  \>3, paO2\<50 Azidose pH\<7,2 Hyperkapnie paCO2\>75 (ausgen. Perm. Hyperk.), ethische
+Bei Patienten die nicht selbst essen können, sollte innerhalb von 24 h nach ICU Aufnahme mit der Ernährung begonnen werden, wenn keine  KI  vorliegen (Schock, instabile Erkrankungsphase,
+Laktat  \> 3, paO₂\< 50 Azidose pH\< 7,2 Hyperkapnie paCO₂\> 75 (ausgen. Perm. Hyperk.), ethische
 Überlegungen Therapieende (sterben lassen).
 
 Risiken: Aspirationspneumonie, Gastroparese mit Erbrechen.
@@ -17,10 +17,10 @@ Je nach Schwere der Erkrankung und vorbestehender Mangelernährung sollte am 2-5
 Faustregel: immobile Patienten 20-25kcal/KG + mobile Patienten 25-35kcal/kg
 :::
 
-Bei BMI\>30 wird auf das Normalgewicht, während bei untergewichtigen Personen aufs tatsächliche Gewicht Bezug genommen wird. Ein erhöhter Proteinbedarf besteht bei chronisch entzündlichen Darmerkrankungen, schwerer Pankreatitis, Leberzirrhose, Verbrennungen und postoperativ.
+Bei BMI\> 30 wird auf das Normalgewicht, während bei untergewichtigen Personen aufs tatsächliche Gewicht Bezug genommen wird. Ein erhöhter Proteinbedarf besteht bei chronisch entzündlichen Darmerkrankungen, schwerer Pankreatitis, Leberzirrhose, Verbrennungen und postoperativ.
 Erhöhter Bedarf bei:
 x 1,2 bei Sepsis, Peritonitis Polytrauma, Verbrennung Reduzierung bei:
-Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\>30 mg/dl/d  +
+Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\> 30 mg/dl/d  +
 Hypertriglyceridämie \> 350 mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
 Eiweiß
 
@@ -36,7 +36,7 @@ Nahrungskarenz
 Daher Zottenernährung: 20 ml/h
 
 Fett: (1 g = 9,3kcal) Abbau von FS durch β-Oxidation in den Mitochondrien va in der Leber, freie FS
--- Acyl-CoA -- Acetyl-CoA -- Citratzyklus zu CO2+ATP + Überschuss zu Ketonkörper Fettsäuresynthese in der Leber im Zytoplasma: wichtigste Vorstufe ist Glucose (aber auch AS) mit Hilfe von FS-Synthase unter CO2-Produktion zu Tricylglycerolen umgewandelt und als VLDL
+-- Acyl-CoA -- Acetyl-CoA -- Citratzyklus zu CO₂+ATP + Überschuss zu Ketonkörper Fettsäuresynthese in der Leber im Zytoplasma: wichtigste Vorstufe ist Glucose (aber auch AS) mit Hilfe von FS-Synthase unter CO₂-Produktion zu Tricylglycerolen umgewandelt und als VLDL
 (Lipoproteine) ins Blut freigesetzt.
 KH: 1 g = (4 kcal) Darm zu Monosaccariden abgebaut und resorbiert, Transportform Glucose,
 Abbau von Leberglycogen zur Aufrechterhaltung des Blutzuckerspiegels und Gluconeogenese in der Leber (Aus AS, Lactat, Glycerol)
@@ -57,7 +57,7 @@ In der Praxis werden nur 50-70%  der verordneten Menge gegeben, weil erhöhte Re
 Ernährungsprotokoll empfohlen.
 
 Restmengen 1-2x tgl bestimmen: def. Ernährungspause vor Bestimmung, ab welchen Mengen EN reduziert oder gestoppt?  PEG-Sonde nötig?  Am besten zw. 6h und 10 Uhr Ernährungspause,
-Vorteil bei Pflege kein Erbrechen; Vor Extubation Ernährung abdrehen und Magen absaugen (RM nach 2h) RM\<500 ml o.B. \>500 ml Zufuhr reduzieren Gastroparese.
+Vorteil bei Pflege kein Erbrechen; Vor Extubation Ernährung abdrehen und Magen absaugen (RM nach 2h) RM\< 500 ml o.B. > 500 ml Zufuhr reduzieren Gastroparese.
 BZ: Zielbereich 110-150 mg/dl, Ziel homogener Verlauf Prokinetika geben!
 Medikamente wenn möglich iv. lassen: Störung der Arzneimittelresorption durch Nahrung z.B.
 Furosemid, SD-Hormone,...
@@ -77,7 +77,7 @@ Tachyphylaxie!!
 100 mg iv.
 max.
 3 Tage wegen Tachyphylaxie/Rezeptordownregulation + QT-Verlängerung mit malignen Arrhythmien.
-- Neostigmin 0,5-1 mg/d, höhere Dosis hemmt die Motilität (Acetylcholinesterasehemmer, KI bei Bradykardie, Hypotonie, Bronchospasmus, Krea \>3, Va.
+- Neostigmin 0,5-1 mg/d, höhere Dosis hemmt die Motilität (Acetylcholinesterasehemmer, KI bei Bradykardie, Hypotonie, Bronchospasmus, Krea > 3, Va.
 Perforation)
 - Prucaloprid, hochselektiver 5HT4Rezeptor Agonist ohne arrhythmogene NW, steigert Motilität und Transitzeit des Colon.
 
@@ -94,7 +94,7 @@ Komplikationen: intraluminale Flüssigkeitszunahme mit verstärkter Gasbildung m
 
 ## 37.4. Gastroparese *
 
-Ursachen: postoperativer Ileus (\>50%  postop), SHT (\>60%), Verbrennung, Schwangerschaft,
+Ursachen: postoperativer Ileus (\> 50%  postop), SHT (\> 60%), Verbrennung, Schwangerschaft,
 Opiate, Clonidin, Katecholamine, Betablocker, DM (häufig va. NIDDM), CNI, Gastroösophagealer Reflux, SLE, Muskeldystrophie Duchenne, ....
 Klinik: erhöhte RM, Völlegefühl,
 Aufstoßen, Übelkeit, Erbrechen,...
@@ -108,7 +108,7 @@ Schwere Motilitätsstörungen findet man bei Splanchnikusminderperfusion und abd
 
 Unterstützende Therapieoptionen: Laxantien (osmotische L. wie Mg, Lactulose, Sorbit),
 Opioidrezeptor Antagonisten, Einläufe/Klysmol (cave Phosphatanstieg) Microklist phosphatfrei auch für CNI geeignet. Gastrografin 1 x 60-100 ml p.o.,
-Dulcolax Supp. (setzt CO2 frei und erregt so die Dehnungsrezeptoren, sehr schonend!) Dampfwickel.
+Dulcolax Supp. (setzt CO₂ frei und erregt so die Dehnungsrezeptoren, sehr schonend!) Dampfwickel.
 
 Dunbar-Syndrom: junge Patienten mit rezidivierender Gastroparese durch Kompression des Truncus coeliacus durch das Ligamentum arcuatum mediale des Zwerchfells;
 Diagnose: Duplexsonographie

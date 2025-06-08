@@ -245,7 +245,7 @@ Therapie:
 - Schleifendiuretika auf kaliumsparende Diuretika (Aldactone) umstellen.
 
 Hyperkaliämie
-\>5,5mval/l, ab \> 6,6mval/L lebensbedrohlich (tödlich \> 10)
+\> 5,5mval/l, ab \> 6,6mval/L lebensbedrohlich (tödlich \> 10)
 Ursachen:
 - Exzessive Freisetzung aus intrazellulären Speichern: Myolyse, Hämolyse, Katabolie, Thrombozytose, Lysthenon, Kompartmentsyndrom, Rhabdomyolyse.
 - Ausscheidungsstörung: Nierenversagen, mineralkortikoid Wirkung
@@ -267,7 +267,7 @@ Therapie:
 - Kationentauscher p.o./Einlauf (Resonium)
 
 Hypokalziämie
-\< 2,2mmol/l bzw. ionisierter Teil \<0,9mmol/l Ursachen:
+\< 2,2mmol/l bzw. ionisierter Teil < 0,9mmol/l Ursachen:
 - Massivtransfusionen (Citrat!)
 - HLM
 - Hypothermie
@@ -280,7 +280,7 @@ Klinik:
 - Ca2+ -Glukonat
 
 Hyperkalziämie
-\>2,6mmol/l oder ionisierter Anteil \>1,6mmol/l Ursachen:
+\> 2,6mmol/l oder ionisierter Anteil > 1,6mmol/l Ursachen:
 Hyperparathyreoidismus, VitaminD-Intoxikation, erhöhter Knochenabbau, paraneoplastisch, Sarkoidose, Hyperthyreose, iatrogene Hyperkalzämie
 
 
@@ -291,7 +291,7 @@ Klinik: Verwirrtheit, Psychosen, Muskelschwäche, Polyurie, Nephrokalzinose, NI,
 
 
 Hyponatriämie
-\<135mval/l Ursachen:
+\< 135mval/l Ursachen:
 - TURB-Syndrom, postoperativ (va. Kinder nach WS-OP), SIADH (perioperativer Stress, Schmerzen, Pharmaka (Morphinsulfat), Erbrechen, SHT, Cerebral salt waste Syndrom Klinik:
 Verwirrt, Unruhe, Desorientiert, Bewusstseinsstörungen bis Koma, Krämpfe durch Hirnödem va.
 bei raschem Abfall, Lungenödem,...
@@ -301,7 +301,7 @@ Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe un
 
 
 Hypernatriämie
-\>145mval/l, Serum Osmolarität erhöht \> 320-330mosmol/l, intrazell. Volumen vermindert Ursachen:
+\> 145mval/l, Serum Osmolarität erhöht \> 320-330mosmol/l, intrazell. Volumen vermindert Ursachen:
 Verlust an freiem Wasser größer als Zufuhr, exzessive Wasserdiurese, Diabetes insipidus, polyurisches Nierenversagen, ausgeprägte Perspiratio insensibilis, nach Verbrennungen, Gabe von natriumhaltigen Medikamenten (Penicillin, NaBIC)
 Klinik:
 Unruhe, Schwäche, Verwirrtheit, trockene SH mit Durstgefühl, Therapie:

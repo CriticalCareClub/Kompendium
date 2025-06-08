@@ -38,7 +38,7 @@ Die Ursachen sind nicht vollständig geklärt.
 Die EPH-Gestose ist charakterisiert durch:
 
 > **E**dema: Ödeme generalisiert (jedoch Vorkommen bei 80% der SS)
-> **P**roteinuria: Proteinurie \> 0,3g/l pro 24h mit Hypoproteinämie (Albuminmangel)
+> **P**roteinuria: Proteinurie \> 0,3g/l pro 24 h mit Hypoproteinämie (Albuminmangel)
 > **H**ypertension: Hypertonie als Leitsymptom mit RR \> 190/90 mmHg mit Gefahr von cerebralen Blutungen, cerebralen Spasmen mit Krampfanfällen = Eklampsie 
 
 Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*

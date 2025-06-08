@@ -295,7 +295,7 @@ Es muss betont werden, dass eine verlässliche Vorhersage nicht möglich ist und
 :::
 ::::
 
-Als *Ertrinken* wird der Tod in den ersten 24h nach einem Ertrinkungsunfall bezeichnet; ansonsten besteht ein
+Als *Ertrinken* wird der Tod in den ersten 24 h nach einem Ertrinkungsunfall bezeichnet; ansonsten besteht ein
 {dfn}`Beinahe-Ertrinken`{index}` <Beinahe-Ertrinken>`.
 Kleinkinder sind besonders gefährdet, da sie meist nicht schwimmen können und sich oft schnell und unbemerkt der Aufmerksamkeit der Aufsichtsperson entziehen. Besonders ungesicherte Gartenteiche, Seen, Schwimmbecken, Badeanstalten oder auch Wannenbäder stellen eine Gefahrenquelle im Alltag dar.
 

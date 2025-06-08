@@ -12,8 +12,8 @@ Prävention: Saal aufheizen, Kopf wärmen, so kurz wie nötig abdecken, warme In
 
 ## 17.1. Flüssigkeitsmanagement: *
 
-Erhaltungsbedarf: 4 ml/kg 1-10 kg + 2 ml/kg 10-20 kg+1 ml/kg\>20 kg nach Holliday und Segar
-- NG 48h + FG: 10% Glucose 2-3 ml/kg / h
+Erhaltungsbedarf: 4 ml/kg 1-10 kg + 2 ml/kg 10-20 kg+1 ml/kg\> 20 kg nach Holliday und Segar
+- NG 48 h + FG: 10% Glucose 2-3 ml/kg / h
 - \< 6 Monate Vollelektrolytlösungen mit 1 % Glucose
 - Na + BZ-Kontrollen intra-  und postopertiv! Ein besonders hohes Risiko einer Hypoglykämie haben Kinder, welche präoperativ parenteral ernährt wurden, KG  \<  3 kg, OP  \>  3h, daher stündliche BZ-Kontrollen!
 - \> 6 Monate isotone Lsg (Elomel)
@@ -36,8 +36,8 @@ Kinder bei klarem Bewusstsein dürfen(wenn kein Einwand vom Operateur) sofort na
 
 Transfusionsindikation:
 normal 80 ml/kg Blutvolumen; Blutverluste sollen sofort mit isotonen kristalloiden oder kolloiden Lösungen ausgeglichen werden. Eine EK-Gabe soll beim gesunden Kind, ohne weitere Blutung, erst \< 25HK erwogen werden.
-- NG Hb\<13, 2 Monate Hb\<8, \>2Monate Hb\<7 = ca. HK 25, ab 2 Lj.
-Hk\<6 g/dl
+- NG Hb\< 13, 2 Monate Hb\< 8, > 2Monate Hb\< 7 = ca. HK 25, ab 2 Lj.
+Hk\< 6 g/dl
 - 3 ml/kg Erythrozytenkonzentrat hebt den Hb um 1 g / dl!
 - Säuglinge erhalten bestrahlte Ery im Babybeutel zu 50 ml.
 
@@ -46,9 +46,9 @@ Gerinnungsmanagement:
 EK 10 ml/kg, TK 10 ml/kg,    Faktorengabe, Ca, FFP 10 ml/kg, Temperatur!, Cyclokapron, Novo7 90 µg / kg, Beriplex 1IE/kg hebt PTZ um 1
 ## 17.2. Atemwegsmanagement: *
 
-Anatomische Besonderheiten: kurze (ca. 4cm) und enge Trachea (Ödem!), Ringknorpel engste Stelle, gleichwinkelige Bronchienabgänge (einseitige IT bds. möglich), U-förmige und lange Epiglottis, große Zunge, hyperplastische Tonsillen, Adenoide, verminderte FRC mit erhöhtem O2-
+Anatomische Besonderheiten: kurze (ca. 4cm) und enge Trachea (Ödem!), Ringknorpel engste Stelle, gleichwinkelige Bronchienabgänge (einseitige IT bds. möglich), U-förmige und lange Epiglottis, große Zunge, hyperplastische Tonsillen, Adenoide, verminderte FRC mit erhöhtem O₂-
 Verbrauch (6 ml/kg / min) mit kurzer Apnoe-Toleranz. Beim Säugling großes Abdomen mit kleiner Lunge (immer Magensonde zur Entlastung!) und unreife Atemmuskulatur. Atelektasen bilden sich schneller.
-FIO2: frühzeitig reduzieren: paO2 SGL 50-70, Kleinkind 60-80 mmHg!!!
+FiO₂: frühzeitig reduzieren: paO₂ SGL 50-70, Kleinkind 60-80 mmHg!!!
 Wendeltubus: Länge von der Nase bis zum Tragus abmessen!
 Ursachen des schwierigen Atemwegs:
 Supraglottisch: FK, Mißbildungen, Blut, große Zunge =  Kopflagerung korregieren, Guedel-Tubus, Blut absaugen, ETT nasal, LMA, LT Glottisch: Laryngospasmus, FK, TU, Epiglottitis (inspiratorischer Stridor, Heiserkeit), weiche Epiglottis = dünner Tubus mit Eschmannkatheter/Cookstab, ETT nasal mit chir. Standby! Weiche Epiglottis kann mit PEEP offengehalten werden!
@@ -58,11 +58,11 @@ Intubation: Tubus \> 1a
 = Alter/4+4 Intubationstiefe oral: Alter/2+12cm (nasal +2-3cm)
 - NG: HF 120-170, RRsyst 60-80, AF 40-60, Tubus 3,5, nasal 11-12cm
 - 12Monate: HF 100-150, RRsyst 70-110, AF 25-40, Tubus 4,0 bei 14cm nasal, LMA 1 ½
-- 4Jahre: HF 80-130, RRsyst\>90, AF 20-30, Tubus 5 bei 14cm oral, LMA 2.
+- 4Jahre: HF 80-130, RRsyst\> 90, AF 20-30, Tubus 5 bei 14cm oral, LMA 2.
 (10 -- 20 kg KG)
-- 8Jahre: HF 70-110, RRsyst\>90+Alter x 2, AF 20-25, Tubus 6 bei 16cm oral, LMA 2 ½ (20 -- 30 kgKG)
+- 8Jahre: HF 70-110, RRsyst\> 90+Alter x 2, AF 20-25, Tubus 6 bei 16cm oral, LMA 2 ½ (20 -- 30 kgKG)
 Gerader Spatel bei Kindern ohne Zähne, orale IT bei kurzen Eingriffen, Notfällen und hohem Aspirationsrisiko.
-- PEEP 3 \<3 kg, 4 3-10 kg, 5 \>10 kg Gecuffter versus ungecuffter Tubus: Nur noch Microcuff-Tuben oder ungecuffte T. verwenden!
+- PEEP 3 < 3 kg, 4 3-10 kg, 5 > 10 kg Gecuffter versus ungecuffter Tubus: Nur noch Microcuff-Tuben oder ungecuffte T. verwenden!
 Vorteil mit Cuff: Atemsystem dichter, bessere Fixierung, weniger umintubieren nötig Nachteil ungecufft: immer Leckage, Monitor zeigt mir nicht was ins Kind hineinkommt.
 Tubus immer gut fixieren und Kopf stabil lagern (rasche Extubation bei Reklination, zu tiefe Intubation bei Inkination)
 
@@ -76,10 +76,10 @@ Komplikationen der LM: postoperatives obstruktives Lungenödem, Laryngospasmus b
 ## 17.3. Laryngospasmus *
 
 mit typischer Schaukelatmung wenn das Kind versucht gegen die geschlossene Glottis zu atmen:
-Maske mit hohem Flow 100%  FIO2 anhalten ohne Beatmungsversuch! Esmarch Handgriff:
+Maske mit hohem Flow 100%  FiO₂ anhalten ohne Beatmungsversuch! Esmarch Handgriff:
 Unterkiefer kräftig nach vorne und Kopf überstrecken / Narkose vertiefen ev. Lysthenon 2 mg / kg iv oder intramuskulär in die Zunge, KEIN Intubationsversuch! Höheres Risiko 3-4 Wochen nach respiratorischem Infekt!! (Nicht direkt danach)
 Subglottisch: Weiche Trachea, FK, Bronchospasmus ist kein Intubationsproblem, sondern ein Beatmungsproblem!
-Intubierte NG müssen immer beatmet werden. Intubierte Kleinkinder nie ohne Druckunterstützung spontan atmen lassen! Kinder kompensieren nur über die Atemfrequenz und erschöpfen sich rasch! Ehemalige Frühgeborene haben ein erhöhtes postoperatives Apnoerisiko, va. bei Anämie, und müssen 24h postoperativ überwacht werden. Traumatisierte Kinder sind nie nüchtern!
+Intubierte NG müssen immer beatmet werden. Intubierte Kleinkinder nie ohne Druckunterstützung spontan atmen lassen! Kinder kompensieren nur über die Atemfrequenz und erschöpfen sich rasch! Ehemalige Frühgeborene haben ein erhöhtes postoperatives Apnoerisiko, va. bei Anämie, und müssen 24 h postoperativ überwacht werden. Traumatisierte Kinder sind nie nüchtern!
 
 
 Bei bekanntem schwierigem Atemweg muss vor Einleitung ein venöser Zugang gelegt werden.
@@ -114,7 +114,7 @@ Atropin nie routinemäßig, sondern nur bei Bradykardie anwenden. KI sind Fieber
 ## 17.4. Bronchospasmus: *
 
 VT nimmt ab durch Bronchospasmus mit Air-Traping (Auskult: Giemen, Brummen, Pfeifen expiratorisch)
-Therapie: FIO2 auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern! Narkose vertiefen, 1-3 mcg / kg Adrenalin iv, Dexamethason 0,5 mg / kg iv, ev. Ketanest 1-2 mg / kg, Theophyllin 5 mg / kg initial dann 1 mg / kg /h. (Wenn im Rahmen anaphylaktoider Reaktion : Fenistil 0,1 mg / kg iv./ H1-Blocker; H2-Blocker erst \>12Lj Ranitidin)
+Therapie: FiO₂ auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern! Narkose vertiefen, 1-3 mcg / kg Adrenalin iv, Dexamethason 0,5 mg / kg iv, ev. Ketanest 1-2 mg / kg, Theophyllin 5 mg / kg initial dann 1 mg / kg /h. (Wenn im Rahmen anaphylaktoider Reaktion : Fenistil 0,1 mg / kg iv./ H1-Blocker; H2-Blocker erst > 12Lj Ranitidin)
 
 ## 17.5. Das postoperative Kind: *
 
@@ -126,7 +126,7 @@ DHB 20-40 µg / kg ab 2 Lj.
 Bei postoperativer Übelkeit immer zuerst Flüssigkeit, da oft Hypovolämie die Ursache!!
 
 Postoperative Schmerztherapie:
-- Perfalgan \<10 kg 7,5 mg / kg + \>10 kg 15 mg / kg iv.
+- Perfalgan < 10 kg 7,5 mg / kg + \> 10 kg 15 mg / kg iv.
 alle 6 h (Toxische TD 150-200 mg / kg)
 - Novalgin 15 mg / kg alle 6h
 - Mexalen Supp rektal Sgl. 125 mg bis 6 Jahre 250 mg
@@ -163,7 +163,7 @@ Nach Einsetzen adäquater Harnproduktion kann Kalium ersetzt werden!
 Regelmäßige Elektrolytkontrollen! Ab HCO3- \< 28 + BE +2 kann operiert werden.
 
 
-Epiglottitis: inspiratorischer Stridor, verwaschene Sprache, hohes Fieber, schwer krank, Speichel rinnt aus dem Mund;  Kind sitzen lassen! O2-Gabe! Adrenalin unverdünnt vernebeln!
+Epiglottitis: inspiratorischer Stridor, verwaschene Sprache, hohes Fieber, schwer krank, Speichel rinnt aus dem Mund;  Kind sitzen lassen! O₂-Gabe! Adrenalin unverdünnt vernebeln!
 Schutzintubation in Tracheotomiebereitschaft (HNO) mit  ½  bis 1  Nummer kleineren Tubus mit Führungsstab!
 
 ## 17.6. Kindersedierung *
@@ -187,8 +187,8 @@ Hypersalvisation
 
 
 Gesicherte Spontanatmung:
-- Kinder-Venturi-O2 Maske (im MRT ohne Metallbügel)
-- Nasale CO2-Messung
+- Kinder-Venturi-O₂ Maske (im MRT ohne Metallbügel)
+- Nasale CO₂-Messung
 - Nacken/Schulterrolle für korrekte Kopfhaltung
 
 
@@ -199,7 +199,7 @@ Gesicherte Spontanatmung:
 EKG/Defi anlegen:
 - Kammerflimmern oder pulslose Kammertachykardie: Schock mit 4 J/kg -- CPR mindestens 2 Minuten fortsetzten  --  nach dem 3.Schock 4J/kg soll Adrenalin 0,01 mg / kg + 5 mg / kg Amiodaron verabreicht werden -- alle 3 bis 5 Minuten Adrenalin -- nach dem 5 Schock erneut
 + Amiodaron - ....nach ROSC Amiodaron Dauerinfusion!
-- Asystolie, Bradykardie  \<60/min ohne Kreislaufzeichen, oder pulslose elektrische Aktivität PEA: CPR weiter mit 0,01 mg / kg Adrenalin alle 3 bis 5 Minuten.
+- Asystolie, Bradykardie  \< 60/min ohne Kreislaufzeichen, oder pulslose elektrische Aktivität PEA: CPR weiter mit 0,01 mg / kg Adrenalin alle 3 bis 5 Minuten.
 - Spontankreislauf wiederhergestellt
 (ROSC
 =
@@ -219,7 +219,7 @@ Hypoxie, Hypovolämie, Hypo oder Hyperkaliämie, Hypothermie Herzbeuteltamponade
 
 Reanimationsnachsorge:
 ABCDE-Schema (Disabiliby = Neurostatus, Exposure=erweiterte Untersuchungen)
-Sauerstoff reduzieren, Ziel SO2 94-98%
+Sauerstoff reduzieren, Ziel SO₂ 94-98%
 Diagnostik/Ursache beheben Temperaturkontrolle Therapeutische Hypothermie?
 Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 
@@ -231,7 +231,7 @@ Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 ## 17.8. Analgosedierung und Beatmung des Kindes auf der Intensivstation
 
 Grundeinstellung Respirator:
-TV 6-10 ml/kg Pinsp 12 PEEP 3-5 I:E 1:1,5 Brustkorb muss sich beidseits vollständig heben und senken, SaO2, etCO2 und BGA!
+TV 6-10 ml/kg Pinsp 12 PEEP 3-5 I:E 1:1,5 Brustkorb muss sich beidseits vollständig heben und senken, SaO₂, etCO₂ und BGA!
 Analgetika: multimodale Analgesie = + RA + NSAR
 - Kreislaufstabiles Kind:
 Morphin Piritramid Remifentanyl

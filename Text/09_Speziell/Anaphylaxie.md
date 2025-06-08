@@ -268,7 +268,7 @@ TRIAS: volumenresistente Hypotonie + Tachykardie + Bronchospasmus!
 
 Therapie:
 - Stoppen des Allergens
-- O2-Gabe (FIO2 100)
+- O₂-Gabe (FiO₂ 100)
 - Volumen (kristalloide?)
 - H1-Blocker (Fenistil 1-2 Amp. Langsam iv., Dibontrin)
 - Danach ! H2-Blocker (Cimetidin/Tagamet)

@@ -17,7 +17,7 @@ Anmerkungen
   Darstellung der Lymphabflusswege kommt es zu einer
   *grünlich-bläulichen Verfärbung* der Harns, selten auch wahrnehmbar
   des Hautkolorits. Die Funktion der Pulyoxymetrie kann beeinträchtigt
-  sein, es werden dann *falsch-niedrige SpO2-Werte* angezeigt.
+  sein, es werden dann *falsch-niedrige SpO₂-Werte* angezeigt.
 
 Anästhesieverfahren, Airway
 
@@ -25,7 +25,7 @@ Anästhesieverfahren, Airway
 
 Perioperative Diagnostik
 
-: SpO2 kann falsche Messwerte anzeigen
+: SpO₂ kann falsche Messwerte anzeigen
 
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150401_151607-01341px.\*

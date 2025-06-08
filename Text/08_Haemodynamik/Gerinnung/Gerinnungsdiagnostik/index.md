@@ -86,8 +86,8 @@ Oszillierender Stempel in einer fixen Küvette;  erfasst die Qualität des Blutg
 | --------- | ------------------------------------------------------------------------------------------- |
 | CT        | Coagulationstime vom Start bis Gerinnselbildung, Verlängert bei Faktorenmangel oder Heparin |
 | CFT       | Clotformationstime von Start Gerinnselbildung bis 20mm, Geschwindigkeit der Gerinselbildung |
-| MCF       | maximalclotfirmness, Festigkeit des Gerinnsels (54-59mm, Fibtem 8-23mm)                     |
-| LI        | lyseindex, normal \>85% sonst Hyperfibrinolyse                                              |
+| MCF       | maximalclotfirmness, Festigkeit des Gerinnsels (54–59 mm, Fibtem 8–23 mm)                     |
+| LI        | lyseindex, normal > 85% sonst Hyperfibrinolyse                                              |
 
 | Modus  | Eigenschaft                   | Beurteilung                                      |
 | ------ | ----------------------------- | ------------------------------------------------ |

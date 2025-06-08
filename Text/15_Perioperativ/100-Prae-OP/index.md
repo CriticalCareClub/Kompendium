@@ -20,7 +20,7 @@ Achte auf:
 - Respiratorische Einschränkung?
 
 ### Operatives Risiko:
-- Leichte OP \<2h. \< 500 ml Blutverlust, z.B. CHE, AE, Hernien,...
+- Leichte OP < 2h. \< 500 ml Blutverlust, z.B. CHE, AE, Hernien,...
 - Schwere OP \> 2h, \>  500 ml BV, Eingriffe an Thorax und Abdomen, LSK Resektionen, OP mit großen Flüssigkeitsverschiebungen (Ileus)
 und hämodynamischer Beeinflussung (Niere,...)
 - Elektiv -- dringend -- vital indiziert
@@ -41,7 +41,7 @@ und hämodynamischer Beeinflussung (Niere,...)
 | 4            | ein Stockwerk ohne Pause = 4 facher Ruhesauerstoffverbrauch |
 | 5-6          | zwei Stockwerke ohne Pause, leichtes Laufen                 |
 | 6-9 Wandern, | Kegeln                                                      |
-| \>10         | Ausdauersport                                               |
+| \> 10         | Ausdauersport                                               |
 |              |                                                             |
 
 Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
@@ -55,7 +55,7 @@ Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
 | II  | leichte Vorerkrankung, ohne Leistungseinschränkung (+Schwangere, Raucher) |
 | III | schwere Vorerkrankung mit Leistungseinschränkung                          |
 | IV  | mit und ohne OP lebensbedrohliche Erkrankung                              |
-| V   | moribund innerhalb von 24h mit und ohne OP                                |
+| V   | moribund innerhalb von 24 h mit und ohne OP                                |
 | VI  | Hirntod, Organspender                                                     |
 
 
@@ -78,7 +78,7 @@ Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
 
 ### Screening bezüglich schwieriger Intubation
 -  Mallampati-Klassifikation: I vordere und hintere Gaumenbögen komplett sichtbar, II Uvula zum Teil sichtbar, III weicher Gaumen und Uvulabasis, IV nur harter Gaumen sichtbar.
-- Thyromentaler Abstand in max. Flexionshaltung: Schildknorpeloberkante  --  Vorderkante UK < 7 cm schwierige Intubation, \<6cm sehr schwere Intubation
+- Thyromentaler Abstand in max. Flexionshaltung: Schildknorpeloberkante  --  Vorderkante UK < 7 cm schwierige Intubation, < 6cm sehr schwere Intubation
 - Mundöffnung \< 3,5cm
 - Unterkiefer Retrognatie (UK hinter OK), prominente Vorderzähne
 - HWS-Beweglichkeit unter 80°
@@ -93,8 +93,8 @@ Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
 - ACE-Hemmer +  AT II-Antagonisten bei Indikation moderate Hypertension
 - Alpha-2-Rezeptor Agonisten, allerdings kein plötzliches Absetzen (Rebound effekt
 - Schilddrüsenhormone (Thyrex, Euthyrox)
-- Monoaminooxidasehemmer 24h pausieren, Lithium 72h
-- Orale Antidiabetika: Sulfonylharnstoffe und Biguanide/Metformin 24-48h
+- Monoaminooxidasehemmer 24 h pausieren, Lithium 72 h
+- Orale Antidiabetika: Sulfonylharnstoffe und Biguanide/Metformin 24-48 h
 - Retardierte Insulinpräparate (Insulinschema + Korrekturschema festlegen!)
 - Immunsuppressiva und Biologika (Z.b. IL, TNFα-Anatag.) nach Ögari-Schema
 
@@ -160,9 +160,9 @@ Angehörige dürfen ohne Sachwalterschaft unterschreiben. Bei schwerer OP zweite
 
 ### Besonderheiten des kardialen Patienten
 
-- \>4MET's mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
-- \>4MET's mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine leichte OP freigeben werden. Bei einer schweren OP Abklärung mittels EKG, Echo, C/P (EF? LVF?) und Auskultation nach einem pathologischen Herzgeräusch: Echo vorhanden? Vitien?
-- \<4MET's  : EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OP-Risiko, bei schwerem Eingriff und LEE-Index \> 2RF = interdiszipliäre Entscheidung!
+- \> 4MET's mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
+- \> 4MET's mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine leichte OP freigeben werden. Bei einer schweren OP Abklärung mittels EKG, Echo, C/P (EF? LVF?) und Auskultation nach einem pathologischen Herzgeräusch: Echo vorhanden? Vitien?
+- \< 4MET's  : EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OP-Risiko, bei schwerem Eingriff und LEE-Index \> 2RF = interdiszipliäre Entscheidung!
 
 
 ECHO
@@ -192,9 +192,9 @@ Eine präoperative **Antibiotikaprophylaxe** sollte bei Z.n. Klappenersatz erfol
 
 
 Risikoeinschätzung des Eingriffs bezüglich perioperativer Infarkt/Herztod:
-- Hochgradig (\>5% MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen
+- Hochgradig (\> 5% MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen
 - Mäßiggradig (1-5%) Carotis, Kopf und Hals, Orthopädie, Prostata, intrathorakale Eingriffe
-- Geringgradig (\<1%) Endoskopische E., oberflächene. OP, Katarakt, Mammae...
+- Geringgradig (\< 1%) Endoskopische E., oberflächene. OP, Katarakt, Mammae...
 
 Gerinnungsmanagement nach PTCA mit dualer Plättchentherapie (ASS + P2Y12-Blocker):
 - Ballondilatation: OP frühestens nach 2 Wochen, ASS weiter
@@ -216,7 +216,7 @@ Gerinnungsmanagement ist abhängig vom Blutungs- und Thromboserisiko der OP:
 
 P2Y12-Rezeptorblocker = Thienopyridine (ADP-Freisetzung):
 - Clopidogrel /Plavix: 7 Tage Pause, WB sofort
-- Prasugrel/Efient: 7-10 Tage Pause, WB nach 6h (erhöhte cerebrale Blutungen \>75Lj)
+- Prasugrel/Efient: 7-10 Tage Pause, WB nach 6h (erhöhte cerebrale Blutungen > 75Lj)
 - Ticagrelor / Brilique: 5 Tage Pause, WB nach 6h: reversible Antagonist, in den ersten 12h nach Einnahme werden auch transfundierte Thrombozyten gehemmt, und sind wirkungslos! Hohe Proteinbindung, nur durch Plasmapherese reversierbar.
 - Cangrelor: 1-6h Pause: parenteraler P2Y12-Blocker mit 5-6 Minuten HWZ!
 
@@ -247,13 +247,13 @@ Anamnese: Asthma? COPD? Raucherbronchitis? Dyspnoe? Belastbarkeit?
 Erkennen von:
 - Obstruktive Ventilationsstörung: Asthma, COPD mit erhöhtem RV und erhöhter FRC
 - Restriktive Ventilationsstörung: Fibrose, Adipositas mit erniedrigtem RV und red. FRC
-- Diffusionsstörungen: normale BGA in Ruhe bei erhöhtem HZV jedoch paO2 und SaO2 erniedrigt!
+- Diffusionsstörungen: normale BGA in Ruhe bei erhöhtem HZV jedoch paO₂ und SaO₂ erniedrigt!
 - Neuromuskuläre Erkrankungen, z.B. Myasthenia Gravis, Muskeldystrophien
 
 Untersuchungen: Inspektion, Perkussion, Auskultation, Spirometrie + BGA,
 C/P Normale FEV1 ist 70-85% der FRC!
 
-Pulmonale Patienten mit \<4MET´s + schwerer Eingriff = interdisziplinäre Entscheidung!
+Pulmonale Patienten mit < 4MET´s + schwerer Eingriff = interdisziplinäre Entscheidung!
 
 
 
@@ -261,11 +261,11 @@ Pulmonale Patienten mit \<4MET´s + schwerer Eingriff = interdisziplinäre Entsc
 
 
 - OP-Morgen: 1/3 des Gesamtinsulinbedarfes als langwirksames Insulin geben
-- Erster OP Punkt! Engmaschige BZ-KO! Ev. Glucose 5%  (Werte  \>70 und  \>250 mg/dl müssen dem Arzt gemeldet werden!)
+- Erster OP Punkt! Engmaschige BZ-KO! Ev. Glucose 5%  (Werte  \> 70 und  \> 250 mg/dl müssen dem Arzt gemeldet werden!)
 - Postoperative BZ-Ko (+ intraoperativ bei längeren Eingriffen)
-- Abend nach OP: NZ \>180 mg/dl die gewohnte Dosis IE verabreichen
-- Biguanide/Meformin/Glucophage 48h prä-  und 24h postoperativ pausieren, wegen Laktatanstieg. (Verminderte Gluconeogenese aus Laktat)
-- Sulfonylharnstoffe/Amaryl 24h präoperativ pausieren, da 24h Gefahr Hypoglykämie durch gesteigerte Insulinausschüttung
+- Abend nach OP: NZ > 180 mg/dl die gewohnte Dosis IE verabreichen
+- Biguanide/Meformin/Glucophage 48 h prä-  und 24 h postoperativ pausieren, wegen Laktatanstieg. (Verminderte Gluconeogenese aus Laktat)
+- Sulfonylharnstoffe/Amaryl 24 h präoperativ pausieren, da 24 h Gefahr Hypoglykämie durch gesteigerte Insulinausschüttung
 
 
 
@@ -287,7 +287,7 @@ Pulmonale Patienten mit \<4MET´s + schwerer Eingriff = interdisziplinäre Entsc
 Adipositas: = hohes Aspirationsrisiko, geringe kardiopulmonale Reserve!
 
 - Niedrige Compliance durch viel Fett auf der Brustwand, thorakale Kyphose, erniedrigte Lungencompliance
-- O2-Verbrauch und CO2-Produktion sind erhöht, geringe Apnoetoleranz (rasche Entsättigung Hb)
+- O₂-Verbrauch und CO₂-Produktion sind erhöht, geringe Apnoetoleranz (rasche Entsättigung Hb)
 - Erniedrigte FRC und TLV durch Zwerchfellhochstand mit erhöhtem intraabdominellem Druck
 - Oft schwierige Intubation (Videolaryngoskop bzw. fiberoptische Wachintubation erwägen)
 
@@ -325,6 +325,6 @@ Beachte eine erhöhte Muskelrigidität, ev. Schluckstörungen mit erhöhter Aspi
 bevorzugen
 - Polyneuropathie: bei Alkoholikern, Diabetikern und onkologischen Patienten
 
-Ein perioperativer cerebraler Insult tritt in 45%  innerhalb von 24h durch Ischämie und frühe Embolisation auf.
+Ein perioperativer cerebraler Insult tritt in 45%  innerhalb von 24 h durch Ischämie und frühe Embolisation auf.
 Späte Embolien finden sich ab dem zweiten postoperativen Tag bei Vorhofflimmern.
 Ein besonders hohes Risiko ist bei Herz-  und Gefäßchirurgischen Eingriffen vorhanden, bzw. bei vorbestehender Carotisstenose, St.p. TIA oder Insult, VHF und Patienten \> 70 Lj, oder iatrogen nach Absetzten der Antikoagulation.

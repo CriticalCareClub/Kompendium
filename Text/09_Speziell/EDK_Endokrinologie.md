@@ -18,7 +18,7 @@ Klinik: Gewichtsverlust, Diarrhöe, warme Haut, schwitzt, Muskelschwäche, Unruh
 
 EKG:  überhöhte P-Welle, ST-Senkungen, SVT, VHF, erniedrigte SVR (vorallem  \>  60Lj finden sich kardiale Symptome!)
 
-Pulmonal: CO2-Produktion erhöht, Hyperkapnie, Dyspnoe bei Atemmuskelschwäche, erhöhter PVR
+Pulmonal: CO₂-Produktion erhöht, Hyperkapnie, Dyspnoe bei Atemmuskelschwäche, erhöhter PVR
 
 Anästhesie:
 - Betablocker und Thyreostatika weitergeben (Thiamazol/Favistan), KEIN Ketanest (Tachykardie) + KEIN Desfluran.
@@ -38,7 +38,7 @@ Therapie: Thiamazol (hemmt SD-peroxidase für Hormonbildung), Natriumperchlorat/
 
 Hashimoto-Thyreoiditis, iatrogen: Strumektomie, Radiojodtherapie, Thyreostatika Sekundär bei HVL-Insuffizienz, tertiär hypothalamisch bedingt.
 
-Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegalie mit red. HZV, Bradykardie, Niedervoltage, AV-Block, Hypoventilation durch verminderten Atemantrieb durch CO2, Leberfunktionsstörungen, Makroglossie (Intubationsschwierigkeiten!), NNI (präoperative Glucocorticoidgabe), CNI (cave: ndMR)
+Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegalie mit red. HZV, Bradykardie, Niedervoltage, AV-Block, Hypoventilation durch verminderten Atemantrieb durch CO₂, Leberfunktionsstörungen, Makroglossie (Intubationsschwierigkeiten!), NNI (präoperative Glucocorticoidgabe), CNI (cave: ndMR)
 
 Anästhesie:
 - Elektive Operationen immer mit euthyreoter Stoffwechsellage anstreben! Präopertiv Hormonstatus (TSH, T3/4), Kardiovaskuläre Begutachtung, HNO (Stimmbandfunktion?), C/P (Trachealverlagerung/einengung?)
@@ -70,11 +70,11 @@ Anästhesie: ausreichend Flüssigkeit + Calciumkontrollen.
 
   Cortisonsubstitution bei bilateraler Adrenalektomie (100 mg präoperativ, 300 mg  /d perioperativ), bei einseitiger Adrenalektomie keine Glukokortikoidsubstitution.
 2) Conn-Syndrom: Hyperaldosteronismus, renale Na+Cl-Rückresorption und vermehrt K und H+ Ausscheidung im Austausch, hypokaliämische hyperchlorämische Alkalose mit Hypervolämie und Hypertonie, Gewichtszunahme.
-- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \>7 µg/dl nach ACTH-Gabe), Hyponatriämie + Hyperkaliämie + Übelkeit, Erbrechen;  Therapie: 20-30 mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
+- Therapie: Spironolacton (Aldosteronantagonist) /Aldactone, OP 3) M. Addison: NNR-Insuffizienz;  ACTH-Stimulationstest (kein Cortisonanstieg  \> 7 µg/dl nach ACTH-Gabe), Hyponatriämie + Hyperkaliämie + Übelkeit, Erbrechen;  Therapie: 20-30 mg Hydrocortison, Asthinon H;  periopertiv Dosis steigern wegen Stress  /Infekte. KEIN ETOMIDATE induziert NNR-Insuffizienz mit reversibler Hemmung der Cortisolsynthese.
 - Cushing-Schwelle: Hydrocortison 30-50 mg/d, Prednisolon/SoluDacortin 7,5 -- 10 mg/d,
 - Dexamethason/Fortecortin 1-2 mg/Tag
 - Bei Hypophysektomie, M. Addison, bilateraler Adrenalektomie beim Einleiten 25 mg Hydrocortison iv., bei mittleren und schweren Eingriffen
-+ 100 mg/d für 48-72h postoperativ.
++ 100 mg/d für 48-72 h postoperativ.
 Perioperative Cortisontherapie: präoperativ normale Dosis am OP-Tag einnehmen.
 
 
@@ -114,7 +114,7 @@ Narkose
 
     Nitroglycerin (Nitro) mit HWZ 5-10min, 0,5-2 µg / kg / min 50% der Patienten bleiben postoperativ für 1-3 Tage hyperton.
 
-    In den ersten 24 Stunden besteht die Gefahr einer Hypoglykämie, daher regelmäßig BZ kontrollieren. (Postoperativ 24h Überwachung!)
+    In den ersten 24 Stunden besteht die Gefahr einer Hypoglykämie, daher regelmäßig BZ kontrollieren. (Postoperativ 24 h Überwachung!)
 
 
 ## Karzinoid (enterochromaffiner Tumor)

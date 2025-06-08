@@ -16,7 +16,7 @@ Bei 66% der Patienten findet sich ein abnormes EKG!
 
 Therapie:
 - Chirurgische Versorgung: Coiling (DSA-Angio), Clipping (Craniotomie) und EVD zur Druckentlastung.
-- Hirndrucktherapie: Optimal handling, Sedierung, Lagerung, Kühlung, Mannit, CO2-
+- Hirndrucktherapie: Optimal handling, Sedierung, Lagerung, Kühlung, Mannit, CO₂-
 Einstellung, hochnormales Natrium,..
 
 

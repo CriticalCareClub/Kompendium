@@ -89,7 +89,7 @@ Oft Aspiration von bewusstlosen Verletzten!
 
 Indikation für ein Polytrauma- Ganzkörper CT / Schockspirale:
 - **Unfallhergang**: Sturz aus großer Höhe, Verkehrsunfall als Fußgänger oder hohe Geschwindigkeit, Explosion, Einklemmung
-- **Vitalparameter**: GCS \< 10, RRsyst \< 80, O2 \< 90%, Atemfrequenz \< 10 oder \> 24/min
+- **Vitalparameter**: GCS \< 10, RRsyst \< 80, O₂ \< 90%, Atemfrequenz \< 10 oder \> 24/min
 - **Verletzungsmuster**: Thorax instabil,  \>  1 großer Röhrenknochen betroffen, stumpfes Bauchtrauma, prox. Amputation
 
 

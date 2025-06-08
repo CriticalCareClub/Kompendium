@@ -13,7 +13,7 @@ Teratogene Medikamente
 
 Problem bei SS
 : schwieriger Atemweg, hohes Aspirationsrisiko
-  - Schwieriger Atemweg: SH-Schwellung in Pharynx und Larynx, zunehmend adipöse Schwangere, hohe Hypoxiegefahr (red. FRC, hoher O2-Verbr). 
+  - Schwieriger Atemweg: SH-Schwellung in Pharynx und Larynx, zunehmend adipöse Schwangere, hohe Hypoxiegefahr (red. FRC, hoher O₂-Verbr). 
 
     Algorithmus bei cannot ventilate/intubate:
     - LMA/Larynxtubus/Combitubus

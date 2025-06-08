@@ -9,7 +9,7 @@ Respirationstrakt
   - Reduz. FRC (Zwerchfellhochstand, erhöhter IAP) um ca. 20%
   - Belastungsdyspnoe ab ca. 30SSW durch erhöhtes pulmonales Blutvolumen, Nasenschleimhautschwellung, relative Anämie (HK ca. 35%)
   - Rasch Hypoxie durch red. FRC und erhöhtem Sauerstoffverbrauch (+ ca. 20%)
-  - paCO2 liegt in SS um 30!!
+  - paCO₂ liegt in SS um 30!!
 
 Kardiovaskuläres System
 : - erhöhtes Blutvolumen mit erhöhter Druck-und Volumenbelastung (va. Plasma, relative Anämie) + 35% BV, + 40% HMV, + 10% HF, erhöhter Sympathikotonus; Erhöhte Inzidenz einer SAB!
@@ -18,7 +18,7 @@ Kardiovaskuläres System
   - Diastolischer Blutdruck fällt in der Mitte der SS
     (Progesteron senkt PVR)
   - Gefahr Veno-aortales Kompressionssyndrom ab der 20SSW!
-  - Cardial Output sinkt unmittelbar nach der Geburt auf 75% und erholt sich innerhalb von 24h
+  - Cardial Output sinkt unmittelbar nach der Geburt auf 75% und erholt sich innerhalb von 24 h
 
 ZNS
 : - Empfindlichkeit auf LA ca. -35% und Inhalationsanästhetika ist erhöht -40% MAC!
@@ -48,7 +48,7 @@ Gerinnung
 
 Allgemeines
 : - Erhöhter Sympatikotonus mit Downregulation der  ß-Adrenozeptoren = vermind. Reaktion auf Katecholamine
-  - pH ca. 7,44 = Linksverschiebung der O2-Dissoziationskurve, erleichtere Sauerstoffaufnahme (Hyperventilation bei der Geburt)
+  - pH ca. 7,44 = Linksverschiebung der O₂-Dissoziationskurve, erleichtere Sauerstoffaufnahme (Hyperventilation bei der Geburt)
   - Adipositas steigt Sectiowahrscheinlichkeit auf das 2-3-fache!
 
 Uteriner Blutfluss

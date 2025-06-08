@@ -261,17 +261,17 @@ Bei Linksherzversagen z.B. MCI oder tachykardem VHF kommt es durch das  Ödem zu
 C/P: bilaterale homogene Verschattungen; EKG: Ischämiezeichen/Infarktzeichen
 
 
-Klinik: ängstlich, kaltschweißig, kurzatmig mit AF \> 25/min, rasselnde AG, Tachykardie BGA: paO2 red, paCO2 red
+Klinik: ängstlich, kaltschweißig, kurzatmig mit AF \> 25/min, rasselnde AG, Tachykardie BGA: paO₂ red, paCO₂ red
 
 
 Patho: alveoläres  Ödem = Perfusion ohne Ventilation;  Rückstau von linken Herz mit erhöhtem pulmonal arteriellem Druck = interstitielles und später alveoläres  Ödem durch erhöhten hydrostatischen Druck.
-Beatmung: NIV (CPAP, CPAP-ASB) mit inital hohem FIO2 und Steigerung des PEEPs (5-8-10-12) bis zu klinischen Besserung durch Nitroeffekt des PEEP-Niveaus: preload sinkt +  durch Verminderte Druckdifferenz zwischen intra- und extrathorakal kommt es zur peripher arteriellen Vasodilation +
+Beatmung: NIV (CPAP, CPAP-ASB) mit inital hohem FiO₂ und Steigerung des PEEPs (5-8-10-12) bis zu klinischen Besserung durch Nitroeffekt des PEEP-Niveaus: preload sinkt +  durch Verminderte Druckdifferenz zwischen intra- und extrathorakal kommt es zur peripher arteriellen Vasodilation +
 Abnahme des Sauerstoffbedarfs durch Senkung der Atemarbeit.
 Weaning: Langsam!!! Gefahr der aktuten kardialen Decompensation bei steigender Vor-  und Nachlast. Daher vor der Extubation Lasix + ev. positiv inotrope Medikamente (Simtax, Dobutrex) +
 negative Bilanz.
 NIV senkt die Mortalität beim Lungenödem!
 
 
-Kardiale Rekompensation durch NIV: Senkung Vor-und Nachlast, Verbessertes VO2, Herabsetzung der transmuralen Wandspannung durch weniger negativen intrathorakalen Druck.
+Kardiale Rekompensation durch NIV: Senkung Vor-und Nachlast, Verbessertes VO₂, Herabsetzung der transmuralen Wandspannung durch weniger negativen intrathorakalen Druck.
 Respiratorische Rekompensation: Vergrößerung des FRC, verminderter Re-Li-Shunt, verminderte Atemarbeit
 

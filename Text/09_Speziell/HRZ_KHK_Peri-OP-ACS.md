@@ -4,11 +4,11 @@
 # 49. Perioperativer MCI/ACS
 
 Ursache:
-Chirurgischer Stress: erhöhte ADH-Sekretion mit Na-  und Wasserretention (erhöhtes präload), erhöhte Katecholamine mit erhöhter HF, Inotropie und vermehrt Arrhythmien steigern den O2-Verbrauch Hypotensive Phasen bei hämodynamischer Instabilität Risikopatient: Cardialer Pat: Hypertonie, DM, Raucher, Adipös, erhöhte Fette, Gefäßpatient
+Chirurgischer Stress: erhöhte ADH-Sekretion mit Na-  und Wasserretention (erhöhtes präload), erhöhte Katecholamine mit erhöhter HF, Inotropie und vermehrt Arrhythmien steigern den O₂-Verbrauch Hypotensive Phasen bei hämodynamischer Instabilität Risikopatient: Cardialer Pat: Hypertonie, DM, Raucher, Adipös, erhöhte Fette, Gefäßpatient
 
 
 Klinik: Dyspnoe, Thoraxschmerzen,  Übelkeit, EKG-Dynamik (ST-Heb.), 65%  ohne Klinik! 75%
-innerhalb der ersten 48h postoperativ!
+innerhalb der ersten 48 h postoperativ!
 
 Diagnostik:
 - 12-Kanal-EKG (STEMI, NSTEMI)
@@ -19,7 +19,7 @@ Diagnostik:
 
 Therapie:
 - STEMI: sofort Herzkatheter! Vor dem Labor! Time is Myokard!
-- NSTEMI: \<24h PCI, wenn Beschwerden trotz konservativer Therapie
+- NSTEMI: < 24 h PCI, wenn Beschwerden trotz konservativer Therapie
 
 
 Konservative Therapie:
@@ -43,14 +43,14 @@ Monitoring:
 - Arterie+ZVD
 - PICCO/PULMI
 - Bilanz
-- Verlauf TnT, Lak, SvO2
+- Verlauf TnT, Lak, SvO₂
 
 
 Therapieerfolgskriterien:
 - Schmerz und Dyspnoe verschwinden
 - Verbesserung der Hämodynamik (HF sinkt, SV+HZV+CI steigen)
 - Adäquate Perfusion der Endorgane (Harnproduktion!)
-- Labor sinkt TnT, Laktat und steigt svO2
+- Labor sinkt TnT, Laktat und steigt svO₂
 
 
 Infarktkriterien im EKG:

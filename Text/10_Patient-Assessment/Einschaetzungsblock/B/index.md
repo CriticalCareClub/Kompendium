@@ -73,7 +73,7 @@ Das Atemzugsvolumen folglich so gering dass es zu einer Totraumventilation kommt
 - -
   - AF \[/ min\]
   - AZV \[ml\]
-  - SpO2 \[%\]
+  - SpO₂ \[%\]
 - - Neugeborenes
   - 30—50
   - 20—30

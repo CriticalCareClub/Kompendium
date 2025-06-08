@@ -438,7 +438,7 @@ Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. 
 
 Sofortmaßnahmen:
 - Kühlung mit Wasser (15°) nur bis
-\<10-15% KOF (sonst Unterkühlung mitVasokonstr.)
+\< 10-15% KOF (sonst Unterkühlung mitVasokonstr.)
 - Vorsichtig Vasopressoren: Vasokonstriktion = schlechtere periphere Durchblutung  =
 Nachbrennen.
 - Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck
@@ -486,15 +486,15 @@ Ausreichende Analgesie mit erhaltener Spontanatmung ist das Ziel!
 Thermisch-chemisch-toxisch
 - Obere AW thermisch + chemisch, untere AW va. wasserlösliche Substanzen z.B. Aldehyde
 -  Lungenparenchym mit inflammatorischer Reaktion
-- Systemisch bei toxischen Gasen (CO, CO2) Schutzintubation: Ödem mukös und submukös!
+- Systemisch bei toxischen Gasen (CO, CO₂) Schutzintubation: Ödem mukös und submukös!
 Blutungen, Ulcerationen!
 
 Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchoskopie!!) Hinweise: geschlossener Unfallraum mit Explosion, Brandverletzung im Gesicht, Verrußte Atemwege, angesengte Nasenhaare, Rußspuren auf der Kleidung,...
 
 
 Therapie:
-- Schutzintubation und Beatmung mit 100% FIO2,
-- Flüssigkeitsmanagement: zu viel Volumen = viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab \>8mmHg), da KOD ca. 8 ! (Normal 20!)
+- Schutzintubation und Beatmung mit 100% FiO₂,
+- Flüssigkeitsmanagement: zu viel Volumen = viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab > 8mmHg), da KOD ca. 8 ! (Normal 20!)
 
 
 
@@ -503,7 +503,7 @@ Therapie:
 - Konsequente Therapie nosokomialer Infektionen: oft excessive AB-Therapiedauer  über mehrere Wochen nötig, mit höherer Dosierung, da höheres Verteilungsvolumen. (BK und Abstriche regelmäßig!)
 - Forcierte Diurese: initial rasch Lasix-Perfusor, bei älteren Patienten rasch HF
 
-Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50%  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO2!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
+Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50%  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO₂!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
 Ab 20%  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen, Krampfanfälle, Tod)
 
 

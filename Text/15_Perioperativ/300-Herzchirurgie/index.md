@@ -50,9 +50,9 @@ Kunstklappenendokarditis AB-Therapie: Vancomycin + Rifampicin+ Gentamicin
 ## 44.3. Mechanische Unterstützungsverfahren bei Herzversagen: *
 
 - Kurzfristig (\< 30d), perkutan: IABP, VA-ECMO
-- Mittelfristig (\<1Jahr),
+- Mittelfristig (\< 1Jahr),
 parakorporal: Berlin heart excor, Cardiowest
-- Langfristig (\>1Jahr), intrakorporal: Berlin heart incor, heartware
+- Langfristig (\> 1Jahr), intrakorporal: Berlin heart incor, heartware
 
 Indikationen: low cardiac output syndrome nach Herzop, nach MCI, acute Myokarditis,
 septische CMP bei Kindern, Allograft Dysfunktion nach HTX, ...
@@ -62,7 +62,7 @@ septische CMP bei Kindern, Allograft Dysfunktion nach HTX, ...
 
 Indiziert bei Weaning nach der HLM (34%!), Myokardinfarkt (14%), präoperativer Support,
 refraktäres Herzversagen = myokardialen Ischämien und globaler Hypokontraktilität mit low cardiac output.
-Inflation  von Helium am Beginn der Diastole (Ende der T-Welle) = hebt Nachlast = erhöhter koronarer Blutfluss (Inzisur am Beginn der Diastole in der Druckkurve) und erhöhter Linksventrikulärer Druck in der Diastole durch den Blutrückstrom Deflation R-Zacken getriggert mit Beginn der Systole = senkt Nachlast = steigert Left ventrik stroke work, senkt myokardialen O2-Verbrauch, Systolischer Aortendruck ist erniedrigt (Ausgleich durch erhöhten diastolischen Aortendruck), erhöhter CO.
+Inflation  von Helium am Beginn der Diastole (Ende der T-Welle) = hebt Nachlast = erhöhter koronarer Blutfluss (Inzisur am Beginn der Diastole in der Druckkurve) und erhöhter Linksventrikulärer Druck in der Diastole durch den Blutrückstrom Deflation R-Zacken getriggert mit Beginn der Systole = senkt Nachlast = steigert Left ventrik stroke work, senkt myokardialen O₂-Verbrauch, Systolischer Aortendruck ist erniedrigt (Ausgleich durch erhöhten diastolischen Aortendruck), erhöhter CO.
 Physiologische Effekte: distolischer Aortendruck steigt, koronarer Blutfluss steigt, kardiale Nachlast sinkt, systemischer Aortendruck sinkt (Paradoxon), cardial Output steigt, renaler Blutfluss steigt.
 Komplikationen (schwere Komplikationen bei ca. 2,8%):
 Extremitätenischämie bei zu tiefer Lage, Kompartmentsyndrom, Infektionen, Ballonfehllage/leak führt zu einer Störung der intestinalen Perfusion mit Gefahr der Darmischämie, Aortendissektion,
@@ -140,8 +140,8 @@ Therapie:
 - Inotropika bei akutes Herzversagen
 - Bei Bedarf Volumen
 - ECMO
-- Therapieziel = Verbesserung der Herzfunktion mit CI  \>2,0/min/m², PCWP  \<18mmHg,
-ScvO² \>65mmHg
+- Therapieziel = Verbesserung der Herzfunktion mit CI  \> 2,0/min/m², PCWP  \< 18mmHg,
+ScvO² \> 65mmHg
 
 ## 44.5. Eingriffe im Herzkatheter in Sedoanalgesie: *
 
@@ -173,7 +173,7 @@ Intensivbett im Hintergrund, TEE bei TAVI und Mithraclipping, Antibiotikagabe be
 
 ## 44.7. Aortenklappenstenose *
 
-= KOF \<0,8cm², KÖF-Index \< 0,5 cm²/m² KOF; Geschwindigkeit LVOT/AK \< 0,25;  eine begleitende KHK ist mitbestimmend für das perioperative Risiko. Das HZV beeinflußt den transvalvulären Gradienten.
+= KOF < 0,8cm², KÖF-Index \< 0,5 cm²/m² KOF; Geschwindigkeit LVOT/AK \< 0,25;  eine begleitende KHK ist mitbestimmend für das perioperative Risiko. Das HZV beeinflußt den transvalvulären Gradienten.
 Ursachen: senile Kalzifizierung ab 70 Lj., bikuspide AK des jungen Patienten.
 
 
@@ -183,7 +183,7 @@ Folgen:
 -  CO fixiert (kann nicht gesteigert werden)
 - diastolische Funktionsstörung
 - atriale Kontraktion liefert 40%  des CO (normal bis max. 20%) = sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
-- missmatch VO2/DO2 kardial
+- missmatch VO₂/DO₂ kardial
 
 
 Symptomatik: Angina Pectoris, Synkopen, chronisches Herzversagen, Gefahr des sudden cardiac death
@@ -276,7 +276,7 @@ Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
 
 = Verbindung von der Aorta zur A. Pulmonalis im fetalen Kreislauf; 10% aller kongenitalen Vitien;
 Folge: Hypertrophie des rechten VH und Ventrikel mit Zyanose durch rechts-links-Shunt Auskultatorisch: Maschinengeräusch, kontinuierliches syst-diastolisches Herzgeräusch vorallem
-über dem ERB Physio: normalerweise verschließt sich der DAB funktionell durch den Prostaglandin E2 Abfall und den hohen paO2 des Blutes während des ersten Lebenstages. Innerhalb der ersten 2-3 Wochen verschließt er sich durch Obliteration definitiv.
+über dem ERB Physio: normalerweise verschließt sich der DAB funktionell durch den Prostaglandin E2 Abfall und den hohen paO₂ des Blutes während des ersten Lebenstages. Innerhalb der ersten 2-3 Wochen verschließt er sich durch Obliteration definitiv.
 Der DAB kann durch Gabe von Prostaglandin E1+E2 über längere Zeit offen gehalten werden. Z.B.
 bei Transposition der großen Gefäße bis zur OP.
 Therapie: Indomethacintherapie

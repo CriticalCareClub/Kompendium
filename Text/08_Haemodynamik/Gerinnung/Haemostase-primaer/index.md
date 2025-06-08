@@ -45,11 +45,11 @@ Ticragrelor (Brilique®) ist KEIN Thienopyridin, sondern bindet direkt an den P2
 | Wirkstoff   | Trade    | Pause                    |
 | ----------- | -------- | ------------------------ |
 | Clopidogrel | Plavix   | 7 Tage, WB sofort        |
-| Prasugrel   | Efient   | 7-10 Tage, WB sofort     |
-| Ticagrelor  | Brilique | 5 Tage, WB 6h            |
+| Prasugrel   | Efient   | 7–10 Tage, WB sofort     |
+| Ticagrelor  | Brilique | 5 Tage, WB 6 h            |
 | ASS         |          | keine Pause erforderlich |
-| Integrilin  |          | 4h, WB 6h                |
-| Iloprost    |          | 1h, WB 6h                |
+| Integrilin  |          | 4 h, WB 6h                |
+| Iloprost    |          | 1 h, WB 6h                |
 
 OP ohne Therapiepause
 : - Gabe von *Thrombozytenkonzentraten* kann zur Aufhebung der APT-Wirkung angedacht werden, aber es ist der Nachteil des prothrombotischen Milieus und das Risiko eines Stent-Verschlusses zu beachten (daher soll die Transfusion innerhalb 1-3 Monaten nach Implantation je nach vorliegendem Stenttyp möglichst vermieden werden).

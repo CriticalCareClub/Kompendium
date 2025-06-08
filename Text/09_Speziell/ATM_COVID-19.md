@@ -87,7 +87,7 @@ Labor
   -
 - - SARS-CoV-2-Antikörper (IgM, IgG)
   - Blut, Vacutainer™ *rot*
-  - *Lauris*: {menuselection}`Zentrallabor Routine --> 24h Bearbeitung --> Infektionsdiagnostik --> Immunoassay --> SARS CoV 2 AK`
+  - *Lauris*: {menuselection}`Zentrallabor Routine --> 24 h Bearbeitung --> Infektionsdiagnostik --> Immunoassay --> SARS CoV 2 AK`
   -
 :::
 
@@ -298,8 +298,8 @@ Monitoring
   die Häufigkeit aber regional unterschiedlich)
 
 Transport
-: **Transportrespiratoren immer mit 100% O2 betreiben**, da bei
-  niedrigeren FiO2-Konzentrationen die Maschine Raumluft aus der Umgebung dazumischt,
+: **Transportrespiratoren immer mit 100% O₂ betreiben**, da bei
+  niedrigeren FiO₂-Konzentrationen die Maschine Raumluft aus der Umgebung dazumischt,
   sodass Virus-belastete Aerosole in die Maschine gelangen
   könnten.
 

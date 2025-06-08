@@ -800,18 +800,18 @@ Therapie: Elektrisch (Kardioversion, SM) oder medikamentös (Antiarrhythmika, Be
 
 
 Instabiler Patient:
-- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300 mg Amiodaron über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900 mg  über 24h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
+- synchronisierte Kardioiversion (R-Zacken gesteuert, damit der Schock nicht in die T-Welle fällt und ein VF ausgelöst werden könnte). (Beginn mit 200 J, schrittweise Steigerung). Wenn erfolglos, dann 300 mg Amiodaron über 10-20min und dann neuerlicher Kardioversionsversuch. (loading dose mit 900 mg  über 24 h fortsetzten). SVT lassen sich oft mit 100J konvertieren.
 
 
 Stabiler Patient:
-- ohne bedrohliche Symptome oder Verschlechterung: 12 Kanal EKG Analyse ob Schmal oder Breitkomplextachykardie (QRS\>120ms).
-- VT oder SVT mit Schenkelblock = regelmäßige Breitkomplextachykardie. Th: Sedacoron 300 mg loading dose + 900 mg über 24h
+- ohne bedrohliche Symptome oder Verschlechterung: 12 Kanal EKG Analyse ob Schmal oder Breitkomplextachykardie (QRS\> 120ms).
+- VT oder SVT mit Schenkelblock = regelmäßige Breitkomplextachykardie. Th: Sedacoron 300 mg loading dose + 900 mg über 24 h
 - VHF mit Schenkelblock oder WPW-Syndrom = unregelmäßige BKT. Th: Kardioversion, Sedacoron. Bei WPW-Syndrom KEIN Adenosin, Diltiazem, Verapamil, Digoxin da diese den AV-Knoten blockieren und das Syndrom nur verstärken.
 - polymorphe VT (Torsades de pointes) = unregelmäßige BKT. Th: Alle QT-verlängerten Medikamente absetzten, Elektrolytstörungen korregieren, 2 g Magnesium iv.
 - AV-Knoten-Reentry-Tachykardie = regelmäßige Schmalkomplextachykardie, häufigster Typ der SVT. Th: Karotis-Sinus-Massage, Valsalva-Manöver,    6 mg Adenosin-Bolus (12/12), Kardioversion, Diltiazem/Verapamil (wirken länger am AV-Knoten)
 - WPW mit artioventrikulärer Reentrytachykardie = regelmäßige SKT. Th: Karotis-Sinus-Massage, Valsalva-Manöver, 6 mg Adenosin-Bolus (12/12), Kardioversion.
 - Vorhofflattern mit 2:1 Block = regelmäßige SKT mit typischerweise HF 150/min. Th:
-Sedacoron + Kardioversion bei bedrohlichen Symptomen, ansonsten medikamentöse Frequenzkontrolle (Betablocker, Diltiazem) und Herzrhythmuskontrolle (Sedacoron, Lanitop, Digoxin), ev. Kardioversion und vorallem Antikoagulation (OAK), wenn das VHF bereits länger als 48h besteht (Thrombus Herzohr! Keine Kardioversion vor Antikoagulation)
+Sedacoron + Kardioversion bei bedrohlichen Symptomen, ansonsten medikamentöse Frequenzkontrolle (Betablocker, Diltiazem) und Herzrhythmuskontrolle (Sedacoron, Lanitop, Digoxin), ev. Kardioversion und vorallem Antikoagulation (OAK), wenn das VHF bereits länger als 48 h besteht (Thrombus Herzohr! Keine Kardioversion vor Antikoagulation)
 
 :::{table} Einteilung der Antiarrhytmika
 

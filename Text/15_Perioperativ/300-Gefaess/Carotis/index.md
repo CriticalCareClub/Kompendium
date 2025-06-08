@@ -2,7 +2,7 @@
 
 <!-- 43.1.  -->
 
-TEA bei Carotisstenose \>75% oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.
+TEA bei Carotisstenose > 75% oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.
 Bei AN immer INVOS zum Neuromonitoring. Hypotonie vermeiden!! (Blutdruck vorm Klemmen anheben)
 
 
@@ -17,11 +17,11 @@ Prämed: Weiternehmen von Betablockern und Antihypertensiva, bei hohem RR auch A
 Hemmer, Digitalis bei VHF, Kalziumantagonisten  , sowie iv. Nitrate und iv. Heparin.
 Benzodiazepine als Prämed.
 Clamping der Karotis: davor 5000IE Heparin,
-leichte Hypertension mit RRsyst\>150mmHg
+leichte Hypertension mit RRsyst\> 150mmHg
 
 Neuromonitoring:
-- INVOS: Licht durch Schädelkalotte 4cm Eindringtiefe, Reflektiertes Licht wird gemessen, ab SO2\<50 erhöhtes Risiko für hypoxische Komplikation.
-- BIS: aus EEG zusammengekürztes System, dimensionslose Zahl 0-100, Zahlenaktivität  \>60 mit Wahrscheinlichtkeit einer Awareness. Bei Hypothermie und Kreislaufstillstand 0!
+- INVOS: Licht durch Schädelkalotte 4cm Eindringtiefe, Reflektiertes Licht wird gemessen, ab SO₂\< 50 erhöhtes Risiko für hypoxische Komplikation.
+- BIS: aus EEG zusammengekürztes System, dimensionslose Zahl 0-100, Zahlenaktivität  \> 60 mit Wahrscheinlichtkeit einer Awareness. Bei Hypothermie und Kreislaufstillstand 0!
 
 
 Postoperative Komplikationen: neurologische Ausfälle (einseitige Fascialisparese, Lähmungen,
@@ -30,4 +30,4 @@ sowie Hypovolämie,
 Myokardischämie,
 Arrhythmien.
 Hyperperfusionssyndrom mit ipsilateralen Kopfschmerzen bis zum Krampfanfall, Recurrensparese mit Heiserkeit, Hämatom mit Obstruktion der oberen Luftwege, Spannungspneu,
-Pneumomediastinum, paCO2 Anstieg durch Ausfall der Chemorezeptoren. Nachblutung mit Obstruktion der Atemwege und schwierige Intubation.
+Pneumomediastinum, paCO₂ Anstieg durch Ausfall der Chemorezeptoren. Nachblutung mit Obstruktion der Atemwege und schwierige Intubation.

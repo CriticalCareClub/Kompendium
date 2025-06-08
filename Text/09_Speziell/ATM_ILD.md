@@ -7,7 +7,7 @@ Klinik:
 - Knistern bilateral,
 - keine Rechtsherzbelastung,
 - C/P: hochstehende Zwerchfellkuppen
-- BGA: massiver Unterschied des paO2 in Ruhe und unter Belastung Red. Compliance, kaum Dehnbar, massiv verdickte Diffusionsstrecke, O2-Aufsättigung braucht mehr Zeit!
+- BGA: massiver Unterschied des paO₂ in Ruhe und unter Belastung Red. Compliance, kaum Dehnbar, massiv verdickte Diffusionsstrecke, O₂-Aufsättigung braucht mehr Zeit!
 - Gewichtsverlust da bis zu 50% des Grundumsatzes für die Atmung benötigt werden!
 
 Therapie

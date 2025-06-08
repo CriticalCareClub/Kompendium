@@ -310,7 +310,7 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung d
 
 - *Gehirnquetschung – 3*
 
-  - Bewußtlosigkeit >24h
+  - Bewußtlosigkeit >24 h
   - Atmungs-/ Kreislaufstörungen
   - Hirndrucksymptomatik
   - Evtl. Einklemmung des Atemzentrums → zentraler
@@ -339,7 +339,7 @@ Bleibende Schäden sind möglich.
 
 #### Gehirnquetschung — SHT 3°
 
-Die Gehirnquetschung ist eine sehr schwere Form des Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24h* und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel Hirndruckzeichen ({ref}`hirndruckzeichen`), Atem und Kreislaufstörungen bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
+Die Gehirnquetschung ist eine sehr schwere Form des Schädelhirntraumas. Es kommt zu einer *Bewusstlosigkeit länger als 24 h* und zu teils sehr ausgeprägten Begleitsymptomen wie zum Beispiel Hirndruckzeichen ({ref}`hirndruckzeichen`), Atem und Kreislaufstörungen bis hin zum Atemstillstand durch Einklemmen des Atemzentrums.
 
 Es kann weiteres zu intrakraniellen Blutungen kommen (epidural, subdural, subarachnoidal). Außerdem kommt es zu verschiedenen neurologischen Ausfällen und Symptomen wie zum Beispiel zerebrale Krampfanfälle. Mit *bleibenden Schäden* und Langzeitfolgen ist zu rechnen.
 
@@ -410,7 +410,7 @@ Glasgow coma scale GCS (max. 15 Punkte):
 Oberste Prämisse ist es Zeitverzögerungen zu vermeiden! Ist die Dura intakt spricht man vom geschlossenen SHT. Ist sie eröffnet (direkt oder indirekt über NNH/Ohr) spricht man vom offenen SHT.
 
 Am Unfallort und im Schockraum muss ein orientierender Neurostatus gemacht werden:
-- GCS: 3-7 schweres SHT, 8-12 mittelschweres SHT, \>12 leichtes SHT
+- GCS: 3-7 schweres SHT, 8-12 mittelschweres SHT, > 12 leichtes SHT
 - Pupillen: Mydriasis bei 35-40 ICP (Seitendifferenz, Herdblick bei Insult zur Ischämieseite, bei Blutung zur Gegenseite)
 - Hinweise auf Einklemmung sind Mydriasis, Streckkrämpfe, vegetative Entgleisung oder Bradykardie
 - Halbseitenzeichen? Querschnittlähmung?
@@ -419,10 +419,10 @@ Weitere Informationen über den Patienten einholen:
 - Alter, Notfallereignis mit Zeitpunkt, initialer Neurostatus, Komorbititäten, Medikamte (durch NA, Antikoagulation?) AMPLE (Allergie, Medikamente, past history, last meal, Events to incident)
 
 Patienten versorgen:
-- Monitoring (RR, HF, SO2, Arterie, mind. 2 Zugänge), Oberkörper 30° hochlagern bei stabilen Kreislaufverhältnissen, Gerinnungssubstitution;  Zielblutdruck festlegen;  Temperatur-DK,
+- Monitoring (RR, HF, SO₂, Arterie, mind. 2 Zugänge), Oberkörper 30° hochlagern bei stabilen Kreislaufverhältnissen, Gerinnungssubstitution;  Zielblutdruck festlegen;  Temperatur-DK,
 Magensonde (Bei frontobasalen Frakturen nur oral NIE nasal!)
-- ITN bei GCS  \<9 (O2-Versorgung sichern, Aspirationsschutz, ICP-Steuerung  über paCO2,
-Sedierung senkt O2-Verbrauch), RSI ev.
+- ITN bei GCS  \< 9 (O₂-Versorgung sichern, Aspirationsschutz, ICP-Steuerung  über paCO₂,
+Sedierung senkt O₂-Verbrauch), RSI ev.
 FIO; Midazolam und Ketanest empfohlen!
 - Begleitverletzungen ausschließen:
 Ev.
@@ -451,17 +451,17 @@ Ebrantil-Perfusor...
 - Normovolämie: isotones und hypertones NaCl, HES, Hypotone Lsg. wie Glucose 5% oder RL sind kontrainduziert.
 - Normale Serumosmolarität: Na 140-150mmol/l
 - Normoglykämie: BZ 120-150
-- Normokapnie im unteren Bereich: paCO2 33-36
-- Normothermie: \<37°
+- Normokapnie im unteren Bereich: paCO₂ 33-36
+- Normothermie: < 37°
 
 
 Regulation des CBF:
-Autoregulation zwischen 60-140MAP konstanter CBF, außerhalb dieses Bereiches abhängig vom MAP lineare Beziehung zum paCO2: steigt dieser um 1mmHg,
-steigt CBF um 2 ml/100g/min paO2-Schwellenwert: paO2 \< 50mmHg = steigt der CBF. Der CPP (Cerebraler Perfusions Pressure)
+Autoregulation zwischen 60-140MAP konstanter CBF, außerhalb dieses Bereiches abhängig vom MAP lineare Beziehung zum paCO₂: steigt dieser um 1mmHg,
+steigt CBF um 2 ml/100g/min paO₂-Schwellenwert: paO₂ \< 50mmHg = steigt der CBF. Der CPP (Cerebraler Perfusions Pressure)
 sollte zwischen 60 und 70mmHg liegen! (MAP -- ICP = CPP)
 Der intracranielle Blutfluss beträgt 14%  des Herzminutenvolumens und verbraucht 25%  des Ruhesauerstoffverbrauches.
-BHS: mechanische Barriere mit Tight junctions und metabolischer Barriere, H2O + CO2 + O2 kann frei diffundieren. Schützt vor Toxinen, hält Glucose im Gehirn stabil, hält Neurotransmitter im Gehirn, Kontrolliert den Elektrolyttransfer.
-Liquor: Die Produktion erfolgt im Plexus choroideus, ca. 150  - 550 ml, HWZ 2-6h, Ultrafiltrat des Blutplasmas, dämpft Gehirnmasse, reguliert Atemzentrum der Medulla oblongata durch den CO2-
+BHS: mechanische Barriere mit Tight junctions und metabolischer Barriere, H₂O + CO₂ + O₂ kann frei diffundieren. Schützt vor Toxinen, hält Glucose im Gehirn stabil, hält Neurotransmitter im Gehirn, Kontrolliert den Elektrolyttransfer.
+Liquor: Die Produktion erfolgt im Plexus choroideus, ca. 150  - 550 ml, HWZ 2-6h, Ultrafiltrat des Blutplasmas, dämpft Gehirnmasse, reguliert Atemzentrum der Medulla oblongata durch den CO₂-
 Gehalt.
 CCT-KO: bei Vigilanzverschlechterung/Somnolenz beim wachen Patienten, beim intubierten Patienten, 6h nach dem Trauma Blutungskontrolle. Hirndruckzeichen im CCT sind das Verstreichen der basalen Zisternen und Verlust der Sulci, Midlineshift mit Abklemmung der Gefäße an der Falx cerebri mit Perfusionsstop (CT-Angio,
 transcranieller Doppler)
@@ -474,8 +474,8 @@ Inverse Steal Syndrom: im gesunden Hirn Vasokonstriktion, Blut rinnt in vasodila
 
 ICP:
 5-15 mmHg normal
-\<20 SHT normale Vigilanz 20-40 Somnolenz, Kopfschmerz, Erbrechen 35-40 Mydriasis 45-80 Koma, Einklemmung Hirnstamm, kurzzeitig beim Husten (ca. 50!)
-Kinder: bis 2a 4-10, \>2a 20-25 (off. Fontanellen), CPP Ng 25,
+\< 20 SHT normale Vigilanz 20-40 Somnolenz, Kopfschmerz, Erbrechen 35-40 Mydriasis 45-80 Koma, Einklemmung Hirnstamm, kurzzeitig beim Husten (ca. 50!)
+Kinder: bis 2a 4-10, > 2a 20-25 (off. Fontanellen), CPP Ng 25,
 Sgl. 40, Jugendlicher 70mmHg
 
 
@@ -491,7 +491,7 @@ Maßnahmen zur ICP-Senkung:
 - Liquordrainage EVD, neurochirurgische Entlastungsoperation
 - Mannitol 0,5-1g / kg KG
 (Hyperhaes, TRIS)(TRIS beeinflusst Liquorazidose und Ödem günstig)
-- Kurzfristig: Hyperventilation paCO2 \< 30mmHg.
+- Kurzfristig: Hyperventilation paCO₂ \< 30mmHg.
 - Ev. Milde Hypothermie 33-34°C bei therapierefraktären Krisen mittels Coolguard
 
 Optimal Handling Kategorisierung:
@@ -506,17 +506,17 @@ Bohrlochtrepanation.
 Goldstandart zur Liquordrainage ist die Ventrikelsonde, aber auch lumbal möglich.
 
 Beatmung:
-Pmax 35mmHg, PEEP 5-8mmHg, I:E \< 1,5, paCO2 33-36mmHg,
-pO2 \>100, VT 6-8 ml/kgKG Bei schlechter Oxygenierung initial FIO2 hoch, PEEP nur unter ICP-Kontrolle steigern!
+Pmax 35mmHg, PEEP 5-8mmHg, I:E \< 1,5, paCO₂ 33-36mmHg,
+pO₂ > 100, VT 6-8 ml/kgKG Bei schlechter Oxygenierung initial FiO₂ hoch, PEEP nur unter ICP-Kontrolle steigern!
 Cave: neurogenes Lungenödem möglich
 
 
 Sedierung:
 - Sufentanil: analgesierend und sedierend (NW: Abhängigkeit, Darmparalyse)
-- Propofol bis 4 mg / kgKG senkt cerebralen O2-Verbrauch
-- Barbiturate: Thiopental oder Methohexital: senken ICP und O2-Bedarf des Hirns
+- Propofol bis 4 mg / kgKG senkt cerebralen O₂-Verbrauch
+- Barbiturate: Thiopental oder Methohexital: senken ICP und O₂-Bedarf des Hirns
 - Midazolam: verstärkt die Opiatwirkung
-- Ketanest: beim beatmeten Patienten mit konstantem paCO2 und stabilem MAP neuroprotektiv über NMDA-Rezeptoren.
+- Ketanest: beim beatmeten Patienten mit konstantem paCO₂ und stabilem MAP neuroprotektiv über NMDA-Rezeptoren.
 - Clonidin: sediert und verstärkt Opiatwirkung, bei Entzungssymtomatik, Weaning (0,075-
 0,6 mg/h) NW: Bradykardie, selten Hypotonie
 
@@ -545,7 +545,7 @@ SSEP = somatosensible evozierte Potentiale, diese werden zur Quantifizierung ein
 
 EEG: α-Wellen in Ruhe bei geschlossenen Augen, β-Wellen frontal,
 γ-Wellen beim Kind/Senium, δ-
-Wellen \>4Hz große langsame Wellen in Allgemeinnarkose. Eine Burst-Supression unter Thiopental ist eine zeitweise Unterdrückung (SUPPRESSION) der kortikalen EEG-Aktivität im Wechsel mit hochfrequenter EEG-Aktivität (BURST). Sie findet sich auch beim hypoxischen Hirnschaden.
+Wellen > 4Hz große langsame Wellen in Allgemeinnarkose. Eine Burst-Supression unter Thiopental ist eine zeitweise Unterdrückung (SUPPRESSION) der kortikalen EEG-Aktivität im Wechsel mit hochfrequenter EEG-Aktivität (BURST). Sie findet sich auch beim hypoxischen Hirnschaden.
 
 
 Komplikationen:
@@ -554,7 +554,7 @@ Komplikationen:
 - Posttraumatischer Diabetes insipidus: durch vermind. ADH-Sekretion, ½ Amp. Minirin (= 2 µg iv. Desmopressin)
 - Cerebral salt wasting Syndrom: Hyponatriämie mit Volumenmangel
 + hohes Harnnatrium
-- SIADH mit Na und Wasserretention: Hyponatriämie führt zum Sistieren der ADH-Sekretion bei gestörtem Regelkreis bei SHT, Urinosm. \> Serumosm. (\<280),
+- SIADH mit Na und Wasserretention: Hyponatriämie führt zum Sistieren der ADH-Sekretion bei gestörtem Regelkreis bei SHT, Urinosm. \> Serumosm. (\< 280),
 Oligourie.
 
 Mannit: 0,25  --  0,5g / kg KG rasch verabreicht senkt den ICP bis zu 4h! Es ist hyperosmolar
@@ -566,11 +566,11 @@ Risikofaktoren für sekundäre Hirnschädigung:
 - Hypoxie
 - Globale Ischämie bei CCP \< 50mmHg
 - Regionale Ischämie bei Vasospasmus (erhöhte Flussgeschwindigkeiten im transcraniellen Doppler)
-- Anämie HK \<30%
-- Hyperkapnie \>38mmHg (ICP Anstieg durch Vasodil.) und Hypokapnie\<25mmHg (Ischämie d.
+- Anämie HK < 30%
+- Hyperkapnie > 38mmHg (ICP Anstieg durch Vasodil.) und Hypokapnie\< 25mmHg (Ischämie d.
 Vasokonstr.)
 
 Hukkelhoven Score:
 Alter, Motor. Reaktin, Pupillen,
-Hypoxie, Hypotonie, CCT, Subarachnoidales Hämatom Licox oder Raumedic-Sonde zur pO2-Messung im Hirngewebe.
+Hypoxie, Hypotonie, CCT, Subarachnoidales Hämatom Licox oder Raumedic-Sonde zur pO₂-Messung im Hirngewebe.
 

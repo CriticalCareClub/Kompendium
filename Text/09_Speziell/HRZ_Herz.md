@@ -6,8 +6,8 @@
 
 
 
-Der Mensch ist ein Sauerstoffregulierer: ist das HZV vermindert wird mehr O2 ausgeschöpft.
-(ScvO2 \< 70).
+Der Mensch ist ein Sauerstoffregulierer: ist das HZV vermindert wird mehr O₂ ausgeschöpft.
+(ScvO₂ \< 70).
 Ab 100/min Sympathikusaktivierung, davor nur Rücknahme des Parasympathikus.
 HF und Cardial Output steigen parallel linear an. Das SV ist durch die notwendige Füllungszeit limitiert.
 Bei hoher HF verkürzt sich va. die Diastole und reduziert damit auch die Coronardurchblutung.
@@ -20,6 +20,6 @@ Reflex der VV-Synkope. Marathonläufer: beim Stillstand fehlt Muskelpumpe, Herz 
 Kranke haben nur eingeschränkte Kompensationsmechanismen. Problem bei Fieber mit hyperdynamischen Zustandsbild: das Blutvolumen befindet sich zu großen Teilen in der Haut (Splanchnikusdurchblutung vermindert!) Transmuraler Druck in den Venen wird bei Bedarf mobilisiert = stressed volumen. Preload ist abhängig vom ZVD und Gefäßwiderstand.
 
 Intensivpatient: Reduzierte zentrales Blutvolumen + oft schlechte Herzfunktion! Hohe HF, Verlust SVV (beatmet, relaxiert, regelm. Rhythmus).
-Hyperdynamer Zustand mit herabgesetzten TPVR und MAP\<50 mit hypovolämen Schock bei Sepsis.
+Hyperdynamer Zustand mit herabgesetzten TPVR und MAP\< 50 mit hypovolämen Schock bei Sepsis.
 
 

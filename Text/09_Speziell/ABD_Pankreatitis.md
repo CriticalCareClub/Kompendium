@@ -92,9 +92,9 @@ Diagnostik:
 - Feinnadelaspiration: sterile vs. Infizierte Nekrose (Keimbestimmung, Antibiogram!)
 
 Ranson-Score (Mortalitäts RISK)
-\>55a, Leuko\>16, Gluc \>200, LDH \>350, AST \>250 HK-Abfall \> 10%, Calcium-Abfall \>8, BE
-\>4 (Azidose), pos. Bilanz \> 6l, paO2\<60 (min. CPAP)
-5-6 signs 40%, \>7 signs 99% Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum, Aszites, Pleuraerguss, Nekrose,..
+\> 55a, Leuko\> 16, Gluc > 200, LDH > 350, AST > 250 HK-Abfall \> 10%, Calcium-Abfall > 8, BE
+\> 4 (Azidose), pos. Bilanz \> 6l, paO₂\< 60 (min. CPAP)
+5-6 signs 40%, > 7 signs 99% Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum, Aszites, Pleuraerguss, Nekrose,..
 
 
 
@@ -106,8 +106,8 @@ Der Hauptrisikofaktor für Sepsis und konsekutivem MOF ist die Infektion der Pan
 
 Kausale Therapie nur bei biliärer Pankreatitis mittels ERCP möglich. Sonst nur supportive Therapie zur Vermeidung von Komplikationen:
 
-- Volumen: signifikante Flüssigkeitsverluste in den dritten Raum bis zu 10l/24h!! mit Elektrolytverschiebungen, Einschwemmen von toxischen und vasoaktiven Substanzen:
-  Kristalloide + Kolloide + Vasopressoren (NA, VPR, Dobutamin) nach PICCO! Eine erfolgreiche Rehydration innerhalb der ersten 2 -- 24h kann das Outcome deutlich verbessern.
+- Volumen: signifikante Flüssigkeitsverluste in den dritten Raum bis zu 10l/24 h!! mit Elektrolytverschiebungen, Einschwemmen von toxischen und vasoaktiven Substanzen:
+  Kristalloide + Kolloide + Vasopressoren (NA, VPR, Dobutamin) nach PICCO! Eine erfolgreiche Rehydration innerhalb der ersten 2 -- 24 h kann das Outcome deutlich verbessern.
 - Septic shock: early goal directed therapy (AB breit, hoch dosiert, sofort)  +
 Vasopressoren+Fluid management = Eckpfeiler der IBS-Therapie
 - Respiratorisch: meist linksseitiger Pleuraerguss+Atelektasen + schmerzbedingte Hypoventilation = respiratorische Insuffizienz
@@ -119,7 +119,7 @@ Vasopressoren+Fluid management = Eckpfeiler der IBS-Therapie
 - Gerinnung: bei DIC FFP und Heparin
 - Hypokalziämie: Kalziumglukonat
 - Hyperglykämie: Insulin
-- Enterale Ernährung:  über eine nasogastrale Sonde mit fettarmer Ernährung, Beginn innerhalb von 24h, parenterale Ernährung soll vermieden werden. Limitierend ist eine schwere Gastroparese.
+- Enterale Ernährung:  über eine nasogastrale Sonde mit fettarmer Ernährung, Beginn innerhalb von 24 h, parenterale Ernährung soll vermieden werden. Limitierend ist eine schwere Gastroparese.
 - Chirurgische Therapie:
   bei infizierten Nekrosen (FNA) mittels Debridement, Aszitesentfernung, legen einer Drainage oder VAC. Demarkation der Nekrose tritt erst nach 2-3 Wochen nach Onset ein und ist Vorraussetzung für suffiziente Entfernung, daher am besten in Woche 4-8!!! Frühere chir. Intervention nur bei massiver Blutung, Darmperforation oder früher Infektion der Nekrose. Meist wiederholte Laparotomie mit Lavage und VAC.
 - Frühe Mobilisierung und frühes Weaning vom Respirator

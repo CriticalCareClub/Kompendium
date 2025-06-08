@@ -54,7 +54,7 @@ Aufrechterhaltung
 
 Beatmung
 
-: Adaption der Beatmung bei CO2-Insufflation (PEEP >  7 mbar, AZV, AF) und Kopf-Tieflagerung
+: Adaption der Beatmung bei CO₂-Insufflation (PEEP >  7 mbar, AZV, AF) und Kopf-Tieflagerung
 
 Perioperative Diagnostik
 
@@ -65,4 +65,4 @@ Ausleitung
 : Möglichst wenig pressen
 
 Gefahren
-: 1. CO2-Embolie
+: 1. CO₂-Embolie

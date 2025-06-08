@@ -27,7 +27,7 @@ Beschwerden, langer OP-Dauer.
 
 
 Rupturiertes AAA Sofort OP, da Abklemmung der Aorta lebensrettend!
-RSI mit reduzierter Dosis bei red. HZV, großlumige Zugänge, Einleitung mit Chirurgen gewaschen am Tisch (weitere Blutung durch Muskeltonusverlust nach Einleitung), blutgruppengleiche EK oder Oneg, Cell-Saver, Initial 100% FIO2 Beatmung, Level 1 für rasche Transfusion, Hotline,...
+RSI mit reduzierter Dosis bei red. HZV, großlumige Zugänge, Einleitung mit Chirurgen gewaschen am Tisch (weitere Blutung durch Muskeltonusverlust nach Einleitung), blutgruppengleiche EK oder Oneg, Cell-Saver, Initial 100% FiO₂ Beatmung, Level 1 für rasche Transfusion, Hotline,...
 Postoperative Komplikationen:
 Ileus, A.mesent. inferior Ischämie mit Darmischämie, Herzversagen, Arrhythmien, MCI,
 respiratorische Insuffizienz, ANV (Prophylaxe: Flüssigkeit, Lasix)

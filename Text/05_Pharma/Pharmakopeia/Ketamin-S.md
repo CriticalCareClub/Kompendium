@@ -81,7 +81,7 @@ Führt zu einer selektiven Hemmung neuronaler Funktionen im Cortex und Thalamus 
 (Prophylaxe des chron. Schmerzes), lokalanästhetische Wirkung und neuroprotektive Wirkung.
 Der zentrale Atemantrieb wird wenig beeinflusst. Bronchodilation.
 
-Bei Kindern Atemregulation (CO2-Response) beeinflusst + Gefahr des Laryngospasmus durch Speichelfluss!
+Bei Kindern Atemregulation (CO₂-Response) beeinflusst + Gefahr des Laryngospasmus durch Speichelfluss!
 Daher keine Anwendung bei Kleinkindern und Säuglingen.
 
 Ketamin stimuliert den Sympathikus durch Hemmung der NA-Wiederaufnahme = Anstieg von HF, RR, CO nicht dosisabhängig!

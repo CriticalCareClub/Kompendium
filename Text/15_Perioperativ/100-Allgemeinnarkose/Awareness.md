@@ -31,7 +31,7 @@ Daher Monitoring der Schlaftiefe mit spontanem EEG (BIS, NARKOTREND) oder akusti
 = Sedierungstiefe korreliert mit EEG-Muster (empirisch aus 5000 BIS festgestellt)
 
 Die Wahrscheinlichkeit einer motorischen Reaktion (Augen öffnen) korreliert schlecht mit dem BIS, aber mit der Wirkortkonzentration von Propofol, und sehr stark mit der Opiatkonzentration am Wirkort. = TIVA mit BIS + Opioid-lastig!! 40-60 in AN (=  normalisierte niedrigfrequente EEG-Aktivität)
-\<30 spricht man von einer **Burst Supression**!
+\< 30 spricht man von einer **Burst Supression**!
 
 Narkotrend
 : ist eine Ableitung eines Roh-EEG´s  über 3  Elektroden an der Stirn.

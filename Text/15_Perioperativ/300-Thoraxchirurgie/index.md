@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: Thoraxchirurgie
+# Thoraxchirurgie
 
 ```{toctree}
 :maxdepth: 1

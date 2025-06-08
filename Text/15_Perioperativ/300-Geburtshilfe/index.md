@@ -1,7 +1,7 @@
 
 (Spezielle-Anaesthesie-Schwangerschaft)=
 
-# Spezielle Anästhesie: Schwangerschaft
+# Schwangerschaft
 
 :::{toctree}
 

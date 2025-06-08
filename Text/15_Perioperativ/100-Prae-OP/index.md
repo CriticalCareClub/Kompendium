@@ -20,9 +20,10 @@ Achte auf:
 - Respiratorische Einschränkung?
 
 ### Operatives Risiko:
-- Leichte OP < 2h. \< 500 ml Blutverlust, z.B. CHE, AE, Hernien,...
-- Schwere OP \> 2h, \>  500 ml BV, Eingriffe an Thorax und Abdomen, LSK Resektionen, OP mit großen Flüssigkeitsverschiebungen (Ileus)
-und hämodynamischer Beeinflussung (Niere,...)
+- Leichte OP: < 2 h, < 500 ml Blutverlust,
+  z.B. CHE, AE, Hernien,...
+- Schwere OP: \> 2 h, > 500 ml BV,
+  z.B. Eingriffe an Thorax und Abdomen, LSK Resektionen, OP mit großen Flüssigkeitsverschiebungen (Ileus) und hämodynamischer Beeinflussung (Niere,...)
 - Elektiv -- dringend -- vital indiziert
 
 
@@ -70,7 +71,7 @@ Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
 | IV   | Ruhestenokardien, keine Arbeit möglich                |
 
 **LEE-Index** zur Abschätzung des Cardialen Risikos
--  Risikofaktoren: Ischäm. CMP, Herzinsuffizienz, zerebrovask. Insult, IDDM, chron. Niereninsuff.
+- Risikofaktoren: Ischäm. CMP, Herzinsuffizienz, zerebrovask. Insult, IDDM, chron. Niereninsuff.
 - I keine Risikofaktoren
 - II 1 RF
 - III 2 RF

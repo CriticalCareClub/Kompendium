@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: Orthopädie
+# Orthopädie
 
 :::{toctree}
 :maxdepth: 1

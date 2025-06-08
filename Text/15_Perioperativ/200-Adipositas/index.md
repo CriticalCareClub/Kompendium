@@ -4,18 +4,17 @@
 <!-- 16. -->
 
 BMI = kg/m²
-Bis 25 normal, unter 18,5 Untergewicht Grad I 30-35 Grad II 35-40 Grad III 40 plus Morbide Adipositas zw. 40 und 50 (Mortalität steigt ab 40
+Bis 25 normal, unter 18,5 Untergewicht Grad I 30-35 Grad II 35-40 Grad III 40 plus Morbide Adipositas zw. 40 und 50 (Mortalität steigt ab 40)
 
 Ursachen: Fehlernährung, mangelnde Bewegung, SD (Hashimoto), Cushing, Med. NW: Insulin,
 Pille, Antidepressiva, Betablocker,..
-Oft sekundäre Erkrankungen: Hypertonie, KHK, DM, Herzinsuffizienz,
-Fettleber,...
+Oft sekundäre Erkrankungen: Hypertonie, KHK, DM, Herzinsuffizienz, Fettleber,...
 
 Die Medikamentendosierung wird unterschiedlich berechnet. Man verwendet dabei:
 Total body weight (tatsächliches Gewicht): Suxamethonium,
 Antibiotika
  Adjusted body weight (ideale Gewicht abhängig von Grösse, Geschlecht und Alter): Propofol
-(Perfusor), Midazolam, Alfentanil, Sugammadex, Neostigmin, NMWH
+(Perfusor), Midazolam, Alfentanil, Sugammadex, Neostigmin, LMWH
 
 
 

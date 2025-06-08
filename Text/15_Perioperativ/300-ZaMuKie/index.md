@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: Zahn, Mund, Kiefer
+# Zahn, Mund, Kiefer
 
 ```{toctree}
 :maxdepth: 1

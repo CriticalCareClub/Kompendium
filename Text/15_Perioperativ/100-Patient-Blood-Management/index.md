@@ -19,11 +19,11 @@
 - Minimalinvasive OP-Technik, chirurgische Blutstillung, unspezifische Gerinnungsoptimierung (Normothermie, Azidose vermeiden, Hypokalziämie korregieren), Cellsaver,
 - Bluttransfusion nach sorgfältiger Indikationsstellung:
 
-  Über einem Hämoglobinwert von 8 g/dl sollte nur dann eine Erythrozytenkonzentratgabe stattfinden, wenn
+  Über einem Hämoglobinwert von 8 g/dl sollte nur dann eine Erythrozytenkonzentrat-Gabe stattfinden, wenn
 
   - klinische Hinweise auf globale oder regionale Sauerstoffdefizite vorliegen, insbesondere unter Berücksichtigung relevanter Vorerkrankungen.
-  - von einen absoluten Hämoglobin-Verlust auszugeehn ist (vor krsitalloidem Voluemsersatz)
+  - von einen absoluten Hämoglobin-Verlust auszugehen ist (vor kristalloidem Volumsersatz)
   - mit einem bevorstehenden relevanten Blutverlust zu rechnen ist
-- Verbesserung der individuellen Anämietoleranz: anästhesiologisch intensivtherapeutische Maßnahmen zur Steigerung der Anämietoleranz (v. a. Optimierung des Herzzeitvolumens, Optimierung der Beatmung, Reduktion des Sauerstoffverbrauchs), postopertive Schmerztherapie, Eisenstatus mit ev. Substitution, ev. Erythropoetin-Gabe.
+- Verbesserung der individuellen Anämietoleranz: anästhesiologisch intensivtherapeutische Maßnahmen zur Steigerung der Anämietoleranz (v. a. Optimierung des Herzzeitvolumens, Optimierung der Beatmung, Reduktion des Sauerstoffverbrauchs), postoperative Schmerztherapie, Eisenstatus mit ev. Substitution, ev. Erythropoetin-Gabe.
 
 

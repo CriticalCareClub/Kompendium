@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: Gefäßchirurgie
+# Gefäßchirurgie
 
 :::{toctree}
 :maxdepth: 1

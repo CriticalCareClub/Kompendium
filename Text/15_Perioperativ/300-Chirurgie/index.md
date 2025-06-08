@@ -1,6 +1,6 @@
 
 
-# Spezielle Anästhesie: Allgemeinchirurgie
+# Allgemeinchirurgie
 
 <!--  42.  -->
 

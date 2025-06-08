@@ -36,14 +36,16 @@ Kinder bei klarem Bewusstsein dürfen(wenn kein Einwand vom Operateur) sofort na
 
 Transfusionsindikation:
 normal 80 ml/kg Blutvolumen; Blutverluste sollen sofort mit isotonen kristalloiden oder kolloiden Lösungen ausgeglichen werden. Eine EK-Gabe soll beim gesunden Kind, ohne weitere Blutung, erst \< 25HK erwogen werden.
-- NG Hb\< 13, 2 Monate Hb\< 8, > 2Monate Hb\< 7 = ca. HK 25, ab 2 Lj.
-Hk\< 6 g/dl
+- NG Hb < 13, 2 Monate Hb < 8,
+  \> 2 Monate Hb < 7 = ca. HK 25,
+  ab 2 Lj. Hk\< 6 g/dl
 - 3 ml/kg Erythrozytenkonzentrat hebt den Hb um 1 g / dl!
 - Säuglinge erhalten bestrahlte Ery im Babybeutel zu 50 ml.
 
 
-Gerinnungsmanagement:
-EK 10 ml/kg, TK 10 ml/kg,    Faktorengabe, Ca, FFP 10 ml/kg, Temperatur!, Cyclokapron, Novo7 90 µg / kg, Beriplex 1IE/kg hebt PTZ um 1
+Gerinnungsmanagement
+: EK 10 ml/kg, TK 10 ml/kg,    Faktorengabe, Ca, FFP 10 ml/kg, Temperatur!, Cyclokapron, Novo7 90 µg / kg, Beriplex 1IE/kg hebt PTZ um 1
+
 ## 17.2. Atemwegsmanagement: *
 
 Anatomische Besonderheiten: kurze (ca. 4cm) und enge Trachea (Ödem!), Ringknorpel engste Stelle, gleichwinkelige Bronchienabgänge (einseitige IT bds. möglich), U-förmige und lange Epiglottis, große Zunge, hyperplastische Tonsillen, Adenoide, verminderte FRC mit erhöhtem O₂-
@@ -57,10 +59,9 @@ Eine Obstruktion des Larynxeingangs in AN oder bei Laryngomalazie ist durch die 
 Intubation: Tubus \> 1a
 = Alter/4+4 Intubationstiefe oral: Alter/2+12cm (nasal +2-3cm)
 - NG: HF 120-170, RRsyst 60-80, AF 40-60, Tubus 3,5, nasal 11-12cm
-- 12Monate: HF 100-150, RRsyst 70-110, AF 25-40, Tubus 4,0 bei 14cm nasal, LMA 1 ½
-- 4Jahre: HF 80-130, RRsyst\> 90, AF 20-30, Tubus 5 bei 14cm oral, LMA 2.
-(10 -- 20 kg KG)
-- 8Jahre: HF 70-110, RRsyst\> 90+Alter x 2, AF 20-25, Tubus 6 bei 16cm oral, LMA 2 ½ (20 -- 30 kgKG)
+- 12 Monate: HF 100-150, RRsyst 70-110, AF 25-40, Tubus 4,0 bei 14cm nasal, LMA 1 ½
+- 4 Jahre: HF 80-130, RRsyst\> 90, AF 20-30, Tubus 5 bei 14cm oral, LMA 2. (10 -- 20 kg KG)
+- 8 Jahre: HF 70-110, RRsyst\> 90+Alter x 2, AF 20-25, Tubus 6 bei 16cm oral, LMA 2 ½ (20 -- 30 kgKG)
 Gerader Spatel bei Kindern ohne Zähne, orale IT bei kurzen Eingriffen, Notfällen und hohem Aspirationsrisiko.
 - PEEP 3 < 3 kg, 4 3-10 kg, 5 > 10 kg Gecuffter versus ungecuffter Tubus: Nur noch Microcuff-Tuben oder ungecuffte T. verwenden!
 Vorteil mit Cuff: Atemsystem dichter, bessere Fixierung, weniger umintubieren nötig Nachteil ungecufft: immer Leckage, Monitor zeigt mir nicht was ins Kind hineinkommt.
@@ -86,48 +87,57 @@ Bei bekanntem schwierigem Atemweg muss vor Einleitung ein venöser Zugang gelegt
 Beim gesunden Kind und Standart-Plan OP kann mit Gas eingeleitet werden, und unter erhaltener Spontanatmung ein Zugang gesetzt werden. Komplikationen sind beim Kind fast immer respiratorisch!
 
 Cannot ventilate = NOTFALL!! HILFE HOLEN!
-1. Kopfposition korregieren, ev. Rolle unter Schultern, Kinn anheben (Mund zu), UK anheben
-(Mund offen)
+1. Kopfposition korregieren, ev. Rolle unter Schultern, Kinn anheben (Mund zu), UK anheben (Mund offen)
 2. Maske korrekt halten, Guedel Tubus (nie bei oberflächlicher Narkose!)
-3. Narkose vertiefen 4. Ev. LMA,
-5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch 6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen, PEEP, ev. Relaxieren, nasaler ETT, LMA 7. Oxygenierung nicht möglich = Cannot ventilate and intubate = chir. Atemweg Quick-Trach, Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
+3. Narkose vertiefen
+4. Ev. LMA,
+5. 1 x Laryngoskopieren zur Inspektion des Hindernisses mit 1 Intubationsversuch
+6. Hinderniss beseitigen: FK entfernen, Blut absaugen, Laryngospasmus: Narkose vertiefen, PEEP, ev. Relaxieren, nasaler ETT, LMA
+7. Oxygenierung nicht möglich = **Cannot ventilate and intubate** = chir. Atemweg Quick-Trach, Stichtechnik mit KIT Im Notfall kann bei Sättigungseinbruch der Tubus nasal in den Nasopharyngealraum eingeführt werden, Nase und Mund zuhalten und beatmen!
 
 Cannot intubate, aber Oxygenierung möglich!
 Max. 2 Versuche, dann Hilfe holen!
 - Ist die OP auch ohne Tubus mit LMA/LT/Maskennarkose möglich?
 - Intubatin notwendig: Airtraq, Videolaryngoskop, COOK/Eschmannkatheter, dünner Tubus, fiberoptische Intubation über die LMA oder Intubationsmaske.
 
-Einleitungsmedikamente:
-Propofol 3-6 mg / kg (TIVA 4-10 mg / kg / h)
-Thiopental 3-7 mg / kg Midazolam 0,05-0,2 mg / kg iv.
-Ketanest 1-2 mg / kg Fentanyl 2-3 mcg / kg Rapifen 20-30 mcg / kg Ultiva: 1 mg auf 50NaCl = 20myg / ml, 0,1myg / kg / min = Start auf kg x 0,3 ml/h (bis 0,3 mcg / kg / min)
-Rocuronium 0,6 mg / kg
+Einleitungsmedikamente
+: Propofol 3-6 mg / kg (TIVA 4-10 mg / kg / h)
+  Thiopental 3-7 mg / kg Midazolam 0,05-0,2 mg / kg iv.
+  Ketanest 1-2 mg / kg Fentanyl 2-3 mcg / kg Rapifen 20-30 mcg / kg Ultiva: 1 mg auf 50NaCl = 20myg / ml, 0,1myg / kg / min = Start auf kg x 0,3 ml/h (bis 0,3 mcg / kg / min)
+  Rocuronium 0,6 mg / kg
 
 
 
 
 Succinylcholin 1-2 mg / kg Neostigmin 40myg / kg (Amp = 2,5 mg) + 20 mcg / kg Atropin od. 0,005-0,01 mg / kg Robinul (Amp =
 0,2 mg)
+
 Atropin nie routinemäßig, sondern nur bei Bradykardie anwenden. KI sind Fieber und Mukoviszidose, NW Atropinfieber.
 
 
 ## 17.4. Bronchospasmus: *
 
 VT nimmt ab durch Bronchospasmus mit Air-Traping (Auskult: Giemen, Brummen, Pfeifen expiratorisch)
-Therapie: FiO₂ auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern! Narkose vertiefen, 1-3 mcg / kg Adrenalin iv, Dexamethason 0,5 mg / kg iv, ev. Ketanest 1-2 mg / kg, Theophyllin 5 mg / kg initial dann 1 mg / kg /h. (Wenn im Rahmen anaphylaktoider Reaktion : Fenistil 0,1 mg / kg iv./ H1-Blocker; H2-Blocker erst > 12Lj Ranitidin)
+
+Therapie
+: FiO₂ auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern!
+  Narkose vertiefen, 1-3 mcg / kg Adrenalin iv, Dexamethason 0,5 mg / kg iv, ev. Ketanest 1-2 mg / kg, Theophyllin 5 mg / kg initial dann 1 mg / kg /h.
+
+  (Wenn im Rahmen anaphylaktoider Reaktion: Fenistil 0,1 mg / kg iv./ H1-Blocker; H2-Blocker erst > 12Lj Ranitidin)
 
 ## 17.5. Das postoperative Kind: *
 
-PONV-Prophylaxe: wirken auf die Chemotriggerzone des Brechzentrums in Formatio reticularis)
-Dexamethason 0,15 mg / kg (Glucocorticoide)
-Zofran 0,1 mg / kg (Ondansetron, 5-HT3-Antagonist)
-Vomex A (Dimenhydrinat, Antihistaminika)
-DHB 20-40 µg / kg ab 2 Lj.
-Bei postoperativer Übelkeit immer zuerst Flüssigkeit, da oft Hypovolämie die Ursache!!
+PONV-Prophylaxe
+: wirken auf die Chemotriggerzone des Brechzentrums in Formatio reticularis)
+  - Dexamethason 0,15 mg / kg (Glucocorticoide)
+  - Zofran 0,1 mg / kg (Ondansetron, 5-HT3-Antagonist)
+  - Vomex A (Dimenhydrinat, Antihistaminika)
+  - DHB 20-40 µg / kg ab 2 Lj.
+
+  Bei postoperativer Übelkeit immer zuerst Flüssigkeit, da oft Hypovolämie die Ursache!!
 
 Postoperative Schmerztherapie:
-- Perfalgan < 10 kg 7,5 mg / kg + \> 10 kg 15 mg / kg iv.
-alle 6 h (Toxische TD 150-200 mg / kg)
+- Perfalgan < 10 kg 7,5 mg / kg + \> 10 kg 15 mg / kg iv. alle 6 h (Toxische TD 150-200 mg / kg)
 - Novalgin 15 mg / kg alle 6h
 - Mexalen Supp rektal Sgl. 125 mg bis 6 Jahre 250 mg
 - Parkemedsaft, Nureflexsaft
@@ -152,8 +162,7 @@ Insufflation in den Aufwachraum legen
 
 Schmerzskala:
 - KUSS = Kindliche Unbehagen Schmerz Skala bei Kindern  \<  3-4 Lj: Weinen (nicht, jammern, schreien), Gesichtsausdruck (entspannt, Mund verzerrt, Grimassiert), Rumpfhaltung (neutral, unruhig, aufbäumen, krümmen), Beinhaltung (neutral, strampelt, angezogen), motorische Unruhe (keine, mäßig, ruhelos). Ab 4 Punkten Therapiebedarf!
-- SAS
-= Smiley Analog Skala ab 3-4 Lj: von 0-5 (stärkste vorstellbare Schmerzen) (Pain Face S.)
+- SAS = Smiley Analog Skala ab 3-4 Lj: von 0-5 (stärkste vorstellbare Schmerzen) (Pain Face S.)
 - NRS: numerische rating skala ab 6Lj: 0-10 (11 stufige NRS), ab 4 Handlungsbedarf.
 
 
@@ -168,18 +177,17 @@ Schutzintubation in Tracheotomiebereitschaft (HNO) mit  ½  bis 1  Nummer kleine
 
 ## 17.6. Kindersedierung *
 
-1) Minimale Sedierung: Anxiolysis 2) Moderate Sedierung: Spontanatmung erhalten, reagiert auf Ansprache und leichte Berührung, z.B. CT (schmerzfreie Untersuchungen)
-(Zielparameter ist der Schlaf)
-3) Tiefe Sedierung/Analgosedierung: unsichere Spontanatmung, Reaktion auf Schmerzreiz, z.B.
-für MRT (Lautstärke!)
-4) Allgeinanästhesie: keine Reaktion auf Schmerz
+1. Minimale Sedierung: Anxiolysis
+2. Moderate Sedierung: Spontanatmung erhalten, reagiert auf Ansprache und leichte Berührung, z.B. CT (schmerzfreie Untersuchungen)
+   (Zielparameter ist der Schlaf)
+3. Tiefe Sedierung/Analgosedierung: unsichere Spontanatmung, Reaktion auf Schmerzreiz, z.B. für MRT (Lautstärke!)
+4. Allgeinanästhesie: keine Reaktion auf Schmerz
 
 Vorraussetzungen: SOAP ME Suction, Oxygen, airway, pharmacy, monitors, equipment
 +  nicht verkühltes, nüchternes Kind, Aufklärung und Einwilligung der Eltern, Venflon, Standartmonitoring (Blutdruck vor und nach Sedierung), funktionstüchtige Narkosemaschine, Airway-Equipment, geschulten Anästhesisten.
 Prämed: 0,5 mg Dormicum/kg po (max. 10 mg po)
 
-- Dormicum 0,1 mg / kg + 1-2 mg / kg Ketanes +20 mcg Atropin wg.
-Hypersalvisation
+- Dormicum 0,1 mg / kg + 1-2 mg / kg Ketanes +20 mcg Atropin wg. Hypersalvisation
 - 0,1-0,2/kg Nubain langsam iv. + 1-2 mg / kg Propofol (mit 1:10 Lidocain) + ev. 0,5 mg / kg Bolus alle 30sec. bis das Kind schläft. Bei langandauernden Untersuchungen Propofolperfusor mit 5-8 mg / kg / h
 + Regionalanästhesie oder LA bei Punktionen!
 
@@ -201,10 +209,8 @@ EKG/Defi anlegen:
 + Amiodaron - ....nach ROSC Amiodaron Dauerinfusion!
 - Asystolie, Bradykardie  \< 60/min ohne Kreislaufzeichen, oder pulslose elektrische Aktivität PEA: CPR weiter mit 0,01 mg / kg Adrenalin alle 3 bis 5 Minuten.
 - Spontankreislauf wiederhergestellt
-(ROSC
-=
-Return of spontan circulation):
-Reanimationsnachsorge
+
+(ROSC = Return of spontan circulation): Reanimationsnachsorge
 
 Atemwegsmanagement:
 Atemwege sichern: Intubation (LT, CT) mit Kapnometrie (oder Farbindikatorfilter), Kind ohne Kreislauf braucht keine Medikamente zur Intubation (RSI). Bei Va. HWS-Verletzung stabilisieren!
@@ -233,11 +239,9 @@ Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 Grundeinstellung Respirator:
 TV 6-10 ml/kg Pinsp 12 PEEP 3-5 I:E 1:1,5 Brustkorb muss sich beidseits vollständig heben und senken, SaO₂, etCO₂ und BGA!
 Analgetika: multimodale Analgesie = + RA + NSAR
-- Kreislaufstabiles Kind:
-Morphin Piritramid Remifentanyl
+- Kreislaufstabiles Kind: Morphin Piritramid Remifentanyl
 
-- Kreislaufinstabiles Kind:
-Fentanyl S-Ketamin
+- Kreislaufinstabiles Kind: Fentanyl S-Ketamin
 
 
 Sedativa:
@@ -248,8 +252,7 @@ Sedativa:
 Beispiel:
 Initial: Midazoloam + Propofol + Morphin (solange Intubation notwendig: Opiate)
 Switch (reduziert NW, Bessere Steuerung der Wirkzeiten, Abkürzung Entzugssymptome)
-Weaning/Extubation: Midazolam + Clonidin + Remifentanyl
-+ Regionalanästhesie wenn möglich Midazolam + Remifentanyl ausschleichen + zum Schluss Clonidin ausschleichen.
+Weaning/Extubation: Midazolam + Clonidin + Remifentanyl + Regionalanästhesie wenn möglich Midazolam + Remifentanyl ausschleichen + zum Schluss Clonidin ausschleichen.
 
 
 ## 17.9. Regionalanästhesie bei Kindern
@@ -278,9 +281,11 @@ Spina Bifida, kongenitale Vitien Möglich bis zum 6  Lebensjahr/ca. 25 kg, dan
 Durchführung: Linksseitenlage, obere Hüfte 90° untere 45° oder 90° gebeugt. Einzeichnen eines gleichschenkeligen Dreiecks von beiden Spina iliacae superior zum Hiatus sacralis.
 Hautdesinfektion, 22-25 g Kaudalnadel perforiert die Membrana saccoczygea („POP") + 1-2 mm vorschieben, Aspiration in 2 Ebenen, Injektion über Verlängerungsschlauch
 (immobile Nadel).
-Dosis: Ropivacain 0,2% 1-1,5 ml/kg
-+ 2 mcg / kg Clonidin (Kind \> 3Monate). Die Analgesie verlängert sich durch das Clonidin von 4-6h auf bis zu 12h! Je nach Dosierung kann eine Blockade bis Th12 oder Th8 erreicht werden. Onset-time liegt bei 8 bis 14 Minuten.
-Gefahr eine Fehlinjektion subcutan, periostal, rectal oder subarachnoidal!
+
+Dosis
+: Ropivacain 0,2% 1-1,5 ml/kg + 2 mcg / kg Clonidin (Kind \> 3Monate). Die Analgesie verlängert sich durch das Clonidin von 4-6h auf bis zu 12h! Je nach Dosierung kann eine Blockade bis Th12 oder Th8 erreicht werden. Onset-time liegt bei 8 bis 14 Minuten.
+
+  Gefahr eine Fehlinjektion subcutan, periostal, rectal oder subarachnoidal!
 
 
 Spinalanästhesie Vorallem bei FG und ehemaligen FG unter der 56 postkonzeptionellen Woche zur Vermeidung einer AN mit erhöhtem Risiko einer postoperativen Apnoe.
@@ -308,7 +313,9 @@ N. Tibialis Block: in der Kniekehle gestochen, für Anästhesie der Fußsohle, z
 Peniswurzelblock: CC, bei 11 und 13 Uhr Blockade der N. dorsalis penis mit 0,1 ml/kg Bubivacain 0,25 (ohne Vasokonstriktor).
 KEIN Naropin = vasokonstriktorisch wirksam + subkutane Quaddel an der dorsalen Penisraphe.
 
-## 17.10. Ambulante chirurgische bzw. anästhesiologische Versorgung von Kindern Vorraussetzung: Personelle und räumliche Ausstattung, Gute sprachliche Verständigung mit den Eltern, Eltern erfahren genug das Kind postoperativ zu betreuen.
+## 17.10. Ambulante chirurgische bzw. anästhesiologische Versorgung von Kindern
+
+Vorraussetzung: Personelle und räumliche Ausstattung, Gute sprachliche Verständigung mit den Eltern, Eltern erfahren genug das Kind postoperativ zu betreuen.
 Kurze Eingriffe, ohne Blutung, gesundes Kind, chronischen Erkrankungen mit erhöhtem Apnoerisiko mit längerer Beobachtungsphase (individueller Entscheid).
 Entlassung wenn respiratorisch und neurologisch unauffällig, keine Schmerzen, kein PONV, keine erkennbare Blutung. Eltern  über Schmerztherapie, Kontaktmöglichkeit bei Komplikationen und Nachsorgeplan aufgeklärt.
 

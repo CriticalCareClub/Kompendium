@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: HNO und MKG-Chirurgie (ORL)
+# HNO und MKG-Chirurgie (ORL)
 
 
 

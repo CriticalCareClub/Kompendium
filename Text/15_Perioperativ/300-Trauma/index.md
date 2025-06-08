@@ -1,4 +1,4 @@
-# Spezielle Anästhesie: Trauma
+# Trauma
 
 ```{toctree}
 :maxdepth: 1

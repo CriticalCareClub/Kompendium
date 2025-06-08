@@ -1,7 +1,7 @@
 
 
 
-# Spezielle Anästhesie: Urologie
+# Urologie
 
 
 ```{toctree}

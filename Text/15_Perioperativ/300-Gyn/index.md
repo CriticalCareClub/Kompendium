@@ -1,6 +1,6 @@
 (thema-ops-gynaekologie)=
 
-# Spezielle Anästhesie: Gynäkologie und Geburtshilfe
+# Gynäkologie und Geburtshilfe
 
 ```{toctree}
 :caption: Inhalt

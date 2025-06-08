@@ -1,7 +1,7 @@
 
 (Anaesthesie-Augen)=
 
-# Spezielle Anästhesie: Augenheilkunde
+# Augenheilkunde
 
 <!--  57.  -->
 

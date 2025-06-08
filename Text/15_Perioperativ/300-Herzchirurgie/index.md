@@ -1,7 +1,7 @@
 
 
 
-# Spezielle Anästhesie: Herzchirurgie/angiographische Eingriffe
+# Herzchirurgie/angiographische Eingriffe
 
 <!-- 44.  -->
 

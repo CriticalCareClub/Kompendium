@@ -37,7 +37,10 @@ Aortenklappenstenose
 Apnoe
 Areflexie
 Aspirationsgefahr
+Asystolie
 Aszites
+Atelektasen
+Atelektasenbildung
 Atemzugsvolumen
 Aufzweigung
 Auskultation
@@ -430,6 +433,7 @@ zentralvenös
 zentralvenöse
 zentralvenösen
 zweizeitige
+Zwerchfellruptur
 Zwischengewebsraum
 Zyanose
 zyanotisch

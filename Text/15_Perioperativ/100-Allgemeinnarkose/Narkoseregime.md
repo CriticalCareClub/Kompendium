@@ -21,7 +21,6 @@
 (BIVA)=
 (Narkoseregime)=
 
-
 # Narkoseregime: Gasnarkose, TIVA, balancierte Anästhesie
 
 Heutzutage wird meist eine **Kombinationsnarkose** angewandt.
@@ -52,7 +51,7 @@ Diese Narkosestadien könne klassisch bei der obsoleten Äther-Narkose beobachte
 Bei der Narkoseausleitung durchläuft der Patient die Stadien in umgekehrter Reihenfolge.
 
 In der modernen Anästhesie stehen verschiedene Methoden zur Verfügung, um eine adäquate Allgemeinanästhesie zu erzielen.
-Die drei wichtigsten Konzepte sind die **Inhalationsnarkose (Gasnarkose)**, die **Total-intravenöse Anästhesie (TIVA)** sowie die **balancierte Anästhesie** (bzw. als Sonderform die balancierte intravenöse Anästhesie (*BIVA*)), eine Kombination aus beiden.
+Die drei wichtigsten Konzepte sind die **Inhalationsnarkose (Gasnarkose)**, die **Total-intravenöse Anästhesie (TIVA)** sowie die **balancierte Anästhesie** (bzw. als Sonderform, mit Schwerpunkt auf intravenöser Gabe und komplementärem Narkosegas zur Awareness-Prophylaxe, die *balancierte intravenöse Anästhesie* (*BIVA*[^BIVA-Disclaimer])), eine Kombination aus beiden.
 Die Wahl des geeigneten Verfahrens hängt von patienten- und eingriffsspezifischen Faktoren sowie institutionellen Gegebenheiten und nicht zuletzt der Präferenz und Erfahrung des Durchführenden ab.
 
 Im Gegensatz zu den Inhalationsanästhetika haben *i.v.-Anästhetika* den Vorteil einer *raschen Narkoseeinleitung* und sind daher heutzutage bei der Einleitung Standard.

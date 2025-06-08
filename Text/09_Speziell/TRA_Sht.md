@@ -22,6 +22,10 @@ Die häufigsten Ursachen von Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle,
 - Das Leitsymptom des SHT ist die *Bewusstseinsstörung*.
 :::
 
+
+
+<!-- ### Section ################################################## -->
+
 ## Begleitende Verletzungen
 
 ::::{only} not nosidebar
@@ -46,6 +50,10 @@ Die häufigsten Ursachen von Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle,
   - Unterkiefer
 
 Die Schwere eines SHT lässt sich nur bedingt von den äußerlich sichtbaren Verletzungen ableiten! Oft werden im Krankenhaus Frakturen festgestellt, ohne dass äußere Wunden vorliegen. Eine *sorgfältige Untersuchung* ist daher bei jedem SHT Pflicht!
+
+
+
+<!-- ### Section ################################################## -->
 
 ## Gefahren
 
@@ -113,6 +121,10 @@ Bei einem SHT kann es zu einer Hirndrucksteigerung kommen, , die in einer akut l
 :::{danger}
 Das **luzide Intervall** kann zu einer katastrophalen Fehleinschätzung des Patientenzustandes führen!
 :::
+
+
+
+<!-- ### Section ################################################## -->
 
 (sht-diagnostik)=
 
@@ -199,6 +211,10 @@ PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wicht
   (24 h lang) aufgenommen.
 :::
 
+
+
+<!-- ### Section ################################################## -->
+
 (ts06xx0c)=
 (m-am-sht)=
 (m-sht)=
@@ -230,6 +246,15 @@ PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wicht
     - Knochen oder Fremdkörper *nicht* entfernen
       oder zurück stopfen
 
+
+
+<!-- ### Section ################################################## -->
+<!-- 
+:::{index} single: 
+:::
+
+()= -->
+
 ## Offenes SHT
 
 Hinweise auf ein offenes SHT sind:
@@ -243,6 +268,15 @@ Hinweise auf ein offenes SHT sind:
 - Blutungen
 - Liquoraustritt
 
+
+
+<!-- ### Section ################################################## -->
+<!-- 
+:::{index} single: 
+:::
+
+()= -->
+
 ## Gedecktes SHT
 
 Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei Grade eingeteilt:
@@ -250,6 +284,8 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung d
 - {dfn}`Gehirnerschütterung` {index}` <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
 - {dfn}`Gehirnprellung` {index}` <! Gehirnprellung>` SHT 2°, Contusio cerebri
 - {dfn}`Gehirnquetschung` {index}` <! Gehirnquetschung>` SHT 3°
+
+
 
 ### Grade des geschlossenen SHT
 

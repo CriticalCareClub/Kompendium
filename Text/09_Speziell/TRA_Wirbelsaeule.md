@@ -50,17 +50,17 @@ Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule, die zur 
 
 :::{margin} Schleudertrauma, Peitschenschlagsyndrom
 - Auffahrunfall
-- Zerrung des Halsmarks
+- Zerrung des Halsrückenmarks
 :::
 ::::
 
-Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn der Patient nicht angeschnallt war, oder die Kopfstütze fehlt. Es kommt zu einer Zerrung des Halsmarks, welche sich durch *Schmerzen im HWS-Bereich*, Kopfschmerzen, Schwindel, Tinnitus und evtl. neurologische Ausfälle (in schweren Fällen) bemerkbar macht.
+Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn der Patient nicht angeschnallt war, oder die Kopfstütze fehlt. Es kommt zu einer Zerrung des Halsrückenmarks, welche sich durch *Schmerzen im HWS-Bereich*, Kopfschmerzen, Schwindel, Tinnitus und evtl. neurologische Ausfälle (in schweren Fällen) bemerkbar macht.
 
 ## Querschnittssyndrom
 
 ::::{only} not nosidebar
 
-:::{margin} Querschnittssyndrom
+:::{margin} Querschnittsyndrom
 - Ausfall von Motorik und/oder Sensibilität
 - Blutdruckabfall
 - Schlaffe oder spastische Lähmung der Extremitäten
@@ -69,7 +69,7 @@ Schleudertraumen kommen bei Auffahrunfällen vor, insbesondere dann, wenn der Pa
 :::
 ::::
 
-Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei der Rettung, der Untersuchung und dem Transport des Patienten ist unbedingt notwendig. Es können folgende Symtome auftreten:
+Kommt es zu einer Druckerhöhung (z. B. aufgrund einer Blutung) im Rückenmark oder zu einer Durchtrennung des Rückenmarks können Symptome eines Querschnitts auftreten. Ein sorgsamer und vorsichtiger Umgang bei der Rettung, der Untersuchung und dem Transport des Patienten ist unbedingt notwendig. Es können folgende Symptome auftreten:
 
 - Ausfall von Motorik und/oder Sensibilität
 - Blutdruckabfall aufgrund fehlender Gefäßregulation
@@ -148,5 +148,5 @@ Vgl. {ref}`m-einschaetzung-indikation-ws-immobilisation`
   - Bei Querschnittslähmung:
     Kennzeichnung der Sensibilitätsgrenze mit Angabe der Uhrzeit
   - **Monitoring**: Achte besonders auf Störungen
-    von Atmung und Bewußtsein, sowie Schockentwicklung.
+    von Atmung und Bewusstsein, sowie Schockentwicklung.
   - **Transportentscheidung**: Schockraum

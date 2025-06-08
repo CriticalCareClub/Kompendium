@@ -35,10 +35,10 @@ Die Einschätzung über das Ausmaß der Verletzung bzw. der vitalen Bedrohung is
 
    Meistens sind die Zahlenwerte dieser Faktoren im
    Einsatzfall jedoch nicht bekannt, sodass eine theoretische
-   Abschätzung der Gefährung praktisch nicht durchführbar ist.
+   Abschätzung der Gefährdung praktisch nicht durchführbar ist.
 
 2. Die **Strommarken** (Verbrennungen an den Ein- und Austrittsstellen)
-   sind i. d. R. klein, sodass die Schädung im Körperinneren nicht
+   sind i. d. R. klein, sodass die Schädigung im Körperinneren nicht
    abgeschätzt werden kann. Im Zweifelsfall muss man mit ausgedehnten
    inneren Verletzungen rechnen.
 
@@ -53,6 +53,10 @@ Die Einschätzung über das Ausmaß der Verletzung bzw. der vitalen Bedrohung is
 [^footnote-2]: Die Stärke des elektrischen Stromes wird in Ampere (A) gemessen.
 
 Die Orientierung an Symptomen ist für die Einschätzung der vitalen Bedrohung daher oft sinnvoller.
+
+
+
+<!-- ### Section ################################################## -->
 
 ## Symptome
 
@@ -71,7 +75,7 @@ Die Orientierung an Symptomen ist für die Einschätzung der vitalen Bedrohung d
 
   - Verkrampfung (kann den stromführenden Teil nicht loslassen)
   - Sensibilitätsstörungen
-  - ZNS → Bewußtseinsstörung
+  - ZNS → Bewusstseinsstörung
   - Herzrhythmusstörungen (Kammerflimmern, evtl. als Spätfolge!)
 
 - Bewusstseinsstörungen bis Krampfanfälle oder Bewusstlosigkeit
@@ -88,31 +92,28 @@ Die Orientierung an Symptomen ist für die Einschätzung der vitalen Bedrohung d
   Strom im Körperinneren – unterhalb des Hautmantels – viel Schaden
   anrichtet.
 
+
+
+<!-- ### Section ################################################## -->
+
 ## Spezielle Mechanismen und Situationen
 
 Stromüberlandleitungen (Hochspannungsleitungen)
-
-: Bei Überlandleitungen ist mit Hochspannung (380 000 V (380 kV)) zu
-  rechnen. Ist eine Hochspannungsleitung gerissen und berührt den
-  Boden, so ist besondere Vorsicht geboten! Da auch das Erdreich einen
-  elektrischen Widerstand hat, gibt es in der Nähe der gerissenen
-  Leitung im Boden einen Spannungsabfall. Bewegt man sich in großen
-  Schritten auf das Kabel zu oder vom Kabel weg, so tritt zwischen den
-  Füßen eine derart hohe Spannung auf, dass es zu einem Stromfluss
-  über den menschlichen Körper von einem Fuß zum anderen Fuß kommen
-  kann (*Schrittspannung*). Bei gerissenen Hochspannungsleitungen darf
-  man daher keine großen Schritte machen, oder stromleitende
-  Gegenstände (z. B. Metalle) berühren
-  (vgl. {ref}`Gefahrenzonen <gefahrenzonen>`!
+: Bei Überlandleitungen ist mit Hochspannung (380 000 V (380 kV)) zu rechnen. 
+  Ist eine Hochspannungsleitung gerissen und berührt den Boden, so ist besondere Vorsicht geboten! 
+  Da auch das Erdreich einen elektrischen Widerstand hat, gibt es in der Nähe der gerissenen Leitung im Boden einen Spannungsabfall. 
+  Bewegt man sich in großen Schritten auf das Kabel zu oder vom Kabel weg, so tritt zwischen den Füßen eine derart hohe Spannung auf, dass es zu einem Stromfluss über den menschlichen Körper von einem Fuß zum anderen Fuß kommen kann (*Schrittspannung*). 
+  Bei gerissenen Hochspannungsleitungen darf man daher keine großen Schritte machen, oder stromleitende Gegenstände (z. B. Metalle) berühren (vgl. {ref}`Gefahrenzonen <gefahrenzonen>`)!
 
 Bahnanlagen
 
-: Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15 000 V,
-  auch bei gesenktem Stromabnehmer oder Dieselfahrzeugen kann durch
-  Kondensatorladung eine Spannung von bis zu 3 000 V anliegen
-  (vgl. Gefahrenzonen: {ref}`gefahrenzonen`).
+: Die Eisenbahn arbeitet mit einer Oberleitungsspannung von 15 000 V, auch bei gesenktem Stromabnehmer oder Dieselfahrzeugen kann durch Kondensatorladung eine Spannung von bis zu 3 000 V anliegen (vgl. Gefahrenzonen: {ref}`gefahrenzonen`).
 
   Im U-Bahnbereich werden Spannungen um die 700 V eingesetzt.
+
+
+
+<!-- ### Section ################################################## -->
 
 ## Blitzschlag
 
@@ -130,6 +131,10 @@ Bei Gewitterblitzen treten Spannungen von Millionen von Volt und Stromstärken v
 - Vorübergehende Lähmung
 - Blitzfiguren auf der Haut
 - Herzrhythmusstörungen
+
+
+
+<!-- ### Section ################################################## -->
 
 (tt75040c)=
 (m-stromunfall)=

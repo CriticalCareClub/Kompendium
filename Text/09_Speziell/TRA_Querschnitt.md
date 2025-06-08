@@ -3,7 +3,7 @@
 Ursachen: Flexion/Extension, Flexion/Rotation, axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms + sekundär Schaden durch Autodestruktion
 
 
-Pathophysiologie: Sympatikolyse mit Hypotonie durch Vasodilatation + Blutverlust +β-Endorphine
+Pathophysiologie: Sympathikolyse mit Hypotonie durch Vasodilatation + Blutverlust +β-Endorphine
 +  Respiratorische Insuffizienz (Parese der Atemmuskulatur + Verletzungen) = Ischämie mit direkten Zellschäden + lokale Entzündungsreaktion mit weiteren Zellschäden. Die Folge ist ein
 
 Bei einer vollständigen Durchtrennung des Myelons mit spinalem Schock fehlen die spinalen Reflexe oder sind stark abgeschwächt. Die Muskulatur unterhalb der Schädigung ist paralysiert.
@@ -15,7 +15,7 @@ Dauert 3 Tage bis 8 Wochen (solange soll der Patient auf der IBS bleiben!)
 
 1. Respiratorische Dysfunktion: \> C3 keine Spontanatmung, C5 teilweise Phrenikusparese, TH7-
 8 Interkostal und Bauchmuskeln gelähmt, L5 Beckenboden gelähmt (Widerlager beim Husten fehlt);  Muskellähmung + Begleitverletzungen + erhöhter PAP mit Lungenödem + hoher Endorphinspiegel mit Unterdrückung des Atemzentrums = Mikroatelektasen
-+ Shunt 2. Kreislauf: inital systemische Hypertonie durch 2-4 fach erhöhte Katecholamine durch das Trauma (mit Nachlasterhöhung und Myokardischämien), anschließend spinaler Schock mit Hypotonie und Bradykardie 3. Blasenlähmung mit Überlaufblase 4. Darmlähmung 5. Temperaturregulationsstörung: Unterkühlung, Hitzeschlag
++ Shunt 2. Kreislauf: initial systemische Hypertonie durch 2-4 fach erhöhte Katecholamine durch das Trauma (mit Nachlasterhöhung und Myokardischämien), anschließend spinaler Schock mit Hypotonie und Bradykardie 3. Blasenlähmung mit Überlaufblase 4. Darmlähmung 5. Temperaturregulationsstörung: Unterkühlung, Hitzeschlag
 
 
 
@@ -37,11 +37,11 @@ Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
 - Bronchialtoilette: Inhalieren, CPAP, Atemphysiotherapie, 2h Umlagerung en-block, Sekretolytika (Mucosolvan)
 - Tracheotomie: immer bei hohem Querschnitt (C4-5)
 - Thromboseprophylaxe NMWH, Physiotherpie mit Durchbewegen und Atemgymn., Strümpfe
-- Ulkusprophylaxe: H2-Blocker, Antacida
+- Ulkusprophylaxe: H2-Blocker, Antazida
 - Blasenrehabilitätion: initial areflektorische  Überlaufblase, Automatisierung am Ende des spinalen Schocks, SBK nach 48h, häufig HWI (70%), frühzeitig Blasentraining mit Einmalkatheter 3-4h.
 - Schmerztherapie: Opiate zurückhaltend wg. Atemdepression, eher NSAR
 - Infektprophylaxe: Hygiene!! Abstriche regelm.
-- Spastik: Frühphase schlaffe Areflexie + Spastik in der Spätphase; Therapie: Baclofen (Lioresal p.o.) blockiert Synapsen und dämpft Spasmen; ultimo ratio longit. Myelotomie OP
+- Spastik: Frühphase schlaffe Areflexie + Spastik in der Spätphase; Therapie: Baclofen (Lioresal p.o.) blockiert Synapsen und dämpft Spasmen; ultima ratio longit. Myelotomie OP
 - Psychologische Betreuung + Angehörige
 - Physiotherapie: Durchbewegen der großen Gelenke, Atemtherapie, Kreislauftraining, Kräftigung der motorischen Restfunktion
 
@@ -58,7 +58,7 @@ Anästhesiemanagement:
 - Kein Succinylcholin ab 2  Tag ab Trauma bis 12 Monate nach dem Trauma! Vermehrte Kaliumfreisetzung durch erhöhte extrafusale Rezeptorendichte)
 
 
-(auch bei Immobilität, Vebrennungen kein Lysthenon)
+(auch bei Immobilität, Vebrennungen kein Lysthenon™)
 
 Prognose:
 Ist abhängig vom Ausmaß  der Rückenmarkschädigung und ist nach 2  Jahren als endgültig anzusehen. Eine Aussage kann frühestens ab dem Zeitpunkt, wenn die peripheren Reflexe (Analreflex, Bulbus cavernosus Reflex) zurückgekehrt sind, gemacht werden. Als günstig anzusehen sind Reiterhosenphänomene und inkomplette Lähmungen. Ungünstig sind eine vollständige Lähmung nach 72h und ein Priapismus (anhaltende Erektion) unmittelbar nach dem Trauma.

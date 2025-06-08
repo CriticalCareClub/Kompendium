@@ -81,7 +81,7 @@ Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich da
 Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
 
 Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
-der Vebrennung abschätzen zu können.
+der Verbrennung abschätzen zu können.
 
 (neunerregel)=
 
@@ -256,7 +256,7 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 
   - **Abdeckung**:
     Sterile, nicht verklebende
-    Wundauflagen; evtl. metalliserte Wundauflagen; locker anlegen
+    Wundauflagen; evtl. metallisierte Wundauflagen; locker anlegen
 
   - Ggfs. Schockbekämpfung
 
@@ -275,10 +275,10 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
     nur primär abgelöscht werden.
   - **Abdeckung**:
     Sterile, nicht verklebende
-    Wundauflagen, evtl. metalliserte Wundauflagen.
+    Wundauflagen, evtl. metallisierte Wundauflagen.
     Der Nutzen  von kühlenden
     Spezialverbänden, z. B. Waterjel™ ist
-    aufgrund  der Unterkühlungs-Gefahr und einer  möglichen
+    aufgrund  der Unterkühlungsgefahr und einer  möglichen
     Durchblutungsstörung der Wunde
     (Gefahr von Wundheilungsstörungen im weiteren Verlauf)
     umstritten.

@@ -145,10 +145,10 @@ Taktik
 :::
 ::::
 
-Eine Fraktur einer oder mehrer Rippen ensteht typischerweise durch eine meist stumpfe Gewalteinwirkung auf den Thorax.
+Eine Fraktur einer oder mehrerer Rippen ensteht typischerweise durch eine meist stumpfe Gewalteinwirkung auf den Thorax.
 Von einer **Serienrippenfraktur** spricht man, wenn mindestens drei benachbarte Rippen gebrochen sind.
 
-Häufige Mechnismen sind z. B. ein Sturz auf den Thorax (insbesonders gegen einen Gegenstand oder eine Kante), Schlägereien (Knüppel!), oder Verletzungen durch einen Airbag.
+Häufige Mechanismen sind z. B. ein Sturz auf den Thorax (insbesonders gegen einen Gegenstand oder eine Kante), Schlägereien (Knüppel!), oder Verletzungen durch einen Airbag.
 
 Nach Rippenfrakturen kann es durch spitze Fragmente zu einer Lungenfell-
 oder Lungenverletzung kommen, die aufgrund einer Blutung (*Hämatothorax*) oder Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche Komplikation ist dabei die Entstehung eines **Pneumothorax**. Eine Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane kommen.
@@ -197,7 +197,7 @@ Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht angeschnallten F
 ::::
 
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines *Pneumothorax* oder einer *Herzverletzung* bzw. einer *Herzbeuteltamponade* denken.
-Bei der {dfn}`Herbeuteltamponade` {index}` <Herbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut) in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
+Bei der {dfn}`Herzbeuteltamponade` {index}` <Herzbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut) in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
 
 ## Verletzung des Herzens und der großen Gefäße
 
@@ -230,7 +230,7 @@ oder Stichverletzungen. Folgende Verletzungen sind typisch:
 
 ## 51.1. Thoraxtrauma
 
-Pathophysio: Rippenbrüche, Lungenkontusion mit Störung der normalen Atemmechanik (Ventilations und Oxygenierungsstörung) und Erhöhung der Kapillarpermeabilität, Hämatothorax/Pneumothorax, Herabgesetzte FRC und Compliance, Ventilations/Perfusions mismatch mit intrapulm. Shunt und Hypoxämie.
+Pathophysio: Rippenbrüche, Lungenkontusion mit Störung der normalen Atemmechanik (Ventilations- und Oxygenierungsstörung) und Erhöhung der Kapillarpermeabilität, Hämatothorax/Pneumothorax, Herabgesetzte FRC und Compliance, Ventilations/Perfusions mismatch mit intrapulm. Shunt und Hypoxämie.
 Blutverlust: Cardial, intrathorakal, extrathorakal Behinderung der Ventrikelfüllung durch Spannungspneumothorax, Pericardtamponade, Herzcontusion, Verletzung intracardialer Strukturen.
 
 

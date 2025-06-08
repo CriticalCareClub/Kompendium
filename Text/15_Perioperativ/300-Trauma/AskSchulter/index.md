@@ -3,7 +3,7 @@
 
 (arthroskopie-schulter)=
 
-# 8.8.7 Arthroskopie Schulter
+# Arthroskopie Schulter
 
 (allgemein-73)=
 

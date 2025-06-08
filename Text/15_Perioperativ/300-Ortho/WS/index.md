@@ -1,4 +1,4 @@
-```{index} pair: OP; TLIF 
+```{index} pair: OP; TLIF
 ```
 ```{index} pair: OP; Transforaminal Lumbar Interbody Fusion
 ```
@@ -7,7 +7,7 @@
 
 (tlif)=
 
-# 8.7.1 Wirbelsäulen-OPs
+# Wirbelsäulen-OPs
 
 (allgemein-52)=
 

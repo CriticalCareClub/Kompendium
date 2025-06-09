@@ -2,6 +2,7 @@ Blutungszeit
 CCCA
 GEIN
 ggfs
+Helmabnahme
 höhergradiger
 Implantationsdatum
 KL

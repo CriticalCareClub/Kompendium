@@ -2,4 +2,5 @@ admonition
 dictum
 hlist
 rows
+seealso
 toctree

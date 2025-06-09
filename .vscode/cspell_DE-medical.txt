@@ -91,6 +91,7 @@ dekompensierte
 Delir
 Dilutionskoagulopathie
 Dobutamin
+Doppellumentubus
 Dosisrate
 Durasack
 Dyspnoe
@@ -297,6 +298,7 @@ Nahtmaterial
 Narkoseführung
 Narkosemedikamenten
 Narkoseregime
+Narkoserespiratoren
 nervalen
 Nervenstimulators
 neuroaxial
@@ -435,6 +437,7 @@ Tertialprüfung
 thorakal
 thorakale
 thoraxchirurgischen
+Thoraxdrainage
 Thoraxröntgen
 Thoraxschmerzen
 Thoraxsonographie
@@ -480,6 +483,7 @@ ventrikuläre
 Verbrühung
 Verschorfung
 Videolaryngoskop
+Videolaryngoskope
 Vigilanzstörung
 Vitalfunktionen
 Vitien

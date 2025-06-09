@@ -2,6 +2,21 @@
 
 # Besondere Verhaltensweisen
 
+## Entpacken von sterilem Material
+
+:::{margin} Entpacken
+- Aufschälen
+- Material muss steril bleiben!
+:::
+
+Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden, damit es beim Öffnen nicht verunreinigt wird. 
+Gängiges Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt sich von der Unterseite ablösen. 
+Dabei darf das Material nicht kontaminiert werden.
+
+Manche vorgefertigten Sets (z. B. für diverse chirurgische Eingriffe)
+werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in mehrere Lagen von Spezialpapier eingewickelt. 
+Das Spezialpapier darf nur an der Außenseite angefasst werden und wird auf einer Fläche ausgebreitet, sodass das darin eingewickelte *Material steril bleibt*.
+
 ## Selbstschutz
 
 Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen zum (hygienischen) Selbstschutz kurz erläutert:

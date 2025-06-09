@@ -1,52 +1,35 @@
 # Perioperative Versorgung
 
 :::{toctree}
+:caption: "Allgemeine Anästhesie"
 :maxdepth: 1
+:glob:
 
-100-Prae-Anaesthesie/index
-100-Allgemeinnarkose/index
-100-Analgosedierung/index
-100-Regionalanaesthesie/index
-100-Patient-Blood-Management/index
-100-Kapnoperitoneum/index
-100-Ambulante-Anaesthesie/index
-100-AWR/index
+1*/index
 :::
 
 :::{toctree}
 :caption: "Spezielle Patientengruppen"
 :maxdepth: 1
-200-Kinder/index
-200-Adipositas/index
-200-Geriatrisch/index
+:glob:
+
+2*/index
 :::
 
 :::{toctree}
 :caption: "Spezielle Anästhesie"
 :maxdepth: 1
+:glob:
 
-300-Augen/index
-300-Chirurgie/index
-300-Gefaess/index
-300-Thoraxchirurgie/index
-300-Gyn/index
-300-Geburtshilfe/index
-300-Herzchirurgie/index
-300-HNO/index
-300-Neurochirurgie/index
-300-Ortho/index
-300-Trauma/index
-300-Urologie/index
-300-ZaMuKie/index
+3*/index
 :::
 
 :::{toctree}
 :caption: "Spezielle Komplikationen"
 :maxdepth: 1
+:glob:
 
-400-Awareness/index
-400-TUR-Syndrom/index
-400-Mastozytose/index
+4*/index
 :::
 
 <!--

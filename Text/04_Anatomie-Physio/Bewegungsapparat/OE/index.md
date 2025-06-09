@@ -124,7 +124,7 @@ Außerdem gibt es zwei Eigenbänder der Scapula — sie verbinden nicht zwei unt
 Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 (überdacht die Incisura scapulae).
 
-:::{todo} #113: Scapula als Landmark / WS für Regionalanästhesie und Punktionen
+:::{todo} {issue}`113` Scapula als Landmark / WS für Regionalanästhesie und Punktionen
 :::
 
 
@@ -149,9 +149,8 @@ Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Mediok
 Unterhalb der Clavicula verlaufen die A. und V. subclavia.
 Somit dient die Clavicula auch als Landmark für die Anlage von zentralvenösen Kathetern an der V. subclavia.
 
-:::{todo} `#114`: Clavicula: Landmarks für ZVK und Reginalanästhesie
+:::{todo} {issue}`114` Clavicula: Landmarks für ZVK und Reginalanästhesie
 
-<https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/114>
 
 :::
 

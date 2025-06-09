@@ -2,18 +2,18 @@
 
 :::{index} single: Nüchternheit
 :::
+:::{index} single: Nahrungkarenz
+:::
 
 (Nuechterheit)=
 
-# Nahrungkarenz
+# Nüchternheit
 - Feste Nahrung, Babynahrung 6h
 - Muttermilch 4h
 - Klare Flüssigkeiten 2h Immer als nicht nüchtern zu betrachten sind: Schwangere, Dialysepatienten, Adipositas per magna Patienten, St.p. Magenbypass, GERD, posttraumatische Patienten, und Patienten mit akutem Abdomen! (Paralytischer Ileus)
 
 
-:::{admonition} Allgemeine Karenz vor einer elektiven Operation
-
-
+:::{admonition} Allgemein: Nüchternheit vor einer elektiven Operation
 
 - **Feste Nahrung**: **6 h** (Erwachsene und Kinder)
 - **Klare Flüssigkeiten**

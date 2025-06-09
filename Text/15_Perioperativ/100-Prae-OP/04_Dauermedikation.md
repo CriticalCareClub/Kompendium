@@ -1,8 +1,7 @@
 # Dauermedikation
 
-    
-
 ## Folgende Medikamente pausieren:
+
 - Diuretika (ausgenommen schwere Herzinsuff. oder Niereninsuffizienz)
 - ACE-Hemmer +  AT II-Antagonisten bei Indikation moderate Hypertension
 - Alpha-2-Rezeptor Agonisten, allerdings kein plötzliches Absetzen (Rebound effekt
@@ -70,36 +69,36 @@ Antiarrhythmika
 
 Antidiabetika
 
-: *Präoperativ sollte prinzipiell ein HbA1c-Wert von 7 % bzw. darunter angestrebt werden. Bei Patient:innen, bei welchen eine derartig strikte Stoffwechselkontrolle nicht erzielbar bzw. aufgrund von begleitender Multimorbidität und fortgeschrittenem Alter nicht geboten ist, sollte der HbA1c-Wert vor geplanten Operationen zumindest unter 8 % liegen. Operationen bei HbA1c-Werten von über 10 % sollten nur bei vitaler bzw. dringlicher Operationsindikation durchgeführt werden (Empfehlungsgrad IIb, Evidenzklasse C).*
+: Präoperativ sollte prinzipiell ein **HbA1c-Wert von 7%** bzw. darunter angestrebt werden. Bei Patient:innen, bei welchen eine derartig strikte Stoffwechselkontrolle nicht erzielbar bzw. aufgrund von begleitender Multimorbidität und fortgeschrittenem Alter nicht geboten ist, sollte der HbA1c-Wert vor geplanten Operationen zumindest unter 8 % liegen. Operationen bei HbA1c-Werten von über 10 % sollten nur bei vitaler bzw. dringlicher Operationsindikation durchgeführt werden (Empfehlungsgrad IIb, Evidenzklasse C).
   *Generell sollen orale Antidiabetika am Tag der Operation (zumeist morgens) pausiert werden.*
   *Für \*\*Metformin\** wird bei Menschen mit Diabetes ohne Nierenfunktionseinschränkung ein Pausieren am Operationstag empfohlen, bei Nierenfunktionseinschränkung mit Akkumulationsgefahr 24 bis 48 h präoperativ.\*
-  **\*SGLT-2 Inhibitoren** bei Menschen mit DMT2 sollen vor größeren, langdauernden Eingriffen in Allgemeinnarkose sowie bei perioperativer Insulindosisreduktion 72 h präoperativ, bei kurzdauernden Eingriffen in Regionalanästhesie zumindest 48 h und bei notfallmäßigen Operationen so zeitnah wie möglich pausiert werden. Ein Wiederbeginn der Therapie ist erst nach Stabilisierung der klinischen Akutsituation, Abklingen allfälliger Entzündungen und Normalisierung der Nierenfunktion zulässig.\*
+  **\*SGLT-2 Inhibitoren** bei Menschen mit DMT2 sollen vor größeren, langdauernden Eingriffen in Allgemeinnarkose sowie bei perioperativer Insulindosisreduktion 72 h präoperativ, bei kurzdauernden Eingriffen in Regionalanästhesie zumindest 48 h und bei notfallmäßigen Operationen so zeitnah wie möglich pausiert werden. Ein Wiederbeginn der Therapie ist erst nach Stabilisierung der klinischen Akutsituation, Abklingen allfälliger Entzündungen und Normalisierung der Nierenfunktion zulässig.
 
 ## Modifikation der Dauermedikation
 
 MAO-Hemmer
 
-: {index}`\ <pair: Tranylcypromin; prä-OP Dauermedikation>`
-  {index}`\ <pair: Isocaboxazid; prä-OP Dauermedikation>`
-  {index}`\ <pair: Phenelzin; prä-OP Dauermedikation>`
-  {index}`\ <pair: Clorylin; prä-OP Dauermedikation>`
-  {index}`\ <pair: Deprenyl; prä-OP Dauermedikation>`
-  {index}`\ <pair: Moclobemid; prä-OP Dauermedikation>`
-  {index}`\ <pair: RO-19-6327; prä-OP Dauermedikation>`
-  {index}`\ <pair: MAO-Hemmer; prä-OP Dauermedikation>`
-  {index}`\ <pair: MAO-A; prä-OP Dauermedikation>`
-  {index}`\ <pair: MAO-B; prä-OP Dauermedikation>`
-  {index}`\ <pair: Serotonin; Deaminierung durch MAO-A>`
-  {index}`\ <pair: Noradrenalin; Deaminierung durch MAO-A>`
-  {index}`\ <pair: Adrenalin; Deaminierung durch MAO-A>`
-  {index}`\ <pair: 2-Phenylethylamine; Deaminierung durch MAO-B>`
-  {index}`\ <pair: Benzyl-Amine; Deaminierung durch MAO-B>`
-  {index}`\ <pair: Pethidin; kontraindiziert mit MAO-Hemmern>`
-  {index}`\ <pair: Alodan™; kontraindiziert mit MAO-Hemmern>`
-  {index}`\ <pair: Tramadol; kontraindiziert mit MAO-Hemmern>`
-  {index}`\ <pair: Dextrometorphan; kontraindiziert mit MAO-Hemmern>`
-  {index}`\ <pair: Ephedrin; kontraindiziert mit MAO-Hemmern>`
-  {index}`\ <Sympathomimetika; indirekte; kontraindiziert mit MAO-Hemmern>`
+: {index}` <pair: Tranylcypromin; prä-OP Dauermedikation>`
+  {index}` <pair: Isocaboxazid; prä-OP Dauermedikation>`
+  {index}` <pair: Phenelzin; prä-OP Dauermedikation>`
+  {index}` <pair: Clorylin; prä-OP Dauermedikation>`
+  {index}` <pair: Deprenyl; prä-OP Dauermedikation>`
+  {index}` <pair: Moclobemid; prä-OP Dauermedikation>`
+  {index}` <pair: RO-19-6327; prä-OP Dauermedikation>`
+  {index}` <pair: MAO-Hemmer; prä-OP Dauermedikation>`
+  {index}` <pair: MAO-A; prä-OP Dauermedikation>`
+  {index}` <pair: MAO-B; prä-OP Dauermedikation>`
+  {index}` <pair: Serotonin; Deaminierung durch MAO-A>`
+  {index}` <pair: Noradrenalin; Deaminierung durch MAO-A>`
+  {index}` <pair: Adrenalin; Deaminierung durch MAO-A>`
+  {index}` <pair: 2-Phenylethylamine; Deaminierung durch MAO-B>`
+  {index}` <pair: Benzyl-Amine; Deaminierung durch MAO-B>`
+  {index}` <pair: Pethidin; kontraindiziert mit MAO-Hemmern>`
+  {index}` <pair: Alodan™; kontraindiziert mit MAO-Hemmern>`
+  {index}` <pair: Tramadol; kontraindiziert mit MAO-Hemmern>`
+  {index}` <pair: Dextrometorphan; kontraindiziert mit MAO-Hemmern>`
+  {index}` <pair: Ephedrin; kontraindiziert mit MAO-Hemmern>`
+  {index}` <Sympathomimetika; indirekte; kontraindiziert mit MAO-Hemmern>`
   
   **1.** Generation:
   Nicht-selektiv und  irreversibel;

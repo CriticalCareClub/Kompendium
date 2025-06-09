@@ -4,7 +4,7 @@
 (regionalanaesthesie)=
 (GREG)=
 
-# `GREG` Regionalanästhesie
+# Regionalanästhesie
 
 
 

@@ -1,7 +1,7 @@
 (analgosedierung)=
 (AASD)=
 
-# `AASD` Analgosedierung
+# Analgosedierung
 
 :::{note}
 

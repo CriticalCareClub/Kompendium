@@ -3,14 +3,19 @@
 :::{toctree}
 :maxdepth: 1
 
-100-Allgemeinnarkose/index
-100-AASD/index
-100-GREG/index
 100-Prae-OP/index
+100-Allgemeinnarkose/index
+100-Analgosedierung/index
+100-Regionalanaesthesie/index
 100-Patient-Blood-Management/index
-100-AWR/index
 100-Kapnoperitoneum/index
 100-Ambulante-Anaesthesie/index
+100-AWR/index
+:::
+
+:::{toctree}
+:caption: "Spezielle Patientengruppen"
+:maxdepth: 1
 200-Kinder/index
 200-Adipositas/index
 200-Geriatrisch/index
@@ -36,9 +41,8 @@
 :::
 
 :::{toctree}
-:caption: "Spezielle Anästhesie"
+:caption: "Spezielle Komplikationen"
 :maxdepth: 1
-
 
 400-Awareness/index
 400-TUR-Syndrom/index

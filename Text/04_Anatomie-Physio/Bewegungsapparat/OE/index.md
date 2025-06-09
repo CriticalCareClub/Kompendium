@@ -149,7 +149,7 @@ Die durch die Mitte des Schlüsselbeins laufende Linie bezeichnet man als Mediok
 Unterhalb der Clavicula verlaufen die A. und V. subclavia.
 Somit dient die Clavicula auch als Landmark für die Anlage von zentralvenösen Kathetern an der V. subclavia.
 
-:::{todo} {issue}`114` Clavicula: Landmarks für ZVK und Reginalanästhesie
+:::{todo} {issue}`129` Clavicula: Landmarks für ZVK und Reginalanästhesie
 
 
 :::

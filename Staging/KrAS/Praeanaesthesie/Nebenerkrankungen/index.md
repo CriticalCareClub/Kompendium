@@ -17,8 +17,8 @@ Nachweis einer pulmonalen Hypertension mit Gefahr eines Rechtsherzversagens.
 EKG: Kann Hinweise auf einen stillen Infarkt, Ischämiezeichen, LVH-Zeichen, Rhythmusstörungen und ev. LAH (assoz. mit KHK und periop. anteroseptalen Infarkt, und CMP) zeigen.
 
 :::{admonition} Prüfung
-Prüfung: Risikofaktoren des card. Pat: art. Hypertonie, DM, erhöhte Blutfette, Rauchen
-Kardiovaskuläre Co-Morbiditäten: KHK, art. HT, VHF, CMP, Klappenvitien, Altersherz
+- Risikofaktoren des card. Pat: art. Hypertonie, DM, erhöhte Blutfette, Rauchen
+- Kardiovaskuläre Komorbiditäten: KHK, art. HT, VHF, CMP, Klappenvitien, Altersherz
 :::
 
 Erfragen
@@ -37,7 +37,7 @@ Eine **Belastungsintoleranz** ist unabhängig von ST-Senkungen ein Risikofaktor,
 
 Eine **präoperative Antibiotikaprophylaxe** sollte bei *Z.n. Klappenersatz* erfolgen: 
 - Amoxicillin 2 g 1h vor OP p.o, und 6h postoperativ. 
-- (Bei Penicillinallergie: Clindamycin 600 mg 1h)
+- (Bei Penizillinallergie: Clindamycin 600 mg 1h)
 
 Risikoeinschätzung des Eingriffs bezüglich perioperativer Infarkt/Herztod:
 - Hochgradig (>5% MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen

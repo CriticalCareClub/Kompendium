@@ -4,9 +4,15 @@
 
 25.7.<!--  -->
 
-Ursache: Verlust von Gerinnungsfaktoren und Thrombozyten + erhöhten Verbrauch  +
-Flüssigkeitszufuhr+  TRIAS: Hypothermie (< 34°C) + Hypokalzämie (< 1 mmol / l)-Azidose (pH < 7,2)  +
-HK < 24%
+Ursache: 
+- Verlust von Gerinnungsfaktoren und Thrombozyten 
+- erhöhten Verbrauch  
+- Flüssigkeitszufuhr 
+- TRIAS: 
+  - Hypothermie (< 34°C) 
+  - Hypokalzämie (< 1 mmol / l)
+  - Azidose (pH < 7,2) 
+- HK < 24%
 
 1. **Volumentherapie**: Kristalloide+Kolloide (HES max. 50 ml / kg / d), einmalig 4 ml / kg hyperosmolare Lsg (z.B. HES Protein 8,5%) = weniger Auswirkung auf Clothbildung wie HES 
 2. 1–2 g **Tranexamsäure** innerhalb der ersten 3 h (15 -20 mg / kg KG)
@@ -16,7 +22,7 @@ HK < 24%
 6. Anämiekorrektur: Ziel Hb 8–10 mg / dl 
 7. Thrombozyten Soll 50–100000 
 8. Hohe Fibrinogenspiegel sind protektiv 150–200 mg/dl, FIBTEM < 7 mm Gabe 50 mg / kg Hämocomplettan 
-9. PPSP (Prothrombinkomplex II, VII, IX, X) z.B. Beriplex sofort bei Marcoumarpatienten, und Eliquis oder Xarelto! aPPSP bei Pradaxa! EXTEM CT \> 80sec trotz Fibrinogengabe = 20–30IE/kg
+9. PPSB (Prothrombinkomplex II, VII, IX, X) z.B. Beriplex sofort bei Marcoumarpatienten, und Eliquis oder Xarelto! aPPSP bei Pradaxa! EXTEM CT \> 80sec trotz Fibrinogengabe = 20–30IE/kg
    **(1 IE/kg hebt PTZ um 1%)**
 10. Novo7 (aFVII) ultimo ratio, off lavel use: Thrombos und Fibrinogen muss normal sein, ph \> 7,2 Temp \> 34°C. 
     Gabe: 90–120 mcg / kg Einzeldosis, ev. wiederholen 

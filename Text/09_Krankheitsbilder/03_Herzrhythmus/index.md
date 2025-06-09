@@ -2,7 +2,7 @@
 
 # Herzrhythmusstörungen
 
-:::{todo} `#127 Weitere Herzrhythmusstoerungen <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/127>`_
+:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen 
 
         -   Weitere EKG-Beispiele
         -   verschiedene Herzrhythmusstörungen:

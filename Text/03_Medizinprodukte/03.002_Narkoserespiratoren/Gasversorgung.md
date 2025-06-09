@@ -27,10 +27,10 @@ Geräteseitig
     Dichtigkeit ist nur *mit* Kraftanstrengung gewährleistet
 
 
-:::{todo}  FOTO NIST-Anschluß
+:::{todo} {issue}`132` FOTO NIST-Anschluß
 :::
 
-:::{todo}  FOTO DIN-Anschluß
+:::{todo} {issue}`133` FOTO DIN-Anschluß
 :::
 
 :::{list-table} Farbcodes Gasversorgung

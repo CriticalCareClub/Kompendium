@@ -116,7 +116,7 @@ Arteriensystem
 
 :::
 
-:::{todo} Foto: Blutentnahmesystem [₢ Edwards Lifesciences, ℓ MfG ] ../../../Bilder/restricted/77962-7534081.jpeg
+:::{todo} {issue}`134` Foto: Blutentnahmesystem [₢ Edwards Lifesciences, ℓ MfG ] ../../../Bilder/restricted/77962-7534081.jpeg
 :::
 
 :::{raw} latex
@@ -162,7 +162,7 @@ Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch e
 ₢ GaSe {term}`ℓ CC BY AUT 3.0`
 :::
 
-:::{todo} Bilder: IBP
+:::{todo} {issue}`134` Bilder: IBP
 
 -   Transducer
 -   Abnahmesystem

@@ -200,7 +200,7 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
   - Haematoma (*Haem.*)
 :::
 
-:::{todo} Bild Schnittwunde
+:::{todo} {issue}`134` Bild Schnittwunde
 :::
 
 :::{subfigure} AB|CD|EF|GH

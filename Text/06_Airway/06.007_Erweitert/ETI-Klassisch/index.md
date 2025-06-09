@@ -569,7 +569,7 @@ Relative Kontraindikationen sind wie folgt:
 - Prothetische Herzklappen (erhöhtes Risiko einer Bakteriämie beim Einsetzen).
  -->
 
-:::{todo} Kontroverse ETI
+:::{todo} {issue}`134` Kontroverse ETI
 🗎 Timmermann 2007
 🗎 Timmermann 2012
 🗎 Wang-2006a

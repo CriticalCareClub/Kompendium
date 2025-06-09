@@ -53,6 +53,6 @@ Somit ist der ZVD hinsichtlich seiner Limitationen und seiner Aussagekraft kriti
 - Darüber hinaus ist der ZVD hinsichtlich des Flüssigkeitsmanagements aber nicht als der Weisheit letzter Schluss anzusehen.
   Insbesonders die Betrachtung singulärer Messwerte oder die Vorgabe bestimmter ZVD-Werte als Ziel findet sich noch häufig in der Literatur ({term}`🗎 Rivers 2001`, {term}`🗎 SurvSepsisCpg 2012`), sollte jedoch in Anbetracht der Datenlage nicht mehr zur Anwendung kommen ({term}`🗎 Eskesen 2016`, {term}`🗎 Marik 2013`, {term}`♛ SurvSepsisCpg 2021`).
 
-:::{todo} Bild / Screenshot ZVD
+:::{todo} {issue}`134` Bild / Screenshot ZVD
 :::
 

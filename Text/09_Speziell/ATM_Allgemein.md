@@ -218,7 +218,7 @@ Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemst
 
 # Atmungsstörungen
 
-:::{todo} Code/Tabelle
+:::{todo} {issue}`134` Code/Tabelle
 
 [H]LLStörung des/der & Beispiele
 O₂-Angebotes &
@@ -228,7 +228,7 @@ Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
 
 Stickgase (Gärkeller (CO₂↑, O₂↓); defekte Gastherme (CO))
 
-:::{todo} Code/Tabelle
+:::{todo} {issue}`134` Code/Tabelle
 
 Ertrinken
 O₂-Diffusion & Lungenödem
@@ -236,7 +236,7 @@ O₂-Diffusion & Lungenödem
 
 Pneumonie
 
-:::{todo} Code/Tabelle
+:::{todo} {issue}`134` Code/Tabelle
 
 Pulmonalembolie  
 Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
@@ -250,7 +250,7 @@ Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktu
 
 Lagerung: Trendelenburglagerung, Verschüttung
 
-:::{todo} Code/Tabelle
+:::{todo} {issue}`134` Code/Tabelle
 
 Kapnoperitoneum  
 Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
@@ -270,7 +270,7 @@ Muskelerkrankungen
 
 Nervenerkrankung
 
-:::{todo} Code/Tabelle
+:::{todo} {issue}`134` Code/Tabelle
 
 Stoffwechselstörungen  
 Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)

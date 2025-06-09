@@ -182,7 +182,7 @@ Sonderform des hypovolämen Schocks, nach {term}`♛ S2k PPH 2022`
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{todo} Interdisziplinärer PPH-Behandlungsalgorithmus: "PPH 2022" \[₢ {term}`♛ S2k PPH 2022`\]
+:::{todo} {issue}`134` Interdisziplinärer PPH-Behandlungsalgorithmus: "PPH 2022" \[₢ {term}`♛ S2k PPH 2022`\]
 
 /Bilder/med/S2k-PPH-2022.\*
 :name: PPH-2022

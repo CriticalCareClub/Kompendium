@@ -45,7 +45,7 @@
   -
 :::
 
-:::{todo} Grafik: Gerinnungskaskade und Interventionen
+:::{todo} {issue}`134` Grafik: Gerinnungskaskade und Interventionen
 
 ../Pictures/Gerinnungskaskade-Interventionen.png
 :width: 100%
@@ -56,7 +56,7 @@
 
 Klinische Bedeutung der Labortests?
 
-:::{todo} Gerinnungsnamnese
+:::{todo} {issue}`134` Gerinnungsnamnese
 
 ../Pictures/Gerinnungsnanamnese.png
 :width: 100%
@@ -103,7 +103,7 @@ Oszillierender Stempel in einer fixen Küvette;  erfasst die Qualität des Blutg
 ROTEM Befunde
 :::
 
-:::{todo} Grafik: ROTEM: Rotations-Thromboelastometrie
+:::{todo} {issue}`134` Grafik: ROTEM: Rotations-Thromboelastometrie
 
 ../Pictures/ROTEM.jpg
 :width: 100%
@@ -136,7 +136,7 @@ ROTEM Befunde
  -->
 
 
-:::{todo} Grafik: Blutungsnamnese Entscheidungsbaum
+:::{todo} {issue}`134` Grafik: Blutungsnamnese Entscheidungsbaum
 
 ../Pictures/Blutungsnamnese-Entscheidungsbaum.png
 :width: 100%

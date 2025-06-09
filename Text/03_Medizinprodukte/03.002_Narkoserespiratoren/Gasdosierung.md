@@ -40,6 +40,6 @@ Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung mit dem D
 Vor dem Frischgasventil befindet sich sich ein Mischgasreservoir mit 0,5 L.
 Davor und nach dem Frischgasventil findet eine Flow- und Druckmessung statt.
 
-:::{todo} Sketch-4, Sketch-5
+:::{todo} {issue}`134` Sketch-4, Sketch-5
 :::
 

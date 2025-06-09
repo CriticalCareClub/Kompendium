@@ -55,7 +55,7 @@ Um den Periduralraum zu punktieren müssen folgende Strukturen durchstochen werd
 
 Der Durasack wird bei der Periduralpunktion *nicht* durchstochen!
 
-:::{todo} Bilder Anatomie Periduralraum
+:::{todo} {issue}`134` Bilder Anatomie Periduralraum
 :::
 
 
@@ -177,7 +177,7 @@ Empfohlene LA-Dosierung:
   - Abgerundete Spitze, seitliche Öffnung, 17-18G, gebräuchlichster Nadeltyp
 - Crawford
 
-:::{todo} Bilder PDA-Nadeln
+:::{todo} {issue}`134` Bilder PDA-Nadeln
 :::
 
 
@@ -197,7 +197,7 @@ Empfohlene LA-Dosierung:
 
 ## Punktionstechnik
 
-:::{todo} Bilder PDA Punktionstechnik
+:::{todo} {issue}`134` Bilder PDA Punktionstechnik
 :::
 
 Zur Auffindung des Periduralraumes können zwei Techniken angewendet werden:

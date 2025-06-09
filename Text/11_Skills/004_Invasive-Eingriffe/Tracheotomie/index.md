@@ -167,7 +167,7 @@ Die Durchführung einer PDT soll daher exemplarisch dargestellt werden.
 
 
 
-:::{todo} Grafik: ../Bilder/Punktionstracheotomie-Schema.jpg
+:::{todo} {issue}`134` Grafik: ../Bilder/Punktionstracheotomie-Schema.jpg
 
 :width: 100%
 

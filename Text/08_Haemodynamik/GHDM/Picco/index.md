@@ -23,7 +23,7 @@ Als Kalibriertechnik wird die *transpulmonale* {ref}`Thermodilution <Thermodilut
 Diese verwendet grundsätzlich das Stewart-Hamilton-Prinzip, allerdings wird die Temperaturänderungen **von einem zentral-venösen** Zugang zu einem **zentralen arteriellen Zugang**, z. B. in der A. femoralis, erfasst.
 Somit wird auch die Lungenstrombahn miterfasst, die Herzkammern und die Lunge mit dem extravaskulären Lungenwasser sind die Mischkammern für den kalten Bolus.
 
-:::{todo} Grafik: ../Bilder/Picco-Kreislauf.png
+:::{todo} {issue}`134` Grafik: ../Bilder/Picco-Kreislauf.png
 
 
 :alt: Bild
@@ -44,7 +44,7 @@ Downsloapzeit (DSt)
 
 
 
-:::{todo} Grafik: ../Bilder/Thermodilution-Downsloap.png
+:::{todo} {issue}`134` Grafik: ../Bilder/Thermodilution-Downsloap.png
 
 
 :alt: Bild

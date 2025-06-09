@@ -73,7 +73,7 @@ Hämostase
 
 ## Gerinnungskaskade
 
-:::{todo} Gerinnungskaskade — Was geschieht wo?
+:::{todo} {issue}`134` Gerinnungskaskade — Was geschieht wo?
 
 ../Pictures/Gerinnungskaskade-001.png
 :width: 100%
@@ -82,7 +82,7 @@ Hämostase
 
 
 
-:::{todo} Gerinnungskaskade — Phasen
+:::{todo} {issue}`134` Gerinnungskaskade — Phasen
 
 ../Pictures/Gerinnungskaskade-002.png
 :width: 100%
@@ -109,10 +109,10 @@ Von Willebrand Jürgens Syndrom
 Erworbene Störungen
 : - DIC, Massivblutung, Antikoagulation, Lebererkrankungen
 
-:::{todo} Tabelle Erworbene Gerinnungsstörungen -- Gestrichen?
+:::{todo} {issue}`134` Tabelle Erworbene Gerinnungsstörungen -- Gestrichen?
 :::
 
-:::{todo} Tabelle Erworbene Thrombozythopenie -- Gestrichen?
+:::{todo} {issue}`134` Tabelle Erworbene Thrombozythopenie -- Gestrichen?
 :::
 
 ## Szenarien — Was gibt es zu beachten?
@@ -213,14 +213,14 @@ Thrombozytenaggregationshemmer
 
 - Im Notfall Praxbind™ oder PPSB (Prothrombinkomplexkonzentrat) oder Plasma
 
-:::{todo} Grafik: DOAKs: Pause vor und nach Interventionen
+:::{todo} {issue}`134` Grafik: DOAKs: Pause vor und nach Interventionen
 
 ../Pictures/DOAK.png
 :width: 100%
 
 :::
 
-:::{todo} Grafik: Management des perioperativen Blutungsrisikos
+:::{todo} {issue}`134` Grafik: Management des perioperativen Blutungsrisikos
 
 ../Pictures/Management-perioperatives-Blutungsrisiko.png
 :width: 100%
@@ -267,7 +267,7 @@ Thrombozytenaggregationshemmer
 - Einhalten von Pausen vor Anlegen eines Regionalanästhesiekatheters
 - Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
 
-:::{todo} Management der Blutung unter oraler Antikoagulation
+:::{todo} {issue}`134` Management der Blutung unter oraler Antikoagulation
 
 ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
 :width: 100%

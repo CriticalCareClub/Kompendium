@@ -42,4 +42,4 @@ Lagerung und Orientierung an der Wirbelsäule
 ::: -->
 
 
-:::{todo} Fotos: SPA Aufrechte Lagerung mit "Katzenbuckel"], Landmarks zur Orientierung an der Wirbelsäule
+:::{todo} {issue}`134` Fotos: SPA Aufrechte Lagerung mit "Katzenbuckel"], Landmarks zur Orientierung an der Wirbelsäule

@@ -208,7 +208,7 @@ Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponi
 Der Ultraschall eignet sich sehr gut zur Darstellung und Vermessung von Flüssigkeiten im Pleuraraum.
 Dadurch kann sowohl die Punktionswürdigkeit, als auch der Zugangsweg gut abgeschätzt werden.
 
-:::{todo} US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
+:::{todo} {issue}`134` US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
 
 
 Pleuraerguss im Ultraschall
@@ -243,7 +243,7 @@ Der gleiche Pneumothorax im CP-Röntgen und im CT
 ![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../Bilder/Pneumothorax-Hautemphysem-CT.jpg)
 ::: -->
 
-:::{todo} Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
+:::{todo} {issue}`134` Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
 :::
 
 :::{raw} latex
@@ -288,7 +288,7 @@ Das klassische, dicklumige, Thoraxdrain ist ein Kunststoffschlauch, in welchem e
 
 
 
-:::{todo} Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
+:::{todo} {issue}`134` Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
 
 
 Bülau-Drainagen mit Trokar in unterschiedlichen Größen
@@ -313,7 +313,7 @@ Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 Es gibt zwei typische Zugangswege, nach *Monaldi* und nach *Bülau*.
 
 
-:::{todo} Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
+:::{todo} {issue}`134` Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
 
 
 Zugänge für die Thoraxdrainage
@@ -339,7 +339,7 @@ Das als für die Punktion sichere Areal wird als **Triangle of Safety** bezeichn
 
 Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fürdickere Draingen.
 
-:::{todo} Foto/Grafik: Triangle of Safety
+:::{todo} {issue}`134` Foto/Grafik: Triangle of Safety
 
 ../Bilder/Pleuradrainage-Triangle-of.Safety.jpeg
 :width: 75%
@@ -347,7 +347,7 @@ Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fü
 **Triangle of safety**: Begrenzung Hinterrand des **M. pectoralis**, Vorderrand des **M. lat. dors.** und **Mamille** (mittlere Axillarlinie)
 :::
 
-:::{todo} Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
+:::{todo} {issue}`134` Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
 
 
 Schema einer Pleuradrainage mit Wasserschloss

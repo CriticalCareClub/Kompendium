@@ -19,7 +19,7 @@ Sie müssen daher erst durch die Zellmembran diffundieren und wirken dann nur au
 Offene zuvor aktivierte Na-Kanäle werden besser gehemmt als ruhende.
 
 
-:::{todo} Grafik: Lokalanästhetika wirken nur auf inaktivierte geschlossene **Natriumkanäle**
+:::{todo} {issue}`134` Grafik: Lokalanästhetika wirken nur auf inaktivierte geschlossene **Natriumkanäle**
 
 Na-Ionenkanaele.png
 
@@ -143,7 +143,7 @@ Die Unterscheidung von **Amid-** und den **Ester-Typ** ist hinsichtlich des Abba
 | {ref}`Ropivacain` |                  |
 :::
 
-:::{todo} Grafik: Strukturformeln im Vergleich: Aminoester und Aminoamide
+:::{todo} {issue}`134` Grafik: Strukturformeln im Vergleich: Aminoester und Aminoamide
 
 Strukturformel-LA.png
 :width: 50%
@@ -217,7 +217,7 @@ Die Wirkung des Lokalanästhetikums ist reduziert oder es ist überhaupt wirkung
 Alle Lokalanästhetika sind schwach basisch. Daher sind sie in Entzündungsgewebe (sauer) nicht wirksam.
 :::
 
-:::{todo} Grafik: LA-Wirkung.png B ungeladene, BH kationische Form des Lokalanästhetikums.
+:::{todo} {issue}`134` Grafik: LA-Wirkung.png B ungeladene, BH kationische Form des Lokalanästhetikums.
 
 LA-Wirkung.png
 

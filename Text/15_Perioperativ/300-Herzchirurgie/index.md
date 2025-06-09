@@ -5,49 +5,20 @@
 
 <!-- 44.  -->
 
-## 44.1. Pericarderguss /Herzbeuteltamponade *
+:::{seealso}
+- {ref}`HOCM`
+- {ref}`Aortenklappenstenose`
+- {ref}`Mitralklappenstenose`
+- {ref}`Mitralklappeninsuffizienz`
+- {ref}`Aortenklappeninsuffizienz`
+- {ref}`Ductus-arteriosus-botalli`
+- {ref}`Pericarderguss`
+- {ref}`Herzbeuteltamponade`
+:::
 
-Urs: Pericarditis (St.p. MCI), Malignom, Urämie, Infekt (bakt, viral, TBC), St.p. HTX, diss. Ao. Asc.,
-Myxödem, Z.n. LTX, Fundoplicatio, Leberchir. ,...
+##  Mechanische Unterstützungsverfahren bei Herzversagen
 
-
-Klinik: Dyspnoe mit retrosternalen Schmerzen, hämodynamische Instabilität mit Tachykardie und Hypotonie, Reduziertes SV + HSV, gestaute Halsvenen, Tachypnoe, Pulsus paradoxus (75%!
-Abschwächung bei Inspiration)
-Erhöhter ZVD, breites Mediastinum im C/P TTE: Flüssigkeit im Herzbeutel, diastolisches Kollapieren der rechten Herzkammer
-
-
-Therapie: echogezielte Punktion, Perikardfenestrierung (Einleitung erst wenn Chirurg gewaschen am Tisch steht!!!)
-
-
-## 44.2. Endokarditis *
-
-Periphere Manifestationen: Splinter Blutung (subunguales Hämatom), Osler Knoten, Janeway lesion (Läsionen am Fingerendglied) durch septische Embolien in die Peripherie! (CT-Screening nach septischen Absiedelungen in Gehirn und Bauchorganen!)
-Duke Kriterien (Major, Minor...BK, Echo?
-
-TEE: flottierende Vegetationen auf der MK, hochgrad. MI Positive Blutkultur Erreger: Staphylococcus aureus, Streptokokken,
-Seltener: Enterokokken, Sprosspilze,...
-
-AB: Penicillin G (Staph. Aureus, jedoch 80%  in  Österreich bereits resistent!) + Flucloxacilllin
-(Streptokokken) + Gentamicin (synergy. Wirkung, KI CNI)
-Rifampicin bei schweren Staph. Aureus Infektionen als Kombinationspartner von  β-Laktam,
-Chinolon oder Glycopeptid AB!
-
-OP-Indikation:
-- Immer bei Staph. Aureus Endokarditis!
-- Bei MRSA,
-Vancomycin resistentem Enterokokken, P. aeruginosa, Pilzendokarditis
-- Signifikante Klappendysfunktion
-- Zunahme der Vegetationen unter AB
-- Unkontrollierbare Infektion
-
-AB postoperativ:
-Nativklappe: bei positiven Klappenkultur 6 Wochen, bei neg. BK und AB 4 Wochen präoperativ 7 Tage weitergeben.
-Kunstklappe: Immer 6 Wochen postoperativ weitergeben!
-
-Kunstklappenendokarditis AB-Therapie: Vancomycin + Rifampicin+ Gentamicin
-
-
-## 44.3. Mechanische Unterstützungsverfahren bei Herzversagen: *
+<!-- 44.3. -->
 
 - Kurzfristig (\< 30d), perkutan: IABP, VA-ECMO
 - Mittelfristig (\< 1Jahr),
@@ -57,7 +28,10 @@ parakorporal: Berlin heart excor, Cardiowest
 Indikationen: low cardiac output syndrome nach Herzop, nach MCI, acute Myokarditis,
 septische CMP bei Kindern, Allograft Dysfunktion nach HTX, ...
 
-### 44.3.1 .IABP
+
+
+
+### 44.3.1 IABP
 
 
 Indiziert bei Weaning nach der HLM (34%!), Myokardinfarkt (14%), präoperativer Support,
@@ -71,10 +45,13 @@ Helium warum? Inertes Gas, reagiert mit keiner anderen Substanz,
 spezifische Dichte niedriger als Luft (notwendig für schnelles Auf-  und Ablassen) macht keine Gasembolie im Falle eines Ballonleak.
 
 
-Kontraindikationen: Aortenklappeninsuffizienz (absolute KI!), Aortenaneurysma thorakal oder abdominal, ausgeprägte aorto-iliakale Verkalkungen bei PAVK und Gefäßprothesen, Infektion an der Punktionsstelle.
+Kontraindikationen
+: Aortenklappeninsuffizienz (absolute KI!), Aortenaneurysma thorakal oder abdominal, ausgeprägte aorto-iliakale Verkalkungen bei PAVK und Gefäßprothesen, Infektion an der Punktionsstelle.
+
 Pulsatiller Fluss
 
-### 44.3.2 .VA-ECMO
+
+### 44.3.2 VA-ECMO
 
 Zur Kreislaufunterstützung bei vorübergehender kardialer Pumpinsuffizienz, kardialem Schock,
 CPR, akzidentelle Hypothermie, wenn keine pharmakolgische (Simdax, Katecholamine,
@@ -96,8 +73,8 @@ VAD
 = mechanisches „Herz" meistens zur Überbrückung bis zur Transplantation;
 z.B. Berlin heart excor, Berlin heart incur
 
-### 44.3.3 .Herz-Lungen-Maschine HLM
 
+### 44.3.3 .Herz-Lungen-Maschine HLM
 
 Blut wird passiv gesammelt und  über Rollerpumpen in den Oxygenator gefördert. Luftfrei
 (Luftfilter) in die Aorta ascendens. (mit errechnetem HZV aus Größe und Gewicht)
@@ -170,118 +147,6 @@ indiziert nach Ausschöpfung der klassischen Herzinsuffizienztherapie, bei EF \<
 
 Allgemein gilt: Kontrolle des Notfallequipments vor Narkosebeginn, Level 1/Cellsaver in Bereitschaft, BG und EK vorbereiten, Defi in Bereitschaft, großlumige Zugänge, Arterie,
 Intensivbett im Hintergrund, TEE bei TAVI und Mithraclipping, Antibiotikagabe bei allen Fremdkörperimplantationen.
-
-## 44.7. Aortenklappenstenose *
-
-= KOF < 0,8cm², KÖF-Index \< 0,5 cm²/m² KOF; Geschwindigkeit LVOT/AK \< 0,25;  eine begleitende KHK ist mitbestimmend für das perioperative Risiko. Das HZV beeinflußt den transvalvulären Gradienten.
-Ursachen: senile Kalzifizierung ab 70 Lj., bikuspide AK des jungen Patienten.
-
-
-Folgen:
-- konzentrische Ventrikelhypertrophie ohne Änderung des Lumens mit erhöhtem VO²
-- LVEDP erhöht = Gefahr der Myokardischämie
--  CO fixiert (kann nicht gesteigert werden)
-- diastolische Funktionsstörung
-- atriale Kontraktion liefert 40%  des CO (normal bis max. 20%) = sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
-- missmatch VO₂/DO₂ kardial
-
-
-Symptomatik: Angina Pectoris, Synkopen, chronisches Herzversagen, Gefahr des sudden cardiac death
-
-
-Anästhesie:
-- Erhalte: SVR, CO, SR = Herzfrequenz und Blutdruck normal halten!
-- Gefahr der Myokardischämie (EKG: II, V5)
-- Vermeide Tachykardie und extreme Bradykardie
-- Relative KI für SPA, PDA eher möglich Präanästhesieambulanz:
-- Keine elektive OP bei symptomatischer AKS (ev. TAVI/CorValve)
-- Bei asymptomatischer, schwerer AKS: AKE vor high risk Eingriffen, low risk Eingriffe möglich, im Zweifelsfall = interdisziplinäre Entscheidung!
-Therapie:
-- AKE (mechanische, biologische Ersatzklappe)
-- TAVI (trans apicale valvuläre implantation) bei hohem Alter und schweren Komorbititäten: Kathetergestützes Einbringer einer Aortenklappenprothese  über die V.femoralis oder transapikal mit kleinem Hautschnitt, es erfolgt eine Ballonvalvuloplastie mit Overpacing (HF 180/min, sistieren des aortalen Blutflusses). = CORVALVE oder SAPIEN XT. Komplikationen: Anulusruptur, Herzbeuteltamponade, Arrhythmien, Insult,
-Leistenblutung.
-- ROSS-OP: die körpereigene Pulmonalklappe ersetzt die Aortenklappe +   Homograft für Pulmonalklappenersatz
-
-
-## 44.8. Hypertrophe obstruktive Cardiomyopathie (HOCM) *
-
-= subvalvuläre Aortenstenose durch LVOT-Obstruktion (\> 30mmHg schlechteres Outcome)
-Symptome: AP, Synkope, HF, AF, Stroke vorallem bei Provokation (AN,
-Anstrengung, OP)
-Anästhesie:
-- Vermeide Tachykardie und Hypovolämie (=  verstärken Obstruktion!) durch Gabe von Betablocker und Phenylephrin (periphere Vasodilation zu vermeiden)
-- Siehe AKS!
-- Erweitertes Monitoring!
-- EKG: LVH, Dysarrhythmien, ST-Streckenveränderungen Therapie: Betablocker und Kalziumantagonisten (Verapamil); TASH (injizieren von Äthanol in die versorgenden Gefäße der hypertrophen Muskulatur mittels Herzkatheter), ERASH (endokardiale radiofrequenz Ablation der Septumhypertrophie mit Wechselstrom mittels Herzkatheter),
-Myektomie in offener Herzoperation. ICD-Implantation als Schutz vor dem plötzlichen Herztod.
-
-## 44.9. Mitralklappenstenose *
-
-Ursache ist meist rheumatisch, bedeutendes Vitium in der SS; Symptomatisch ab \< 2,5cm² unter 1,5cm²  Dyspnoe! Die Erstmanifestation tritt oft nach Provokation auf: SS, Anämie, Sepsis,
-Thyreotoxikose.
-Folgen:
-- Vergrößerter linker VH, häufig VHF mit Thromboembolien
-- Erhöhter PAP
-- Unterfüllter LV
-- RV-Dysfunktion Präanästhesie:
-- Symptomatische MKS: keine elektiven Eingriffe, ev.
-Ballonvalvulotomie
-- Asymptomatische schwere MKS: interdisziplinäre Entscheidung,
-kardiologische Evaluierung Anästhesie:
-- Vermeide Tachykardie
-- Erhalte SVR
-- Erhalte CO
-- Bei schwerer PHT: Vermeide Hyperkapnie, Azidose, Hypoxämie (Gefahr akutes Rechtsherzversagen)
-- Erweitertes Monitoring! PAK großzügig (RV-Afterload)
-Therapie: Mitralklappenersatz
-
-## 44.10. Mitralklappeninsuffizienz *
-
-Intrinsische Klappenveränderung vs. Funktionelle Insuffizienz (sekundär bei CMP und KHK). Eine chronische MKI wird oft lange toleriert und führt sekundär zur PHT und TKI.
-Eine akute MKI ist ein lebensbedrohlicher Notfall: bei akuten LV-Versagen mit Lungenödem!
-(fehlende akute Kompensationsmechanismen)
-Präanästhesie
-- Milde/moderate MKI tolerieren nicht kardiochirurgische Eingriffe werden meist gut toleriert
-
-- Symptomatische, schwere MKI müssen genau abgeklärt werden. Keine elektiven Eingriffe, interdisziplinäre Entscheidung.
-
-Anästhesie
-- Herzfrequenz höher halten (vermeide Bradykardie!)
-- Afterload reduzieren
-- Inotropie aufrechterhalten
-- AN und RA möglich!
-
-Schwangere mit MKI müssen 24 Stunden postpartum überwacht werden! Cave: Lungenödem!
-Therapie
-: - Medikamentöse Herzinsuffizienztherapie: ACE-Hemmer, Antiarrhythmika, Diuretika, Digitalis
-  - OP unter HLM: Mitralklappenrekonstruktion (Anulo/Valvuloplastie), Mitralklappenersatz
-  - Mithra-Clipping: über einen Katheter wird ein Clip eingebracht, der die beiden Mitralsegel verbindet, und so zwei neue Ostien schafft und die MI reduziert.
-
-## 44.11. Aortenklappeninsuffizienz *
-
-Eine chronische AKI wird oft lange toleriert, während eine akute AKI ein lebensbedrohlicher Notfall ist!
-Ursachen einer akuten AKI ist die Aortendissektion
-(traumatisch,
-Bindegewebserkrankungen) und Endokarditis. Sie führt zum kardiogenen Schock.
-Präanästhesie:
-- Schwere asymptomatische AKI mit erhaltener EF: elektive Eingriffe sind möglich
-- Symptomatische AKI oder asymptomatische mit EF
-\< 30%: keine Elektiveingriffe Anästhesie:
-- HF hoch halten
-- SVR niedrig halten Therapie: AKE (+ Ascendensersatz bei Dissektion)
-
-Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
-(AS+AI)
-## 44.12. Persistierender Duktus arteriosus botalli (PDAB) *
-
-= Verbindung von der Aorta zur A. Pulmonalis im fetalen Kreislauf; 10% aller kongenitalen Vitien;
-Folge: Hypertrophie des rechten VH und Ventrikel mit Zyanose durch rechts-links-Shunt Auskultatorisch: Maschinengeräusch, kontinuierliches syst-diastolisches Herzgeräusch vorallem
-über dem ERB Physio: normalerweise verschließt sich der DAB funktionell durch den Prostaglandin E2 Abfall und den hohen paO₂ des Blutes während des ersten Lebenstages. Innerhalb der ersten 2-3 Wochen verschließt er sich durch Obliteration definitiv.
-Der DAB kann durch Gabe von Prostaglandin E1+E2 über längere Zeit offen gehalten werden. Z.B.
-bei Transposition der großen Gefäße bis zur OP.
-Therapie: Indomethacintherapie
-(Prostaglandinsynthesehemmer), Duktusligatur
-
 
 
 

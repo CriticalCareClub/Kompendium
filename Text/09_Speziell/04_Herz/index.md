@@ -1,8 +1,7 @@
-
 (sec-herz-kreislauf-stoerungen)=
 (herz-kreislauf-stoerungen)=
 
-# Herz
+# Herzerkrankungen
 
 
 
@@ -23,3 +22,10 @@ Intensivpatient: Reduzierte zentrales Blutvolumen + oft schlechte Herzfunktion! 
 Hyperdynamer Zustand mit herabgesetzten TPVR und MAP\< 50 mit hypovolämen Schock bei Sepsis.
 
 
+
+:::{toctree}
+:maxdepth: 1
+:glob:
+
+0*
+:::

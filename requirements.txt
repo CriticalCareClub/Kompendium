@@ -15,5 +15,6 @@ sphinx_git
 GitAutoVersion 
 sphinx_subfigure 
 sphinx-design
+sphinx_issues
 sphinxcontrib-actdiag
 fontawesome

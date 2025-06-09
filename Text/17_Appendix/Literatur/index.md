@@ -21,17 +21,7 @@
 :outline:
 ```
 
-::::{tab-set}
 
-:::{tab-item} Label1
-Lorem ipsum dolor
-:::
-
-:::{tab-item} Label2
-Content 2
-:::
-
-::::
 
 :::{raw} latex
 \footnotesize
@@ -40,38 +30,6 @@ Content 2
 
 
 
-:::{card} Card Title
-Header
-^^^
-Card content
-+++
-Footer sit amet
-:::
-
-
-Gris:
-
-::::{grid} 2
-:gutter: 1
-
-:::{grid-item-card}
-Der klinischen Nutzen von routinemäßigen Gaben von Antazida, Metoclopramid oder H₂-Rezeptor-Antagonisten vor einer elektiven Operation (bei nicht geburtshilflichen Patienten) ist *zweifelhaft* [{term}`♛ ESA PeriOpFastening 2011`].
-:::
-:::{grid-item-card}
-B
-:::
-::::
-
-::::{grid} 2
-:gutter: 3 3 4 5
-
-:::{grid-item-card}
-A
-:::
-:::{grid-item-card}
-Vor einem **elektiven Kaiserschnitt** sollte ein *H₂-Rezeptor-Antagonist*   am *Vorabend* und *am Morgen* eines elektiven Kaiserschnitts gegeben werden.
-:::
-::::
 
 
 

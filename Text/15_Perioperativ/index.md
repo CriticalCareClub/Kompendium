@@ -3,7 +3,7 @@
 :::{toctree}
 :maxdepth: 1
 
-100-Prae-OP/index
+100-Prae-Anaesthesie/index
 100-Allgemeinnarkose/index
 100-Analgosedierung/index
 100-Regionalanaesthesie/index

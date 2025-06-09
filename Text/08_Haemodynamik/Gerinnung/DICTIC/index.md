@@ -59,8 +59,7 @@ Therapie:
 - Ursache beseitigen: Herdsanierung, Blutung stoppen, AB,...
 - ISV: Volumen, Katecholamine, Beatmung,...
 - Substitution von Erythrozytenkonzentraten, FFP und ev. Thrombozyten
-- Wenn Organdysfunktion ohne Blutung im Vordergrund steht und die Thrombos > 50000 sind
-= UFH 400 IE / h
+- Wenn Organdysfunktion ohne Blutung im Vordergrund steht und die Thrombos > 50000 sind = UFH 400 IE / h
 
 
 Ursachen einer perioperativen Gerinnungsstörung:

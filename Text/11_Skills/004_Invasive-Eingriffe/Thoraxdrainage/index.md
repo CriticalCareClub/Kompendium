@@ -208,7 +208,7 @@ Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponi
 Der Ultraschall eignet sich sehr gut zur Darstellung und Vermessung von Flüssigkeiten im Pleuraraum.
 Dadurch kann sowohl die Punktionswürdigkeit, als auch der Zugangsweg gut abgeschätzt werden.
 
-:::{todo} {issue}`134` US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
+:::{todo} {issue}`129` US: Pleuraerguss im Ultraschall ../Bilder/Pleuraerguss-US.jpeg
 
 
 Pleuraerguss im Ultraschall
@@ -288,7 +288,7 @@ Das klassische, dicklumige, Thoraxdrain ist ein Kunststoffschlauch, in welchem e
 
 
 
-:::{todo} {issue}`134` Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
+:::{todo} {issue}`129` Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen ../Bilder/Buelaudraingen.jpg
 
 
 Bülau-Drainagen mit Trokar in unterschiedlichen Größen
@@ -313,7 +313,7 @@ Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 Es gibt zwei typische Zugangswege, nach *Monaldi* und nach *Bülau*.
 
 
-:::{todo} {issue}`134` Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
+:::{todo} {issue}`129` Foto/Grafik: Zugänge für die Thoraxdrainage ../Bilder/Pleuradrainage-Punktionsstellen.jpeg
 
 
 Zugänge für die Thoraxdrainage
@@ -339,7 +339,7 @@ Das als für die Punktion sichere Areal wird als **Triangle of Safety** bezeichn
 
 Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fürdickere Draingen.
 
-:::{todo} {issue}`134` Foto/Grafik: Triangle of Safety
+:::{todo} {issue}`129` Foto/Grafik: Triangle of Safety
 
 ../Bilder/Pleuradrainage-Triangle-of.Safety.jpeg
 :width: 75%
@@ -347,7 +347,7 @@ Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fü
 **Triangle of safety**: Begrenzung Hinterrand des **M. pectoralis**, Vorderrand des **M. lat. dors.** und **Mamille** (mittlere Axillarlinie)
 :::
 
-:::{todo} {issue}`134` Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
+:::{todo} {issue}`130` Grafik: Schema einer Pleuradrainage mit Wasserschloss ../Bilder/Pleuradrainage-Schema.jpg
 
 
 Schema einer Pleuradrainage mit Wasserschloss
@@ -406,14 +406,14 @@ Weiters kann man in der Flüssigkeit die Luft in Form von Luftblasen beobachten,
 Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, können über diese Sekrete gesammelt werden.
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
-:::{todo} ../Bilder/Wasserschloss-Schema-1.jpeg
+:::{todo} {issue}`130` ../Bilder/Wasserschloss-Schema-1.jpeg
 
 
 Ein Wasserschloss kann mit oder ohne Sog betrieben werden.
 Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
 :::
 
-:::{todo} ../Bilder/Wasserschloss-Schema-2.jpeg
+:::{todo} {issue}`130` ../Bilder/Wasserschloss-Schema-2.jpeg
 
 
 Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
@@ -427,7 +427,7 @@ Wasserschloss, unter dem Patientenbett positioniert
 Eine Weiterentwicklung stellen elektronische Systeme, wie z. B. das Medela™-System, dar.
 Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Generierung des Sogs, etwaige Leckagen werden aufgezeichnet und können im Zeitverlauf betrachtet werden.
 
-:::{todo} ../Bilder/Medela.jpg
+:::{todo} {issue}`129` ../Bilder/Medela.jpg
 
 
 Medela™-System

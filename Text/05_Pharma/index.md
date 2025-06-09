@@ -32,38 +32,13 @@ und Hilfsstoffen
 
 *Toxikologie:* Lehre von den für Mensch und Tier schädlichen Eigenschaften chemischer Substanzen: Gifte/Vergiftungen. Toxizität eines Pharmakons = NEBENWIRKUNGEN, im Gegensatz zu erwünschten Hauptwirkungen
 
-*Arzneimittel laut AMG (§1 österreichisches Arzneimittelgesetz):*§ 1.
+*Arzneimittel laut AMG (§1 österreichisches Arzneimittelgesetz):* § 1.
 (1) "Arzneimittel" sind Stoffe oder Zubereitungen aus Stoffen, die nach der allgemeinen Verkehrsauffassung dazu dienen oder nach Art und Form des Inverkehrbringens dazu bestimmt sind, bei Anwendung am oder im menschlichen oder tierischen Körper
 
 :::{toctree}
 :caption: Inhalt
 :maxdepth: 1
+:glob:
 
-Grundlagen/index
-Lokal/index
-Hypnotika/index
-Opiate/index
-VIA/index
-Muskelrelaxantien/index
-Herz-Kreislauf/index
-Anaesthesie/index
-Schmerztherapie/index
-Gerinnung/index
-Blutprodukte/index
-Fluessigkeit/index
-Antibiotika/index
-Antiallergika/index
-Bronchodilatatoren/index
-Blut/index
-Analgetika/index
-Antibiotika/index
-Hormonsystem/index
-Respirationstrakt/index
-Sonstige-Antiinfaktiva/index
-Vergiftungen/index
-Virostatika/index
-WasserElythaushalt/index
-Spezielle/index
-Fragen/index
-Pharmakopeia/index
+*/index
 :::

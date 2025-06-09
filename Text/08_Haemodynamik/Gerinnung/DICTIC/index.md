@@ -19,7 +19,7 @@ Ursache:
 - Flüssigkeitszufuhr 
 - TRIAS: 
   - Hypothermie (< 34°C) 
-  - Hypokalzämie (< 1 mmol / l)
+  - Hypokalziämie (< 1 mmol / l)
   - Azidose (pH < 7,2) 
 - HK < 24%
 
@@ -33,7 +33,7 @@ Ursache:
     1–2 g innerhalb der ersten 3 h (15-20 mg / kg KG)
 3. **Hypothermie** vermeiden: Wärmematte, Temperatursonde, gewärmte Flüssigkeiten (10% Gerinnungsverlust pro -1°C), \> 34°C 
 4. *Azidosekorrektur*: Ziel > 7,2 (NaBIC)
-5. **Hypokalzämie** vermeiden: Ca \> 1 mmol / l (*Calciumglukonat*) 
+5. **Hypokalziämie** vermeiden: Ca \> 1 mmol / l (*Calciumglukonat*) 
   {index}` <Calciumglukonat; TIC>`
 6. **Anämiekorrektur**: Ziel Hb 8–10 mg / dl 
 7. **Thrombozyten**

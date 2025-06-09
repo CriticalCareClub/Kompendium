@@ -14,6 +14,7 @@ Analgetika
 analgetische
 analgetischen
 Analgosedierung
+Anämiekorrektur
 Anaphylaxie
 Anästhesieform
 Anästhesieverfahren
@@ -37,6 +38,7 @@ Anurie
 Aortenklappenstenose
 Apnoe
 Apnoetoleranz
+APTEM
 Areflexie
 Aspirationsgefahr
 Aspirationsrisiko
@@ -51,9 +53,11 @@ Auskultation
 auskultiert
 Ausleiten
 axilläre
+Azidosekorrektur
 balancierter
 Ballondilatation
 Ballonierung
+Beriplex
 Blasenatonie
 Blutungsbeginn
 Blutungsbereitschaft
@@ -84,6 +88,7 @@ Dekompensation
 dekompensieren
 dekompensierte
 Delir
+Dilutionskoagulopathie
 Dobutamin
 Dosisrate
 Durasack
@@ -92,6 +97,7 @@ dysregulierte
 Echokardiographie
 einzeitige
 Elektrolytstatus
+Eliquis
 Elomel
 Embolisation
 Endorphinspiegel
@@ -114,6 +120,7 @@ Esketamin
 euglykämische
 Exspiration
 Exsudat
+EXTEM
 Extraduralraum
 Extrasystolen
 Faktorenmangel
@@ -122,9 +129,15 @@ fehlregulierte
 Femoralarterie
 Femoralisblockade
 fiberoptische
+Fibrinogengabe
+Fibrinogenmangel
+Fibrinogenspiegel
 Fibrinolyse
 Fibrinolytika
+Fibrinpolymerisation
+FIBTEM
 Fixationsmöglichkeit
+Flexionshaltung
 Flexoren
 Flüssigkeitsbolus
 Fokussanierung
@@ -153,6 +166,7 @@ Hämofiltration
 Hämofiltrationskatheter
 Hautantiseptik
 Heparine
+heparinisierten
 Heparinoide
 Herdsanierung
 Hernie
@@ -165,8 +179,10 @@ Hüfner'sche
 Hyperalgesie
 Hyperfibrinolyse
 Hyperkapnie
+hyperosmolare
 Hyperreflexie
 Hypoglykämie
+Hypokalziämie
 hypovoläme
 hypovolämen
 hypovolämer
@@ -227,6 +243,7 @@ Katheterverfahren
 kaudal
 Ketoazidose
 Klappenvitien
+Koagulopathie
 Kompartment
 Kompartmentsyndrom
 Konnektionsstelle
@@ -255,10 +272,13 @@ Lungenkapillaren
 Lungenkapillarverschlußdruck
 Lungenkontusion
 Lysthenon™
+Malignom
+Maltodextrine
 mediane
 Mediatorsubstanzen
 Mepivacain
 Methylprednisolon
+Metoclopramid
 Mikroglia
 Minderperfusion
 Minderversorgung
@@ -269,6 +289,7 @@ Myelons
 myokardiale
 myokardialen
 Myokards
+Myokardszintigraphie
 Nachlastsenkung
 Nahtmaterial
 Narkoseführung
@@ -288,6 +309,7 @@ Oligurie
 onkologische
 Opiat
 Opioide
+Organnekrosen
 Ösophagusvarizen
 oxygenierten
 Oxygenierung
@@ -298,6 +320,7 @@ Partialdrücke
 Pathomechanismen
 Pathophysio
 Peitschenschlagsyndrom
+Penizillinallergie
 perfundiert
 Perfusionsstörung
 Periduralanästhesie
@@ -306,6 +329,7 @@ Periduralraum
 Perikardtamponade
 periop
 perioperativ
+perioperativen
 perioperativer
 Peristaltik
 Petechien
@@ -328,6 +352,8 @@ progredienten
 progredienter
 Prokinetika
 Prokinetikum
+Protamin
+Prothrombinkomplex
 Pseudozystenbildung
 Pulmonalarterienkatheter
 Pulmonalembolie
@@ -357,6 +383,7 @@ Relaxierung
 Resektion
 Resistenztestung
 Responder
+Retrognathie
 Rezertifizierung
 Ropivacain
 ROSC

@@ -64,6 +64,7 @@ Blutungsbereitschaft
 Blutungsgeschehen
 Blutungskontrolle
 Blutungsrisiko
+Blutungsrisikos
 Bolusgabe
 bradykard
 Bradykardie
@@ -164,6 +165,7 @@ Hämodialyse
 Hämodynamik
 Hämofiltration
 Hämofiltrationskatheter
+Hämostase
 Hautantiseptik
 Heparine
 heparinisierten
@@ -347,6 +349,7 @@ PPSB
 Prämedikation
 Präoxygenieren
 Präoxygenierung
+Praxbind
 Prednisolon
 progredienten
 progredienter
@@ -437,10 +440,12 @@ Thoraxschmerzen
 Thoraxsonographie
 Thoraxwand
 Thrombinbildung
+thrombogenes
 Thrombopenie
 Thrombos
 Thromboseprophylaxe
 Thromboserisiko
+Thrombozytenaggregation
 Thrombozytenaggregationshemmung
 Thrombozytopenie
 Ticlopidin

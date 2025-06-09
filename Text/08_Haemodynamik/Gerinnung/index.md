@@ -21,7 +21,7 @@ Die einzelnen Komponenten sind netz- und kaskadenartig miteinander verbunden, wo
 
 Man unterscheidet die primäre Hämostase (Plättchenthrombus, arterieller Thrombus  bei z.B.
 MCI), und plasmatische Gerinnung (venöser Thrombus bei VHF, TVT, PE).
-Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaquekern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat. Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung. Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors. Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst.
+Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaque-Kern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat. Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung. Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors. Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst.
 
 Global gesehen beträgt die  *Blutungszeit* durchschnittlich ca. 2 bis 4 Minuten, bei kleineren Verletzungen u. U. auch länger.
 
@@ -203,7 +203,7 @@ Thrombozytenaggregationshemmer
 
 - Anti FXa – Apixaban (Eliquis™), Edoxaban,  Rivaroxaban (Xarelto™)
 
-  - Allgmeiner FXa – Inhibitor Antidot – Andexanet Alfa
+  - Allgemeiner FXa – Inhibitor Antidot – Andexanet Alfa
 
 - Labor Thrombinzeit oder ECT bei Dabigatran
 
@@ -232,20 +232,6 @@ Thrombozytenaggregationshemmer
 - Perioperativebleeding.org
 - Oegari.at
 :::
-
-
------
-
-
-
-
-
-
-
-
-
-
------
 
 
 

@@ -51,6 +51,7 @@ Die notwendige Therapiestrategie, ggfs. mittels "Bridging" mit kurz wirksamen un
 
 
 :::{table} Empfohlene Zeitintervalle vor und nach rückenmarksnaher Punktion bzw. Katheterentfernung, Auszug nach {term}`♛ S1 RM-RA Antikoag 2021`
+:name: TAB-Zeitintervalle-Gerinnung-vor-nach-RM-Punktion
 
 
 | Substanz                  | Dosierung, Besonderheiten    | Halbwertszeit         | Vor Intervention       | Nach Intervention         | Spezifische Laborparameter |

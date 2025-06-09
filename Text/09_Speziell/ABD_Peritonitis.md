@@ -34,7 +34,7 @@ Eine Bauchfellentzündung führt üblicherweise zu einer schweren körperweiten 
 Sie ist nur **selten eine eigenständige Erkrankung**, sondern häufig eine Folgeerscheinung eines anderen Krankheitsprozesses und umfasst einen heterogenen Komplex von klinischen Krankheitsbildern.
 Die Behandlung und Prognose ist wesentlich vom zugrunde liegenden Krankheitsbild abhängig.
 
-:::{todo} {issue}`134` Foto: 4-Quadranten-Peritonitis
+:::{todo} {issue}`129` Foto: 4-Quadranten-Peritonitis
 
 Peritonitis.png
 

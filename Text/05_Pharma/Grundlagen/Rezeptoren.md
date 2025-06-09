@@ -4,7 +4,7 @@ Rezeptoren sind komplexe, große **(Protein-)Moleküle**, welche über Bindungss
 Die Bindung eines Liganden führt zu einer **Veränderung der räumlichen Anordnung** des Proteins (*Tertiär-* und *Quartärstruktur*) und damit zu einer **Veränderung des Funktionszustands** des Proteins.
 Sie können sich sowohl in der Zellmembran als auch intrazellulär befinden.
 
-:::{todo} {issue}`134` Grafik: Rezeptor mit Ligand
+:::{todo} {issue}`130` Grafik: Rezeptor mit Ligand
 :::
 
 
@@ -23,7 +23,7 @@ Man unterscheidet:
 - **Liganden**-gesteuerte Ionenkanäle
 - **G-Protein** gesteuerte Rezeptoren
 
-:::{todo} {issue}`134` Grafik: Liganden-gesteuerter Ionenkanal
+:::{todo} {issue}`130` Grafik: Liganden-gesteuerter Ionenkanal
 
 ../Pictures/Liganden-gesteuerter-Ionenkanal.png
 :width: 100%
@@ -32,7 +32,7 @@ Man unterscheidet:
 
 
 
-:::{todo} {issue}`134` Grafik: G-Protein-gesteuerter Rezeptor
+:::{todo} {issue}`130` Grafik: G-Protein-gesteuerter Rezeptor
 
 ../Pictures/G-Protein-gesteuerter-Rezeptor.png
 :width: 100%

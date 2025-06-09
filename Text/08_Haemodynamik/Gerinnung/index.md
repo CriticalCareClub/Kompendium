@@ -73,7 +73,7 @@ Hämostase
 
 ## Gerinnungskaskade
 
-:::{todo} {issue}`134` Gerinnungskaskade — Was geschieht wo?
+:::{todo} {issue}`130` Gerinnungskaskade — Was geschieht wo?
 
 ../Pictures/Gerinnungskaskade-001.png
 :width: 100%
@@ -82,7 +82,7 @@ Hämostase
 
 
 
-:::{todo} {issue}`134` Gerinnungskaskade — Phasen
+:::{todo} {issue}`130` Gerinnungskaskade — Phasen
 
 ../Pictures/Gerinnungskaskade-002.png
 :width: 100%
@@ -109,15 +109,11 @@ Von Willebrand Jürgens Syndrom
 Erworbene Störungen
 : - DIC, Massivblutung, Antikoagulation, Lebererkrankungen
 
-:::{todo} {issue}`134` Tabelle Erworbene Gerinnungsstörungen -- Gestrichen?
-:::
 
-:::{todo} {issue}`134` Tabelle Erworbene Thrombozythopenie -- Gestrichen?
-:::
 
 ## Szenarien — Was gibt es zu beachten?
 
-:::{todo} *"Szenarien — Was gibt es zu beachten?"* Fragen, aber keine Antworten
+:::{todo} {issue}`137` *"Szenarien — Was gibt es zu beachten?"* Fragen, aber keine Antworten
 :::
 
 - Arthroskopie in Spinalanästhesie bei Patienten unter TASS?
@@ -213,14 +209,11 @@ Thrombozytenaggregationshemmer
 
 - Im Notfall Praxbind™ oder PPSB (Prothrombinkomplexkonzentrat) oder Plasma
 
-:::{todo} {issue}`134` Grafik: DOAKs: Pause vor und nach Interventionen
-
-../Pictures/DOAK.png
-:width: 100%
-
+:::{seealso}
+- {ref}`TAB-Zeitintervalle-Gerinnung-vor-nach-RM-Punktion`
 :::
 
-:::{todo} {issue}`134` Grafik: Management des perioperativen Blutungsrisikos
+:::{todo} {issue}`130` Grafik: Management des perioperativen Blutungsrisikos
 
 ../Pictures/Management-perioperatives-Blutungsrisiko.png
 :width: 100%

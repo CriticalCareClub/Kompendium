@@ -88,7 +88,7 @@ Hyperkapnie und Hyperthermie mit einer Temperatur von 40,8°C und Tachykardie al
 \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
-:::{todo} {issue}`134` Grafik: Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
+:::{todo} {issue}`130` Grafik: Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
 
 ../../Bilder/KS/RespMon-Monitor.jpeg
 :width: 100%

@@ -2,7 +2,7 @@
 
 # Überträger im autonomen Nervensystem
 
-:::{todo} {issue}`134` Grafik: Überträger im autonomen Nervensystem
+:::{todo} {issue}`130` Grafik: Überträger im autonomen Nervensystem
 
 ../Pictures/Uebertraeger-autonomes-Nervensystem.png
 :width: 100%

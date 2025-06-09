@@ -246,7 +246,7 @@ Thrombozytenaggregationshemmer
 - Einhalten von Pausen vor Anlegen eines Regionalanästhesiekatheters
 - Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
 
-:::{todo} {issue}`134` Management der Blutung unter oraler Antikoagulation
+:::{todo} {issue}`130` Management der Blutung unter oraler Antikoagulation
 
 ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
 :width: 100%

@@ -243,7 +243,7 @@ Der gleiche Pneumothorax im CP-Röntgen und im CT
 ![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../Bilder/Pneumothorax-Hautemphysem-CT.jpg)
 ::: -->
 
-:::{todo} {issue}`134` Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
+:::{todo} {issue}`129` Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
 :::
 
 :::{raw} latex

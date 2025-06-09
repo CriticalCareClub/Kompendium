@@ -14,7 +14,7 @@ Dies ist regelhaft ab L2 der Fall.
 Punktionen werden daher in den Segmenten L3/L4 sowie L4/L5 durchgeführt.
 
 
-:::{todo} {issue}`134` Wirbelsäule mit Punktionskanüle im Querschnitt SPA-Querschnitt.png
+:::{todo} {issue}`129` Wirbelsäule mit Punktionskanüle im Querschnitt SPA-Querschnitt.png
 
 Wirbelsäule mit Punktionskanüle im Querschnitt
 
@@ -35,7 +35,7 @@ Spinalanästhesie
 
 ::: -->
 
-:::{todo} {issue}`134` Fotos: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
+:::{todo} {issue}`129` Fotos: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
 :::
 
 ## Indikationen
@@ -64,12 +64,12 @@ Spinalanästhesie
 
 Tätowierungen an der Punktionsstelle sind nicht unbedingt ein Ausschlussgrund ({term}`🗎 Kluger 2020`).
 
-:::{todo} {issue}`134` SPA-Set.png
+:::{todo} {issue}`129` SPA-Set.png
 
 SPA-Set
 :::
 
-:::{todo} {issue}`134` SPA-Lagerung.png
+:::{todo} {issue}`129` SPA-Lagerung.png
 
 :width: 50%
 
@@ -96,7 +96,7 @@ Spinalnadeln
 ![Schliff: Quincke, Sprotte](SPA-Schliff.png)
 :::
  -->
-:::{todo} {issue}`134` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
+:::{todo} {issue}`129` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
 :::
 
 :::{note}

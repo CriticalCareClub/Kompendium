@@ -19,7 +19,7 @@
 - **Auf ICU nur flexible Bronchoskopie**
 - **Fiberoptik oder Video Bronchoskopie**
 
-:::{todo} {issue}`134` Foto: Flexibles Bronchoskop
+:::{todo} {issue}`129` Foto: Flexibles Bronchoskop
 
 ../Bilder/Bronchoskop-flexibel.jpg
 :width: 75%
@@ -69,7 +69,7 @@ Therapeutisch:
 Bronchialbaum
 :::
 
-:::{todo} {issue}`134` Bronchsoskopie: verschiedene Ansichten
+:::{todo} {issue}`129` Bronchoskopie: verschiedene Ansichten
 :::
 
 

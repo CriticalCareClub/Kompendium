@@ -96,7 +96,7 @@ Normalerweise hat ein PAC *vier* Ports:
 - **Ballonanschluss, Rot**: Wedge-Ballon ; 1,5 ml Spezialspritze
 - **Infusionsport, Weiß**: Wie ZVK-Lumen
 
-:::{todo} {issue}`134` Foto: ../Bilder/Pulmi.jpg
+:::{todo} {issue}`129` Foto: ../Bilder/Pulmi.jpg
 
 
 :alt: Bild
@@ -119,7 +119,7 @@ Die Anwendung erfolgt über eine venöse Schleuse.
 Diese wird grundsätzlich wie ein ZVK an der V. iug. int. dext. (alternativ V. subclavia) angelegt.
 Um das sterile Vor- und Zurückschieben des Katheters zu ermöglichen, wird an der Schleuse über den PAC ein flexibler Schutzüberzug angebracht und distal am PAC fixiert, sodass die Innenseite und damit der PAC immer steril bleibt.
 
-:::{todo} {issue}`134` Foto: Über eine venöse Schleuse eingeführter PAC ../Bilder/Pulmi-009.jpg
+:::{todo} {issue}`129` Foto: Über eine venöse Schleuse eingeführter PAC ../Bilder/Pulmi-009.jpg
 
 
 :alt: Bild

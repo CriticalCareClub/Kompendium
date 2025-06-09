@@ -137,7 +137,7 @@ Bewertet werden mit 0—2 Punkten:
 
 Bestenfalls beträgt die Summe der vergebenen Punkte 0, im schlechtesten Fall 10.
 Ab 2 oder mehr Punkten ist mit einer schwierigen Intubation zu rechnen.
-Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von beispielsweise 75 % der "schwierigen" Laryngoskopien auf Kosten der falschen Identifizierung von 12 % der "nicht schwierigen" Patienten ({term}`🗎 Wilson 1988`).
+Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von beispielsweise 75 % der "schwierigen" Laryngoskopie auf Kosten der falschen Identifizierung von 12 % der "nicht schwierigen" Patienten ({term}`🗎 Wilson 1988`).
 
 ## Beispiele herausfordernder Atemwege
 

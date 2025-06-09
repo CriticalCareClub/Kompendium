@@ -260,6 +260,7 @@ Laktat
 Laktatanstieg
 Landmarks
 Laparotomie
+Laryngoskopie
 Larynxödem
 Leukopenie
 Leukozytensturz
@@ -283,6 +284,7 @@ Mepivacain
 Methylprednisolon
 Metoclopramid
 Mikroglia
+Mikrognathie
 Minderperfusion
 Minderversorgung
 MODS

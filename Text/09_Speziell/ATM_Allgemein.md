@@ -216,33 +216,34 @@ Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemst
 
 -----
 
-# Atmungsstörungen
+## Atmungsstörungen
 
-:::{todo} {issue}`134` Code/Tabelle
 
-[H]LLStörung des/der & Beispiele
-O₂-Angebotes &
-:::
+
+
+:::{todo} {issue}`139` Code/Tabelle Atmungsstörungen
+
+* - Störung des/der O₂-Angebotes
+  - Beispiele
+ &
+
 
 Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
 
 Stickgase (Gärkeller (CO₂↑, O₂↓); defekte Gastherme (CO))
 
-:::{todo} {issue}`134` Code/Tabelle
+
 
 Ertrinken
 O₂-Diffusion & Lungenödem
-:::
+
 
 Pneumonie
 
-:::{todo} {issue}`134` Code/Tabelle
+
 
 Pulmonalembolie  
 Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
-
-:::
-
 
 Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
 
@@ -250,13 +251,8 @@ Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktu
 
 Lagerung: Trendelenburglagerung, Verschüttung
 
-:::{todo} {issue}`134` Code/Tabelle
-
 Kapnoperitoneum  
 Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
-
-:::
-
 
 Insult
 
@@ -270,7 +266,7 @@ Muskelerkrankungen
 
 Nervenerkrankung
 
-:::{todo} {issue}`134` Code/Tabelle
+
 
 Stoffwechselstörungen  
 Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
@@ -286,6 +282,7 @@ Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
 - Sauerstoffsättigung
 - Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
 - Heimsauerstoff, Atemhilfen
+:::
 
 ## Mechanische *Atemwegsverlegung*
 

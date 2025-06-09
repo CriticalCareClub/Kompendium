@@ -322,9 +322,9 @@ Doppellumentubus
 ![Doppellumentubus, Schema](Doppellumentubus-Schema.png)
 ::: -->
 
-:::{todo} {issue}`134` Grafik: Doppellumentubsu, Schema
+:::{todo} {issue}`130` Grafik: Doppellumentubsu, Schema
 :::
-:::{todo} {issue}`134` Foto: Doppellumentubus
+:::{todo} {issue}`129` Foto: Doppellumentubus
 :::
 
 

@@ -27,6 +27,7 @@
 
 (airway-risiko)=
 (AATW-KP-Evaluation)=
+(Thyromentaler-Abstand)=
 
 # Risikobewertung
 
@@ -42,11 +43,13 @@ Faktoren, die das Risikos eines Atemweges bestimmen, sind:
 - **Anamnese**
 - **Körpergewicht**
 - **HWS-Reklination**, Nacken, Trachea, Halswirbelsäule
-- **Mundöffnung**
-- **Kiefer**gelenk, **Retrognatie**, Kiefersperre
+- **Mundöffnung** < 3,5cm
+- **Kiefer**gelenk, **Retrognathie**, Kiefersperre
 - **Zunge**ngröße/-beweglichkeit, Sprachqualität
-- **Zahnstatus** (prominente Zähne, insbes. Schneidezähne)
-- **Thyreomentaler Abstand**: Schildknorpeloberkante — Vorderkante Unterkiefer in maximaler Flexionshaltung, vgl. Abb. {ref}`Fig-BS-Atemweg-Klinische-Einschaetzung`
+- **Zahnstatus** 
+  (prominente Zähne, insbes. Schneidezähne)
+- **Thyromentaler Abstand**: 
+  Schildknorpeloberkante — Vorderkante Unterkiefer in maximaler Flexionshaltung, vgl. Abb. {ref}`Fig-BS-Atemweg-Klinische-Einschaetzung`
 
   - Cave: *Abstand unter 6,5cm* (= 3 Querfinger)
   - \< 7 cm schwierige, \< 6 cm sehr schwierige Intubation

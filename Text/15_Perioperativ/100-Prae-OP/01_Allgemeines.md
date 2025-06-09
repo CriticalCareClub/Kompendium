@@ -1,0 +1,105 @@
+# Allgemeines
+
+Perioperatives Risiko = psychischer und physischer Stress.
+Erhöht bei fehlender cardiopulmonaler Reserve.
+
+- Anamnese mit Befunden: Vorerkrankungen, Blutungsanamnese, Befunde, Belastbarkeit
+(METs, LEE, NYHA, ASA)
+
+- Physik. Untersuchung: Vitalparameter messen, Herz und Lunge auskultieren, Pupillen beschreiben, Lokalbefund (Regionalverfahren) erheben.
+
+- Aufklärung: mögliche Alternativen, Risiken, postoperativer Verlauf, Schmerztherapie
+
+- Einwilligungserklärung: Arzt und Patient müssen unterschreiben
+
+Achte auf:
+- hämodynamische Instabilität?
+- Aspirationsgefahr?
+- Respiratorische Einschränkung?
+
+## Operatives Risiko:
+- Leichte OP: < 2 h, < 500 ml Blutverlust,
+  z.B. CHE, AE, Hernien,...
+- Schwere OP: \> 2 h, > 500 ml BV,
+  z.B. Eingriffe an Thorax und Abdomen, LSK Resektionen, OP mit großen Flüssigkeitsverschiebungen (Ileus) und hämodynamischer Beeinflussung (Niere,...)
+- Elektiv -- dringend -- vital indiziert
+
+
+## Blutungsrisiko bei OP:
+- Gering: Handchir, Zahnextraktion, dermat. oberfl. OP, Katarakt
+- Mittel: Gyn, Uro, Plast, Visceralchir., HNO
+- Hoch: Wirbelsäule, Auge(Hinterkammer), Leber, Niere, Rad. Prostatektomie, Gefäßchirurgie (Abdominelles Aortenaneurysma, Bifurkationsprothese)
+
+## Beurteilung der kardiopulmonalen Reserve:
+- MET´s: metabolische Äquivalente des Ruhe-Sauerstoffverbrauchs, dieser beträgt 3 ml/kg / min
+
+| MET          | Beaschreibung                                               |
+| ------------ | ----------------------------------------------------------- |
+| 1–2          | leichte Hausarbeit, Sprechdyspnoe                           |
+| 3            | gehen in der Ebene ums Haus                                 |
+| 4            | ein Stockwerk ohne Pause = 4 facher Ruhesauerstoffverbrauch |
+| 5–6          | zwei Stockwerke ohne Pause, leichtes Laufen                 |
+| 6–9 Wandern, | Kegeln                                                      |
+| \> 10         | Ausdauersport                                               |
+|              |                                                             |
+
+Vielfach wird heute nur noch zwischen \< oder \> 4 MET´s unterschieden.
+
+## Beurteilung Vorerkrankung/Allgemeinzustand:
+- **ASA**: American society of anastesiologists
+
+| ASA | Beschreibung                                                              |
+| --- | ------------------------------------------------------------------------- |
+| I   | gesund                                                                    |
+| II  | leichte Vorerkrankung, ohne Leistungseinschränkung (+Schwangere, Raucher) |
+| III | schwere Vorerkrankung mit Leistungseinschränkung                          |
+| IV  | mit und ohne OP lebensbedrohliche Erkrankung                              |
+| V   | moribund innerhalb von 24 h mit und ohne OP                                |
+| VI  | Hirntod, Organspender                                                     |
+
+
+
+**NYHA-Klassifikation** des cardialen Patienten
+
+| NYHA |                                                       |
+| ---- | ----------------------------------------------------- |
+| I    | Stenokardien bei schwerer Arbeit/Sex                  |
+| II   | leichte Einschränkung, 1 Stockwerk problemlos möglich |
+| III  | deutliche Einschränkung, 1 Stockwerk langsam möglich  |
+| IV   | Ruhestenokardien, keine Arbeit möglich                |
+
+**LEE-Index** zur Abschätzung des Cardialen Risikos
+- Risikofaktoren: Ischäm. CMP, Herzinsuffizienz, zerebrovask. Insult, IDDM, chron. Niereninsuff.
+- I keine Risikofaktoren
+- II 1 RF
+- III 2 RF
+- IV \> 2 RF
+
+
+## Mögliche Gründe eine OP zu verschieben:
+
+- Nüchternheit abwarten, ausgenommen offene Frakturen, vitaleIndikation
+- Gerinnungskorrektur nötig
+- Fehlende zeitgerechte Aufklärung und OP-Einwilligung
+- Infekt der oberen Atemwege (bis 2 Wochen danach hyperreag. Bronchien, Kinder!)
+- Nüchternblutzucker \> 300 mg/dl bei elektiven Operationen
+
+
+Hauptgrund ist in der Praxis eine schlechte Planung!
+Verschieben kostet Geld.
+
+
+Hypertonie ist kein Grund zum verschieben: ist jedoch mit erhöhtem kard. Risiko einer Myokardischämie verbunden, hämodynamische Instabilität als Hauptrisikofaktor für KHK, HI,
+Nierenversagen, zerebrovask. Erkr. Oft assoziiert mit DM, Adipositas, Hyperlipidämie. Bei Plan OP   und unbehandelter massiver Hypertonie sollte diese präoperativ erkannt und behandelt werden!
+
+## Rechtliche Aspekte
+
+Bis 14Lj. mind. 1 Erziehungsberechtigter oder Sachwalter, vom 14–18Lj. kann der Patient selbst einwilligen, ausgenommen bei schweren Eingriffen muss auch ein Erziehungsberechtigter einwilligen.
+
+Aufklärung bedeutet Vor-u. Nachteile, und Risiken der AN + Alternativen aufzuzeigen.
+
+Je dringender der Eingriff umso näher darf der Zeitpunkt der Aufklärung zur OP sein!
+Angehörige dürfen ohne Sachwalterschaft unterschreiben. Bei schwerer OP zweite  ärztliche Meinung und psychiatrisches Gutachten empfohlen. Verbindliche (Notar, 5 Jahre) und beachtliche Patientienverfügung beachten! Vorsorgevollmacht (Notar, RA) auch für medizinische Fragen möglich!
+
+**Beweislastumkehr**: Arzt muss Zeit und fachgerechte Aufklärung und Patientenzustimmung nachweisen können!
+

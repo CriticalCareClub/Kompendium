@@ -1,0 +1,25 @@
+# Präoperative Gerinnungsdiagnostik
+
+Blutungsanamnese
+- Symptome: blaue Flecken? Nasenbluten? Menses?, Gelenksblut.? Petechien?
+- Früher OP: Blutung bei Zahnextraktion? TVT/PE?
+- Familienanamnese: Hämophilie, VWF, Faktor V Leiden, ...
+- Medikamente: OAK, TH-ASS, Schmerzmedikamente (Voltaren, Ibuprofen, Th-Ass 3  Tage pausieren)
+
+Unauffällige Blutungsanamese:
+
+- ASA I+II, Labor (PTZ, aPTT, Fibrinogen, Thrombzyten) nur bei Eingriffen der Wirbelsäule, Retina oder intrakraniellen Eingriffen.
+- Leberinsuffizienz: PTZ, Thromb.
+- Ab ASA III, PTZ, aPTT, Thrombozyten, Fibrinogen
+
+Auffällige Blutungsanamnese:
+
+- Bekannte Gerinnungsstörung: interdisziplinäres Vorgehen festlegen
+- Gerinnungshemmer: Drugmonitoring (INR, aXa)
+- Auffällige Thromboseanamnese: Thrombophiliediagostik und periop. Thromboseprophylaxe!!
+- Klinisches Bild? PTZ, aPPT, Fibrinogen, Thrombozyten, Gerinnungsdiagnostik (Einzelfaktoren,...)
+
+Primäre Hämostasekapazität
+- Bestimmen des VWF-Ag
+- Ristocetin-Cofaktor bestimmen (VWF: RCo)
+- Thromobzytenfunktionstest PFA 100 oder Aggregometrie Multiplate

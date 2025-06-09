@@ -1,0 +1,16 @@
+# Evaluation des Atemwegs
+
+:::{seealso}
+
+Eine umfassende Abhandlung hinsichtlich der Einschätzung des Atemwegsrisikos findet sich unter:
+- {numref}`airway-risiko` {ref}`airway-risiko`
+:::
+
+- {ref}`Mallampati-Klassifikation <mallampati-score>`
+- {ref}`Thyromentaler Abstand <Thyromentaler-Abstand)>` in max. Flexionshaltung, Schildknorpeloberkante–Vorderkante UK:   
+  - Cave: *Abstand unter 6,5cm* (= 3 Querfinger)
+  - \< 7 cm schwierige, \< 6 cm sehr schwierige Intubation
+- Mundöffnung < 3,5cm
+- Unterkiefer Retrognathie (UK hinter OK), prominente Vorderzähne
+- HWS-Beweglichkeit unter 80°
+

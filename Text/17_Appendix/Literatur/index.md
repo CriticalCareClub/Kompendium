@@ -6,9 +6,74 @@
 💡👑🖋⎈⎔⏣⏚★☆♛♕⬡⬢
  -->
 
+{fas}`skull;sd-text-danger`
+
+{material-regular}`data_exploration;2em`
+
+{bdg-primary-line}`primary-line`
+
+{bdg-link-primary}`https://example.com`
+
+{bdg-link-primary-line}`explicit title <https://example.com>`
+
+```{button-link} https://example.com
+:color: primary
+:outline:
+```
+
+::::{tab-set}
+
+:::{tab-item} Label1
+Lorem ipsum dolor
+:::
+
+:::{tab-item} Label2
+Content 2
+:::
+
+::::
+
 :::{raw} latex
 \footnotesize
 :::
+
+
+
+
+:::{card} Card Title
+Header
+^^^
+Card content
++++
+Footer sit amet
+:::
+
+
+Gris:
+
+::::{grid} 2
+:gutter: 1
+
+:::{grid-item-card}
+Der klinischen Nutzen von routinemäßigen Gaben von Antazida, Metoclopramid oder H₂-Rezeptor-Antagonisten vor einer elektiven Operation (bei nicht geburtshilflichen Patienten) ist *zweifelhaft* [{term}`♛ ESA PeriOpFastening 2011`].
+:::
+:::{grid-item-card}
+B
+:::
+::::
+
+::::{grid} 2
+:gutter: 3 3 4 5
+
+:::{grid-item-card}
+A
+:::
+:::{grid-item-card}
+Vor einem **elektiven Kaiserschnitt** sollte ein *H₂-Rezeptor-Antagonist*   am *Vorabend* und *am Morgen* eines elektiven Kaiserschnitts gegeben werden.
+:::
+::::
+
+
 
 {.glossary}
 
@@ -110,6 +175,18 @@
   **Ethics of resuscitation and end of life decisions.**
   *Resuscitation* 161:408-432.
   <https://doi.org/10.1016/j.resuscitation.2021.02.017>
+
+♛ ESA PeriOpFastening 2011
+: **Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology**
+  by Smith, I.; Kranke, P. et al.
+  European journal of anaesthesiology, 2011, 28, 556-69.
+  PMID: 21712716.
+  DOI: [10.1097/EJA.0b013e3283495ba1](https://doi.org/10.1097/eja.0b013e3283495ba1)
+
+  :::{dropdown} Abstract
+  
+  This guideline aims to provide an overview of the present knowledge on aspects of perioperative fasting with assessment of the quality of the evidence. A systematic search was conducted in electronic databases to identify trials published between 1950 and late 2009 concerned with preoperative fasting, early resumption of oral intake and the effects of oral carbohydrate mixtures on gastric emptying and postoperative recovery. One study on preoperative fasting which had not been included in previous reviews and a further 13 studies published since the most recent review were identified. The searches also identified 20 potentially relevant studies of oral carbohydrates and 53 on early resumption of oral intake. Publications were classified in terms of their evidence level, scientific validity and clinical relevance. The Scottish Intercollegiate Guidelines Network scoring system for assessing level of evidence and grade of recommendations was used. The key recommendations are that adults and children should be encouraged to drink clear fluids up to 2 h before elective surgery (including caesarean section) and all but one member of the guidelines group consider that tea or coffee with milk added (up to about one fifth of the total volume) are still clear fluids. Solid food should be prohibited for 6 h before elective surgery in adults and children, although patients should not have their operation cancelled or delayed just because they are chewing gum, sucking a boiled sweet or smoking immediately prior to induction of anaesthesia. These recommendations also apply to patients with obesity, gastro-oesophageal reflux and diabetes and pregnant women not in labour. There is insufficient evidence to recommend the routine use of antacids, metoclopramide or H2-receptor antagonists before elective surgery in non-obstetric patients, but an H2-receptor antagonist should be given before elective caesarean section, with an intravenous H2-receptor antagonist given prior to emergency caesarean section, supplemented with 30 ml of 0.3 mol l(-1) sodium citrate if general anaesthesia is planned. Infants should be fed before elective surgery. Breast milk is safe up to 4 h and other milks up to 6 h. Thereafter, clear fluids should be given as in adults. The guidelines also consider the safety and possible benefits of preoperative carbohydrates and offer advice on the postoperative resumption of oral intake.
+  :::
 
 ♛ ESC NSTEMI 2020/21
 : **2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation.**
@@ -436,32 +513,44 @@ Citation needed
   **Psychiatric morbidity and functional impairments in survivors of burns, traumatic injuries, and ICU stays for other critical illnesses: a review of the literature.**
   International review of psychiatry (Abingdon, England), 2009, 21, 531-538.
 
-  > Abstract: Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
-  > We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disor
+  :::{dropdown} Abstract
+  
+  Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
+  
+  We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disor
+  :::
 
 🗎 Davydow 2009b
 : Davydow, D. S.; Zatzick, D. F. et a.:
   **Predictors of posttraumatic stress disorder and return to usual major activity in traumatically injured intensive care unit survivors.**
   General hospital psychiatry, 2009, 31, 428-435.
 
-  > Abstract: To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
-  > Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
-  > Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
-  > Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
-  > Longer ICU lengths of stay (RR 1.21, 95% CI 1.03-1.44, P=.02) and tracheostomy (RR 1.29, 95% CI 1.05-1.59, P=.01) were associated with diminished usual activity.
-  > Greater preexisting medical comorbidities were associated with PTSD and limited return to usual activity. Easily identifiable risk factors including ICU/acute care service-delivery characteristics and early post-ICU distress were associated with increased risk of PTSD and limitations in return to usual major activity. Future investigations could develop early screening interventions in acute care settings targeting these risk factors, facilitating appropriate treatments.
+  :::{dropdown} Abstract
+  
+  To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
+  
+  Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
+  Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
+  Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
+  Longer ICU lengths of stay (RR 1.21, 95% CI 1.03-1.44, P=.02) and tracheostomy (RR 1.29, 95% CI 1.05-1.59, P=.01) were associated with diminished usual activity.
+  Greater preexisting medical comorbidities were associated with PTSD and limited return to usual activity. Easily identifiable risk factors including ICU/acute care service-delivery characteristics and early post-ICU distress were associated with increased risk of PTSD and limitations in return to usual major activity. Future investigations could develop early screening interventions in acute care settings targeting these risk factors, facilitating appropriate treatments.
+  :::
 
 🗎 Davydow 2009c
 : Davydow, D. S.; Gifford, J. M. et al.:
   **Depression in general intensive care unit survivors: a systematic review.**
   Intensive care medicine, 2009, 35, 796-809.
 
-  > To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
-  > The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
-  > Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
-  > Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
-  > Post-ICU depressive symptoms were associated with substantially lower HRQOL.
-  > Depressive symptoms are common in general ICU survivors and negatively impact HRQOL. Future studies should address how factors related to individual patients, critical illness and post-ICU recovery are associated with depression in ICU survivors.
+  :::{dropdown} Synopsis
+  
+  To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
+  
+  The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
+  Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
+  Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
+  Post-ICU depressive symptoms were associated with substantially lower HRQOL.
+  Depressive symptoms are common in general ICU survivors and negatively impact HRQOL. Future studies should address how factors related to individual patients, critical illness and post-ICU recovery are associated with depression in ICU survivors.
+  :::
 
 
 🗎 Davydow 2009d
@@ -523,6 +612,8 @@ Citation needed
 : **Notkompetenzen in Österreich: Der aktuelle Stand zehn Jahre nach Einführung des Sanitätergesetzes**
   by A. Enne.
   *Rettungsdienst*, 2012(7):43—45.
+
+
 
 🗎 ESC NSTEMI 2015/16
 : by Damman, P.; van 't Hof, A. W. et al.:

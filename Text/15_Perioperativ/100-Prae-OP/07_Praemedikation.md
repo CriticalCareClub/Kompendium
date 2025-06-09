@@ -1,0 +1,10 @@
+# Prämedikation
+
+Z.B. mit Benzodiazepinen:
+- Erwachsene: Midazolam 3,25–7,5 mg p.o.
+- Kinder: ? mg / kg KG p.o.
+
+Nicht bei:
+- Respiratorischer Insuffizienz
+- COPD, OSAS
+- Nasentamponade etc.

@@ -1,3 +1,7 @@
+
+:::{index} single: Pharmakopeia
+:::
+
 (pharmakopeia)=
 
 # Pharmakopeia

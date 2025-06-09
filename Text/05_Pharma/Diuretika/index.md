@@ -1,3 +1,8 @@
+
+:::{index} single: Diuretika
+:::
+
+
 # Diuretika
 
 ```{toctree}

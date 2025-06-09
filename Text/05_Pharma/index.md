@@ -1,5 +1,8 @@
 
 
+:::{index} single: Pharmakologie
+:::
+
 (Pharma)=
 (APHA)=
 

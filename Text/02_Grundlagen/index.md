@@ -6,12 +6,7 @@ Heilung
 und Linderung.
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 1:glob:
 
-02.001_Physikalische-Grundlagen/index
-02.002_1-mal-1-der-Medizin/index
-02.003_Terminologie/index
-02.004_Hygiene/index
-02.005_Taetigkeitsbereich/index
-02.006_Dokumentation/index
+*/index
 ```

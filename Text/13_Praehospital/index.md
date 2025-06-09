@@ -2,5 +2,5 @@
 
 :::{toctree}
 
-12001_AORG/index
+100_Organisation/index
 :::

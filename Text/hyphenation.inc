@@ -1,1 +1,3 @@
-Physio-logie
+\hyphenation{
+  Physio-logie
+}

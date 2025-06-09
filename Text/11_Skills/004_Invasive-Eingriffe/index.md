@@ -9,10 +9,7 @@
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Art-Zugang/index
-ZVK/index
-Thoraxdrainage/index
-Tracheotomie/index
-Bronchoskopie/index
+*/index
 :::

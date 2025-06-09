@@ -2,8 +2,7 @@
 
 ```{toctree}
 :maxdepth: 1
+:glob:
 
-UntersuchungAbdomen/index
-Neurocheck/index
-Traumacheck/index
+*/index
 ```

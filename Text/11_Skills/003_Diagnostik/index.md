@@ -2,9 +2,7 @@
 
 ```{toctree}
 :maxdepth: 1
+:glob:
 
-Vitalwerte/index
-KoerperlicheUntersuchung/index
-ErweitertesMonitoring/index
-Ekg-Basics/index
+*/index
 ```

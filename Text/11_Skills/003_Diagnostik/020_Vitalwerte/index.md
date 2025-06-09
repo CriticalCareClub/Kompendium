@@ -38,12 +38,3 @@ Dazu gehören:
 - die *Körpertemperatur*
 - die *Blutzuckerkonzentration*
 
-```{toctree}
-:maxdepth: 1
-
-Pulsfrequenz/index
-NichtinvasiveBlutdruckmessung/index
-Pulsoxymetrie/index
-Koerpertemperatur/index
-Blutzuckermessung/index
-```

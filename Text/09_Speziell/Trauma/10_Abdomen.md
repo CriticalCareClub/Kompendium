@@ -1,6 +1,6 @@
 (bauchtrauma)=
 
-# Trauma / Bauch- und Beckentrauma
+# Bauch- und Beckentrauma
 
 ::::{only} not nosidebar
 

@@ -1,6 +1,5 @@
 (frakturen)=
-
-# Trauma / Knochentrauma: Frakturen
+# Knochentrauma: Frakturen
 
 ::::{only} not nosidebar
 

@@ -6,7 +6,7 @@
 (gastrointestinale-blutung)=
 (oesophagusvarizenblutung)=
 
-# Abdomen / Gastrointestinale Blutungen und Ösophagusvarizenblutung
+# Gastrointestinale Blutungen und Ösophagusvarizenblutung
 
 {dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>` sind Blutungen im Magen-Darm-Trakt.
 {dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.

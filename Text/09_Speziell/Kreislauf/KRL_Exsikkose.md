@@ -1,7 +1,7 @@
 
 (exsikkose)=
 
-# Kreislauf /  Exsikkose
+#  Exsikkose
 
 ::::{only} not nosidebar
 

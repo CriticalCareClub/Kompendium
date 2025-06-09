@@ -6,7 +6,7 @@
 (hyperventilationssyndrom)=
 (hyperventilationstetanie)=
 
-# Atmung / Hyperventilationssyndrom und -tetanie
+# Hyperventilationssyndrom und -tetanie
 
 ::::{only} not nosidebar
 

@@ -10,7 +10,7 @@
 (lungenembolie)=
 (pulmonalembolie)=
 
-# Atmung / Pulmonalembolie
+# Pulmonalembolie
 
 ::::{only} not nosidebar
 

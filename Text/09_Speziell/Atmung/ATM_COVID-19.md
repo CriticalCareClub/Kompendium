@@ -5,7 +5,7 @@
 
 (sars-cov-2-therapie)=
 
-# Atmung / COVID-19 und SARS-CoV-2
+# COVID-19 und SARS-CoV-2
 
 Das neuartige Coronavirus erhielt den offiziellen Namen „SARS-CoV-2“; klinisches Bild und Erkrankung werden als „COVID-19“ bezeichnet.
 

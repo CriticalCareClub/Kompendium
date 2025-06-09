@@ -1,4 +1,4 @@
-# Trauma / Strom- und Blitzschlag
+# # Strom- und Blitzschlag
 
 Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große Herausforderung dar. Der Grund hierfür ist, dass bereits im Szeneüberblick die Gefahr eines möglichen weiteren Stromschlages erkannt werden muss! Erster Anhaltspunkt ist daher die Situation am Einsatzort.
 Typisch sind:

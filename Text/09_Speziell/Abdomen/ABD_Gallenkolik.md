@@ -1,6 +1,6 @@
 
 
-# Abdomen / Gallenkolik
+# Gallenkolik
 
 Eine {dfn}`Gallenkolik` {index}` <! Gallenkolik>`
 zeichnet sich durch kolikartige Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine aus. Vgl. Kolik: {ref}`kolik`.

@@ -13,7 +13,7 @@
 
 (atemstillstand)=
 
-# Atmung / Allgemein: Störungen der Atemwege und der Atmung
+# Allgemein: Störungen der Atemwege und der Atmung
 
 ::::{only} not nosidebar
 

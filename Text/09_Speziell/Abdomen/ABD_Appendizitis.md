@@ -1,5 +1,5 @@
 
-# Abdomen / Appendizitis
+# Appendizitis
 
 Syn.
 : Blinddarmentzündung

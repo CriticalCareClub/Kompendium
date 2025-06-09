@@ -3,8 +3,7 @@
 :::
 
 (Polytrauma)=
-
-# Trauma / Polytrauma
+# Polytrauma
 
 
 <!-- 51. -->

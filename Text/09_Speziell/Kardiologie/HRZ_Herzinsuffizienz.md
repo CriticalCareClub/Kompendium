@@ -5,7 +5,7 @@
 (linksherzinsuffizienz)=
 (rechtsherzinsuffizienz)=
 
-# Herz / Herzinsuffizienz
+# Herzinsuffizienz
 
 :::{admonition} Definition: Herzinsuffizienz
 

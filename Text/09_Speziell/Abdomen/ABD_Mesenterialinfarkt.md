@@ -1,7 +1,7 @@
 
 (mesenterialinfarkt)=
 
-# Abdomen / Verschluss eines Mesenterialgefäßes: Mesenterialinfarkt
+# Verschluss eines Mesenterialgefäßes: Mesenterialinfarkt
 
 Ein {dfn}`Mesenterialinfarkt` {index}` <! Mesenterialinfarkt>` ist eine Ischämie des Darms durch Verschluss einer Darmarterie. *Syn.* *Darminfarkt*. Die den Darm versorgenden Arterien verlaufen im Mesenterium [^mesenterium], daher leitet sich der Name der Erkrankung ab.
 

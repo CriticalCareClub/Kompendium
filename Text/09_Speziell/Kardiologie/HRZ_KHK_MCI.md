@@ -5,7 +5,7 @@
 (mci)=
 (myokardinfarkt)=
 
-# Herz / Herzinfarkt (Myokardinfarkt, MCI)
+# Herzinfarkt (Myokardinfarkt, MCI)
 
 
 :::{margin} Herzinfarkt

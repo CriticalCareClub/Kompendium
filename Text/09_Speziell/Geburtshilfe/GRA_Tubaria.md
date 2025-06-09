@@ -6,7 +6,7 @@
 ```{index} single: Schwangerschaft; extrauterine
 ```
 
-# Gravida / Eileiterschwangerschaft
+# Eileiterschwangerschaft
 
 ::::{only} not nosidebar
 

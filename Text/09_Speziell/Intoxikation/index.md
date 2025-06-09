@@ -2,9 +2,10 @@
 (vergiftung)=
 
 
-# Intox / 53. Vergiftungen
+# Intoxikationen
 
-Intoxikationen
+<!-- 53. --> 
+
 
 Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →
 Koma.

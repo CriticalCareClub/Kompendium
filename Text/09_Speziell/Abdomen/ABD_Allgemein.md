@@ -1,4 +1,4 @@
-# Abdomen / Allgemeines
+# Allgemeines
 
 ## Anamnese und Untersuchung
 

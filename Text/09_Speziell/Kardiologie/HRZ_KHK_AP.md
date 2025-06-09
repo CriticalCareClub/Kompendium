@@ -2,7 +2,7 @@
 (angina-pectoris)=
 (AP)=
 
-# Herz / Angina pectoris (AP)
+# Angina pectoris (AP)
 
 ::::{only} not nosidebar
 

@@ -1,7 +1,7 @@
 
 (akutes-abdomen)=
 
-# Abdomen / Akutes Abdomen
+# Akutes Abdomen
 
 Das {dfn}`Akutes Abdomen` {index}` <! Akutes Abdomen>` ist eine akute Erkrankung des Bauchraumes mit plötzlichen, starken *Bauchschmerzen* und *bretthartem Bauch*, welche im weiteren Verlauf lebensbedrohlich sein kann. Es sind verschiedene Ursachen möglich.[^akutesabdomen]
 

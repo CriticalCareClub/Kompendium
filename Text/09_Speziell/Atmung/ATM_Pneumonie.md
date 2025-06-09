@@ -1,4 +1,4 @@
-# Atmung / Pneumonie
+# Pneumonie
 
 30.9.
 

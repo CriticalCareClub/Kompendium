@@ -1,4 +1,4 @@
-# Gerinnung / 25.11. Antithrombotische Therapie auf der Intensivstation
+# 25.11. Antithrombotische Therapie auf der Intensivstation
 
 - Mechanische Kompressionsstrümpfe für mind. 3 Wochen bis zur vollständigen Mobilisation (Kontraindikationen: pAVK III et IV, Traumen, Infektionen, schwere Rechtsherzinsuffizienz)
 - NMWH sc, wenn vom Blutungsrisiko vertretbar (aXa bei schwerer Niereninsuffizienz

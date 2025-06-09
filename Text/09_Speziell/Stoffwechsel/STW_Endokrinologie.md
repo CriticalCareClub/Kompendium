@@ -1,4 +1,4 @@
-# Endokrin / Endokrinologie
+# Endokrinologie
 
 
 

@@ -1,4 +1,4 @@
-# Speziell / Opfer von Kriminalität, Misshandlung und Vernachlässigung
+# Opfer von Kriminalität, Misshandlung und Vernachlässigung
 
 ```{rubric} Querverweise
 ```

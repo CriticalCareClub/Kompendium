@@ -2,7 +2,7 @@
 
 (lebensmittelvergiftung)=
 
-# Abdomen / Gastroenteritis
+# Gastroenteritis
 
 Syn.
 : Magen-Darm-Grippe, Gastroenteritis, Lebensmittelvergiftung

@@ -1,7 +1,7 @@
 
 (diabetes-mellitus)=
 
-# Stoffwechsel / Diabetes mellitus
+# Diabetes mellitus
 
 ## Beschreibung: Blutzuckerstoffwechsel
 

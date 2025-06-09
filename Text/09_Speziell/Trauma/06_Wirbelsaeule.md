@@ -1,6 +1,5 @@
 (wirbelsaeulentrauma)=
-
-# Trauma / Wirbelsäulen- und Rückenmarkstrauma
+# Wirbelsäulen- und Rückenmarkstrauma
 
 Ein Wirbelsäulentrauma ist eine Gewalteinwirkung auf die Wirbelsäule, die zur Verschiebung, Verrenkung oder zur Fraktur von Wirbeln mit oder ohne Rückenmarkschädigung führt .
 

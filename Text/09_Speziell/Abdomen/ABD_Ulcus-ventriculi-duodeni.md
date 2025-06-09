@@ -7,7 +7,7 @@
 ```{index} single: ulcus; duodeni
 ```
 
-# Abdomen / Abdomen / Ulcus ventriculi, -duodeni
+# Abdomen / Ulcus ventriculi, -duodeni
 
 Syn.
 : Magen- und Zwölffingerdarmgeschwür

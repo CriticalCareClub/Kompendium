@@ -1,6 +1,6 @@
 (KHK)=
 
-# Herz / Koronare Herzkrankheit (KHK)
+# Koronare Herzkrankheit (KHK)
 
 <!-- 26.1. -->
 

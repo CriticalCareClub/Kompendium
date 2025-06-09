@@ -1,6 +1,6 @@
 (arteriellergefaessverschluss)=
 
-# Kreislauf / Peripherer arterieller Gefäßverschluß
+# Peripherer arterieller Gefäßverschluß
 
 ::::{only} not nosidebar
 

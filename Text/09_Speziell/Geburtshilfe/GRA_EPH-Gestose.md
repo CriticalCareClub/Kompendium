@@ -4,7 +4,7 @@
 (hellp-syndrom)=
 (eph-gestose)=
 
-# Gravida / EPH-Gestose: Präeklampsie, Eklampsie, HELLP-Syndrom
+# EPH-Gestose: Präeklampsie, Eklampsie, HELLP-Syndrom
 
 Die {dfn}`EPH-Gestose` {index}` <EPH-Gestose>`, auch {dfn}`Präeklampsie` {index}` <Präeklampsie>`
 genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer Folge zu diversen Komplikationen bei der Mutter kommt. 

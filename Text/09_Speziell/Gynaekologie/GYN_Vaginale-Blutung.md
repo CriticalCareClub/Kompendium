@@ -1,7 +1,7 @@
 
 (unterleibsblutungen)=
 
-# Gyn / Vaginale Blutung
+# Vaginale Blutung
 
 ::::{only} not nosidebar
 

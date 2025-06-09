@@ -1,4 +1,4 @@
-# Atmung / 30.4. ILD (Interstitielle lung disease): Lungenfibrose *
+# 30.4. ILD (Interstitielle lung disease): Lungenfibrose *
 
 Klinik:
 - red. AZ,

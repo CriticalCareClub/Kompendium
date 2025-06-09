@@ -1,4 +1,4 @@
-# Abdomen / Diarrhöe
+# Diarrhöe
 
 38.3.
 

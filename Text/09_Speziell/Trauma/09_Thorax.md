@@ -1,7 +1,6 @@
 ```{index} single: Thorax; -trauma
 ```
-
-# Trauma / Thoraxtrauma
+# Thoraxtrauma
 
 Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.
 Thoraxverletzungen gelten als besonders gefährlich, da im Brustkorb (Thorax) lebenswichtige Organe (Herz, Lunge) und große Gefäße liegen.

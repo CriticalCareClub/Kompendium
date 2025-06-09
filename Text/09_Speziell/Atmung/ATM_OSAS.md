@@ -3,7 +3,7 @@
 
 (thema-osas)=
 
-# Atmung / OSAS
+# OSAS
 
 30.1.
 

@@ -2,7 +2,7 @@
 ```{index} single: Plazentalösung; vorzeitige
 ```
 
-# Gravida / Vorzeitige Plazentalösung
+# Vorzeitige Plazentalösung
 
 Eine {dfn}`vorzeitige Plazentalösung` ist eine Ablösung des Mutterkuchens (Plazenta) vor Beendigung der Geburt.
 

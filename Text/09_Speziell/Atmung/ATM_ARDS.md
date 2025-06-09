@@ -6,7 +6,7 @@
 
 (ARDS)=
 
-# Atmung / ARDS
+# ARDS
 
 Das {dfn}`ARDS` ({dfn}`Acute Respiratory Distress Syndrome`, akutes Lungenversagen) ist die massive Reaktion der Lunge auf verschiedene schädigende Faktoren. Es liegt eine nichtkardiale, primäre Ursache zugrunde.
 

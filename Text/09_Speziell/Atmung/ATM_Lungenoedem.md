@@ -3,7 +3,7 @@
 
 (lungenoedem)=
 
-# Atmung / Lungenödem
+# Lungenödem
 
 ::::{only} not nosidebar
 

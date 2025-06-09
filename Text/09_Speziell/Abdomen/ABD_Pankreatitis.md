@@ -1,5 +1,5 @@
 
-# Abdomen / Entzündung der Bauchspeicheldrüse: Pankreatitis
+# Entzündung der Bauchspeicheldrüse: Pankreatitis
 
 ::::{only} not nosidebar
 

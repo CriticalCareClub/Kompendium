@@ -1,6 +1,6 @@
 (schock)=
 
-# Kreislauf / Schock
+# Schock
 
 ::::{only} not nosidebar
 

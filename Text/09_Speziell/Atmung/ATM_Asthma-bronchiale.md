@@ -1,7 +1,7 @@
 ```{index} single: Asthma bronchiale
 ```
 
-# Atmung / Asthma bronchiale
+# Asthma bronchiale
 
 :::{margin} Asthma bronchiale Wiederholte Anfälle von Atemnot durch
 

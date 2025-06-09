@@ -1,4 +1,4 @@
-# Gerinnung / 25.5. Pathomechanismus der intraoperativen Blutung: *
+# 25.5. Pathomechanismus der intraoperativen Blutung: *
 
 - Gefäßverletzung mit Verlust/Gerinnungsaktivierung -- Volumentherapie mit Dilution -- TRIAS Hypothermie+Azidose+Hypokalzämie = Blutgerinnungsstörung  --  vermehrter Blutverlust -- Verbrauch Gerinnungsfaktoren/Hyperfibrinolyse ...
 - POCT (Point of care test): ROTEM oder TEG

@@ -1,7 +1,7 @@
 (kollaps)=
 (synkope)=
 
-# Kreislauf / Kollaps und Synkope
+# Kollaps und Synkope
 
 Als Kollaps bzw. Synkope bezeichnet man eine kurzfristige Kreislaufregulationsstörung. Manche Autoren unterscheiden zwischen beiden Begriffen und ordnen der Synkope eher kardiale Ursachen zu.
 

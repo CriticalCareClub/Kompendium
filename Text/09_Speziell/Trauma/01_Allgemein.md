@@ -1,7 +1,6 @@
 ```{index} Traumatologie
 ```
-
-# Trauma / Allgemein
+# Allgemein
 
 Als {dfn}`Trauma` {index}` <! Trauma>` bezeichnet man eine
 Schädigung,

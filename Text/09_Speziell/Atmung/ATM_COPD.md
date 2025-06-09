@@ -9,7 +9,7 @@
 
 (copd)=
 
-# Atmung / Chronische Bronchitis und COPD
+# Chronische Bronchitis und COPD
 
 :::{margin} COPD
 - Husten mit Auswurf, anfänglich "Raucherhusten"

@@ -6,7 +6,7 @@
 (heimlichmanoever)=
 (mechanische-atemwegsverlegung)=
 
-# Atmung / Mechanische Atemwegsverlegung
+# Mechanische Atemwegsverlegung
 
 ::::{only} not nosidebar
 

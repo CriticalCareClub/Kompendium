@@ -1,6 +1,5 @@
 (sht)=
-
-# Trauma / Schädel-Hirn-Trauma (SHT)
+# Schädel-Hirn-Trauma (SHT)
 
 ::::{only} not nosidebar
 

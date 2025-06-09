@@ -1,6 +1,6 @@
 
 
-# Atmung / 30.7. Lungenkontusion
+# 30.7. Lungenkontusion
 
 C/P: bilaterale diffuse Verschattung BGA: paO₂ red, pCO₂ erhöht (wenn O₂ und CO₂ sich angleichen
 = schlechte Prognose)

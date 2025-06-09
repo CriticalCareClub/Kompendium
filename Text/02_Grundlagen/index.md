@@ -6,7 +6,8 @@ Heilung
 und Linderung.
 
 ```{toctree}
-:maxdepth: 1:glob:
+:maxdepth: 1
+:glob:
 
 */index
 ```

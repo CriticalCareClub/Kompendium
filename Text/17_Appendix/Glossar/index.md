@@ -44,6 +44,13 @@ CPAP-ASB
 : Continous Positive Airway Pressure-Assisted Spontaneous Breathing:
   CPAP mit Drucksupport
 
+c.t.
+: cum tempore.
+
+Ct
+: Threshold Cycle.
+  Zahl der notwendigen PCR-Zyklen bis zum positiven Signal, Maß für die Virenkonzentration im Abstrichmaterial.
+
 CT
 : Computertomographie
 
@@ -89,7 +96,7 @@ NSTEMI
 Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
 Pa
-: Pascal, SI-Einheit für {ref}`Druck <Druck>`. 
+: Pascal, SI-Einheit für {ref}`Druck <Druck>`.
   1 Pa = 1 N / m²
 
 PPSB
@@ -226,7 +233,7 @@ Mekonium
 : Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.
 
 Proteinurie
-: Eiweiß im Harn 
+: Eiweiß im Harn
 
 Tokolyse
 : *Syn.* *Wehenhemmung*. Hemmung der Wehentätigkeit durch Medikamente.

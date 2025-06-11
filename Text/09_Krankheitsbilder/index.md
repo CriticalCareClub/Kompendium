@@ -6,5 +6,6 @@
 :glob:
 
 */index
+Neuromuskulaer/index
 :::
 

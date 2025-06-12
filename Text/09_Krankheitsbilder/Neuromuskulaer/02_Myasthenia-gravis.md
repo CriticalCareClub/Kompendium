@@ -6,9 +6,11 @@
 
 # Myasthenia gravis
 
-Durch Autoantikörper verursachte neuromuskuläre Übertragungsstörung durch Blockierung der ACh-Rezeptoren an der motorischen Endplatte.
+Durch Autoantikörper verursachte neuromuskuläre Übertragungsstörung (Verminderung der Anzahl der postsynaptischen ACh-Rezeptoren, AK-Bildung gegen postsynaptische nicotinerge ACh-Rezeptoren) durch Blockierung der ACh-Rezeptoren an der motorischen Endplatte.
+Die Aktivität der Cholinesterase ist erhöht.
 Die Antikörper werden bei den meisten Patienten im Thymus gebildet.
 - 80% nAChR-Ak positiv, Rest seronegative MG
+10–15% der  Thymome weisene eine MG auf.
 
 Klinik
 : abnorme Ermüdbarkeit der Muskulatur, belastungsabhängige Symptome, Besserung nach Ruhephasen, keine Sensibilitätsstörungen, schmerzlos.
@@ -16,11 +18,19 @@ Klinik
 Test
 : Simpson-Test[^Simpson-Test] (Doppelbilder, Ptose), EMG/ENG, Antikörperbestimmung
 
+  Tensilon-Test[^Tensilon-Test]
 
-[^Simpson-Test]: Klinischer Funktionstest, provoziert eine Myasthenie des Lidhebers:
-    Bei gerader Kopfhaltung nach oben zu blicken, es kommt zu einer ständigen Kontraktion des Lidhebers. Bei Patienten mit Myasthenia gravis kommt es nach einigen Minuten zu einer Ptosis.
+
+[^Simpson-Test]: Klinischer Funktionstest, provoziert eine *Myasthenie des Lidhebers*:
+    Bei gerader Kopfhaltung nach oben zu blicken, es kommt zu einer ständigen Kontraktion des Lidhebers.
+    Bei Patienten mit Myasthenia gravis kommt es nach einigen Minuten zu einer Ptosis.
+
+[^Tensilon-Test]: Gabe von *Edrophoniumchlorid* (kurzwirksamer Cholinesterasehemmer), repetitive Muskelarbeit (wiederholtes Öffnen und Schließen der Augenlider): Bei Erkrankungen der neuromuskulären Übertragung kommt es zu einer Verbesserung der Durchführung der Bewegungen.
+
 Therapie
-: - Symptomatisch: Mestinon 3  x 60 mg p.o. (=  Pyridostigmin-Bromid) = Azetylcholin-Esterase-Inhibatoren oder Ubretid (Distigminbromid)
+: Cholinesterase-Hemmer, hochdosierte Kortikosteroide, nichtsteroidale Immunsuppresiva
+
+  - Symptomatisch: Mestinon 3  x 60 mg p.o. (**Pyridostigmin**-Bromid) = Azetylcholinesterase-Inhibatoren oder Ubretid (Distigminbromid)
   - Immunsupressiv: Prednisolon, Ciclosporin A
   - Immunologisch: monoklonale Ak
   - Chirurgisch: {ref}`Thymektomie` (wenn Thymus vorhanden)
@@ -39,10 +49,18 @@ Anästhesie
 
 Myasthene Krise
 : Exazerbation mit respiratorischer Insuffizienz und Aspirationsgefahr!
-  Ausgelöst durch AB (z.B. Makrolide), Antiarrhythmika (z.B. Betablocker), Muskelrelaxantien, Glukokortikoide, Magnesium (Krampfprophylaxe) + SS, Fieber, Infektion, Stress, SD-Über/Unterfunktion.
+  Ausgelöst durch **Antibiotika** (z.B. [Aminoglykosid, Makrolide, Gyrasehemmer, Cephalosporine der 2. Generation]{.cave}), Antiarrhythmika (z.B. Betablocker), Muskelrelaxantien, Glukokortikoide, Magnesium (Krampfprophylaxe) + SS, Fieber, Infektion, Stress, SD-Über/Unterfunktion.
 
 Therapie
 : Neostigmin (Prostigmin), Pyridostigmin
+
+  - 1-3 mg Pyrostigmin Bolus, 0,5-1 mg / h
+
+    oder:
+
+    0,5 mg Neostigmin + 0,15-0,3 mg / h
+  - Atropin 0,25-0,5 s.c. 3-6 mal/d
+  - Infekttherapie (Cephalopsorin 3. Generation)
 
 Cholinerge Krise
 : bei Überdosierung CHE-Inhib. durch muskarine NW: Schwitzen, Abdominalkrämpfe, Diarrhoe, Speichelfluss, Miosis, Bradykardie, Hypotonie;

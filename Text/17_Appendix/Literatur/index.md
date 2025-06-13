@@ -142,7 +142,7 @@
   DOI: [10.1097/EJA.0b013e3283495ba1](https://doi.org/10.1097/eja.0b013e3283495ba1)
 
   :::{dropdown} Abstract
-  
+
   This guideline aims to provide an overview of the present knowledge on aspects of perioperative fasting with assessment of the quality of the evidence. A systematic search was conducted in electronic databases to identify trials published between 1950 and late 2009 concerned with preoperative fasting, early resumption of oral intake and the effects of oral carbohydrate mixtures on gastric emptying and postoperative recovery. One study on preoperative fasting which had not been included in previous reviews and a further 13 studies published since the most recent review were identified. The searches also identified 20 potentially relevant studies of oral carbohydrates and 53 on early resumption of oral intake. Publications were classified in terms of their evidence level, scientific validity and clinical relevance. The Scottish Intercollegiate Guidelines Network scoring system for assessing level of evidence and grade of recommendations was used. The key recommendations are that adults and children should be encouraged to drink clear fluids up to 2 h before elective surgery (including caesarean section) and all but one member of the guidelines group consider that tea or coffee with milk added (up to about one fifth of the total volume) are still clear fluids. Solid food should be prohibited for 6 h before elective surgery in adults and children, although patients should not have their operation cancelled or delayed just because they are chewing gum, sucking a boiled sweet or smoking immediately prior to induction of anaesthesia. These recommendations also apply to patients with obesity, gastro-oesophageal reflux and diabetes and pregnant women not in labour. There is insufficient evidence to recommend the routine use of antacids, metoclopramide or H2-receptor antagonists before elective surgery in non-obstetric patients, but an H2-receptor antagonist should be given before elective caesarean section, with an intravenous H2-receptor antagonist given prior to emergency caesarean section, supplemented with 30 ml of 0.3 mol l(-1) sodium citrate if general anaesthesia is planned. Infants should be fed before elective surgery. Breast milk is safe up to 4 h and other milks up to 6 h. Thereafter, clear fluids should be given as in adults. The guidelines also consider the safety and possible benefits of preoperative carbohydrates and offer advice on the postoperative resumption of oral intake.
   :::
 
@@ -472,9 +472,9 @@ Citation needed
   International review of psychiatry (Abingdon, England), 2009, 21, 531-538.
 
   :::{dropdown} Abstract
-  
+
   Severe burns, traumatic injuries and other critical illnesses are a substantial source of morbidity in the United States. As more patients survive these conditions, there has been increasing interest in psychiatric and functional outcomes of these individuals. In this article, we reviewed the literature on the prevalence of psychiatric conditions, with particular emphasis on posttraumatic stress disorder (PTSD) and depression, as well as functional impairments, in adult and pediatric survivors of burns, trauma and intensive care unit stays for other critical illnesses.
-  
+
   We found that PTSD and depressive symptoms are quite prevalent in these patient groups. We also examined potential risk factors for psychiatric morbidity and impaired function in all three patient groups, and conclude that patient-specific and acute care factors, in addition to early post-acute care psychiatric symptoms, may convey risk for subsequent psychopathology and diminished function. Finally, we discussed limitations in the literature as well as possible directions for future research, particularly in clarifying risk factors for psychiatric disor
   :::
 
@@ -484,9 +484,9 @@ Citation needed
   General hospital psychiatry, 2009, 31, 428-435.
 
   :::{dropdown} Abstract
-  
+
   To assess intensive care unit (ICU)/acute care service-delivery characteristics and pre-ICU factors as predictors of posttraumatic stress disorder (PTSD) and return to usual major activity after ICU admission for trauma. Data from the National Study on the Costs and Outcomes of Trauma were used to evaluate a prospective cohort of 1906 ICU survivors. We assessed PTSD with the PTSD Checklist. Regression analyses ascertained associations between ICU/acute care service-delivery characteristics, pre-ICU factors, early post-ICU distress and 12-month PTSD and return to usual activity, while controlling for clinical and demographic characteristics.
-  
+
   Approximately 25% of ICU survivors had symptoms suggestive of PTSD.
   Increased early post-ICU distress predicted both PTSD and diminished usual major activity.
   Pulmonary artery catheter insertion \[risk ratio (RR) 1.28, 95% confidence interval (95% CI) 1.05-1.57, P=.01\] and pre-ICU depression (RR 1.23, 95% CI 1.02-1.49, P=.03) were associated with PTSD.
@@ -500,9 +500,9 @@ Citation needed
   Intensive care medicine, 2009, 35, 796-809.
 
   :::{dropdown} Synopsis
-  
+
   To critically review data on the prevalence of depressive symptoms in general intensive care unit (ICU) survivors, risk factors for these symptoms, and their impact on health-related quality of life (HRQOL). We conducted a systematic review using Medline, EMBASE, Cochrane Library, CINAHL, PsycINFO, and a hand-search of 13 journals. Fourteen studies were eligible.
-  
+
   The median point prevalence of "clinically significant" depressive symptoms was 28% (total n = 1,213).
   Neither sex nor age were consistent risk factors for post-ICU depression, and severity of illness at ICU admission was consistently not a risk factor.
   Early post-ICU depressive symptoms were a strong risk factor for subsequent depressive symptoms.
@@ -1374,6 +1374,14 @@ Citation needed
   by C P Subbe et al.
   QJM. 2001 Oct;94(10):521-6.
   <https://doi.org/10.1093/qjmed/94.10.521>
+
+🗎 Suda 2017
+ :**Subxiphoid thymectomy: single-port, dual-port, and robot-assisted.**
+  by Suda T.
+  J Vis Surg. 2017 May 26;3:75.
+  PMID: 29078638;
+  PMCID: PMC5637480.
+  doi: [10.21037/jovs.2017.05.07.](https://doi.org/10.21037/jovs.2017.05.07)
 
 🗎 Sulzgruber 2018
 : **The impact of airway strategy on the patient outcome after ut-of-hospital cardiac arrest: A propensity score matched analysis**

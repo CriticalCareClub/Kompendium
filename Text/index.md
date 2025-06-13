@@ -39,26 +39,7 @@
 1*/index
 :::
 
-<!-- 
-01_Prolog/index
-02_Grundlagen/index
-03_Medizinprodukte/index
-04_Anatomie-Physio/index
-05_Pharma/index
-06_Airway/index
-07_Breathing/index
-08_Haemodynamik/index
-09_Speziell/index
-10_Patient-Assessment/index
-11_CRM/index
-12_Skills/index
-13_Reanimation/index
-14_Praehospital/index
-15_Schockraum/index
-16_Perioperativ/index
-17_Intensiv/index
-18_Appendix/index
- -->
+
 
 
 :::::{only} html

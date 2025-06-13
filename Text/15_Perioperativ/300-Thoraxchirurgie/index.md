@@ -8,6 +8,7 @@ Single-Lung-Ventilation/index
 Mediastinoskopie/index
 VATS/index
 Thorakotomie/index
+Thymektomie
 ```
 
 Text

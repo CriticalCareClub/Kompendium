@@ -14,6 +14,9 @@ AF
 aHT
 : {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
 
+AKS
+: {ref}`Aortenklappenstenose <Aortenklappenstenose>`
+
 ASB
 : 1. Assisted Spontaneous Breathing
   2. Arbeiter-Samariter-Bund
@@ -58,6 +61,9 @@ CO
 : 1. {ref}`Cardiac Output <Cardiac-Output>`
   1. chem. Formel für Kohlenmonoxid
 
+DAB
+: {ref}`Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
+
 DES
 : {ref}`Drug Eluting Stent <Koronarangiographie>`
 
@@ -79,34 +85,52 @@ ICR
 KHK
 : {ref}`Koronoare Herzkankheit <KHK>`
 
+KOF
+: Körperoberfläche
+
+KÖF
+: Klappenöffnungsfläche
+
 Lap
 : Laparotomie
 
 LSK
 : Laparoskopie
 
+LVOT
+: Left Ventricular Outflow Tract 
+
 LVH
 : Linksventrikelhypertrophie
+
+MKI
+: {ref}`Mitralklappeninsuffizienz <Mitralklappeninsuffizienz>`
+
+MKS
+:  {ref}`Mitralklappenstenose <Mitralklappenstenose>`
 
 NIV
 : Nicht-Invasive Ventilation
 
 NSTEMI
 : Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
-Siehe auch: {ref}`AkutesKoronarsyndrom`.
+  Siehe auch: {ref}`AkutesKoronarsyndrom`.
 
 Pa
 : Pascal, SI-Einheit für {ref}`Druck <Druck>`.
   1 Pa = 1 N / m²
 
-PPSB
-: Prothrombinkomplexkonzentrat
-
 PCI
 : {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
 
+PDAB
+: {ref}`Persistierender Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
+
 PEEP
 : {ref}`Positive End Expiratory Pressure <PEEP>`
+
+PPSB
+: Prothrombinkomplexkonzentrat
 
 PTCA
 : {ref}`Perkutaneous Transluminal Coronary Angioplasty <Koronarangiographie>`

@@ -12,6 +12,9 @@ Es errechnet kontinuierlich ein Cardiac Output durch Analyse der arteriellen Dru
 Dabei wird die Thermodilution verwendet, um eine Kalibrierung und Zuordnung von Druckkurve zu Fluss zu bewerkstelligen.
 Eine regelmäßige Neukalibrierung, sowie nach Änderungen der Patientenposition oder anderer Variablen etc. ist notwendig.
 
+Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
+(AS+AI)
+
 :::{index} single: Thermodilution; transpulmonale
 :::
 

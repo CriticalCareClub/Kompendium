@@ -50,7 +50,6 @@ Der Ca⁺⁺-Ausgleich wird automatsich bei Beginn der Therapie gestartet und be
 ## Laborkontrollen
 
 :::{table}
-:::
 
 
 | Untersuchung                   | Werte                    | Zeit nach Beginn / Änderung Zitratdosis          | Regelintervall |
@@ -59,6 +58,7 @@ Der Ca⁺⁺-Ausgleich wird automatsich bei Beginn der Therapie gestartet und be
 | BGA intrakorporal              | Ca⁺⁺, Na⁺, K⁺, SB-Status | Startwert vor Therapie, **60 min** nach Änderung | alle 4—6 h     |
 | Gesamtlabor intrakorporal      | Gasamt-Ca, Magnesium     | \                                                | 1x tgl.        |
 
+:::
 
 
 

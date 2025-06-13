@@ -14,13 +14,13 @@ Blutungen in der Nachgeburtsperiode können sehr schwerwiegend sein und können 
 {index}` <Uterusatonie>`:
 Normalerweise zieht sich in der Nachgeburtsphase die Uterusmuskulatur zusammen und komprimiert somit die Blutgefäße. Bei der Uterusatonie kommt es jedoch zur Erschlaffung (Atonie) der Gebärmutter, die Folge sind lebensbedrohliche Blutungen durch das Fehlen der Kontraktion des Uterus nach der Plazentalösung.
 
+
+
 (go72000c)=
 (proc-go72000c)=
 (m-blutung-nachgeburtsperiode)=
 
-##### Maßnahmen: Blutung in der Nachgeburtsperiode
-
-
+## Maßnahmen: Blutung in der Nachgeburtsperiode
 
 ⛑ Basismaßnahmen
 : - {{ TxMassVitMK }}

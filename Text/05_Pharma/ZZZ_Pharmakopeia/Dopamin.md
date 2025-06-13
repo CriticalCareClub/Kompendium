@@ -4,7 +4,7 @@
 
 (Dopamin)=
 
-## Dopamin
+# Dopamin
 
 :::{seealso}
 - {ref}`Katecholamine`

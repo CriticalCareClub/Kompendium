@@ -23,9 +23,9 @@ Demenstsprechend kann man die EKG-Kurve in verschiedene Segmente teilen:
 Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 Überleitung vom Vorhof in die Kammern (*AV-Überleitung*). Der *QRS-Komplex* wird durch die Kammererregung erzeugt, wohingegen die *ST-Strecke* und die *T-Welle* die Erregungsrückbildung repräsentieren.
 
-:::{subfigure} AB|CC
+:::{subfigure} AB
 :subcaptions: below
-:label: Figure-BilderserieReizleitungssystem
+:name: Figure-BilderserieReizleitungssystem
 :class-grid: outline
 :gap: 20px
 

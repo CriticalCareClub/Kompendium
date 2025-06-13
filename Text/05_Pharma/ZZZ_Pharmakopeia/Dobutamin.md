@@ -4,7 +4,7 @@
 
 (Dobutamin)=
 
-## Dobutamin
+# Dobutamin
 
 :::{seealso}
 - {ref}`Katecholamine`

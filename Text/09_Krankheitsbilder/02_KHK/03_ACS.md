@@ -285,17 +285,13 @@ Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
 
   - Wenn Vorhanden: Schnelltests (z. B. Troponin)
   - Herzenzyme
-    (CK[^ck],
-    CK-MB[^ckmb],
-    LDH¸\[#LDH\]\_,
+    (CK,
+    CK-MB,
+    LDH¸
     Troponin-T,
     ggfs. proBNP)
 
-[^ck]: CK: Creatininkinase
 
-[^ckmb]: CK-MB: myokardspezifische Creatininkinase
-
-[^ldh]: LDH: Laktatdehydrogenase
 
 
 

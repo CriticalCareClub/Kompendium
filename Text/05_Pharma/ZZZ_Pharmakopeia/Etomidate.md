@@ -94,3 +94,14 @@ Alternative: Niedrig dosiertes Propofol mit Ketamin kombiniert!
 
 Notfallintubation nur mit Ketamin.
 
+Etomidate wirkt rein hypnotisch über einen GABAergen Mechanismus.
+Es weißt eine große therapeutische Breite und ist verhältnismäßig wenig kreislaufdespressiv.
+
+Es kommt jedoch zur Hemmung der *Kortisolsynthese*, sowohl bei Dauerinfusion, als auch bei Einmalgabe.
+Es erhöht damit nachweislich und deutlich die **Mortalität** von kritisch kranken Patienten [{term}`🗎 Kotani 2023`].
+
+:::{danger}
+
+Etomidate ist bei kritisch kranken Patienten kontraindiziert!
+:::
+  

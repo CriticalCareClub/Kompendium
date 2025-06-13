@@ -168,7 +168,7 @@ Es entsteht eine *Lungenembolie*.
 
 :::{subfigure} AB|CC
 :subcaptions: below
-:label: Figure-BilderserieTeaserThrombose
+:name: Figure-BilderserieTeaserThrombose
 :class-grid: outline
 :gap: 20px
 

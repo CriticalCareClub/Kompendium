@@ -1,7 +1,7 @@
 
 (GHB)=
 
-## γ-Hydroxybuttersäure (GHB, Somsanit®)
+# γ-Hydroxybuttersäure (GHB, Somsanit®)
 
 GHB vermittelt dosisabhängig eine hypnotische bis narkotische Wirkung wobei es aber nicht analgetisch wirkt.
 

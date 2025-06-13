@@ -43,6 +43,12 @@ BMS
 C/P
 : Cor-Pulmo-Röntgen
 
+CK
+: Creatininkinase
+
+CK-MB
+: myokardspezifische Creatininkinase
+
 CPAP
 : Continous Positive Airway Pressure
 
@@ -96,6 +102,9 @@ KÖF
 
 Lap
 : Laparotomie
+
+LDH
+: Laktatdehydrogenase
 
 LSK
 : Laparoskopie

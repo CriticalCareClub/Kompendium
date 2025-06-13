@@ -216,9 +216,12 @@ Benzodiazepine können zu Verwirrtheit führen und fördern damit die Entwicklun
 :::{index} single: Kortisolsynthese
 :::
 
-(Etomidate)=
 
 ## Etomidate
+
+:::{seealso}
+- Pharmakopeia: {ref}`Etomidate`
+:::
 
 Etomidate wirkt rein hypnotisch über einen GABAergen Mechanismus.
 Es weißt eine große therapeutische Breite und ist verhältnismäßig wenig kreislaufdespressiv.

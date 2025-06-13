@@ -18,7 +18,7 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 
 :::{subfigure} AB
 :subcaptions: below
-:name: Figure-Bilderserie
+:name: FIG-BS-Aluminiumkernschiene
 :class-grid: outline
 :gap: 20px
 
@@ -30,12 +30,15 @@ Bilderserie: Aluminiumkernschiene Marke Sam-Splint
 :::
 
 
+
 ## Material und Personal
 
 - 2 Helfer
 - Sam-Splint
 - Peha-Haft, Mullbinde + Leukoplast oder 2—3 Dreiecktuchkrawatten
 - Ein weiteres Dreiecktuch als Armtragetuch
+
+
 
 ## Vorgehen
 

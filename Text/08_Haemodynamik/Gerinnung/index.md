@@ -257,14 +257,9 @@ Thrombozytenaggregationshemmer
 
 
 :::{toctree}
-Haemostase-primaer/index
-Haemostase-sekundaer/index
-Gerinnungsdiagnostik/index
-Antikoagulantien/index
-Gerinnungssubstitution/index
-DICTIC/index
-OAK-Huefte/index
-Labor/index
-ATT-ICU/index
+:maxdepth: 1
+:glob:
+
+*/index
 :::
 

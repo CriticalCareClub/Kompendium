@@ -356,7 +356,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztli
 
 :::{subfigure} AB|CD
 :subcaptions: below
-:label: Figure-BilderserieBeatmungsgeraete
+:name: Figure-BilderserieBeatmungsgeraete
 :class-grid: outline
 :gap: 20px
 

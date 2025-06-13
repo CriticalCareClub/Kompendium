@@ -4,7 +4,7 @@
 
 (Noradrenalin)=
 
-## Noradrenalin, Norepinephrin (NOR)
+# Noradrenalin, Norepinephrin (NOR)
 
 
 :::{seealso}
@@ -27,8 +27,7 @@ Dosierung
   *Kinder*: pro 10 kg: 5 mg / 50 mL; 0,6 mL / h
 
 Kontraindikationen
-: Hypertonie, Tachykardie, Cave bei Inhalationsnarkotika, Cor
-  pulmonale, KHK, Gravidität, Hyperthyreose, Glaukom
+: Hypertonie, Tachykardie, Cave bei Inhalationsnarkotika, Cor pulmonale, KHK, Gravidität, Hyperthyreose, Glaukom
 
   invasive RR-Messung, Rekap kontrollieren
 

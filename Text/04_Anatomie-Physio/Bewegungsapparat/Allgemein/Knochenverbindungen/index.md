@@ -75,10 +75,10 @@ Eine derbe bindegewebige Schicht (*Membrana fibrosa*; straff, bestehend aus Koll
 Die Gelenkinnenhaut ({dfn}`Membrana synovialis`; Gefäß- und Nervenreich) sorgt für die Produktion der Gelenkflüssigkeit, die für die Nährstoffversorgung des Knorpels von großer Bedeutung ist.
 
 Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
-Abgesehen von den *Knorpelzellen*
-(*Chondrozyten)* besteht dieser Knorpel aus *Extrazellulärmatrix*
-[(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)]{.deep}.
-{deep}`Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.` Er ist auch aufgrund des mangelndem Knorpelhaut (Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
+Abgesehen von den *Knorpelzellen* (*Chondrozyten)* besteht dieser Knorpel aus *Extrazellulärmatrix* [(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)]{.deep}.
+[Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.]{.deep} 
+Er ist auch aufgrund des mangelndem Knorpelhaut (Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. 
+Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
 
 Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
 "Basisausstattung" der Gelenke dazugehört: Verstärkungsbänder (Ligamentum), Zwischenscheiben (Discus articularis), Gelenklippen (Labrum), Gleitbeutel (Recessus; dies sind keine Schleimbeutel!).

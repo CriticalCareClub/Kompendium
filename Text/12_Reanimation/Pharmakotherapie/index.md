@@ -67,7 +67,6 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
 :name: fig-cc-charts
 :class-grid: outline
 :gap: 20px
-:alt: Example Model Chart Merge
 
 Bilderserie: Reanimation
 

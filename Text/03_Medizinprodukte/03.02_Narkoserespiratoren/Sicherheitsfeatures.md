@@ -5,7 +5,7 @@
 :::{index} single: Sauerstoffmangelsignal
 :::
 
-## Sicherheitsfeatures
+# Sicherheitsfeatures
 
 Eine Narkosemaschine muss über folgende Sicherheitsfeatures verfügen:
 

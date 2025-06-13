@@ -47,8 +47,7 @@ Die abgeführten Gase werden durch eine zentrale Absauganlage in ein sicheres En
 
 ## Frischgasentkoppelung
 
-:::{eval-rst}
-.. todo:: Bilder Frischgasentkoppelung
+:::{todo} Bilder Frischgasentkoppelung
 :::
 
 Während der Inspiration wird Frischgas in das Reservoir geleitet, während der Exspiration wird es in das System eingeleitet.

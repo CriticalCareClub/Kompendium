@@ -1,46 +1,36 @@
 
-## Herzglykoside
+# Herzglykoside
 
 Diese Substanzen sind größtenteils pflanzlicher Herkunft (Fingerhut, Maiglöckchen, Oleander, Meerzwiebel)
 
-```{eval-rst}
-============== ==================================================
-Acethyldigoxin (Novodigal™, Corotal™, Digi-Aldopur™, Gladixol™)
-Digitoxin      (Digimerck™)
-Digoxin        (Lanicor™)
-Metildigoxin   (Lanitop™)
-Strophantin    (Kombetin™)
-============== ==================================================
-```
+| Wirkstoff         | Handelsnamen                                        |
+|-------------------|-----------------------------------------------------|
+| Acetyl­digoxin     | Novodigal™, Corotal™, Digi-Aldopur™, Gladixol™     |
+| Digitoxin          | Digimerck™                                         |
+| Digoxin            | Lanicor™                                           |
+| Metildigoxin       | Lanitop™                                           |
+| Strophantin        | Kombetin™                                          |
+
 
 Herzglykoside  bewirken über eine Steigerung von Schlagarbeit und Herzminutenvolumen einen Rückgang der Symptome der Herzinsuffizienz. Die Herzfrequenz wird normalisiert und der periphere Blutkreislauf verbessert. Die Förderung der Nierendurchblutung resultiert in einer Zunahme der Harnausscheidung
 (Diurese) und einer Ausschwemmung von Ödemen.
 
-Tab. 2 Wirkung der Herzglykoside
 
-```{eval-rst}
-+----------------------------------+----------------------------------+
-| Wirkung                          | Wirkmechanismus                  |
-+----------------------------------+----------------------------------+
-| Ausschwemmung von Ödeme          | Diurese, Senkung der Natrium-    |
-|                                  | und Wasserretention              |
-+----------------------------------+----------------------------------+
-| Abnahme der Lungenstauung        | Senkung der Natrium- und         |
-|                                  | Wasserretention und dadurch      |
-|                                  | Senkung der Vorlast              |
-+----------------------------------+----------------------------------+
-| Steigerung der                   |                                  |
-| Koronardurchblutung              |                                  |
-+----------------------------------+----------------------------------+
-| Abnahme der Herzgröße            |                                  |
-+----------------------------------+----------------------------------+
-| Verminderung des                 | Senkung der Herzfrequenz         |
-| Sauerstoffverbrauchs             |                                  |
-+----------------------------------+----------------------------------+
-| Senkung der Nachlast             | Verringerung des                 |
-|                                  | Gefäßwiderstandes                |
-+----------------------------------+----------------------------------+
-```
+
+:::{table} Wirkung der Herzglykoside
+
+| Wirkung                          | Wirkmechanismus                                  |
+|----------------------------------|--------------------------------------------------|
+| Ausschwemmung von Ödemen         | Diurese, Senkung der Natrium- und Wasserretention |
+| Abnahme der Lungenstauung        | Senkung der Natrium- und Wasserretention und dadurch Senkung der Vorlast |
+| Steigerung der Koronardurchblutung |                                                  |
+| Abnahme der Herzgröße            |                                                  |
+| Verminderung des Sauerstoffverbrauchs | Senkung der Herzfrequenz                    |
+| Senkung der Nachlast             | Verringerung des Gefäßwiderstandes              |
+:::
+
+
+
 
 Verabreicht werden die Glykoside bei chronischer Herzinsuffizienz, Vorhofflimmern bzw. -flattern und paroysysmaler supraventrikulärer Tachykardie.
 

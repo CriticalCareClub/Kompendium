@@ -81,7 +81,7 @@ es besteht Verletzungungsgefahr.
 
 :::{subfigure} AB|CD
 :subcaptions: below
-:name: Figure-Bilderserie
+:name: FIG-BS-Medkiamente
 :class-grid: outline
 :gap: 20px
 

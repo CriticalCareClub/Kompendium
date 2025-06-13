@@ -727,7 +727,6 @@ Citation needed
 : **Guidelines for performing a comprehensive transesophageal echocardiographic examination: recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists**
   by Hahn, R. T. et al.
   Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography, 2013, 26, 921-64.
-  {download}`PDF</Literatur/Hahn2013.pdf>`.
   DOI: 10.1016/j.echo.2013.07.009
 
 🗎 Hansak 2012 07
@@ -1186,7 +1185,7 @@ Citation needed
 🗎 Pschyrembel 259
 : **Pschyrembel Klinisches Wörterbuch.**
   by Pschyrembel, Willibald (HG.
-  1\.   Auflage, 2002.
+  1\.  Auflage, 2002.
   de Gruyter.
 
 🗎 Rajabaleyan 2022
@@ -1376,7 +1375,7 @@ Citation needed
   <https://doi.org/10.1093/qjmed/94.10.521>
 
 🗎 Suda 2017
- :**Subxiphoid thymectomy: single-port, dual-port, and robot-assisted.**
+: **Subxiphoid thymectomy: single-port, dual-port, and robot-assisted.**
   by Suda T.
   J Vis Surg. 2017 May 26;3:75.
   PMID: 29078638;

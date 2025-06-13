@@ -8,7 +8,7 @@
 
 (Succinylcholin)=
 
-## Succinylcholin
+# Succinylcholin
 
 Suxamethonium, Lysthenon
 

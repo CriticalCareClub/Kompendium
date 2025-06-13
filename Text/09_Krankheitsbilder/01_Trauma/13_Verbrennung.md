@@ -295,7 +295,7 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 ## Was man **nicht** tun darf …
 
 - NEIN: Salbe, Puder, etc. auf frische Brandwunde
-- NEIN: Blasen öffnen {cite}`AAOS:9`
+- NEIN: Blasen öffnen 
 - NEIN: festklebende Kleidung gewaltsam entfernen
 
 
@@ -321,8 +321,8 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 :::
 ::::
 
-Von einem
-{dfn}`Inhalationstrauma` {index}` <! Inhalationstrauma>` spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
+{index}` <! Inhalationstrauma>`
+Von einem {dfn}`Inhalationstrauma` spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
 Typische Leitsymptome sind:
 
 - Z. n. Gasexposition

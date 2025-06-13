@@ -24,9 +24,9 @@
 >
 > 5. Dosierung
 >
->    Erw: 0,5--1 g {{ IV }} langsam!!
+>    Erw: 0,5--1 g i. v. langsam!!
 >
->    Ki; 15 mg / kg {{ IV }} langsam !! Rep nach 4 h
+>    Ki; 15 mg / kg i. v. langsam !! Rep nach 4 h
 >
 > 6. Cave
 >

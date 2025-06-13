@@ -3,12 +3,6 @@
 ```{toctree}
 :maxdepth: 1
 
-Allgemein/index
-Single-Lung-Ventilation/index
-Mediastinoskopie/index
-VATS/index
-Thorakotomie/index
+*/index
 Thymektomie
 ```
-
-Text

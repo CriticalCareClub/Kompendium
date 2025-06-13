@@ -33,4 +33,4 @@ Antiemetikum
 
 Dosierung
 
-> 0,5--1,0 mg {{ IV }}
+> 0,5--1,0 mg i. v.

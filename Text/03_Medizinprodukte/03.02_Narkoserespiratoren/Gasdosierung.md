@@ -2,9 +2,9 @@
 :::{index} single: Sintermetallfilter
 :::
 
-## Gasdosierung 
+# Gasdosierung 
 
-### Pneumatisch mit Flowmeter
+## Pneumatisch mit Flowmeter
 
 *Sintermetallfilter* (max. 0,1 mm) reduzieren den Gasdruck vom Versorgungsdruck (ca. 5 bar) auf. ca 1,5 bar vor den Regelventilen.
 Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung mit dem Durchfluß überein.
@@ -14,7 +14,7 @@ Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung mit dem D
 :::{index} single: Oxygen Ratio Controller
 :::
 
-### Elektronisch
+## Elektronisch
 
 - Der Gesamtfrischgasdurchfluß kann zwischen 0,2—18 L / min betragen.
 

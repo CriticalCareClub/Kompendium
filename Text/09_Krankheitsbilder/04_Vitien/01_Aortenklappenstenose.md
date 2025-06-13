@@ -22,6 +22,7 @@ Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
 (AS+AI)
 
 :::{table} Aortenklappenstenose. [Vmax: maximale Geschwindigkeit des CW Doppler-Profils, MPG: mittlerer Gradient des CW Doppler-Profils, KÖF: Öffnungsfläche der Mitralklappe (PHT)  ]{.deep}
+
 | Aortenklappenstenose | leicht       | mittelgradig | hochgradig |
 |----------------------|--------------|--------------|------------|
 | Vmax [m/s]            | 2,6–2,9     | 3–4          | > 4        |
@@ -51,8 +52,10 @@ Anästhesie
   - Bei asymptomatischer, schwerer AKS: AKE vor high risk Eingriffen, low risk Eingriffe möglich, im Zweifelsfall = interdisziplinäre Entscheidung!
 
 Therapie
-: - AKE (mechanische, biologische Ersatzklappe)
-  - TAVI (trans apicale valvuläre implantation) bei hohem Alter und schweren Komorbitäten: 
+: - *AKE* (mechanische, biologische Ersatzklappe)
+  - *TAVI* (transcatheter aortic valve implantation) 
+    {index}` <TAVI>`
+    bei hohem Alter und schweren Komorbitäten: 
   
     Kathetergestützes Einbringer einer Aortenklappenprothese (CORVALVE oder SAPIEN XT) über die V.femoralis oder transapikal mit kleinem Hautschnitt, es erfolgt eine Ballonvalvuloplastie mit Overpacing (HF 180/min, sistieren des aortalen Blutflusses). 
 

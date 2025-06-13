@@ -14,6 +14,9 @@ AF
 aHT
 : {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
 
+AKE
+: Aortenklappenersatz
+
 AKS
 : {ref}`Aortenklappenstenose <Aortenklappenstenose>`
 

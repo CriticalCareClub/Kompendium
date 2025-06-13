@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 ```{index} single: Interkostalraum
 ```
@@ -55,8 +55,8 @@ Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
 Der Raum zwischen benachbarten Rippen heißt **Intercostalraum** (**ICR**).
 
 Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und der Rippenknorpel (Cartilago costalis) zusammen. [An jedem Rippenknochen können Rippenkopf (Caput costae), Rippenhals (Collum costae), Rippenkörper (Corpus costae) mit der]{.deep} *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die *Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
-unterschieden werden. {deep}`Der Sulcus costalis fehlt an der 1., 2. und 12.
-Rippe.` Die Rippen sind, um den Thorax zu formen, nach innen gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral, sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
+unterschieden werden. [Der Sulcus costalis fehlt an der 1., 2. und 12.
+Rippe.]{.deep} Die Rippen sind, um den Thorax zu formen, nach innen gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral, sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
 
 :::{attention}
 Das Gefäß-/Nervenbündel verläuft am **unteren Rand** der Rippe!
@@ -76,17 +76,17 @@ Die Gelenke des Thorax[^gelenkethorax] sind Scharniergelenke.
 
 [^gelenkethorax]:
     - Rippen-Wirbel-Gelenke (Artt. costovertebrales): Scharniergelenke,
-      {deep}`die beiden Untergelenke haben eine gemeinsame Achse, d.h. die Bewegung
+      [die beiden Untergelenke haben eine gemeinsame Achse, d.h. die Bewegung
       findet hier als kombinierte Bewegung in zwei getrennten Gelenkshöhlen
-      statt.`
+      statt.]{.deep}
 
       - Rippenkopfgelenk (Articulatio capitis costae): gesichert durch
         Lig. capitis costae interarticulare, Lig. capitis costae radiatum.
       - Rippenquerfortsatzgelenk (Articulatio costotransversarium):
         gesichert durch Lig. costotransversarium lateralis und superior.
 
-    - Brustbein-Rippen-Gelenk {deep}`(Articulatio sternocostalis): sind bei 2.—5.
-      Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.`
+    - Brustbein-Rippen-Gelenk [(Articulatio sternocostalis): sind bei 2.—5.
+      Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.]{.deep}
 
 :::{index} single: Zwerchfell
 :::

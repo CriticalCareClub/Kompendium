@@ -179,8 +179,8 @@ Von superficial nach profund unterscheidet man:
   Last der Beckeneingeweide, haben somit eine Schutzfunktion, wirken
   dynamisch beim Verschluss des Rektums mit.
 
-  - {deep}`M. levator ani: M. puborectalis, M. pubococcygeus, M.
-    iliococcygeus`
+  - [M. levator ani: M. puborectalis, M. pubococcygeus, M.
+    iliococcygeus]{.deep}
   - [M. ischiococcygeus]{.deep}
 
 - *Diaphragma urogenitale*:

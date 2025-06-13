@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 # Körperkreislauf: Arterielles Gefäßsystem
 
@@ -91,7 +91,7 @@ Truncus brachiocephalicus
 
        - [Aa. caroticotympanicae]{.deep}
 
-    3. {deep}`Pars cavernosa ➛ im Corpus cavernosum, Siphon caroticum`
+    3. [Pars cavernosa ➛ im Corpus cavernosum, Siphon caroticum]{.deep}
 
        - [A. hypophysialis inferior]{.deep}
 

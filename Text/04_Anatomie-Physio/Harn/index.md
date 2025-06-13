@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 # Harn
 
@@ -79,9 +79,9 @@ Der Anfangsteil der Tubulus stülpt sich über das Nierenkörperchen mit seinen 
 Die Blutgefäße haben folgende Abfolge:
 
 A. renalis ➛
-{deep}`5-6 Aa. interlobares ➛ Aa. arcuatae ➛ Aa. interlobulares` ➛
+[5-6 Aa. interlobares ➛ Aa. arcuatae ➛ Aa. interlobulares]{.deep} ➛
 Vasa afferentia ➛ Glomerulus ➛ Vasa efferentia ➛
-{deep}`Vv. interlobulares ➛ Vv. arcuatae ➛ Vv. interlobares`
+[Vv. interlobulares ➛ Vv. arcuatae ➛ Vv. interlobares]{.deep}
 ➛ V. renalis
 
 Die *Nierenkörperchen („Malpighisches Körperchen“)* liegen alle in der Nierenrinde und filtern wie bereits erwähnt den Primärharn.

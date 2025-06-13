@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 ```{index} single: Kopf
 ```
@@ -118,7 +118,7 @@ Hier werden zwei Gruppen unterschieden:
 
 Art: *Dreh-Scharniergelenk (Trochoginglymus)* mit einem Discus articularis.
 
-Dieses Gelenk verbindet das Unterkiefer mit dem Os temporale, die Gelenkkapsel ist durch zahlreiche Bänder verstärkt {deep}`(Lig. laterale, Lig.
-stylomandibulare, Lig. sphenomandibulare, Raphe pterygomandibularis)`.
+Dieses Gelenk verbindet das Unterkiefer mit dem Os temporale, die Gelenkkapsel ist durch zahlreiche Bänder verstärkt [(Lig. laterale, Lig.
+stylomandibulare, Lig. sphenomandibulare, Raphe pterygomandibularis)]{.deep}.
 
 Über dieses Gelenk sind *Scharnierbewegungen* (Abduktion, Adduktion), *Translationsbewegungen* (Protrusion, Retrusion) sowie *Mahlbewegungen* möglich.

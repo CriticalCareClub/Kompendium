@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 (pharynx-rachen-1)=
 

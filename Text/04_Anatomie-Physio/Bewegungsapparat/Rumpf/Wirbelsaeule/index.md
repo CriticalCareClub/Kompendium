@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 ```{index} single: Wirbelsäule
 ```
@@ -171,15 +171,15 @@ Wirbel
 - Ligg. interspinalia: zwischen den Dornfortsätzen (Procc. spinosi) der
   einzelnen Wirbel.
 - Lig. supraspinale: vom 7. Halswirbel bis zum Os sacrum.
-- {deep}`Lig. longitudinale ant. (vorderes Längsband): von Atlas bis Os sacrum
-  an der Vorderseite des Wirbelkörpers.`
-- {deep}`Lig. longitudinale post. (hinteres Längsband): von Atlas bis Os
+- [Lig. longitudinale ant. (vorderes Längsband): von Atlas bis Os sacrum
+  an der Vorderseite des Wirbelkörpers.]{.deep}
+- [Lig. longitudinale post. (hinteres Längsband): von Atlas bis Os
   sacrum an der Hinterseite des Wirbelkörpers, fest verbunden mit den
-  Bandscheiben (Disci intervertebrales).`
-- {deep}`Lig. nuchae (Nackenband): von Os occipitale zu den Dornfortsätzen
-  (Procc. spinosi) Halswirbel.`
-- {deep}`Ligg. intertransversaria: zwischen den Querfortsätzen (Procc.
-  transversaria) der einzelnen Wirbel.`
+  Bandscheiben (Disci intervertebrales).]{.deep}
+- [Lig. nuchae (Nackenband): von Os occipitale zu den Dornfortsätzen
+  (Procc. spinosi) Halswirbel.]{.deep}
+- [Ligg. intertransversaria: zwischen den Querfortsätzen (Procc.
+  transversaria) der einzelnen Wirbel.]{.deep}
 
 Die Ligg. supraspinale, interspinalia und flava werden im Rahmen der zentroaxialen Regionalanästhesie (*Spinalanästhesie*, *Periduralanästhesie*) bzw. bei der Liquorpunktion bei medianer Punktionstechnik durchstoßen.
 Die Bänder können kalzifizieren ("verknöchern") und dadurch die Punktion erschweren.

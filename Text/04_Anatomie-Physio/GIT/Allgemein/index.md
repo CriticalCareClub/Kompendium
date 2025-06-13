@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 (allgemeine-anatomie-4)=
 

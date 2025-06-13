@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 ```{index} single: Hals
 ```
@@ -42,10 +42,10 @@ Halsmuskeln:
   Kopfwender, innerviert durch N. accessorius (IX)
 - **Mm. scaleni**, *Mm. longus capitis et longus colli*:
   Rückenmuskel-Derivate
-- {deep}`infrahyoidale Muskulatur: M. sternohyoideus, M. sternothyroideus,
-  M. thyrohyoideus, M. omohyoideus.`
-- {deep}`suprahyoidale Muskulatur: Mundboden, M. mylohyoideus, M.
-  stylohyoideus, M. digastricus, M. geniohyoideus.`
+- [infrahyoidale Muskulatur: M. sternohyoideus, M. sternothyroideus,
+  M. thyrohyoideus, M. omohyoideus.]{.deep}
+- [suprahyoidale Muskulatur: Mundboden, M. mylohyoideus, M.
+  stylohyoideus, M. digastricus, M. geniohyoideus.]{.deep}
 
 Der gesamte Hals ist durch *Faszienblätter* in einzelne Kompartimente
 eingeteilt (oberflächliches, mittleres und tiefers Blatt).

@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 # Männliche Geschlechtsorgane
 
@@ -26,9 +26,9 @@ Sie liegen im *Hodensack (Scrotum)*.
 Nach ihrer Entstehung an der Rückwand der Bauchhöhle treten sie am Ende der Fetalentwicklung durch den Leistenkanal in den Hodensack (*Descensus testis*).
 Hierdurch wird eine niedrigere Temperatur ermöglicht, die für die Heranreifung der Samen wichtig ist.
 
-Der Hoden hat eine derbe, *bindegewebige Hülle* [(Tunica albuginea)]{.deep}, von dieser gehen Septen [(Septula testis)]{.deep}` nach innen ab und unterteilen den Hoden in *Läppchen* {deep}`(Lobuli, >200)`.
+Der Hoden hat eine derbe, *bindegewebige Hülle* [(Tunica albuginea)]{.deep}, von dieser gehen Septen [(Septula testis)]{.deep}` nach innen ab und unterteilen den Hoden in *Läppchen* [(Lobuli, >200)]{.deep}.
 Diese Lobuli enthalten [jeweils 2-4 stark geschlängelte]{.deep} Hodenkanälchen [(Tubuli seminiferi contorti)]{.deep}.
-{deep}`Die Gesamtlänge der Hodenkanälchen würde ungefähr 350 m betragen.`
+[Die Gesamtlänge der Hodenkanälchen würde ungefähr 350 m betragen.]{.deep}
 Im Epithel der Kanälchen findet die **Spermatogenese** statt.
 Die geraden Hodenkanälchen [(Tubuli seminiferi recti)]{.deep} verbinden die geschlängelten [Tubuli seminiferi contorti]{.deep}
 mit einem feinen Netzwerk an kommunizierenden Kanälen, den [Rete testis]{.deep}, welches diese  mit den Ausfürungsgänge des Hodens

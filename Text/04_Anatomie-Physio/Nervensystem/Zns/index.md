@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 (zns)=
 
@@ -223,10 +223,10 @@ Das Cerebellum reguliert Gleichgewicht, Muskeltonus und Koordination der willkü
 - Kleinhirnhemisphären (paarig), 3 Lappen
 - Vermis cerebelli (Kleinhirnwurm)
 
-{deep}`Drei Kleinhirnschenkel (Pedunculus cerebellaris superior, medius et inferior) werden von ein- und austretenden Bahnen gebildet. Von der Entwicklung her werden der Nodulus und der Flocculus als Urkleinhirn
+[Drei Kleinhirnschenkel (Pedunculus cerebellaris superior, medius et inferior) werden von ein- und austretenden Bahnen gebildet. Von der Entwicklung her werden der Nodulus und der Flocculus als Urkleinhirn
 (Archicerebellum) bezeichnet. Gemeinsam, als sog. Lobus flocculonodularis, sind sie für das Gleichgewicht zuständig. Der Lobus anterior und ein Teil des Vermis werden als Altkleinhirn
 (Palaeocerebellum) bezeichnet, der Rest als Neukleinhirn
-(Neocerebellum).`
+(Neocerebellum).]{.deep}
 
 Im Querschnitt schaut die Verteilung zwischen Kortex und weißer Substanz des Kleinhirns aus wie ein Baum - der sog. Arbor vitae. Einer der wichtigsten Kerngebiete, auch der größte Kern, des Kleinhirns ist der Nucleus dentatus.
 
@@ -266,8 +266,8 @@ Da bereits zwischen Os occipitale und Atlas auch ein Nerv austritt
 Der *Spinalnerv*, der die Wirbelsäule verlässt, setzt sich aus mehreren Vorder- und Hinterwurzeln zusammen.
 Die Nerven der Vorderwurzel sind motorisch, die Nerven der Hinterwurzel sensibel und haben daher vor dem Eintritt in das Rückenmark ein **Ganglion** als Umschaltstelle.
 Beide Wurzeln vereinigen sich kurz bei ihrem Durchtritt durch das Zwischenwirbelloch. Hier vermischen sich die Faseranteile.
-{deep}`Der Spinalnerv teilt sich danach in einen R. meningeus, einen R.
-communicans, einen R. ventralis und einen R. dorsalis.`
+[Der Spinalnerv teilt sich danach in einen R. meningeus, einen R.
+communicans, einen R. ventralis und einen R. dorsalis.]{.deep}
 
 Das Rückenmark zeigt in seiner Gesamtform *zwei Verdickungen* im Halsbereich und im Lendenbereich, die Instumestentia cervicalis und lumbalis.
 Die Begründung hierfür ist in die zahlreichen Nerven zu suchen, die in diesen Bereichen an obere und untere Extremitäten abgegeben werden. Das Ende des Rückenmarks bildet der *Conus medullaris* mit dem *Filum terminale* an der Spitze. Dieses reicht bis zum Hiatus sacralis, dem Ende des Spinalkanals.

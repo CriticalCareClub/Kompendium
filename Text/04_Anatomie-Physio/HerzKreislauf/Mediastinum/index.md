@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 ```{index} single: Mediastinum
 ```

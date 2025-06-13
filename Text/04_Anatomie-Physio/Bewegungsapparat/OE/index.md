@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 :::{index} single: Extremität; Obere
 :::
@@ -173,8 +173,8 @@ Proximal ist er hauptsächlich durch Muskelzug
 [Extremitas proximalis: Caput humeri, Collum anatomicum, Collum chirurgicum, Tuberculum majus, Tuberculum minus, dazwischen Sulcus intertubercularis (für lange Bicepssehne)]{.deep}.
 Distal endet er im
 {ref}`Ellenbogengelenk <Ellenbogengelenk>` (Articulatio cubiti;
-{deep}`Extremitas distalis: Epicondylus medialis humeri mit dem Sulcus n.
-ulnaris, Epicondylus lateralis humeri, Condylus humeri mit der Trochlea humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite gibt es die Fossa olecrani.`).
+[Extremitas distalis: Epicondylus medialis humeri mit dem Sulcus n.
+ulnaris, Epicondylus lateralis humeri, Condylus humeri mit der Trochlea humeri und der darüberliegenden Fossa coronoidea, sowie dem Capitulum humeri und der darüberliegenden Fossa radialis. Auf der dorsalen Seite gibt es die Fossa olecrani.]{.deep}).
 
 Entlang des Corpus humeri verläuft im **Sulcus n. radialis** der gleichnamige *Nerv*.
 Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrakturen ebenso häufig mitverletzt.

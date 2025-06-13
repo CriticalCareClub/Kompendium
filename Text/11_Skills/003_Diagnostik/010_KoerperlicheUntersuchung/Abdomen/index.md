@@ -22,6 +22,5 @@ Das Abdomen kann man abtasten um die Anspannung der Bauchdecke und Schmerzen zu 
 
 Man legt nun eine Hand flach auf den Bauch des Patienten und die andere Hand flach auf die erste. Mit den Fingern drückt man nun vorsichtig mehrere Zentimeter auf die Bauchdecke und beurteilt, ob der Bauch weich oder verhärtet ist. Dabei fragt man den Patienten ob er Schmerzen empfindet. Dies wiederholt man in allen vier Quadranten.
 
-Weiters kann man beurteilen ob der Patient Schmerzen durch den Druck hat
-(*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*). {term}`🗎 Bates 1`
+Weiters kann man beurteilen ob der Patient Schmerzen durch den Druck hat (*Druckschmerz*) oder ob er Schmerzen beim Loslassen bekommt *Loslassschmerz*).
 

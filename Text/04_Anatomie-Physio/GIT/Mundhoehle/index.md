@@ -1,4 +1,4 @@
-{{ PROLOG }}
+
 
 (mundhoehle-gastrointestinaltrakt)=
 

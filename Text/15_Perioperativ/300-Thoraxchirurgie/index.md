@@ -1,8 +1,8 @@
 # Thoraxchirurgie
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
+:glob:
 
-*/index
-Thymektomie
-```
+*
+:::

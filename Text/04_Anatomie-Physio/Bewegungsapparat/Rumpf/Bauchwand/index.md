@@ -1,36 +1,36 @@
-{{ PROLOG }}
+
 
 # Bauchwand
 
-{deep}`Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die Crista iliaca, der Sulcus inguinalis und der Sulcus pubis.`
+[Die *Begrenzung der Bauchwand* sind der Angulus infrasternalis, die Crista iliaca, der Sulcus inguinalis und der Sulcus pubis.]{.deep}
 
 Gemeinsam mit den Muskeln der Rücken- und Hüftmuskeln sind die Bauchmuskeln an den Rumpfbewegungen beteiligt. Es werden *seitliche, vordere und hintere Bauchmuskeln*unterschieden. Speziell die seitlichen Bauchmuskeln sind an der *Schräggurtung* der Bauchwand beteiligt.
 
 - seitliche Bauchmuskeln (3 Schichten):
 
-  - {deep}`M. obliquus externus abdominis: strahlt von seinem Ursprung an
+  - [M. obliquus externus abdominis: strahlt von seinem Ursprung an
     den Rippen fächerförmig in Richtung Linea alba aus. Bildet mit
     seiner Aponeurose die Vorderfläche der Rectusscheide, unterster
-    Anteil der Aponeurose bildet das Leistenband.`
-  - {deep}`M. obliquus internus abdominis: strahlt von seinem Ursprung an
+    Anteil der Aponeurose bildet das Leistenband.]{.deep}
+  - [M. obliquus internus abdominis: strahlt von seinem Ursprung an
     der Crista iliaca (Beckenkamm), dem Lig. inguinale (Leistenband)
     und der Fascia thoracolumbalis fächerförmig Richtung Linea alba
     aus. Bildet mit seiner Aponeurose die Vorder- und Rückfläche
     (oberhalb der Linea arcuata) bzw. die Vorderfläche der
     Rectusscheide (unterhalb der Linea arcuata). Beim Mann wird von
     diesem Muskel auch der M. cremaster (Hodenheber-Muskel)
-    ausgebildet.`
-  - {deep}`M. transversus abdominis: Ausgehend von der Fascia
+    ausgebildet.]{.deep}
+  - [M. transversus abdominis: Ausgehend von der Fascia
     thoracolumbalis strahlt er mit seiner Aponeurose in die Linea alba
     ein. Bildet mit seiner Aponeurose die Rückfläche (oberhalb der
     Linea arcuata) bzw. die Vorderfläche der Rectusscheide (unterhalb
-    der Linea arcuata).`
+    der Linea arcuata).]{.deep}
 
-  {deep}`Alle seitlichen Bauchmuskeln einer Seite führen zur
+  [Alle seitlichen Bauchmuskeln einer Seite führen zur
   Seitwärtsneigung des Rumpfes. Der M. obliquus externus der rechten
   Seite und der M. obliquus internus der linken Seite führen zu einer
   Drehung des Rumpfes nach links (und andersrum). Der M. transversus
-  abdominis ist hauptsächlich für die Bauchpresse zuständig.`
+  abdominis ist hauptsächlich für die Bauchpresse zuständig.]{.deep}
 
 - vordere Bauchmuskeln:
 
@@ -38,8 +38,8 @@ Gemeinsam mit den Muskeln der Rücken- und Hüftmuskeln sind die Bauchmuskeln an
     der Symphyse bildet dieser Muskel mit seinen Intersectiones
     tendineae (Zwischensehnen) das berühmte “Six-Pack”. Funktion -
     Flexion des Rumpfes = z.B. Sit-up.
-  - {deep}`M. pyramidalis: Ausgehend beidseits der Symphyse spannt er über
-    seinen Ansatz an der Linea alba die Linea alba.`
+  - [M. pyramidalis: Ausgehend beidseits der Symphyse spannt er über
+    seinen Ansatz an der Linea alba die Linea alba.]{.deep}
 
 - hintere Bauchmuskeln:
 

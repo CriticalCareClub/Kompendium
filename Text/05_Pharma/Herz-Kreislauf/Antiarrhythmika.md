@@ -43,31 +43,31 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   - mittellange Blockade
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Ajmalin <Ajmalin>`
   -
   - Gilurytmal™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Chinidin
   -
   - Duriles™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Prajmalin
   -
   - Neo Gilurytmal™
 - - Ib
-  - [⤷]{.deep}
+  - [⮡]{.deep}
   - kurze Blockade
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Lidocain <Lidocain>`
   -
   - Lidocorit™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Phenytoin
   -
   - Zentropril™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Tocainid
   -
   -
@@ -75,7 +75,7 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   - lange Blockade
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Flecainid
   -
   - Aristocor™
@@ -87,39 +87,39 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Esmolol <Esmolol>`
   - kurz wirksam
   - Brevibloc™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Landiolol
   - ultrakurz wirksam
   - Rapibloc™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Bisoprolol
   -
   - Bisocor™, Concor™, Rivacor™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Metoprolol <Metoprolol>`
   -
   - Beloc™, Seloken™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Atenolol
   -
   - Tenormin™, Tenoretic™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Nebivolol
   -
   - Nomexor™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Pindolol
   -
   - Visken™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Propranolol
   -
   - Inderal™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Sotalol
   -
   - Sotalex™, Sotacor™
@@ -127,11 +127,11 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Amiodaron <Amiodaron>`
   -
   - Cordarex™, Sedacoron™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Sotalol
   - auch ein β-Blocker!
   - Sotalex™, Sotacor™
@@ -139,16 +139,16 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Diltiazem
   -
   - Dilzem™
 
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Gallopamil
   -
   - Procorum™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Verapamil <Verapamil>`
   -
   - Isoptin™
@@ -156,11 +156,11 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Digoxin <Digoxin>`
   -
   - Lanicor™
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Digitoxin
   -
   - Digimerck™
@@ -168,11 +168,11 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Adrenalin
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Isoprenalin
   -
   - Isoprel™
@@ -184,11 +184,11 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Atropin <Atropin>`
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Glycopyrronium <Glycopyrronium>`
   -
   - Robinul™
@@ -196,11 +196,11 @@ Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- b
   -
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - Kalium
   -
   -
-- - [⤷]{.deep}
+- - [⮡]{.deep}
   - {ref}`Magnesium <Magnesium>`
   -
   - Cormagnesin™

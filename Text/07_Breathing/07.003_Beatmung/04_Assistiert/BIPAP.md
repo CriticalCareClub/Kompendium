@@ -11,7 +11,7 @@
 ```{index} single: DuoPAP
 ```
 
-# BiLevel:
+# BiLevel (`BiPAP`, `DuoPAP`, ...)
 
 {dfn}`BiLevel` ist ein PCV-Modus, welcher ein **alternierendes hohes und tiefes Druckniveau** vorgibt, wobei eine *Spontanatmung* in beiden Druckniveaus möglich ist, meist auch mit *Pressure Support*.
 

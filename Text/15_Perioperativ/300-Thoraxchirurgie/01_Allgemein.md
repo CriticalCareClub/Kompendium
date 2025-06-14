@@ -328,7 +328,7 @@ Doppellumentubus
 :::
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg
+:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg
 
 Doppellumentubus
 :::

@@ -205,7 +205,7 @@ Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Protei
     - Immunglobulin D (IgD): Oberflächenrezeptor für B-Lymphozyten
     - Immunglobulin E (IgE):
       v.a. allergische Reaktionen, parasitäre Infektionen
-    - Immunglobulin ➛ (IgG):
+    - Immunglobulin → (IgG):
       wichtigsten Antikörper, 75 % der Immunglobuline
     - Immunglobulin M (IgM): bei Antigenkontakt
 - *niedermolekulare Stoffe*

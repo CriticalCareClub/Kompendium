@@ -149,9 +149,9 @@ Die Informationen der Sinneszellen (Stäbchen und Zapfen) werden im Sehnerv gesa
 
 Sehbahn:
 
-Photorezeptoren ➛ Retinaganglienzellen ➛ Opticusganglienzellen ➛ N.
-opticus ➛ Chiasma opticum (Kreuzung der nasalen Netzhauthälften) ➛
-Tractus opticus ➛ Corpus geniculatum laterale gSehstrahlung ➛ Sulcus calcarinus (Lobus occipitalis).
+Photorezeptoren → Retinaganglienzellen → Opticusganglienzellen → N.
+opticus → Chiasma opticum (Kreuzung der nasalen Netzhauthälften) →
+Tractus opticus → Corpus geniculatum laterale gSehstrahlung → Sulcus calcarinus (Lobus occipitalis).
 
 Das jeweils *linke Gesichtsfeld* wird in die *rechten Hemisphäre* projiziert, das jeweils r*echte Gesichtsfeld* in die *linke Hemisphäre*.
 
@@ -164,7 +164,7 @@ Die Hilfseinrichtungen des Auges umfassen:
   Augenwimpern, Innen von Conjunctiva ausgekleidet. Bewegung der Lider
   durch M. levator palpebrae superioris (III) und der M. orbicularis
   oculi (VII)
-- *Tränenapparat*: ➛ Glandula lacrimalis und ableitende Tränenwege
+- *Tränenapparat*: → Glandula lacrimalis und ableitende Tränenwege
   (Punctum lacrimale, Canaliculus lacrimale, Sacculus lacrimalis,
   Ductus nasolacrimalis)
 - *äußere Augenmuskeln*[^aeussereaugenmuskeln]
@@ -212,16 +212,16 @@ hauptsächlich im parietalen und inferotemporalen Kortex gelegen.
 Visuelle Funktionen werden in Untergruppen verteilt und parallel in *unterschiedlichen Hirnarealen* verarbeitet:
 
 - Raum- und Bewegungsanalyse
-- Repräsentation des extrapersonalen Raumes ➛ Parietallappen
-- Bewegungswahrnehmung ➛ okzipito-parietale Hirnrinde
-- Objekterkennung ➛ inferiorer Temporallappen, okzipito-temporales
+- Repräsentation des extrapersonalen Raumes → Parietallappen
+- Bewegungswahrnehmung → okzipito-parietale Hirnrinde
+- Objekterkennung → inferiorer Temporallappen, okzipito-temporales
   Übergangsgebiet
-- Gesichtserkennung ➛ inferiorer Temporallappen
-- Zuordnung visueller Zeichen ➛ Gyrus angularis
-- alphabetische Schrifterkennung ➛ Gyrus angularis links
-- ideographische Schrifterkennung ➛ Gyrus angularis rechts
-- Farbwahrnehmung ➛ Gyrus angularis
-- emotionale Komponenten ➛ limbisches System
+- Gesichtserkennung → inferiorer Temporallappen
+- Zuordnung visueller Zeichen → Gyrus angularis
+- alphabetische Schrifterkennung → Gyrus angularis links
+- ideographische Schrifterkennung → Gyrus angularis rechts
+- Farbwahrnehmung → Gyrus angularis
+- emotionale Komponenten → limbisches System
 
 (ohr)=
 
@@ -245,9 +245,9 @@ Beide Organe liegen im Innenohr (Pars petrosa des Os temporale).
 
 Zur *Sammlung der Schallwellen* für das Gehör sind Außenohr und Mittelohr dem Innenohr vorgeschaltet.
 
-- Töne ➛ Sinusschwingungen aus einer einzigen Frequenz
-- Klänge ➛ Grundton und mehrere Obertöne
-- Geräusch ➛ Schallereignis des täglichen Lebens, umfassen in
+- Töne → Sinusschwingungen aus einer einzigen Frequenz
+- Klänge → Grundton und mehrere Obertöne
+- Geräusch → Schallereignis des täglichen Lebens, umfassen in
   wechselndem Ausmaß praktisch alle Frequenzen des Hörbereichs
 
 Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine Zunahme des Schalldrucks (dB) führt zu einer Zunahme der Lautstärkeempfindung.
@@ -278,7 +278,7 @@ Das Gehörorgan ist in 3 Anteile gegliedert:
   Schleimhaut-ausgekleidete Hohlräume im Prozessus mastoideus; zwei
   Muskeln des Mittelohrs können Einfluss auf die Geräuschübertragung
   nehmen - M. tensor tympani, M. stapedius
-- *Innenohr*: ➛ knöchernes Labyrinth, mit Perilymphe gefüllt. Das
+- *Innenohr*: → knöchernes Labyrinth, mit Perilymphe gefüllt. Das
   häutige Labyrinth mit den Organen für Hören und Gleichgewicht ist
   eingelagert, mit Endolymphe gefüllt.
 
@@ -302,9 +302,9 @@ Frequenzabhängig liegt die normale Hörschwelle ca. bei 8 dB, der Hauptsprach
 
 Hörbahn
 
-Haarzellen (Hörsinneszellen) ➛ Ganglion spirale cochleae ➛ N. cochlearis
-➛ N. vestibularis ➛ als N. vestibulocochlearis (VIII) ➛ Hirnstamm ➛
-Corpus geniculatum mediale ➛ Gyri temporales transversi
+Haarzellen (Hörsinneszellen) → Ganglion spirale cochleae → N. cochlearis
+→ N. vestibularis → als N. vestibulocochlearis (VIII) → Hirnstamm →
+Corpus geniculatum mediale → Gyri temporales transversi
 
 Man kann zwei Formen der *Schwerhörigkeit* unterscheiden:
 
@@ -327,7 +327,7 @@ Die Cristae ampullares registrieren vor allem *Drehbeschleunigungen*.
 
 Gleichgewichtsbahn
 
-Sinneszellen ➛ N. vestibularis ➛ N. vestibulocochlearis ➛ Nuclei vestibulares ➛ Kleinhirn, Kerne der äußeren Augenmuskelnerven, Rückenmark
+Sinneszellen → N. vestibularis → N. vestibulocochlearis → Nuclei vestibulares → Kleinhirn, Kerne der äußeren Augenmuskelnerven, Rückenmark
 
 ```{index} single: Haut
 ```
@@ -475,7 +475,7 @@ Zu den Hautanhangsorganen zählen:
   - Duftdrüsen: v.a. bei Haaren
   - Talgdrüsen: v.a. bei Haaren
 
-- *Haare*: ➛ Wärmeschutz, Tastempfindung, Aufrichten durch M. arrector
+- *Haare*: → Wärmeschutz, Tastempfindung, Aufrichten durch M. arrector
   pili
 
   - Lanugohaare (Neugeborenes)

@@ -17,11 +17,11 @@ Daneben ist er wesentlich an der Regulation des Wasser- und Elektrolythaushalts 
 
 Die Verdauungsorgane können nach Lokalisation und Aufgaben grob in einen Kopfteil und in einen Rumpfteil eingeteilt werden.
 
-- Kopfteil: Mundhöhle mit Speicheldrüsen, Oro- und Laryngopharynx ➛
+- Kopfteil: Mundhöhle mit Speicheldrüsen, Oro- und Laryngopharynx →
   Nahrungsaufnahme und Zerkleinerung
 - Rumpfteil: Ösophagus (Speiseröhre), Gaster (Magen), Intestinum tenue
   (Dünndarm), Intestinum crassum (Dickdarm), Verdauungsdrüsen (Leber,
-  Bauchspeicheldrüse) ➛ Freisetzung der Nährstoffe, Resorption,
+  Bauchspeicheldrüse) → Freisetzung der Nährstoffe, Resorption,
   Ausscheidung
 
 :::{figure} /Bilder/PD/Digestive_system_diagram_de-edited.\*

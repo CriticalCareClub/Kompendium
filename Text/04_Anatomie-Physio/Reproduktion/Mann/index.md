@@ -139,19 +139,19 @@ M. cremaster).
 
 Die verschiedenen *Hodenhüllen* kommen durch den Descensus testis während der Entwicklung zustande (von innen nach außen):
 
-- Processus vaginalis testis ➛ Ausstülpung des Bauchfells
+- Processus vaginalis testis → Ausstülpung des Bauchfells
 
 - Tunica vaginalis testis:
 
   - Lamina visceralis (Epiorchium)
   - Lamina parietalis (Periorchium)
 
-- Fascia spermatica interna ➛ Fortsetzung der Fascia transversalis
+- Fascia spermatica interna → Fortsetzung der Fascia transversalis
 
-- Fascia cremasterica ➛ Fasern des M. obliquus internus abdominis
+- Fascia cremasterica → Fasern des M. obliquus internus abdominis
   (= M. cremaster)
 
-- Fascia spermatica externa ➛ Fortsetzung der Fascie des M. obliquus
+- Fascia spermatica externa → Fortsetzung der Fascie des M. obliquus
   externus abdominis
 
 ## Penis (männliches Glied)

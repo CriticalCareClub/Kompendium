@@ -91,7 +91,7 @@ Truncus brachiocephalicus
 
        - [Aa. caroticotympanicae]{.deep}
 
-    3. [Pars cavernosa ➛ im Corpus cavernosum, Siphon caroticum]{.deep}
+    3. [Pars cavernosa → im Corpus cavernosum, Siphon caroticum]{.deep}
 
        - [A. hypophysialis inferior]{.deep}
 
@@ -156,7 +156,7 @@ Truncus brachiocephalicus
 
 Ca. auf Höhe des 4. Lendenwirbelkörper, Teilung in A. iliaca communis
 
-- **A. iliaca interna**: 2 Stammgefäße ➛ parietal und viszeral:
+- **A. iliaca interna**: 2 Stammgefäße → parietal und viszeral:
 
   :::{hlist}
   - parietale Äste

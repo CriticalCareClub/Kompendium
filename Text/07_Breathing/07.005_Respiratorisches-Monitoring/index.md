@@ -1,15 +1,12 @@
 (ARMO)=
 
 
-# `ARMO` Respiratorisches Monitoring
+# Respiratorisches Monitoring
 
-:::{sectionauthor} Sebastian GABRIEL <sebastian.gabriel@kl.ac.at>
+:::{sectionauthor} Sebastian GABRIEL <sebastian.gabriel@criticalcare.at.at>
 :::
 
-:::{note}
 
-Für die Inhalte dieses Kapitels stehen Lehrvideos der KL zur Verfügung.
-:::
 
 :::{only} latex
 :::{contents}

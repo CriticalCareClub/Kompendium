@@ -1,3 +1,6 @@
+
+(Beatmungsgeraete)=
+
 # Beatmungsgeräte
 
 
@@ -18,6 +21,7 @@ und erhebt keinerlei Anspruch auf Vollständigkeit.
 
 ## Notfall- und Transportrespiratoren
 
+<!-- 
 ```{index} single: Oxylog
 ```
 ```{index} single: Oxylog 1000
@@ -34,7 +38,10 @@ Der Oxylog 1000 ist ein simpler "umgekehrter Staubsauger" zur VCV.
 
 ### Dräger Oxylog 2000
 
-Der Oxylog 2000 bietet VCV und optional auch CPAP.
+Der Oxylog 2000 bietet VCV und optional auch CPAP. 
+-->
+
+
 
 ```{index} single: Oxylog
 ```
@@ -55,13 +62,20 @@ Er ermöglicht NIV.
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161836-00640px.jpg
 :::
 
-### Medumat Compact
+:::{todo} {issue}`140` weitere Notfall- und Transportrespiratoren
 
-### Medumat Standard a
-
-### Hammilton T1
+- [ ] Medumat Compact
+- [ ] Medumat Standard a
+- [ ] Hamilton T1
+:::
 
 ## Intensivrespiratoren
+
+:::{todo} {issue}`141` weitere Intensivrespiratoren
+
+- [ ] Hamilton C6
+- [ ] Dräger-Geräte
+:::
 
 ## Jet-Ventilation
 

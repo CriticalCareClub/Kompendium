@@ -1393,8 +1393,8 @@ Citation needed
 🗎 Supady 2009
 : by Supady, A., T. Schwab and H-J. Busch. 2009.
   **\["’‘Liquid Ecstasy"’: Gamma-Butyrolactone Withdrawal Delirium with Rhabdomyolysis and Dialysis Dependent Renal Failure\].**
-  *Dtsch Med Wochenschr* 134 (18). Medizin III
-  \- Kardiologie und Angiologie Universitätsklinikum Freiburg.
+  *Dtsch Med Wochenschr* 134 (18).
+  Medizin III - Kardiologie und Angiologie Universitätsklinikum Freiburg.
   <mailto:Alexander.Supady@uniklinik-freiburg.de>: by 935–37.
   doi:[10.1055/s-0029-1220252](https://doi.org/10.1055/s-0029-1220252).
 

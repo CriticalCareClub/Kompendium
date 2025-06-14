@@ -3,14 +3,19 @@
 
 **29. Atmung**
 
-Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. Trachea reicht von unterhalb des Cricoids bis zur Carina. Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. Der größte Widerstand ist bei der 3–4 Generation.
+Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. 
+Trachea reicht von unterhalb des Cricoids bis zur Carina. 
+Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. 
+Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. 
+Der größte Widerstand ist bei der 3–4 Generation.
 
 Das normale Ventilation:Perfusion-Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz = Dyspnoe.
 
-Sauerstoffbindungskurve ist sigmoidal (SO₂ oben und paO₂ rechts). P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO₂ von 27mmHg.
+Sauerstoffbindungskurve ist sigmoidal (SO₂ oben und paO₂ rechts). 
+P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO₂ von 27mmHg.
 Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer O₂ Abgabe ans Gewebe.
 
-Hüfner'sche Zahl: 1 g Hb kann 1,39 ml O₂ binden.
+Hüfner'sche Zahl: 1 g Hb kann (1,34–)1,39 ml O₂ binden.
 
 Hypoxämie = ↓ paO₂ (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose = SaO₂ vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
 
@@ -154,10 +159,7 @@ Therapie: FiO₂ und PEEP-Erhöhung + Ursache beheben
 Hyperkapnische resp. Insuff.: CO₂-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre,
 Phrenikusparese),
 Störung der neuromuskulären Weiterleitung
-(Myasthenia gravis,
-Muskeldystrophie,
-Relaxanzüberhang,
-Elektrolytstörung),
+(Myasthenia gravis, Muskeldystrophie, Relaxanzüberhang, Elektrolytstörung), 
 Störung der Atemmechanik
 (Hämatothorax, Pneu, Erguss, Skoliose, Serienrippe), Obstruktive AW-Erkr. (Asthma, COPD,
 Tracheomalazie), Behinderung der Atemexkursion (Adipositas, erhöhter IAP)
@@ -181,21 +183,9 @@ Step by step approach:
 - Lagerungstherapie, NO-Inhalation, ILA, ECMO Spontanatmung = neg. Druckatmung; Beatmung = positive Druckatmung (dorsales ZWF starr)
 
 
-VCV: Freiheitsgrad = Spitzen (Tubuswiderstand)-  und Plateaudruck (Alveolardruck), der Alveolardruck kann nur in den No-Flow-Phasen gemessen werden! Stenose (Tubusknick) erhöht Spitzendruck bei unverändertem Plateaudruck. Compliance-Verminderung (z.B. Kopftieflage)
-vermindert VT, sodass Spitzen und Plateaudruck erhöht werden müssen.
 
-PCV: Freiheitsgrad TV;  konstanter endexpiratorischer Druck (Plateaudruck) ohne Spitzendruck,
-mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO₂ steigt Frischgasflow/min wird dem System zugeführt (nicht Beatmung). Z.B. Bei Flow 1l und AMV 5l werden 4l wiederverwendet. Bei minimal Flow Anästhesie  \<  0,5l muss FiO₂ erhöht werden!
-(mind. 75%).
 
-Toxische Sauerstoffwirkung bei \> 0,4 FiO₂
-- Erhöht Sauerstoffradikale mit erhöhter Permeabilität/Ödem, Zerstört Surfactant, aktiviert Makrophagen und Granulozyten, Stört Zilienfunktion.
-- Resorbtionsatelektasen bei hohem paO₂ in der Alveole = viel O₂ geht ins Blut, der Partialdruck der in der Alveole verbleibt ist unter dem hydrostatischen Druck der Umgebung
-= Atelektase.
 
-PEEP Physiologisch 5–10mmHg in der Trachea nach Expiration, durch Tubus verhindert. PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va.
-Bei AF \> 30/min) und Frischluftventilation!!
-Die Höhe des PEEPs richtet sich nach der Hämodynamik, KG, Lagerung des Patienten!
 Inspirationszeit:
 BIPAP =  zeitgesteuerte Tinsp; ASB =  flussgesteuerte Tinsp (Spitzenfluss sind 100%  bei 25% Ende der Inspiration). Eine Verlängerung der Inspirationszeit verlängert Verbessert die Oxygenierung
 (IRV).
@@ -216,9 +206,10 @@ Flowtrigger: normalerweise 2l/min = Wenn der Patient  \>  2l/min einatmet bekomm
 = Übertragen der Atemarbeit vom Respirator auf den Patienten.
 Prinzipiell 2 Möglichkeiten:
 - Kontinuierlich: augementierte Beatmungsformen mit stufenweiser Reduzierung
-- diskontinuierlich: T-Tube-Trials = steigende Dauer (Feuchte Nase mehrmals täglich, bei 2h,
-Extubation) = SBT Spontanes breathing Trial (Zeit von Anfangs 30min an feuchter Nase steigern bis 120min)
-  Wann kann mit dem Weaning begonnen werden?
+- diskontinuierlich: T-Tube-Trials = steigende Dauer (Feuchte Nase mehrmals täglich, bei 2h, Extubation) = SBT Spontanes breathing Trial (Zeit von Anfangs 30min an feuchter Nase steigern bis 120min)
+
+Wann kann mit dem Weaning begonnen werden?
+
 Weaningkriterien:
 - Hämodynamik stabil
 - Kompensierter Infekt (kein Fieber)
@@ -267,43 +258,5 @@ Smart Care: Spontanatmung im ASB-Modus
 
 Unterstützungsdruck nach Frequenz, Tidalvolumen und etCO₂ Smart Care vs. ASB im Weaning: smart care im postoperativem Einsatz gefahrlos anwendbar.
 ASB: Weaningdauer ist Personalabhängig.
-
-
-
-## 29.8. Nicht invasive Ventilation NIV
-
-Vorraussetzung
-: ausreichend wacher, kooperativer Patient mit Schluck-, Husten-  und Würgereflex, da kein gesichterter Atemweg!
-
-Vorteil
-: keine Intubationskomplikationen, red. VAP, keine Sedierung nötig, verkürzter Intensivaufenthalt.
-
-Masken: Nase, Mund/Nase, Full-Face, Helm, Mundstücke Probleme: Leckage!!!, Personalintensiv, kein gesichterter Atemweg, SH-Schwellung
-
-
-Indikationen:
-- COPD-Exazerbation
-- first level: kardiales Lungenödem
-- akute respiratorische Insuffizienz (bei immunsuprimierten Patienten)
-- Thoraxtrauma mit Serienrippe (Vorraussetzung Bülau bei Pneumoth.)
-- Postoperative Atelektasen (pulmonale Funktionseinschränkung va. Schmerzbedingt)
-- Weaning beim COPD-Patienten, Herzinsuffizienz, paCO₂  \> 45mmHg vor der Extubation, Sekretproblemen bei vermindertem Hustenstoss, Nachwirkungen einer Anästhesie, erhöhtem Intraabdominellen Druck, nach Thorax und Oberbaucheingriffen.l
-
-Respirator muss Leckage-Kompensation und ausreichend Flow bieten.
-
-Kontraindikationen
-: Pat. ist nicht wach mit Schutzreflexen (Koma, Delir), Hämodynamische Instabilität/maligne Arrhythmien, Gesichtsschädelverletzungen/deformationen, NICHT drainierter Pneumothorax, massive Sekretproduktion;
-
-  Ausnahme: hyperkapnisches Lungenversagen mit CO₂-Narkose trotzdem NIV NW: Läsionen der Nase, Irritationen der Augen, Austrocknen der SH
-
-Erfolgskriterien
-: paCO₂ sinkt, paO₂ steigt, AF und HF sinken, Klinische Besserung (Angst, Dyspnoe, usw.), Besserung nach 20 min!!
-
-
-Abbruchkriterien
-: weitere Verschlechterung der respiratorischen Insuffizienz, zunehmende Eintrübung, Hämodynamische Instabilität, Arrhythmien, Maskenintoleranz, RSBI (f/VT)
-
-Narkoserespiratoren:
-Atemkalk: Pillenkalk (NaOH, Ba(OH)2  ), bindet CO₂, wärmt und befeuchtet Gas, Ablaufdatum wegen Austrockung beachten! (Problem bei Kindern zu wenig CO₂-Abgabe, damit zu wenig Befeuchtung und Erwärmung des Gas = bei langer OP externe Geräte empfohlen!)
 
 

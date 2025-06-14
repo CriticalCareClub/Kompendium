@@ -30,9 +30,9 @@ Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56 g Prot
 
 - Proteine: Aminosäurelieferanten
 
-- Aminosäuren ➛ 8 essentielle, nicht-essentielle Aminosäuren
+- Aminosäuren → 8 essentielle, nicht-essentielle Aminosäuren
 
-  - ➛ Leucin, Lysin (nicht bzw. unzureichend in Pflanzen), Methionin,
+  - → Leucin, Lysin (nicht bzw. unzureichend in Pflanzen), Methionin,
     Phenylalanin, Isoleucin, Valin, Threonin, Tryptophan, (Histidin
     nur bei Säuglingen).
 

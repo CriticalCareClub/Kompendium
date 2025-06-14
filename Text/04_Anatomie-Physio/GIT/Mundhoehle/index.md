@@ -133,7 +133,7 @@ Die Schneidezähne und die Eckzähne werden als **Frontzähne** bezeichnet, die 
 Die ersten Zähne, die durchbrechen, sind die medialen Schneidezähne (6.
 bis 12. Lebensmonat), bis zum 2. Lebensjahr sollten die **Milchzähne** vollständig ausgebildet sein.
 Der erste Molar - der erste Zahn des bleibenden Gebisses - entwickelt sich dann mit dem 6. Lebensjahr.
-Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7, lateraler Schneidezahn mit 8, erster Prämolar mit 9, zweiter Prämolar mit 10 Eckzahn mit 11, zweiter Molar mit 12. Der dritte Molar ist meist sehr unterschiedlich ausgeprägt - falls er durchbricht, passiert das ab dem 18. Lebensjahr (➛ Weisheitszahn).
+Daraufhin folgt der **Zahnwechsel**: Medialer Schneidezahn mit 7, lateraler Schneidezahn mit 8, erster Prämolar mit 9, zweiter Prämolar mit 10 Eckzahn mit 11, zweiter Molar mit 12. Der dritte Molar ist meist sehr unterschiedlich ausgeprägt - falls er durchbricht, passiert das ab dem 18. Lebensjahr (→ Weisheitszahn).
 
 Der Dens (Zahn) besteht aus der *Zahnkrone* (*Corona dentis*), dem *Zahnhals* (*Cervix dentis*)
 und der *Zahnwurzel* (*Radix dentis*).

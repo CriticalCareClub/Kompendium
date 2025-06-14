@@ -31,9 +31,9 @@ Die *P-Welle* entspricht dabei der Vorhoferregung, die *PQ-Zeit* der
 
 Bilderserie: Reizleitungssystem
 
-![Eine elektrische Herzaktion. Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung: **P**-Welle ≈ Vorhoferregung, **PQ**-Zeit ≈ AV-Überleitung, **QRS**-Komplex ≈ Kammererregung, **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung. \[₢ WMC:Hank, {term}`ℓ CC BY-SA 2.0 DE`\]](/Bilder/CC-BY-SA/EKG_Komplex.\*)
+![Eine elektrische Herzaktion. Die einzelnen Abschnitte im zeitlichen Verlauf repräsentieren unterschiedliche Stadien der Erregung: **P**-Welle ≈ Vorhoferregung, **PQ**-Zeit ≈ AV-Überleitung, **QRS**-Komplex ≈ Kammererregung, **ST**-Strecke + **T**-Welle ≈ Erregungsrückbildung. \[₢ WMC:Hank, ℓ CC BY-SA 2.0 DE\]](/Bilder/CC-BY-SA/EKG_Komplex.\*)
 
-![Reizleitungssystem, Schema. `1`: Sinusknoten, `2`: AV-Knoten \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch, illustrator; C. Carl Jaffe MD, cardiologist, Yale University Center for Advanced Instructional Media, {term}`ℓ CC BY 2.5`\]](/Bilder/CC-BY/Reizleitungssystem_1.\*)
+![Reizleitungssystem, Schema. `1`: Sinusknoten, `2`: AV-Knoten \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch, illustrator; C. Carl Jaffe MD, cardiologist, Yale University Center for Advanced Instructional Media, ℓ CC BY 2.5\]](/Bilder/CC-BY/Reizleitungssystem_1.\*)
 :::
 
 

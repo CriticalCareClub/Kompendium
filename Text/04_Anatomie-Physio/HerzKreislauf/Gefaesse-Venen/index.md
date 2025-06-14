@@ -76,5 +76,5 @@ Diese Venengeflechte sind über die Vv. basivertebrales miteinander verbunden.
 - Arcus venosum dorsalis pedis
 - Rete venosum plantare
 - Arcus venosum plantaris
-- V. marginalis lateralis ➛ in die V. saphena parva
-- V. marginalis medialis ➛ in die V. saphena magna
+- V. marginalis lateralis → in die V. saphena parva
+- V. marginalis medialis → in die V. saphena magna

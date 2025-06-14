@@ -23,7 +23,7 @@ Da die Abläufe weitgehend ohne bewusste Steuerung ablaufen wird es auch *autono
 
 Sympathikus und Parasympathikus sind die Hauptantagonisten dieses Systems. Als eigenständiges System wird nun auch das enterische Nervensystem betrachtet.
 
-- Sympathikus ➛ Leistungssteigerung: aus dem Cornu laterale von Th1 bis
+- Sympathikus → Leistungssteigerung: aus dem Cornu laterale von Th1 bis
   L4
 
   - Muskel arbeiten stärker
@@ -38,7 +38,7 @@ Sympathikus und Parasympathikus sind die Hauptantagonisten dieses Systems. Als e
   - Haare stellen sich auf
   - Zunahme der Schweißproduktion
 
-- Parasympathikus ➛ Regeneration: aus III, VII, IX, X, S2 bis S4
+- Parasympathikus → Regeneration: aus III, VII, IX, X, S2 bis S4
 
   - Herzfrequenz langsamer
   - Peristaltik aktiv

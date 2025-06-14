@@ -118,7 +118,7 @@ Hier können sichere und unsichere unterschieden werden.
 
 - Scheitel-Fersen-Länge: ca. 49-51 cm
 - Scheitel-Steiß-Länge: ca. 33 cm
-- Durchschnittsgewicht: ca. 3200 (Mädchen) - 3400 ➛ (Buben).
+- Durchschnittsgewicht: ca. 3200 (Mädchen) - 3400 → (Buben).
 - Kopfumfang: 33,5 - 37 cm
 - Brustumfang: 30 - 35 cm
 

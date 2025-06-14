@@ -26,7 +26,7 @@ Man kann die Hormone anhand ihrer Affinität zu Wasser und Fett auch einteilen i
 
 Hormone können auch aufgrund ihres *Bildungsortes* differenziert werden:
 
-- Hormondrüsen ➛ klassische Hormone
+- Hormondrüsen → klassische Hormone
 - hormonproduzierende Gewebe
 - hormonproduzierende Einzelzellen
 
@@ -132,10 +132,10 @@ Hormone können auch aufgrund ihres *Bildungsortes* differenziert werden:
 
 Diese Hormone werden auch aufgrund ihres Wirkungsortes unterschiedlich bezeichnet:
 
-- im endokrinen System = endokrine Hormone ➛ Hormone
-- im Nervensystem (ZNS bzw. VNS) = neurokrines System ➛ Transmitter,
+- im endokrinen System = endokrine Hormone → Hormone
+- im Nervensystem (ZNS bzw. VNS) = neurokrines System → Transmitter,
   Neuromodulatoren
-- im Immunsystem = autokrin-parakrines System ➛ Zytokine, Lymphokine,
+- im Immunsystem = autokrin-parakrines System → Zytokine, Lymphokine,
   Monokine
 
 ## Hormondrüsen des Körpers
@@ -180,7 +180,7 @@ Sie ist Teil des Zwischenhirns (Diencephalons). Produzent des *Melatonins (Aussc
 
 ### Glandula thyroidea (Schilddrüse) und Glandula parathyroidea (Nebenschilddrüse)
 
-Die Schilddrüse liegt direkt vor dem Schildknorpel und ist zwischen 15 bis 60 ➛ schwer. Sie wird in zwei Lappen unterteilt, die medial über einen Isthmus verbunden sind. Die Schilddrüsenhormone *Thyroxin
+Die Schilddrüse liegt direkt vor dem Schildknorpel und ist zwischen 15 bis 60 → schwer. Sie wird in zwei Lappen unterteilt, die medial über einen Isthmus verbunden sind. Die Schilddrüsenhormone *Thyroxin
 (T*{sub}`4`*)* und *Triiodthyronin (T*{sub}`3`*)* stimulieren den Zellstoffwechsel. Zur Bildung von Thyroxin und Triiodthyronin benötigt der Körper Iod. Die C-Zellen der Schilddrüse produzieren *Calcitonin*, das den Blutkalziumspiegel beeinflusst (Senkung).
 
 - Thyroxin (inaktiv, 4 Iodmoleküle) und Triiodthyronin (aktiv, 3
@@ -218,10 +218,10 @@ Die Nebenniere ist gegliedert in:
   80%, produziert *Steroidhormone*.
   Von außen nach innen:
 
-  - Zona *glomerulosa*: **Mineralokortikoide** (*Aldosteron*) ➛ beeinflusst
+  - Zona *glomerulosa*: **Mineralokortikoide** (*Aldosteron*) → beeinflusst
     den Wasserhaushalt durch Kalium-Ausscheidung und
     Natrium-Rückgewinnung in den Nieren.
-  - Zona *fasciculata*: **Glukokortikoide** (*Kortisol*) ➛ reguliert
+  - Zona *fasciculata*: **Glukokortikoide** (*Kortisol*) → reguliert
     Kohlenhydrat-, Fett- und Eiweißstoffwechsel; Sie erhöhen den
     Blutzuckerspiegel, senken die Lymphozytenzahl im Blut und hemmen
     die Phagozytose. Sie wirken daher entzündungshemmend und
@@ -275,10 +275,10 @@ Geschlechtshormone beeinflussen die *Entwicklung der primären und sekundären G
 
 ### Weitere Hormonbildner
 
-- Nervensystem ➛ Transmitter
+- Nervensystem → Transmitter
 - Immunzellen: Zytokine, Lymphokine, Monokine
 - Niere: Erythropoetin, Renin
 - Leber: Angiotensin, Somatomedin
 - Gewebshormonproduzierende Zellen: z.B. Prostaglandin, Histamin
-- Herz: atriales natriuretisches Peptid (ANP) ➛ in den Herzohren, Brain
-  Natriuretic Peptide (BNP) ➛ in den Herzventrikel
+- Herz: atriales natriuretisches Peptid (ANP) → in den Herzohren, Brain
+  Natriuretic Peptide (BNP) → in den Herzventrikel

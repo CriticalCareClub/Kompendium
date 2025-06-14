@@ -207,9 +207,9 @@ Es findet ein **Gasaustausch** statt:
 Sauerstoff wird aufgenommen und Kohlendioxid abgegeben.
 Das jetzt mit Sauerstoff angereicherte Blut wird über die *Lungenvenen* in den  linken Vorhof geleitet, der wiederum das Blut in die linke Herzkammer pumpt.
 
-rechter Vorhof ➛ Trikuspidalklappe ➛ rechte Kammer ➛ Pulmonalklappe ➛
-Truncus pulmonalis ➛ Aa. pulmonales dextra und sinistra ➛ Kapillaren ➛
-Vv. pulmonales ➛ linker Vorhof
+rechter Vorhof → Trikuspidalklappe → rechte Kammer → Pulmonalklappe →
+Truncus pulmonalis → Aa. pulmonales dextra und sinistra → Kapillaren →
+Vv. pulmonales → linker Vorhof
 
 (koerperkreislauf)=
 
@@ -224,15 +224,15 @@ Das nun sauerstoffarme (und CO₂-reiche) Blut gelangt in das Venensystem und fl
 Am Weg zum Herzen vereinigen sich immer mehr Venen, sodass die Gefäße an Durchmesser zunehmen, bis sie letztendlich in die *obere* oder *untere Hohlvene* (Vena cava superior bzw. inferior) münden.
 Diese münden wiederum in den rechten Vorhof.
 
-linker Vorhof ➛ Mitralklappe ➛ linke Kammer ➛ Aortenklappe ➛ Aorta ➛ Arterien ➛ Arteriolen ➛ Kapillaren ➛ Venolen ➛ Venen ➛ V. cava inferior und superior ➛ rechter Vorhof
+linker Vorhof → Mitralklappe → linke Kammer → Aortenklappe → Aorta → Arterien → Arteriolen → Kapillaren → Venolen → Venen → V. cava inferior und superior → rechter Vorhof
 
 ## Pfortaderkreislauf
 
-Arterien der Bauchorgane ➛ Nährstoffaufnahme ➛ Pfortader ➛ Leber ➛ Vv. hepaticae ➛ V. cava inferior
+Arterien der Bauchorgane → Nährstoffaufnahme → Pfortader → Leber → Vv. hepaticae → V. cava inferior
 
 ## Lymphgefäßsystem
 
-Flüssigkeit im Extrazellularraum ➛ Lymphkapillaren ➛ Lymphgefäße mit eingeschalteten Lymphknoten ➛ Ductus thoracicus bzw. Ductus lymphaticus dexter ➛ V. cava superior
+Flüssigkeit im Extrazellularraum → Lymphkapillaren → Lymphgefäße mit eingeschalteten Lymphknoten → Ductus thoracicus bzw. Ductus lymphaticus dexter → V. cava superior
 
 (blutgefaesse-wichtige)=
 (pfortader)=

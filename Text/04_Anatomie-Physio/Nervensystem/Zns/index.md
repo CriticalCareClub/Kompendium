@@ -120,7 +120,7 @@ Der *Sulcus centralis* ist die Grenze zwischen Lobus frontalis und Lobus parieta
 - Assoziationsfasern: verbinden einzelne Lappen innerhalb einer
   Hemisphäre miteinander
 - Projektionsfasern: verbinden Großhirnrindenbereiche mit anderen
-  Teilen des ZNS ➛ z.B. Capsula interna
+  Teilen des ZNS → z.B. Capsula interna
 
 Die *Basalganglien* des Großhirns erfüllen wichtige Funktionen innerhalb des extrapyramidal-motorischen Systems sowie beim Erlernen von Handlungsmustern und Gewohnheiten. Sie können willkürliche Bewegungen bezüglich Ausmaß und Richtung kontrollieren.
 
@@ -163,7 +163,7 @@ Wichtige Anteile des Telencephalons:
   - auditorisches Assoziationsgebiet (WERNICKE-Zentrum, im Gyrus
     temporalis superior)
 
-Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf ➛
+Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf →
 regionspezifisch!
 
 ```{todo} Abbildung Homunculus
@@ -187,7 +187,7 @@ Es ist eine *Schaltinstanz* und ein *Filter* zwischen Rückenmark und Großhirn,
 Das Diencephalon liegt zwischen den beiden Großhirnhemisphären und besteht aus:
 
 - **Thalamus**: verantwortlich für Schmerz, Temperatur, Druck, Berührung,
-  Sehen, Hören ➛ zentrale sensible Schaltstation
+  Sehen, Hören → zentrale sensible Schaltstation
 - **Hypothalamus**: Kontrolle von Körpertemperatur, Wasserhaushalt, und
   Nahrungsaufnahme, Gefühlsleben, vegetatives Nervensystem
 - **Hypophyse**
@@ -325,8 +325,8 @@ Reflexe können in drei Untergruppen unterteilt werden:
 - Fremd- oder Hautreflex: z.B. Bauchdeckenreflex, ermüdbar, Summation.
 - krankhafte / pathologische Reflexe: z.B. Babinski-Reflex
 
-Ein klassischer *Reflexbogen* hat kennzeichnende Bestandteile, die der Reihe nach durchlaufen werden: Rezeptor ➛ Afferenz ➛ Synapse ➛ Efferenz
-➛ Effektor.
+Ein klassischer *Reflexbogen* hat kennzeichnende Bestandteile, die der Reihe nach durchlaufen werden: Rezeptor → Afferenz → Synapse → Efferenz
+→ Effektor.
 
 ## Hirn- und Rückenmarkshäute
 
@@ -355,14 +355,14 @@ Ein klassischer *Reflexbogen* hat kennzeichnende Bestandteile, die der Reihe nac
 
 ```
 
-➛ *„Circus arteriosus Willisi“*
+→ *„Circus arteriosus Willisi“*
 
 ### Venen des Gehirns
 
 Der Abfluss des Blutes aus dem Gehirn läuft grundsätzlich über zwei Wege:
 
-- Vv. cerebri superficialis ➛ Sinus durae matris
-- Vv. cerebri profundae ➛ V. magna cerebri Galeni
+- Vv. cerebri superficialis → Sinus durae matris
+- Vv. cerebri profundae → V. magna cerebri Galeni
 
 Sinus:
 

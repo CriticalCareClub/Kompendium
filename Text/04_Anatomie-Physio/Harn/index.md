@@ -78,11 +78,11 @@ Der Anfangsteil der Tubulus stülpt sich über das Nierenkörperchen mit seinen 
 
 Die Blutgefäße haben folgende Abfolge:
 
-A. renalis ➛
-[5-6 Aa. interlobares ➛ Aa. arcuatae ➛ Aa. interlobulares]{.deep} ➛
-Vasa afferentia ➛ Glomerulus ➛ Vasa efferentia ➛
-[Vv. interlobulares ➛ Vv. arcuatae ➛ Vv. interlobares]{.deep}
-➛ V. renalis
+A. renalis →
+[5-6 Aa. interlobares → Aa. arcuatae → Aa. interlobulares]{.deep} →
+Vasa afferentia → Glomerulus → Vasa efferentia →
+[Vv. interlobulares → Vv. arcuatae → Vv. interlobares]{.deep}
+→ V. renalis
 
 Die *Nierenkörperchen („Malpighisches Körperchen“)* liegen alle in der Nierenrinde und filtern wie bereits erwähnt den Primärharn.
 Die darauf folgenden Nierenkanälchen bilden durch die Rückresorption von ca. 90%

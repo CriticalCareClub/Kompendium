@@ -80,6 +80,12 @@ Die wichtigsten i. v.-Sedativa in der Intensivmedizin sind:
 
 ## Propofol
 
+
+:::{seealso}
+- {ref}`Propofol`
+:::
+
+
 Propofol ist ein rasch und kurz wirksames, daher sehr gut steuerbares, intravenöses Hypnotikum ohne analgetische Eigenschaften.
 Es gibt kein Antidot.
 Im Gegensatz zu Narkosegasen und Opoiden führt es **kaum zu Übelkeit** und Erbrechen, sondern wirkt eher **antiemetisch**.

@@ -3,6 +3,7 @@
 :::
 
 (Myasthenia-gravis)=
+(Myasthene-Krise)=
 
 # Myasthenia gravis
 
@@ -24,8 +25,12 @@ Test
 [^Simpson-Test]: Klinischer Funktionstest, provoziert eine *Myasthenie des Lidhebers*:
     Bei gerader Kopfhaltung nach oben zu blicken, es kommt zu einer ständigen Kontraktion des Lidhebers.
     Bei Patienten mit Myasthenia gravis kommt es nach einigen Minuten zu einer Ptosis.
+    {index}` <Simpson-Test>`
+    {index}` <Test; Simpson->`
 
 [^Tensilon-Test]: Gabe von *Edrophoniumchlorid* (kurzwirksamer Cholinesterasehemmer), repetitive Muskelarbeit (wiederholtes Öffnen und Schließen der Augenlider): Bei Erkrankungen der neuromuskulären Übertragung kommt es zu einer Verbesserung der Durchführung der Bewegungen.
+    {index}` <Tensilon-Test>`
+    {index}` <Test; Tensilon->`
 
 Therapie
 : Cholinesterase-Hemmer, hochdosierte Kortikosteroide, nichtsteroidale Immunsuppresiva
@@ -38,7 +43,10 @@ Therapie
 Kein Effekt auf AchE-Inhibitatoren  = keine MG, muss eine andere Ursache für Muskelschwäche geben.
 
 Präoperativ
-: Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren! (Besser leicht myasth. als cholinergisch); Erfragen: Schluckstörungen? Respiratorische Insuffizienz?
+: Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren! (Besser leicht myasth. als {ref}`cholinergisch <Cholinerge-Krise>`); 
+  {index}` <Mestinon>`
+
+  Erfragen: Schluckstörungen? Respiratorische Insuffizienz?
 
 Anästhesie
 : - Möglichst **kein Muskelrelaxans**
@@ -53,6 +61,8 @@ Myasthene Krise
 
 Therapie
 : Neostigmin (Prostigmin), Pyridostigmin
+  {index}` <Prostigmin>`
+  {index}` <Pyridostigmin>`
 
   - 1-3 mg Pyrostigmin Bolus, 0,5-1 mg / h
 
@@ -62,7 +72,12 @@ Therapie
   - Atropin 0,25-0,5 s.c. 3-6 mal/d
   - Infekttherapie (Cephalopsorin 3. Generation)
 
-Cholinerge Krise
-: bei Überdosierung CHE-Inhib. durch muskarine NW: Schwitzen, Abdominalkrämpfe, Diarrhoe, Speichelfluss, Miosis, Bradykardie, Hypotonie;
+
+
+:::{seealso}
+- {ref}`Cholinerge Krise <Cholinerge-Krise>` 
+  bei Überdosierung CHE-Inhib. durch muskarine NW: Schwitzen, Abdominalkrämpfe, Diarrhoe, Speichelfluss, Miosis, Bradykardie, Hypotonie;
+
   Therapie
   : Atropin, Scopolamin
+:::

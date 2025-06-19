@@ -53,3 +53,8 @@ Daher ist Propofol zur Sedierung erst **ab dem 17. Lebensjahr** und **bis 4 mg
 
 
 [^pis-inzidenz]: In der Literatur werden Inzidenzen von ca. 1% angegeben {term}`🗎 Roberts 2009`, dies kann aber in der klinischen Routine absolut nicht bestätigt werden {term}`🗎 Hemphill 2019`
+
+
+:::{seealso}
+- {ref}`Propofol`
+:::

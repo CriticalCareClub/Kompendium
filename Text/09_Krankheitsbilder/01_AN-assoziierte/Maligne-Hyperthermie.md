@@ -1,9 +1,11 @@
 
 :::{index} single: Maligne Hyperthermie
 :::
-
 :::{index} single: Hyperthermie; Maligne
 :::
+:::{index} single: Dantrolen
+:::
+
 
 (Maligne-Hyperthermie)=
 
@@ -20,6 +22,8 @@ Sie wird durch sog. **Triggersubstanzen** ausgelöst:
 - {ref}`Volatile Anästhetika <VIA>` (Halothan \> Isofluran \> Sevo-, Desfluran)
 - {ref}`Succinylcholin <Succinylcholin>`
 - Cofaktoren: *Stress*, Infektion, Fieber, Drogen, Alkoholexzess, jung, männlich, muskulös
+
+
 
 ## Verlaufsformen
 
@@ -56,19 +60,25 @@ Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlini
 - symptomatische Therapie
 
 
+
 ### Sofortmaßnahmen bei MH-Verdacht
 
 - Trigger entfernen (Verdampfer entfernen, Maschine wechseln)
-- 100% FiO₂ mit hohem Flow (3x AMV) 18l
-- Hilfe holen!!!
-- Dantrolen 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen) Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!! Eine Person nur zum Auflösen nötig!
+- 100% FiO₂ mit hohem Flow (3 x AMV, 18 L / min)
+- **Hilfe holen!**
+- {ref}`Dantrolen <Dantrolen>` 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen) 
+
+  Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!! 
+  Eine Person nur zum Auflösen nötig!
 - Grosslumige Zugänge, Arterie, Temperatursonde, Kühlen!!
-- Reichlich NaCl!! (Kein RL wegen K!)
+- Reichlich NaCl! (Kein RL wegen K!)
 - OP rasch beenden, Pat ad IBS
+
+
 
 ### Weiterführende Intensivtherapie
 
-- Dantrolen weiter 5 bzw. 10 mg / kg KG über 24 h (abh. vom initalen Bedarf)
+- {ref}`Dantrolen <Dantrolen>` weiter 5 bzw. 10 mg / kg KG über 24 h (abh. vom initalen Bedarf)
 - Diurese forcieren: Lasix und Volumen bei Gefahr einer CRUSH Niere.
 - Pufferung: Nabic
 - Antiarrhythmika: Sedacoron
@@ -76,8 +86,8 @@ Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlini
 - Kühlen
 - Alle 6-8h Laborkontrolle: BGA, Elektrolyte, LFP, NFP, CK, Myoglobin, Laktat, Gerinnung
 
-Dantrolen: Hyantoinderivat blockiert den RYR1-Rezeptor und verhindert damit weitere Kalziumfreisetzung aus dem Sarkoplasmatischen Retikulum.
-
+{ref}`Dantrolen <Dantrolen>`
+: Hyantoinderivat blockiert den RYR1-Rezeptor und verhindert damit weitere Kalziumfreisetzung aus dem Sarkoplasmatischen Retikulum.
 
 Nebenwirkungen von Dantrolen:
 - Muskelschwäche bis Atemdepression
@@ -96,10 +106,10 @@ Die Maligne Hyperthermie kann unerkannt fatal enden!
 
 ### Planung bei bekannter MH
 
-Präoperative Planung: erster Punkt, Triggerfrei TIVA (mit hohem FGF), RA, Esmeron bei RSI., Aufwachr. 2-4h bei kleinen 24 h bei großen OPs; Postop. + nach 6h Laborkontrolle!
+Präoperative Planung
+: erster Punkt, Triggerfrei TIVA (mit hohem FGF), RA, Esmeron bei RSI., Aufwachr. 2-4h bei kleinen 24 h bei großen OPs; Postop. + nach 6h Laborkontrolle!
 
 Folgende Anästhetika können bei Patienten mit Neigung zu Malignen Hyperthermie gefahrlos eingesetzt werden:
-
 - Lachgas
 - i.v.-Anästhetika
 - nicht-depolarisierende Muskelrelaxantien

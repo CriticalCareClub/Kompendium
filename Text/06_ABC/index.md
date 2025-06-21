@@ -8,21 +8,32 @@
 (Airway-Techniken)=
 (AATW)=
 
-# Atemweg
+# ABC: Atemweg, (Be-)Atmung, Kreislauf
 
 
 
 :::{toctree}
-:maxdepth: 2
+:caption: Atemweg
+:maxdepth: 1
+:glob:
 
-06.001_Einleitung/index
-06.003_Risiko/index
-06.004_Grundlagen/index
-06.005_Einfach/index
-06.006_Geringinvasiv/index
-06.007_Erweitert/index
-06.008_Chirurgisch/index
-06.009_Difficult-Airway/index
+06.*/index
+:::
+
+:::{toctree}
+:caption: (Be-)Atmung
+:maxdepth: 1
+:glob:
+
+07.*/index
+:::
+
+:::{toctree}
+:caption: Kreislauf
+:maxdepth: 1
+:glob:
+
+08.*/index
 :::
 
 % Sauerstoff/index

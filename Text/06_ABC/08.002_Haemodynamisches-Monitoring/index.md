@@ -38,8 +38,7 @@ Surrogatmarker/index
 IABP/index
 ZVD/index
 BGA/index
-Exkurs-Pulskonturanalyse/index
-Exkurs-Thermodilution/index
+Pulskonturanalyse-Thermodilution/index
 Picco/index
 Pulmi/index
 Echo/index

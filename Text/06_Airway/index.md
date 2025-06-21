@@ -16,7 +16,6 @@
 :maxdepth: 2
 
 06.001_Einleitung/index
-06.002_Narkose/index
 06.003_Risiko/index
 06.004_Grundlagen/index
 06.005_Einfach/index

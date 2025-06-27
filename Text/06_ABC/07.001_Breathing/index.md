@@ -3,26 +3,32 @@
 
 **29. Atmung**
 
-Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen. 
-Trachea reicht von unterhalb des Cricoids bis zur Carina. 
-Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen gibt es Gasaustausch, max. 23 Verzweigungen. 
-Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab. 
+
+Die Stimmlippen sind die Grenze zwischen oberen und unteren Atemwegen.
+Trachea reicht von unterhalb des Cricoids bis zur Carina.
+Bronchi teilen sich dichodom (immer auf 2), ab 16 Verzweigungen findet ein Gasaustausch statt, max. 23 Verzweigungen.
+Atemwegsdurchmesser nimmt dadurch exponentiell zu und die Gasgeschwindigkeit ab.
 Der größte Widerstand ist bei der 3–4 Generation.
 
-Das normale Ventilation:Perfusion-Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz = Dyspnoe.
 
-Sauerstoffbindungskurve ist sigmoidal (SO₂ oben und paO₂ rechts). 
+
+Das normale Ventilation:Perfusion-Verhältnis ist 1:1, Kontaktzeit des Blutes in Ruhe 0,75sec, bei Lungenkranken mit verdickter Basalmembran ist dies vor allem bei Belastung zu kurz → Dyspnoe.
+
+Die **Sauerstoffbindungskurve** ist *sigmoidal* (SO₂ oben und paO₂ rechts).
 P50 ist der Wert, bei dem Hb zu 50% gesättigt = normalerweise paO₂ von 27mmHg.
 Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer O₂ Abgabe ans Gewebe.
 
 Hüfner'sche Zahl: 1 g Hb kann (1,34–)1,39 ml O₂ binden.
 
-Hypoxämie = ↓ paO₂ (bei vermind. Hb falsch hohe Sättigungswerte). Zyanose = SaO₂ vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
+Hypoxämie = ↓ paO₂ (bei vermind. Hb falsch hohe Sättigungswerte).
+Zyanose = SaO₂ vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
 
 Respiratorischer Quotient RQ = CO₂-Produktion: Sauerstoffaufnahme = 0,8 normal
 
 Oxygenierungsindex (Horowitz-Index): paO₂/FiO₂ = normal \> 450 Zellatmung in den Mitochondrien: ATP mit O₂ + Glucose erzeugt.
-Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO₂ + H₂O + 38 ATP Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
+
+- Aerober STW: Funktionsstoffwechsel: Glucose -- Pyruvat -- CO₂ + H₂O + 38 ATP
+- Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
 
 
 Nicht respiratorische Funktion der Lunge: autokrin/endokrin = Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A + NA, Sekretion von IgA,
@@ -91,37 +97,6 @@ Bei der Beatmung in Narkose wird die physiologische Unterdruckbeatmung durch ein
 Bekannter schwieriger Atemweg: FOI planen, ev. Videolaryngoskop
 
 
-Unerwarterer schwieriger Atemweg:
-
-
-Maskenbeatmung NEIN = NOTFALL Maske dicht? Kopfposition korrekt? Narkose tief genug?
-1) 1 Intubationsversuch OHNE RELAXIERUNG -- HILFE HOLEN, FA 2) Supraglottische Atemwegshilfen: LMA, Larynxtubus, Combitubus, Intubationslarynxmaske ILMA(Fastrach)
-3) Transtrachealer Zugang: Percutane transtracheale Jet Ventilation, Notfallkoniotomie
-
-
-Maskenbeatmung ja, Intubation NEIN:
-1) Hilfe holen, FA 2) Videolaryngoskop, Führungsdraht 3) Muallem 4) McCoy-Spatel 5) Flexible Fiberoptik (FOI)
-6) Starre Fiberoptik (Bonfil)
-7) OP in Maske/LMA möglich?
-8) Rückkehr zur Spontanatmung aufwachen lassen.
-
-
-## 29.4. Fiberoptische Wachintubation (FOI) *
-
-Indikationen: Mallampati IV, Intubationspass, Anomalien, Tumoren +  Radiatio obere Atemwege,
-Kiefersperre,
-HWS-Pathologien/Fraktur,
-morbide Adipositas,
-gescheiterte Laryngoskopie/konventionelle Intubation.
-Vorteil: erhaltene Spontanatmung, risikoarm, auch in extremen Patientenpositionen möglich Nachteil: Sichtbehinderung durch Blut/Sekret, Kardiovasculäre Reaktion, Hypoxie bei zu tiefer Sedierung, mangelnde Compliance des Patienten.
-
-
-
-
-Ablauf einer fiberoptischen Intubation:
-1) Aufklärung des Patienten (während des gesamten Vorgangs mit dem Patienten sprechen und auffordern durch den Mund zu atmen)
-2) Sedierung (kurzwirksam, Antidot): 3–5 mg Dormicum, Ultiva 4–6 ml/h 3) Anticholinergika (Atropin) 0,5 mg 4) Cocain 2% in die Nase 5) Wendel bds Nasenlöcher mit 3 Größen aufdehnen 6) Linkes Nasenloch Wendel + O₂-Line (O₂-Flow 3–6l/min mit 100%  FiO₂  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich)
-7) Rechtes Nasenloch nasaler Tubus bis ca. 13cm 8) Mit Bronchoskop über nasalen Tubus eingehen 9) Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2–3 ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB 10) Sobald in Trachea: Propofol und Esmaron spritzen 11) Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
 
 Sicherer Nachweis der korrekten Tubuslage:
 - Direkte visuelle Kontrolle
@@ -159,7 +134,7 @@ Therapie: FiO₂ und PEEP-Erhöhung + Ursache beheben
 Hyperkapnische resp. Insuff.: CO₂-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre,
 Phrenikusparese),
 Störung der neuromuskulären Weiterleitung
-(Myasthenia gravis, Muskeldystrophie, Relaxanzüberhang, Elektrolytstörung), 
+(Myasthenia gravis, Muskeldystrophie, Relaxanzüberhang, Elektrolytstörung),
 Störung der Atemmechanik
 (Hämatothorax, Pneu, Erguss, Skoliose, Serienrippe), Obstruktive AW-Erkr. (Asthma, COPD,
 Tracheomalazie), Behinderung der Atemexkursion (Adipositas, erhöhter IAP)
@@ -198,65 +173,5 @@ RAMPE:
 Normalerweise 0,2 sec; Ziel ist eine vollständige Inspiration in der Inspirationszeit mit kurzer NO-
 Flowphase vor Exspiration. Bei zu raschem Anstieg kann es zu reflektorischem Pressen mit hohem Spitzendrücken kommen.
 Flowtrigger: normalerweise 2l/min = Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung. Entscheidend ist die Einatemgeschwindigkeit!!
-
-
-
-## 29.7. Weaning *
-
-= Übertragen der Atemarbeit vom Respirator auf den Patienten.
-Prinzipiell 2 Möglichkeiten:
-- Kontinuierlich: augementierte Beatmungsformen mit stufenweiser Reduzierung
-- diskontinuierlich: T-Tube-Trials = steigende Dauer (Feuchte Nase mehrmals täglich, bei 2h, Extubation) = SBT Spontanes breathing Trial (Zeit von Anfangs 30min an feuchter Nase steigern bis 120min)
-
-Wann kann mit dem Weaning begonnen werden?
-
-Weaningkriterien:
-- Hämodynamik stabil
-- Kompensierter Infekt (kein Fieber)
-- Keine geplante OP mehr
-- Keinen ausgeprägten Meteorismus
-- Säure/Basen-Haushalt in Ordnung pH > 7,3
-- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5–10, VT ausreichend, BGA + SO² in Ordnung, RSBI\< 105 (f/VT), Atemwegsokklusionsdruck < 6
-- Elektrolyte im Normbereich (Mg, Ca, K!)
-
-Atemwegsokklusionsdruck P0,1 = Maß für den zentralen Atemantrieb unter Spontanatmung. Die Maschine verschließt für 100ms das inspiratorische Ventil und bestimmt den Druck. Normal ist 1-
-4mbar. Bei \> 6mbar Gefahr des Weaning-Versagens.
-
-Frage: Warum lässt sich der Patient nicht weanen? --
-Mögliche Ursachen eines Weaning-Versagens:
-
-- Psyche: Delir, Panik
-- Herz: KHK, Herzinsuffizienz mit Decompensation, Vitien (unter Spontanatmung steigt das preload und sinkt das afterload mit erhöhtem Sauerstoffbedarf des Herzens = kardialer Stress!)
-- Atmung:
-  - verminderte Compliance,
-  - erhöhte Resistance, erschöpfte Atemhilfsmuskulatur,
-  - paradoxe Atmung/instabiler Thorax, Rapid S.Breathing
-
-Das Weaning muss abgebrochen werden, wen die AF > 35 / min mit SO₂ < 90% bei unverändertem FiO₂ bleibt, HF > 140 / min oder < 50/min, RRsyst. > 180 oder < 70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
-Ein erfolgreiches Weaning liegt vor, wenn der Patient 48 h Spontanatmung zeigt ohne respiratorische Erschöpfung.
-
-Ursache beheben:
-- Weaning induzierte kardiale Dysfunktion: mit neu aufgetretenem Lungenödem, Ischämiezeichen im EKG, reduzierter EF. Therapie mit Entwässerung, Nitroglycerin iv 40 - 600 µg / min.
-- Überlastete Atemmuskulatur mit Schaukelatmung: mit schwachem Hustenstoss, Sekretstau, und paCO₂-Anstieg. Therapie: antiobstruktive Medikamente, Entwässerung, Pleurapunktion.
-
-Prävention: früher Spontanatemmodus, wenig Sedierung, frühe Rehabilitation.
-
-Wann kann der Patient extubiert werden? -- Extubationskriterien:
-- Screening der respiratorischen Funktion: OI > 200, PEEP 5–10 cm H₂O, wach, Schutzreflexe, keine relevanten vasoaktiven Medikamente mehr?
-- AF < 35 / min, VT ausreichend ? BGA, SO₂
-
-Eine zu frühe Extubation führt zur Reintubation, eine zu späte Extubation führt zur VAP oder Selbstextubtion.
-
-BIPAP: Sedierung stoppen, AF in 2er Schritten reduzieren, CO₂ Ansteigen lassen, PEEP erst unter 10 reduzieren, wenn FiO₂\< 0,4 ist! Zur Extubation muss der Patient wach sein, Schutzreflexe haben (husten, Aufforderung befolgen) und AF  > 5 / min sein! Keine Reduktion der Druckunterstützung, da es nur zu vermehrter Totraumventilation kommt, wenn VT < 250 ml wird!
-ASB: Druckunterstützung in 2er Schritten reduzieren bis ca. 5; Extubation des wachen Patienten mit Schutzrefelxen ev. CPAP bei PEEP > 5 mbar
-
-Weaning bei COPD: Extubation + Anschließend NIV!
-CPAP-ASB, PSV-ASB, PPS
-
-ATC = automatische Tubuscompensation RSBI (= rapid shallow breathing index): f/VT < 105 beim Weaning = hohe AF und niedriges VT mit acuter respiratorischer Azidose  = Atemzüge/min durch das Titalvolumen in Litern =  Ein Maß für das Verhältnis von Belastung und Kapazität der Atemmuskulatur.
-Smart Care: Spontanatmung im ASB-Modus
-
-Unterstützungsdruck nach Frequenz, Tidalvolumen und etCO₂ Smart Care vs. ASB im Weaning: smart care im postoperativem Einsatz gefahrlos anwendbar.
-ASB: Weaningdauer ist Personalabhängig.
 
 

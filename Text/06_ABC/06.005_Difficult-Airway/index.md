@@ -105,3 +105,22 @@ aus {term}`♛ ASA Airway 2022` \[₢ American Society of Anesthesiologists. All
 
   In Just A Routine Operation Martin talks about his experience of losing his wife during an apparently routine procedure and his hopes for making a change to practice in healthcare.
 :::
+
+
+-----
+
+
+
+Unerwarterer schwieriger Atemweg:
+
+
+Maskenbeatmung NEIN = NOTFALL Maske dicht? Kopfposition korrekt? Narkose tief genug?
+1) 1 Intubationsversuch OHNE RELAXIERUNG -- HILFE HOLEN, FA 2) Supraglottische Atemwegshilfen: LMA, Larynxtubus, Combitubus, Intubationslarynxmaske ILMA(Fastrach)
+3) Transtrachealer Zugang: Percutane transtracheale Jet Ventilation, Notfallkoniotomie
+
+
+Maskenbeatmung ja, Intubation NEIN:
+1) Hilfe holen, FA 2) Videolaryngoskop, Führungsdraht 3) Muallem 4) McCoy-Spatel 5) Flexible Fiberoptik (FOI)
+6) Starre Fiberoptik (Bonfil)
+7) OP in Maske/LMA möglich?
+8) Rückkehr zur Spontanatmung aufwachen lassen.

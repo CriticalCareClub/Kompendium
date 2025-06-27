@@ -25,6 +25,25 @@ Sie wird auch bei Patienten mit "anatomisch verformten" Atemwegen, z.B. aufgrund
 Auch bei Neugeborenen und Säuglingen kommt sie aufgrund der kleinen Atemwege und mangelnden Beweglichkeit der Halswirbelsäule häufig zum Einsatz.
 
 
+
+Indikationen
+: - Mallampati IV (sehr relativ),
+  - Intubationspass,
+  - Anomalien,
+  - Tumoren +  Radiatio obere Atemwege,
+  - Kiefersperre,
+  - HWS-Pathologien/Fraktur,
+  - morbide Adipositas,
+  - gescheiterte Laryngoskopie/konventionelle Intubation.
+
+Vorteil
+: erhaltene Spontanatmung, risikoarm, auch in extremen Patientenpositionen möglich
+
+Nachteil
+: Sichtbehinderung durch Blut/Sekret, Kardiovasculäre Reaktion, Hypoxie bei zu tiefer Sedierung, mangelnde Compliance des Patienten.
+
+
+
 :::{index} single: Wachintubation
 :::
 :::{index} single: ATI
@@ -71,6 +90,28 @@ Dann wird der Endotrachealtubus auf ein flexibles Bronchoskop aufgefädelt.
 Dieses wird dann durch die Nase des Patienten eingeführt und unter Sicht bis in die Trachea vorgeschoben.
 Ist das Bronchoskop in der Trachea angekommen, wird der Tubus über das Bronchoskop unter Sicht in seine Endposition vorgeschoben, das Bronchoskop entfernt und der Tubus fixiert.
 
+:::{important}
+Kommunikation mit dem Patienten ist der Schlüssel zu einer atraumatischen FOI.
+
+Idealerweise übernimmt eine dezidierte Person, die mit der FOI praktisch vertraut ist, die Patientenbetreuung.
+:::
+
+:::{admonition} Synopsis: Ablauf einer fiberoptischen nasalen Intubation
+1. Aufklärung des Patienten (während des gesamten Vorgangs mit dem Patienten sprechen und auffordern durch den Mund zu atmen)
+2. Sedierung (kurzwirksam, Antidot):
+   - (3–5 mg Dormicum)
+   - Remifentanil 20µg/ml 10-20 ml/h
+3. Ev. Anticholinergika (Atropin. 0,5 mg)
+4. Cocain 2% in die Nase
+5. Wendel bds Nasenlöcher mit 3 Größen aufdehnen
+6. Linkes Nasenloch Wendel + O₂-Line (O₂-Flow 3–6l/min mit 100%  FiO₂  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich))
+7. Rechtes Nasenloch nasaler Tubus bis ca. 13cm
+8. Mit Bronchoskop über nasalen Tubus eingehen
+9. Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2–3 ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB
+10. Sobald in Trachea: Propofol spritzen
+11. Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
+:::
+
 :::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171122_091000_001342px.jpg
 :width: 75%
 
@@ -89,3 +130,8 @@ Bei nasalem Zugang kann es zu Epistaxis kommen.
 
 Eine *orale* Wachintubation erfolgt sinngemäß analog zu der nasalen ATI, jedoch wird hier ein spezieller, *geschlitzter* {ref}`Guedel-Tubus <Guedel-Tubus>` verwendet, durch welchen der Tubus durchgeführt wird.
 Anschließend kann der Guedel-Tubus aufgrund seiner Öffnung ("Schlitzung") vom Tubus entfernt werden.
+
+
+-----
+
+## 29.4. Fiberoptische Wachintubation (FOI) *

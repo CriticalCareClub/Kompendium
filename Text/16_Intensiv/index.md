@@ -15,6 +15,7 @@ Im Gegensatz zum internistischen Intensivpatienten hat der anständige chirurgis
 
 :::{toctree}
 
+Weaning/index
 Darmmotilitaet/index
 Nierenersatztherapie/index
 NO/index

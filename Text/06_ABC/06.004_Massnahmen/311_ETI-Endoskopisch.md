@@ -71,7 +71,7 @@ Dann wird der Endotrachealtubus auf ein flexibles Bronchoskop aufgefädelt.
 Dieses wird dann durch die Nase des Patienten eingeführt und unter Sicht bis in die Trachea vorgeschoben.
 Ist das Bronchoskop in der Trachea angekommen, wird der Tubus über das Bronchoskop unter Sicht in seine Endposition vorgeschoben, das Bronchoskop entfernt und der Tubus fixiert.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171122_091000_001342px.jpg
+:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171122_091000_001342px.jpg
 :width: 75%
 
 Mittels unterschiedlich großer Wendl-Tuben kann das Nasenloch schrittweise dilatiert werden

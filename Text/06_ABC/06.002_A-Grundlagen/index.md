@@ -1,10 +1,19 @@
 
+
+:::{raw} latex
+\clearpage
+:::
+
+
 :::{index} single: Atemwegsmanagement
 :::
 
 (AATW-KP-WannWozu)=
+(AATW-KP-Was)=
 
-# Einleitung
+# Airway: Grundlagen
+
+
 
 Ein *freier Atemweg* ist Grundvoraussetzung für eine ausreichende Ventilation und Gastaustausch in der Lunge und somit für die Sauerstoffversorgung des Körpers und die Elimination von Kohlendioxid.
 Der Atemweg kann durch eine Vielzahl von Dingen gefährdet sein:
@@ -21,8 +30,47 @@ Dazu gehören oropharyngeale und nasopharyngeale Tuben, supraglottische Devices 
 Dabei muss man auch unterscheiden, ob ein Patent noch über eine erhaltene *Spontanatmung* verfügt und ob diese suffizient ist —
 schließlich bringt der "offenste" Atemweg keinen Benefit, wenn die notwendige Atemmechanik fehlt.
 
+
+Die Sicherung des Atemweges verfolgt im wesentlichen drei Ziele:
+
+1. Durchgängigkeit des Atemweges ("Offenhalten")
+2. Ventilation
+3. Aspirationsschutz
+
+Aus diesen Zielen ergeben sich die weiteren Maßnahmen und Hilfsmittel, welche unterschiedlich gut dabei helfen diese Ziele zu erreichen.
+
+
 Grundsätzlichen kann man zwischen *einfachen* Maßnahmen, die nach Schulung jedem Laien zumutbar sind, *geringinvasiven* und *erweiterten invasiven* Maßnahmen unterscheiden, wobei die Grenzen fließend sind.
 Jedoch ist klar, dass sich mit steigender Komplexität die Anforderungen an den Anwender und die Gefahren der Anwendung erhöhen.
+Grundsätzlich kann man unterscheiden in:
+
+1. Einfache (manuelle) Maßnahmen
+
+   - Fremdkörperentfernung
+   - Lagerungsmanöver
+     (Überstrecken des Kopfes,
+     stabile Seitenlage)
+   - Esmarch-Handgriff
+
+2. Gering-invasive Maßnahmen
+
+   - Absaugung
+   - {ref}`Nasopharyngealtubus (Wendl-Tubus) <Wendl-Tubus>`
+   - {ref}`Oropharyngealtubus (Guedel-Tubus) <Guedel-Tubus>`
+   - {ref}`Beutel-Masken-Beatmung <BeutelMaskenBeatmung>` unter Anwendung der vorgenannten einfachen und gering-invasiven Maßnahmen
+
+3. Erweiterte Maßnahmen
+
+   - Supra-/Extraglottische Hilfsmittel
+     (Larynxtubus, Larynxmaske)
+   - {ref}`Konventionelle endotracheale Intubation <ETI>`
+   - {ref}`Videolaryngoskopische endotracheale Intubation <ETI-Videolaryngoskop>`
+   - {ref}`Fiberoptische endotracheale Intubation <ETI-fiberoptisch>`
+
+4. Chirurgische Maßnahmen
+
+   - {ref}`Koniotomie <Koniotomie>`
+   - {ref}`Tracheostomie <Tracheostomie>`
 
 
 

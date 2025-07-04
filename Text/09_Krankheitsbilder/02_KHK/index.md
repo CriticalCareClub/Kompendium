@@ -2,7 +2,10 @@
 
 # Koronare Herzkrankheit (KHK)
 
-<!-- 26.1. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Koronare Herzkrankheit (KHK)** (26.1.)
+:::
 
 :::{seealso}
 Besondere Formen der Koronaren Herzkrankheit:

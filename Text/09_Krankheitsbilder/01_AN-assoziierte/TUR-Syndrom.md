@@ -9,7 +9,10 @@
 
 # TUR-Syndrom
 
-<!-- 22.1. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **TUR-Syndrom** (22.1.)
+:::
 
 = Wasserintoxikation (hypotone Hyperhydration)
 
@@ -17,7 +20,7 @@ Ursache
 : bei TURP oder Curettage Eröffnung des Venenplexus mit Absorption von > 2 L Spülflüssigkeit
 
 Folge
-: Hyponatriämie, Hyposmolarität, Hypervolämie mit Hirnödem, Lungenödem, card. Dekompensation, Hämolyse, Hypotension. 
+: Hyponatriämie, Hyposmolarität, Hypervolämie mit Hirnödem, Lungenödem, card. Dekompensation, Hämolyse, Hypotension.
 
   Hinzu kommt die toxische Wirkung der Spüllösung mit erhöhtem Glycin, BZ (Sorbitol) und Mannitol. (Vollelektrolytlösungen würden beim Kautern Verbrennungen verursachen)
 
@@ -40,7 +43,7 @@ Klinik
 : 3 Tage nach Na-Korrektur von Müdigkeit, Verwirrtheit bis Koma, Gangunsicherheit bis Tetraparese und Atemlähmung, Schluckstörung.
 
 Diagnostik
-: Anamnese, evozierte Potentiale AEP, MRI, Liquorpunktion zum Ausschluss von Infektion 
+: Anamnese, evozierte Potentiale AEP, MRI, Liquorpunktion zum Ausschluss von Infektion
 
 Therapie
 : Symptomatisch Max. 12mmol/24 h heben (häufige Laborkontrolle!!) = max. 0,5mmol/h!

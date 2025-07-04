@@ -1,6 +1,9 @@
 # Schockraum
 
-<!-- 52.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Schockraum** (52.)
+:::
 
 Kreislauf des Polytraumas
 : Hypotension → schlechte Perfusion → lokale Hypoxie → Azidose → Hypothermie + Hypokalzämie → Gerinnungsstörung → Blutungen → Hypotension ⟲

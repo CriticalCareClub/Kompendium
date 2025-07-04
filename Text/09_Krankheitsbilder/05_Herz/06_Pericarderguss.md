@@ -9,7 +9,10 @@
 
 #  Pericarderguss und Herzbeuteltamponade
 
-<!-- 44.1. -->
+<!-- -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Pericarderguss und Herzbeuteltamponade** ( 44.1.)
+:::
 
 Ursachen
 : Pericarditis (St.p. MCI), Malignom, Urämie, Infekt (bakt, viral, TBC), St.p. HTX, diss. Ao. Asc., Myxödem, Z.n. LTX, Fundoplicatio, Leberchir., ...

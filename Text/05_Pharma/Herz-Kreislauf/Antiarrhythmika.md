@@ -254,7 +254,10 @@ Kontraindikationen
 
 ## Klasse II: Betablocker
 
-<!-- 35.2. -->
+:::{todo} {issue}`142` Aust-Skriptum: Betablocker (35.2.)
+:::
+
+<!--  -->
 
 Betablocker blockieren die β-Rezeptoren des sympathischen Nervensystems, dies führt zu einer verminderten adrenergen Erregbarkeit.
 

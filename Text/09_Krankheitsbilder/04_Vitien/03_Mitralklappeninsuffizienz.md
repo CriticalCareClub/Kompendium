@@ -6,16 +6,19 @@
 :::
 :::{index} single: Vitium; Mitralklappeninsuffizienz
 :::
-:::{index} single: MKI 
+:::{index} single: MKI
 :::
 
-(Mitralklappeninsuffizienz)= 
+(Mitralklappeninsuffizienz)=
 
 # Mitralklappeninsuffizienz (MKI)
 
-<!-- 44.10.  -->
+<!--   -->
 
-Intrinsische Klappenveränderung vs. Funktionelle Insuffizienz (sekundär bei CMP und KHK). 
+:::{todo} {issue}`142` Aust-Skriptum: **Mitralklappeninsuffizienz** (44.10.)
+:::
+
+Intrinsische Klappenveränderung vs. Funktionelle Insuffizienz (sekundär bei CMP und KHK).
 Eine chronische MKI wird oft lange toleriert und führt sekundär zur PHT und TKI.
 Eine akute MKI ist ein lebensbedrohlicher Notfall: bei akuten LV-Versagen mit Lungenödem!
 (fehlende akute Kompensationsmechanismen)

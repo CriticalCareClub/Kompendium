@@ -1,6 +1,9 @@
-# Allgemeines 
+# Allgemeines
 
-<!-- 15.  -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Geburtshilfe** (15. )
+:::
 
 ## Physiologische Veränderungen in der SS
 
@@ -13,7 +16,7 @@ Respirationstrakt
 
 Kardiovaskuläres System
 : - erhöhtes Blutvolumen mit erhöhter Druck-und Volumenbelastung (va. Plasma, relative Anämie) + 35% BV, + 40% HMV, + 10% HF, erhöhter Sympathikotonus; Erhöhte Inzidenz einer SAB!
-  - Herz ist nach vorne links verlagert, 27%  geringe MI! 
+  - Herz ist nach vorne links verlagert, 27%  geringe MI!
     EKG: long QR mit erhöhtem postpartalem Risiko, ÜLT, ST-Senkungen im dritten Trimenon ohne Bedeutung
   - Diastolischer Blutdruck fällt in der Mitte der SS
     (Progesteron senkt PVR)
@@ -36,7 +39,7 @@ Gastrointestinaltrakt
 
 Niere
 : - Ab 16 SSW steigt RBF um ca. 80%, damit die GFR und Clearance um ca. 60%
-  - Kreatinin ab 16 SSW sinkt um 35—60%! 
+  - Kreatinin ab 16 SSW sinkt um 35—60%!
     Ein normales Krea ist pathologisch!
   - Vermehrt Wasser und Natriumretention (vermehrt. Tubuläre Na-Rückresorption)
   - Erhöhtes Renin, Aldosteron, Erythropoetin
@@ -65,7 +68,7 @@ Uteriner Blutfluss
 
 ## Aorto-cavales Syndrom
 
-Kompression der V. cava u/o Aorta durch das Kind in Rückenlage mit vermind. Preload, Abfall des SV und HZV mit Schocksymptomatik. 
+Kompression der V. cava u/o Aorta durch das Kind in Rückenlage mit vermind. Preload, Abfall des SV und HZV mit Schocksymptomatik.
 Autonome Gegenregulation in SPA und AN nicht wirksam!
 (Kollaterale Venen: Interossea, paravertebral, epidural Venen)
 
@@ -78,9 +81,9 @@ Prophylaxe/Therapie
 
 
 
-## Postoperative Schmerztherapie 
+## Postoperative Schmerztherapie
 
-- Morphin, Fentanyl und Hydromorphon in normaler Dosis sicher 
+- Morphin, Fentanyl und Hydromorphon in normaler Dosis sicher
 - Kurzzeitige Schmerztherapie mit Tramadol, Piritramid, Fentanyl und Morphin ist keine Einschränkung des Stillens! (Pethidin \>Morphin\>Piritramid) (Morphin:Pethidin = 1:0,1)
 - Stillzeit: Paracetamol, Ibuprufen, Indomethacin, Morphin, Fentanyl, Methadon
 
@@ -95,15 +98,15 @@ Hoher Blutverlust AN mit RSI
 
 
 
-## Fruchtwasserembolie 
+## Fruchtwasserembolie
 
 Urs. Eintritt von Fruchtwasser in den mütterlichen Blutkreislauf bei vorzeitiger Plazentalösung, Sectio oder auch Spontangeburt.
 
 Klinik
-: Lungenembolie, DIC, Uterusatonie 
+: Lungenembolie, DIC, Uterusatonie
 
 Diagnose
-: Nachweis von fetalen Anteilen (squamöse Zellen, Lanugohaare,...) im mütterl. Blut 
+: Nachweis von fetalen Anteilen (squamöse Zellen, Lanugohaare,...) im mütterl. Blut
 
 Therapie
 : symptomatisch.

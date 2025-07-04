@@ -142,7 +142,10 @@ Narkosetiefe Unzuverlässige Zeichen: Blutdruck und HF, Somatische Zeichen (Trä
 
 ## Propofol-Infusionssyndrom
 
-<!-- 18.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Propofol-Infusionssyndrom** (18.)
+:::
 
 1% Propofol ist zugelassen für Narkose \> 1Monat, und Sedierung IBS
 \> 16Lj 2% Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj

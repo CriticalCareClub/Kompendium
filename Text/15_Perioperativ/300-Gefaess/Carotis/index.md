@@ -1,6 +1,9 @@
-# Carotis OP 
+# Carotis OP
 
-<!-- 43.1.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Carotis OP** (43.1.)
+:::
 
 TEA bei Carotisstenose > 75% oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.
 Bei AN immer INVOS zum Neuromonitoring. Hypotonie vermeiden!! (Blutdruck vorm Klemmen anheben)

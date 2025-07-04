@@ -1,7 +1,10 @@
 
 #  Awareness
 
-<!-- 59. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Awareness** (59.)
+:::
 
 Tritt häufig erst nach 24-48 h auf, Patienten sagen oft nichts (Angst nicht ernst genommen zu werden), wir wollen es nicht hören, wir müssen strukturiert fragen. Ca.
 0,8-1% ?

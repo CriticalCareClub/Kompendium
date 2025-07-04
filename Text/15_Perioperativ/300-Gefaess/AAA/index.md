@@ -1,6 +1,9 @@
 # Abdominelles Aortenaneurysma (AAA)
 
-<!-- 43.2.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Abdominelles Aortenaneurysma** (43.2.)
+:::
 
 Grundsatz: Druckspitzen und extreme Druckabfälle vermeiden! Normovolämie vor Einleitung anstreben. Arterie vor dem Einleiten setzen!
 Einleitung mit Etomidate und Fentanyl empfohen (Kreislaufstabilität)

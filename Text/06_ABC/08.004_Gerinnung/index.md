@@ -10,9 +10,12 @@
 (Gerinnung)=
 (Haemostase)=
 
-# Ⓒ Kreislauf (Circulation)Gerinnung
+# Ⓒ Gerinnung
 
-<!-- 25. -->
+<!--  -->
+:::{todo} {issue}`142` Aust-Skriptum: **Gerinnung** (25.)
+:::
+
 
 Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
 
@@ -27,12 +30,12 @@ Global gesehen beträgt die  *Blutungszeit* durchschnittlich ca. 2 bis 4 Minuten
 
 Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase) und *Blutgerinnung* (sekundäre Hämostase) ab:
 
-- Aktivierung der Thrombokinase 
-- Prothrombin wird hierdurch in Thrombin umgewandelt 
-- das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin 
+- Aktivierung der Thrombokinase
+- Prothrombin wird hierdurch in Thrombin umgewandelt
+- das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin
 - Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es kommt zu einer Verfestigung des Thrombus (Retraktion)
 
-<!-- 
+<!--
 
 ----
 

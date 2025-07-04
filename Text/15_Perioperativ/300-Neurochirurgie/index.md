@@ -1,7 +1,10 @@
 #  Neurochirurgie
 
 
-<!-- 12. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Neurochirurgie** (12.)
+:::
 
 
 - Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO₂-Anstieg mit einem ICP-Anstieg kommt.

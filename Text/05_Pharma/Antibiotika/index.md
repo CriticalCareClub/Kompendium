@@ -10,7 +10,12 @@
 
 # Antibiotika
 
-<!-- 35.1. -->
+<!--  -->
+
+
+:::{todo} {issue}`142` Aust-Skriptum: Antibiotika (35.1.)
+:::
+
 
 Risiken für multiresistente Erreger: chronische Erkrankung, DM, Alkoholismus, chron.
 Organmanifestation,
@@ -31,7 +36,7 @@ Immunsupression, lebensbedrohliche Erkrankungen.
 Monotherapie oder Kombination?
 Kombination wird nur bei P. aeruginosa Infektionen/Verdacht, septischem Schock mit MOF (
 
-Laktam + Fluorchinolone) empfohlen. 
+Laktam + Fluorchinolone) empfohlen.
 Vorteil: weniger Nebenwirkungen, das zweite Antibiotikum bleibt optional.
 Dauer:
 - Einmalgabe: perioperative Prophylaxe
@@ -83,7 +88,7 @@ Legionellen-Harnschnelltest 1
 
 
 
-Präoperative AB-Prophylaxe: 30-60min vor der Inzision garantiert hohe Konzentration in den Wundrändern. 
+Präoperative AB-Prophylaxe: 30-60min vor der Inzision garantiert hohe Konzentration in den Wundrändern.
 Dauert die OP länger als 3  Stunden oder erfolgt Verdünnung durch HLM,
 Erykonzentrate sollte eine 2 Gabe erfolgen.
 
@@ -104,8 +109,8 @@ HWZ 0,5 bis 1,5h;  90%  werden unverändert renal (tubuläre Sekretion) ausgesch
 dialysierbar.
 Piperacillin wirkt auch gegen P. aeruginosa und Enterobakterien (Tazonam).
 
-Penicillin hat einen Betalactamring. 
-Dieser kann von ESBL-Keimen zerstört werden. 
+Penicillin hat einen Betalactamring.
+Dieser kann von ESBL-Keimen zerstört werden.
 Problem generell viele Resistenzen durch unkritischen AB-Einsatz
 (zu rasch, kurz, zu geringe Dosis).
 Z.B. Amoxicillin, Piperazillin, Ampicillin, Penicillin V, G
@@ -117,20 +122,20 @@ Augmentin (Amoxicillin + Clavulansäure)
 Cephalosporine I bis V Generation WS: 1 und 2 Generation +/- Kokken in 3 Generation Verschiebung in den gram- Bereich 3a ohne und 3b mit Pseudomonas.
 4 Generation: nur Cefepim = Pseudomonas, Enterobakterien, und Methicillin sensible Staph.+Strept.
 5 Gen.: nur Cefoxitin = WS auch Anerobier (Mefoxitin)
-WL: 1-4 Gen. Anaerobier, MRSA, Legionellen, Mycoplasmen Werden vorwiegend renal eleminiert. 
+WL: 1-4 Gen. Anaerobier, MRSA, Legionellen, Mycoplasmen Werden vorwiegend renal eleminiert.
 Bei Penicillin-Allergie Kreuzreaktion möglich!
 Bsp: Gr2 Cefuroxim/Curocef,
 Gr3 Ceftriaxon/Rocephin Gr4 Cefepim/Maxipime
 
 
-Aminoglykoside WS: gram -- Bkt, alle Enterobakterien, Pseudomonas aeruginosa WL: Enterokokken, Pneumokokken Sinnvoll in Kombination mit einem Betalaktam-AB oder Fluorchonolon. 
+Aminoglykoside WS: gram -- Bkt, alle Enterobakterien, Pseudomonas aeruginosa WL: Enterokokken, Pneumokokken Sinnvoll in Kombination mit einem Betalaktam-AB oder Fluorchonolon.
 Elimination fast vollständig renal = nephrotox. durch Anreicherung in den Tubuli (va. Bei Hypovolämie,
 Hypokaliämie, Hypomagn.) und ototoxisch! Aminoglykoside verstärken die Wirkung von nichtdepolarisierenden MR.
 
 
 Bsp: Gentamycin (Refobacin)
-Nur noch Einmalgaben (geringere Oto- und Nephrotox.),ausgenommen bei Endokarditis. 
-Geringe therapeutische Breite, Drugmonitoring empfohlen. 
+Nur noch Einmalgaben (geringere Oto- und Nephrotox.),ausgenommen bei Endokarditis.
+Geringe therapeutische Breite, Drugmonitoring empfohlen.
 Keine Resistenzentwicklung! Wirkt bakterizid auch unter MHK, wenn die Anfangsdosis über der MHK war.
 Nicht mit Penicillinen kombinieren, da es Betalaktamring spaltet.
 
@@ -139,7 +144,7 @@ Vancomycin, Teicoplanin (Targocid)
 
 Chininolone WS: Haemophilus influenza (hohe Konzentration im Bronchialsekret), Enterobakterien, Shigellen,
 Legionellen, Yersinien, Champylobakter, P. aeruginosa WL: Strep, Staph, Enterokokken, Anaerobier, Clostr. Diff.
-Renale Elimination. 
+Renale Elimination.
 Spitzenspiegel sind wichtig!!oNW: Diarrhöe, Vigilanzstörungen, Krampfanfälle,
 Phototox, Granulo und Thrombopenie, KI bei Kindern wegen Knorpelschäden Bsp: Ciprofloxacin/Ciproxin, Moxifloxacin/Avelox
 
@@ -186,7 +191,7 @@ Ciproxin
 
 ## Allgemeine Orientierung
 
-In diesem Kapitel werden die Medikamente gegen Bakterien behandelt. 
+In diesem Kapitel werden die Medikamente gegen Bakterien behandelt.
 Man muss generell zwei Begriffe unterscheiden:
 
 - Antibiotika: -> Medikamente die auf primär von Mikroorganismen
@@ -205,10 +210,10 @@ Einflüsse auf die Antibiotikabehandlung
 
 ### Bakterien
 
-Bakterien gehören zur Klasse der Prokaryoten und haben einen typischen Zellaufbau. 
-Im Vergleich zu eukaryonten Zellen fehlt bei Bakterien die Kernmembran. 
-Außerdem sind Nukleus, endoplasmatisches Retikulum, Golgi-Apparat, Lysosomen, Chloroplasten, Mitochondrien und Mikrotubuli nicht vorhanden. 
-Dafür haben Bakterien eine komplexe Zellhülle, die wiederum die Eukaryonten nicht besitzen. 
+Bakterien gehören zur Klasse der Prokaryoten und haben einen typischen Zellaufbau.
+Im Vergleich zu eukaryonten Zellen fehlt bei Bakterien die Kernmembran.
+Außerdem sind Nukleus, endoplasmatisches Retikulum, Golgi-Apparat, Lysosomen, Chloroplasten, Mitochondrien und Mikrotubuli nicht vorhanden.
+Dafür haben Bakterien eine komplexe Zellhülle, die wiederum die Eukaryonten nicht besitzen.
 Bakterien sind in der Größenordung von 0,2-2 µm zu finden.
 
 Unabhängig vom Bakterienchromosom können sie auch Plasmide besitzen, in denen nützliche Informationen z.B. zur Resistenz gegen Antibiotika gespeichert und auch zwischen Bakterien weitergegeben werden können.
@@ -278,7 +283,7 @@ Es gibt verschiedene Arten von Resistenz:
 - Kreuzresistenz: Unempfindlichkeit eines Bakteriums gegen eine ganze
   Gruppe von Antibiotika mit gleichem Wirkmechanismus.
 
-In einem Krankenhaus oder sonstigen pflegerischen Einrichtungen kommt es durch die multipel durchgeführte Antibiotikatherapie zur Bildung multiresistenter Keime. 
+In einem Krankenhaus oder sonstigen pflegerischen Einrichtungen kommt es durch die multipel durchgeführte Antibiotikatherapie zur Bildung multiresistenter Keime.
 Die Infektion mit so einem Bakterium ist umso schwerer zu therapieren und man muss bestimmte Hygienevorschriften befolgen (eigenes Zimmer, Schutzkleidung, Mundschutz usw.).
 
 Für die Aquirierung solcher Infektionen gibt es einige Risikofaktoren:
@@ -295,24 +300,24 @@ Bei folgenden Bakterien sind Resistenzprobleme bekannt:
 * - Bakterium
   - **Resistenz / Therapie-Empfehlung**
 * - Enterokokkus faecalis und Enterokokkus faecium
-  - Mittel der Wahl: **Aminopenicillin**  
+  - Mittel der Wahl: **Aminopenicillin**
     Selten: **Vancomycin**- und **Teicoplanin**-Resistenz
 * - Escherichia coli
   - Selten Resistenzen
 * - Klebsiellen mit ESBL (=Extended Spectrum Beta-Lactamasen)
   - Mittel der Wahl: **Imipenem, Meropenem**
 * - Pseudomonas aeruginosa
-  - Häufigster Erreger nosokomialer Infektionen!  
+  - Häufigster Erreger nosokomialer Infektionen!
     Keine Monotherapie mit Beta-Laktamantibiotika
 * - Streptokokken Gruppe A, B und C
   - Gegen Penicillin und andere Beta-Laktamantibiotika meist gut empfindlich
 * - Pneumokokken
-  - Selten Penicillin-Resistenz  
+  - Selten Penicillin-Resistenz
     → **Ceftriaxon, Cefotaxim** oder **Vancomycin**
 * - MSSA (Methicillin-empfindlicher Staphylokokkus aureus)
   - Penicillinase-festes Penicillin, Cephalosporin 1. oder 2. Generation, Aminopenicillin + Betalaktamase-Inhibitor
 * - MRSA (Methicillin-resistenter Staphylokokkus aureus)
-  - \ 1. Wahl: **Vancomycin**  
+  - \ 1. Wahl: **Vancomycin**
     Oder: **Quinupristin + Dalfopristin, Linezolid, Daptomycin**
 :::
 
@@ -327,9 +332,9 @@ Zu dieser Gruppe gehören die fünf Untergruppen:
 - Monobaktame
 - Clavulansäurederivate
 
-Sie alle haben einen gemeinsamen Grundbaustein, den Betalaktamring. 
-Sie wirken selektiv bakterizid auf sich vermehrende Bakterien. 
-Durch ihre selektive Wirkung auf Bakterienenzyme haben diese Antibiotika eine große therapeutische Breite. 
+Sie alle haben einen gemeinsamen Grundbaustein, den Betalaktamring.
+Sie wirken selektiv bakterizid auf sich vermehrende Bakterien.
+Durch ihre selektive Wirkung auf Bakterienenzyme haben diese Antibiotika eine große therapeutische Breite.
 Weil sie jedoch schon sehr lange existieren, haben Bakterien schon einige Resistenzmechanismen entwickelt.
 
 - Betalaktamasen: Enzyme von Bakterien, die den Betalaktamring spalten
@@ -467,12 +472,12 @@ Weil sie jedoch schon sehr lange existieren, haben Bakterien schon einige Resist
 
 unerwünschte Wirkungen:
 
-Als häufigste Nebenwirkung muss in dieser Gruppe die allergische Reaktion, insbesondere bei Penicillinen, genannt werden. 
+Als häufigste Nebenwirkung muss in dieser Gruppe die allergische Reaktion, insbesondere bei Penicillinen, genannt werden.
 Weiters gehören gastrointestinale Beschwerden und Gerinnungsstörungen dazu.
 
 ## Aminoglykoside
 
-Diese Antibiotikagruppe wirkt abtötend auf sowohl sich vermehrende und ruhende Bakterien. 
+Diese Antibiotikagruppe wirkt abtötend auf sowohl sich vermehrende und ruhende Bakterien.
 Nach oraler Gabe werden Aminoglykoside kaum aufgenommen, also ist die i.v. Gabe die vorherrschende Therapieform.
 Durch die schweren gehör- und nierenschädigenden Nebenwirkungen ist die therapeutische Breite eingeschränkt.
 
@@ -502,7 +507,7 @@ Aufgrund ihres breiten Wirkspektrums und der alleinigen parenteralen Verabreichu
 
 unerwünschte Wirkungen:
 
-Durch Anreicherung in der Nierenrinde wirken Aminoglykoside nephrotoxisch. 
+Durch Anreicherung in der Nierenrinde wirken Aminoglykoside nephrotoxisch.
 Weiters zeigen sich ototoxische und neurotoxische Störungen sowie Allergien und Hämatopoese-Störungen.
 
 Kontraindikationen: Niereninsuffizienz, Innenohrschäden, Schwangerschaft, Myasthenia gravis.
@@ -512,7 +517,7 @@ Um schweren Nebenwirkungen zuvorzukommen sind regelmäßige Kontrollen unabdingb
 ## Tetracycline
 
 Diese Antibiotika wirken bakteriostatisch und erreichen die Keime intra-
-sowie extrazellulär. 
+sowie extrazellulär.
 Durch das weite Wirkspektrum und die Möglichkeit der oralen Gabe sind diese Medikamente ideal zur ambulanten Behandlung von Infektionen.
 
 :::{list-table} Tetracycline
@@ -531,8 +536,8 @@ Durch das weite Wirkspektrum und die Möglichkeit der oralen Gabe sind diese Med
 
 Nebenwirkungen:
 
-Es kann zu Schleimhautschädigungen und gastrointestinalen Beschwerden kommen. 
-Wegen ihrer besonderen Wirkung auf Zähne (Gelbfärbung, Schmelzdefekte) dürfen sie während der Schwangerschaft und vor Abschluss der Zahnentwicklung (~ 9. Lebensjahr) nicht verabreicht werden. 
+Es kann zu Schleimhautschädigungen und gastrointestinalen Beschwerden kommen.
+Wegen ihrer besonderen Wirkung auf Zähne (Gelbfärbung, Schmelzdefekte) dürfen sie während der Schwangerschaft und vor Abschluss der Zahnentwicklung (~ 9. Lebensjahr) nicht verabreicht werden.
 Weiters kommen Lichtempfindlichkeit und Leber-sowie Nierenschädigungen vor.
 
 Kontraindikationen: Schwangerschaft, Stillzeit, Kinder bis 9.
@@ -541,7 +546,7 @@ Lebensjahr, Leber- und Niereninsuffizienz.
 ## Chloramphenicol (Paraxin®)
 
 Chloramphenicol wirkt bakteriostatisch auf intra- und extrazelluläre Keime und hat ausgezeichnete gewebe- und liquorgängige Eigenschaften.
-Trotz seines breiten Wirkspektrums ist es wegen seiner seltenen irreversiblen Knochenmarksschädigung ein Reserveantibiotikum. 
+Trotz seines breiten Wirkspektrums ist es wegen seiner seltenen irreversiblen Knochenmarksschädigung ein Reserveantibiotikum.
 Eingesetzt wird es zum Beispiel bei schweren Salmonelleninfektionen.
 
 Kontraindikationen: Leberfunktionsstörungen, Erkrankung des blutbildenden Systems, Schwangerschaft, Stillzeit
@@ -550,7 +555,7 @@ Kontraindikationen: Leberfunktionsstörungen, Erkrankung des blutbildenden Syste
 
 Diese Antibiotikagruppe wirkt bakteriostatisch auf Keime und hat ebenso eine gute Gewebegängigkeit, in den Liquor kann es aber nicht gelangen.
 
-Durch das penicillin-ähnliche Wirkspektrum bieten sie sich bei Penicillinunverträglichkeit an. 
+Durch das penicillin-ähnliche Wirkspektrum bieten sie sich bei Penicillinunverträglichkeit an.
 Außerdem werden sie bei diversen Atemwegserkrankungen (z. B. Tonsillitis, Sinusitis) eingesetzt und haben dadurch und wegen ihrer geringen Nebenwirkungsrate ihren Platz besonders in der Pädiatrie gefunden.
 
 :::{list-table} Makrolide
@@ -579,7 +584,7 @@ Kontraindikationen: Lebererkrankungen, Allergie
 
 ## Lincosamine
 
-Die Lincosamine sind Reserveantibiotika für schwere Infektionen, Osteomyelitiden und Abszesse. 
+Die Lincosamine sind Reserveantibiotika für schwere Infektionen, Osteomyelitiden und Abszesse.
 Sie wirken bakteriostatisch und zeigen häufig gastrointestinale Nebenwirkungen.
 
 Kontraindikationen: Allergie, Leberinsuffizienz, Säuglinge, Neugeborene
@@ -598,8 +603,8 @@ Kontraindikationen: Allergie, Leberinsuffizienz, Säuglinge, Neugeborene
 
 ## Glykopeptidantibiotika
 
-Auch diese Gruppe wind nur als Reserve verwendet. 
-Sie wirken abtötend auf vermehrende Bakterien. 
+Auch diese Gruppe wind nur als Reserve verwendet.
+Sie wirken abtötend auf vermehrende Bakterien.
 Ihre Einsatzgebiete sind schwere Infektionen z.B. des Herzens, Sepsis, Osteomyelitis.
 
 Nebenwirkungen: ototoxisch, nephrotoxisch
@@ -632,8 +637,8 @@ Nebenwirkungen: gastrointestinale Beschwerden
 
 ## Gyrasehemmer = Chinolone – Fluorchinolone
 
-Die Fluorchinolone wirken bakterizid und sind gut gewebe- und liquorgängig. 
-Sie weisen eine hohe antibakterielle Aktivität auf. 
+Die Fluorchinolone wirken bakterizid und sind gut gewebe- und liquorgängig.
+Sie weisen eine hohe antibakterielle Aktivität auf.
 Ihr klassisches Anwendungsgebiet sind diverse Harnwegsinfektionen sowie Atemwegsinfektionen.
 
 :::{list-table} Gyrasehemmer
@@ -685,14 +690,14 @@ Daher gehören Infektionen mit solchen zum Indikationsgebiet, insbesondere die A
 
 unerwünschte Wirkungen:
 
-Neben gastrointestinalen Beschwerden kann es zu einer Alkoholintoleranz kommen. 
+Neben gastrointestinalen Beschwerden kann es zu einer Alkoholintoleranz kommen.
 Außerdem wirkt es neurotoxisch.
 
 Kontraindikationen: ZNS-Erkrankungen, Störungen der Blutbildung, Schwangerschaft, Stillzeit, Leberinsuffizienz.
 
 ## Sulfonamide
 
-Diese bakteriostatischen Antibiotika werden wegen der schnellen Resistenzentwicklung nur noch selten eingesetzt. 
+Diese bakteriostatischen Antibiotika werden wegen der schnellen Resistenzentwicklung nur noch selten eingesetzt.
 In Kombination mit andern Antibiotika können sie bei Harnwegsinfektionen, Toxoplasmose, Pneumozystis-carinii-Infektion, Malaria, Typhus und Paratyphus verwendet werden.
 
 :::{list-table} Sulfonamide
@@ -701,7 +706,7 @@ In Kombination mit andern Antibiotika können sie bei Harnwegsinfektionen, Toxop
 * - Substanz
   - Handelsname(n)
 * - Sulfacarbamid
-  - 
+  -
 * - Sulfadiazin
   - Sulfadiazin®, Flammazine®
 * - Sulfadoxin + Pyrimethamin = Cotrimoxazol
@@ -735,7 +740,7 @@ Bakteriostatisches Antibiotikum als Kombinationspartner mit Sulfonamiden bei Har
 
 ## Oxazolidinone
 
-Diese Gruppe wirkt sowohl bakterizid als auch bakteriostatisch gegen verschiedene Bakteriengruppen. 
+Diese Gruppe wirkt sowohl bakterizid als auch bakteriostatisch gegen verschiedene Bakteriengruppen.
 Das Anwendungsgebiet erstreckt sich auf Pneumonien und Weichteilinfektionen.
 
 :::{list-table} Oxazolidinone
@@ -764,7 +769,7 @@ unerwünschte Wirkungen: Thrombopenie
 
 Einzeln wirken diese Pharmaka nur bakteriostatisch, gemeinsam verabreicht synergieren sie und töten Bakterien ab.
 
-Durch die bei parenteraler Verabreichung entstehende Venenreizung sollten sie nur durch den ZVK verabreicht werden. 
+Durch die bei parenteraler Verabreichung entstehende Venenreizung sollten sie nur durch den ZVK verabreicht werden.
 Das Präparat gilt als absolutes Reserveantibiotikum.
 
 ## Daptomycin (Cubicin®)
@@ -777,7 +782,7 @@ Anwendung bei komplizierten Weichteilinfektionen
 
 ## Tigecyclin (Tygacil®)
 
-Wirkt bakteriostatisch, durch die Tetrazyclinähnliche Struktur sind Nebenwirkungen und Kontraindikationen ähnlich. 
+Wirkt bakteriostatisch, durch die Tetrazyclinähnliche Struktur sind Nebenwirkungen und Kontraindikationen ähnlich.
 Anwendung bei komplizierten Infektionen von Weichteilen und Organen.
 
 
@@ -786,8 +791,8 @@ Anwendung bei komplizierten Infektionen von Weichteilen und Organen.
 
 ### Allgemeine Einführung
 
-Die Tuberkulose wird meist durch das Mycobacterium tuberculosis verursacht. 
-Da etwa ein Drittel der Menschheit infiziert sind, ist die Tuberkulose eine der häufigsten Infektionskrankheiten der Welt. 
+Die Tuberkulose wird meist durch das Mycobacterium tuberculosis verursacht.
+Da etwa ein Drittel der Menschheit infiziert sind, ist die Tuberkulose eine der häufigsten Infektionskrankheiten der Welt.
 Der Erreger ist antibiotisch schwer behandelbar und besonders Armut und schlechte hygienische Zustände tragen zur weltweiten Ausbreitung bei.
 
 :::{attention}
@@ -796,7 +801,7 @@ Tuberkulose ist bei Erkrankung und beim Todesfall meldepflichtig!
 
 Die Ziele der Tuberkulose-Therapie bestehen aus Vermeidung von Resistenzbildung, alle Formen der Mykobakterien zu behandeln und Vermeidung von Rezidiven durch Persister.
 
-Da schon in 5-10% primäre Resistenzen vorliegen und es zu einer raschen Resistenzbildung der Mykobakterien bei Monotherapie kommt, wird die Therapie nur als Kombinationstherapie verabreicht. 
+Da schon in 5-10% primäre Resistenzen vorliegen und es zu einer raschen Resistenzbildung der Mykobakterien bei Monotherapie kommt, wird die Therapie nur als Kombinationstherapie verabreicht.
 Das Standardregime besteht aus:
 
 - Initialtherapie für 2(-3) Monate:
@@ -807,19 +812,19 @@ Das Standardregime besteht aus:
 
 ### Isoniazid (Isozid®, tebesium®, Isoprodian ®)
 
-Isoniazid ist ein bakterizides Bakterium, das den bakteriellen Fettstoffwechsel und die Nukleinsäuresynthese hemmt. 
+Isoniazid ist ein bakterizides Bakterium, das den bakteriellen Fettstoffwechsel und die Nukleinsäuresynthese hemmt.
 Es ist gut gewebegängig und liquorgängig.
 
 unerwünschte Wirkungen:
 
-Im Allgemeinen ist Isoniazid gut verträglich, bei höheren Dosen kann es durch den Vitamin-B6-Antagonismus zu ZNS-Störungen und peripheren Neuropathien kommen. 
+Im Allgemeinen ist Isoniazid gut verträglich, bei höheren Dosen kann es durch den Vitamin-B6-Antagonismus zu ZNS-Störungen und peripheren Neuropathien kommen.
 Daher sollte man besonders bei Alkoholikern und Diabetikern prophylaktisch Vitamin-B6 verschreiben.
 
 Kontraindikation: Lebererkrankungen, Neuropathien, Schwangerschaft, Stillzeit
 
 ### Rifampizin (Rifa®, Eremfat ®, Rifoldin ®)
 
-Rifampizin ist wegen seiner wirkung auf die drei möglichen Formen des Tuberkelbakteriums (proliferierend, ruhend und persistierend) das Chemotherapeutikum der ersten Wahl. 
+Rifampizin ist wegen seiner wirkung auf die drei möglichen Formen des Tuberkelbakteriums (proliferierend, ruhend und persistierend) das Chemotherapeutikum der ersten Wahl.
 Es hemmt die bakterielle RNA-Polymerase.
 
 :::{attention}
@@ -828,14 +833,14 @@ Patienten auf die ev. Orangefärbung von Speichel, Tränen, Urin und Stuhl hinwe
 
 unerwünschte Wirkungen:
 
-Rifampizin ist Leber-toxisch. 
+Rifampizin ist Leber-toxisch.
 Es kann zu Grippe-artigen Beschwerden kommen.
 
 Kontraindikationen: Lebererkrankungen, Schwangerschaft, Stillzeit
 
 ### Pyrazinamid (Pyrafat®)
 
-Pyrazinamid hat durch die große pH-abhängige Wirkung starke Aktivität bei der verkäsenden Tuberkulose. 
+Pyrazinamid hat durch die große pH-abhängige Wirkung starke Aktivität bei der verkäsenden Tuberkulose.
 Es wirkt bakterizid.
 
 unerwünschte Wirkungen:
@@ -846,14 +851,14 @@ Kontraindikationen: Lebererkrankungen, Schwangerschaft, Stillzeit, Gicht, Nieren
 
 ### Streptomycin (Strepto-Fatol®)
 
-Bakterizides Bakterium mit hauptsächlich extrazellulärer Wirkung. 
+Bakterizides Bakterium mit hauptsächlich extrazellulärer Wirkung.
 Es gehört zur Gruppe der Aminoglykoside.
 
 Für Nebenwirkungen und Kontraindikationen siehe dort.
 
 ### Ethambutol (Myambutol®, Etibi®)
 
-Bakteriostatisches Bakterium, es wird wegen der langsamen Ristzenzbildung in der Standardtherapie verwendet. 
+Bakteriostatisches Bakterium, es wird wegen der langsamen Ristzenzbildung in der Standardtherapie verwendet.
 Bei Meningitis ist es auch liquorgängig.
 
 Nebenwirkung:

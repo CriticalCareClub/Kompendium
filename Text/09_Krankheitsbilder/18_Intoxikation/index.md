@@ -4,7 +4,10 @@
 
 # Intoxikationen
 
-<!-- 53. --> 
+<!-- -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Intoxikationen** ( 53.)
+:::
 
 
 Opiatüberdosierung: Substitol, Methadon, Heroin, Codidol, Tramal → Sedierung → Somnolenz →

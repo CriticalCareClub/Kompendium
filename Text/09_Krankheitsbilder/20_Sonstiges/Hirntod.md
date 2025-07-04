@@ -3,7 +3,10 @@
 
 #  Hirntod und Spenderpflege
 
-<!-- 13. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Hirntod und Spenderpflege** (13.)
+:::
 
 Hirntod = irreversibler Ausfall aller Funktionen des Großhirns, des Kleinhirns und des Hirnstammes, bei gleichzeitig erhaltener Funktion des Herz-, Kreislaufsystems. = Individualtod.
 Urs.: supra- oder infratentorielle Schädigung.
@@ -12,7 +15,7 @@ Tod muss von einem zur selbstständigen Berufsausübung berechtigten Arzt festge
 Neurologe, Neurochirurg, Intensivmediziner. (Beachte unterschiedliche Vorgehensweisen in z.B.
 Schweiz)
 
-Hirntoddiagnostik 
+Hirntoddiagnostik
 : Bei primärer (SHT,..) oder sekundärer Hirnläsion (hypox-ischäm., tox.).
   Zu einem späteren Zeitpunkt bei: Intoxikationen, Relaxation, Hypothermie, hypovolämen Schock, metabolisches oder endokrines Koma.
 
@@ -21,11 +24,11 @@ Hirntoddiagnostik
     - Nachweis des Fehlens sämtlicher Hirnstammreflexe: weite lichtstarre Pupillen, Cornealreflex, Hustenreflex, Pharyngealreflex, Masseterreflex, vestibolookulärer Reflex,...
     - schlaffe Tetraplegie
     - Atropintest: 2 mg Atropin iv = kein HF-Anstieg (Nachspülen, 2-3min Kreislaufzeit warten)
-    - **Apnoetest**: 
-      1. Ausgangs BGA mit Zielwerte paO₂ > 200, paCO₂ 35-45mmHg 
-      2. Diskonektion mit O₂-Insufflation ohne Beatmung 
-      3. BGA nach 10 Minuten  
-      4. paCO₂ \> 60mmHg → keine Spontanatmung setzt ein. (Monitoring: EKG, Pulsoxy, Blutdruck) 
+    - **Apnoetest**:
+      1. Ausgangs BGA mit Zielwerte paO₂ > 200, paCO₂ 35-45mmHg
+      2. Diskonektion mit O₂-Insufflation ohne Beatmung
+      3. BGA nach 10 Minuten
+      4. paCO₂ \> 60mmHg → keine Spontanatmung setzt ein. (Monitoring: EKG, Pulsoxy, Blutdruck)
 
 
     **Spinale Reflexe** dürfen vorhanden sein!
@@ -38,15 +41,15 @@ Hirntoddiagnostik
 2.  **Ergänzende Untersuchungen**:
     - Nulllinien -- EEG (sonst sterbend, aber nicht tod!) , TCD (Pendelfluss möglich trotz Hirntod), CT-Angio
 
-3.  **Irreversibiliätsnachweis**: 
+3.  **Irreversibiliätsnachweis**:
     mittels zweiter klinischen Untersuchung nach 12h beim ERW + Kind \> 2 Jahren, 2Monate bis 2 Jahre 24 h, \< 2Monate 72 h Beobachtungszeitraum!!!!!
 
 Hirntoddiagnostik nach hochdosierten Medikamenten (zentralwirksam)
-: Stopp der Medikamente und nach 12h Spiegelkontrolle der Barbiturate. 
+: Stopp der Medikamente und nach 12h Spiegelkontrolle der Barbiturate.
   Diese mussen unter dem Cutoff-Wert (6 µg / ml) sein. Benzodiazepine werden mit 2  Ampullen Anexate vor der klinisch-neurogischen Untersuchung antagonisiert.
 
 Spenderkonditionierung
-: Intensivtherapie des Hirntoten, zur Erhaltung der Organe für den Empfänger. 
+: Intensivtherapie des Hirntoten, zur Erhaltung der Organe für den Empfänger.
   Ziel rasche Explantation.
 
 
@@ -60,7 +63,7 @@ Explantationskriterien
 - Verlust der Hirnstammfunktionen mit **Körpertemperatur-Regulationsstörung** mit Hypothermie:
   Wärmen auf 36-37° + Kreislaufinstabilität (Arrhythmien) und Linksverschiebung der O₂-Kurve.
 - **Soffwechselstörungen**: **Hyperglykämie** durch Ausfall der hormonellen Regelkreise (+ Erniedrigung von Cortisol, Trijodthyronin); Therapie Insulinperfusor!
-  
+
   Ziel BZ 100-150 mg%
 
 Monitoring

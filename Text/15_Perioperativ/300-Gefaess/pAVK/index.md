@@ -1,6 +1,9 @@
-# Thrombektomie/Bypassopertionen bei AVK der peripheren Gefäße: 
+# Thrombektomie/Bypassopertionen bei AVK der peripheren Gefäße
 
-<!-- 43.3.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Thrombektomie/Bypassopertionen bei AVK der peripheren Gefäße** (43.3.)
+:::
 
 Bei geplannter intraoperativen Vollheparinisierung sollte der PDK am Vortag setzen (weil sonst bei blutiger Punktion muss die OP um 12h verschoben werden!) Bei längerdauerenden Eingriffen eher ITN, PDK verbessert Durchblutung postoperativ durch Sympathikolyse! Jedoch kein PDK unter laufenden Heparinperfusor!!! Entfernung des PDK immer erst nach Gerinnungskontrolle!
 Bei nicht blutiger Punktion kann 1h nach Punktion intraoperativ eine Vollheparinisierung erfolgen.

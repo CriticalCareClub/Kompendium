@@ -9,7 +9,10 @@
 
 #  Aufwachraum
 
-<!-- 60. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Aufwachraum** (60.)
+:::
 
 Beurteilung des stationstauglichen Patienten:
 

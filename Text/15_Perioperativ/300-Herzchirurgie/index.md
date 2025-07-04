@@ -3,7 +3,12 @@
 
 # Herzchirurgie/angiographische Eingriffe
 
-<!-- 44.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Herzchirurgie/angiographische Eingriffe** (44.)
+:::
+
+
 
 :::{seealso}
 - {ref}`HOCM`

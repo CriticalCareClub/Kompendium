@@ -6,7 +6,10 @@
 
 # Patient Blood Management
 
-<!-- 25.13 -->
+<!-- -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Patient Blood Management** (25.13 )
+:::
 
 :::{seealso}
 {ref}`Blutprodukte`

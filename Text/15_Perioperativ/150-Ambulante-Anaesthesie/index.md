@@ -2,7 +2,10 @@
 
 # Ambulante Anästhesie
 
-<!-- 61. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Ambulante Anästhesie** (61.)
+:::
 
 Häufigsten ambulanten Eingriffe 3 „C" = Catarakt, CC, Curettagen.
 

@@ -2,6 +2,8 @@
 
 # Aust 45. Reanimation:   ALS
 
+:::{todo} {issue}`142` Aust-Skriptum: **ALS**
+:::
 
 - Thoraxkompressionen: Beatmung 30:2
 - Thoraxkompressionen weiterführen und DEFI-Paddels anbringen: defibrillierbarer Rhythmus

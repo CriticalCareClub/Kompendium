@@ -6,14 +6,17 @@
 :::
 :::{index} single: Vitium; Aortenklappenstenose
 :::
-:::{index} single: AKS 
+:::{index} single: AKS
 :::
 
-(Aortenklappenstenose)= 
+(Aortenklappenstenose)=
 
 # Aortenklappenstenose (AKS)
 
-<!-- 44.7. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Aortenklappenstenose** (44.7.)
+:::
 
 **KÖF < 0,8cm²**, KÖF-Index < 0,5 cm² / m² KOF; Geschwindigkeit LVOT / AK \< 0,25;  eine begleitende KHK ist mitbestimmend für das perioperative Risiko. Das HZV beeinflußt den transvalvulären Gradienten.
 Ursachen: senile Kalzifizierung ab 70 Lj., bikuspide AK des jungen Patienten.
@@ -53,14 +56,14 @@ Anästhesie
 
 Therapie
 : - *AKE* (mechanische, biologische Ersatzklappe)
-  - *TAVI* (transcatheter aortic valve implantation) 
+  - *TAVI* (transcatheter aortic valve implantation)
     {index}` <TAVI>`
-    bei hohem Alter und schweren Komorbitäten: 
-  
-    Kathetergestützes Einbringer einer Aortenklappenprothese (CORVALVE oder SAPIEN XT) über die V.femoralis oder transapikal mit kleinem Hautschnitt, es erfolgt eine Ballonvalvuloplastie mit Overpacing (HF 180/min, sistieren des aortalen Blutflusses). 
+    bei hohem Alter und schweren Komorbitäten:
+
+    Kathetergestützes Einbringer einer Aortenklappenprothese (CORVALVE oder SAPIEN XT) über die V.femoralis oder transapikal mit kleinem Hautschnitt, es erfolgt eine Ballonvalvuloplastie mit Overpacing (HF 180/min, sistieren des aortalen Blutflusses).
 
     Komplikationen: Anulusruptur, Herzbeuteltamponade, Arrhythmien, Insult, Leistenblutung.
-  - ROSS-OP: 
+  - ROSS-OP:
     {index}` <ROSS-OP>`{index}` <OP; ROSS->`
     die körpereigene Pulmonalklappe ersetzt die Aortenklappe + Homograft für Pulmonalklappenersatz
 

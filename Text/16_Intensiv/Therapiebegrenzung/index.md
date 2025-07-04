@@ -2,9 +2,12 @@
 
 
 
-#  Therapiebegrenzung/Therapierückzug 
+#  Therapiebegrenzung/Therapierückzug
 
-<!-- 63. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Therapiebegrenzung/Therapierückzug** (63.)
+:::
 
 Intensivmedizinische Fragen zur Therapiezieländerung:
 1.  Indikation:
@@ -22,7 +25,7 @@ Intensivmedizinische Fragen zur Therapiezieländerung:
     - Liegt eine beachtliche oder verbindliche Patientenverfügung vor?
     - Gibt es einen Vorsorgebevollmächtigten?
 
-Der Patientenwille ist das wichtigste Entscheidungskriterium im ethischen Kontext der Therapieentscheidungen. 
-Eine Therapiezieländerung ist dann zu erwägen, wenn eine der oben gestellten Fragen mit Unwahrscheinlich zu beantworten ist. 
-Die Beantwortung muss interdisziplinär erfolgen. 
+Der Patientenwille ist das wichtigste Entscheidungskriterium im ethischen Kontext der Therapieentscheidungen.
+Eine Therapiezieländerung ist dann zu erwägen, wenn eine der oben gestellten Fragen mit Unwahrscheinlich zu beantworten ist.
+Die Beantwortung muss interdisziplinär erfolgen.
 Maßnahmen können immer nur für den Einzelfall festgelegt werden.

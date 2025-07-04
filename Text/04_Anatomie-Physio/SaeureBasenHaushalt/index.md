@@ -38,7 +38,7 @@
 :::
 ::::
 
-Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^ph-1]. 
+Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^ph-1].
 Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
 Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
@@ -139,7 +139,10 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 
 
 
-### Aust 21. Puffersysteme
+### Puffersysteme
+
+:::{todo} {issue}`142` Aust-Skriptum: Puffersysteme (21.)
+:::
 
 Bikarbonatpuffer, Hämoglobin, Plasmaproteine, Phosphate Gleichgewichtsreaktion für Bicarbonatpuffer: HCO -
 3  + H+ ↔ H₂O + CO₂   (20:1)
@@ -203,7 +206,7 @@ Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung
 
 Therapie: Volumensubstitution, Kaliumsubstitution, Insulin,
 
--                 Azidoseausgleich erst bei pH \< 7.10!
+- Azidoseausgleich erst bei pH \< 7.10!
 
 Laktatazidose:
 -verminderte Gewebeperfusion (Schock, Sepsis, Ischämie, Typ A)
@@ -213,17 +216,19 @@ Entstehung von Laktat durch anaerobe Glykolyse (Azidose)
 -Laktat „ersetzt" Bikarbonat im Plasma Folge: Bikarbonat ↓, Anionenlücke ↑
 Therapie: Verbesserung der Gewebeperfusion (kausale Therapie),
 Absetzen der Noxe;
--                 Bikarbonatgabe? Hämodialyse?
+- Bikarbonatgabe? Hämodialyse?
 
 50% der Säure/Basen-Störungen im KH sind metabolische Alkalosen!
 
 Ursachen von metabolischen Alkalosen:
 1. Verlust von Säure (enteral)
-2. Shift von H+nach intrazellulär bei Hypokaliämie 3. Exzessive Gabe von Bikarbonat 4. Kontraktionsalkalose (Volumenkontraktion bei niedrigem Cl-)
+2. Shift von H+nach intrazellulär bei Hypokaliämie
+3. Exzessive Gabe von Bikarbonat
+4. Kontraktionsalkalose (Volumenkontraktion bei niedrigem Cl-)
 
 Zur Diagnostik muss die Anamnese (Erbrechen,...) mit Klinik (Volumenmangel?) erhoben werden.
-Die Vitalparameter und Nierenfunktionswerte (GFR) geben ebenfalls wertvolle Hinweise. Selten findet sich eine Normovolämie mit hyertensiver Blutdrucklage bei Hyperaldosteronismus,
-schwerem Kaliummangel, Lakritzeabusus,
+Die Vitalparameter und Nierenfunktionswerte (GFR) geben ebenfalls wertvolle Hinweise.
+Selten findet sich eine Normovolämie mit hyertensiver Blutdrucklage bei Hyperaldosteronismus, schwerem Kaliummangel, Lakritzeabusus,
 Cushingsyndrom oder Liddle-Syndrom.
 Typischerweise findet man eine Hypovolämie mit erniedrigtem Chlorid bei Gastrointestinalen Verlusten (Erbrechen, Magensaftdrainage,... NaCl sensitiv: Volumengabe korregiert die Alkalose),
 oder erhöhten Chloridwerten bei Diuretikaabusus.
@@ -238,25 +243,33 @@ Therapie der zugrundeliegenden Ursache der metabolischen Alkalose:
 
 
 BGA-Beurteilung:
-1) Wie hoch ist der pH? = Azidose oder Alkalose 2) Wie hoch ist das Bicarbonat?
-2) Wie hoch ist das CO₂?
-3) Metabolische oder respiratorische oder kombinierte Störung?
+1. Wie hoch ist der pH? = Azidose oder Alkalose
+2. Wie hoch ist das Bicarbonat?
+2. Wie hoch ist das CO₂?
+3. Metabolische oder respiratorische oder kombinierte Störung?
 
 
-Normalwerte: pH = 7,35--7,45 pCO₂ = 35--45 mm Hg bzw.
-4,6--6,0[ kPa ](https://de.wikipedia.org/wiki/KPa)HCO3(std) = 23--27 mmol/l BE = -2 bis +3 mmol/l)
+Normalwerte: pH = 7,35--7,45 pCO₂ = 35--45 mm Hg bzw. 4,6--6,0[ kPa ](https://de.wikipedia.org/wiki/KPa)HCO3(std) = 23--27 mmol/l BE = -2 bis +3 mmol/l)
 
 
 Analyse der respiratorischen Kompensation von metabolischen Störungen:
 \[HCO3-\] + 15 = pCO₂ (mmHg)= pH Bsp: Patient mit pH 7,20 und einem HCO3- von 14 1) pCO₂ = 29mmHg mit pH 7,29 = adäquate Kompensation 2) pCO₂ \< 29mmHg mit pH > 7,29 = zusätzliche respiratorische Alkalose 3) pCO₂ \> 29mmHg mit pH \< 7,29 = zusätzliche respiratorische Azidose Erkennen von gemischten Ursachen einer metabolischen Störung mit Hilfe der Delta/Delta-
 Analyse = Um wieviel verändert sich die Anionenlücke im Verhältnis zum Bicarbonat?
 
-Osmolarität: Maß für die Anzahl der Teilchen in einem Lösungsmittel.
-Osmolarlität: Maß für die molare Konzentration aller osmotisch aktiven Teilchen pro kg. Wasser.
-KOD: wird durch Makromoleküle an einer für diese undurchlässigen Membran, der Kapillarwand,
-hervorgerufen. KOD des Plasmas = 25-28mmHg (va.
-durch Albuminmoleküle)
-Vollelektrolytlösungen: Na \> 120mmol/l Halbelektrolytlösungen: Na 61-90mmol/l NaCl: Na 154mmol/l + Cl 154mmol/l (= nicht physiologisch!)
+Osmolarität
+: Maß für die Anzahl der Teilchen in einem Lösungsmittel.
+
+Osmolalität
+: Maß für die molare Konzentration aller osmotisch aktiven Teilchen pro kg. Wasser.
+
+KOD
+: wird durch Makromoleküle an einer für diese undurchlässigen Membran, der Kapillarwand, hervorgerufen.
+
+  KOD des Plasmas = 25-28mmHg (va. durch Albuminmoleküle)
+
+Vollelektrolytlösungen: Na \> 120mmol/l
+
+Halbelektrolytlösungen: Na 61-90mmol/l NaCl: Na 154mmol/l + Cl 154mmol/l (= nicht physiologisch!)
 
 
 

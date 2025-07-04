@@ -12,7 +12,7 @@ Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoag
 
 
 
-## 25.3. Medikamente mit Angriffspunkt in der plasmatischen Gerinnung 
+## 25.3. Medikamente mit Angriffspunkt in der plasmatischen Gerinnung
 
 - UFH = II+X  --Inhibitator, Molekulargr. 4 000–30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3 h vor elektiven Eingriffen beenden, WB 1 h
 - NMWH = va. Xa-Inhibitator, Molek. Ca. 4 000–9 000 Dalton, HWZ ca. 6 h, sc, 12 h / 24 h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2 h
@@ -32,20 +32,20 @@ Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoag
     b. DXA = direkte Faktor Xa-Inhibitatoren (Eliquis/Apixaban, Xarelto/Rivaroxaban, Edoxaban- /Lixiana)
 
 Indikationen der DOAKs
-: - **DTI**: 
-    - **Pradaxa**: Therapeutisch bei VHF mit 2 x 150 mg/d 
-  - **DXA**: 
-    - **Xarelto**: 
-    
-      Prophylaktisch 1x10 mg/d bei elektiver KTEP und HTEP. 
-      
-      Therapeutisch mit 2 x 15 mg und präventiv mit 1x20 mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern 
-    - **Eliquis**: 
-    
-      Prophylaktisch 2,5 mg po 2 x tgl nach elektiven KTEP und HTEP. 
-      
-      Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5 mg nach einer Loadingdosis von 2 x tgl. 10 mg für die ersten 7 Tage! 
-      
+: - **DTI**:
+    - **Pradaxa**: Therapeutisch bei VHF mit 2 x 150 mg/d
+  - **DXA**:
+    - **Xarelto**:
+
+      Prophylaktisch 1x10 mg/d bei elektiver KTEP und HTEP.
+
+      Therapeutisch mit 2 x 15 mg und präventiv mit 1x20 mg/d bei rezidivierenter TVT oder PE und Vorhofflimmern
+    - **Eliquis**:
+
+      Prophylaktisch 2,5 mg po 2 x tgl nach elektiven KTEP und HTEP.
+
+      Therapeutisch bei rezidiv. TVT/PE und VHF 2 x täglich 5 mg nach einer Loadingdosis von 2 x tgl. 10 mg für die ersten 7 Tage!
+
       Eine Halbierung der Dosis ist bei schwerer Niereninsuffizienz empfohlen.
     - **Lixiana** zur Thromboseprophylaxe bei orthopädischen Eingriffen
 
@@ -53,7 +53,10 @@ Indikationen der DOAKs
 
 ## Inhibitatoren der Gerinnung
 
-<!-- 25.6. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Inhibitatoren der Gerinnung** (25.6.)
+:::
 
 - **AT III** hemmt IIa, Xa, IXa, Xa, XIa,XIIa
 - Thrombomodelin hemmt Thrombin und aktiviert Protein C
@@ -61,9 +64,9 @@ Indikationen der DOAKs
 - **Protein S** ist ein Kofaktor für Protein C
 
 Faktor V-Mangel
-: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie 
+: ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie
 
-  = APC-Resistenz, da das aktivierte Protein C nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5%  der Bevölkerung in Europa sind heterozygote Träger. 
+  = APC-Resistenz, da das aktivierte Protein C nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5%  der Bevölkerung in Europa sind heterozygote Träger.
   Folgen sind TVT, PE, Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe
 
 
@@ -75,7 +78,7 @@ Normalerweise sind diese beiden Mechanismen im Gleichgewicht, sodass das Blut we
 
 Phasen der *Fibrinolyse*:
 
-- Aktivatoren in Blut und Gewebe 
+- Aktivatoren in Blut und Gewebe
 — Plasminogen wird in Plasmin umgewandelt
 — das Fibrin wird aufgelöst, der Thrombus wird resorbiert.
 
@@ -257,7 +260,7 @@ Keine i.m.-Injektionen während Cumarin-Therapie!
 ### Azetylsalicylsäure
 
 
-(ASS®, Aspirin®, Thrombo AAS®): 
+(ASS®, Aspirin®, Thrombo AAS®):
 
 (siehe dort)
 

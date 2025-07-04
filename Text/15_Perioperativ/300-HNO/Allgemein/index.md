@@ -1,6 +1,9 @@
 # Allgemeines
 
-<!-- 58.  -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **HNO** (58.)
+:::
 
 Höheres Anästhesierisiko va. bei Akuteingriffen, weil:
 Pathologie im Bereich der Atemwege mit Intubationshindernissen, behinderter Zugang zum Kopf während der OP, Blut/Sekret/Tamponade behindern Spontanatmung postoperativ, Husten unerwünscht, PONV häufiger, chron. verkühlte Kinder bei Adenoiden.

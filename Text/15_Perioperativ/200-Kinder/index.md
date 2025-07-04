@@ -2,7 +2,10 @@
 
 # Kinderanästhesie
 
-<!-- 17.  -->
+<!--   -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Kinderanästhesie** (17.)
+:::
 
 Besonderheiten bei Kind sind ein großer Kopf, geringe Hautdicke, Verdunstung = kein Kältezittern bis 6 Lj! Bei Hypothermie steigt der Sauerstoffbedarf, es kommt zur peripheren Vasodilation, NA-
 Freisetzung mit Azidose und Hypoxie, welche zur pulmonalen Vasokonstriktion mit Rechts-links-

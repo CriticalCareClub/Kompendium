@@ -1,6 +1,9 @@
 # Allgemeines
 
-<!-- 33. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Thoraxchirurgie** (33.)
+:::
 
 Das Patientenkollektiv gliedert sich im Wesentlichen in zwei Gruppen:
 
@@ -23,7 +26,7 @@ Im Mittelpunkt stehen:
 - Evaluierung der Atem- und Herz-Kreislauf-Funktion
 - Operabilität
 - Risiko von postoperativen Störungen
-- Komorbdidäten 
+- Komorbdidäten
 - Optimierung möglich (Bronchiolyse, Antibiose, Raucherentwöhnung, kardiale Therapie) ?
 
 
@@ -189,7 +192,7 @@ Aber:
 ## Intraoperatives Monitoring
 
 Standard-Überwachung bei sonst Gesunden ohne operative Besonderheiten:
-- FiO₂, Diskonnektion, 
+- FiO₂, Diskonnektion,
 - Pulsoxymetrie, EKG, Temperatur,
 - Blutdruckmanschette
 - Kapnometrie
@@ -249,7 +252,7 @@ Bei der Ein-Lungen-Beatmung wird mittels eines Doppellumentubus oder eines Bronc
   - Ösophagusresektion
   - Lobektomie
 
-> Häufigster Einsatz bei: VATS, Pneumonektomie, Oberlappenresektion, thorakales Aortenaneurysma 
+> Häufigster Einsatz bei: VATS, Pneumonektomie, Oberlappenresektion, thorakales Aortenaneurysma
 
 Die Schwere der durch die Ein-Lungen-Anästhesie entstehenden *Hypoxie* ist sehr variabel, weil zahlreiche Faktoren die *Größe der Durchblutung* der *nichtbeatmeten* Lunge bestimmen.
 
@@ -281,7 +284,7 @@ Tritt eine schwere Hypoxie auf, können *folgende Maßnahmen* durchgeführt werd
 
 Möglichkeiten:
 1. Single lumen Endobronchialtubus (länger mit kleineren Cuff für rechtsseitige Beatmung)
-2. Fogarty Katheter: zum Stilllegen eines Bronchus unter Bronchoskopischer Kontrolle 
+2. Fogarty Katheter: zum Stilllegen eines Bronchus unter Bronchoskopischer Kontrolle
 3. Arndt Bronchialblocker, Easy-blocker (EZ-Blocker)
 4. Univent Tubus SL-Tubus mit integr. Endobronchialblocker (Nachteil: high pressure cuff, Lungenkollaps oft inkomplett, Applikation von PEEP nicht möglich, Absaugen nicht möglich)
 5. Doppellumentubus (kleiner Innendurchmesser, daher zum Weaning immer umintubieren auf SLT, da Spontanatmung sonst kaum möglich!)
@@ -351,7 +354,7 @@ Re DLT: über das tracheale Lumen muss die Carina gesehen werden, über das bron
 Li DLT: über das tracheale Lumen muss die Carina und der obere blaue Teil des endobronchialen Cuffs sichtbar sein, über das bronchiale Lumen muss der linke Oberlappenbronchus (5cm ab Carina) idendifiziert werden.
 
 
-### Lungenperfusion bei Einlungenventilation 
+### Lungenperfusion bei Einlungenventilation
 
 Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77%), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23%) = Shunt!
 HPV und Hyperkapnie verschlechtern eine vorbestehende Rechtsherzinsuffizienz (Cor pulmonale!)
@@ -372,7 +375,7 @@ Rechtsseitiger Eingriff (größeres Shuntvolumen), paO₂-Abfall bei Seitenlage,
 
 ## Post-OP
 
-### Schmerztherapie 
+### Schmerztherapie
 
 - thorakale PDA zur Frühmobilisation, Sekretmobilisierung durch Verhinderung von Schonatmung (Atelektasen, Infektionen!)!
 - Oder PCA mit Opioiden, Interkostaler oder paravertebraler Block (unter Sicht durch den Chirurgen) +NSAR!
@@ -390,14 +393,17 @@ Bei Sog am Drain wird das Herz auf die leere Seite gezogen und die Coronarperfus
 
 ### Idiopathisches Lungenödem post Pneumonektomie
 
-<!-- 33.2. -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Idiopathisches Lungenödem post Pneumonektomie** (33.2.)
+:::
 
 Ursache
-: zu viel Flüssigkeit intraoperativ (lieber Vasopressor!), zu hohe Beatmungsdrücke mit Barotrauma, 
+: zu viel Flüssigkeit intraoperativ (lieber Vasopressor!), zu hohe Beatmungsdrücke mit Barotrauma,
 
 Ultimo ratio intra- und postoperativ ECMO!
 
-:::{margin} Prüfung: 
+:::{margin} Prüfung:
 
 Möglichkeiten die HPV zu vermindern: NO, Prostacyclin, volatile Anästhetika, Opioide, Hypokapnie.
 :::

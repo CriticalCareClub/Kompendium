@@ -248,8 +248,8 @@ PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wicht
 
 
 <!-- ### Section ################################################## -->
-<!-- 
-:::{index} single: 
+<!--
+:::{index} single:
 :::
 
 ()= -->
@@ -270,8 +270,8 @@ Hinweise auf ein offenes SHT sind:
 
 
 <!-- ### Section ################################################## -->
-<!-- 
-:::{index} single: 
+<!--
+:::{index} single:
 :::
 
 ()= -->
@@ -325,7 +325,7 @@ Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung d
 
 Die Gehirnerschütterung ist die leichteste Form des Schädelhirntraumas.
 Leitsymptom ist ein Trauma mit anschließender *kurzer Bewusstlosigkeit*.
-Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde Amnesie* {index}` <Amnesie; retrograde>` (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel. 
+Weiters kann es zu flüchtigen neurologischen Ausfällen kommen, es kann auch eine *retrograde Amnesie* {index}` <Amnesie; retrograde>` (Gedächtnisverlust über den Vorgang bzw. Unfall) bestehen. Eventuell klagt der Patient über Übelkeit erbrechen und Schwindel.
 Die Gehirnerschütterung zieht keine bleibenden Schäden nach sich.
 
 #### Gehirnprellung — SHT 2°
@@ -398,7 +398,10 @@ Es kann weiteres zu intrakraniellen Blutungen kommen (epidural, subdural, subara
 
 
 
-<!-- 9. Schädel Hirn Trauma -->
+<!--  -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Schädel Hirn Trauma** (9.)
+:::
 
 Schockraum:
 Glasgow coma scale GCS (max. 15 Punkte):

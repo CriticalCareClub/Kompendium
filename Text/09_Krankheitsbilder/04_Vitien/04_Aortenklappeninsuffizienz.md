@@ -8,14 +8,17 @@
 :::{index} single: AKI
 :::
 
-(Aortenklappeninsuffizienz)= 
+(Aortenklappeninsuffizienz)=
 
 # Aortenklappeninsuffizienz (AKI)
 
-<!-- 44.11. -->
+<!-- -->
+
+:::{todo} {issue}`142` Aust-Skriptum: **Aortenklappeninsuffizienz** ( 44.11.)
+:::
 
 Eine chronische AKI wird oft lange toleriert, während eine akute AKI ein lebensbedrohlicher Notfall ist!
-Ursachen einer *akuten AKI* ist die Aortendissektion (traumatisch, Bindegewebserkrankungen) und Endokarditis. 
+Ursachen einer *akuten AKI* ist die Aortendissektion (traumatisch, Bindegewebserkrankungen) und Endokarditis.
 Sie führt zum kardiogenen Schock.
 
 Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
@@ -23,11 +26,11 @@ Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
 
 Präanästhesie
 : - Schwere asymptomatische AKI mit erhaltener EF: elektive Eingriffe sind möglich
-  - Symptomatische AKI oder asymptomatische mit EF \< 30%: keine Elektiveingriffe 
-  
+  - Symptomatische AKI oder asymptomatische mit EF \< 30%: keine Elektiveingriffe
+
 Anästhesie:
   - HF hoch halten
-  - SVR niedrig halten 
-  
+  - SVR niedrig halten
+
 Therapie
 : AKE (+ Ascendensersatz bei Dissektion)

@@ -8,13 +8,16 @@
 :::{index} single: MKS
 :::
 
-(Mitralklappenstenose)= 
+(Mitralklappenstenose)=
 
 # Mitralklappenstenose (MKS)
 
-<!-- 44.9.  -->
+<!--   -->
 
-Ursache ist meist rheumatisch, bedeutendes Vitium in der SS; Symptomatisch ab < 2,5 cm² unter 1,5 cm² Dyspnoe!  
+:::{todo} {issue}`142` Aust-Skriptum: **Mitralklappenstenose** (44.9.)
+:::
+
+Ursache ist meist rheumatisch, bedeutendes Vitium in der SS; Symptomatisch ab < 2,5 cm² unter 1,5 cm² Dyspnoe!
 Die Erstmanifestation tritt oft nach Provokation auf: SS, Anämie, Sepsis,
 Thyreotoxikose.
 
@@ -34,12 +37,12 @@ Folgen:
 - Vergrößerter linker VH, häufig VHF mit Thromboembolien
 - Erhöhter PAP
 - Unterfüllter LV
-- RV-Dysfunktion 
+- RV-Dysfunktion
 
 Präanästhesie
 : - Symptomatische MKS: keine elektiven Eingriffe, ev. Ballonvalvulotomie
-  - Asymptomatische schwere MKS: interdisziplinäre Entscheidung, kardiologische Evaluierung 
-  
+  - Asymptomatische schwere MKS: interdisziplinäre Entscheidung, kardiologische Evaluierung
+
 Anästhesie
 : - Vermeide Tachykardie
   - Erhalte SVR

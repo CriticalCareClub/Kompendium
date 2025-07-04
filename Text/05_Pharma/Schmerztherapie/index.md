@@ -1,7 +1,10 @@
 
 # Schmerztherapie
 
-<!-- 7. -->
+<!--  -->
+:::{todo} {issue}`142` Aust-Skriptum: **Schmerztherapie** (7.)
+:::
+
 
 Das Ziel ist schmerzfreiheit bzw. Reduktion der Schmerzen zur Verbesserung der Lebensqualität.
 Ein interdisziplinäres Vorgehen (med, psych, sozial) wird empfohlen;  spezifische Schmerzdiagnose, Dauerschmerz braucht Dauertherapie (keine kurzwirsamen Opioide wg. Sucht),
@@ -19,8 +22,11 @@ Antidepressiva/Antiepileptika Stufe III: Nichtopioide, starke Opioide + Koanalge
 
 
 
-## 7.1. Nichtopioide
+## Nichtopioide
 
+
+:::{todo} {issue}`142` Aust-Skriptum: **Nichtopioide** (7.1. )
+:::
 
 bei Kopfschmerz, Schmerzen des Bewegungsapparats, posttraumatisch oder postoperativen Schmerzen, besonders bei Schwellung und Entzündung:
 Prostaglandinsynthese: Phospholipide  → Arachidonsäure→ COX1 +  COX2 zu Prostaglandin H2→
@@ -45,8 +51,11 @@ CNI,
 erhöhte Thrombosebereitschaft bei COXII-Hemmern mit erhöhtem Infarktrisiko und erhöhter Mortalität
 (Diclofenac, Ibuprofen, Naproxen)
 
-## 7.2. Opioide
+##  Opioide
 
+
+:::{todo} {issue}`142` Aust-Skriptum: **7.2.** (Opioide)
+:::
 
 - Schwache Opioide: Tramadol (Tramal, Adamon long ret),
 Dihydrocodein (Codidol)
@@ -129,8 +138,11 @@ Ursachen einer insuffizienten Schmerztherapie:
 Falsche Schmerzdiagnose, unterschätzte Schmerzintensität, Dosierungsintervall ist zu lang, Dosis zu niedrig, Va. Gabe von zu schwachen Opioiden aus Angst vor Toleranz, Abhängigkeit mit Entzug und Unkenntnis der Suchtgiftverordnung, Koanalgetika und erweiterten Verfahren.
 
 
-## 7.3. Nozizeptiver Schmerz: NSAR-Therapie!
+##  Nozizeptiver Schmerz: NSAR-Therapie!
 
+
+:::{todo} {issue}`142` Aust-Skriptum: **Nozizeptiver Schmerz: NSAR-Therapie!** (7.3.)
+:::
 
 Noxe  --  algogene Substanzen  --  Nozizeptoren  --  afferente Aδ+C-Fasern  --  Hinterwurzel im Rückenmark-  synaptische Umschaltung im Hinterhorn  --  Seitenstrang  --  Taktus spinothalmicus  --
 Thalamus (Tor des Schmerzbewusstseins)  -somatosensorischer Kortex + limbisches System für emotionale Antwort auf Schmerzreize.
@@ -147,7 +159,10 @@ Lokalanästhetika wirken in der umgekehrten Reihenfolge: C\>B\>Aδ\>Aβ\>Aα, dh
 
 
 
-## 7.4. Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!
+##  Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!
+
+:::{todo} {issue}`142` Aust-Skriptum: **Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!** (7.4.)
+:::
 
 
 Reizung oder Schädigung nervaler Anteile: brennend, Parästhesien, Dysästhesie, Hyperalgesie,...
@@ -198,12 +213,17 @@ Zentrale Hyperalgesie:
 Es kommt zur LTP (Langzeitpotentierung) an den nozizeptiven Synapsen = hohe Rezeptordichte mit verstärker Schmerzempfindung = wind up der AMPA-Rezeptoren (intrazellulärer Natriumanstieg) und NMDA-Rezeptoren (intrazellulärer Calciumanstieg) mit verstärker Depolarisation und Schmerzempfindung. Daher bei langen OP´s: Perfusor mit 2 mg/h Ketanest (bei ca. 70 kg) für Phantomschmerzprophylaxe bis zu 1  Woche erwägen. Intraopertive Gabe von Ketamin + Lidocain (Bolus vor Schnitt + Perfusoren) erwägen.
 
 Schmerzskalen:
-1) VAS: visuelle Analogskala 2) NRS: numerische Schätzskala 3) VRS: verbale Schätzskala (bei Fehlsichtigkeit, Somnolenz: nur Ja/nein, wenig/stark)
+1) VAS: visuelle Analogskala
+2) NRS: numerische Schätzskala
+3) VRS: verbale Schätzskala (bei Fehlsichtigkeit, Somnolenz: nur Ja/nein, wenig/stark)
 4) KUSS: kindliche Unbehagen und Schmerzskala (Fremdeinschätzung!)
-5) mBPS: modifizierte Behavioral Pain Skala beim beatmeten Patienten (Gesichtsausdruck,
-obere Extemität Bewegung,...)
+5) mBPS: modifizierte Behavioral Pain Skala beim beatmeten Patienten (Gesichtsausdruck, obere Extemität Bewegung,...)
 6)
-## 7.5. Anagosedierung/Schmerztherapie auf der Intensivstation
+
+##  Anagosedierung/Schmerztherapie auf der Intensivstation
+
+:::{todo} {issue}`142` Aust-Skriptum: **Anagosedierung/Schmerztherapie auf der Intensivstation** (7.5.)
+:::
 
 
 Prinzipiell spricht man bis 24 h von kurz, von 1  --  7 Tage von mittellanger und von  \> 7 Tage von langer Analgosedierung. Ein frühes Weaning mit Extubtion verkürzt den Intensivaufenthalt!
@@ -255,8 +275,12 @@ Sedierungsmonitoring alle 8h:
 1) RASS (Richmond agitation sedation score): Ziel vorgeben z.B. sedierter Pat. 0 bis  -2 oder Hirndrucktherapie -5; -5 ist nicht weckbar 0 ruhig und wach
 +4 wehrhaft 2) Ramsay Score: 0 wach und orientiert, 6 tiefes Koma, nicht weckbar
 
-### 7.5.1 . Delir
 
+
+###  Delir
+
+:::{todo} {issue}`142` Aust-Skriptum: **Delir** (7.5.1 .)
+:::
 
 Eines der häufigsten Probleme im Rahmen der Sedierung/Weaning ist das Delir. Es werden zwei Formen unterschieden: der agetierte delirante Patient und der in sich zurückgezogene delirante Patient. Schmerz, Stress und Störungen des Schlaf-Wach-Rhythmus sind häufige Symptome,
 welche auf der Intensivstation das Auftreten eines Delirs begünstigen. Weitere Risikofaktoren sind vorbestehende kognitive Störungen, Alkoholismus, hohes Alter, Dehydration, erhöhte Nierenfunktionsparameter, anamnestisch Zustand nach Delir.

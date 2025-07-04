@@ -29,7 +29,7 @@
 (AATW-KP-Evaluation)=
 (Thyromentaler-Abstand)=
 
-# Risikobewertung
+# Ⓐ Risikobewertung
 
 Wenn die Notwendigkeit einer Atemwegssicherung *planbar* ist, z. B. im Rahmen eines elektiven Eingriffs, ist die **Risikoeinschätzung** des Atemweges und die Ableitung einer entsprechenden **Strategie** *im Vorfeld* unbedingt und *immer* notwendig!
 Auch im Notfalls-Setting ist eine Atemwegs-Einschätzung hilfreich, um die weiteren Schritte planen und dem Team kommunizieren zu können.

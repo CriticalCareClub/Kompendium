@@ -1,4 +1,7 @@
-# Grundlagen
+
+(Breathing)=
+
+# Ⓑ wie (Be-)Atmung
 
 
 **29. Atmung**
@@ -21,7 +24,7 @@ Rechtsverschiebung (Bohr Effekt) bei Azidose, Fieber, Hyperkapnie mit leichterer
 Hüfner'sche Zahl: 1 g Hb kann (1,34–)1,39 ml O₂ binden.
 
 Hypoxämie = ↓ paO₂ (bei vermind. Hb falsch hohe Sättigungswerte).
-Zyanose = SaO₂ vermindert (zentrale Zyanose bei  \>  5g%  nicht oxygeniertem Hb).
+Zyanose = SaO₂ vermindert (zentrale Zyanose bei > 5g%  nicht oxygeniertem Hb).
 
 Respiratorischer Quotient RQ = CO₂-Produktion: Sauerstoffaufnahme = 0,8 normal
 
@@ -48,7 +51,7 @@ Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
 
 
 
-## 29.1. Compliance/Resistance: *
+## 29.1. Compliance/Resistance: 
 
 Compliance: Dehnbarkeit (Vol/Druck-Bez.) von Lunge und Thorax, 1,5 ml/mbar/Kg normal, ARDS red.
 
@@ -58,22 +61,22 @@ Sekret, ...
 Prüfung: Druck/Volumen-Kurve (Compliance) aufzeichnen können (sigmoidaler Verlauf):
 OIP: max. Alveolardehnbarkeit UIP: Alveolarverschlussdruck Linearer Teil = Spontanatmung Prüfung: Lungenvolumina (IRV, VT, ERV, RV, VK, TK, FRC) kennen!
 
-Adaption bei Belastung CO (SV x  HF) steigt + CI steigt ml/min/m²;  AMV (TV x  AF) steigt ab  \>  30 vor allem Totraumventilation mit rascher Erschöpfung.
-DO₂ steigt: DO₂ = HZV x Hb x SO₂ x 1,34 x 10 (normal 750 ml/min/m²)
-Kritischer DO₂ ist 300, darunter anerober STW;  VO₂ in Ruhe 3 ml/kg / min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO₂ um 10%)
+Adaption bei Belastung CO (SV x  HF) steigt + CI steigt ml / min / m²;  AMV (TV x  AF) steigt ab  \>  30 vor allem Totraumventilation mit rascher Erschöpfung.
+DO₂ steigt: DO₂ = HZV x Hb x SO₂ x 1,34 x 10 (normal 750 ml / min / m²)
+Kritischer DO₂ ist 300, darunter anerober STW;  VO₂ in Ruhe 3 ml / kg / min (bei Kindern und Kranken 5 x so hoch, 1°C Anstieg hebt VO₂ um 10%)
 
 **West-Zonen**: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
 Und ven. Pulm. Druck \> Alveolardruck V/Q = 0,8 (0 bei Shunt,  ∞  bei Totraumventilation) = Perfusion ist größer als die Ventilation im Durchschnitt.
 
-**Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x   x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
+**Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
 
 LaPlace-Gesetz: P=  2µ/r  Anwendung: kollabierte Alveolen habe einen kleinen Radius und ich brauche viel Druck um sie wieder zu öffnen beim Rekruitment-Manöver!
 
-**Euler-Liljestrand**-Mechanismus: bei herabgesetztem paO² in den Pulmonalgefäßen kommt es zur hypoxischen pulmonalen Vasokonstriktion = Ursache des Lungenödems in großer Höhe.
+**Euler-Liljestrand**-Mechanismus: bei herabgesetztem paO₂ in den Pulmonalgefäßen kommt es zur hypoxischen pulmonalen Vasokonstriktion = Ursache des Lungenödems in großer Höhe.
 Führt bei regionaler alveolärer Hypoventilation zu Vasokonstriktion mit therapieresistenter Oxygenierungsstörung. (ARDS)
 
 
-## 29.2. Bronchoskopie *
+## 29.2. Bronchoskopie 
 
 1) Starre Bronchoskopie bei massiver Hämoptoe, FK-Entfernung va. bei Kindern (Beatmung übers Bronchoskop möglich!), Lasertherapie, Trachealeingriffe, Stentplazierung,
 HNO LM.
@@ -81,10 +84,10 @@ KI: instabile oder fixierte HWS 2) Flexible Bronchoskopie bei FIO-Intubation, As
 therapeutische Sekretabsaugung, Medikamete einbringen (z.B. Surfactant, Bronchodilat.),
 Tubuslagekontrolle, Blutstillung, FK-Entfernung.
 
-Erhöhtes Risiko  bei:    PEEP  \>  10, Gerinnungsstörung, paO²  \< 70 bei FIO²\> 0,7, MAP\< 65, kardialer Pat.
-Komplikationen: Fieber (erhöhte Zytokinausschüttung), paO²-Abfall, CO²-Anstieg, ICP-Anstieg,
+Erhöhtes Risiko  bei:    PEEP  \>  10, Gerinnungsstörung, paO₂ < 70 bei FIO₂ > 0,7, MAP < 65, kardialer Pat.
+Komplikationen: Fieber (erhöhte Zytokinausschüttung), paO₂-Abfall, CO₂-Anstieg, ICP-Anstieg,
 Kreislaufdepression oder Blutdruckkrisen bei unzureichender Sedierung,
-Laryngo/Bronchospasmus, Mukosaläsionen, Resorptionsatelektasen durch hohen FIO², erhöhter Auto-PEEP mit Barotrauma.
+Laryngo/Bronchospasmus, Mukosaläsionen, Resorptionsatelektasen durch hohen FIO₂, erhöhter Auto-PEEP mit Barotrauma.
 
 
 Prüfung: Aufbau Lunge grob aufzeichenen können! (Was sieht man bei der Bronchoskopie?)
@@ -106,14 +109,14 @@ Sicherer Nachweis der korrekten Tubuslage:
 
 Therapie Postextubations-Stridor: Vernebeln 5 mg Adrenalin in NaCl + 0,5 mg / kg Dexamethason iv.
 
-(760 Atmosphärendruck  --  47 Wasserdampfdruck in den Atemwegen) x FIO² = piO²
+(760 Atmosphärendruck  --  47 Wasserdampfdruck in den Atemwegen) x FIO₂ = piO₂
 (inspiratorischer Sauerstoffpartialdruck)
 
-piO² - paCO²            = ca. 100mmHg    = Alveolargasgleichung = PAO² = Sauerstoffpartialdruck in den 0,8 resp. Quotient                                                                                              Alveolen
+piO₂ - paCO₂            = ca. 100mmHg    = Alveolargasgleichung = paO₂ = Sauerstoffpartialdruck in den 0,8 resp. Quotient                                                                                              Alveolen
 
-Wenn FIO² auf 100% erhöht wird, dann kann der PAO² auf max.
+Wenn FIO₂ auf 100% erhöht wird, dann kann der paO₂ auf max.
 680mmHg gesteigert werden.
-AaDO² = Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei alveolo-kapillärer Gasaustauschstörung.
+AaDO₂ = Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei alveolo-kapillärer Gasaustauschstörung.
 
 
 

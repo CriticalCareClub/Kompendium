@@ -6,7 +6,7 @@
 
 (AATW-KP-Difficult-Airway)=
 
-# Schwieriger Atemweg
+# Ⓐ Schwieriger Atemweg
 
 Der Begriff **"schwieriger Atemweg"** (*Difficult Airway*) bezeichnet eine Situation, in welcher mit den zur Verfügung stehenden Resourcen nicht zeitnah und mit hoher Sicherheit die Schaffung möglich ist.
 

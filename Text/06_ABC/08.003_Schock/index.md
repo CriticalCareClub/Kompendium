@@ -2,7 +2,7 @@
 (GSCH)=
 (GSCH-SE-Schock-Definition)=
 
-# Schock
+# Ⓒ Kreislauf (Circulation) Schock
 
 :::{todo}
 

@@ -4,7 +4,7 @@
 (beatmungassistiert)=
 (beatmungkontrolliert)=
 
-# Beatmung
+# Ⓑ Beatmung
 
 
 :::{toctree}

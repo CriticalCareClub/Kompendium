@@ -1,7 +1,7 @@
 (ARMO)=
 
 
-# Respiratorisches Monitoring
+# Ⓑ Respiratorisches Monitoring
 
 :::{sectionauthor} Sebastian GABRIEL <sebastian.gabriel@criticalcare.at.at>
 :::

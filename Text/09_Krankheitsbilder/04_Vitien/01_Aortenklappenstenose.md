@@ -33,7 +33,7 @@ Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
 
 
 Folgen
-: - konzentrische Ventrikelhypertrophie ohne Änderung des Lumens mit erhöhtem VO²
+: - konzentrische Ventrikelhypertrophie ohne Änderung des Lumens mit erhöhtem VO₂
   - LVEDP erhöht = Gefahr der Myokardischämie
   - CO fixiert (kann nicht gesteigert werden)
   - diastolische Funktionsstörung

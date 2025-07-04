@@ -156,7 +156,7 @@ Postoperative Schmerztherapie bei TE/AT: 0,1-0,15 mg / kg Dipidolor bei Ei
 
 
 
-TE/AT: TIVA mit Propofol + Ultiva 0,3 µg / kg / min + Spiraltubus oder Spiral LM (wird nur mit Mundspatel fixiert), Kind spontanatmend in stabiler Seitenlage mit liegender LM und O²-
+TE/AT: TIVA mit Propofol + Ultiva 0,3 µg / kg / min + Spiraltubus oder Spiral LM (wird nur mit Mundspatel fixiert), Kind spontanatmend in stabiler Seitenlage mit liegender LM und O₂-
 Insufflation in den Aufwachraum legen
 = schmerzfrei, weniger schreien = weniger Nachblutungen.
 

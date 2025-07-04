@@ -245,7 +245,7 @@ Klinik
 
 
 Labor
-: D-Dimer erhöht (normal  \<  0,5ng/dl), CO₂ normal trotz Hyperventilation oder erhöht, AaDO² erhöht.
+: D-Dimer erhöht (normal  \<  0,5ng/dl), CO₂ normal trotz Hyperventilation oder erhöht, AaDO₂ erhöht.
 
 EKG
 : P-Pulmonale (hoch spitz), Sinustachykardie, RSB, VHF, V1-4 ST-Streckenveränderungen
@@ -286,6 +286,6 @@ Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK
 
 Mikrofettembolie
 : **Pallakos-Reaktion** beim *Zementieren* einer HTEP oder KTEP:
-  = Blutdruckabfall, Herzfrequenzanstieg mit sinkendem SaO²
+  = Blutdruckabfall, Herzfrequenzanstieg mit sinkendem SaO₂
   - Ursache: allergisch-toxische Myokarddepression, Mikrofettembolie der Lunge oder Luftembolie, allergische Reaktion mit Histaminfreisetzung.
-  - Therapie: 100% FIO² beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100% FIO² bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin, Dobutrex-Perfusor.
+  - Therapie: 100% FIO₂ beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100% FIO₂ bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin, Dobutrex-Perfusor.

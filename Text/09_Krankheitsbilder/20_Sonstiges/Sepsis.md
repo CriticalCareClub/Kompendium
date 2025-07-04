@@ -45,7 +45,7 @@ LPS gram. neg. Bakterien führt zur Freisetzung von TNF, IL 1,2,6,8,12, Interfer
 
 
 Labor:
-- Verlauf der ScvO²  ist entscheident, nicht Absolutwerte. (Steigt bei fehlender Ausschöpfung)
+- Verlauf der ScvO₂  ist entscheident, nicht Absolutwerte. (Steigt bei fehlender Ausschöpfung)
 - Laktatwerte zeigen das Ausmaß  des Schocks/Hypoperfusion des Gewebes und spiegelt auch Therapie-Response wieder. (Geschwindigkeit der Laktatveränderung ist entscheident)
   Ziel sollte immer eine rasche Normalisierung des Laktats sein!
 
@@ -57,7 +57,7 @@ Funktionsstörungen:
 - Hyperdynamer Kreislauf mit CI \> 4 l/min/m², HZV steigt dem SVR entsprechend nicht adäquat an (Hypotonie, Tachykardie)
 - reduzierter SVR  \<  800 durch Vasodilatation (NO) und Dichteabnahme der alpha-Adrenozeptoren
 - negative Inotropie (septische CMP) mit ventrikulären Dyskinesien, red. EF durch myokardial depressend factor (= TNF alpha)
-- Störung der Gewebeoxygenierung/O₂-Extraktion: vergrößerte Diffusionsstrecke durch Ödeme, Entkoppelung der oxidativen Phosphorilierung = zytopathologische Hypoxie: ScvO² ist durch verminderte Extraktion vergrößert
+- Störung der Gewebeoxygenierung/O₂-Extraktion: vergrößerte Diffusionsstrecke durch Ödeme, Entkoppelung der oxidativen Phosphorilierung = zytopathologische Hypoxie: ScvO₂ ist durch verminderte Extraktion vergrößert
 - capillary leak: Hypovolämie, generalisierte Ödeme
 - erhöhte Darmpermeabilität mit bakt. Translokalisation
 - prärenales ANV
@@ -67,7 +67,7 @@ Funktionsstörungen:
 Monitoring:
 - Arterie
 - PICCO (CI, SVR, SVV, ITBV u. EVLW) oder Pulmi (PCWP), ZVD (wenn mittels TEE optimaler Wert festgelegt wurde)
-- Mikrozirkulation: ScvO² + Laktatveränderungen + klinisches Bild (Marmorierte Haut, blaue Akren!) Druck (MAP) ist nicht Fluss (Mikrozirkulation)
+- Mikrozirkulation: ScvO₂ + Laktatveränderungen + klinisches Bild (Marmorierte Haut, blaue Akren!) Druck (MAP) ist nicht Fluss (Mikrozirkulation)
 - Labor: BK, Abstriche, BB, CRP, PCT, IL6, NFP, LFP, Gerinnung inkl. ATIII und Thrombozyten, Laktat, Glucose, Phosphat Kapilläre Perfusion ist von MAP und Umgebungsdruck (Ödeme) abhängig!
 
 
@@ -75,11 +75,11 @@ Monitoring:
 ## 27.2. Therapie der Sepsis
 
 Hämodynamischer Support:
-- Flüssigkeit: 30 ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO², HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
+- Flüssigkeit: 30 ml/kg  Kristalloide (kein NaCl wg. hyperchlorämischen Azidose) und Gelatine; Volumen bis zu dem Punkt, wo das HZV nicht mehr steigt! (Hautkolorid, Hauttemp, Recap. Zeit, Laktatspiegel, ScvO₂, HF, MAP,...)  →  Ziel Normalisierung des Laktats. Humanalbumin-Einsatz bei hohem Bedarf.
   KEIN HES bei schwerer Sepsis/septischem Schock. Gelatine erwägen.
 - Kein NaBIC bei pH \> 7,15
 - Vasokonstriktoren (MAP \> 65 bei alten Patienten oft 70 bis 75 für Nierenperfusion nötig): Erste Wahl ist Noradrenalin, dann Vasopressin bis zu 0,03U/min. Bei persistierendem Schock trotz maximaler Therapie kann Hydrocortison kontinuierlich verabreicht werden, jedoch \< 200 mg/d (sonst immunsupressiv), absetzen wenn nach 24 h keine Reduktion der Katecholamine möglich ist. →Ziel ist ein normaler Cardiac Index mit MAP 65-85mmHg
-- Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output, CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO²  durch Steigerung von HZV/Hb/SaO² durch Inotropika, Erythrozytenkonzentrate, Oxygenierung.
+- Inotropika: Simtax, Suprarenin, Dobutamin nur bei myokardialer Dysfunktion mit low output, CI nicht  über dem Normbereich anheben, cave Tachykardie!  \"killt die Alten\";  Dopamin ist uneffektiv zur Vermeidung von ANV und zur Darmprotektion. Steigern von DO₂  durch Steigerung von HZV/Hb/SaO₂ durch Inotropika, Erythrozytenkonzentrate, Oxygenierung.
 
 
 
@@ -109,11 +109,11 @@ danach erhöhten Kalorienbedarf berücksichtigen.
 Sedierung: so wenig wie möglich, keine Relaxierung,
 Spontanatemmodus.
 
-**Laktatazidose** ist Ausdruck VO² \> DO² bei inadäquater DO² oder erhöhtem O² Verbrauch!
-DO²= HZV x Hb x SaO² x 0,003 x paO²x1,3Hüfnersche Zahl Flussmonitoring im Schock  durch SvO²  (PAK): ScvO²  (ZVK) = Mass für den Sauerstoffverbrauch.
+**Laktatazidose** ist Ausdruck VO₂ \> DO₂ bei inadäquater DO₂ oder erhöhtem O₂ Verbrauch!
+DO₂= HZV x Hb x SaO₂ x 0,003 x paO₂x1,3Hüfnersche Zahl Flussmonitoring im Schock  durch SvO₂  (PAK): ScvO₂  (ZVK) = Mass für den Sauerstoffverbrauch.
 
-Normalerweise ist die ScvO² kleiner als die SvO².
-Im frühen septischen Schock sind beide erniedrigt. Im Schock mit Umverteilung ins Hirn/Herz ist der ScvO²  deutlich größer als der SvO²  da keine Ausschöpfung mehr erfolgt.
+Normalerweise ist die ScvO₂ kleiner als die SvO₂.
+Im frühen septischen Schock sind beide erniedrigt. Im Schock mit Umverteilung ins Hirn/Herz ist der ScvO₂  deutlich größer als der SvO₂  da keine Ausschöpfung mehr erfolgt.
 Trends sind entscheidend nicht Absolutwerte.
 Monitoring dynamischer Werte!
 
@@ -140,7 +140,7 @@ Entscheident für das Outcome ist das Erkennen des richtigen Zeitpunkts der Volu
 
 Volumenmonitoring:
 - Klinische Beobachtung (Hautklorit, Hauttemperatur, Rekapillarisierungszeit geben Auskunft  über die Mikrozirkulation. Sie geben keine Auskunft  über den intravasalen Flüssigkeitszustand!) + Gewichtskontrolle zur realen Erfassung von Plusbilanzen
-- Laborwerte: ScvO², Laktat, Laktatclearance
+- Laborwerte: ScvO₂, Laktat, Laktatclearance
 - Makrohämodynamische Parameter: Blutdruck/MAP, Herzfrequenz
 - Dynamische und flussbezogene Parameter: TEE, PICCO mit Pulskonturanalyse (SVV)
 Volumenbedarfstest: Beine hochhalten, wenn RR steigt Volumen geben, wenn SO₂ fällt kein Volumen!
@@ -149,7 +149,7 @@ Infusionspräparate:
 =  Medikamente mit erwünschten, aber auch potenziell unerwünschten Arzneimittelwirkungen.
 Daher strenge, individuelle Indikation stellen!
 - Kristalloide zur Substitution extrazellulärer Verluste. Belasten jedoch zu 80%  primär das Interstitium als  Ödem (Risiko von abdomineller Hypertension, Lungenödem,
-mikrozirkulatorische O²-Diffusionsstörung)
+mikrozirkulatorische O₂-Diffusionsstörung)
 - Kolloide als Volumentherapie zur Aufrechterhaltung  /Wiederherstellung der kardialen Vorlast und Gewebsperfusion führen rascher zu einer Stabilisierung als Kristalloide.
 Gelatine kumuliert nicht (daher keine Dosisbegrenzung) und führt zu keiner Nierenfunktionsstörung. Guidlines 2017: Kein HES in der schweren Sepsis,
 ev. Gelatine.

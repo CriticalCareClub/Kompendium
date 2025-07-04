@@ -47,11 +47,11 @@ Messungen PAK:
    SV = 60-90 ml, SVR 900-1400, PVR 150-250
 
 Prüfung: Nenne 10 Parameter des PAK! ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP,
-PCWP, CO, SVI, SVRI, PVRI, SgvO², DO², VO²
+PCWP, CO, SVI, SVRI, PVRI, SgvO₂, DO₂, VO₂
 Klinische Bedeutung:
 - Erniedrigter ZVD/PCWP = Volumenbedarf
 - Erniedrigtes HZV = Volumen und Katecholaminbedarf
-- Erniedrigte VO² = Volumenbedarf
+- Erniedrigte VO₂ = Volumenbedarf
 
 
 ## 28.2. PICCO = Pulse Contour Cardiac Output *
@@ -77,10 +77,10 @@ dPmax: indirekte Messung über die Steilheit des Druckanstiegs in der Aorta GEDV
 
 Vorteile des PICCO: wenig invasiv, wenig Komplikationen, kontinuierliche HZV-Messung, GEDV besser als ZVD (Volumen vs. Druckmessung), ITBV korreliert gut mit SVI und CI Nachteil: Vitien beeinflussen die Ergebnisse;  SVV nicht messbar bei spontaner Atmung und Vorhofflimmern.
 
-Gemischt venöse Sättigung SgvO²  = 20-25%  niedriger als SaO²; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV, bei weniger Ausschöpfung (Schock, MOF) und bei guter Sedierung (weniger VO²).
+Gemischt venöse Sättigung SgvO₂  = 20-25%  niedriger als SaO₂; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV, bei weniger Ausschöpfung (Schock, MOF) und bei guter Sedierung (weniger VO₂).
 
-DO² = HZV x Hb x SaO²  x 1,34 x 10 =  normalerweise 750 ml/min/m² ; der kritische DO²  liegt bei 300 ml/min/m²
-VO² beträgt in Ruhe 3 ml/min/kg
+DO₂ = HZV x Hb x SaO₂  x 1,34 x 10 =  normalerweise 750 ml/min/m² ; der kritische DO₂  liegt bei 300 ml/min/m²
+VO₂ beträgt in Ruhe 3 ml/min/kg
 
 CeVOX: kontinuierliche ScvO₂-Messung über einen Standart ZVK mit CeVox-Sonde.
 LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV, SV, SVV, PPV VIGILEO: Pulskontur HZV-Messung CardioQ: Ösophageale Dopplersonde (Aorta descendens Kurve): Vorteil keine Arterie, kein ZVK CNAP: continous Non invasiv Arterial Bloodpressure mit Doppelfingermanchete

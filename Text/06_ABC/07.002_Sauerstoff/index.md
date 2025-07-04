@@ -1,7 +1,7 @@
 (o2)=
 (sauerstoff)=
 
-# Sauerstoff — O₂
+# Ⓑ Sauerstoff (O₂)
 
 ::::{only} not nosidebar
 

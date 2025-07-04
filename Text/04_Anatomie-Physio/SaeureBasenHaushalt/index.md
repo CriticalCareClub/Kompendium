@@ -192,8 +192,8 @@ Azidosen, welche durch vermehrte Bildung von Säuren zustande kommen, wie Laktat
 (Hunger) oder Ketoazidose (Diabetes), Intoxikation und chronische Niereninsuffizienz, haben eine vergrößerte Anionenlücke.
 
 
-Merke:    Bei metabolischen Störungen  ändert sich der pCO²  und BE mit dem pH, bei respiratorischen Störungen  ändert sich der pCO²  und BE gegenläufig/revers zum pH.    Eine
-Änderung des pH um 0,1 entspricht einer Änderung des pCO² von 12mmHg bzw. BE von 6.
+Merke:    Bei metabolischen Störungen  ändert sich der pCO₂  und BE mit dem pH, bei respiratorischen Störungen  ändert sich der pCO₂  und BE gegenläufig/revers zum pH.    Eine
+Änderung des pH um 0,1 entspricht einer Änderung des pCO₂ von 12mmHg bzw. BE von 6.
 
 
 Ketoazidose:

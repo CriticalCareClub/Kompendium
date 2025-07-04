@@ -4,7 +4,7 @@
 <!-- 12. -->
 
 
-- Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO²-Anstieg mit einem ICP-Anstieg kommt.
+- Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO₂-Anstieg mit einem ICP-Anstieg kommt.
 - Tubus gut fixieren!
 - Großlumige Zugänge! (PTZ > 70%, Thrombos\> 100000)
 - Kontrollierte Hyperventilation

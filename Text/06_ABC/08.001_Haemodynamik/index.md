@@ -6,8 +6,9 @@
 :::{index} single: Oxygenierung
 :::
 (GHDM-VO-Kreislauf-O2-Transport)=
+(Circulation)=
 
-# Kreislauf und Hämodynamik
+# Ⓒ wie Kreislauf und Hämodynamik
 
 :::{rubric} Oxygenation ist das Ziel der Hämodynamik
 :::

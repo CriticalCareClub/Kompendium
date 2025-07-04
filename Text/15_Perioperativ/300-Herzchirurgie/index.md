@@ -108,7 +108,7 @@ Verwirrtheit, Benommenheit)
 
 Diagnostik:
 - EKG, C/P, RR
-- Labor: BGA, HE (TropT, BNP, CK-MB) + NFP, LFP, ScvO², Laktat
+- Labor: BGA, HE (TropT, BNP, CK-MB) + NFP, LFP, ScvO₂, Laktat
 - HZV quantitative: Pulskonturanalyse PICCO, PAK
 - Echokardiographie: primär TTE, ev. TEE
 
@@ -118,7 +118,7 @@ Therapie:
 - Bei Bedarf Volumen
 - ECMO
 - Therapieziel = Verbesserung der Herzfunktion mit CI  \> 2,0/min/m², PCWP  \< 18mmHg,
-ScvO² \> 65mmHg
+ScvO₂ \> 65mmHg
 
 ## 44.5. Eingriffe im Herzkatheter in Sedoanalgesie: *
 

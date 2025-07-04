@@ -16,7 +16,7 @@
 
 (Beatmungsgeraete)=
 
-# Beatmungsgeräte
+# Ⓑ Beatmungsgeräte
 
 
 Beatmungsgeräte übernehmen maschinell die Beatmung des Patienten.

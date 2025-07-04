@@ -157,7 +157,7 @@ Weaningkriterien:
 - Keine geplante OP mehr
 - Keinen ausgeprägten Meteorismus
 - Säure/Basen-Haushalt in Ordnung pH > 7,3
-- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5–10, VT ausreichend, BGA + SO² in Ordnung, RSBI\< 105 (f/VT), Atemwegsokklusionsdruck < 6
+- Respiratorisch: suffizienter Atemapparat (z.B. bei instabilem Thorax,..), OI \> 200, PEEP 5–10, VT ausreichend, BGA + SO₂ in Ordnung, RSBI\< 105 (f/VT), Atemwegsokklusionsdruck < 6
 - Elektrolyte im Normbereich (Mg, Ca, K!)
 
 Atemwegsokklusionsdruck P0,1 = Maß für den zentralen Atemantrieb unter Spontanatmung. Die Maschine verschließt für 100ms das inspiratorische Ventil und bestimmt den Druck. Normal ist 1-

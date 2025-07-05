@@ -193,14 +193,14 @@ Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Protei
     Fettsäuren, Bilirubin, Gallensäuren, Hormonen und Vitaminen. Die
     Höhe der Albumine bestimmt maßgeblich den kolloidosmotischen Druck
     im Blut.
- 
+
   - a1-, a2-, b-Globuline: Transport von freiem Hämoglobin, Eisen,
     Vitamin B₁₂, Nebennierenrinden-Hormonen, Chylomikronen,
     Chylomikronenreste (VLDL, LDL, HDL)
- 
+
   - g-Globuline: Immunglobuline = Antikörper des Immunsystems,
     gebildet von Plasmazellen.
- 
+
     - Immunglobulin A (IgA): Abwehrvorgänge an Schleimhäuten
     - Immunglobulin D (IgD): Oberflächenrezeptor für B-Lymphozyten
     - Immunglobulin E (IgE):
@@ -234,9 +234,28 @@ Siehe {ref}`Gerinnung-Physiologie`
 
 
 
+:::{index} single: Hämoglobin
+:::
+:::{index} single: Oxyhämoglobin
+:::
+:::{index} single: Desoxyhämoglobin
+:::
+:::{index} single: Methämoglobin
+:::
+:::{index} single: Dyshämoglobin
+:::
+:::{index} single: Eisen; Hämoglobin
+:::
+:::{index} single: Carboxyhämoglobin
+:::
 
 
 (blut-sauerstofftransport)=
+(Oxyhaemoglobin)=
+(Desoxyhaemoglobin)=
+(Dyshaemoglobin)=
+(Methaemoglobin)=
+(Carboxyhaemoglobin)=
 
 ## Sauerstofftransport
 
@@ -249,7 +268,29 @@ Durch das Kreislaufsystem wird sauerstoff- und nährstoffreiches Blut gepumpt.
 Es nimmt Sauerstoff in der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem Rückweg das abzuatmende *Kohlendioxid* auf, welches zur Lunge transportiert wird.
 Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt* des Blutes.
 Dieser wird wesentlich durch den Gasaustausch, aber auch durch die Aufnahmekapazität des Blutes bestimmt.
-Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem von der Anzahl der roten Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des Blutfarbstoffes *Hämoglobin* ab.
+
+:::{figure} ../../Bilder/PD/Heme_b.00500.png
+:width: 50%
+:align: right
+
+Strukturformel von Hämoglobin
+:::
+
+Sauerstoff wird im Blut überwiegend **im gebundenen Zustand** transportiert, nur ein sehr *geringer* Teil ist physikalisch *gelöst*.
+Gebunden wird der Sauerstoff dabei an den eisenhaltigen Blutfarbstoff **Hämoglobin** in den Erythrozyten.
+Je nach Bindungszustand mit Sauerstoff unterscheidet man *sauerstoffreiches* und *hellrotes* **Oxyhämoglobin** und *sauerstoffarmes*, *dunkelrotes*, **Desoxyhämoglobin**.
+Hämoglobin besteht aus einem (zweiwertigen) eisenhaltigen Ring (Fe²⁺), dem sauerstoffbindenden Häm und dem Globin als Proteinanteil.
+**Dyshämoglobine** sind veränderte Hämoglobine, bei denen die Bindungsstelle für Sauerstoff am zentralen Eisenatom blockiert ist und die damit nicht oxygenierbar sind.
+Beim **Methämoglobin** (MetHb) ist beispielsweise das Eisenion zu *dreiwertigem* Eisen oxidiert, entsteht das Methämoglobin.
+Geht das Hämoglobin eine Bindung mit Kohlenmonoxid anstatt von Sauerstoff ein (Kohlenmonoxid hat eine höhere Bindungsaffinität als Sauerstoff zum Hämoglobin), kommt es zur Bildung von Carboxyhämoglobin, welches klassischerweise zu einer hellroten Färbung führt.
+
+Neben den Dyshämoglobinen können auch strukturelle oder quantitative Veränderungen des Hämoglobin Krankheitswert haben:
+
+- Thalassämien: Quantitative Störung der Hämoglobinketten-Synthese (verminderte oder fehlende Produktion).
+- Strukturveränderungen des Hämoglobins (Hämoglobinopathien im engeren Sinn):
+  Qualitative Störung durch Punktmutationen → veränderte Hämoglobinstruktur, Z. B. Sichelzellanämie
+
+Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem von der Anzahl der roten Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des Hämoglobins ab.
 Im arteriellen Blut sind pro Liter ca 0,2 L Sauerstoff enthalten.
 Im Normalfall werden davon nur ca. 25% vom Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System zurück.
 
@@ -268,7 +309,7 @@ Es ist jedoch wichtig zu wissen dass u. a. der {ref}`pH-Wert <PH>` die Sauerst
 Bei einer Azidose nimmt die Affinität ab (Sauerstoff wird schlechter aufgenommen, aber im Gewebe leichter abgegeben), bei einer Alkalose nimmt die Affinität zu (Sauerstoff wird leichter aufgenommen, aber im Gewebe schlechter abgegeben).
 Man kann diese Dynamik auf in einer Grafik auf einer Kurve, der *Sauerstoffbindungskurve*, darstellen.
 
-Die gesamte **Sauerstoffbindungskapazität** wird weiters neben der Bindekapazität auch von der Sauerstoffsättigung, vom Herzauswurf (Cardiac Output, CO) und der Herzfrequenz bestimmt.
+Das gesamte **Sauerstoffangebot** wird weiters neben der Bindekapazität auch von der Sauerstoffsättigung, vom Herzauswurf (Cardiac Output, CO) und der Herzfrequenz bestimmt.
 
 :::{math} Sauerstoffbindungskapazität CaO₂
 \text{CaO₂} = \text{Hb} \times 1,34 \times \text{SaO₂}

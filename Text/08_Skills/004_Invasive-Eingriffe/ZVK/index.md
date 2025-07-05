@@ -29,6 +29,7 @@ Wo steche ich meinen ZVK? Ratschläge für die Praxis:
 - Punktion nach Möglichkeit auf der Seite eines (drainierten) Pneumothorax bzw. auf der Seite eines thoraxchirurgischen Eingriffs
 - Punktion nicht im Gebiet von operierten oder gestenteten Gefäßen oder Infektionen
 - Punktion nicht in thrombosierte Gefäße
+- Prüfe den Gefäßstatus vor der Entscheidung mittels Ultraschall (Anatomie, Thromben, ...?)
 
 :::
 

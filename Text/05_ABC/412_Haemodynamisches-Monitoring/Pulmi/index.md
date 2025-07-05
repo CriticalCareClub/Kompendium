@@ -78,6 +78,8 @@ Der PAC ermöglicht die Messung von:
 - Trikuspidalinsuffizienz, Pulmonalklappenstenose
 - mechanischer Trikuspidal- oder Pulmonalklappenersatz
 
+
+
 ## Komplikationen
 
 - Komplikationen wie bei {ref}`ZVK <GEIN-KP-ZVK-Komplikationen>`
@@ -91,6 +93,7 @@ Der PAC ermöglicht die Messung von:
 - Endokardläsion,
 - Infektion va. ab 4 Tag,
 - Lungeninfarkt bei Dauerwedge.
+
 
 
 ## Bestandteile

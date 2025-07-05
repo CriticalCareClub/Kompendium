@@ -4,9 +4,14 @@
 \clearpage
 :::
 
+:::{index} single: ZVK
+:::
+:::{index} single: Venenkatheter; zentraler
+:::
 
 (GEIN-KP-ZVK)=
 (GEIN-KP-ZVK-Schleusen)=
+(ZVK)=
 
 # Anlage eines ZVK
 

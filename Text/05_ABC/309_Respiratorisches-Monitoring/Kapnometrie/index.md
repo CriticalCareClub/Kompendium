@@ -48,7 +48,9 @@ Die Kapnometrie erlaubt
 - die **Lagekontrolle** bei Intubationen (endotracheal, Larynxtuben u. ä.)
   Die Kapnographie ist *Voraussetzung* für die endotracheale Intubation
   ({term}`♛ ERC 2021 05`, {term}`🗎 Timmermann 2007`, {term}`🗎 Genzwuerker 2007`)!
-  Cave: Eine einseitige Intubation wird hierbei nicht detektiert!
+
+  Die Kapnometrie gilt als *sicheres* Intubationszeichen.
+  Cave: Eine *einseitige* Intubation wird hierbei *nicht* detektiert!
 - Rückschluss auf den **CO₂-Spiegel** im Blut (mit Einschränkungen):
   Als Faustregel gilt, dass der etCO₂-Wert bei suffizientem Kreislauf ohne
   - Ventilation-,
@@ -197,7 +199,7 @@ Zur Anwendung kann dies z. B. bei spontan atmenden, sedierten Patienten kommen
 Bei dieser Methode der CO₂-Erkennung wird der Patient durch einen Indikator mit Lackmuspapier beatmet.
 Da CO₂ einen sauren pH-Wert hat, verfärbt sich der Indikator bei jeder Ausatmung.
 Durch die Verfärbung kann eine ungefähre Aussage über die CO₂-Konzentration in der Ausatemluft getroffen werden.
-Am weitesten verbreitet ist das Modell *Easy Cap 2™* der Firma Nellcor.
+Weit verbreitet ist das Modell *Easy Cap 2™* der Firma Nellcor.
 Die Indikatorfarbe wechselt von rosa bis violett (kein CO₂ in der Inspiration) zu gelb (CO₂ in der Exspiration).
 Da Feuchtigkeit die Messung verfälschen kann ist auch hier der Einsatz eines Bakterienfilters verpflichtend.
 Eine kontinuierliche Messung ist nicht möglich.

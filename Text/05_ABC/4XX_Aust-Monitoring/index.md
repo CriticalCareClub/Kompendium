@@ -13,18 +13,11 @@ Atemfunktion:
 - BGA
 
 Kreislauf:
-- EKG mit ST-Streckenanalyse (HW: II+III, VW: I,V5), Rhythmus
-(Brady/Tachyk., VES, SVES,..)
+- EKG mit ST-Streckenanalyse (HW: II+III, VW: I,V5), Rhythmus (Brady/Tachyk., VES, SVES,..)
 - Relaxometrie: TOF
 - NIBP (oszillometrische Technik)
-- Arterie zur invasiven Blutdruckmessung: kontinuierlich, hohe Messgenauigkeit auch bei niedrigen Drücken,
-hämodyn.
-Auswirkung von Rhythmusstörungen,
-VIGILEO
-(Pulskonturanalyse), BGA, Volumenstatus (Swing); (Druckumwandler) Resonanz \< 40Hz wird die Blutdruckwelle  überlagert;  Dämpfung durch zu langes, weiches System Druckwellenweiterleitung behindert.
-- ZVK: für ZVD, Katecholamine, parenterale Ernährung (hyperosmolar), HF-Katheter, Dialyse-
-Kath, zahlreiche Medikamente. Lage: V. Jugolaris, Subclavia, Femoralis;  Lagekontrolle: 2cm vorm RH, bzw. 3 ICR, nicht tiefer als Carina. Risiko: Pneumothorax, Nervenplexusläsion mit Horner, Phrenicusparese, Plexus brachialis Läsion), Thrombose, Infektionen, Abflusshindernis
-(ICP!)
+- Arterie zur invasiven Blutdruckmessung: kontinuierlich, hohe Messgenauigkeit auch bei niedrigen Drücken, hämodyn. Auswirkung von Rhythmusstörungen, VIGILEO (Pulskonturanalyse), BGA, Volumenstatus (Swing); (Druckumwandler) Resonanz \< 40Hz wird die Blutdruckwelle  überlagert;  Dämpfung durch zu langes, weiches System Druckwellenweiterleitung behindert.
+- ZVK: für ZVD, Katecholamine, parenterale Ernährung (hyperosmolar), HF-Katheter, Dialyse-Kath, zahlreiche Medikamente. Lage: V. Jugolaris, Subclavia, Femoralis;  Lagekontrolle: 2cm vorm RH, bzw. 3 ICR, nicht tiefer als Carina. Risiko: Pneumothorax, Nervenplexusläsion mit Horner, Phrenicusparese, Plexus brachialis Läsion), Thrombose, Infektionen, Abflusshindernis (ICP!)
 -  ZVD = Druck ist nicht Volumen! Gute Korrelation zum intravalen Volumen und myokardialer Funktion ist nur beim Gesunden! (Für die Prüfung ZVD-Kurve in Gegenüberstellung zum EKG und zur Pulswelle zeichnen! + Pathologische ZVD-Kurven bei TI, TS, Tamponade, VHF!)
 - PAK, Vigileo, CardioQ, PICCO, TEE
 
@@ -38,31 +31,41 @@ Kath, zahlreiche Medikamente. Lage: V. Jugolaris, Subclavia, Femoralis;  Lagekon
 :::{todo} {issue}`142` Aust-Skriptum: **Pulmonalarterieller Katheter** (28.1.)
 :::
 
-Ind: intraoperatives Monitoring in der Herzchirurgie, bei Schock, Sepsis, schweres HF  →  Ziel ist Normovolämie mit ausreichendem Sauerstoffangebot.
-Kontraind: Gerinnungsstörung, Herzrhythmusstörungen, TI, PS,
-Vorhofthrombus Setzen:
-Ballon in der V. cava sup. aufblasen und vorschieben bis zur Wedgeposition, Ballon ablasen
-(Wedgeposition darf nur wenige Sekunden bleiben, kompletter Verschluss der PA mit PE!)
-Prüfung: Druckkurve beim Setzen des PAK aufzeichen (re VH -- re Ventrikel -- PAP -- Wedge -- PAP)
-PAK liegt in Zone 3 (maximaler Blutfluss).
-Komplikationen: Pulmonalarterienruptur, Arrhythmien (SVES + VES häufig), Thromben am Katheter, Endokardläsion, Infektion va.
-ab 4 Tag, Lungeninfarkt bei Dauerwedge.
+Ind
+: intraoperatives Monitoring in der Herzchirurgie, bei Schock, Sepsis, schweres HF  →  Ziel ist Normovolämie mit ausreichendem Sauerstoffangebot.
+
+Kontraind
+: Gerinnungsstörung, Herzrhythmusstörungen, TI, PS, Vorhofthrombus
+
+Setzen
+: Ballon in der V. cava sup. aufblasen und vorschieben bis zur Wedgeposition, Ballon ablasen (Wedgeposition darf nur wenige Sekunden bleiben, kompletter Verschluss der PA mit PE!)
+
+Prüfung
+: Druckkurve beim Setzen des PAK aufzeichen (re VH -- re Ventrikel -- PAP -- Wedge -- PAP) PAK liegt in Zone 3 (maximaler Blutfluss).
+
+Komplikationen
+: Pulmonalarterienruptur, Arrhythmien (SVES + VES häufig), Thromben am Katheter, Endokardläsion, Infektion va. ab 4 Tag, Lungeninfarkt bei Dauerwedge.
 
 
 Messungen PAK:
-1) Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter 2) HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
-3) CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75%
+1. Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter
+2. HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
+3. CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75%
    SV = 60-90 ml, SVR 900-1400, PVR 150-250
 
-Prüfung: Nenne 10 Parameter des PAK! ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP,
-PCWP, CO, SVI, SVRI, PVRI, SgvO₂, DO₂, VO₂
+:::{admonition} Prüfung
+
+Nenne 10 Parameter des PAK:
+- ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP, PCWP, CO, SVI, SVRI, PVRI, SgvO₂, DO₂, VO₂
+:::
+
 Klinische Bedeutung:
 - Erniedrigter ZVD/PCWP = Volumenbedarf
 - Erniedrigtes HZV = Volumen und Katecholaminbedarf
 - Erniedrigte VO₂ = Volumenbedarf
 
 
-##  PICCO = Pulse Contour Cardiac Output *
+##  PICCO = Pulse Contour Cardiac Output
 
 :::{todo} {issue}`142` Aust-Skriptum: **PICCO** (28.2.)
 :::
@@ -98,7 +101,7 @@ LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV,
 
 
 
-##  TEE transösophageales Echo: *
+##  TEE transösophageales Echo
 
 :::{todo} {issue}`142` Aust-Skriptum: **TEE** (28.3.)
 :::

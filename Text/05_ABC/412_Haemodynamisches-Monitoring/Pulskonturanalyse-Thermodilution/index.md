@@ -6,10 +6,22 @@
 :::
 :::{index} single: PPV
 :::
+:::{index} single: SVV
+:::
+:::{index} single: Stroke Volume Variation
+:::
+:::{index} single: Pulse Pressure Variation
+:::
+:::{index} single: Variation; Stroke Volume
+:::
+:::{index} single: Variation; Pulse Pressure
+:::
 
 (pulskonturanalyse)=
 (GHDM-VO-Pulskonturanalyse)=
 (GHDM-VO-PKThermo-Systeme)=
+(PPV)=
+(SVV)=
 
 # Pulskonturanalyse und Thermodilution
 
@@ -22,13 +34,20 @@ Die Pulskonturanalyse ermöglicht zwei Dinge:
 
    - Variation der Minima- und Maxima-Werte v. a. während des Atemzyklus (Einfluss der intrathorakalen Druckverhältnisse auf den Pulsdruck): *"Swing"* {index}` <Swing>` der Arterienkurve
    - Variationen der Pulskontur der einzelnen Schläge, insbes. des *Area under the curve* (AUC; Fläche unter der Kurve).
-     Daraus lässt sich die **Pulse Pressure Variation** (*PPV*) errechnen.
+     Daraus lässt sich die **Pulse Pressure Variation** (**PPV**) errechnen.
 
-2. Kontinuierliche Berechnung des Cardiac Outputs
+2. Herleitung des Schlagvolumens durch Zuhilfenahme der {ref}`Thermodilutionstechnik <thermodilution>`. Dies erlaubt die Ermittlung von:
 
-% Die Technik beruht auf dem Prinzip, dass ein erhöhter intrathorakaler Druck im Inspirationszyklus mechanischer Beatmungsgeräte den venösen Rückfluss und damit das Herzzeitvolumen verringert.
+   - **Variation des Schlagvolumens** während des Atemzyklus: **Stroke Volume Variation** (**SVV**)
+     Die Technik beruht auf dem Prinzip, dass ein erhöhter intrathorakaler Druck im Inspirationszyklus mechanischer Beatmungsgeräte den venösen Rückfluss und damit das Herzzeitvolumen verringert.
+     Diese Abnahme wird durch Berechnung des Herzzeitvolumens während Inspiration (Abnahme) und Exspiration (SVV) bestimmt.
+
+     Der positive Druck der Beatmung wirkt sich umso mehr aus ("die Varianz ist größer"), je geringer der Druck im Ventrikel ist und dagegen wirkt („leerer Ventrikel").
+   - Kontinuierliche Berechnung des **Cardiac Outputs** (**CO**)
+
 %
-% Diese Abnahme wird durch Berechnung des Herzzeitvolumens während Inspiration (Abnahme) und Exspiration (SVV) bestimmt.
+%
+%
 %
 % Das berechnete Herzzeitvolumen bezieht sich normalerweise auf eine vorherige Messung des Herzzeitvolumens unter Verwendung einer transpulmonalen Verdünnungstechnik.
 %

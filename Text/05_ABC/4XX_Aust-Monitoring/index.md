@@ -19,31 +19,11 @@ Kreislauf:
 
 
 
-##  PICCO = Pulse Contour Cardiac Output
-
-:::{todo} {issue}`142` Aust-Skriptum: **PICCO** (28.2.)
-:::
-
-Misst volumetrische Parameter, welche zur Einschätzung des Volumenstatus besser geeignet sind.
-Die Fläche unter dem systolischen Teil der Pulskurve bis zum Schluss der Aortenklappe (Inzisur) entspricht dem SV. HZV/CO = SV x HF
-
-Mit der Thermodilutionsmethode wird die Messung des HZV geeicht und die Flüssigkeitsvolumina berrechnet:
-- Vorlastparameter: globaler enddiastolischer Volumen Index GEDI   + ITBV intrathorakales Blutvolumen
-- Flüssigkeitsstatus/volumen: SVV Schlagvolumenvarianz und PPV Pulsdruckvariation (kontrolliert beatmet, regelmäßiger Rhythmus)
-- Nachlastparameter: SVRI systemischer Gefäßwiderstand
-- Kontraktilität des linken Herzens: dpmax
-- Lungenödem: ELWI extravaskuläre Lungenwasser 3,0-7 + PVPI pulmonalvaskuläre Permeabilitätsindex 1,0-3,0 (Capillarleak? Oder Hydrostatisches Ödem?)
-
-
 
 - Mikrozirkulation/Oxygenierung: ScvO₂  , DO₂    (errechnet aus HZV, Hb, SaO₂), VO₂ (errechnet aus HZV, Hb, SaO₂ -- ScvO₂)
 
-Um bei Hypovolämie unterscheiden zu können ob ein Flüssigkeitsmangel, Vasodilatation oder fehlende Inotropie das Problem ist, muss der PICCO geeicht werden um aktuelle Werte zu erhalten.
 
-SVV: der positive Druck der Beatmung wirkt sich umso mehr aus, je geringer der Druck im Ventrikel ist und dagegenwirkt („leerer Ventrikel").
-dPmax: indirekte Messung über die Steilheit des Druckanstiegs in der Aorta GEDV: das globale enddiastolische Volumen sollte zum SV in Beziehung gesetzt werden (Frank Starling Mechanismus)
 
-Vorteile des PICCO: wenig invasiv, wenig Komplikationen, kontinuierliche HZV-Messung, GEDV besser als ZVD (Volumen vs. Druckmessung), ITBV korreliert gut mit SVI und CI Nachteil: Vitien beeinflussen die Ergebnisse;  SVV nicht messbar bei spontaner Atmung und Vorhofflimmern.
 
 Gemischt venöse Sättigung SgvO₂  = 20-25%  niedriger als SaO₂; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV, bei weniger Ausschöpfung (Schock, MOF) und bei guter Sedierung (weniger VO₂).
 

@@ -8,7 +8,7 @@
 
 
 Atemfunktion:
-- Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O₂-Hb gemessen = falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
+
 - BGA
 
 Kreislauf:

@@ -16,12 +16,12 @@
 
 # Pulsoxymetrie
 
-Die Pulsoxymetrie ist eine einfache,
-*nicht-invasive* Untersuchungsmethode zur Ermittlung der **Sauerstoffsättigung** des Hämoglobins im kapillären Blut (*SpO₂*) und der **Pulsfrequenz**.
+Die Pulsoxymetrie ist eine einfache, *nicht-invasive* Untersuchungsmethode zur Ermittlung der **Sauerstoffsättigung** des Hämoglobins im kapillären Blut (*SpO₂*) und der **Pulsfrequenz**.
 Durchgeführt wird sie mittels eines *Pulsoxymeters*.
 
 Das Messprinzip basiert auf einer Messung der Lichtabsorption[^pulsoxywellenlaengen] bzw. der Lichtremission bei Durchleuchtung der Haut mittels eines Sensors, bestehend aus einer Lichtquelle und einem Fotosensor.
-Auf diese Weise wird das Verhältnis des mit Sauerstoff gesättigten Hämoglobins zu dem nicht gesättigtem bestimmt.
+Durch die Messung der Absorption des Lichtes auf den Wellenlängen von {ref}`Oxyhämoglobin <Oxyhaemoglobin>` und {ref}`Desoxyhämoglobin <Desoxyhaemoglobin>` wird das Verhältnis des mit Sauerstoff gesättigten Hämoglobins zu dem nicht gesättigtem bestimmt.
+Moderne Geräte können mitunter auch die Absortion der Wellenlängen von CO-Hb und Met-Hb bestimmen.
 Als weiteren Wert zeigt das Pulsoxymeter die *Pulsfrequenz* an.
 
 Die so ermittelte Sauerstoffsättigung wird als fraktionelle Sauerstoffsättigung und mit SpO₂ bezeichnet.
@@ -114,20 +114,22 @@ Es ist wichtig zu wissen dass sich die SpO₂ bei Vorliegen einer Atemstörung e
 
 Die größte Gefahr ist die falsche Interpretation von Messwerten.
 
-- Voraussetzung für eine korrekte Messung ist eine **ausreichende
-  Perfusion** der entsprechenden Messstelle, z. B. durch Kälte, Schock
-  oder auch eine Blutdruckmessung kann die Messung verfälscht oder
-  unmöglich gemacht werden.
-- Eine besondere Fehlerquelle ist die **Kohlenmonoxid-Vergiftung**.
-  Kohlenmonoxid-beladenes Blut ist ebenso hellrot wie
-  Sauerstoff-beladenes, daher wird der Patient nicht zyanotisch obwohl
-  er eigentlich zu wenig Sauerstoff hat. Das Pulsoxymeter verwechselt
-  daher folglich auch Kohlenmonoxid mit Sauerstoff und zeigt falsch
-  hohe Werte an!
+- Voraussetzung für eine korrekte Messung ist eine **ausreichende Perfusion** der entsprechenden Messstelle, z. B. durch Kälte, Schock oder auch eine Blutdruckmessung kann die Messung verfälscht oder unmöglich gemacht werden.
+
+- Niedrige Hämoglobin-Spiegel bzw. ein niedriger Perfusionsdruck (Blutdruck) kann zu verfälschten Messergebnissen führen.
+- **Fehlmessung** von **Carboxyhämoglobin** (CO-Hb) und **Methämoglobin**[^Methaemoglobin]:
+  Mit Kohlenmonoxid gesättigtes Hämoglobin ({ref}`Carboxyhämoglobin <Carboxyhaemoglobin>`) oder {ref}`Methämoglobin <Methaemoglobin>` weisen ähnliche Absorptionseigenschaften wie Oxyhämoglobin auf und können daher von Geräten verwechselt werden und somit zu einem falsch-hohen Sauerstoffsättigungswert führen.
+
+  Klassisch, und nicht selten, kommt dies bei der **Kohlenmonoxid-Vergiftung** vor.
+  Kohlenmonoxid-beladenes Blut ist ebenso hellrot wie Sauerstoff-beladenes, daher wird der Patient nicht zyanotisch obwohl er eigentlich zu wenig Sauerstoff hat.
+
+  Manche moderne Geräte können mitunter die Wellenlängen von CO-Hb und Met-Hb unterscheiden und entsprechend anzeigen.
 - Licht kann **Nagellack** oder künstliche Fingernägel oft nicht durchdringen.
 - Von der Seite **einstrahlendes Licht** kann ebenso das Ergebnis
   verfälschen, da es sich ja um eine lichtabhängige Messmethode
   handelt.
+
+  [^Methaemoglobin]: {ref}`Methämoglobin <Methaemoglobin>`: Hämoglobin mit dreiwertigem (statt zweiwertigem) Eisenatom, nicht oxygenierbar.
 
 :::{attention}
 Behandle den Patienten und nicht das Gerät!

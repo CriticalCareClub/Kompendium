@@ -60,6 +60,7 @@ Der PAC ermöglicht die Messung von:
 - Diagnostik der schweren pulmonalen Hypertonie (weitgehend durch Echokardiographie abgelöst)
 - Bestimmung der linksventrikulären Vorlast
 - Berechnung des pulmonalen Gefäßwiderstands
+- intraoperatives Monitoring in der Herzchirurgie
 
 
 
@@ -68,11 +69,13 @@ Der PAC ermöglicht die Messung von:
 ## Kontraindikationen
 
 - Gerinnungsstörungen (relativ, technik- und lokalisationsabhängig)
+- Herzrhythmusstörungen (relativ)
 - Lokalisationsabhängig:
   - Stents
-  - Thrombosen
+  - Thromben, Vorhofthrombus
   - Gefäßmalformationen
   - Lokale Infektionen o. ä.
+- Trikuspidalinsuffizienz, Pulmonalklappenstenose
 - mechanischer Trikuspidal- oder Pulmonalklappenersatz
 
 ## Komplikationen
@@ -81,8 +84,13 @@ Der PAC ermöglicht die Messung von:
 - Lungeninfarkt
 - Knotenbildung (selten)
 - Pulmonalarterienruptur
+- Arrhythmien (SVES + VES häufig)
 - nicht-infektiöse Klappen- bzw. Endokardläsionen
 - Ballonruptur
+- Thromben am Katheter
+- Endokardläsion,
+- Infektion va. ab 4 Tag,
+- Lungeninfarkt bei Dauerwedge.
 
 
 ## Bestandteile
@@ -116,7 +124,7 @@ Weiters kann ein PAC auch über eine Funktion zur **fiberoptischen SmvO₂-Messu
 ## Anwendung
 
 Die Anwendung erfolgt über eine venöse Schleuse.
-Diese wird grundsätzlich wie ein ZVK an der V. iug. int. dext. (alternativ V. subclavia) angelegt.
+Diese wird grundsätzlich wie ein ZVK an der V. iugularis int. dext. (alternativ V. subclavia) angelegt.
 Um das sterile Vor- und Zurückschieben des Katheters zu ermöglichen, wird an der Schleuse über den PAC ein flexibler Schutzüberzug angebracht und distal am PAC fixiert, sodass die Innenseite und damit der PAC immer steril bleibt.
 
 :::{todo} {issue}`129` Foto: Über eine venöse Schleuse eingeführter PAC ../Bilder/Pulmi-009.jpg
@@ -128,13 +136,14 @@ Um das sterile Vor- und Zurückschieben des Katheters zu ermöglichen, wird an d
 Über eine venöse Schleuse eingeführter PAC
 :::
 
-Der Pulmonalarterienkatheter wird über die venöse *Schleuse* Über die V. cava sup. durch den **rechten Vorhof** des Herzensund die **rechte Herzkammer** in die **Pulmonalarterie** eingeführt.
+Der Pulmonalarterienkatheter wird über die venöse *Schleuse* über die V. cava sup. durch den **rechten Vorhof** des Herzensund die **rechte Herzkammer** in die **Pulmonalarterie** eingeführt.
 Der Durchgang des Katheters wird dabei durch Druckmessungen am distalen Lumen überwacht.
 
 Der PAC hat vor der Spitze einen aufblasbaren Ballon.
-Dieser erleichtert einerseits durch die Wirkung als *"Segel"* dem Blutfluss in die Pulmonalarterie zu folgen.
+Dieser wird in der Vena cava sup. aufgeblasen und erleichtert einerseits durch die Wirkung als *"Segel"* dem Blutfluss in die Pulmonalarterie zu folgen.
 Andererseits kann er beim Vorschieben durch die kleiner werdenden Gefäßlumina das Gefäß schließlich *okkludieren* und an der Katheterspitze eine Druckmessung *unabhängig vom Pulmonalisdruck* durchführen:
 So kann der **pulmonal-kapilläre Wedge-Druck** (*PCWP*) ermittelt werden.
+Danach wird der Ballon abgelassen (Wedge-Position ist eine iatrogene Pulmonalembolie und darf nur wenige Sekunden bestehen).
 
 % .. figure::  ../Bilder/Pumli-Veraluf.jpg
 %     :alt: Bild
@@ -187,3 +196,27 @@ Wikimedia Commons, User <https://commons.wikimedia.org/wiki/User:Chikumaya>, {te
 :::{admonition} Links
 - Video: **Hämodynamische Messwerte** <https://www.youtube.com/watch?v=WG59oEy0jx0>
 :::
+
+:::{admonition} Prüfung
+
+- Druckkurve beim Setzen des PAK aufzeichen (re VH -- re Ventrikel -- PAP -- Wedge -- PAP) PAK liegt in Zone 3 (maximaler Blutfluss).
+- Nenne 10 Parameter des PAK:
+  - ZVD, Druck re Vorhof, Druck rechter Ventrikel, PAP, PCWP, CO, SVI, SVRI, PVRI, SgvO₂, DO₂, VO₂
+:::
+
+
+## Messungen
+
+
+1. Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter
+2. HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
+3. CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75%
+   SV = 60-90 ml, SVR 900-1400, PVR 150-250
+
+
+
+Klinische Bedeutung:
+- Erniedrigter ZVD/PCWP = Volumenbedarf
+- Erniedrigtes HZV = Volumen und Katecholaminbedarf
+- Erniedrigte VO₂ = Volumenbedarf
+

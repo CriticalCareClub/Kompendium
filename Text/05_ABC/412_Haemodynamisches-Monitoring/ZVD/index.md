@@ -56,3 +56,11 @@ Somit ist der ZVD hinsichtlich seiner Limitationen und seiner Aussagekraft kriti
 :::{todo} {issue}`129` Bild / Screenshot ZVD
 :::
 
+:::{admonition} Prüfung
+
+-  ZVD ist nicht Volumen!
+- Gute Korrelation zum intravasalen Volumen und myokardialer Funktion ist nur beim Gesunden!
+
+(Für die Prüfung ZVD-Kurve in Gegenüberstellung zum EKG und zur Pulswelle zeichnen! + Pathologische ZVD-Kurven bei TI, TS, Tamponade, VHF!)
+
+:::

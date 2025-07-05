@@ -18,14 +18,21 @@ Die invasive arterielle Druckmessung  erfolgt durch die Kanülierung einer perip
 Die Arterienkanüle ist mit einem flüssigkeitsgefüllten, starren Schlauch- und Infusionssystem verbunden.
 In das System ist ein Druckabnehmer (**Transducer**) integriert, welcher die eigentliche Druckmessung durchführt.
 Jede systolische Kontraktion resultiert in einer Druckwelle innerhalb des Katheters und Schlauchsystems, welche vom Transducer registriert, gemessen und an den Monitor übermittelt wird.
+(Bein einer Resonanz < 40Hz wird die Blutdruckwelle überlagert; bei zu langen Leitungen, weichen Schläuchen oder Luftblasen im System kommt es zu einer Dämpfung un einer Behinderung der Druckwellenweiterleitung.)
 
 Der Monitor zeigt i. d. R. eine Arterienkurve sowie numerische Drücke an.
 Die Arterienkurve an sich kann interpretiert werden und ist auch Ausgangspunkt für weitere Monitoringverfahren wie z. B. die Pulskonturanalyse.
 
 Ermittelt werden somit:
 - Arterieller Blutdruck: systolisch, diastolisch, Mitteldruck
-- Darstellung der Puls-Druckkurve: manuelle Interpretation und Ausgangspunkt für Systeme zur Pulskonturanalyse
+  Die IABP erlaubt die **kontinuierliche** Blutdruckmessung mit einer hohen Messgenauigkeit auch bei niedrigen Drücken.
+- Darstellung der Puls-**Druckkurve**:
+  - manuelle Interpretation (Volumenstatus, *Swing*)
+  - Darstellung hämodynamischer Auswirkungen von Rhythmusstörungen
+  - Ausgangspunkt für Systeme zur {ref}`Pulskonturanalyse <Pulskonturanalyse>`
 
+
+Neben der eigentlichen Blutdruckmessung eignet sich das System auch gut für die Abnahme von arteriellen *Blutproben*, insbesonders für die {ref}`Blutgasanalyse <Blutgasanalyse>` (BGA).
 
 
 (GHDM-KP-IABP-Indikationen)=
@@ -116,7 +123,7 @@ Arteriensystem
 
 :::
 
-:::{todo} {issue}`129` Foto: IBP Blutentnahmesystem 
+:::{todo} {issue}`129` Foto: IBP Blutentnahmesystem
 :::
 
 :::{raw} latex
@@ -168,4 +175,14 @@ Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch e
 -   Abnahmesystem
 -   Screenshot Arterienswing
 -   Screenshot Nor-Undulation
+:::
+
+
+
+
+:::{admonition} Prüfung
+- Arterie zur invasiven Blutdruckmessung: kontinuierlich, hohe Messgenauigkeit auch bei niedrigen Drücken,
+- hämodyn. Auswirkung von Rhythmusstörungen, VIGILEO (Pulskonturanalyse),
+- BGA,
+- Volumenstatus (Swing); (Druckumwandler) Resonanz \< 40Hz wird die Blutdruckwelle  überlagert;  Dämpfung durch zu langes, weiches System Druckwellenweiterleitung behindert.
 :::

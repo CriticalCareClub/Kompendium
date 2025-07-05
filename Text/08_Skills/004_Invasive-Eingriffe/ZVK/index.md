@@ -11,16 +11,72 @@
 # Anlage eines ZVK
 
 Ein zentraler Venenkatheter (ZVK) ist ein Katheter, der in eine große Vene eingeführt wird und dessen Ende in der V. cava zu liegen kommt.
-Übliche Gefäßzugänge sind die Vena jugularis interna, die Vena subclavia und die Vena femoralis.
 ZVKs werden eingesetzt um einen zuverlässigen Gefäßzugang sicherzustellen oder um Medikamente zu verabreichen, die verdünnt werden müssen, um die Venenschädigung möglichst gering zu halten.
 Ferner erlaubt der ein ZVK die Messung des {ref}`zentralvenösen Drucks (ZVD) <zvd>`.
+
 Die verwendeten Katheter sind üblicherweise 15–20 cm lang, bestehen aus Silikon oder Polyurethan und haben ein oder mehrere Lumen.
+Übliche Gefäßzugänge sind die *Vena jugularis interna* und die *Vena subclavia*, der Zugang über die *Vena femoralis* ist grundsätzlich auch möglich, birgt jedoch einige Nachteile (Hygiene, Mobilisierung).
+Die Auswahl der Punktionsstelle richtet sich nach den patientenindividuellen Risikofaktoren, Vorerkrankungen und geplanten Eingriffen und anderen medizinischen Erfordernissen. Daraus ergeben sich folgende Weisheiten:
+
+:::{hint}
+
+Wo steche ich meinen ZVK? Ratschläge für die Praxis:
+
+- Vena jugularis interna nicht bei neurochirurgischen Patienten, oder Patienten mit erhöhtem Hirndruck.
+- Vena subclavia nicht
+  - bei Patienten mit eingeschränkter Gerinnung
+  - wenn keine Möglichkeit zur raschen Entlastung eines Pneumothorax besteht (z.B. im OP aufgrund der Abdeckung)
+- Punktion nach Möglichkeit auf der Seite eines (drainierten) Pneumothorax bzw. auf der Seite eines thoraxchirurgischen Eingriffs
+- Punktion nicht im Gebiet von operierten oder gestenteten Gefäßen oder Infektionen
+- Punktion nicht in thrombosierte Gefäße
+
+:::
+
+Die regelrechte Lage der Katheterspitze (von cranial kommend) befindet sich 2cm vor dem rechten Vorhof (bzw. 3. ICR, nicht tiefer als Carina).
+
+:::{list-table} Zugänge für den ZVK: Vor- und Nachteile
+:header-rows: 1
+:stub-columns: 1
+
+* - Zugang
+  - Vorteile
+  - Nachteile
+* - Vena jugularis interna
+  - - gute Darstellbarkeit im Ultraschall
+    - rechts: gerader Weg
+    - geringes Pneumothoraxrisiko
+    - gut komprimierbar bei Blutung
+  - - sehr variable Anatomie (Carotis!)
+    - kollabiert bei Hypovolämie
+    - geringer Patientenkomfort bei Punktion
+    - beim wachen Patienten mechanische Beanspruchung
+    - zerebrales Abflusshindernis, Cave Hirndruck
+    - Punktion bei kurzem Hals erschwert
+    - Cave Gefäß-Patches oder Stents!
+* - Vena subclavia
+  - - Vene "aufgespannt", kollabiert weniger leicht bei Hypovolämie
+    - kein zerebrales Abflusshindernis
+    - höherer Patientenkomfort
+  - - schlechte Darstellbarkeit im Ultraschall
+    - höheres Pneumothoraxrisiko
+    - schlecht (nicht) komprimierbar bei Blutung, hoher Blutverlust nach intrathorakal möglich
+* - Vena femoralis
+  - - gute Darstellbarkeit im Ultraschall
+    - relativ einfach punktierbar
+    - gut komprimierbar bei Blutung
+  - - hygienisch problematisch (Stuhl, Harn, Intertrigo)
+    - Mobilisierung erschwert
+    - Cave Gefäß-Patches oder Stents!
+:::
+
+
 
 (GEIN-KP-ZVK-Indikationen)=
 
 ## Indikationen
 
-- Venen-reizende Medikamente: parenterale Ernährung, hochdosierte Katecholamine, …
+- Venen-reizende Medikamente: parenterale (hyperosmolare) Ernährung, hochdosierte Katecholamine, …
+- Konstanter, zuverlässiger Fluss notwendig: hochdosierte Katecholamine
 - schlechter Venenstatus
 - parallele Gabe von vielen miteinander inkompatiblen Medikamenten
 - ZVD-Messung
@@ -59,6 +115,7 @@ Neben den anlageassoziierten Komplikationen müssen aber auch auf die Komplikati
 - Pneumothorax
 - Infektionen
 - Blutungen
+- Nervenplexusläsion mit Horner, Phrenicusparese, Plexus-brachialis-Läsion
 - intraarterielle Anlage
 - Katheterfehllage
 - Luftembolie
@@ -75,6 +132,7 @@ Neben den anlageassoziierten Komplikationen müssen aber auch auf die Komplikati
   - muraler Thrombus
   - endokardiale oder Klappenvegitationen, Endokarditis
   - schwere Rhythmusstörungen
+- Abflusshindernis (ICP!)
 
 :::{danger}
 

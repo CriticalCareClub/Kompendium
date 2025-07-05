@@ -16,10 +16,6 @@ Kreislauf:
 - EKG mit ST-Streckenanalyse (HW: II+III, VW: I,V5), Rhythmus (Brady/Tachyk., VES, SVES,..)
 - Relaxometrie: TOF
 - NIBP (oszillometrische Technik)
-- Arterie zur invasiven Blutdruckmessung: kontinuierlich, hohe Messgenauigkeit auch bei niedrigen Drücken, hämodyn. Auswirkung von Rhythmusstörungen, VIGILEO (Pulskonturanalyse), BGA, Volumenstatus (Swing); (Druckumwandler) Resonanz \< 40Hz wird die Blutdruckwelle  überlagert;  Dämpfung durch zu langes, weiches System Druckwellenweiterleitung behindert.
-- ZVK: für ZVD, Katecholamine, parenterale Ernährung (hyperosmolar), HF-Katheter, Dialyse-Kath, zahlreiche Medikamente. Lage: V. Jugolaris, Subclavia, Femoralis;  Lagekontrolle: 2cm vorm RH, bzw. 3 ICR, nicht tiefer als Carina. Risiko: Pneumothorax, Nervenplexusläsion mit Horner, Phrenicusparese, Plexus brachialis Läsion), Thrombose, Infektionen, Abflusshindernis (ICP!)
--  ZVD = Druck ist nicht Volumen! Gute Korrelation zum intravalen Volumen und myokardialer Funktion ist nur beim Gesunden! (Für die Prüfung ZVD-Kurve in Gegenüberstellung zum EKG und zur Pulswelle zeichnen! + Pathologische ZVD-Kurven bei TI, TS, Tamponade, VHF!)
-- PAK, Vigileo, CardioQ, PICCO, TEE
 
 
 

@@ -74,6 +74,7 @@ Bronchoskopie
 Bronchospasmus
 Bupivacain
 Cangrelor
+Carboxyhämoglobin
 Carotisstenose
 Clearence
 clearpage
@@ -89,11 +90,14 @@ Dekompensation
 dekompensieren
 dekompensierte
 Delir
+Desoxyhämoglobin
 Dilutionskoagulopathie
 Dobutamin
 Doppellumentubus
 Dosisrate
 Durasack
+Dyshämoglobine
+Dyshämoglobinen
 Dyspnoe
 dysregulierte
 Echokardiographie
@@ -101,6 +105,7 @@ einzeitige
 Elektrolytstatus
 Eliquis
 Elomel
+ELWI
 Embolisation
 Endorphinspiegel
 endovaskuläre
@@ -147,6 +152,7 @@ Fokussuche
 footnote
 frustrane
 geburtshilfliche
+GEDV
 Gefäßmalformationen
 Gefäßpermeabilität
 Gefäßtonus
@@ -221,6 +227,7 @@ Ischämien
 Ischämiezeichen
 ischämisch
 isoton
+ITBV
 Kalziumsensitizer
 Kanülenspitze
 Kanülierung
@@ -281,6 +288,7 @@ Maltodextrine
 mediane
 Mediatorsubstanzen
 Mepivacain
+Methämoglobin
 Methylprednisolon
 Metoclopramid
 Mikroglia
@@ -319,6 +327,7 @@ Organnekrosen
 Ösophagusvarizen
 oxygenierten
 Oxygenierung
+Oxyhämoglobin
 Pankreatitis
 Paramedic
 Parese
@@ -380,6 +389,7 @@ Punktionsspritze
 Punktionsstelle
 Punktionstechnik
 putride
+PVPI
 RASS
 Reanimationsbereitschaft
 Rekap
@@ -430,12 +440,14 @@ subakuten
 subcaptions
 subfigure
 Subileus
+SVRI
 Sympathikolyse
 Symphyse
 Symptombeginn
 Synthesehemmung
 Tachypnoe
 Tertialprüfung
+Thalassämien
 thorakal
 thorakale
 thoraxchirurgischen
@@ -461,6 +473,7 @@ Tranexamsäure
 Transducers
 transfundierte
 transösophageale
+transpulmonale
 transthorakale
 Traumapatient
 Triggersubstanzen

@@ -16,7 +16,7 @@
 :maxdepth: 1
 :glob:
 
-05.*/index
+1*/index
 :::
 
 
@@ -25,7 +25,7 @@
 :maxdepth: 1
 :glob:
 
-06.*/index
+2*/index
 :::
 
 :::{toctree}
@@ -33,7 +33,7 @@
 :maxdepth: 1
 :glob:
 
-07.*/index
+3*/index
 :::
 
 :::{toctree}
@@ -41,7 +41,7 @@
 :maxdepth: 1
 :glob:
 
-08.*/index
+4*/index
 :::
 
 % Sauerstoff/index

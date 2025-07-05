@@ -1,6 +1,11 @@
 
 
-# 28. Monitoring
+#  Monitoring
+
+
+:::{todo} {issue}`142` Aust-Skriptum: **Monitoring** (28.)
+:::
+
 
 Atemfunktion:
 - Pulsoxy: Absorption des Lichtes von Oxyhämoglobin, moderne Geräte haben auch Wellenlängen für CO-Hb und Met-Hb. CO-Hb oder Met-Hb wird falsch als O₂-Hb gemessen = falsch hoch;  Bei sehr niedrigem Hb oder RR unverlässliche Werte. (Ähnlich INVOS cerebral Oxymeter)
@@ -28,7 +33,10 @@ Kath, zahlreiche Medikamente. Lage: V. Jugolaris, Subclavia, Femoralis;  Lagekon
 
 
 
-## 28.1. Pulmonalarterieller Katheter PAK (Monitoring VIGILANCE)
+##  Pulmonalarterieller Katheter PAK (Monitoring VIGILANCE)
+
+:::{todo} {issue}`142` Aust-Skriptum: **Pulmonalarterieller Katheter** (28.1.)
+:::
 
 Ind: intraoperatives Monitoring in der Herzchirurgie, bei Schock, Sepsis, schweres HF  →  Ziel ist Normovolämie mit ausreichendem Sauerstoffangebot.
 Kontraind: Gerinnungsstörung, Herzrhythmusstörungen, TI, PS,
@@ -54,7 +62,10 @@ Klinische Bedeutung:
 - Erniedrigte VO₂ = Volumenbedarf
 
 
-## 28.2. PICCO = Pulse Contour Cardiac Output *
+##  PICCO = Pulse Contour Cardiac Output *
+
+:::{todo} {issue}`142` Aust-Skriptum: **PICCO** (28.2.)
+:::
 
 Misst volumetrische Parameter, welche zur Einschätzung des Volumenstatus besser geeignet sind.
 Die Fläche unter dem systolischen Teil der Pulskurve bis zum Schluss der Aortenklappe (Inzisur) entspricht dem SV. HZV/CO = SV x HF
@@ -87,7 +98,10 @@ LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV,
 
 
 
-## 28.3. TEE transösophageales Echo: *
+##  TEE transösophageales Echo: *
+
+:::{todo} {issue}`142` Aust-Skriptum: **TEE** (28.3.)
+:::
 
 Ist die einzige verlässliche Methode zur Beurteilung des Füllungszustandes/  Volumenstatus des Herzens. Es sind 2 Schnitte einzustellen:
 1. Transgastrische kurze Achse mit Querschnitt durch den linken Ventrikel (Füllung, Kissing endocards, Wandbewegungsstörungen, Kontraktilität)

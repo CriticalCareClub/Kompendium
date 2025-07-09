@@ -35,7 +35,7 @@ Dieses Zusammenspiel zwischen dem respiratorischen System und dem Kreislaufsyste
 ## Sauerstoffangebot DO₂
 
 Das Sauerstoffangebot **DO₂** an den Körper wird durch drei Komponenten bestimmt:
-1. Eine **respiratorische** Komponente({ref}`Atemweg Ⓐ <Airway>`, {ref}`(Be-)Atmung Ⓑ <Breathing>`), welche durch *Ventilation* und *Diffusion* zu einer Oxygenation des Blutes führt (Sauerstoffsättigung $\color{blue}\rm{SaO}_2$). Der physikalisch gelöste Sauerstoff ($\color{grey}\rm{paO}_2 \times 0,0031)$ hat hinsichtlich des Sauerstofftransports keine relevante Rolle);
+1. Eine **respiratorische** Komponente({ref}`Atemweg Ⓐ <Airway>`, {ref}`(Be-)Atmung Ⓑ <Breathing>`), welche durch *Ventilation* und *Diffusion* zu einer Oxygenation des Blutes führt (Sauerstoffsättigung $\color{blue}\rm{SaO}_2$). Der physikalisch gelöste Sauerstoff ($\color{gray}\rm{paO}_2 \times 0,0031)$ hat hinsichtlich des Sauerstofftransports keine relevante Rolle);
 
    :::{hint}
    Der *physikalisch* gelöste Sauerstoff hat zwar hinsichtlich des Sauerstoff*transports* keine relevante Rolle, hat jedoch über die *Sauerstoffbindungskurve* ein *Verhältnis mit mit der Sauerstoffbindung*, und ist somit ein wichtiger diagnostischer Parameter!
@@ -49,7 +49,7 @@ Das Sauerstoffangebot **DO₂** an den Körper wird durch drei Komponenten besti
 Die respiratorische Komponente und der Gehalt an Sauerstoffträgern (Hämoglobin) ergibt den Sauerstoffgehalt des Blutes $\color{blue}\rm{CaO}_2$:
 
 $$
-{\color{blue}\rm{CaO}_2} = {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} {\color{grey} \; \; ( + \: \rm{paO}_2 \times 0,0031)}
+{\color{blue}\rm{CaO}_2} = {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} {\color{gray} \; \; ( + \: \rm{paO}_2 \times 0,0031)}
 $$
 
 Der physikalisch gelöste Sauerstoff macht nur einen verschwinden geringen Anteil am Sauerstoffgehalt (\< 2%) aus und wird daher in der Praxis (und im Folgenden) vernachlässigt.
@@ -84,11 +84,11 @@ $$
   - $\color{blue}\rm{SaO}_2$: Sättigung des Sauerstoffträgers
   - $\color{blue}1,34$: Hüfner'sche Zahl.
     Sie gibt an, wieviel Milliliter Sauerstoff als Absolutwert pro Gramm Hämoglobin gebunden und transportiert werden kann[^huefnerschezahl].
-  - ${\color{grey}\rm{paO}_2 \times 0,0031}$: Physikalisch gelöster Sauerstoff: Sauerstoffpartialdruck und Löslichkeitskoeffizient (für paO₂ in mm Hg)
+  - ${\color{gray}\rm{paO}_2 \times 0,0031}$: Physikalisch gelöster Sauerstoff: Sauerstoffpartialdruck und Löslichkeitskoeffizient (für paO₂ in mm Hg)
 
 [^physgelo2]:
     $$
-    \rm{DO}_2 = {\color{red}\rm{CO}} \times ({\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} + {\color{grey}\rm{paO}_2 \times 0,0031})
+    \rm{DO}_2 = {\color{red}\rm{CO}} \times ({\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} + {\color{gray}\rm{paO}_2 \times 0,0031})
     $$
 
 [^huefnerschezahl]: Der rechnerisch maximale Wert der Hüfner'schen Zahl beträgt 1,39 ml O₂ / g Hb.

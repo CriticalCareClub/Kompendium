@@ -13,92 +13,18 @@
 :::{rubric} Oxygenation ist das Ziel der Hämodynamik
 :::
 
-Der Zweck des Kreislaufs ist die zelluläre Oxygenierung.
+Der Zweck des Kreislaufs ist die zelluläre {ref}`Oxygenierung <Oxygenation>`.
 Für eine optimale Sauerstoffversorgung auf zellulärer Ebene müssen die Makro- und Mikrozirkulation sowie der pulmonale Gasaustausch sowie das Gewebemilieu ausgeglichen sein.
 Der Kreislauf übernimmt mit dem Blut als Transportmedium den Transport von Sauerstoff von den Lungenkapillaren in das Gewebe der Endorgane.
 
 
-
-
-
-:::{index} single: Sauerstoffangebot
-:::
-:::{index} single: DO₂
+:::{seealso}
+- {ref}`Sauerstoffangebot DO₂ <Sauerstoffangebot>`
+  ($\rm{DO}_2  \approx {\color{red}\rm{CO}} \times {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2}$)
 :::
 
-## Das Sauerstoffangebot DO₂
 
-Das Sauerstoffangebot **DO₂** an den Körper wird dabei bestimmt durch den Cardiac Output $\color{red}\rm{CO}$ und den Sauerstoffgehalt des oxygenierten Blutes $\color{blue}\rm{CaO}_2$:
 
-$$
-\rm{DO}_2 = {\color{red}\rm{CO}} \times {\color{blue}\rm{CaO}_2}
-$$
-
-Blickt man nun etwas genauer ...
-
-$$
-\rm{DO}_2  \approx {\color{red}\rm{CO}} \times {\color{blue}\rm{Hb} \times 1,34 \times \rm{SaO}_2}
-$$
-
-... und noch genauer[^physgelo2] ...
-
-$$
-\rm{DO}_2  \approx {\color{red}{\rm{SV}} \times f} \times {\color{blue}\rm{Hb} \times 1,34 \times \rm{SaO}_2}
-$$
-
-… so sieht man, dass das Sauerstoffangebot von folgenden Faktoren abhängig ist:
-
-- **Cardiac Output**
-
-  - $\color{red}\rm{SV}$: Stroke Volume (Schlagvolumen)
-  - $\color{red}f$: (mechanische) Herzfrequenz
-
-- **Sauerstoffgehalt**
-
-  - $\color{blue}\rm{Hb}$: Sauerstoffträger (Hämoglobin)
-  - $\color{blue}\rm{SaO}_2$: Sättigung des Sauerstoffträgers
-  - $\color{blue}1,34$: Hüfner'sche Zahl.
-    Sie gibt an, wieviel Milliliter Sauerstoff als Absolutwert pro Gramm Hämoglobin gebunden und transportiert werden kann[^huefnerschezahl].
-
-[^physgelo2]: Aufmerksamen Lesern wird aufgefallen sein, dass ${\color{blue}\rm{Hb} \times 1,34 \times \rm{SaO}_2}$ nur den über Hämoglobin gebundenen, aber nicht den physikalisch gelösten Sauerstoff berücksichtigt. Letzterer macht einen verschwinden geringen Anteil am Sauerstoffgehalt (CaO₂, \< 2%) aus und wird daher in der Praxis vernachlässigt.
-
-    Wer es genau wissen will (paO₂ in mm Hg, Löslichkeitskoeffizient 0,0031):
-
-    $$
-    {\color{blue}\rm{CaO}_2} = ({\color{teal}\rm{Hb} \times 1,34 \times \rm{SaO}_2} + {\color{violet}\rm{paO}_2 \times 0,0031})
-    $$
-
-    Somit ergibt sich:
-
-    $$
-    \rm{DO}_2 = {\color{red}\rm{CO}} \times {\color{blue}\rm{CaO}_2} = {\color{red}\rm{CO}} \times ({\color{teal}\rm{Hb} \times 1,34 \times \rm{SaO}_2}+ {\color{violet}\rm{paO}_2 \times 0,0031})
-    $$
-
-[^huefnerschezahl]: Der rechnerisch maximale Wert der Hüfner'schen Zahl beträgt 1,39 ml O₂ / g Hb.
-    Dieser in-vitro-Wert wird in vivo jedoch nicht erreicht, u. a. weil Hämoglobin physiologisch in geringen Mengen auch als Methämoglobin oder CO-Hämoglobin vorliegt.
-    Gase, welche mit Sauerstoff in Konkurrenz um die Bindekapazität stehen, reduzieren die Sauerstoffbindekapazität.
-    Ein extremes Beispiel dafür ist Kohlenmonoxid.
-
-% .. figure::  ../Bilder/LungeZumMitochondrium.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     Oxygen Absorption: Lungs →
-%     Oxygen Transportation: Blood →
-%     Oxygen Delivery: Tissues  →
-%     Oxygen Utilisation: Cells / Microchondria
-
-% .. figure::  ../Bilder/LungeZurZelle-DO2.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     LungeZurZelle
-
-% .. figure::  ../Bilder/DO2Vo2.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     DO2Vo2
 
 
 
@@ -127,7 +53,7 @@ $$
 :::
 :::{index} single: Nachlast
 :::
-:::{index} single: Widerstand; systemisch-vaskulären 
+:::{index} single: Widerstand; systemisch-vaskulären
 :::
 :::{index} single: SVR
 :::

@@ -5,7 +5,7 @@
 (haemodynamisches-monitoring)=
 (GHDM)=
 
-# Ⓒ Kreislauf (Circulation) Hämodynamisches Monitoring und Diagnostik
+# Ⓒ Hämodynamisches Monitoring und Diagnostik
 
 
 

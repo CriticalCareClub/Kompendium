@@ -11,7 +11,7 @@
 
 Zwar ist das {ref}`respiratorische Monitoring das primäre Revier der BGA <RespMonitoringBGA>`, jedoch bieten aktuelle Geräte oft eine erweiterte Point-of-Care-Laborfunktion (PoC), welche die Bestimmung auch für den Kreislauf relevanter Laborwerte ermöglicht.
 Darunter fallen der Laktatspiegel, sowie die O₂-Sättigungsbestimmung an unterschiedlichen Stationen des Kreislaufs (arteriell, zentralvenös, gemischtvenös).
-Die {ref}`invasive arterielle Blutdruckmessung <IABP>` sorgt als Nebeneffekt für einen einfachen Zugangsweg zur Gewinnung von arteriellen Blutproben für eine arterielle Blutgasanalyse. 
+Die {ref}`invasive arterielle Blutdruckmessung <IABP>` sorgt als Nebeneffekt für einen einfachen Zugangsweg zur Gewinnung von arteriellen Blutproben für eine arterielle Blutgasanalyse.
 
 :::{todo} {issue}`129` Bilder: BGAs
 :::
@@ -89,6 +89,8 @@ $$
 
 [^cvo2]: ${\color{blue}\rm{C{\color{violet}mv}O}_2} \approx {\color{blue}\rm{Hb} \times 1,34 \times \rm{S{\color{violet}mv}O}_2}$
 
+Die VO₂ beträgt in Ruhe etwa **3 ml / min / kg**.
+
 Das *geschmischtvenöse* Blut ($\rm\color{violet}mv$) ist jedoch einer routinemäßigen Messung schwer zugänglich.
 Zu dessen Gewinnung würde man einen {ref}`Pulmonalarterienkatheter <PAC>` benötigen, welcher sehr risikobehaftet ist und nur bei speziellen Situationen indiziert ist.
 Als *Surrogat* kann hierbei das *zentralvenöse Blut* ($\rm\color{violet}cv$) dienen, welches mittels eines zentralen Venenkatheters (*ZVK*) zugänglich ist, welcher sehr häufig bei Intensivpatienten als Gefäßzugang zum Einsatz kommt.
@@ -100,21 +102,12 @@ Dies ist hinsichtlich dem Phänomen der *Zentralisation* ein wesentlicher Faktor
 Die V̇O₂ hat jedoch einen Haken:
 Der *Cardiac Output* (CO) muss ermittelt werden um sie berechnen zu können.
 Hat man dazu nicht die Möglichkeit, kann man jedoch auch die die Sättigungswerte isoliert betrachten.
-Dies ist in der klinischen Routine bei Intensivpatienten mit den ohnehin vorhandenen Invasivitäten (ZVK, arterieller Zugang) oft problemlos und ohne großen Aufwand möglich. 
+Dies ist in der klinischen Routine bei Intensivpatienten mit den ohnehin vorhandenen Invasivitäten (ZVK, arterieller Zugang) oft problemlos und ohne großen Aufwand möglich.
 Da man hierbei nur die *relative* Sauerstoffausschöpfung beurteilt, kann man die *kardiale Komponente* als mögliche Ursache einer pathologischen Sauerstoffausschöpfung *nicht beurteilen*.
 
 Der Normalbereich der **ScvO₂** liegt bei **70-75%**.
 Es stellt sich nun die Frage:
 *"Ist eine höhere zentralvenöse Sauerstoffausschöpfung gut oder schlecht?"*
-
-Somit ergibt sich folgende Dynamik:
-
-- Eine **hohe ScvO₂** kann für ein sehr **hohes O₂-Angebot** (guter Cardiac Output, viele O₂-Träger (Hb), gute Oxygenierung), **wenig Bedarf** *oder* **wenig Perfusion** sprechen.
-  Alles, was eine Abgabe von O₂ an das Gewebe erschwert (Zentralisation, Anasarka, Hypothermie, Alkalose[^alkaloseo2abgabe]), kann die ScvO₂ erhöhen.
-- Eine **niedrige ScvO₂** kann ein Zeichen für **erhöhte Nachfrage** und/oder ein **schlechtes Angebot** (wenig Cardiac Output, wenig O₂-Träger, schlechte Oxygenierung) sein.
-
-
-[^alkaloseo2abgabe]: Hypothermie und Alkalose sorgen für eine höhere Affinität von O₂ zum Hämoglobin und erschweren daher die Abgabe (*Linksverschiebung* der **Sauerstoffbindungskurve**, vgl. {term}`Bohr-Effekt`)
 
 :::{note}
 - Wenn die Sauerstoffversorgung nicht ausreicht, um den Stoffwechselbedarf des Gewebes zu decken, ergibt sich ein erniedrigter ScvO₂-Wert. Verminderte Perfusion (Zentralisation!) kann dies verschleiern.
@@ -128,7 +121,7 @@ Als *orientierende Untersuchung* ist daher die isolierte Betrachtung der ScvO₂
 
 :::{index} single: gemischtvenöse Sättigung
 :::
-:::{index} single: Sättigung; gemischtvenöse 
+:::{index} single: Sättigung; gemischtvenöse
 :::
 :::{index} single: SmvO₂
 :::
@@ -138,6 +131,18 @@ Als *orientierende Untersuchung* ist daher die isolierte Betrachtung der ScvO₂
 
 Die venöse Sättigung kann zentralvenös (große Hohlvenen über ZVK) oder **gemischtvenös** (Formelzeichen $\rm mv$, *Zusammenfluss* beider Hohlvenen: **rechter Vorhof** bzw. **rechte Kammer**) mittels eines {ref}`Pulmonalarterienkatheters <Pulmonalarterienkatheter>` gemessen werden.
 Dabei muss bedacht werden, dass das Einzugsgebiet der oberen und der unteren Hohlvene unterschiedliche Organe mit unterschiedlichem Sauerstoffbedarf versorgt (Hirn durch die obere Hohlvene, Stamm und untere Extremität durch die untere Hohlvene).
+
+Die gemischt-venöse Sättigung SmvO₂ ist 20-25% niedriger als SaO₂; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV und bei weniger Ausschöpfung (Schock, MOF, tiefe Sedierung).
+
+Somit ergibt sich folgende Dynamik:
+
+- Eine **hohe ScvO₂** kann für ein sehr **hohes O₂-Angebot** (guter Cardiac Output, viele O₂-Träger (Hb), gute Oxygenierung), **wenig Bedarf** *oder* **wenig Perfusion** sprechen.
+  Alles, was eine Abgabe von O₂ an das Gewebe erschwert (Zentralisation, Anasarka, Hypothermie, Alkalose[^alkaloseo2abgabe]), kann die ScvO₂ erhöhen.
+- Eine **niedrige ScvO₂** kann ein Zeichen für **erhöhte Nachfrage** und/oder ein **schlechtes Angebot** (wenig Cardiac Output, wenig O₂-Träger, schlechte Oxygenierung) sein.
+
+
+[^alkaloseo2abgabe]: Hypothermie und Alkalose sorgen für eine höhere Affinität von O₂ zum Hämoglobin und erschweren daher die Abgabe (*Linksverschiebung* der **Sauerstoffbindungskurve**, vgl. {term}`Bohr-Effekt`)
+
 
 :::{margin} ScvO₂ und SmvO₂
 Normal, in Ruhe: ScvO₂ < SmvO₂

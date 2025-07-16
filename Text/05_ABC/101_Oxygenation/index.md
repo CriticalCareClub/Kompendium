@@ -6,7 +6,6 @@
 
 # Oxygenation
 
-
 {ref}`Atemweg Ⓐ <Airway>`, {ref}`Atmung Ⓑ <Breathing>` und der {ref}`Kreislauf Ⓒ <Circulation>` bilden, sozusagen als *ABC-Komplex*, eine Einheit, auch wenn dies auf den ersten Blick nicht gleich ersichtlich ist.
 *Gemeinsames Ziel* von Respiration und Kreislauf ist schlussendlich die **Oxygenierung** *aller Zellen im Körper*.
 
@@ -59,17 +58,16 @@ $$
 \rm{DO}_2 = {\color{red}\rm{CO}} \times {\color{blue}\rm{CaO}_2}
 $$
 
-Blickt man nun etwas genauer ...
+Blickt man nun etwas genauer[^physgelo2] ...
 
-$$
+:::{math}
+:label: EQU-DO2
+
 \rm{DO}_2  \approx {\color{red}\rm{CO}} \times {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2}
-$$
 
-... und noch genauer[^physgelo2] ...
-
-$$
 \rm{DO}_2  \approx {\color{red}{\rm{SV}} \times f} \times {\color{purple}\rm{Hb} \times \color{purple} 1,34 \color{black}\times \color{blue}\rm{SaO}_2}
-$$
+
+:::
 
 … so sieht man, dass das Sauerstoffangebot von folgenden Faktoren abhängig ist:
 
@@ -85,6 +83,8 @@ $$
   - $\color{blue}1,34$: Hüfner'sche Zahl.
     Sie gibt an, wieviel Milliliter Sauerstoff als Absolutwert pro Gramm Hämoglobin gebunden und transportiert werden kann[^huefnerschezahl].
   - ${\color{gray}\rm{paO}_2 \times 0,0031}$: Physikalisch gelöster Sauerstoff: Sauerstoffpartialdruck und Löslichkeitskoeffizient (für paO₂ in mm Hg)
+
+Die DO₂ beträgt normalerweise, normalisiert auf die Körperoberfläche, 500--600-**750 ml / min / m²**, die kritische DO₂ liegt bei 300 ml/min/m².
 
 [^physgelo2]:
     $$

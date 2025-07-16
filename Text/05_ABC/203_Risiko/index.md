@@ -1,10 +1,7 @@
 
-
-
 :::{raw} latex
 \clearpage
 :::
-
 
 :::{index} single: Risiko; Atemweg
 :::
@@ -46,9 +43,9 @@ Faktoren, die das Risikos eines Atemweges bestimmen, sind:
 - **Mundöffnung** < 3,5cm
 - **Kiefer**gelenk, **Retrognathie**, Kiefersperre
 - **Zunge**ngröße/-beweglichkeit, Sprachqualität
-- **Zahnstatus** 
+- **Zahnstatus**
   (prominente Zähne, insbes. Schneidezähne)
-- **Thyromentaler Abstand**: 
+- **Thyromentaler Abstand**:
   Schildknorpeloberkante — Vorderkante Unterkiefer in maximaler Flexionshaltung, vgl. Abb. {ref}`Fig-BS-Atemweg-Klinische-Einschaetzung`
 
   - Cave: *Abstand unter 6,5cm* (= 3 Querfinger)
@@ -57,14 +54,11 @@ Faktoren, die das Risikos eines Atemweges bestimmen, sind:
 - **Lagerung** des Patientenkopfes
 - {ref}`Mallampati-Score <Mallampati-Klassifikation>`
 
-
-
 Um dem grundlegenden Bedürfnis, alles in Zahlen auszudrücken, Rechnung zu tragen, gibt es eine Vielzahl von Scoring-Systemen, es seien zwei der am häufigst verwendeten erwähnt.
 
 :::{warning}
 Die Scores sind maximal eine Hilfestellung, die **klinische Einschätzung** einer im Atemwegsmanagement erfahrenen Person overruled jeden Score!
 :::
-
 
 :::{subfigure} AB
 :subcaptions: below
@@ -116,6 +110,7 @@ Eine Punktzahl von 1 steht für die einfachste Intubation, 3 oder 4 Punkte weise
 :::
 
 
+
 :::{index} single: Wilson-Score
 :::
 :::{index} single: Score; Wilson-
@@ -139,8 +134,9 @@ Bestenfalls beträgt die Summe der vergebenen Punkte 0, im schlechtesten Fall 10
 Ab 2 oder mehr Punkten ist mit einer schwierigen Intubation zu rechnen.
 Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von beispielsweise 75 % der "schwierigen" Laryngoskopie auf Kosten der falschen Identifizierung von 12 % der "nicht schwierigen" Patienten ({term}`🗎 Wilson 1988`).
 
-## Beispiele herausfordernder Atemwege
 
+
+## Beispiele herausfordernder Atemwege
 
 :::{subfigure} AB
 :subcaptions: below

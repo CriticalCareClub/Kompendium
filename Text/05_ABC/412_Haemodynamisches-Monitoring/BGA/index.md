@@ -117,6 +117,9 @@ Es stellt sich nun die Frage:
 
 Als *orientierende Untersuchung* ist daher die isolierte Betrachtung der ScvO₂ einfach und nützlich, zur weiteren *Differenzierung* bedarf es aber oft der Ermittlung des Cardiac Outputs mittels anderer Methoden, um die relative und absolute Sauerstoffausschöpfung zu ermitteln.
 
+{ref}` <CeVOX-System>`
+Eine **kontinuierliche** ScvO₂-Messung kann mittels des *CeVOX*-Systems über einen Standard-ZVK mit CeVox-Sonde erfolgen.
+
 
 
 :::{index} single: gemischtvenöse Sättigung

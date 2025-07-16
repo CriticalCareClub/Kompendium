@@ -32,15 +32,7 @@ Dabei hat das hämodynamische Monitoring auch die wesentliche Funktion einer hä
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Monitoring-Allgemeines/index
-Surrogatmarker/index
-IABP/index
-ZVD/index
-BGA/index
-Pulskonturanalyse-Thermodilution/index
-Picco/index
-Pulmi/index
-Echo/index
-Normwerte/index
+*/index
 :::

@@ -21,6 +21,15 @@ Darüber hinaus lässt sich damit auch oft *kausale Diagnostik* betreiben (*Wand
 
 ## Transthorakale Echokardiographie (TTE)
 
+:::{admonition} tl;dr
+Ist die einzige verlässliche Methode zur Beurteilung des Füllungszustandes/Volumenstatus des Herzens.
+Es sind 2 Schnitte einzustellen:
+1. Transgastrische kurze Achse mit Querschnitt durch den linken Ventrikel (Füllung, Kissing endocards, Wandbewegungsstörungen, Kontraktilität)
+2. Vier-Kammer-Blick (mittösophageal)
+:::
+
+Kontraktilität, Klappenmorphologie werden ebenfalls beurteilt.
+
 Um einen Überblick über den Volumenstatus und die Herzleistung zu erhalten, haben sich folgende Schnitte bewährt:
 
 - apikaler 4-Kammer-Blick: Hier lassen sich die Ventrikel und z. T. auch die Vorhöfe gut miteinander vergleichen. Von dieser Position aus kann auch relativ einfach mittels eines 2-Kammer-Blicks das linke Herz dargestellt werden.
@@ -28,66 +37,25 @@ Um einen Überblick über den Volumenstatus und die Herzleistung zu erhalten, ha
 - Video: **Echokardiographie-Einführungskurs** von V. Kavalerchyk, OA Kardiologie der Helios Kliniken Schwerin.
   <https://www.youtube.com/watch?v=0E5lXIrPMrc>
 
-:::{todo} ../Bilder/Echo-002.png
+:::{todo} Bilder Echo (TTE)
 
+- ../Bilder/Echo-002.png
 
-:alt: Bild
-:width: 100%
+  Verschiedene transthorakale Echo-Schnitte
+- ../Bilder/Vena-Cava-inferior_US.png
 
-Verschiedene transthorakale Echo-Schnitte
-:::
+  Echo: Beurteilung der V. cava inferior
+- ../Bilder/Echo-001.jpg
+- ../Bilder/Echo-003.png
+- ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
 
-:::{todo} ../Bilder/Vena-Cava-inferior_US.png
+  Vergleich der globalen Pumpleistung im 4-Kammer-Blick
+- ../Bilder/Echo-SubkostalerBlick.png
 
+  TTE subkostaler Blick
+- ../Bilder/Echo-Ventrikel.png
 
-:width: 100%
-
-Echo: Beurteilung der V. cava inferior
-:::
-
-:::{todo} ../Bilder/Echo-001.jpg
-
-
-:alt: Bild
-:width: 100%
-
-Text
-:::
-
-:::{todo} ../Bilder/Echo-003.png
-
-
-:alt: Bild
-:width: 100%
-
-Text
-:::
-
-:::{todo} ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
-
-
-:alt: Bild
-:width: 100%
-
-Vergleich der globalen Pumpleistung im 4-Kammer-Blick
-:::
-
-:::{todo} ../Bilder/Echo-SubkostalerBlick.png
-
-
-:alt: Bild
-:width: 100%
-
-TTE subkostaler Blick
-:::
-
-:::{todo} ../Bilder/Echo-Ventrikel.png
-
-
-:alt: Bild
-:width: 100%
-
-Kausale Diagnostik: Perikarderguss im Echo
+  Kausale Diagnostik: Perikarderguss im Echo
 :::
 
 

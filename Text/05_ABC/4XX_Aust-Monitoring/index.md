@@ -35,13 +35,4 @@ LIDCO: Transpulmonales Dilutionsverfahren mit Lithiumchlorid als Indikator, HZV,
 
 
 
-##  TEE transösophageales Echo
-
-:::{todo} {issue}`142` Aust-Skriptum: **TEE** (28.3.)
-:::
-
-Ist die einzige verlässliche Methode zur Beurteilung des Füllungszustandes/  Volumenstatus des Herzens. Es sind 2 Schnitte einzustellen:
-1. Transgastrische kurze Achse mit Querschnitt durch den linken Ventrikel (Füllung, Kissing endocards, Wandbewegungsstörungen, Kontraktilität)
-2. Vier-Kammer-Blick (mittösophageal)
-Kontraktilität, Klappenmorphologie werden ebenfalls beurteilt.
 

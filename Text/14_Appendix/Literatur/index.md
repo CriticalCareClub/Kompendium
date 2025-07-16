@@ -309,6 +309,12 @@
 
   CONCLUSIONS: A single preoperative dose of TXA or 2 infusions of a lower dose, preoperatively and then after 3 hours after the start of surgery, resulted in lower blood loss during the first 2 days after surgery and less need for blood transfusion, with good levels of safety.
 
+🗎 Baulig 2008
+: **In vitro evaluation of the CeVOX continuous central venous oxygenation monitoring system**
+  by Baulig, W. et al.
+  Anaesthesia, 63(4), 412–417.
+  https://doi.org/10.1111/j.1365-2044.2007.05376.x
+
 🗎 Bernhard 2012
 : **Developing the Skill of Endotracheal Intubation: by Implication for Emergency Medicine.**
   by Bernhard, M., S. Mohr, M. A. Weigand, E. Martin and A. Walther. 2012.

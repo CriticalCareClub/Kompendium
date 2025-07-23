@@ -48,7 +48,7 @@ Das Sauerstoffangebot **DO₂** an den Körper wird durch drei Komponenten besti
 Die respiratorische Komponente und der Gehalt an Sauerstoffträgern (Hämoglobin) ergibt den Sauerstoffgehalt des Blutes $\color{blue}\rm{CaO}_2$:
 
 $$
-{\color{blue}\rm{CaO}_2} = {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} {\color{gray} \; \; ( + \: \rm{paO}_2 \times 0,0031)}
+{\color{blue}\rm{CaO}_2} = {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} {\color{gray} \; \; ( + \: \rm{paO}_2 \times 0{,}0031)}
 $$
 
 Der physikalisch gelöste Sauerstoff macht nur einen verschwinden geringen Anteil am Sauerstoffgehalt (\< 2%) aus und wird daher in der Praxis (und im Folgenden) vernachlässigt.
@@ -63,9 +63,9 @@ Blickt man nun etwas genauer[^physgelo2] ...
 :::{math}
 :label: EQU-DO2
 
-\rm{DO}_2  \approx {\color{red}\rm{CO}} \times {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2}
+\rm{DO}_2  \approx {\color{red}\rm{CO}} \times {\color{purple}\rm{Hb} \times 1{,}34 \color{black}\times \color{blue}\rm{SaO}_2}
 
-\rm{DO}_2  \approx {\color{red}{\rm{SV}} \times f} \times {\color{purple}\rm{Hb} \times \color{purple} 1,34 \color{black}\times \color{blue}\rm{SaO}_2}
+\rm{DO}_2  \approx {\color{red}{\rm{SV}} \times f} \times {\color{purple}\rm{Hb} \times \color{purple} 1{,}34 \color{black}\times \color{blue}\rm{SaO}_2}
 
 :::
 
@@ -88,7 +88,7 @@ Die DO₂ beträgt normalerweise, normalisiert auf die Körperoberfläche, 500--
 
 [^physgelo2]:
     $$
-    \rm{DO}_2 = {\color{red}\rm{CO}} \times ({\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} + {\color{gray}\rm{paO}_2 \times 0,0031})
+    \rm{DO}_2 = {\color{red}\rm{CO}} \times ({\color{purple}\rm{Hb} \times 1{,}34 \color{black}\times \color{blue}\rm{SaO}_2} + {\color{gray}\rm{paO}_2 \times 0{,}0031})
     $$
 
 [^huefnerschezahl]: Der rechnerisch maximale Wert der Hüfner'schen Zahl beträgt 1,39 ml O₂ / g Hb.
@@ -127,7 +127,7 @@ Hier sind insbesonders **Stresssituationen** zu nennen, aber auch der **Grundums
 :::{seealso}
 - {ref}`Sauerstoffausschöpfung V̇O₂ <VO2>`
 
-  (${\dot{\rm V}\rm O}_2 \approx {\rm\color{red}CO} \times {\color{blue}{\rm Hb}\times 1,34 \times } ( {\color{teal}{\rm S{\color{purple}a}O_2} - {\rm S{\color{violet}mv}O_2}})$)
+  (${\dot{\rm V}\rm O}_2 \approx {\rm\color{red}CO} \times {\color{blue}{\rm Hb}\times 1{,}34 \times } ( {\color{teal}{\rm S{\color{purple}a}O_2} - {\rm S{\color{violet}mv}O_2}})$)
 :::
 
 Die Optimierung des Bedarfs, z.B durch *Anxiolyse*, *Analgesie* und *Sedierung* stellt somit einen wesentlichen Part in der Optimerung der Oxygenation dar.

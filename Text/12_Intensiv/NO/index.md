@@ -45,7 +45,7 @@
 
 ## Einleitung
 
-```{index} pair: Stickstoffmonoxid; NO-A 
+```{index} pair: Stickstoffmonoxid; NO-A
 ```
 ```{index} pair: NO; NO-A
 ```
@@ -65,19 +65,19 @@ Es spielt als Gasotransmitter eine entscheidende Rolle bei der Regulation der We
 Stickstoffmonoxid reagiert im Blut innerhalb von Sekunden mit Oxyhämoglobin zu NO₃⁻, daher ist die Wirkung auf das Applikationsgebiet beschränkt.
 Stickstoffmonoxid ist als **Arzneimittel** zugelassen.
 
-```{index} single: Stickstoffmonoxid Messer 
+```{index} single: Stickstoffmonoxid Messer
 ```
-```{index} pair: ARDS; NO-Therapie 
+```{index} pair: ARDS; NO-Therapie
 ```
-```{index} pair: COVID-19; NO-Therapie 
+```{index} pair: COVID-19; NO-Therapie
 ```
-```{index} pair: Pneumonie; NO-Therapie 
+```{index} pair: Pneumonie; NO-Therapie
 ```
-```{index} pair: Hypertonie, pulmonale; NO-Therapie 
+```{index} pair: Hypertonie, pulmonale; NO-Therapie
 ```
-```{index} pair: Neugeborene, respiratorische Insuffizienz; NO-Therapie 
+```{index} pair: Neugeborene, respiratorische Insuffizienz; NO-Therapie
 ```
-```{index} pair: Druck, pulmonalarterieller; NO-Therapie 
+```{index} pair: Druck, pulmonalarterieller; NO-Therapie
 ```
 ```{index} pair: Pulmonaliskatheter; NO-Therapie
 ```
@@ -134,11 +134,11 @@ Die *Anfangsdosis* beträgt 20 ppm, eine rasche Reduktion auf 5 ppm ist anzu
 Bei ARDS ist das Monitoring mit *Pulmonaliskatheter* zwecks Einschätzung der kardialen Funktion großzügig zu stellen.
 Kontraindikationen beachten!
 
-```{index} pair: NO-Therapie; Kontraindikationen 
+```{index} pair: NO-Therapie; Kontraindikationen
 ```
-```{index} pair: Herzinsuffizienz; NO-Therapie 
+```{index} pair: Herzinsuffizienz; NO-Therapie
 ```
-```{index} pair: PCWP; NO-Therapie 
+```{index} pair: PCWP; NO-Therapie
 ```
 ```{index} pair: Shunt; NO-Therapie
 ```
@@ -175,15 +175,15 @@ Kontraindikationen beachten!
 
 Die NO-Therapie sollte nicht abrupt abgesetzt werden, weil dies zu einem Anstieg des Pulmonalarteriendrucks (PAP) und/oder einer Verschlechterung der Blutoxygenierung (PaO₂) führen kann. [^cite_fi-no]
 
-```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie 
+```{index} single: Methylenblau; Methämoglobinämie bei NO-Therapie
 ```
-```{index} pair: Methämoglobin; NO-Therapie 
+```{index} pair: Methämoglobin; NO-Therapie
 ```
-```{index} pair: Stickstoffdioxid; NO-Therapie 
+```{index} pair: Stickstoffdioxid; NO-Therapie
 ```
-```{index} pair: NO₂; NO-Therapie 
+```{index} pair: NO₂; NO-Therapie
 ```
-```{index} pair: Thrombozyten; NO-Therapie 
+```{index} pair: Thrombozyten; NO-Therapie
 ```
 ```{index} pair: Gerinnung; NO-Therapie
 ```
@@ -226,6 +226,9 @@ Eine regelmäßige Überwachung der Hämostase und Messung der Blutungszeit wäh
 
 [^cite_fi-no]
 
+
+
+
 ## Therapie
 
 ```{index} pair: Pulmonaliskatheter; NO-Therapie
@@ -240,6 +243,9 @@ Bei ARDS ist das Monitoring mit *Pulmonaliskatheter* zwecks Einschätzung der ka
 
 Die **Anfangsdosis** beträgt **20 ppm**, eine *rasche Reduktion* auf **5 ppm** ist anzustreben.
 Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
+
+
+
 
 (probleme)=
 
@@ -256,14 +262,19 @@ Tritt eine unerwartete Veränderung der INOmax-Konzentration auf, muss das Abgab
 Die **NO₂**-Konzentration muss **unter 0,5 ppm** liegen!
 :::
 
+
+
+
 (probleme-gaskonzentration)=
 
 ### Unerwartete Veränderung der gemessenen Gas-Konzentrationen
 
 Tritt eine unerwartete Veränderung der Gas-Konzentration auf, muss das Abgabesystem auf eine Fehlfunktion untersucht und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]
 
-```{index} pair: Methhämoglobin; NO-A
-```
+
+
+:::{index} pair: Methhämoglobin; NO-A
+:::
 
 (probleme-methhaemoglobin)=
 
@@ -271,6 +282,8 @@ Tritt eine unerwartete Veränderung der Gas-Konzentration auf, muss das Abgabesy
 
 Bei Erwachsenen sollte der Methhämoglobinspiegel *innerhalb einer Stunde* nach Therapie-Beginn gemessen werden.
 Steigt der Anteil von Methämoglobin auf einen Wert, der potentiell eine adäquate Sauerstoffzufuhr beeinträchtigt, ist die Dosis von Stickstoffmonoxid Messer zu senken und die Anwendung von Reduktionsmitteln wie *Methylenblau* in Erwägung zu ziehen.
+
+
 
 ## Literatur und Quellen
 

@@ -9,6 +9,7 @@
 
 (wendl-tubus)=
 (AATW-KP-Wendl-Tubus)=
+(Nasopharyngealtubus)=
 
 # Nasopharyngealtubus (Wendl-Tubus)
 

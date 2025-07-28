@@ -8,6 +8,7 @@
 :::
 
 (ARMP-KP-Thoraximpedanzmessung)=
+(Thoraximpedanzmessung)=
 
 # Thoraximpedanz
 

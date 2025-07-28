@@ -3,6 +3,7 @@
 
 (beatmungassistiert)=
 (beatmungkontrolliert)=
+(Beatmung)=
 
 # Ⓑ Beatmung
 

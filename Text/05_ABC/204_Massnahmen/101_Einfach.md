@@ -4,6 +4,8 @@
 \clearpage
 :::
 
+(A-Massnahmen-einfach)=
+
 # Einfache Ⓐ-Maßnahmen
 
 Sobald der Atemweg gefährdet ist oder eine Atemwegsverlegung bemerkt wird, müssen sofort Maßnahmen eingeleitet werden, die die Atemwege frei machen und frei halten sollen.
@@ -31,6 +33,8 @@ Ist selbst die bronchoskopische Entfernung nicht möglich, kann auch ein operati
 :::
 :::{index} pair: Neutralposition; Kopf (Kinder)
 :::
+
+(Kopf-ueberstrecken)=
 
 ## Kopflagerung: Kopf überstrecken, Kinn anheben
 

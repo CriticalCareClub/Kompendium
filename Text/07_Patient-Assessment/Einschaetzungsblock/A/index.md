@@ -40,16 +40,19 @@ Der Atemweg kann *frei*, *verlegt* oder *gefährdet* sein.
 
 ## Typische Maßnahmen
 
-- Überstrecken des Kopfes
-
+- {ref}`Überstrecken des Kopfes <Kopf-ueberstrecken>`
 - {ref}`Esmarch-Handgriff <Esmarch-Handgriff>`
-
 - {ref}`Stabile Seitenlage <StabileSeitenlage>` nach Ⓑ
-
-- Absaugung
-
-- Spezielle Maßnahmen bei Atemwegsverlegung
-
+- {ref}`Absaugung <Absaugung>`
+- {ref}`Nasopharyngealtubus <Nasopharyngealtubus>`
+- {ref}`Oropharyngealtubus <Oropharyngealtubus>`
+- Extraglottische Atemwegs-Devices, z.B.
+  - {ref}`Larynxmaske <larynxmaske>`
+  - {ref}`larynxtubus <Larynxtubus>`
+- {ref}`endotracheale Intubation (ETI) <endotrachealeintubation>`, {ref}`Intubation mittels Videolaryngoskopie <ETI-Videolaryngosko>`
+- {ref}`Flexible Endoskopische Intubation (FEI) <FEI>`
+- {ref}`Koniotomie <Koniotomie>`
+- {ref}`Tracheotomie <Tracheotomie>`
+- {ref}`Spezielle Maßnahmen bei Atemwegsverlegung <m-atemwegsverlegung>`
 - {ref}`m-standardmassnahmen-vital`
-
   - Absaugbereitschaft!

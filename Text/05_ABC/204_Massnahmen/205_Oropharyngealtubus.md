@@ -8,6 +8,7 @@
 (guedeltubus)=
 (guedel-tubus)=
 (AATW-KP-Guedel-Tubus)=
+(Oropharyngealtubus)=
 
 # Oropharyngealtubus (Guedel-Tubus)
 

@@ -6,6 +6,7 @@
 
 
 (ARMO-KP-Beatmungsmonitoring)=
+(Beatmungsmonitoring)=
 
 # Beatmungsmonitoring
 

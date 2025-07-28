@@ -3,7 +3,7 @@
 :::
 
 (absaugung-taetigkeit)=
-(absaugung)=
+(Absaugung)=
 (absauggeraete)=
 (AATW-KP-Absaugung)=
 

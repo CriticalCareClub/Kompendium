@@ -1,6 +1,6 @@
-```{index} single: Atmung; Einschätzungsblock 
+```{index} single: Atmung; Einschätzungsblock
 ```
-```{index} pair: Breathing; Einschätzungsblock 
+```{index} pair: Breathing; Einschätzungsblock
 ```
 ```{index} pair: B; Einschätzungsblock
 ```
@@ -10,169 +10,152 @@
 
 # Ⓑ Atmung (Breathing)
 
-Als nächstes wird die Funktion der *Atmung* beurteilt:
+Unter Punkt Ⓑ die Funktion der *Atmung* beurteilt.
+Dies kann klinisch, aber auch unter Zuhilfenahme von diagnostischen Geräten erfolgen.
 
-1. Achten auf Sprechdyspnoe
+## Klinische Beurteilung
 
-2. Einschätzung von *Frequenz* und *Tiefe* der Atmung.
+01. Achten auf **Sprechdyspnoe**
+02. Einschätzung von **Atemfrequenz** ($f$) und **Tiefe** (Zug- bzw. Tidalvolumen, $V_t$) der Atmung.
+    Frequenz und Zugvolumen ergeben das **Atemminutenvolumen** (AMV, $V_\text{min}$):
 
-3. Beurteilung des Exkursionen des Thorax,
-   achten auf *gleichseitiges* Heben des Brustkorbes
+    $$
+    V_\text{min} = f \times V_t
+    $$
 
-4. Achten auf pathologische **Bauch-** und **Thoraxbewegungen**
-   und **Anstrengungen** beim Atmen
-   (Einsatz der *Atemhilfsmuskulatur*,
-   *Einziehungen* an den Rippen,
-   *Nasenflügeln* (bei Kindern),
-   sichtliches Ringen um Luft).
+    - **Tachypnoe**, **Bradypnoe** (alters- und belastungsabhängig, siehe {numref}`Tab-atmung-normwerte`)
+    - **Hyperventilation**: erhöhtes *AMV*, d.h. zu schnell *und* zu viel, pCO₂ wird vermehrt abgeatmet
 
-5. Achten auf **Atemgeräusche**
-   (inspiratorischer/exspiratorischer Stridor, Brodeln)
+03. Atemmuster
+04. Beurteilung der Atemmechanik:
 
-   Ein exspiratorischer Stridor sowie Giemen können Anzeichen für eine bronchiale Obstruktion bzw. Spastik sein.
-   Brodelnde Atemgeräusche finden sich häufig beim Lungenödem
-   oder nach Aspiration.
+    - Thoraxexkursionen (seitengleich?),
+    - pathologische **Bauch-** und **Thoraxbewegungen** (*"Schaukelatmung"*)
+    - **Anstrengungen** beim Atmen
+      (Einsatz der *Atemhilfsmuskulatur*,
+      *Einziehungen* an den Rippen,
+      *Nasenflügeln* (bei Kindern),
+      sichtliches Ringen um Luft,
+      Ausatmen durch „geschürzte“ Lippen ("PEEP")
 
-6. **Hautfarbe** (Zyanose)
+05. **Orthopnoe** (bzw. der dringende Wunsch, sich aufzusetzen, Unruhe)
+06. **Unruhe** und **Angst** sind unspezifische, aber häufige Zeichen einer Atemstörung
+07. Achten auf **Atemgeräusche**
+    (inspiratorischer/exspiratorischer **Stridor**, **Brodeln**)
 
-7. Orientierende **Auskultation**
+    Ein exspiratorischer Stridor sowie Giemen können Anzeichen für eine bronchiale *Obstruktion* bzw. *Spastik* sein.
+    Brodelnde Atemgeräusche finden sich häufig beim *Lungenödem*
+    oder nach *Aspiration*.
+08. **Hautfarbe** (Zyanose)
+09. Orientierende **Auskultation**
 
-   Hier ist besonders auf
-   die **seitengleiche Belüftung**,
-   feuchte **Rasselgräusche**
-   (Stauung, Lungenödem, Aspiration) oder
-   **spastische Atemgräusche** zu achten.
+    Hier ist besonders auf die **seitengleiche Belüftung**, feuchte **Rasselgeräusche** (Stauung, Lungenödem, Aspiration) oder **spastische Atemgeräusche** zu achten.
 
-8. Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung ist das Vorziehen des **Abtastens des Thorax** möglich.
+10. Bei Verdacht auf das Vorliegen einer mechanisch bedingten Atemstörung oder Trauma **Abtastens des Thorax**
 
-```{index} single: Totraum
-```
-```{index} single: Totraumventilation
-```
-```{index} single: Schnappatmung
-```
+Eine **insuffiziente Atmung** liegt dann vor, wenn das *erforderliche* Atemminutenvolumen nicht erreicht wird.
+
+
+
+### Atemhilfsmuskulatur
+
+Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion in Bezug auf die obere Extremität.
+Wird diese jedoch fixiert (z. B. durch Aufstützen), kommt es zu einer *Umkehr von Punctum mobile* und *Punctum fixum*, d. h. es wird nicht der Arm gegenüber des Brustkorbs bewegt, sondern der Brustkorb in Bezug auf den (fixierten) Arm.
+Dadurch kann die Atemhilfsmuskulatur bei Bedarf (z.B. Asthmaanfall) die Atmung unterstützen.
+Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) oft gut zu erkennen.
+
+
+
+:::{subfigure} AB
+:subcaptions: below
+:name: Figure-BilderserieB
+:class-grid: outline
+:gap: 20px
+
+Bilderserie: Breathing [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+
+![Zyanotische Lippen](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
+
+![Patientin mit einem akuten Asthmaanfall: Sie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab, um die Atemhilfsmuskulatur einzusetzen.](/Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.jpg)
+:::
+
+
+:::{index} single: Totraum
+:::
+:::{index} single: Totraumventilation
+:::
+:::{index} single: Schnappatmung
+:::
 
 (schnappatmung)=
 
-## Totraumventilation und Schnappatmung
+### Totraumventilation und Schnappatmung
 
-Unter dem {dfn}`Totraum` versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt, im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen).
-Er beträgt beim Erwachsenen ca. 150 mL.
+<!-- Anm. SCHINNERL: Totraum beim Kind? 2 ml/kg? -->
 
-Bei der {ref}`Totraumventilation <Totraumventilation>` ist das Atemzugvolumen im Verhältnis zum Totraum zu gering, sodass nicht ausreichend Frischluft in die Alveolen gelangt.
+Unter dem **Totraum** versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt, im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen).
+Er beträgt beim Erwachsenen physiologisch ca. 150—200 mL.
+Das Verhältnis von Totraumventilation zum Volumen, welches am Gasaustausch beteiligt ist, ist aus mehreren Gründen entscheidend:
 
-Insbesonders bei der {dfn}`Schnappatmung` kann genau dies passieren:
-Hierbei handelt es sich, dem Namen entsprechend, um, teils eindrucksvolle, schnappende Atembewegungen, welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
-Das Atemzugsvolumen folglich so gering dass es zu einer Totraumventilation kommt und die Atmung somit hochgradig insuffizient (d. h.: faktisch nicht vorhanden) ist.
+- **Tachypnoe**: Bei flacher, schneller Atmung muss im Verhältnis zur alveolären Beatmung viel Totraum bewegt werden, was Kraft und Sauerstoff kostet: Atemfrequenzen über 30 / min in Ruhe führen beim Erwachsenen bald zur *Erschöpfung* und müssen dringend behandelt werden
+- Bei der  **Schnappatmung** handelt es sich, dem Namen entsprechend, um, teils eindrucksvolle, schnappende Atembewegungen, welche jedoch nur zu einer minimalen Bewegung der Luftsäule führen.
+  Das Atemzugsvolumen ist folglich so gering, dass es zu einer Totraumventilation kommt und die Atmung somit hochgradig insuffizient (d. h.: faktisch nicht vorhanden) ist.
+  Infolge der beeindruckenden Atemarbeit wird dieser *funktionale Atemstillstand* aber häufig viel zu spät als solcher erkannt mit einer entsprechenden Verzögerung der Reanimationsmaßnahmen.
 
-:::{list-table} Übersicht Normalwerte: Atmung (grobe Richtwerte)
-:header-rows: 1
-:stub-columns: 1
-:widths: 25 25 25 25
+Zusätzlich zum Totraum, der durch die anatomischen Strukturen vorgegeben ist, gibt es auch den **alveolären Totraum**: Hier handelt es sich um belüftete Alveolen, die schlecht oder gar nicht durchblutet werden, dadurch wird natürlich der Gasaustausch entsprechend beeinträchtigt.
 
-- -
-  - AF \[/ min\]
-  - AZV \[ml\]
-  - SpO₂ \[%\]
-- - Neugeborenes
-  - 30—50
-  - 20—30
-  - 95—100
-- - Säugling
-  - 20—30
-  - 40—55—80
-  - 95—100
-- - Kleinkind
-  - 20—30
-  - 80—180
-  - 95—100
-- - Schulkind
-  - 15—20
-  - 240—350
-  - 95—100
-- - Jugendlicher
-  - 14—20
-  - 500
-  - 95—100
-- - Erw. ♂
-  - 12—16
-  - 800
-  - 95—100
-- - Erw. ♀
-  - 12—16
-  - 700
-  - 95—100
+
+
+
+
+:::{table} Übersicht Normalwerte (Richtwerte) der Atmung: Die Normalwerte sind altersabhängig!
+:name: Tab-atmung-normwerte
+
+|              | AF \[/ min\] | AZV \[ml\] |
+| ------------ | ------------ | ---------- |
+| Neugeborenes | 30—50        | 20—30      |
+| Säugling     | 20—30        | 40—55—80   |
+| Kleinkind    | 20—30        | 80—180     |
+| Schulkind    | 15—20        | 240—350    |
+| Jugendlicher | 14—20        | 500        |
+| Erw. ♂       | 12—16        | 800        |
+| Erw. ♀       | 12—16        | 700        |
 :::
 
-(table-atmungsymptome-pam)=
 
-:::{list-table} Symptome von Atemstörungen
-:header-rows: 1
+:::{table} Symptome von Atemstörungen
+:name: table-atmungsymptome-pam
 
-* - Kriterium
-  - Befund
-  - Beschreibung
-* - Beschwerde
-  - Atemnot (Dyspnoe)
-  - Leitsymptom
-* - Atemgeräusch
-  - Brodeln
-  - Blubbern, klassisch für Lungenödem
-* - 
-  - Stridor
-  - -
-* - 
-  - Brummen, Giemen
-  - -
-* - 
-  - Rasselgeräusche
-  - -
-* - Frequenz
-  - Beschleunigt
-  - Tachypnoe
-* - 
-  - Verlangsamt
-  - Bradypnoe
-* - Atemzugsvolumen
-  - Schnappatmung
-  - -
-* - 
-  - Flache Atmung
-  - -
-* - 
-  - Tiefe Atmung
-  - Z. B. Kußmaul’sche Atmung
-* - Hautfarbe
-  - Blass
-  - Normal, Anämie, Blutverlust
-* - 
-  - Rosig
-  - Normal, -Vergiftung
-* - 
-  - Bläulich
-  - Zyanose: Hypoxie!
-* - Körperlich
-  - Einziehungen an den Rippen
-  - Einsatz der Zwischenrippenmuskulatur
-* - 
-  - Aufstützen
-  - Einsatz der Atemhilfsmuskulatur
-* - 
-  - Nasenflügeln
-  - Atemnot, besonders bei Kleinkindern
-* - 
-  - Aufrechte Position
-  - -
-* - 
-  - Paradoxe Atmung
-  - Brustkorb _senkt_ sich bei Einatmung, z. B. bei Serienrippenfraktur
-* - Geräte
-  - Pulsoxymetrie
-  - -
-* - 
-  - Kapnometrie
-  - CO₂-Messung
+| **Kriterium**     | **Befund**                 | **Beschreibung**                                                    |     |
+| ----------------- | -------------------------- | ------------------------------------------------------------------- | --- |
+| *Beschwerde*      | Atemnot (Dyspnoe)          | Leitsymptom, subjektiv                                              |     |
+| *Atemgeräusch*    | Brodeln                    | Blubbern, klassisch für Lungenödem                                  |     |
+|                   | Stridor, *inspiratorisch*  | obere Atemwegs-Problematik                                          |     |
+|                   | Stridor, *exspiratorisch*  | untere Atemwegs-Problematik                                         |     |
+|                   | Brummen, Giemen            |                                                                     |     |
+|                   | Rasselgeräusche            |                                                                     |     |
+| *Frequenz*        | Beschleunigt               | Tachypnoe                                                           |     |
+|                   | Verlangsamt                | Bradypnoe                                                           |     |
+| *Atemzugsvolumen* | Schnappatmung              |                                                                     |     |
+|                   | Flache Atmung              |                                                                     |     |
+|                   | Tiefe Atmung               | Z. B. Kußmaul’sche Atmung                                           |     |
+| *Hautfarbe*       | Blass                      | Normal, Anämie, Blutverlust                                         |     |
+|                   | Rosig                      | Normal, CO-Vergiftung                                               |     |
+|                   | Bläulich                   | Zyanose: Hypoxie!                                                   |     |
+| *Körperlich*      | Einziehungen an den Rippen | Einsatz der Atemhilfsmuskulatur                                     |     |
+|                   | Aufstützen                 | Einsatz der Atemhilfsmuskulatur                                     |     |
+|                   | Nasenflügeln               | Atemnot, besonders bei Kleinkindern                                 |     |
+|                   | Aufrechte Position         |                                                                     |     |
+|                   | Paradoxe Atmung            | Brustkorb *senkt* sich bei Einatmung, z. B. bei Serienrippenfraktur |     |
+|                   | Headbobbing                | Kinder: Einsatz des M. Sternocleidomastoideus                       |     |
+|                   | Juguläre Einziehungen      |                                                                     |     |
+| *Geräte*          | Pulsoxymetrie              | O₂-Sättigung                                                        |     |
+|                   | Kapnometrie                | CO₂-Messung (Cave: Interpretation bei Diffusionsstörung!)           |     |
+|                   | Blutgasanalyse             | O₂- und CO₂-Diffusion                                               |     |
+
 :::
+
+
 
 
 :::{subfigure} AB|CC
@@ -204,6 +187,18 @@ Situationsgerechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztna
 ₢ {term}`GaSe` {term}`ℓ MfG`
 :::
 
+
+
+## Apparative Diagnostik
+
+- {ref}`Pulsoxymetrie <Pulsoxymetrie>`
+- {ref}`Blutgasanalyse <Blutgasanalyse-respiratorisch>`
+- {ref}`Kapnometrie <kapnometrie>`
+- {ref}`Beatmungsmonitoring <Beatmungsmonitoring>`
+- {ref}`Thoraximpedanzmessung <Thoraximpedanzmessung>`
+
+
+
 (lippenbremse-basic)=
 
 ## Typische Maßnahmen
@@ -218,23 +213,12 @@ Situationsgerechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztna
   Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
   unteren Atemwege und funktioniert ähnlich wie der {ref}`PEEP <Peep>`.
 
-  Dabei atmet der Patient langsam und gleichmäßig durch
-  die beinahe geschlossenen Lippen,
-  also gegen einen Widerstand,
-  aus.
-  Dadurch kommt es zu einer Verlängerung der Ausatmung und einem
-  Luftrückstau und einer Druckerhöhung bis in die Bronchien und
-  Alveolen,
-  dies verhindert einen Kollaps derselben.
-  Zusätzlich ermöglicht diese Atemtechnik eine vermehrte
-  Schleimablösung.
+  Dabei atmet der Patient langsam und gleichmäßig durch die beinahe geschlossenen Lippen, also gegen einen Widerstand, aus.
+  Dadurch kommt es zu einer Verlängerung der Ausatmung und einem Luftrückstau und einer Druckerhöhung bis in die Bronchien und Alveolen, dies verhindert einen Kollaps derselben.
+  Zusätzlich ermöglicht diese Atemtechnik eine vermehrte Schleimablösung.
 
 - Beengende Kleidung öffnen
-
 - Lagerung mit erhöhtem Oberkörper
-
 - Atemkommandos, Voratmen
-
-- Beatmung
-
+- {ref}`Beatmung <Beatmung>`
 - {ref}`m-standardmassnahmen-vital`

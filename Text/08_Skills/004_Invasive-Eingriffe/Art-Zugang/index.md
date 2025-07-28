@@ -189,7 +189,7 @@ Zur Verhinderung von Katheterinfektionen müssen die hygienischen Maßnahmen str
 
 :::{subfigure} AB
 :subcaptions: below
-:name: BS-Arteriensystem
+:name: BS-Arteriensystem-Skills
 :gap: 8px
 :class-grid: outline
 

@@ -5,6 +5,7 @@ Airwaymanagement
 Akutfall
 Akutsituation
 Akuttherapie
+Aldosteron
 Alkalose
 Allergenexposition
 Alveolen
@@ -341,6 +342,7 @@ Paramedic
 Parese
 Partialdrücke
 Pathomechanismen
+Pathomechanismus
 Pathophysio
 Peitschenschlagsyndrom
 Penizillinallergie
@@ -451,6 +453,7 @@ Subileus
 supraglottische
 SVRI
 Sympathikolyse
+Sympathikusaktivierung
 Symphyse
 Symptombeginn
 Synthesehemmung

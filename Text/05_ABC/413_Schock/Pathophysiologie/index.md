@@ -93,7 +93,7 @@ Die Systematik der einzelnen Schocksyndrome ist nicht einheitlich, eine praktika
 Mischformen sind möglich und häufig.
 Das Endstadium aller Schockformen ist der fortschreitende Organschaden bis hin zum Multiorganversagen, Kreislaufkollaps und Tod.
 
-## Sauerstoffbedarf/-Verbrauch 
+## Sauerstoffbedarf/-Verbrauch
 
 Wesentliche Faktoren die den Sauerstoffverbrauch beeinflussen:
 - Körpertemperatur
@@ -228,21 +228,28 @@ Eine Übersicht über typische Schocksymptome bietet Tafel {ref}`Tafel-Schocksym
 
 ### Wenn es viel zu spät ist: *Schockindex* und *Schockschere*
 
-````{only} latex
-```{raw} latex
-\dictum{Nach dem Schockindex zu behandeln, ist wie den Airbag aufzublasen, wenn bereits der Abschleppwagen kommt.}
-```
-````
-````{only} not latex
-:::{epigraph}
+
+:::{tip}
 Nach dem Schockindex zu behandeln, ist wie den Airbag aufzublasen, wenn bereits der Abschleppwagen kommt.
 :::
-````
+
 
 :::{margin} Schockschere
+
 - RR{sub}`syst`\< HF
 - Dann bereits *schwerer* Schock
 - Spätzeichen, auch ohne Schockschere kann Schock bestehen.
+
+- *Schockbeurteilung*: Schocksymptome und Verdachtsdiagnose, *nicht*
+  primär Schockschere!
+
+- Für Kinder nicht anwendbar
+
+  - Wenn sich das Verhältnis
+    "Herzfrequenz zu systolischem Blutdruck"
+    umkehrt, befindet sich der Patient bereits in einem schweren
+    Schock.
+  - Die Schockschere ist ein *Spätzeichen!*
 :::
 
 Normalerweise (beim Erwachsenen in Ruhe) ist die Herzfrequenz niedriger als der systolische Blutdruck.
@@ -251,10 +258,13 @@ Man spricht dann von der *Schockschere*, der Patient befindet sich dann *bereits
 
 :::{warning}
 *Die Schockschere ist ein spätes Zeichen!*
+
+Auch wenn die Herzfrequenz niedriger ist als der systolische Blutdruck kann sich der Patient bereits im Schock befinden!
+Ob ein Schock oder eine Schockgefahr besteht, wird anhand von *Schocksymptomen* und anhand der *Verdachtsdiagnose* beurteilt, **nicht** primär anhand der Schockschere!
 :::
 
 Wem das Bildnis einer imaginierten Schockschere zu anschaulich ist, der kann sich in die Mathematik flüchten und die Herzfrequenz durch den Blutdruck dividieren.
-Das Ergebnis nennt sich dann *Schockindex* und ist dieser größer als 1, dann ist das ... schlecht. 
+Das Ergebnis nennt sich dann *Schockindex* und ist dieser größer als 1, dann ist das ... schlecht.
 Für die mathematischen Ästheten:
 
 $$
@@ -271,13 +281,20 @@ if Schockindex > 1 then schlecht=true
 :::
 ::::
 
+:::{important}
+Schock beim Kind
+
+Die Schockschere gilt beim Kind nicht, da die Normalwerte andere sind!
+Kinder bleiben außerdem lange kreislaufstabil, verfallen dann aber schlagartig!
+:::
+
 :::{note}
 - Grundsatz:
   *Der Schock muss bekämpft werden bevor man ihn bemerkt.*
 :::
 
 
-<!-- 
+<!--
 ## Grundlagen der Therapie
 
 Flüssigkeitstherapie und ihre Steuerung im schockierten Patienten

@@ -25,6 +25,7 @@ Ein Schock ist eine *lebensbedrohliche Kreislaufstörung* aufgrund von Untervers
 
 Beim Schock ist der Körper nicht in der Lage, eine ausreichende Durchblutung der lebenswichtigen Organe aufrechtzuerhalten, was zu Gewebehypoxie und Organversagen führt.
 Somit besteht eine Missverhältnis zwischen dem Herzauswurfs und dem Bedarf des Körpers.
+Dies kann unterschiedliche Ursachen haben, z. B. dass das zu wenig Herz pumpt, zu wenig Blut bzw. Flüssigkeit vorhanden ist oder die Gefäße zu weit gestellt sind und Blut dadurch versackt.
 Die genaue Pathophysiologie hängt dabei von der zugrunde liegenden Ursache ab.
 Es können dabei einzelne oder mehrere Teile des Kreislaufsystems betroffen sein (Blut, Gefäße, Herz).
 
@@ -53,6 +54,26 @@ Es können dabei einzelne oder mehrere Teile des Kreislaufsystems betroffen sein
 
 :::
 
+
+
+
+:::{margin} Kompensation, Dekompensation
+- Gegensteuerung (*Kompensation*)
+- Sympathikus (*"Fight!"*)
+- Zentralisation
+- Ende: *Dekompensierter Schock*
+:::
+
+Der Körper versucht durch Aktivierung des Sympathikus gegenzusteuern (zu *kompensieren*).
+Der wichtigste Mechanismus ist die {dfn}`Zentralisation`.
+Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut, Muskel und Darm sowie die Extremitäten (Peripherie) kaum mehr durchblutet. Periphere Venen kollabieren und die *Rekapillarisierungszeit* verlängert sich. Die Hautdurchblutung wird verringert und die Haut wird kühl und bleich.
+
+Dies funktioniert allerdings nur eine gewisse Zeit und in einem gewissen Ausmaß gut, daher ist eine schnell einsetzende Therapie wichtig! Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom *dekompensierten Schock*. Es besteht spätestens dann akute *Lebensgefahr*!
+
+:::{admonition} Synopsis
+
+Ein Schockzustand ist grundsätzlich als vitale Bedrohung einzustufen!
+:::
 
 :::{toctree}
 :maxdepth: 2

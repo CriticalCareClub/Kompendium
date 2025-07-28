@@ -71,8 +71,6 @@ Klinische Bedeutung der Labortests?
 :::
 :::{index} single: Point of Care; ROTEM
 :::
-(rotem)=
-
 
 (ROTEM)=
 

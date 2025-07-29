@@ -1,15 +1,7 @@
-
-:::{index} single: Diuretika
-:::
-
-
 # Diuretika
 
-```{toctree}
-:maxdepth: 1
+:::{seealso}
 
-Azetazolamid/index
-Furosemid/index
-Spironolacton/index
-Xipamid/index
-```
+- {ref}`Furosemid`
+- {ref}`acetazolamid`
+- {ref}`Xipamid`

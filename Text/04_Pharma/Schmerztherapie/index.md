@@ -266,7 +266,7 @@ Dosis 0,5-1 mg / kg / h Clonidin: dämpft die postoperative Stressantw
 opioidsparend. NW: Bradykardie, Hypotonie, Polyurie, Obstipation.
 Dexmedetomidin/Dexdor: Dosis 0,2-1,4 µg / kg / h, bei Delir;  NW: Verlängert Refraktärzeit am AV-
 Knoten mit Bradykardie, Hypotonie, Polyurie und Obstipation.
-= Psycholeptikum Propofol: gute Steuerbarkeit, antiemetisch, Metabolisierung  über die Leber, 90%  renale Ausscheidung, 2% zur Reduzierung der Fettbelastung. (siehe Propofolinfusionssyndrom)
+= Psycholeptikum Propofol: gute Steuerbarkeit, antiemetisch, Metabolisierung  über die Leber, 90%  renale Ausscheidung, 2% zur Reduzierung der Fettbelastung. (siehe {ref}`Propofolinfusionssyndrom <Propofolinfusionssyndrom>`)
 Midazolam/Dormicum: kurzwirkames Benzodiazepin, EliminationsHWZ 1-3h,
 Ceiling Effekt,
 Dosis 0,05-0,1 mg / kg / h

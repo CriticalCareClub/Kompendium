@@ -80,7 +80,7 @@ Dosierung
 [^Propofol-TIVA-TCI]: TCI (Target Controlled Infusion): Steuerung nach Größe, Gewicht und Alter anhand von Modellen (Marsh Plasma Modus, Schnider Wirkort Modus)
 
 
-:::{list-table}
+:::{list-table} Propofol: Dosierung
 :header-rows: 1
 :name: TAB-Propofol-Dosierung
 

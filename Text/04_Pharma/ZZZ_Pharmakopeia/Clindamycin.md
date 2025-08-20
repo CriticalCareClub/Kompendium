@@ -7,11 +7,13 @@
 
 # Clindamycin
 
+{{ WIP }}
+
 Clindamycin gehört zur Klasse der Lincosamide.
 Es wirkt bakteriostatisch auf grampositive aerobe und obligat anaerob wachsende Bakterien.
 Es hemmt die Proteinbiosynthese in der Bakterienzelle.
 
-NW  
-: - antibiotikaassoziierte Kolitis  
+NW
+: - antibiotikaassoziierte Kolitis
   - pseudomembranöse Enterokolitis
 

@@ -23,7 +23,7 @@ Aufgrund seiner engen Verbindung mit dem Krankheitsbild der Sepsis und der damit
 :::
 :::{index} single: Systemic Inflammatory Response Syndrome
 :::
-:::{index} single: Syndrome; Systemic Inflammatory Response 
+:::{index} single: Syndrome; Systemic Inflammatory Response
 :::
 :::{index} pair: SIRS; Kriterien
 :::
@@ -249,10 +249,10 @@ Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instr
   - 2,0–3,4
   - 3,5–4,9
   - \> 5,0
-* - 
+* -
   - Diurese [mL/d]
-  - 
-  - 
+  -
+  -
   - < 500
   - < 200
 :::
@@ -328,11 +328,11 @@ Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instr
 
 Sepsis und septischer Schock sind medizinische Notfälle und müssen *sofort* behandelt werden.
 Sepsistherapien, die ursprünglich als "Early Goal Directed Therapy" bezeichnet wurden, haben sich zu einer üblichen Versorgungsstrategie entwickelt, die einen Standardansatz mit Komponenten betreffend Früherkennung, Laktat-Messung, Kulturen, Antibiotika und Flüssigkeitstherapie umfasst.
-Wesentliche Quelle hinsichtlich der Behandlung der Sepsis und des septischen Schocks stellen die Richtlinien der Surviving Sepsis Campaign \[{term}`♛ SurvSepsisCpg 2021`\] dar, auf welche sich die folgenden Empfehlungen stützen.
+Wesentliche Quelle hinsichtlich der Behandlung der Sepsis und des septischen Schocks stellen die Richtlinien der Surviving Sepsis Campaign \[{term}`♛ SurvSepsisCpg 2021`\] und der S3-Leitlinie Sepsis [{term}`♛ S3 Sepsis 2025`] dar, auf welche sich die folgenden Empfehlungen stützen.
 
 ### Volumentherapie
 
-Die Volumentherapie in der Sepsis ist seit Jahrzehnten Schauplatz intensiver Studien und emotionaler Diskussionen und sichert Kongressveranstaltern ein gutes und ausbaubares Basisprogramm. 
+Die Volumentherapie in der Sepsis ist seit Jahrzehnten Schauplatz intensiver Studien und emotionaler Diskussionen und sichert Kongressveranstaltern ein gutes und ausbaubares Basisprogramm.
 Spitze Gegenstände sowie Glasflaschen sind in einschlägigen Sessions auf Kongressen zumeist am Eingang abzugeben.
 
 Die Flüssigkeitstherapie soll grundsätzlich mittels intravenöser **balancierter kristalloider Flüssigkeit** erfolgen.
@@ -345,7 +345,12 @@ Die weitere Flüssigkeitstherapie soll daher *individuell* unter Verwendung **h�
 Dazu gehören die Reaktion auf ein passives Beinheben (*passive leg raise test*) oder einen *Flüssigkeitsbolus* unter Monitoring von *Schlagvolumen* (*SV*), *Schlagvolumenvariation* (*SVV*), *Pulsdruckvariation* (*PPV*) und/oder *Echokardiographie* (vgl. {ref}`Haemodynamisches-Monitoring`).
 
 **Albumin** ist eine Option bei Patienten, die große Mengen Kristalloide erhalten haben.
-Sonstige **kolloidale Infusionen** (HAES, Gelatine etc.) sind aufgrund der *Capillary Leak* **kontraindiziert!**
+Sonstige **kolloidale Infusionen** (HAES, Gelatine[^Gelatine-spetischer-Schock] etc.) sind aufgrund der *Capillary Leak* **kontraindiziert!**
+
+[^Gelatine-spetischer-Schock]: HAES gilt definitiv beim Capillary Leak als kontraindiziert.
+    Für die Gelatine ist die aktuelle Diskussion nicht ganz so eindeutig, würde aber hier den Rahmen sprengen, siehe hierzu {term}`♛ S3 Volumentherapie 2020` sowie [Leitlinienreport Pkt. 5 S. 37ff](https://register.awmf.org/assets/guidelines/079-001m_S3_Sepsis-Praevention-Diagnose-Therapie-Nachsorge_2025-07.pdf) zu {term}`♛ S3 Sepsis 2025`
+
+
 
 ### Vasopressoren
 

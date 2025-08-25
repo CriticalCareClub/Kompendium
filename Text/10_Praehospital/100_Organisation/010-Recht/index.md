@@ -58,7 +58,7 @@ Gesetze und Vorgaben die *Krankenanstalten* betreffend:
   - **Landeskrankenanstaltsgesetze**, welche die Grundsatzbestimmungen des KAKuG in die Landesgesetzgebung umsetzen, z. B. das
     [Wiener Krankenanstaltengesetz 1987](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000282) oder das
     [NÖ Krankenanstaltengesetz (NÖ KAG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrNO&Gesetzesnummer=20001038).
-  - **Österreichischer Strukturplan Gesundheit** ({term}`♛ ÖSG 2017 TXT`)
+  - **Österreichischer Strukturplan Gesundheit** ({term}`⚖ ÖSG 2017 TXT`)
 
 Gesetze den *Rettungsdienst* betreffend
 : - **Landesrettungsdienstgesetze**, z. B. das

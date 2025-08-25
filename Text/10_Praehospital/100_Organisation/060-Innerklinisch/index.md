@@ -12,7 +12,7 @@ Die Innerklinische Notfallmedizin deckt verschiedene Schnittstellen ab, z. B.:
 
 ## Arten von Krankenanstalten
 
-Allgemeine Krankenanstalten sind nicht auf bestimmte Patientengruppen beschränkt und können unterschieden werden in \[§ 2a KaKuG, {term}`♛ ÖSG 2017 TXT`\]:
+Allgemeine Krankenanstalten sind nicht auf bestimmte Patientengruppen beschränkt und können unterschieden werden in \[§ 2a KaKuG, {term}`⚖ ÖSG 2017 TXT`\]:
 
 - **Standard-Krankenanstalten** übernehmen in den jeweils eingerichteten Fachbereichen in der Regel die **Basis- und Grundversorgung**, können jedoch auch punktuell Schwerpunktversorgungsfunktionen übernehmen.
   Sie führen zumindest zwei Abteilungen (eine davon jedenfalls für Innere Medizin) und stellen eine ambulante chirurgische bzw. unfallchirurgische Basisversorgung sicher.
@@ -76,7 +76,7 @@ Dort übernehmen speziell ausgebildete *Emergency Physicians* die interdisziplin
 ### Aufnahmestationen
 
 Dabei handelt es sich um Stationen, welche an Notaufnahmen angeschlossen sind, um Patienten und dem Spital langwierige Aufnahmen auf Regelstationen zu ersparen, wenn nur eine kurzweilige stationäre Behandlung oder Überwachung erforderlich ist.
-Sie dienen damit der Erst- oder Kurzaufnahme von PatientInnen im Not- oder Akutfall mit festgestellter Anstaltsbedürftigkeit bis zur Übernahme in andere Pflegestationen für längeren Aufenthalt oder Direktentlassung \[{term}`♛ ÖSG 2017 TXT`\].
+Sie dienen damit der Erst- oder Kurzaufnahme von PatientInnen im Not- oder Akutfall mit festgestellter Anstaltsbedürftigkeit bis zur Übernahme in andere Pflegestationen für längeren Aufenthalt oder Direktentlassung \[{term}`⚖ ÖSG 2017 TXT`\].
 Manchmal kommen solche Aufnahmestationen auch zum Einsatz um Normalstationen ausserhalb der Kernarbeitszeit die zeitintensiven Aufnahmeprozeduren ausserhalb der Regelarbeitszeit zu ersparen.
 
 ### Schockraum
@@ -127,7 +127,7 @@ Häufig werden **Versorgungsnetzwerke** etabliert, um die Ressourcen überregion
 Dies bedingt häufig jedoch auch Transferierungen von Patienten von Häusern der Regelversorgung hin zu Häusern mit einem breiteren Leistungsangebot (Schwerpunkt- und Zentralkrankenhäuser).
 
 
-Sehr spezielle Zentren werden im Rahmen der überregionalen Versorgungsplanung im österreichischen Strukturplan Gesundheit ({term}`♛ ÖSG 2017 TXT`) geregelt.
+Sehr spezielle Zentren werden im Rahmen der überregionalen Versorgungsplanung im österreichischen Strukturplan Gesundheit ({term}`⚖ ÖSG 2017 TXT`) geregelt.
 In der Notfallmedizin betrifft dies die Schwerbrandverletzten-Versorgung sowie die hochkontagiösen lebensbedrohlichen Erkrankungen (Sonderisolierstation).
 
 ### Beispiel: Myokardinfarktnetzwerk in Niederösterreich

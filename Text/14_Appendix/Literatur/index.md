@@ -237,6 +237,12 @@
   Springer.
   DOI: [10.1007/s00063-025-01317-1](https://doi.org/10.1007/s00063-025-01317-1)
 
+♛ S3 Volumentherapie 2020
+: **S3-Leitlinie Intravasale Volumentherapie bei Erwachsenen**
+  der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI) et al.
+  *AWMF*, Registernummer: 001-020, 2020.
+  https://register.awmf.org/de/leitlinien/detail/001-020
+
 ♛ SurvSepsisCpg 2021
 : **Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.**
   By: Evans, L., Rhodes, A., Alhazzani, W. et al.

@@ -9,6 +9,11 @@
 
 # 27. SEPSIS
 
+:::{seealso}
+- {term}`♛ SurvSepsisCpg 2021`
+- S3-Leitlinie Sepsis [{term}`♛ S3 Sepsis 2025`]
+:::
+
 Eine Sepsis wird laut aktueller Definition als lebensbedrohliche Organdysfunktion aufgrund einer inadäquaten Wirtsantwort auf Infektionen definiert.
 
 

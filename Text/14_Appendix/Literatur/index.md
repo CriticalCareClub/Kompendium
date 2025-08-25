@@ -229,6 +229,14 @@
   AWMF-Registernummer 015-063.
   <https://register.awmf.org/de/leitlinien/detail/015-063>
 
+♛ S3 Sepsis 2025
+: **S3-Leitlinie Sepsis – Prävention, Diagnose, Therapie und Nachsorge – Update 2025**
+  by F. M. Brunkhorst et al.
+  *Medizinische Klinik - Intensivmedizin und Notfallmedizin*,
+  2025,
+  Springer.
+  DOI: [10.1007/s00063-025-01317-1](https://doi.org/10.1007/s00063-025-01317-1)
+
 ♛ SurvSepsisCpg 2021
 : **Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.**
   By: Evans, L., Rhodes, A., Alhazzani, W. et al.

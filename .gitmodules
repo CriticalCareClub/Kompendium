@@ -1,0 +1,3 @@
+[submodule "Submodules/3134-cspell-dictionaries"]
+	path = Submodules/3134-cspell-dictionaries
+	url = gitea@lab.engerth.space:3134/3134-cspell-dictionaries.git

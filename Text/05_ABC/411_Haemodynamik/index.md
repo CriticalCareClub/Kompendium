@@ -87,7 +87,8 @@ Dabei muss beachtet werden, dass das erforderliche Volumen, anders als z. B. i
 Durch Ihre Kontraktilität können sie einen Druck aufbauen, welcher auf das Herz wie ein Widerstand, gegen welches es pumpen muss, wirkt: Die **Nachlast** (*Afterload*).
 Diese Nachlast steht in Verbindung mit dem durch die Gefäße aufgebauten **systemisch-vaskulären Widerstand** (*systemic vascular resistance*, *SVR*).
 Die SVR wird in dynes s / cm⁵ angegeben.
-Dyn ist eine alte Einheit für Kraft, 1 dyn entspricht 0,00001 Newton.
+{index}` <Dyn>`
+*Dyn* ist eine alte Einheit für Kraft, 1 dyn entspricht 0,00001 Newton.
 
 
 

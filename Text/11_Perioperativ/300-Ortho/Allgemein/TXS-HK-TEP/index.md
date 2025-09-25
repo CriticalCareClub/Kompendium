@@ -6,7 +6,7 @@
 # Perioperative Tranexamsäuregabe in der Orthopädie
 
 Die Gabe von Tranexamsäure zur Prophylaxe und Behandlung von intraoperativen
-Blutungen ist Standard (1-3) bei allen operativen Knie- und Hüftendoprothesen
+Blutungen ist Standard bei allen operativen Knie- und Hüftendoprothesen
 Implantationen.
 
 Dosierung
@@ -23,6 +23,3 @@ Literatur
   {term}`🗎 Wang 2016`
 
   Drug-label der FDA zu Cyklokapron, Stand Februar 2011
-
-
-

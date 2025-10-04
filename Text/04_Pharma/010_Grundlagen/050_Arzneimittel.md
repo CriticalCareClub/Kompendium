@@ -4,17 +4,17 @@
 
 ## Stärke: Wirkstoff, Dosis, Konzentration
 
-Die "Stärke" des Arzneimittels
-{index}` <Stärke des Arzneimittels>`
-ist je nach Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder Gewichtseinheit.
+Die "Stärke" des Arzneimittels ist je nach Verabreichungsform der Wirkstoffanteil pro Dosierungs-, Volumens- oder Gewichtseinheit.
 Bei Medikamenten wird normalerweise die Menge (Masse) des Wirkstoffes (z. B. in Milligramm (mg)) angegeben.
 Manchmal erfolgt die Angabe auch in anderen Einheiten, wie z. B. den *Internationalen Einheiten* (*IE*).
-Bei flüssigen Arzneimitteln (Ampullen, Infusionen, ...)
-findet sich außerdem auch eine Volumsangabe.
+Bei flüssigen Arzneimitteln (Ampullen, Infusionen, ...) findet sich außerdem auch eine Volumsangabe.
 Aus der Angabe der Wirkstoffmenge und des Volumens kann man die Konzentration berechnen.
 In manchen Fällen ist auch eine Konzentrationsangabe des Wirkstoffs im Lösungsmittel üblich
 (z. B. Glukose 5%, NaCl 0,9%, Propofol 1%, Adrenalin 1 : 10.000 usw.).
-Ein Prozent enspricht dann umgerechnet 10 mg / mL bzw. 1 mL entspricht 1.000 mg.
+Ein Prozent entspricht dann umgerechnet 10 mg / mL bzw. 1 mL entspricht 1.000 mg.[^Masse-und-Volumen]
+
+[^Masse-und-Volumen]: Die Annahme "1 mL entspricht 1.000 mg" ist in dieser allgemeinen Form eigentlich illegal, wird aber bei wässrigen Lösungen der Einfachheit halber einfach so angenommen.
+    Mediziner sind keine echten Naturwissenschaftler. {index}` <Beweis; Mediziner sind keine echten Naturwissenschaftler>`
 
 :::{list-table} Typische Angaben zu Wirkstoffmenge und Konzentration. Beachte: Gleichlautende Spezialitäten können erheblich unterschiedliche Wirkstoffkonzentrationen sowie Wirkstoff- und Füllmengen aufweisen!
 :header-rows: 1

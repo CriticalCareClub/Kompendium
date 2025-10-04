@@ -9,13 +9,7 @@
 
 ```{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-Appendektomie/index
-Cholezystektomie/index
-Fundoplicatio/index
-Mamma/index
-Strumektomie/index
-TAPP/index
-Varizen/index
+*/index
 ```

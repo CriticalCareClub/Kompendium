@@ -20,12 +20,12 @@ Beseitigung der reversiblen Komponente einer Bronchialobstruktion, durch Entspan
 
 - **β2-Sympathomimetika**
 
-  z.B.: Terbutallin (Bricanyl), Salbutamol (Sultanol), Fenoterol (Berotec, Berodual); intravenös oder inhalativ
+  z.B.: Terbutalin (Bricanyl), Salbutamol (Sultanol), Fenoterol (Berotec, Berodual); intravenös oder inhalativ
 
 - **Parasympatholytika**
 
   - Quartäre Amine
-  - Zur Anfallsprophylaxe – verhindern chollinerg vermittelte Bronchokonstriktion,
+  - Zur Anfallsprophylaxe – verhindern cholinerg vermittelte Bronchokonstriktion,
   - In Kombination mit Sympathomimetika
   - Ipatropium
   - Tiotropium (Spiriva)

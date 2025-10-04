@@ -77,7 +77,7 @@ Steril: BK, Liquor, Punktion steriler Körperhöhlen Physiologisch kolonisiertes
 
 
 Blutkulturen:
-Es werden 3 x 2 Paare (anerob/aerob) aus einem frisch gelegtem Zugang (Venflon, ZVK, Arterie)
+Es werden 3 x 2 Paare (anaerob/aerob) aus einem frisch gelegtem Zugang (Venflon, ZVK, Arterie)
 oder bei va. ZVK ass. Inf. aus distalen und proximalen Schenkel und 1 periph. Vene! Optimal zum Zeitpunkt der Bakteriämie (Temp > 37,8 HF\> 90/min Leukozytose = Sirs Kriterien!)
 
 DTP: Diffenertial time to positivity = periphere TTP -- zentrale TTP; wenn \> 2h + gleicher Keim liegt eine ZVK assoziierte Bakteriämie vor!!

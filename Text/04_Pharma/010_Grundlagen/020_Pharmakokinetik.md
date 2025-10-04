@@ -81,7 +81,7 @@ Tachyphylaxie
 
 
 Proteinbindung
-: alpha1-Glykoprotein bindet basische Medikamente (z.B. Propofol, LA,...) und Albumin bindet sauere Medikamente (z.B. Benzodizepine, Thiopental,...).
+: alpha1-Glykoprotein bindet basische Medikamente (z.B. Propofol, LA,...) und Albumin bindet sauere Medikamente (z.B. Benzodiazepine, Thiopental,...).
 
 Diffusionsgeschwindigkeit
 : Die Diffusionsgeschwindigkeit ist abhängig von der Fläche, vom Konzentrationsgradienten,

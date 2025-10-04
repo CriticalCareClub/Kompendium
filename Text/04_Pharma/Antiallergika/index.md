@@ -50,7 +50,7 @@ H1-Rezeptor-Antagonisten hemmen die durch Histamin vermittelte Weitstellung von 
   - - NO-Freisetzung aus Endothelzellen → systemische Vasodilatation
     - Gefäßpermeabilität ↑
     - Tonus glatte Muskulatur ↑ (Bronchien, Darm, Uterus)
-    - Erregung sensibler Nerenendigungen →Juckreiz, Schmerzen
+    - Erregung sensibler Nervenendigungen →Juckreiz, Schmerzen
     - ZNS: Vigilanz ↑, Emesie ↓
 - - H2
   - - Magensäureproduktion ↑

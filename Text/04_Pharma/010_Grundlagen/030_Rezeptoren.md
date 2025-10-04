@@ -48,7 +48,7 @@ Man unterscheidet:
   - G-Protein-gesteuerte Rezeptoren
 - - - Acetylcholin Rezeptor vom Nikotin-Typ
     - Serotoninrezeptor vom 5-HT3-Subtyp
-    - GABAA-Rezeptor
+    - GABA-A-Rezeptor
     - Glutamatrezeptor vom NMDA und Non-NMDA-Typ
     - Glycinrezeptor
     Einfacher Weg der Signalübertragung, rascher Anpassung
@@ -58,7 +58,7 @@ Man unterscheidet:
     - Serotoninrezeptoren außer 5-HT3-Subtyp
     - Histamin-,Adenosin-,Angiotensin-, Brandykinin-,Vasopressin- und
     - Prostaglandinrezeptoren
-    - GABAB-Rezeptor
+    - GABA-B-Rezeptor
     - Opioidrezeptoren (µ,κ,δ)
     - Cannabinoidrezeptoren (CB1/CB2)
 :::

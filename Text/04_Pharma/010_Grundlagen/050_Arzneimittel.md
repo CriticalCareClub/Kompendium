@@ -78,7 +78,7 @@ Viele Medikamente können auch zur besseren Dosierung mit *geeigneten Substanzen
   Konzentration *1* mg / mL
 
 Manche Medikamente liegen als *Trockensubstanz* in einer *Trockenstechampulle* vor, welche vor Verwendung erst mit einem *geeigneten* Lösungsmittel aufgelöst werden muss.
-Das erforderliche Lösungmittel ist vom Medikament abhängig.
+Das erforderliche Lösungsmittel ist vom Medikament abhängig.
 Bei Verwendung eines falschen Lösungsmittel kann es z. B. zu Ausflockungen,
 Wirkminderungen o. ä.
 kommen,

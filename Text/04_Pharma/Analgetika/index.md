@@ -251,7 +251,7 @@ Hier soll nun das Stufenschema der WHO bei Tumorschmerzen gezeigt werden.
 |                                  | **Stufe II**: Niederpotentes     |
 |                                  | Opioid mit                       |
 |                                  | Nicht-Opioid-Analgetikum         |
-|                                  | mit/ohne Adjuvanz mit/ohne       |
+|                                  | mit/ohne Adjuvans mit/ohne       |
 |                                  | Koanalgetikum                    |
 +----------------------------------+----------------------------------+
 | **Stufe I**:                     |                                  |

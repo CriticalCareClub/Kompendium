@@ -21,7 +21,7 @@
 Gesamtkörperwasser ist abhängig von Alter, Geschlecht, Körperbau:
 
 - Neugeborene 70-80% aus Wasser
-- Männer 55%, Frauen 45% aus Wasseer
+- Männer 55%, Frauen 45% aus Wasser
 - Extrazellulärflüssigkeit 45%, Intrazellulärflüssigkeit 55% des Gesamtkörperwassers
 
 "Je mehr Fett, desto weniger Wasser, je älter desto trockener"
@@ -46,7 +46,7 @@ Die **Osmolarität:** gibt Verhältnis des Wassers zu den darin gelösten Teilch
 Sie beträgt im Blut 290—300 mosmol / L.
 Die **Osmolalität** (mit "l") ist keine betrunkene Osmolarität, sondern die molare Konzentration aller osmotisch wirksamer Teile **pro kg** H₂O.
 Das osmotisches Gleichgewicht ist durch Na- und K-Ionen konstant.
-An der Osmolarität misst sich eine Infsionslösung ob sie isto- hypo- oder hyperton ist.
+An der Osmolarität misst sich eine Infusionslösung ob sie iso- hypo- oder hyperton ist.
 
 - Regulation durch Antidiruretisches Hormon ADH
 - Aldosteron – Hypovolämie, Verlust extrazellulärer Flüssigkeit
@@ -110,14 +110,14 @@ GHrundsätzlich steht man bei kristalloiden Infusinslösungen vor mehreren Herau
 1. Die Lösung sollte im Regelfall **isoton** sein
 2. Der **Anteil der jeweiligen Elektrolyte** sollte möglichst **physiologisch** sein.
 3. Die **Ladungen** (Anionen und Kationen) müssen **ausgeglichen** sein:
-   - Im Plasma liegen *negative Ladungen* jedoch auch in Form von *Aminosäuren* bzw. *Birkarbonat* vor, Kristalloide sind jedoch proteinfrei und Bikarbonat galenisch nicht stabil.  
-   - *Chlorid* bietet sich als Ersatz an, kann jedoch zu einer *hyperchlorämischen Azidose* führen.   
+   - Im Plasma liegen *negative Ladungen* jedoch auch in Form von *Aminosäuren* bzw. *Birkarbonat* vor, Kristalloide sind jedoch proteinfrei und Bikarbonat galenisch nicht stabil.
+   - *Chlorid* bietet sich als Ersatz an, kann jedoch zu einer *hyperchlorämischen Azidose* führen.
 
 
 **Vollelektrolytlösungen** enthalten eine *Natrium-Konzentration über 120 mmol / L* und können sich in der genauen Zusammensetzung der Elektrolyte unterscheiden, nähern sich aber den Konzentrationen im Plasma an und sind somit annähernd isoton.
 **Isotone Vollelektrolytlösungen *ohne* metabolisierbare Anionen** enthalten zum *Ladungsausgleich* in der Regel eine  hohe *Chloridkonzentration* und können zu einer *hyperchlorämen Azidose* führen. {term}`🗎 Hulde 2017`
 
-**Isotone Vollelektrolytlösungen *mit* metabolisierbaren Anionen**(*Azetat*, *Malat*, *Laktat*, *Glukonat*, *Zitrat*) enthalten ebenjene metabolisierbare Anionen zum Ladungsausgleich. 
+**Isotone Vollelektrolytlösungen *mit* metabolisierbaren Anionen**(*Azetat*, *Malat*, *Laktat*, *Glukonat*, *Zitrat*) enthalten ebenjene metabolisierbare Anionen zum Ladungsausgleich.
 Diese **balancierten Lösungen** weisen damit möglichst *physiologische Natrium- und Chloridkonzentration* auf, auch bei großen Infusionsmengen tritt damit keine keine metabolische Azidose auf.
 Sie eignen sie gut zur Deckung des täglichen Flüssigkeitsbedarfs und Substitution eines Flüssigkeitsdefizits.
 

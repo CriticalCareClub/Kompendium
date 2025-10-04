@@ -123,22 +123,20 @@ $$
 | Xenon      | 0,14 | niedrige Löslichkeit, schnelles Anfluten |
 :::
 
-Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab
-
+Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab.
 
 
 :::{subfigure} AB
 :subcaptions: below
-:name: FIG-BS-
+:name: FIG-BS-Henry
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Konzentration, Partialdruck und das Henry'sche Gesetz \[₢ Johannes Schneider, {term}`ℓ CC-BY-SA 4.0`\]
+Bilderserie: Konzentration, Partialdruck und das Henry'sche Gesetz. [₢ Johannes Schneider, {term}`ℓ CC-BY-SA 4.0`]
 
+![Die Konzentration an Teilchen in der flüssigen Phase (hier blau dargestellt) hängt vom Partialdruck ab.](../../Bilder/CC-BY-SA/Konzentrationsabhaengigkeit_vom_Partialdruck_1.\*)
 
-![Die Konzentration an Teilchen in der flüssigen Phase (hier blau dargestellt) hängt vom Partialdruck ab. Eine ...](/Bilder/CC-BY-SA/Konzentrationsabhängigkeit_vom_Partialdruck_1.\*)
-
-![Erhöhung des Außendrucks (hier durch Einpressen eines Kolbens dargestellt) führt zu einem höheren Partialdruck der Gasphase und folglich zu einer höheren Konzentration.](/Bilder/CC-BY-SA/Konzentrationsabhängigkeit_vom_Partialdruck_2.\*)
+![Eine Erhöhung des Außendrucks (hier durch Einpressen eines Kolbens dargestellt) führt zu einem höheren Partialdruck der Gasphase und folglich zu einer höheren Konzentration.](../../Bilder/CC-BY-SA/Konzentrationsabhaengigkeit_vom_Partialdruck_2.\*)
 
 :::
 
@@ -149,8 +147,76 @@ Mit dem relativ einfachen Henry-Gesetz lässt sich die **Dekompressionserkrankun
 Der Umgebungsdruck nimmt um etwa *1 bar pro 10 Meter* Wassertiefe zu. Mit zunehmendem Partialdruck löst sich mehr Stickstoff zunächst im Blut, das ihn in die Peripherie transportiert. Dort diffundiert er vorzugsweise in Kompartimente mit hohem Fettanteil. Erfolgt das Auftauchen zu schnell bzw. ohne die evtl. notwendigen Dekompressionspausen, so ist die Rückdiffusion von Stickstoff (Gewebe → Blut → Lunge →
 Wasser) zu langsam, sodass er ausperlt. Findet dies im Gewebe statt, spricht man von Bends (Gelenkschmerzen), im Lungenkreislauf von Chokes (Atemproblemen) oder bei Blasenbildung in Arterien, die Hirn- oder Rückenmark versorgen, von Staggers (neurologischen Symptomen).
 
+
+
+:::{index} single: Verdampfer
+:::
+
 ## Verdampfer
 
-- Ventil zur Regulation des Gasflows
-- vergrößerte Oberfläche
-- erhitzen
+Ein Verdampfer ist ein Gerät, das eine Flüssigkeit gezielt in die Gasphase überführt.
+Dazu nutzt er verschiedene Prinzipien, um die Verdampfung zu unterstützen und zu steuern.
+
+- Über ein **Ventil** wird der Gasfluss reguliert, sodass die Menge des verdampften Stoffes kontrolliert dosiert werden kann.
+- Eine **vergrößerte Oberfläche** (z. B. durch spezielle Strukturen oder Einsätze) erleichtert die Verdampfung, da mehr Flüssigkeit gleichzeitig in Kontakt mit der Umgebungsluft oder Heizfläche steht.
+- Durch **Erhitzen** wird zusätzliche Energie zugeführt, wodurch die Flüssigkeit schneller in die Gasphase übergeht.
+
+:::{rubric} Medizinische Bedeutung
+:::
+In der Medizin werden Verdampfer vor allem in der **Anästhesie** eingesetzt, um flüchtige Anästhetika (z. B. Sevofluran, Isofluran, Desfluran) kontrolliert zu verdampfen und mit dem Atemgasstrom zu vermischen.
+Dadurch lässt sich die Konzentration des Narkosemittels präzise einstellen.
+
+<!--
+
+# Markdown-Vorgaben
+
+## Allgemeine Formatierung
+
+1. Es wird Myst-Markdown verwendet.
+2. Es wird colon-fencing verwendet (":::" statt "```")
+3. Jeder Satz beginnt im Markdown-Quelltext in einer neuen Zeile.
+4. Begriffe werden im ersten Satz nicht hervorgehoben, wenn sie bereits die Überschrift darstellen.
+5. Die Tab size beträgt 2 Leerzeichen.
+
+## Index-Einträge
+
+Für wichtige Termini werden Index-Einträge vor Überschriften gesetzt.
+
+Beispiel:
+
+::::
+:::{index} single: Term
+:::
+
+## Term
+Der Term wird hier erklärt.
+::::
+
+## Einheiten
+Einheiten werden mit einem schmalen geschützten Leerzeichen (Unicode 202F) abgetrennt.
+
+Beispiele:
+
+:::
+10 mm
+2 mg / kg
+120 mm Hg
+::::
+
+## Tabellen
+Tabellen werden mit der MyST-Direktive `list-table` erstellt.
+
+Beispiel:
+
+::::
+:::{list-table} Beispiel-Tabelle
+:header-rows: 1
+
+* - Begriff
+  - Formel
+  - Einheit
+* - Druck
+  - $p = \frac{F}{A}$
+  - Pa (N / m²)
+:::
+ -->::::

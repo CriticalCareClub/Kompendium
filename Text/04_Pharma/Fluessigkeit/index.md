@@ -98,7 +98,7 @@ Hauptverantwortlicher ist das Albumin.
     - Zitrat
   - metabolisierbare Anionen: Cl⁻ ↑
   - Kohlehydrate
-- ⅔-, ½-, ⅓-Elektrolytlösungen
+- 2/3-, 1/2-, 1/3-Elektrolytlösungen
 - Kaliumfreie Elektrolytlösungen
 :::
 

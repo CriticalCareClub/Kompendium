@@ -80,7 +80,7 @@ Das Vorgehen gemäß ERC wird wie folgt beschrieben:
        entlang fährt, der Druckpunkt liegt dann eine Fingerbreite
        darüber.
 
-   - Die *Eindrücktiefe* soll ungefähr ⅓ des
+   - Die *Eindrücktiefe* soll ungefähr ein Drittel des
      Brustkorbs betragen.
      Das sind beim Säugling ca. 4 cm
      und bei Kindern ca. 5 cm.

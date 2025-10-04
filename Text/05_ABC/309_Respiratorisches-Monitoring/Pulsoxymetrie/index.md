@@ -10,13 +10,15 @@
 :::
 :::{index} single: Pulsoxymetrie
 :::
+:::{index} single: Pulsoxymeter
+:::
 
 (Pulsoxymetrie)=
 (ARMO-KP-Pulsoxymetrie)=
 
 # Pulsoxymetrie
 
-Die Pulsoxymetrie ist eine einfache, *nicht-invasive* Untersuchungsmethode zur Ermittlung der **Sauerstoffsättigung** des Hämoglobins im kapillären Blut (*SpO₂*) und der **Pulsfrequenz**.
+Die Pulsoxymetrie ist eine einfache, *nicht-invasive* Untersuchungsmethode zur Ermittlung der **Sauerstoffsättigung** des {ref}`Hämoglobins <haemoglobin>` im kapillären Blut (*SpO₂*) und der **Pulsfrequenz**.
 Durchgeführt wird sie mittels eines *Pulsoxymeters*.
 
 Das Messprinzip basiert auf einer Messung der Lichtabsorption[^pulsoxywellenlaengen] bzw. der Lichtremission bei Durchleuchtung der Haut mittels eines Sensors, bestehend aus einer Lichtquelle und einem Fotosensor.

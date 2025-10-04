@@ -6,7 +6,7 @@
 ```
 
 (abcde-b)=
-(breathing)=
+(breathing-patient-assessment)=
 
 # Ⓑ Atmung (Breathing)
 
@@ -68,7 +68,7 @@ Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) of
 
 :::{subfigure} AB
 :subcaptions: below
-:name: Figure-BilderserieB
+:name: Figure-Bilderserie-Atemhilfsmuskulatur
 :class-grid: outline
 :gap: 20px
 
@@ -160,7 +160,7 @@ Zusätzlich zum Totraum, der durch die anatomischen Strukturen vorgegeben ist, g
 
 :::{subfigure} AB|CC
 :subcaptions: below
-:name: Figure-BilderserieB
+:name: Figure-Bilderserie-Breathing
 :class-grid: outline
 :gap: 20px
 

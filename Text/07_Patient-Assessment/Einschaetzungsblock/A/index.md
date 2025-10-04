@@ -6,7 +6,7 @@
 ```
 
 (abcde-a)=
-(airway)=
+(airway-patient-assessment)=
 
 # Ⓐ Atemweg (Airway)
 

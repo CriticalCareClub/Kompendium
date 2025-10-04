@@ -1,8 +1,7 @@
 (abcde-c)=
+(circulation-patient-assessment)=
 
 # Ⓒ Kreislauf (Circulation) und Schnelle Trauma-Untersuchung (`STU`)
-
-(circulation)=
 
 ## Klinische Einschätzung des Kreislaufs
 

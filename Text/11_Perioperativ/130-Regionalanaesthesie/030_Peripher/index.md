@@ -223,6 +223,8 @@ Der Plexus brachialis kann an verschiedenen Punkten (interskalenär, supra- oder
 +------------------------+----------------------------+----------------------------------------+
 ```
 
+
+
 :::{index} single: axilläre Plexusblockade
 :::
 :::{index} single: Plexusblockade; axilläre
@@ -241,9 +243,6 @@ Der Plexus brachialis kann an verschiedenen Punkten (interskalenär, supra- oder
 :::
 :::{index} single: Nervus; cutaneus lateralis
 :::
-
-
-(Q-GREG-KP-24001)=
 
 #### Axilläre Plexusblockade
 

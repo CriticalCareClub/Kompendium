@@ -16,18 +16,17 @@
 (akuteskoronarsyndrom)=
 (akutes-koronarsyndrom)=
 (anginapectoris)=
-(herzinfarkt)=
 (mci-acs)=
 (stemi)=
 
 # Akutes Koronarsyndrom (ACS)
 
-Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393) 
+Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation](https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehx393)
 
 {term}`♛ ESC STEMI 2017`
-{term}`🗎 Damman 2017`  
-{term}`🗎 Ibanez 2017` 
-{term}`🗎 Ibanez 2018` 
+{term}`🗎 Damman 2017`
+{term}`🗎 Ibanez 2017`
+{term}`🗎 Ibanez 2018`
 
 
 :::{admonition} Definition
@@ -212,9 +211,9 @@ Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen ein
 
 
 
-:::{index} pair: STEMI-Kriterien; EKG 
+:::{index} pair: STEMI-Kriterien; EKG
 :::
-:::{index} pair: Hauptstammbild; EKG 
+:::{index} pair: Hauptstammbild; EKG
 :::
 :::{index} pair: CX-Infarkt; EKG
 :::
@@ -437,7 +436,7 @@ Gabe von **70 IU / kg i. v.** [^acstherapieallgemeinheparindosierung].
 
 
 
-:::{index} single: P2Y₁₂ 
+:::{index} single: P2Y₁₂
 :::
 :::{index} single: P2Y₁₂-Inhibitor
 :::
@@ -486,17 +485,17 @@ Ticagrelor bei ACS unabhängig von der Therapiestrategie
 - (AT-II-Inhibitoren)
 - (Statine)
 
-:::{index} single: STEMI (Therapie) 
+:::{index} single: STEMI (Therapie)
 :::
-:::{index} single: GP IIb/IIIa-Inhibitor (STEMI) 
+:::{index} single: GP IIb/IIIa-Inhibitor (STEMI)
 :::
-:::{index} single: Ticagrelor (STEMI) 
+:::{index} single: Ticagrelor (STEMI)
 :::
-:::{index} single: Brilique® (STEMI) 
+:::{index} single: Brilique® (STEMI)
 :::
-:::{index} single: Heparin (STEMI) 
+:::{index} single: Heparin (STEMI)
 :::
-:::{index} single: ASS  (STEMI) 
+:::{index} single: ASS  (STEMI)
 :::
 :::{index} single: PCI (STEMI)
 :::
@@ -521,13 +520,13 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 - **Ticagrelor** (Brilique®) 180 mg p. o.
 
-:::{index} single: Lyse (STEMI) 
+:::{index} single: Lyse (STEMI)
 :::
-:::{index} single: Metalyse® 
+:::{index} single: Metalyse®
 :::
 :::{index} single: Tenecteplase
 :::
-:::{index} single: STEMI (Lyse) 
+:::{index} single: STEMI (Lyse)
 :::
 :::{index} single: Lyse, Kontraindikationen
 :::
@@ -562,7 +561,7 @@ Schmerzbegin bis {term}`FMC` \< 12 h
 
 
 
-  
+
 
 :::{rubric} Durchführung
 :::

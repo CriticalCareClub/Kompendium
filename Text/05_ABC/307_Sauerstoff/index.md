@@ -253,7 +253,7 @@ gegeben werde
 aber auch bei der *Beatmung* zugeführt werden.
 
 :::{note}
-- Unterscheide Berieselung (erhaltene Eigenatmung) und Beatmung!
+Unterscheide Berieselung (erhaltene Eigenatmung) und Beatmung!
 :::
 
 ### O₂-Berieselungseinheit

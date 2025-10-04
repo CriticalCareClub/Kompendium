@@ -7,13 +7,21 @@
 :::
 (GHDM-VO-Kreislauf-O2-Transport)=
 (Circulation)=
+(haemodynamik)=
+(blutkreislauf)=
+(vitalfunktion-kreislauf)=
+(kreislauf)=
 
 # Ⓒ wie Kreislauf und Hämodynamik
 
 :::{rubric} Oxygenation ist das Ziel der Hämodynamik
 :::
 
-Der Zweck des Kreislaufs ist die zelluläre {ref}`Oxygenierung <Oxygenation>`.
+Es ist wichtig sich vor Augen zu halten, dass der Kreislauf an sich keinen Selbstzweck darstellt, sondern für den Körper zur Erfüllung seiner Aufgaben wichtig ist.
+Vorrangig wir dabei die Deckung des Sauerstoffbedarfs des Körpers (bzw. der Gewebe) betrachtet.
+Die Hämodynamik beschreibt dabei als Konzept die Funktionalität des Kreislaufs.
+
+Der Zweck des Kreislaufs ist also primär die zelluläre {ref}`Oxygenierung <Oxygenation>`.
 Für eine optimale Sauerstoffversorgung auf zellulärer Ebene müssen die Makro- und Mikrozirkulation sowie der pulmonale Gasaustausch sowie das Gewebemilieu ausgeglichen sein.
 Der Kreislauf übernimmt mit dem Blut als Transportmedium den Transport von Sauerstoff von den Lungenkapillaren in das Gewebe der Endorgane.
 
@@ -64,6 +72,24 @@ Der Kreislauf übernimmt mit dem Blut als Transportmedium den Transport von Saue
 ### Was Sie schon immer über den Herzauswurf wissen wollten …
 
 
+Der Herzauswurf lässt sich durch drei grundlegende Kennzahlen beschreiben:
+
+1. Die *Herzfrequenz* (*Hf*, bzw. *Pulsfrequenz*, *Pf*; Formelzeichen $f$) gibt die Anzahl der Kontraktionen pro Minute an.
+   Der Normalwert beim Erwachsenen beträgt 60—100 / min und ist stark von der körperlichen Belastung bzw. Erregungszustand abhängig.
+
+2. Das *Schlagvolumen* (*Stroke Volume*, *SV*) ist jenes Volumen, welches das Herz bei einer Kontraktion auswirft
+   (Normalwert ca. 70—80 ml).
+
+3. Daraus ergibt sich das *Herzminutenvolumen* (*HMV*) als Produkt von Herzfrequenz und Schlagvolumen:
+
+   $$
+   \rm HMV = Hf \times SV
+   $$
+
+   Der Normalwert beträgt ca. 5—8 L / min.
+
+Bei Belastung kann das Herzminutenvolumen beträchtlich gesteigert werden.
+
 
 #### Ohne *Volumen* keine Füllung und kein Auswurf
 
@@ -91,9 +117,81 @@ Dyn ist eine alte Einheit für Kraft, 1 dyn entspricht 0,00001 Newton.
 
 
 
+
+#### Arterieller Blutdruck
+
+:::{margin} Arterieller Blutdruck
+- systolischer :
+  Maximaldruck in der Arterie am Höhepunkt der Kammerkontraktion (Systole)
+- diastolischer:
+  Druck in der Arterie während der Füllungsphase (Diastole)
+:::
+
+
+Durch den Herzauswurf und dem Gefäßtonus entsteht ein Druck im arteriellen Gefäßsystem, der **arterielle Blutdruck** (ABP).
+Der arterielle Blutdruck lässt sich  mittels {ref}`nichtinvasiver Blutdruckmessung <NIBP>` oder {ref}`invasiver Blutdruckmessung <IABP>` messen.
+
+
+:::{note}
+Der arterielle Blutdruck ist abhängig vom Herzauswurf und dem Gefäßtonus (arterieller Widerstand).
+
+<!-- Er setzt sich somit, analog zum Ohm'schen Gesetz ($U = I \times R$), aus dem Schlagvolumen des Herzens pro Minute (Fluss = Strom: $I$; Herzminutenvolumen, HMV) und dem peripheren Gefäßwiderstand ($R$) zusammen:
+
+$$
+U = I \times R
+$$
+
+$$
+\rm ABP = HMV \times {peripherer\ Gefäßwiderstand}
+$$ -->
+:::
+
+
+Da das Herz rhythmisch kontrahiert, schwankt der Blutdruck im Zeitverlauf abhängig von der Phase der Herzaktion.
+In der **Auswurfphase** (**Systole**) erreicht der Druck sein *Maximum* (**systolischer** Blutdruck), in der **Entspannungs-** und **Füllungsphase** (**Diastole**) sein *Minimum* (*Diastolischer* Blutdruck).
+Der systolische Blutdruck ist somit der Spitzendruck, der diastolische Blutdruck der Minimaldruck.
+Aufgrund der Elastizität der Blutgefäße und dem Gefäßtonus sackt der Minimaldruck nicht auf Null ab.
+
+Der Blutdruck wird in **Millimeter Quecksilbersäule** [^mmHg] (**mm Hg**) gemessen und wird nach dem Schema `systolischer Wert / diastolischer Wert` angegeben, also z. B. `120 / 80 mm Hg`.
+
+[^mmHg]: Millimeter Quecksilbersäule ist eine alte, traditionelle Druckeinheit. 1 mm Hg entspricht dem hydrostatischen Druck von 1 mm Quecksilber in einer Säule, also 133,322 Pascal.
+
+:::{note}
+- *Systolischer* Blutdruck: oberer, höherer Wert; beurteilt die Kontraktionskraft des Herzens, entspricht der Pulswelle, wird immer als erster Wert angegeben.
+- *Diabolischer* Blutdruck: niedrigerer Wert; beurteilt den Druck während der Diastole des Herzens; spiegelt die Elastizität der Aorta wider, wird immer als letzter Wert angegeben.
+:::
+
+Ein erniedrigter Blutdruck wird als *Hypotonie*, ein erhöhter als *Hypertonie* bezeichnet.
+Die Blutdruck-Normalwerte sind alters- und belastungsabhängig.
+
+:::{table} Blutdruckwerte in Erwachsenen [American College of Cardiology; American Heart Association]
+:name: tab-bp-normal-values
+
+| Systolisch [mm Hg] | und/oder | Diastolisch [mm Hg] | Interpretation          |
+| ------------------ | ------ | ------------------- | ----------------------- |
+| < 120              | und    | < 80                | Normal  |
+| 120-129            | und    | < 80                | Erhöht |
+| 130-139            | oder     | 80-89               | Hypertension Stadium 1     |
+| ≥ 140              | oder     | ≥ 90                | Hypertension Stadium 2     |
+
+:::
+
+<!-- Der Mensch braucht einer gewissen Blutdruck, um zu überleben.
+Ein zu geringer Druck (Hypotonie) reicht nicht aus, um alle Organe ausreichend zu durchbluten.
+Ein zu hoher Druck (Hypertonie) wiederum schädigt das Gewebe der Organe und Gefäße.
+ -->
+
+
+Die Einteilung der Blutdruck-Werte erfolgt nach folgendem Schema.
+
+- Hypotonie: < 100-105 mmHg systolisch
+- normaler Blutdruck: < 145/\< 90 mmHg
+- Grenzwertig: 145-165/90-95 mmHg
+- Hypertonie: >165/>95 mmHg ({ref}`Arterielle-Hypertonie`)
+
+
 #### *Druck* ≠ Fluss — Aber ohne Druck fließt nichts
 
-Doch Druck ist nicht unbedingt etwas Schlechtes:
 Die treibende Kraft für einen Fluss ist ein *Druckunterschied* (*Gradient*).
 Der Druck an sich garantiert jedoch noch keinen Fluss, so kann die Passage z. B. durch Vasokonstriktion, Embolie o. ä. versperrt und die kapilläre Perfusion beeinträchtigt sein.
 

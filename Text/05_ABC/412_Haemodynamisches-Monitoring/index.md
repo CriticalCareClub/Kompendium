@@ -1,7 +1,7 @@
 :::{index} pair: Hämodynamik; Monitoring
 :::
 
-(haemodynamik)=
+
 (haemodynamisches-monitoring)=
 (GHDM)=
 

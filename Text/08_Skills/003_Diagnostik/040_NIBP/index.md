@@ -4,6 +4,8 @@
 :::
 
 (blutdruckmessung)=
+(NIBP)=
+(NIBD)=
 
 # Nicht-invasive Messung des Blutdrucks
 

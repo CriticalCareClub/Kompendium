@@ -53,10 +53,10 @@ $$
 AF ↑ → CBF↓
 
 1. Cerebral Compliance
-   {index}`\ <Cerebral; Compliance>`
-   {index}`\ <Compliance; cerebral>`
-   {index}`\ <Cerebral; Elastance>`
-   {index}`\ <Elastance; cerebral>`
+   {index}` <Cerebral; Compliance>`
+   {index}` <Compliance; cerebral>`
+   {index}` <Cerebral; Elastance>`
+   {index}` <Elastance; cerebral>`
 
    (Cerebral Elastance $\frac{\Delta V}{\Delta p}$)
 
@@ -76,8 +76,8 @@ AF ↑ → CBF↓
    - Hypertension und Bradykardie (*Cushing-Reflex*)
 
 3. Cushing-Reflex
-   {index}`\ <Cushing; Reflex>`
-   {index}`\ <Reflex; Cushing->`
+   {index}` <Cushing; Reflex>`
+   {index}` <Reflex; Cushing->`
 
    - Intrakranielle Hypertension
    - Hypertension
@@ -85,8 +85,8 @@ AF ↑ → CBF↓
    - Irreguläre Atmung (Cheyne Stokes)
 
 4. Hirndruckzeichen im CT
-   {index}`\ <Hirndruckzeichen; CT>`
-   {index}`\ <CT; Hirndruckzeichen>`
+   {index}` <Hirndruckzeichen; CT>`
+   {index}` <CT; Hirndruckzeichen>`
 
    - Verstreichen der basalen Zisternen
 
@@ -100,8 +100,8 @@ AF ↑ → CBF↓
      CPP = MAP − ICP
 
      Hagen-Poiseuille-Gleichung:
-     {index}`\ <Hagen-Poiseuille; Gleichung>`
-     {index}`\ <Gleichung; Hagen-Poiseuille>`
+     {index}` <Hagen-Poiseuille; Gleichung>`
+     {index}` <Gleichung; Hagen-Poiseuille>`
 
      > $$
      > Q = \frac{\Delta p \cdot \pi \cdot r^{4}}{8 \cdot L \cdot \eta}
@@ -113,8 +113,8 @@ AF ↑ → CBF↓
    eventuell Dexamethason-Bolus 40 mg Denke an Magenschutz!
 
    CRASH-Studie: Kortison bei SHT
-   {index}`\ <CRASH; Studie>`
-   {index}`\ <Studie; CRASH>`
+   {index}` <CRASH; Studie>`
+   {index}` <Studie; CRASH>`
 
    > There was no evidence that the effect of corticosteroids differed
    > by injury severity or time since injury. These results lend

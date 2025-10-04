@@ -1291,7 +1291,7 @@ mit einem Inhalationsanästhetikum oder mit Propofol.
 - Wegen der starken Überstreckung des Halses sollte für die
   endotracheale Intubation ein **Spiraltubus** verwendet werden.
 - Das Mediastinoskop kann die **A. anonyma komprimieren**,
-  {index}`\ <Arteria; anonyma; Mediastinoskopie>`
+  {index}` <Arteria; anonyma; Mediastinoskopie>`
 - so dass die
   rechte A. carotis und A. subclavia weniger Blut erhalten. **Puls- und
   Drucklosigkeit am rechten Arm** weisen auf diese Komplikation hin.

@@ -16,14 +16,14 @@
 
 β-Blocker
 
-: {index}`\ <pair: β-Blocker; peri-OP>`
+: {index}` <pair: β-Blocker; peri-OP>`
   Bei Absetzen Rebound möglich
 
   Kardioprotektion bei Risikopatienten
 
 Kalziumantagonisten
 
-: {index}`\ <pair: Kalziumantagonisten; peri-OP>`
+: {index}` <pair: Kalziumantagonisten; peri-OP>`
   Keine Kardioprotektion, aber RR-Anstieg bei Absetzen
 
   Substanzen vom Verapamil- und Diltiazem-Typ zeigen auch im normalen
@@ -33,8 +33,8 @@ Kalziumantagonisten
 
 α₂-Agonisten
 
-: {index}`\ <pair: α₂-Agonisten; peri-OP>`
-  {index}`\ <Alpha-2-Agonisten; peri-OP>`
+: {index}` <pair: α₂-Agonisten; peri-OP>`
+  {index}` <Alpha-2-Agonisten; peri-OP>`
   Kardioprotektion bei kardialen Risikopatienten
 
   Verringern Anästhetika-Bedarf und post-OP-Analgetikabedarf
@@ -47,11 +47,11 @@ Nitrate, Molsidomin
 
 Antiarrhythmika
 
-: {index}`\ <pair: Antiarrhythmika; peri-OP>`
+: {index}` <pair: Antiarrhythmika; peri-OP>`
   Gefahr von Arrythmien bei Absetzen
 
   *Lidocain* senkt MAC und potenziert Wirkung von i. v.-Anästhetika
-  {index}`\ <pair: Lidocain; MAC-Wert>`
+  {index}` <pair: Lidocain; MAC-Wert>`
 
   Klasse Ia- und Ib-Antiarrhythmika verlängern die Wirkdauer von
   nicht-depol. Relaxantien
@@ -60,7 +60,7 @@ Antiarrhythmika
   die negativ-inotrope Wirkung von Inhalationsanästhetika
 
   **Amiodaron**
-  {index}`\ <pair: Amiodaron; peri-OP>`
+  {index}` <pair: Amiodaron; peri-OP>`
   kann zu atropinresistenten Bradykardien,
   AV-Dissoziationen, ausgeprägter Vasodilatation und HZV ↓.
   Perioperative Todesfälle sind beschrieben.
@@ -99,20 +99,20 @@ MAO-Hemmer
   {index}` <pair: Dextrometorphan; kontraindiziert mit MAO-Hemmern>`
   {index}` <pair: Ephedrin; kontraindiziert mit MAO-Hemmern>`
   {index}` <Sympathomimetika; indirekte; kontraindiziert mit MAO-Hemmern>`
-  
+
   **1.** Generation:
   Nicht-selektiv und  irreversibel;
   Z. B.
   *Tranylcypromin*,
   *Isocaboxazid*,
   Phenelzin.
-  
+
   **2.** Generation:
   Selektiv und irreversibel;
   Z. B.
   *Clorylin* (MAO-A),
   *Deprenyl* (MAO-B).
-  
+
   **3.** Generation: Selektiv und reversibel;
   Z. B.
   *Moclobemid* (MAO-A),

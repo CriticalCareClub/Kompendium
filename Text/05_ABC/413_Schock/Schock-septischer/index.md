@@ -41,7 +41,7 @@ Aufgrund seiner engen Verbindung mit dem Krankheitsbild der Sepsis und der damit
 ## SIRS, Sepsis, septischer Schock
 
 **SIRS** (*Systemic Inflammatory Response Syndrome*, systemisches Entzündungsreaktionssyndrom) ist eine übertriebene Abwehrreaktion des Körpers auf eine schädliche Noxe und beinhaltet die Freisetzung von Acute-Phase-Proteinen, welche direkte Mediatoren von systemischen autonomen, endokrinen, hämatologischen und immunologischen Veränderungen sind.
-{index}`\ <Zytokinsturm>`
+{index}` <Zytokinsturm>`
 Der **dysregulierte Zytokinsturm** verursacht dabei eine massive Entzündungskaskade, die zu reversiblen oder irreversiblen *Funktionsstörungen der Endorgane* (*Multi Organ Dysfunction Syndrome*: **MODS**) und sogar zum Tod führen kann. \[{term}`🗎 SIRS 2023`\]
 Auf Intensivstationen kann ein SIRS bei 90% der Patienten vorkommen.
 Die Ursache muss nicht zwingend infektiöser Natur sein.

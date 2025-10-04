@@ -5,13 +5,22 @@
 		}
 	],
 	"settings": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"editor.wordWrap": "bounded",
+		"esbonio.sphinx.confDir": "./Text",
+		"files.trimTrailingWhitespace": true,
+		"myst.preview.extensions": [
+			"dollarmath",
+			"colon_fence",
+			"deflist",
+			"amsmath",
+			"tasklist"
+		],
+		"myst.preview.enable": true,
 		"workbench.colorCustomizations": {
 			"activityBar.background": "#107C31",
 			"activityBar.foreground": "#ffffff",
 		},
-		"editor.detectIndentation": false,
-		"editor.tabSize": 2,
-		"editor.wordWrap": "bounded",
-		"esbonio.sphinx.confDir": "",
 	}
 }

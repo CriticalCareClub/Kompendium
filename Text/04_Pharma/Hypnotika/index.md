@@ -21,7 +21,7 @@ Medikamente:
 
 Intravenöse Hypnotika binden an Liganden-gesteuerten Ionen Kanälen:
 - GABA, Glycin, 5 HT3 und neuronale Ach-Rezeptoren, NMDA, AMPA und an G-Protein gekoppelte Rezeptoren: z.B. Dexdor α2-Rezetoren im ZNS.
-- Ausnahme Ketamin: bindet an NMDA; *nicht* an ~~GABA, Glycin, nAch~~
+- Ausnahme Ketamin: bindet an **NMDA**; *nicht* an GABA, Glycin, nAch!
 
 Sie sind *fettlöslich* und können rasch durch Zellmembranen und Kapillaren diffundieren → Abfall der Plasmakonzentration durch *Verteilung in den Kompartimenten!*
 

@@ -22,23 +22,23 @@ Unterschiedliche Konzentrationen im Handel!
 
 
 
-Beschreibung  
-: - 
+Beschreibung
+: -
 
-Wirkung  
+Wirkung
 : - Erzeugt abhängig von der Dosis eine dissoziative Anästhesie
 
-Indikation  
+Indikation
 : - Analgesie, Anästhesie, therapierefr. Bronchospasmus.
 
-Kontraindikationen  
-: - erhöhter :term:`ICP` (relativ), penetrierende Augenverletzung,  
+Kontraindikationen
+: - erhöhter :term:`ICP` (relativ), penetrierende Augenverletzung,
     kardiale Dekompensation, KHK
 
-Dosierung  
-: - Analgesie: 0,1—0,25 mg / kg i. v., 0,25—0,5 mg / kg i. m.  
-  - Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg i. m.  
-  - Bronchospasmus: 1—2,5 mg / kg i. v.  
+Dosierung
+: - Analgesie: 0,1—0,25 mg / kg i. v., 0,25—0,5 mg / kg i. m.
+  - Anästhesie: 1—2,5 mg / kg i. v., 2,5—4 mg / kg i. m.
+  - Bronchospasmus: 1—2,5 mg / kg i. v.
   - Rep: halbe Initialdosis.
 
 
@@ -76,7 +76,7 @@ Kontraindikationen: Myokardinfarkt, KHK, Schädel-Hirn-Trauma, Eklampsie, psychi
 = dissoziative Anästhesie mit Bewusstseinsverlust und Analgesie unter weitgehend erhaltenen Reflexen (Husten und Schluckreflex bei hohen Dosen eingeschränkt!) Wirkungseintritt 10-15min nach Gabe mit weiten Pupillen, Tränen-  und Speichelfluss, erhöhtem Muskeltonus und unwillkürlichen Bewegungen.
 Ketanest = S-Isomer mit 2fach stärkerer anästhetischer Wirkung als R-Isomer, mit weniger psychomimetischen NW.
 
-Wirkt  über **NMDA-Rezeptor** (NICHT über ~~GABAA~~!)
+Wirkt  über **NMDA-Rezeptor** (*NICHT* über GABAA!)
 Führt zu einer selektiven Hemmung neuronaler Funktionen im Cortex und Thalamus mit Stimulation des limbischen Systems und des Hippocampus (psychomimetische NW). Binden auch an  µ-Opioidrezeptoren im RM und Gehirn
 (Prophylaxe des chron. Schmerzes), lokalanästhetische Wirkung und neuroprotektive Wirkung.
 Der zentrale Atemantrieb wird wenig beeinflusst. Bronchodilation.

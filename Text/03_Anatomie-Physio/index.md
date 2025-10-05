@@ -23,22 +23,7 @@ Daher orientiert sich unsere Darstellung an folgender Klassifikation:
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Grundlagen/index
-Bewegungsapparat/index
-Nervensystem/index
-HerzKreislauf/index
-Blut/index
-Gerinnung/index
-Respiration/index
-GIT/index
-Wasser-Elyte/index
-SaeureBasenHaushalt/index
-Endokrin/index
-Stoffwechsel/index
-Harn/index
-Reproduktion/index
-Sinnesorgane/index
-Temperatur/index
-Schlaf/index
+*/index
 :::

@@ -137,7 +137,7 @@ Dies beinhaltet einerseits eine *direkte Anfahrt* eines Katheterzentrums, andere
 Vor dem Start des Infarkt-Netzwerkes wurden Infarktpatienten in ihr Heimatspital gebracht, diagnostiziert und danach weiter in ein Katheterzentrum transferiert.
 Dadurch kam es zu beträchtlichen Zeitverzögerungen bis eine kausale Therapie gestartet wurde.
 
-:::{figure} ../../../Bilder/WikipediaPd/12_lead_generated_anterior_MI.jpg
+:::{figure} ../../../Bilder/PD/12_lead_generated_anterior_MI.jpg
 
 Ein Fall für den Herzkatheter.
 :::

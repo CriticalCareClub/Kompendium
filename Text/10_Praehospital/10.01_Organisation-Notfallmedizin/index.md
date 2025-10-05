@@ -11,7 +11,7 @@ Die Organisation der Notfallmedizin und des Rettungs- und Krankentransportdienst
 Welche Herausforderungen gilt es denn zu meistern, dass so viele daran Beteiligte ständig versucht sind, das Rad neu zu erfinden, versuchen, den heiligen Gral der Notfallorganisation zu finden?
 
 
-:::{figure} ../Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg
+:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/tae-okt26-alle.jpg
 :width: 100%
 
 Im Notfall ist die Organisationszugehörigkeit nebensächlich.

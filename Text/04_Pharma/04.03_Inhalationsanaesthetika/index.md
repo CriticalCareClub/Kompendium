@@ -24,7 +24,7 @@
 
 (VIA)=
 
-# Volatile Inhalationsanästhetika (VIA)
+# Inhalationsanästhetika (VIA)
 
 Inhalationsanästhetika werden über die Lunge aufgenommen und auch wieder eleminiert.
 

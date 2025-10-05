@@ -1,4 +1,8 @@
-# Blut und Gerinnung
+# Gerinnung
+
+:::{seealso}
+- {ref}`Haemostase`
+:::
 
 ## Allgemeine Orientierung
 
@@ -80,15 +84,15 @@ Folgende Substanzen aktivieren die Fibrinolyse:
 * - Urokinase
   - physiologisch
 * - Gewebe-Plasminogen-Aktivator (tPA)
-  - 
+  -
 * - Streptokinase
   - können medikamentös zugeführt werden
 * - APSAC (Antistreplase)
-  - 
+  -
 * - Urokinase
-  - 
+  -
 * - Pro-Urokinase
-  - 
+  -
 :::
 
 
@@ -121,7 +125,7 @@ Hier sind die verschiedenen Ansatzpunkte der Fibrinolyse-Aktivatoren sowie deren
 :::
 
 
-<!-- 
+<!--
 ## Therapien der wichtigsten hämatologischen Erkrankungen
 
 ### Phlebothrombose (= Venenthrombose)

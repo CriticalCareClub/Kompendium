@@ -1,6 +1,6 @@
 (bewegungsapparat)=
 
-# Knochen & Muskeln
+# Bewegungsapparat: Knochen & Muskeln
 
 ```{toctree}
 :maxdepth: 1

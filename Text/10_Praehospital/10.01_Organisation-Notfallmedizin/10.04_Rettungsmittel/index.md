@@ -55,7 +55,7 @@ Die im Folgenden beschriebenen Eigenschaften der verschiedenen Einsatzmitteltype
 
 ## Krankentransportwagen (KTW)
 
-:::{margin} KTW
+:::{sidebar} KTW
 - Krankentransport
 - Keine Notfallpatienten
 - Mind. 2 RS
@@ -76,7 +76,7 @@ Ein KTW ist mit mindestens 2 Fachkräften besetzt (Mindestqualifikation: *2 Rett
 
 ## Rettungstransportwagen (RTW)
 
-:::{margin} RTW
+:::{sidebar} RTW
 - Notfallrettung, Überstellungen
 - Notfallpatienten
 - Zusammen mit NEF im organisierten Notarztdienst
@@ -115,7 +115,7 @@ RTW-C: NKV oder NFS?
 :class-grid: outline
 :gap: 20px
 
-RTWs [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2610_CR2_embedded_001342px.jpg)
 
@@ -137,7 +137,7 @@ RTWs [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ## Notarztwagen (NAW)
 
-:::{margin} NAW
+:::{sidebar} NAW
 - Notfallrettung, Überstellungen
 - Notfallpatienten
 - Mind. 1 NA, 1 NFS, 1—2 RS
@@ -166,7 +166,7 @@ Der NAW Krems vor der Umstellung auf ein NEF-System. Das Fahrzeug wurde als RTW 
 
 ## Notarzteinsatzfahrzeug (NEF)
 
-:::{margin} NEF
+:::{sidebar} NEF
 - Notfallrettung, Überstellungen
 - Mind. 1 NA, 1 NFS
 - Transportiert keine Patienten
@@ -188,7 +188,7 @@ Notarzt, 1 Notfallsanitäter).
 :class-grid: outline
 :gap: 20px
 
-Notarzteinsatzfahrzeuge [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170812_150551_001342px.jpg)
 
@@ -206,7 +206,7 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :class-grid: outline
 :gap: 20px
 
-Ausstattung des Niederösterreich-NEF [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172004_001342px.jpg)
 
@@ -228,7 +228,7 @@ Ausstattung des Niederösterreich-NEF [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ## Notarzthubschrauber (NAH)
 
-:::{margin} NAH
+:::{sidebar} NAH
 - Notfallrettung, Überstellungen
 
 - Besondere Einsatztaktik
@@ -299,7 +299,7 @@ Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ## First Responder
 
-:::{margin} First Responder
+:::{sidebar} First Responder
 - Ersthelfer
 - Zumindest in erweiterter Erster Hilfe ausgebildet
 - Überbrücken Zeit bis Eintreffen des Rettungsdienstes mit
@@ -319,46 +319,27 @@ So startete der Verein *Lebensretter* mit einer App für Smartphones, über die 
 Mittels einer Datenbank von öffentlich zugänglichen SAEDs können auch First Responder zum Holen eines Defibrillators parallel disponiert werden.
 Weitere Informationen sind auf der Homepage des Vereins unter  <http://www.lebensretter.at> zu finden.
 
-:::{list-table} Übersicht der grundlegenden Einsatzmitteltypen
-:header-rows: 1
-:stub-columns: 1
+```{eval-rst}
+.. table:: Übersicht der grundlegenden Einsatzmitteltypen
 
-* - Abkz.
-  - Name
-  - Besatzung
-  - Funktion
-  - Anmerkungen
-* - KTW
-  - Krankentransportwagen
-  - 2 RS
-  - Krankentransport
-  - Transport von Patienten, die keine intensiven med. Maßnahmen benötigen
-* - RTW
-  - Rettungstransportwagen
-  - 1 NFS, 1–2 RS
-  - Notfallrettung
-  - Überstellungen, Versorgung und Transport von Patienten  
-    und Notfallpatienten,  
-    Ausstattungsmäßig weitgehend gleichwertig zu einem NAW
-* - NAW
-  - Notarztwagen
-  - 1 NA, 1 NFS, 1–2 RS
-  - Notfallrettung, Überstellungen
-  - Versorgung und Transport von Notfallpatienten
-* - NEF
-  - Notarzteinsatzfahrzeug
-  - 1 NFS, 1 NA
-  - Notfallrettung, Überstellungen
-  - Versorgung von erkrankten Notfallpatienten,  
-    kein Transport ("Notarzt-Zubringer")
-* - NAH
-  - Notarzthubschrauber
-  - 1 Pilot, 1 NFS, 1 NA
-  - Notfallrettung, Überstellungen
-  - Versorgung und Transport von Notfallpatienten  
-    In Deutschland: RTH
-:::
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | Abkz.   | *Name*                 | *Besatzung*          | *Funktion*                      | *Anmerkungen*                                                          |
+    +=========+========================+======================+=================================+========================================================================+
+    | **KTW** | Krankentransportwagen  | 2 RS                 | Krankentransport                | Transport von Patienten, die keine intensiven med. Maßnahmen benötigen |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **RTW** | Rettungstransportwagen | 1 NFS, 1--2 RS       |  Notfallrettung                 | Überstellungen, Versorgung und Transport von Patienten                 |
+    |         |                        |                      |                                 | und Notfallpatienten,                                                  |
+    |         |                        |                      |                                 | Ausstattungsmäßig weitgehend gleichwertig zu einem NAW                 |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
+    |         |                        |                      |                                 | *kein Transport* ("Notarzt-Zubringer")                                 |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+    | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
+    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
 
+```
 
 
 
@@ -372,11 +353,11 @@ Neben den vorgenannten "Standardtypen" werden für die Erfüllung spezieller Anf
 :class-grid: outline
 :gap: 20px
 
-Sonderfahrzeuge [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593_001342px.jpg)
 
-![Im Vodergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170625_100306_001342px.jpg)
+![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170625_100306_001342px.jpg)
 
 ![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170719_191230_001342px.jpg)
 

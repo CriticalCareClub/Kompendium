@@ -4,7 +4,8 @@
 
 Kommunikation ist die Voraussetzung für eine erfolgreiche Zusammenarbeit in einer Gemeinschaft.
 Bei der Versorgung eines Patienten gilt dieser Grundsatz ebenso, zusätzlich finden sich hier spezielle Herausforderungen.
-Einerseits besteht diese "Gemeinschaft" aus sehr unterschiedlichen Personen: Fachpersonal unterschiedlicher Ausbildungsstufen einerseits, und Patienten und Angehörige, welche zumeist über wenig Fachwissen, dafür aber oft über ausgeprägte und mal mehr, mal weniger verständliche Eigeninteressen verfügen, andererseits.
+Einerseits besteht diese "Gemeinschaft" aus sehr unterschiedlichen Personen:
+Fachpersonal unterschiedlicher Ausbildungsstufen einerseits, und Patienten und Angehörige, welche zumeist über wenig Fachwissen, dafür aber oft über ausgeprägte und mal mehr, mal weniger verständliche Eigeninteressen verfügen, andererseits.
 Dazu kommen mitunter noch weitere Personen, wie Polizisten, Feuerwehrleute, Bedienstete von Verkehrsbetrieben, Dritte
 (Berufer, Schaulustige, Zeugen, …), usw., mit welchen kommuniziert werden muss.
 Als wäre die Fülle von potentiellen Kommunikationspartnern nicht schon Herausforderung genug, findet man sich häufig in einer Situation wieder, die für die Kommunikationspartner einen Ausnahmezustand darstellt:
@@ -106,10 +107,8 @@ Diese Störung kann auftreten:
   > - Es gilt nicht was gesagt,
   >   sondern was verstanden wurde.
 
-Ein gutes Beispiel einer Störung der Kommunikation ist das
-"Stille-Post"-Spiel, bei welchem am Ende der Übertragungskette die ursprüngliche Nachricht zumeist völlig entstellt ist.
-Um deratige
-Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfänger eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu kontrollieren, ob und wie er die Botschaft verstanden hat.
+Ein gutes Beispiel einer Störung der Kommunikation ist das "Stille-Post"-Spiel, bei welchem am Ende der Übertragungskette die ursprüngliche Nachricht zumeist völlig entstellt ist.
+Um deratige Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfänger eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu kontrollieren, ob und wie er die Botschaft verstanden hat.
 
 :::{figure} /Bilder/CC-BY-SA/Sender-Empfaenger-Modell-edited.\*
 
@@ -136,23 +135,17 @@ Jede Nachricht hat vier Aussagen [^fn-vieraussageneinernachricht]:
   Wohlwollen,
   Gleichgültigkeit,
   Verachtung etc. vermittelt werden kann.
-- *Appellaussage*: Der Appellanteil einer Nachricht soll den Empfänger
-  veranlassen, etwas zu tun (oder nicht zu tun).
-  Dieser Versuch einer
-  Einflussnahme kann offen oder verdeckt sein,
-  er kann von offenen
-  Bitten und Aufforderungen bis hin zu verdeckten
-  Manipulationsversuchen reichen.
-- *Selbstoffenbarung* des Senders: Jede Sendung führt unweigerlich zu
-  einer Selbstdarstellung und Selbstenthüllung.
-  Sie kann somit zu
-  Deutungen über die Persönlichkeit des Sprechers verwendet werden.
+- *Appellaussage*:
+  Der Appellanteil einer Nachricht soll den Empfänger veranlassen, etwas zu tun (oder nicht zu tun).
+  Dieser Versuch einer Einflussnahme kann offen oder verdeckt sein, er kann von offenen Bitten und Aufforderungen bis hin zu verdeckten Manipulationsversuchen reichen.
+- *Selbstoffenbarung* des Senders:
+  Jede Sendung führt unweigerlich zu einer Selbstdarstellung und Selbstenthüllung.
+  Sie kann somit zu Deutungen über die Persönlichkeit des Sprechers verwendet werden.
 
 [^fn-vieraussageneinernachricht]: Nach Friedemann Schulz von Thun, {term}`🗎 Thun 1981`
 
 Entscheidend in der Kommunikation ist die Tatsache, dass die gleiche Nachricht beim Sender und beim Empfänger auf unterschiedliche Art und Weise gedeutet und gewichtet wird, was zu teils katastrophalen Missverständnissen führen kann.
-Als klassisches Beispiel ist die
-"Ampelsituation" bekannt:
+Als klassisches Beispiel ist die "Ampelsituation" bekannt:
 
 > Ein Paar sitzt im Auto,
 > die Frau sitzt am Steuer,
@@ -228,43 +221,33 @@ Ein gut geführtes Patientengespräch ist durch folgende Merkmale gekennzeichnet
   Negativbeispiel:
 
   > Sanitäter:
-  >
   > : *"Haben Sie Schmerzen?"*
   >
   > Patient:
-  >
   > : *"Nein."*
   >
   > Sanitäter:
-  >
   > : *"Wie stark ist der Schmerz?"*
 
-- *Verstehen*: Es ist wichtig zu verstehen, was der Patient mit dem
-  Gesagten *meint*! Um sich zu vergewissern,
-  dass man die Information
-  richtig verarbeitet hat,
-  kann man das Gesagte in eigenen Worten
-  wiederholen und sich vom Patient die Richtigkeit bestätigen lassen.
 
-- *"Monogam"*: Es ist immer nur *eine Frage gleichzeitig* zu stellen.
+- *Verstehen*:
+  Es ist wichtig zu verstehen, was der Patient mit dem Gesagten *meint*! Um sich zu vergewissern, dass man die Information richtig verarbeitet hat, kann man das Gesagte in eigenen Worten wiederholen und sich vom Patient die Richtigkeit bestätigen lassen.
 
-- *Information*: Der Patient ist immer über das Vorgehen der Helfer zu
-  informieren!
+- *"Monogam"*:
+  Es ist immer nur *eine Frage gleichzeitig* zu stellen.
+
+- *Information*:
+  Der Patient ist immer über das Vorgehen der Helfer zu informieren!
 
 - *Aufrichtigkeit*:
-  Die Fragen des Patienten sind nach bestem Wissen zu
-  beantworten! *Das Anlügen des Patienten ist \*tabu*!\* Liegen mögliche
-  Antworten außerhalb des Wissens- oder Kompetenzbereiches,
-  ist auf die zuständige Stelle zu verweisen.
+  Die Fragen des Patienten sind nach bestem Wissen zu beantworten!
+  *Das Anlügen des Patienten ist tabu!* Liegen mögliche Antworten außerhalb des Wissens- oder Kompetenzbereiches, ist auf die zuständige Stelle zu verweisen.
 
 - *Bezugsperson*:
-  Sind mehrere Helfer vorort,
-  so soll nur einer der
-  Ansprechpartner des Patienten sein!
+  Sind mehrere Helfer vorort, so soll nur einer der Ansprechpartner des Patienten sein!
 
 [^fn-patienthoerhilfen]: Evtl. benötigt der Patient Hörhilfen.
-    Diese müssen evtl. erst
-    eingeschalten werden.
+    Diese müssen evtl. erst eingeschalten werden.
 
 ### Fragentypen
 
@@ -285,92 +268,58 @@ Grundsätzlich unterscheidet man *offene* und *geschlossene*, sowie *gezielte* F
   > *"Bitte beschreiben Sie den Schmerz."*
 
 - *Geschlossene Fragen*
-  sind sehr direkt und speziell, der Patient kann
-  i.d.R. nur mit *"ja"*, *"nein"* oder *"weiß nicht"* antworten.
-  Sie machen daher eher nur dann Sinn,
-  wenn man ganz spezielle Dinge
-  bewusst direkt abfragen kann oder muss. **Achtung!** Manche Patienten
-  neigen dazu,
-  grundsätzlich *"ja"* zu sagen,
-  ohne dass sie die Frage
-  wirklich verstanden haben!
+  sind sehr direkt und speziell, der Patient kann i.d.R. nur mit *"ja"*, *"nein"* oder *"weiß nicht"* antworten.
+  Sie machen daher eher nur dann Sinn, wenn man ganz spezielle Dinge bewusst direkt abfragen kann oder muss.
+  **Achtung!** Manche Patienten neigen dazu, grundsätzlich *"ja"* zu sagen, ohne dass sie die Frage wirklich verstanden haben!
 
   > *"Haben Sie sich vorher angestrengt?"*
   >
   > *"Haben Sie das schon einmal gehabt?"*
 
 - *Gezielte Fragen*
-  fokussieren die Antwort des Patienten und lassen
-  sich nur schwer "umgehen".
+  fokussieren die Antwort des Patienten und lassen sich nur schwer "umgehen".
   Sie dienen der Präzisierung.
-  Werden zu
-  viele von diesen Fragen gestellt,
-  kann das Gespräch leicht in eine
-  "Einbahnstraße" abgleiten.
-  Gezielte Fragen können sowohl offen,
-  als
-  auch geschlossen sein.
+  Werden zu viele von diesen Fragen gestellt, kann das Gespräch leicht in eine "Einbahnstraße" abgleiten.
+  Gezielte Fragen können sowohl offen, als auch geschlossen sein.
 
   > *"Wohin strahlt der Schmerz aus?"*
 
 - *Suggestivfragen* sind "böse":
-  Hier legt der Gesprächsführende dem
-  Patienten die Antworten "in den Mund".
-  Sie können sowohl als offene,
-  als auch als geschlossene Fragen formuliert werden.
+  Hier legt der Gesprächsführende dem Patienten die Antworten "in den Mund".
+  Sie können sowohl als offene, als auch als geschlossene Fragen formuliert werden.
 
   > *"Haben Sie \*eh keine* Schmerzen?"\*
   >
   > *"Ist der Schmerz stechend?"*
 
-  Dieser Fragentyp soll nicht – oder nur im begründeten Ausnahmefall –
-  angewendet werden.
+  Dieser Fragentyp soll nicht – oder nur im begründeten Ausnahmefall – angewendet werden.
 
 ### Kinder
 
 Die Kommunikation mit Kindern kann besonders herausfordernd sein.
-Der Kontakt mit Einrichtungen des Gesundheitswesens, sei es in einer Ordination, im Spital oder im Rahmen des Rettungsdienstes, stellt eine aufregende und i.d.R.
-angsteinflößende Ausnahmesituation dar.
+Der Kontakt mit Einrichtungen des Gesundheitswesens, sei es in einer Ordination, im Spital oder im Rahmen des Rettungsdienstes, stellt eine aufregende und i.d.R. angsteinflößende Ausnahmesituation dar.
 Die folgenden Vorschläge können unter Umständen hilfreich sein – ein allgemeingültiges "Kochrezept" gibt es allerdings nicht:
 
-- *Kleine Erwachsene*: Manchmal sind Kinder doch einfach "kleine
-  Erwachsene": Die elementaren Grundsätze *Aufrichtigkeit* und
-  *Aufklärung*,
-  welche für das Verhalten gegenüber Erwachsenen gilt,
-  gilt genauso für Kinder.
-  Ein altersangepasstes Auftreten ist zwar oft
-  notwendig,
-  darf aber nicht als Ausrede benutzt werden,
-  um die
-  Grundsätze zu vernachlässigen.
-- *Aufrichtigkeit*: Kinder bemerken sehr schnell,
-  wenn man lügt.
-  Ein ehrlicher Umgang mit Kindern ist daher besonders wichtig,
-  da sonst
-  das Vertrauen verloren ist und das Kind möglicherweise spätere
-  Untersuchungen (aus Angst) verweigert.
-- *Erklären*: Das (altersgerechte) Erklären von Untersuchungen und
-  Maßnahmen kann dem Kind Angst nehmen.
-- *Direktes Ansprechen*: Kinder sind immer direkt anzusprechen!
-  Unterhält man sich ständig mit den Eltern über das Kind,
-  so kann es
-  das Gefühl haben,
-  dass hinter seinem Rücken getuschelt wird.
+- *Kleine Erwachsene*:
+  Manchmal sind Kinder doch einfach "kleine Erwachsene":
+  Die elementaren Grundsätze *Aufrichtigkeit* und *Aufklärung*, welche für das Verhalten gegenüber Erwachsenen gilt, gilt genauso für Kinder.
+  Ein altersangepasstes Auftreten ist zwar oft notwendig, darf aber nicht als Ausrede benutzt werden, um die Grundsätze zu vernachlässigen.
+- *Aufrichtigkeit*:
+  Kinder bemerken sehr schnell, wenn man lügt.
+  Ein ehrlicher Umgang mit Kindern ist daher besonders wichtig, da sonst das Vertrauen verloren ist und das Kind möglicherweise spätere Untersuchungen (aus Angst) verweigert.
+- *Erklären*:
+  Das (altersgerechte) Erklären von Untersuchungen und Maßnahmen kann dem Kind Angst nehmen.
+- *Direktes Ansprechen*:
+  Kinder sind immer direkt anzusprechen!
+  Unterhält man sich ständig mit den Eltern über das Kind, so kann es das Gefühl haben, dass hinter seinem Rücken getuschelt wird.
   Dies würde dem Kind unnötig Angst machen!
 - *Spielzeug* kann Kinder (von der Angst) ablenken.
-- *Bezugsperson*: Kinder brauchen die Nähe ihrer Eltern
-  (Bezugspersonen)! Kinder daher niemals von diesen trennen.
-  Außerdem
-  kann man bevorstehende Untersuchungen oder Maßnahmen an
-  Bezugspersonen (oder Stofftieren) vorzeigen,
-  sodass dem Kind Angst
-  genommen wird.
+- *Bezugsperson*:
+  Kinder brauchen die Nähe ihrer Eltern (Bezugspersonen)!
+  Kinder daher niemals von diesen trennen.
+  Außerdem kann man bevorstehende Untersuchungen oder Maßnahmen an Bezugspersonen (oder Stofftieren) vorzeigen, sodass dem Kind Angst genommen wird.
 - *Lob* hilft ebenfalls weiter!
-- *Zeigen lassen*: Da Kinder ihre Beschwerden oft nicht eindeutig
-  beschreiben können,
-  ist es sinnvoll sich
-  z. B. den Ort der Schmerzen
-  zeigen zu lassen.
-  Außerdem muss besonders auf die *Körperhaltung*
-  u.ä. äußere Anzeichen geachtet werden!
+- *Zeigen lassen*:
+  Da Kinder ihre Beschwerden oft nicht eindeutig beschreiben können, ist es sinnvoll sich z. B. den Ort der Schmerzen zeigen zu lassen.
+  Außerdem muss besonders auf die *Körperhaltung* u.ä. äußere Anzeichen geachtet werden!
 - Die Prinzipien *Aufrichtigkeit* und *Aufklärung* gelten auch in der Kommunikation mit Kindern!

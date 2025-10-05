@@ -14,7 +14,7 @@
 
 # Die Rettungsleitstelle
 
-:::{margin} Leitstelle
+:::{sidebar} Leitstelle
 - *Call Taking*
 
   - Annahme & Abfrage von Notrufen & Alarmierungen
@@ -44,7 +44,7 @@ Zu den typischen **Aufgaben** einer Rettungsdienstleitstelle gehört die *Annahm
 Die Meldungen unterlaufen eine *Einteilung und Priorisierung* nach Art und Dringlichkeit der Meldung.
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
 :width: 50%
 
 Call taker in einer Leitstelle
@@ -100,7 +100,7 @@ Dennoch, mittels dieser Diagnosecodes kann eine entsprechende **Ausrückordnung*
 
 ## Einsatztypen
 
-:::{margin} Einsatztypen
+:::{sidebar} Einsatztypen
 Primäreinsatz
 : - Erstes Glied der professionellen Versorgung
 
@@ -125,7 +125,7 @@ Beim **Sekundärtransport** wird ein *bereits versorgter Patient* transportiert,
 
 ### Funk
 
-:::{margin} Funk
+:::{sidebar} Funk
 - Sprechfunk
 - Datenfunk
 :::
@@ -360,7 +360,7 @@ Mittels TETRA ist einerseits die direkte Kommunikation zwischen Endgeräten mög
 :class-grid: outline
 :gap: 20px
 
-TETRA Funkgeräte [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 
 ![TETRA Handfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172313_001342px.jpg)

@@ -3,10 +3,10 @@
 # Anatomie & Physiologie
 
 
-```{index} single: physiologisch
-```
-```{index} single: Pathologie
-```
+:::{index} single: physiologisch
+:::
+:::{index} single: Pathologie
+:::
 
 Aufgrund der Überlappungsbereiche hinsichtlich der Sichtweise auf
 anatomische Strukturen und physiologische Eigenschaften und Funktionen

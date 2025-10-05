@@ -1,6 +1,8 @@
-# Prähosptiale Versorgung
+# Prähospitale Versorgung
 
 :::{toctree}
+:maxdepth: 1
+:glob:
 
-100_Organisation/index
+*/index
 :::

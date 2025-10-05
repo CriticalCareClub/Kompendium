@@ -4,12 +4,9 @@
 # Urologie
 
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-Neoblase/index
-Nierenresektion/index
-Prostata/index
-TUR-PB/index
-```
+*/index
+:::

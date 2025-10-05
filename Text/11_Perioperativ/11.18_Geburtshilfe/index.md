@@ -4,9 +4,8 @@
 # Schwangerschaft
 
 :::{toctree}
+:maxdepth: 1
+:glob:
 
-Allgemein/index
-Gravida-OP/index
-PDA/index
-Sectio-caesaria/index
+*/index
 :::

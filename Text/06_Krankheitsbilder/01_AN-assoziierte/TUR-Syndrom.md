@@ -17,10 +17,12 @@
 = Wasserintoxikation (hypotone Hyperhydration)
 
 Ursache
-: bei TURP oder Curettage Eröffnung des Venenplexus mit Absorption von > 2 L Spülflüssigkeit
+: elektrolytfreie Lösung gelangt ins Gefäßsystem:
+  bei TURP oder Curettage Eröffnung des Venenplexus mit Absorption von > 2 L Spülflüssigkeit
 
 Folge
-: Hyponatriämie, Hyposmolarität, Hypervolämie mit Hirnödem, Lungenödem, card. Dekompensation, Hämolyse, Hypotension.
+: **hypotone Hyperhydratation**:
+  Hyponatriämie, Hyposmolarität, Hypervolämie mit *Hirnödem*, *Lungenödem*, card. *Dekompensation*, *Hämolyse*, akutem Nierenversagen, Hypotension.
 
   Hinzu kommt die toxische Wirkung der Spüllösung mit erhöhtem Glycin, BZ (Sorbitol) und Mannitol. (Vollelektrolytlösungen würden beim Kautern Verbrennungen verursachen)
 
@@ -36,6 +38,9 @@ Erstmaßnahme
   - Diurese forcieren: Schleifendiuretika
   - Benzodiazepine (Agetiertheit, Krampfneigung)
   - Natriumkorrektur mit 3% NaCL (max. 100 ml/h) Zielwert: 125 mmol/l
+    - Na-Bedarf: 0,2 × (Na-Soll - Na Ist) × kg
+    - Evtl. Nitrate, Inotropie ↑ mit Dobutamin
+    - Evtl. Urinalkalisierung (Hämolyse, ANV)
 
 *Natriumkorrektur* muss *langsam* erfolgen sonst **pontine Myelinolyse** (Demyelinisierung im Stammhirn mit Störung der zentralen vegetativen Regulationsmechanismen).
 

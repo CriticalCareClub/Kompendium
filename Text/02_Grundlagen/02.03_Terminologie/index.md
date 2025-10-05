@@ -131,7 +131,7 @@ Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit an
 {index}`Base`
 
 : *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
-  Sie reagieren mit Säuren und bilden Salze. 
+  Sie reagieren mit Säuren und bilden Salze.
 
 {index}`Enzym`
 
@@ -145,7 +145,7 @@ Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit an
 {index}`Säure`
 
 : Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-  bilden Salze. 
+  bilden Salze.
 
 ## Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
@@ -286,121 +286,6 @@ Die Kenntnis von Fachbegriffen dient der Kommunikation und Verständigung mit an
   des Blutes. Betroffen sind insbesonders die Finger, Lippen und das
   Gesicht.
 
-(richtungslageangaben)=
 
-## Richtungs- und Lageangaben
-
-Für die Beschreibungen von Richtungen und Lagebeziehungen wird eine systematische Terminologie verwendet. Die einschlägigen Bezeichnungen sind auch regelmäßig in Arzt- und Entlassungsbriefen anzutreffen.
-
-{index}`lateral`
-
-: (*lat.*) seitlich
-
-{index}`medial`
-
-: (*med.*) mittig
-
-```{eval-rst}
-
-:index:`dorsal`
-    rückenwärts
-
-:index:`ventral`
-```
-
-{index}`dorsal`
-
-: rückenwärts
-
-{index}`ventral`
-
-: bauchwärts
-
-{index}`cranialis`, -e:
-
-: (*cran.*)
-  kopfwärts
-
-{index}`caudalis`, -e:
-
-: (*caud.*)
-  fußwärts
-
-{index}`palmaris`, -e:
-
-: (*palm.*)
-  beugeseitig an der Hand, hohlhandseitig
-
-{index}`plantaris`, -e:
-
-: (*plant.*)
-  beugeseitig am Fuß
-
-{index}`cranial`
-
-: kopfwärts
-
-{index}`caudal`
-
-: fußwärts (eigentlich: schwanzwärts)
-
-{index}`distal`
-
-: (*dist.*) körperfern
-
-{index}`proximal`
-
-: (*prox.*) körpernah
-
-{index}`dexter`, -tra, trum
-
-: (*dext.*) rechts
-
-{index}`sinister`, -tra, trum
-
-: (*sin.*) links
-
-{index}`utriusque`
-
-: (*utr.*)
-  beidseitig
-
-{index}`anterior`
-
-: (*ant.*) davor liegend
-
-{index}`posterior`
-
-: (*post.*) dahinter liegend
-
-{index}`superior`
-
-: (*sup.*) darüber liegend
-
-{index}`inferior`
-
-: (*inf.*) darunter liegend
-
-{index}`superficial`
-
-: (*superfic.*) oberflächlich
-
-{index}`profund`
-
-: (*prof.*) tief
-
-{index}`ulnaris`, -e:
-
-: (*uln.*)
-  ellenseitig
-
-{index}`radialis`, -e:
-
-: (*rad.*)
-  speichenseitig
-
-:::{note}
-Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die betreffende Person (Patienten)!
-:::
 
 

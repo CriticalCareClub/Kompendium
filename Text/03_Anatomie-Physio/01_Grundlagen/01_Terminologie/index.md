@@ -319,7 +319,16 @@ vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitenglei
 ```{index} single: Laterotrusion
 ```
 
+(Richtungsbezeichnungen)=
+
 ## Richtungsbezeichnungen
+
+Für die Beschreibungen von Richtungen und Lagebeziehungen wird eine systematische Terminologie, die dem Lateinischen entlehnt ist, verwendet.
+
+:::{note}
+Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die betreffende Person (Patienten)!
+:::
+
 
 :::{list-table} Richtungsbezeichnungen: Allgemein
 :header-rows: 1
@@ -360,6 +369,11 @@ vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitenglei
   - **sinister**
   - links
   - dexter, dextra, dextrum; sinister, sinistra, sinistrum
+- - utriusque
+  - beiseitig
+  -
+  -
+  - utriusque
 - - **superfizial**
   - oberflächlich
   - **profund**

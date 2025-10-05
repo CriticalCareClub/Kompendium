@@ -46,19 +46,21 @@ Hauptachsen:
 - transversale (= horizontale) Achse (Querachse): quer von rechts nach
   links
 
-An diesen Achsen sind die Körperebenen wie nach einem Koordinatensystem
-(3 Hauptachsen -> 3 Hauptebenen) ausgerichtet. Sie sind nicht fix forgegeben, sondern können an jede Position parallel verschoben werden
+An diesen Achsen sind die Körperebenen wie nach einem Koordinatensystem (3 Hauptachsen -> 3 Hauptebenen) ausgerichtet.
+Sie sind nicht fix vorgegeben, sondern können an jede Position parallel verschoben werden
 
 Hauptebenen:
 
-- Sagittalebene: parallel zur Medianeben durch den Körper
+- Sagittalebene: parallel zur Medianebene durch den Körper
 - Frontalebene: parallel zur Stirn, senkrecht zur Sagittalebene. Diese
   Ebene wird insbesondere in der Bildgebung auch als Koronalebene
   bezeichnet.
 - Transversalebene (= Horizontalebene): quer durch den Körper,
   senkrecht auf Sagittal- und Frontalebene
 
-Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle des Körpers verschoben werden. Die einzige Ausnahme bildet die sog. Medianebene (= Median-Sagittal-Ebene): vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als Symmetrieebene bezeichnet.
+Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle des Körpers verschoben werden.
+Die einzige Ausnahme bildet die sog. Medianebene (= Median-Sagittal-Ebene):
+vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als Symmetrieebene bezeichnet.
 
 ```{index} single: cranialis, -e
 ```
@@ -118,7 +120,7 @@ Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle
 ```
 ```{index} single: median
 ```
-```{index} single: Medianebene; in der --- 
+```{index} single: Medianebene; in der ---
 ```
 ```{index} single: dexter
 ```
@@ -319,250 +321,277 @@ Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle
 
 ## Richtungsbezeichnungen
 
-:::{list-table} Bezeichnungen am Rumpf
+:::{list-table} Richtungsbezeichnungen: Allgemein
 :header-rows: 1
-:stub-columns: 1
-:widths: 30 20 50
+:widths: 15 25 15 25 20
 
-- - Terminus, latein
-  - Deutsch
-  - Bedeutung
-- - cranialis, -e
-  - kranial
-  - schädelwärts
-- - caudalis, -e
-  - kaudal
-  - schwanzwärts, steißwärts
-- - superior, -ius
-  - superior
-  - oben, weiter oben
-- - inferior, -ius
-  - inferior
-  - unten, weiter unten
-- - dorsalis, -e
-  - dorsal
-  - rückenwärts
-- - ventralis, -e
-  - ventral
-  - bauchwärts
-- - posterior, -ius
-  - posterior
-  - hinten, weiter hinten
-- - anterior, -ius
-  - anterior
-  - vorn, weiter vorn
-- - medialis, -e
-  - medial
-  - zur Medianebene hin, zur Mitte hin
-- - lateralis, -e
-  - lateral
-  - seitlich, von der Medianebene weg
-- - medianus, -a, -um
-  - median
-  - in der Medianebene gelegen
-- - dexter, dextra, dextrum
-  - dexter
-  - rechts
-- - sinister, sinistra, sinistrum
-  - sinister
-  - links
-- - superficialis, -e
-  - superfizial
-  - oberflächlich, oberflächlicher gelegen, der Haut näher
-- - profundus, -a, -um
-  - profund
-  - tief, tiefer gelegen
-- - internus, -a, -um
-  - intern
-  - innere
-- - externus, -a, -um
-  - extern
-  - äußere
-- - centralis, -e
-  - zentral
-  - zum Körperinneren hin
-- - longitudinalis, -e
-  - longitudinal
-  - längs verlaufend
-:::
-
-:::{list-table} Bezeichnungen an den Gliedmaßen
-:header-rows: 1
-:stub-columns: 1
-:widths: 30 20 50
-
-- - Terminus, latein
-  - Deutsch
-  - Bedeutung
-- - proximalis, -e
-  - proximal
-  - rumpfwärts, näher zum Rumpf hin gelegen
-- - distalis, -e
-  - distal
+- - Richtung
+  -
+  - Gegensatz
+  -
+  - Latein
+- - **superior**
+  - oben, oberhalb
+  - **inferior**
+  - unten, unterhalb
+  - superior, -ius; inferior, -ius
+- - **anterior**
+  - vorn, davor
+  - **posterior**
+  - hinten, dahinter
+  - posterior, -ius; anterior, -ius
+- - **distal**
   - zum Extremitätenende hin, entfernter vom Rumpf
-- - radialis, -e
-  - radial
+  - **proximal**
+  - rumpfwärts
+  - distalis, -e; proximalis, -e
+- - **medial**
+  - zur Mitte hin
+  - **lateral**
+  - seitlich, von der Medianebene weg
+  - medialis, -e; lateralis, -e
+- - **median**
+  - in der Medianebene gelegen
+  -
+  -
+  - medianus, -a, -um
+- - **dexter**
+  - rechts
+  - **sinister**
+  - links
+  - dexter, dextra, dextrum; sinister, sinistra, sinistrum
+- - **superfizial**
+  - oberflächlich
+  - **profund**
+  - tief
+  - superficialis, -e; profundus, -a, -um
+- - **intern**
+  - innere
+  - **extern**
+  - äußere
+  - internus, -a, -um; externus, -a, -um
+- - **zentral**
+  - zum Körperinneren hin
+  - **peripher**
+  - nach außen
+  - centralis, -e, peripheris, -e
+
+- - **longitudinal**
+  - längs verlaufend
+  - **transversal**
+  - quer verlaufend
+  - longitudinalis, -e; transversalis, -e
+:::
+
+
+
+:::{list-table} Richtungsbezeichnungen:  Rumpf
+:header-rows: 1
+:widths: 15 25 15 25 20
+
+- - Richtung
+  -
+  - Gegensatz
+  -
+  - Latein
+- - **kranial**
+  - schädelwärts
+  - **kaudal**
+  - schwanzwärts, steißwärts
+  - cranialis, -e; caudalis, -e
+- - **dorsal**
+  - rückenwärts
+  - **ventral**
+  - bauchwärts
+  - dorsalis, -e; ventralis, -e
+:::
+
+
+
+:::{list-table} Richtungsbezeichnungen:  Gliedmaßen
+:header-rows: 1
+:stub-columns: 1
+:widths: 20 50 30
+
+- - Richtung
+  - Bedeutung
+  - Latein
+- - radial
   - speichenwärts, zur Speichenseite, Daumenseite hin
-- - ulnaris, -e
-  - ulnar
+  - radialis, -e
+- - ulnar
   - ellenwärts, zur Ellenseite, Kleinfingerseite hin
-- - tibialis, -e
-  - tibial
+  - ulnaris, -e
+- - tibial
   - schienbeinwärts, zur Schienbeinseite, Großzehenseite hin
-- - fibularis, -e
-  - fibular
+  - tibialis, -e
+- - fibular
   - wadenbeinwärts, zur Wadenbeinseite, Kleinzehenseite hin
-- - palmaris, -e
-  - palmar
+  - fibularis, -e
+- - dorsal
+  - Hand: handrückenwärts, zum Handrücken hin;
+
+    Fuß: fußrückenwärts, zum Fußrücken hin
+  - dorsalis, -e
+- - palmar
   - handflächenwärts, zur Handfläche hin
-- - dorsalis, -e
-  - dorsal
-  - handrückenwärts, zum Handrücken hin
-- - plantaris, -e
-  - plantar
+  - palmaris, -e
+- - plantar
   - fußsohlenwärts, zur Fußsohle hin
-- - dorsalis, -e
-  - dorsal
-  - fußrückenwärts, zum Fußrücken hin
+  - plantaris, -e
+
 :::
 
-:::{list-table} Bezeichnungen am Kopf
+
+:::{list-table} Richtungsbezeichnungen:  Kopf
 :header-rows: 1
 :stub-columns: 1
-:widths: 30 20 50
+:widths: 20 50 30
 
-- - Terminus, latein
-  - Deutsch
+- - Richtung
   - Bedeutung
-- - frontalis, -e
-  - frontal
+  - Latein
+- - **frontal**
   - stirnwärts, in Richtung der Stirn
-- - occipitalis, -e
-  - okzipital
+  - frontalis, -e
+- - **okzipital**
   - hinterhauptwärts
-- - basalis, -e
-  - basal
+  - occipitalis, -e
+- - **basal**
   - schädelbasiswärts
-- - oralis, -e
-  - oral
+  - basalis, -e
+- - **oral**
   - mundwärts, zum Mund gehörig
-- - vestibularis, -e
-  - vestibulär
+  - oralis, -e
+- - **vestibulär**
   - (mund)vorhofwärts, im Mundvorhof gelegen
-- - labialis, -e
-  - labial
+  - vestibularis, -e
+- - **labial**
   - lippenwärts
-- - buccalis, -e
-  - bukkal
+  - labialis, -e
+- - **bukkal**
   - wangenwärts
-- - lingualis, -e
-  - lingual
+  - buccalis, -e
+- - **lingual**
   - zungenwärts
-- - nasalis, -e
-  - nasal
+  - lingualis, -e
+- - **nasal**
   - nasenwärts
-- - temporalis, -e
-  - temporal
+  - nasalis, -e
+- - **temporal**
   - schläfenwärts
-- - palatinalis, -e
-  - palatinal
+  - temporalis, -e
+- - **palatinal**
   - gaumenwärts, zum Gaumen gehörig
-- - pharyngealis, -e
-  - pharyngeal
+  - palatinalis, -e
+- - **pharyngeal**
   - rachenwärts, zum Rachen gehörig
-- - rostralis, -e
-  - rostral
+  - pharyngealis, -e
+- - **rostral**
   - mundwärts
+  - rostralis, -e
 :::
 
-:::{list-table} Richtungsbezeichnungen an Gebiss und Zähnen
+
+:::{list-table} Richtungsbezeichnungen: Gebiss und Zähne
 :header-rows: 1
 :stub-columns: 1
-:widths: 30 20 50
+:widths: 20 50 30
 
-- - Terminus, latein
-  - Deutsch
+- - Richtung
   - Bedeutung
-- - mesialis, -e
-  - mesial
-  - der Medianebene (des Zahnbogens) zugekehrt
-- - distalis, -e
-  - distal
-  - dem hinteren Ende des Zahnbogens zugekehrt
-- - apicalis, -e
-  - apikal
+  - Terminus, latein
+- - **apikal**
   - an der Wurzelspitze (Apex), zur Wurzelspitze hin
-- - cervicalis, -e
-  - zervikal
-  - am Zahnhals, zum Zahnhals hin
-- - occlusalis, -e
-  - okklusal
-  - an der Kaufläche, zur Kaufläche hin
-- - incisalis, -e
-  - inzisal
-  - an der Kaukante, zur Kaukante hin
-- - approximalis, -e
-  - approximal
+  - apicalis, -e
+- - **approximal**
   - an der Kaufläche, zur Kaufläche hin (approximalwärts)
+  - approximalis, -e
+- - **distal**
+  - dem hinteren Ende des Zahnbogens zugekehrt
+  - distalis, -e
+- - **inzisal**
+  - an der Kaukante, zur Kaukante hin
+  - incisalis, -e
+- - **mesial**
+  - der Medianebene (des Zahnbogens) zugekehrt
+  - mesialis, -e
+- - **okklusal**
+  - an der Kaufläche, zur Kaufläche hin
+  - occlusalis, -e
+- - **zervikal**
+  - am Zahnhals, zum Zahnhals hin
+  - cervicalis, -e
 :::
+
 
 ## Bewegungsbezeichnungen
 
 :::{list-table} Bewegungsbezeichnungen am Beispiel der Gelenke der Extremitäten
-:stub-columns: 1
+:header-rows: 1
 
-- - Flexion
-  - Beugung des Rumpfes oder der Extremitäten
-    (um die transversale Achse)
-- - Extension
-  - Streckung des Rumpfes oder der Extremitäten
-    (um die transversale Achse).
-- - Adduktion
-  - Heranführen der Extremitäten an den Körper.
-- - Abduktion
-  - Wegführen der Extremitäten vom Körper bis zu 90°.
+- - Bewegung
+  -
+  - Gegenbewegung
+  -
+- - **Flexion**
+  - Beugung
+  - **Extension**
+  - Streckung
+- - **Adduktion**
+  - Heranführen an den Körper.
+  - **Abduktion**
+  - Wegführen vom Körper bis zu 90°.
     Bei den Extremitäten erfolgt diese Bewegung um die sagittale Achse.
-- - Elevation
+- -
+  -
+  - **Elevation**
   - Fortführen der Abduktion über 90°.
-- - Außenrotation
+- - **Außenrotation**
   - Außendrehung der Extremitäten um ihre Längsachse.
-- - Innenrotation
+  - **Innenrotation**
   - Innendrehung der Extremitäten um ihre Längsachse.
-- - Supination
+- - **Supination**
   - Umwendbewegung der Hand bzw. des Fußes,
     wobei die Hohlhand nach oben gerichtet bzw. der mediale Fußrand gehoben wird.
-- - Pronation
+  - **Pronation**
   - Umwendbewegung der Hand bzw. des Fußes,
     wobei die Hohlhand nach unten gerichtet bzw. der mediale Fußrand nach unten gesenkt wird.
-- - Zirkumduktion
+- - **Zirkumduktion**
   - Umführbewegung der Extremitäten.
+  -
+  -
 :::
 
 Diese Bewegungen können auch auf Bewegungen des Rumpfes bzw. des Kopf-Hals-Bereiches übertragen werden.
 Hierauf wird unter {ref}`Bewegungsapparat` gesondert eingegangen.
 
 :::{list-table} Bewegungsbezeichnungen am Kiefergelenk
-:stub-columns: 1
+:header-rows: 1
 
-- - Adduktion
+- - Bewegung
+  -
+  - Gegenbewegung
+  -
+- - **Adduktion**
   - Heranführen des Unterkiefers an den Oberkiefer
-- - Abduktion
+  - **Abduktion**
   - Wegführen des Unterkiefers vom Oberkiefer.
     Beide Bewegungen erfolgen um eine transversale Achse.
-- - Protrusion
+- - **Protrusion**
   - gleichmäßige Bewegung beider Gelenkkondylen nach ventral.
     Beide Bewegungen erfolgen entlang einer sagittalen Achse.
-- - Retrusion
+  - **Retrusion**
   - gleichmäßige Bewegung beider Gelenkkondylen nach dorsal.
     Beide Bewegungen erfolgen entlang einer sagittalen Achse.
-- - Mediotrusion
+- - **Mediotrusion**
   - Bewegung des Unterkieferkondylus zur Mitte
     (Balance-, Mediotrusionsseite)
-- - Laterotrusion
+    Erfolgt um eine vertikale (longitudinale) Achse.
+  - **Laterotrusion**
   - Bewegung des Unterkieferkondylus nach außen
     (Arbeits-, Laterotrusionsseite).
-- - Mediotrusion und Laterotrusion
-  - erfolgen um eine vertikale (longitudinale) Achse.
+    Erfolgt um eine vertikale (longitudinale) Achse.
 :::
 
 ## Biotypologie

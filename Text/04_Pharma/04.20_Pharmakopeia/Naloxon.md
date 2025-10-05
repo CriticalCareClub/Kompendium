@@ -1,28 +1,28 @@
-```{index} single: Naloxon
-```
+:::{index} single: Naloxon
+:::
 
 (naloxon)=
 
 # Naloxon
 
-Beschreibung  
+Beschreibung
 : - Opiat-Antagonist
 
-Pharmakodynamik  
+Pharmakodynamik
 : - μ-Antagonist
 
-Indikation(en)  
-: - Opiat-Antagonisierung  
+Indikation(en)
+: - Opiat-Antagonisierung
   - auch bei Gebärenden indiziert
 
-Kontraindikation(en)  
-: - Überempfindlichkeit  
+Kontraindikation(en)
+: - Überempfindlichkeit
   - Atemdepression, die nicht durch Opiate ausgelöst wurde
 
-Dosierung  
-: - Erw: 0,4 mg i.v., i.m., s.c.  
+Dosierung
+: - Erw: 0,4 mg i.v., i.m., s.c.
   - Kinder: 0,1 mg / kg i.v., i.m., s.c.
 
-Nebenwirkungen  
+Nebenwirkungen
 : - Entzugssymptomatik
 

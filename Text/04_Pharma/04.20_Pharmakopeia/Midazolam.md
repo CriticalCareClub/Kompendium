@@ -1,5 +1,5 @@
-```{index} single: Midazolam
-```
+:::{index} single: Midazolam
+:::
 
 (midazolam)=
 

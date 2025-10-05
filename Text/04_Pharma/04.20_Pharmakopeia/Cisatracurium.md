@@ -10,20 +10,19 @@
 
 Nimbex™
 
-=  ndMR;  0,1 mg / kg, 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;  
+Nicht-depolarisierendes Muskelrelaxans
 
-**Organunabhängige Elimination** durch Hoffmann-Elimination (CNI geeignet!);  
+**Organunabhängige Elimination** durch Hoffmann-Elimination (CNI geeignet!);
 Anaphylaktische Reaktion mit Histaminfreisetzung durch große Moleküle möglich.
 
 
 
 Indikation
-: Relaxation, Präcurarisierung, TIVA
+: Relaxation insb. bei Niereninsuffizienz
 
 Kontraindikationen
-: Cave bei Myasthenia gravis, neuromusk. Erkr. und
-  Gravid.Langsame Appl. bei kardiovask. Risiken und allergischer
-  Diathese
+: Cave bei Myasthenia gravis, neuromusk. Erkr. und Gravid.
+  Langsame Appl. bei kardiovask. Risiken und allergischer Diathese
 
 Dosierung
 : - Intubation: 0,2 mg / kg
@@ -32,8 +31,11 @@ Dosierung
 
   Dosierung abhängig von Muskelmasse!
 
+Pharmakokinetik
+: 3-5 Minuten Anschlagzeit mit ca. 40-55 min WD;
+
 :::{note}
-Reines Isomer des Atracuriums, kaum Histaminausschüttung.
+Reines Isomer des Atracuriums, kaum Histaminausschüttung, Hoffmann-Elimination.
 
 Lagerung 2--8°C
 :::

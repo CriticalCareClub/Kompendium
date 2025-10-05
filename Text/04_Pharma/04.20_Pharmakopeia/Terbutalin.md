@@ -1,20 +1,20 @@
-```{index} single: Terbutalin
-```
+:::{index} single: Terbutalin
+:::
 
 (terbutalin)=
 
 # Terbutalin
 
-Indikation und Dosierung  
-: - **Asthmaanfall**  
-    0,005 mg / kg (1 Amp. / 100 kg) i.v. titriert oder s.c.  
-    Bewährt hat sich: 1 Amp. (0,5 mg) auf 10 mL → 0,050 mg / mL: mL-weise titrieren  
-    Alternativ lässt sich Terbutalin auch gut unverdünnt über eine 1 ml-Spritze titrieren.  
-  - **Tokolyse**  
+Indikation und Dosierung
+: - **Asthmaanfall**
+    0,005 mg / kg (1 Amp. / 100 kg) i.v. titriert oder s.c.
+    Bewährt hat sich: 1 Amp. (0,5 mg) auf 10 mL → 0,050 mg / mL: mL-weise titrieren
+    Alternativ lässt sich Terbutalin auch gut unverdünnt über eine 1 ml-Spritze titrieren.
+  - **Tokolyse**
     0,25 mg (Amp)
 
-Kontraindikationen  
-: - Cave bei Tachykardie, Thyreotoxikose, hypertrophe obstruktive CMP,  
+Kontraindikationen
+: - Cave bei Tachykardie, Thyreotoxikose, hypertrophe obstruktive CMP,
     KHK, MCI, (subvalvuläre) Aortenstenose
 
 

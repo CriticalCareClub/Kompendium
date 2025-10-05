@@ -1,50 +1,50 @@
-```{index} single: Adrenalin
-```
-```{index} single: Epinephrin
-```
+:::{index} single: Adrenalin
+:::
+:::{index} single: Epinephrin
+:::
 
 (adrenalin)=
 (epinephrin)=
 
 # Adrenalin (Epinephrin)
 
-Pharmakodynamik  
-: - Adrenalin ist ein direkt wirksames Sympathomimetikum (nichtselektiver Agonist),  
-    welches gleicherweise auf α- und β-Adrenorezeptoren wirkt (einschließlich der Hauptsubtypen  
-    α₁, α₂, β₁, β₂ und β). Die organspezifische Wirkung ergibt sich aus der unterschiedlichen  
-    Expression der jeweiligen Rezeptor(sub)typen.  
-    Siehe {ref}`Adrenorezeptoren`.  
-    Hämodynamisch wirkt es als Vasopressor (α₁-Rezeptor-abhängige Vasokonstriktion) und erhöht  
+Pharmakodynamik
+: - Adrenalin ist ein direkt wirksames Sympathomimetikum (nichtselektiver Agonist),
+    welches gleicherweise auf α- und β-Adrenorezeptoren wirkt (einschließlich der Hauptsubtypen
+    α₁, α₂, β₁, β₂ und β). Die organspezifische Wirkung ergibt sich aus der unterschiedlichen
+    Expression der jeweiligen Rezeptor(sub)typen.
+    Siehe {ref}`Adrenorezeptoren`.
+    Hämodynamisch wirkt es als Vasopressor (α₁-Rezeptor-abhängige Vasokonstriktion) und erhöht
     das Herzzeitvolumen durch Bindung an β₁-Rezeptoren (Inotropie und Chronotropie).
 
-Pharmakokinetik  
-: - Der **Abbau** erfolgt insbesondere durch Catechol-O-Methyltransferase (COMT) und die Monoaminooxidase (MAO).  
+Pharmakokinetik
+: - Der **Abbau** erfolgt insbesondere durch Catechol-O-Methyltransferase (COMT) und die Monoaminooxidase (MAO).
   - Die **Ausscheidung** der Stoffwechselprodukte erfolgt in konjugierter und in unkonjugierter Form über den Harn.
 
-Indikation(en)  
-: - {ref}`Reanimation <Reanimation-Pharmaka>`: schockbarer und nicht-schockbarer Rhythmus  
-  - Kardiogener Schock  
-  - {ref}`Anaphylaxie <Anaphylaxie>`  
-  - schweres Asthma bronchiale  
-  - Pseudokrupp (inhalativ)  
+Indikation(en)
+: - {ref}`Reanimation <Reanimation-Pharmaka>`: schockbarer und nicht-schockbarer Rhythmus
+  - Kardiogener Schock
+  - {ref}`Anaphylaxie <Anaphylaxie>`
+  - schweres Asthma bronchiale
+  - Pseudokrupp (inhalativ)
   - Schwellungen der oberen Atemwege (inhalativ)
 
-Kontraindikation(en)  
-: - Im Notfall keine.  
-  - Ansonsten relativ:  
-    - Hypertonie  
-    - KHK  
-    - Glaukom  
-    - Tachyarrhythmie  
-    - Hyperthyreose  
+Kontraindikation(en)
+: - Im Notfall keine.
+  - Ansonsten relativ:
+    - Hypertonie
+    - KHK
+    - Glaukom
+    - Tachyarrhythmie
+    - Hyperthyreose
     - Phäochromocytom
 
-Wechselwirkungen  
-: - Insbesondere bei gleichzeitiger Kalzium-Gabe kann es zu Arrhythmien kommen.  
+Wechselwirkungen
+: - Insbesondere bei gleichzeitiger Kalzium-Gabe kann es zu Arrhythmien kommen.
   - NaBic über den gleichen Zugang inaktiviert Katecholamine.
 
 :::{warning}
-- Kein Adrenalin in Akren spritzen!  
+- Kein Adrenalin in Akren spritzen!
 - Bei Betablocker-Gabe überwiegt die α-Rezeptor-Wirkung.
 :::
 

@@ -1,31 +1,31 @@
-```{index} single: Acetazolamid
-```
-```{index} single: Diamox® 
-```
-```{index} single: Elektrolytverschiebung (Acetazolamid) 
-```
-```{index} single: Sulfonamide (Acetazolamid) 
-```
-```{index} single: Carboanhydraseinhibitor (Acetazolamid) 
-```
-```{index} single: Carboanhydrasehemmer (Acetazolamid) 
-```
-```{index} single: Glaukom (Acetazolamid) 
-```
-```{index} single: Epilepsie (Acetazolamid)
-```
+:::{index} single: Acetazolamid
+:::
+:::{index} single: Diamox®
+:::
+:::{index} single: Elektrolytverschiebung (Acetazolamid)
+:::
+:::{index} single: Sulfonamide (Acetazolamid)
+:::
+:::{index} single: Carboanhydraseinhibitor (Acetazolamid)
+:::
+:::{index} single: Carboanhydrasehemmer (Acetazolamid)
+:::
+:::{index} single: Glaukom (Acetazolamid)
+:::
+:::{index} single: Epilepsie (Acetazolamid)
+:::
 
 (acetazolamid)=
 
 # Acetazolamid
 
-```{rubric} Spezialitäten
-```
+:::{rubric} Spezialitäten
+:::
 
 *Diamox®* 250 mg Tabletten; 500 mg Durchstechflaschen mit Pulver zur Herstellung einer Injektionslösung
 
-```{rubric} Beschreibung
-```
+:::{rubric} Beschreibung
+:::
 
 Carboanhydraseinhibotor, **Sulfonamid**
 
@@ -35,8 +35,8 @@ Das Ergebnis ist in der Niere eine *verstärkte Ausscheidung* von HCO₃⁻-Ione
 
 Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
 
-```{rubric} Indikationen
-```
+:::{rubric} Indikationen
+:::
 
 - **Diuretikum:** Es kann mit anderen Diuretika kombiniert werden,
   wenn zur Behandlung von Flüssigkeitsretention Wirkungen an mehreren Nephron-Segmenten gewünscht werden.
@@ -50,8 +50,8 @@ Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
   Höhenkrankheit,
   Idiopathiisch intracranielle Hypertension
 
-```{rubric} Nebenwirkungen
-```
+:::{rubric} Nebenwirkungen
+:::
 
 - Metabolische Azidose,
 - Elektrolyt-Verschiebungen (*Hypo-K*, *Hypo-Na*)
@@ -76,8 +76,8 @@ Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
   Anaphylaxie,
   *Stevens–Johnson syndrome*
 
-```{rubric} Kontraindikationen
-```
+:::{rubric} Kontraindikationen
+:::
 
 - Hyperchloremische Azidose
 - Hypo-K
@@ -89,8 +89,8 @@ Acetazolamid reduziert den Gehalt von H⁺- und HCO₃⁻-Ionen
   inkl. Zirrhose; Risiko für hepatische Encephalopathie.
   Acetazolamide verrignert die Ammoniak-Clearence
 
-```{rubric} Dosierung
-```
+:::{rubric} Dosierung
+:::
 
 - **Glaukom:** Diamox verringert die Ausscheidung von Kammerwasser bei Glaukom
   und kann möglicherweise nutzbringend mit Präparaten zur Förderung der Drainage von Kammerwasser kombiniert werden.

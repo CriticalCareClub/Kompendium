@@ -1,7 +1,7 @@
-```{index} single: Etomidate
-```
-```{index} single: Hypnomidate™
-```
+:::{index} single: Etomidate
+:::
+:::{index} single: Hypnomidate™
+:::
 
 (etomidate)=
 
@@ -13,43 +13,43 @@
 Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **erhöhten Mortalität** *nicht* bei kritisch kranken, insbesonders septischen, Patienten eingesetzt werden!
 :::
 
-Pharmakodynamik  
-: - *Telenzephal* hypnotische Wirkung.  
-    Ebenso Wirkung am GABA\ :sub:`A`\ -Rezeptor.  
-    Dosisabhängige *Hemmung der Cortisolsynthese* durch reversible Enzymhemmung  
+Pharmakodynamik
+: - *Telenzephal* hypnotische Wirkung.
+    Ebenso Wirkung am GABA\ :sub:`A`\ -Rezeptor.
+    Dosisabhängige *Hemmung der Cortisolsynthese* durch reversible Enzymhemmung
     (11-Beta-Hydroxylase) in der Nebennierenrinde.
 
-Pharmakokinetik  
-: - PBB 80 %. Der **Abbau** erfolgt v.a. durch *Esterhydrolyse* in der *Leber*.  
-    Die Metaboliten sind inaktiv.  
+Pharmakokinetik
+: - PBB 80 %. Der **Abbau** erfolgt v.a. durch *Esterhydrolyse* in der *Leber*.
+    Die Metaboliten sind inaktiv.
     Die **Ausscheidung** erfolgt *renal* (85 %) und biliär (13 %).
 
-Indikation  
-: - Kurzhypnotikum zur Narkoseeinleitung.  
+Indikation
+: - Kurzhypnotikum zur Narkoseeinleitung.
     Etomidate ist besonders kreislaufstabil, daher gut geeignet bei Kreislauf-Risikopatienten.
 
-Kontraindikationen  
-: - Kritisch kranke und verletzte, insbesondere septische, Patienten  
-  - manifeste NNR-Insuffizienz  
-  - Neugeborene und Säuglinge bis 6 Monate  
+Kontraindikationen
+: - Kritisch kranke und verletzte, insbesondere septische, Patienten
+  - manifeste NNR-Insuffizienz
+  - Neugeborene und Säuglinge bis 6 Monate
   - strenge Indikationsstellung in der Schwangerschaft
 
-Wirkungen  
+Wirkungen
 : - Wirkung: Hypnose ohne Analgesie
 
-Nebenwirkungen  
-: - Myoklonien  
-  - (relativ geringe) Atemdepression  
+Nebenwirkungen
+: - Myoklonien
+  - (relativ geringe) Atemdepression
   - Bei rascher Injektion **Masseterkrämpfe**
 
-Wechselwirkungen  
-: - 
+Wechselwirkungen
+: -
 
-Dosierung  
+Dosierung
 : - Erw.: 20 mg
 
 :::{note}
-- Stillpause: 24 h  
+- Stillpause: 24 h
 - Nicht zur kontinuierlichen Anwendung geeignet (wegen Hemmung der Cortisolsynthese).
 :::
 
@@ -104,4 +104,3 @@ Es erhöht damit nachweislich und deutlich die **Mortalität** von kritisch kran
 
 Etomidate ist bei kritisch kranken Patienten kontraindiziert!
 :::
-  

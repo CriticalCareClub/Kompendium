@@ -1,7 +1,7 @@
-```{index} single: Sufentanil
-```
-```{index} single: Sufenta®
-```
+:::{index} single: Sufentanil
+:::
+:::{index} single: Sufenta®
+:::
 
 # Sufentanil
 
@@ -28,13 +28,8 @@
 
          Analgesie, Analgosedierung, Zusatz für Epiduralanästhesie
 
-## Kontraindikationen:
 
-      - Wirkung
 
-      - Nebenwirkungen
-
-## Wechselwirkungen
 
 
 ## Dosierung

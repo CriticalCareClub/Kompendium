@@ -1,5 +1,5 @@
-```{index} single: Propofol
-```
+:::{index} single: Propofol
+:::
 
 (propofol)=
 

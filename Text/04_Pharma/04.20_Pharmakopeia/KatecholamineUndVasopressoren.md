@@ -1,5 +1,0 @@
-# Katecholamine und Vasopressoren
-
-
-
-

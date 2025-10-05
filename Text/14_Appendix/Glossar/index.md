@@ -110,7 +110,7 @@ LSK
 : Laparoskopie
 
 LVOT
-: Left Ventricular Outflow Tract 
+: Left Ventricular Outflow Tract
 
 LVH
 : Linksventrikelhypertrophie
@@ -264,6 +264,9 @@ Kontrastmittel
   Jod-haltigen Kontrastmitteln), sowie eine Einschränkung der
   Nierenfunktion. Häufige unbedenkliche Nebenwirkungen sind ein Wärme-
   oder Hitzegefühl sowie ein metallischer Geschmack.
+
+Medizin
+: Die Medizin ist die Lehre von Gesundheit und Krankheit sowie die Kunde der Gesunderhaltung, Heilung und Linderung.
 
 Mekonium
 : Der erste Stuhl des Neugeborenen, der während der intrauterinen Entwicklung gebildet wird.

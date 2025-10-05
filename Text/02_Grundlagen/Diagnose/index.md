@@ -34,17 +34,17 @@ Eine Diagnose gibt einem Zustand eine Bezeichnung, das heißt einem Beschwerdebi
 
 ```{index} single: Verdachtsdiagnose
 ```
-```{index} single: V. a. 
+```{index} single: V. a.
 ```
 ```{index} single: Arbeitsdiagnose
 ```
 ```{index} single: Notfalldiagnose
 ```
-```{index} single: St. p. 
+```{index} single: St. p.
 ```
 ```{index} single: Status post
 ```
-```{index} single: Z. n. 
+```{index} single: Z. n.
 ```
 ```{index} single: Zustand nach
 ```
@@ -180,7 +180,11 @@ Diagnosen, welche bei den jeweiligen Symptomen auch möglich, jedoch weniger wah
 ## Unfallchirurgische Diagnosen
 
 Im folgenden sind häufige (lateinische) Diagnosen bzw. Abkürzungen als Referenz angeführt, welche man häufig auf unfallchirurgischen Arztbriefen und Ambulanzprotokollen findet. Eine ausführliche Aufstellung findet sich in {term}`🗎 Lippert 4`.
-Die Diagnosen werden durch {ref}`RichtungsLageangaben` ergänzt.
+Die Diagnosen werden durch {ref}`Richtungsangaben` ergänzt.
+
+:::{seealso}
+- {numref}`Richtungsangaben`: {ref}`Richtungsangaben`
+:::
 
 ### Wund- und Verletzungsarten
 

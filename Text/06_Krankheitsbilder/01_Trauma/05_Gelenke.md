@@ -1,4 +1,4 @@
-# # Gelenkstrauma: Verrenkung und Verstauchung
+# Gelenkstrauma: Verrenkung und Verstauchung
 
 (verstauchung-tra)=
 

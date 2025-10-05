@@ -1,4 +1,5 @@
-# # Extremitätentrauma
+
+# Extremitätentrauma
 
 Verletzungen der Extremitäten können in verschiedenen Formen auftreten:
 

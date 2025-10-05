@@ -1,5 +1,6 @@
 ```{index} Traumatologie
 ```
+
 # Allgemein
 
 Als {dfn}`Trauma` {index}` <! Trauma>` bezeichnet man eine

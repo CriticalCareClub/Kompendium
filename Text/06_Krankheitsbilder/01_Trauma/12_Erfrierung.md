@@ -1,4 +1,4 @@
-# # Erfrierungen
+# Erfrierungen
 
 Eine {dfn}`Erfrierung` {index}` <Erfrierung>` ( *Lat.* *Congelatio* (*Congelat.*)) ist eine Gewebsnekrose, die durch lokale Durchblutungsstörungen aufgrund von Kälteeinwirkung (Eis, Wind, Nässe, Kälte) entstanden ist.
 

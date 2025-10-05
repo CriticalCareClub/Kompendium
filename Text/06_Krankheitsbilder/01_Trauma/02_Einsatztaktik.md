@@ -1,4 +1,4 @@
-# # Einsatztaktische Überlegungen bei verunfallten Patienten
+# Einsatztaktische Überlegungen bei verunfallten Patienten
 
 ## Unfallort
 

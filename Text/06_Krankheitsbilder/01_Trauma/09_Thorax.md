@@ -1,5 +1,6 @@
-```{index} single: Thorax; -trauma
-```
+:::{index} single: Thorax; -trauma
+:::
+
 # Thoraxtrauma
 
 Ein Thoraxtrauma bezeichnet eine Gewalteinwirkung auf den Brustkorb mit Verletzung des Brustkorbes bzw. der darin enthaltenen Organe.
@@ -41,8 +42,8 @@ Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können Prellm
 Im Brustkorb befinden sich einige lebenswichtige Organe und Strukturen, daher kann es zu schweren *Begleitverletzungen* kommen. Besonders erwähnenswert sind hierbei die Lunge, das Herz, die Aorta, die Luft- und die Speiseröhre. Auch die Organe des Oberbauches (Leber, Milz, …) liegen hinter den den Rippen und können ebenfalls verletzt sein.
 Häufig kommt es auch zu Blutungen in den Thorax ({dfn}`Hämatothorax`).
 
-```{index} Pneumothorax
-```
+:::{index} Pneumothorax
+:::
 
 ## Beim Pneumothorax befindet sich Luft im Pleuraspalts
 
@@ -117,14 +118,14 @@ Taktik
   Steril abdecken.
 - **Transportentscheidung**: Schockraum
 
-```{index} single: Rippenfraktur
-```
-```{index} single: Serienrippenfraktur
-```
-```{index} single: Fraktur; Rippen-
-```
-```{index} single: Fraktur; Serienrippen-
-```
+:::{index} single: Rippenfraktur
+:::
+:::{index} single: Serienrippenfraktur
+:::
+:::{index} single: Fraktur; Rippen-
+:::
+:::{index} single: Fraktur; Serienrippen-
+:::
 
 ## Rippenfraktur, Serienrippenfraktur und instabiler Thorax
 
@@ -152,8 +153,8 @@ Häufige Mechanismen sind z. B. ein Sturz auf den Thorax (insbesonders gegen e
 Nach Rippenfrakturen kann es durch spitze Fragmente zu einer Lungenfell-
 oder Lungenverletzung kommen, die aufgrund einer Blutung (*Hämatothorax*) oder Ateminsuffizienz lebensgefährlich werden kann. Eine wesentliche Komplikation ist dabei die Entstehung eines **Pneumothorax**. Eine Röntgenuntersuchung und Verlaufskontrolle ist daher unbedingt erforderlich. Ebenso kann es zu einer Schädigung der Oberbauchorgane kommen.
 
-```{index} single: Atmung; paradoxe; bei Serienrippenfraktur
-```
+:::{index} single: Atmung; paradoxe; bei Serienrippenfraktur
+:::
 
 ### Symptome
 

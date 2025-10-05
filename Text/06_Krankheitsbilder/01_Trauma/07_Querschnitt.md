@@ -1,4 +1,4 @@
-# # 56. Traumatisches Querschnittsyndrom
+# 56. Traumatisches Querschnittsyndrom
 
 Ursachen: Flexion/Extension, Flexion/Rotation, axiale Kompression bei Sturz aus großer Höhe C6/7 \> Th11-L1 \> L5-S1 Primärschaden durch Blutung und Zerreissung des Myeloms + sekundär Schaden durch Autodestruktion
 

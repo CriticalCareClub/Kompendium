@@ -1,4 +1,4 @@
-# # Strom- und Blitzschlag
+# Strom- und Blitzschlag
 
 Stromunfälle sind zwar selten, stellen jedoch für die Helfer eine große Herausforderung dar. Der Grund hierfür ist, dass bereits im Szeneüberblick die Gefahr eines möglichen weiteren Stromschlages erkannt werden muss! Erster Anhaltspunkt ist daher die Situation am Einsatzort.
 Typisch sind:
@@ -99,10 +99,10 @@ Die Orientierung an Symptomen ist für die Einschätzung der vitalen Bedrohung d
 ## Spezielle Mechanismen und Situationen
 
 Stromüberlandleitungen (Hochspannungsleitungen)
-: Bei Überlandleitungen ist mit Hochspannung (380 000 V (380 kV)) zu rechnen. 
-  Ist eine Hochspannungsleitung gerissen und berührt den Boden, so ist besondere Vorsicht geboten! 
-  Da auch das Erdreich einen elektrischen Widerstand hat, gibt es in der Nähe der gerissenen Leitung im Boden einen Spannungsabfall. 
-  Bewegt man sich in großen Schritten auf das Kabel zu oder vom Kabel weg, so tritt zwischen den Füßen eine derart hohe Spannung auf, dass es zu einem Stromfluss über den menschlichen Körper von einem Fuß zum anderen Fuß kommen kann (*Schrittspannung*). 
+: Bei Überlandleitungen ist mit Hochspannung (380 000 V (380 kV)) zu rechnen.
+  Ist eine Hochspannungsleitung gerissen und berührt den Boden, so ist besondere Vorsicht geboten!
+  Da auch das Erdreich einen elektrischen Widerstand hat, gibt es in der Nähe der gerissenen Leitung im Boden einen Spannungsabfall.
+  Bewegt man sich in großen Schritten auf das Kabel zu oder vom Kabel weg, so tritt zwischen den Füßen eine derart hohe Spannung auf, dass es zu einem Stromfluss über den menschlichen Körper von einem Fuß zum anderen Fuß kommen kann (*Schrittspannung*).
   Bei gerissenen Hochspannungsleitungen darf man daher keine großen Schritte machen, oder stromleitende Gegenstände (z. B. Metalle) berühren (vgl. {ref}`Gefahrenzonen <gefahrenzonen>`)!
 
 Bahnanlagen

@@ -56,6 +56,53 @@ Dadurch verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in
 
 
 
+:::{index} single: Hämostase
+:::
+
+## Hämostase
+
+:::{margin} Hämostase
+
+- Gerinnungssystem
+- Thrombozyten
+- Fibrinolytisches System
+- Endothel der Gefäßwand
+:::
+
+Die Hämostase umfasst alle Mechanismen, die nach einer Gefäßverletzung zur Blutstillung beitragen und gleichzeitig die Durchgängigkeit der Gefäße bewahren.
+Sie beruht auf dem Zusammenspiel verschiedener Systeme:
+- dem plasmatischen *Gerinnungssystem*,
+- den *Thrombozyten*,
+- dem *fibrinolytischen System* sowie dem
+- *Endothel der Gefäßwand*.
+
+:::{admonition} Hä?
+> Was hat das fibrinolytische System mit der Gerinnung zu tun? Das macht ja das Gegenteil??
+
+Das Gerinnungssystem ist ein Balanceakt zwischen pro-koagulatorischen und antikoagulatorischen Mechanismen.
+Für ein funktionierendes Gerinnungssystem bedarf es beider Mechanismen, die sich gegenseitig in Schach halten.
+:::
+
+Der Ablauf lässt sich in drei Phasen gliedern:
+
+:::{margin}  3 Phasen der Hämostase
+
+- Bildung des Plättchenpfropfs
+- Stabilisierung des primären Plättchenpfropfs
+- Fibrinolyse
+:::
+
+1. **Bildung des Plättchenpfropfs**:
+   Nach der Gefäßverletzung lagern sich Thrombozyten an die geschädigte Endotheloberfläche an und aggregieren.
+   Es entsteht ein *primärer Plättchenpfropf*.
+2. **Stabilisierung des primären Plättchenpfropfs**:
+   Durch die Aktivierung des Gerinnungssystems wird *Fibrin* gebildet, das den Thrombozytenpfropf verstärkt und stabilisiert.
+3. **Fibrinolyse**:
+   In der letzten Phase sorgt das fibrinolytische System für den *kontrollierten Abbau* des Fibrins, sodass das Gefäß wieder durchgängig wird, sobald die Heilung fortgeschritten ist.
+
+Damit stellt die Hämostase ein fein abgestimmtes Gleichgewicht zwischen **Blutstillung** und **Erhalt der Gefäßdurchgängigkeit** dar.
+
+
 Hämostase
 : - Gerinnungssystem
   - Thrombozyten

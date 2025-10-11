@@ -172,6 +172,16 @@
   PMID: 28886621,
   DOI: [10.1093/eurheartj/ehx393](https://doi.org/10.1093/eurheartj/ehx393)
 
+♛ ÖGARI Gerinnungsevaluierung 2024
+: **Empfehlung der Arbeitsgruppe Perioperative Gerinnung der ÖGARI zum Thema: Präoperative/präinterventionelle Anamnese-basierte Gerinnungsevaluierung.**
+  Österreichische Gesellschaft für Anaesthesiologie, Reanimation und Intensivmedizin (ÖGARI), 2024.
+  https://www.oegari.at/web_files/cms_daten/empfehlung_agpg_perioperative_anamnese-basierte_gerinnungsevaluierung_version_2___2024.pdf
+
+♛ ÖGARI Gerinnung RA 2024
+: **Empfehlung der Arbeitsgruppe Perioperative Gerinnung der ÖGARI zum Thema: Regionalanästhesie unter Gerinnungshemmung.**
+  Österreichische Gesellschaft für Anaesthesiologie, Reanimation und Intensivmedizin (ÖGARI), 2024.
+  https://www.oegari.at/web_files/cms_daten/empfehlung_der_arbeitsgruppe_perioperative_gerinnung_der_ogari_zum_thema_regionalanasthesie_unter_gerinnungshemmung.pdf
+
 ♛ ÖGARI RA-Neuro 2021
 : **Empfehlung der ARGE Regionalanästhesie für das Vorgehen bei Verdacht auf perioperative Nervenläsionen**
   der Österreichischen Gesellschaft für Anästhesie, Reanimation und Intensivmedizin (ÖGARI), ARGE Regionalanästhesie.

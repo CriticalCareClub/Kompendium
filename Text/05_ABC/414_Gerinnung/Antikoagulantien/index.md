@@ -2,9 +2,32 @@
 
 
 
-Bei den Antikoagulantien kann man direkt wirkende und indirekt wirkende Antikoagulantien unterscheiden.
+Unter **Antikoagulation** versteht man therapeutische Maßnahmen zur Hemmung der Blutgerinnung, mit dem Ziel, thromboembolische Ereignisse zu verhindern oder zu behandeln.
+Die Substanzen wirken über unterschiedliche Mechanismen und lassen sich grob in **direkt wirkende** und **indirekt wirkende** Antikoagulanzien sowie **Thrombozytenaggregationshemmer** einteilen.
 
+Direkt wirkende Antikoagulanzien
+: Diese Medikamente greifen unmittelbar in die Gerinnungskaskade ein, indem sie Gerinnungsfaktoren binden und inaktivieren:
 
+  - **Heparin**, Heparinoide, Fondaparinux
+    → Verstärkung der Antithrombin-Wirkung, Inhibition von Thrombin (FIIa) und Faktor Xa.
+  - **Direkte Thrombininhibitoren (Anti-FIIa):** Hirudine, Argatroban, Dabigatran.
+  - **Direkte FXa-Inhibitoren (Anti-FXa):** Rivaroxaban, Apixaban.
+
+Indirekt wirkende Antikoagulanzien
+: Hierzu zählen Substanzen, die nicht direkt an den Gerinnungsfaktoren wirken, sondern deren Bildung oder Abbau beeinflussen:
+
+  - **Cumarine** (Vitamin-K-Antagonisten, z. B. Phenprocoumon, Warfarin)
+    → Hemmung der γ-Carboxylierung der Faktoren II, VII, IX, X.
+  - **Fibrinolytika** (z. B. Alteplase, Tenecteplase, Urokinase, Streptokinase)
+    → Aktivieren Plasminogen zu Plasmin und lösen Fibringerinnsel auf.
+
+Thrombozytenaggregationshemmer
+: Diese Medikamente wirken primär auf die Thrombozytenfunktion und verhindern die Plättchenaggregation:
+
+  - **COX-Hemmer:** Acetylsalicylsäure (ASS)
+  - **P2Y12-Inhibitoren:** Clopidogrel, Prasugrel, Ticagrelor
+  - **GP IIb/IIIa-Antagonisten:** Abciximab, Tirofiban, Eptifibatid
+  - **Weitere:** Dipyridamol (PDE-Hemmer), Cilostazol
 
 
 
@@ -398,3 +421,106 @@ Unerwünschte Wirkungen
 
 
 
+
+(APHA-VO-Antikoagulation-Regional)=
+
+## Antikoagulation und Regionalanästhesie
+
+:::{seealso}
+- {term}`♛ ÖGARI Gerinnung RA 2024` (Empfehlung der Arbeitsgruppe Perioperative Gerinnung der ÖGARI zum Thema: Regionalanästhesie unter Gerinnungshemmung)
+:::
+
+Blutungen gehören zu den potentiellen Komplikationen nach neuroaxialen und peripheren
+Nervenblockaden.
+Das Risiko ist bei Anwendung von gerinnungshemmenden Substanzen erhöht.
+Das Blutungsrisiko hängt wesentlich von möglichen klinischen Konsequenzen der Blutung (und damit
+dem Ort der Punktion), der grundsätzlichen Behandlungsmöglichkeit der Blutung und der
+Wahrscheinlichkeit, dass dafür eine invasive Intervention erforderlich sein wird, ab.
+
+:::{list-table} Blutungsrisiko der Regionalanästhesie nach ESAIC/ESRA. Diese Einteilung ist weder endgültig noch absolut. Die institutionsspezifische oder individuelle Kategorisierung der Blockaden kann je nach angewandter Technik und Erfahrung der Anwendenden variieren. Eine individuelle Nutzen-Risiko-Abwägung muss vor jeder Blockade durchgeführt werden.
+:header-rows: 1
+:stub-columns: 1
+:widths: 20 40 40
+
+* - **Region / Kategorie**
+  - **Tiefe Nervenblockaden / neuroaxiale Nervenblockaden**
+  - **Oberflächliche Nervenblockaden**
+
+* - Allgemeine Überlegungen
+  - Die Konsequenz einer Blutung ist potentiell klinisch relevant.
+    Das Management der Blutungskomplikation ist potentiell schwierig.
+    Es ist eventuell eine chirurgische Blutstillung erforderlich.
+    Deshalb ist ein Absetzen der Blutverdünnung zur Reduktion des Blutungsrisikos oder ein Verzicht auf die Blockade empfohlen.
+  - Die Konsequenz einer Blutung hat nur geringe klinische Relevanz.
+    Das Management der Blutungskomplikation ist einfach.
+    Es ist unwahrscheinlich, dass dafür eine invasive Intervention erforderlich ist.
+    Somit ist ein Absetzen der Blutverdünnung nicht erforderlich.
+
+* - Kopf, Hals
+  - Ganglion stellatum
+    Plexus cervicalis (tief)
+    zervikal paravertebral
+  - occipital
+    peribulbär
+    Plexus cervicalis (oberflächlich)
+
+* - Obere Extremität
+  - infraklavikulär
+  - interskalenär
+    supraklavikulär
+    axillär
+    suprascapulär
+    median, radial, ulnar
+
+* - Thorax
+  - epidural (peridural)
+    paravertebral
+  - interkostal / parasternal
+    Serratus anterior
+    pektoral
+    Erector spinae
+
+* - Abdomen, Becken, Rücken
+  - spinal
+    epidural (peridural)
+    paravertebral
+    Psoas Kompartment
+    Quadratus lumborum
+    Fascia transversalis
+    sakraler Plexus
+    Perikapsuläre Nervengruppe (PENG)
+    ischial (parasakral)
+  - ilioinguinal, iliohypogastrisch
+    Rectus sheath
+    TAP (Transversus abdominis plane)
+    pudendal
+
+* - Untere Extremität
+  - ischial (proximal)
+  - genitofemoral, femoral
+    Fascia iliaca
+    Adduktorkanal
+    ischial (subgluteal, distal)
+    oberflächliche Haut
+    sureal, saphenus, tibial, peroneal
+:::
+
+
+
+- Periphere – Zentrale Regionalanästhesieverfahren
+- Einhalten von Pausen vor Anlegen einer Regionalanästhesie
+- Einhalten von Pausen vor Anlegen eines Regionalanästhesiekatheters
+- Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
+
+
+:::{todo} Tabelle: Pausenzeiten bei neuroaxialer oder tiefer Regionalanästhesie, nach :term:`♛ ÖGARI Gerinnung RA 2024`
+
+```{eval-rst}
+
+```
+
+:::{figure} ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
+:width: 100%
+
+Management der Blutung unter oraler Antikoagulation
+:::

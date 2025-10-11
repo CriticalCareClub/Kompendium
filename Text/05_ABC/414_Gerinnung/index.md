@@ -18,22 +18,83 @@
 
 
 Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
-
 Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.
 Die einzelnen Komponenten sind netz- und kaskadenartig miteinander verbunden, wobei sie fördernde als auch hemmende Einflüsse auf die Gerinnung haben können.
 
-Man unterscheidet die primäre Hämostase (Plättchenthrombus, arterieller Thrombus  bei z.B.
+:::{margin} Hämostase
+
+- Gerinnungssystem
+- Thrombozyten
+- Fibrinolytisches System
+- Endothel der Gefäßwand
+:::
+
+Die **Hämostase** umfasst alle Mechanismen, die nach einer Gefäßverletzung zur Blutstillung beitragen und gleichzeitig die Durchgängigkeit der Gefäße bewahren.
+Sie beruht auf dem Zusammenspiel verschiedener Systeme:
+- dem plasmatischen *Gerinnungssystem*,
+- den *Thrombozyten*,
+- dem *fibrinolytischen System* sowie dem
+- *Endothel der Gefäßwand*.
+
+
+:::{admonition} Hä?
+> Was hat das fibrinolytische System mit der Gerinnung zu tun? Das macht ja das Gegenteil??
+
+Das Gerinnungssystem ist ein Balanceakt zwischen pro-koagulatorischen und antikoagulatorischen Mechanismen.
+Für ein funktionierendes Gerinnungssystem bedarf es beider Mechanismen, die sich gegenseitig in Schach halten.
+:::
+
+
+Die Blutgerinnung kann man in zwei verschiedene Phasen unterteilen:
+
+- **primäre Blutstillung** (= Hämostase):
+  passiert innerhalb von Sekunden, Thrombozyten bilden einen *Plättchenthrombus* und es kommt zur Vasodilatation.
+
+  Für diese Wirkung ist Thromboxan A2 verantwortlich, dass aus den Thrombozyten ausgeschüttet wird. Prostacyclin (aus den Endothelzellen) bewirkt das genaue Gegenteil:
+  eine Aggregationshemmung und Vasodilatation.
+- **sekundäre Blutstillung** (plasmatische Gerinnung):
+  innerhalb von Minuten, hier wird über Gerinnungsfaktoren die Gerinnungskaskade aktiviert.
+  In dieser Kaskade laufen 3 verschiedene Phasen ab:
+  - Bildung eines *Prothrombinaktivators*: Aktivierung der *Thrombokinase*
+  - *Thrombinbildung*: *Prothrombin* wird hierdurch in *Thrombin* umgewandelt
+  - *Fibrinbildung*: Das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin
+
+    Fibrin und Thrombozyten bilden gemeinsam den *Thrombus* - es kommt zu einer *Verfestigung des Thrombus* (*Retraktion*)
+
+Beide Hämostasephasen sind eng miteinander verbunden und stimulieren sich gegenseitig.
+
+
+Der Ablauf lässt sich somit *chronologisch* in drei Phasen gliedern:
+
+:::{margin}  3 Phasen der Hämostase
+
+- Bildung des Plättchenpfropfs
+- Stabilisierung des primären Plättchenpfropfs
+- Fibrinolyse
+:::
+
+1. **Bildung des Plättchenpfropfs**:
+   Nach der Gefäßverletzung lagern sich Thrombozyten an die geschädigte Endotheloberfläche an und aggregieren.
+   Es entsteht ein *primärer Plättchenpfropf*.
+2. **Stabilisierung des primären Plättchenpfropfs**:
+   Durch die Aktivierung des Gerinnungssystems wird *Fibrin* gebildet, das den Thrombozytenpfropf verstärkt und stabilisiert.
+3. **Fibrinolyse**:
+   In der letzten Phase sorgt das fibrinolytische System für den *kontrollierten Abbau* des Fibrins, sodass das Gefäß wieder durchgängig wird, sobald die Heilung fortgeschritten ist.
+
+Damit stellt die Hämostase ein fein abgestimmtes Gleichgewicht zwischen **Blutstillung** und **Erhalt der Gefäßdurchgängigkeit** dar.
+
+
+<!-- Man unterscheidet die **primäre Hämostase** (Plättchenthrombus, arterieller Thrombus  bei z.B.
 MCI), und plasmatische Gerinnung (venöser Thrombus bei VHF, TVT, PE).
-Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaque-Kern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat. Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung. Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors. Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst.
+
+Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaque-Kern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat.
+Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung.
+Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors.
+Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst. -->
 
 Global gesehen beträgt die  *Blutungszeit* durchschnittlich ca. 2 bis 4 Minuten, bei kleineren Verletzungen u. U. auch länger.
 
-Folgende Phasen laufen während der *Blutstillung* (primäre Hämostase) und *Blutgerinnung* (sekundäre Hämostase) ab:
 
-- Aktivierung der Thrombokinase
-- Prothrombin wird hierdurch in Thrombin umgewandelt
-- das Thrombin bewirkt die Umwandlung von Fibrinogen zu Fibrin
-- Fibrin und Thrombozyten bilden gemeinsam den Thrombus - es kommt zu einer Verfestigung des Thrombus (Retraktion)
 
 <!--
 
@@ -61,46 +122,7 @@ Dadurch verwandelt sich das zunächst ebenfalls im Plasma gelöste Fibrinogen in
 
 ## Hämostase
 
-:::{margin} Hämostase
 
-- Gerinnungssystem
-- Thrombozyten
-- Fibrinolytisches System
-- Endothel der Gefäßwand
-:::
-
-Die Hämostase umfasst alle Mechanismen, die nach einer Gefäßverletzung zur Blutstillung beitragen und gleichzeitig die Durchgängigkeit der Gefäße bewahren.
-Sie beruht auf dem Zusammenspiel verschiedener Systeme:
-- dem plasmatischen *Gerinnungssystem*,
-- den *Thrombozyten*,
-- dem *fibrinolytischen System* sowie dem
-- *Endothel der Gefäßwand*.
-
-:::{admonition} Hä?
-> Was hat das fibrinolytische System mit der Gerinnung zu tun? Das macht ja das Gegenteil??
-
-Das Gerinnungssystem ist ein Balanceakt zwischen pro-koagulatorischen und antikoagulatorischen Mechanismen.
-Für ein funktionierendes Gerinnungssystem bedarf es beider Mechanismen, die sich gegenseitig in Schach halten.
-:::
-
-Der Ablauf lässt sich in drei Phasen gliedern:
-
-:::{margin}  3 Phasen der Hämostase
-
-- Bildung des Plättchenpfropfs
-- Stabilisierung des primären Plättchenpfropfs
-- Fibrinolyse
-:::
-
-1. **Bildung des Plättchenpfropfs**:
-   Nach der Gefäßverletzung lagern sich Thrombozyten an die geschädigte Endotheloberfläche an und aggregieren.
-   Es entsteht ein *primärer Plättchenpfropf*.
-2. **Stabilisierung des primären Plättchenpfropfs**:
-   Durch die Aktivierung des Gerinnungssystems wird *Fibrin* gebildet, das den Thrombozytenpfropf verstärkt und stabilisiert.
-3. **Fibrinolyse**:
-   In der letzten Phase sorgt das fibrinolytische System für den *kontrollierten Abbau* des Fibrins, sodass das Gefäß wieder durchgängig wird, sobald die Heilung fortgeschritten ist.
-
-Damit stellt die Hämostase ein fein abgestimmtes Gleichgewicht zwischen **Blutstillung** und **Erhalt der Gefäßdurchgängigkeit** dar.
 
 
 Hämostase
@@ -123,21 +145,7 @@ Hämostase
 
 ## Gerinnungskaskade
 
-:::{todo} {issue}`130` Gerinnungskaskade — Was geschieht wo?
-
-../Pictures/Gerinnungskaskade-001.png
-:width: 100%
-
-:::
-
-
-
-:::{todo} {issue}`130` Gerinnungskaskade — Phasen
-
-../Pictures/Gerinnungskaskade-002.png
-:width: 100%
-
-:::
+:::{todo} {issue}`130` Gerinnungskaskade
 
 
 
@@ -280,28 +288,6 @@ Thrombozytenaggregationshemmer
 
 
 
-
-
-
-(APHA-VO-Antikoagulation-Regional)=
-
-## Antikoagulation und Regionalanästhesie
-
-- **https://www.oegari.at/web_files/dateiarchiv/editor/regionalanaesthesie_und_gerinnungshemmer_2016.pdf**
-
-<https://www.oegari.at/web_files/dateiarchiv/editor/regionalanaesthesie_und_gerinnungshemmer_2016.pdf>
-
-- Periphere – Zentrale Regionalanästhesieverfahren
-- Einhalten von Pausen vor Anlegen einer Regionalanästhesie
-- Einhalten von Pausen vor Anlegen eines Regionalanästhesiekatheters
-- Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
-
-:::{todo} {issue}`130` Management der Blutung unter oraler Antikoagulation
-
-../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
-:width: 100%
-
-:::
 
 
 

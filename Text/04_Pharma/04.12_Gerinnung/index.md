@@ -28,22 +28,6 @@ Das Blut besteht aus folgenden Untereinheiten:
 
 ### Blutgerinnung. und Fibrinolyse
 
-Die Blutgerinnung kann man in zwei verschiedene Phasen unterteilen:
-
-- primäre Blutstillung (= Hämostase): passiert innerhalb von Sekunden,
-  Thrombozyten bilden einen Plättchenthrombus und es kommt zur
-  Vasodilatation. Für diese Wirkung ist Thromboxan A2 verantwortlich,
-  dass aus den Thrombozyten ausgeschüttet wird. Prostacyclin (aus den
-  Endothelzellen) bewirkt das genaue Gegenteil: eine
-  Aggregationshemmung und Vasodilatation.
-- sekundäre Blutstillung: innerhalb von Minuten, hier wird über
-  Gerinnungsfaktoren die Gerinnungskaskade aktiviert. In dieser Kaskade
-  laufen 3 verschiedene Phasen ab:
-- Bildung eines Prothrombinaktivators
-- Thrombinbildung
-- Fibrinbildung
-
-Beide Hämostasephasen sind eng miteinander verbunden und stimulieren sich gegenseitig.
 
 Folgende Substanzen sind Inhibitoren der Gerinnung:
 

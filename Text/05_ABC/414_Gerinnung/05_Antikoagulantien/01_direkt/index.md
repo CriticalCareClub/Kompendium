@@ -19,11 +19,17 @@ Diese haben deswegen die Bezeichnung „direkt“, da sie einen Vorgang in der G
 
 ## Heparine
 
-  Es gibt zwei Arten von Heparinen - nach Molekulargewicht eingeteilt:
+Es gibt zwei Arten von Heparinen - nach Molekulargewicht eingeteilt:
 
-  - *unfraktioniertes* Heparin: bildet einen Komplex mit *Antithrombin II*.
-    Dieser Komplex inaktiviert Thrombin und die Faktoren Xa, XIIa, XIa, IXa.
-  - *niedermolekulares* Heparin: hemmt selektiv den Faktor **Xa**.
+- **Unfraktioniertes Heparin** (UFH):: bildet einen Komplex mit *Antithrombin II*.
+  Dieser Komplex inaktiviert Thrombin und die Faktoren Xa, XIIa, XIa, IXa.
+
+
+  *II+X-Inhibitator*, Molekulargr. 4 000–30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3 h vor elektiven Eingriffen beenden, WB 1 h
+- **Niedermolekulares Heparin** (LMWH):
+  hemmt selektiv den Faktor **Xa**.
+
+  va. *Xa*-Inhibitator, Molek. Ca. 4 000–9 000 Dalton, HWZ ca. 6 h, sc, 12 h / 24 h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2 h
 
 :::{list-table}
 :header-rows: 1
@@ -48,10 +54,12 @@ Diese haben deswegen die Bezeichnung „direkt“, da sie einen Vorgang in der G
 Heparine werden am häufigsten zur Thromboseprophylaxe eingesetzt. Hinzu kommen alle Arten von Embolien bzw. Thrombosen sowie bei Therapie eines akuten Koronarsyndroms und zur Prophylaxe von Thrombosen bei Hämodialyse, Hämofiltration und Herz-Lungen-Maschine.
 
 Zu den unerwünschten Wirkungen zählen Blutungen und Thrombozytopenien
-(Heparininduzierte Thrombozytopenie \[HIT\] Typ I und Typ II)
+(Heparininduzierte Thrombozytopenie (HIT) Typ I und Typ II)
 
 Kontraindikationen: erhöhte Blutungsbereitschaft (Leber- /
 Niereninsuffizienz, Thrombozytopenien), Verdacht auf Läsionen im Gefäßsystem
+
+
 
 :::{index} single: Danaparoid-Natrium
 :::
@@ -70,7 +78,9 @@ Darunter versteht man Heparin-ähnliche Stoffe, die in den verschiedensten Organ
 :::
 
 
-- **Fondaparinux (Arixtra®, Quixidar®)**: -> Heparin-Analogon
+- **Fondaparinux** (Arixtra®, Quixidar®): -> Heparin-Analogon
+
+
 
 :::{index} single: Bivalirudin
 :::
@@ -100,10 +110,12 @@ Substanzen dieser Gruppe hemmen Thrombin unabhängig von Antithrombin, Basisstof
 Sie werden bei der Heparin-induzierten Thrombozytopenie Typ II (HIT II)
 angewendet.
 
+
+
 :::{index} single: Argatroban
 :::
 
-## Thrombin-Inhibitoren
+## Direkte Thrombin-Inhibitoren
 
 :::{list-table} Thrombin-Inhibitoren
 :header-rows: 1
@@ -113,6 +125,8 @@ angewendet.
 * - Argatroban
   - Argatra®
 :::
+
+*Hirudine* z.B. *Argatroban* (Argatra), 2 h + apTT normal, WB 4 h
 
 
 hemmen Thrombin, sind niedermolekularer als die Hirudine
@@ -132,13 +146,15 @@ Niedermolekulare Heparine werden subkutan verabreicht – keines Falls intramusk
 
 25.3. Medikamente mit Angriffspunkt in der plasmatischen Gerinnung
 
-- UFH = II+X  --Inhibitator, Molekulargr. 4 000–30 000 Dalton, iv, aPTT oder ACT im Referenzbereich, 3 h vor elektiven Eingriffen beenden, WB 1 h
-- NMWH = va. Xa-Inhibitator, Molek. Ca. 4 000–9 000 Dalton, HWZ ca. 6 h, sc, 12 h / 24 h bei therapeutischer Dosis + antiXa unter Nachweisgrenze, WB 2 h
 
-- Direkte Thrombininhib. (IIa): Hirudine z.B. Argatroban/Argatra, 2 h + apTT normal, WB 4 h
-- FaktorX-Inhib.: Pentasaccharid/Fondaparinux = Arixtra sc. nach HTEP, KTEP, 36h!!, WB 6 h
-- Direkte Xa-Inhib.: Rivaroxaban/Xarelto 24 h, WB 3h und Apixaban/Eliquis 24–48 h (CNI!), WB je nach Blutungsrisiko
-- Direkte Thrombininhibitator: Dabigatran/Pradaxa 36 bis > 96 h (CNI!), WB je nach Blutungsrisiko
+- **Faktor-X-Inhibitoren**:
+  *Pentasaccharid*/*Fondaparinux*
+  (Arixtra) sc. nach HTEP, KTEP, 36h!!, WB 6 h
+
+- **Direkte Xa-Inhibitoren**:
+  *Rivaroxaban* (Xarelto) 24 h, WB 3h und Apixaban/Eliquis 24–48 h (CNI!), WB je nach Blutungsrisiko
+- **Direkte Thrombininhibitator**:
+  *Dabigatran* (Pradaxa) 36 bis > 96 h (CNI!), WB je nach Blutungsrisiko
 - Vit. K-Antagonist: Phenoprocamon/Marcoumar INR/PTZ im Normbereich, WB sofort
 
 ### 25.3.1 . Orale Antikoagulantien: VKA und NOAKs (Neue orale Antikoagulantien)/DOAKs

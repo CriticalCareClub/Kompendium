@@ -10,6 +10,8 @@ Die innerklinische Notfallmedizin deckt verschiedene Schnittstellen ab, z. B.:
 - Andere Gesundheitseinrichtungen: Spitäler haben unterschiedliche Ebenen der Ausstattung, z. B. der Grund-, Schwerpunkt- und Maximalversorgung.
   Der Transfer von Patienten in spezielle Zentren ist ein üblicher Vorgang.
 
+
+
 ## Arten von Krankenanstalten
 
 Allgemeine Krankenanstalten sind nicht auf bestimmte Patientengruppen beschränkt und können unterschieden werden in \[§ 2a KaKuG, {term}`♛ ÖSG 2017 TXT`\]:
@@ -28,7 +30,6 @@ Weitere für die akutstationäre und tagesklinische/tagesambulante Versorgung re
 
 
 
-
 ## Schnittstellen zur Bevölkerung: Notaufnahmen et al.
 
 Notfallmedizinische Einrichtungen werden häufig direkt von der Bevölkerung aufgesucht.
@@ -37,6 +38,8 @@ Die Terminologien und Organisationsformen unterscheiden sich international, nati
 Der Großteil der Fälle wird in Österreich über Fachambulanzen bzw. Allgemeinmediziner abgewickelt, da es kein spezielles Sonderfach für Notfallmedizin gibt.
 
 Aufgrund der Variabilität der Organisation seien hier einige Schlagwörter besprochen:
+
+
 
 ### Medizinisch vs. traumatologisch
 
@@ -49,6 +52,8 @@ Vereinfacht gesagt, während internistische Krankheitsbilder oft komplex sind, l
 3. Wundversorgung/Verband/Schienung, Rezept für Analgetikum und ev. Terminvergabe für Wiedervorstellung/Verbandswechsel/Nahtentfernung"
 
 ab. Wichtig ist zu betonen, dass es viele Patienten gibt, die sich nicht so einfach in diese Kategorien einteilen lassen (z. B. Synkope mit Sturz).
+
+
 
 (Q-AORG23001-2)=
 
@@ -63,6 +68,8 @@ Ferner bieten sie häufig eine ambulante Leistungserbringung aus den jeweiligen 
 
 Typische Bezeichnungen für Notfallambulanzen können sein: Notfallambulanz (NFA), Notaufnahme, Rettungsstelle.
 
+
+
 ### Interdisziplinäre Notfallambulanzen
 
 Diese spezielle Form der Notfallambulanzen sind grundsätzlich darauf ausgelegt, Patienten mit Beschwerden zu behandeln, die unterschiedlichen Fachdisziplinen zugeordnet sind.
@@ -73,11 +80,15 @@ Bei Bedarf werden andere Fachrichtungen konsiliarisch hinzugezogen.
 Vorbild für diese interdisziplinären Notfallambulanzen sind die im angloamerikanischen Raum etablierten *Emergency Rooms* (ER) bzw. *A&E Departments* (Accidents & Emergencies).
 Dort übernehmen speziell ausgebildete *Emergency Physicians* die interdisziplinäre Patientenbetreuung.
 
+
+
 ### Aufnahmestationen
 
 Dabei handelt es sich um Stationen, welche an Notaufnahmen angeschlossen sind, um Patienten und dem Spital langwierige Aufnahmen auf Regelstationen zu ersparen, wenn nur eine kurzweilige stationäre Behandlung oder Überwachung erforderlich ist.
 Sie dienen damit der Erst- oder Kurzaufnahme von PatientInnen im Not- oder Akutfall mit festgestellter Anstaltsbedürftigkeit bis zur Übernahme in andere Pflegestationen für längeren Aufenthalt oder Direktentlassung \[{term}`♛ ÖSG 2017 TXT`\].
 Manchmal kommen solche Aufnahmestationen auch zum Einsatz um Normalstationen ausserhalb der Kernarbeitszeit die zeitintensiven Aufnahmeprozeduren ausserhalb der Regelarbeitszeit zu ersparen.
+
+
 
 ### Schockraum
 
@@ -109,6 +120,8 @@ Konkrete Beispiele wären:
 Beispiel eines Algorithmus zum Management eines traumatologischen Schockraumpatienten \[₢ Viktoria Schinnerl, UK Krems (KS_AN_380) {term}`ℓ MfG`\]
 :::
 
+
+
 ### Besondere Bereiche
 
 Spezielle Krankheitsbilder oder Zustände benötigen mitunter spezialisierte Versorgungseinheiten.
@@ -126,9 +139,10 @@ Zur Sicherstellung der Abstimmung für die Ressourcen- und Leistungsangebotsplan
 Häufig werden **Versorgungsnetzwerke** etabliert, um die Ressourcen überregional nutzen und Behandlungspfade harmonisieren zu können.
 Dies bedingt häufig jedoch auch Transferierungen von Patienten von Häusern der Regelversorgung hin zu Häusern mit einem breiteren Leistungsangebot (Schwerpunkt- und Zentralkrankenhäuser).
 
-
 Sehr spezielle Zentren werden im Rahmen der überregionalen Versorgungsplanung im österreichischen Strukturplan Gesundheit ({term}`♛ ÖSG 2017 TXT`) geregelt.
 In der Notfallmedizin betrifft dies die Schwerbrandverletzten-Versorgung sowie die hochkontagiösen lebensbedrohlichen Erkrankungen (Sonderisolierstation).
+
+
 
 ### Beispiel: Myokardinfarktnetzwerk in Niederösterreich
 
@@ -137,10 +151,12 @@ Dies beinhaltet einerseits eine *direkte Anfahrt* eines Katheterzentrums, andere
 Vor dem Start des Infarkt-Netzwerkes wurden Infarktpatienten in ihr Heimatspital gebracht, diagnostiziert und danach weiter in ein Katheterzentrum transferiert.
 Dadurch kam es zu beträchtlichen Zeitverzögerungen bis eine kausale Therapie gestartet wurde.
 
+
 :::{figure} ../../../Bilder/PD/12_lead_generated_anterior_MI.jpg
 
 Ein Fall für den Herzkatheter.
 :::
+
 
 Eine Auswertung von Daten zwischen 2006 und 2016 von {term}`🗎 Mayr 2019` zeigt, dass sich in diesem Zeitraum die durchschnittliche Zeit vom ersten EKG am Patienten bis zur ersten Dehnung (*"Time to balloon"*) im Katheterzentrum von 2006 noch 153 Minuten auf nur mehr 92 Minuten in 2010 reduziert hat.
 Während 2006 die Primärtransporte in ein Katheterzentrum noch bei 51 Prozent lagen, wurden im Verlauf 90 Prozent der Patienten direkt in ein Katheterzentrum gebracht.

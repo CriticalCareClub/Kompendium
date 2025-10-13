@@ -179,7 +179,7 @@ Blut
 01. Aus welchen Bestandteilen ist das Blut zusammengesetzt?
 02. Wie funktioniert die Blutgerinnung?
 03. Was ist die Fibrinolyse?
-04. Welche Antikoagulantien gibt es? Geben Sie zwei Beispiele für jede
+04. Welche Antikoagulanzien gibt es? Geben Sie zwei Beispiele für jede
     Gruppe!
 05. Was sind Thrombozytenaggregationshemmer? Welche Untergruppen gibt
     es? Wie wirken sie?

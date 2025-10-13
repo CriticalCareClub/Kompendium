@@ -12,12 +12,9 @@
 
 # Gerinnung
 
-
-
 <!--  -->
 :::{todo} {issue}`142` Aust-Skriptum: **Gerinnung** (25.)
 :::
-
 
 Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
 Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.
@@ -85,24 +82,6 @@ Fibroblasten wachsen in den Thrombus ein und bauen ihn bindegewebig um.
 
 
 
-
-
-
-<!-- Man unterscheidet die **primäre Hämostase** (Plättchenthrombus, arterieller Thrombus  bei z.B.
-MCI), und plasmatische Gerinnung (venöser Thrombus bei VHF, TVT, PE).
-
-Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaque-Kern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat.
-Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung.
-Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors.
-Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst. -->
-
-
-
-
-
-
-
-
 :::{toctree}
 :maxdepth: 1
 :glob:
@@ -123,8 +102,13 @@ Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfer
 
 
 
+<!-- Man unterscheidet die **primäre Hämostase** (Plättchenthrombus, arterieller Thrombus  bei z.B.
+MCI), und plasmatische Gerinnung (venöser Thrombus bei VHF, TVT, PE).
 
-
+Arterielle Thromben bilden sich an Rupturstellen von arteriosklerotischen Plaques, wo thrombogenes Material aus dem Plaque-Kern mit dem Blut in Berührung kommt, und eine Thrombozytenaggregation zur Folge hat.
+Die hohen Scherkräfte in den Arterien induzieren den Adhäsionsmechanismus und verstärken damit die Plättchenanheftung.
+Venöse Thromben entstehen  üblicherweise durch Stase in den Venenklappen oder im VH bei VHF mit Freisetzung des tissue factors.
+Durch den verminderten Abfluss werden Gerinnungsfaktoren nur unzureichend entfernt und abgebaut, sodass der Thrombus immer weiter wächst. -->
 
 
 
@@ -248,5 +232,3 @@ Wird hauptsächlich durch den Erythropoeitinmangel bei chronischer Niereninsuffi
 
 Daher wird diese Erkrankung auch durch Erythropoeitin-Gabe behandelt.
  -->
-
-

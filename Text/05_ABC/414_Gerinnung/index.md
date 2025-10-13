@@ -136,6 +136,8 @@ Hämostase
   - Stabilisierung des primären Plättchenpfropfs
   - Fibrinolyse
 
+Nach der plasmatischen Hämostase beginnt die Wundheilung.
+Fibroblasten wachsen in den Thrombus ein und bauen ihn bindegewebig um.
 
 
 ## Gerinnungsfaktoren

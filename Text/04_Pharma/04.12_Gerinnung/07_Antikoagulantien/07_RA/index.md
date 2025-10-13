@@ -98,8 +98,9 @@ Wahrscheinlichkeit, dass dafür eine invasive Intervention erforderlich sein wir
 
 ```
 
-:::{figure} ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
-:width: 100%
+
+
+:::{todo} ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
 
 Management der Blutung unter oraler Antikoagulation
 :::

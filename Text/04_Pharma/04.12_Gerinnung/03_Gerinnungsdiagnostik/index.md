@@ -435,15 +435,12 @@ Das ROTEM kommt besonders in Situationen mit hohem *Blutungsrisiko* bzw. bestehe
 Das ROTEM ist ein modernes Point-of-Care-Diagnostikverfahren, das die Gerinnung in Echtzeit im Vollblut darstellt und dadurch eine deutlich bessere Aussagekraft für akute Blutungssituationen hat als Standard-Labortests.
 :::
 
-:::{figure} ROTEM-Schema.png
+:::{figure} ../../../Bilder/CC-BY-SA-4.0/Thrombelastometrie_ROTEM_001341px.\*
 
 Schematische ROTEM-Kurve
 :::
 
-:::{figure} ../Pictures/ROTEM.jpg
-:width: 100%
-
-ROTEM-Kurve wie sie in der Realität vorkommen könnte.
+:::{todo} ROTEM BEispielbefunde
 :::
 
 :::{seealso}

@@ -322,7 +322,7 @@ Thrombozytenaggregationshemmer
 :::{index} single: Anti-Xa
 :::
 
-### Neue orale Antikoagulantien - NOAKs, Direkte orale Antikoagulantien – DOAKs
+### Neue orale Antikoagulanzien - NOAKs, Direkte orale Antikoagulanzien – DOAKs
 
 - Anti FIIa Typ – direkter Thrombininhibitor -- Dabigatran (Pradaxa™)
 

@@ -283,5 +283,3 @@ Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 :::
 
-
-![Elo-Mel paediatric](../.Bilder/Gabriel-Sebastian-CCCA/IMG_20170811_155459_001341px.jpg)

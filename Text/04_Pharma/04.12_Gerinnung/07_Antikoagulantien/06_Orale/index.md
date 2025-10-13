@@ -32,3 +32,71 @@ Indikationen der DOAKs
     - **Lixiana** zur Thromboseprophylaxe bei orthopädischen Eingriffen
 
 
+
+:::{index} single: NOAKs
+:::
+:::{index} single: DOAKs
+:::
+:::{index} single: Idarucizumab
+:::
+:::{index} single: Andexanet Alfa
+:::
+:::{index} single: Dabigatran
+:::
+:::{index} single: Pradaxa™
+:::
+:::{index} single: Praxbind™
+:::
+:::{index} single: Apixaban
+:::
+:::{index} single: Eliquis™
+:::
+:::{index} single: Edoxaban
+:::
+:::{index} single: Rivaroxaban
+:::
+:::{index} single: Xarelto™
+:::
+:::{index} single: Prothrombinkomplexkonzentrat
+:::
+:::{index} single: Anti-Xa
+:::
+
+## Neue orale Antikoagulanzien - NOAKs, Direkte orale Antikoagulanzien – DOAKs
+
+- Anti FIIa Typ – direkter Thrombininhibitor -- Dabigatran (Pradaxa™)
+
+  - Antidot – Idarucizumab (Praxbind™)
+
+- Anti FXa – Apixaban (Eliquis™), Edoxaban,  Rivaroxaban (Xarelto™)
+
+  - Allgemeiner FXa – Inhibitor Antidot – Andexanet Alfa
+
+- Labor Thrombinzeit oder ECT bei Dabigatran
+
+- Anti-Xa-Faktor Aktivität
+
+- Bei Elektivoperationen Absetzen und Einhalten der doppelten Plasmahalbwertszeit - Cave Niereninsuffizienz
+
+- Im Notfall Praxbind™ oder PPSB (Prothrombinkomplexkonzentrat) oder Plasma
+
+:::{seealso}
+- {ref}`TAB-Zeitintervalle-Gerinnung-vor-nach-RM-Punktion`
+:::
+
+:::{todo} {issue}`130` Grafik: Management des perioperativen Blutungsrisikos
+
+../Pictures/Management-perioperatives-Blutungsrisiko.png
+:width: 100%
+
+
+:::
+
+:::{admonition} Empfehlungen - Guidelines
+- Perioperativebleeding.org
+- Oegari.at
+:::
+
+
+
+

@@ -1,3 +1,9 @@
+
+:::{index} single: Antikoagulation
+:::
+
+(APHA-VO-OAK)=
+
 # Antikoagulanzien
 
 Unter **Antikoagulation** versteht man therapeutische Maßnahmen zur Hemmung der Blutgerinnung, mit dem Ziel, thromboembolische Ereignisse zu verhindern oder zu behandeln.

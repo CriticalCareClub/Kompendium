@@ -84,3 +84,25 @@ Diese Substanzen bewirken eine Vasodilatation und eine ihrem Thrombozytenaggrega
 :::{note}
 Nach dem Absetzen von Thrombozytenaggregationshemmern sollte man beachten, dass ihre Wirkung noch für ungefähr eine Woche anhält.
 :::
+
+
+
+
+:::{index} single: Thrombozythenfunktionshemmung; perioperativ
+:::
+
+(APHA-VO-Thromboaggregationshemmer)=
+
+## Perioperative Thrombozytenfunktionshemmung
+
+- Acetysalizylsäure (ASS)
+- Adenosintriphosphat Rezeptor Antagonisten (Clopidogrel, Tiklopidin)
+- Glykoprotein-IIb/IIIa-Rezeptor Antagonisten
+- Kombination – duale Plättchentherapie
+
+Indikation
+: - Myokardinfarkt(35 d), akutes Koronarsyndrom
+  - Schlaganfall
+  - PAVK
+  - Prävention einer Stentthrombose
+

@@ -1,5 +1,10 @@
 
-# 25.1. Primäre Hämostase (= zelluläre Gerinnung)
+# Primäre Hämostase
+
+Synonym
+: zelluläre Gerinnung
+
+<!-- 25.1. -->
 
 1. Adhäsion der Thrombozyten: gestört bei vWF-Mangel, Gelatine und HES-Gabe, Anämie
 2. Aktivierung und Formwandlung der Thrombozyten: gehemmt durch Heparin
@@ -31,15 +36,15 @@ PFA-ADP/Collagen, PFAEpinephrin/Collagen und PFA-P2Y12, Verify Now Assay, Born A
 
 
 
-## Thienopyridine 
+## Thienopyridine
 
-hemmt ADP = Plavix. 
+hemmt ADP = Plavix.
 
 Ticragrelor (Brilique®) ist KEIN Thienopyridin, sondern bindet direkt an den P2Y12-Rezeptor, der Wirkungseintritt ist daher schneller, und die Wirkung stärker als bei Plavix!
 
 
 
-## Therapiepausen vor LA 
+## Therapiepausen vor LA
 
 
 | Wirkstoff   | Trade    | Pause                    |

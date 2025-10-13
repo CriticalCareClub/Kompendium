@@ -12,11 +12,6 @@
 # Gerinnung
 
 
-
-## Allgemeine Orientierung
-
-
-
 ### Blutgerinnung. und Fibrinolyse
 
 

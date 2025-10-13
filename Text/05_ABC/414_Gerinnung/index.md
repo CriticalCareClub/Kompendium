@@ -209,7 +209,14 @@ Hämostase
 
 ## Gerinnungskaskade
 
-:::{todo} {issue}`130` Gerinnungskaskade
+
+
+:::{figure} ../../Bilder/CC-BY-SA-4.0/Classical_blood_coagulation_pathway-de_edited_001342px.\*
+
+Gerinnungskaskade
+
+\[[Furfur](https://commons.wikimedia.org/wiki/User:Furfur) (bearbeitet), CC-BY-SA 4.0\]
+:::
 
 
 

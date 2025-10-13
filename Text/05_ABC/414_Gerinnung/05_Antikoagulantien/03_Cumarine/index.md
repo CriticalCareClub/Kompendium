@@ -7,9 +7,7 @@
 :::{index} single: Warfarin
 :::
 
-# Indirekt wirkende Antikoagulanzien
-
-## Cumarine
+# Cumarine
 
 Die Cumarine wirken über eine Synthesehemmung der Vitamin-K-abhängigen Gerinnungsfaktoren II, VII, IX, X gerinnungshemmend. Dadurch kann man bei ihrem Einsatz einen verzögerten Wirkungseintritt beobachten (noch genug intakte Gerinnungsfaktoren zu Therapiebeginn vorhanden).
 
@@ -27,15 +25,19 @@ Die Cumarine wirken über eine Synthesehemmung der Vitamin-K-abhängigen Gerinnu
 :::
 
 
+
+
+- Vit. K-Antagonist: Phenoprocamon/Marcoumar INR/PTZ im Normbereich, WB sofort
+
 Bei folgenden Erkrankungen werden sie eingesetzt: Venenthrombose, Vorhofflimmern, linksventrikuläre Dysfunktion, nach Herzklappenersatz, bei erworbenen Herzklappenfehlern, bei rezidivierenden Embolien.
 
-Unter den unerwünschten Wirkungen sind wie bei allen Antikoagulantien Blutungen die gefürchtetsten.
+Unter den unerwünschten Wirkungen sind wie bei allen Antikoagulanzien Blutungen die gefürchtetsten.
 
 Kontraindikationen: erhöhte Blutungsbereitschafts, Verdacht auf Läsionen im Gefäßsystem.
 
 Die Wirkung der Cumarine kann durch Gabe von **Vitamin K (Konakion®)** antagonisiert werden.
 
-Alle Antikoagulantien (mit Ausnahme der Niedermolekularen Heparine)
+Alle Antikoagulanzien (mit Ausnahme der Niedermolekularen Heparine)
 sollten regelmäßig über den Quick-Wert (= Thromboplastinzeit, Globaltest des extrinsischen Gerinnungssystems) bzw. die INR (International Normalized Ratio, = laborunabhängiger Test für die Gerinnung, heutiger Standard-Wert bei der Therapieeinstellung) kontrolliert werden.
 
 ⚠

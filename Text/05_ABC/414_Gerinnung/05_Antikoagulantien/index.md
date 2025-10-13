@@ -1,8 +1,12 @@
-# Antikoagulantien
-
-
+# Antikoagulanzien
 
 Unter **Antikoagulation** versteht man therapeutische Maßnahmen zur Hemmung der Blutgerinnung, mit dem Ziel, thromboembolische Ereignisse zu verhindern oder zu behandeln.
+
+Die Einteilung von Antikoagulanzien kann nach unterschiedlichen Gesichtspunkten erfolgen.
+Pharmakologisch betrachtet richtet sie sich nach dem **Wirkmechanismus** (direkte vs. indirekte Hemmung von Gerinnungsfaktoren).
+Klinisch-funktionell wird oft nach **Wirkeintritt und Applikationsform** unterschieden.
+
+
 Die Substanzen wirken über unterschiedliche Mechanismen und lassen sich grob in **direkt wirkende** und **indirekt wirkende** Antikoagulanzien sowie **Thrombozytenaggregationshemmer** einteilen.
 
 Direkt wirkende Antikoagulanzien
@@ -29,8 +33,20 @@ Thrombozytenaggregationshemmer
   - **GP IIb/IIIa-Antagonisten:** Abciximab, Tirofiban, Eptifibatid
   - **Weitere:** Dipyridamol (PDE-Hemmer), Cilostazol
 
+| Kategorie | Wirkprinzip | Angriffspunkt | Beispiele | Bemerkung |
+|------------|--------------|----------------|------------|------------|
+| **Direkt wirkende Antikoagulanzien** | Hemmen spezifische Gerinnungsfaktoren direkt | Faktor IIa (Thrombin) oder Xa | Dabigatran, Rivaroxaban, Apixaban, Edoxaban, Argatroban, Bivalirudin | Wirken ohne Vermittler; unabhängig von Antithrombin |
+| **Indirekt wirkende Antikoagulanzien** | Verstärken körpereigene Inhibitoren oder hemmen die Faktorensynthese | Antithrombin (→ Faktor Xa/IIa) oder Leber (→ Synthesehemmung) | Heparin (UFH, NMH), Fondaparinux, Danaparoid, Phenprocoumon (VKA), Warfarin | Wirkung über Antithrombin oder über Hemmung der Vitamin-K-abhängigen Faktoren |
 
 
+
+## 🏥 Klinisch-funktionelle Einteilung (nach Wirkeintritt und Anwendung)
+
+| Kategorie | Charakteristik | Beispiele | Bemerkung |
+|------------|----------------|------------|------------|
+| **Schnell wirksame (parenterale)** | Wirkungseintritt sofort nach Injektion, kurze Halbwertszeit | Heparin (UFH, NMH), Fondaparinux, Argatroban, Bivalirudin | Klinisch als „direkt wirkend“ betrachtet, da Wirkung unmittelbar eintritt |
+| **Langsam wirksame (orale)** | Wirkungseintritt nach Tagen, Wirkung über Faktorensynthese | Phenprocoumon, Warfarin | Nur langfristige Therapie; erfordert Monitoring (INR) |
+| **Direkte orale (DOAKs)** | Wirkungseintritt nach Stunden, feste Dosierung, keine Kontrolle nötig | Dabigatran, Rivaroxaban, Apixaban, Edoxaban | Pharmakologisch „direkt“, klinisch sofort wirksam |
 
 
 
@@ -46,8 +62,6 @@ Phasen der *Fibrinolyse*:
 — Plasminogen wird in Plasmin umgewandelt
 — das Fibrin wird aufgelöst, der Thrombus wird resorbiert.
 
-
------
 
 
 

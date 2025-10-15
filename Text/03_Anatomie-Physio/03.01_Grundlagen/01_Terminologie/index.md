@@ -12,8 +12,7 @@
 Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die Lehre von physikalischen und biochemischen Vorgängen im Organismus [^physiologie].
 In der medizinischen Umgangssprache bezieht sich der Begriff {dfn}`physiologisch` auf Vorgänge und Zustände, welche *normal*, d. h. *nicht krankhaft verändert*, sind.
 Dem gegenüber versteht man unter dem Begriff {dfn}`Pathologie`
-(bzw. dem Adjektiv *pathologisch*)
-einen *krankhaften*, *abnormen* Vorgang oder Zustand.
+(bzw. dem Adjektiv *pathologisch*) einen *krankhaften*, *abnormen* Vorgang oder Zustand.
 
 [^physiologie]: Der Begriff Physiologie ist nicht zu verwechseln mit ähnlichen
     begriffen wie "Physiotherapie" oder "Physikalische Medizin".
@@ -370,7 +369,7 @@ Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die be
   - links
   - dexter, dextra, dextrum; sinister, sinistra, sinistrum
 - - utriusque
-  - beiseitig
+  - beidseitig
   -
   -
   - utriusque

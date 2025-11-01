@@ -10,16 +10,18 @@
 - Pathologie: Lehre vom krankhaft Veränderten
 :::
 
-Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die Lehre von physikalischen und biochemischen Vorgängen im Organismus [^physiologie].
+Die Anatomie ist die Lehre vom Aufbau von Organismen.
+In der Medizin beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung von Körperteilen, Organen, Geweben und Zellen.
+Die Physiologie ist die Lehre von physikalischen und biochemischen Vorgängen im Organismus [^physiologie].
 In der medizinischen Umgangssprache bezieht sich der Begriff **physiologisch** auf Vorgänge und Zustände, welche *normal*, d. h. *nicht krankhaft verändert*, sind.
-Dem gegenüber versteht man unter dem Begriff **Pathologie**
-(bzw. dem Adjektiv *pathologisch*) einen *krankhaften*, *abnormen* Vorgang oder Zustand.
+Dem gegenüber versteht man unter dem Begriff **Pathologie** (bzw. dem Adjektiv *pathologisch*) einen *krankhaften*, *abnormen* Vorgang oder Zustand.
 
 [^physiologie]: Der Begriff Physiologie ist nicht zu verwechseln mit ähnlichen Begriffen wie "Physiotherapie" oder "Physikalische Medizin".
 
 Weiters behandelt dieser Abschnitt die Vitalfunktionen des menschlichen Körpers, welche die Funktion des Körpers ermöglichen.
-Es gibt grundlegende **Vitalfunktionen 1. Ordnung**
-(Bewusstsein, Atmung, Kreislauf), deren Ausfall binnen kurzem zum Tod führen können, und Vitalfunktionen **2. Ordnung**, deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
+Es gibt grundlegende **Vitalfunktionen 1. Ordnung** (Bewusstsein, Atmung, Kreislauf), deren Ausfall binnen kurzem zum Tod führen können, und Vitalfunktionen **2. Ordnung**, deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
+
+
 
 ## Körperregionen
 

@@ -194,19 +194,20 @@ Für den Stofftransport innerhalb der Zelle sind *Motorproteine* verantwortlich.
 Sie alle haben gemeinsam, dass während des Transportes Energie (ATP) verbraucht wird.
 Wichtige Motorproteine sind folgende:
 
-- *Myosin*: wichtig für Kraft der Muskelkontraktion (funktioniert dann in Kombination mit Aktin).
-- *Kinesin*: transportieren entlang der Mikrotubuli, wichtig für die mitotische Spindelbildung.
-- *Dynein*: gehören zu den schnellsten Motorproteinen, sie sind unter anderem für den Zilienschlag (Bewegung von Haarzellen) und für den Vesikeltransport (Stofftransport in kleinen Membranbläschen) verantwortlich.
+- **Myosin**: wichtig für Kraft der Muskelkontraktion (funktioniert dann in Kombination mit Aktin).
+- **Kinesin**: transportieren entlang der Mikrotubuli, wichtig für die mitotische Spindelbildung.
+- **Dynein**: gehören zu den schnellsten Motorproteinen, sie sind unter anderem für den Zilienschlag (Bewegung von Haarzellen) und für den Vesikeltransport (Stofftransport in kleinen Membranbläschen) verantwortlich.
 
 Die *Zellorganellen* sind verantwortlich für die Ausübung der Stoffwechselfunktionen:
 
-- *endoplasmatisches Retikulum (ER*): verantwortlich für den intrazellulären Stofftransport, es gibt zwei Arten — das rauhe ER (mit Ribosomen, dient der Proteinproduktion) und das glatte ER (ohne Ribosomen, dient der Fett- und Hormonproduktion), ist röhren- bzw. bläschenförmig, dient der Kompartimentierung, dient auch als Membrandepot für Transportprozesse der Zelle.
-- *Ribosomen*: “Übersetzen” die Information von RNA für die Proteinproduktion, in Kombination mit dem ER dienen die Proteine dem Export, ohne ER dienen die Proteine für zelleigene Bedürfnisse.
-- *Golgi-Apparat*: Aufnahme und Abgabe von Syntheseprodukten, Hohlraumsystem, Membranen des Golgi-Apparates dienen der Erneuerung der Zellmembran, fehlen bei Erythrozyten.
-- *Lysosomen*: “Verdauungsorgane” der Zelle, besitzen Enzyme, sind der „Recyclingort“ der Zelle. Bei geschädigten Zellen führen die Enzyme der Lysosome zur Gewebsautolyse.
-- *Zentriolen*: wichtig für die Zellteilung
-- *Mitochondrien*: “Kraftwerke” der Zelle, verantwortlich für die Energieproduktion, bestehen aus einer inneren und äußeren Membran, fehlen bei Erythrozyten.
-  Das produzierte Adenosintriphosphat (ATP) wird in der Zelle benötigt u.a. für den Stofftransport durch die Zellmembran, für die Synthese von Proteinen usw. und für die Kontraktion von Muskeln. Die Mitochondrien besitzen eine eigene DNA, die jedoch nur mütterlicherseits vererbt wird.
+- **endoplasmatisches Retikulum** (*ER*): verantwortlich für den intrazellulären Stofftransport, es gibt zwei Arten — das rauhe ER (mit Ribosomen, dient der Proteinproduktion) und das glatte ER (ohne Ribosomen, dient der Fett- und Hormonproduktion), ist röhren- bzw. bläschenförmig, dient der Kompartimentierung, dient auch als Membrandepot für Transportprozesse der Zelle.
+- **Ribosomen**: “Übersetzen” die Information von RNA für die Proteinproduktion, in Kombination mit dem ER dienen die Proteine dem Export, ohne ER dienen die Proteine für zelleigene Bedürfnisse.
+- **Golgi-Apparat**: Aufnahme und Abgabe von Syntheseprodukten, Hohlraumsystem, Membranen des Golgi-Apparates dienen der Erneuerung der Zellmembran, fehlen bei Erythrozyten.
+- **Lysosomen**: “Verdauungsorgane” der Zelle, besitzen Enzyme, sind der „Recyclingort“ der Zelle. Bei geschädigten Zellen führen die Enzyme der Lysosome zur Gewebsautolyse.
+- **Zentriolen**: wichtig für die Zellteilung
+- **Mitochondrien**: “Kraftwerke” der Zelle, verantwortlich für die Energieproduktion, bestehen aus einer inneren und äußeren Membran, fehlen bei Erythrozyten.
+  Das produzierte *Adenosintriphosphat* (*APT*) wird in der Zelle benötigt u.a. für den Stofftransport durch die Zellmembran, für die Synthese von Proteinen usw. und für die Kontraktion von Muskeln.
+  Die Mitochondrien besitzen eine eigene DNA, die jedoch nur mütterlicherseits vererbt wird.
 
 
 
@@ -214,14 +215,14 @@ Die *Zellorganellen* sind verantwortlich für die Ausübung der Stoffwechselfunk
 
 Es gibt zwei Formen der Zellteilung — die *Mitose* und die *Meiose*.
 
-- **Mitose** (Zellteilung):
+- **Mitose** (*Zellteilung*):
   Hier entstehen nach Verdopplung der DNA aus einer Mutterzelle zwei Tochterzellen mit vollständigem Chromosomensatz.
   Zwischen der DNA-Verdopplung und dem Beginn der Mitose findet eine DNA-Reparatur (Proofreading und Repair) statt.
   Vier Phasen (Prophase, Metaphase, Anaphase, Telophase) werden durchlaufen. Die Mitose dauert durchschnittlich 60 Minuten.
   Die Interphase ist der Begriff für das Stadium zwischen zwei Mitosen, in welcher wie bereits erwähnt die DNA-Verdopplung stattfindet.
   Folgende Zellen teilen sich nicht mehr: Nervenzellen, Herzmuskelzellen und Skelettmuskelzellen.
   Zusätzlich muss man hier auch die Erythrozyten (roten Blutkörperchen) und Thrombozyten (Blutplättchen) erwähnen — da sie ja keinen Zellkern besitzen, können sie sich ebenfalls nicht mehr teilen.
-- **Meiose** (Reifeteilung, Reduktionsteilung):
+- **Meiose** (*Reifeteilung*, *Reduktionsteilung*):
   Nach zwei aufeinander folgenden Zellteilungen, wobei nur während der ersten die DNA wie bei der Mitose verdoppelt wird, entstehen aus einer Mutterzelle vier Tochterzellen mit halbem Chromosomensatz.
   Zwischen den beiden Reifeteilungen findet die Interkinase (im Gegensatz zur Interphase der Mitose) statt, eine Phase in der die DNA NICHT verdoppelt wird.
   Diese Teilungsart findet nur bei männlichen und weiblichen Geschlechtszellen (= Keimzellen) statt, damit nach der Befruchtung - d. h. der Verschmelzung von Ei- und Samenzelle — nur Zellen mit normalem Chromosomensatz (23 Paare) entstehen.

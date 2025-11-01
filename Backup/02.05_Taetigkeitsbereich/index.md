@@ -83,7 +83,7 @@ Es ist derzeit noch relativ unklar wie der Sanitäter in das etablierte Berufsfe
 
 ##### Sanitätergesetz 2002 (Österreich)
 
-Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu diversen Themen beweisen. 
+Mit der Schaffung des Sanitätergesetzes im Jahr 2002 wollte man die Tätigkeit der Sanitäter endlich klar regeln und Rechtssicherheit schaffen. Gleich vorweg, wirkliche Klarheit über die Tätigkeiten des Sanitäters wurde nicht geschaffen, wie unzählige Diskussionen zu diversen Themen beweisen.
 
 ##### Das Miteinander
 
@@ -364,7 +364,7 @@ Ein Arzt für Allgemeinmedizin verfügt über ein so genanntes uneingeschränkte
 
 Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
 
-- {dfn}`Notarzt`: Die Ausbildung zum Notarzt setzt die
+- **Notarzt**: Die Ausbildung zum Notarzt setzt die
   Absolvierung eines,
   von der österreichische Ärztekammer
   anerkannten und mit einer Prüfung abschließenden,
@@ -380,7 +380,7 @@ Das ÄrzteG sieht hierfür zwei Ausbildungen vor:
 
 ```{index} single: Hebamme
 ```
-```{index} single: Gesetz; Hebammen- 
+```{index} single: Gesetz; Hebammen-
 ```
 ```{index} single: HebG
 ```
@@ -401,11 +401,11 @@ Der Hebammenberuf umfasst die Betreuung, Beratung und Pflege der Schwangeren, Ge
 ```
 ```{index} single: DKKP
 ```
-```{index} single: Pflege; Gesundheits- und Kranken- 
+```{index} single: Pflege; Gesundheits- und Kranken-
 ```
 ```{index} single: GuKG
 ```
-```{index} single: Gesetz; Gesundheits- und Krankenpflege- 
+```{index} single: Gesetz; Gesundheits- und Krankenpflege-
 ```
 ```{index} single: Gesundheits- und Krankenpflege
 ```

@@ -32,7 +32,7 @@ Da sie nicht durchblutet werden und somit vom Immunsystem praktisch nicht erschl
   → Patient 2\*
 :::
 
-Unter einer {dfn}`Kreuzinfektion` {index}` <! Kreuzinfektion>` versteht man die Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
+Unter einer **Kreuzinfektion** {index}` <! Kreuzinfektion>` versteht man die Verschleppung von Erregern von einem Patienten auf einen (unbeteiligten)
 anderen, wobei das Personal oder Gegenstände als "Vehikel" fungieren.
 *Hygienisches Arbeiten* und *sachgerechte Desinfektionsmaßnahmen* sind wichtige Mittel zur *Vermeidung von Kreuzinfektionen*. Patient 1
 → *Personal* → Patient 2

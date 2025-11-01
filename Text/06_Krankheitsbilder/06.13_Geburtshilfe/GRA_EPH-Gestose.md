@@ -6,11 +6,11 @@
 
 # EPH-Gestose: Präeklampsie, Eklampsie, HELLP-Syndrom
 
-Die {dfn}`EPH-Gestose` {index}` <EPH-Gestose>`, auch {dfn}`Präeklampsie` {index}` <Präeklampsie>`
-genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer Folge zu diversen Komplikationen bei der Mutter kommt. 
+Die {dfn}`EPH-Gestose` {index}` <EPH-Gestose>`, auch **Präeklampsie** {index}` <Präeklampsie>`
+genannt, ist eine gefürchtete Komplikation der Spätschwangerschaft, bei der es zu einer Durchblutungsstörung der Gebärmutter, und in weiterer Folge zu diversen Komplikationen bei der Mutter kommt.
 Sie wird in der Regel im Rahmen der Mutter-Kind-Pass-Untersuchungen erkannt.
 Die Maximalvariante der Präeklampsie ist das {dfn}`HELLP-Syndrom` {index}` <HELLP-Syndrom>`.
-Unbehandelt kann die Präeklampsie und das HELLP-Syndrom zu einem *eklamptischen Krampfanfall* ({dfn}`Eklampsie` {index}` <! Eklampsie>`, ähnlich einem "normalen" zerebralen Krampfanfall) und in weiterer Folge zum Tod von Mutter und Kind führen.
+Unbehandelt kann die Präeklampsie und das HELLP-Syndrom zu einem *eklamptischen Krampfanfall* (**Eklampsie** {index}` <! Eklampsie>`, ähnlich einem "normalen" zerebralen Krampfanfall) und in weiterer Folge zum Tod von Mutter und Kind führen.
 Die Ursachen sind nicht vollständig geklärt.
 
 :::{seealso}
@@ -39,7 +39,7 @@ Die EPH-Gestose ist charakterisiert durch:
 
 > **E**dema: Ödeme generalisiert (jedoch Vorkommen bei 80% der SS)
 > **P**roteinuria: Proteinurie \> 0,3g/l pro 24 h mit Hypoproteinämie (Albuminmangel)
-> **H**ypertension: Hypertonie als Leitsymptom mit RR \> 190/90 mmHg mit Gefahr von cerebralen Blutungen, cerebralen Spasmen mit Krampfanfällen = Eklampsie 
+> **H**ypertension: Hypertonie als Leitsymptom mit RR \> 190/90 mmHg mit Gefahr von cerebralen Blutungen, cerebralen Spasmen mit Krampfanfällen = Eklampsie
 
 Beim HELLP-Syndrom kommt es zu einem *rechten Oberbauchschmerz*
 (Leberdehnungsschmerz). Bei einer drohenden Eklampsie klagt die Patientin über *Kopfschmerzen*, Sehstörungen sowie Übelkeit und Erbrechen.
@@ -67,14 +67,14 @@ Ursachen:  (Hämolysis: Parameter ist das Haptoglobin)
 
 
 Risikofaktoren
-: - DM, 
-  - Raucher, 
-  - \> 35Lj., 
-  - Mehrlingsschwangerschaften 
-  
+: - DM,
+  - Raucher,
+  - \> 35Lj.,
+  - Mehrlingsschwangerschaften
+
 
 Hämodynamik
-: 2 Varianten:   
+: 2 Varianten:
   1. Hyperdynamisch mit hohem Cardiac output (CO) und tiefem vaskulären Widerstand (SVR) (meist vor 34. SSW-early-onset praeclampsia1).
   2. Hypodynamisch mit tiefem CO und hoher SVR (meist nach 34. SSW-late-onset praeclampsia).
 
@@ -100,31 +100,31 @@ Differentialdiagnose zur SS-Fettleber
 
 - Beendigung der Schwangerschaft
 - Flüssigkeitszufuhr: Kolloide, ev. Humanalbumin (Cave: Lungenödem: Auskultation RG´s)
-- Blutdrucksenken: 
-  - **Dihydralazin/Nepresol** ist erste Wahl, 
-  - Metoprolol bei Reflextachykardie, 
-  - Urapidil/Ebrantil senkt intrazerebralen Druck 
+- Blutdrucksenken:
+  - **Dihydralazin/Nepresol** ist erste Wahl,
+  - Metoprolol bei Reflextachykardie,
+  - Urapidil/Ebrantil senkt intrazerebralen Druck
    - (Nepresol bewirkt va. arterielle Vasodil und senkt Afterload 5 mg alle 20min oder Perfusor, beeinträchtigt nicht die uteroplazentare Perfusion!)
-- ANV verhindern: 
-  - Flüssigkeit und Mannitol 0,5-1g / kg KG 
+- ANV verhindern:
+  - Flüssigkeit und Mannitol 0,5-1g / kg KG
   - (Lasix nur bei drohendem Lungenödem und Oligurie)
-- Antikonvulsive Therapie: 
+- Antikonvulsive Therapie:
   - Magnesium 1-3g/h mit Zielwert 2-4mmol/l (cave: \> 5 Atemdepression \> 10 Herzstillstand), klinisch: AF \> 10 + Patellarreflex noch auslösbar.
-  
+
   Antidot: Kalziumglukonat, 1 g Calciumchlorid (Kontraind.: Myasthenis gravis)
 - Hirndrucktherapie: Sedierung mit Diazepam (Kumuliert!), NG: floppy infant syndrom
 - Prävention Folgeschwangerschaft: *ASS* 1-1,5 mg / kg KG/d (senkt TXA2-Synthese)
 
-### Anästhesie bei Präeklampsie 
+### Anästhesie bei Präeklampsie
 
 PDA bei normaler Blutgerinung (Blutungszeit 1—7min) und Thrombos \> 100000;
 
 Vorsichtige Flüssigkeitsgabe trotz Hypovolämie wg. Lungenödem, Arterie,
 präop 4 EK kreuzen.
 
-### Anästhesie bei HELLP/Eklampsie 
+### Anästhesie bei HELLP/Eklampsie
 
-AN mit RSI mit Thiopental in reduzierter Dosis, cave: Larynxödem!! 
+AN mit RSI mit Thiopental in reduzierter Dosis, cave: Larynxödem!!
 
 Gefahr der postoperativen Ateminsuffizienz: Wirkung des Muskelrelaxanz potenziert durch Mg und Diazepam mit Muskelschwäche! Ev. Nachbeatmung, ICU-Überwachung!
 
@@ -134,7 +134,7 @@ Blutdrucksenkung medikamentös i.v. ab BD systol. ≥ 160 mmHg bzw. diastol. ≥
 Uterotonica
 : Vorsichtige Oxytocingabe nach Abnabelung2 (Ziel: 5 E  in 100 ml NaCl  über 5  Min.;  bei Kreislaufinstabilität nach 1E = 20 ml stoppen - immer in Rücksprache mit OperatuerIn).
 
-  Oxytocin wirkt vasodilatorisch (SVR↓) → MAP ↓, kompensatorisch Herzfrequenz ↑ und Schlagvolumen (SV)↑ um HZV aufrecht zu erhalten. 
+  Oxytocin wirkt vasodilatorisch (SVR↓) → MAP ↓, kompensatorisch Herzfrequenz ↑ und Schlagvolumen (SV)↑ um HZV aufrecht zu erhalten.
   Bei schwerer Präeklampsie kann evtl. SV nicht gesteigert werden und es kann zum HZV-Abfall ↓ mit kardialer Dekompensation kommen.
 
   Weitere Oxytocingabe nach Klinik und mit Rücksprache Operateur.

@@ -2,7 +2,7 @@
 
 # Larynxtubus
 
-Der {dfn}`Larynxtubus` {index}` <! Larynxtubus>` (*LT-D*) gehört
+Der **Larynxtubus** {index}` <! Larynxtubus>` (*LT-D*) gehört
 zu der Gruppe der *supraglottischen*
 {index}` <Atemwegshilfen; supraglottische>`
 Atemwegshilfen, d. h. er
@@ -89,37 +89,37 @@ Bilderserie
   - Farbe
   - Patientengruppe
   - Körpergewicht / Körpergröße
-  - 
+  -
 * - 0
   - Transparent
   - Neugeborene
   - < 5 kg
-  - 
+  -
 * - 1
   - Weiß
   - Kleinkinder
   - 5–12 kg
-  - 
+  -
 * - 2
   - Grün
   - Kinder
   - 12–25 kg
-  - 
+  -
 * - 3
   - Gelb
   - Erwachsene (klein)
   - < 155 cm
-  - 
+  -
 * - 4
   - Rot
   - Erwachsene (mittel)
   - 155–180 cm
-  - 
+  -
 * - 5
   - Violett
   - Erwachsene (groß)
   - > 180 cm
-  - 
+  -
 :::
 
 
@@ -143,7 +143,7 @@ Bilderserie
 
 Der Larynxtubus wird ohne Hilfsmittel über den Mund des Patienten
 eingeführt,
-wobei der Kopf in {dfn}`Schnüffelstellung` {index}` <! Schnüffelstellung>`
+wobei der Kopf in **Schnüffelstellung** {index}` <! Schnüffelstellung>`
 (*Jackson-Position*, Kopf leicht erhöht (umgedrehte Nierentasse), nicht
 überstreckt, nicht gebeugt) gelagert wird. Zusätzliche Hilfsmittel sind
 in der Regel nicht erforderlich.
@@ -252,7 +252,7 @@ zuverlässig.
 
 ## Combitubus
 
-Der {dfn}`Combitubus` wird ähnlich wie der Larynxtubus ohne
+Der **Combitubus** wird ähnlich wie der Larynxtubus ohne
 Hilfsmittel "blind" über den Mund
 eingeführt und kommt im Normalfall im Ösophagus zu liegen.
 Im Gegensatz zum Larynxtubus verfügt der Combitubus jedoch über 2

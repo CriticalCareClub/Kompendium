@@ -40,7 +40,7 @@ Dabei gibt es keine scharfe Grenze und die Grauzone ist beträchtlich.
 
 ### Psychiatrische Erkrankung in der Praxis
 
-In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als behandlungspflichtig gelten zum Beispiel die *Eigen-* und *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat der Gesetzgeber Maßnahmen nach dem {dfn}`Unterbringungsgesetz` {index}` <! Unterbringungsgesetz>` ({dfn}`UbG` {index}` <! UbG>`) vorgesehen. Auch der geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche Schritte nach sich ziehen, im Sinne einer Besachwaltung.
+In der Gesellschaft (repräsentiert durch die Gesetzgebung) gibt es die Übereinkunft, dass bestimmte Krankheitsbilder bzw. Symptome als behandlungswürdig bzw. sogar behandlungspflichtig angesehen werden. Als behandlungspflichtig gelten zum Beispiel die *Eigen-* und *Fremdgefährdung* aufgrund einer psychiatrischen Erkrankung, hier hat der Gesetzgeber Maßnahmen nach dem **Unterbringungsgesetz** {index}` <! Unterbringungsgesetz>` (**UbG** {index}` <! UbG>`) vorgesehen. Auch der geistige Verfall (z. B. im Rahmen einer (Alters-)Demenz) kann rechtliche Schritte nach sich ziehen, im Sinne einer Besachwaltung.
 
 ### Der psychiatrische Patient ist nicht entrechtet!
 
@@ -122,13 +122,13 @@ Psychiatrische Erkrankungen oder Symptome funktionieren *nicht* nach dem
 
 Auch die Wahrnehmung der Umgebung insgesamt kann gestört sein, auch hier gibt es verschiedene Abstufungen.
 
-Die einfachste Form ist die {dfn}`Wahnidee` {index}` <Wahnidee>`. Hierbei hat der Patient eine klar abgegrenzte Vorstellung von etwas, was mit der Realität kaum oder gar nicht plausibel vereinbar ist:
+Die einfachste Form ist die **Wahnidee** {index}` <Wahnidee>`. Hierbei hat der Patient eine klar abgegrenzte Vorstellung von etwas, was mit der Realität kaum oder gar nicht plausibel vereinbar ist:
 
 > *"Das Gebühren-Info-Service des ORF kontrolliert jede Woche am
 > Verteilerschrank, ob das Antennenkabel korrekt vom Verteiler
 > abgesteckt wurde."*
 
-Diese Wahnideen können in weiterer Folge zu einem {dfn}`Wahnsystem` {index}` <Wahnsystem>` ausgebaut werden
+Diese Wahnideen können in weiterer Folge zu einem **Wahnsystem** {index}` <Wahnsystem>` ausgebaut werden
 
 > *"Das Gebühren-Info-Service des ORF ist eine Deckmantelorganisation
 > des israelischen Geheimdienstes Mossad, welcher im Auftrag der CIA
@@ -208,7 +208,7 @@ Hier soll nur auf die grundsätzlich zu bedenkenden Maßnahmen im Umgang mit die
 
 ### Suizidalität
 
-{dfn}`Suizid` {index}` <! Suizid>` bezeichnet die absichtliche Selbsttötung.
+**Suizid** {index}` <! Suizid>` bezeichnet die absichtliche Selbsttötung.
 Als {dfn}`erweiterter Suizid` wird die Tötung der eigenen und fremder Personen bezeichnet. Selbstmorde und Selbstmordversuche (*SMV*) gehören zu den häufigen Einsatzgründen im Rettungsdienst. Häufig sind Suizid- oder sonstige selbstschädliche Handlungen nicht auf den ersten Blick als solche erkennbar.
 
 Wenn der Verdacht auf eine suizidale Handlung besteht, soll dies vertraulich, aber *direkt angesprochen und geklärt werden*. Es ist dabei wichtig, einen **neutralen Tonfall** zu verwenden und **nicht anklagend zu klingen!**
@@ -240,7 +240,7 @@ Das ist meistens falsch! Ein Selbstmordversuch ist oft der letzte Hilferuf, den 
 
 ### Psychose
 
-{dfn}`Psychose` {index}` <Psychose>` ist eine allgemeine Bezeichnung für eine *psychische Störung* mit strukturellem *Wandel des Erlebens*
+**Psychose** {index}` <Psychose>` ist eine allgemeine Bezeichnung für eine *psychische Störung* mit strukturellem *Wandel des Erlebens*
 {term}`🗎 Pschyrembel 259`. Man unterscheidet zwischen organischen, körperlich begründbaren, und nicht-organischen, d. h. körperlich nicht begründbaren Psychosen. In beiden Gruppen kann man weitere Unterscheidungen treffen, vgl. {ref}`Table-psychosen-einteilung`. Körperliche Ursachen für Psychosen können Störungen und Verletzungen des ZNS, z. B. bei Hirntumoren, Folge eines SHT, Intoxikationen, Stoffwechselstörungen u.v. a.m. sein.
 Grundsätzlich muss bis zum Beweis des Gegenteils von einer *organischen* Psychose (mit behebbarer Ursache) ausgegangen werden!
 
@@ -275,7 +275,7 @@ Die Symptome einer Psychose sind vielfältig und abhängig von der konkreten St�
 
 ### Demenz
 
-Die {dfn}`Demenz` {index}` <! Demenz>` ist eine fortschreitende Einschränkung der geistigen Leistungsfähigkeit des Gehirns.
+Die **Demenz** {index}` <! Demenz>` ist eine fortschreitende Einschränkung der geistigen Leistungsfähigkeit des Gehirns.
 Die häufigste Form ist die *Altersdemenz*, daneben gibt es noch viel andere Formen der Demenz.
 Die bekannteste Form ist die Demenz im Rahmen der *Alzheimer*-Krankheit.
 Die geistige Leistungseinschränkung betrifft alle höheren Hirnfunktion, z. B. das Gedächtnis, das Denkvermögen, die Sprache, die Motorik, sowie die Persönlichkeitsstruktur und Affektverarbeitung.
@@ -291,9 +291,9 @@ Die Symptome sind je nach Form, Fortschritt und Person vielfältig und unterschi
 
 #### Beschreibung: Depression und Manie
 
-Die {dfn}`Depression`
+Die **Depression**
 {index}` <! Depression>` ist eine sehr häufige psychiatrische Erkrankung, welche durch gedrückte Stimmung, Interessensverlust, Freudlosigkeit, Antriebsminderung, erhöhte Ermüdbarkeit und Aktivitätseinschränkung charakterisiert ist.
-Die {dfn}`Manie`
+Die **Manie**
 {index}` <! Manie>` ist dagegen ein Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und Willenssphäre sowie des Denkens.
 
 Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr

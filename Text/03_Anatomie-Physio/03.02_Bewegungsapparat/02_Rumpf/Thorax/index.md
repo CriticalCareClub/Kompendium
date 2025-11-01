@@ -123,7 +123,7 @@ Der knöcherne Thorax
 
 Die Hauptfunktion der Muskeln des Brustkorbs liegt in der Atmung.
 
-Zwischen den Rippen spannt sich die {dfn}`Zwischenrippenmuskulatur`
+Zwischen den Rippen spannt sich die **Zwischenrippenmuskulatur**
 (wichtig für *Atemmechanik*) auf. Das *Zwerchfell* schließt den Brustraum nach unten hin ab und trennt somit den Brustraum vom Bauchraum
 (Vgl. Atemmechanik, {ref}`atemmechanik`).
 

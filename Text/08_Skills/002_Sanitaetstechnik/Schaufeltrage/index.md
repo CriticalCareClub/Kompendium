@@ -6,7 +6,7 @@
 
 # Schaufeltrage
 
-Die {dfn}`Schaufeltrage` wird primär für das *Umlagern* von liegenden Patienten mit dem Verdacht auf eine Verletzung der *Wirbelsäule*,
+Die **Schaufeltrage** wird primär für das *Umlagern* von liegenden Patienten mit dem Verdacht auf eine Verletzung der *Wirbelsäule*,
 des *Beckens* oder des *Oberschenkels* verwendet.
 Sie ermöglicht eine möglichst bewegungsfreie und schmerzarme Rettung bzw. Umlagerung. Das Anwendungsgebiet ist jedoch sehr vielfältig. Es reicht vom sicheren Transport in unwegsamem Gelände bis zum Retten aus einer LKW-Kabine.
 

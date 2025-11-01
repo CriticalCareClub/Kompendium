@@ -17,7 +17,7 @@ Syn.
 :::
 
 
-Als {dfn}`Appendizitis` {index}` <! Appendizitis>` bezeichnet man die Entzündung des *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
+Als **Appendizitis** {index}` <! Appendizitis>` bezeichnet man die Entzündung des *Wurmfortsatzes* (*Appendix* vermiformis) des Blinddarms.
 Umgangssprachlich wird oft (fälschlicherweise) der Begriff **Blinddarmentzündung** verwendet.
 
 ## Symptome

@@ -137,8 +137,8 @@ Jejunum markiert.
   - Abwehr von Darmbakterien
 :::
 
-Das {dfn}`Jejunum` (*Leerdarm*) und
-{dfn}`Ileum` (*Krummdarm*) sind die zwei weiteren Teile des Dünndarmes. Ihre Gesamtlänge beträgt ca. 3 m.
+Das **Jejunum** (*Leerdarm*) und
+**Ileum** (*Krummdarm*) sind die zwei weiteren Teile des Dünndarmes. Ihre Gesamtlänge beträgt ca. 3 m.
 Sie sind beide *intraperitoneal* und am **Mesenterium** (in ihm verlaufen die Blutgefäße für den Darm)
 aufgehängt.
 Die Grenze zwischen diesen beiden Darmabschnitten ist nicht genau bestimmbar; ca. 2 / 5 entfallen auf das Jejunum, 3 / 5 auf das Ileum.
@@ -148,7 +148,7 @@ Hierfür dienen Darmzotten — kleine "Ausstülpungen der Oberfläche" —
 zur Oberflächenvergrößerung.
 
 Jejunum und Ileum sind ab ihrem Abgang aus dem Zwöffingerdarm bis zum Übergang in den Dickdarm relativ frei beweglich.
-Die einzige Befestigung dieses Darmabschnittes ist das {dfn}`Mesenterium` (Darmgekröse), durch welches auch die Versorgung mit Blutgefäßen erfolgt.
+Die einzige Befestigung dieses Darmabschnittes ist das **Mesenterium** (Darmgekröse), durch welches auch die Versorgung mit Blutgefäßen erfolgt.
 
 Das besondere am Ileum ist, dass es einzelne Zellbezirke des Abwehrsystems (Peyer’sche Plaques) enthält.
 Sie sorgen dafür, dass Bakterien aus dem Dickdarm nicht den weiteren Dünndarm bevölkern können.

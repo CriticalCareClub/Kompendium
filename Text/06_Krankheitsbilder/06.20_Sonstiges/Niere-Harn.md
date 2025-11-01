@@ -46,7 +46,7 @@ Ein Harnkatheter ist eine medizinisch-pflegerische Routinemaßnahme und entsprec
 
 ### Beschreibung und Ursachen
 
-Eine {dfn}`Nierenkolik` {index}` <! Nierenkolik>` ist gekennzeichnet durch kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem daraus folgenden Harnstau und Dehnung des Harnleiters, vgl. {ref}`Kolik <kolik>`.
+Eine **Nierenkolik** {index}` <! Nierenkolik>` ist gekennzeichnet durch kolikartige Schmerzen aufgrund einer Blockade des Harnleiters und dem daraus folgenden Harnstau und Dehnung des Harnleiters, vgl. {ref}`Kolik <kolik>`.
 
 Sie ist eine äußerst schmerzhafte akute Erkrankung und entsteht meist dadurch, dass Nierensteine den Harnleiter blockieren bzw. verstopfen. Dadurch wird der Harn gestaut und der Harnleiter gedehnt dadurch kommt es zu einem Dehnungsschmerz.
 
@@ -88,12 +88,12 @@ Die Folge sind massive, kolikartige Schmerzen, in der Flanke bzw. im Unterbauch 
 :::
 ::::
 
-Als {dfn}`Harnwegsinfekt` {index}` <! Harnwegsinfekt>` wird allgemein eine Infektion der Harnwege bezeichnet.
+Als **Harnwegsinfekt** {index}` <! Harnwegsinfekt>` wird allgemein eine Infektion der Harnwege bezeichnet.
 
 Besonders gefährdet sind Frauen aufgrund der kürzeren Harnröhre und der normalen bakteriellen Besiedelung der Scheide.
 Die häufigsten Erreger sind, aufgrund der räumlichen Nähe, klassische Darmkeime (E. coli). Wird ein Harnwegsinfekt nicht behandelt, kann die Infektion aufsteigen und eine Nierenbeckenentzündung verursachen.
 
-Eine {dfn}`Nierenbeckenentzüdung` {index}` <! Nierenbeckenentzüdung>` ist eine Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
+Eine **Nierenbeckenentzüdung** {index}` <! Nierenbeckenentzüdung>` ist eine Entzündung des Nierenbeckens. *Syn.* *Pyelonephritis*.
 
 Sie ist oft bakteriell bedingt und umfasst die oberen Harnwege, das Nierenbeckenkelchsystem und u.U. auch das Nierengewebe und ist eine der häufigsten Erkrankungen der Niere {term}`🗎 Pschyrembel 259`. Im schlimmsten Fall kann sich die Infektion weiter ausbreiten und eine Sepsis verursachen ({ref}`sepsis`).
 
@@ -177,7 +177,7 @@ Bei der {dfn}`chronischen Niereninsuffizienz` (*Abkz.* *CNI*) besteht eine chron
 
 Typischerweise kommt es im Rahmen anderer chronischer Krankheiten (Diabetes mellitus, Hypertonie, erhöhte Blutfette …) zu einer allmählichen Schädigung der kleinen Nierengefäße, in weiterer Folge zur Insuffizienz und schließlich zum Nierenversagen. Da die zuvor erwähnten Krankheiten sehr häufig sind, ist in weiterer Folge die Niereninsuffizienz ebenfalls häufig anzutreffen.
 
-Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung, später jedoch nur die Nierentransplantation oder eine Nierenersatztherapie ({dfn}`Dialyse` {index}` <! Dialyse>`, *Blutwäsche*) zur Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten oder dritten Tag für einige Stunden an eine Maschine angeschlossen, welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des Krankentransportdienstes.
+Als Therapie steht der Medizin anfänglich eine medikamentöse Behandlung, später jedoch nur die Nierentransplantation oder eine Nierenersatztherapie (**Dialyse** {index}` <! Dialyse>`, *Blutwäsche*) zur Verfügung. Bei der klassischen Dialyse wird der Patient jeden zweiten oder dritten Tag für einige Stunden an eine Maschine angeschlossen, welche sein Blut reinigen kann. Die "Dialysefahrten", also Transport zu einem oder von einem Dialysezentrum, sind eine der Hauptaufgaben des Krankentransportdienstes.
 
 (dialysepatienten-gefahren)=
 
@@ -246,7 +246,7 @@ Die Niereninsuffizienz und die Nierenersatztherapien bergen Gefahren für den Pa
 :::
 ::::
 
-Eine {dfn}`Hodentorsion` {index}` <! Hodentorsion>` ist eine Drehung des Hodens um seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und druckempfindlich sein. Ohne Behandlung stirbt der Hoden schlussendlich innerhalb weniger Stunden ab. Die Hodentorsion ist daher ein absoluter Notfall.
+Eine **Hodentorsion** {index}` <! Hodentorsion>` ist eine Drehung des Hodens um seine eigene Achse. Es werden dabei die versorgenden *Blutgefäße abgeschnürt*. Es kommt zu sehr starken Schmerzen und vegetativen Symptomen wie Übelkeit und Erbrechen. Der Hoden kann geschwollen und druckempfindlich sein. Ohne Behandlung stirbt der Hoden schlussendlich innerhalb weniger Stunden ab. Die Hodentorsion ist daher ein absoluter Notfall.
 
 (mn44000c)=
 

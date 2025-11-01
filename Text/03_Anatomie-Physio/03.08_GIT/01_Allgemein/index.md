@@ -11,7 +11,7 @@
 - Beteiligung an der Regulation des Wasser- und Elektrolythaushalts
 :::
 
-Der {dfn}`Gastrointestinaltrakt`
+Der **Gastrointestinaltrakt**
 (*Verdauungstrakt*, Syn. *Magen-Darm-Trakt*, *GI-Trakt*) dient der Nahrungsaufnahme, der Verdauung der Nährstoffe und deren Resorption sowie der Ausscheidung von Abfallstoffen.
 Daneben ist er wesentlich an der Regulation des Wasser- und Elektrolythaushalts beteiligt.
 

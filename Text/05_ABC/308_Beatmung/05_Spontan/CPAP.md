@@ -5,7 +5,7 @@
 ```{index} single: Continuous Positive Airway Pressure
 ```
 
-# {dfn}`CPAP`: {dfn}`Continuous Positive Airway Pressure`
+# **CPAP**: {dfn}`Continuous Positive Airway Pressure`
 
 ```{rubric} Synonyme
 ```

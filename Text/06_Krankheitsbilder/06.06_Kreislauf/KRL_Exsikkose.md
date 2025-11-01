@@ -19,7 +19,7 @@
 :::
 ::::
 
-Als {dfn}`Exsikkose` {index}` <! Exsikkose>` ({dfn}`Dehydratation` {index}` <! Dehydratation>`, *Austrocknung*) wird ein hochgradiger Mangel an Flüssigkeit im Körper bezeichnet.
+Als **Exsikkose** {index}` <! Exsikkose>` (**Dehydratation** {index}` <! Dehydratation>`, *Austrocknung*) wird ein hochgradiger Mangel an Flüssigkeit im Körper bezeichnet.
 
 Grundsätzlich wird (wurde) entweder *zu wenig Flüssigkeit zugeführt* oder *zu viel Flüssigkeit an die Außenwelt abgegeben* (eine Kombination aus beidem ist natürlich auch möglich). Dafür gibt es jeweils sehr verschiedene Ursachen:
 

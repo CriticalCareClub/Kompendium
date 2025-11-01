@@ -2,7 +2,7 @@
 
 # Herzrhythmusstörungen
 
-:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen 
+:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen
 
         -   Weitere EKG-Beispiele
         -   verschiedene Herzrhythmusstörungen:
@@ -66,7 +66,7 @@ Grundsätzlich kann man Herzrhythmusstörungen nach dem Ort ihres Auftretens (Vo
 Als Normwert für die Herzfrequenz *in Ruhe* beim Erwachsenen gilt der Bereich zwischen **60—100 / min**.
 Individuell kann es zu physiologischen Abweichungen vom Normbereich kommen, so können beispielsweise Leistungssportler aufgrund ihres trainierten Körpers auch sehr niedrige Ruhepulsfrequenzen aufweisen.
 
-Eine Frequenz darunter wird als {dfn}`Bradykardie`, Werte darüber als {dfn}`Tachykardie` bezeichnet.
+Eine Frequenz darunter wird als **Bradykardie**, Werte darüber als **Tachykardie** bezeichnet.
 
 Bei der Beurteilung der Herzfrequenz muss auch immer an die Umstände (Ruhe, Belastung, …) und an den Erregungszustand des Patienten gedacht werden!
 

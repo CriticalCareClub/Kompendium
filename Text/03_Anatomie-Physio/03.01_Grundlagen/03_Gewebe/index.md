@@ -259,7 +259,7 @@ indirekte Ossifikation* (über Knorpel, z. B. Röhrenknochen) entstehen.
 
 Das Skelett eines Neugeborenen besteht bei der Geburt zum größten Teil aus Knorpel.
 Erst mit zunehmendem Lebensalter beginnt dieser von Knochenkernen ausgehend, zu verknöchern.
-Eine *Wachstumszone* ({dfn}`Epiphysenfuge`) bleibt dabei allerdings erhalten.
+Eine *Wachstumszone* (**Epiphysenfuge**) bleibt dabei allerdings erhalten.
 
 Die Epiphysenfuge enthält beim Kind/Jugendlichen bis etwa zum Ende der Pubertät *teilungsfähiges Knorpelgewebe*, daher ist ein *Längenwachstum* möglich.
 Beim Erwachsenen sind diese knorpeligen Fugen hingegen vollständig *verknöchert*, sodass keinerlei Wachstum mehr stattfinden kann.
@@ -322,9 +322,9 @@ Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brot
 
 ## Muskelgewebe
 
-Ein {dfn}`Muskel` ist ein Gewebe, welches die Fähigkeit hat, sich aktiv zusammenzuziehen.
+Ein **Muskel** ist ein Gewebe, welches die Fähigkeit hat, sich aktiv zusammenzuziehen.
 Die Gesamtheit der Muskeln wird als
-{dfn}`Muskulatur` bezeichnet.
+**Muskulatur** bezeichnet.
 
 Muskelzellen (Länge bis 20 cm) haben die Fähigkeit sich zu kontrahieren
 (zusammenziehen). Sie zeigen einen spezifischen Aufbau und enthalten bestimmte Eiweißstrukturen (*Myofibrillen*) um dies zu ermöglichen.

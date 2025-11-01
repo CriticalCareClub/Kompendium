@@ -23,7 +23,7 @@
 :::
 ::::
 
-Als {dfn}`Hyperventilationssyndrom` wird die übermäßig tiefe und schnelle Atmung *ohne körperliche Ursache* bezeichnet. Durch die Atmung wird der Säure-Basen-Haushalt des Körpers wesentlich beeinflusst ({ref}`saeure-basen-haushalt`). Atmet ein sonst gesunder Mensch übermäßig tief und schnell, so wird sein Blut-pH sehr rasch basisch. Dadurch geraten die *Elektrolyte* im Blut in ein Ungleichgewicht, es kommt zu Symptomen.
+Als **Hyperventilationssyndrom** wird die übermäßig tiefe und schnelle Atmung *ohne körperliche Ursache* bezeichnet. Durch die Atmung wird der Säure-Basen-Haushalt des Körpers wesentlich beeinflusst ({ref}`saeure-basen-haushalt`). Atmet ein sonst gesunder Mensch übermäßig tief und schnell, so wird sein Blut-pH sehr rasch basisch. Dadurch geraten die *Elektrolyte* im Blut in ein Ungleichgewicht, es kommt zu Symptomen.
 
 Das Hyperventilationssyndrom ist meistens psychisch bedingt und Folge einer *psychischen Belastungsreaktion* bzw. Folge einer Panikattacke.
 Auch im Rahmen von (Pop-)Konzerten und ähnlichen Veranstaltungen sind oft Patienten mit Hyperventilationstetanie anzutreffen.

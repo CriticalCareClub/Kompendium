@@ -203,7 +203,7 @@ Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutv
 
 ### Flüssige Bestandteile:  Blutplasma
 
-Die **flüssigen Bestandteile** des Blutes, das {dfn}`Plasma` besteht zum größten Teil (ca. 90%) aus *Wasser*.
+Die **flüssigen Bestandteile** des Blutes, das **Plasma** besteht zum größten Teil (ca. 90%) aus *Wasser*.
 Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*, *Glukose* und *Fette*, konkret:
 
 
@@ -368,11 +368,11 @@ Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an einen Rh
 Zu medizinischen Zwecken können Blutbestandteile durch Blutprodukte ersetzt werden.
 Die wichtigsten Produkte sind:
 
-- {dfn}`Erythrozytenkonzentrate` ("Ery-Konzentrate",
+- **Erythrozytenkonzentrate** ("Ery-Konzentrate",
   "Blutkonserven") sind Blutprodukte, welche (fast) ausschließlich
   Erythrozyten enthalten und werden bei schwerwiegenden Anämien, z. B.
   bei starken Blutungen, eingesetzt.
-- {dfn}`Thrombozytenkonzentrate` sind Blutprodukte, welche fast ausschließlich Thrombozyten beinhalten.
+- **Thrombozytenkonzentrate** sind Blutprodukte, welche fast ausschließlich Thrombozyten beinhalten.
 
 Manche Menschen bilden Antikörper gegen bestimmte Fremdblutbestandteile, sodass sie spezielle, taugliche, Blutprodukte benötigen.
 Die Organisation von derartigen Produkten kann aufwendig und zeitkritisch sein, da u.U. die benötigten Einheiten nur in speziellen Zentren im geringen Umfang vorrätig sind.
@@ -382,7 +382,7 @@ Die Organisation von derartigen Produkten kann aufwendig und zeitkritisch sein, 
 
 ## Immunsystem
 
-Das {dfn}`Immunsystem` (Abwehrsystem) schützt den Körper vor Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung.
+Das **Immunsystem** (Abwehrsystem) schützt den Körper vor Infektionskrankheiten und ist eine Vitalfunktion 2. Ordnung.
 Eine besonders bedeutende Rolle spielen die *Leukozyten* (Weiße Blutkörperchen, {ref}`leukozyten`).
 Sie ermöglichen das Abtötung und den Abbau von Krankheitserregern im Körper.
 Bestimmte Arten von Leukozyten können *Antikörper* (*Immunglobuline*) produzieren, das sind Proteine, welche an die Oberfläche von anderen Stoffen (z. B. Bakterien) binden können und damit die Erkennung und Abwehr eben dieser Stoffe unterstützen.
@@ -470,7 +470,7 @@ Die Reifung der B-Lymphozyten findet im Knochenmark statt.
 :::
 ::::
 
-Die {dfn}`Milz` (*Lien*, *Splen*) ist ca. 12 cm groß, oval geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
+Die **Milz** (*Lien*, *Splen*) ist ca. 12 cm groß, oval geformt und und liegt im linken Oberbauch, verdeckt von den Rippen.
 Sie ist nicht an der Verdauung beteiligt.
 
 Sie ist verantwortlich für den Abbau von zu alten Erythrozyten (sog. Blutmauser), weiters erfüllt sie zahlreiche Aufgaben im Rahmen der Infektabwehr.

@@ -1,6 +1,6 @@
 ```{index} single: ROSC
 ```
-```{index} single: Resumption Of Spontaneaus Circulation 
+```{index} single: Resumption Of Spontaneaus Circulation
 ```
 ```{index} pair: Reanimation; Postreanimationsbehandlung
 ```
@@ -24,7 +24,7 @@ Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Ums
   Anmerkung: *Erbrechen* ist *kein* Lebenszeichen.
 
 - **Erschöpfung**:
-  Sollte ein Ersthelfer all seine Kräfte aufgebraucht haben, wird gezwungener Maßen die Wiederbelebung ab- bzw. unterbrochen. 
+  Sollte ein Ersthelfer all seine Kräfte aufgebraucht haben, wird gezwungener Maßen die Wiederbelebung ab- bzw. unterbrochen.
   Fachpersonal wird nicht in eine derartige Situation kommen, an eine Ablöse ist im Falle von protrahierter Reanimation rechtzeitig zu denken.
   Außerdem ist der Erschöpfung durch Abwechseln bei der Durchführung der HDM und der Beatmung vorzubeugen.
   Der Wechsel findet idealerweise nach jedem HDM-/Beatmungszyklus, d. h. ca. alle 2 min, statt und darf zu keiner Verzögerung der HDM führen.
@@ -43,7 +43,7 @@ Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Ums
 % - Verdachtsdiagnose
 % - Auswahl eines geeigneten Transportziels
 
-Wird bei der Reanimation der Kreislauf wiederhergestellt ({dfn}`ROSC`, {dfn}`Resumption Of Spontaneous Circulation`) ist die weitere Versorgung wichtig.
+Wird bei der Reanimation der Kreislauf wiederhergestellt (**ROSC**, {dfn}`Resumption Of Spontaneous Circulation`) ist die weitere Versorgung wichtig.
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
@@ -71,7 +71,7 @@ Hinsichtlich der therapeutischen Hypothermie gibt es unerschiedliche Ansichten, 
 Jedenfalls darf der Patient nicht hypertherm werden.
 Die Grundsätze des cerebroprotektiven Managements sollen situativ angemessen angewendet werden.
 
-Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung geschenkt. 
+Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung geschenkt.
 Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
 
 

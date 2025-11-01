@@ -24,8 +24,8 @@ Das Sterben und der Tod sind alltägliche Begleiter des Lebens. Im Gesundheitsbe
 
 ## Der Tod allgemein
 
-Der {dfn}`Tod` {index}` <Tod>` ist das Ende der Lebensfunktionen und der Zustand danach.
-Das {dfn}`Sterben` {index}` <Sterben>` ist ein mehr oder weniger lang dauernder Prozess, an dessen Ende der Tod steht.
+Der **Tod** {index}` <Tod>` ist das Ende der Lebensfunktionen und der Zustand danach.
+Das **Sterben** {index}` <Sterben>` ist ein mehr oder weniger lang dauernder Prozess, an dessen Ende der Tod steht.
 Der Tod gehört zu den einschneidensten und unausweichlichsten Dingen des Lebens.
 Man unterscheidet zwischen dem klinischen und dem biologischen Tod.
 
@@ -182,7 +182,7 @@ Demnach ist es verständlich, dass der gleiche Patient zu unterschiedlichen Zeit
 
 ### Palliativbehandlung
 
-Die {dfn}`Palliativbehandlung` {index}` <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung von Patienten, für die es keine heilende Therapie mehr gibt, oder sich gegen eine solche entschieden haben. Ziel ist nicht die Heilung einer Krankheit, sondern das Ermöglichen eines würdigen und schmerzfreien Lebens bis zum Eintreten des Todes. Die Bedürfnisse der Patienten sind unterschiedlich und richten sich zum Beispiel nach dem Alter, der Erkrankung, den familiären Umständen, der Religion, usw.
+Die **Palliativbehandlung** {index}` <! Palliativbehandlung>` bzw. -betreuung beschäftigt sich mit der Betreuung von Patienten, für die es keine heilende Therapie mehr gibt, oder sich gegen eine solche entschieden haben. Ziel ist nicht die Heilung einer Krankheit, sondern das Ermöglichen eines würdigen und schmerzfreien Lebens bis zum Eintreten des Todes. Die Bedürfnisse der Patienten sind unterschiedlich und richten sich zum Beispiel nach dem Alter, der Erkrankung, den familiären Umständen, der Religion, usw.
 
 ### Der Umgang mit "geplant" sterbenden Patienten im Rettungs- und Krankentransportdienst
 

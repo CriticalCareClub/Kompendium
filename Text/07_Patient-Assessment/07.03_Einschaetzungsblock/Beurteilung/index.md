@@ -37,7 +37,7 @@ Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
   Atemweg {ref}`Ⓐ <Abcde-A>`,
   Atmung {ref}`Ⓑ <Abcde-B>`,
   Kreislauf {ref}`Ⓒ <Abcde-C>`)
-- {dfn}`Alarmsymptome`:
+- **Alarmsymptome**:
   Zu den Alarmsymptomen gehören u.a.
   Atemnot, die sich nicht bessert,
   brodelndes Atemgeräusch,
@@ -47,7 +47,7 @@ Die vitale Bedrohung kann sich aus drei wesentlichen Säulen ergeben:
   schwere Verletzungen,
   Hirndruckzeichen
   etc.
-- {dfn}`Alarmdiagnosen`: Manche Diagnosen sind automatisch
+- **Alarmdiagnosen**: Manche Diagnosen sind automatisch
   mit einer vitalen Bedrohung gleichzusetzen,
   auch wenn eventuell
   Symptome fehlen oder nur schwach ausgeprägt sind.

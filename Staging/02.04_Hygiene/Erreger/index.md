@@ -16,9 +16,9 @@
 
 # Erreger
 
-Ein {dfn}`Pathogen` ist ein Organismus oder Stoff der eine Erkrankung verursacht, also ein Krankheitserreger.
-Als {dfn}`Infektion` wird das Eindringen von pathogenen Krankheitserregern in den Organismus bezeichnet.
-Zwischen der Infektion (Eintritt d. Erregers in den Organismus) und dem Auftreten erster Krankheitssymptome liegt die symtomlose {dfn}`Inkubationszeit` {index}` <Inkubationszeit>`.
+Ein **Pathogen** ist ein Organismus oder Stoff der eine Erkrankung verursacht, also ein Krankheitserreger.
+Als **Infektion** wird das Eindringen von pathogenen Krankheitserregern in den Organismus bezeichnet.
+Zwischen der Infektion (Eintritt d. Erregers in den Organismus) und dem Auftreten erster Krankheitssymptome liegt die symtomlose **Inkubationszeit** {index}` <Inkubationszeit>`.
 Tabelle {ref}`TAB-Erregerarten` zeigt die wichtigsten potentiellen Erregerarten.
 
 
@@ -39,8 +39,8 @@ Auch sonst gesunde Menschen können aufgrund von Stress oder schlechter Ernähru
     wichtigen weißen Blutkörperchen.
 
 
-Die Eigenschaft der {dfn}`Pathogenität` steht für die Fähigkeit eines Krankheitserregers oder Stoffs eine Erkrankung oder einen Schaden auszulösen.
-Die {dfn}`Resistenz` hingegen bezeichnet allgemein die  Widerstandsfähigkeit eines Organismus.
+Die Eigenschaft der **Pathogenität** steht für die Fähigkeit eines Krankheitserregers oder Stoffs eine Erkrankung oder einen Schaden auszulösen.
+Die **Resistenz** hingegen bezeichnet allgemein die  Widerstandsfähigkeit eines Organismus.
 Das kann einerseits bezogen sein auf einen Organismus, der gegen Erreger resistent ist, aber auch auf einen Erreger, der gegen bestimmte Gegenmaßnahmen (z.B. Antibiotika) eine Widerstandskraft besitzt.
 
 
@@ -101,9 +101,9 @@ Dies hängt von verschiedenen Faktoren ab, s.u.
   - Alter, Ernährung, Stress, ...
 :::
 
-Unter *Pathogenität* versteht man die Eigenschaft eines Bakteriums, eine Erkrankung oder sonstigen Schaden auszulösen. 
+Unter *Pathogenität* versteht man die Eigenschaft eines Bakteriums, eine Erkrankung oder sonstigen Schaden auszulösen.
 Die Schädlichkeit von Bakterien hängt von verschiedenen Faktoren ab.
-Grundsätzlich entscheidend ist die *Bakterienart*: Je nachdem welcher Spezies und welchem Stamm das Bakterium angehört, kann es unterschiedliche Wirkungen haben. 
+Grundsätzlich entscheidend ist die *Bakterienart*: Je nachdem welcher Spezies und welchem Stamm das Bakterium angehört, kann es unterschiedliche Wirkungen haben.
 Der *Ort der Besiedelung* ist ebenso entscheidend.
 Viele Bakterien haben angestammte Besiedlungsorte, wo sie natürlich vorkommen oder sogar vorkommen müssen, damit eine gewünschte Funktion (z. B. die Verdauung) funktioniert.
 Damit eine Bakterienart nicht ungehemmt wuchern kann, ist der "*Konkurrenzkampf der Bakterien*" notwendig.
@@ -149,7 +149,7 @@ Diese werden unter {ref}`multiresistente-keime` näher besprochen.
   - Diagnostisches Fenster: Test erst einige Zeit nach  Infektion positiv
 :::
 
-{dfn}`Viren` sind kleiner als Bakterien und sind keine vollständigen Zellen. [^footnote-2] Sie brauchen Wirtszellen um sich vermehren zu können.
+**Viren** sind kleiner als Bakterien und sind keine vollständigen Zellen. [^footnote-2] Sie brauchen Wirtszellen um sich vermehren zu können.
 Sie schleusen ihr eigenes genetisches Programm
 (Erbinformationen) in die fremde Zelle ein, diese produziert dann neue Viren.
 Die so missbrauchte Zelle verliert i. d. R.

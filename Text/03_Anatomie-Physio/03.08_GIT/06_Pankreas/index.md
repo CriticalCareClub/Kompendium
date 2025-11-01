@@ -16,7 +16,7 @@
 :::
 
 
-Das {dfn}`Pankreas` ({dfn}`Bauchspeicheldrüse`) ist ca.
+Das **Pankreas** (**Bauchspeicheldrüse**) ist ca.
 15—22 cm lang und liegt hinter dem Magen.
 Es liegt in der C-Schlaufe des Zwölffingerdarmes ungefähr auf Höhe des 2. Lendenwirbelkörpers, es lassen sich untescheiden:
 

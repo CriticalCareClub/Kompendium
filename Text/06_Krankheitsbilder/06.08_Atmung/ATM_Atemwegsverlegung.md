@@ -33,7 +33,7 @@
 ::::
 
 Wenn ein Fremdkörper den Atemweg teilweise oder vollständig *blockiert* oder *behindert* spricht man von einer mechanische Verlegung. Abhängig von der Größe des Fremdkörpers können sowohl die oberen als auch die unteren Atemwege betroffen sein.
-Wenn der Fremdkörper in die *unteren Atemwege* gelangt, spricht man von einer (Fremdkörper-) {dfn}`Aspiration`.
+Wenn der Fremdkörper in die *unteren Atemwege* gelangt, spricht man von einer (Fremdkörper-) **Aspiration**.
 
 Nicht nur feste Körper, sondern auch Flüssigkeiten können Auslöser einer Verlegung oder Aspiration sein.
 Blut, Magensaft, Erbrochenes oder Speisebrei stellen diesbezüglich eine große Gefahr dar.

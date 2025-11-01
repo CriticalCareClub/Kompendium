@@ -22,7 +22,7 @@ Meistens liegt eine chronische Schädigung der Gefäße infolge anderer Erkankun
 ```
 
 Wenn die Gefäße nur verengt sind, spricht man von der *peripheren arteriellen Verschlusskrankheit*, abgekürzt
-{dfn}`paVK`.
+**paVK**.
 Sie ist eine häufige chronische Erkrankung.
 (*Achtung*: Obwohl es
 "*Verschluss*krankheit" heißt, sind die Gefäße nicht komplett verschlossen, sondern nur verengt!)

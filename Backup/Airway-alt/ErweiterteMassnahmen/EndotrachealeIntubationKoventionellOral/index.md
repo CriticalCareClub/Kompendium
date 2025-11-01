@@ -9,7 +9,7 @@
 
 
 
-Bei der {dfn}`endotrachealen Intubation` ({dfn}`ETI`) wird ein Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges und bietet einen Aspirationsschutz.
+Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*Tubus*) über den Mund (seltener über die Nase) durch den Rachen und den Kehlkopf in die Luftröhre eingeführt. Er ermöglicht die Beatmung des Patienten bei gleichzeitigem Freihalten des Atemweges und bietet einen Aspirationsschutz.
 
 ## Material und Personal
 
@@ -607,7 +607,7 @@ der Luftröhre zu bestätigen.
 
 
 
-```{index} single: Airtraq™ 
+```{index} single: Airtraq™
 ```
 ```{index} single: Videolaryngoskop; Airtraq™
 ```

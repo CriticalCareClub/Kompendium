@@ -2,7 +2,7 @@
 
 # EKG (Basics)
 
-Mittels der {dfn}`Elektrokardiographie` (**EKG**)
+Mittels der **Elektrokardiographie** (**EKG**)
 wird die elektrische Aktivität des Herzens und damit des Reizbildungs- und leitungssystems in einem *Elektrokardiogramm* über die Zeit dargestellt.
 Dazu werden auf dem Körper nach einem bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels mit einem EKG-Gerät verbunden.
 

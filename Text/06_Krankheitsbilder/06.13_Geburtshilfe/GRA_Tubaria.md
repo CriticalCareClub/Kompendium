@@ -23,7 +23,7 @@
 :::
 ::::
 
-Eine {dfn}`Eileiterschwangerschaft` {index}` <Eileiterschwangerschaft>` ist eine Schwangerschaft, bei der sich die Frucht im Eileiter einninstet. *Term.* Tubaria, *Syn.* extrauterine Schwangerschaft.
+Eine **Eileiterschwangerschaft** {index}` <Eileiterschwangerschaft>` ist eine Schwangerschaft, bei der sich die Frucht im Eileiter einninstet. *Term.* Tubaria, *Syn.* extrauterine Schwangerschaft.
 Das Problem dabei:
 Mit zunehmender Größe der Frucht wird der Eileiter gedehnt, dabei kommt es zu Schmerzen. Schließlich reißt der Eileiter und die Frau erleidet massive innere Blutungen. Es zeigen sich dann Anzeichen eines akuten Abdomens und eines hypovolämischen Schocks.
 

@@ -11,13 +11,13 @@
 :::
 ::::
 
-Eine tiefe {dfn}`Beinvenenthrombose` ist eine Verstopfung einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus[^footnote-1]).
+Eine tiefe **Beinvenenthrombose** ist eine Verstopfung einer tiefen Beinvene durch ein Blutgerinnsel (Thrombus[^footnote-1]).
 
 Ursächlich für die Bildung eines Blutgerinnsels ist meistens eine verminderte Blutflussgeschwindigkeit bzw. Rückstau, eine Verminderung des flüssigen Anteils des Blutes oder eine gesteigerte bzw. krankhafte Neigung zur Bildung von Blutgerinnsel. Die *venöse Insuffizienz* ist ein weit verbreitetes chronisches Leiden. Es kommt dabei zu einem Rückfluss von Blut und Aussackungen von Venen, welche im fortgeschrittenen Stadium als hässliche *Krampfadern* deutlich sichtbar sind. Schuld sind oft insuffiziente Venenklappen, stehende bzw. sitzende Tätigkeiten und fehlende Bewegung.
 
 [^footnote-1]: Thrombus: Blutgerinnsel. Im Gegensatz dazu
     *Embolus*: Losgelöster Thrombus, welcher woanders ein Gefäß verstopft
-    und eine {dfn}`Embolie` verursacht.
+    und eine **Embolie** verursacht.
 
 ## ABCDE
 
@@ -156,7 +156,7 @@ Ursächlich für die Bildung eines Blutgerinnsels ist meistens eine verminderte 
 :::
 ::::
 
-Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser losgelöste Teil wird {dfn}`Embolus` genannt.
+Es kann zu einer *Loslösung von Teilen des Thrombus* kommen, dieser losgelöste Teil wird **Embolus** genannt.
 Mit dem Blutstrom gelangt der Embolus über die Hohlvenen in das rechte Herz.
 Bis hierhin gibt es noch keine Probleme, da die Blutgefäße an Dicke zunehmen.
 Vom rechten Herzen gelangt der Embolus in den Lungenkreislauf (Lungenarterien).
@@ -174,8 +174,8 @@ Es entsteht eine *Lungenembolie*.
 
 Bilderserie: Thrombose
 
-![Die Economyclass. Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/economyclass.\*)  
-![Thromboseprophylaxe. Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z.\, B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können. Die Substanz wird unter die Haut (\\"subkutan\\") gespritzt. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*)  
+![Die Economyclass. Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/economyclass.\*)
+![Thromboseprophylaxe. Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z.\, B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können. Die Substanz wird unter die Haut (\\"subkutan\\") gespritzt. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*)
 ![Eine Venenthrombose kann eine Embolie auslösen. \[Lena Hirtler {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*)
 
 :::

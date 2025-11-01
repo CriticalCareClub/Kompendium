@@ -23,7 +23,7 @@ Diese Maßnahmen sind mit Geräten und geeigneten validierten Verfahren so durch
 - Voraussetzung für spätere Desinfektion od. Sterilisation
 :::
 
-Unter {dfn}`Reinigung` {index}` <! Reinigung>` versteht man das Entfernen von groben
+Unter **Reinigung** {index}` <! Reinigung>` versteht man das Entfernen von groben
 – oft sichtbaren – Verunreinigungen mit vorrangig mechanischen Mitteln.
 Sie muss möglichst *rasch nach der Kontamination begonnen* werden, da es sonst zum Eintrocknen der Verunreinigungen kommen kann.
 Gereinigte Gegenstände können noch infektiös sein! Eine (Vor-)Reinigung ist Voraussetzung für eine weiterführende Desinfektion oder Sterilisation.
@@ -42,7 +42,7 @@ Gereinigte Gegenstände können noch infektiös sein! Eine (Vor-)Reinigung ist V
   - Keine Desinfektion ohne vorhergehender Reinigung!
 :::
 
-Unter dem Begriff {dfn}`Desinfektion` {index}` <! Desinfektion>` versteht man Maßnahmen die der *Keimreduktion* dienen, um einen Gegenstand so aufzubereiten, dass er nicht infektiös ist.
+Unter dem Begriff **Desinfektion** {index}` <! Desinfektion>` versteht man Maßnahmen die der *Keimreduktion* dienen, um einen Gegenstand so aufzubereiten, dass er nicht infektiös ist.
 Der Gegenstand ist dabei jedoch *nicht* keimfrei.
 Die Desinfektionsmaßnahmen töten i.d.R.
 nur bestimmte Keime ab.
@@ -196,7 +196,7 @@ Die Verwendung von Putzlappen zur Wischdesinfektion ist *nicht zulässig*!
 - z. B. Autoklavieren.
 :::
 
-Das Ziel der {dfn}`Sterilisation` {index}` <! Sterilisation>` ist die Abtötung *sämtlicher* Krankheitserreger, d. h. *Keimfreiheit* (Sterilität).
+Das Ziel der **Sterilisation** {index}` <! Sterilisation>` ist die Abtötung *sämtlicher* Krankheitserreger, d. h. *Keimfreiheit* (Sterilität).
 Voraussetzung für die Sterilisation ist eine *vorherige Reinigung* und *Desinfektion*!
 
 Das bekannteste Verfahren ist das *Autoklavieren*, dabei wird der Gegenstand unter Überdruck mit Hitze und Wasserdampf behandelt.
@@ -278,11 +278,11 @@ Sterilisationsverfahren sind relativ aufwendig und setzen Wissen und Erfahrung v
 - Hygienebeauftragter: Ansprechpartner mit Zusatzausbildung
 :::
 
-Der {dfn}`Hygieneplan` {index}` <! Hygieneplan>` regelt die konkreten Hygienemaßnahmen zur Erkennung, Verhütung und Bekämpfung von Infektionen bzw. deren Übertragungsmöglichkeiten.
-Es wird dort festgelegt was, wann, wie, und womit (wo) zu geschehen hat. 
+Der **Hygieneplan** {index}` <! Hygieneplan>` regelt die konkreten Hygienemaßnahmen zur Erkennung, Verhütung und Bekämpfung von Infektionen bzw. deren Übertragungsmöglichkeiten.
+Es wird dort festgelegt was, wann, wie, und womit (wo) zu geschehen hat.
 Der Hygieneplan ist allgemein ausgehängt und hat i. d. R. die Bedeutung einer dienstlichen Weisung.
 
-Der {dfn}`Hygienebeauftragte` {index}` <! Hygienebeauftragte>` (bzw. Hygieneverantwortliche)
+Der **Hygienebeauftragte** {index}` <! Hygienebeauftragte>` (bzw. Hygieneverantwortliche)
 ist Ansprechpartner für Belange der Hygiene.
 Er hat Maßnahmen zu setzen oder zu veranlassen, die der Erkennung, Verhütung und Bekämpfung von Infektionen, deren Übertragung und der Gesunderhaltung dienen.
 Zur Durchführung dieser Maßnahmen erstellt er u. a. den Hygieneplan.

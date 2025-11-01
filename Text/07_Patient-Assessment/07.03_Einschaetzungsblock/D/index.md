@@ -80,7 +80,7 @@ Desorientierung, pathologische Pupillenreaktionen (abnorme Weitung oder Engstell
 - Strecksynergismen
 :::
 
-{dfn}`Hirndruckzeichen` deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller Druck*).
+**Hirndruckzeichen** deuten auf eine Erhöhung des Druckes innerhalb des Hirnschädels hin (*Hirndruck*, *intrakranieller Druck*).
 Eine solche Steigerung kann besonders bei Verletzungen oder blutigen Schlaganfällen vorkommen.
 Eine Hirndruckerhöhung wirkt sich negativ sowohl auf das Hirn selbst, als auch auf dessen Durchblutung aus (*"Das Hirn drück sich selbst ab."*).
 

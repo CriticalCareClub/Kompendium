@@ -93,7 +93,7 @@ Die **Patella** (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestr
 
 ### Unterschenkel: Schienbein (Tibia) und Wadenbein (Fibula)
 
-Der {dfn}`Unterschenkel` wird von der **Tibia**[^tibia] (*Schienbein*)
+Der **Unterschenkel** wird von der **Tibia**[^tibia] (*Schienbein*)
 und der **Fibula** [^fibula] (*Wadenbein*)
 gebildet.
 Sie gehen im Sprunggelenk in den Fuß über und bilden dort den **Innen-**
@@ -218,7 +218,7 @@ Folgende Bänder stabilisieren das Gelenk:
 
 ### Articulatio genus (Kniegelenk)
 
-Das {dfn}`Kniegelenk` verbindet den Ober- und Unterschenkel und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
+Das **Kniegelenk** verbindet den Ober- und Unterschenkel und wird aus dem Oberschenkelknochen und dem Schienbein (Unterschenkel)
 gebildet. Es ist *kein* reines Scharniergelenk, Drehungen sind bei gebeugtem Knie möglich.
 Das Kniegelenk weist einige Besonderheiten auf:
 Jeweils zwei Kreuzbänder, Seitenbänder sowie Menisken sorgen für die Stabilität in diesem Gelenk[^kniegelenkbaender].
@@ -258,11 +258,11 @@ und die *Art. femoropatellaris* (Femur + Patella) in einer Gelenkkapsel zusammen
 
 ### Sprunggelenk
 
-Im {dfn}`Sprunggelenk` gibt es, ähnlich wie bei der Hand,
-{dfn}`Fußwurzelknochen` (7), {dfn}`Mittelfußknochen` (5)
+Im **Sprunggelenk** gibt es, ähnlich wie bei der Hand,
+**$1** (7), **$1** (5)
 und 5 Zehen mit jeweils 2 (Großzehe) bis 3 Gliedern.
 
-Als {dfn}`Knöchel` bezeichnet man die Knochengabel, welche aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von Schien- bzw. Wadenbein).
+Als **Knöchel** bezeichnet man die Knochengabel, welche aus Schien- und Wadenbein auf Höhe des Sprunggelenks gebildet wird. Es gibt einen Innen- und einen Außenknöchel (jeweils körperfernes Ende von Schien- bzw. Wadenbein).
 
 Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 

@@ -16,7 +16,7 @@ Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgefü
   Diese Patienten sind im Krankentransport häufig anzutreffen.
 - *Allergie*: Das Immunsystem kann jedoch auch
   fälschlicherweise gegen an sich ungefährliche Stoffen aktiv werden,
-  man spricht dann von einer {dfn}`Allergie` {index}` <Allergie>`. Im
+  man spricht dann von einer **Allergie** {index}` <Allergie>`. Im
   leichtesten Fall kommt es bei Kontakt mit dem auslösenden Stoff zu
   einer Schleimhautreizung ("laufende Nase"), Augenrötung, tränen,
   einer lokalen Rötung bzw. einem Juckreiz.
@@ -33,7 +33,7 @@ Exemplarisch seien hier knochenmarkschädigende Therapien und Allergien ausgefü
 
 ### Grippe
 
-Die {dfn}`Grippe` {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch Viren verursachte Infektionskrankheit.
+Die **Grippe** {index}` <! Grippe>` (*Influenza*) ist eine schwere, durch Viren verursachte Infektionskrankheit.
 Sie ist eine *virale* Erkrankung, welche je nach Patient und Virenstamm (s.u.) für den Körper sehr belastend sein kann und einen sehr schweren Verlauf nehmen und auch tödlich enden kann. Gefürchtet sind *Komplikationen* wie Lungen- oder Herzmuskelentzündungen oder weitere (Folge-)Infektionen. Besonders gefährdet sind ältere und immunsupprimierte Personen.
 
 Die Grippe tritt besonders in der kalten Jahreszeit, meistens als *Epidemie* auf. Es kann auch zum Ausbruch einer weltweiten Pandemie kommen, z. B. Spanische Grippe (1918, 25 Mio Tote), Asiatische Grippe (1957, 1 Mio Tote) und Hongkong-Grippe (1968, 800 000 Tote)[^footnote-1].
@@ -69,7 +69,7 @@ Glücklicherweise entwickelten sich in letzter Zeit nur Viren, welche zwar vom T
 
 Einerseits stellt der mögliche Übertragungsweg vom Tier auf den Mensch und von dort auf andere Menschen (*Tier-Mensch-Mensch-Übertragung*) eine ständige Gefahr dar. Andererseits ist das Risiko einer möglichen *Kreuzung* mit Stämmen, die sehr infektiös und schwer verlaufend sind, gefährlich. Dies kann passieren wenn ein Patient mit mehreren Stämmen gleichzeitig infiziert ist. Daher ist es wichtig die Infektionen so rasch als möglich einzudämmen.
 
-Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf den Menschen in Mexiko im Frühjahr 2009 ({dfn}`Schweinegrippe` {index}` <! Schweinegrippe>`).
+Die jüngste Entwicklung war die Übertragung des Stammes vom Schwein auf den Menschen in Mexiko im Frühjahr 2009 (**Schweinegrippe** {index}` <! Schweinegrippe>`).
 Der neue Stamm breitete sich sehr rasch um die ganze Welt aus, *die Erkrankung verlief jedoch recht mild*. Bemerkenswert war jedoch, dass – anders als bei einer "normalen Grippe" üblich – besonders junge Menschen infiziert wurden.
 
 ### Grippaler Infekt
@@ -88,7 +88,7 @@ Wie bei jedem fieberhaften Infekt muss an die Meningitis gedacht werden und auf 
 
 ### Lungenentzündung (Pneumonie)
 
-Streng genommen ist die {dfn}`Lungenentzündung` {index}` <! Lungenentzündung>` *Term.* (*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den Symptomen eher die entzündliche Komponente im Vordergrund (Fieber, allgemeine Schwäche, …).
+Streng genommen ist die **Lungenentzündung** {index}` <! Lungenentzündung>` *Term.* (*Pneumonie*) eine Erkrankung der Atemwege. Meistens steht bei den Symptomen eher die entzündliche Komponente im Vordergrund (Fieber, allgemeine Schwäche, …).
 
 #### Ursachen
 
@@ -122,7 +122,7 @@ Besonders ältere Menschen fiebern selbst bei schwereren Erkrankungen kaum an.
 
 ### Tuberkulose
 
-Die {dfn}`Tuberkulose` {index}` <! Tuberkulose>` (*Abk.* {dfn}`Tbc` {index}` <! Tbc>`, *umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch alle Organe befallen kann.
+Die **Tuberkulose** {index}` <! Tuberkulose>` (*Abk.* **Tbc** {index}` <! Tbc>`, *umgs.* Schwindsucht) ist eine bakterielle Erkrankung, welche praktisch alle Organe befallen kann.
 Der Verlauf wird vor allem davon bestimmt, welches Organ befallen ist (Lunge, Skelett, Darm, Haut, Genitalien, ...).
 Ausgangspunkt ist fast immer die *Lunge*. Die Übertragung erfolgt vor allem *aerogen*, aber unter Umständen auch oral, durch Hautkontakt oder plazentär. Die Inkubationszeit beträgt 4—12 Wochen.
 
@@ -169,7 +169,7 @@ Bei Einhaltung der Schutzmaßnahmen (s. Spezielle Maßnahmen) ist eine Ansteckun
 
 Das {dfn}`HI-Virus` {index}` <! HI-Virus>` befällt vor allem die Zellen des Abwehrsystems. Es vermehrt sich in ihnen, setzt sie außer Funktion und zerstört sie schließlich. Das körpereigene Abwehrsystem kann HIV nicht aus dem Körper entfernen, es kommt zu einer **Immunschwäche** {index}` <Immunschwäche>`.
 
-HIV verursacht das {dfn}`AIDS` {index}` <! AIDS>` (*Aquired Immune Deficiency Syndrom*, erworbenes Immunschwäche-Syndrom), welches die eigentliche Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem* zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und versterben kann:
+HIV verursacht das **AIDS** {index}` <! AIDS>` (*Aquired Immune Deficiency Syndrom*, erworbenes Immunschwäche-Syndrom), welches die eigentliche Erkrankung darstellt. Dabei kommt es durch das *geschwächte Immunsystem* zu *Folgeerkrankungen*, an denen der Patient schwer erkranken und versterben kann:
 
 - *Infektionen* mit normalerweise harmlosen Erregern
 
@@ -211,7 +211,7 @@ Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. 
 
 #### Beschreibung und Ursachen
 
-Die {dfn}`Hepatitis`
+Die **Hepatitis**
 {index}` <Hepatitis>` ist eine Entzündung der Leber durch verschiedene Erreger oder durch schädigende Substanzen.
 Diese Entzündung kann durch Erreger wie Viren, oder Mikroorganismen hervorgerufen werden (infektiöse, virale Hepatitis). Aber auch regelmäßige Schädigungen der Leber durch Giftstoffe wie Alkohol, Medikamente (z. B. Paracetamol), etc. können zu einer (chronischen) Entzündung führen. Auch ein länger bestehender Rückstau der Gallenflüssigkeit, z. B. bei einer Verstopfung des Gallenganges, kann zu einer Entzündung führen.
 
@@ -268,7 +268,7 @@ Für Risikopersonal (dazu zählt auch Sanitätspersonal) übernimmt i. d. R.
 ### Infektiöse Meningitis
 
 Die infektiöse
-{dfn}`Meningitis` {index}` <Meningitis>` ist eine Entzündung der Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
+**Meningitis** {index}` <Meningitis>` ist eine Entzündung der Hirnhäute aufgrund einer Infektion mit Krankheitserregern.
 Sie ist ist eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist, und andererseits rasch tödlich enden kann. Als Krankheitserreger treten zumeist Bakterien oder Viren auf. Gefährdet sind grundsätzlich alle Altersgruppen, besonders aber Kinder, Jugendliche und alte Menschen.
 
 (meningismuszeichen)=
@@ -276,7 +276,7 @@ Sie ist ist eine gefürchtete Erkrankung, da sie einerseits hoch ansteckend ist,
 #### Symptome
 
 Leitsymptome sind *Fieber*, *Nackensteifigkeit* (Meningismus) und *Lichtscheue*. Dies bezeichnet man als
-{dfn}`Meningismuszeichen` {index}` <! Meningismuszeichen>`.
+**Meningismuszeichen** {index}` <! Meningismuszeichen>`.
 Darüber hinaus kann es zu anderen unspezifischen Symptomen wie Kopfschmerzen, Übelkeit, Erbrechen, etc. kommen.
 
 Im fortgeschrittenem Stadium kann es zu massiven Gerinnungsstörungen kommen, am Körper bilden sich dann dunkle Hämatome. Einer der häufigsten Erreger sind die Meningokokken (Bakterien), man spricht dann von einer Meningokokken-Meningitis.
@@ -376,7 +376,7 @@ Grundsätzlich:
 
 ### Ebola
 
-Die {dfn}`Ebola-Viruserkrankung` ({dfn}`Ebola`, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
+Die {dfn}`Ebola-Viruserkrankung` (**Ebola**, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
 Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber; hämorrhagisches>` Fieber).
 Das Virus verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon sind auch die Blutgefäße betroffen.
 Je nach Virus-Typ verläuft die Erkrankung in 25—90% der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.

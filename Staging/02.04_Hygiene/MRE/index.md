@@ -14,7 +14,7 @@ Wer es im Ersten Weltkrieg lebendig in ein Lazarett geschafft hatte, verstarb do
 
 Im Jahr 1928 verschimmelte dem englischen Wissenschaftler Alexander Fleming versehentlich eine Nährplatte mit Bakterienkulturen.
 Er bemerkte, dass in der Umgebung des Pilzes die Bakterien nicht wachsen konnten:
-Das *Penizillin* war entdeckt.[^footnote-4] 
+Das *Penizillin* war entdeckt.[^footnote-4]
 Der erste Patient der mit Penizillin behandelt wurde war ein Londoner Polizist.
 Er hatte sich beim Rasieren verletzt und eine Blutvergiftung zugezogen – er galt als unrettbar. [^footnote-5]
 
@@ -57,7 +57,7 @@ Dem Rettungs- und Krankentransport kommt dabei eine *Schlüsselrolle* zu, da es 
 Gesundheitseinrichtungen wie Spitäler oder Pflegeheime sind eine ideale
 "Zuchtanstalt" und Brutstätte für Resistenzen:
 Es werden viele Antibiotika verwendet, viele Patienten liegen räumlich nahe beieinander.
-Es finden sich daher dort *gehäuft* resistente Keime, umgangssprachlich spricht man in der Fachwelt auch von {dfn}`Spitalskeimen` {index}` <! Spitalskeime>`.
+Es finden sich daher dort *gehäuft* resistente Keime, umgangssprachlich spricht man in der Fachwelt auch von **Spitalskeimen** {index}` <! Spitalskeime>`.
 Resistente Keime verursachen komplizierte Infektionen, eine Erhöhung der Komplikations- und Sterblichkeitsrate, in Folge eine Verlängerung des Krankenhausaufenthaltes und nicht zuletzt enorme zusätzliche –
 vermeidbare – Kosten {term}`🗎 Kucera 2010`.
 
@@ -86,7 +86,7 @@ transportiert werden, ist man auch hier mit dem Problem der resistenten Keime be
 Deshalb sind spezielle Maßnahmen erforderlich.
 
 Der wohl bekannteste Problemkeim ist der
-{dfn}`MRSA` {index}` <! MRSA>`
+**MRSA** {index}` <! MRSA>`
 (Multiresistenter Staphylococcus aureus, siehe unten).
 Das liegt schlicht daran, dass er der erste war.
 In den letzten Jahren ist die Resistenzentwicklung aber auch bei vielen anderen Keimen zu beobachten, Beispiele dafür sind die ESBLs und VREs, sowie der VRSA (Extended Spectrum Beta-Laktamase-Bildner, Vancomycin-resistente Enterokokken, Vancomycin-resistenter Staph.
@@ -103,13 +103,13 @@ aureus). Auch bei der Tuberkulose treten mittlerweile resistente Keime auf: *200
 :::{margin} Stahylokokkus aureus
 
 - Staph. aureus = "Allerweltskeim"
-- aber resistente Form: {dfn}`MRSA` {index}` <! MRSA>`
+- aber resistente Form: **MRSA** {index}` <! MRSA>`
 :::
 
 Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der Bevölkerung sind besiedelt.
 Vor allem ist die vordere Nasenhöhle besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die Schleimhäute können ihn beherbergen.
 Auch im Spital ist er häufig, aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon Antibiotika-resistent:
-Man spricht dann vom {dfn}`MRSA` {index}` <! MRSA>`
+Man spricht dann vom **MRSA** {index}` <! MRSA>`
 (Multi-resistenter Staphylococcus aureus).
 
 :::{figure} /Bilder/PD/11159_lores_VRSA.\*

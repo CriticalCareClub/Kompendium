@@ -10,7 +10,7 @@
 :::
 ::::
 
-Eine {dfn}`Pankreatitis` {index}` <! Pankreatitis>` ist eine Entzündung der Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch *chronisch* verlaufen.
+Eine **Pankreatitis** {index}` <! Pankreatitis>` ist eine Entzündung der Bauchspeicheldrüse (Pankreas). Sie kann sowohl *akut*, als auch *chronisch* verlaufen.
 
 Die häufigsten Ursachen für eine Pankreatitis sind *Gallensteinleiden* und *Alkoholmissbrauch*. Daneben gibt es noch viele, allerdings nicht so häufige Ursachen, oft bleibt die Ursache auch gänzlich unbekannt.
 

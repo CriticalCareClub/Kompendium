@@ -9,7 +9,7 @@
 # Gastrointestinale Blutungen und Ösophagusvarizenblutung
 
 {dfn}`Gastrointestinale Blutungen` {index}` <! Gastrointestinale Blutungen>` sind Blutungen im Magen-Darm-Trakt.
-{dfn}`Ösophagusvarizenblutungen` {index}` <! Ösophagusvarizenblutungen>` sind Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
+**Ösophagusvarizenblutungen** {index}` <! Ösophagusvarizenblutungen>` sind Blutungen aus erweiterten Gefäßen ("Krampfadern") in der Speiseröhre.
 
 Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu Blutungen kommen, die auch sehr schwer ausfallen können. Die Unterscheidung nach der Stelle der Blutung ist wesentlich:
 
@@ -44,7 +44,7 @@ Im Verlauf des Magen-Darm-Traktes kann es an verschiedenen Stellen zu Blutungen 
 
 Bei Blutungen im *oberen Magen-Darm-Trakt* (Speiseröhre, Magen) kommt es je nach Stärke zu schwallartigem Erbrechen von rotem, frischen Blut (
 *Hämatemesis*) oder häufiger zum Erbrechen von Kaffeesatz-artigem Mageninhalt:
-Durch die Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich, ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz ({dfn}`Meläna`{index}` <! Meläna>`).
+Durch die Magensäure kommt es zur Veränderung des Blutes, es wird bräunlich, ähnlich dem Kaffeesatz im Kaffeefilter. Bei Blutungen im *mittleren Teil* des Verdauungstraktes färbt sich der Stuhl tief schwarz (**Meläna**{index}` <! Meläna>`).
 Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ::::{only} not nosidebar

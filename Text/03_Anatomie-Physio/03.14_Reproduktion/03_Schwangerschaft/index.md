@@ -13,7 +13,7 @@ Die normale *Schwangerschaft*
 (*Term.* *Gestation*, *Gravidität*, *Abkz.* *Grav.*) dauert *40 ± 2 Wochen*.
 Das sind rund *9 Kalendermonate* oder 10 Lunarmonate [^luna].
 Der Fortschritt der Schwangerschaft wird in *Schwangerschaftswochen*, Abk. *SSW*, angegeben.
-Häufig wird auch die Unterteilung in drei {dfn}`Trimester` [^tri] zu je 3 Kalendermonaten verwendet.
+Häufig wird auch die Unterteilung in drei **Trimester** [^tri] zu je 3 Kalendermonaten verwendet.
 Von einer  *Frühgeburt* spricht man wenn die Geburt *bis zur vollendeten 37. SSW* erfolgt.
 Von einer *Übertragung* spricht man ab der *42. SSW*.
 
@@ -53,7 +53,7 @@ An ihr kann man eine äußere Zellhülle (*Trophoblast*) und eine innere Zellgru
 Am 5. Tag nistet sich die Blastozyste in der Uterusschleimhaut ein.
 Der Embryoblast entwickelt sich im weiteren Verlauf zum Embryo, der Trophoblast bildet die kindlichen Anteile der Plazenta.
 
-Die reife {dfn}`Plazenta` {index}` <! Plazenta>` (*Mutterkuchen*) misst ca. 18 cm im Durchmesser und versorgt das Kind mit Nährstoffen und Sauerstoff.
+Die reife **Plazenta** {index}` <! Plazenta>` (*Mutterkuchen*) misst ca. 18 cm im Durchmesser und versorgt das Kind mit Nährstoffen und Sauerstoff.
 Sie wird von der Uterusschleimhaut (*Decidua basalis*) und von den kindlichen Trophoblastenanteilen (*Chorionplatte*) gebildet.
 
 Die Chorionplatte bildet die *Platzentazotten* (insg. ca. 15 bis 20 Zottenbäume, Chorion frondosum), die Decidua bildet Septen zwischen diesen Zottenbäumen.
@@ -83,7 +83,7 @@ Beiden liegt jeweils ein Bläschen auf - innen das Entodermbläschen
 (Dottersack) und außen das Ektodermbläschen (Amnionhöhle).
 Der Dottersack bildet sich mit der Zeit zurück, in die *Amnionhöhle* wächst mit der Zeit der Keim hinein.
 Sie füllt sich mit der Zeit mit
-{dfn}`Fruchtwasser` {index}` <! Fruchtwasser>`
+**Fruchtwasser** {index}` <! Fruchtwasser>`
 (am Ende der Schwangerschaft ca. 1 L).
 
 Ab dem 16. Tag bildet sich das Mesoderm (mittleres Keimblatt), der Keim besteht ab dann aus *drei Keimblättern*.

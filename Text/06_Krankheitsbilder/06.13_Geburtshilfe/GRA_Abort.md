@@ -19,10 +19,10 @@ Syn.: Fehlgeburt
 :::
 ::::
 
-Ein {dfn}`Abort` ist die Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem Kindesgewicht von unter 500 g und fehlenden Lebenszeichen
+Ein **Abort** ist die Beendigung einer Schwangerschaft bzw. Fruchtabgang bei einem Kindesgewicht von unter 500 g und fehlenden Lebenszeichen
  {term}`🗎 Hochmeister 2`.
 Aufgrund verschiedener Ursachen kann es zum Absterben der Frucht mit einer nachfolgenden Fehlgeburt (Ausstoßung) kommen.
-Wenn dies vor dem Erreichen von 500 g geschieht, spricht man von einer {dfn}`Fehlgeburt`.
+Wenn dies vor dem Erreichen von 500 g geschieht, spricht man von einer **Fehlgeburt**.
 
 ## Symptome
 

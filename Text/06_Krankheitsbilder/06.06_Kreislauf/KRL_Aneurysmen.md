@@ -14,7 +14,7 @@
 :::
 ::::
 
-Als {dfn}`Aneurysma` bezeichnet man eine Aussackung und Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
+Als **Aneurysma** bezeichnet man eine Aussackung und Erweiterung von Blutgefäßen aufgrund von Veränderungen der Gefäßwand.
 
 Durch die zunehmende Erweiterung oder Verletzungen der Gefäßwandschichten kann es zu einem Riss des Aneurysmas und zu Blutungen kommen. Aneurysmen treten häufig an den großen Gefäßen (Aorta, Leistenarterien) und an den Hirngefäßen auf. Folgen eines geplatzen (rupturierten) Aneurysmas können z. B. ein hypovolämischer Schock oder ein blutiger Insult sein.
 

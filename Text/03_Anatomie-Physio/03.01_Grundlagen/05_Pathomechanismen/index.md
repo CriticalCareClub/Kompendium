@@ -86,7 +86,7 @@ Mögliche Auslöser sind Fremdkörper, Krankheitserreger, mechanische oder psych
 ## Ischämie
 
 :::{admonition} Definition
-{dfn}`Ischämie` bezeichnet den Zustand der **Mangeldurchblutung** eines Gewebes.
+**Ischämie** bezeichnet den Zustand der **Mangeldurchblutung** eines Gewebes.
 Dadurch kommt es zu einer Unterversorgung eines Gewebes mit sauer- und nährstoffstoffreichem Blut sowie zu einem verminderten Abtransport von Schadstoffen.
 :::
 
@@ -112,9 +112,9 @@ Häufig betroffene Gewebe sind:
 ```
 ```{index} single: Karzinom
 ```
-```{index} single: Ca. 
+```{index} single: Ca.
 ```
-```{index} single: N. 
+```{index} single: N.
 ```
 ```{index} single: Neoplasma
 ```
@@ -131,7 +131,7 @@ Die meisten Zellen des menschlichen Körper teilen sich regelmäßig.
 Eine Kontrolle dieses Vorgangs ist jedoch erforderlich um zu gewährleisten, dass die Zellen nicht unkomtrolliert und wild zu wuchern beginnen.
 Der Körper verfügt über verschiedene Mechanismen um die Zellteilung im richtigen Maß zu halten.
 
-Wenn diese Mechanismen versagen, kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe ({dfn}`Neoplasie`, als Diagnose oft mit " `N.`" abgekürzt).
+Wenn diese Mechanismen versagen, kommt es zu einem unkontrollierten Wachstum und *Neubildung* von Gewebe (**Neoplasie**, als Diagnose oft mit " `N.`" abgekürzt).
 Daraus resultiert in der Regel eine *Raumforderung*.
 
 Man unterscheidet zwischen *gutartigen* (**benignen**) und *bösartigen* (**malignen**) Neubildungen:
@@ -154,7 +154,7 @@ Der Fachbereich der sich mit malignen Neubildungen (Krebserkrankungen) befasst i
 Grundsätzlich können alle teilungsfähigen Zellen entarten. Dies kann spontan geschehen oder durch andere Faktoren (radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
 
 :::{note}
-Der Begriff {dfn}`Tumor` bedeutet ganz allgemein "Schwellung"
+Der Begriff **Tumor** bedeutet ganz allgemein "Schwellung"
 und wird oft *fälschlicherweise* mit malignen Neoplasien gleichgesetzt.
 :::
 

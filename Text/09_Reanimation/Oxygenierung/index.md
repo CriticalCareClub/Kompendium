@@ -81,7 +81,7 @@ Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brus
 
 ```{index} single: endotracheale Intubation; Reanimation
 ```
-```{index} single: ETI; Reanimation 
+```{index} single: ETI; Reanimation
 ```
 ```{index} pair: Reanimation; Intubation, endotracheale
 ```
@@ -105,7 +105,7 @@ Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brus
 
 {term}`ETI`
 
-> Als {dfn}`endotracheale Intubation` ({dfn}`ETI`) wird das Einführen eines Tubus in
+> Als {dfn}`endotracheale Intubation` (**ETI**) wird das Einführen eines Tubus in
 > die Trachea bezeichnet. Sie ist eine Maßnahme des invasiven
 > Atemwegsmanagements und wird als Goldstandard hinsichtlich der Qualität
 > der Atemwegssicherung angesehen, dies berücksichtigt aber nicht die

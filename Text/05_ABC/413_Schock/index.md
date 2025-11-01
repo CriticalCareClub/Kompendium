@@ -65,7 +65,7 @@ Es können dabei einzelne oder mehrere Teile des Kreislaufsystems betroffen sein
 :::
 
 Der Körper versucht durch Aktivierung des Sympathikus gegenzusteuern (zu *kompensieren*).
-Der wichtigste Mechanismus ist die {dfn}`Zentralisation`.
+Der wichtigste Mechanismus ist die **Zentralisation**.
 Darunter versteht man die *Blutumverteilung zugunsten lebenswichtiger Organe* wie Herz, Gehirn, Lunge und Leber. Dabei werden z. B. Haut, Muskel und Darm sowie die Extremitäten (Peripherie) kaum mehr durchblutet. Periphere Venen kollabieren und die *Rekapillarisierungszeit* verlängert sich. Die Hautdurchblutung wird verringert und die Haut wird kühl und bleich.
 
 Dies funktioniert allerdings nur eine gewisse Zeit und in einem gewissen Ausmaß gut, daher ist eine schnell einsetzende Therapie wichtig! Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom *dekompensierten Schock*. Es besteht spätestens dann akute *Lebensgefahr*!

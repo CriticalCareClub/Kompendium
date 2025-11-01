@@ -13,7 +13,7 @@ Stille Wasser sind tief …
 ₢ xkcd.com, {term}`ℓ CC BY-NC 2.5`
 :::
 
-Als {dfn}`Anamnese` bezeichnet man das Erheben der Krankengeschichte.
+Als **Anamnese** bezeichnet man das Erheben der Krankengeschichte.
 Dies schließt sowohl frühere und chronische Erkrankungen, Operationen und Verletzungen, als auch auch das Erheben von Details der gegenwärtigen Beschwerden ein.
 Wichtigstes Instrument zur Erhebung der Anamnese ist das *Patientengespräch*, aber auch eine *Fremdanamnese*
 (Informationserhebung bei Angehörigen oder anderen Beteiligten)
@@ -53,7 +53,7 @@ Die Kernpunkte sind:
 - 🅁isikofaktoren
 
 In Anlehnung an die Anfangsbuchstaben wird dieses Abfrageschema
-{dfn}`SAMPLER`[^fn-sampler] bezeichnet.
+**SAMPLER**[^fn-sampler] bezeichnet.
 Ein derartiges Schema kann im hektischen Notfall Sicherheit geben.
 Das Abarbeiten der Fragen stellt sicher, dass keine wichtigen Informationen vergessen werden.
 In der Praxis kann die Reihenfolge der Fragen je nach Situation abweichen.
@@ -104,7 +104,7 @@ Gibt der Patient Symptome an, müssen diese weiter abgeklärt werden, hier am Be
   plötzlich oder langsam eingesetzt?"*
 
 Sinngemäß gelten diese Fragen auch für alle anderen denkbaren Symptome.
-Diese Fragenabfolge wird in Anlehnung auf die Benennung der EKG-Zacken als {dfn}`OPQRST` bezeichnet [^fn-opqrst].
+Diese Fragenabfolge wird in Anlehnung auf die Benennung der EKG-Zacken als **OPQRST** bezeichnet [^fn-opqrst].
 
 [^fn-schmerzstaerke]: *Stärke des Schmerzes*: Einige Autoren empfehlen, den Schmerz anhand
     einer Skala von 0—10 beurteilen zu lassen.

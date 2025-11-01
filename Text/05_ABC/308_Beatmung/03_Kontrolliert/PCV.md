@@ -30,6 +30,6 @@ mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO₂ steig
 (mind. 75%).
 
 
-Bei der klassischen druckkontrollierten Beatmung ({dfn}`PCV`, {dfn}`Pressure Controlled Ventilation`) wird ein konstanter Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein Flow, der über die Zeit, aufgrund der Angleichung von Außen- und Innendruck, schwächer wird (*dezelerierender Flow*).
+Bei der klassischen druckkontrollierten Beatmung (**PCV**, {dfn}`Pressure Controlled Ventilation`) wird ein konstanter Differenzdruck (Δp, Driving Pressure) angelegt, es ergibt sich ein Flow, der über die Zeit, aufgrund der Angleichung von Außen- und Innendruck, schwächer wird (*dezelerierender Flow*).
 
 Die PCV ist charakterisiert durch einen konstanten inspiratorischen Druck ohne Spitzendruck (*Plateaudruck*) mit *dezelerierendem* Flow.

@@ -8,7 +8,7 @@
 
 # Nicht-invasive Beatmung (NIV)
 
-Der Begriff {dfn}`nicht-invasive Beatmung` ({dfn}`NIV`) beschreibt eigentlich keine eigene Beatmungsform, sondern die Art wie eine Beatmung am Patienten durchgeführt wird.
+Der Begriff {dfn}`nicht-invasive Beatmung` (**NIV**) beschreibt eigentlich keine eigene Beatmungsform, sondern die Art wie eine Beatmung am Patienten durchgeführt wird.
 Die NIV wird meist mittels Gesichtsmaske, Helm oder ähnlichen Hilfsmitteln durchgeführt.
 Verwendet werden dabei meist die Spontanatmungsformen CPAP bzw. PSV.
 

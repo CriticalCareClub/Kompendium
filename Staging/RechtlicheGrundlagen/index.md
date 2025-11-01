@@ -22,7 +22,7 @@ Probleme und Fragestellungen zu lösen.
 
 ```{index} single: Recht, öffentliches
 ```
-```{index} single: Recht, Privat- 
+```{index} single: Recht, Privat-
 ```
 ```{index} single: Privatrecht
 ```
@@ -41,7 +41,7 @@ Probleme und Fragestellungen zu lösen.
 
 Die österreichische Rechtsordnung ist ein zusammenhängendes Geflecht
 bestehend aus zwei Hauptbereichen, dem {dfn}`öffentlichen Recht` und dem
-{dfn}`Privatrecht`.
+**Privatrecht**.
 Während das öffentliche Recht die Beziehung zwischen Staat
 und Bürger regelt, bestimmt das Privatrecht die Verhältnisse unter den
 Bürgern (= Privaten) selber:
@@ -198,7 +198,7 @@ Willen.
 Im *Verhältnis zwischen Patient und Personal* fungiert das Personal bloß
 als Gehilfe zur Erfüllung der Pflichten seiner Organisation gegenüber
 dem Patienten, wodurch man ihn auch als
-{dfn}`Erfüllungsgehilfen`
+**Erfüllungsgehilfen**
 {index}` <Erfüllungsgehilfe>`
 bezeichnet.
 Er ist nicht
@@ -689,7 +689,7 @@ KAKuG [^kakug-a-5-a], z. B.:
 
 #### Heilbehandlung
 
-Der Begriff der {dfn}`Heilbehandlung`
+Der Begriff der **Heilbehandlung**
 wird aus allgemeinen Rechtsgrundsätzen und systematischer Betrachtung
 der gesamten Rechtsordnung gewonnen. Es müssen folgende
 *Voraussetzungen* vorliegen, damit eine Handlung als Heilbehandlung

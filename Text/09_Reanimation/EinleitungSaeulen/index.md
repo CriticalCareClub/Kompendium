@@ -14,9 +14,9 @@ Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene) und die Notw
 ```
 ```{index} single: European Resuscitation Council
 ```
-```{index} single: Resuscitation (Journal) 
+```{index} single: Resuscitation (Journal)
 ```
-```{index} single: Journal; Resuscitation 
+```{index} single: Journal; Resuscitation
 ```
 ```{index} pair: Guidelines; ERC
 ```
@@ -32,7 +32,7 @@ Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene) und die Notw
 :::
 ::::
 
-Die für die Reanimation in Europa maßgebliche Fachgesellschaft ist das {dfn}`*European Resuscitation Council` ({dfn}`ERC`).
+Die für die Reanimation in Europa maßgebliche Fachgesellschaft ist das {dfn}`*European Resuscitation Council` (**ERC**).
 Das ERC veröffentlicht alle fünf Jahre aktualisierte Guidelines zur Reanimation und verwandter Gebiete (*ERC-Guidelines*).
 Die Guidelines definieren *nicht* den einzig richtigen Weg wie eine Reanimation ablaufen muss, allerdings sind sie als weithin akzeptierte Ansicht zu verstehen, wie diese sicher und effektiv durchgeführt werden kann.
 Jeder neuen Auflage geht ein aufwendiger Forschungs- und Diskussionsprozess voraus: Es werden hunderte Studien mit vielen verschiedenen Fragestellungen an vielen Forschungszentren auf der ganzen Welt durchgeführt, die Ergebnisse ausgewertet und anschließend diskutiert.

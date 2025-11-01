@@ -43,10 +43,10 @@ Der Intrazellularraum (IZR) wird vom Extrazellularraum (EZR) durch die Zellmembr
 
 ## Atome, Ionen und Elektrolyte
 
-{dfn}`Atome` sind die kleinsten Grundbestandteile von Materie.
-{dfn}`Ionen` sind Atome die *elektrisch geladen* sind, sie sind gut in Wasser löslich.
+**Atome** sind die kleinsten Grundbestandteile von Materie.
+**Ionen** sind Atome die *elektrisch geladen* sind, sie sind gut in Wasser löslich.
 Die wichtigsten Ionen im Körper sind Natrium (Na⁺), Kalium (K⁺), Kalzium (Ca⁺⁺) und Chlorid (Cl⁻).
-Wenn die Ionen in Wasser gelöst sind, heißen sie {dfn}`Elektrolyte`[^fnelektrolyte].
+Wenn die Ionen in Wasser gelöst sind, heißen sie **Elektrolyte**[^fnelektrolyte].
 Man unterscheidet dabei zwischen positiv geladenen Teilchen, sog. *Kationen* (z. B. Kalium (K⁺), Natrium (Na⁺), Magnesium (Mg⁺), Kalzium (Ca⁺⁺), …), und negativ geladenen Teilchen, den *Anionen* (z. B. Chlorid (Cl⁻)).
 
 [^fnelektrolyte]: Elektrolyte sind geladene Teilchen, die bei Aufspaltung von Säuren, Laugen oder deren Salzen in wässriger Lösung entstehen.
@@ -59,7 +59,7 @@ Spezielle Transportsysteme sorgen dafür, dass diese Ionen derartig verteilt wer
 Durch die unterschiedliche Verteilung von unterschiedlich geladenen Elektrolyten im Intra- und Extrazellulärraum kann es zur Bildung einer *elektrischen Spannung* zwischen dem Zellinneren und der Umgebung kommen.
 
 :::{admonition} Synopsis
-- Im Wasser gelöste, elektrisch geladene Teilchen, wie z. B. Natrium, Kalium und Chlorid, heißen {dfn}`Elektrolyte`.
+- Im Wasser gelöste, elektrisch geladene Teilchen, wie z. B. Natrium, Kalium und Chlorid, heißen **Elektrolyte**.
   Sie sind negativ oder positiv geladen, im Körper unterschiedlich verteilt und können dadurch eine elektrische Spannung ausbilden.
 :::
 
@@ -102,7 +102,7 @@ Dies ist besonders für die Erregungsleitung im Herzen, für die Nerven und den 
 
 ## Osmose und Diffusion
 
-Unter {dfn}`Osmose`
+Unter **Osmose**
 {index}` <Osmose>`
 versteht man den Fluss von Molekülen durch eine *halbdurchlässige Membran*.
 Im menschlichen Körper spielt die Osmose eine wesentliche Rolle in der Flüssigkeitsverteilung.
@@ -114,8 +114,8 @@ Man kann auch sagen:
 
 > *"Das Wasser folgt dem Konzentrationsgefälle."*
 
-Die {dfn}`Osmolarität`` bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit.
-Ähnlich dazu bezeichnet die {dfn}`Osmolalität` die Konzentration osmotisch wirksamer Teilchen in einer Lösung bezogen auf die *Masse* des Lösungsmittels.
+Die **Osmolarität**` bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit.
+Ähnlich dazu bezeichnet die **Osmolalität** die Konzentration osmotisch wirksamer Teilchen in einer Lösung bezogen auf die *Masse* des Lösungsmittels.
 
 Neben dem osmotischen Druck gibt es den *onkotischen* oder *kolloidosmotischen* Druck, welcher durch große Mokeküle, v. a. Eiweißbestandteile, ausgeübt wird.
 Dieser wird bei speziellen "kolloidalen"

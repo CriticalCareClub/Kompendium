@@ -513,7 +513,7 @@ kann.
 ```{rubric} Rechtsfrage
 ```
 
-Was sind die {dfn}`Kompetenzstufen`
+Was sind die **Kompetenzstufen**
 {index}` <! Kompetenzstufen>`
 der einzelnen
 Sanitäter-Ausbildungsstufen (RS, NFS, NKA, NKV, NKI)? Darf man die

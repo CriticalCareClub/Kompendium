@@ -13,7 +13,7 @@
 :::
 ::::
 
-Ein {dfn}`Schädel-Hirn-Trauma` (*Abkz.* {dfn}`SHT`{index}` <! SHT>`) ist eine Gewalteinwirkung auf den Kopf, welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
+Ein {dfn}`Schädel-Hirn-Trauma` (*Abkz.* **SHT**{index}` <! SHT>`) ist eine Gewalteinwirkung auf den Kopf, welche Funktionsstörungen und Verletzungen des Gehirns hervorruft
 .
 Die häufigsten Ursachen von Schädel-Hirn-Traumata (SHT) sind Verkehrsunfälle, Stürze und Gewaltverbrechen. Je nach Schwere und Mechanismus können verschiedene Formen des SHT auftreten. Man unterscheidet das *gedeckte SHT*, bei dem die harte Hirnhaut (Dura mater) nicht eröffnet wird, sowie das *offene SHT*, bei dem die harte Hirnhaut eröffnet wird. Bei beiden Arten kommt es zu Bewusstseinsstörungen.
 
@@ -280,9 +280,9 @@ Hinweise auf ein offenes SHT sind:
 
 Ein gedecktes (geschlossenes) Schädel-Hirn-Trauma ist ein SHT ohne Eröffnung der harten Hirnhaut. Je nach Schwere wird das SHT in drei Grade eingeteilt:
 
-- {dfn}`Gehirnerschütterung` {index}` <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
-- {dfn}`Gehirnprellung` {index}` <! Gehirnprellung>` SHT 2°, Contusio cerebri
-- {dfn}`Gehirnquetschung` {index}` <! Gehirnquetschung>` SHT 3°
+- **Gehirnerschütterung** {index}` <! Gehirnerschütterung>` SHT 1°, Commotio cerebri
+- **Gehirnprellung** {index}` <! Gehirnprellung>` SHT 2°, Contusio cerebri
+- **Gehirnquetschung** {index}` <! Gehirnquetschung>` SHT 3°
 
 
 

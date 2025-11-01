@@ -10,7 +10,7 @@
 
 ## Allgemeines und Einteilung von Wunden
 
-Eine {dfn}`Wunde`
+Eine **Wunde**
 {index}` <! Wunde>` (*Lat.* (*Vuln.*)) ist eine Unterbrechung des Zusammenhangs von Körpergeweben durch mechanische, thermische, Strahlen- oder chemische Einwirkungen mit oder ohne Substanzverlust {term}`🗎 Pschyrembel 259`.Wunden lassen sich *nach verschiedenen Gesichtspunkten* einteilen bzw. unterscheiden.
 In den folgende Abschnitten sind Einteilungen nach der physikalischen Verletzungsursache, nach der Tiefe der Schädigung sowie nach der Art der Schädigung (Wundart) angeführt.
 
@@ -351,7 +351,7 @@ Desinfektion einer frischen Wunde
 
 Wenn der Mensch nicht fähig ist in ausreichendem Umfang regelmäßig seine Lage zu ändern, kann es zum Wundliegen kommen.
 Die Wunden nennt man
-{dfn}`Dekubitus` {index}` <! Dekubitus>` oder Druckgeschwüre.
+**Dekubitus** {index}` <! Dekubitus>` oder Druckgeschwüre.
 Sie sind eine lokalisierter Schädigung der Haut und des darunterliegenden Gewebes als Folge von lang anhaltendem Druck sowie Scher- und Reibungskräften.
 Durch den Auflagedruck des Körpers kann die Durchblutung der Haut abgedrückt werden. Dies geschieht dann, wenn der Druck, welcher auf der Körperstelle lastet, den Blutdruck in den Kapillargefäßen übersteigt (ca. 30 mm Hg). Es kommt dann zur Unterversorgung des Gewebes mit Sauerstoff und anderen Nährstoffen. Bereits der Auflagedruck durch das Gewicht des eigenen Körpers auf einer Unterlage kann ausreichen um zu solch einer Unterversorgung zu führen. Besonders Stellen, an denen *Knochen ohne Muskel- oder Fettpolster direkt unter der Haut* liegen sind gefährdet:
 
@@ -456,7 +456,7 @@ Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht alle Lag
   beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
   Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
   Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-  Luftstrom-Matratzensysteme. 
+  Luftstrom-Matratzensysteme.
 - *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
   verwiesen.
 

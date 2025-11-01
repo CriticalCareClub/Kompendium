@@ -3,7 +3,7 @@
 
 # Allgemein
 
-Als {dfn}`Trauma` {index}` <! Trauma>` bezeichnet man eine
+Als **Trauma** {index}` <! Trauma>` bezeichnet man eine
 Schädigung,
 Verletzung, oder
 Wunde,

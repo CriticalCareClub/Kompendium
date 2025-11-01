@@ -209,7 +209,7 @@ Situationsgerechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztna
 
 - Sauerstoffberieselung
 
-- {dfn}`Lippenbremse`:  Die
+- **Lippenbremse**:  Die
   Lippenbremse ist eine besondere Atemtechnik bei Erkrankungen der
   unteren Atemwege und funktioniert ähnlich wie der {ref}`PEEP <Peep>`.
 

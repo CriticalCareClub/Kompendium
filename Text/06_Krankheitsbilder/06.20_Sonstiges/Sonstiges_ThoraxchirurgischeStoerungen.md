@@ -15,7 +15,7 @@ orphan: true
 
 ## Chylothorax
 
-Ein {dfn}`Chylothorax` ist ein Pleuraerguss von Lymphe (Chylon).
+Ein **Chylothorax** ist ein Pleuraerguss von Lymphe (Chylon).
 Ursächlich ist oft eine Verletzung des *Ductus thoracicus* (iatrogen/intraoperativ, Trauma, Spontanruptur oder eine Verlegung des Duct. thoracicus.
 
 :::{note}

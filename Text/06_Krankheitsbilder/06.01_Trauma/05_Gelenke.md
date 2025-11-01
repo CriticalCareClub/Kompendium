@@ -4,11 +4,11 @@
 
 ## Verstauchung, Bänderzerrung und Bänderriss
 
-Eine {dfn}`Verstauchung` {index}` <! Verstauchung>` (*Syn.* {dfn}`Distorsion`
+Eine **Verstauchung** {index}` <! Verstauchung>` (*Syn.* **Distorsion**
 {index}` <! Distorsion>`, *lat.* *Distorsio* (*Dist.*)) ist eine Zerrung bzw.
 Überdehnung des Kapsel-/Bandapparates eines Gelenks.
 
-Bei der Verstauchung ({dfn}`Distorsion`
+Bei der Verstauchung (**Distorsion**
 {index}` <! Distorsion>`) handelt es sich um eine Gelenksverletzung, bei welcher ein Knochen durch stumpfe Gewalteinwirkung kurz verschoben oder verdreht wird.
 Im Gegensatz zur Verrenkung springt der Knochen aber von selbst wieder in seine ursprüngliche Stellung im Gelenk zurück.
 
@@ -48,10 +48,10 @@ Bei einer Distorsion klagt der Patient über *Schmerzen* im Gelenksbereich. Je n
 
 ## Verrenkung
 
-Eine {dfn}`Verrenkung` {index}` <! Verrenkung>` (*Syn.* {dfn}`Luxation`
+Eine **Verrenkung** {index}` <! Verrenkung>` (*Syn.* **Luxation**
 {index}` <! Luxation>`, *lat.* *Luxatio* (*Lux.*)) ist eine Gelenkverletzung, bei der zwei das Gelenk bildende Knochenenden aus ihrer normalen Stellung zueinander verschoben werden. Dabei kommt es meist zu Begleitverletzungen an der Gelenkkapsel bzw. den Gelenkbändern .
 
-Die Verrenkung ({dfn}`Luxation`{index}` <! Luxation>`) ist eine Gelenksverletzung, bei der – im Gegensatz zur Verstauchung – der verschobene oder verdrehte Knochen nicht von selbst in das Gelenk zurück gesprungen ist. Die betroffene Extremität kann daher nicht mehr bewegt werden. Bei einer Luxation dürfen keine eigenständigen Einrenkversuche unternommen werden!
+Die Verrenkung (**Luxation**{index}` <! Luxation>`) ist eine Gelenksverletzung, bei der – im Gegensatz zur Verstauchung – der verschobene oder verdrehte Knochen nicht von selbst in das Gelenk zurück gesprungen ist. Die betroffene Extremität kann daher nicht mehr bewegt werden. Bei einer Luxation dürfen keine eigenständigen Einrenkversuche unternommen werden!
 
 Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im Schultergelenk ist dies das am häufigsten luxierte Gelenk im menschlichen Körper. 45% aller Luxationen entfallen auf das Schultergelenk .
 

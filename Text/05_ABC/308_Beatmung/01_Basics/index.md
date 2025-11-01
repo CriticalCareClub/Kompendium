@@ -40,7 +40,7 @@ erfolgt bei der künstlichen Beatmungn der Gasfluss durch einen **Überdruck**.
 
 :::
 
-<!-- 
+<!--
 ## Beamtungsmodi -- Kurzbeschreibung
 
 
@@ -140,7 +140,7 @@ Konrollierte Beatmung
 :::
 :::{index} single: PEEP-Ventil
 :::
-:::{index} single: Ventil; PEEP- 
+:::{index} single: Ventil; PEEP-
 :::
 :::{index} single: Positiver end-exspiratorischer Druck
 :::
@@ -164,11 +164,11 @@ Konrollierte Beatmung
 :::
 ::::
 
-{dfn}`PEEP` steht für {dfn}`Positive End-Exspiratory Pressure` (positiver end-exspiratorischer Druck), d. h. positiver Druck in den Atemwegen (auch) am Ende der Ausatmungsphase.
+**PEEP** steht für {dfn}`Positive End-Exspiratory Pressure` (positiver end-exspiratorischer Druck), d. h. positiver Druck in den Atemwegen (auch) am Ende der Ausatmungsphase.
 
 Der PEEP sorgt dafür, dass am Ende der Ausatmungsphase (Exspiration) der Druck in den Atemwegen nicht auf 0 absinkt, sondern stattdessen ein positiver Druck aufrecht erhalten wird. Dadurch wird das Zusammenfallen der Alveolen verhindert.
 
-> PEEP Physiologisch 5–10mmHg in der Trachea nach Expiration, durch Tubus verhindert. 
+> PEEP Physiologisch 5–10mmHg in der Trachea nach Expiration, durch Tubus verhindert.
 > PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va. bei AF \> 30/min) und Frischluftventilation!!
 > Die Höhe des PEEPs richtet sich nach der Hämodynamik, KG, Lagerung des Patienten!
 

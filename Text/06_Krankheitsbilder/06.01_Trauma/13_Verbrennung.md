@@ -18,7 +18,7 @@
 Eine Verbrennung {index}` <Verbrennung>` {index}` <Combustio>` {index}` <Comb.>` (*Lat.* *Combustio*, *Abkz.* *Comb.*) ist eine durch Hitzeeinwirkung entstandene Schädigung des Gewebes, besonders häufig der Haut.
 Sie ist eine thermische Wunde.
 
-Eine {dfn}`Verbrühung`
+Eine **Verbrühung**
 {index}` <! Verbrühung>`
 {index}` <! Ambustio>`
 {index}` <! Amb.>`
@@ -53,7 +53,7 @@ Abhängig von den Umständen muss auch an ein *Inhalationstrauma* ({ref}`inhalat
 :::
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine {dfn}`Verbrennungskrankheit` {index}` <! Verbrennungskrankheit>` entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
+Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine **Verbrennungskrankheit** {index}` <! Verbrennungskrankheit>` entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und es bilden sich Ödeme. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bei großflächigen Verbrennungen *Schockgefahr* (hypovolämischer Schock)! Der Schock entwickelt sich allerdings erst allmählich.
 
 Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung* bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
@@ -78,9 +78,9 @@ Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich da
 :::
 ::::
 
-Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die {dfn}`Handregel` {index}` <Handregel>` besagt, dass die Handfläche (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
+Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die **Handregel** {index}` <Handregel>` besagt, dass die Handfläche (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
 
-Bei großflächigen Verbrennungen wird die {dfn}`Neunerregel` {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
+Bei großflächigen Verbrennungen wird die **Neunerregel** {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
 der Verbrennung abschätzen zu können.
 
 (neunerregel)=
@@ -89,7 +89,7 @@ der Verbrennung abschätzen zu können.
 :header-rows: 1
 :stub-columns: 1
 
-* - 
+* -
   - Erwachsener
   - Kind (≤ 5. Lj)
   - Säugling
@@ -146,7 +146,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 * - 2°
   - Blasenbildung, Schmerz
 * - 3°
-  - Verschorfung (Verbrennungspanzer), Schmerzen abhängig von der Tiefe der Schädigung (Zerstörung von Nerven),  
+  - Verschorfung (Verbrennungspanzer), Schmerzen abhängig von der Tiefe der Schädigung (Zerstörung von Nerven),
     Schrumpfung des Gewebes durch Hitzeeinwirkung, reicht bis zur Verkohlung
 :::
 
@@ -295,7 +295,7 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 ## Was man **nicht** tun darf …
 
 - NEIN: Salbe, Puder, etc. auf frische Brandwunde
-- NEIN: Blasen öffnen 
+- NEIN: Blasen öffnen
 - NEIN: festklebende Kleidung gewaltsam entfernen
 
 
@@ -322,7 +322,7 @@ bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovol
 ::::
 
 {index}` <! Inhalationstrauma>`
-Von einem {dfn}`Inhalationstrauma` spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
+Von einem **Inhalationstrauma** spricht man bei Einatmung von reizenden, giftigen und/oder heißen Gasen, was eine Schädigung der Atemwege und der Lunge zur Folge hat.
 Typische Leitsymptome sind:
 
 - Z. n. Gasexposition

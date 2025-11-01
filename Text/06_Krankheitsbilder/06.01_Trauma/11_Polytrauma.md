@@ -9,7 +9,7 @@
 <!-- 51. -->
 
 
-Der Begriff {dfn}`Polytrauma` bezeichnet gleichzeitige *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen *wenigstens eine* allein *oder die Kombination mehrerer* *lebensgefährlich* ist.
+Der Begriff **Polytrauma** bezeichnet gleichzeitige *Verletzungen mehrerer Körperregionen* oder Organsysteme, von denen *wenigstens eine* allein *oder die Kombination mehrerer* *lebensgefährlich* ist.
 Die Arbeitsdiagnose Polytrauma kann auch ausschließlich aufgrund eines Verdachts, begründet auf den Unfallmechanismus und eventuell der Vitalparameter, gestellt werden.
 
 Beispiele:
@@ -66,8 +66,8 @@ Die Behandlung muss sich daher in erster Linie an der Stabilisierung der Vitalfu
 
 - **Ischämie**: Blutverlust mit Hypotonie und Perfusionsabnahme →
   Zentralisation/Schock = Hypoxie und anerober Stoffwechsel mit Azidose, Aufhebung der Vasokonstriktion durch Zyokine mit Capillaryleak Flüssigkeitsverlust ins Interstitium mit weiterem Blutdruckabfall.
-  
-- **Reperfusion**: Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion → 
+
+- **Reperfusion**: Bei Wiederauffüllen des Volumens kommt es zur Aufhebung der aneroben Glykolyse durch Reperfusion →
   *Einschwemmen* von vasoaktiven Substanzen in den Kreislauf mit Hypotonie + Entstehen von *Sauerstoffradikalen*, welche *Tight junctions* schädigen, erhöhte *NO-Produktion* durch *TNFα*, Aktivierung des Komplimentsystems mit *DIC*.
   Das Ausmaß ist vom Ausmaß der Ischämie und der Dauer der Reperfusionsphase abhängig.
 - **Weichteiltrauma**:    mit Schmerz, Blutung/Hämatom mit lokaler Mediatorfreisetzung und Fernwirkung der Mediatoren.
@@ -79,7 +79,7 @@ Die Behandlung muss sich daher in erster Linie an der Stabilisierung der Vitalfu
   Wichtig sind Hygienemassnahmen!
 
 :::{danger}
-CAVE: ab Trauma *Gastroparese*, daher NICHT NÜCHTERN! 
+CAVE: ab Trauma *Gastroparese*, daher NICHT NÜCHTERN!
 
 Oft Aspiration von bewusstlosen Verletzten!
 :::

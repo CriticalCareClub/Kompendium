@@ -149,7 +149,7 @@ Die *Glottis* beschreibt den stimmbildenden Teil des Kehlkopfes.
 ## Schluckakt und Schluckreflex
 
 Der Kehlkopf spielt nicht nur eine Rolle bei der Stimmbildung über die
-{dfn}`Stimmbänder`, sondern sorgt auch dafür, dass während des Schluckens kein Speisebrei und keine Flüssigkeiten in die vor der Speiseröhre liegende Luftröhre gelangen können.
+**Stimmbänder**, sondern sorgt auch dafür, dass während des Schluckens kein Speisebrei und keine Flüssigkeiten in die vor der Speiseröhre liegende Luftröhre gelangen können.
 Hierzu *verschließt der Kehldeckel* am Anfang des Schluckaktes den
 *Eingang zur Luftröhre*.
 Dies geschieht reflexartig und ist lebenswichtig.

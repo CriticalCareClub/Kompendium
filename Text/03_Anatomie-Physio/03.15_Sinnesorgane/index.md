@@ -17,12 +17,12 @@ Es besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
 :::{margin} Das Auge
 - Schichten des Auges:
 
-  - {dfn}`Sklera` (*Lederhaut*): Die Lederhaut ist eine derbe
+  - **Sklera** (*Lederhaut*): Die Lederhaut ist eine derbe
     Bindegewebsschicht. Sie ist zusammen mit dem Glaskörper
     verantwortlich für die Formgebung des Auges.
   - Aderhaut (Choroidea):
     Hier verlaufen alle Blutgefäße des Auges.
-  - {dfn}`Retina` (*Netzhaut*)
+  - **Retina** (*Netzhaut*)
     In der Netzhaut befinden sich
     die Sinneszellen des Auges:
     Stäbchen für das Schwarz-Weiß- bzw.
@@ -30,7 +30,7 @@ Es besteht im Allgemeinen aus dem *Augapfel* mit dem *Sehnerv*
 
 - Lichtstrahl von vorne nach hinten:
 
-  - {dfn}`Cornea` (*Hornhaut*): Die Hornhaut ist eine
+  - **Cornea** (*Hornhaut*): Die Hornhaut ist eine
     durchsichtige Schicht von Bindegewebe.
   - Vorderkammer
   - Pupille, begrenzt von Iris
@@ -127,7 +127,7 @@ Nach der Linse folgt der *Glaskörper*.
 Er hat eine gallertartige Konsistenz und verflüssigt sich mit dem Alter.
 Zusammen mit der Lederhaut bestimmt er die pralle Form des Auges.
 
-Nun landet der Lichtstrahl auf der {dfn}`Retina` (*Netzhaut*).
+Nun landet der Lichtstrahl auf der **Retina** (*Netzhaut*).
 Die lichtempfindlichen Zellen liegen auf der Netzhaut des Auges und werden nach einer Passage durch die lichtbrechenden Strukturen des Augapfels erreicht.
 
 Die Retina wird in den *lichtempfindlichen*, hinteren Teil (Pars optica retinae) und den *lichtunempfindlichen*, vorderen Teil (Pars caeca retinae) unterteilt. Die *Ora serata* (gezackte Linie) bildet zwischen diesen Teilen die Grenze. Man kann die Mündungsstelle des N. opticus
@@ -271,7 +271,7 @@ Bilderserie: Das Ohr [₢ Lena Hirtler, {term}`ℓ MfG`]
 Das Gehörorgan ist in 3 Anteile gegliedert:
 
 - *Außenohr*: hierzu gehört die Auricula (Ohrmuschel), der Meatus
-  acusticus externus (äußerer Gehörgang, ca. 3 cm) und die {dfn}`Trommelfell` (Membrana tympani, ca. 1 cm)
+  acusticus externus (äußerer Gehörgang, ca. 3 cm) und die **Trommelfell** (Membrana tympani, ca. 1 cm)
 - *Mittelohr*: zum Mittelohr gehören das Cavum tympani (Paukenhöhle)
   mit den Gehörknöchelchen
   (Malleolus / Hammer, Incus / Amboss, Stapes / Steigbügel), die Tuba auditiva (Ohrtrompete) sowie

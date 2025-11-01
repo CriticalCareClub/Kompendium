@@ -31,7 +31,7 @@ Basierend auf: [2017 ESC Guidelines for the management of acute myocardial infar
 
 :::{admonition} Definition
 
-Das {dfn}`Akute Koronarsyndrom` (*Acute Coronary Syndrome*, {dfn}`ACS`) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
+Das {dfn}`Akute Koronarsyndrom` (*Acute Coronary Syndrome*, **ACS**) ist ein Symptomenkomplex, welcher typischerweise bei ischämischen Erkrankungen wie dem *Herzinfarkt* und der *stabilen* oder *instabilen Angina pectoris* *akut* auftritt.
 :::
 
 Bei diesen Krankheitsbildern kommt es zu einer akuten *Unterversorgung des Herzmuskels* mit Blut und Sauerstoff aufgrund der Durchblutungsstörung.
@@ -207,7 +207,7 @@ Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedr
 ## 🔎 Diagnostik
 
 Veränderungen des EKGs sind richtungsweisend in der Diagnostik und entscheidend für den jeweiligen Therapieverlauf.
-Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt ({dfn}`STEMI`) und einem Nicht-STEMI ({dfn}`NSTEMI`) unterschieden.
+Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen einem ST-Elevations-Myokardinfarkt (**STEMI**) und einem Nicht-STEMI (**NSTEMI**) unterschieden.
 
 
 

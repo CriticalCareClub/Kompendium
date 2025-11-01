@@ -2,7 +2,7 @@
 
 # Gallenkolik
 
-Eine {dfn}`Gallenkolik` {index}` <! Gallenkolik>`
+Eine **Gallenkolik** {index}` <! Gallenkolik>`
 zeichnet sich durch kolikartige Schmerzen infolge einer Blockade der Gallenwege z. B. durch Gallensteine aus. Vgl. Kolik: {ref}`kolik`.
 Gallensteine verursachen eine Verstopfung des Gallengangs und folglich einen Rückstau von Gallenflüssigkeit in die Leber. Dabei wird der Gallengang gedehnt und es kommt zu starken Dehnungsschmerzen.
 

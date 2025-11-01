@@ -44,7 +44,7 @@ Interpretation des BZ-Wertes: RichtwerteDer Blutzuckerspiegel wird in *Milligram
 :::
 ::::
 
-{dfn}`Insulin` {index}` <! Insulin>` ist für den Zuckerstoffwechsel wichtig, da es dafür sorgt, dass Zucker ({dfn}`Glukose` {index}` <! Glukose>`) aus dem Blut in die Zellen aufgenommen wird. Es *senkt daher den Blutzuckerspiegel*.
+**Insulin** {index}` <! Insulin>` ist für den Zuckerstoffwechsel wichtig, da es dafür sorgt, dass Zucker (**Glukose** {index}` <! Glukose>`) aus dem Blut in die Zellen aufgenommen wird. Es *senkt daher den Blutzuckerspiegel*.
 Insulin wird therapeutisch zur Behandlung des Diabetes mellitus angewendet. Wenn man künstlich Insulin spritzt, besteht die Gefahr eines Unterzuckers (zu viel Insulin gespritzt oder zu wenig gegessen
 → Spritz-/ Essabstand) erfragen. Hinsichtlich des Insulins sind zwei Störungen häufig:
 
@@ -162,7 +162,7 @@ Die eigentlichen Probleme der Zuckerkrankheit sind – zumindest beim Typ-II-Dia
 :::
 ::::
 
-Die {dfn}`Hypoglykämie` {index}` <! Hypoglykämie>` ist eine maßgebliche Erniedrigung des Blutzuckerspiegels.
+Die **Hypoglykämie** {index}` <! Hypoglykämie>` ist eine maßgebliche Erniedrigung des Blutzuckerspiegels.
 
 Die häufigsten Ursachen für eine plötzliche Hypoglykämie sind *Diätfehler* und/oder eine *Überdosierung von Insulin* oder bestimmten anderen Diabetes-Medikamenten. Aufgrund besonderer *Anstrengungen* kann es zu einem gesteigerten Zuckerbedarf des Körper kommen, wodurch der Blutzuckerspiegel sinkt. Dies kommt häufig im Rahmen von Begleiterkrankungen, wie z. B. grippalen Infekten, vor. Auch die Alkohol-Intoxikation kann zu einer Hypoglykämie führen (Löffler and Petrides 2003).
 
@@ -234,7 +234,7 @@ Wenn der Patient nicht mehr bewusstseinsklar ist, kann die Zuckergabe nur über 
 :::
 ::::
 
-Eine {dfn}`Hyperglykämie` {index}` <! Hyperglykämie>` ist eine maßgebliche Erhöhung des Blutzuckerspiegels.
+Eine **Hyperglykämie** {index}` <! Hyperglykämie>` ist eine maßgebliche Erhöhung des Blutzuckerspiegels.
 Dies ist nicht automatisch ein Notfall. Die Bedrohlichkeit ist davon abhängig, wie rasch sich diese Erhöhung entwickelt hat. So hat ein Patient, bei dem seit Jahren ein unerkannter Diabetes mellitus besteht auch mit sehr hohen Blutzuckerwerten (akut) keine Probleme. Der Körper hat sich über die Zeit daran *gewöhnt*.
 
 Ein anderer Patient, bei dem der Zustand plötzlich eingetreten ist (z. B.

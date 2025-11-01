@@ -30,10 +30,10 @@
 Störungen der Atmung können aus vielen Ursachen eintreten.
 Die Tabelle {ref}`Table-atemstoerungen-ursachen` beschreibt die wichtigsten Pathomechanismen und Störungen.
 
-Der Begriff {dfn}`Ateminsuffizienz` beschreibt allgemein eine *nicht ausreichende Atmung*, unabhängig von der Ursache der Störung. Sie führt zu einem Sauerstoffmangel (Hypoxie).
-Der {dfn}`Atemstillstand` ({dfn}`Apnoe`) ist die extremste Form der Ateminsuffizenz.
+Der Begriff **Ateminsuffizienz** beschreibt allgemein eine *nicht ausreichende Atmung*, unabhängig von der Ursache der Störung. Sie führt zu einem Sauerstoffmangel (Hypoxie).
+Der **Atemstillstand** (**Apnoe**) ist die extremste Form der Ateminsuffizenz.
 Störungen der Atemgeschwindigkeit werden als *Bradypnoe* (zu langsam) und als *Tachypnoe* (zu schnell) bezeichnet.
-Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot* ({dfn}`Dyspnoe`).
+Das wichtigste Leitsymptom von Atemstörungen ist die *Atemnot* (**Dyspnoe**).
 Oft führen Störungen außerhalb des Atemsystems zu einer Störung der Sauerstoffversorgung des Körpers und dadurch zu Atemnot.
 
 ## Gefahr der Ateminsuffizienz
@@ -130,58 +130,58 @@ Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid, Hyperv
 * - Atemgeräusch
   - Brodeln
   - Blubbern, klassisch für Lungenödem
-* - 
+* -
   - Stridor
   - -
-* - 
+* -
   - Brummen, Giemen
   - -
-* - 
+* -
   - Rasselgeräusche
   - -
 * - Frequenz
   - Beschleunigt
   - Tachypnoe
-* - 
+* -
   - Verlangsamt
   - Bradypnoe
 * - Atemzugsvolumen
   - Schnappatmung
   - {ref}`Schnappatmung`
-* - 
+* -
   - Flache Atmung
   - -
-* - 
+* -
   - Tiefe Atmung
   - z. B. Kußmaul’sche Atmung
 * - Hautfarbe
   - Blass
   - Normal, Anämie, Blutverlust
-* - 
+* -
   - Rosig
   - Normal, -Vergiftung
-* - 
+* -
   - Bläulich
   - Zyanose: Hypoxie!
 * - Körperlich
   - Einziehungen an den Rippen
   - Einsatz der Zwischenrippenmuskulatur
-* - 
+* -
   - Aufstützen
   - Einsatz der Atemhilfsmuskulatur
-* - 
+* -
   - Nasenflügeln
   - Atemnot, besonders bei Kleinkindern
-* - 
+* -
   - Aufrechte Position
   - -
-* - 
+* -
   - Paradoxe Atmung
   - Brustkorb _senkt_ sich bei Einatmung, z. B. bei Serienrippenfraktur
 * - Geräte
   - Pulsoxymetrie
   - {ref}`Pulsoxymetrie`
-* - 
+* -
   - Kapnometrie
   - CO₂-Messung
 :::
@@ -242,7 +242,7 @@ Pneumonie
 
 
 
-Pulmonalembolie  
+Pulmonalembolie
 Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
 
 Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
@@ -251,7 +251,7 @@ Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktu
 
 Lagerung: Trendelenburglagerung, Verschüttung
 
-Kapnoperitoneum  
+Kapnoperitoneum
 Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
 
 Insult
@@ -268,7 +268,7 @@ Nervenerkrankung
 
 
 
-Stoffwechselstörungen  
+Stoffwechselstörungen
 Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
 
 :::

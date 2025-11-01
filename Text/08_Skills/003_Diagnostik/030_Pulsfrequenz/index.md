@@ -5,8 +5,8 @@
 
 # Pulsfrequenz
 
-Als {dfn}`Herzfrequenz` (*HF*) bezeichnet man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
-Als {dfn}`Pulsfrequenz` bezeichnet man die Anzahl der Pulsschläge pro Minute.
+Als **Herzfrequenz** (*HF*) bezeichnet man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
+Als **Pulsfrequenz** bezeichnet man die Anzahl der Pulsschläge pro Minute.
 
 Die Herzfrequenz entspricht normalerweise der *Pulsfrequenz*, jedoch hat nicht zwangsläufig jede
 (elektrische[^emherzaktion]) Herzaktion einen Pulsschlag zur Folge;

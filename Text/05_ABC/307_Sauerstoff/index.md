@@ -23,7 +23,7 @@
 :::
 ::::
 
-{dfn}`Sauerstoff` {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas,
+**Sauerstoff** {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas,
 welches zu 21% in der Luft vorkommt.
 Das chemische Symbol (genauer: Summenformel)
 lautet {dfn}`O₂`{index}` <! O₂>`.
@@ -65,7 +65,7 @@ dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
 ```{rubric} Ausgänge
 ```
 
-Jede Druckflasche verfügt über ein {dfn}`Hauptventil`
+Jede Druckflasche verfügt über ein **Hauptventil**
 {index}` <! Hauptventil>` und
 ein Standardgewinde.
 An diesem Gewinde ist entweder ein weiterführender
@@ -249,7 +249,7 @@ durchgeführt werden.
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
 Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich
 gegeben werde
-({dfn}`Berieselung`{index}` <! Berieselung>`),
+(**Berieselung**{index}` <! Berieselung>`),
 aber auch bei der *Beatmung* zugeführt werden.
 
 :::{note}
@@ -269,18 +269,18 @@ Unterscheide Berieselung (erhaltene Eigenatmung) und Beatmung!
 ::::
 
 Die Berieselungseinheit besteht im Wesentlichen aus einem
-{dfn}`Druckminderer`.
+**Druckminderer**.
 Der Druckminderer hat ein *Abgabeventil*, welches
 den *Druck drosselt* und eine Abgabe an den Patienten ermöglicht.
 Je nach Bauart kann der Druckminderer über ein *Regelventil*,
 ein *Flowmeter* und ein *Manometer* verfügen.
-Mit dem {dfn}`Regelventil` kann man die Durchfluss- bzw. Abgaberate
+Mit dem **Regelventil** kann man die Durchfluss- bzw. Abgaberate
 einstellen,
-das {dfn}`Flowmeter`
+das **Flowmeter**
 {index}` <! Flowmeter>`
 (Durchflussanzeige) zeigt die aktuelle
 Durchflussrate in Liter pro Minute (L / min) an.
-Das {dfn}`Manometer`
+Das **Manometer**
 {index}` <Manometer>`
 zeigt den Druck in der
 Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.

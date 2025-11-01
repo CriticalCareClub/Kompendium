@@ -22,7 +22,7 @@
 :::
 ::::
 
-Als {dfn}`Lungenödem` wird die Flüssigkeitsansammlung im Zwischengewebsraum und in den Alveolen und der Lungen bezeichnet.
+Als **Lungenödem** wird die Flüssigkeitsansammlung im Zwischengewebsraum und in den Alveolen und der Lungen bezeichnet.
 Ein Lungenödem kann klassisch aufgrund einer *Herzschwäche* (*kardial*), aufgrund einer *hypertensiven Krise* oder aufgrund von *Inhalation giftiger Substanzen* (*toxisch*) entstehen:
 
 - Ein **kardiales Lungenödem** entsteht durch eine akute
@@ -101,49 +101,49 @@ In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den 
 :::
 ::::
 
-②  
+②
 : Der Patient sitzt, oft sind die Pölster im Bett aufgetürmt.
 
-④  
+④
 : Atemnot
 
-Ⓐ  
+Ⓐ
 : Es kann zu schaumigem Auswurf kommen.
 
-Ⓑ  
-: Das Leitsymptom ist das 🚩 *brodelnde Atemgeräusch*,  
-  welches in schweren Fällen bereits ohne Hilfsmittel hörbar und typisch für das Lungenödem ist.  
-  Es klingt, als würde jemand mit einem Strohhalm in ein Glas Wasser hineinblasen.  
-  Im Extremfall kann man es bereits *auf mehrere Meter Entfernung* wahrnehmen.  
-  Weitere häufige Symptome sind anhaltende 🚩 *Atemnot* und 🚩 *Zyanose*.  
-  Der Patient bekommt oft nur *aufrecht sitzend* genügend Luft (Orthopnoe),  
+Ⓑ
+: Das Leitsymptom ist das 🚩 *brodelnde Atemgeräusch*,
+  welches in schweren Fällen bereits ohne Hilfsmittel hörbar und typisch für das Lungenödem ist.
+  Es klingt, als würde jemand mit einem Strohhalm in ein Glas Wasser hineinblasen.
+  Im Extremfall kann man es bereits *auf mehrere Meter Entfernung* wahrnehmen.
+  Weitere häufige Symptome sind anhaltende 🚩 *Atemnot* und 🚩 *Zyanose*.
+  Der Patient bekommt oft nur *aufrecht sitzend* genügend Luft (Orthopnoe),
   im Liegen verschlechtert sich die Atemnot deutlich.
 
-Ⓒ  
-: Die Herzfrequenz und der Blutdruck können in jede Richtung verändert sein  
-  (Herzrhythmusstörungen, hypertensives Lungenödem).  
+Ⓒ
+: Die Herzfrequenz und der Blutdruck können in jede Richtung verändert sein
+  (Herzrhythmusstörungen, hypertensives Lungenödem).
   Im Verlauf kann es zu einem 🚩 *kardiogenen Schock* kommen.
 
-⌥  
+⌥
 : Beidseitige Beinödeme sind typisch.
 
-=  
-: Patienten mit einem 🚩 deutlich hörbaren Lungenödem (v. a. bei kardialer Ursache)  
-  sind schwer und *lebensbedrohlich krank*.  
-  Das Herz verbraucht oft schon die allerletzten Reserven.  
-  In schweren Fällen kann schon die Aufregung durch den Transport im Stiegenhaus  
-  zum Auto zu einem Herz-Kreislaufstillstand führen.  
+=
+: Patienten mit einem 🚩 deutlich hörbaren Lungenödem (v. a. bei kardialer Ursache)
+  sind schwer und *lebensbedrohlich krank*.
+  Das Herz verbraucht oft schon die allerletzten Reserven.
+  In schweren Fällen kann schon die Aufregung durch den Transport im Stiegenhaus
+  zum Auto zu einem Herz-Kreislaufstillstand führen.
 
-  Es kommt tatsächlich relativ häufig vor, dass diese Patienten im  
-  Stiegenhaus oder im Fahrzeug *reanimationspflichtig* werden.  
-  *Solche Patienten müssen daher an Ort und Stelle eine entsprechende (ärztliche)  
-  Therapie erhalten, bevor sie transportiert werden können.*  
+  Es kommt tatsächlich relativ häufig vor, dass diese Patienten im
+  Stiegenhaus oder im Fahrzeug *reanimationspflichtig* werden.
+  *Solche Patienten müssen daher an Ort und Stelle eine entsprechende (ärztliche)
+  Therapie erhalten, bevor sie transportiert werden können.*
 
-  Bei leichten Formen des Lungenödems sind die Atemgeräusche nicht mit  
-  freiem Ohr, sondern nur mittels Stethoskop zu hören.  
-  Die Patienten zeigen auch sonst keine Alarmsymptome, sondern nur Ödeme und eine  
-  mäßige Kurzatmigkeit.  
-  Diese Patienten sind i. d. R. nicht unmittelbar vital bedroht,  
+  Bei leichten Formen des Lungenödems sind die Atemgeräusche nicht mit
+  freiem Ohr, sondern nur mittels Stethoskop zu hören.
+  Die Patienten zeigen auch sonst keine Alarmsymptome, sondern nur Ödeme und eine
+  mäßige Kurzatmigkeit.
+  Diese Patienten sind i. d. R. nicht unmittelbar vital bedroht,
   ein bestmögliches Monitoring ist jedoch wichtig.
 
 

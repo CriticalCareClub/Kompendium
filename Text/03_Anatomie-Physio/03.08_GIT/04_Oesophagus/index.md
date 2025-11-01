@@ -24,7 +24,7 @@
 :::
 ::::
 
-Der {dfn}`Ösophagus` (*Speiseröhre*)
+Der **Ösophagus** (*Speiseröhre*)
 ist ein 25—30 cm langer muskulärer Schlauch, der den Nahrungsbissen vom Rachen in den Magen befördert.
 Diese Fortbewegung funktioniert über eine wellenförmige Kontraktion der Wandmuskeln der Speiseröhre
 (*Peristaltik*{index}` <Peristaltik>`).

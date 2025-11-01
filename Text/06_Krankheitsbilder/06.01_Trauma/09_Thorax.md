@@ -40,7 +40,7 @@ Der Patient leidet unter *Atemnot* und evtl. atemabhängigen Schmerzen.
 Evtl. kommt es zum Bluthusten. Bei der Inspektion des Brustkorbes können Prellmarken (z. B. von der Lenksäule eines KFZ) auffallen.
 
 Im Brustkorb befinden sich einige lebenswichtige Organe und Strukturen, daher kann es zu schweren *Begleitverletzungen* kommen. Besonders erwähnenswert sind hierbei die Lunge, das Herz, die Aorta, die Luft- und die Speiseröhre. Auch die Organe des Oberbauches (Leber, Milz, …) liegen hinter den den Rippen und können ebenfalls verletzt sein.
-Häufig kommt es auch zu Blutungen in den Thorax ({dfn}`Hämatothorax`).
+Häufig kommt es auch zu Blutungen in den Thorax (**Hämatothorax**).
 
 :::{index} Pneumothorax
 :::
@@ -57,7 +57,7 @@ Häufig kommt es auch zu Blutungen in den Thorax ({dfn}`Hämatothorax`).
 :::
 ::::
 
-Ein {dfn}`Pneumothorax` ist eine Luftansammlung im Pleuraspalt.
+Ein **Pneumothorax** ist eine Luftansammlung im Pleuraspalt.
 
 Zwischen Lungenoberfläche und innerer Thoraxwand herrscht beim Gesunden ein Unterdruck gegenüber dem äußeren Luftdruck. Die Lunge ist dadurch flexibel im Brustkorb aufgespannt. Beim Pneumothorax gelangt durch eine Verletzung Luft in diesen Pleuraspalt, welche den Unterdruck aufhebt und die Lunge fällt in sich zusammen und kollabiert (vgl. Anatomie: {ref}`atemmechanik` und
 {ref}`pleura`).
@@ -67,10 +67,10 @@ Man unterscheidet zwischen {dfn}`offenem Pneumothorax` {index}` <Pneumothorax; o
 
 Ist lediglich die lungenseitige Pleura verletzt, oder entsteht durch die Form der Wunde ein Ventilmechanismus bei dem keine Luft nach ausserhalb entweichen kann, entsteht durch die sich im Pleuraraum aufstauende Luft ein Überdruck.
 Im Extremfall drückt der Überdruck den Mittelfellraum mit dem Herz auf die Gegenseite, wodurch auch noch die gesunde Lungenhälfte und evtl. die Hohlvene komprimiert wird. Im schlimmsten Fall kann das Herz an seiner Bewegung gehindert werden. Tritt bei einem Pneumothorax ein derartiger Ventilmechanismus auf, spricht man vom
-{dfn}`Spannungspneumothorax` {index}` <Spannungspneumothorax>`.
+**Spannungspneumothorax** {index}` <Spannungspneumothorax>`.
 
 Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form des Pneumothorax nennt man
-{dfn}`Spontanpneumothorax`
+**Spontanpneumothorax**
 {index}` <Spontanpneumothorax>` und tritt am häufigsten bei jungen, hochgewachsenen und schlanken Menschen auf. Symptome des Spontanpneumothorax sind Schmerzen, Atemnot und Todesangst.
 
 :::{subfigure} AB|CC
@@ -197,7 +197,7 @@ Eine Fraktur des Brustbeins (Sternum) tritt vor allem bei nicht angeschnallten F
 ::::
 
 Aufgrund des Unfallmechanismus muss man immer an die Möglichkeit eines *Pneumothorax* oder einer *Herzverletzung* bzw. einer *Herzbeuteltamponade* denken.
-Bei der {dfn}`Herzbeuteltamponade` {index}` <Herzbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut) in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
+Bei der **Herzbeuteltamponade** {index}` <Herzbeuteltamponade>` kommt es durch Eintritt von Flüssigkeit (z. B. Blut) in den Herzbeutel zu einer Einschränkung der Füllung und Bewegung des Herzens.
 
 ## Verletzung des Herzens und der großen Gefäße
 

@@ -127,7 +127,7 @@ Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 
 ## Beschreibung
 
-Eine {dfn}`Vergiftung` {index}` <! Vergiftung>` ist eine (meist dosisabhängige) organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus durch eine aufgenommene Substanz.
+Eine **Vergiftung** {index}` <! Vergiftung>` ist eine (meist dosisabhängige) organische Funktionsbeeinträchtigung bzw. Schädigung des Organismus durch eine aufgenommene Substanz.
 
 Vergiftungen sind eine interessante Sache: Ein an sich nützlicher Stoff kann sich in eine todbringende Waffe verwandeln, wenn er im Übermaß zugeführt wird. So ist zum Beispiel ein Überleben ohne Salz nicht möglich. Führt man jedoch 200 g zu, endet das meist tödlich. Sonst nützliche Medikamente können schon bei einer Dosisabweichung im Mikrogramm-Bereich eine fatale Wirkung haben.
 
@@ -370,7 +370,7 @@ Daher soll der Transport nur mit Arztbegleitung erfolgen.
 % -   Gesteigertes Erleben der Umwelt.
 :::
 
-Als {dfn}`Partydrogen` {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA (3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der Umwelt.
+Als **Partydrogen** {index}` <! Partydrogen>` bezeichnet man Amphetaminpräparate oder ähnliche Stimulantien. Zu den bekanntesten Drogen dieser Art gehören *Ecstasy* (*XTC*, *E*, *X* ; MDMA (3,4-Methylendioxymethamphetamin)). Verwendet wird die Substanz häufig als *Partydroge*: Der Patient erlebt ein gesteigertes Glücksgefühl, ein Gefühl von unerschöpflicher Energie und ein gesteigertes Erleben der Umwelt.
 
 #### Symptome
 
@@ -658,7 +658,7 @@ Verletzungen der Haut und Augen durch Säuren und Laugen werden unter
 
 #### Beschreibung
 
-Eine {dfn}`Verätzung` {index}` <! Verätzung>` ist eine lokale Schädigung der Haut bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
+Eine **Verätzung** {index}` <! Verätzung>` ist eine lokale Schädigung der Haut bzw. Schleimhaut aufgrund einer irreversiblen Zerstörung (Denaturierung) von Eiweißstoffen. *Lat.* *Cauterisatio* (*Cauteris.*)
 
 #### Symptome
 

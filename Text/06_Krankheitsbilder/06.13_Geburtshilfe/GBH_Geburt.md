@@ -30,12 +30,12 @@ Die Geburt verläuft in 3 Phasen:
 :::
 ::::
 
-Die {dfn}`Eröffnungsphase` {index}` <! Eröffnungsphase>` beginnt mit den ersten regelmäßigen Wehen und endet mit der vollständigen Eröffnung des Muttermundes auf 10 cm.
+Die **Eröffnungsphase** {index}` <! Eröffnungsphase>` beginnt mit den ersten regelmäßigen Wehen und endet mit der vollständigen Eröffnung des Muttermundes auf 10 cm.
 Durch Zusammenziehen der Gebärmuttermuskulatur (Wehen) wird das Kind langsam in den Geburtskanal nach unten gepresst.
 Dadurch verkürzt sich der Gebärmutterhals (Zervix), und der Muttermund wird eröffnet.
 Der Wehenabstand beträgt ca. 2—10 min.
 Während der Eröffnungsphase kommt es zum Platzen der Fruchtblase
-({dfn}`Blasensprung` {index}` <Blasensprung>`), dabei geht Fruchtwasser und etwas blutiges Sekret ab.
+(**Blasensprung** {index}` <Blasensprung>`), dabei geht Fruchtwasser und etwas blutiges Sekret ab.
 
 Bei Erstgebärenden dauert die Eröffnungsperiode ca. 6—9 h, bei Mehrgebärenden ca. 3—7 h.
 Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
@@ -59,22 +59,22 @@ Die tatsächliche Dauer kann *sehr* unterschiedlich sein.
 :::
 ::::
 
-Die {dfn}`Austreibungsphase` {index}` <Austreibungsphase>`
+Die **Austreibungsphase** {index}` <Austreibungsphase>`
 beginnt mit der vollständigen *Eröffnung* des Muttermundes (10 cm) und endet mit der *Geburt* des Kindes.
 Der Wehenabstand beträgt nun *2-3* Minuten. Die Wehen werden im Verlauf kraftvoller und die Frau verspürt mit Fortschreiten der Geburt einen *Pressdrang* (*Presswehen*). Der Kopf des Kindes wird schließlich nun zwischen den Schamlippen sichtbar. Wenn der Kopf geboren ist, folgt der restliche Körper in der Regel schnell nach. Vorsicht: Das Kind ist durch die Fruchtschmiere rutschig!
 
 ### Der Damm
 
 Als
-{dfn}`Damm` {index}` <Damm>`
+**Damm** {index}` <Damm>`
 wird das Stück Haut zwischen Scheide und Anus bezeichnet.
 Mittels eines Griffes namens
-{dfn}`Dammschutz` {index}` <Dammschutz>`
+**Dammschutz** {index}` <Dammschutz>`
 kann theoretisch die Wahrscheinlichkeit eines Dammrisses minimiert werden. Dabei wird die Hand unterhalb der Scheide angelegt und man versucht das Gewebe zu stabilisieren.
 In der Praxis ist dieser Schutz, insbesonders für darin nicht routiniertes Personal, schwer zu erreichen.
 
 Dennoch ist der Dammschutz nicht unwichtig: Durch das Pressen wird nicht nur das Kind geboren, sondern in der Regel auch *Stuhl* abgesetzt. Durch den Dammschutz, in Verbindung mit einer Unterlage, kann das Kind *vor dem Stuhl der Mutter geschützt* werden
-({dfn}`Stuhlschutz` {index}` <Stuhlschutz>`).
+(**Stuhlschutz** {index}` <Stuhlschutz>`).
 
 ## Nachgeburtsphase
 

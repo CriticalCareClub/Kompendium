@@ -12,8 +12,8 @@
 
 :::
 
-{dfn}`Säuren` sind Stoffe, die Protonen [^proton] abgeben können,
-{dfn}`Basen` sind Stoffe, die Protonen aufnehmen können. Der Begriff {dfn}`Lauge` ist gleichbedeutend mit dem Begriff Base.
+**Säuren** sind Stoffe, die Protonen [^proton] abgeben können,
+**Basen** sind Stoffe, die Protonen aufnehmen können. Der Begriff **Lauge** ist gleichbedeutend mit dem Begriff Base.
 
 [^proton]: *Proton*:
     positiv geladenes Teilchen im Atoms.
@@ -41,7 +41,7 @@
 Der pH-Wert gibt an, wie *sauer* oder *basisch* eine Lösung ist[^ph-1].
 Der pH-Wert im Blut muss sich in engen Grenzen bewegen.
 Schon geringe Abweichungen können große Folgen haben.
-Bei einer Übersäuerung sprechen wir von einer {dfn}`Azidose`, wenn der Patient basisch wird von einer {dfn}`Alkalose`[^ph-2].
+Bei einer Übersäuerung sprechen wir von einer **Azidose**, wenn der Patient basisch wird von einer **Alkalose**[^ph-2].
 
 [^ph-1]: Ein pH-Wert < 7 gilt als *sauer*, ein pH=7 als *neutral* und ein ph>7 als *basisch*.
 

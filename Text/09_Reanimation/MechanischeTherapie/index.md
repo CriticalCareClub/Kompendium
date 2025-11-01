@@ -7,7 +7,7 @@
 
 ## Herzdruckmassage
 
-Die {dfn}`Herzdruckmassage` ({dfn}`HDM`) simuliert die mechanische Herzaktion und soll einen Minimalkreislauf erzeugen.
+Die **Herzdruckmassage** (**HDM**) simuliert die mechanische Herzaktion und soll einen Minimalkreislauf erzeugen.
 Dabei wird das Herz von außen rhythmisch durch einen Helfer komprimiert, jeweils gefolgt von einer Entlastungsphase. Dadurch wird die natürliche mechanische Herzaktion simuliert und eine Zirkulation des Blutes erwirkt.
 Die *möglichst ununterbrochene* HDM ist neben einer kausalen Therapie die wichtigste Maßnahme im Rahmen der Reanimation und hat sehr großen Einfluss auf das Patienten-Outcome.
 
@@ -132,7 +132,7 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 ```
 ```{index} single: Herz-Lungen-Maschine
 ```
-```{index} single: Maschine; Herz-Lungen- 
+```{index} single: Maschine; Herz-Lungen-
 ```
 ```{index} single: extrakorporale Verfahren
 ```

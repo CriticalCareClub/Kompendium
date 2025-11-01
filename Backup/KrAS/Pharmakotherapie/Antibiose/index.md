@@ -204,7 +204,7 @@ Obligat nephrotoxisch!
 
 #### Triazole
 
-{{ zB }} {dfn}`Fluconazol`
+{{ zB }} **Fluconazol**
 
 Erste Wahl bei C. albicans, C. tropicalis, C. parapsilosis
 

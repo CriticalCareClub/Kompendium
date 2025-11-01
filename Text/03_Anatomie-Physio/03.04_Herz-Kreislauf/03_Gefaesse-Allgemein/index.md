@@ -12,14 +12,14 @@
 
 Man unterscheidet zwischen:
 
-- {dfn}`Arterien` führen *vom Herzen \*weg\** und haben eine
+- **Arterien** führen *vom Herzen \*weg\** und haben eine
   : dicke Wand mit einer *starken Muskelschicht* bestehend aus *glatter* Muskulatur.
-- {dfn}`Venen` führen *zum Herzen hin*
+- **Venen** führen *zum Herzen hin*
   : und besitzen Venen*klappen*,
     um Rückfluss zu vermeiden.
     Venen haben eine deutlich dünnere Wand
     und weniger starke Muskelschicht als die muskulösen Arterien.
-- {dfn}`Kapillargefäße` (*Haargefäße*) sind sehr dünne Gefäße,
+- **$1** (*Haargefäße*) sind sehr dünne Gefäße,
   : in denen ein Stoff- und Gasaustausch stattfinden kann;
     sie *verbinden Arterien und Venen*.
 :::
@@ -69,7 +69,7 @@ jugularis interna und V. subclavia wieder in das Venensystem.
 - Nicht stauen!
 :::
 
-Ein {dfn}`Shunt` ist eine Kurzschlussverbindung mit Flüssigkeitsübertritt zwischen getrennten Gefäßen.
+Ein **Shunt** ist eine Kurzschlussverbindung mit Flüssigkeitsübertritt zwischen getrennten Gefäßen.
 Ein Shunt zwischen einer Arterie und einer Vene wird bei *Dialyse-Patienten* oft künstlich (chirurgisch) angelegt um bei der Dialyse einen hohen Durchfluss zu erreichen. [^fnshunt]
 Ein derartiger Dialyse-Shunt ist **verletzlich**, daher darf an einem Arm mit Shunt das Blut *nicht gestaut* werden;
 das betrifft insbesonders die *Blutdruckmessung* ({ref}`blutdruckmessung`).

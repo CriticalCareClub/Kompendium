@@ -127,7 +127,7 @@ Durch die Schädigung des zentralen Nervensystems kommt es zu der Bewusstseinsst
 Der Bewusstseinsgrad gibt Auskunft über die Quantität des Bewusstseins (*Wieviel* Bewusstsein ist vorhanden? Vgl.
 {ref}`bewusstseinsstoerung-grade`).
 Er muss bei jedem Patienten nach dem *WASB-Schema* beurteilt werden.
-{dfn}`WASB` ist die Abkürzung für **w**ach, Reaktion auf **a**nsprechen oder leichte Weckreize, Reaktion auf **S**chmerzreiz und **b**ewusstlos.
+**WASB** ist die Abkürzung für **w**ach, Reaktion auf **a**nsprechen oder leichte Weckreize, Reaktion auf **S**chmerzreiz und **b**ewusstlos.
 Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* oder *komatös* bzw.
 *bewusstlos* sein, vgl. {ref}`Table-bewusstseinsgrade`.
 
@@ -138,12 +138,12 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
   - Wach
   - bewusstseinsklar
   - wach
-  - 
+  -
 * - A
   - Reaktion auf Ansprache
   - somnolent
   - schläfrig, aber leicht erweckbar.
-  - 
+  -
 * - S
   - Reaktion auf Schmerzreiz
   - soporös
@@ -160,7 +160,7 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
 :::{list-table} GCS: Glasgow Coma Scale für den Erwachsenen.
 :header-rows: 1
 
-* - 
+* -
   - Max.
   - Punkte
   - Reaktion
@@ -168,60 +168,60 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
   - 4
   - 4
   - spontan
-* - 
-  - 
+* -
+  -
   - 3
   - auf Ansprache
-* - 
-  - 
+* -
+  -
   - 2
   - Schmerzreiz
-* - 
-  - 
+* -
+  -
   - 1
   - nicht
 * - Verbale Antwort
   - 5
   - 5
   - klar
-* - 
-  - 
+* -
+  -
   - 4
   - verwaschen
-* - 
-  - 
+* -
+  -
   - 3
   - unzusammenhängende Worte
-* - 
-  - 
+* -
+  -
   - 2
   - unartikuliert
-* - 
-  - 
+* -
+  -
   - 1
   - nicht
 * - Motorische Reaktion
   - 6
   - 6
   - spontan
-* - 
-  - 
+* -
+  -
   - 5
   - gezielte Abwehrbewegungen
-* - 
-  - 
+* -
+  -
   - 4
   - ungezielte Abwehrbewegungen
-* - 
-  - 
+* -
+  -
   - 3
   - Beugung
-* - 
-  - 
+* -
+  -
   - 2
   - Strecken
-* - 
-  - 
+* -
+  -
   - 1
   - bewegt gar nicht
 :::
@@ -393,7 +393,7 @@ Grundsätzlich gibt es 2 Formen, die aber vor Ort nicht unterschieden werden kö
 :::
 ::::
 
-{dfn}`TIA` {index}` <TIA>` ist die Abkürzung für *Transitorisch-Ischämische Attacke*.
+**TIA** {index}` <TIA>` ist die Abkürzung für *Transitorisch-Ischämische Attacke*.
 Von einer TIA spricht man, wenn die Symptome innerhalb von 24 Stunden vergehen.
 Solange noch Symptome bestehen, kann man nicht von einer TIA sprechen, der Patient ist wie bei jedem anderen Schlaganfall zu behandeln.
 
@@ -430,7 +430,7 @@ Je nachdem welches Gebiet durch die Ischämie oder Blutung betroffen ist, könne
 
 - *Motorik*: Störungen der Kraft und Beweglichkeit sind sehr häufig.
   Charakteristisch für einen Schlaganfall sind sog.
-  {dfn}`Halbseitenzeichen`{index}` <! Halbseitenzeichen>`:
+  **Halbseitenzeichen**{index}` <! Halbseitenzeichen>`:
   Es kommt dabei zu einer *einseitigen
   Kraftminderung*, dies kann bis zu einer *schlaffen, kompletten
   Lähmung* führen. Ein *herabhängender Mundwinkel* ist ein Zeichen
@@ -438,7 +438,7 @@ Je nachdem welches Gebiet durch die Ischämie oder Blutung betroffen ist, könne
   *Schluckstörungen* kommen, es besteht dann eine erhöhte
   Aspirationsgefahr.
 
-  Der {dfn}`Herdblick` {index}` <! Herdblick>` ist eine Blickdiagnose:
+  Der **Herdblick** {index}` <! Herdblick>` ist eine Blickdiagnose:
   Es kann zu Blicklähmungen kommen,
   der Patient blickt in Richtung des "Herdes des
   Geschehens".
@@ -747,7 +747,7 @@ Der generalisierte Anfall läuft typischerweise in mehreren Phasen ab:
    Der Patient ist danach erstmal bewusstlos,
    im weiteren Verlauf mit mehr oder weniger großem Aufwand erweckbar.
    Er befindet sich dann in der sogenannten
-   {dfn}`Nachschlafphase`{index}` <! Nachschlafphase>`.
+   **Nachschlafphase**{index}` <! Nachschlafphase>`.
    Der Patient *klart im Verlauf mehr und mehr auf*.
    Es ist wichtig zu versuchen mit
    dem Patienten in Kontakt zu treten
@@ -910,7 +910,7 @@ Dieser wird unter {ref}`eklampsie` besprochen.
 
 Verschiedene Ursachen wie z. B. eine Nervenreizung, ein Bandscheibenvorfall (siehe unten), Erkrankungen der Wirbelsäule oder ein Unfall können zu einem Druck auf den *Ischias-Nerv* führen, welcher starke Schmerzen im Bereich der Lendenwirbelsäule (LWS) verursachen kann.
 Die Schmerzen strahlen oft ins Gesäß und in das betroffene Bein bis zum Fußaußenrand aus und werden von Gefühlsstörungen in diesem Gebiet bzw. von einer Verkrampfung der Rückenmuskulatur begleitet.
-Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem Auftreten spricht man von Lumboischialgie ({dfn}`Lumbago` {index}` <! Lumbago>`) oder umgangssprachlich vom *Hexenschuss*.
+Diese Symtomatik nennt man *Ischialgie* bzw. *Lumbalgie*. Bei plötzlichem Auftreten spricht man von Lumboischialgie (**Lumbago** {index}` <! Lumbago>`) oder umgangssprachlich vom *Hexenschuss*.
 
 Bei vorgeschädigten Bandscheiben (z. B. durch jahrelange Fehlhaltung oder durch falsches Heben großer Lasten) kann es zu einer (plötzlichen) Verschiebung des Bandscheibenkerns in Richtung Rückenmark und somit zu einem Druck auf dieses kommen.
 Dieser Druck verursacht ebenfalls Schmerzen, Sensibilitätsstörungen oder sogar Lähmungen. Tritt dieses Ereignis plötzlich auf, spricht man von einem

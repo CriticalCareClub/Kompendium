@@ -57,7 +57,7 @@ So ist z. B. in den ERC-Richtlinien zur Reanimation ein Neugeborenes nur bis u
 
   - Einziehungen zwischen Rippen
 
-    {dfn}`Nasenflügeln`
+    **Nasenflügeln**
     {index}` <Nasenflügeln>`
     beschleunigte Atmung, Atemgeräusche
 - - Pulstasten beim Säugling
@@ -325,7 +325,7 @@ Nobody is dead until warm and dead!
 Grundsätzlich gelten auch bei Kindern die Ausführungen im Abschnitt
 {ref}`zerebrale-krampfanfaelle`.
 Eine Besonderheit stellt jedoch der
-{dfn}`Fieberkrampf` {index}` <! Fieberkrampf>` dar.
+**Fieberkrampf** {index}` <! Fieberkrampf>` dar.
 
 #### Fieberkrampf
 

@@ -9,7 +9,7 @@
 
 :::{admonition} Definition: Herzinsuffizienz
 
-Eine {dfn}`Herzinsuffizienz` bezeichnet eine unzureichende Auswurfleistung des Herzens, unabhängig von deren Ursache.
+Eine **Herzinsuffizienz** bezeichnet eine unzureichende Auswurfleistung des Herzens, unabhängig von deren Ursache.
 :::
 
 Es sind viele Ursachen möglich, manche Ursachen treten *akut* auf, manche sind eher *chronischer* Natur.

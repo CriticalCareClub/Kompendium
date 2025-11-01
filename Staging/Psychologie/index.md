@@ -28,7 +28,7 @@ daraus resultierenden Belastungen eingegangen.
 % ``!!! A !!!(Kurze Einführungsphase)
 % Parallelen (Beanspruchungsdauer, -intensität) bzw. Unterschied zw. Mechanischer und psychischer Beanspruchung = interpersonelle Faktoren (Wahrnehmung, Coping, Expertise) vs. strukturelle Gegebenheiten (s.u.). ``
 
-Unter dem Begriff {dfn}`Beanspruchung` versteht man in der
+Unter dem Begriff **Beanspruchung** versteht man in der
 Technik *"die Auswirkung einer äußeren Belastung auf das Innere eines
 Körpers bzw. eines Werkstoffes"*{term}`🗎 WP Beanspruchung 2013`.
 Mechanische Beanspruchung
@@ -260,7 +260,7 @@ Aufgaben eine hohe Bedeutung zuschreiben.
 
 ### Stress – Ein Defintionsversuch?
 
-{dfn}`Stress` ist die *Summe körperlicher und psychischer Reaktionen*,
+**Stress** ist die *Summe körperlicher und psychischer Reaktionen*,
 die durch die Wahrnehmung bestimmter *Reize*
 in unserer Umwelt
 bzw. innerhalb einer Person ausgelöst werden können. {term}`🗎 Zimbardo 6`
@@ -328,7 +328,7 @@ dargestellt sind, um das Verständnis zu erleichtern.
 
 #### Modell der Homöostase-Allostase
 
-Unter {dfn}`Homöostase` versteht man ein
+Unter **Homöostase** versteht man ein
 (fiktives biopsychosoziales) *Gleichgewicht eines Individuums*;
 Stress kann dieses Gleichgewicht gefährden. [^footnote-4]
 
@@ -360,7 +360,7 @@ als unkontrollierbar erlebt werden sind z. B.
     können zu Fehlregulationen und in weiterer Konsequenz zu
     pathologischen Veränderungen führen.
 
-[^footnote-4]: Unter {dfn}`Allostase` {index}` <! Allostase>` versteht man einen *Regelkreis,
+[^footnote-4]: Unter **Allostase** {index}` <! Allostase>` versteht man einen *Regelkreis,
     dessen Sollwert stärker verstellbar ist* als bei homöostatischen
     Systemen; trotz äußerer Störfaktoren wird das innere Milieu dank
     verschiedener *Anpassungsreaktionen* konstant gehalten; eine
@@ -494,7 +494,7 @@ Handlungsmöglichkeit zu haben erzeugt Stresserleben.
 
 #### Coping
 
-Als {dfn}`Coping` bezeichnet man ein Verhalten, um eine
+Als **Coping** bezeichnet man ein Verhalten, um eine
 stressauslösende Situation zu bewältigen. [^footnote-8].
 
 [^footnote-8]: *engl.* *to cope with*: fertig werden mit
@@ -1154,7 +1154,7 @@ Anzeichen einer Sekundärtraumatisierung sind
 ### Das Copingkonzept
 
 **Stressbewältigung**
-({dfn}`Coping`)
+(**Coping**)
 ist der *"Prozess der Handhabung jener externen oder internen Anforderungen, die vom Individuum als die eigenen Ressourcen beanspruchend oder übersteigend bewertet werden"*. {term}`🗎 Lazarus 1984`
 Bei *Copingstrategien* handelt
 es sich um alle *kognitiven, emotionalen und behaviouralen

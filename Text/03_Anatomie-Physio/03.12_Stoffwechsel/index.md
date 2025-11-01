@@ -148,11 +148,11 @@ ______________________________________________________________________
 :::
 ::::
 
-Unter {dfn}`Stoffwechsel` versteht man Abläufe von Stoffumsetzung und Energiegewinnung, wobei Nährstoffe in Wärme, Energie und Körperbestandteile umgewandelt werden.
+Unter **Stoffwechsel** versteht man Abläufe von Stoffumsetzung und Energiegewinnung, wobei Nährstoffe in Wärme, Energie und Körperbestandteile umgewandelt werden.
 Er ist eine Vitalfunktion 2. Ordnung.
 Der menschliche Körper hat drei wesentliche Stoffwechselsysteme, die ihm zur Verfügung stehen. Man unterscheidet den *Zucker- bzw. Kohlehydratstoffwechsel*, den *Fettstoffwechsel* und den *Eiweißstoffwechsel*:
 
-- {dfn}`Kohlehydratstoffwechsel` (*Zuckerstoffwechsel*):
+- **Kohlehydratstoffwechsel** (*Zuckerstoffwechsel*):
   Zucker ist ein Kohlehydrat und ein potenter *Energielieferant*,
   er kann vom Körper schnell umgesetzt werden.
   Er wird durch Aufspaltung
@@ -160,12 +160,12 @@ Der menschliche Körper hat drei wesentliche Stoffwechselsysteme, die ihm zur Ve
   Form des *Blutzuckers* in der Blutbahn.
   Die *Leber* speichert eine *Zuckerreserve* von ca. 24 h.
 
-  Das Hormon {dfn}`Insulin`, welches in
+  Das Hormon **Insulin**, welches in
   der Bauchspeicheldrüse (Pankreas) produziert wird, ermöglicht die
   *Aufnahme von Blutzucker in die Zellen* und *senkt dabei den
   Blutzuckerspiegel*.
 
-- {dfn}`Fettstoffwechsel`:
+- **Fettstoffwechsel**:
   Fette haben einen doppelt so
   hohen Energiegehalt als Kohlenhydrate,
   können aber nicht so rasch vom
@@ -174,8 +174,8 @@ Der menschliche Körper hat drei wesentliche Stoffwechselsysteme, die ihm zur Ve
   für Vitamine, Bausteine der Zellmembran und von Hormonen.
   (Weiters unterscheidet man zwischen gesättigten und ungesättigten Fettsäuren.)
 
-- {dfn}`Proteinstoffwechsel` (*Eiweißstoffwechsel*):
-  {dfn}`Proteine`
+- **Proteinstoffwechsel** (*Eiweißstoffwechsel*):
+  **Proteine**
   sind vergleichbar mit dem LEGO-System: Sie sind aus
   Bausteinen zusammengebaut, den Aminosäuren.
   Zusammengebaute Proteine

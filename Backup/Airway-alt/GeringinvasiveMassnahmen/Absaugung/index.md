@@ -139,7 +139,7 @@ Weinmann AccuVac
 
 Wenn *Absaugbereitschaft* hergestellt werden muss, wird aus
 hygienischen Gründen nur der farbige Trichter des Katheters ausgepackt
-und an den Konnektor bzw. den {dfn}`Fingertip` {index}` <Fingertip>` der
+und an den Konnektor bzw. den **Fingertip** {index}` <Fingertip>` der
 Absaugpumpe angeschlossen. Der restliche Teil des Katheters bleibt so
 lange in der Verpackung bis mit der Absaugung begonnen wird.
 

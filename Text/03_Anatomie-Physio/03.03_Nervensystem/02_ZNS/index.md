@@ -26,7 +26,7 @@
 :::
 
 Das *Gehirn* (Encephalon)
-und das *Rückenmark* (Medulla spinalis) bilden das {dfn}`Zentralnervensystem` (*ZNS*).
+und das *Rückenmark* (Medulla spinalis) bilden das **Zentralnervensystem** (*ZNS*).
 Beide sind über Knochen (Schädel, Wirbelsäule)
 und Flüssigkeitspolster (Liquor cerebrospinalis) vor Einflüssen der Außenwelt geschützt.
 

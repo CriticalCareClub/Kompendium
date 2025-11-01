@@ -13,7 +13,7 @@ Oft ist eine Störung der elektrischen Herzaktivität bzw. des elektrischen Herz
 
 Bei bestimmten Herzrhythmen ("schockbare Rhythmen": (pulslose) ventrikuläre Tachykardie, Kammerflimmern) wird die Elektrotherapie angewendet, um den Rhythmus zu normalisieren. Man nennt diesen Vorgang
 {dfn}`elektrische Kardioversion`[^footnote-1].
-Ein Sonderfall ist die {dfn}`Defibrillation`, sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
+Ein Sonderfall ist die **Defibrillation**, sie ist eine Kardioversion bei Kammerflimmern.[^footnote-2]
 
 [^footnote-1]: Eine Kardioversion, also die Überführung in einen anderen Rhythmus,
     kann auch mittels Medikamenten erfolgen.
@@ -65,8 +65,8 @@ Man unterscheidet dabei folgende Gerätekategorien:
 
 Automatische und halbautomatische externe Defibrillatoren
 
-: ({dfn}`AED`: {dfn}`Automatischer externer Defibrillator`;
-  {dfn}`SAED`: {dfn}`Semi-automatischer externer Defibrillator`, "Halbautomat"):
+: (**AED**: {dfn}`Automatischer externer Defibrillator`;
+  **SAED**: {dfn}`Semi-automatischer externer Defibrillator`, "Halbautomat"):
   {index}` <AED>`
   {index}` <SAED>`
   {index}` <Defibrillator; automatischer externer>`
@@ -97,7 +97,7 @@ Automatische implantierbare Defibrillatoren
   {index}` <Defibrillator; implantierbarer>`
   {index}` <ICD>`
   {index}` <Implantable Cardiac Device>`
-  (*Abkz.* {dfn}`ICD`: {dfn}`Implantable Cardiac Device`).
+  (*Abkz.* **ICD**: {dfn}`Implantable Cardiac Device`).
   Diese geben automatisch einen Schock ab,
   wenn sie eine defibrillationspflichtige
   Rhythmusstörung erkennen.

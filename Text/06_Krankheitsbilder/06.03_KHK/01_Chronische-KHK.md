@@ -16,7 +16,7 @@
 :::
 ::::
 
-Die {dfn}`Koronare Herzkrankheit` ({dfn}`KHK`)
+Die {dfn}`Koronare Herzkrankheit` (**KHK**)
 ist eine Erkrankung der *Herzkranzgefäße* (Koronargefäße), bei der es zu einer Verengung der Gefäße kommt.
 Sie ist eine *chronische* Erkrankung, welche Folgeerkrankungen bedingt und in akuten Notfallsituationen resultieren kann.
 Je nachdem wieviele Koronargefäße betroffen sind, spricht man von einer 1-, 2- oder 3-Gefäßerkrankung

@@ -57,7 +57,7 @@ Eine Diagnose gibt einem Zustand eine Bezeichnung, das heißt einem Beschwerdebi
 
 Diese Zuordnung kann einfach sein, sehr oft ist die Diagnosestellung aber unsicher. Um die Unsicherheit dieser Diagnosen anzuzeigen haben sich verschiedene Begriffe eingebürgert:
 
-- {dfn}`Verdachtsdiagnose`: Die Diagnose ist unsicher, man
+- **Verdachtsdiagnose**: Die Diagnose ist unsicher, man
   hat zwar den Verdacht in Richtung eines bestimmten Krankheitsbildes,
   andere ähnliche Krankheitsbilder können allerdings nicht mit
   hinreichender Sicherheit ausgeschlossen werden. Die endgültige
@@ -70,12 +70,12 @@ Diese Zuordnung kann einfach sein, sehr oft ist die Diagnosestellung aber unsich
   - `V. a. Oberarmfraktur links`, oder
   - `Fract. humeri sin. s. i.`
 
-- {dfn}`Arbeitsdiagnose`: Arbeitsdiagnosen sind
+- **Arbeitsdiagnose**: Arbeitsdiagnosen sind
   Verdachtsdiagnosen, bei denen eine endgültige Klärung nicht möglich
   ist. Für die Behandlung wird die wahrscheinlichste oder gefährlichste
   Diagnose ausgewählt um *"am Patienten arbeiten zu können".*
 
-- {dfn}`Notfalldiagnose`: Eine Notfalldiagnose ist im
+- **Notfalldiagnose**: Eine Notfalldiagnose ist im
   Prinzip eine Arbeitsdiagnose. Der Patient ist dabei in einem Zustand
   bei dem *sofortiges Handeln* notwendig ist und die eigentliche
   Diagnose, die zu dieser Situation geführt hat, in dem Moment

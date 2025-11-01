@@ -2,7 +2,7 @@
 
 # Neurocheck
 
-Der {dfn}`Neurocheck` ist eine einfache, überblickshafte
+Der **Neurocheck** ist eine einfache, überblickshafte
 ("grobe") Untersuchung der wichtigsten Funktionen des Nervensystems.
 Teile des Neurochecks werden während des Einschätzungsblockes
 ({ref}`einschaetzungsblock`) durchgeführt.
@@ -84,7 +84,7 @@ Teile des Neurochecks werden während des Einschätzungsblockes
    3. Von oben auf die Zehen drücken und Patienten bitten die Zehen
       Richtung Kopf zu heben.
 
-5. {dfn}`Nackensteifigkeit`:
+5. **Nackensteifigkeit**:
    Die Nackensteifogkeit ist ein
    {ref}`Meningismuszeichen <Meningismuszeichen>`
    {index}` <Meningismuszeichen; Nackensteifigkeit; Untersuchung>`.

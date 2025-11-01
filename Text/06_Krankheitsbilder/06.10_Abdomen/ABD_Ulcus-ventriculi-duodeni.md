@@ -23,7 +23,7 @@ Syn.
 :::
 ::::
 
-Ein {dfn}`Magengeschwür` (*Ulcus ventriculi*) bzw. ein {dfn}`Zwölffingerdarmgeschwür` (*Ulcus duodenis*) ist eine Entzündung der Magen- bzw.
+Ein **Magengeschwür** (*Ulcus ventriculi*) bzw. ein **Zwölffingerdarmgeschwür** (*Ulcus duodenis*) ist eine Entzündung der Magen- bzw.
 Zwölffingerdarmschleimhaut mit Substanzdefekt.
 
 Die häufigste Ursache für ein Magengeschwür ist eine chronische Infektion mit einem bestimmten Bakterium[^hp].

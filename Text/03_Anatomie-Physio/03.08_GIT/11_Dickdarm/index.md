@@ -45,7 +45,7 @@
 - Darmbakterien
 :::
 
-Der {dfn}`Dickdarm` ist ca. 1,5 m lang und wird in verschiedene Abschnitte unterteilt.
+Der **Dickdarm** ist ca. 1,5 m lang und wird in verschiedene Abschnitte unterteilt.
 Die Hauptfunktion ist der **Wasserentzug** und -aufnahme und folglich das *Eindicken* des Stuhls, sowie dessen *Speicherung*.
 Der Großteil der Wasseraufnahme aus der verdauten Nahrung findet hier statt.
 Der Dickdarm ist von *Darmbakterien* besiedelt:

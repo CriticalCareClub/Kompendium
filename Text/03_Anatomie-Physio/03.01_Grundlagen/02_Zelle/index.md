@@ -17,7 +17,7 @@
 - Zellmembran
 :::
 
-Die Lebewesen können grob in Einzeller (Protozoen) und Mehrzeller (Metazoen) eingeteilt werden.
+Die Lebewesen können grob in **Einzeller** (*Protozoen*) und **Mehrzeller** (*Metazoen*) eingeteilt werden.
 
 Die Zelle ist der *Grundbaustein* und die kleinste selbstständig lebende Einheit des menschlichen Körpers, er besteht aus ca. 75×10¹² (75 Billionen) Zellen.
 Eine Zelle ist zwischen 5 und 150 µm (z. B. Eizelle des Menschen — sie ist mit bloßem Auge sichtbar) groß.
@@ -73,7 +73,7 @@ Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib (Zytoplasma) sowie
 Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten (Blutplättchen) ausgenommen — in jeder Zelle vorhanden.
 Einige Zellen (Leberzellen (Hepatozyten) 2, knochenabbauende Zellen (Osteoklasten) 5—20, Skelettmuskelzellen (Myozyten) >1000) besitzen sogar mehrere.
 
-Der Zellkern enthält die genetische Erbinformation (DNA: Desoxyribonukleidsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare* (46 Chromosomen, 23 von der Mutter, 23 vom Vater).
+Der Zellkern enthält die genetische Erbinformation (DNA: Desoxyribonukleinsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare* (46 Chromosomen, 23 von der Mutter, 23 vom Vater).
 Von hier kommen die "Bauanleitungen" für die Proteinsynthese in Form von einsträngigen Kopien, der RNA (= Ribonukleinsäure), die von den Ribosomen dann “übersetzt” werden.
 Ausgenommen während der Zellteilung liegt die DNA nicht geordnet, d.h. nicht in Chromosomenform, vor.
 Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sondern zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kerns, der Bereich, in dem gerade aktiv RNA produziert wird.

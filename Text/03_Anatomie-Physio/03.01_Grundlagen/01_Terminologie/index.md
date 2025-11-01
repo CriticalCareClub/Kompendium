@@ -3,6 +3,7 @@
 ## Anatomie, Physiologie, Pathologie
 
 :::{margin} Anatomie, Physiologie, Pathologie
+
 - Anatomie: Lehre vom Aufbau von Organismen
 - Physiologie: Lehre von ("normalen") physikalischen und biochemischen
   Vorgängen im Organismus
@@ -10,12 +11,11 @@
 :::
 
 Die Anatomie ist die Lehre vom Aufbau von Organismen. In der Medizin beschäftigt sich die Anatomie mit dem Aufbau, Struktur und Lagebeziehung von Körperteilen, Organen, Geweben und Zellen. Die Physiologie ist die Lehre von physikalischen und biochemischen Vorgängen im Organismus [^physiologie].
-In der medizinischen Umgangssprache bezieht sich der Begriff {dfn}`physiologisch` auf Vorgänge und Zustände, welche *normal*, d. h. *nicht krankhaft verändert*, sind.
-Dem gegenüber versteht man unter dem Begriff {dfn}`Pathologie`
+In der medizinischen Umgangssprache bezieht sich der Begriff **physiologisch** auf Vorgänge und Zustände, welche *normal*, d. h. *nicht krankhaft verändert*, sind.
+Dem gegenüber versteht man unter dem Begriff **Pathologie**
 (bzw. dem Adjektiv *pathologisch*) einen *krankhaften*, *abnormen* Vorgang oder Zustand.
 
-[^physiologie]: Der Begriff Physiologie ist nicht zu verwechseln mit ähnlichen
-    begriffen wie "Physiotherapie" oder "Physikalische Medizin".
+[^physiologie]: Der Begriff Physiologie ist nicht zu verwechseln mit ähnlichen Begriffen wie "Physiotherapie" oder "Physikalische Medizin".
 
 Weiters behandelt dieser Abschnitt die Vitalfunktionen des menschlichen Körpers, welche die Funktion des Körpers ermöglichen.
 Es gibt grundlegende **Vitalfunktionen 1. Ordnung**
@@ -34,6 +34,8 @@ Man kann den menschlichen Körper in folgende Abschnitte unterteilen:
 - Becken (lat. *Pelvis*)
 - obere Gliedmaße (lat. *Extremitas superior*, dt. *obere Extremität*)
 - untere Gliedmaße (lat. *Extremitas inferior,* dt. *untere Extremität*)
+
+
 
 ## Orientierung — Basis
 
@@ -61,262 +63,262 @@ Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle
 Die einzige Ausnahme bildet die sog. Medianebene (= Median-Sagittal-Ebene):
 vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als Symmetrieebene bezeichnet.
 
-```{index} single: cranialis, -e
-```
-```{index} single: kranial
-```
-```{index} single: caudalis, -e
-```
-```{index} single: kaudal
-```
-```{index} single: superior, -ius
-```
-```{index} single: superior
-```
-```{index} single: oben
-```
-```{index} single: inferior, -ius
-```
-```{index} single: inferior
-```
-```{index} single: unten
-```
-```{index} single: dorsalis, -e
-```
-```{index} single: dorsal
-```
-```{index} single: rückenwärts
-```
-```{index} single: ventralis, -e
-```
-```{index} single: ventral
-```
-```{index} single: bauchwärts
-```
-```{index} single: posterior, -ius
-```
-```{index} single: posterior
-```
-```{index} single: hinten
-```
-```{index} single: anterior, -ius
-```
-```{index} single: anterior
-```
-```{index} single: vorne
-```
-```{index} single: medialis, -e
-```
-```{index} single: medial
-```
-```{index} single: Medianebene; zur --- hin
-```
-```{index} single: lateralis, -e
-```
-```{index} single: lateral
-```
-```{index} single: medianus, -a, -um
-```
-```{index} single: median
-```
-```{index} single: Medianebene; in der ---
-```
-```{index} single: dexter
-```
-```{index} single: rechts
-```
-```{index} single: sinister
-```
-```{index} single: links
-```
-```{index} single: superficialis, -e
-```
-```{index} single: superfizial
-```
-```{index} single: oberflächlich
-```
-```{index} single: profundus, -a, -um
-```
-```{index} single: profund
-```
-```{index} single: tief
-```
-```{index} single: internus, -a, -um
-```
-```{index} single: intern
-```
-```{index} single: innere
-```
-```{index} single: externus, -a, -um
-```
-```{index} single: extern
-```
-```{index} single: äußere
-```
-```{index} single: centralis, -e
-```
-```{index} single: zentral
-```
-```{index} single: longitudinalis, -e
-```
-```{index} single: longitudinal
-```
-```{index} single: längs verlaufend
-```
-```{index} single: proximalis, -e
-```
-```{index} single: proximal
-```
-```{index} single: rumpfwärts
-```
-```{index} single: distalis, -e
-```
-```{index} single: distal
-```
-```{index} single: radialis, -e
-```
-```{index} single: radial
-```
-```{index} single: speichenwärts
-```
-```{index} single: ulnaris, -e
-```
-```{index} single: ulnar
-```
-```{index} single: ellenwärts
-```
-```{index} single: tibialis, -e
-```
-```{index} single: tibial
-```
-```{index} single: schienbeinwärts
-```
-```{index} single: fibularis, -e
-```
-```{index} single: fibular
-```
-```{index} single: wadenbeinwärts
-```
-```{index} single: palmaris, -e
-```
-```{index} single: palmar
-```
-```{index} single: handflächenwärts
-```
-```{index} single: dorsalis, -e
-```
-```{index} single: dorsal
-```
-```{index} single: handrückenwärts
-```
-```{index} single: plantaris, -e
-```
-```{index} single: plantar
-```
-```{index} single: fußsohlenwärts
-```
-```{index} single: dorsalis, -e
-```
-```{index} single: dorsal
-```
-```{index} single: fußrückenwärts
-```
-```{index} single: frontalis, -e
-```
-```{index} single: frontal
-```
-```{index} single: occipitalis, -e
-```
-```{index} single: okzipital
-```
-```{index} single: basalis, -e
-```
-```{index} single: basal
-```
-```{index} single: oralis, -e
-```
-```{index} single: oral
-```
-```{index} single: vestibularis, -e
-```
-```{index} single: vestibulär
-```
-```{index} single: labialis, -e
-```
-```{index} single: labial
-```
-```{index} single: buccalis, -e
-```
-```{index} single: bukkal
-```
-```{index} single: lingualis, -e
-```
-```{index} single: lingual
-```
-```{index} single: nasalis, -e
-```
-```{index} single: nasal
-```
-```{index} single: nasenwärts
-```
-```{index} single: temporalis, -e
-```
-```{index} single: temporal
-```
-```{index} single: palatinalis, -e
-```
-```{index} single: palatinal
-```
-```{index} single: pharyngealis, -e
-```
-```{index} single: pharyngeal
-```
-```{index} single: rostralis, -e
-```
-```{index} single: rostral
-```
-```{index} single: mesialis, -e
-```
-```{index} single: mesial
-```
-```{index} single: distalis, -e
-```
-```{index} single: distal
-```
-```{index} single: apicalis, -e
-```
-```{index} single: apikal
-```
-```{index} single: cervicalis, -e
-```
-```{index} single: zervikal
-```
-```{index} single: occlusalis, -e
-```
-```{index} single: okklusal
-```
-```{index} single: incisalis, -e
-```
-```{index} single: inzisal
-```
-```{index} single: approximalis, -e
-```
-```{index} single: Adduktion
-```
-```{index} single: Abduktion
-```
-```{index} single: Protrusion
-```
-```{index} single: Retrusion
-```
-```{index} single: Mediotrusion
-```
-```{index} single: Laterotrusion
-```
-```{index} single: Mediotrusion
-```
-```{index} single: Laterotrusion
-```
+
+
+:::{index} single: cranialis, -e
+:::
+:::{index} single: kranial
+:::
+:::{index} single: caudalis, -e
+:::
+:::{index} single: kaudal
+:::
+:::{index} single: superior, -ius
+:::
+:::{index} single: superior
+:::
+:::{index} single: oben
+:::
+:::{index} single: inferior, -ius
+:::
+:::{index} single: inferior
+:::
+:::{index} single: unten
+:::
+:::{index} single: dorsalis, -e
+:::
+:::{index} single: dorsal
+:::
+:::{index} single: rückenwärts
+:::
+:::{index} single: ventralis, -e
+:::
+:::{index} single: ventral
+:::
+:::{index} single: bauchwärts
+:::
+:::{index} single: posterior, -ius
+:::
+:::{index} single: posterior
+:::
+:::{index} single: hinten
+:::
+:::{index} single: anterior, -ius
+:::
+:::{index} single: anterior
+:::
+:::{index} single: vorne
+:::
+:::{index} single: medialis, -e
+:::
+:::{index} single: medial
+:::
+:::{index} single: Medianebene; zur --- hin
+:::
+:::{index} single: lateralis, -e
+:::
+:::{index} single: lateral
+:::
+:::{index} single: medianus, -a, -um
+:::
+:::{index} single: median
+:::
+:::{index} single: Medianebene; in der ---
+:::
+:::{index} single: dexter
+:::
+:::{index} single: rechts
+:::
+:::{index} single: sinister
+:::
+:::{index} single: links
+:::
+:::{index} single: superficialis, -e
+:::
+:::{index} single: superfizial
+:::
+:::{index} single: oberflächlich
+:::
+:::{index} single: profundus, -a, -um
+:::
+:::{index} single: profund
+:::
+:::{index} single: tief
+:::
+:::{index} single: internus, -a, -um
+:::
+:::{index} single: intern
+:::
+:::{index} single: innere
+:::
+:::{index} single: externus, -a, -um
+:::
+:::{index} single: extern
+:::
+:::{index} single: äußere
+:::
+:::{index} single: centralis, -e
+:::
+:::{index} single: zentral
+:::
+:::{index} single: longitudinalis, -e
+:::
+:::{index} single: longitudinal
+:::
+:::{index} single: längs verlaufend
+:::
+:::{index} single: proximalis, -e
+:::
+:::{index} single: proximal
+:::
+:::{index} single: rumpfwärts
+:::
+:::{index} single: distalis, -e
+:::
+:::{index} single: distal
+:::
+:::{index} single: radialis, -e
+:::
+:::{index} single: radial
+:::
+:::{index} single: speichenwärts
+:::
+:::{index} single: ulnaris, -e
+:::
+:::{index} single: ulnar
+:::
+:::{index} single: ellenwärts
+:::
+:::{index} single: tibialis, -e
+:::
+:::{index} single: tibial
+:::
+:::{index} single: schienbeinwärts
+:::
+:::{index} single: fibularis, -e
+:::
+:::{index} single: fibular
+:::
+:::{index} single: wadenbeinwärts
+:::
+:::{index} single: palmaris, -e
+:::
+:::{index} single: palmar
+:::
+:::{index} single: handflächenwärts
+:::
+:::{index} single: dorsalis, -e
+:::
+:::{index} single: dorsal
+:::
+:::{index} single: handrückenwärts
+:::
+:::{index} single: plantaris, -e
+:::
+:::{index} single: plantar
+:::
+:::{index} single: fußsohlenwärts
+:::
+:::{index} single: dorsalis, -e
+:::
+:::{index} single: dorsal
+:::
+:::{index} single: fußrückenwärts
+:::
+:::{index} single: frontalis, -e
+:::
+:::{index} single: frontal
+:::
+:::{index} single: occipitalis, -e
+:::
+:::{index} single: okzipital
+:::
+:::{index} single: basalis, -e
+:::
+:::{index} single: basal
+:::
+:::{index} single: oralis, -e
+:::
+:::{index} single: oral
+:::
+:::{index} single: vestibularis, -e
+:::
+:::{index} single: vestibulär
+:::
+:::{index} single: labialis, -e
+:::
+:::{index} single: labial
+:::
+:::{index} single: buccalis, -e
+:::
+:::{index} single: bukkal
+:::
+:::{index} single: lingualis, -e
+:::
+:::{index} single: lingual
+:::
+:::{index} single: nasalis, -e
+:::
+:::{index} single: nasal
+:::
+:::{index} single: nasenwärts
+:::
+:::{index} single: temporalis, -e
+:::
+:::{index} single: temporal
+:::
+:::{index} single: palatinalis, -e
+:::
+:::{index} single: palatinal
+:::
+:::{index} single: pharyngealis, -e
+:::
+:::{index} single: pharyngeal
+:::
+:::{index} single: rostralis, -e
+:::
+:::{index} single: rostral
+:::
+:::{index} single: mesialis, -e
+:::
+:::{index} single: mesial
+:::
+:::{index} single: distalis, -e
+:::
+:::{index} single: distal
+:::
+:::{index} single: apicalis, -e
+:::
+:::{index} single: apikal
+:::
+:::{index} single: cervicalis, -e
+:::
+:::{index} single: zervikal
+:::
+:::{index} single: occlusalis, -e
+:::
+:::{index} single: okklusal
+:::
+:::{index} single: incisalis, -e
+:::
+:::{index} single: inzisal
+:::
+:::{index} single: approximalis, -e
+:::
+:::{index} single: Adduktion
+:::
+:::{index} single: Abduktion
+:::
+:::{index} single: Protrusion
+:::
+:::{index} single: Retrusion
+:::
+:::{index} single: Mediotrusion
+:::
+:::{index} single: Laterotrusion
+:::
+:::{index} single: Laterotrusion
+:::
 
 (Richtungsbezeichnungen)=
 
@@ -513,7 +515,7 @@ Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die be
 
 - - Richtung
   - Bedeutung
-  - Terminus, latein
+  - Terminus, Latein
 - - **apikal**
   - an der Wurzelspitze (Apex), zur Wurzelspitze hin
   - apicalis, -e
@@ -536,6 +538,7 @@ Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die be
   - am Zahnhals, zum Zahnhals hin
   - cervicalis, -e
 :::
+
 
 
 ## Bewegungsbezeichnungen
@@ -607,6 +610,8 @@ Hierauf wird unter {ref}`Bewegungsapparat` gesondert eingegangen.
     Erfolgt um eine vertikale (longitudinale) Achse.
 :::
 
+
+
 ## Biotypologie
 
 Die Biotypologie beschreibt die Beurteilung des Körperbaus und den Versuch des Schlusses auf innere Werte und Wesenszüge.
@@ -621,199 +626,144 @@ Biotypologie nach Hippocrates:
 
 Biotypologie nach Kretschmer:
 
-- leptosom: mager, zart, eng- und flachbrüstig, mit dünnen Armen und
-  Beinen, körperlich und geistig empfindlich, kompliziert, sprunghaft.
-- pyknisch: mittelgroß, gedrungener Körperbau, Neigung zu Fettansatz,
-  Brustkorb unten breiter als oben, kurzer Hals und breites Gesicht,
-  behäbig, gemütlich, gutherzig, gesellig, heiter, lebhaft bis hitzig
-  oder auch still und weich.
-- athletisch: kräftiger Körperbau, breite Schultern, oben breiter
-  Brustkorb, heiter, forsch, aktiv.
+- leptosom: mager, zart, eng- und flachbrüstig, mit dünnen Armen und Beinen, körperlich und geistig empfindlich, kompliziert, sprunghaft.
+- pyknisch: mittelgroß, gedrungener Körperbau, Neigung zu Fettansatz, Brustkorb unten breiter als oben, kurzer Hals und breites Gesicht, behäbig, gemütlich, gutherzig, gesellig, heiter, lebhaft bis hitzig oder auch still und weich.
+- athletisch: kräftiger Körperbau, breite Schultern, oben breiter Brustkorb, heiter, forsch, aktiv.
+
 
 
 ## Allgemeine Begriffe: Klinik – Diagnose – Therapie
 
 {index}`Symptom`
-
 : Krankheitserscheinung
 
 {index}`Syndrom`
-
 : definierte Kombination von Symptomen
 
 {index}`Komplikationen`
-
 : möglicherweise auftretende Schwierigkeiten
 
 {index}`Therapie`
-
 : Maßnahmen zur Heilung oder Linderung von Krankheiten und Symptomen
 
 {index}`Indikation`
-
 : Grund zur Anwendung eines bestimmten Verfahrens.
 
 {index}`Kontraindikation`
-
-: Grund zur *Nicht*anwendung eines bestimmten Verfahrens. Es gibt
-  *relative* und *absolute* Kontraindikationen. Relative
-  Kontraindikationen treffen nur unter bestimmten Umständen oder in
-  gewissem Umfang zu, absolute Kontraindikationen verbieten das
-  Verfahren praktisch immer.
+: Grund zur *Nicht*anwendung eines bestimmten Verfahrens.
+  Es gibt *relative* und *absolute* Kontraindikationen.
+  Relative Kontraindikationen treffen nur unter bestimmten Umständen oder in gewissem Umfang zu, absolute Kontraindikationen verbieten das Verfahren praktisch immer.
 
 {index}`Diagnose`
-
-: Zuordnung von Beschwerden und Symptomen zu einem definierten
-  Krankheitsbild. Es gibt verschiedene Arten und Funktionen von
-  Diagnosen, siehe {ref}`diagnose`.
+: Zuordnung von Beschwerden und Symptomen zu einem definierten Krankheitsbild. Es gibt verschiedene Arten und Funktionen von Diagnosen, siehe {ref}`diagnose`.
 
 {index}`Diagnostik`
-
-: Als Diagnostik versteht man alle Bemühungen um eine Diagnose zu
-  stellen, egal ob man sich der eigenen Sinne oder komplizierter
-  Geräte bedient.
+: Als Diagnostik versteht man alle Bemühungen um eine Diagnose zu stellen, egal ob man sich der eigenen Sinne oder komplizierter Geräte bedient.
 
 {index}`Befund`
-
-: Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis,
-  welches man als *Befund* bezeichnet.
+: Jede diagnostische Maßnahme hat (hoffentlich) ein Ergebnis, welches man als *Befund* bezeichnet.
 
 {index}`Morbus`
-
-: *Abk.* M. *lat.*: Krankheit, Erkrankung. Die Bezeichnung Morbus wird
-  oft zusammen mit einem Eigenamen, zumeist vom Entdecker einer
-  Erkankung, oder einem lateinische Zusatz zur Benennung von
-  Krankheiten verwendet; z. B.: Morbus Alzheimer (Demenz vom
-  Alzheimer-Typ), Morbus Koch (Tuberkulose), Morbus Parkinson, Morbus
-  comitialis (Epilepsie).
+: *Abk.* M. *lat.*: Krankheit, Erkrankung.
+  Die Bezeichnung Morbus wird oft zusammen mit einem Eigennamen, zumeist vom Entdecker einer Erkrankung, oder einem lateinische Zusatz zur Benennung von Krankheiten verwendet;
+  z. B.: Morbus Alzheimer (Demenz vom Alzheimer-Typ), Morbus Koch (Tuberkulose), Morbus Parkinson, Morbus comitialis (Epilepsie).
 
 {index}`akut`
-
 : plötzlich; rascher Handlungsbedarf
 
 {index}`chronisch`
-
 : dauerhaft
 
 {index}`rezidivierend`
-
 : wiederkommend, neuerlich
+
+
 
 ## Vorsilben
 
 {index}`Hyper-`
-
 : hoch, oben
 
 {index}`Hyperglykämie`
-
 : hoher Blutzucker
 
 {index}`Hypertonie`
-
 : Bluthochdruck
 
 {index}`Hypo-`
-
 : tief, unten
 
 {index}`Hypoglykämie`
-
 : niedriger Blutzucker
 
 {index}`Hypotonie`
-
 : niedriger Blutdruck
 
 {index}`Brady-`
-
 : langsam
 
 {index}`Bradykardie`
-
 : langsamer Herzschlag
 
 {index}`Bradypnoe`
-
 : langsame Atmung
 
 {index}`Tachy-`
-
 : schnell
-
 {index}`Tachykardie`
-
 : schneller Herzschlag
 
 {index}`Tachypnoe`
-
 : schnelle Atmung
+
+
 
 (enzym)=
 
 ## Stoffe
 
 {index}`Aminosäure`
-
 : Bausteine von Proteinen.
 
 {index}`Base`
-
 : *Syn.* *Lauge*. Stoff, welcher Protonen aufnehmen kann.
   Sie reagieren mit Säuren und bilden Salze.
 
 {index}`Enzym`
-
-: Hilfsstoff, welcher eine chemische Reaktion (Umwandlung
-  von Stoffen in andere Stoffe) begünstigt.
+: Hilfsstoff, welcher eine chemische Reaktion (Umwandlung von Stoffen in andere Stoffe) begünstigt.
 
 {index}`Protein`
-
 : Eiweiß. Proteine werden aus Aminosäuren zusammengesetzt.
 
 {index}`Säure`
+: Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und bilden Salze.
 
-: Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und
-  bilden Salze.
+
 
 ## Medizinische Fachrichtungen, Fachabteilungen und spezielle Einrichtungen
 
 {index}`Chirurgie`
-
-: Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche
-  ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
-  führen würden {term}`🗎 Pschyrembel 259`. Man kann weitere Spezialgebiete
-  unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie,
-  Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische
-  Chirurgie etc. Daneben gibt es noch viele andere operative Fächer.
+: Fachgebiet zur Erkennung und Behandlung von Erkrankungen, welche ohne operative Maßnahmen zu gesundheitlichen Schäden oder dem Tod
+  führen würden {term}`🗎 Pschyrembel 259`.
+  Man kann weitere Spezialgebiete unterscheiden, z. B. Allgemeinchirurgie (Bauch), Gefäßchirurgie, Herzchirurgie, Thoraxchirurgie, Kinderchirurgie, Plastische Chirurgie etc.
+  Daneben gibt es noch viele andere operative Fächer.
 
 {index}`Geburtshilfe`, {index}`Gynäkologie`, {index}`Frauenheilkunde`
-
 : Fachgebiet die Erkrankungen der Frau betreffend, inkl. Schwangerschaft und Geburtshilfe.
 
 {index}`HNO`
-
 : Hals-, Nasen-, Ohrenkrankheiten
 
 {index}`ICU`
-
 : *engl.* {index}`Intensive Care Unit`; {index}`Intensivstation`.
-  Besondere Behandlungseinrichtung für intensive, oft lebenserhaltende
-  medizinische Maßnahmen und Überwachungen, z. B. Beatmung, Dialyse,
-  Sedierung, Therapie mit kreislaufwirksamen Substanzen etc. In der
-  Regel unterscheidet man zwischen internistischen Intensivstationen,
-  welche sich eher der Behandlung von Herz-Kreislauferkrankungen
-  widmen, und allgemeinen oder anästhesiologischen Intensivstationen,
-  mit meist eher chirurgischen Patienten.
+  Besondere Behandlungseinrichtung für intensive, oft lebenserhaltende medizinische Maßnahmen und Überwachungen, z. B. Beatmung, Dialyse, Sedierung, Therapie mit kreislaufwirksamen Substanzen etc.
+  In der Regel unterscheidet man zwischen internistischen Intensivstationen, welche sich eher der Behandlung von Herz-Kreislauferkrankungen widmen, und allgemeinen oder anästhesiologischen Intensivstationen, mit meist eher chirurgischen Patienten.
 
 {index}`Innere Medizin`
-
-: *Syn.* *Interne Medizin*. Die Innere Medizin befasst sich mit der
-  Vorbeugung, Diagnostik, konservativen und interventionellen
-  Behandlung sowie Rehabilitation und Nachsorge von
-  Gesundheitsstörungen und Krankheiten der inneren Organe und
-  Organsysteme. Innerhalb der Inneren Medizin gibt es verschiedene
-  Spezialgebiete: **Kardiologie** {index}` <Kardiologie>` (Herz), *Hämatologie* und
+: *Syn.* *Interne Medizin*. Die Innere Medizin befasst sich mit der Vorbeugung, Diagnostik, konservativen und interventionellen
+  Behandlung sowie Rehabilitation und Nachsorge von Gesundheitsstörungen und Krankheiten der inneren Organe und Organsysteme.
+  Innerhalb der Inneren Medizin gibt es verschiedene Spezialgebiete:
+  **Kardiologie** {index}` <Kardiologie>` (Herz), *Hämatologie* und
   **Onkologie** {index}` <Onkologie>` (Blut, Krebserkrankungen), *Angiologie*
   (Gefäße), *Endokrinologie* und *Diabetologie* (Stoffwechsel),
   *Gastroenterologie* (Magen-Darm-Trakt), *Nephrologie* (Niere),
@@ -821,72 +771,52 @@ Biotypologie nach Kretschmer:
   *Rheumatologie* (entzündliche Erkrankungen des Bewegungsapparates).
 
 {index}`Neurologie`
-
-: Fachgebiet der Medizin, welches sich mit der Erforschung, Diagnostik
-  und Behandlung von Erkrankungen des *Nervensystems* und der
-  Muskulatur befasst.
+: Fachgebiet der Medizin, welches sich mit der Erforschung, Diagnostik und Behandlung von Erkrankungen des *Nervensystems* und der Muskulatur befasst.
 
 {index}`Nuklearmedizin`
-
-: Fachgebiet, welches die Anwendung radioaktiver Substanzen und
-  offener Radionuklide zur Diagnostik und Therapie umfasst.
+: Fachgebiet, welches die Anwendung radioaktiver Substanzen und offener Radionuklide zur Diagnostik und Therapie umfasst.
 
 {index}`Onkologie`
-
-: Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und
-  Nachsorge von bösartigen Tumorerkrankungen ("Krebs") befasst. Die
-  Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist
-  jedoch eine fachübergreifende Behandlung notwendig.
+: Fachgebiet, welches sich mit der Erkennung, Diagnostik, Therapie und Nachsorge von bösartigen Tumorerkrankungen ("Krebs") befasst.
+  Die Onkologie an sich ist ein Teilgebiet der Inneren Medizin, meist ist jedoch eine fachübergreifende Behandlung notwendig.
 
 {index}`Pädiatrie`
-
-: *Kinderheilkunde*, zuständig für Patienten bis zur Vollendung des
-  18\. Lebensjahres.
+: *Kinderheilkunde*, zuständig für Patienten bis zur Vollendung des 18. Lebensjahres.
 
 {index}`PCI`
-
 : *Abkz.* *Perkutane Coronar-Intervention*,
   auch: {index}`PTCA`
   *Abkz.* *Perkutane Transluminale Coronar-Angiographie*; Herzkatheterbehandlung, Herzkatheteruntersuchung
 
 {index}`Psychiatrie`
-
-: Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und
-  Therapie psychischer Störungen. In der Psychiatrie ist es besonders
-  schwierig, zwischen "gesund" und "krank" treffsicher zu
-  unterscheiden. Eine andere, tendenziell humorvolle Definition besagt
-  daher:
+: Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und Therapie psychischer Störungen.
+  In der Psychiatrie ist es besonders schwierig, zwischen "gesund" und "krank" treffsicher zu unterscheiden.
+  Eine andere, tendenziell humorvolle Definition besagt daher:
 
   > *"Der, der den Schlüssel hat, ist der Arzt."*
   >
   > <p class="attribution">-Otto Pötzl, nach Torberg:DEDTJ</p>
 
 {index}`Pulmologie`
-
 : *Syn.* Pneumologie. Lungenheilkunde
 
 {index}`Radiologie`
-
-: Fachgebiet, welches die *Bildgebung* mittels verschiedener Verfahren
-  ermöglicht. Die Bildgebung kann auch zu therapeutischen Zwecken
-  genutzt werden (interventionelle Radiologie).
+: Fachgebiet, welches die *Bildgebung* mittels verschiedener Verfahren ermöglicht.
+  Die Bildgebung kann auch zu therapeutischen Zwecken genutzt werden (interventionelle Radiologie).
 
 {index}`Stroke Unit`
-
 : Spezialstation zur Behandlung von *Schlaganfällen*
 
 {index}`Toxikologie`
-
 : Lehre der Vergiftungen und Giftstoffe
 
-{index}`Unfallchirugie` und {index}`Traumatologie`
-
-: Lehre und Fachgebiet der Medizin, welches sich mit Unfällen und
-  Verletzungen beschäftigt.
+{index}`Unfallchirurgie` und {index}`Traumatologie`
+: Lehre und Fachgebiet der Medizin, welches sich mit Unfällen und Verletzungen beschäftigt.
 
 {index}`Urologie`
-
 : Heilkunde des harnableitenden Systems
+
+
 
 ## Sonstige Begriffe
 
@@ -895,25 +825,19 @@ Biotypologie nach Kretschmer:
   2. Stoßweise Verabreichung eines Medikaments (intravenös)
 
 {index}`Cave`
-
 : "Achtung!", "Hüte Dich!"
 
 {index}`Obstruktion`,
-
-: {index}`Verlegung`,  Verengung. z. B. im Rahmen der
-  {ref}`COPD <copd>`.
+: {index}`Verlegung`,  Verengung. z. B. im Rahmen der {ref}`COPD <copd>`.
 
 {index}`Pathologie`, {index}`pathologisch`, {index}`Patho-`
-
-: Lehre von den Krankheiten. Als pathologisch wird alles Krankhafte
-  bezeichnet. Die Vorsilbe "Patho" weist auf etwas Abnormales,
-  Krankhaftes hin.
+: Lehre von den Krankheiten.
+  Als pathologisch wird alles Krankhafte bezeichnet.
+  Die Vorsilbe "Patho" weist auf etwas Abnormales, Krankhaftes hin.
 
 {index}`Zyanose`
-
-: Blaufärbung der Haut aufgrund eines mangelnden Sauerstoffgehaltes
-  des Blutes. Betroffen sind insbesonders die Finger, Lippen und das
-  Gesicht.
+: Blaufärbung der Haut aufgrund eines mangelnden Sauerstoffgehaltes des Blutes.
+  Betroffen sind insbesonders die Finger, Lippen und das Gesicht.
 
 
 

@@ -68,8 +68,7 @@ Bestandteile der Zelle:
 
 ## Allgemeiner Aufbau der Zelle
 
-Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib
-(Zytoplasma) sowie der Zellmembran (Plasmalemm)*. Das Zytoplasma setzt sich dann weiters zusammen aus dem Zytosol (Salzlösung = gelöste Ionen mit Proteinen), den Zellorganellen und Zelleinschlüssen (Paraplasma).
+Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib (Zytoplasma) sowie der Zellmembran (Plasmalemm)*. Das Zytoplasma setzt sich dann weiters zusammen aus dem Zytosol (Salzlösung = gelöste Ionen mit Proteinen), den Zellorganellen und Zelleinschlüssen (Paraplasma).
 
 Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten (Blutplättchen) ausgenommen — in jeder Zelle vorhanden.
 Einige Zellen (Leberzellen (Hepatozyten) 2, knochenabbauende Zellen (Osteoklasten) 5—20, Skelettmuskelzellen (Myozyten) >1000) besitzen sogar mehrere.
@@ -77,7 +76,7 @@ Einige Zellen (Leberzellen (Hepatozyten) 2, knochenabbauende Zellen (Osteoklaste
 Der Zellkern enthält die genetische Erbinformation (DNA: Desoxyribonukleidsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare* (46 Chromosomen, 23 von der Mutter, 23 vom Vater).
 Von hier kommen die "Bauanleitungen" für die Proteinsynthese in Form von einsträngigen Kopien, der RNA (= Ribonukleinsäure), die von den Ribosomen dann “übersetzt” werden.
 Ausgenommen während der Zellteilung liegt die DNA nicht geordnet, d.h. nicht in Chromosomenform, vor.
-Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sondern zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kernes, der Bereich, in dem gerade aktiv RNA produziert wird.
+Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sondern zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kerns, der Bereich, in dem gerade aktiv RNA produziert wird.
 
 Die DNA dient als Speicher des genetischen Codes, als Bauplan der Proteinsynthese und der identischen Replikation während der Zellteilung.
 
@@ -108,14 +107,14 @@ Es gibt daher insg. 4³ = 64 Kombinationsmöglichkeiten der Basen.
 61 dieser Kombinationen bilden Anweisungen zur Bildung von Proteinen, 3 der Kombinationen zeigen den Beginn bzw. das Ende eines Gens (bzw. eines Proteins) an.
 
 Zur Bildung von Proteinen muss die DNA zunächst kopiert werden und diese Kopie aus dem Zellkern transportiert werden.
-Diese Kopie ist einsträngig und wird aufgrund des anderen Zuckermoleküls (Ribose) als Riboxynukleidsäure (RNA) bezeichnet. Zusätzlich besitzt die RNA auch noch eine andere Base — Uracil ersetzt das Thymin der DNA.
+Diese Kopie ist einsträngig und wird aufgrund des anderen Zuckermoleküls (Ribose) als Riboxynukleinsäure (RNA) bezeichnet. Zusätzlich besitzt die RNA auch noch eine andere Base — Uracil ersetzt das Thymin der DNA.
 Die RNA wird dann mithilfe der Ribosomen übersetzt.
 
 Folgende Begriffe sind bzgl. der Aminosäuren wichtig:
 
 - *essentielle Aminosäuren* (8, können nicht vom Organismus produziert werden, müssen mit der Nahrung aufgenommen werden): Valin, Leucin, Isoleucin, Phenylalanin, Tryptophan, Lysin, Methionin, Threonin.
   Hierzu gehört auch das Histidin, welches jedoch nur im Säuglingsalter benötigt wird.
-- *proteinogene Aminosäuren* (dienen dem Aufbau von Proteinen durch die Zelle): Glycin, Alanin, Valin, Leucin, Isoleucin, Methionin, Prolin, Phenylalanin, Tryptophan, Serin, Threonin, Asparagin, Glutamin, Cystein, Selenocystein (bedingt), Tyrosin, Apsartat, Glutamat, Histidin, Lysin, Arginin.
+- *proteinogene Aminosäuren* (dienen dem Aufbau von Proteinen durch die Zelle): Glycin, Alanin, Valin, Leucin, Isoleucin, Methionin, Prolin, Phenylalanin, Tryptophan, Serin, Threonin, Asparagin, Glutamin, Cystein, Selenocystein (bedingt), Tyrosin, Aspartat, Glutamat, Histidin, Lysin, Arginin.
 
 Die *Zellmembran* (75 nm) besteht aus einer Lipiddoppelschicht (hauptsächlich Phospholipide) und bildet die Grenze des Intrazellularraums gegen den Extrazellularraum.
 Diese Trennung ist wichtig, da die Flüssigkeiten des Extra- und Intrazellularraums jeweils eine andere Elektrolytkonzentration aufweisen (Übersicht über die Wichtigsten in untenstehender Tabelle).

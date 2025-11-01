@@ -34,14 +34,10 @@ Im Gegensatz zu der Annahme, dass Arterien Sauerstoff-reiches und Venen Sauersto
 *Arterien* transportieren Blut *vom Herzen weg*, *Venen* *zum Herzen hin*!
 :::
 
-```{toctree}
-:caption: Inhalte
-:maxdepth: 1
 
-Herz/index
-Mediastinum/index
-Gefaesse-Allgemein/index
-Gefaesse-Arterien/index
-Gefaesse-Venen/index
-Haemodynamik/index
-```
+:::{toctree}
+:maxdepth: 1
+:glob:
+
+*/index
+:::

@@ -2,13 +2,9 @@
 
 # Bewegungsapparat: Knochen & Muskeln
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-Rumpf/index
-Hals/index
-Kopf/index
-OE/index
-UE/index
-```
+*/index
+:::

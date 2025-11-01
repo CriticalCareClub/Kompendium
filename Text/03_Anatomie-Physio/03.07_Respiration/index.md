@@ -1,12 +1,8 @@
 # Respiratorion
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-ObereAtemwege/index
-UntereAtemwege/index
-Lunge/index
-Pleura/index
-Atmung/index
-```
+*/index
+:::

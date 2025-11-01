@@ -10,16 +10,7 @@
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-Mundhoehle/index
-Pharynx/index
-Oesophagus/index
-Magen/index
-Pankreas/index
-Leber/index
-Gallenblase/index
-Peritoneum/index
-Duenndarm/index
-Dickdarm/index
+*/index
 :::

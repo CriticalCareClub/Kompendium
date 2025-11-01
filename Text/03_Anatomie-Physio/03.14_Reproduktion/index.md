@@ -22,11 +22,10 @@ Man unterscheidet:
     außerhalb des Genitalbereichs auftretende Geschlechtsmerkmale
     (Behaarung, Stimmbruch, Menstruation, Brustentwicklung)
 
-```{toctree}
-:maxdepth: 1
 
-Mann/index
-Frau/index
-Schwangerschaft/index
-Geburt/index
-```
+:::{toctree}
+:maxdepth: 1
+:glob:
+
+*/index
+:::

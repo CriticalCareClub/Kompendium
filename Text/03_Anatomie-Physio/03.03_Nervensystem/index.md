@@ -10,14 +10,12 @@ bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen
 - Elektrische Impulse
 - Verknüpfungen: Synapsen, meist chemische Signale
 
-```{toctree}
+:::{toctree}
 :maxdepth: 1
+:glob:
 
-Allgemein/index
-Zns/index
-Pns/index
-Vns/index
-```
+*/index
+:::
 
 ## tl;dr: Nervensystem
 

@@ -380,7 +380,7 @@ Die Verbindung zwischen einem Neuron und dem Zweiten erfolgt über *Synapsen*.
 
 - **Synapse**:
   Synapsen sind spezielle Orte der Informationsübertragung zwischen zwei Zellen.
-  Sie erfüllen Ventilfunktionen, Bahnungsfunktionen, Hemmungsfunktionen, Gedächtnisfunktionen und Lernfunktionen.
+  Sie erfüllen Ventilfunktionen, Bahnungsfunktionen, Hemmfunktionen, Gedächtnisfunktionen und Lernfunktionen.
   Man kann zwei Formen unterscheiden:
 
   - chemische Synapsen: Übertragung durch eigene Überträgerstoffe

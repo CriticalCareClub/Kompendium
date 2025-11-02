@@ -1,7 +1,7 @@
-```{index} single: Ödem
-```
-```{index} single: Pathomechanismen
-```
+:::{index} single: Ödem
+:::
+:::{index} single: Pathomechanismen
+:::
 
 # Grundlegende Pathomechanismen
 
@@ -16,28 +16,29 @@ Durch krankhafte Vorgänge kann es im Gewebe zu
 
 kommen.
 
-```{index} single: Entzündung
-```
-```{index} single: inflammation
-```
-```{index} single: Tumor; Entzündung
-```
-```{index} single: Rubor
-```
-```{index} single: Calor
-```
-```{index} single: Dolor; Entzündung
-```
-```{index} single: Funtio laesa
-```
+
+
+:::{index} single: Entzündung
+:::
+:::{index} single: inflammation
+:::
+:::{index} single: Tumor; Entzündung
+:::
+:::{index} single: Rubor
+:::
+:::{index} single: Calor
+:::
+:::{index} single: Dolor; Entzündung
+:::
+:::{index} single: Funtio laesa
+:::
 
 (entzuendung)=
 
 ## Entzündung ist eine Reaktion des Körpers
 
-::::{only} not nosidebar
-
 :::{margin} Entzündung
+
 - Reaktion des Körpers
 
   1. *Rötung* (Rubor)
@@ -58,9 +59,11 @@ kommen.
 
 - "-itis"
 :::
-::::
 
-*engl., lat.* inflammation.
+
+*engl., lat.*
+: inflammation
+
 Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
 
 > 1. *Rötung* (Rubor),
@@ -69,7 +72,8 @@ Der Begriff bezeichnet eine typische Reaktion des Körpers, bestehend aus
 > 4. *Schmerz* (Dolor) und
 > 5. *Funktionsverlust* (Funtio laesa).
 
-Mögliche Auslöser sind Fremdkörper, Krankheitserreger, mechanische oder psychische Beanspruchung, chemische Substanzen oder andere pyhsikalische Noxen. Typisch für die Bezeichnung von Entzündungen ist das Suffix {dfn}`-itis`, welches i.d.R. an die betreffende Organbezeichnung angehängt wird:
+Mögliche Auslöser sind Fremdkörper, Krankheitserreger, mechanische oder psychische Beanspruchung, chemische Substanzen oder andere pyhsikalische Noxen.
+Typisch für die Bezeichnung von Entzündungen ist das Suffix {dfn}`-itis`, welches i.d.R. an die betreffende Organbezeichnung angehängt wird:
 
 - Gastritis: "Magenentzündung"
 - Hepatitis: Leberentzündung
@@ -78,8 +82,10 @@ Mögliche Auslöser sind Fremdkörper, Krankheitserreger, mechanische oder psych
 - Rhinitis: "Schnupfen"
 - Otitis: Ohrenentzündung
 
-```{index} single: Ischämie
-```
+
+
+:::{index} single: Ischämie
+:::
 
 (ischaemie)=
 
@@ -104,24 +110,24 @@ Häufig betroffene Gewebe sind:
 
 
 
-```{index} single: Tumor
-```
-```{index} single: Raumforderung
-```
-```{index} single: Sarkom
-```
-```{index} single: Karzinom
-```
-```{index} single: Ca.
-```
-```{index} single: N.
-```
-```{index} single: Neoplasma
-```
-```{index} single: Blastom
-```
-```{index} single: Leukämie
-```
+:::{index} single: Tumor
+:::
+:::{index} single: Raumforderung
+:::
+:::{index} single: Sarkom
+:::
+:::{index} single: Karzinom
+:::
+:::{index} single: Ca.
+:::
+:::{index} single: N.
+:::
+:::{index} single: Neoplasma
+:::
+:::{index} single: Blastom
+:::
+:::{index} single: Leukämie
+:::
 
 (tumor)=
 
@@ -136,8 +142,6 @@ Daraus resultiert in der Regel eine *Raumforderung*.
 
 Man unterscheidet zwischen *gutartigen* (**benignen**) und *bösartigen* (**malignen**) Neubildungen:
 
-
-
 Bösartige Neubildungen
 : bestehen aus *entarteten* Zellen, welche ihre typischen Zelleigenschaften und -funktionen verloren haben.
   Sie wachsen in andere Gewebestrukturen ein (wachsen *infiltrativ*) und können *Absiedelungen* (:dfn:`Metastasen`) bilden.
@@ -146,16 +150,15 @@ Bösartige Neubildungen
 
 Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man
 
-
 Je nach betroffener Gewebeart unterscheidet man bei malignen Tumoren zwischen *Karzinomen*, *Sarkomen* und *Blastomen*, bei malignen Erkrankungen der Blutzellen spricht man von *Leukämien* {index}` <Leukämie>` bzw. *Lymphomen* {index}` <Lymphom>`.
 Maligne Neoplasien wergen umgangssprachlich als *Krebs* (engl. *Cancer*) bezeichnet.
 
 Der Fachbereich der sich mit malignen Neubildungen (Krebserkrankungen) befasst ist die *Onkologie*.
-Grundsätzlich können alle teilungsfähigen Zellen entarten. Dies kann spontan geschehen oder durch andere Faktoren (radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
+Grundsätzlich können alle teilungsfähigen Zellen entarten.
+Dies kann spontan geschehen oder durch andere Faktoren (radioaktive Strahlung, chemische Substanzen) begünstigt bzw. ausgelöst werden.
 
 :::{note}
-Der Begriff **Tumor** bedeutet ganz allgemein "Schwellung"
-und wird oft *fälschlicherweise* mit malignen Neoplasien gleichgesetzt.
+Der Begriff **Tumor** bedeutet ganz allgemein "Schwellung" und wird oft *fälschlicherweise* mit malignen Neoplasien gleichgesetzt.
 :::
 
 :::{list-table} Beispiele: Maligne Neoplasien
@@ -176,29 +179,27 @@ und wird oft *fälschlicherweise* mit malignen Neoplasien gleichgesetzt.
   -
 :::
 
-```{rubric} Was ist das Problem?
-```
+
+
+:::{rubric} Was ist das Problem?
+:::
 
 Zusammengefasst ergeben sich drei wesentliche Probleme:
 
 1. Neubildungen, egal ob gut- oder bösartig, **brauchen Raum**:
-   Je nach Lage können wichtige Strukturen beengt oder behindert werden
-   (Hirn, Luftröhre, …).
-   Besonders Problematisch ist eine Raumforderung in geschlossenen, starren Strukturen
-   z., B. der {ref}`Schädelkalotte <Schaedel>`.
-   Da hier kaum Platz für zusätzliches Gewebe ist können
-   auch gutartige Tumoren schwerwiegende
+   Je nach Lage können wichtige Strukturen beengt oder behindert werden (Hirn, Luftröhre, …).
+   Besonders Problematisch ist eine Raumforderung in geschlossenen, starren Strukturen z., B. der {ref}`Schädelkalotte <Schaedel>`.
+   Da hier kaum Platz für zusätzliches Gewebe ist können auch gutartige Tumoren schwerwiegende
    und auch lebensbedrohende Probleme verursachen.
 2. **Funktionsverlust** des gesunden Gewebes:
-   Durch das infiltrative Wachstum und den Befall mit
-   (nutzlosen) Metastasen wird das gesunde Gewebe soweit durchwachsen
-   und geschwächt, dass es seine Funktion nicht mehr richtig ausführen
-   kann (z. B. Knochenbefall).
-3. **Schmerz**: Der Befall verursacht oft starke Schmerzen. Krebspatienten
-   benötigen oft eine dauerhafte, starke Schmerztherapie.
+   Durch das infiltrative Wachstum und den Befall mit (nutzlosen) Metastasen wird das gesunde Gewebe soweit durchwachsen und geschwächt, dass es seine Funktion nicht mehr richtig ausführen kann (z. B. Knochenbefall).
+3. **Schmerz**:
+   Der Befall verursacht oft starke Schmerzen. Krebspatienten benötigen oft eine dauerhafte, starke Schmerztherapie.
 
-```{rubric} Therapie
-```
+
+
+:::{rubric} Therapie
+:::
 
 Der Therapieerfolg ist sehr stark von der genauen Art der Neubildung und vom jeweiligen Patienten abhängig und reicht von sehr gut bis nicht vorhanden. Im wesentlichen kommen bei der Krebstherapie folgende Methoden zum Einsatz:
 
@@ -220,7 +221,6 @@ Der Therapieerfolg ist sehr stark von der genauen Art der Neubildung und vom jew
   Erkrankung, sondern das Ermöglichen eines würdigen und schmerzfreien
   Lebens bis zum Eintreten des Todes.
 - *Immuntherapie*
-
 
 
 Diese Therapien sind für den Körper sehr anstrengend und haben viele Nebenwirkungen, wie z. B. Haarausfall, Übelkeit, Erbrechen, *Schwächung des Immunsystems*, Nervenschäden u. v. a. m.

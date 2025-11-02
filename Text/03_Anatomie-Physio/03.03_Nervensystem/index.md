@@ -60,7 +60,7 @@ Weitere Einteilungen sind möglich:
 
 - Einteilung nach Steuerung:
     - Somatisches NS (willkürlich) und
-    - unwillkürliches NS (Parasymp. + Sympathikus)
+    - unwillkürliches NS (Parasympathikus + Sympathikus)
 
 
 

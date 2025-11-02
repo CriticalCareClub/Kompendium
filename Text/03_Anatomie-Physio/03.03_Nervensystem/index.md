@@ -1,14 +1,66 @@
 # Nervensystem
 
-Das Nervensystem wird aus *Nervenzellen* aufgebaut, welche miteinander
-verschalten sind. Die Fortleitung von Informationen innerhalb einer
-Nervenzelle funktioniert über *elektrische Impulse*. Zwischen den Nerven
-bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen
-(*Synapsen*) meistens mittels chemischer Signale.
+
+
+:::{margin} Nervensystem
 
 - Nervenzellen, miteinander verschaltet
 - Elektrische Impulse
 - Verknüpfungen: Synapsen, meist chemische Signale
+
+:::
+
+Das Nervensystem wird aus *Nervenzellen* aufgebaut, welche miteinander verschalten sind.
+Die Fortleitung von Informationen innerhalb einer Nervenzelle funktioniert über *elektrische Impulse*. Zwischen den Nerven bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen (*Synapsen*) meistens mittels chemischer Signale.
+
+
+
+
+:::{margin} Unterteilung
+
+nach Aufbau
+
+- **Zentrales Nervensystem** (*ZNS*)
+- **Peripheres Nervensystem** (*PNS*)
+
+nach Funktion
+
+- motorisches Nervensystem
+- sensorisches Nervensystem
+- vegetatives Nervensystem
+:::
+
+
+Die einfachste Form eines Nervensystems ist das *primitive Nervensystem*.
+Hier verarbeiten Sinneszellen Information und leiten die Erregung über einen Fortsatz direkt zu einer Nervenzelle weiter.
+Diese Form der Erregungsübertragung findet man beim Menschen nur noch beim Riechepithel.
+
+Das restliche Nervensystem des Menschen ist ein *differenziertes Nervensystem* - hier existiert eine weitere Zelle zwischen Sinneszelle und Muskelzelle, die Nervenzelle. Diese Nervenzelle überträgt die Erregung auf weitere Nervenzellen, es wird so ein *Nervennetz* gebildet.
+
+Das Nervensystem des Menschen wird in zwei Bereiche unterteilt.
+Einerseits gibt es das *vegetative / viszerale / autonome Nervensystem* und das *animalische Nervensystem*. Über das animalische Nervensystem steht der menschliche Organismus mit der Umwelt und über das vegetative Nervensystem mit seinen Organen in Verbindung.
+Bei beiden Nervensystemen kann man *afferente* (von peripher nach zentral: sensorisch / sensibel) bzw. *efferente* (von zentral nach peripher: motorisch) Nerven unterscheiden.
+
+Aufgrund der *Lage* wird das animalische Nervensystem außerdem in zwei Teile eingeteilt:
+
+- **Zentrales Nervensystem** (*ZNS*): Gehirn und Rückenmark
+- **Peripheres Nervensystem** (*PNS*): animalische und vegetative Nerven und Ganglien
+
+Weitere Einteilungen sind möglich:
+
+- Einteilung der *Sensibilität*:
+
+  - exterozeptive Sensibilität: Umweltreize
+  - propriozeptive Sensibilität: Reize aus dem Körperinneren
+
+- Einteilung der *Motorik*:
+
+  - Somatomotorik: quergestreifte Muskulatur
+  - Viszeromotorik: glatte Muskulatur
+
+
+
+
 
 :::{toctree}
 :maxdepth: 1
@@ -22,16 +74,21 @@ bzw. an den Zielorganen erfolgt die Weiterleitung an Verknüpfungsstellen
 
 <!-- # 6. Nervensystem -->
 
-Liquor cerebrospinalis: Produktion im Plexus choroideus, Absorption an Arachnoidalvilli der Sinus durae matris durch hydrostatischen Druckgradienten. Zusammensetzung: weniger Kalium,
-Bicarbonat und Glucose als im Plasma, Protein nur in Spuren
-(0,2g/l während Plasma 75g/l).
+Liquor cerebrospinalis: Produktion im Plexus choroideus, Absorption an Arachnoidalvilli der Sinus durae matris durch hydrostatischen Druckgradienten.
+Zusammensetzung: weniger Kalium, Bicarbonat und Glucose als im Plasma, Protein nur in Spuren (0,2g/l während Plasma 75g/l).
 
-Einteilung: Somatisches NS (willkürlich) und unwillkürliches NS (Parasymp. + Sympathikus)
-Peripherer Nerv: Axon-Myelinscheide-Endoneurium-Perineurium-Faszikel-Epineurium Neuron: Soma mit Zellkern-Axon-Dendriten
+Einteilung:
+- Somatisches NS (willkürlich) und
+- unwillkürliches NS (Parasymp. + Sympathikus)
+
+Peripherer Nerv:
+- Axon - Myelinscheide - Endoneurium - Perineurium - Faszikel - Epineurium
+- Neuron: Soma mit Zellkern-Axon-Dendriten
 
 
 Aktionspotential:
-Das Ruhemembranpotential (Kaliumdiffusionspotential bei geschlossenen Na-Kanälen) beträgt minus 80mV. Na/K-Pumpe bringt Natrium entgegen dem Konzentrationsgradienten aus der Zelle und Kalium in die Zelle, bei -50mv Schwellenwert kommt es zum Na-Einstrom = Depolarisation mit Aktionspotential (Alles oder nichts Regel)
+Das Ruhemembranpotential (Kaliumdiffusionspotential bei geschlossenen Na-Kanälen) beträgt minus 80mV.
+Na/K-Pumpe bringt Natrium entgegen dem Konzentrationsgradienten aus der Zelle und Kalium in die Zelle, bei -50mv Schwellenwert kommt es zum Na-Einstrom = Depolarisation mit Aktionspotential (Alles oder nichts Regel)
 Danach passiver Kaliumausstrom mit Repolarisation = refraktär (nicht erregbar)
 Das Ruhemembranpotential ist weniger negativ bei: Hyperkaliämie, inaktivierten Na/K-Pumpen.
 
@@ -60,15 +117,20 @@ Neurotransmitter:
 
 
 
-Lage der Ganglien des Sympathikus: Zellkörper des 1  Neuron Th1/2 im RM, Umschaltung im Grenzstrang des 2 Neurons führt zum Zielorgan.
-Lage der Ganglien des Parasympathikus: Ursprung des 1  Neuron in den Kerngebieten der Hirnnerven 3,7,9,10 (besonders Vagus) und S2-5. Die Umschaltung auf das 2 Neuron findet erst im Zielorgan statt.
+**Lage der Ganglien des Sympathikus**:
+- Zellkörper des 1  Neuron Th1/2 im RM,
+- Umschaltung im Grenzstrang des 2 Neurons führt zum Zielorgan.
+
+**Lage der Ganglien des Parasympathikus**:
+- Ursprung des 1  Neuron in den Kerngebieten der Hirnnerven 3,7,9,10 (besonders Vagus) und S2-5.
+- Die Umschaltung auf das 2 Neuron findet erst im Zielorgan statt.
 
 
-Acetylcholin: wird aus Cholin und Acetyl-CoA synthetisiert und durch Cholinesterase gespalten. Es gibt drei verschiedene Cholinesterasen:
+**Acetylcholin**: wird aus Cholin und Acetyl-CoA synthetisiert und durch Cholinesterase gespalten.
+Es gibt drei verschiedene **Cholinesterasen**:
 
 1. Ortsständige spezifische CHE (f. Acetylcholin)
-2. Plasma-CHE: spaltet Succinylcholin, Mivacron, Ester-LA (Procain,
-Cocain)
+2. Plasma-CHE: spaltet Succinylcholin, Mivacron, Ester-LA (Procain, Cocain)
 3. Unspezifische CHE: Abbau von Ultiva, Esmolol
 
 
@@ -81,13 +143,11 @@ Indirekte Hemmung am Acetylcholin-Rezeptor durch Hemmung der Cholinesterase:
 
 Therapie NW der Antagonisierung: Bradykardie, Salivation, Bronchospasmus, daher Kombination mit Parasympatholytika (Atropin, Robinul), welche jedoch Tachykardie, Hypertonie, Sekretionsstop, Mydriasis, Fieber bei Kindern durch verminderte Schweißproduktion, Agitation, und Angst bewirken können.
 
-### 6.1. zentrales Anticholinerges Syndrom
 
-Es gibt eine delirante oder somnolente Form. Bei beiden findet man klinisch: weite Pupillen,
-Schluckstörung, Mundtrockenheit, Tachykardie, ev. Extrasystolen, Harnverhalt. Auslöser sind Atropin,
-Antihistaminika, Benzodiazepine, Ketamin, volatile Anästhetika,...
-Therapie: Physiostigmin titriert. (Anticholium)
+:::{seealso}
 
+- {ref}`zentrales-Anticholinerges-Syndrom`
+:::
 
 
 
@@ -146,6 +206,8 @@ Abbau von Noradrenalin und Adrenalin
 Praktische Anwendung
 : - Hypotonie mit Bradykardie: Ephedrin (ab 50 mg NA-Speicher leer, keine weitere Wirkung zu erwarten)
   - Hypotonie mit Tachykardie: NA, Phenylephrin
+
+
 
 ### Clonidin
 

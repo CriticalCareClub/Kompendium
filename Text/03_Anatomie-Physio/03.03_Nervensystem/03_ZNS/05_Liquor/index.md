@@ -1,9 +1,19 @@
 # Liquorsystem
 
-Liquor ist funktionell sehr wichtig für unser Zentralnervensystem.
-Innerhalb der*inneren und äußeren Liquorräume* befindet sich insgesamt 130 bis 150 ml Liquor. Der Liquor fließt einerseits im Subarachnoidealraum (äußere Liquorräume) und andererseits in den Innenräumen des Gehirns (Ventrikelsystem, innere Liquorräume).
+Der Liquor cerebrospinalis (Liquor) ist funktionell sehr wichtig für unser Zentralnervensystem.
+Innerhalb der *inneren und äußeren Liquorräume* befindet sich insgesamt *130--150 ml* Liquor.
+Der Liquor fließt einerseits im Subarachnoidealraum (äußere Liquorräume) und andererseits in den Innenräumen des Gehirns (Ventrikelsystem, innere Liquorräume).
 
-Liquor dient zum Schutz des Gehirns (*Stoßdämpfer*) und verringert auch das tatsächliche Gewicht des Gehirns um *ca. 90%*.
+Er dient zum Schutz des Gehirns (*Stoßdämpfer*) und verringert auch das tatsächliche Gewicht des Gehirns um *ca. 90%*.
+
+Die **Produktion** erfolgt im *Plexus choroideus* in den Ventrikeln mit ca. 30 ml / h.
+Im Bereich des Sinus sagittalis superior gibt es Arachnoidalzotten zum Liquorabfluss bzw. im Bereich der Spinalnerven das Venengeflecht des Rückenmarks.
+
+Die **Absorption** (Abbau, Abgabe an das venöse System) an Arachnoidalvilli der Sinus durae matris (Granulationes arachnoidales) durch hydrostatischen Druckgradienten.
+
+Zusammensetzung: weniger Kalium, Bicarbonat und Glucose als im Plasma, Protein nur in Spuren (0,2g/l während Plasma 75g/l).
+
+## Liquorräume
 
 - Seitenventrikel (I und II) mit Cornu anterius (im Frontallappen),
   Pars centralis (über dem Thalamus), Cornu occipitale (im
@@ -19,5 +29,3 @@ Die Verbindungen zwischen den Ventrikel sind:
 - Foramen interventriculare zwischen I / II und III
 - Aquaeductus cerebri: zwischen III und IV
 - Aperturae: IV zu Subarachnoidalraum
-
-Es wird ca. 30 ml Liquor pro Stunde in den Plexus choroideus gebildet, im Bereich des Sinus sagittalis superior gibt es Arachnoidalzotten zum Liquorabfluss bzw. im Bereich der Spinalnerven das Venengeflecht des Rückenmarks. Die Bildung des Liquors erfolgt im Plexus choroideus in den Ventrikeln, der Abbau (Abbgabe an das venöse System) über die Granulationes arachnoidales.

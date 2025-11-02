@@ -1,9 +1,5 @@
 # Funktionelle Systeme
 
-
-
-
-
 ## Motorik
 
 Die motorischen Funktionen werden über den *motorischen Kortex* (primär-

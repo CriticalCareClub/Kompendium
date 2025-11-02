@@ -139,3 +139,12 @@ Bilderserie: PNS  [₢ Lena Hirtler, ℓ MfG]
 
 :::
 
+
+
+-----
+
+<!-- AUST -->
+
+Peripherer Nerv:
+- Axon - Myelinscheide - Endoneurium - Perineurium - Faszikel - Epineurium
+- Neuron: Soma mit Zellkern-Axon-Dendriten

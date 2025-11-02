@@ -23,12 +23,13 @@ Bewusstsein[^fnbewusstsein] ist ein Oberbegriff für u.a. Wachheit, Orientierung
 :::
 
 
-Es ist eine grundlegende *Vitalfunktion erster Ordnung* und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung. Ein bewusstseinsklarer Mensch kann sich gegen innere und
-äußere Gefahren wehren, z. B. mittels der Schutzreflexe, ein eingetrübter oder bewusstloser Mensch kann dies schlecht oder gar nicht.
+Es ist eine grundlegende *Vitalfunktion erster Ordnung* und wichtig hinsichtlich des Schutzes des Menschen vor Bedrohung.
+Ein bewusstseinsklarer Mensch kann sich gegen innere und äußere Gefahren wehren, z. B. mittels der Schutzreflexe, ein eingetrübter oder bewusstloser Mensch kann dies schlecht oder gar nicht.
 
 Bei der Diagnostik beurteilt man den *Bewusstseinsgrad* (*quantitativ*;
 *Wieviel* Bewusstsein ist vorhanden?) und die *Orientierung* (Qualität;
-*Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich, zur Situation und zur Person). Details siehe {ref}`Bewusstseinsgrad`.
+*Wie gut funktioniert das vorhandene Bewusstsein?* Zeitlich, örtlich, zur Situation und zur Person).
+Details siehe {ref}`Bewusstseinsgrad`.
 
 [^fnbewusstsein]:
     Die "wahre" Definition von Bewusstsein ist seit tausenden von Jahren ungeklärt.

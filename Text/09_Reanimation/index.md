@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (chp-als)=
 (chp-bls)=
 (atemstillstand-aed)=

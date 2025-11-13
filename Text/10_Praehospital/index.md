@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Prähospitale Versorgung
 
 :::{toctree}

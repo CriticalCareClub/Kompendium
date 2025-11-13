@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Intensivbehandlung
 
 ````{only} latex

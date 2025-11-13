@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 :::{index} single: Myasthenia gravis
 :::
@@ -43,7 +47,7 @@ Therapie
 Kein Effekt auf AchE-Inhibitatoren  = keine MG, muss eine andere Ursache für Muskelschwäche geben.
 
 Präoperativ
-: Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren! (Besser leicht myasth. als {ref}`cholinergisch <Cholinerge-Krise>`); 
+: Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren! (Besser leicht myasth. als {ref}`cholinergisch <Cholinerge-Krise>`);
   {index}` <Mestinon>`
 
   Erfragen: Schluckstörungen? Respiratorische Insuffizienz?
@@ -75,7 +79,7 @@ Therapie
 
 
 :::{seealso}
-- {ref}`Cholinerge Krise <Cholinerge-Krise>` 
+- {ref}`Cholinerge Krise <Cholinerge-Krise>`
   bei Überdosierung CHE-Inhib. durch muskarine NW: Schwitzen, Abdominalkrämpfe, Diarrhoe, Speichelfluss, Miosis, Bradykardie, Hypotonie;
 
   Therapie

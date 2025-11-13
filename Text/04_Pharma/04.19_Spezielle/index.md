@@ -1,6 +1,10 @@
+---
+status: draft
+---
+
 # Spezielle Patientengruppen
 
-\*\*\*\*\*\*’’’’’’’’’’’’##\*\*
+
 
 Die Pharmakotherapie bei Kindern, Schwangeren und Stillenden sowie im Alter ist von pharmakokinetischen und pharmakodynamischen Besonderheiten gekennzeichnet.
 

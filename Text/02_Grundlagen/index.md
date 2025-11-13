@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Grundlagen
 
 Die Medizin ist die Lehre von Gesundheit und Krankheit sowie die Kunde

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 :::{raw} latex
@@ -10,7 +14,7 @@
 ## Konzentrationen
 
 Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE** 
+: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
 
 Es ist sinnvoll die Konzentration eines flüssigen Arzneimittels in mg / ml umzurechnen.
 Bei Konzentrationsangaben in Prozent zeigt sich, dass Mediziner mit Naturwissenschaften eigentlich nicht soviel am Hut haben; man postuliert einfach, dass ein Liter einem Kilogramm entspricht[^SI-Kilogramm-Liter].

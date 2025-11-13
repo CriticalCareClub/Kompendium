@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (abcde-3)=
 
 # ③ Bewusstsein (Alertness)

@@ -1,6 +1,8 @@
 ---
-Querverweis: '{ref}`Reanimation`'
+status: final
 ---
+
+
 
 (kreislaufstillstand)=
 

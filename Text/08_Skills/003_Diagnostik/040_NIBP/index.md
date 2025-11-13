@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Blutdruck; systolischer; Messung
 :::
 :::{index} single: Blutdruck; diastolischer; Messung

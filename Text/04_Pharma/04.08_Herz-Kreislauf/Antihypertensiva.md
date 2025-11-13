@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Antihypertensiva
 
 
@@ -42,12 +46,12 @@ Diese Substanzgruppe wirkt über die Blockade des Angiotensin-Converting-Enzyms 
 * - Cilazapril
   - Dynorm™, Inhibace™
 * - Enalapril
-  - Pres™, Alapril™, Enac „Hexal“ ™, Mepril™,  
+  - Pres™, Alapril™, Enac „Hexal“ ™, Mepril™,
     Renitec™, Baroprine™, Prilenal™
 * - Fosinopril
   - Forinorm™, Fosicomb™, Fositens™
 * - Lisinopril
-  - Acerbon™, Acetan™, Prinivil™, Acecomb™,  
+  - Acerbon™, Acetan™, Prinivil™, Acecomb™,
     Zestoretic™
 * - Moexipril
   - Fempress™
@@ -56,7 +60,7 @@ Diese Substanzgruppe wirkt über die Blockade des Angiotensin-Converting-Enzyms 
 * - Quinapril
   - Accupro™, Quinastad™, Accuzide™
 * - Ramipril
-  - Delix™, Hypren™, Lannapril™, Tritace™,  
+  - Delix™, Hypren™, Lannapril™, Tritace™,
     Lasitace™, Trialix™
 * - Spirapril
   - Quadropril™
@@ -75,8 +79,8 @@ Häufig wird über trockenen Reizhusten geklagt. Dieser sollte sich jedoch nach 
 Kontraindikationen: Schwangerschaft, Stillzeit, Nierenarterienstenose, Aortenstenose
 
 :::{attention}
-- Bei ACE-Hemmer-Therapie kann es zu einem angioneurotischen Ödem 
-  {index}` <Angioödem; ACE-Hemmer>` 
+- Bei ACE-Hemmer-Therapie kann es zu einem angioneurotischen Ödem
+  {index}` <Angioödem; ACE-Hemmer>`
   {index}` <ACE-Hemmer; Angioödem>`
   {index}` <Ödem; Angio->`
   mit Ausbildung von Weichteilschwellungen kommen. Sollte es zu einer

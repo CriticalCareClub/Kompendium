@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (blutzucker-messung)=
 
 # Blutzuckermessung

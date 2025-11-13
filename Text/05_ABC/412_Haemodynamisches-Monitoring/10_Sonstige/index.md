@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 # Sonstige hämodynamische Monitoring-Verfahren
 

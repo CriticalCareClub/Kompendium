@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # *Oxygenierung*
 
 Ziel der Oxygenierung ist die ausreichende Sauerstoffversorgung des Blutes und des Gewebes.

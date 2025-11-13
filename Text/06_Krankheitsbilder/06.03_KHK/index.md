@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (KHK)=
 
 # Koronare Herzkrankheit (KHK)

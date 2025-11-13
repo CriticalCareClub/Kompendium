@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Anaphylaxie
 ```
 ```{index} single: Allergie

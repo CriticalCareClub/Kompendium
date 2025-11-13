@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (sec-herz-kreislauf-stoerungen)=
 (herz-kreislauf-stoerungen)=
 

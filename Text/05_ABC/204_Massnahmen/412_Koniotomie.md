@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Ligamentum; cricothyroideum
 :::
 :::{index} single: Ligamentum; conicum

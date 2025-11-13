@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Etomidate
 :::
 :::{index} single: Hypnomidate™

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Kardioversion, elektrische
 ```
 ```{index} single: Defibrilation

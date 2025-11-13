@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Keatmin; S-
 :::
 :::{index} single: S-Ketamin

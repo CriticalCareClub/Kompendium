@@ -1,9 +1,13 @@
+---
+status: final
+---
+
 ```{index} pair: OP; Hysterektomie, laperoskopisch
 ```
 
 (hysterektomie-per-lap)=
 
-# Hysterektomie 
+# Hysterektomie
 
 - per Lap
 - vaginal, oft mit Scheidenplastik
@@ -43,7 +47,7 @@ Aufrechterhaltung
 
 Zeitlicher Ablauf
 
-: - Vaginal: 
+: - Vaginal:
 
     Präparation der Zervixschleimhaut, Durchtrennung des Lig. supravaginale, Eröffnung der peritonealen Umschlagfalte (zervikal und rektal)
 

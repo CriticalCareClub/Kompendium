@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (abcde-2)=
 
 # ② Eindruck und HWS-Stabilisierung (General Impression + Cervical Spine)

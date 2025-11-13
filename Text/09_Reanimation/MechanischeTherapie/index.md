@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # *Mechanische* Reanimationstherapie
 
 ```{index} single: Herzdruckmassage

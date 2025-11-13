@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Beatmungsmodus; PCV
 :::
 :::{index} single: Druckkontrollierte Beamtung

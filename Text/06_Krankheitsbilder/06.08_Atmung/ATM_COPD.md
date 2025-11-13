@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: COPD
 ```
 ```{index} single: Chronic Obstructive Pulmonary Disease

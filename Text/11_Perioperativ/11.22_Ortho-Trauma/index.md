@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Orthopädie und Traumatologie
 
 :::{toctree}

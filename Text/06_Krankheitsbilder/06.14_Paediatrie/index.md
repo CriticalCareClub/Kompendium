@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # *Spezielle Patientengruppe:* Kinder
 
 ## Umgang mit Kindern

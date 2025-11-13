@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Virostatika
 
 ## Allgemeine Orientierung

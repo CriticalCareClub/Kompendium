@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (ekg)=
 
 # EKG (Basics)

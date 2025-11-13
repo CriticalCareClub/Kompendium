@@ -1,26 +1,30 @@
+---
+status: final
+---
+
 ```{index} single: 4H+HITS
 ```
 ```{index} single: HHHH+HITS
 ```
-```{index} single: reversible Ursachen 
+```{index} single: reversible Ursachen
 ```
-```{index} pair: Reanimation; Ursachen, reversible 
+```{index} pair: Reanimation; Ursachen, reversible
 ```
-```{index} pair: Reanimation; Hypoxie 
+```{index} pair: Reanimation; Hypoxie
 ```
 ```{index} pair: Reanimation; Hypovolämie
 ```
-```{index} pair: Reanimation; Hyperkaliämie 
+```{index} pair: Reanimation; Hyperkaliämie
 ```
-```{index} pair: Reanimation; Hypokaliämie 
+```{index} pair: Reanimation; Hypokaliämie
 ```
-```{index} pair: Reanimation; Hypothermie 
+```{index} pair: Reanimation; Hypothermie
 ```
-```{index} pair: Reanimation; Herzbeuteltamponade 
+```{index} pair: Reanimation; Herzbeuteltamponade
 ```
-```{index} pair: Reanimation; Intoxikation 
+```{index} pair: Reanimation; Intoxikation
 ```
-```{index} pair: Reanimation; Thromboembolie 
+```{index} pair: Reanimation; Thromboembolie
 ```
 ```{index} pair: Reanimation; Spannungspneumothorax
 ```

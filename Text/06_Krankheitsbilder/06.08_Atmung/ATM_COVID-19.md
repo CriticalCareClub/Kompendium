@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 ```{index} single: COVID-19
 ```
 ```{index} single: SARS-CoV-2

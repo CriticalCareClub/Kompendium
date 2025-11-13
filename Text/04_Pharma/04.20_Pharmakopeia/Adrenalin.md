@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Adrenalin
 :::
 :::{index} single: Epinephrin

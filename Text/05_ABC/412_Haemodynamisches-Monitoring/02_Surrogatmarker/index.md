@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 (ghdm-vo-surrogatmarker)=
 
@@ -29,5 +33,5 @@ Zu den Surrogatmarkern der Organperfusion gehören:
   Die Rekapillarisierung kann durch andere Faktoren (Umgebungstemperatur) beeinflusst werden.
 - **Urinausscheidung** (Bedenke Störfaktoren, z.B. vorbestehende Nierenfunktionsstörung)
 - **Neurologische** Leistungsfähigkeit und Vigilanz.
-  Diese wird oft mittels Scores quantifiziert und beurteilt. 
+  Diese wird oft mittels Scores quantifiziert und beurteilt.
   Dies ist jedoch im Intensivsetting häufig schwer oder nicht beurteilbar (z.B. häufig laufende Sedierung, Delir).

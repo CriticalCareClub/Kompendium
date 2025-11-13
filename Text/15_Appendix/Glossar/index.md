@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Abkürzungsverzeichnis und Glossar
 
 ## Abkürzungen

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Erkennen der Reanimationspflichtigkeit
 
 :::{margin} Erkennen der Reanimationspflichtigkeit

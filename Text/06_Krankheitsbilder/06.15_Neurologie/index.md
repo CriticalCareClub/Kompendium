@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Neurologische Störungen
 
 Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle die das Nervensystem betreffen. Sie gehen oft mit einer Störung des Bewusstseins oder anderer Funktionen des Nervensystems einher. Die *Ursachen* von neurologischen Erkrankungen sind sehr vielfältig.

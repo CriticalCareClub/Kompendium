@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Tracheotomie
 :::
 :::{index} single Tracheostoma

@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Hormonsystem
 
 ## Allgemeine Orientierung
@@ -227,49 +231,49 @@ Der ovarielle Zyklus
   - Wirkung
 * - Thyroliberin (TRH)
   - Hypothalamus
-  - TSH-, STH- und  
+  - TSH-, STH- und
     Prolaktin-Ausschüttung
 * - Thyreotropin (TSH)
   - Hypophyse
-  - Schilddrüsenhormon-Synthese,  
+  - Schilddrüsenhormon-Synthese,
     -Ausschüttung
 * - CRF
   - Hypothalamus
   - ACTH-Ausschüttung
 * - ACTH
   - Hypophyse
-  - Kortikoid-Synthese,  
+  - Kortikoid-Synthese,
     -Ausschüttung
 * - GnRH
   - Hypothalamus
   - LH-, FSH-Ausschüttung
 * - FSH
   - Hypophyse
-  - ♀: Östrogenproduktion,  
-    Follikelreifung  
+  - ♀: Östrogenproduktion,
+    Follikelreifung
     ♂: Spermiogenese
 * - LH
   - Hypophyse
-  - ♀: Follikelsprung, Umwandlung  
-    ins Corpus luteum  
+  - ♀: Follikelsprung, Umwandlung
+    ins Corpus luteum
     ♂: Testosteronproduktion
 * - Somatoliberin
   - Hypothalamus
   - Somatotropin-Ausschüttung
 * - Somatostatin
   - Hypothalamus
-  - Hemmung der  
+  - Hemmung der
     Somatotropin-Ausschüttung
 * - Somatotropin (STH)
   - Hypophyse
   - Wachstum, Proteinaufbau
 * - Prolaktostatin
   - Hypothalamus
-  - Hemmung der  
+  - Hemmung der
     Prolaktin-Ausschüttung
 * - Prolaktin
   - Hypophyse
-  - Milchproduktion,  
+  - Milchproduktion,
     Hemmung der LH- und FSH-Ausschüttung
 :::
 

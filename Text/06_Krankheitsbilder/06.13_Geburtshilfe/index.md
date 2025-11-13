@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Schwangerschaft und Geburtshilfe
 
 :::{toctree}

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} pair: OP; VATS
 ```
 
@@ -13,20 +17,20 @@
 * - Varianten
   - Unterschiedliche Indikationen:
     - onkologisch (Segmentresektion, Lobektomie)
-    - Ausräumung von 
-      - Thoraxempyem, Dekortikation 
+    - Ausräumung von
+      - Thoraxempyem, Dekortikation
       - Hämatothorax
     - rez. Spontanpneumothorax
 * - Beschreibung, Pathophysiologie
-  - 
+  -
 * - Dringlichkeit
-  - 
+  -
 * - Dauer (S/N)
-  - 
+  -
 * - Präanästhesie, Aufklärung
-  - Doppelllumentubus, 
+  - Doppelllumentubus,
     Bronchoskopie,
-    arterieller Zugang, 
+    arterieller Zugang,
     ZVK,
     Gabe von Fremdblutprodukten,
     CPAP postoperativ
@@ -47,16 +51,16 @@
 
     ev. ZVK (ipsilateral oder femoral)
 * - Narkoseführung
-  - - TIVA, 
-    - kein Narkosegas (erhöht Shunt-Volumen), 
+  - - TIVA,
+    - kein Narkosegas (erhöht Shunt-Volumen),
     - moderater PEEP (erhöht Shunt-Volumen)
-    - bei Hypoxie: 
-      - primär FiO₂ erhöhen 
+    - bei Hypoxie:
+      - primär FiO₂ erhöhen
       - ggfs. Jet-Ventilation
       - ggfs. intermitterend Single Lung beenden
 * - Lagerung
-  - - Kontralaterale Seitenlage, aufgeknickt 
-    - Arme: seitlich, CAVE Dehnung im Schulterbereich 
+  - - Kontralaterale Seitenlage, aufgeknickt
+    - Arme: seitlich, CAVE Dehnung im Schulterbereich
     - Kopf: Gelring, CAVE Ohr und Auge
     - Lagerungsschäden: N.Peronäus, Plexus brachialis, Ohr, Augen!
 * - Aufstellung
@@ -70,7 +74,7 @@
       3. Ständige Bereitschaft
     - Regelmäßige BGA-Kontrollen, Korrelation etCO₂ und pCO₂
 * - OP-Ablauf
-  - 
+  -
 * - Gefahren
   - - Blutungen
     - Leckage

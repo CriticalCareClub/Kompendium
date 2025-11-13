@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Beatmungsmodus; PSV
 :::
 :::{index} single: PSV

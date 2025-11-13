@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (thema-ops-gynaekologie)=
 
 # Gynäkologie und Geburtshilfe

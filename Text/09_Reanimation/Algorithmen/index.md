@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Algorithmen Herz-Lungen-Wiederbelebung
 
 ::::{only} not nosidebar

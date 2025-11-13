@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Einleitung und Säulen der Reanimation
 
 Als Reanimation werden Wiederbelebungsmaßnahmen im Falles eines Kreislaufstillstands verstanden.

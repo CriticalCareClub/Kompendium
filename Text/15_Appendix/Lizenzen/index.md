@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Lizenzen
 
 ```{index} single: Lizenz

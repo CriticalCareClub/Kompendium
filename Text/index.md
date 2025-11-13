@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 % Master file, created by
 % sphinx-quickstart on Sun Sep 24 10:29:41 2017.
 % You can adapt this file completely to your liking, but it should at least

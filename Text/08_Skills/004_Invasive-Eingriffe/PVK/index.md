@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Periphere Venenverweilkanüle (PVK)
 
 ::::{only} not nosidebar

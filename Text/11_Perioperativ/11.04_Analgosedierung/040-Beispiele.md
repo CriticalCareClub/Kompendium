@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Praxis
 
 
@@ -9,13 +13,13 @@ Dabei ist insbesonders zu berücksichtigen:
 - Sedierungsstufe / RASS
   - Atemweg
   - Grunderkrankung
-  - Hämodynamik, Sauerstoffdefizit   
+  - Hämodynamik, Sauerstoffdefizit
 - Vermutete Dauer der Intensivtherapie
   - "Kurzzeit": Stunden, Tage → eher gut steuerbare, kurz wirksame Substanzen
   - "Langzeit": Wochen, Monate → eher hochkonzentrierte Substanzen mit möglichst wenig Gewöhnungseffekt
 - Weaning-Strategie
 
-Im Rahmen der Visite werden dann Tagesziele, z.B. Anhand des RASS, definiert und entsprechend vorgeschrieben. 
+Im Rahmen der Visite werden dann Tagesziele, z.B. Anhand des RASS, definiert und entsprechend vorgeschrieben.
 Der Patient wird im Verlauf regelmäßig beurteilt und die Dosisrate entsprechend angepasst.
 
 

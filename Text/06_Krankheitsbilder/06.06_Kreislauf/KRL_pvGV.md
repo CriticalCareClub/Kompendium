@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (thrombose)=
 
 # Peripherer venöser Gefäßverschluss: Tiefe Beinvenenthrombose

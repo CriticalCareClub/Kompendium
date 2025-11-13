@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single:: Pulskonturanalyse
 :::
 :::{index} single: Swing

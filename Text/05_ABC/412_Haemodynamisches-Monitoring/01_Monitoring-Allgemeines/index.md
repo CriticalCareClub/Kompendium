@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Basics des apparativen Monitorings
 
 Bei aller bis jetzt gezeigten Motivation — viele der im Folgenden vorgestellten Methoden sind aufwändig, komplikationsreich und/oder teuer.

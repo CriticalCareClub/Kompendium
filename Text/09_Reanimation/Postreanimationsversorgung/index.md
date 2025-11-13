@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: ROSC
 ```
 ```{index} single: Resumption Of Spontaneaus Circulation

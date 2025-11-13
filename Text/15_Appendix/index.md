@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (gefahrenzonen)=
 (gefahrenbereich-strom)=
 (gefahrengutunfall)=

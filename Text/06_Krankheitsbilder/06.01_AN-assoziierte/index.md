@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Anästhesie-assoziierte und Perioperative Störungen
 
 :::{toctree}

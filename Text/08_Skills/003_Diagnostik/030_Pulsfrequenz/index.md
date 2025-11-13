@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Puls
 ```
 ```{index} single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Allgemeines
 
 ## Anamnese und Untersuchung

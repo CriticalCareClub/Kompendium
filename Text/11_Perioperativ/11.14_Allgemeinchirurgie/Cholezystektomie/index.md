@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} pair: OP; Cholecystektomie, laparoskopisch
 ```
 
@@ -6,19 +10,19 @@
 
 # Cholecystektomie, laparoskopisch
 
-:::{list-table} Kurzübersicht: 
+:::{list-table} Kurzübersicht:
 :stub-columns: 1
 
 * - Abkürzung, Synonyme
   - CHE lap.
 * - Varianten
-  - 
+  -
 * - Beschreibung, Pathophysiologie
-  - 
+  -
 * - Dringlichkeit
   - elektiv, bei Cholecystitis subakut
 * - Dauer (S/N)
-  - 
+  -
 * - Präanästhesie, Aufklärung
   - Magensonde
 * - Prä-OP-Diagnostik
@@ -26,11 +30,11 @@
 * - Blutmanagement
   - AKS, keine gEK
 * - Antibiotika
-  - 
+  -
 * - Anästhesieverfahren
   - AN
 
-    Bei akuter Cholecystitis RSI 
+    Bei akuter Cholecystitis RSI
 * - Airway
   - ETI (obligat)
 * - Invasivitäten
@@ -39,7 +43,7 @@
   - TIVA bevorzugt;
     Durch Pneumoperitoneum erschwerte Beatmung: PEEP erforderlich, erhöhte Atemwegsdrücke, CO₂-Anstieg //
 * - Lagerung
-  - Rückenlage, reversed Trendelenburg, Beine gespreizt; Arme: rechts ausgelagert, LINKS augelagert; Kopf: Schaumstoffpolster 
+  - Rückenlage, reversed Trendelenburg, Beine gespreizt; Arme: rechts ausgelagert, LINKS augelagert; Kopf: Schaumstoffpolster
 * - Aufstellung
   - Operateur zwischen Beinen des Patienten, Assistenz seitlich
 * - Geräte
@@ -47,7 +51,7 @@
 * - Peri-OP-Diagnostik
   - —
 * - OP-Ablauf
-  - 
+  -
 * - Typische Komplikationen
   - Blutdruckabfall bei reversed-Trendelenburg-Lagerung //
     Eventuell erschwerter venöser Rückfluss durch Pneumoperitoneum und
@@ -58,7 +62,7 @@
     3. Blutungen
 * - Postoperatives Management
   - AWR
-  
+
     Schmerztherapie: Achte auf LFP!
 
 :::

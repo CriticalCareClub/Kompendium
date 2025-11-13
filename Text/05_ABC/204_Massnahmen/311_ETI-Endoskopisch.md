@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (ETI-endoskopisch)=
 (ETI-fiberoptisch)=
 (FEI)=

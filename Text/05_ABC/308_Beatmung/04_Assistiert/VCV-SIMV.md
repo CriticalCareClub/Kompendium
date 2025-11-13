@@ -1,3 +1,7 @@
+---
+status: sprint
+---
+
 ```{index} single: Beatmungsmodus; VC-SIMV
 ```
 ```{index} single: VC-SIMV
@@ -12,9 +16,9 @@
 ```{rubric} Synonyme
 ```
 
-GE  
+GE
 : SIMV-VC
 
-Hamilton  
+Hamilton
 : SIMV
 

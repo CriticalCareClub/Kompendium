@@ -1,8 +1,12 @@
+---
+status: sprint
+---
+
 (Opiate)=
 
 # Opiate
 
-Neben ihrer stark analgetischer Wirkung trüben Opioide auch das Bewusstsein. 
+Neben ihrer stark analgetischer Wirkung trüben Opioide auch das Bewusstsein.
 Diese Wirkung ist aber nicht sicher gegeben, daher müssen sie unbedingt mit i.v.-Anästhetika kombiniert werden.
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.\*

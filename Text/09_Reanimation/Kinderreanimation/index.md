@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: PLS
 ```
 ```{index} single: Pediatric Life Support

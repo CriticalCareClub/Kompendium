@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} pair: OP; Appendektomie
 ```
 
@@ -43,12 +47,12 @@
 * - Peri-OP-Diagnostik
   - —
 * - OP-Ablauf
-  - 
+  -
 * - Typische Komplikationen
   - - Umstieg von Laparoskopie auf offen
     - Perforation
 * - Gefahren
-  - 
+  -
 * - Postoperatives Management
   - {ref}`AWR <AWR>`
 

@@ -1,9 +1,13 @@
+---
+status: final
+---
+
 
 
 # Fragensammlung
 
 
-- Ein 5jähriger Bub, 20 kg, wird mit Nachblutung bei Z.n. TE vorstellig. 
+- Ein 5jähriger Bub, 20 kg, wird mit Nachblutung bei Z.n. TE vorstellig.
   Er ist ansprechbar, auffallend blass und ruhig. Volumengabe?  Was, wieviel?  Tubusgröße?, PONV-Prophylaxe, Atemwegskomplikationen postextubationem? Behandlung dieser!
 - Klappenfehler: Patient mit AKS (Veränderungen am Herzen, Symptome, Anästhesiologische Besonderheiten)
 - WedgeDruck, Pulmi, Veränderungen bei Herzerkrankungen

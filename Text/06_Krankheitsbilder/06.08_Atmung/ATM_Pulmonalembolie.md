@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 ```{index} single: Embolie; Pulmonal-
 ```
 ```{index} single: Lungenembolie

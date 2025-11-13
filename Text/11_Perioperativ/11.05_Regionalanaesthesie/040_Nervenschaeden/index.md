@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Vorgehen bei Verdacht auf Nervenschädigung
 
 Neurologische Komplikationen treten unabhängig von der Methode (Ultraschall-geführte Punktion vs. Stimulationstechnik) bzw. Blockadelokalisation mit einer Häufigkeit zwischen 0,19% und 1,7% auf.

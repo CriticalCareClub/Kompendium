@@ -1,12 +1,16 @@
-```{index} single: Erythromycin (Darmmotilität) 
+---
+status: final
+---
+
+```{index} single: Erythromycin (Darmmotilität)
 ```
-```{index} single: Metoclopramid (Darmmotilität) 
+```{index} single: Metoclopramid (Darmmotilität)
 ```
-```{index} single: MCP (Darmmotilität) 
+```{index} single: MCP (Darmmotilität)
 ```
-```{index} single: Neostigmin (Darmmotilität) 
+```{index} single: Neostigmin (Darmmotilität)
 ```
-```{index} single: Domperidon (Darmmotilität) 
+```{index} single: Domperidon (Darmmotilität)
 ```
 ```{index} single: Darmmotilität
 ```
@@ -32,7 +36,7 @@
 
 
   NW: extrapyramidale Störungen
-  
+
 
 - **Domperidon** (*Motilium®*)
 

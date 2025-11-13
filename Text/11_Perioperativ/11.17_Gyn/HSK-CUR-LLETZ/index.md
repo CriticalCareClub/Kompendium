@@ -1,4 +1,8 @@
-```{index} pair: OP; Curettage 
+---
+status: final
+---
+
+```{index} pair: OP; Curettage
 ```
 ```{index} pair: OP; Hysteroskopie
 ```

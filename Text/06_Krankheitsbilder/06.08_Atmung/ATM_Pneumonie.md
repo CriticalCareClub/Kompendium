@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Pneumonie
 
 30.9.

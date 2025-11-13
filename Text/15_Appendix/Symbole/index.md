@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (symbole)=
 
 # Symbole und Sonderzeichen

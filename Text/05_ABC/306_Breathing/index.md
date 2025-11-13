@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 (Breathing)=
 
@@ -51,7 +55,7 @@ Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
 
 
 
-## 29.1. Compliance/Resistance: 
+## 29.1. Compliance/Resistance:
 
 Compliance: Dehnbarkeit (Vol/Druck-Bez.) von Lunge und Thorax, 1,5 ml/mbar/Kg normal, ARDS red.
 
@@ -76,7 +80,7 @@ LaPlace-Gesetz: P=  2µ/r  Anwendung: kollabierte Alveolen habe einen kleinen Ra
 Führt bei regionaler alveolärer Hypoventilation zu Vasokonstriktion mit therapieresistenter Oxygenierungsstörung. (ARDS)
 
 
-## 29.2. Bronchoskopie 
+## 29.2. Bronchoskopie
 
 1) Starre Bronchoskopie bei massiver Hämoptoe, FK-Entfernung va. bei Kindern (Beatmung übers Bronchoskop möglich!), Lasertherapie, Trachealeingriffe, Stentplazierung,
 HNO LM.

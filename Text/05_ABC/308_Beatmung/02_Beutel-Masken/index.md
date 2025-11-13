@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 (manuellebeatmung)=
@@ -6,7 +10,7 @@
 
 Eine Beatmung wird normalerweise mit Hilfsmitteln durchgeführt.
 Helferseitig kommen dabei ein *Beatmungsbeutel* ({ref}`Beatmungsbeutel`) oder ein *Beatmungsgerät* zum Einsatz.
-Patientenseitig werden *Beatmungsmasken* oder andere {ref}`Atemwegshilfsmittel <Airway-Techniken>` (Endotrachealtuben, Larynxtuben, Larynxmasken, Combituben, …) angewendet. 
+Patientenseitig werden *Beatmungsmasken* oder andere {ref}`Atemwegshilfsmittel <Airway-Techniken>` (Endotrachealtuben, Larynxtuben, Larynxmasken, Combituben, …) angewendet.
 Um die Atemwege freizuhalten, kann u. U. unterstützend ein Airway-Device wie z.B. ein {ref}`Guedel-Tubus <guedeltubus>` angewendet werden.
 
 ::::{only} not nosidebar

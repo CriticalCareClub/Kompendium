@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} pair: Airway; Einschätzungsblock
 ```
 ```{index} single: Atemweg; Einschätzungsblock

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Körperkerntemperatur
 ```
 ```{index} single: tympanal; Temperaturmessung

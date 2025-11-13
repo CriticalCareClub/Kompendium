@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Atmung; Einschätzungsblock
 ```
 ```{index} pair: Breathing; Einschätzungsblock

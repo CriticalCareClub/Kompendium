@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # DIC und TIC
 
 :::{index} single: Trauma-induzierte Koagulopathie

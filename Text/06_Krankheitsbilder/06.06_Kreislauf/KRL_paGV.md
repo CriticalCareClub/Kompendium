@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (arteriellergefaessverschluss)=
 
 # Peripherer arterieller Gefäßverschluß

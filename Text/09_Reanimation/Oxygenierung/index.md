@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # *Oxygenierung*
 
 Ziel der Oxygenierung ist die ausreichende Sauerstoffversorgung des Blutes und des Gewebes.
@@ -81,7 +85,7 @@ Die Qualität der Beatmung wird durch *Beobachtung der Atemexkursionen* des Brus
 
 ```{index} single: endotracheale Intubation; Reanimation
 ```
-```{index} single: ETI; Reanimation 
+```{index} single: ETI; Reanimation
 ```
 ```{index} pair: Reanimation; Intubation, endotracheale
 ```

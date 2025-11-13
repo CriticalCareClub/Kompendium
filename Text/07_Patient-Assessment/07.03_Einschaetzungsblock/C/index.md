@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (abcde-c)=
 (circulation-patient-assessment)=
 

@@ -9,6 +9,7 @@ status: final
 :::{todo} {issue}`142` Aust-Skriptum: **Schmerztherapie** (7.)
 :::
 
+:::::{only} ENTWICKLUNG
 
 Das Ziel ist schmerzfreiheit bzw. Reduktion der Schmerzen zur Verbesserung der Lebensqualität.
 Ein interdisziplinäres Vorgehen (med, psych, sozial) wird empfohlen;  spezifische Schmerzdiagnose, Dauerschmerz braucht Dauertherapie (keine kurzwirsamen Opioide wg. Sucht),
@@ -20,9 +21,6 @@ WHO-Schema (primär zur Tumorschmerz- Therapie):
 Stufe I: Nichtopioide + Koanalgetika + Adjuvante Therapie Stufe II: Nichtopioide, schache Opioide+  Koanalgetika + Adjuvante Therapie  +
 
 Antidepressiva/Antiepileptika Stufe III: Nichtopioide, starke Opioide + Koanalgetika + Adjuvante Therapie (weniger NW und Risiken als Stufe II) + Antidepressiva/Antiepileptika Stufe IV: invasive Therapie Erste Wahl ist die orale Therapie oder TTS!
-
-
-
 
 
 
@@ -318,3 +316,6 @@ Das postoperaive Delir: dauert Stunden bis Tage, bei 5  --  50%  der geriatrisch
 verlängert den Hospitalaufenthalt, steigert die postoperative Mortalität. Typisch ist eine fluktuierende Bewusstseinslage mit Aufmerksamkeitsstörung und unorganisiertem Denken.
 Postoperativ cognitiv disorder = Erinnerungs- und Konzentrationsstörungen für mehrere Wochen bis permanent.
 
+
+
+:::::

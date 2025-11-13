@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Einleitung und Säulen der Reanimation
 
 Als Reanimation werden Wiederbelebungsmaßnahmen im Falles eines Kreislaufstillstands verstanden.
@@ -14,9 +18,9 @@ Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene) und die Notw
 ```
 ```{index} single: European Resuscitation Council
 ```
-```{index} single: Resuscitation (Journal) 
+```{index} single: Resuscitation (Journal)
 ```
-```{index} single: Journal; Resuscitation 
+```{index} single: Journal; Resuscitation
 ```
 ```{index} pair: Guidelines; ERC
 ```

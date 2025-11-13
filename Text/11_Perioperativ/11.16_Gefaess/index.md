@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Gefäßchirurgie
 
 :::{toctree}

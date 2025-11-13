@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 :::{index} single: Maligne Hyperthermie
 :::
@@ -66,9 +70,9 @@ Die Deutsche Gesellschaft für Anästhesie und Intensivmedizin hat 2002 Leitlini
 - Trigger entfernen (Verdampfer entfernen, Maschine wechseln)
 - 100% FiO₂ mit hohem Flow (3 x AMV, 18 L / min)
 - **Hilfe holen!**
-- {ref}`Dantrolen <Dantrolen>` 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen) 
+- {ref}`Dantrolen <Dantrolen>` 2 mg / kg KG alle 5  min (bei 20 mg / kgKG Diagnose hinterfragen)
 
-  Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!! 
+  Eine Ampulle a 20 mg wird in 60 ml Aqua aufgelöst = beachtliches Volumen!!
   Eine Person nur zum Auflösen nötig!
 - Grosslumige Zugänge, Arterie, Temperatursonde, Kühlen!!
 - Reichlich NaCl! (Kein RL wegen K!)

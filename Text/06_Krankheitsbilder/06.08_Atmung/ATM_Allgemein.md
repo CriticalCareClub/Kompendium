@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Ateminsuffizienz
 ```
 ```{index} single: Insuffizienz; Atem-
@@ -130,58 +134,58 @@ Die *Sauerstoffsättigung* kann vermindert oder hoch sein (Kohlenmonoxid, Hyperv
 * - Atemgeräusch
   - Brodeln
   - Blubbern, klassisch für Lungenödem
-* - 
+* -
   - Stridor
   - -
-* - 
+* -
   - Brummen, Giemen
   - -
-* - 
+* -
   - Rasselgeräusche
   - -
 * - Frequenz
   - Beschleunigt
   - Tachypnoe
-* - 
+* -
   - Verlangsamt
   - Bradypnoe
 * - Atemzugsvolumen
   - Schnappatmung
   - {ref}`Schnappatmung`
-* - 
+* -
   - Flache Atmung
   - -
-* - 
+* -
   - Tiefe Atmung
   - z. B. Kußmaul’sche Atmung
 * - Hautfarbe
   - Blass
   - Normal, Anämie, Blutverlust
-* - 
+* -
   - Rosig
   - Normal, -Vergiftung
-* - 
+* -
   - Bläulich
   - Zyanose: Hypoxie!
 * - Körperlich
   - Einziehungen an den Rippen
   - Einsatz der Zwischenrippenmuskulatur
-* - 
+* -
   - Aufstützen
   - Einsatz der Atemhilfsmuskulatur
-* - 
+* -
   - Nasenflügeln
   - Atemnot, besonders bei Kleinkindern
-* - 
+* -
   - Aufrechte Position
   - -
-* - 
+* -
   - Paradoxe Atmung
   - Brustkorb _senkt_ sich bei Einatmung, z. B. bei Serienrippenfraktur
 * - Geräte
   - Pulsoxymetrie
   - {ref}`Pulsoxymetrie`
-* - 
+* -
   - Kapnometrie
   - CO₂-Messung
 :::
@@ -242,7 +246,7 @@ Pneumonie
 
 
 
-Pulmonalembolie  
+Pulmonalembolie
 Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
 
 Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
@@ -251,7 +255,7 @@ Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktu
 
 Lagerung: Trendelenburglagerung, Verschüttung
 
-Kapnoperitoneum  
+Kapnoperitoneum
 Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
 
 Insult
@@ -268,7 +272,7 @@ Nervenerkrankung
 
 
 
-Stoffwechselstörungen  
+Stoffwechselstörungen
 Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
 
 :::

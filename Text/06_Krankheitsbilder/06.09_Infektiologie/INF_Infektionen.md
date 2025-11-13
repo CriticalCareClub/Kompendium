@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Infektions- und Entzündungskrankheiten
 
 ## Störungen des Immunsystems

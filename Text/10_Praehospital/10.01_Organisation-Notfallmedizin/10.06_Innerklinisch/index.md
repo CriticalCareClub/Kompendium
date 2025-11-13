@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 (AORG-VO-Notfallmedizin-innerklinisch)=
 

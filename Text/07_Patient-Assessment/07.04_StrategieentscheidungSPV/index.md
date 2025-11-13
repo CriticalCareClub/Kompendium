@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (pamstrategie)=
 (strategieentscheidung)=
 
@@ -151,9 +155,9 @@ Die Zuteilung der Betten
 ```
 ```{index} single: Schockraum
 ```
-```{index} single: Bett, Intensiv- 
+```{index} single: Bett, Intensiv-
 ```
-```{index} single: Bett, Überwachungs- 
+```{index} single: Bett, Überwachungs-
 ```
 ```{index} single: Spezialbetten
 ```

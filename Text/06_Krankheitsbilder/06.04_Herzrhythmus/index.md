@@ -1,8 +1,12 @@
+---
+status: final
+---
+
 (herzrhythmusstoerungen)=
 
 # Herzrhythmusstörungen
 
-:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen 
+:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen
 
         -   Weitere EKG-Beispiele
         -   verschiedene Herzrhythmusstörungen:

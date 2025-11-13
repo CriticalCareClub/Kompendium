@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Guedel-Tubus
 :::
 :::{index} single: Tubus; Guedel-

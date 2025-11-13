@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Händedesinfektion
 ```
 ```{index} single: Desinfektion; Hände-

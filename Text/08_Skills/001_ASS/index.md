@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Arbeiten mit Medikamenten und Infusionen
 
 ## Aufziehen eines Medikamentes aus einer Ampulle

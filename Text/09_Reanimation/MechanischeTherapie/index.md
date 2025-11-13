@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # *Mechanische* Reanimationstherapie
 
 ```{index} single: Herzdruckmassage
@@ -132,7 +136,7 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 ```
 ```{index} single: Herz-Lungen-Maschine
 ```
-```{index} single: Maschine; Herz-Lungen- 
+```{index} single: Maschine; Herz-Lungen-
 ```
 ```{index} single: extrakorporale Verfahren
 ```

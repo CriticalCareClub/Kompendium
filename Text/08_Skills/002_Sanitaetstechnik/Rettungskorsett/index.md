@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Rettungskorsett
 ```
 ```{index} single: KED™

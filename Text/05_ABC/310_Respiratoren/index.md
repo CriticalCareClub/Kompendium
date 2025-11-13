@@ -1,13 +1,17 @@
+---
+status: final
+---
+
 
 :::{index} single: Beatmungsgerät
 :::
 :::{index} single: Intensivbeatmungsgerät
 :::
-:::{index} single: Beatmungsgerät; Intensiv- 
+:::{index} single: Beatmungsgerät; Intensiv-
 :::
 :::{index} single: Transportbeatmungsgerät
 :::
-:::{index} single: Beatmungsgerät; Transport- 
+:::{index} single: Beatmungsgerät; Transport-
 :::
 :::{index} single: Notfallbeatmungsgerät
 :::
@@ -90,7 +94,7 @@ Sobald die Beatmung über einen Beamtungsschlauch (Tubus) erfolgt, kann sie unab
 
 ## Notfall- und Transportrespiratoren
 
-<!-- 
+<!--
 :::{index} single: Oxylog
 :::
 :::{index} single: Oxylog 1000
@@ -107,7 +111,7 @@ Der Oxylog 1000 ist ein simpler "umgekehrter Staubsauger" zur VCV.
 
 ### Dräger Oxylog 2000
 
-Der Oxylog 2000 bietet VCV und optional auch CPAP. 
+Der Oxylog 2000 bietet VCV und optional auch CPAP.
 -->
 
 

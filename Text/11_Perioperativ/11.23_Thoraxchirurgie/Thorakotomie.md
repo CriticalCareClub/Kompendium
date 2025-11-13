@@ -1,6 +1,8 @@
+---
+status: final
+---
+
 # Thorakotomie
-
-
 
 
 :::{list-table} Kurzübersicht: Thorakotomie
@@ -13,11 +15,11 @@
     - onkologisch (Segmentresektion, Lobektomie, Pneumektomie)
 
       Bei onkologischer Indikation oft mit Lymphadenektomie
-    - Ausräumung von 
-      - Thoraxempyem, Dekortikation 
+    - Ausräumung von
+      - Thoraxempyem, Dekortikation
       - Hämatothorax
 * - Beschreibung, Pathophysiologie
-  - 
+  -
 * - Dringlichkeit
   - Abhängig von Indikation und Klinik
 * - Dauer (S/N)
@@ -41,16 +43,16 @@
 
     ev. ZVK (ipsilateral oder femoral)
 * - Narkoseführung
-  - - TIVA, 
-    - kein Narkosegas (erhöht Shunt-Volumen), 
+  - - TIVA,
+    - kein Narkosegas (erhöht Shunt-Volumen),
     - moderater PEEP (erhöht Shunt-Volumen)
-    - bei Hypoxie: 
-      - primär FiO₂ erhöhen 
+    - bei Hypoxie:
+      - primär FiO₂ erhöhen
       - ggfs. Jet-Ventilation
       - ggfs. intermitterend Single Lung beenden
 * - Lagerung
-  - - Kontralaterale Seitenlage, aufgeknickt 
-    - Arme: seitlich, CAVE Dehnung im Schulterbereich 
+  - - Kontralaterale Seitenlage, aufgeknickt
+    - Arme: seitlich, CAVE Dehnung im Schulterbereich
     - Kopf: Gelring, CAVE Ohr und Auge
     - Lagerungsschäden: N.Peronäus, Plexus brachialis, Ohr, Augen!
 * - Aufstellung
@@ -64,7 +66,7 @@
       3. Ständige Bereitschaft
     - Regelmäßige BGA-Kontrollen, Korrelation etCO₂ und pCO₂
 * - OP-Ablauf
-  - 
+  -
 * - Gefahren
   - Hyperkapnie
 * - Typische Komplikationen

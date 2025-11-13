@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Loslassschmerz
 ```
 ```{index} single: Abdomen; Untersuchung

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Abdominelle Erkrankungen
 
 :::{toctree}

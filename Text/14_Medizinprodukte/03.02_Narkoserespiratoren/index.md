@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Narkoserespiratoren und -systeme
 
 

@@ -1,6 +1,8 @@
+---
+status: final
+---
+
 # Narkose und Airway
-
-
 
 Allen Narkosemedikamenten gemein ist eine unterschiedlich stark ausgeprägte
 

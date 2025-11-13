@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: PICCO
 :::
 :::{index} single: Puls Contour Cardiac Output

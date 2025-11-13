@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (abcde-d)=
 
 # Ⓓ Neurologie (Disability)

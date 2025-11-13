@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Neurologische Störungen
 
 Neurologische Störungen sind Störungen bzw. Erkrankungen und Notfälle die das Nervensystem betreffen. Sie gehen oft mit einer Störung des Bewusstseins oder anderer Funktionen des Nervensystems einher. Die *Ursachen* von neurologischen Erkrankungen sind sehr vielfältig.
@@ -138,12 +142,12 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
   - Wach
   - bewusstseinsklar
   - wach
-  - 
+  -
 * - A
   - Reaktion auf Ansprache
   - somnolent
   - schläfrig, aber leicht erweckbar.
-  - 
+  -
 * - S
   - Reaktion auf Schmerzreiz
   - soporös
@@ -160,7 +164,7 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
 :::{list-table} GCS: Glasgow Coma Scale für den Erwachsenen.
 :header-rows: 1
 
-* - 
+* -
   - Max.
   - Punkte
   - Reaktion
@@ -168,60 +172,60 @@ Dementsprechend kann ein Patient *bewusstseinsklar*, *somnolent*, *soporös* ode
   - 4
   - 4
   - spontan
-* - 
-  - 
+* -
+  -
   - 3
   - auf Ansprache
-* - 
-  - 
+* -
+  -
   - 2
   - Schmerzreiz
-* - 
-  - 
+* -
+  -
   - 1
   - nicht
 * - Verbale Antwort
   - 5
   - 5
   - klar
-* - 
-  - 
+* -
+  -
   - 4
   - verwaschen
-* - 
-  - 
+* -
+  -
   - 3
   - unzusammenhängende Worte
-* - 
-  - 
+* -
+  -
   - 2
   - unartikuliert
-* - 
-  - 
+* -
+  -
   - 1
   - nicht
 * - Motorische Reaktion
   - 6
   - 6
   - spontan
-* - 
-  - 
+* -
+  -
   - 5
   - gezielte Abwehrbewegungen
-* - 
-  - 
+* -
+  -
   - 4
   - ungezielte Abwehrbewegungen
-* - 
-  - 
+* -
+  -
   - 3
   - Beugung
-* - 
-  - 
+* -
+  -
   - 2
   - Strecken
-* - 
-  - 
+* -
+  -
   - 1
   - bewegt gar nicht
 :::

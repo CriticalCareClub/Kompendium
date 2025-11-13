@@ -1,6 +1,10 @@
+---
+status: final
+---
+
 # Therapeutische Geräte
 
-<!-- 
+<!--
 
 ## Infusionstherapie
 
@@ -106,7 +110,7 @@ Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 
 ## Lagerungshilfen
 
-```{index} single: DisposaView® 
+```{index} single: DisposaView®
 ```
 ```{index} single: Bauchlage
 ```

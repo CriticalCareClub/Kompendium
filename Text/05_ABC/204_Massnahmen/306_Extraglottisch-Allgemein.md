@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (supraglottischerairwayallgemein)=
 
 # Extra-/Supraglottische Atemwegshilfsmittel — Allgemeines

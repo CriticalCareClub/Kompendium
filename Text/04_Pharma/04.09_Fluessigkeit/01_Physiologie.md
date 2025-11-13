@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Physiologie
 
 Das Gesamtkörperwasser ist abhängig von Alter, Geschlecht und Körperbau:

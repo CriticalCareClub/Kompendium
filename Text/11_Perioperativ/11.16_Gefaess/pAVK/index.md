@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 # Thrombektomie/Bypassopertionen bei AVK der peripheren Gefäße
 
 <!--   -->

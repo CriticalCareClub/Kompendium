@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Wendl-Tubus
 :::
 :::{index} single: Tubus;  Wendl-

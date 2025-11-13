@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} pair: Reanimation; Medikamente pair: Reanimation; Adrenalin pair: Reanimation; Amiodaron pair: Reanimation; Sedacoron™
 ```
 
@@ -25,9 +29,9 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
   - Spezialitäten
 * - Adrenalin
   - Vasokonstriktor
-  - Schockbarer Rhythmus  
+  - Schockbarer Rhythmus
     Nicht-schockbarer Rhythmus
-  - Suprarenin™ (1:1.000, 1 mg = 1 ml)  
+  - Suprarenin™ (1:1.000, 1 mg = 1 ml)
     L-Adrenalin (1:10.000; 1 mg = 10 ml)
 * - Amiodaron
   - Antiarrhythmikum Kl. III
@@ -50,13 +54,13 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
   - Schockbarer Rhythmus
   - Nicht-schockbarer Rhythmus
 * - Adrenalin
-  - 1 mg i.v.  
-    Erstmals nach dem 3. Schock  
+  - 1 mg i.v.
+    Erstmals nach dem 3. Schock
     Wiederholen nach jedem ungeraden Schock
-  - 1 mg i.v. sobald venöser Zugang etabliert ist  
+  - 1 mg i.v. sobald venöser Zugang etabliert ist
     Wiederholen alle 3–5 min (4 min)
 * - Amiodaron
-  - 300 mg i.v. einmalig nach dem 3. Schock  
+  - 300 mg i.v. einmalig nach dem 3. Schock
     Evtl. einmalig 150 mg i.v. repetitieren
   - Nicht indiziert
 :::

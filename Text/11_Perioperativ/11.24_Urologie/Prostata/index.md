@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} pair: OP; Prostatektomie, radikal
 :::
 :::{index} single: Prostatektomie

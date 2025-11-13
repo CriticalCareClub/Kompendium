@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Gurtsysteme für Schaufeltrage und Spineboards
 
 (spiderstraps-beschreibung)=
@@ -5,7 +9,7 @@
 
 ## Ferno Fastrap Quick Restraint System™
 
-```{index} single: Ferno™; Fastrap Quick Restraint System™ 
+```{index} single: Ferno™; Fastrap Quick Restraint System™
 ```
 ```{index} single: Fastrap Quick Restraint System™
 ```

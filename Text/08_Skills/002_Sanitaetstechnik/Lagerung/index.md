@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Lagerung
 
 Das Fachpersonal hat während des gesamten Transports die Verantwortung für den Patienten, dies gilt auch für gehfähige Patienten. Sollte der Patient auf Grund seines hohen Alters oder seiner Kreislaufsituation nicht selbstständig gehen können, muss er entweder *sitzend* oder *liegend* transportiert werden. Patienten, bei denen mit einer Zustandsverschlechterung zu rechnen ist, sollen grundsätzlich liegend transportiert werden, da ein Umlagern im Fahrzeug sehr umständlich und zeitraubend ist.

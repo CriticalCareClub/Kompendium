@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (schock)=
 (GSCH)=
 (GSCH-SE-Schock-Definition)=

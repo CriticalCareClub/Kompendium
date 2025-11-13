@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 # Vapore
@@ -46,7 +50,7 @@ Nachfüllen eines GE-Sevofluran-Vapors.
 
 100% Desflurane-Dampf wird dem Frischgas zudosiert.
 
-:::{index} single: DIVA™ 
+:::{index} single: DIVA™
 :::
 :::{index} single: Direct Injection of Volatile Anaesthetics
 :::

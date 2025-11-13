@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (aluminiumkernschiene)=
 (schienung-arm)=
 (sam-splint-beschreibung)=

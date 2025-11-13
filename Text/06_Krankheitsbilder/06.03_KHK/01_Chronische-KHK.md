@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Chronische Koronare Herzkrankheit
 
 ::::{only} not nosidebar

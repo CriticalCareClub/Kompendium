@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 :::{index} single: Atemkalk
@@ -8,7 +12,7 @@
 :::
 :::{index} single: Calciumhydroxid
 :::
-:::{index} single: Ca(OH)₂ 
+:::{index} single: Ca(OH)₂
 :::
 :::{index} single: Natriumhydroxid
 :::

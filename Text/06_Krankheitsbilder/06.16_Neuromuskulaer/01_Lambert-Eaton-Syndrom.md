@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 # Lambert Eaton Syndrom
 

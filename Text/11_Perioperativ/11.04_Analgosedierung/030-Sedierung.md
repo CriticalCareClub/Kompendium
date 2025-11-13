@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 :::{index} single: Sedierung
 :::
@@ -193,4 +197,4 @@ Es erhöht damit nachweislich und deutlich die **Mortalität** von kritisch kran
 
 Etomidate ist bei kritisch kranken Patienten kontraindiziert!
 :::
-  
+

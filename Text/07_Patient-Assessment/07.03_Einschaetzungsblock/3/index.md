@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (abcde-3)=
 
 # ③ Bewusstsein (Alertness)
@@ -28,17 +32,17 @@ Die Orientierung wird unter Punkt Ⓓ beurteilt.
 
 ```{index} single: WASB
 ```
-```{index} single: Bewusstseinsgrad 
+```{index} single: Bewusstseinsgrad
 ```
-```{index} pair: klar; Bewusstseinsgrad 
+```{index} pair: klar; Bewusstseinsgrad
 ```
-```{index} pair: somnolent; Bewusstseinsgrad 
+```{index} pair: somnolent; Bewusstseinsgrad
 ```
-```{index} pair: Somnolenz; Bewusstseinsgrad 
+```{index} pair: Somnolenz; Bewusstseinsgrad
 ```
-```{index} pair: soporös; Bewusstseinsgrad 
+```{index} pair: soporös; Bewusstseinsgrad
 ```
-```{index} pair: Sopor; Bewusstseinsgrad 
+```{index} pair: Sopor; Bewusstseinsgrad
 ```
 ```{index} pair: komatös; Bewusstseinsgrad
 ```

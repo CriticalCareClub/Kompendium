@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} pair: OP; Fundoplicatio
 :::
 :::{index} single: Fundoplicatio

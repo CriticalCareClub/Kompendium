@@ -1,8 +1,12 @@
+---
+status: final
+---
+
 
 :::{index} single: Sintermetallfilter
 :::
 
-# Gasdosierung 
+# Gasdosierung
 
 ## Pneumatisch mit Flowmeter
 

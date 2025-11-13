@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (hws-stabilisierung-manuell)=
 
 # Helmabnahme und manuelle HWS-Stabilisierung

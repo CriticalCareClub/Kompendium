@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 (ARMO-KP-Klinik)=
 % Atemfrequenz und AZV bei erhöhtem etCO₂:

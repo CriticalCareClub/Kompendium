@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Einführung
 
 Ziel des Einschätzungsblocks ist das rasche Erkennen einer vitalen Bedrohung, Überblick zu gewinnen und Hauptbeschwerden/Leitsymptome zu ermitteln.

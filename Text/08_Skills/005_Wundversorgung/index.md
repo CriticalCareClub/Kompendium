@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 :::{index} single: Wunde
 :::
 
@@ -456,7 +460,7 @@ Abhängig von Begleiterkrankungen oder -verletzungen können u.U. nicht alle Lag
   beispielsweise mittels Bauchlagerung, aber auch durch regelmäßigen
   Lagewechsel und Vergrößerung der Auflagefläche durch spezielle
   Hilfsmittel wie spezielle Wechseldruck-Matratzen oder
-  Luftstrom-Matratzensysteme. 
+  Luftstrom-Matratzensysteme.
 - *Ernährung*: Hierbei sei auf die entsprechende Pflege-Fachliteratur
   verwiesen.
 

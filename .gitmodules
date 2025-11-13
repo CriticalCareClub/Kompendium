@@ -1,3 +1,24 @@
 [submodule "Submodules/3134-cspell-dictionaries"]
 	path = Submodules/3134-cspell-dictionaries
 	url = gitea@lab.engerth.space:3134/3134-cspell-dictionaries.git
+[submodule "Submodules/hex15-sphinx-css"]
+	path = Submodules/hex15-sphinx-css
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-css.git
+[submodule "Submodules/hex15-sphinx-margin"]
+	path = Submodules/hex15-sphinx-margin
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-margin.git
+[submodule "Submodules/hex15-sphinx-frontmatter-filter"]
+	path = Submodules/hex15-sphinx-frontmatter-filter
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-frontmatter-filter.git
+[submodule "Submodules/hex15-sphinx-frontmatter-expose"]
+	path = Submodules/hex15-sphinx-frontmatter-expose
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-frontmatter-expose.git
+[submodule "Submodules/hex15-sphinx-extensions-contrib"]
+	path = Submodules/hex15-sphinx-extensions-contrib
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-extensions-contrib.git
+[submodule "Submodules/hex15-sphinx-changeset"]
+	path = Submodules/hex15-sphinx-changeset
+	url = gitea@lab.engerth.space:hex15/hex15-sphinx-changeset.git
+[submodule "Submodules/hex15-latex-styles"]
+	path = Submodules/hex15-latex-styles
+	url = gitea@lab.engerth.space:hex15/hex15-latex-styles.git

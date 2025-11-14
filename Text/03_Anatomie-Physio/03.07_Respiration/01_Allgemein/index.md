@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Allgemeine Anatomie
 
 Das Atmungssystem ist für *Sauerstoff-Transport* und -aufnahme sowie für *Kohlendioxid-Transport* und -abgabe zuständig. Gemeinsam mit den Nieren wird der *Säure-Basen-Haushalt* des Körpers reguliert. Zudem haben insbesondere die oberen Atemwege eine *Reinigungs- und Schutzfunktion*, dienen der *Laut- und Stimmbildung* und mit ihrem eigenen Sinnesorgan der *Geruchsempfindung* des Menschen.

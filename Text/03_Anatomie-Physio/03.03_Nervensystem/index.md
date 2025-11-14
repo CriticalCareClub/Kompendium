@@ -1,6 +1,8 @@
+---
+status: final
+---
+
 # Nervensystem
-
-
 
 :::{margin} Nervensystem
 
@@ -74,13 +76,8 @@ Weitere Einteilungen sind möglich:
 
 
 
------
-
-<!-- AUST -->
+:::{todo} AUST
 <!-- # 6. Nervensystem -->
-
-
-
 
 Aktionspotential:
 Das Ruhemembranpotential (Kaliumdiffusionspotential bei geschlossenen Na-Kanälen) beträgt minus 80mV.
@@ -97,4 +94,4 @@ Ligandengesteuerte Rezeptoren:
 - Direkte Wirkung auf Ionenkanal, wirken schnell, z.B. GABA
 - Indirekte Wirkung über G-Protein und second messenger cAMP, z.B. Katecholamine
 
-
+:::

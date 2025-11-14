@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Die oberen Atemwege
 
 Die Atemwege dienen zum *Transport, zur Anwärmung, zur Befeuchtung, zur Reinigung* *und zur Kontrolle der Atemluft* (für die Mundhöhle siehe Verdauungstrakt). Die luftleitenden Strukturen sind mit *respiratorischem Epithel* ausgekleidet. Dieses Epithel ist gekennzeichnet durch eine Schleimhaut mit Flimmerhärchen (sog.

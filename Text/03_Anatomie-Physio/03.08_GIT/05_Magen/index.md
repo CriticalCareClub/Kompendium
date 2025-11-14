@@ -1,8 +1,12 @@
+---
+status: final
+---
+
 ```{index} single: Magen
 ```
 ```{index} single: Gaster
 ```
-```{index} single: Pförtner (Magen) 
+```{index} single: Pförtner (Magen)
 ```
 ```{index} single: Pylorus
 ```

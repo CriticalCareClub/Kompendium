@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Die unteren Atemwege
 
 ```{index} single: Trachea

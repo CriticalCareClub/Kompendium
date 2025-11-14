@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Atmung
 
 ```{index} single: Atemmechanik
@@ -141,7 +145,7 @@ Die *Alveolarventilation* (Anteil der Atemluft für den eigentlichen Sauerstoffa
 - {ref}`Schnappatmung <Schnappatmung>`
 :::
 
-Unter dem **Totraum** versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen). Die Luft muss erst diesen Totraum passieren um in die Lungenbläschen zu gelangen und am dort stattfindenden Gasaustausch teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL. 
+Unter dem **Totraum** versteht man den Teil der Atemwege, der nicht am Gasaustausch teilnimmt. Dies ist im wesentlichen der gesamte Weg von der Nasenspitze bis kurz vor den Lungenbläschen (Alveolen). Die Luft muss erst diesen Totraum passieren um in die Lungenbläschen zu gelangen und am dort stattfindenden Gasaustausch teilzunehmen. Der Totraum beträgt beim Erwachsenen ca. 150 mL.
 
 Den *Totraum* kann man in folgende Formen unterteilen:
 
@@ -367,7 +371,7 @@ Folgende Werte sind wichtig:
   - Kleinkinder 30-40 / min
   - Kinder 20-30 / min
 
-Es gibt drei wichtige Kennzahlen, welche die Atmung beschreiben  
+Es gibt drei wichtige Kennzahlen, welche die Atmung beschreiben
 :
 
 1. Die **Atemfrequenz** `

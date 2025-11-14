@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Terminologie
 
 ## Anatomie, Physiologie, Pathologie

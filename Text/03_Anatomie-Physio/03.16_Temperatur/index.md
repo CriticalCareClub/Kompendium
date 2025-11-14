@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (vitalfunktion-temperaturregulation)=
 
 # Temperatur

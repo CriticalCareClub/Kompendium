@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (gallenblase)=
 
 # Gallenblase (Vesica fellea / biliaris)

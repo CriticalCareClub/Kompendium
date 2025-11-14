@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 (saeure-basen-haushalt)=
 (vitalfunktion-saeure-basen-haushalt)=
 

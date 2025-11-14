@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (bewegungsapparat)=
 
 # Bewegungsapparat: Knochen & Muskeln

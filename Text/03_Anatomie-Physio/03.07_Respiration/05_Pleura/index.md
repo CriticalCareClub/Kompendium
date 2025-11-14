@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Pleura
 ```
 ```{index} single: Lungenfell

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Endokrin
 
 (allgemeine-anatomie-11)=

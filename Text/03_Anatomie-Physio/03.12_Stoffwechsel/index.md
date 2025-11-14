@@ -1,3 +1,7 @@
+---
+status: draft
+---
+
 (vitalfunktion-stoffwechsel)=
 
 # Stoffwechsel

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Herz-Kreislauf
 
 :::{margin} Kreislauf

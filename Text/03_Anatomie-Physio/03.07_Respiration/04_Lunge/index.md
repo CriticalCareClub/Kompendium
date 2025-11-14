@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 ```{index} single: Alveolen
 ```
 ```{index} single: Lungenbläschen
@@ -35,7 +39,13 @@ An den Endverzweigungen des Bronchialbaums, den Bronchioli terminalis, schließt
 - Sacculi alveolares (die eigentlichen Alveolen, Ort des
   Gasaustausches), Durchmesser ca. 0,2 mm (sing. Saccus alveolaris)
 
-Ein Acinus besteht aus ungefähr *200 Alveolen*. Mehrere Acini bilden *Lungenläppchen* (Durchmesser ca. 0,5 bis 3 cm). Durch ihre Trennung durch Bindegewebe können diese Läppchen auch makroskopisch als polygonale Areale an der Lungenoberfläche gesehen werden. Insgesamt enthält die Lunge ca. 300 Millionen Alveolen mit einer Gesamtoberfläche von ca. *140 m²*. Die Lungenzellen, die die Alveolen auskleiden, werden in zwei Gruppen unerteilt. Der *Pneumozyt Typ I* bildet ca. 95% der Oberfläche der Alveolen und ist für den Gasaustausch verantwortlich. Außen liegen die Kapillaren an. Der *Pneumozyt Typ II* ist zuständig für die Bildung von *Surfactant*. Das Surfactant mindert die Oberflächenspannung der Alveolen und sorgt dafür, dass sie insbesondere bei der Ausatmung nicht kollabieren.
+Ein Acinus besteht aus ungefähr *200 Alveolen*. Mehrere Acini bilden *Lungenläppchen* (Durchmesser ca. 0,5 bis 3 cm).
+Durch ihre Trennung durch Bindegewebe können diese Läppchen auch makroskopisch als polygonale Areale an der Lungenoberfläche gesehen werden.
+Insgesamt enthält die Lunge ca. 300 Millionen Alveolen mit einer Gesamtoberfläche von ca. *140 m²*.
+Die Lungenzellen, die die Alveolen auskleiden, werden in zwei Gruppen unerteilt.
+Der *Pneumozyt Typ I* bildet ca. 95% der Oberfläche der Alveolen und ist für den Gasaustausch verantwortlich. Außen liegen die Kapillaren an.
+Der *Pneumozyt Typ II* ist zuständig für die Bildung von *Surfactant*.
+Das Surfactant mindert die Oberflächenspannung der Alveolen und sorgt dafür, dass sie insbesondere bei der Ausatmung nicht kollabieren.
 
 Bei der Blutversorgung der Lunge kann man *zwei Gefäßnetze* unterscheiden:
 

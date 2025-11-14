@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Organsysteme und seröse Höhlen
 
 Wie bereits am Beginn der Gewebelehre erwähnt, setzten sich aus den einzelnen Geweben die Organe zusammen.

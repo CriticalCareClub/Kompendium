@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Schlaf
 
 (allgemeine-anatomie-12)=

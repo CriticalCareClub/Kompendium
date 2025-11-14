@@ -257,7 +257,7 @@ Die Dauer der NO-Therapie soll **so kurz als möglich** sein (72—96 h).
 
 (probleme-no-2-hoch)=
 
-### NO{sub}`2` > 0,5 ppm
+### NO₂ > 0,5 ppm
 
 Steigt die NO₂-Konzentration über 0,5 ppm, muss das Abgabesystem auf eine Fehlfunktion untersucht, das NO₂-Analysengerät erneut kalibriert 6 und INOmax und/oder FiO₂, wenn möglich, reduziert werden.
 Tritt eine unerwartete Veränderung der INOmax-Konzentration auf, muss das Abgabesystem auf eine Fehlfunktion untersucht und das Analysengerät erneut kalibriert werden. [^cite_ba-no-a]

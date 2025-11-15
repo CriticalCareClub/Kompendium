@@ -10,6 +10,11 @@ Gewebe sind Verbände gleichartig differenzierter Zellen. Mehrere verschiedene G
 
 Es gibt vier verschiedene Gewebearten: Epithelgewebe, Binde- und Stützgewebe, Muskelgewebe und Nervengewebe.
 
+
+
+
+
+
 ## Epithelgewebe
 
 Zu dieser Gruppe gehören oberflächenbildende Epithelien, Drüsenepithelien und Sinnesepithelien. Ihnen gemeinsam ist die *Basalmembran („Glashaut“)*, auf dem die Epithelien aufsitzen und welche ihnen mechanischen Halt gibt. Die unterschiedlichen Zellen des Epithelgewebes sind unterschiedlich fest miteinander verbunden — mit zunehmender Durchlässigkeit gibt es *tight junctions, gap junctions, Desmosome*.
@@ -45,6 +50,11 @@ Es gibt folgende Formen des Bindegewebe:
 - *retikuläres Bindegewebe*: bildet z. B. das Grundgerüst von lymphatischen Organen.
 - *Fettgewebe*: Speicherfett vs. Baufett, weißes vs. braunes (reich an Mitochondrien) Fettgewebe.
 
+
+
+
+
+
 ## Stützgewebe
 
 Besteht aus Knorpel- und Knochengewebe, dem Chordagewebe und dem Zahngewebe.
@@ -76,6 +86,11 @@ Weiters dient es als *Kalziumspeicher* und der *Blutbildung*
 
 Die Aufgaben werden im Detail bei den jeweiligen Gewebearten besprochen.
 
+
+
+
+
+
 :::{index} single: Knorpel
 :::
 :::{index} single: hyalin
@@ -90,6 +105,11 @@ Die Aufgaben werden im Detail bei den jeweiligen Gewebearten besprochen.
 Die Grundsubstanz des Knorpels besteht aus Proteoglykanen und Glykoproteinen. Das Knorpelgewebe ist frei von Blutgefäßen, die Nährstoffversorgung erfolgt über {ref}`Diffusion <Diffusion>` aus dem Perichondrium oder von der Synovia (Gelenksflüssigkeit). Knorpelgewebe zeichnet sich durch eine *hohe Druckfestigkeit, Verformbarkeit und Widerstandsfähigkeit* gegen Scherkräfte aus.
 
 Innerhalb des Knorpelgewebes kann man **hyalinen** (z. B. Gelenksknorpel), **elastischen** (z. B. Ohrmuschel) und **Faserknorpel** (z. B. Bandscheibe, Schambeinfuge) unterscheiden. Der Gelenkknorpel und der Faserknorpel sind die einzigen dieser Gruppe ohne Perichondrium (Knorpelhaut) — sie können sich daher nicht bzw. nur schwer regenerieren!
+
+
+
+
+
 
 :::{index} single: Knochen
 :::
@@ -143,6 +163,11 @@ Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des
   gekennzeichnet durch eine deutliche Schichtung durch parallel verlaufende Fibrillen (Lamellen), dazwischen befinden sich Knochenzellen.
   Diese Lamellen sind um Gefäßkanäle (Canalis centralis) angeordnet.
   Der Begriff Osteon beschreibt diesen Gefäßkanal mit seinen Lamellen.
+
+
+
+
+
 
 :::{index} single: Knochen;platte -
 :::
@@ -240,6 +265,8 @@ Beim Erwachsenen sind diese knorpeligen Fugen hingegen vollständig *verknöcher
 
 
 
+
+
 :::{index} single: Knochenmark
 :::
 :::{index} single: Fettembolie
@@ -251,7 +278,9 @@ Beim Erwachsenen sind diese knorpeligen Fugen hingegen vollständig *verknöcher
 
 Beim **Knochenmark** kann man rotes (blutbildendes) und gelbes (fettreiches) Knochenmark unterscheiden.
 
-:::{margin} Knochenmark **Rotes**
+:::{margin} Knochenmark
+
+**Rotes**
 
 - Bildung der zellulären Blutbestandteile:
   rote, weiße Blutkörperchen, Blutplättchen
@@ -277,6 +306,8 @@ Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brot
 
 
 
+
+
 :::{index} single: Muskel
 :::
 :::{index} single: Muskulatur
@@ -299,8 +330,7 @@ Gelbes Knochenmark vom Rind eignet sich gut als kräftige Suppeneinlage und Brot
 ## Muskelgewebe
 
 Ein **Muskel** ist ein Gewebe, welches die Fähigkeit hat, sich aktiv zusammenzuziehen.
-Die Gesamtheit der Muskeln wird als
-**Muskulatur** bezeichnet.
+Die Gesamtheit der Muskeln wird als **Muskulatur** bezeichnet.
 
 Muskelzellen (Länge bis 20 cm) haben die Fähigkeit sich zu kontrahieren
 (zusammenziehen). Sie zeigen einen spezifischen Aufbau und enthalten bestimmte Eiweißstrukturen (*Myofibrillen*) um dies zu ermöglichen.
@@ -326,6 +356,8 @@ Muskelzellen haben auch eine Funktion im Wärmehaushalt durch das *Muskelzittern
   ist von der Struktur her ein quergestreifter Muskel, zeigt jedoch auch Eigenschaften von glatter Muskulatur:
   trainierbar, unermüdbar, funktioniert automatisch, nicht willkürlich kontrahierbar, eigenes Reizleitungs-System.
   Der Herzmuskel zeigt Glanzstreifen (Disci intercalares), über die die elektrische Erregung weitergeleitet wird.
+
+
 
 
 
@@ -375,8 +407,8 @@ Die Erregungsweiterleitung funktioniert elektrisch über *Aktionspotentiale*, di
 Die Verbindung zwischen einem Neuron und dem Zweiten erfolgt über *Synapsen*.
 
 - **Aktionspotential**:
-  Das Aktionspotential ist eine vorübergehende Änderung der Membranspannung (Initiationsphase, Depolarisation, Repolarisation).
-  Hierbei wird von einem negativen Ruhemembranpotential von -60mV auf ca. +20mV gewechselt.
+  Das Aktionspotential ist eine vorübergehende Änderung der Membranspannung (*Initiationsphase*, *Depolarisation*, *Repolarisation*).
+  Hierbei wird von einem negativen Ruhemembranpotential von *-60mV* auf ca. *+20mV* gewechselt.
   Auch die Frequenz dieser Aktionspotentiale ist wichtig.
   Es wird dann mit einer Geschwindigkeit von bis zu 100 m/s entlang der Nervenfaser weitergeleitet.
   Bei marklosen Fasern erfolgt diese Weiterleitung kontinuierlich, bei markhaltigen Fasern sind nur die Schnürringe erregbar.

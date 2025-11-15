@@ -77,21 +77,21 @@ Die Zelle besteht aus *einem Zellkern (Nucleus), dem Zellleib (Zytoplasma) sowie
 Der Zellkern ist — Erythrozyten (rote Blutkörperchen) und Thrombozyten (Blutplättchen) ausgenommen — in jeder Zelle vorhanden.
 Einige Zellen (Leberzellen (Hepatozyten) 2, knochenabbauende Zellen (Osteoklasten) 5—20, Skelettmuskelzellen (Myozyten) >1000) besitzen sogar mehrere.
 
-Der Zellkern enthält die genetische Erbinformation (DNA: Desoxyribonukleinsäure) der Zelle, aufgeteilt in *23 Chromosomenpaare* (46 Chromosomen, 23 von der Mutter, 23 vom Vater).
-Von hier kommen die "Bauanleitungen" für die Proteinsynthese in Form von einsträngigen Kopien, der RNA (= Ribonukleinsäure), die von den Ribosomen dann “übersetzt” werden.
+Der Zellkern enthält die genetische *Erbinformation* (**DNA**: *Desoxyribonukleinsäure*) der Zelle, aufgeteilt in *23 Chromosomenpaare* (46 Chromosomen, 23 von der Mutter, 23 vom Vater).
+Von hier kommen die "Bauanleitungen" für die Proteinsynthese in Form von einsträngigen Kopien, der **RNA** (*Ribonukleinsäure*), die von den Ribosomen dann “übersetzt” werden.
 Ausgenommen während der Zellteilung liegt die DNA nicht geordnet, d.h. nicht in Chromosomenform, vor.
 Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sondern zusätzlich einen Nukleolus (dünklerer Bereich) innerhalb des Kerns, der Bereich, in dem gerade aktiv RNA produziert wird.
 
 Die DNA dient als Speicher des genetischen Codes, als Bauplan der Proteinsynthese und der identischen Replikation während der Zellteilung.
 
-Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen 30.000 und 40.000 Gene, wobei über 97% sogenannter „Junk“ — nicht kodierende-DNA — sind.
-Die DNA ist in einer *Doppelhelix (=Doppelwindung)* angeordnet.
+Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen 30.000 und 40.000 Gene, wobei über 97% sogenannter "Junk" — nicht kodierende-DNA — sind.
+Die DNA ist in einer **Doppelhelix* (Doppelwindung) angeordnet.
 Innerhalb der DNA kann man zwei verschiedene Formen unterscheiden.
 Das *Euchromatin* bezeichnet einen DNA-Bereich, der aufgelockert ist und genetisch aktiv ist (= Nukleolus-Bereich).
 Das *Heterochromatin* ist nicht entspiralisiert und somit genetisch inaktiv.
 Wie bereits erwähnt bildet die DNA die Chromosomen nur während der Zellteilung. Ungefähr die Hälfte des Chromatins besteht aus Histionen - sie bilden eine Art Perlenkette, woran die DNA-Teile aufgegliedert sind.
 
-Am Ende der Chromosomenarme befinden sich *Telomere (Heterochromatin)*, die die Lebensdauer der Zelle bestimmen.
+Am Ende der Chromosomenarme befinden sich **Telomere** (Heterochromatin), die die Lebensdauer der Zelle bestimmen.
 Bei jeder Mitose verkürzen sich diese Telomere.
 Sobald die DNA dann für eine fehlerfreie Erstellung der DNA-Kopie zu kurz sind, kommt es zur Apoptose der Zelle.
 
@@ -100,13 +100,13 @@ Diploide Chromosomensätze beinhalten 46 Chromosomenpaare und sind kennzeichnend
 Haploide Chromosomensätze sind nur in den Geschlechtszellen vorhanden.
 Diese müssen sich ja während der Fortpflanzung mit einer anderen haploiden Zelle vereinen um so die erste diploide Zelle des Kindes zu bilden.
 
-Die Bausteine der DNA sind die sog. *Nukleotide*. Sie bestehen aus einer der vier möglichen *Basen* (Adenin, Thymin, Cytosin oder Guanin), einem Zucker (im Fall der DNA: Desoxyribose) und einem sauren Phosphatrest.
+Die Bausteine der DNA sind die sog. **Nukleotide**. Sie bestehen aus einer der vier möglichen *Basen* (**Adenin**, **Thymin**, **Cytosin** oder **Guanin**), einem Zucker (im Fall der DNA: Desoxyribose) und einem sauren Phosphatrest.
 Dieser Phosphatrest bildet Phosphatbrücken mit dem darauffolgenden Nukleotid. Mit dem gegenüberliegenden Nukleotid is es mittels Wasserstoffbrücken verbunden.
 
 Um die geläufige Form der spiraligen DNA zu bilden, braucht es das *Nukleosom*. Das Nukleosom besteht aus dem Histionpartikel und dem daran befestigten DNA-Stück (ca. 180 Basenpaare).
 Diese Histionpartikel bestehen aus jeweils 8 Histionmolekülen (Oktramer).
 
-Jeweils 3 Basen werden als *Triplett (= Codon)* bezeichnet und definieren eine der insg. 20 von der menschlichen Zelle zur Bildung von Proteinen verwendeten Aminosäuren.
+Jeweils 3 Basen werden als *Triplett* (**Codon**) bezeichnet und definieren eine der insg. 20 von der menschlichen Zelle zur Bildung von Proteinen verwendeten Aminosäuren.
 Es gibt daher insg. 4³ = 64 Kombinationsmöglichkeiten der Basen.
 61 dieser Kombinationen bilden Anweisungen zur Bildung von Proteinen, 3 der Kombinationen zeigen den Beginn bzw. das Ende eines Gens (bzw. eines Proteins) an.
 
@@ -215,6 +215,8 @@ Die *Zellorganellen* sind verantwortlich für die Ausübung der Stoffwechselfunk
 
 
 
+
+
 ## Zellteilung
 
 Es gibt zwei Formen der Zellteilung — die *Mitose* und die *Meiose*.
@@ -234,12 +236,16 @@ Es gibt zwei Formen der Zellteilung — die *Mitose* und die *Meiose*.
 
 
 
+
+
 ## Zelluntergang
 
 Es gibt zwei Möglichkeiten, wie Zellen zugrunde gehen können:
 
 - **Apoptose**: programmierter Zelltod
 - **Nekrose**: Tod der Zelle bei Zellschädigung mit Entzündung als Folge
+
+
 
 
 

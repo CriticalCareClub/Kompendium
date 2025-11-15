@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 (untere-extremitaet)=
 
 # Untere Extremität (Membrum inferius)
@@ -17,17 +21,11 @@ Der Beckengürtel und die untere Extremität
 Zur unteren Extremität gehören folgende Skelett-Anteile:
 
 - Pelvis (Beckenring): s. u.
-
 - Femur (Oberschenkelknochen):
-  längster und stärkster Knochen des menschlichen Körpers,
-  CCD-Winkel (Centrum-Collum-Diaphysen-Winkel)
-
+  längster und stärkster Knochen des menschlichen Körpers, CCD-Winkel (Centrum-Collum-Diaphysen-Winkel)
 - Patella (Kniescheibe): größtes Sesambein des menschlichen Körpers
-
 - Tibia (Schienbein)
-
 - Fibula (Wadenbein)
-
 - Fußskelett:
 
   - Ossa tarsi (Fußwurzelknochen): 7
@@ -39,6 +37,8 @@ Zur unteren Extremität gehören folgende Skelett-Anteile:
   - Ossa metatarsi (Mittelfußknochen) I-V
   - Ossa digitorum (Zehenknochen):
     Phalanx proximalis, distalis I-V; media nur II-V (insg. 14 Ossa digitorum)!
+
+
 
 
 
@@ -64,6 +64,8 @@ Foramen obturatorium
 
 
 
+
+
 ### Femur
 
 Der **Femur** (*Oberschenkelknochen*) bildet als einziger Knochen den Oberschenkel.
@@ -80,6 +82,8 @@ Strukturen:
 
 
 
+
+
 ### Patella
 
 Die **Patella** (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestreckers.
@@ -88,6 +92,8 @@ Die **Patella** (*Kniescheibe*)  für eine bessere Kraftübertragung des Kniestr
 - Apex patellae
 - Facies anterioris patellae
 - Facies posterioris patellae mit der Gelenkfläche
+
+
 
 
 
@@ -117,6 +123,11 @@ Die Tibia und Fibula sind über die Zwischenknochenmembran
 
     Extremitas distalis: Malleolus lateralis.
 
+
+
+
+
+
 ### Ossa tarsi
 
 Der Fuß zeigt 2 Gewölbe - das Längsgewölbe und das Quergewölbe
@@ -125,25 +136,37 @@ fibularer / lateraler Strahl: Clacaneus, Os cuboideum.
 
 tibialer / medialer Strahl: Talus, Os naviculare, Os cuneiforme mediale, intermedium und laterale
 
+
+
+
+
+
 ### Ossa metatarsi
 
 Zeigen jeweils ein Caput, ein Corpus und eine Basis.
 
+
+
+
+
+
 ### Ossa digiti
 
-mit Phalanx proximalis und distalis:
+-   mit Phalanx proximalis und distalis:
 
-Hallux
+    -   Hallux
 
-mit Phalanx proximalis, media und distalis:
+-   mit Phalanx proximalis, media und distalis:
 
-Digitus secundus
+    - Digitus secundus
+    - Digitus tertius
+    - Digitus quartus
+    - Digitus quintus
 
-Digitus tertius
 
-Digitus quartus
 
-Digitus quintus
+
+
 
 (beckenboden)=
 (beckenguertel)=
@@ -151,12 +174,9 @@ Digitus quintus
 
 ## Pelvis (Beckenring)
 
-Das Becken ist ein ringförmiger Knochenverbund bestehend aus den beiden *Ossa coxae* (Hüftknochen)
-sowie dem *Os sacrum*.
-Sie sind über die *Artt. sacroiliacae (Iliosakralgelenke)* sowie über die **Symphyse** (*Symphysis pubica*, *Schambeinfuge*)
-zum Beckenring verbunden.
-Die Symphyse stellt eine straffe Knorpelverbindung vorne zwischen den beiden Beckenknochen dar
-(Dehnungsfuge, für Geburtsvorgang notwendig).
+Das Becken ist ein ringförmiger Knochenverbund bestehend aus den beiden *Ossa coxae* (Hüftknochen) sowie dem *Os sacrum*.
+Sie sind über die *Artt. sacroiliacae (Iliosakralgelenke)* sowie über die **Symphyse** (*Symphysis pubica*, *Schambeinfuge*) zum Beckenring verbunden.
+Die Symphyse stellt eine straffe Knorpelverbindung vorne zwischen den beiden Beckenknochen dar (Dehnungsfuge, für Geburtsvorgang notwendig).
 Dieser ist normalerweise um 60° geneigt.
 
 {.deep}
@@ -166,11 +186,14 @@ Im Beckenraum kann man zwei Bereiche unterscheiden.
 Das **große Becken** wird von den Beckenschaufeln eingefasst.
 Dieser Bereich wird noch zum *Abdomen* gerechnet.
 Die *Linea terminalis* grenzt das große vom **kleinen Becken** ab.
-Sie führt vom Promontorium über die Linea arcuata und die Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior (Beckeneingangsebene). Die Beckenausgangsebene (Apertura pelvis inferior) wird vom muskulären Beckenboden verschlossen.
+Sie führt vom Promontorium über die Linea arcuata und die Crista pubica zur Symphyse und umrahmt die Apertura pelvis superior (Beckeneingangsebene).
+Die Beckenausgangsebene (Apertura pelvis inferior) wird vom muskulären Beckenboden verschlossen.
 
-Im Vergleich zwischen Mann und Frau weist das Becken spezifische *Geschlechtsunterschiede* auf. In seiner Gesamtform ist das Becken der Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger.
+Im Vergleich zwischen Mann und Frau weist das Becken spezifische *Geschlechtsunterschiede* auf.
+In seiner Gesamtform ist das Becken der Frau eher breiter als hoch, beim Mann eher höher als breit, das kleine Becken ist in Vorbereitung auf die Geburt bei der Frau geräumiger.
 Die Beckeneingangsebene hat bei der Frau eine querovale Form, beim Mann eher längsoval.
-Das Foramen obturatorium ist beim Mann rundlich, bei der Frau queroval. Der augenscheinlichste Unterschied beim knöchernen Becken ist der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim Mann, kleiner als 70°).
+Das Foramen obturatorium ist beim Mann rundlich, bei der Frau queroval.
+Der augenscheinlichste Unterschied beim knöchernen Becken ist der Arcus pubicus (bei der Frau, 90—100°) bzw. Angulus subpubicus (beim Mann, kleiner als 70°).
 
 Das Becken wird nach kaudal durch den *Beckenboden* — mehrere Schichten von Bindegewebe und Muskulatur — verschlossen.
 Von superficial nach profund unterscheidet man:
@@ -197,12 +220,14 @@ Von superficial nach profund unterscheidet man:
 
 
 
+
+
 ## Gelenke
 
 ### Articulatio coxae (Hüftgelenk)
 
-Das Hüftgelenk verbindet Acetabulum und Caput femoris gelenkig. Es ist ein *Kugelgelenk (Nussgelenk)* und ermöglicht folgende Gelenke: Flexion
-\- Extension, Abduktion - Adduktion, Rotation.
+Das Hüftgelenk verbindet Acetabulum und Caput femoris gelenkig.
+Es ist ein *Kugelgelenk (Nussgelenk)* und ermöglicht folgende Gelenke: Flexion \- Extension, Abduktion - Adduktion, Rotation.
 
 Das *Labrum acetabuli (Gelenklippe)* vergrößert wie beim Schultergelenk die Gelenkfläche.
 
@@ -215,6 +240,10 @@ Folgende Bänder stabilisieren das Gelenk:
 - Zona orbicularis
 - Lig. capitis femoris: intrakapsulär, in diesem Band verläuft die A.
   capitis femoris, wichtig für die Blutversorgung des Caput femoris.
+
+
+
+
 
 ### Articulatio genus (Kniegelenk)
 
@@ -279,6 +308,11 @@ Das Sprunggelenk kann in *zwei verschiedene Ebenen* eingeteilt werden:
 
   Radgelenk, schräge Bewegungsachse, Pronation - Supination
 
+
+
+
+
+
 ### Weitere Gelenke
 
 Artt.intertarsales: zwischen den restlichen Fußwurzelknochen » Amphiarthrose
@@ -288,6 +322,11 @@ Artt. metatarsophalangeae: zwischen den Ossa metatarsales und den dazugehörigen
 Artt. intermetatarsales: zwischen den einzelnen Mittelfußknochen » Amphiarthrose
 
 Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenke
+
+
+
+
+
 
 ## Wichtige Muskeln der unteren Extremität
 
@@ -310,59 +349,34 @@ Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenk
   - N. gluteus
     superior.
 - - M. gluteus minimus
-  - Vom Os ilium zum Trochanter major,
-    Abduktion in der Hüfte;
-  - N. gluteus
-    superior
+  - Vom Os ilium zum Trochanter major, Abduktion in der Hüfte;
+  - N. gluteus superior
 - - M. biceps femoris
-  - Vom Tuber ischiadicum bzw. vom Femur
-    zum lateralen Tibiakondyl, Extension
-    in der Hüfte, Flexion und
-    Außenrotation im Knie;
-  - N.
-    ischiadicus
+  - Vom Tuber ischiadicum bzw. vom Femur zum lateralen Tibiakondyl, Extension in der Hüfte, Flexion und Außenrotation im Knie;
+  - N. ischiadicus
 - - M. semitendinosus
-  - Vom Tuber ischiadicum zum Pes
-    anserinus superficialis, Extension
-    in der Hüfte, Flexion und
-    Innenrotation im Knie;
-  - N.
-    ischiadicus
+  - Vom Tuber ischiadicum zum Pes anserinus superficialis, Extension in der Hüfte, Flexion und Innenrotation im Knie;
+  - N. ischiadicus
 - - M. semimembranosus
-  - Vom Tuber ischiadicum zum Pes
-    anserinus profundus, Extension in
-    der Hüfte, Flexion und Innenrotation
+  - Vom Tuber ischiadicum zum Pes anserinus profundus, Extension in der Hüfte, Flexion und Innenrotation
     im Knie;
   - N. ischiadicus
 - - Adduktoren
-  - Vom Ramus superior bzw. inferior
-    ossis pubis zum Femur, Adduktion in
-    der Hüfte;
+  - Vom Ramus superior bzw. inferior ossis pubis zum Femur, Adduktion in der Hüfte;
   - N. obturatorius
 - - M. triceps surae
-  - Bestehend aus M. gastrocnemius und
-    M. soleus, vom lateralen und
-    medialen Femurkondyl bzw. der Tibia
-    und Fibula über die Achillessehne
-    zum Calcaneus, Flexion im Knie,
-    Plantarflexion im oberen
-    Sprunggelenk
+  - Bestehend aus M. gastrocnemius und M. soleus, vom lateralen und medialen Femurkondyl bzw. der Tibia und Fibula über die Achillessehne zum Calcaneus, Flexion im Knie, Plantarflexion im oberen Sprunggelenk
   -
 - - M. tibialis posterior
-  - Von Tibia und Fibula zu den
-    Fußwurzelknochen dorsal,
-    Plantarflexion und Supination;
-  - N.
-    tibialis
+  - Von Tibia und Fibula zu den Fußwurzelknochen dorsal, Plantarflexion und Supination;
+  - N. tibialis
 - - M. flexor digitorum longus
-  - Von Tibia zu den Endphalangen II-V,
-    Flexion der Zehen;
+  - Von Tibia zu den Endphalangen II-V, Flexion der Zehen;
   - N. tibialis
 - - M. flexor hallucis longus
   - Von Fibula zur Endphalanx der
     Großzehe, Flexion der Großzehe;
-  - N.
-    tibialis
+  - N. tibialis
 - - M. tibialis anterior
   - Von Tibia zum medialen Os
     cuneiforme, Dorsalflexion,
@@ -379,13 +393,9 @@ Artt. interphalangeales: zwischen den einzelnen Zehengliedern » Scharniergelenk
   - N.
     peroneus profundus
 - - M. peroneus longus
-  - Von Fibula zum medialen Os
-    cuneiforme, Pronation und
-    Plantarflexion;
-  - N. peroneus
-    superficialis
+  - Von Fibula zum medialen Os cuneiforme, Pronation und Plantarflexion;
+  - N. peroneus superficialis
 - - M. peroneus brevis
-  - Von Fibula zum Os metatarsale V,
-    Pronation und Plantarflexion;
+  - Von Fibula zum Os metatarsale V, Pronation und Plantarflexion;
   - N.  peroneus superficialis
 :::

@@ -75,6 +75,7 @@ Zur oberen Extremität gehören folgende Skelett-Anteile:
     - Phalanx *medialis*: nur **II—V** (nicht am Daumen)!
     - Phalanx *distalis*: distaler Knochen der Finger I—V;
 
+
 :::{note}
 Da die Daumen jeweils nicht über einen Phalanx med. verfügen gibt es in Summe nur *14* Ossa digitorum.
 :::
@@ -85,6 +86,9 @@ Da die Daumen jeweils nicht über einen Phalanx med. verfügen gibt es in Summe 
 - Bänder und Muskel sind für die Stabilität des Schultergelenkes
   wichtig.
 :::
+
+
+
 
 
 
@@ -126,6 +130,8 @@ Proc. coracoideus und Acromion), Lig. transversum scapulae sup.
 
 :::{todo} {issue}`113` Scapula als Landmark / WS für Regionalanästhesie und Punktionen
 :::
+
+
 
 
 
@@ -181,6 +187,9 @@ Aufgrund seiner Nahebeziehung des N. radialis zum Knochen ist er bei Humerusfrak
 
 
 
+
+
+
 :::{index} single: Speiche
 :::
 :::{index} single: Radius
@@ -197,12 +206,12 @@ Die **Speiche** (Radius) ist einer der beiden den Unteram bildenden Knochen und 
 Der Knochen bildet sich aus:
 
 - Extremitas proximalis: Caput radii mit Fovea articularis und der Circumferentia articularis, Collum radii, Tuberositas radii.
-
 - Corpus radii
-
 - Extremitas distalis: Proc. styloideus radii, Incisura ulnaris, Facies articularis carpalis, Tuberculum dorsale.
 
 Der Radius ist mit der Ulna über die Zwischenknochenmembran (Membrana interossea) verbunden.
+
+
 
 
 
@@ -228,13 +237,14 @@ Die Ulna ist mit dem Radius über die Zwischenknochenmembran (Membrana interosse
 
 
 
+
+
 :::{index} single: Handwurzelknochen
 :::
 :::{index} single: Ossa; carpi
 :::
 :::{index} single: Karpaltunnel
 :::
-
 
 (ossacarpi)=
 
@@ -253,13 +263,14 @@ Darin verlaufen die Beugesehnen der Fingermuskeln sowie der N. medianus.
 
 
 
+
+
 :::{index} single: Ossa; metacarpi
 :::
 :::{index} single: Metakarpalknochen
 :::
 :::{index} single: Mittelhandknochen
 :::
-
 
 (ossametacarpi)=
 
@@ -270,17 +281,22 @@ Sie zeigen jeweils ein Caput, ein Corpus und eine Basis.
 
 
 
-```{eval-rst}
-.. index::
-    single: Fingerknochen
-    single: Ossa; digitorum manus
-    single: Index
-    single: Digitus; medius
-    single: Digitus; anularis
-    single: Digitus; minimus
-    single: Pollex
-    single: Daumen
-```
+:::{index} single: Fingerknochen
+:::
+:::{index} single: Ossa; digitorum manus
+:::
+:::{index} single: Index
+:::
+:::{index} single: Digitus; medius
+:::
+:::{index} single: Digitus; anularis
+:::
+:::{index} single: Digitus; minimus
+:::
+:::{index} single: Pollex
+  :::
+:::{index}   single: Daumen
+:::
 
 ### Fingerknochen (Ossa digitorum manus)
 
@@ -346,6 +362,8 @@ Folgende Bänder stabilisieren das Akromioklavikulargelenk:
 
 
 
+
+
 :::{index} single: Articulatio; glenohumeralis
 :::
 :::{index} single: Schultergelenk
@@ -372,6 +390,8 @@ Die Bandsicherung erfolgt über die Ligg. glenohumeralia superius, medius und in
 
 Da die Bänder des Schultergelenks für die Gelenkstabilität unzureichend sind, braucht das Schultergelenk die sog. Rotatorenmanschette (M. supraspinatus, M. infraspinatus, M. subscapularis, M. teres minor).
 Das Schultergelenk wird daher auch als muskelgesichert beschrieben.
+
+
 
 
 
@@ -414,6 +434,11 @@ Ein **Schleimbeutel** über dem Olecranon (*Bursa olecrani*) sowie auch eine Aus
 
 {.deep}
 Das Lig. collaterale ulnare, das Lig. collaterale radiale sowie das Lig. anulare radii stabilisieren das Gelenk. Das Ellenbogengelenk ist knochen- und bandgesichert.
+
+
+
+
+
 
 :::{index} single: Handgelenk; proximales
 :::
@@ -470,6 +495,11 @@ Die wichtigsten Gelenke der Hand sind:
 - Artt. *interphalangeales*:
   Scharniergelenke zwischen den einzelnen Fingergliedern
 
+
+
+
+
+
 ## Wichtige Muskeln der oberen Extremität
 
 :::{todo} #115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln
@@ -495,56 +525,35 @@ Die wichtigsten Gelenke der Hand sind:
 
   -
 - - M. deltoideus
-  - Von Clavicula, Acromion und Spina scapulae
-    zur Tuberositas   deltoidea, Abduktion im Schultergelenk;
+  - Von Clavicula, Acromion und Spina scapulae zur Tuberositas   deltoidea, Abduktion im Schultergelenk;
   - N. axillaris
 - - M. trapezius
-  - Von Procc. spinosi C 2—Th 12 zur
-    Clavicula und Spina scapulae,
-    zieht Scapula nach medial;
-  - N.      accessorius
+  - Von Procc. spinosi C 2—Th 12 zur  Clavicula und Spina scapulae, zieht Scapula nach medial;
+  - N. accessorius
 - - M. pectoralis major
-  - Von Clavicula, Sternum sowie
-    kranialem Teil der Rektusscheide
-    zum Humerus, Adduktion im
-    Schultergelenk;
+  - Von Clavicula, Sternum sowie kranialem Teil der Rektusscheide zum Humerus, Adduktion im Schultergelenk;
   - Nn. pectorales
     med. et lat.
 - - M. pectoralis minor
-  - Von 3.-5. Rippe zum Proc.
-    coracoideus, zieht Scapula nach
-    medial/kranial, rotiert Scapula;
+  - Von 3.-5. Rippe zum Proc. coracoideus, zieht Scapula nach medial/kranial, rotiert Scapula;
   - Nn. pectorales med. et lat
 - - M. latissimus dorsi
-  - Von Procc. spinosi Th 7—L 5 zum
-    Humerus, Adduktion im
-    Schultergelenk;
+  - Von Procc. spinosi Th 7—L 5 zum Humerus, Adduktion im Schultergelenk;
   - N. thoracodorsalis
 - - M. serratus anterior
-  - Von 1.-9. Rippe zum Margo
-    medialis scapulae, Elevation des
-    Armes;
+  - Von 1.-9. Rippe zum Margo medialis scapulae, Elevation des Armes;
   - N. thoracicus longus
 - - M. teres major
-  - Von Angulus inf. scapulae zum
-    Humerus, Adduktion im
-    Schultergelenk;
+  - Von Angulus inf. scapulae zum Humerus, Adduktion im Schultergelenk;
   - N. thoracodorsalis
 - - M. triceps brachii
-  - 3 Köpfe, von Scapula bzw.
-    Humerus zum Olecranon, Extension
-    im Ellenbogen gelenk;
+  - 3 Köpfe, von Scapula bzw. Humerus zum Olecranon, Extension im Ellenbogen gelenk;
   - N. radialis
 - - M. biceps brachii
-  - 2 Köpfe, von Glenoid bzw.
-    Humerus zur Tuberositas radii,
-    Flexion und Suppination im
-    Ellenbogengelenk;
+  - 2 Köpfe, von Glenoid bzw. Humerus zur Tuberositas radii, Flexion und Suppination im Ellenbogengelenk;
   - N. musculocutaneus
 - - M. brachialis
-  - Von Humerus zur Tuberositas
-    ulnae, Flexion im
-    Ellenbogengelenk;
+  - Von Humerus zur Tuberositas ulnae, Flexion im Ellenbogengelenk;
   - N. musculocutaneus
 - - M. pronator teres
   - Pronation;
@@ -556,9 +565,7 @@ Die wichtigsten Gelenke der Hand sind:
   - Supination;
   - N. radialis
 - - Unterarmmuskeln
-  - werden der
-    Einfachheit halber in drei
-    Gruppen unterteilt:
+  - werden der Einfachheit halber in drei Gruppen unterteilt:
   -
 - - 1. Flexoren
   -

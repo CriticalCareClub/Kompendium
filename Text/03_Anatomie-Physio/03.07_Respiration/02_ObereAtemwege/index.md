@@ -52,6 +52,13 @@ In die Nasenhöhle münden neben dem *Tränen-Nasen-Gang (Ductus nasolacrimalis*
 
 Über ihre Schleimhautauskleidung arbeiten sie an der *Befeuchtung und Erwärmung der Atemluft* mit. Außerdem bilden sie einen *Resonanzkörper* für die Sprachbildung (luftgefüllte Knochen).
 
+
+
+
+
+
+(Pharynx)=
+
 ## Pharynx (Rachen)
 
 Nach den Choanen kommt die Atemluft in den Rachen. Dieser ist in *drei Stockwerke* (nach ihrer Lage) eingeteilt und ca. *12 cm* lang:
@@ -80,6 +87,12 @@ Dieser besteht aus 5 verschiedenen Organen:
 - Seitenstrang - diffuses lymphatisches Gewebe
 
 Der Pharynx besteht für den Schluckvorgang hauptsächlich aus *quergestreifter Muskulatur.* Man unterscheidet Schlundschnürer (Mm. constrictores pharyngi) und Schlundheber (Mm. levatores pharyngi).
+
+
+
+
+
+(Larynx)=
 
 ## Larynx (Kehlkopf)
 

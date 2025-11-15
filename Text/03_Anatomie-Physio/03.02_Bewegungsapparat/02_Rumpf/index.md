@@ -1,19 +1,22 @@
+---
+status: final
+---
+
+
 ```{index} single: Rumpf
 ```
 ```{index} single: Truncus
 ```
 
-(rumpf)=
+(Rumpf)=
 
 # Rumpf (Truncus)
 
-Zum Rumpfskelett gehören die  *Wirbelsäule* (Columna vertebralis) sowie die
-Knochen des **Brustkorbs** (**Thorax**), **Rippen** (*Costae*) und das **Brustbein** (**Sternum**).
+Zum Rumpfskelett gehören die  *Wirbelsäule* (Columna vertebralis) sowie die Knochen des **Brustkorbs** (**Thorax**), **Rippen** (*Costae*) und das **Brustbein** (**Sternum**).
 
 ```{toctree}
 :maxdepth: 1
+:glob:
 
-Wirbelsaeule/index
-Thorax/index
-Bauchwand/index
+*/index
 ```

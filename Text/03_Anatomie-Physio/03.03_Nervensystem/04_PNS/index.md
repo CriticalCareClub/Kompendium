@@ -1,3 +1,7 @@
+
+
+(PNS)=
+
 # Peripheres Nervensystem (PNS)
 
 :::{admonition} Defintion

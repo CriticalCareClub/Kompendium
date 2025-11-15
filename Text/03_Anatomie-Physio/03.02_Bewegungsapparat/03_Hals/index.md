@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 ```{index} single: Hals
@@ -12,17 +16,17 @@
 Der Hals umfasst alle sieben Halswirbeln und reicht von der oberen Thoraxapertur bis zur Mandibula.
 
 Er beinhaltet
-den Rachen (Pharynx),
-den Ösophagus (Speiseröhre),
-den Kehlkopf (Larynx),
-die Luftröhre (Trachea),
+den {ref}`Rachen <Pharynx>` (Pharynx),
+den {ref}`Ösophagus <Oesophagus>` (Speiseröhre),
+den {ref}`Kehlkopf <Larynx>` (Larynx),
+die {ref}`Luftröhre <Trachea>` (Trachea),
 die Schilddrüse (Glandula thyroidea),
 das Zungenbein (Os hyoideum)
 sowie die großen Leitungsbahnen für den Kopf
-(A. carotis communis,
+({ref}`A. carotis communis <A-carotis-communis>`,
 V. jugularis interna et externa,
 Lymphbahnen,
-N. vagus (X),
+{ref}`N. vagus <PNS>` (*X*),
 Truncus sympathicus).
 
 Knöchern ist neben den Halswirbeln ist in dieser Region noch ein einzelner Knochen zu

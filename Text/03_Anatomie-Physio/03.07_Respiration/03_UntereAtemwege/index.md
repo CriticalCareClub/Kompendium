@@ -8,6 +8,7 @@ status: final
 ```
 ```{index} single: Luftröhre
 ```
+(Trachea)=
 
 ## Trachea (Luftröhre)
 
@@ -18,12 +19,18 @@ Unmittelbar dorsal zur Trachea befindet sich der Ösophagus (Speiseröhre).
 Die Trachea endet in der Bifurkation (*Bifurcatio tracheae*), wo sie sich in den rechten und linken Hauptbronchus und weiter in die Lappenbronchien teilt.
 Als seltene Normvariante kann der Lappenbronchus des rechten Oberlappens bereits aus der Trachea abgehen (Bronchus trachealis, "Schweinebronchus").
 
+
+
+
+
+
 ```{index} single: Alveolen
 ```
 ```{index} single: Lungenbläschen
 ```
 ```{index} single: Hauptbronchus
 ```
+(Bronchien)=
 
 ## Bronchien
 

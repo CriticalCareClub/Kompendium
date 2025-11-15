@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 
 ```{index} single: Kopf
@@ -18,6 +22,12 @@ Querschnitt durch die Schädeldecke
 Der Begriff **Kopf** (*Caput*) bezieht neben den knöchernen Strukturen auch alle übrigen Strukturen der Region ein (Haut, Muskeln, Hirn, …).
 Der knöcherne Anteil des Kopfs wird **Schädel** (**Cranium**) genannt.
 Unter dem Haupthaar und der damit verbundenen Haut folgt die Kopfschwarte. Die Besonderheit der Kopfschwarte besteht darin, dass Blutgefäße nicht wie sonst im Körper bei Verletzung kolabieren. Dadurch kommt es *auch bei relativ geringen Kopfverletzungen* zu vergleichsweise *starken Blutungen*. Hierauf folgt die *Schädelkalotte*.
+
+
+
+
+
+(Cranium)=
 
 ## Schädel (Cranium)
 
@@ -63,6 +73,7 @@ Die Schädelbasis kann in *drei verschiedene Gruben* (vordere, mittlere, hintere
 Das **Foramen magnum** (*großes Hinterhauptsloch*)
 ist die *Durchtrittsstelle des Rückenmarks*.
 
+
 :::{figure} /Bilder/PD/Gray1196-edited.\*
 :width: 50%
 
@@ -70,6 +81,11 @@ Aufsicht auf die Schädelbasis
 
 ₢ Gray’s Anatomy ℓ Copyright expired
 :::
+
+
+
+
+
 
 ### Schädelnähte (Suturen) und Fontanellen
 
@@ -90,6 +106,7 @@ Die Schädelnähte sind Überbleibsel aus der Wachstumsphase des Menschen — im
 
 Die Unterscheidung ist für die Geburtshilfe interessant, da man dadurch unterscheiden kann in welche Richtung der Kopf des Kindes schaut.
 
+
 :::{figure} /Bilder/PD/fontanelle-dt.\*
 :align: right
 :width: 50%
@@ -98,6 +115,11 @@ Fontanellen
 
 ₢ Gray’s Anatomy ℓ Copyright expired
 :::
+
+
+
+
+
 
 ## Muskeln des Kopfes
 

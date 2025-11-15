@@ -1,3 +1,6 @@
+---
+status: final
+---
 
 
 ```{index} single: Interkostalraum
@@ -54,7 +57,7 @@ Paar endet mit knorpeligen Spitzen frei zwischen den Bauchmuskeln
 (*fliegende Rippen*, Costae fluctuantes).
 Der Raum zwischen benachbarten Rippen heißt **Intercostalraum** (**ICR**).
 
-Die *Rippe* (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und der Rippenknorpel (Cartilago costalis) zusammen. [An jedem Rippenknochen können Rippenkopf (Caput costae), Rippenhals (Collum costae), Rippenkörper (Corpus costae) mit der]{.deep} *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die *Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
+Die **Rippe** (*Costa*) setzt sich aus dem Rippenknochen (Os costale) und der Rippenknorpel (Cartilago costalis) zusammen. [An jedem Rippenknochen können Rippenkopf (Caput costae), Rippenhals (Collum costae), Rippenkörper (Corpus costae) mit der]{.deep} *an der Unterseite* der Rippe gelegenen Rippenrinne (Sulcus costalis) für die *Intercostalgefäße* und *-nerven* ("Gefäß-/Nervenbündel") sowie Rippenknorpel (Cartilago costalis)
 unterschieden werden. [Der Sulcus costalis fehlt an der 1., 2. und 12.
 Rippe.]{.deep} Die Rippen sind, um den Thorax zu formen, nach innen gekrümmt. Zudem verlaufen sie nicht in 90° zur Wirbelsäule nach ventral, sondern sind auch noch in sich nach caudal gekrümmt, sodass die Spitze der Rippe immer caudal ihrer Befestigung an der Wirbelsäule liegt.
 
@@ -66,6 +69,10 @@ Eine interkostale *Punktion* (z. B. des Pleuraraums) muss daher immer am *Ober
 
 Das **Brustbein** (**Sternum**), ein platter Knochen, besteht aus drei Teilen:
 Dem **Manubrium** *sterni* (Handgriff), dem *Corpus sterni* (Brustbeinkörper) und dem **Processus xiphoideus** (Schwertfortsatz). Diese sind durch Synchondrosen miteinander verbunden. Sie verknöchern im Laufe des Erwachsenenalters.
+
+
+
+
 
 ```{rubric} Gelenke des Thorax
 ```
@@ -87,6 +94,11 @@ Die Gelenke des Thorax[^gelenkethorax] sind Scharniergelenke.
 
     - Brustbein-Rippen-Gelenk [(Articulatio sternocostalis): sind bei 2.—5.
       Rippe eine Diarthrose, bei 1., 6. und 7. Rippe eine Synchondrose.]{.deep}
+
+
+
+
+
 
 :::{index} single: Zwerchfell
 :::
@@ -133,20 +145,16 @@ Durch drei Zwerchfellöffnungen passieren die V. cava inferior und der N. phreni
 
 [^echteatemmuskeln]: *Echte Atemmuskeln*:
 
-    - Mm. intercostales externi: Inspiration
+    -   Mm. intercostales externi: Inspiration
+    -   Mm. intercostales interni: Exspiration
+    -   Mm. subcostales: Exspiration
+    -   M. transversus thoracis: Exspiration
+    -   Diaphragma (Zwerchfell):
 
-    - Mm. intercostales interni: Exspiration
-
-    - Mm. subcostales: Exspiration
-
-    - M. transversus thoracis: Exspiration
-
-    - Diaphragma (Zwerchfell):
-
-      - zentrale Sehnenplatte (Centrum tendineum)
-      - Pars costalis (Rippen-Anteil)
-      - Pars lumbalis (Lenden-Anteil)
-      - Pars sternalis (Brustbein-Anteil)
+        -   zentrale Sehnenplatte (Centrum tendineum)
+        -   Pars costalis (Rippen-Anteil)
+        -   Pars lumbalis (Lenden-Anteil)
+        -   Pars sternalis (Brustbein-Anteil)
 
 Die kraniale Fortsetzung der Zwischenrippenmuskeln sind die Mm. scaleni.
 
@@ -154,10 +162,11 @@ Die **Atemhilfsmuskeln** besitzen an sich eine eigene Hauptfunktion in Bezug auf
 Dadurch kann die Atemhilfsmuskulatur bei Bedarf (z.B. Asthmaanfall) die Atmung unterstützen.
 Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) oft gut zu erkennen.
 
+
 :::{note}
-- Die Intaktheit des Brustkorbes ist für die Atmung von großer
-  Bedeutung.
+- Die Intaktheit des Brustkorbes ist für die Atmung von großer   Bedeutung.
 :::
+
 
 Die *Brustwand* ist insgesamt 4-schichtig aufgebaut (von außen nach innen):
 

@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 
 ```{index} single: Knochenverbindungen
 ```
@@ -21,35 +25,47 @@ Ein Gelenk im Querschnitt
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
+
+
+
+
 ```{index} single: Syndesmose
 ```
 ```{index} single: Synchrondrose
 ```
 ```{index} single: Synostose
 ```
+```{index} single: Synarthrose
+```
+
+(Syndesmose)=
+(Synchrondrose)=
+(Synostose)=
+(Synarthrose)=
 
 ## Synarthrosen
 
 Bei Synarthrosen können unterschieden werden:
 
 - **Bandhafte Verbindung über Bindegewebe** (*Syndesmose)*:
-  Z. B. Membrana
-  interossea (Zwischenknochenmembran) zwischen Ulna (Elle) und Radius
-  (Speiche), Fontanellen, Suturen (Schädelnähte), Gomphosis
-  („Einzapfung“ der Zähne).
-- **Knorpelhafte** Verbindung (*Synchondrose*):  Z. B. Discus
-  intervertebralis (Bandscheibe), Symphys (Schambeinfuge),
-  Wachstumsfugen.
-- **Knochenhaft** (*Synostose*): immer eine sekundäre Verbindung, basierend
-  auf den beiden bereits genannten, Verbindung über Knochen, z.B. Kreuzbein (Os
-  sacrum), Hüftbein (Os coxae), Verknöcherung der
-  Wachstumsfugen nach Wachstumsabschluss.
+  Z. B. Membrana interossea (Zwischenknochenmembran) zwischen Ulna (Elle) und Radius (Speiche), Fontanellen, Suturen (Schädelnähte), Gomphosis („Einzapfung“ der Zähne).
+- **Knorpelhafte** Verbindung (*Synchondrose*):
+  Z. B. Discus intervertebralis (Bandscheibe), Symphys (Schambeinfuge), Wachstumsfugen.
+- **Knochenhaft** (*Synostose*):
+  immer eine sekundäre Verbindung, basierend auf den beiden bereits genannten, Verbindung über Knochen, z.B. Kreuzbein (Os sacrum), Hüftbein (Os coxae), Verknöcherung der Wachstumsfugen nach Wachstumsabschluss.
+
+
+
+
+
 
 ```{index} single: Gelenkkapsel
 ```
 ```{index} single: Gelenkkörper
 ```
 ```{index} single: Knorpel; Diarthrosen
+```
+```{index} single: Diarthrose
 ```
 ```{index} single: Membrana; fibrosa
 ```
@@ -63,6 +79,7 @@ Bei Synarthrosen können unterschieden werden:
 ```
 ```{index} single: Chondrozyten
 ```
+(Diarthrose)=
 
 ## Klassische Gelenke: Diarthrosen
 
@@ -76,8 +93,8 @@ Die Gelenkinnenhaut ({dfn}`Membrana synovialis`; Gefäß- und Nervenreich) sorgt
 
 Der Gelenkknorpel besteht in den meisten Gelenken aus hyalinem Knorpel.
 Abgesehen von den *Knorpelzellen* (*Chondrozyten)* besteht dieser Knorpel aus *Extrazellulärmatrix* [(Kollagenmatrix, Makromoleküle (Proteoglykane) und Wasser)]{.deep}.
-[Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.]{.deep} 
-Er ist auch aufgrund des mangelndem Knorpelhaut (Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden. 
+[Durchschnittlich ist er ca. 2—3 mm dick, kann aber an Einzelstellen, wie z.B. an der Gelenksflächen der Kniescheibe (Patella, 8 mm), dicker sein.]{.deep}
+Er ist auch aufgrund des mangelndem Knorpelhaut (Perichondrium, enthält Nerven und und Blutgefäße) und der abwesenden Blutgefäßen *von der Nährstoffversorgung* über das Blut *abgegrenzt* und muss über die Gelenksflüssigkeit versorgt werden.
 Dies ist der Grund, warum die Regeneration von Knorpelschäden in Gelenken auch eine so große Herausforderung ist.
 
 Die *besonderen Einrichtungen* der Gelenke umfassen alles, was nicht zur
@@ -93,6 +110,11 @@ Die Bänder der Gelenke haben jedoch nicht nur eine hemmende Funktion. Es gibt
 - Verstärkungsbänder (für die Gelenkkapsel)
 - Führungsbänder (für Bewegungen)
 - Hemmungsbänder (für Bewegungseinschränkungen)
+
+
+
+
+
 
 ```{index} single: Kugelgelenk
 ```

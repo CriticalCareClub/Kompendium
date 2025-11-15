@@ -8,10 +8,10 @@ status: final
 
 :::{margin} Anatomie, Physiologie, Pathologie
 
-- Anatomie: Lehre vom Aufbau von Organismen
-- Physiologie: Lehre von ("normalen") physikalischen und biochemischen
-  Vorgängen im Organismus
-- Pathologie: Lehre vom krankhaft Veränderten
+-   Anatomie: Lehre vom Aufbau von Organismen
+-   Physiologie: Lehre von ("normalen") physikalischen und biochemischen
+    Vorgängen im Organismus
+-   Pathologie: Lehre vom krankhaft Veränderten
 :::
 
 Die Anatomie ist die Lehre vom Aufbau von Organismen.
@@ -24,6 +24,8 @@ Dem gegenüber versteht man unter dem Begriff **Pathologie** (bzw. dem Adjektiv 
 
 Weiters behandelt dieser Abschnitt die Vitalfunktionen des menschlichen Körpers, welche die Funktion des Körpers ermöglichen.
 Es gibt grundlegende **Vitalfunktionen 1. Ordnung** (Bewusstsein, Atmung, Kreislauf), deren Ausfall binnen kurzem zum Tod führen können, und Vitalfunktionen **2. Ordnung**, deren Störung längere Zeit toleriert bzw. kompensiert werden kann.
+
+
 
 
 
@@ -43,31 +45,33 @@ Man kann den menschlichen Körper in folgende Abschnitte unterteilen:
 
 
 
+
+
 ## Orientierung — Basis
 
 Hauptachsen:
 
-- vertikale (= longitudinale) Achse (Längsachse): vom Scheitel bis zur
-  Sohle
-- sagittale Achse (Pfeilachse): von hinten nach vorne (dorso-ventral)
-- transversale (= horizontale) Achse (Querachse): quer von rechts nach
-  links
+-   **vertikale** (*longitudinale*) Achse (Längsachse): vom Scheitel bis zur Sohle
+-   **sagittale** Achse (Pfeilachse): von hinten nach vorne (dorso-ventral)
+-   **transversale** (*horizontale*) Achse (Querachse): quer von rechts nach links
 
 An diesen Achsen sind die Körperebenen wie nach einem Koordinatensystem (3 Hauptachsen -> 3 Hauptebenen) ausgerichtet.
 Sie sind nicht fix vorgegeben, sondern können an jede Position parallel verschoben werden
 
 Hauptebenen:
 
-- Sagittalebene: parallel zur Medianebene durch den Körper
-- Frontalebene: parallel zur Stirn, senkrecht zur Sagittalebene. Diese
+- **Sagittalebene**: parallel zur Medianebene durch den Körper
+- **Frontalebene**: parallel zur Stirn, senkrecht zur Sagittalebene. Diese
   Ebene wird insbesondere in der Bildgebung auch als Koronalebene
   bezeichnet.
-- Transversalebene (= Horizontalebene): quer durch den Körper,
+- **Transversalebene** (*Horizontalebene*): quer durch den Körper,
   senkrecht auf Sagittal- und Frontalebene
 
 Alle Ebenen sind nicht fix, ansondern können parallel and jede beliebige Stelle des Körpers verschoben werden.
-Die einzige Ausnahme bildet die sog. Medianebene (= Median-Sagittal-Ebene):
-vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als Symmetrieebene bezeichnet.
+Die einzige Ausnahme bildet die sog. **Medianebene** (*Median-Sagittal-Ebene*):
+vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitengleiche Hälften — daher wird sie auch als *Symmetrieebene* bezeichnet.
+
+
 
 
 
@@ -331,6 +335,7 @@ vom Rücken zum Bauch teilt sie den Körper vom Kopf zum Fuß in zwei seitenglei
 ## Richtungsbezeichnungen
 
 Für die Beschreibungen von Richtungen und Lagebeziehungen wird eine systematische Terminologie, die dem Lateinischen entlehnt ist, verwendet.
+
 
 :::{note}
 Seiten- und Richtungsangaben (rechts, links, …) beziehen sich immer auf die betreffende Person (Patienten)!
@@ -685,6 +690,8 @@ Biotypologie nach Kretschmer:
 
 
 
+
+
 ## Vorsilben
 
 {index}`Hyper-`
@@ -743,6 +750,8 @@ Biotypologie nach Kretschmer:
 
 {index}`Säure`
 : Stoff, welcher Protonen abgeben kann. Sie reagieren mit Basen und bilden Salze.
+
+
 
 
 
@@ -821,6 +830,8 @@ Biotypologie nach Kretschmer:
 
 {index}`Urologie`
 : Heilkunde des harnableitenden Systems
+
+
 
 
 

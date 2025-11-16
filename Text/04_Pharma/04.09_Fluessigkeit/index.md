@@ -23,12 +23,15 @@ status: final
 :::
 
 (APHA-VO-Fluessigkeitstherapie)=
+(Pharma-Fluessigkeit)=
 
 # Flüssigkeitstherapie
 
 :::{seealso}
-- {term}`♛ S3 Volumentherapie 2020`
+-   {ref}`Krankheitsbilder-Wasserhaushalt` ({numref}`Krankheitsbilder-Wasserhaushalt`)
+-   {term}`♛ S3 Volumentherapie 2020`
 :::
+
 
 :::{toctree}
 :maxdepth: 1

@@ -7,6 +7,8 @@ status: final
 :::
 
 (APHA-VO-Fluessigkeitstherapie-gezielt)=
+(Stoerungen-Wasserhaushalt)=
+(Krankheitsbilder-Wasserhaushalt)=
 
 # Störungen des Wasserhaushalts
 
@@ -191,3 +193,10 @@ In diesen Patienten ist der Flüssigkeitsstatus auch immer in Zusammenhang mit d
 
 Diese Gesichtspunkte werden im Fachsemester 3 im Praktikum "Hämodynamisches Monitoring" weiter behandelt.
 :::
+
+
+:::{seealso}
+-   {ref}`Pharma-Fluessigkeit` ({numref}`Pharma-Fluessigkeit`)
+:::
+
+

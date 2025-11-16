@@ -12,29 +12,33 @@ status: sprint
 -   {ref}`wasser-elektrolythaushalt` ({numref}`wasser-elektrolythaushalt`)
 :::
 
+
+
+
+
 (elektrolytstoerungen)=
 (dialyse-elektrolyte)=
 
 ## Häufige Ursachen von Elektrolytstörungen
 
-- Niereninsuffizienz (gestörte Ausscheidung)
+-   Niereninsuffizienz (gestörte Ausscheidung)
 
-  - Besonders bei Dialysepatienten
+    -   Besonders bei Dialysepatienten
 
-- Durchfall, Erbrechen (Verlust von Elektrolyten)
-- Medikamente
+-   Durchfall, Erbrechen (Verlust von Elektrolyten)
+-   Medikamente
 
-  - Insulin: Bei der
-    Behandlung einer Hyperglykämie
-    (zu hoher Blutzuckerspiegel)
-    mittels Insulin kann es zu
-    lebensbedrohlichen Elektrolytstörungen
-    kommen!
+    -   Insulin: Bei der
+        Behandlung einer Hyperglykämie
+        (zu hoher Blutzuckerspiegel)
+        mittels Insulin kann es zu
+        lebensbedrohlichen Elektrolytstörungen
+        kommen!
 
-- Vergiftung
-- Niereninsuffizienz (Dialysepatienten!)
-- Durchfall, Erbrechen (Verlust von Elektrolyten)
-- Medikamente (Insulin!), Vergiftung
+-   Vergiftung
+-   Niereninsuffizienz (Dialysepatienten!)
+-   Durchfall, Erbrechen (Verlust von Elektrolyten)
+-   Medikamente (Insulin!), Vergiftung
 
 
 
@@ -51,6 +55,7 @@ status: sprint
 
 \< 3,5 mval / l
 
+
 Ursachen
 :   -   Extrazelluläre Alkalose oder intrazelluläre Azidose
     -   Kaliumverschiebung durch Glucose/Insulingaben (Hyperglykämie!)
@@ -65,7 +70,6 @@ Ursachen
 Klinik
 :   -   Muskelschwäche, Muskelkrämpfe, paralytischer Ileus, ndMR verlängerte Wirkung, orthostatische Hypotension, Arrhythmien (va. SVT).
     -   EKG: flache ST-Senkung, flache T-Welle, ev. U-Welle, QT-Verlängerung
-
 
 
 Therapie
@@ -123,6 +127,7 @@ Therapie
 
 \< 2,2 mmol / l bzw. ionisierter Teil < 0,9 mmol / l
 
+
 Ursachen
 :   -   Massivtransfusionen (Citrat!)
     -   HLM
@@ -152,16 +157,15 @@ Therapie
 
 \> 2,6 mmol / l oder ionisierter Anteil > 1,6 mmol / l
 
+
 Ursachen
 :   -   Hyperparathyreoidismus, VitaminD-Intoxikation, erhöhter Knochenabbau, paraneoplastisch, Sarkoidose, Hyperthyreose, iatrogene Hyperkalzämie
-
-
-
 
 
 Klinik
 :   -   Verwirrtheit, Psychosen, Muskelschwäche, Polyurie, Nephrokalzinose, NI, Obstipation
     -   EKG: QT-Verkürzung
+
 
 Therapie
 :   -   Glucose 5%, Hochdosiert Furosemid, Natriumsulfat.
@@ -182,14 +186,19 @@ Therapie
 
 \< 135 mval / l
 
+
 Ursachen
 :   -   TURB-Syndrom, postoperativ (va. Kinder nach WS-OP), SIADH (perioperativer Stress, Schmerzen, Pharmaka (Morphinsulfat), Erbrechen, SHT, Cerebral salt waste Syndrom
+
 
 Klinik
 :   - Verwirrt, Unruhe, Desorientiert, Bewusstseinsstörungen bis Koma, Krämpfe durch Hirnödem va. bei raschem Abfall, Lungenödem,...
 
+
 Therapie
-:   -   Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe unter 130mval/l = 3% Natrium (10% nur über ZVK!) Siehe TURP-Syndrom!
+:   -   Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe unter 130mval/l = 3% Natrium (10% nur über ZVK!)
+
+        Siehe {ref}`TUR-Syndrom` ({numref}`TUR-Syndrom`)!
 
 
 
@@ -228,10 +237,15 @@ Therapie
 
 ## Diabetes insipidus
 
-=  verminderte ADH-Sekretion mit Polyurie und Hypernatriämie;  Harnnatrium vermindert, Harnosmolariät niedrig, Serumoslolarität hoch!
+Verminderte ADH-Sekretion mit Polyurie und Hypernatriämie:  Harnnatrium vermindert, Harnosmolariät niedrig, Serumoslolarität hoch!
+
 
 Ursache
-:   -   SHT, SAB, Postoperativ Therapie: Minirin ½ Amp. iv. , Flüssigkeitssubstitution
+:   -   SHT, SAB, Postoperativ
+
+
+Therapie
+:   -   Minirin ½ Amp. iv. , Flüssigkeitssubstitution
 
 
 
@@ -253,8 +267,13 @@ Ursache
 
 =  inadäquat hohe ADH-Sekretion mit Wasserretention und Natriumausscheidung;  Harnnatrium stark erhöht, Harnosmolarität erhöht, Serumosmolarität niedrig, Hyponatriämie.
 
+
 Ursache
-:   -   SHT, perioperativer Stress, Schmerzen, Pharmaka, Erbrechen, paraneoplastisch beim kleinzelligen Bronchus-CA Therapie: Furosemid, Na-Substitution, Flüssigkeitsrestriktion
+:   -   SHT, perioperativer Stress, Schmerzen, Pharmaka, Erbrechen, paraneoplastisch beim kleinzelligen Bronchus-CA
+
+
+Therapie
+:   -   Furosemid, Na-Substitution, Flüssigkeitsrestriktion
 
 
 
@@ -269,6 +288,7 @@ Ursache
 ## Cerebral salt wasting Syndrome
 
 = Hyponatriämie aufgrund paradox hoher renaler Natriumausscheidung infolge einer Störung der zentralen Regulation des Natriumhaushaltes un der Osmoregulation mit hypotoner Dehydration.
+
 
 Ursache
 :   -   SHT, Hirntumoren, intrakranielle Blutungen

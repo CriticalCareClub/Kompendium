@@ -41,9 +41,3 @@ Während der Alpha-Phase wird das Changelog nur rudimentär geführt.
 
 - 2013-01
 
-
-
-| 1.0           |  | Release                                     |
-|        |  | Release                                     |
-| 2.0.1         |  | Release                                     |
-| 3.0.0         | 2016-09 | Release                                     |

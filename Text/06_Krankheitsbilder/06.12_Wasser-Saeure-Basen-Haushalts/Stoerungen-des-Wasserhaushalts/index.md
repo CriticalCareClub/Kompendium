@@ -18,32 +18,30 @@ Störungen des Wasserhaushalts lassen sich in verschiedene Formen unterteilen, d
 
 ## Diagnostisches Vorgehen
 
-- **Volumenstatus einschätzen**
+-   **Volumenstatus einschätzen**
+    -   Klinik:
+        -   Blutdruck und Herzfrequenz
+        -   Hautturgor
+        -   Schleimhäute
+        -   *Urinausscheidung*
+    - Passive Leg Raise Test:
+        {index}` <Passive Leg Raise Test>`
+        {index}` <Test; Passive Leg Raise>`
+        {index}` <Volumenresponsivität>`
+        Einfaches, nichtinvasives Verfahren zur Beurteilung der *Volumenresponsivität* eines Patienten, d.h. ob zusätzliches Volumen zu einer hämodynamisch relevanten Verbesserung führen würde.
+        Er simuliert eine kurzfristige Volumengabe, ohne dass Flüssigkeit infundiert werden muss:
+        - Der Patient liegt in Rückenlage.
+        - Die Beine werden passiv auf etwa 45° angehoben, während der Oberkörper gleichzeitig flach gelagert wird.
+        Dadurch werden ca. 300–500 mL Blut aus den Bein- und Abdominalvenen in den zentralen Kreislauf mobilisiert.
 
-  - Klinik:
-    - Blutdruck und Herzfrequenz
-    - Hautturgor
-    - Schleimhäute
-    - *Urinausscheidung*
-  - Passive Leg Raise Test:
-    {index}` <Passive Leg Raise Test>`
-    {index}` <Test; Passive Leg Raise>`
-    {index}` <Volumenresponsivität>`
-    Einfaches, nichtinvasives Verfahren zur Beurteilung der *Volumenresponsivität* eines Patienten, d.h. ob zusätzliches Volumen zu einer hämodynamisch relevanten Verbesserung führen würde.
-    Er simuliert eine kurzfristige Volumengabe, ohne dass Flüssigkeit infundiert werden muss:
-    - Der Patient liegt in Rückenlage.
-    - Die Beine werden passiv auf etwa 45° angehoben, während der Oberkörper gleichzeitig flach gelagert wird.
-      Dadurch werden ca. 300–500 mL Blut aus den Bein- und Abdominalvenen in den zentralen Kreislauf mobilisiert.
-
-    Führt der Test zu einem relevanten Anstieg des Blutdrucks (bzw. des Herzzeitvolumens), spricht dies für eine *Volumenresponsivität*, keine, oder nur minimale Veränderung, dagegen.
-  - Ggfs. Messwerte des hämodynamischen Monitorings[^HD-Monitoring]
-
-- - *Osmolarität bestimmen*
-    - Serum
-    - Ggfs. Urin
-  - *Serum-Natrium* bestimmen
-  - Zusammensetzung der Extrazellulärflüssigkeit feststellen
-  - Elektrolyte, Säure Basen Haushalt, Serumalbumin, BUN, Krea
+        Führt der Test zu einem relevanten Anstieg des Blutdrucks (bzw. des Herzzeitvolumens), spricht dies für eine *Volumenresponsivität*, keine, oder nur minimale Veränderung, dagegen.
+    -   Ggfs. Messwerte des hämodynamischen Monitorings[^HD-Monitoring]
+-   *Osmolarität bestimmen*
+        - Serum
+        - Ggfs. Urin
+    -   *Serum-Natrium* bestimmen
+    -   Zusammensetzung der Extrazellulärflüssigkeit feststellen
+    -   Elektrolyte, Säure Basen Haushalt, Serumalbumin, BUN, Krea
 
 
 [^HD-Monitoring]: Das (invasive) hämodynamische Monitoring ist Gegenstand des gleichnamigen Praktikums im Fachsemester 3.
@@ -91,8 +89,8 @@ Im Labor zeigt sich eine *erhöhte Osmolarität* mit *Hypernatriämie*.
 
 :::{margin} Hypotone Dehydration
 
-- Hypoosmolar, Hyponatriämie
-- Therapie: Na-Gabe
+-   Hypoosmolar, Hyponatriämie
+-   Therapie: Na-Gabe
 :::
 
 {index}` <Dehydration; hypotone>`
@@ -106,8 +104,8 @@ Die Folge ist eine *Hypoosmolarität* mit *Hyponatriämie*.
 
 :::{margin} Hypotone Hyperhydratation
 
-- Hypoosmolar, Hyponatriämie
-- Therapie: Diuretika, ev. Na, ev. Dialyse
+-   Hypoosmolar, Hyponatriämie
+-   Therapie: Diuretika, ev. Na, ev. Dialyse
 :::
 
 {index}` <Hyperhydratation; hypotone>`
@@ -121,8 +119,8 @@ Klinisch kann dies zu *Hirnödem* und neurologischen Symptomen, oder einer *Häm
 
 :::{margin} Hypertone Hyperhydratation
 
-  - Hyperosmolar, Hypernatriämie
-  - Therapie: Glucose 5% + Diuretika, ev. Dialyse
+-   Hyperosmolar, Hypernatriämie
+-   Therapie: Glucose 5% + Diuretika, ev. Dialyse
 :::
 
 {index}` <Hyperhydratation; hypertone>`
@@ -135,7 +133,7 @@ Die Folge sind *Hypernatriämie* und *Hyperosmolarität*.
 
 :::{margin} Hypovolämie
 
-- Isotone Verminderung der zirkulierenden Blutmenge
+-   Isotone Verminderung der zirkulierenden Blutmenge
 :::
 
 {index}` <Hypovolämie>`

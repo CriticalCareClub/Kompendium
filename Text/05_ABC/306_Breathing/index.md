@@ -38,12 +38,10 @@ Oxygenierungsindex (Horowitz-Index): paO₂/FiO₂ = normal \> 450 Zellatmung in
 - Anerober STW: Strukturstoffwechsel: Glucose -- Pyruvat -- Milchsäure + 2 ATP = keine Funktion mehr möglich, nur die Zelle hält sich für kurze Zeit am Leben = ZNS Eintrübung, Bradykardie,...
 
 
-Nicht respiratorische Funktion der Lunge: autokrin/endokrin = Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A + NA, Sekretion von IgA,
-Regulierung des Säure/Basenhaushaltes, Phagozytose, Abbau über Cytochrom P450 in der Lunge.
+Nicht respiratorische Funktion der Lunge: autokrin/endokrin = Hormonmodulation mit Bildung von Prostaglandin, Surfactnt  , Substanz P, Inaktivierung von A + NA, Sekretion von IgA, Regulierung des Säure/Basenhaushaltes, Phagozytose, Abbau über Cytochrom P450 in der Lunge.
 = Blutfilterung, Immunabwehr, Partikelfilterung und --abtransport.
 Schnellregulation der Atmung: Karotis-Sinus-Körperchen = periphere Chemorezeptoren melden O₂ und CO₂-Gehalt ans ZNS = Steigerung des AMV um 2–3l bei 1 mmHg CO₂-Anstieg.
-Langsame Regulation der Atmung über zentrale Chemorezeptoren in PONS,
-Medulla.
+Langsame Regulation der Atmung über zentrale Chemorezeptoren in PONS, Medulla.
 Prüfung: Fluss/Volumen Kurve bei Spontanatmung aufzeichen können!
 
 Spirometrie: VT, IRV, ERV = Vitalkapazität Körperplethysmographie (Heliumdilutionsmethode misst RV + FRC)
@@ -59,8 +57,7 @@ Verschlusskapazität/ closing capicity ist normalerweise \< FRC = RV
 
 Compliance: Dehnbarkeit (Vol/Druck-Bez.) von Lunge und Thorax, 1,5 ml/mbar/Kg normal, ARDS red.
 
-Resistance: Strömungswiderstand (Druck/Flow-Bez) erhöht durch Tubus,
-Sekret, ...
+Resistance: Strömungswiderstand (Druck/Flow-Bez) erhöht durch Tubus, Sekret, ...
 
 Prüfung: Druck/Volumen-Kurve (Compliance) aufzeichnen können (sigmoidaler Verlauf):
 OIP: max. Alveolardehnbarkeit UIP: Alveolarverschlussdruck Linearer Teil = Spontanatmung Prüfung: Lungenvolumina (IRV, VT, ERV, RV, VK, TK, FRC) kennen!
@@ -72,7 +69,9 @@ Kritischer DO₂ ist 300, darunter anerober STW;  VO₂ in Ruhe 3 ml / kg�
 **West-Zonen**: I apikal V\>Q kein Fluss    II intermitt. Fluss mit pulm. Art. Druck  \>  Alveolardruck III kontinuierlicher Fluss basal da art.
 Und ven. Pulm. Druck \> Alveolardruck V/Q = 0,8 (0 bei Shunt,  ∞  bei Totraumventilation) = Perfusion ist größer als die Ventilation im Durchschnitt.
 
-**Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius. Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK. Cave: Kindertubusdicke!
+**Hagen-Poiseuille Gesetz**: R = 8 x Konstante n x Länge / r4 x x Druckdiff.  = Strömungswiderstand ist proportional zur Länge und umgekehrt proportional zur 4 Potenz des Radius.
+Praktisch ist ein kurzer CH14 Venflon besser als ein CH14 Schenkel des ZVK.
+Cave: Kindertubusdicke!
 
 LaPlace-Gesetz: P=  2µ/r  Anwendung: kollabierte Alveolen habe einen kleinen Radius und ich brauche viel Druck um sie wieder zu öffnen beim Rekruitment-Manöver!
 
@@ -82,16 +81,11 @@ Führt bei regionaler alveolärer Hypoventilation zu Vasokonstriktion mit therap
 
 ## 29.2. Bronchoskopie
 
-1) Starre Bronchoskopie bei massiver Hämoptoe, FK-Entfernung va. bei Kindern (Beatmung übers Bronchoskop möglich!), Lasertherapie, Trachealeingriffe, Stentplazierung,
-HNO LM.
-KI: instabile oder fixierte HWS 2) Flexible Bronchoskopie bei FIO-Intubation, Assistenz bei dilatativer Tracheotomie, BAL,
-therapeutische Sekretabsaugung, Medikamete einbringen (z.B. Surfactant, Bronchodilat.),
-Tubuslagekontrolle, Blutstillung, FK-Entfernung.
+1) Starre Bronchoskopie bei massiver Hämoptoe, FK-Entfernung va. bei Kindern (Beatmung übers Bronchoskop möglich!), Lasertherapie, Trachealeingriffe, Stentplazierung, HNO LM.
+KI: instabile oder fixierte HWS 2) Flexible Bronchoskopie bei FIO-Intubation, Assistenz bei dilatativer Tracheotomie, BAL, therapeutische Sekretabsaugung, Medikamete einbringen (z.B. Surfactant, Bronchodilat.), Tubuslagekontrolle, Blutstillung, FK-Entfernung.
 
 Erhöhtes Risiko  bei:    PEEP  \>  10, Gerinnungsstörung, paO₂ < 70 bei FIO₂ > 0,7, MAP < 65, kardialer Pat.
-Komplikationen: Fieber (erhöhte Zytokinausschüttung), paO₂-Abfall, CO₂-Anstieg, ICP-Anstieg,
-Kreislaufdepression oder Blutdruckkrisen bei unzureichender Sedierung,
-Laryngo/Bronchospasmus, Mukosaläsionen, Resorptionsatelektasen durch hohen FIO₂, erhöhter Auto-PEEP mit Barotrauma.
+Komplikationen: Fieber (erhöhte Zytokinausschüttung), paO₂-Abfall, CO₂-Anstieg, ICP-Anstieg, Kreislaufdepression oder Blutdruckkrisen bei unzureichender Sedierung, Laryngo/Bronchospasmus, Mukosaläsionen, Resorptionsatelektasen durch hohen FIO₂, erhöhter Auto-PEEP mit Barotrauma.
 
 
 Prüfung: Aufbau Lunge grob aufzeichenen können! (Was sieht man bei der Bronchoskopie?)
@@ -99,8 +93,7 @@ Prüfung: Aufbau Lunge grob aufzeichenen können! (Was sieht man bei der Broncho
 ## 29.3. Atemwegsmanagment
 
 Eine Präoxygenierung bis etO₂ von 80% führt in der Lunge zu 90% O₂- Reserve.
-Bei der Beatmung in Narkose wird die physiologische Unterdruckbeatmung durch eine
-Überdruckbeatmung ersetzt, welche zu einer Störung des Ventilations/Perfusionsverhältnisses führt, und durch vermindertem preload (Wegfall der Thoraxpumpe) zu hämodynamischer Instabilität führen kann.
+Bei der Beatmung in Narkose wird die physiologische Unterdruckbeatmung durch eine Überdruckbeatmung ersetzt, welche zu einer Störung des Ventilations/Perfusionsverhältnisses führt, und durch vermindertem preload (Wegfall der Thoraxpumpe) zu hämodynamischer Instabilität führen kann.
 Bekannter schwieriger Atemweg: FOI planen, ev. Videolaryngoskop
 
 
@@ -129,22 +122,16 @@ AaDO₂ = Sauerstoffdruckdifferenz zwischen Alveole und Blut. Ist erhöht bei al
 (paO₂ red) oder globale Insuff. (paO₂ red, paCO₂ erh.)
 
 Hypox. Resp. Insuff: Oxygenierungsstörung bei Höhenaufenthalt oder luftgebundene Transporte
-(vermind. piO₂/Hypoxie/HPV/Atelektasen), Hypoventilation bei Versagen der Atempumpe,
-Intrapulm. Re-Li-Shunt (HPV, Atelektasen), V/Q-Mismatch, pulmonale Hypertension,
-Diffusionsstörung (Ödem, Fibrose, massive HZV-Erhöhung mit Kontaktzeitverkürzung, red. pulm.
+(vermind. piO₂/Hypoxie/HPV/Atelektasen), Hypoventilation bei Versagen der Atempumpe, Intrapulm. Re-Li-Shunt (HPV, Atelektasen), V/Q-Mismatch, pulmonale Hypertension, Diffusionsstörung (Ödem, Fibrose, massive HZV-Erhöhung mit Kontaktzeitverkürzung, red. pulm.
 Blutvolumen)
 Therapie: FiO₂ und PEEP-Erhöhung + Ursache beheben
 
 
 
 
-Hyperkapnische resp. Insuff.: CO₂-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre,
-Phrenikusparese),
-Störung der neuromuskulären Weiterleitung
-(Myasthenia gravis, Muskeldystrophie, Relaxanzüberhang, Elektrolytstörung),
-Störung der Atemmechanik
-(Hämatothorax, Pneu, Erguss, Skoliose, Serienrippe), Obstruktive AW-Erkr. (Asthma, COPD,
-Tracheomalazie), Behinderung der Atemexkursion (Adipositas, erhöhter IAP)
+Hyperkapnische resp. Insuff.: CO₂-Eliminationsproblem durch Störung des zentralen Atemantriebs (Med, Tox, SHT, Meningitis), Störung der Nervenleitung (Querschnitt, Guill.Barre, Phrenikusparese), Störung der neuromuskulären Weiterleitung
+(Myasthenia gravis, Muskeldystrophie, Relaxanzüberhang, Elektrolytstörung), Störung der Atemmechanik
+(Hämatothorax, Pneu, Erguss, Skoliose, Serienrippe), Obstruktive AW-Erkr. (Asthma, COPD, Tracheomalazie), Behinderung der Atemexkursion (Adipositas, erhöhter IAP)
 Therapie: NIV/Beatmung, Ursache beheben, VT und AF erhöhen.
 
 Hyperventilation ist ein wichtiger Kompensationsmechanismus um den alveolären paO₂ zu steigern und so durch den größeren Partialdruck die Oxygenierung zu verbessern und Hypoxämie zu verhindern.
@@ -169,16 +156,18 @@ Step by step approach:
 
 
 Inspirationszeit:
-BIPAP =  zeitgesteuerte Tinsp; ASB =  flussgesteuerte Tinsp (Spitzenfluss sind 100%  bei 25% Ende der Inspiration). Eine Verlängerung der Inspirationszeit verlängert Verbessert die Oxygenierung
+BIPAP =  zeitgesteuerte Tinsp; ASB =  flussgesteuerte Tinsp (Spitzenfluss sind 100%  bei 25% Ende der Inspiration).
+Eine Verlängerung der Inspirationszeit verlängert Verbessert die Oxygenierung
 (IRV).
 AF:
-Ist abhängig vom absoluten KG (z.B. Mann mit 180cm/50 kg hat herabgesetzte AF), Temperatur,
-CO₂-Produktion (Sedierung reduziert CO₂-Produktion im Gehirn daher AF erniedrigt!)
+Ist abhängig vom absoluten KG (z.B. Mann mit 180cm/50 kg hat herabgesetzte AF), Temperatur, CO₂-Produktion (Sedierung reduziert CO₂-Produktion im Gehirn daher AF erniedrigt!)
 
 
 RAMPE:
 Normalerweise 0,2 sec; Ziel ist eine vollständige Inspiration in der Inspirationszeit mit kurzer NO-
-Flowphase vor Exspiration. Bei zu raschem Anstieg kann es zu reflektorischem Pressen mit hohem Spitzendrücken kommen.
-Flowtrigger: normalerweise 2l/min = Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung. Entscheidend ist die Einatemgeschwindigkeit!!
+Flowphase vor Exspiration.
+Bei zu raschem Anstieg kann es zu reflektorischem Pressen mit hohem Spitzendrücken kommen.
+Flowtrigger: normalerweise 2l/min = Wenn der Patient  \>  2l/min einatmet bekommt er eine Druckunterstützung.
+Entscheidend ist die Einatemgeschwindigkeit!!
 
 

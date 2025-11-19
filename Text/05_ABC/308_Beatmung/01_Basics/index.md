@@ -34,13 +34,13 @@ Beatmung.
     praktisch nicht durchgeführt.
 
 Bei der {dfn}`kontrollierten Beatmung` wird die gesamte Atmung künstlich aufrecht erhalten; hingegen bei der
-{dfn}`assistierten Beatmung` hat der Patient eine eigene Spontanatmung, die aber nicht ausreichend ist (zu langsam oder zu seicht). Man unterstützt dabei die Atembemühungen des Patienten, indem man zusätzliche oder tiefere Atemhübe verabreicht.
+{dfn}`assistierten Beatmung` hat der Patient eine eigene Spontanatmung, die aber nicht ausreichend ist (zu langsam oder zu seicht).
+Man unterstützt dabei die Atembemühungen des Patienten, indem man zusätzliche oder tiefere Atemhübe verabreicht.
 
 :::{important}
 
 Der wesentliche Unterschied zwischen der physiologischen und der künstliche Beatmung sinf die **Druckverhältnisse**:
-Während bei der physiologischen Atmung die Luft eingesogen wird (negativer Atemwegsdruck),
-erfolgt bei der künstlichen Beatmungn der Gasfluss durch einen **Überdruck**.
+Während bei der physiologischen Atmung die Luft eingesogen wird (negativer Atemwegsdruck), erfolgt bei der künstlichen Beatmungn der Gasfluss durch einen **Überdruck**.
 
 :::
 
@@ -184,7 +184,8 @@ PEEP-Ventil
 
 Ein PEEP kann mittels eines {dfn}`PEEP-Ventils` erreicht werden.
 Es wird dabei auf die Ausatemöffnung des Beatmungsbeutels bzw.
-Beatmungsschlauches aufgesteckt. Durch Drehen der Kappe kann der gewünschte PEEP eingestellt werden.
+Beatmungsschlauches aufgesteckt.
+Durch Drehen der Kappe kann der gewünschte PEEP eingestellt werden.
 Die Einstellung kann an der angebrachten *Skala* abgelesen werden[^druckeinheit].
 Es gibt PEEP-Ventil-Produkte sowohl als *Einweg-*, als auch als *Mehrweg*material![^peepintern]
 Bei der Maskenbeatmung ist zu beachten, dass der PEEP nur erreicht werden kann, wenn das Beatmungssystem *luftdicht* ist.

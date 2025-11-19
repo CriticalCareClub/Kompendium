@@ -29,8 +29,7 @@ status: final
 **GE, Hamilton:** *PCV*
 
 
-PCV: Freiheitsgrad TV;  konstanter endexpiratorischer Druck (Plateaudruck) ohne Spitzendruck,
-mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO₂ steigt Frischgasflow/min wird dem System zugeführt (nicht Beatmung). Z.B. Bei Flow 1l und AMV 5l werden 4l wiederverwendet. Bei minimal Flow Anästhesie  \<  0,5l muss FiO₂ erhöht werden!
+PCV: Freiheitsgrad TV;  konstanter endexpiratorischer Druck (Plateaudruck) ohne Spitzendruck, mit dezelerierendem Flow. Complianceverminderung: VT sinkt AMV sinkt CO₂ steigt Frischgasflow/min wird dem System zugeführt (nicht Beatmung). Z.B. Bei Flow 1l und AMV 5l werden 4l wiederverwendet. Bei minimal Flow Anästhesie  \<  0,5l muss FiO₂ erhöht werden!
 (mind. 75%).
 
 

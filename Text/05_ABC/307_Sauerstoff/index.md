@@ -2,78 +2,64 @@
 status: final
 ---
 
-(o2)=
+(O2)=
 (sauerstoff)=
 
 # Ⓑ Sauerstoff (O₂)
 
-::::{only} not nosidebar
 
 :::{margin} Sauerstoff
-- Medizinischer Sauerstoff: Vollständig weiß
 
-- Gefahrengutaufkleber
+-   Medizinischer Sauerstoff: Vollständig weiß
+-   Gefahrengutaufkleber
+-   Unterschiedliche Füllgrößen
+-   Druck ca. 200 bar
+-   Hauptventil mit Standardgewinde
+-   Daran Druckminderer/Berieselungseinheit angeschlossen
 
-- Unterschiedliche Füllgrößen
-
-- Druck ca. 200 bar
-
-- Hauptventil mit Standardgewinde
-
-- Daran Druckminderer/Berieselungseinheit angeschlossen
-
-  - Gasflaschen mit *medizinischem* Sauerstoff sind
-    *vollständig weiß*.
+    -   Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig weiß*.
 :::
-::::
 
-**Sauerstoff** {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas,
-welches zu 21% in der Luft vorkommt.
+**Sauerstoff** {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas, welches zu 21% in der Luft vorkommt.
 Das chemische Symbol (genauer: Summenformel)
 lautet {dfn}`O₂`{index}` <! O₂>`.
+
+
+
+
+
 
 ## O₂-Druckflaschen
 
 Sauerstoff wird in
 *farbcodierten Druckgasflaschen*[^gasflaschenkennzeichnung]
 gelagert.
-Flaschen mit Sauerstoffbefüllung werden an der Flaschenschulter mit einem *weißem Farbring* gekennzeichnet,
-bei medizinischem Sauerstoff ist zusätzlich auch der Flaschenkörper
-weiß,
-d. h. Gasflaschen mit *medizinischem Sauerstoff* sind
+Flaschen mit Sauerstoffbefüllung werden an der Flaschenschulter mit einem *weißem Farbring* gekennzeichnet, bei medizinischem Sauerstoff ist zusätzlich auch der Flaschenkörper weiß, d. h. Gasflaschen mit *medizinischem Sauerstoff* sind
 **vollständig weiß**.
 Die verbindliche Kennzeichnung des Gasinhalts erfolgt auf einem *Gefahrengutaufkleber*.
 
-Die Druckflaschen haben unterschiedliche *Füllgrößen* (Volumina),
-i. d. R. zwischen 0,5 und 10 L.
-Der Sauerstoff wird unter Druck gelagert,
-wodurch die Menge des zur Verfügung stehenden Sauerstoffs
-um ein Vielfaches gesteigert wird.
-Ein typischer Fülldruck beträgt ca. 200 bar,
-dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
+Die Druckflaschen haben unterschiedliche *Füllgrößen* (Volumina), i. d. R. zwischen 0,5 und 10 L.
+Der Sauerstoff wird unter Druck gelagert, wodurch die Menge des zur Verfügung stehenden Sauerstoffs um ein Vielfaches gesteigert wird.
+Ein typischer Fülldruck beträgt ca. 200 bar, dabei befindet sich der Sauerstoff vollständig im gasförmigen Aggregatzustand.
 
-[^gasflaschenkennzeichnung]: Normen zur Kennzeichnung von Gasflaschen: EN 1089-3, in der
-    jeweiligen nationalen Umsetzung
-    (z. B. DIN EN 1089-3, ÖNORM EN 1089-3
-    (Verbindlichkeit gem. Versandbehälterverordnung 2002 {term}`🗎 VBV 2002`), …).
+[^gasflaschenkennzeichnung]:
+    Normen zur Kennzeichnung von Gasflaschen: EN 1089-3, in der jeweiligen nationalen Umsetzung (z. B. DIN EN 1089-3, ÖNORM EN 1089-3 (Verbindlichkeit gem. Versandbehälterverordnung 2002 {term}`🗎 VBV 2002`), …).
 
-    Die Farbcodierung wurde in der Zeit von 1998--2006, Die
-    Umstellung auf das neue Farbsystem gemäß ÖNORM EN 1089-3 musste bei
-    allen anderen Gasen bis zum *30. Juni 2006* abgeschlossen sein
-    {term}`🗎 VBV 2002`.
-    In der Übergangszeit wurden Flaschen mit der
-    neuen Codierung mittels Aufbringung des Buchstabens "N" ("neue
-    Kennzeichnung") gekennzeichnet. Dies hat *nichts* mit dem chemischen
-    Symbol für Stickstoff (N) zu tun!
+    Die Farbcodierung wurde in der Zeit von 1998--2006, die Umstellung auf das neue Farbsystem gemäß ÖNORM EN 1089-3 musste bei allen anderen Gasen bis zum *30. Juni 2006* abgeschlossen sein {term}`🗎 VBV 2002`.
+    In der Übergangszeit wurden Flaschen mit der neuen Codierung mittels Aufbringung des Buchstabens "N" ("neue Kennzeichnung") gekennzeichnet.
+    Dies hat *nichts* mit dem chemischen Symbol für Stickstoff (N) zu tun!
+
+
+
+
+
 
 ```{rubric} Ausgänge
 ```
 
 Jede Druckflasche verfügt über ein **Hauptventil**
-{index}` <! Hauptventil>` und
-ein Standardgewinde.
-An diesem Gewinde ist entweder ein weiterführender
-Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
+{index}` <! Hauptventil>` und ein Standardgewinde.
+An diesem Gewinde ist entweder ein weiterführender Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/O2_Flasche_32747-crop2-AASS-0176mm.\*
@@ -84,40 +70,44 @@ Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
 
+
+
+
+
+
 ### Umgang mit Sauerstoff und Druckflaschen
 
 #### Gefahren
 
 Sauerstoff ist *brandfördernd* und zusammen mit Fett sogar
 **selbstentzündlich**!
-Neben der Brand- und Explosionsgefahr birgt der
-große Druck unter dem die Flaschen stehen weitere Gefahren:
-Sollte ein Ventil abbrechen,
-kann die Flasche eine enorme Kraft entwickeln und zu
-einer Rakete werden.
-Die Kraft einer mit 200 bar gefüllten Flasche reicht aus,
-um Mauern zu durchbrechen!
+Neben der Brand- und Explosionsgefahr birgt der große Druck unter dem die Flaschen stehen weitere Gefahren:
+Sollte ein Ventil abbrechen, kann die Flasche eine enorme Kraft entwickeln und zu einer Rakete werden.
+Die Kraft einer mit 200 bar gefüllten Flasche reicht aus, um Mauern zu durchbrechen!
+
+
+
+
+
 
 #### Beenden der O₂-Gabe und Wechsel von Druckflaschen
 
-Nach der Verwendung des Sauerstoffsystems wird das Hauptventil
-geschlossen und der *Überdruck* aus den Druckleitungen bzw. dem
-Druckminderer *abgelassen*.
+Nach der Verwendung des Sauerstoffsystems wird das Hauptventil geschlossen und der *Überdruck* aus den Druckleitungen bzw. dem Druckminderer *abgelassen*.
 Erst danach wird das Abgabeventil ebenfalls verschlossen.
 
-Gleiches gilt für den Wechsel einer Sauerstoffflasche: Es muss – zur
-eigenen Sicherheit – sichergestellt sein, dass *im Entnahmeschenkel
-kein Überdruck* herrscht.
-Vor dem Abmontieren des Druckminderers
-oder einer Druckleitung muss dies auf alle Fälle *extra am Manometer
-kontrolliert werden*!
+Gleiches gilt für den Wechsel einer Sauerstoffflasche: Es muss – zur eigenen Sicherheit – sichergestellt sein, dass *im Entnahmeschenkel kein Überdruck* herrscht.
+Vor dem Abmontieren des Druckminderers oder einer Druckleitung muss dies auf alle Fälle *extra am Manometer kontrolliert werden*!
 Das *Abgabeventil* muss beim Abmontieren *geöffnet* sein.
+
+
+
+
+
 
 #### Lagerung
 
 Sauerstoffflaschen werden in geeigneten Haltevorrichtungen gelagert.
-Sie sollen nicht in der Sonne oder im heißen Umfeld gelagert werden, da
-dadurch ein falsch hoher Druck angezeigt wird.
+Sie sollen nicht in der Sonne oder im heißen Umfeld gelagert werden, da dadurch ein falsch hoher Druck angezeigt wird.
 
 :::{important}
 - Die Sauerstoffflaschen sind pfleglich zu behandeln!
@@ -147,13 +137,14 @@ dadurch ein falsch hoher Druck angezeigt wird.
    **Lebensgefahr!**
 :::
 
+
+
+
+
+
 ### Berechnung der Füllmenge einer Sauerstoff-Durckgasflasche
 
-Da Sauerstoff auch unter dem üblichen Fülldruck einer
-Sauerstoff-Druckgasflasche in seiner gasförmigen Phase verbleibt,
-kann man, bei Kenntnis des Fülldrucks und der Flaschengröße,
-die Füllmenge einfach berechnen indem man
-die *Füllgröße* der Flasche mit dem *Flaschendruck* (in Bar)
+Da Sauerstoff auch unter dem üblichen Fülldruck einer Sauerstoff-Druckgasflasche in seiner gasförmigen Phase verbleibt, kann man, bei Kenntnis des Fülldrucks und der Flaschengröße, die Füllmenge einfach berechnen indem man die *Füllgröße* der Flasche mit dem *Flaschendruck* (in Bar)
 multipliziert:
 
 $$
@@ -167,11 +158,8 @@ $$
 \end{array}\notag
 $$
 
-Zur Berechnung,
-wie lange die vorhandene Sauerstoffmenge bei einer bestimmten Abgaberate
-ausreicht,
-*dividiert man das gesamte verfügbare Volumen durch die
-Abgaberate*:
+Zur Berechnung, wie lange die vorhandene Sauerstoffmenge bei einer bestimmten Abgaberate ausreicht,
+*dividiert man das gesamte verfügbare Volumen durch die Abgaberate*:
 
 $$
 \notag
@@ -198,8 +186,13 @@ Zu Bedenken ist dabei:
   Verkehrslage, Witterungsverhältnisse, …)
   und muss *großzügig* kalkuliert werden.
 
-[^restdruck]: Bei neueren Flaschen ist die Erhaltung eines Restdrucks oft nicht
-    notwendig, die entsprechenden Betriebsvorschriften sind einzuhalten
+[^restdruck]:
+    Bei neueren Flaschen ist die Erhaltung eines Restdrucks oft nicht notwendig, die entsprechenden Betriebsvorschriften sind einzuhalten
+
+
+
+
+
 
 #### Beispiele
 
@@ -216,8 +209,7 @@ Zu Bedenken ist dabei:
 > \frac{1500}{5} = 300
 > $$
 
-Der Inhalt würde theoretisch für 300 Minuten reichen. Der Restdruck
-sowie eine Zeitreserve sind dabei aber noch *nicht* berücksichtigt!
+Der Inhalt würde theoretisch für 300 Minuten reichen. Der Restdruck sowie eine Zeitreserve sind dabei aber noch *nicht* berücksichtigt!
 
 > Gegeben ist:
 >
@@ -235,11 +227,14 @@ sowie eine Zeitreserve sind dabei aber noch *nicht* berücksichtigt!
 > \notag
 > $$
 
-Die (geschätzte) Fahrtdauer von 4 h 58 min entspricht 298 min,
-es ergibt sich eine Zeitreserve von 2 min.
-Da die Zeitreserve von 2 min zu kurz ist,
-kann der Transport mit dieser Ausstattung *nicht*
+Die (geschätzte) Fahrtdauer von 4 h 58 min entspricht 298 min, es ergibt sich eine Zeitreserve von 2 min.
+Da die Zeitreserve von 2 min zu kurz ist, kann der Transport mit dieser Ausstattung *nicht*
 durchgeführt werden.
+
+
+
+
+
 
 ## Verabreichung von Sauerstoff
 
@@ -251,18 +246,21 @@ durchgeführt werden.
 :::
 
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
-Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich
-gegeben werde
-(**Berieselung**{index}` <! Berieselung>`),
-aber auch bei der *Beatmung* zugeführt werden.
+Sauerstoff kann sowohl einem selbst atmenden Patienten zusätzlich gegeben werde
+(**Berieselung**{index}` <! Berieselung>`), aber auch bei der *Beatmung* zugeführt werden.
+
 
 :::{note}
 Unterscheide Berieselung (erhaltene Eigenatmung) und Beatmung!
 :::
 
+
+
+
+
+
 ### O₂-Berieselungseinheit
 
-::::{only} not nosidebar
 
 :::{margin} Berieselungseinheit
 - Druckminderer
@@ -270,34 +268,33 @@ Unterscheide Berieselung (erhaltene Eigenatmung) und Beatmung!
 - Flowmeter
 - Manometer
 :::
-::::
+
 
 Die Berieselungseinheit besteht im Wesentlichen aus einem
 **Druckminderer**.
-Der Druckminderer hat ein *Abgabeventil*, welches
-den *Druck drosselt* und eine Abgabe an den Patienten ermöglicht.
-Je nach Bauart kann der Druckminderer über ein *Regelventil*,
-ein *Flowmeter* und ein *Manometer* verfügen.
-Mit dem **Regelventil** kann man die Durchfluss- bzw. Abgaberate
-einstellen,
-das **Flowmeter**
+Der Druckminderer hat ein *Abgabeventil*, welches den *Druck drosselt* und eine Abgabe an den Patienten ermöglicht.
+Je nach Bauart kann der Druckminderer über ein *Regelventil*, ein *Flowmeter* und ein *Manometer* verfügen.
+Mit dem **Regelventil** kann man die Durchfluss- bzw. Abgaberate einstellen, das **Flowmeter**
 {index}` <! Flowmeter>`
-(Durchflussanzeige) zeigt die aktuelle
-Durchflussrate in Liter pro Minute (L / min) an.
+(Durchflussanzeige) zeigt die aktuelle Durchflussrate in Liter pro Minute (L / min) an.
 Das **Manometer**
 {index}` <Manometer>`
-zeigt den Druck in der
-Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
+zeigt den Druck in der Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
+
 
 :::{figure} /Bilder/Pallinger-Christoph-CCCA/Druckminderer_32917-00943pt.\*
 :alt: Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 :width: 50%
 
-Druckminderer mit integrierter Berieselungseinheit an einer
-Sauerstofflasche
+Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
 :::
+
+
+
+
+
 
 (berieselung)=
 (berieselungsbrille)=
@@ -305,16 +302,12 @@ Sauerstofflasche
 
 ### O₂-Berieselung bei erhaltener Eigenatmung
 
-Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt
-werden! Zum Einsatz kommen Sauerstoffbrillen, Sauerstoffmasken und
-Sauerstoffmasken mit Reservoir [^berieselungbeatmungsbeutel].
+Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt werden! Zum Einsatz kommen Sauerstoffbrillen, Sauerstoffmasken und Sauerstoffmasken mit Reservoir [^berieselungbeatmungsbeutel].
 
-[^berieselungbeatmungsbeutel]: In Einzelfällen kann auch mit einem Beatmungsbeutel berieselt werden,
-    dadurch sind Sauerstoffkonzentrationen bis zu 100% möglich.
-    Allerdings ist die Anwendung komplizierter
-    (Maske muss ständig dicht angelegt werden)
-    und die Materialkosten sind deutlich höher
-    (Desinfektion notwendig, bzw. Neuanschaffung bei Einwegprodukten)
+[^berieselungbeatmungsbeutel]:
+    In Einzelfällen kann auch mit einem Beatmungsbeutel berieselt werden, dadurch sind Sauerstoffkonzentrationen bis zu 100% möglich.
+    Allerdings ist die Anwendung komplizierter (Maske muss ständig dicht angelegt werden) und die Materialkosten sind deutlich höher (Desinfektion notwendig, bzw. Neuanschaffung bei Einwegprodukten)
+
 
 :::{subfigure} AB|CC
 :subcaptions: below
@@ -363,18 +356,17 @@ Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`�
 
 ```
 
+
+
+
+
+
 (m-sauerstoffberieselung)=
 (proc-sy52210a)=
 
 #### Durchführung: O₂-Berieselung
 
-Bei jedem Patienten, bei dem eine
-lebensbedrohliche Störung einer vitalen Funktion eingetreten
-ist oder einzutreten droht ("Notfallpatient"), soll,
-sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff
-verabreicht werden,
-sodass die Sauerstoffsättigung
-(SpO₂) im Bereich von **94—98%** erreicht wird.
+Bei jedem Patienten, bei dem eine lebensbedrohliche Störung einer vitalen Funktion eingetreten ist oder einzutreten droht ("Notfallpatient"), soll, sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff verabreicht werden, sodass die Sauerstoffsättigung (SpO₂) im Bereich von **94—98%** erreicht wird.
 
 1. Kontraindikationen und Gegenanzeigen prüfen:
 
@@ -411,6 +403,11 @@ sodass die Sauerstoffsättigung
 
 7. Sauerstoffbrille/-maske am Patienten positionieren
 
+
+
+
+
+
 ### O₂-Zufuhr bei der Beatmung mittels Beatmungsbeutel
 
 ::::{only} not nosidebar
@@ -423,19 +420,18 @@ sodass die Sauerstoffsättigung
 :::
 ::::
 
-In den allermeisten Situationen, bei denen eine Beatmung mittels
-Beatmungsbeutel notwendig ist, muss zusätzlich Sauerstoff zugeführt werden.
-Man schließt dazu einen O₂-*Verbindungsschlauch* an den Druckminderer
-und den Beatmungsbeutel an.
-Wenn vorhanden soll ein O₂-*Reservoir* verwendet werden,
-dadurch wird die Sauerstoffkonzentration auf fast 100%
+In den allermeisten Situationen, bei denen eine Beatmung mittels Beatmungsbeutel notwendig ist, muss zusätzlich Sauerstoff zugeführt werden.
+Man schließt dazu einen O₂-*Verbindungsschlauch* an den Druckminderer und den Beatmungsbeutel an.
+Wenn vorhanden soll ein O₂-*Reservoir* verwendet werden, dadurch wird die Sauerstoffkonzentration auf fast 100%
 erhöht.
+
+
+
+
+
 
 ### O₂-Zufuhr zu Beatmungsgeräten
 
-Beatmungsgeräte werden mittels eines Druckschlauches an die
-O₂-Versorgung angeschlossen.
-Zu beachten ist, dass es hierbei unterschiedliche Steckersysteme geben
-kann.
-Eine praktische Unterweisung und Übung an den verwendeten Systemen ist
-absolut notwendig!
+Beatmungsgeräte werden mittels eines Druckschlauches an die O₂-Versorgung angeschlossen.
+Zu beachten ist, dass es hierbei unterschiedliche Steckersysteme geben kann.
+Eine praktische Unterweisung und Übung an den verwendeten Systemen ist absolut notwendig!

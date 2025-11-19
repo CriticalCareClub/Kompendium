@@ -28,12 +28,15 @@ Daraus resultiert schließlich eine *Zellhypoxie* mit Anhäufung *toxischer Meta
 Beim Schock können einzelne oder mehrere Teile des Kreislaufsystems (Blut, Gefäße, Herz) gestört sein.
 Die Systematik der einzelnen Schocksyndrome ist nicht einheitlich, eine praktikable Einteilung der **Schockarten** nach hämodynamischen Gesichtspunkten wurde von {term}`🗎 Weil 1971` beschrieben:
 
-- **hypovolämer** Schock: verminderte Füllung des Gefäßsystems; z. B. durch *Blutung*, akutes Abdomen, Gefäßsystems großflächige *Verbrennungen*
-- **kardiogener** Schock: *Pumpversagen* des Herzens; z. B. durch  akutes Koronarsyndrom, akute Herzklappenfehler, Rhythmusstörungen
-- **distributiver** Schock: relativer Volumenmangel im Gefäßsystem durch pathologischen *Umverteilung* des absoluten intravaskulären Volumens; z. B. durch *Sepsis*, *Anaphylaxie*, *neurogener* Vasodilation (spinaler Schock)
-- **obstruktiver** Schock:
-  nicht-kardiale Obstruktion des Blutflusses;
-  z. B. durch *Pulmonalembolie*, *Spannungspneumothorax*, *Perikardtamponade*
+-   **hypovolämer** Schock:
+    verminderte Füllung des Gefäßsystems; z. B. durch *Blutung*, akutes Abdomen, Gefäßsystems großflächige *Verbrennungen*
+-   **kardiogener** Schock:
+    *Pumpversagen* des Herzens; z. B. durch  akutes Koronarsyndrom, akute Herzklappenfehler, Rhythmusstörungen
+-   **distributiver** Schock:
+    relativer Volumenmangel im Gefäßsystem durch pathologischen *Umverteilung* des absoluten intravaskulären Volumens; z. B. durch *Sepsis*, *Anaphylaxie*, *neurogener* Vasodilation (spinaler Schock)
+-   **obstruktiver** Schock:
+    nicht-kardiale Obstruktion des Blutflusses;
+    z. B. durch *Pulmonalembolie*, *Spannungspneumothorax*, *Perikardtamponade*
 
 (tafel-uebersichtschockarten)=
 

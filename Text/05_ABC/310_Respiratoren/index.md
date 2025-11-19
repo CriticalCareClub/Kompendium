@@ -66,11 +66,8 @@ Notfallbeatmungsgeräte
 
 
 
-Im Folgenden findet sich eine Kurzdarstellung verschiedener
-Beatmungsgeräte mit einer Besprechung der wichtigsten Eigenschaften und
--heiten. Die folgende Schilderung hat nicht die Absicht die
-Bedienungsanleitung oder die entsprechende MPG-Einschulung zu ersetzen
-und erhebt keinerlei Anspruch auf Vollständigkeit.
+Im Folgenden findet sich eine Kurzdarstellung verschiedener Beatmungsgeräte mit einer Besprechung der wichtigsten Eigenschaften und
+-heiten. Die folgende Schilderung hat nicht die Absicht die Bedienungsanleitung oder die entsprechende MPG-Einschulung zu ersetzen und erhebt keinerlei Anspruch auf Vollständigkeit.
 
 
 
@@ -82,7 +79,9 @@ und erhebt keinerlei Anspruch auf Vollständigkeit.
 
 ## Beatmungsbeutel
 
-Der selbstfüllende Beatmungsbeutel ist das einfachste Hilfsmittel, welches dem Fachpersonal zur Verfügung steht, und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus, …) zum Einsatz. Er ermöglicht die kontrollierte oder assistierte Beatmung eines Patienten. Er kann mittels einer Beatmungsmaske angewendet, oder an andere Systeme (Tuben) angeschlossen werden.
+Der selbstfüllende Beatmungsbeutel ist das einfachste Hilfsmittel, welches dem Fachpersonal zur Verfügung steht, und kommt in vielen Bereichen (Rettungsdienst, Krankenhaus, …) zum Einsatz.
+Er ermöglicht die kontrollierte oder assistierte Beatmung eines Patienten.
+Er kann mittels einer Beatmungsmaske angewendet, oder an andere Systeme (Tuben) angeschlossen werden.
 
 :::{rubric} Besonderheit: Beatmung während der Reanimation
 :::
@@ -122,7 +121,10 @@ Der Oxylog 2000 bietet VCV und optional auch CPAP.
 
 ### Medumat™ Standard
 
-Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat™ Standard* der Fa. Weinmann vorgestellt. Zusammen mit einem Sauerstoffmodul (*Modul Oxygen*, Berieselungsmodul) kann ein Patient sowohl beatmet als auch mit Sauerstoff berieselt werden. Für die Berieselung und Beatmung gibt es je ein eigenes Bedienfeld (Modul). Die Beatmung mittels Beatmungsgerät ist grundsätzlich dem ärztlichen Personal vorbehalten.
+Exemplarisch sei hier das Notfallbeatmungsgerät *Medumat™ Standard* der Fa. Weinmann vorgestellt.
+Zusammen mit einem Sauerstoffmodul (*Modul Oxygen*, Berieselungsmodul) kann ein Patient sowohl beatmet als auch mit Sauerstoff berieselt werden.
+Für die Berieselung und Beatmung gibt es je ein eigenes Bedienfeld (Modul).
+Die Beatmung mittels Beatmungsgerät ist grundsätzlich dem ärztlichen Personal vorbehalten.
 Die Bedienung des Beatmungsbedienfeldes erfolgt allerdings auch durch entsprechend, gemäß
 MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztliche Anordnung. [^bedienungbeatmungsgeraetarzt]
 

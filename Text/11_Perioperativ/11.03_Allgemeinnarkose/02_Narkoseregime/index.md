@@ -108,7 +108,7 @@ Die *Elimination* ist substanzspezifisch (hepatisch, renal), etwaige *Organinsuf
 
 
 
-:::{figure} ../../Bilder/Hirtler-Lena-CCCA/Pharma/10000000000017DB00000D0752D550DF16925D68.png
+:::{figure} ../../../Bilder/Hirtler-Lena-CCCA/Pharma/10000000000017DB00000D0752D550DF16925D68.png
 
 Die i.v.-Anästhetika verteilen sich je nach Durchblutung in den verschiedenen Geweben
 :::

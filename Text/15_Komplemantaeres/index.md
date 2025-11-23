@@ -2,15 +2,17 @@
 status: final
 ---
 
-(anatomiephysiologie)=
 
-# Anatomie & Physiologie
 
 
 :::{index} single: physiologisch
 :::
 :::{index} single: Pathologie
 :::
+
+# Komplemantäres
+
+Hier finden sich Themenbereiche, vor allem aus den Bereichen Anatomie und Pyhsiologie, die in keinem anderen Teil abgedeckt werden.
 
 Aufgrund der Überlappungsbereiche hinsichtlich der Sichtweise auf
 anatomische Strukturen und physiologische Eigenschaften und Funktionen

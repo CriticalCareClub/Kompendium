@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Körperkreislauf: Venöses Gefäßsystem
 
 Das venöse System kann man in das *Pulmonalvenensystem*, das *Hohlvenensystem* und das *Pfortadersystem* unterteilen.

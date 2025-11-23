@@ -69,9 +69,7 @@ Weniger absolut, aber vergleichbar, ist dabei auch die {ref}`Analgosedierung <An
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Narkoseregime
-Narkose-Airway
-Awareness
-RSI
+*/index
 :::

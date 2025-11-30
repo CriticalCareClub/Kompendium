@@ -100,6 +100,25 @@ Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am Kieferwinkel kann de
 Esmarch-Handgriff  [₢ Lena Hirtler, {term}`ℓ MfG`]
 :::
 
+::::{admonition} Geschichtliches
+
+:::{image} ../../Bilder/CC-BY-4.0/Johann_Friedrich_August_von_Esmarch._Photogravure._Wellcome_V0027295cr.jpg
+:width: 15%
+:align: right
+:::
+
+Johann Friedrich August von Esmarch war ein deutscher Chirurg.
+Er beschrieb neben dem Esmarch-Handgriff den Esmarch-Verband und gründete den Deutschen Samariter-Verein, den Vorläufer des Deutschen Samariter-Bunds.
+
+[Bild: ₢ Wellcome Collection, {term}`ℓ CC BY 4.0`]
+
+::::
+
+
+
+
+
+
 :::{index} single: stabile Seitenlage
 :::
 :::{index} single: Seitenlage, stabile

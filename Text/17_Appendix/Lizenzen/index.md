@@ -272,6 +272,10 @@ CC BY
 
   <https://creativecommons.org/licenses/by/3.0/>
 
+ℓ CC BY 4.0
+: *Creative-Commons Attribution 4.0 International*:
+  <https://creativecommons.org/licenses/by/4.0/>
+
 ℓ CC BY AUT 3.0
 : *Creative-Commons Namensnennung 3.0 Österreich*
 

@@ -262,7 +262,7 @@ Er muss jedoch ggfs. mitblockiert werden, um den radialen Rand des Unterarms zu 
 
 :::{figure} Axillary_block.jpg
 
-Axilläre Blockade [₢ David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY 3.0`]
+Axilläre Blockade [₢ David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY-SA 3.0`]
 :::
 
 

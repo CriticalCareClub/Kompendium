@@ -52,19 +52,26 @@ Ferguson Regel
   Je höher der Dampfdruck, umso weniger anästhetische Potenz hat ein VIA.
 
 Blut-Gas-Verteilungskoeffizient (BGVK)
-: Löslichkeit des VIA im Blut 12 Methoxifluran \> 2,3 Halothan \> 1,4 Isofluran \> 0,65 Sevofluran \> 0,47 Lachgas \> 0,46 Desfluran Dh. Je höher die Blutlöslichkeit/BGVK, umso mehr VIA kann das Blut aufnehmen, und das verlängert die Narkoseeinleitung und Ausleitungszeit. (Je höher die inspirat. Konzentration umso rascher)
+:   Löslichkeit des VIA im Blut
+
+    12 Methoxifluran \> 2,3 Halothan \> 1,4 Isofluran \> 0,65 Sevofluran \> 0,47 Lachgas \> 0,46 Desfluran
+
+    Dh. Je höher die Blutlöslichkeit/BGVK, umso mehr VIA kann das Blut aufnehmen, und das verlängert die Narkoseeinleitung und Ausleitungszeit.
+    (Je höher die inspirat. Konzentration umso rascher)
 
 Second Gas Effekt
-: Kombination mit Lachgas bewirkt eine raschere Anflutung, da Lachgas rasch diffundiert und eine hohe Konzentration von Sevo in der Alveole hinterlässt = raschere Diffusion.
+:   Kombination mit Lachgas bewirkt eine raschere Anflutung, da Lachgas rasch diffundiert und eine hohe Konzentration von Sevo in der Alveole hinterlässt = raschere Diffusion.
 
 MAC
-: minimale alveoläre Konzentration
-  = Konzentration, bei der 50%  der Patienten keine Reaktion auf einen chirurgischen Hautschnitt zeigten.
-  Summation bei Kombination mit Lachgas! (0,75 Lachgas +0,75 Sevo = 1,5 effektiver MAC)
+:   minimale alveoläre Konzentration
+    = Konzentration, bei der 50%  der Patienten keine Reaktion auf einen chirurgischen Hautschnitt zeigten.
+    Summation bei Kombination mit Lachgas! (0,75 Lachgas +0,75 Sevo = 1,5 effektiver MAC)
 
-  Erhöhung bei: Hyperthermie, Säuglingen, Hypernatriämie, Alkoholikern,   Drogensüchtigen, MAOH
+    -   Erhöhung bei: Hyperthermie, Säuglingen, Hypernatriämie, Alkoholikern, Drogensüchtigen, MAOH
+    -   Erniedrigung bei: Hypothermie, Senium, Schwangerschaft, Kombination mit iv. Anästhetika od. Sedierung, Lithium, herzkranke Patienten, Sepsis,…
 
-  Erniedrigung bei: Hypothermie, Senium, Schwangerschaft, Kombination mit iv. Anästhetika od. Sedierung, Lithium, herzkranke Patienten, Sepsis,...
+    Bei VIA verhindert ein BIS-Monitoring keine Awareness.
+    Zur Überwachung der Narkosetiefe wird MAC herangezogen!
 
 
 Die Aufnahme eines VIA ist abhängig vom BGVK, HMV und der alveo/venösen Partialdruckdifferenz.
@@ -77,6 +84,8 @@ Triggersubstanz für {ref}`Maligne Hyperthermie <Maligne-Hyperthermie>`!
 
 Bei VIA verhindert ein BIS-Monitoring keine Awareness {term}`Citation needed`.
 Zur Überwachung der Narkosetiefe wird MAC herangezogen!
+
+
 
 
 

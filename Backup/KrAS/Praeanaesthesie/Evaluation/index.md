@@ -137,7 +137,7 @@ Definierte Risikofaktoren:
 6. Hochrisikoeingriff
    (thorakal, intraperitoneal, suprainguinal vaskulär)
 
-:::{list-table} Lee-Index [^cite_lee-1999]
+:::{list-table} Lee-Index {term}`🗎 Lee 1999`
 :header-rows: 1
 :widths: 10 50 40
 

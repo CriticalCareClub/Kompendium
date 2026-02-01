@@ -50,6 +50,14 @@ Neben der eigentlichen Blutdruckmessung eignet sich das System auch gut für die
 
 
 
+:::{admonition} Kontroverse
+https://www.youtube.com/shorts/tVtJAzFjr3k
+
+{term}`🗎 Muller 2025`: Among patients with shock, results for death from any cause at day 28 indicated that management without early arterial catheter insertion was noninferior to early catheter insertion.
+
+:::
+
+
 (GHDM-KP-IABP-Kontraindikationen)=
 
 ## Kontraindikationen

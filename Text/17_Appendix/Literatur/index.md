@@ -1189,14 +1189,26 @@ Citation needed
     doi:10.1111/j.1365-2044.2005.04325.x.
 
 🗎 Mullens 2009
-:   Wilfried Mullens et al.:
-    **Importance of venous congestion for worsening of renal function in advanced decompensated heart failure.**
+:   **Importance of venous congestion for worsening of renal function in advanced decompensated heart failure**
+    by Wilfried Mullens et al.
     J Am Coll Cardiol. 2009 Feb 17;53(7):589-596.
     <https://doi.org/10.1016/j.jacc.2008.05.068>
 
-    > … Furthermore, the ability of CVP to stratify risk for development of WRF was apparent across the spectrum of systemic blood pressure, pulmonary capillary wedge pressure, cardiac index, and estimated glomerular filtration rates.
+    :::{dropdown} Synopsis
+    … Furthermore, the ability of CVP to stratify risk for development of WRF was apparent across the spectrum of systemic blood pressure, pulmonary capillary wedge pressure, cardiac index, and estimated glomerular filtration rates.
 
-    > Conclusions: Venous congestion is the most important hemodynamic factor driving WRF in decompensated patients with advanced heart failure.
+    Conclusions: Venous congestion is the most important hemodynamic factor driving WRF in decompensated patients with advanced heart failure.
+    :::
+
+🗎 Muller 2025
+:   **Deferring Arterial Catheterization in Critically Ill Patients with Shock**
+    by Grégoire Muller et al.
+    N Engl J Med. 2025 Nov 13;393(19):1875-1888.
+    doi: [10.1056/NEJMoa2502136. Epub 2025 Oct 29. ](https://doi.org/10.1056/nejmoa2502136)
+
+    :::{dropdown} Conclusions
+    Among patients with shock, results for death from any cause at day 28 indicated that management without early arterial catheter insertion was noninferior to early catheter insertion.
+    :::
 
 🗎 Nilsson 1997
 :   **Ein Kind Entsteht.**

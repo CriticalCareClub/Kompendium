@@ -614,6 +614,12 @@ Citation needed
     Webseite
     <http://www.ekg-online.de>.
 
+🗎 Engelmann 2014
+:   **"Tarragona-Strategie": Adäquate Antibiotikatherapie auf der Intensivstation**
+    by Lothar Engelmann et al.
+    Wiener klinisches Magazin. 2014;17:24–29.
+    https://doi.org/10.1007/s00740-014-0027-0
+
 🗎 Enne 2012
 :   **Notkompetenzen in Österreich: Der aktuelle Stand zehn Jahre nach Einführung des Sanitätergesetzes**
     by A. Enne.

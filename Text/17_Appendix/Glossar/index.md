@@ -12,163 +12,506 @@ status: final
 ```
 
 {.glossary}
+ABS
+:   Antibiotic Stewardship
+
+ADH
+:   Antidiuretisches Hormon
+
 AF
-: Atemfrequenz
+:   Atemfrequenz
 
 aHT
-: {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
+:   {ref}`Arterielle Hypertonie <Arterielle-Hypertonie>`
 
 AKE
-: Aortenklappenersatz
+:   Aortenklappenersatz
+
+AKI
+:   Acute Kidney Injury, akute Nierenschädigung
 
 AKS
-: {ref}`Aortenklappenstenose <Aortenklappenstenose>`
+:   {ref}`Aortenklappenstenose <Aortenklappenstenose>`
+
+AMS
+:   Antimicrobial Stewardship
+
+AMSTAR
+:   Assessing the Methodological Quality of Systematic Reviews
+
+APACHE-II-SCORE
+:   Acute Physiology And Chronic Health Evaluation
+
+APRV
+:   Airway Pressure Release Ventilation
+
+ARDS
+:   Acute Respiratory Distress Syndrome, akutes Atemnotsyndrom
+
+ART
+:   Kommission Antiinfektiva, Resistenz und Therapie
 
 ASB
-: 1. Assisted Spontaneous Breathing
-  2. Arbeiter-Samariter-Bund
+:   1. Assisted Spontaneous Breathing
+    2. Arbeiter-Samariter-Bund
 
 ASK
-: 1. Arthroskopie
-  2. Antikörpersuchtest
+:   1. Arthroskopie
+    2. Antikörpersuchtest
+
+ASPEN
+:   American Society of Parenteral and Enteral Nutrition
+
+AUROC
+:   Area Under the Receiver Operating Characteristic
+
+AWMF
+:   Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften
+
+aPTT
+:   Aktivierte partielle Thromboplastinzeit
+
+BÄK
+:   Bundesärztekammer
+
+BfArM
+:   Bundesamt für Arzneimittel und Medizinprodukte
 
 BG
-: Blutgruppe
+:   Blutgruppe
 
 BG+ASK
-: Blutgruppe und Antikörpersuchtest
+:   Blutgruppe und Antikörpersuchtest
 
 BGA
-: Blutgasnalyse
+:   Blutgasanalyse
 
 BMS
-: {ref}`Bare Metal Stent <Koronarangiographie>`
+:   {ref}`Bare Metal Stent <Koronarangiographie>`
 
 C/P
-: Cor-Pulmo-Röntgen
+:   Cor-Pulmo-Röntgen
+
+CI
+:   Confidence Interval, Konfidenzintervall
+
+CIM
+:   Critical Illness Myopathy
+
+CIP
+:   Critical Illness Polyneuropathy
 
 CK
-: Creatininkinase
+:   Creatinkinase
 
 CK-MB
-: myokardspezifische Creatininkinase
-
-CPAP
-: Continous Positive Airway Pressure
-
-CPAP-ASB
-: Continous Positive Airway Pressure-Assisted Spontaneous Breathing:
-  CPAP mit Drucksupport
-
-c.t.
-: cum tempore.
-
-Ct
-: Threshold Cycle.
-  Zahl der notwendigen PCR-Zyklen bis zum positiven Signal, Maß für die Virenkonzentration im Abstrichmaterial.
-
-CT
-: Computertomographie
+:   myokardspezifische Creatinkinase
 
 CO
-: 1. {ref}`Cardiac Output <Cardiac-Output>`
-  1. chem. Formel für Kohlenmonoxid
+:   1. {ref}`Cardiac Output <Cardiac-Output>`
+    2. chemische Formel für Kohlenmonoxid
+
+CPAP
+:   Continuous Positive Airway Pressure
+
+CPAP-ASB
+:   Continuous Positive Airway Pressure-Assisted Spontaneous Breathing:
+    CPAP mit Drucksupport
+
+CPFA
+:   Coupled Plasma Filtration Adsorption
+
+CRP
+:   C-Reactive Protein, C-reaktives Protein
+
+CRRT
+:   Continuous Renal Replacement Therapy, kontinuierliche Nierenersatzverfahren
+
+CRS
+:   Compliance des respiratorischen Systems
+
+CT
+:   Computertomographie
+
+Ct
+:   Threshold Cycle.
+    Zahl der notwendigen PCR-Zyklen bis zum positiven Signal, Maß für die Virenkonzentration im Abstrichmaterial.
+
+CVP
+:   Central Venous Pressure, zentraler Venendruck
+
+CVVH
+:   Kontinuierliche venovenöse Hämofiltration
+
+CVVHD
+:   Kontinuierliche venovenöse Hämodialyse
+
+CVVHDF
+:   Kontinuierliche venovenöse Hämodiafiltration
+
+c.t.
+:   cum tempore
 
 DAB
-: {ref}`Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
+:   {ref}`Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
 
 DES
-: {ref}`Drug Eluting Stent <Koronarangiographie>`
+:   {ref}`Drug Eluting Stent <Koronarangiographie>`
+
+DGAI
+:   Deutsche Gesellschaft für Anästhesiologie und Intensivmedizin
+
+DGHO
+:   Deutsche Gesellschaft für Hämatologie und Medizinische Onkologie
+
+DIVI
+:   Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin
+
+DSG
+:   Deutsche Sepsis-Gesellschaft
+
+DSH
+:   Deutsche Sepsis-Hilfe
+
+DTP
+:   Differential Time to Positivity
+
+DVT
+:   Deep Vein Thrombosis, tiefe Venenthrombose
+
+EAA
+:   Endotoxin Activity Assay, Endotoxinaktivität
+
+ECMO
+:   Extracorporeal Membrane Oxygenation, extrakorporale Membranoxygenierung
+
+EGDT
+:   Early Goal-Directed Therapy
+
+EIT
+:   Elektrische Impedanztomographie
+
+ENG/EMG
+:   Elektroneurographie/Elektromyographie
+
+ESCMID
+:   European Society of Clinical Microbiology and Infectious Diseases
+
+ESICM
+:   European Society of Intensive Care Medicine
 
 ETI
-: endotracheale Intubation
+:   Endotracheale Intubation
 
 FMC
-: First Medical Contact
+:   First Medical Contact
+
+GFP
+:   Gefrorenes Frischplasma
+
+GFR
+:   Glomeruläre Filtrationsrate
+
+GI
+:   Gastrointestinal
+
+GRADE
+:   Grading of Recommendations Assessment, Development and Evaluation
+
+HA
+:   Humanalbumin
+
+HAT
+:   Hydrocortison, Ascorbinsäure und Thiamin
+
+HES
+:   Hydroxyethylstärke
+
+HFNO
+:   High-Flow Nasal Oxygen
+
+HIT
+:   Heparin-induzierte Thrombozytopenie
 
 HQ
-: {ref}`Horovitz-Quotient <Horovitz-Quotient>`
+:   {ref}`Horovitz-Quotient <Horovitz-Quotient>`
+
+HZV
+:   Herzminutenvolumen
+
+IBW
+:   Ideal Body Weight, ideales Körpergewicht
+
+ICD
+:   International Statistical Classification of Diseases and Related Health Problems
 
 ICP
-: Intracranial Pressure; intrakranieller Druck
+:   Intracranial Pressure; intrakranieller Druck
 
 ICR
-: {ref}`Intercostalraum <Intercostalraum>`
+:   {ref}`Intercostalraum <Intercostalraum>`
+
+ICU-AW
+:   ICU-Acquired Weakness
+
+IHD
+:   Intermittierende Hämodialyse
+
+IgM
+:   Immunglobulin M
+
+IPC
+:   Intermittent Pneumatic Compression, intermittierende pneumatische Kompression
+
+ITS
+:   Intensivstation
+
+IVIG
+:   Intravenöse Immunglobuline
+
+KDIGO
+:   Kidney Disease: Improving Global Outcomes
+
+KI
+:   Künstliche Intelligenz
 
 KHK
-: {ref}`Koronoare Herzkankheit <KHK>`
+:   {ref}`Koronare Herzkrankheit <KHK>`
 
 KOF
-: Körperoberfläche
+:   Körperoberfläche
 
 KÖF
-: Klappenöffnungsfläche
+:   Klappenöffnungsfläche
+
+KRINKO
+:   Kommission für Krankenhaushygiene und Infektionsprävention am Robert Koch-Institut
+
+LAE
+:   Lungenarterienembolie
 
 Lap
-: Laparotomie
+:   Laparotomie
 
 LDH
-: Laktatdehydrogenase
+:   Laktatdehydrogenase
 
 LSK
-: Laparoskopie
-
-LVOT
-: Left Ventricular Outflow Tract
+:   Laparoskopie
 
 LVH
-: Linksventrikelhypertrophie
+:   Linksventrikelhypertrophie
+
+LVOT
+:   Left Ventricular Outflow Tract
+
+MAP
+:   Mean Arterial Pressure, mittlerer arterieller Blutdruck
+
+MEWS
+:   Modified Early Warning Score
+
+MHK
+:   Minimale Hemmkonzentration
+
+MIQ
+:   Mikrobiologisch-infektiologische Qualitätsstandards
 
 MKI
-: {ref}`Mitralklappeninsuffizienz <Mitralklappeninsuffizienz>`
+:   {ref}`Mitralklappeninsuffizienz <Mitralklappeninsuffizienz>`
 
 MKS
-:  {ref}`Mitralklappenstenose <Mitralklappenstenose>`
+:   {ref}`Mitralklappenstenose <Mitralklappenstenose>`
+
+MLP
+:   Methylenblau-Licht-behandeltes Plasma
+
+MODS
+:   Multiorganversagen
+
+MRE
+:   Multiresistente Erreger
+
+MRGN
+:   Multiresistente gramnegative Bakterien
+
+MRSA
+:   Methicillin-resistenter Staphylococcus aureus
+
+NaCl
+:   Natriumchlorid
+
+NET
+:   Nierenersatztherapie
+
+NEWS
+:   National Early Warning Score
 
 NIV
-: Nicht-Invasive Ventilation
+:   Nichtinvasive Beatmung
+
+NMH
+:   Niedermolekulares Heparin
 
 NSTEMI
-: Non-ST-Elevation Myocardial Infacrtion; Nicht-ST-Hebungsinfarkt.
-  Siehe auch: {ref}`AkutesKoronarsyndrom`.
+:   Non-ST-Elevation Myocardial Infarction; Nicht-ST-Hebungsinfarkt.
+    Siehe auch: {ref}`AkutesKoronarsyndrom`
+
+OPSI
+:   Overwhelming Post-Splenectomy Infection
+
+OR
+:   Odds Ratio
 
 Pa
-: Pascal, SI-Einheit für {ref}`Druck <Druck>`.
-  1 Pa = 1 N / m²
+:   Pascal, SI-Einheit für {ref}`Druck <Druck>`.
+    1 Pa = 1 N/m²
 
 PCI
-: {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
+:   {ref}`Percutaneous Coronary Intervention <Koronarangiographie>`
+
+PCR
+:   Polymerase Chain Reaction
+
+PCT
+:   Procalcitonin
 
 PDAB
-: {ref}`Persistierender Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
+:   {ref}`Persistierender Ductus arteriosus botalli <Ductus-arteriosus-botalli>`
 
 PEEP
-: {ref}`Positive End Expiratory Pressure <PEEP>`
+:   {ref}`Positive End Expiratory Pressure <PEEP>`
+
+PEG
+:   Paul-Ehrlich-Gesellschaft für Infektionstherapie
+
+PICS
+:   Post-Intensive-Care-Syndrom
+
+PIRRT
+:   Prolonged Intermittent Renal Replacement Therapy
+
+PPV
+:   Pulsdruckkurvenvariation
 
 PPSB
-: Prothrombinkomplexkonzentrat
+:   Prothrombinkomplexkonzentrat
+
+PTBS
+:   Posttraumatische Belastungsstörung
 
 PTCA
-: {ref}`Perkutaneous Transluminal Coronary Angioplasty <Koronarangiographie>`
+:   {ref}`Perkutane Transluminale Koronarangioplastie <Koronarangiographie>`
+
+PTpe
+:   Endexpiratorischer transpulmonaler Druck
 
 PVK
-: Peripher-venöser Katheter
+:   Peripher-venöser Katheter
 
-STEMI
-: ST-Elevation Myocardial Infacrtion; ST-Hebungsinfarkt.
-Siehe auch: {ref}`AkutesKoronarsyndrom`.
+RAAS
+:   Renin-Angiotensin-Aldosteron-System
+
+RASS
+:   Richmond Agitation-Sedation Scale
+
+RCT
+:   Randomized Controlled Trial
+
+RR
+:   Relatives Risiko
+
+RRT
+:   Renal Replacement Therapy
+
+RVS
+:   Humanes respiratorisches Synzytial-Virus
+
+SAE
+:   Serious Adverse Event
+
+SCCM
+:   Society of Critical Care Medicine
+
+SCD
+:   Sequential Compression Devices, sequentielle Kompressionsgeräte
+
+ScvO₂
+:   Central Venous Oxygen Saturation
+
+SDP
+:   Solvent-Detergent-behandeltes Plasma
+
+sGC
+:   Guanylatzyklase
+
+SIRS
+:   Systemic Inflammatory Response Syndrome
+
+SLEDD
+:   Sustained Low Efficiency Daily Dialysis
+
+SOFA
+:   Sequential Organ Failure Assessment Score
+
+SOP
+:   Standard Operating Procedure, Standardarbeitsanweisungen
 
 SR
-: Sinusrhythmus
+:   Sinusrhythmus
+
+SSC
+:   Surviving Sepsis Campaign
+
+STEMI
+:   ST-Elevation Myocardial Infarction; ST-Hebungsinfarkt.
+    Siehe auch: {ref}`AkutesKoronarsyndrom`
+
+STIKO
+:   Ständige Impfkommission
+
+SVV
+:   Schlagvolumenvariation
+
+TDM
+:   Therapeutisches Drugmonitoring
+
+TEE
+:   Transösophageale Echokardiographie
+
+THD
+:   Tageshöchstdosis
+
+TTE
+:   Transthorakale Echokardiographie
+
+TVT
+:   Tiefe Venenthrombose
+
+UFH
+:   Unfraktioniertes Heparin
+
+URR
+:   Urea Reduction Rate
 
 US
-: Ultraschall
+:   Ultraschall
 
 VKA
-: Vitamin-K-Antagonisten
+:   Vitamin-K-Antagonisten
+
+VRE
+:   Vancomycin-resistente Enterokokken
+
+VV-ECMO
+:   Venovenöse extrakorporale Membranoxygenierung
+
+WHO
+:   World Health Organization
 
 ZVK
-: Zentralvenöser Katheter
+:   Zentralvenöser Katheter
+
 
 ```{raw} latex
 \end{multicols}

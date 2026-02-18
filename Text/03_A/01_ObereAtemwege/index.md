@@ -135,15 +135,17 @@ Wie auch bei den Saiteninstrumenten folgt durch diese großere Länge der Stimmb
 Kehlkopfmuskeln: Siehe [^kehlkopfmuskeln]
 
 [^kehlkopfmuskeln]:
-    - Öffnen der Stimmritze: M. cricoarytaenoideus posterior
-    - Schließen der Stimmritze: M. cricoarytaenoideus lateralis, M.
-      thyroarytaenoideus, M. arytaenoideus obliquus, M. arytaenoideus
-      transversus
-    - Spannen der Stimmbänder: M. cricothyroideus, M. vocalis
-    - Verengung des Kehlkopfeingangs: M. aryepiglotticus
-    - äußere Kehlkopfmuskeln: M. cricothyroideus
-    - Muskeln, die den Kehlkopf als Ganzes bewegen: infra- und
-      suprahyoidale Muskeln etc.
+    -   Öffnen der Stimmritze:
+        M. cricoarytaenoideus posterior
+    -   Schließen der Stimmritze:
+        M. cricoarytaenoideus lateralis, M. thyroarytaenoideus, M. arytaenoideus obliquus, M. arytaenoideus transversus
+    -   Spannen der Stimmbänder:
+        M. cricothyroideus, M. vocalis
+    -   Verengung des Kehlkopfeingangs:
+        M. aryepiglotticus
+    -   äußere Kehlkopfmuskeln:
+        M. cricothyroideus
+    -   Muskeln, die den Kehlkopf als Ganzes bewegen: infra- und suprahyoidale Muskeln etc.
 
 Der Kehlkopfinnenraum wird als *Cavitas laryngis* bezeichnet.
 Er reicht vom Kehhlkopf-Eingang bis zum Unterrand des Ringknorpels. Er gliedert sich in *drei Etagen*:

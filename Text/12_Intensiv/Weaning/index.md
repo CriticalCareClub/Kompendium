@@ -41,15 +41,14 @@ Weaning vorläufig sistieren; Weaning reduzieren und Beatmungsaufwand erhöhen) 
 :::{hlist}
 - Besserung der Grunderkrankung
 - Kein hohes Fieber
-- Kreislaufstabilität (keine oder niedrigdosierte Katecholamine
+- Kreislaufstabilität, keine oder niedrigdosierte Katecholamine
   (Noradrenalin \< 0,1 mcg / kg / min,
   Dobutamin \< 5 mcg / kg / min),
-  Herzfrequenz \< 140 / min)
+  Herzfrequenz \< 140 / min
 - Ausreichende Wachheit und neurologische Stabilität
 - Adäquat ausgeglichener Säure-Basen-Haushalt
   (respiratorisch und  metabolisch)
-- Ausreichende Oxygenierung: SaO₂ ≥ 90% bei FiO₂ ≤ 40% und PEEP
-  ≤ 8 mbar
+- Ausreichende Oxygenierung: SaO₂ ≥ 90% bei FiO₂ ≤ 40% und PEEP ≤ 8 mbar
 - Ausgeglichener Elektrolythaushalt
   (insbes. Kalzium, Phosphat und Magnesium)
 - Adäquate Compliance/Resistance
@@ -65,7 +64,7 @@ Weaning vorläufig sistieren; Weaning reduzieren und Beatmungsaufwand erhöhen) 
 :::{hlist}
 - Inadäquate Atemmechanik
 - Blutdruck- oder Herzfrequenzanstieg > 25%
-- Tachypnoe > 35 / min
+- Tachypnoe > 35 / min
 - Abnahme des AZV, zunehmend flache Atmung, RSBI \< 105 / min / L
 - Verschlechterung der Oxygenierung (SaO₂ \< 90%) bzw. paO₂
   \< 50–60 mm Hg bei konstantem FiO₂

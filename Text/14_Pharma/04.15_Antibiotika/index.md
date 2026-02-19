@@ -25,12 +25,12 @@ Risiken für multiresistente Erreger: chronische Erkrankung, DM, Alkoholismus, c
 Organmanifestation,
 Malignom, vorausgegangene AB-Prophylaxe, Hospitalisierung.
 
-AB-Wahl: Tarragona Strategie
-- Individuelle Risikofaktoren (look at your patient) typische Erreger der Region (Klinik, Anamnese, Labor, Bildgebung, Auslandsaufenthalt?z.B. Salm. thyphii)
-- Interne Resistenzlage (look at your hospital)
-- Hit hard = früh, breit, hochdosiert AB
-- Get to the point (effective Spiegel erreichen)
-- Focus, focus, focus = Deeskalation, kurze Behandlungsdauer
+AB-Wahl: Tarragona Strategie ({term}`🗎 Engelmann 2014`)
+-   Individuelle Risikofaktoren (look at your patient) typische Erreger der Region (Klinik, Anamnese, Labor, Bildgebung, Auslandsaufenthalt?z.B. Salm. thyphii)
+-   Interne Resistenzlage (look at your hospital)
+-   Hit hard = früh, breit, hochdosiert AB
+-   Get to the point (effective Spiegel erreichen)
+-   Focus, focus, focus = Deeskalation, kurze Behandlungsdauer
 
 Zeitpunkt: bei Septischem Schock innerhalb der 1 Stunde!
 Initial Breitband-AB hoch dosiert,

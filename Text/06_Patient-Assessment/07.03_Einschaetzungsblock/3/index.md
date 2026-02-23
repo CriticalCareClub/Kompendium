@@ -133,8 +133,11 @@ Dementsprechend kann ein Patient **bewusstseinsklar**, **somnolent**, **soporös
   |                                      | 1            | bewegt gar nicht              |
   +-------------------------+------------+--------------+-------------------------------+
 
-
 ```
+
+
+
+
 
 ## Bewusstseinskontrolle
 

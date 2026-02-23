@@ -41,7 +41,7 @@ Für eine Strömung bedeutet das: Was in ein Rohr hineinfließt, muss zeitgleich
 Dies bedeutet, dass der Massenstrom eines Fluids (Flüssigkeit oder Gas) in einem Rohr unabhängig davon ist, wo er gemessen wird.
 Für inkompressible Fluide gilt Kontinuität auch für den Volumenstrom.
 
-:::{figure} /Bilder/CC-BY-SA/FlowRate_gv52.png
+:::{figure} /Bilder/CC-BY-SA-3.0/FlowRate_gv52.png
 
 Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::

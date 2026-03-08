@@ -13,9 +13,6 @@ status: final
 
 ## Konzentrationen
 
-Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
-
 Es ist sinnvoll die Konzentration eines flüssigen Arzneimittels in mg / ml umzurechnen.
 Bei Konzentrationsangaben in Prozent zeigt sich, dass Mediziner mit Naturwissenschaften eigentlich nicht soviel am Hut haben; man postuliert einfach, dass ein Liter einem Kilogramm entspricht[^SI-Kilogramm-Liter].
 
@@ -48,14 +45,20 @@ Viele Arzneimittel werden unter dem gleichen Markennamen, aber mit deutlich unte
 | Ketanest™ | S-Ketamin | 250 mg / 10 ml | 25 mg / ml   |
 :::
 
+
+
+
+
 ## Dosisrate
 
 :::{margin} Dosisrate
 
-- µg / kg / min: *\"Gamma\"*
+-   µg / kg / min: *\"Gamma\"*
 :::
 
 Dosierungen für die Langzeitgabe von hochpotenten Medikamenten wie Opioide oder Katecholamine werden zwecks Vergleichbarkeit in **µg / kg / min** angegeben, umgangssprachlich wird dies oft als *"Gamma"* bezeichnet.
+
+
 
 
 
@@ -63,9 +66,9 @@ Dosierungen für die Langzeitgabe von hochpotenten Medikamenten wie Opioide oder
 
 :::{margin} Flussrate
 
-- Flussrate [ml / h]:
+-   Flussrate [ml / h]:
 
-  $$\frac{\text{Dosisrate [µg / kg / min]}\times\text{Gewicht [kg]}\times 60}{\text{Konz. [µg / ml]}}$$
+    $$\frac{\text{Dosisrate [µg / kg / min]}\times\text{Gewicht [kg]}\times 60}{\text{Konz. [µg / ml]}}$$
 :::
 
 Abhängig von der Zubereitung und Konzentration der Infusionslösung und des Patientengewichts kann man eine **Flussrate** errechnen, die man z. B. auf Spritzenpumpen einstellen kann (bzw. muss):

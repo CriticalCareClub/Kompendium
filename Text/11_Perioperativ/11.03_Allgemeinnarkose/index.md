@@ -37,6 +37,7 @@ status: final
   - {ref}`Rocuronium`
   - {ref}`Succinylcholin`
 - Wikungsweise der Hypnotika: {ref}`Hypnotika`
+- Kremser Anästhesieskriptum: {ref}`kras:Allgemeinanaesthesie`
 :::
 
 

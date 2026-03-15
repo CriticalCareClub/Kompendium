@@ -37,7 +37,7 @@ Die Ursachen sind nicht vollständig geklärt.
 
 Die EPH-Gestose ist charakterisiert durch:
 
-> **E**dema: Ödeme generalisiert (jedoch Vorkommen bei 80% der SS)
+> **E**dema: Ödeme generalisiert (jedoch Vorkommen bei 80 % der SS)
 > **P**roteinuria: Proteinurie \> 0,3g/l pro 24 h mit Hypoproteinämie (Albuminmangel)
 > **H**ypertension: Hypertonie als Leitsymptom mit RR \> 190/90 mmHg mit Gefahr von cerebralen Blutungen, cerebralen Spasmen mit Krampfanfällen = Eklampsie
 
@@ -58,7 +58,7 @@ HELLP-Syndrom
 
 Ursachen:  (Hämolysis: Parameter ist das Haptoglobin)
 - Generalisierte Vasokonstriktion der Ateriolen mit Hypertonie durch Imbalance zwischen TXA und Prostacyclin PGI2, Freisetzung humoraler Faktoren aus path. veränd. Plazenta.
-- erhöhte Gefäßpermeabilität mit Lungenödem, Linksherzinsuffizienz durch 30-40% Plasmavolumenverlust ins Interstitium.
+- erhöhte Gefäßpermeabilität mit Lungenödem, Linksherzinsuffizienz durch 30-40 % Plasmavolumenverlust ins Interstitium.
 - Erniedrigter onkotischer Druck durch Proteinverlust ins Interstitium = Ödeme auch im Larynx!
 - Leberödem (Oberbauchschmerzen!!!!) und Funktionsstörung mit Transaminasenerhöhung und Gerinnungsstörungen, Gefahr der Leberruptur!
 - Thrombopenie und Funktionsstörung
@@ -79,7 +79,7 @@ Hämodynamik
   2. Hypodynamisch mit tiefem CO und hoher SVR (meist nach 34. SSW-late-onset praeclampsia).
 
 Differentialdiagnose zur SS-Fettleber
-: 85% Ikterus und GOT-Erhöhung, normale Nierenfunktionsparameter. Bei HELLP-Syndrom: GPT stärker als GOT erhöht, LDH erhöht, Kreatinin und Harnsäure steigend!
+: 85 % Ikterus und GOT-Erhöhung, normale Nierenfunktionsparameter. Bei HELLP-Syndrom: GPT stärker als GOT erhöht, LDH erhöht, Kreatinin und Harnsäure steigend!
 
 
 

@@ -152,8 +152,8 @@ Das Knochengewebe wird gebildet aus:
 - Extrazellularmatrix
 - Kollagenmatrix
 
-Grundsubstanz mit anorganischen Salzen (= *Kalk*!): 20—25% Wasser, 25—30% organische Substanz (kollagene Fasern, wichtig für die Elastizität des Knochens), 50% anogranische Substanz (Salze, z. B.
-Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des Knochens). Über eine Vermehrung des Anteils der anorganischen Substanz auf ca. 70% im Alter lässt sich die niedrigere Bruchfestigkeit der Knochen in diesem Lebensabschnitt erklären.
+Grundsubstanz mit anorganischen Salzen (= *Kalk*!): 20—25 % Wasser, 25—30 % organische Substanz (kollagene Fasern, wichtig für die Elastizität des Knochens), 50 % anogranische Substanz (Salze, z. B.
+Calciumphosphat, Magnesiumphosphat, Calciumcarbonat, wichtig für Festigkeit des Knochens). Über eine Vermehrung des Anteils der anorganischen Substanz auf ca. 70 % im Alter lässt sich die niedrigere Bruchfestigkeit der Knochen in diesem Lebensabschnitt erklären.
 
 2 Knochenformen sind zu unterscheiden:
 
@@ -343,7 +343,7 @@ Muskelzellen haben auch eine Funktion im Wärmehaushalt durch das *Muskelzittern
 :::
 
 - **Quergestreifte (Skelett-)Muskel**:
-  bilden den Skelettmuskel und stellen ca. 40—50% des Gesamtkörpergewichts.
+  bilden den Skelettmuskel und stellen ca. 40—50 % des Gesamtkörpergewichts.
   Durch regelmäßige Anordnung der Myofibrillen zeigt sich im Mikroskop eine Querstreifung der Muskelfasern.
   Eigenschaften: trainierbar, willkürlich kontrahierbar, ermüdbar.
 - **Glatte Muskel**:

@@ -5,13 +5,13 @@
 ## Kardiale Patienten
 
 - \> 4MET mit blander Untersuchung und beschwerdefrei, kann sofort freigegeben werden.
-- \> 4MET mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine leichte OP freigeben werden. 
+- \> 4MET mit Z.n. MCI, PTCA, aber beschwerdefrei, benötigt ein Ruhe EKG und kann für eine leichte OP freigeben werden.
 
   Bei einer schweren OP Abklärung mittels EKG, Echo, C/P (EF? LVF?) und Auskultation nach einem pathologischen Herzgeräusch: Echo vorhanden? Vitien?
 - \< 4MET: EKG, C/P, Spirometrie + BGA, Echo, ERGO nur bei instabiler AP oder hohem OPRisiko, bei schwerem Eingriff und LEE-Index > 2RF = interdiszipliäre Entscheidung!
 
-ECHO: Gibt keine Auskunft über perioperative Leistungsfähigkeit, aber Klappenvitien, wie AS+MS sind ein starker Risikofaktor für perioperative Komplikationen. 
-Beurteilung bei akutem Herzinfarkt zeigt das Ausmaß der Wandbewegungs- und Pumpstörung. 
+ECHO: Gibt keine Auskunft über perioperative Leistungsfähigkeit, aber Klappenvitien, wie AS+MS sind ein starker Risikofaktor für perioperative Komplikationen.
+Beurteilung bei akutem Herzinfarkt zeigt das Ausmaß der Wandbewegungs- und Pumpstörung.
 Nachweis einer pulmonalen Hypertension mit Gefahr eines Rechtsherzversagens.
 
 EKG: Kann Hinweise auf einen stillen Infarkt, Ischämiezeichen, LVH-Zeichen, Rhythmusstörungen und ev. LAH (assoz. mit KHK und periop. anteroseptalen Infarkt, und CMP) zeigen.
@@ -22,27 +22,27 @@ EKG: Kann Hinweise auf einen stillen Infarkt, Ischämiezeichen, LVH-Zeichen, Rhy
 :::
 
 Erfragen
-: - Belastbarkeit=NYHA-Stadien, 
-  - KHK/AP-Beschwerden, 
+: - Belastbarkeit=NYHA-Stadien,
+  - KHK/AP-Beschwerden,
   - Herzinsuffizienz/Ödeme + NYHA,
   - Elektrische Instabilität/Herzrasen, Synkopen.
 
-Präoperative Abklärung bei: 
-- instabile KHK, 
-- dekompensierte Herzinsuffizienz, 
-- signifikante Arrhythmien (höhergradiger AV-Block, symptomatische Bradykardie, VT´s,..), 
+Präoperative Abklärung bei:
+- instabile KHK,
+- dekompensierte Herzinsuffizienz,
+- signifikante Arrhythmien (höhergradiger AV-Block, symptomatische Bradykardie, VT´s,..),
 - Schwere AS oder symptomatische MS = MET´s + NYHA für funktionelle Kapazität!!! LEE-Index!
 
 Eine **Belastungsintoleranz** ist unabhängig von ST-Senkungen ein Risikofaktor, der mittels ERGO, pharmakologischem Stressecho, oder Myokardszintigraphie abgeklärt werden muss!
 
-Eine **präoperative Antibiotikaprophylaxe** sollte bei *Z.n. Klappenersatz* erfolgen: 
-- Amoxicillin 2 g 1h vor OP p.o, und 6h postoperativ. 
+Eine **präoperative Antibiotikaprophylaxe** sollte bei *Z.n. Klappenersatz* erfolgen:
+- Amoxicillin 2 g 1h vor OP p.o, und 6h postoperativ.
 - (Bei Penizillinallergie: Clindamycin 600 mg 1h)
 
 Risikoeinschätzung des Eingriffs bezüglich perioperativer Infarkt/Herztod:
-- Hochgradig (>5% MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen
-- Mäßiggradig (1–5%) Carotis, Kopf und Hals, Orthopädie, Prostata, intrathorakale Eingriffe
-- Geringgradig (\< 1%) Endoskopische E., oberflächene. OP, Katarakt, Mammae…
+- Hochgradig (>5 % MCI oder Herztod): Eingriffe an Aorta und anderen großen Gefäßen
+- Mäßiggradig (1–5 %) Carotis, Kopf und Hals, Orthopädie, Prostata, intrathorakale Eingriffe
+- Geringgradig (\< 1 %) Endoskopische E., oberflächene. OP, Katarakt, Mammae…
 
 Gerinnungsmanagement nach PTCA mit dualer Plättchentherapie (ASS + P2Y12-Blocker):
 - Ballondilatation: OP frühestens nach 2 Wochen, ASS weiter
@@ -68,8 +68,8 @@ P2Y12-Rezeptorblocker = Thienopyridine (ADP-Freisetzung):
 - Thrombo-ASS 100 mg: irreversibler Thrombozytenaggregationshemmer (COX): 3 Tage Pause
 
 Dauermedikamente:
-- Betablocker etc. weitergeben, perioperativ neu mit Betablocker beginnen, bei hohem operativem und kardialen Risiko bei KHK ohne Herzinsuffizienz. 
-- Sonstige Antiarrhythmika weitergeben. 
+- Betablocker etc. weitergeben, perioperativ neu mit Betablocker beginnen, bei hohem operativem und kardialen Risiko bei KHK ohne Herzinsuffizienz.
+- Sonstige Antiarrhythmika weitergeben.
 - Plavix so rasch als möglich postoperativ weitergeben.
 - Perioperative Antibiotikaprophylaxe bei Klappenersatz nicht vergessen!
 - Therapiepausen bei bestehender Antikoagulation bei VHF oder Z.n. PE siehe perioperative Gerinnung!
@@ -82,7 +82,7 @@ Schrittmacher:
 - EKG-Rhythmusstreifen: Spikes? Reizantwort? Sensing? Eigenschläge? → *Abhängigkeit, Dysfunktion?*
 - C/P: Lage der Elektroden, Herzgröße, Ergüsse?
 - OP im Thoraxbereich + absolute Abhängigkeit: Umprogrammieren auf *asynchronen Modus* oder Magnet
-- MRT: *Sure Scan Modus* 
+- MRT: *Sure Scan Modus*
   {index}` <Sure Scan Modus>`
 
 Der Schrittmacherausweis, Nummer des Kardiologen und ein **Magnet** müssen bei der OP vorhanden sein.
@@ -92,8 +92,8 @@ Der Schrittmacherausweis, Nummer des Kardiologen und ein **Magnet** müssen bei 
 
 
 <!-- ### Section ################################################## -->
-<!-- 
-:::{index} single: 
+<!--
+:::{index} single:
 :::
 
 
@@ -111,7 +111,7 @@ Erkennen von:
 
 Untersuchungen: Inspektion, Perkussion, Auskultation, Spirometrie + BGA, C/P
 
-Normale FEV1 ist 70–85% der FRC!
+Normale FEV1 ist 70–85 % der FRC!
 
 Pulmonale Patienten mit < 4 MET + schwerer Eingriff = interdisziplinäre Entscheidung!
 
@@ -128,16 +128,16 @@ Pulmonale Patienten mit < 4 MET + schwerer Eingriff = interdisziplinäre Ent
 :::{index} single: Prämedikation; Diabetes mellitus
 :::
 
-(Prämed-Diabetes-mellitus)= 
+(Prämed-Diabetes-mellitus)=
 
 ## Diabetes mellitus
 
-- OP-Morgen: 
+- OP-Morgen:
   - 1/3 des Gesamtinsulinbedarfes als langwirksames Insulin geben
 
     oder: 1/2 der Morgen-Insulindosis + "Elomel™ postoperativ G" 70 ml / h (Tropfenzähler)
-  - möglichst erster OP Punkt! 
-  - Engmaschige BZ-KO! Ev. Glucose 5% (Werte < 70 und > 250 mg/dl müssen dem Arzt gemeldet werden!)
+  - möglichst erster OP Punkt!
+  - Engmaschige BZ-KO! Ev. Glucose 5 % (Werte < 70 und > 250 mg/dl müssen dem Arzt gemeldet werden!)
 - Postoperative BZ-Ko (+ intraoperativ bei längeren Eingriffen)
 - Abend nach OP: NZ >180 mg/dl die gewohnte Dosis IE verabreichen
 
@@ -170,7 +170,7 @@ Dauermedikation:
 
 ## Leberzirrhose
 
-- Erhöhte Mortalität bei CHILD A (10%), CHILD B (30%), CHILD C (82%), unabhängig von der Operation! [^cite_aust:2018]
+- Erhöhte Mortalität bei CHILD A (10 %), CHILD B (30 %), CHILD C (82 %), unabhängig von der Operation! [^cite_aust:2018]
 - MELD > 14 ist inoperabel!
 - Beachte: Gerinnungsdiagnostik (Gerinnungsfaktorenmangel, Thrombopenie)
 - Anamnese: GI-Blutungen? Ösophagusvarizen? Alkoholismus? Hepatorenales Syndrom?
@@ -202,6 +202,6 @@ Dokumentation des neurologischen Status, neurologische Begutachtung bei Verschle
   onkologische Patienten,
   Critical Care Neuropathy
 
-Ein **perioperativer zerebraler Insult** tritt in 45% innerhalb von 24 h durch Ischämie und frühe Embolisation auf. 
-Späte Embolien finden sich ab dem zweiten postoperativen Tag bei Vorhofflimmern. 
+Ein **perioperativer zerebraler Insult** tritt in 45 % innerhalb von 24 h durch Ischämie und frühe Embolisation auf.
+Späte Embolien finden sich ab dem zweiten postoperativen Tag bei Vorhofflimmern.
 Ein besonders hohes Risiko ist bei Herz- und Gefäßchirurgischen Eingriffen vorhanden, bzw. bei vorbestehender Carotisstenose, St.p. TIA oder Insult, VHF und Patienten > 70 Lj, oder iatrogen nach Absetzten der Antikoagulation.

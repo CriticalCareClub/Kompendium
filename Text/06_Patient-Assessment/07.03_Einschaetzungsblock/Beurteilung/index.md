@@ -108,7 +108,7 @@ Reihenfolge zählt!
 
 2. **Sauerstoffgabe**:
    je nach Indikation,
-   allgemeiner Zielwert: SpO₂ von 94—98%.
+   allgemeiner Zielwert: SpO₂ von 94—98 %.
    Beachte {ref}`m-sauerstoffberieselung`
 
 3. **Experten-Nachforderung**:

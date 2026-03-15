@@ -21,7 +21,7 @@ Dialyselösung
 
 Gerinnungshemmung:
 - UFH systemisch oder regional vor dem Filter mit Protamin nach dem Filter.
-- Natriumcitrat (Chelatbildner mit Ca): der Komplex wird zu 90%  in der Highfluxmembran eleminiert, Postfilter-Ca-Lsg zugesetzt. (Kontrolle!)
+- Natriumcitrat (Chelatbildner mit Ca): der Komplex wird zu 90 %  in der Highfluxmembran eleminiert, Postfilter-Ca-Lsg zugesetzt. (Kontrolle!)
 - Prostaglandine (Flolan, Ilomedin)  +Heparin bei rezidivierenden Filterverschluss (teuer! HIT-Ausschluss vorher!)
 
 CiCa CVVHD
@@ -45,7 +45,7 @@ Bsp Start: Dialysefluss 35 ml/kg 20:1 zum Blutfluss ( = 1,75 ml/kg), Citratd
 Calciumdosis 1,7mmol/l Entzug: 100 ml/h Postfilterkalzium 0,25-0,34mmol/l: wenn zu nieder Citratdosis reduzieren,...
 - Kalziumanpassung erfolgt über Minuten!!
 Systemisches Kalzium 1,12-1,20mmol/l: wenn zu nieder Calciumdosis erhöhen,...
-Bicarbonat ändert sich um ca. 4 mmol/l bei 20% Änderung Blut- oder Dialyseflusses!
+Bicarbonat ändert sich um ca. 4 mmol/l bei 20 % Änderung Blut- oder Dialyseflusses!
 Metabolische Azidose  Änderung: mehr Blutfluss oder weniger Dialysat........          Metabolische Anpassung erfolgt über Stunden!!
 Metabolische Alkalose Änderung: weniger Blutfluss oder mehr Dialysat Citratakkumulation mit damit systemische Citratinfusion mit starkem Abfall des ionisiertem Kalzium = Reduktion der Citratdosis und in weiterer Folge auch des Blutflusses. Ev. Korrektur der metabolischen Azidose mit Bicarbonat. Ev. Abbruch.
 

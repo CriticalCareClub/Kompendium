@@ -25,15 +25,15 @@ Rotarmeter müssen im Betrieb rotieren, nur dann stimmt die Skalierung mit dem D
 - ORC-Funktion (Oxygen Ratio Controller) in Gasmischungen mit Lachgas
 
   - Pneumatisch: Der Fließdruck nach dem O₂-Regelventil regelt den Lachgasfluß derart,
-    dass mindestens 25% O₂-Konzentration im Frischgas ins Kreissystem
+    dass mindestens 25 % O₂-Konzentration im Frischgas ins Kreissystem
     gelangen (Proportionalventil)
   - Elektronisch:
     Einfach Einstellung des Firschgasflows bei BEibehaltung der
-    voreingestellten O₂-Konzentration von 25% bis zu einem
+    voreingestellten O₂-Konzentration von 25 % bis zu einem
     Frischgasflow von 1 L / min.
     Wird der Frisschgasflow weiter reduziert ist ein Mindestfluß von
     250 mL / min O₂ garantiert.
-    Ab 250 mL / min beträgt die O₂-Konzentration 100%
+    Ab 250 mL / min beträgt die O₂-Konzentration 100 %
     Der minimale Frischgasflow beträgt 200 mL / min.
 
 - Manuelle O₂-Notdosieurng, vorbereitet für inspiratorische

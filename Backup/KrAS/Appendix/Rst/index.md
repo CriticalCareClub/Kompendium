@@ -526,7 +526,7 @@ Folgende Optionen sind typisch:
         :type: ganzzahliger Prozentsatz (das Symbol ``%`` ist optional)
 
         Der einheitliche **Skalierungsfaktor** des Bildes.
-        Die Standardeinstellung ist ``100%``, d. H. Keine Skalierung.
+        Die Standardeinstellung ist ``100 %``, d. H. Keine Skalierung.
 
     .. rst:directive:option:: align
         :type:  ``top``, ``middle``, ``bottom``, ``left``, ``center`` oder ``right``

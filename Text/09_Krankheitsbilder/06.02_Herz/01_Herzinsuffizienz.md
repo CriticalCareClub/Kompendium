@@ -22,7 +22,7 @@ Die Herzinsuffizienz ist definiert als Zustand, bei der das Herz nicht mehr in d
 
 Die häufigsten zugrundeliegenden Erkrankungen der Herzinsuffizienz sind:
 
-1. Koronare Herzerkrankung (häufigstes Grundleiden der Herzinsuffizienz in bis zu 75%)
+1. Koronare Herzerkrankung (häufigstes Grundleiden der Herzinsuffizienz in bis zu 75 %)
 2. Arterielle Hypertonie 3. Kardiomyopathien a. Dilatative Kardiomyopathie b. Hypertrophe Kardiomyopathie c. Restriktive Kardiomyopathie 4. Klappenvitien 5. Perikarderkrankungen 6. Entzündliche Erkrankungen (z. B. Myokarditis)
 7. Stoffwechselstörungen (z. B. Hyperthyreose)s 8. Toxische Wirkungen (z. B. Chemotherapeutika)
 9. Bradykarde/tachykarde Arrhythmien.
@@ -31,7 +31,7 @@ Die häufigsten zugrundeliegenden Erkrankungen der Herzinsuffizienz sind:
 
 1. Die systolische Herzinsuffizienz (Heart Failure with reduced Ejection Fraction oder HFrEF) ist durch eine typische Symptomatik in Kombination mit einer deutlich erniedrigten Auswurffraktion charakterisiert.
 2. Eine diastolische Herzinsuffizienz (Heart Failure with preserved Ejection Fraction oder HFpEF) besteht dann, wenn bei entsprechender Symptomatik die Auswurffraktion  ≥  50  %  ist, die natriuretischen Peptide erhöht sind und zusätzlich echokardiografische Hinweise auf eine diastolische Dysfunktion vorliegen.
-3. Patienten mit EF 40-49%: „Mittelklasse" der Herzinsuffizienz (Heart Failure mid-range Ejection Fraction oder HFmrEF), vorausgesetzt, dass ebenso wie bei HFpEF die natriuretischen Peptide erhöht und echokardiografisch strukturelle oder funktionelle Störungen des linken Ventrikels objektivierbar sind.
+3. Patienten mit EF 40-49 %: „Mittelklasse" der Herzinsuffizienz (Heart Failure mid-range Ejection Fraction oder HFmrEF), vorausgesetzt, dass ebenso wie bei HFpEF die natriuretischen Peptide erhöht und echokardiografisch strukturelle oder funktionelle Störungen des linken Ventrikels objektivierbar sind.
 
 ### Circulus virtiosus der HI
 

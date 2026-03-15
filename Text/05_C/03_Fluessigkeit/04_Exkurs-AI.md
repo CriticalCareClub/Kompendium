@@ -28,7 +28,7 @@ ChatGPT 5
   **Vorteile:**
   - Elektrolytzusammensetzung nahe am Plasma (Na⁺, K⁺, Ca²⁺, Mg²⁺, Cl⁻).
   - Enthält Metabolite (Acetat, Malat) zur Pufferung, daher günstiger Einfluss auf den Säure-Basen-Haushalt.
-  - Geringes Risiko einer Hyperchlorämie im Vergleich zu 0,9% NaCl.
+  - Geringes Risiko einer Hyperchlorämie im Vergleich zu 0,9 % NaCl.
   - Gut geeignet für Volumentherapie bei vielen klinischen Situationen (z. B. perioperativ, Schock, Rehydratation).
 
   **Nachteile:**

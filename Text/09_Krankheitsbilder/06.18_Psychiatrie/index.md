@@ -13,7 +13,7 @@ status: final
 Die Psychiatrie beschäftigt sich mit der Prävention, Diagnostik und Therapie psychischer Störungen und ist ein sehr kompliziertes und anspruchsvolles Fachgebiet der Medizin.
 Sie beschäftigt sich einerseits mit handfesten, körperlich bedingten Störungen, die Auswirkungen auf das Denken und die geistige Leistungsfähigkeit haben. Andererseits hat man es in der Psychiatrie sehr oft mit Störungen zu tun, von deren Ursache die Wissenschaft kaum eine Ahnung hat. In der Psychiatrie ist es auch besonders schwierig, zwischen "gesund" und "krank" treffsicher zu unterscheiden.
 
-Grundsätzlich muss aber gesagt werden, dass psychiatrische Erkrankungen [^psyerkrankung] etwas alltägliches und nichts außergewöhnliches sind. Je nach Studie leiden bis zu 30% der Bevölkerung an psychiatrischen Erkrankungen, allen voran an Depressionen und der Alkoholkrankheit.
+Grundsätzlich muss aber gesagt werden, dass psychiatrische Erkrankungen [^psyerkrankung] etwas alltägliches und nichts außergewöhnliches sind. Je nach Studie leiden bis zu 30 % der Bevölkerung an psychiatrischen Erkrankungen, allen voran an Depressionen und der Alkoholkrankheit.
 
 [^psyerkrankung]: Sofern der Begriff *"Erkrankung"* überhaupt angebracht ist …
 
@@ -300,7 +300,7 @@ Die **Depression**
 Die **Manie**
 {index}` <! Manie>` ist dagegen ein Überbegriff für Auffälligkeiten des Affektes, der Antriebs- und Willenssphäre sowie des Denkens.
 
-Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa 10% der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
+Die Depression ist eine sehr häufige Erkrankung ("Volkskrankheit"), etwa 10 % der Patienten einer allgemeinmedizinischen Praxis leiden unter ihr
 . Sie tritt mit einer Vielzahl von unterschiedlichen Symptomen auf und ist oft nur schwer von alltäglicher Verstimmung abzugrenzen.
 
 Die Depression tritt oft episodenhaft auf. Bei den typischen Episoden leidet der betroffene Patient unter einer *gedrückten Stimmung* und einer *Verminderung von Antrieb und Aktivität*. Die Fähigkeit zu Freude, das Interesse und die Konzentration sind vermindert. Ausgeprägte *Müdigkeit* kann nach jeder kleinsten Anstrengung auftreten. Der Schlaf ist meist gestört, der Appetit vermindert. Selbstwertgefühl und Selbstvertrauen sind fast immer beeinträchtigt. Sogar bei der leichten Form kommen Schuldgefühle oder Gedanken über eigene *Wertlosigkeit* vor.

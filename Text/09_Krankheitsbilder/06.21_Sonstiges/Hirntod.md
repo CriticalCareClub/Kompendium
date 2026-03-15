@@ -60,7 +60,7 @@ Spenderkonditionierung
 Explantationskriterien
 : Hirntoddiagnostik, Ausschluss einer tumorbedingten Erkrankung, DIC, SEPSIS, HIV + \< 90a Absolute KI: HIV, SEPSIS mit MOF, Metastasierender Tumor Voruntersuchungen zur Spenderabklärung: Blutwerte nach Protokoll, C/P, Herzecho, Adomensonographie, Harnstreifentest.
 
-- **Hämodynamik**: Hypotonie, HZV sinkt durch herabgesetzen SVR = Volumengabe (Kristalloide, Kolloide, Blut oder Komponenten) Ziel: HK > 30%, Hb > 10 ZVD 5-12 Keine Überwässerung mit Organödemen (Leber) und kardialer Dekompensation. MAP 70-110
+- **Hämodynamik**: Hypotonie, HZV sinkt durch herabgesetzen SVR = Volumengabe (Kristalloide, Kolloide, Blut oder Komponenten) Ziel: HK > 30 %, Hb > 10 ZVD 5-12 Keine Überwässerung mit Organödemen (Leber) und kardialer Dekompensation. MAP 70-110
 - **Flüssigkeits- und Elektrolythaushalt**: Diabetes insipidus, Hypovolämie, Hypokaliämie, Hypernatriämie;  PICCO möglichst wenig Katecholamine;  Ausfall der hypothalamisch-hypophysiären Achse mit mangelder ADH-Freisetzung = Diabetes insipidus mit  \> 5 ml/kg / h Harn mit spez. Gewicht  \< 1005 mosmol/l, Hypernatriämie als Spätsymptom (\> 155mmol/l)
 
   Therapie: Minirin (Desmopressin) 1-2  µg iv. (1/4 bis  ½  Ampulle) nach 1h frühestens wiederholen. Natriumarme Flüssigkeit.

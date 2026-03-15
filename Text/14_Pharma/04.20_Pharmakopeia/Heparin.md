@@ -68,7 +68,7 @@ Vollheparinisierung
   PTT-Kontrolle,
   Ziel-aPTT 1,5—2-fache des Augangswertes
 
-  Bei terminaler Niereninsuffizienz Dosisreduktion um 25%.
+  Bei terminaler Niereninsuffizienz Dosisreduktion um 25 %.
 
 Antidot
 

@@ -261,7 +261,7 @@ Maßnahmen
 
 ## 19. Niereninsuffizienz
 
-Die Niere beansprucht zirka 20% des HZV (ca, 1,2l Blut). Der Großteil geht in den überversorgten Cortex, die vulnerable Zone, weil nur grenzwertig versorgt, ist die Medulla mit den Henle Schleifen. Dort befindet sich auch die Na-K-ATPase, welche der größte Sauerstoffkonsument der Niere ist.
+Die Niere beansprucht zirka 20 % des HZV (ca, 1,2l Blut). Der Großteil geht in den überversorgten Cortex, die vulnerable Zone, weil nur grenzwertig versorgt, ist die Medulla mit den Henle Schleifen. Dort befindet sich auch die Na-K-ATPase, welche der größte Sauerstoffkonsument der Niere ist.
 
 Aufbau: Nephron = Glomerulus in Bowman Kapsel mit Vas afferenz und efferenz und juxtaglomerulärem Apparat -- proximaler Tubulus (Konvolut) -- Henle Schleife in Medulla -- distaler Tubulus -- Sammelrohr.
 
@@ -288,7 +288,7 @@ verhindert die Überforderung einzelner Nephrone (unterschiedliche GFR im Cortex
 
 
 Aufgaben Nepron:
-1) Proximaler Tubulus: komplette Glucoserückaufnahme im Symport mit Na, 60-70%
+1) Proximaler Tubulus: komplette Glucoserückaufnahme im Symport mit Na, 60-70 %
 Wasserrücktransport, Harnstoff
 +
 Phosphat+Cl+HCO3-
@@ -316,13 +316,13 @@ Anästhetika bei CNI:
 - Opioide werden in der Leber metabolisiert und  über die Niere ausgeschieden, Morphium kann akkumulieren.
 - Volatile Anästhetika sind ideal bei CNI (Sevo theor. Akumulation von Fluoriden)
 - Succinylcholin nur bei K \< 5!!
-- Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron (Rocuronium) wird zu 20% renal eleminiert (TOF!).
+- Nimbex ist das beste Relaxanz, da Hoffman-Elimination (enzymat. Hydrolyse). Esmeron (Rocuronium) wird zu 20 % renal eleminiert (TOF!).
 
-Röntgenkontrastmittel induzierte Nephropathie Akute renale Verschlechterung innerhalt 48 bis 72 h nach KM-Gabe mit Kreatininanstieg  +25%
+Röntgenkontrastmittel induzierte Nephropathie Akute renale Verschlechterung innerhalt 48 bis 72 h nach KM-Gabe mit Kreatininanstieg  +25 %
 oder +0,5 mg/dl!
 Ursache: Vasokonstriktion mit Perfusionsminderung (ATII vermittelt) in der Niere, KM ist zytotoxisch und proapoptotisch und setzt freie Radikale frei.
 Risikofaktoren:
-Vorbestehende NI mit Krea \> 1,4 mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1 ml/kg / h bis 24 h nach KM), keine Diuretika Gabe, ev. ACC 600 mg vor und 12h nach KM, max 300 ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26% iv: 3 ml/kg / h 60min vor KM, 1 ml/kg / h während und 6 h nach der Untersuchung.
+Vorbestehende NI mit Krea \> 1,4 mg/dl, DM, \> 70 Lj, große KM-Menge bzw. WH innerhalb von 7 Tagen, Begleitende Medikamente: NSAR, Cephalosporine Prophylaxe: Ausreichend Trink/Infusionsmenge vor und nach dem KM (1 ml/kg / h bis 24 h nach KM), keine Diuretika Gabe, ev. ACC 600 mg vor und 12h nach KM, max 300 ml KM, Hämofiltration zur KM-Elimination im Ermessen des Intensivmediziners. NaHCO3 1,26 % iv: 3 ml/kg / h 60min vor KM, 1 ml/kg / h während und 6 h nach der Untersuchung.
 Rhabdomyolyse:
 = Degeneration und Nekrose von quergestreiften Muskelfasern (Skelett und Herzmuskulatur) Urs: Alkohol, Heroin, MH, Propofolinfusionssyndrom Hämoglobin, Myoglobin und Eiweiß verstopfen den distalen Tubulus und führen zum NV = Crush Niere! (Kompartmentsyndrom!) Labor: Excessive Erhöhung von CK, Myoglobin, Krea, GOT, GPT, LDH, (K + Laktat bei Kompartment) Therapie: Alkalisierung des Harns und forcierte Diurese (Flüssigkeits + Lasix)
 
@@ -345,8 +345,8 @@ Ursachen:
 AKIN-Definition: akut innerhalb 48 h, Anstieg Krea um 1  ½  fache (oder 0,3 mg/dl) oder Einschränkung der Diurese auf \< 0,5 ml/kg / h über \> 6h!
 
 Rifle-Stadium      AKIN-Statium                     Kreatinin                              Diurese Risk                                  1                         1 ½
-fache/+0,3 GFR -25%            \< 0,5 ml/kg / h über \> 6h Injury                               2                         2-3fache, GFR -50%                      \< 0,5 ml/kg / h über \> 12h Failure                             3
--                       \> 3fache/\> 4! GFR -75%
+fache/+0,3 GFR -25 %            \< 0,5 ml/kg / h über \> 6h Injury                               2                         2-3fache, GFR -50 %                      \< 0,5 ml/kg / h über \> 12h Failure                             3
+-                       \> 3fache/\> 4! GFR -75 %
 - \< 0,3 ml/kg / h über 24 h/ Anurie Loss function                 -                Nierenversagen über \>
 4 Wochen ESRD                               -                 Nierenversagen über \>
 3 Monate

@@ -296,7 +296,7 @@ Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich Prio
 
 - **Reinigung**:
   Oberflächliches **ab**spülen mit
-  steriler (NaCl 0,9%) von innen nach außen.
+  steriler (NaCl 0,9 %) von innen nach außen.
   Bei oberflächlichen
   Wunden ist auch ein Abspülen unter fließendem Leitungswasser
   zulässig ({term}`🗎 Fernandez 2012`, {term}`🗎 Fernandez 2022`).

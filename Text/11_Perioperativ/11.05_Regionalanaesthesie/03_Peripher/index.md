@@ -370,7 +370,7 @@ Typische Blockaden der unteren Extremität sind:
 Beispielhaft sei hier ein mögliches Regime für Patienten mit Knie-Totalendoprothese (K-TEP) beschrieben.
 Neben dem eigentlichen Anästhesieverfahren (Spinalanästhesie, Allgemeinanästhesie) können regionale Katheterverfahren zur postoperativen Schmerztherapie zum Einsatz kommen.
 Dabei werden vor der Operation beim wachen Patienten Katheter an den N. femoralis oder N. saphenus sowie dem N. ischiadicus angebracht.
-Postoperativ werden dann an die Katheter Pumpensysteme angeschlossen, welche kontinuierlich Regionalanästhetika abgeben (z.B. Ropivacain 0,2% mit 6 mL / h).
+Postoperativ werden dann an die Katheter Pumpensysteme angeschlossen, welche kontinuierlich Regionalanästhetika abgeben (z.B. Ropivacain 0,2 % mit 6 mL / h).
 Die Katheter bleiben üblicherweise bis zu 2 Tage postoperativ in situ.
 
 :::{admonition} Kontroverse

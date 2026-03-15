@@ -47,10 +47,10 @@ Labor
   -   Bei PCT-Anstieg: Blutkulturen, Harnkulturen
 
   Beachte:
-  Laborchemisch zeigen ca. 80% der Erkrankten eine Lymphopenie;
+  Laborchemisch zeigen ca. 80 % der Erkrankten eine Lymphopenie;
   ca. 1/3 eine Leukopenie.
 
-  Ca. 40% zeigen LDH Erhöhungen (> 400 U / l Zeichen einer schweren
+  Ca. 40 % zeigen LDH Erhöhungen (> 400 U / l Zeichen einer schweren
   Pneumonie)
   und D-Dimer-Erhöhungen.
 
@@ -110,8 +110,8 @@ Labor
     5 (bis maximal 10) Tage
 
 :Dosierung:
-    -   Tag 1: 200 mg (ad 250 ml NaCl 0,9% über 2 h i. v.)
-    -   ab Tag 2: 100 mg (ad 100 ml NaCl 0,9% über 2 h i. v.)
+    -   Tag 1: 200 mg (ad 250 ml NaCl 0,9 % über 2 h i. v.)
+    -   ab Tag 2: 100 mg (ad 100 ml NaCl 0,9 % über 2 h i. v.)
 
 :Kontraindikationen:
     -   **ALT-Cut-off** (= GPT): > 5-fache Normwertobergrenze
@@ -302,7 +302,7 @@ Monitoring
   die Häufigkeit aber regional unterschiedlich)
 
 Transport
-: **Transportrespiratoren immer mit 100% O₂ betreiben**, da bei
+: **Transportrespiratoren immer mit 100 % O₂ betreiben**, da bei
   niedrigeren FiO₂-Konzentrationen die Maschine Raumluft aus der Umgebung dazumischt,
   sodass Virus-belastete Aerosole in die Maschine gelangen
   könnten.
@@ -322,7 +322,7 @@ Transport
 [^cite-bmsgpk-2020]: Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz:
     *Empfehlung zur Entlassung von COVID-19-Fällen aus der Absonderung.*
     Stand: 23.07.2020, basierend auf Empfehlungen des Robert Koch Instituts.
-    <https://www.sozialministerium.at/dam/jcr:531f7e21-0f53-4180-b214-848e19668b52/Empfehlung%20zur%20Entlassung%20von%20COVID-19-F%C3%A4llen%20aus%20der%20Absonderung_final_230720.pdf>.
+    <https://www.sozialministerium.at/dam/jcr:531f7e21-0f53-4180-b214-848e19668b52/Empfehlung%20zur%20Entlassung%20von%20COVID-19-F%C3 %A4llen%20aus%20der%20Absonderung_final_230720.pdf>.
 
 [^cite-kluge-2020]: S. Kluge et al.:
     **Empfehlungen zur intensivmedizinischen Therapie von Patienten mit COVID-19 — Version 3 (S1-Leitlinie).**

@@ -72,7 +72,7 @@ Chronische Bronchitis + Lungenemphysem + smal airway disease mit erhöhter Resis
 Charakteristisch ist der **endexspiratorischer Kollaps** der Bronchien (ab 16. Generation keine Knorpelspangen mehr) mit **verlängertem Exspirium** und *endexspiratorischen Restflow* (**intrinsic PEEP**) und *Überblähung* durch **Airtrapping**.
 Es kommt zu einer erhöhten FRC mit erhöhter Totraumventilation und Kapillarkompression mit erhöhtem PVR.
 Die Folge ist ein *erhöhte isometrische Atemarbeit*, da der Restflow überwunden werden muss, bevor der inspiratorische Fluss zustande kommt.
-Bis zu 50% der Atemarbeit bei COPD IV ist eine somit eine flussunwirksame Atemarbeit!
+Bis zu 50 % der Atemarbeit bei COPD IV ist eine somit eine flussunwirksame Atemarbeit!
 
 
 :::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\*
@@ -92,10 +92,10 @@ Veränderung der Atemwege bei der COPD
 
 | Stadium | Beschreibung                                                 |
 | ------- | ------------------------------------------------------------ |
-| I       | FEV1 \> 80%, mit/ohne Husten/Auswurf                         |
-| II      | FEV1 \< 80% mit Husten/Auswurf                               |
+| I       | FEV1 \> 80 %, mit/ohne Husten/Auswurf                         |
+| II      | FEV1 \< 80 % mit Husten/Auswurf                               |
 | III     | FEV1 \< 50 mit Husten/Auswurf                                |
-| IV      | FEV1\< 30% oder < 50% mit chron respiratorischer Insuffizienz |
+| IV      | FEV1\< 30 % oder < 50 % mit chron respiratorischer Insuffizienz |
 
 :::
 
@@ -162,7 +162,7 @@ Das Exspirium ist verlängert, oft kann man ein *brummendes, pfeifendes oder gie
 
 Typisch ist der Einsatz der Atemhilfsmuskulatur (Abstützen der Arme), Mühe beim Atmen
 
-Schon beim stabilen Patienten zeigt sich in der BGA eine **Hyperkapnie** (wobei der pH-Wert im chronischen Setting häufig normal ist) und Hypoxie, sowie eine verminderte *Sauerstoffsättigung* (~ 90%).
+Schon beim stabilen Patienten zeigt sich in der BGA eine **Hyperkapnie** (wobei der pH-Wert im chronischen Setting häufig normal ist) und Hypoxie, sowie eine verminderte *Sauerstoffsättigung* (~ 90 %).
 Bei fortgeschrittener Ateminsuffizienz bekommt der Patient oft eine *Heimsauerstofftherapie* verordnet.
 Bei akuter respiratorischer Insuffizienz kann es durch eine Hyperkapnie zu 🚩 *Bewusstseinsstörungen kommen* (*CO₂-Narkose*)!
 In Folge einer Rechtsherzbelastung kann es zu einem Jugularvenenstau und peripheren Ödemen kommen.

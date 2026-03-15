@@ -47,7 +47,7 @@ Aufgrund seiner engen Verbindung mit dem Krankheitsbild der Sepsis und der damit
 **SIRS** (*Systemic Inflammatory Response Syndrome*, systemisches Entzündungsreaktionssyndrom) ist eine übertriebene Abwehrreaktion des Körpers auf eine schädliche Noxe und beinhaltet die Freisetzung von Acute-Phase-Proteinen, welche direkte Mediatoren von systemischen autonomen, endokrinen, hämatologischen und immunologischen Veränderungen sind.
 {index}` <Zytokinsturm>`
 Der **dysregulierte Zytokinsturm** verursacht dabei eine massive Entzündungskaskade, die zu reversiblen oder irreversiblen *Funktionsstörungen der Endorgane* (*Multi Organ Dysfunction Syndrome*: **MODS**) und sogar zum Tod führen kann. \[{term}`🗎 SIRS 2023`\]
-Auf Intensivstationen kann ein SIRS bei 90% der Patienten vorkommen.
+Auf Intensivstationen kann ein SIRS bei 90 % der Patienten vorkommen.
 Die Ursache muss nicht zwingend infektiöser Natur sein.
 
 Eine **Sepsis** ist eine lebensbedrohliche Organfunktionsstörung, die durch eine fehlregulierte Wirtsantwort auf eine *Infektion* verursacht wird.
@@ -128,7 +128,7 @@ Das SIRS kann zum **Multiorgandysfunktionssyndrom** (**MODS**) oder zu **Multior
 - AF: > 20 / min oder PaCO₂ \< 32 mm Hg
 - HF: > 90 / min
 - Temp.: \< 36,0°C oder > 38,0°C
-- Leukos: \< 4000 / µl oder > 12000 / µl bzw. 10% Stabkernige
+- Leukos: \< 4000 / µl oder > 12000 / µl bzw. 10 % Stabkernige
 :::
 
 **SIRS-Kriterien**: Es müssen *zwei* der folgenden Kriterien zutreffen \[{term}`🗎 SIRS 2023`\]:
@@ -136,7 +136,7 @@ Das SIRS kann zum **Multiorgandysfunktionssyndrom** (**MODS**) oder zu **Multior
 - *Atemfrequenz*: > 20 / min (in Ruhe) oder PaCO₂ \< 32 mm Hg
 - *Herzfrequenz*: > 90 / min (in Ruhe)
 - *Körpertemperatur*: \< 36,0°C oder > 38,0°C
-- *Leukozyten*:  \< 4000 / µl oder > 12000 / µl bzw. 10% Stabkernige
+- *Leukozyten*:  \< 4000 / µl oder > 12000 / µl bzw. 10 % Stabkernige
 
 Sepsis ist keine spezifische Krankheit, sondern ein Syndrom, das eine noch ungeklärte Pathophysiologie umfasst \[{term}`🗎 Sepsis-3`\].
 Derzeit kann es durch eine Konstellation klinischer Anzeichen und Symptome bei einem Patienten mit Verdacht auf eine Infektion identifiziert werden.

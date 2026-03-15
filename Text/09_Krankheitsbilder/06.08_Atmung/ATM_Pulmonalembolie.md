@@ -284,7 +284,7 @@ Beatmung: kontrolliere Hyperventilation (paCO₂ 28-35) mit respiratorischer Alk
 
 Venöse Luftembolie: bei sitzender Op im Neuro-OP;  Druckgradient zw. rechten VH und Kopfvenen führt beim Eröffnen der Venen zum Ansaugen von Luftbläschen ins rechte Herz mit Luftembolie, akuter Rechtsherzbelastung, bei PFO Insult... Auskultatorisch Mühlradgeräusch!
 Klinik: Blutdruckabfall, Herzfrequenzanstieg, Jugularvenenstau, Zyanose, Mühlradgeräusch.
-Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK, Linksseitenlage, Kopftief, FiO₂ 100% + PEEP
+Therapie: Verschluss der Venen durch den Chirurgen, Absaugen der Luft  über ZVK, Linksseitenlage, Kopftief, FiO₂ 100 % + PEEP
 
 
 
@@ -292,4 +292,4 @@ Mikrofettembolie
 : **Pallakos-Reaktion** beim *Zementieren* einer HTEP oder KTEP:
   = Blutdruckabfall, Herzfrequenzanstieg mit sinkendem SaO₂
   - Ursache: allergisch-toxische Myokarddepression, Mikrofettembolie der Lunge oder Luftembolie, allergische Reaktion mit Histaminfreisetzung.
-  - Therapie: 100% FIO₂ beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100% FIO₂ bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin, Dobutrex-Perfusor.
+  - Therapie: 100 % FIO₂ beim Zementieren + stabile Hämodynamik; assistierte Maskenbeatmung mit 100 % FIO₂ bei SPA bzw; Volumen + Vasopressoren, ev. Adrenalin, Dobutrex-Perfusor.

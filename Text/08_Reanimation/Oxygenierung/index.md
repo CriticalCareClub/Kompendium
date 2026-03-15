@@ -47,7 +47,7 @@ Die Frequenz gibt der Reanimationsalgorithmus vor.
 
 Durch Verwendung eines Sauerstoffreservoirs und einer ausreichenden Sauerstoffzufuhr
 (Richtwert: 10—15 L / min, oder Verwendung eines Demand-Ventils)
-kann die inspiratorische Sauerstoffkonzentration (FiO₂) auf fast 100% erhöht werden.
+kann die inspiratorische Sauerstoffkonzentration (FiO₂) auf fast 100 % erhöht werden.
 Dies ist im Rahmen der Reanimation, sofern technisch möglich, obligat!
 
 ## Beutel-Masken-Beatmung (Reanimation)
@@ -232,7 +232,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 - Die Gefahr von Fehlintubationen, insbesonders von ösophagealen
   Fehllagen, ist hoch. Diese werden oft spät oder gar nicht erkannt
   (Risiko der unerkannten Tubusfehllage bei Patienten mit
-  außerklinischem Kreislaufstillstand: 0,5—17%
+  außerklinischem Kreislaufstillstand: 0,5—17 %
   {term}`🗎 Grmec 2002` {term}`🗎 Lyon 2010` {term}`🗎 Jones 2004` {term}`🗎 Pelucio 1997` {term}`🗎 Jemmett 2003` {term}`🗎 Katz 2001`
 - Die Erfolgsraten bei wenig routinierten Anwendern sind
   schlecht[^footnote-5].
@@ -246,7 +246,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
 
 [^footnote-5]: *"Die Misserfolgsraten der Intubation betragen in außerklinischen,
     wenig ausgelasteten Systemen mit Anwendern, die selten Intubationen
-    durchführen, bis zu 50%".*
+    durchführen, bis zu 50 %".*
 
 [^footnote-6]: {term}`🗎 Timmermann 2007`: In dieser in
     Deutschland durchgeführten Studie wurde eine hohe Rate an

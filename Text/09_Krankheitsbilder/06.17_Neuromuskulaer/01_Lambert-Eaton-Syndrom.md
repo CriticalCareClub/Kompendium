@@ -12,4 +12,4 @@ AN
 : - keine Cholinesterasehemmer (verschlechtern!),
   - sondern Kalziumkanalblocker (3,4 Diaminopyridin),
   - wenn möglich keine Muskelrelaxantien!
-    - Wenn doch nötig: Dosisreduktion, mit 10-20% ED95 und kurzwirksamen Muskelrelaxantien beginnen. (TOF!)
+    - Wenn doch nötig: Dosisreduktion, mit 10-20 % ED95 und kurzwirksamen Muskelrelaxantien beginnen. (TOF!)

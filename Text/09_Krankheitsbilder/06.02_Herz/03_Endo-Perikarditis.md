@@ -9,7 +9,7 @@ Duke Kriterien (Major, Minor...BK, Echo?
 TEE: flottierende Vegetationen auf der MK, hochgrad. MI Positive Blutkultur Erreger: Staphylococcus aureus, Streptokokken,
 Seltener: Enterokokken, Sprosspilze,...
 
-AB: Penicillin G (Staph. Aureus, jedoch 80%  in  Österreich bereits resistent!) + Flucloxacilllin
+AB: Penicillin G (Staph. Aureus, jedoch 80 %  in  Österreich bereits resistent!) + Flucloxacilllin
 (Streptokokken) + Gentamicin (synergy. Wirkung, KI CNI)
 Rifampicin bei schweren Staph. Aureus Infektionen als Kombinationspartner von  β-Laktam,
 Chinolon oder Glycopeptid AB!

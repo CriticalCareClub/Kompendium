@@ -80,7 +80,7 @@ Behandlung der Akne
 | **Vitamin A** (Retinoide der 1.  |                                  |
 | Generation):                     |                                  |
 +----------------------------------+----------------------------------+
-| Tretinoin                        | Eudyna®, RetinA 0,05%®,          |
+| Tretinoin                        | Eudyna®, RetinA 0,05 %®,          |
 |                                  | Vesanoid®                        |
 +----------------------------------+----------------------------------+
 | Isotretinoin                     | Roaccutan-Kapseln                |
@@ -118,7 +118,7 @@ Die Therapie der Akne zielt auf eine Verminderung der Talgproduktion, der Propio
 Die Behandlung der Akne kann lokal (topisch\*), äußerlich oder systemisch erfolgen. Vornehmlich erfolgt eine lokale Therapie der Akneerkrankung;
 mit zunehmender Schwere der Akne gewinnt die systemische Behandlung an Bedeutung.
 
-*Äußerlich* angewendet wird z.B. Benzoylperoxid als 3 oder 10%ige Lösung. Es wirkt durch Freisetzung atomaren Sauerstoffs desinfizierend gegen Propionibacterium acnes. Hierdurch kommt es zu einer entzündliche Reaktion der Kutis mit nachfolgender Schuppung (Komedolytisch\*\*?).
+*Äußerlich* angewendet wird z.B. Benzoylperoxid als 3 oder 10 %ige Lösung. Es wirkt durch Freisetzung atomaren Sauerstoffs desinfizierend gegen Propionibacterium acnes. Hierdurch kommt es zu einer entzündliche Reaktion der Kutis mit nachfolgender Schuppung (Komedolytisch\*\*?).
 Nebenwirkungen sind Juckreiz, Brennen der Haut oder Kontaktallergien.
 
 Lokal eingesetzt wird weiters Azelainsäure, das eine Reduktion der Keimzahl im Talgdrüsenfollikel und eine Hemmung der follikulären Hyperkeratose bewirkt. Als Nebenwirkungen sind lokale Reizerscheinungen
@@ -310,8 +310,8 @@ Folgende Vorsichtsmaßnahmen sind daher angezeigt:
    hemmen die Keratinozytenproliferation und wirken dadurch
    antiinflammatorisch. Weiters steigern sie antiinflammatorische
    Zytokine. (*REPHRASE*). Nebenwirkungen sind vor alem
-   gastrointestinale Störungen (bei bis zu 60% der Patienten), Flush
-   (bei bis zu 50% der Patienten) oder Veränderungen des Blutbilds. Bei
+   gastrointestinale Störungen (bei bis zu 60 % der Patienten), Flush
+   (bei bis zu 50 % der Patienten) oder Veränderungen des Blutbilds. Bei
    schweren gastrointestinalen Ulzera oder Leber- und
    Nierenfunktionsstörungen sind Fumarsäureester kontraindiziert.
 3. Biologicals \*\*\* wie Etanercept, Efalizumab, Alefacept, Infliximab:

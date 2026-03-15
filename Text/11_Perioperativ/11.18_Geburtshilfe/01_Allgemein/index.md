@@ -13,22 +13,22 @@ status: draft
 
 Respirationstrakt
 : - SH-Schwellung in Larynx und Nase (kein nasaler Airway!)
-  - Reduz. FRC (Zwerchfellhochstand, erhöhter IAP) um ca. 20%
-  - Belastungsdyspnoe ab ca. 30SSW durch erhöhtes pulmonales Blutvolumen, Nasenschleimhautschwellung, relative Anämie (HK ca. 35%)
-  - Rasch Hypoxie durch red. FRC und erhöhtem Sauerstoffverbrauch (+ ca. 20%)
+  - Reduz. FRC (Zwerchfellhochstand, erhöhter IAP) um ca. 20 %
+  - Belastungsdyspnoe ab ca. 30SSW durch erhöhtes pulmonales Blutvolumen, Nasenschleimhautschwellung, relative Anämie (HK ca. 35 %)
+  - Rasch Hypoxie durch red. FRC und erhöhtem Sauerstoffverbrauch (+ ca. 20 %)
   - paCO₂ liegt in SS um 30!!
 
 Kardiovaskuläres System
-: - erhöhtes Blutvolumen mit erhöhter Druck-und Volumenbelastung (va. Plasma, relative Anämie) + 35% BV, + 40% HMV, + 10% HF, erhöhter Sympathikotonus; Erhöhte Inzidenz einer SAB!
-  - Herz ist nach vorne links verlagert, 27%  geringe MI!
+: - erhöhtes Blutvolumen mit erhöhter Druck-und Volumenbelastung (va. Plasma, relative Anämie) + 35 % BV, + 40 % HMV, + 10 % HF, erhöhter Sympathikotonus; Erhöhte Inzidenz einer SAB!
+  - Herz ist nach vorne links verlagert, 27 %  geringe MI!
     EKG: long QR mit erhöhtem postpartalem Risiko, ÜLT, ST-Senkungen im dritten Trimenon ohne Bedeutung
   - Diastolischer Blutdruck fällt in der Mitte der SS
     (Progesteron senkt PVR)
   - Gefahr Veno-aortales Kompressionssyndrom ab der 20SSW!
-  - Cardial Output sinkt unmittelbar nach der Geburt auf 75% und erholt sich innerhalb von 24 h
+  - Cardial Output sinkt unmittelbar nach der Geburt auf 75 % und erholt sich innerhalb von 24 h
 
 ZNS
-: - Empfindlichkeit auf LA ca. -35% und Inhalationsanästhetika ist erhöht -40% MAC!
+: - Empfindlichkeit auf LA ca. -35 % und Inhalationsanästhetika ist erhöht -40 % MAC!
     (Progesteron wirkt sedierend, Endorphine erhöht, Liquorveränderung?)
   - Epidural und Spinalraum verkleinert!
   - Intraduraler Druck während der Wehe 3 x so hoch! (von 28 auf 70 mmHg)
@@ -38,18 +38,18 @@ Gastrointestinaltrakt
   - Magenverlagerung nach rechts,  Ösophagus Hochdruckzone in thorak. Raum = Reflux bei erhöhtem IAP va. Im 3 Trimester.
   - Erhöhte Magensaftproduktion und verzögerte Magenentleerung durch Gastrinproduktion in der Plazenta, hält ca. 18h postpartal! (begünst. Durch Opioidgabe iv. oder spinal)
   - Übelkeit und Erbrechen va. Im 1 Trimester
-  - Transaminasenanstieg bis 20%, erhöhte alkalische Phosphatase, da sie in der Plazenta gebildet wird
+  - Transaminasenanstieg bis 20 %, erhöhte alkalische Phosphatase, da sie in der Plazenta gebildet wird
   - Insulinresistenz (steigende Inzidenz eines Gestationsdiabetes)
 
 Niere
-: - Ab 16 SSW steigt RBF um ca. 80%, damit die GFR und Clearance um ca. 60%
-  - Kreatinin ab 16 SSW sinkt um 35—60%!
+: - Ab 16 SSW steigt RBF um ca. 80 %, damit die GFR und Clearance um ca. 60 %
+  - Kreatinin ab 16 SSW sinkt um 35—60 %!
     Ein normales Krea ist pathologisch!
   - Vermehrt Wasser und Natriumretention (vermehrt. Tubuläre Na-Rückresorption)
   - Erhöhtes Renin, Aldosteron, Erythropoetin
 
 Gerinnung
-: - Schwangerschaftsthrombozytopenie (- 10 bis 20%)
+: - Schwangerschaftsthrombozytopenie (- 10 bis 20 %)
   - Hyperkoagulatorischer Zustand im ROTEM mit vermehrt V, VII, VIII, IX, X, XII
   - Eine Antikoagulation muss bei TVT, mechanischer Herzklappe und dilatativer CMP mit Heparin und Fondaparinux erfolgen (nicht plazentagängig)
 

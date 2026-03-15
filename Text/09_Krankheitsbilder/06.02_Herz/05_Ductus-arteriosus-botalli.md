@@ -25,7 +25,7 @@
 :::
 
 =
-: Verbindung von der *Aorta* zur *A. Pulmonalis* im *fetalen* Kreislauf; 10% aller kongenitalen Vitien;
+: Verbindung von der *Aorta* zur *A. Pulmonalis* im *fetalen* Kreislauf; 10 % aller kongenitalen Vitien;
 
 Folge
 : Hypertrophie des rechten VH und Ventrikel mit Zyanose durch rechts-links-Shunt

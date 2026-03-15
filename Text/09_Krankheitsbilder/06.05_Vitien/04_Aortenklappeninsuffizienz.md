@@ -30,7 +30,7 @@ Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
 
 Präanästhesie
 : - Schwere asymptomatische AKI mit erhaltener EF: elektive Eingriffe sind möglich
-  - Symptomatische AKI oder asymptomatische mit EF \< 30%: keine Elektiveingriffe
+  - Symptomatische AKI oder asymptomatische mit EF \< 30 %: keine Elektiveingriffe
 
 Anästhesie:
   - HF hoch halten

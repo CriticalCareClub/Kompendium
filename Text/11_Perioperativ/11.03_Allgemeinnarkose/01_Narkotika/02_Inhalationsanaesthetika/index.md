@@ -64,7 +64,7 @@ Second Gas Effekt
 
 MAC
 :   minimale alveoläre Konzentration
-    = Konzentration, bei der 50%  der Patienten keine Reaktion auf einen chirurgischen Hautschnitt zeigten.
+    = Konzentration, bei der 50 %  der Patienten keine Reaktion auf einen chirurgischen Hautschnitt zeigten.
     Summation bei Kombination mit Lachgas! (0,75 Lachgas +0,75 Sevo = 1,5 effektiver MAC)
 
     -   Erhöhung bei: Hyperthermie, Säuglingen, Hypernatriämie, Alkoholikern, Drogensüchtigen, MAOH

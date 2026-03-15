@@ -13,7 +13,7 @@ status: draft
 
 - Keine Prämedikamentation, da durch Hypoventilation es zu einem paCO₂-Anstieg mit einem ICP-Anstieg kommt.
 - Tubus gut fixieren!
-- Großlumige Zugänge! (PTZ > 70%, Thrombos\> 100000)
+- Großlumige Zugänge! (PTZ > 70 %, Thrombos\> 100000)
 - Kontrollierte Hyperventilation
 - Restriktive Volumengabe, Mannitol bei Bedarf (=  hyperton zur  Ödemtherapie, Hirndrucksenk.)
 - Bei Tumorkraniotomie ev. 20 mg Dexamethason und Mannitol vor Duraeröffnung.
@@ -154,15 +154,15 @@ AF ↑ → CBF↓
 - - Lösung
   - Osmolarität
   - Inhalt, Anmerkungen
-- - Mannit 20%
+- - Mannit 20 %
 
   - 1100 mosm / L
 
   -
-- - HyperHaes 6% in NaCl 7,2%
+- - HyperHaes 6 % in NaCl 7,2 %
   - 2464 mosm / L
   - Onkotischer Durck: ca. 35 mm Hg
-- - NaCl 7,5%
+- - NaCl 7,5 %
 
   - 2570 mosm / L
 
@@ -177,7 +177,7 @@ AF ↑ → CBF↓
 
 ICP-Reduktion mit Mannit
 
-: Bolus (0,25—0,5 g / kg) Mannit 20%,
+: Bolus (0,25—0,5 g / kg) Mannit 20 %,
   Wirkungseintritt innerhalb von 10 min,
   Maximum nach ca. 60 min,
   Wirkung kann bis zu 4 h anhalten

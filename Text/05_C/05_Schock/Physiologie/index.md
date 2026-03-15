@@ -61,7 +61,7 @@ $$
   - $\color{blue}1,34$: Hüfner'sche Zahl.
     Sie gibt an, wieviel Milliliter Sauerstoff als Absolutwert pro Gramm Hämoglobin gebunden und transportiert werden kann[^huefnerschezahl].
 
-[^physgelo2]: Aufmerksamen Lesern wird aufgefallen sein, dass ${\color{blue}\rm{Hb} \times 1,34 \times \rm{SaO}_2}$ nur den über Hämoglobin gebundenen, aber nicht den physikalisch gelösten Sauerstoff berücksichtigt. Letzterer macht einen verschwinden geringen Anteil am Sauerstoffgehalt (CaO₂, \< 2%) aus und wird daher in der Praxis vernachlässigt.
+[^physgelo2]: Aufmerksamen Lesern wird aufgefallen sein, dass ${\color{blue}\rm{Hb} \times 1,34 \times \rm{SaO}_2}$ nur den über Hämoglobin gebundenen, aber nicht den physikalisch gelösten Sauerstoff berücksichtigt. Letzterer macht einen verschwinden geringen Anteil am Sauerstoffgehalt (CaO₂, \< 2 %) aus und wird daher in der Praxis vernachlässigt.
 
     Wer es genau wissen will (paO₂ in mm Hg, Löslichkeitskoeffizient 0,0031):
 
@@ -164,7 +164,7 @@ Dies ist hinsichtlich dem Phänomen der *Zentralisation* ein wesentlicher Faktor
 % Dies ist in der klinischen Routine bei Intensivpatienten mit den ohnehin vorhandenen Invasivitäten (ZVK, arterieller Zugang) oft problemlos und ohne großen Aufwand möglich
 % Da man hierbei nur die *relative* Sauerstoffausschöpfung beurteit, kann man die *kardiale Komponente* als mögliche Ursache einer pathologischen Sauerstoffausschöpfung *nicht beurteilen*.
 %
-% Der Normalbereich der ScvO₂ liegt bei 70-75%
+% Der Normalbereich der ScvO₂ liegt bei 70-75 %
 %
 % Es stellt sich nun die Frage:
 % *"Ist eine höhere zentralvenöse Sauerstoffausschöpfung gut oder schlecht?"*

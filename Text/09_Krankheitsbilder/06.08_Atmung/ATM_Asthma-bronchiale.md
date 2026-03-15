@@ -268,7 +268,7 @@ Der Status asthmaticus kann tödlich enden.
     Patienten stellt die O₂-Gabe in der Praxis
     jedoch kein Problem dar .
 
-    O₂ bis eine Sauerstoffsättigung von 94—98% erreicht ist, oder 8 L / min.
+    O₂ bis eine Sauerstoffsättigung von 94—98 % erreicht ist, oder 8 L / min.
     Die einschlägige Literatur ist widersprüchlich.
     Besonderes betont muss die Notwendigkeit zur Überwachung des Patienten
     bezüglich Bewusstseinsstörungen und Atmung werden!

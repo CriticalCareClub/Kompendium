@@ -43,7 +43,7 @@ Ein Acinus besteht aus ungefähr *200 Alveolen*. Mehrere Acini bilden *Lungenlä
 Durch ihre Trennung durch Bindegewebe können diese Läppchen auch makroskopisch als polygonale Areale an der Lungenoberfläche gesehen werden.
 Insgesamt enthält die Lunge ca. 300 Millionen Alveolen mit einer Gesamtoberfläche von ca. *140 m²*.
 Die Lungenzellen, die die Alveolen auskleiden, werden in zwei Gruppen unerteilt.
-Der *Pneumozyt Typ I* bildet ca. 95% der Oberfläche der Alveolen und ist für den Gasaustausch verantwortlich. Außen liegen die Kapillaren an.
+Der *Pneumozyt Typ I* bildet ca. 95 % der Oberfläche der Alveolen und ist für den Gasaustausch verantwortlich. Außen liegen die Kapillaren an.
 Der *Pneumozyt Typ II* ist zuständig für die Bildung von *Surfactant*.
 Das Surfactant mindert die Oberflächenspannung der Alveolen und sorgt dafür, dass sie insbesondere bei der Ausatmung nicht kollabieren.
 

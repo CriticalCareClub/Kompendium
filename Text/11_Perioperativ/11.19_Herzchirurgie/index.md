@@ -43,11 +43,11 @@ septische CMP bei Kindern, Allograft Dysfunktion nach HTX, ...
 ### 44.3.1 IABP
 
 
-Indiziert bei Weaning nach der HLM (34%!), Myokardinfarkt (14%), präoperativer Support,
+Indiziert bei Weaning nach der HLM (34 %!), Myokardinfarkt (14 %), präoperativer Support,
 refraktäres Herzversagen = myokardialen Ischämien und globaler Hypokontraktilität mit low cardiac output.
 Inflation  von Helium am Beginn der Diastole (Ende der T-Welle) = hebt Nachlast = erhöhter koronarer Blutfluss (Inzisur am Beginn der Diastole in der Druckkurve) und erhöhter Linksventrikulärer Druck in der Diastole durch den Blutrückstrom Deflation R-Zacken getriggert mit Beginn der Systole = senkt Nachlast = steigert Left ventrik stroke work, senkt myokardialen O₂-Verbrauch, Systolischer Aortendruck ist erniedrigt (Ausgleich durch erhöhten diastolischen Aortendruck), erhöhter CO.
 Physiologische Effekte: distolischer Aortendruck steigt, koronarer Blutfluss steigt, kardiale Nachlast sinkt, systemischer Aortendruck sinkt (Paradoxon), cardial Output steigt, renaler Blutfluss steigt.
-Komplikationen (schwere Komplikationen bei ca. 2,8%):
+Komplikationen (schwere Komplikationen bei ca. 2,8 %):
 Extremitätenischämie bei zu tiefer Lage, Kompartmentsyndrom, Infektionen, Ballonfehllage/leak führt zu einer Störung der intestinalen Perfusion mit Gefahr der Darmischämie, Aortendissektion,
 Thrombopenie, Thromboembolie, Blutung an der Einstichstelle.
 Helium warum? Inertes Gas, reagiert mit keiner anderen Substanz,
@@ -139,7 +139,7 @@ Arrhythmien,
 Pericardtamponade,
 Kreislaufstillstand mit CPR.
 - CRT-Implantation/Upgrade:
-indiziert nach Ausschöpfung der klassischen Herzinsuffizienztherapie, bei EF \< 30%, LSB. = Synchronisierung der Herzkammern durch eine Sonde im Sinus Coronarius (linksventrikuläre Elektrode) und rechtsventrikuläre Elektrode.
+indiziert nach Ausschöpfung der klassischen Herzinsuffizienztherapie, bei EF \< 30 %, LSB. = Synchronisierung der Herzkammern durch eine Sonde im Sinus Coronarius (linksventrikuläre Elektrode) und rechtsventrikuläre Elektrode.
 - PM-Implantation
 - Coronalangiographie mit Ballondilatation/Stenting
 
@@ -168,7 +168,7 @@ Intensivbett im Hintergrund, TEE bei TAVI und Mithraclipping, Antibiotikagabe be
 Embolien!)
 - Nicht traumatisch: Dissektion, Intimariss, penetrierendes Ulcus,
 intramurales Hämatom
-- Traumatisch: Aortenruptur (90% Isthmus), Dissektion
+- Traumatisch: Aortenruptur (90 % Isthmus), Dissektion
 
 Akute Klinik:
 - Thoraxschmerz plötzlich

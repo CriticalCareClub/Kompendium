@@ -84,7 +84,7 @@ potentiell hoher Blutverlust durch entzündliche Hyperämie, bei Pankreasschwanz
 
 High risk bei Tumoren (SKBL, HCC), Hämangiomen, Cysten, Leberruptur (traumatisch),
 Leberzirrhose.
-Beim Gesunden kann 70%
+Beim Gesunden kann 70 %
 der Leber Reserziert werden ohne Funktionseinschränkung! Blutung führt va. bei Lebervorschaden und Minderperfusion zu ALV.
 
 Beim Ausklemmen der Leber sinkt das preload = vermindertes HZV, bei Reperfusion Hypotonie!!

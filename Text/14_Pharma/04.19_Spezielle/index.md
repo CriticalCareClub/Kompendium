@@ -288,7 +288,7 @@ Pharmakotherapie bei Kindern
 Säuglinge benötigen also gewichtsbezogen eine höhere Dosis Paracetamol“
 (VfA)
 
-Dieses einfache Beispiel zeigt, dass die Anwendung von Arzneimitteln bei Kindern aufgrund Besonderheiten des kindlichen Organismus spezielle Vorsicht erfordert. Kinder leiden zwar an denselben Krankheiten wie Erwachsene, jedoch nur selten werden Arzneimittel auch umfassend vor ihrer Zulassung an Kindern geprüft. In den meisten Gebrauchsinformationen wird das Kindesalter als Kontraindikation oder unter Warnhinweisen angegeben. Nur etwa 20% der auf dem Markt befindlichen Arzneimittel sind ausreichend für Kinder und Jugendliche geprüft und für diese Patientengruppe zugelassen. Die arzneimittelrechtlich nicht zugelassene Pharmakotherapie ist daher in der Kinderheilkunde der Regelfall. Die Ursachen hierfür sind vielfältig:
+Dieses einfache Beispiel zeigt, dass die Anwendung von Arzneimitteln bei Kindern aufgrund Besonderheiten des kindlichen Organismus spezielle Vorsicht erfordert. Kinder leiden zwar an denselben Krankheiten wie Erwachsene, jedoch nur selten werden Arzneimittel auch umfassend vor ihrer Zulassung an Kindern geprüft. In den meisten Gebrauchsinformationen wird das Kindesalter als Kontraindikation oder unter Warnhinweisen angegeben. Nur etwa 20 % der auf dem Markt befindlichen Arzneimittel sind ausreichend für Kinder und Jugendliche geprüft und für diese Patientengruppe zugelassen. Die arzneimittelrechtlich nicht zugelassene Pharmakotherapie ist daher in der Kinderheilkunde der Regelfall. Die Ursachen hierfür sind vielfältig:
 seltene Erkrankungen der Kinder und daher fehlende Fallzahlen für aussagekräftige Studien; Studien an Kindern, unterschiedlichen Alters sind deutlich aufwendiger als an Erwachsenen – eigene Studien für unterschiedliche Altersgruppen sind notwendig; fehlende qualifizierte Prüfärzte etc.
 
 Häufig werden Arzneimittel „off-label“, also außerhalb des Zulassungsrahmens oder „unlicensed“ und unter Verantwortung des verordnenden Arztes an Kinder verabreicht, offizielle Dosierungsempfehlungen bestehen in diesen Fällen nicht. Dadurch steigt das Risiko unerwünschter Nebenwirkungen. International wird an der Beseitigung dieser Umstände gearbeitet, doch bis offizielle Therapieempfehlungen für einen Großteil der Arzneimittel auch für Kinder bestehen, liegt es im Bereich der Ärzte und Therapeuten, eine sichere Arzneimittelanwendung im Hinblick auf den wachsenden Organismus zu gewährleisten.
@@ -323,15 +323,15 @@ An Neugeborene \< 4 Wochen sollen daher z.B. keine oralen Antibiotika verabreich
   2 Schichten: eine höhere Resorption durch die Haut ist daraus
   ableitbar (Nachreifung innerhalb der ersten 3 Wochen).
 - Verteilung: höheres Gesamtkörperwasser und ein höherer Anteil des
-  Extrazellulärvolumens (Neugeborenen ca. 40%, Erwachsen 15 – 20%) bei
+  Extrazellulärvolumens (Neugeborenen ca. 40 %, Erwachsen 15 – 20 %) bei
   kleinen Kindern: Substanzen, die sich daher stärker in diesem Bereich
   verteilen, müssen bei Kindern höher dosiert werden. Substanzen, die
   sich eher im Fettgewebe anreichern, daher niedriger.
 
-Zunahme des Fettanteils von ca. 2% bei Frühgeborenen auf ca. 25 – 40%
+Zunahme des Fettanteils von ca. 2 % bei Frühgeborenen auf ca. 25 – 40 %
 bei Zweijährigen, danach erfolgt jedoch wieder eine Abnahme.
 
-Große Schwankungen im Wasserhaushalt bei Säuglingen: Überwässerung oder Exsikkose können bei Verschiebungen des extrazellulären Flüssigkeitsvolumens bis zu 20% ohne sichtbare äußere Veränderungen bleiben.
+Große Schwankungen im Wasserhaushalt bei Säuglingen: Überwässerung oder Exsikkose können bei Verschiebungen des extrazellulären Flüssigkeitsvolumens bis zu 20 % ohne sichtbare äußere Veränderungen bleiben.
 
 - Plasmaeiweißbindung (PEB): Reduzierte PEB bei Kleinstkindern, dh.
   Arzneistoffe mit ansich hoher Plasmaeiweißbindung müssen niedriger

@@ -222,7 +222,7 @@ Therapie: Verbesserung der Gewebeperfusion (kausale Therapie),
 Absetzen der Noxe;
 - Bikarbonatgabe? Hämodialyse?
 
-50% der Säure/Basen-Störungen im KH sind metabolische Alkalosen!
+50 % der Säure/Basen-Störungen im KH sind metabolische Alkalosen!
 
 Ursachen von metabolischen Alkalosen:
 1. Verlust von Säure (enteral)

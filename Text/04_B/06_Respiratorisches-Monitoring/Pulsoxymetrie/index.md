@@ -66,7 +66,7 @@ Zur Messung der Sauerstoffsättigung mit dem Prinzip der Pulsoxymetrie gibt es v
 
 Bilderserie: Pulsoxymeter
 
-![Handpulsoxymeter: Sauerstoffsättigung 96%, Pulsfrequenz 89 / min \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779-00943pt.jpg)
+![Handpulsoxymeter: Sauerstoffsättigung 96 %, Pulsfrequenz 89 / min \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779-00943pt.jpg)
 
 ![Ein Finger-Pulsoxymeter; \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000457-01341px.jpg)
 :::
@@ -90,19 +90,19 @@ Pulsoxymetrie: Eine ausreichende Blutversorgung der Körperstelle, an der der Se
 ## Beurteilung
 
 :::{margin} Beurteilung
-- Normalwert: 96—100%
+- Normalwert: 96—100 %
 - chronisch lungenkranke Patient:
-  auch Werte \< 90% möglich ohne Beschwerden
+  auch Werte \< 90 % möglich ohne Beschwerden
 - Bedenke: FiO₂
 - SpO₂ reagiert spät!
 :::
 
 Die Sauerstoffsättigung wird in Prozent angegeben und wird mit {dfn}`SpO₂` abgekürzt.
-Der Normalwert liegt zwischen *96—100%*.
-Bei Patienten mit chronischer Lungenerkrankung (COPD!) findet man jedoch oft *chronisch* niedrige Werte (z. B. 90%), welche keine therapeutische Konsequenz haben.
+Der Normalwert liegt zwischen *96—100 %*.
+Bei Patienten mit chronischer Lungenerkrankung (COPD!) findet man jedoch oft *chronisch* niedrige Werte (z. B. 90 %), welche keine therapeutische Konsequenz haben.
 
 Bei der Beurteilung muss ausserdem die FiO₂ bedacht werden.
-Eine Sauerstoffsättigung von 95% bei einem Patienten ohne zusätzliche Sauerstoffgabe ist nicht beunruhigend, wohingegen derselbe Wert bei einer *Sauerstoffgabe* von 15 L / min ein Hinweis auf eine schwere Störung der Atmung darstellt.
+Eine Sauerstoffsättigung von 95 % bei einem Patienten ohne zusätzliche Sauerstoffgabe ist nicht beunruhigend, wohingegen derselbe Wert bei einer *Sauerstoffgabe* von 15 L / min ein Hinweis auf eine schwere Störung der Atmung darstellt.
 
 Es ist wichtig zu wissen dass sich die SpO₂ bei Vorliegen einer Atemstörung erst **spät absinkt**, d. h. wenn die Plateau-Phase der pO₂ in auf der Sauerstoffbindungskurve verlassen wurde.
 

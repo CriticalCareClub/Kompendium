@@ -9,12 +9,12 @@
 - Material muss steril bleiben!
 :::
 
-Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden, damit es beim Öffnen nicht verunreinigt wird. 
-Gängiges Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt sich von der Unterseite ablösen. 
+Die Verpackung von sterilem Material muss *fachkundig* geöffnet werden, damit es beim Öffnen nicht verunreinigt wird.
+Gängiges Verpackungsmaterial lässt sich *aufschälen*, d. h. die Oberseite lässt sich von der Unterseite ablösen.
 Dabei darf das Material nicht kontaminiert werden.
 
 Manche vorgefertigten Sets (z. B. für diverse chirurgische Eingriffe)
-werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in mehrere Lagen von Spezialpapier eingewickelt. 
+werden nicht in foliierten Verpackungen ausgeliefert, sondern sind in mehrere Lagen von Spezialpapier eingewickelt.
 Das Spezialpapier darf nur an der Außenseite angefasst werden und wird auf einer Fläche ausgebreitet, sodass das darin eingewickelte *Material steril bleibt*.
 
 ## Selbstschutz
@@ -35,7 +35,7 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
   Patientenkontakt u. ä. zu tragen! Auch beim Hantieren mit infektiösen
   oder schädigenden Substanzen (darunter fallen auch
   Flächendesinfektionsmittel!) sind Handschuhe zu verwenden.
-  Untersuchungshandschuhe bieten keinen 100%igen Schutz, bei
+  Untersuchungshandschuhe bieten keinen 100 %igen Schutz, bei
   Risikosituationen empfiehlt sich die Verwendung von mind.
   *zwei Paar* gleichzeitig.
   Die Handschuhe müssen nach jedem Patienten gewechselt
@@ -70,20 +70,20 @@ Im folgenden seien – zum Teil als Wiederholung – die wichtigsten Maßnahmen 
   - Max. Gesamtleckage
   - Anwendung (Beispiele)
 - - Mund-Nasen-Maske
-  - 95%
+  - 95 %
   - k.A.
   - Basisschutz; MRSA, …
 - - FFP 1
-  - 80%
-  - 22%
+  - 80 %
+  - 22 %
   -
 - - FFP 2
-  - 94%
-  - 8%
+  - 94 %
+  - 8 %
   - Influenza, SARS-CoV-2
 - - FFP 3
-  - 99%
-  - 2%
+  - 99 %
+  - 2 %
   - SARS,
     offene Tuberkulose,
     SARS-CoV-2 bei Situationen mit erhöhter Aerosolbildung (Intubation etc.)

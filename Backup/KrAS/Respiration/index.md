@@ -13,7 +13,7 @@ paO₂ = FiO₂ jx 5 mm Hg
 
 FiO₂: 20 + 4 x Flussrate
 
-(z. B. 20 + 4 x 3 = 32%)
+(z. B. 20 + 4 x 3 = 32 %)
 
 ## Airway-Risiko
 

@@ -113,10 +113,10 @@ CO-Kohlenmonoxyd (Gastherme, Grillen in Garage, Autoabgase)
 
 Klinik: Müdigkeit, Brechreiz, Kopfschmerz, Benommenheit, Somnolenz, Koma, Krämpfe, Hypotension, MCI, ARDS, Basalganglienschädigung, Azidose. Chron.
 Schädigung Schwerhörigkeit.
-CO-Hb 20% kardiotoxisch, 40% Koma, > 50% Atemlähmung.
+CO-Hb 20 % kardiotoxisch, 40 % Koma, > 50 % Atemlähmung.
 
 
-Therapie: Sauerstoff!!! PEEP! HBO (Hyperbare Oxygenierung ab 30% in Grazer Druckkammer)
+Therapie: Sauerstoff!!! PEEP! HBO (Hyperbare Oxygenierung ab 30 % in Grazer Druckkammer)
 
 CO₂-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhere Dichte als Luft)
 = Ersticken im Gärgas-See, Atemdepression durch Hyperkapnie, Tachykardie, Hypertonie Therapie: Sauerstoff!!
@@ -125,7 +125,7 @@ CO₂-Kohlendioxyd = Gärgas (Futtersilo, Weinkeller mit Gärgas-See durch höhe
 
 
 
-Rauchgasvergiftung (Stickstoff, CO₂, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ) Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100% FiO₂ Beatmung
+Rauchgasvergiftung (Stickstoff, CO₂, CO, Schwefeldioxyd, Zyanide, Phosgen, Asche, Russ) Klinik: Husten, Atemnot Therapie: Antidot Cyanokit gegen Zyanide (va. bei viel Kunststoffverbrennung), Kortison inhalativ, antiobstruktive Therapie (Berodual), großzügige frühzeitige Intubation mit 100 % FiO₂ Beatmung
 
 Giftgase: Lungen-, Blut-, Haut-, Psychokampfstoffe im Krieg.
 

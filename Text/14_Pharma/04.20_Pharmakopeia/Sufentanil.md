@@ -22,8 +22,8 @@ status: final
          durch die hohe Lipophilie kommt es zu einer raschen ZNS-Penetration.
 
          Der *Abbau* erfolgt durch Dealkylierung und O-Methylierung in
-         der *Leber* zu Desmethyl-Sufentanil (10% Aktivität),
-         5--10% werden unverändert renal ausgeschieden. //
+         der *Leber* zu Desmethyl-Sufentanil (10 % Aktivität),
+         5--10 % werden unverändert renal ausgeschieden. //
 
          Die *Ausscheidung*
          ...

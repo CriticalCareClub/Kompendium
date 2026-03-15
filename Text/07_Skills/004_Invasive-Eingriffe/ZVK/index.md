@@ -116,7 +116,7 @@ Kontraindikationen für einen zentralen Venenzugang sind immer relativ und häng
 
 ## Komplikationen
 
-Die Gesamtkomplikationsrate bei der Platzierung zentraler Venenkatheter liegt bei etwa 15% [{term}`🗎 McGee 2003`, {term}`🗎 Sznajder 1986`].
+Die Gesamtkomplikationsrate bei der Platzierung zentraler Venenkatheter liegt bei etwa 15 % [{term}`🗎 McGee 2003`, {term}`🗎 Sznajder 1986`].
 Zu den typischen Komplikationen bei der Platzierung gehören Arterienpunktion, Katheterfehlstellung, Hämato- und Pneumothorax, ventrikuläre Arrhythmien, subkutanes Hämatom.
 Die Ultraschall-gezielte Punktion kann die Komplikationsrate erheblich senken.
 

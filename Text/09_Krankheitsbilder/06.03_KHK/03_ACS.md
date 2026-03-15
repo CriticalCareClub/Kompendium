@@ -252,7 +252,7 @@ Bedenke **atypische Präsentationen**:
   - Oft minimale ST-Hebungen inferior/lateral
 
 :::{attention}
-50% der Erst-EKGs sind nicht diagnostisch, eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
+50 % der Erst-EKGs sind nicht diagnostisch, eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
 :::
 
 Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:
@@ -409,7 +409,7 @@ Daraus ergeben sich folgende logistische Empfehlungen
     Bewegungensverbot,
     Schonung
   - Sauerstoff:
-    Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ \< 90%
+    Sauerstoff ist indiziert bei **hypoxämischen** Patienten (SaO₂ \< 90 %
     oder paO₂ \< 60 mm Hg).
     Bei nicht-hypoxämischen Patienten ist Sauerstoff **nicht empfohlen**!
   - Patienten mit einem akuten Koronarsyndrom sind grundsätzlich
@@ -613,7 +613,7 @@ Wenn die Fibrinolyse angewendet werden soll, dann sollte diese bei einem
   - Erfolgreiche Lyse:
     PCI zwischen 2—24 h nach Lyse
   - *Rescue-PCI* bei *Lyse-Versager*
-    wenn nach *60—90 min* keine 50% Rückbildung der ST-Strecken erfolgt ist
+    wenn nach *60—90 min* keine 50 % Rückbildung der ST-Strecken erfolgt ist
   - *Notfalls-PCI* bei Patienten mit kardiogenem Schock
 
 % .. _Tafel-ThrombolyseBegleittherapie:

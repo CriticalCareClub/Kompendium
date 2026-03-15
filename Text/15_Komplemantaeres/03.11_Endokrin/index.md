@@ -219,7 +219,7 @@ Trotz ihrer Nähe zur Niere haben die Nebennieren keine Verbindung zum Harntrakt
 Die Nebenniere ist gegliedert in:
 
 - **Nebennierenrinde**:
-  80%, produziert *Steroidhormone*.
+  80 %, produziert *Steroidhormone*.
   Von außen nach innen:
 
   - Zona *glomerulosa*: **Mineralokortikoide** (*Aldosteron*) → beeinflusst
@@ -233,11 +233,11 @@ Die Nebenniere ist gegliedert in:
     Rhythmus.
   - Zona *reticularis*: Androgene und Östrogene
 
-- **Nebennierenmark**: 20%,
+- **Nebennierenmark**: 20 %,
   **Verbindungsstelle** von
   **vegetativem Nervensystem** und **Hormonsystem**:
-  Produktion von **Adrenalin** (80%) und
-  **Noradrenalin** (20%), vgl. {ref}`Adrenorezeptoren`.
+  Produktion von **Adrenalin** (80 %) und
+  **Noradrenalin** (20 %), vgl. {ref}`Adrenorezeptoren`.
 
 (pankreas-endokrin)=
 

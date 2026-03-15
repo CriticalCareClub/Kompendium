@@ -27,13 +27,13 @@ Hämolytische Transfusionsreaktion vom *Soforttyp*
 Nichthämolytische, febrile Transfusionsreaktion
 
 : durch leukozytäre Antikörper,
-  bei Leukoztendepletierten Produkten selten (\< 0,1%). \[Wilhelm:2\]
+  bei Leukoztendepletierten Produkten selten (\< 0,1 %). \[Wilhelm:2\]
 
   Rx: Fiebersenkung
 
 Anaphylaktische Reaktion
 
-: 0,5%.
+: 0,5 %.
   Urtikaria, Hautrötung,
   seltener Bronchospasmus, Schock.
 
@@ -47,7 +47,7 @@ Transfusionsassoziierte akute Lungenschädigung (*TRALI*)
 : Ursache sind leukozytenreaktive Antikörper im Spenderplasma,
   Störung der pulmonalen Mikrozirkulation,
   Lungenödem, ARDS.
-  Letalität 10—25%, häufigste Todesursache nach Transfusion mit Blutprodukten. [^cite_wilhelm:2]
+  Letalität 10—25 %, häufigste Todesursache nach Transfusion mit Blutprodukten. [^cite_wilhelm:2]
 
 ```{index} single: Citrat
 ```

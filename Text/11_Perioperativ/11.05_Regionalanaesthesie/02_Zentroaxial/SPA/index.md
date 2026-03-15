@@ -137,7 +137,7 @@ Zur Verlängerung der Wirkdauer können auch Zusätze (wie z.B. Fentanyl) verabr
 
 Typische Präparate sind:
 
-- Bupivacain 0,5% isobar oder hyperbar (Carbostesin™):
+- Bupivacain 0,5 % isobar oder hyperbar (Carbostesin™):
 
   2-4 mL: Wirkbeginn 5–8 min, Fixierungszeit 15–30 min, Wirkdauer 240–480 min
 - Zusätze:
@@ -160,8 +160,8 @@ Bei Schwangeren kommt es aufgrund des erhöhten intraabdominalen Druck zu einer 
   Tupfer, Pflaster
 - Introducer
 - Spinalnadel
-- Lokalanästhetikum für Oberflächenanästhesie (z.B. Lidocain purum 2%)
-- Regionalanästhetikum (z.B. Carbostesin 0,5% isobar)
+- Lokalanästhetikum für Oberflächenanästhesie (z.B. Lidocain purum 2 %)
+- Regionalanästhetikum (z.B. Carbostesin 0,5 % isobar)
 :::
 
 1.  Patient *aufsetzen* (alternativ ist auch Seitenlagerung möglich)
@@ -170,7 +170,7 @@ Bei Schwangeren kommt es aufgrund des erhöhten intraabdominalen Druck zu einer 
 3.  Strukturen ertasten, Wirbelsäulenverlauf einschätzen, Punktionsstelle aussuchen
 4.  *Steriles Waschen*
 5.  Sterile *Abdeckung* unter Einbeziehung der Beckenschaufeln
-6.  *Oberflächliche Betäubung*: Z.B. Lidocain purum 2% 2,5 mL über geplanter Einstichstelle (somit hat man noch 2,5 mL über sollte man die Etage wechseln müssen.)
+6.  *Oberflächliche Betäubung*: Z.B. Lidocain purum 2 % 2,5 mL über geplanter Einstichstelle (somit hat man noch 2,5 mL über sollte man die Etage wechseln müssen.)
 7.  Steriles Einkleiden
 8.  *Regionalanästhetikum* exakt und luftblasenfrei aufziehen
 9.  **Introducer** einführen

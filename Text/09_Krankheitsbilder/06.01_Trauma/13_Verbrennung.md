@@ -53,13 +53,13 @@ Abhängig von den Umständen muss auch an ein *Inhalationstrauma* ({ref}`inhalat
 :::
 
 In den verbrannten Arealen *verliert die Haut ihre Schutzfunktion*; es besteht die Gefahr von *Verdunstung*, *Unterkühlung* und *Infektionen*.
-Ab ca. 20–30% verbrannter Körperoberfläche kann sich eine **Verbrennungskrankheit** {index}` <! Verbrennungskrankheit>` entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
+Ab ca. 20–30 % verbrannter Körperoberfläche kann sich eine **Verbrennungskrankheit** {index}` <! Verbrennungskrankheit>` entwickeln. Dabei kommt es zu einer körperweiten *Entzündungsreaktion*.
 Besonders dramatisch ist die dadurch entstehende erhöhte Durchlässigkeit der Blutgefäße: Dadurch tritt Plasmaflüssigkeit in das Gewebe über und es bilden sich Ödeme. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bei großflächigen Verbrennungen *Schockgefahr* (hypovolämischer Schock)! Der Schock entwickelt sich allerdings erst allmählich.
 
 Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich das Gewebe zusammenziehen und die Dehnbarkeit des Brustkorbes abnehmen; dadurch wird die Atmung stark behindert. *Unterkühlung* bedeutet erhöhte *Sterblichkeit*. [^footnote-3]
 
 [^footnote-3]: (Lönnecker and Schoder 2001) spricht bei Verbrennungspatienten von
-    einer über 40%ig erhöhten Chance zu versterben wenn die
+    einer über 40 %ig erhöhten Chance zu versterben wenn die
     Körpertemperatur um 1 Grad abnimmt. Eine Unterkühlung tritt vor allem
     bei narkotisierten Patienten leicht ein.
 
@@ -80,7 +80,7 @@ Bei *ringförmige Verbrennungen*, die um den Brustkorb herumlaufen, kann sich da
 
 Das Verbrennungsausmaß, also die Größe des geschädigten Bereichs, wird in Prozent der verbrannten Körperoberfläche angegeben. Diese kann entweder mit der *Handregel* oder mittels der *Neunerregel* geschätzt werden. Die **Handregel** {index}` <Handregel>` besagt, dass die Handfläche (ohne Finger!) des Patienten zirka einem Prozent seiner Körperoberfläche entspricht.
 
-Bei großflächigen Verbrennungen wird die **Neunerregel** {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9%-Teile eingeteilt um das Ausmaß
+Bei großflächigen Verbrennungen wird die **Neunerregel** {index}` <Neunerregel>` angewendet: Hier wird der Körper in 9 %-Teile eingeteilt um das Ausmaß
 der Verbrennung abschätzen zu können.
 
 (neunerregel)=
@@ -210,18 +210,18 @@ Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb wieder sich ausz
 ::::{only} not nosidebar
 
 :::{margin} Einschätzung
-- Ab 10% ≥ 2° → schwer
-- *Kinder*: *5%*
+- Ab 10 % ≥ 2° → schwer
+- *Kinder*: *5 %*
 :::
 ::::
 
-Man unterscheidet zwischen einer *leichten* und einer *schweren* Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der *Verbrennungsgrad*. Ab einer betroffenen Körperoberfläche von >20%
-(Erwachsene; Kinder >10%, Säuglinge >5%) gilt eine Verbrennung als *großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bereits ab *10%* (oder *5%
+Man unterscheidet zwischen einer *leichten* und einer *schweren* Verbrennung, maßgebliche Faktoren sind die *Ausbreitung* und der *Verbrennungsgrad*. Ab einer betroffenen Körperoberfläche von >20 %
+(Erwachsene; Kinder >10 %, Säuglinge >5 %) gilt eine Verbrennung als *großflächig*. Aufgrund des *Flüssigkeitsverlustes* durch die Verbrennungskrankheit und Verdunstung besteht bereits ab *10 %* (oder *5 %
 bei Kindern*) *≥ 2°* verbrannter Körperoberfläche *Schockgefahr* (hypovolämischer Schock), diese Verbrennungen gelten daher als *schwer*! Der Schock entwickelt sich allerdings erst allmählich.
 
 :::{attention}
-- Ab *10% ≥ 2°* verbrannter Körperoberfläche gilt eine
-  Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5%.*
+- Ab *10 % ≥ 2°* verbrannter Körperoberfläche gilt eine
+  Verbrennung als "schwer", für *Kinder* gilt eine Grenze von *5 %.*
 :::
 
 
@@ -421,7 +421,7 @@ Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. 
 
   10. Transportentscheidung:
       Ab einer Ausdehnung von
-      15% (Erwachsener) bzw. 10% (Kind) Spezialabteilung
+      15 % (Erwachsener) bzw. 10 % (Kind) Spezialabteilung
       für Verbrennungsverletzungen.
       Bei Augenverletzungen Abt.
       für Augenheilkunde.
@@ -438,7 +438,7 @@ Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. 
 
 Sofortmaßnahmen:
 - Kühlung mit Wasser (15°) nur bis
-\< 10-15% KOF (sonst Unterkühlung mitVasokonstr.)
+\< 10-15 % KOF (sonst Unterkühlung mitVasokonstr.)
 - Vorsichtig Vasopressoren: Vasokonstriktion = schlechtere periphere Durchblutung  =
 Nachbrennen.
 - Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck
@@ -454,7 +454,7 @@ Begleitverletzungen?  Durch Druckwelle bei Explosionen (pulmonal, extrapulmonal)
 - Va. Crush Niere, HF-Katheter!
 - Auskühlen verhindern!
 
-Verbrennungsausmaß: Neunerregel + 1% Handfläche des Patienten Erw: 9% Kopf, Arme, 18% Bauch, Rücken, Beine (Kind Kopf 15%!!)
+Verbrennungsausmaß: Neunerregel + 1 % Handfläche des Patienten Erw: 9 % Kopf, Arme, 18 % Bauch, Rücken, Beine (Kind Kopf 15 %!!)
 
 
 Verbrennungstiefe:
@@ -493,7 +493,7 @@ Diagnose: Anamnese, Klinik, C/P, CT, EVLW, Serum CO-Bestimmung (KEINE Bronchosko
 
 
 Therapie:
-- Schutzintubation und Beatmung mit 100% FiO₂,
+- Schutzintubation und Beatmung mit 100 % FiO₂,
 - Flüssigkeitsmanagement: zu viel Volumen = viel ELWI durch capillary leak mit hohem pulmonalem Druck (Ödem ab > 8mmHg), da KOD ca. 8 ! (Normal 20!)
 
 
@@ -503,8 +503,8 @@ Therapie:
 - Konsequente Therapie nosokomialer Infektionen: oft excessive AB-Therapiedauer  über mehrere Wochen nötig, mit höherer Dosierung, da höheres Verteilungsvolumen. (BK und Abstriche regelmäßig!)
 - Forcierte Diurese: initial rasch Lasix-Perfusor, bei älteren Patienten rasch HF
 
-Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50%  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO₂!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
-Ab 20%  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen, Krampfanfälle, Tod)
+Bei CO-Vergiftung oft Ischämiezeichen im EKG! Klinik: bei 50 %  kirschrote SH, CO-Messung im Serum, Pulsoxymetrie zeigt falsch hohe SO₂!!!!!! (misst nur oxygeniertes/desoxygeniertes Hb).
+Ab 20 %  Organschäden: Herz (Ischämie, MCI), ZNS (KS, Schwindel, Hirndruckzeichen, Krampfanfälle, Tod)
 
 
 Therapie: Sauerstoff!!!! HBO umstritten.

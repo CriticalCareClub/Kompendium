@@ -105,7 +105,7 @@ Sekret die Messung vereiteln kann und Keime das System kontaminieren.
 ::::{only} not nosidebar
 
 :::{margin} Beurteilung
-- 4—5% CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
+- 4—5 % CO₂-Konzentration; 35—40 mm Hg CO₂-Partialdruck
 
 - Erniedrigt:
 
@@ -126,7 +126,7 @@ Sekret die Messung vereiteln kann und Keime das System kontaminieren.
 ::::
 
 Die Normwerte beim gesunden Menschen liegen bei ca.
-4—5% bzw. 35—40 mm Hg.
+4—5 % bzw. 35—40 mm Hg.
 Der CO₂-Spiegel (pCO₂) im Blut ist normalerweise ca. 5 mm Hg höher.
 
 Erhöhte Werte deuten auf eine

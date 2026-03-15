@@ -28,10 +28,10 @@ Mittels EEG können verschiedene *Schlafstadien* unterschieden werden:
   Augenbewegungen, der Muskeltonus ist stark herabgesetzt. Die einzelne
   REM-Phasen dauern ca. 10-20 Minuten und wiederholen sich alle
   eineinhalb Stunden. Besonders beim Säugling und beim Kleinkind ist
-  der Anteil der REM-Phasen am Schlaf besonders hoch (ca. 50%) -
+  der Anteil der REM-Phasen am Schlaf besonders hoch (ca. 50 %) -
   möglicherweise ist dieser Teil des Schlafes für die Reifung des
   Gehirns besonders wichtig. Mit zunehmendem Alter nimmt dieser Anteil
-  ab, bis er beim Erwachsenen nur noch 20% beträgt.
+  ab, bis er beim Erwachsenen nur noch 20 % beträgt.
 
 Einzelne Schlafzyklen wiederholen sich ca. *4-5 Mal* pro Schlaf. Neben der REM-Anzahl verringert sich auch die Dauer der einzelnen restlichen Schlafstadien im Laufe des Lebens.
 

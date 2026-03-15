@@ -67,7 +67,7 @@ Die Gemeinschaft von Nierenpyramide und umgebender Rinde wird als *Nierenlappen 
 An den Spitzen der Nierenpyramiden befinden sich die *Nierenpapillen*, die in die *Nierenkelche* hinein ragen.
 In ihrer Gesamtheit bilden alle Nierenkelche gemeinsam das *Nierenbecken*.
 
-Die Nieren sind mit *20% des Herzminutenvoluemns* stark durchblutet.
+Die Nieren sind mit *20 % des Herzminutenvoluemns* stark durchblutet.
 
 Die Niere *filtert ausscheidungspflichtige Stoffe* (z. B. Stickstoff und Abfallstoffe von Medikamenten) aus dem Blut.
 Daher ist auch sie äußerst gut durchblutet und reagiert sehr empfindlich auf einen Blutdruckabfall.
@@ -89,7 +89,7 @@ Vasa afferentia → Glomerulus → Vasa efferentia →
 → V. renalis
 
 Die *Nierenkörperchen („Malpighisches Körperchen“)* liegen alle in der Nierenrinde und filtern wie bereits erwähnt den Primärharn.
-Die darauf folgenden Nierenkanälchen bilden durch die Rückresorption von ca. 90%
+Die darauf folgenden Nierenkanälchen bilden durch die Rückresorption von ca. 90 %
 den Sekundärharn (ca. 1,5 L / d), die Endkonzentration findet in den Sammelrohren statt.
 
 An jedem Glomerulum kann man einen *Harn- und einen Gefäßpol* unterscheiden.
@@ -146,7 +146,7 @@ Auscheidungen und Reabsorptionen:
 Die Regulation des Wasser-, Elektrolyt-Haushalts und des Säure-Basen-Haushalts passiert in der Niere hauptsächlich über die *Natrium-Kalium-ATPase* sowie über die *Wasserausscheidung und
 -rückresorption*. Die Steuerung des Blutdrucks erfolgt über den *Renin-Angiotensin-Aldosteron-Mechanismus*.
 
-Der *Endharn* enthät 95% Wasser und gelöste Stoffe:
+Der *Endharn* enthät 95 % Wasser und gelöste Stoffe:
 
 - organische Substanzen: z.B. Harnstoff, Harnsäure, Kreatinin
 - anorganische Substanzen: z.B. Natrium, Kalium, Kalzium, Chlor,

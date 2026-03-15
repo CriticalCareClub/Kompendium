@@ -15,7 +15,7 @@ Propofol ist gegenwärtig DAS Hypnotikum schlechthin und kann quasi als Goldstan
 betrachtet werden.
 Es zeichnet sich durch die kurze und allein hypnotische Wirkdauer (5-8 min) aus.
 Es stimuliert GABA-Rezeptor und damit Freisetzung von Glutamat, sowie den Natriumkanal-abhängigen Natriumeinstrom in die Zelle.
-Es ist stark lipophil, nicht wasserlöslich und wird in einer Öl-in-Wasser-Emulsion (10% Sojaöl (Sojaallergie!!), dadurch die weiße Farbe), Lecithin, Glycerin und Eiphosphatid (Eiallergie?) verabreicht (Fettzufuhr: 1 ml 1% = 0,1 g Fett!).
+Es ist stark lipophil, nicht wasserlöslich und wird in einer Öl-in-Wasser-Emulsion (10 % Sojaöl (Sojaallergie!!), dadurch die weiße Farbe), Lecithin, Glycerin und Eiphosphatid (Eiallergie?) verabreicht (Fettzufuhr: 1 ml 1 % = 0,1 g Fett!).
 Um Bakterienwachstum zu verhindern ist EDTA oder Sulfit zugesetzt, welche Allergien und Bronchospasmus auslösen können.
 
 
@@ -49,7 +49,7 @@ Kinetik
 
   Wirkungseintritt 15—45 s, bei langer Kreislaufzeit auch länger
 
-  Wirkdauer 4-6min, HWZ 55min (2% länger! Größeres Verteilungsvolumen),
+  Wirkdauer 4-6min, HWZ 55min (2 % länger! Größeres Verteilungsvolumen),
 
   Dauer der hypn. Wirkung: 5—10 min
 
@@ -57,7 +57,7 @@ Kinetik
 
   Elim.-HWZ ca. 1 h
 
-  Elimination: **Konjugation** zu wasserlöslichen Metaboliten (Glukuronide und Sulfate) in der **Leber** und zu 88%  über die Niere ausgeschieden. Clearance (2l/min)  übersteigt den Leberfluss und ist auch bei Leberzirrhose und CNI nicht wesentlich beeinflusst, daher besteht wahrscheinlich auch ein extrahepatischer Mechanismus?
+  Elimination: **Konjugation** zu wasserlöslichen Metaboliten (Glukuronide und Sulfate) in der **Leber** und zu 88 %  über die Niere ausgeschieden. Clearance (2l/min)  übersteigt den Leberfluss und ist auch bei Leberzirrhose und CNI nicht wesentlich beeinflusst, daher besteht wahrscheinlich auch ein extrahepatischer Mechanismus?
 
 
 Kontraindikation(en)

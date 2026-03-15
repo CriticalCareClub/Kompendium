@@ -17,9 +17,9 @@
 - Benzos
 
 The point prevalence of clinically significant posttraumatic stress
-disorder symptoms ranged from 10% to 28%.
+disorder symptoms ranged from 10 % to 28 %.
 The point prevalence of clinically significant depressive symptoms
-ranged from 7%--28%.
+ranged from 7 %--28 %.
 Preillness psychiatric and/or developmental problems and parental
 psychopathology were associated with vulnerability to psychiatric morbidity.
 Neither age nor sex of a child consistently increased vulnerability
@@ -44,8 +44,8 @@ Affektive Morbidität
 
 Depressive Störungen
 
-> ICU: bei langfristiger Respiration > 40%
-> nach ICU: nach ARDS ca. 25%
+> ICU: bei langfristiger Respiration > 40 %
+> nach ICU: nach ARDS ca. 25 %
 
 ## Prognose
 

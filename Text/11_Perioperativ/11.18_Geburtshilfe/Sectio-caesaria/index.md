@@ -12,7 +12,7 @@ status: draft
 ## Plansectio
 
 SPA
-: - Bubivacain 0,5% ca. 2 ml (= 10 mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
+: - Bubivacain 0,5 % ca. 2 ml (= 10 mg) + 10myg Fentanyl (Je größer die Patientin umso mehr, je schwerer/adipöser die Patientin umso weniger)
   - Volumen 500-1500 ml O₂-Maske 2-4l Bei Hypotonie und Tachykardie: Phenylephrin Bolus 50-100 mcg (α-Agonist) mit Reflexbradykardie
   - + Phenylephrin Perfusor mit 30 ml/h (= 50 mcg/min) nach SPA bis zur Abnabelung des Kindes
 
@@ -43,5 +43,5 @@ RSI
   - Fentanyl 4 ml (200 mcg), AB und Pabal/Synto nach Nabelschnurklemmung
 
 PDK liegend
-: Aufspritzen mit 10 ml 2%  Naropin + 10 ml 7,5%  Naropin oder fraktioniert bis max. 25 ml Ampres/Chloroprocain 10 mg / ml
+: Aufspritzen mit 10 ml 2 %  Naropin + 10 ml 7,5 %  Naropin oder fraktioniert bis max. 25 ml Ampres/Chloroprocain 10 mg / ml
 

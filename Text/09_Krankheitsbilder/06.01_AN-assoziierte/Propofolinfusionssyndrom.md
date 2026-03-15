@@ -45,7 +45,7 @@ status: final
 - Therapie: Propofol stopp, Symptomatische Behandlung (Herzschrittmacher, Katecholamine, Hämofiltration, Pufferung)
 :::
 
-Das {ref}`Propofol <Propofol>`-Infusionssyndrom (**PRIS**) ist eine seltene[^pis-inzidenz], aber potenziell tödliche Komplikation der Langzeitverabreichung von Propofol (50% Letalität) [{term}`🗎 Hemphill 2019`].
+Das {ref}`Propofol <Propofol>`-Infusionssyndrom (**PRIS**) ist eine seltene[^pis-inzidenz], aber potenziell tödliche Komplikation der Langzeitverabreichung von Propofol (50 % Letalität) [{term}`🗎 Hemphill 2019`].
 Es ist gekennzeichnet durch metabolische **Azidose**, meist bradykarde **Rhythmusstörungen**, **Hypotonie**, **Herzversagen**,  **Nierenversagen** und   **Rhabdomyolyse** der Herz und Skelettmuskeln mit extremen *CPK-Anstieg* und *Hyperkaliämie*.
 Der Mechanismus ist unklar.
 Die aktuelle Evidenz weist auf einen Defekt in der ATP-Produktion in den **Mitochondrien** als wahrscheinlichen ursächlichen Mechanismus hin. {term}`🗎 Hemphill 2019`
@@ -61,7 +61,7 @@ Daher ist Propofol zur Sedierung erst **ab dem 17. Lebensjahr** und **bis 4 mg
 
 
 
-[^pis-inzidenz]: In der Literatur werden Inzidenzen von ca. 1% angegeben {term}`🗎 Roberts 2009`, dies kann aber in der klinischen Routine absolut nicht bestätigt werden {term}`🗎 Hemphill 2019`
+[^pis-inzidenz]: In der Literatur werden Inzidenzen von ca. 1 % angegeben {term}`🗎 Roberts 2009`, dies kann aber in der klinischen Routine absolut nicht bestätigt werden {term}`🗎 Hemphill 2019`
 
 
 :::{seealso}
@@ -77,17 +77,17 @@ Aust
 :::{todo} {issue}`142` Aust-Skriptum: **Propofol-Infusionssyndrom** (18.)
 :::
 
-1% Propofol ist zugelassen für Narkose \> 1Monat, und Sedierung IBS
-\> 16Lj 2% Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj
+1 % Propofol ist zugelassen für Narkose \> 1Monat, und Sedierung IBS
+\> 16Lj 2 % Propofol für Narkose \> 3 Jahre, Sedierung IBS \> 16Lj
 
-Ursache: Störung der Fettsäureoxydation durch Entkoppelung der Atmungskette mit mangelnder Bereitstellung von ATP, mit Zelluntergang bei erhöhtem Energiebedarf = Muskelzellnekrosen mit Laktatazidose. Letalität bis 85%
+Ursache: Störung der Fettsäureoxydation durch Entkoppelung der Atmungskette mit mangelnder Bereitstellung von ATP, mit Zelluntergang bei erhöhtem Energiebedarf = Muskelzellnekrosen mit Laktatazidose. Letalität bis 85 %
 
 Risikofaktoren: Hochdosierte (\>  5 mg / kg / h) Langzeitsedierung (\> 48 h), TIVA mit Propofol  \>  5h, Kinder und Säuglinge, respiratorischer Infekt, Polytrauma, SHT, unzureichende Glukosezufuhr bei kataboler Stoffwechsellage, Gabe von Katecholaminen (Blockieren den Verschluß  der Ca-Kanäle und bewirken eine direkte Muskelzellschädigung), und Glukokortikoiden mit Muskelzellschädigung bei chronische Einnahme.
 
 
 Klinik:
 - Herz-Kreislauf-Störungen: therapierefraktäre Bradykardie bis Asystolie, besonders bei Kindern, bei Erwachsenen eher VT und Kammerflimmern. Hypotonie durch vermindertes Preload und Sympatikolyse.
-- Metabolische Azidose mit Laktatanstieg als Frühmarker bei 90%! Negativer BE > 10
+- Metabolische Azidose mit Laktatanstieg als Frühmarker bei 90 %! Negativer BE > 10
 - Rhabdomyolyse mit CK-Erhöhung
 - Lebervergrößerung/steatose mit Transaminasenanstieg, Hypertriglyzeridämie(Frühzeichen?)
 - CRUSH-Niere (progred. NV durch Rhabdomyolyse und Minderperfusion) mit Myoglobinurie

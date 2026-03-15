@@ -12,7 +12,7 @@ status: final
 # Arterielle Hypertonie
 
 Die {dfn}`arterielle Hypertonie` (*Bluthochdruck*, *Hochdruckkrankheit*) ist eine meist symptomlose, *chronische* Erkrankung, bei welcher der arterielle Blutdruck dauerhaft erhöht ist.
-Mann kann zwischen der *primären, essentiellen* Form (90%), und der *sekundären* Form aufgrund anderer Grunderkrankungen (renal, endokrin, Aortenisthmusstenose) unterscheiden.
+Mann kann zwischen der *primären, essentiellen* Form (90 %), und der *sekundären* Form aufgrund anderer Grunderkrankungen (renal, endokrin, Aortenisthmusstenose) unterscheiden.
 Aufgrund der Schädigung der Blutgefäße ist sie ein ein wesentlicher *Risikofaktor* für Erkrankungen wie die koronare Herzkrankheit, Schlaganfälle etc.
 Akut kann sie im Zuge von plötzlichen *Blutdruckkrisen* auch zu akuten Problemen führen.
 

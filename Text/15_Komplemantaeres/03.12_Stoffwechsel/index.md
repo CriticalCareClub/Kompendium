@@ -15,7 +15,7 @@ Die Gesamtheit der lebensnotwendigen biochemischen Vorgänge im Organismus ist d
 
 Die biologische Oxidation bezeichnet den Abbau von Molekülen in die energiearmen Verbindungen Kohlendioxid und Wasser. Hierbei wird Energie in Form von *ATP* frei, welches dann in energieverbrauchenden Prozessen in *ADP* umgewandelt wird.
 
-Der *tägliche Energiebedarf* ist abhängig von Gewicht, Alter, Geschlecht, Umgebungstemperatur, Arbeit, Medikamente usw. Der Umsatz, der unter standardisierten Ruhe-Bedingungen gemessen wird, ist der Grundumsatz, der Energieverbrauch während körperlicher Arbeit, ist der Arbeitsumsatz. Der Grundumsatz beträgt beim Mann *4,2 kJ bzw. 1kcal pro kg Körpergewicht pro Stunde*. D.h. ein 70 kg schwerer Mann hat einen Grundumsatz von ca. 7000 kJ (1700 kcal) pro Tag. Der Grundumsatz von Frauen liegt ca. 10-20% niedriger.
+Der *tägliche Energiebedarf* ist abhängig von Gewicht, Alter, Geschlecht, Umgebungstemperatur, Arbeit, Medikamente usw. Der Umsatz, der unter standardisierten Ruhe-Bedingungen gemessen wird, ist der Grundumsatz, der Energieverbrauch während körperlicher Arbeit, ist der Arbeitsumsatz. Der Grundumsatz beträgt beim Mann *4,2 kJ bzw. 1kcal pro kg Körpergewicht pro Stunde*. D.h. ein 70 kg schwerer Mann hat einen Grundumsatz von ca. 7000 kJ (1700 kcal) pro Tag. Der Grundumsatz von Frauen liegt ca. 10-20 % niedriger.
 
 Der physikalische *Brennwert* von Nahrungsbestandteilen beträgt (=
 energielefernd!):
@@ -30,7 +30,7 @@ energielefernd!):
 
 Der *physiologische Brennwert* errechnet sich aus dem physikalischen Brennwert unter Abzug der Nahrungsenergie, die durch Stuhl und Harn dem Körper verloren geht.
 
-Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56 g Protein = 10%, 75 g Fett = 30%, 340 g Kohlenhydrate = 60%):
+Folgende Nahrungsstoffe gehören zu einer *ausgewogenen Ernährung* (56 g Protein = 10 %, 75 g Fett = 30 %, 340 g Kohlenhydrate = 60 %):
 
 - Proteine: Aminosäurelieferanten
 
@@ -84,7 +84,7 @@ Die Verdauung setzt die Bewegung aller Organe (gastrointestinale Motilität) vor
 
 - Beginn im Mund
 
-- in der Nahrung: Triglyceride (90%), Cholesterin, Cholesterinester,
+- in der Nahrung: Triglyceride (90 %), Cholesterin, Cholesterinester,
   Phospholipide, fettlösliche Vitamine
 
 - Lipasen spalten die Fette: Zungengrundlipase, Pankreaslipase,

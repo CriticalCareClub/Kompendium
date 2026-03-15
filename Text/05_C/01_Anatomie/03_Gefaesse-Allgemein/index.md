@@ -57,8 +57,8 @@ Dadurch wird der Stoff-, Flüssigkeits und Gasaustausch zu den Zielzellen erleic
 *Lymphgefäße* bilden die zweite Kategorie an Gefäßen innerhalb des Kreislaufs.
 Sie beginnen blind innerhalb des Kapillargebietes als Lymphkapillaren und besitzen genauso wie die Venen Klappen.
 Sie transportieren *Gewebeflüssigkeit, Proteine und Fette*, und sind auch von *immunologischer Bedeutung*.
-Ungefähr 10% der während des Stoffaustausches filtrierten Flüssigkeit wird von den Lymphgefäßen transportiert.
-Die restlichen 90% werden von den Blutgefäßen reabsorbiert. *Lymphknoten* bilden Sammelpunkte von Lymphgefäßen.
+Ungefähr 10 % der während des Stoffaustausches filtrierten Flüssigkeit wird von den Lymphgefäßen transportiert.
+Die restlichen 90 % werden von den Blutgefäßen reabsorbiert. *Lymphknoten* bilden Sammelpunkte von Lymphgefäßen.
 Die Gesamtheit der Lymphgefäße sammeln sich im *Ductus lymphaticus* dexter und sinister.
 Diese münden im Bereich der Einmündungsstellen der V.
 jugularis interna und V. subclavia wieder in das Venensystem.

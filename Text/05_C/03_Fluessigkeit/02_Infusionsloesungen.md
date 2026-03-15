@@ -103,7 +103,7 @@ Darüber hinaus verbraucht die Verstoffwechselung von Laktat deutlich mehr Sauer
 Man kann unterscheiden:
 
 - **Isotone Vollelektrolytlösungen ohne metabolisierbare Anionen**, z. B.:
-  - Isotone „physiologische“ Kochsalzlösung (*"NaCl 0,9%"*; die absolut *un*physiologischte Infusionslösung nach destillierten Wasser)
+  - Isotone „physiologische“ Kochsalzlösung (*"NaCl 0,9 %"*; die absolut *un*physiologischte Infusionslösung nach destillierten Wasser)
 - **Isotone Vollelektrolytlösungen mit metabolisierbaren Anionen** (balancierte Lösungen), z.B.:
   - Ringerlaktat
     {index}` <Ringerlaktat>`
@@ -117,8 +117,8 @@ Man kann unterscheiden:
 
 Neben den Vollelektrolytlösungen gibt es auch für spezielle Anwendungsfälle (hypertone Dehydratation, Hypernatriämie, Kaliummangel, Infusionszusätze etc.) auch Lösungen mit **reduziertem Elektrolytgehalt** (*Drittel-*, *Halb-*, *Zweidrittel-Elektrolytlösungen*).
 **Kalium-freie Elektrolytlösungen** sind ... Kalium-frei.
-Klassisches Beispiel ist die isotone Kochsalzlösung (NaCl 0,9%).
-Reine **Glukoselösungen** enthalten Glukose (z.B. 5% Glukoselösung) und sonst ... Wasser.
+Klassisches Beispiel ist die isotone Kochsalzlösung (NaCl 0,9 %).
+Reine **Glukoselösungen** enthalten Glukose (z.B. 5 % Glukoselösung) und sonst ... Wasser.
 Durch die Aufnahme der osmotisch wirksamen Glukose in die Zellen entsteht in Folge *freies Wasser*!
 Kann dieses nicht renal in ausreichendem Maß ausgeschieden werden, kommt es zu einem Abfall der Plasmaosmolarität und zu Ödemen und Hämolyse.
 
@@ -203,14 +203,14 @@ Man unterscheidet natürliche und künstliche Kolloide.
 :::{margin} Humanalbumin
 
 - Albuminfraktion aus menschlichem Plasma
-- 5—20%ige Lösungen
+- 5—20 %ige Lösungen
 - Indikation:
   - Akute Hypoproteinämie
   - Leberzirrhose mit Aszites und hepatorenales Syndrom
 :::
 
 Zu den **natürlichen Kolloiden** zählt das **Humanalbumin**, das aus menschlichem Plasma gewonnen wird.
-Es steht in Konzentrationen zwischen 5% und 20% zur Verfügung.
+Es steht in Konzentrationen zwischen 5 % und 20 % zur Verfügung.
 Indikationen sind vor allem die akute Hypoproteinämie sowie fortgeschrittene Leberzirrhosen mit Aszites und das hepatorenale Syndrom.
 
 Die **künstlichen Kolloide** umfassen verschiedene Substanzklassen:
@@ -227,7 +227,7 @@ Die **künstlichen Kolloide** umfassen verschiedene Substanzklassen:
   Da HAES häufig kontraindiziert und patientengefährdend angewendet wurde (Capillary Leak!), wurde es schließlich in Österreich vom Markt genommen.
 
 - **Gelatinepräparate** sind Spaltprodukte des Kollagens.
-  Sie erreichen einen Volumeneffekt von 100% bezogen auf das verabreichte Volumen, werden vollständig metabolisiert und über die Nieren ausgeschieden.
+  Sie erreichen einen Volumeneffekt von 100 % bezogen auf das verabreichte Volumen, werden vollständig metabolisiert und über die Nieren ausgeschieden.
   Auf die Blutgerinnung haben sie keinen Einfluss, allerdings können auch hier anaphylaktische Reaktionen auftreten.
 
 - **Dextrane** stellen eine weitere Klasse künstlicher Kolloide dar, werden jedoch heute nur noch selten verwendet.
@@ -275,7 +275,7 @@ Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Elo-Mel OP (postoperativ) G](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20250925_085349_Detail-EloPostOPG.jpg)
 
-![Glukoselösungen mit unterschiedlicher Glukose-Konzentration (5%, 10%, 40%)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20250911_174505_001341px.jpg)
+![Glukoselösungen mit unterschiedlicher Glukose-Konzentration (5 %, 10 %, 40 %)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20250911_174505_001341px.jpg)
 
 ![Physiologische Kochsalzlösung: Trotz des Namens sehr unphysiologisch](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20220124_084202_001341px.jpg)
 

@@ -9,7 +9,7 @@
 
 # Wirbelsäule (Columna vertebralis)
 
-Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht aus 33—34 Knochen. Sie ist somit das Achsenskelett unseres Körpers und macht mit einer Länge von ca. 55—63 cm 35% der Körperlänge des Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
+Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht aus 33—34 Knochen. Sie ist somit das Achsenskelett unseres Körpers und macht mit einer Länge von ca. 55—63 cm 35 % der Körperlänge des Erwachsenen aus. Die obersten 24 Wirbel sind beweglich. In der Seitansicht zeigt die Wirbelsäule ihre klassische **Doppel-S-Krümmung**
 (Krümmungen nach ventral):
 
 {index}` <Lordose>`

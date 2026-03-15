@@ -211,7 +211,7 @@ Diese Augenmuskeln bewegen die Augen und sorgen für folgende *Bewegungen*:
 
 ### Hirnphysiologie des Sehens
 
-Visuelle und visomotorische Areale bilden 60% der Hirnoberfläche -
+Visuelle und visomotorische Areale bilden 60 % der Hirnoberfläche -
 hauptsächlich im parietalen und inferotemporalen Kortex gelegen.
 Visuelle Funktionen werden in Untergruppen verteilt und parallel in *unterschiedlichen Hirnarealen* verarbeitet:
 

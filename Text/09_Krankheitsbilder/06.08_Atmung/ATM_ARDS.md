@@ -153,12 +153,12 @@ Effektivitätskriterien
 
 
 Intrapulmonaler RE-LI-Shunt
-: korreliert mit Hypoxämie, abh. von HPV und HZV; paO₂ fällt linear ab, bei Shuntvolumen \> 35% kann der paO₂ nicht mehr durch eine Steigerung des FiO₂ verbessert werden.
+: korreliert mit Hypoxämie, abh. von HPV und HZV; paO₂ fällt linear ab, bei Shuntvolumen \> 35 % kann der paO₂ nicht mehr durch eine Steigerung des FiO₂ verbessert werden.
 
 Test
-: FiO₂ um 20% steigern = paO₂ bleibt unverändert bei Shunt!
+: FiO₂ um 20 % steigern = paO₂ bleibt unverändert bei Shunt!
 
-  Der paCO₂ steigt erst bei einem Shuntvolumen > 60%  und ist oft durch kompensatorische Hyperventilation sogar erniedrigt.
+  Der paCO₂ steigt erst bei einem Shuntvolumen > 60 %  und ist oft durch kompensatorische Hyperventilation sogar erniedrigt.
   Das Shuntausmaß ist abhängig von der Effektivität der HPV.
 
 

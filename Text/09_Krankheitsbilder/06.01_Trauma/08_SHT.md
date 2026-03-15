@@ -450,7 +450,7 @@ Ziel: Vermeidung sekundärer Hirnschäden durch Einblutung, oder ein fokales ode
 
 - Normotension: MAP = ICP + CCP (60-70mmHg) Med: Noradrenalin,
 Ebrantil-Perfusor...
-- Normovolämie: isotones und hypertones NaCl, HES, Hypotone Lsg. wie Glucose 5% oder RL sind kontrainduziert.
+- Normovolämie: isotones und hypertones NaCl, HES, Hypotone Lsg. wie Glucose 5 % oder RL sind kontrainduziert.
 - Normale Serumosmolarität: Na 140-150mmol/l
 - Normoglykämie: BZ 120-150
 - Normokapnie im unteren Bereich: paCO₂ 33-36
@@ -461,7 +461,7 @@ Regulation des CBF:
 Autoregulation zwischen 60-140MAP konstanter CBF, außerhalb dieses Bereiches abhängig vom MAP lineare Beziehung zum paCO₂: steigt dieser um 1mmHg,
 steigt CBF um 2 ml/100g/min paO₂-Schwellenwert: paO₂ \< 50mmHg = steigt der CBF. Der CPP (Cerebraler Perfusions Pressure)
 sollte zwischen 60 und 70mmHg liegen! (MAP -- ICP = CPP)
-Der intracranielle Blutfluss beträgt 14%  des Herzminutenvolumens und verbraucht 25%  des Ruhesauerstoffverbrauches.
+Der intracranielle Blutfluss beträgt 14 %  des Herzminutenvolumens und verbraucht 25 %  des Ruhesauerstoffverbrauches.
 BHS: mechanische Barriere mit Tight junctions und metabolischer Barriere, H₂O + CO₂ + O₂ kann frei diffundieren. Schützt vor Toxinen, hält Glucose im Gehirn stabil, hält Neurotransmitter im Gehirn, Kontrolliert den Elektrolyttransfer.
 Liquor: Die Produktion erfolgt im Plexus choroideus, ca. 150  - 550 ml, HWZ 2-6h, Ultrafiltrat des Blutplasmas, dämpft Gehirnmasse, reguliert Atemzentrum der Medulla oblongata durch den CO₂-
 Gehalt.
@@ -469,7 +469,7 @@ CCT-KO: bei Vigilanzverschlechterung/Somnolenz beim wachen Patienten, beim intub
 transcranieller Doppler)
 
 
-Monro-Kellie-Doktrin: intrakranielles Volumen = 85%  Hirn + 5%  Liquor + 10%  Blutmenge ist immer konstant! (Erwachsener 10%  Reserve, Kind 5%) ICP-Anstieg erfolgt exponentiell. Das Gehirn braucht 20% des Sauerstoffs im Körper (15% HZV)
+Monro-Kellie-Doktrin: intrakranielles Volumen = 85 %  Hirn + 5 %  Liquor + 10 %  Blutmenge ist immer konstant! (Erwachsener 10 %  Reserve, Kind 5 %) ICP-Anstieg erfolgt exponentiell. Das Gehirn braucht 20 % des Sauerstoffs im Körper (15 % HZV)
 
 Inverse Steal Syndrom: im gesunden Hirn Vasokonstriktion, Blut rinnt in vasodilatierte betroffene Areale. + Respiratorische Alkalose neutralisiert die Laktatazidose des Gehirns = CBF sinkt = Gefahr des hypoxischen Schadens.
 
@@ -540,7 +540,7 @@ Cefotaxim/Claforan iv.
 
 Labor:
 - S100 = Verlaufsparameter SHT
-- Ziel-HK: 30%
+- Ziel-HK: 30 %
 - KO der EZ-Parameter: Leukos, CRP, IL6, proCalcitonin
 
 SSEP = somatosensible evozierte Potentiale, diese werden zur Quantifizierung einer Hirnschädigung gemessen. Eine pathologische Verlängerung ist ein prognostisch schlechtes Zeichen. Bei schwerer Schädigung der Leitungsbahnen fallen sie ganz aus.
@@ -560,7 +560,7 @@ Komplikationen:
 Oligourie.
 
 Mannit: 0,25  --  0,5g / kg KG rasch verabreicht senkt den ICP bis zu 4h! Es ist hyperosmolar
-(1100mosmol/l bei 20%  Lsg), führt jedoch auch zur Hypotension und Dehydrierung mit Gefahr eines prärenalem Nierenversagens und Elektrolytstörungen. Erhöht die Blutviskosität.
+(1100mosmol/l bei 20 %  Lsg), führt jedoch auch zur Hypotension und Dehydrierung mit Gefahr eines prärenalem Nierenversagens und Elektrolytstörungen. Erhöht die Blutviskosität.
 
 
 Risikofaktoren für sekundäre Hirnschädigung:
@@ -568,7 +568,7 @@ Risikofaktoren für sekundäre Hirnschädigung:
 - Hypoxie
 - Globale Ischämie bei CCP \< 50mmHg
 - Regionale Ischämie bei Vasospasmus (erhöhte Flussgeschwindigkeiten im transcraniellen Doppler)
-- Anämie HK < 30%
+- Anämie HK < 30 %
 - Hyperkapnie > 38mmHg (ICP Anstieg durch Vasodil.) und Hypokapnie\< 25mmHg (Ischämie d.
 Vasokonstr.)
 

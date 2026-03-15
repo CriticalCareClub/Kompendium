@@ -30,7 +30,7 @@ VO₂    ist abhängig von Nachlast, Kontraktilität, Vorlast und HF;  DO₂ abh
 Kaskade: Gefäßverengung -- Metabolische Veränderungen -- Diastolische Fkt.störung -- systolische Funktionsstörung -- Anstieg des LVEDP (+ Pulmonalisdruck?) -- EKG-Veränderungen AP
 
 
-Postoperativ häufiger MCI als prä- oder intraoperativ (→ {ref}`Peri-OP-ACS`); > 50% klinisch stumm, meist innerhalb der ersten 24 h, verschlechtern Outcome! Diagnose: Herzenzyme, EKG, TTE (siehe postoperativer MCI)
+Postoperativ häufiger MCI als prä- oder intraoperativ (→ {ref}`Peri-OP-ACS`); > 50 % klinisch stumm, meist innerhalb der ersten 24 h, verschlechtern Outcome! Diagnose: Herzenzyme, EKG, TTE (siehe postoperativer MCI)
 
 Therapie: Coronarangiographie mit Dilatation oder Stent + Duale Plättchentherapie + Statin+ Betabl.
 

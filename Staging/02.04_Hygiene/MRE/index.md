@@ -106,7 +106,7 @@ aureus). Auch bei der Tuberkulose treten mittlerweile resistente Keime auf: *200
 - aber resistente Form: **MRSA** {index}` <! MRSA>`
 :::
 
-Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50% der Bevölkerung sind besiedelt.
+Der *Staphylococcus aureus* ist ein "Allerweltskeim", bis zu 50 % der Bevölkerung sind besiedelt.
 Vor allem ist die vordere Nasenhöhle besiedelt, aber auch die Haut (Achselhöhle, Analregion) und die Schleimhäute können ihn beherbergen.
 Auch im Spital ist er häufig, aufgrund des hohen Antibiotikaverbrauchs ist er dort aber oft schon Antibiotika-resistent:
 Man spricht dann vom **MRSA** {index}` <! MRSA>`

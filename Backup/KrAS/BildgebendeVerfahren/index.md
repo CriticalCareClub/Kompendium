@@ -24,17 +24,17 @@ Morrison-Pouch, Leber, Milz, suprapubisch
 
 - Lagekontrollen
 
-- Stauung Ca. 20% der derklinisch-kardial dekompensirten Pateiten
+- Stauung Ca. 20 % der derklinisch-kardial dekompensirten Pateiten
   zeigen keine CP-Korrelation
 
-- Pleuraerguss Sensitivität 66% (abhängig von Ergussmenge, ab 300 ml
+- Pleuraerguss Sensitivität 66 % (abhängig von Ergussmenge, ab 300 ml
   möglich)
 
-- Atelektase Sensitivität 65%, Spezifität 89%
+- Atelektase Sensitivität 65 %, Spezifität 89 %
 
-- Pneumonie Sensitivität 28-66%, Spezifität 29-50%
+- Pneumonie Sensitivität 28-66 %, Spezifität 29-50 %
 
-- Pneumothorax Sensitivität 75%, Spezifität 100%
+- Pneumothorax Sensitivität 75 %, Spezifität 100 %
 
   Ultraschall deutlich überlegen!
 

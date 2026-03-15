@@ -502,7 +502,7 @@ WIRK: HF↑, Speichel & Schweiß ↓, Blockade der Vagus-Reflexe, Mydriasis, Bro
 
 :::
 
-**Magnesium (Mg-5-Sulfat 50%™):**
+**Magnesium (Mg-5-Sulfat 50 %™):**
 
 Diese Substanz ist ein physiologischer Kalziumantagonist und ist das Mittel der Wahl bei Torsade-de-pointes-Tachykardien und ventrikulären Tachykardien bei Magnesiummangel.
 

@@ -23,7 +23,7 @@ Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Ums
   Es ist sofort eine *Atemkontrolle* durchzuführen um sicherzustellen, dass die Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
   Ist eine normale Atmung vorhanden, wird die Reanimation endgültig beendet.
   Es ist der {ref}`Einschätzungsblock <Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
-  Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98%.
+  Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98 %.
 
   Anmerkung: *Erbrechen* ist *kein* Lebenszeichen.
 
@@ -51,7 +51,7 @@ Wird bei der Reanimation der Kreislauf wiederhergestellt (**ROSC**, {dfn}`Resump
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
-Die Sauerstoffgabe hat einen SpO₂-Zielbereich von **94—98%**.
+Die Sauerstoffgabe hat einen SpO₂-Zielbereich von **94—98 %**.
 Besonders zu beachten ist:
 
 - `A`: Ist der Atemweg (noch) sicher?
@@ -87,7 +87,7 @@ Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinli
 
 ## Ende oder Nicht-Beginn der Reanimation
 
-In ca. 70—95% der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt.
+In ca. 70—95 % der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt.
 Grundsätzlich wird eine Reanimation fortgesetzt, solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
 Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht [{term}`🗎 Bonnin 1993`, {term}`♛ ERC 2021 12`].
 

@@ -74,7 +74,7 @@ Störungen des Wasserhaushalts lassen sich in verschiedene Formen unterteilen, d
 :::{margin} Hypertone Dehydration
 
 - Hyperosmolar, Hypernatriämie
-- Therapie: Glucose 5%; Diabetes insipidus centralis: Desmopressin
+- Therapie: Glucose 5 %; Diabetes insipidus centralis: Desmopressin
 :::
 
 {index}` <Dehydration; hypertone>`
@@ -83,7 +83,7 @@ Störungen des Wasserhaushalts lassen sich in verschiedene Formen unterteilen, d
 Die **hypertone Dehydration** entsteht, wenn der Wasserverlust größer ist als der Natriumverlust.
 Typische Ursachen können starkes Schwitzen ohne Flüssigkeitszufuhr oder eine unzureichende Trinkmenge bei Fieber sein.
 Im Labor zeigt sich eine *erhöhte Osmolarität* mit *Hypernatriämie*.
-**Therapie:** Gabe von *5%iger Glucoselösung* (*"freies Wasser"*), bei Vorliegen eines Diabetes insipidus centralis ADH-Substitution mit *Desmopressin*.
+**Therapie:** Gabe von *5 %iger Glucoselösung* (*"freies Wasser"*), bei Vorliegen eines Diabetes insipidus centralis ADH-Substitution mit *Desmopressin*.
 
 
 
@@ -120,14 +120,14 @@ Klinisch kann dies zu *Hirnödem* und neurologischen Symptomen, oder einer *Häm
 :::{margin} Hypertone Hyperhydratation
 
 -   Hyperosmolar, Hypernatriämie
--   Therapie: Glucose 5% + Diuretika, ev. Dialyse
+-   Therapie: Glucose 5 % + Diuretika, ev. Dialyse
 :::
 
 {index}` <Hyperhydratation; hypertone>`
 Eine **hypertone Hyperhydratation** entsteht, wenn gleichzeitig zu viel Natrium und Wasser zugeführt werden, wobei das Natrium überwiegt.
 Ursachen sind zum Beispiel übermäßige Infusionen von (hypertonen) Kochsalzlösungen.
 Die Folge sind *Hypernatriämie* und *Hyperosmolarität*.
-**Therapie:** Kombination aus *5%iger Glucoselösung* und *Diuretika*; bei schwerem Verlauf *Dialyse*.
+**Therapie:** Kombination aus *5 %iger Glucoselösung* und *Diuretika*; bei schwerem Verlauf *Dialyse*.
 
 
 
@@ -156,7 +156,7 @@ Sie kann unabhängig von der Osmolarität auftreten, etwa nach Blutverlust oder 
   - ↑
   - Wasserverlust > Natriumverlust
     z. B. Schwitzen, Fieber, unzureichende Flüssigkeitszufuhr
-  - Glucose 5%
+  - Glucose 5 %
 
     Diabetes insipidus centralis: Desmopressin
 * - **Hypotone Dehydration**
@@ -176,7 +176,7 @@ Sie kann unabhängig von der Osmolarität auftreten, etwa nach Blutverlust oder 
   - ↑
   - Wasser- und Na-Überschuss (Na > H₂O)
     z. B. übermäßige Kochsalzinfusion
-  - Glucose 5% + Diuretika, ev. Dialyse
+  - Glucose 5 % + Diuretika, ev. Dialyse
 * - **Hypovolämie**
   - variabel
   - variabel

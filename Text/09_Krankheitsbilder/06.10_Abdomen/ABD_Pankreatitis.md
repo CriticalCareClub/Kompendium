@@ -77,7 +77,7 @@ Klinik
 
 
 Labor
-: Lipase/Amylase sind initial auf  \>  3 fache erhöht, können bei Aufnahme aufgrund Organnekrose bereits im Normalbereich sein. HK  \>  44%  durch sequestr. Flüssigkeit ins Interstitium, erhöhte EZP (CRP, Leuko), ev. erhöhtes Kreatinin, Hypocalcämie,
+: Lipase/Amylase sind initial auf  \>  3 fache erhöht, können bei Aufnahme aufgrund Organnekrose bereits im Normalbereich sein. HK  \>  44 %  durch sequestr. Flüssigkeit ins Interstitium, erhöhte EZP (CRP, Leuko), ev. erhöhtes Kreatinin, Hypocalcämie,
 
 
 Phase I: SIRS-Symptomatik: Fieber/Hypothermie, Tachykardie, Tachypnoe, Leukozytose/penie Phase II: schwere akute Pankreatitis, Sepsis, septischer Schock
@@ -88,13 +88,13 @@ Pankreatitis Verlaufsmöglichkeiten:
 Diagnostik:
 - KM-CT ab dem 4  Tag (Nekrosenentwicklung erst ab 4-5 Tage!) = aufgelockertes Gewebe, Flüssigkeit rund um Pankreas, ev. Lufteinschlüsse
 - ERCP bei va. biliäre Genese: Papillotomie und Steinextraktion möglich
-- Sonographie hat nur eine Sensitivitt von 67%
+- Sonographie hat nur eine Sensitivitt von 67 %
 - Feinnadelaspiration: sterile vs. Infizierte Nekrose (Keimbestimmung, Antibiogram!)
 
 Ranson-Score (Mortalitäts RISK)
-\> 55a, Leuko\> 16, Gluc > 200, LDH > 350, AST > 250 HK-Abfall \> 10%, Calcium-Abfall > 8, BE
+\> 55a, Leuko\> 16, Gluc > 200, LDH > 350, AST > 250 HK-Abfall \> 10 %, Calcium-Abfall > 8, BE
 \> 4 (Azidose), pos. Bilanz \> 6l, paO₂\< 60 (min. CPAP)
-5-6 signs 40%, > 7 signs 99% Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum, Aszites, Pleuraerguss, Nekrose,..
+5-6 signs 40 %, > 7 signs 99 % Mortalitätsrisk Balthazar-Index (CT-Index): ödematös, Flüssigkeitssaum, Aszites, Pleuraerguss, Nekrose,..
 
 
 

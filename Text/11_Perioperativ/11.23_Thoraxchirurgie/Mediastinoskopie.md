@@ -9,7 +9,7 @@ status: final
 
 # Mediastinoskopie
 
-Komplikationen (~ 1,5%):
+Komplikationen (~ 1,5 %):
 
 - Blutungen,
 - Pneumothorax,

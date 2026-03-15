@@ -69,6 +69,6 @@ Anhand eines Vergleichs des Messergebnisses mit einer Referenztabelle
 ermittelt die Auswerteelektronik im Pulsoxymeter, welcher prozentuale
 Anteil an oxygeniertem Hämoglobin vorliegt. Übliche Werte der
 arteriellen Sauerstoffsättigung liegen beim Gesunden zwischen 96 und
-100%. Zusätzlich wird auch die ermittelte Pulsfrequenz angezeigt. Je
+100 %. Zusätzlich wird auch die ermittelte Pulsfrequenz angezeigt. Je
 nach Gerät ergänzt um verschiedene Zusatzfunktionen, wie
 beispielsweise Speicherfunktionen für gemessene Werte.

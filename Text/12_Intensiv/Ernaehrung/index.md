@@ -21,12 +21,12 @@ Bei BMI\> 30 wird auf das Normalgewicht, während bei untergewichtigen Persone
 Erhöhter Bedarf bei:
 x 1,2 bei Sepsis, Peritonitis Polytrauma, Verbrennung Reduzierung bei:
 Schwere Störung der GI-Motilität + Störung der Glukoseverwertung = BUN\> 30 mg/dl/d  +
-Hypertriglyceridämie \> 350 mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60% KH, 20-35% Fett, 10-15%
+Hypertriglyceridämie \> 350 mg/dl Prinzipiell sollte sich die Ernährung wie folgt zusammensetzten: 50-60 % KH, 20-35 % Fett, 10-15 %
 Eiweiß
 
 
 Geplante Kalorienzufuhr
-: 1 Tag 25%, 2 Tag 50%, 3 Tag 75%, 4 Tag 100%
+: 1 Tag 25 %, 2 Tag 50 %, 3 Tag 75 %, 4 Tag 100 %
 
 CIMON: kontinuierliche abdominelle Druckmessung mit kombinierter Ernährungs-  und Drucksonde.
 
@@ -48,11 +48,11 @@ Parenertal: SMOF Kabiven 1100kcal (3 Kammern-Mischbeutel) ab dem 7  Tag durch Vi
 Supradyn)+ Spurenelemente (Cernevit) ergänzen. Kontraindiziert bei Sojaallergie!
 
 Zusammensetzung enteraler Sondenkost (enthalten ausreichend Spurenelemente):
-Starter: keine Ballaststoffe, 2/3 Protein 1/3 KH minimal Fett Survimed OPD: oligopeptide, vollresorbierbar, 68% KH,
-12% Fett, 20% Proteine Isosource Standart: 30% Fett, 20% Protein, 50% KH + Ballaststoffe, 500 ml
-à 500kcal Novasource GI Control: 30% Fett, 20% Protein, 50% Kh + lösliche Ballaststoffe 500 ml/500kcal Fresubin energy fibre: 750kcal/500 ml Fresubin 2kcal HP fibre: 1000kcal/500 ml 20% Protein 33%KH 48% Fett Diabetika: Isosource Faser Ca. 1500 ml enterale Ernährung deckt den Bedarf an Vitaminen und Spurenelementen
+Starter: keine Ballaststoffe, 2/3 Protein 1/3 KH minimal Fett Survimed OPD: oligopeptide, vollresorbierbar, 68 % KH,
+12 % Fett, 20 % Proteine Isosource Standart: 30 % Fett, 20 % Protein, 50 % KH + Ballaststoffe, 500 ml
+à 500kcal Novasource GI Control: 30 % Fett, 20 % Protein, 50 % Kh + lösliche Ballaststoffe 500 ml/500kcal Fresubin energy fibre: 750kcal/500 ml Fresubin 2kcal HP fibre: 1000kcal/500 ml 20 % Protein 33 %KH 48 % Fett Diabetika: Isosource Faser Ca. 1500 ml enterale Ernährung deckt den Bedarf an Vitaminen und Spurenelementen
 
-In der Praxis werden nur 50-70%  der verordneten Menge gegeben, weil erhöhte Restmengen,
+In der Praxis werden nur 50-70 %  der verordneten Menge gegeben, weil erhöhte Restmengen,
 Übelkeit, Erbrechen, Diarrhoe, Eingriffe, Diagnostik.
 Ernährungsprotokoll empfohlen.
 
@@ -94,7 +94,7 @@ Komplikationen: intraluminale Flüssigkeitszunahme mit verstärkter Gasbildung m
 
 ## 37.4. Gastroparese *
 
-Ursachen: postoperativer Ileus (\> 50%  postop), SHT (\> 60%), Verbrennung, Schwangerschaft,
+Ursachen: postoperativer Ileus (\> 50 %  postop), SHT (\> 60 %), Verbrennung, Schwangerschaft,
 Opiate, Clonidin, Katecholamine, Betablocker, DM (häufig va. NIDDM), CNI, Gastroösophagealer Reflux, SLE, Muskeldystrophie Duchenne, ....
 Klinik: erhöhte RM, Völlegefühl,
 Aufstoßen, Übelkeit, Erbrechen,...

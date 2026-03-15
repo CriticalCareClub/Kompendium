@@ -20,9 +20,9 @@ Magnesium/index
 
 ## Magnesiumsulfat
 
-## Natriumchlorid 0,9%
+## Natriumchlorid 0,9 %
 
-## Natriumchlorid 0,45%
+## Natriumchlorid 0,45 %
 
 ## Natriumhydrogencarbonat
 

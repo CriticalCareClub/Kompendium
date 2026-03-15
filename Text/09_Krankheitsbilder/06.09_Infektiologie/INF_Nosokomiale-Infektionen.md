@@ -27,7 +27,7 @@ Klinik: Fieber, Dysurie, Bakteriämie,...
 
 Keimnachweis:  \> 105 koloniebildende Einheiten KBE/ml Urin + max. 2 verschiedene Keime ODER
 \> 103 bei positivem Nitrit/Leukos im Harn Einwanderung  über Außenseite des HK, beim Ablassen verunreinigen durch Darmkeime durchs Personal.
-Therapie: HK-Wechsel (in 30-50% spontane Sanierung) ev. AB
+Therapie: HK-Wechsel (in 30-50 % spontane Sanierung) ev. AB
 
 
 
@@ -48,7 +48,7 @@ Prävention:
 
 
 
-## 36.3. Gefäßkatheter assoziierte Infekte (90% ZVK) *
+## 36.3. Gefäßkatheter assoziierte Infekte (90 % ZVK) *
 
 Keimnachweis
 : Katheterspitze, DTP  \>  2h diff., mehr Wachstum als periphere Blutprobe 5:1, gleicher Keim in BK und am Katheter!
@@ -62,7 +62,7 @@ Häufige Erreger: Staphylokokken, Enterokokken, Enterobacter, P. aeruginosa, Can
 
 ## 36.4. Clostridium difficile assoziierte Diarrhöe und Colitis *
 
-= gram. Positiv, anaerob, sporenbildende Stäbchen, bildet Enterotoxin A und Zytotoxin B Bei 95%  der pseudomembranöse Kolitis ursächlich..
+= gram. Positiv, anaerob, sporenbildende Stäbchen, bildet Enterotoxin A und Zytotoxin B Bei 95 %  der pseudomembranöse Kolitis ursächlich..
 Übertragung durch Stuhl, Hände, Toiletten, Telefon,...
 
 Risikofaktoren
@@ -126,7 +126,7 @@ EORTC Kriterien für Pilzinfektion Mögliche
 : 1 Risikofaktor + Klinischer Faktor Wahrscheinliche: Risikof.+Klinischer Faktor+mikrobiol. Faktor Gesicherte: positive Kultur, histopatholog. Invasivitätsnachweis im sterilen Material Va. Hämato/onkologischer Patient, ICU-Patient, Immunsuppremierte Pat. (Transplant,...)
 
 1,3 Beta D-Glucan Test
-: negative prädektiver Wert, kann mit 95%  Sicherheit eine Pilzinfektion ausschließen!
+: negative prädektiver Wert, kann mit 95 %  Sicherheit eine Pilzinfektion ausschließen!
 
 Ev. PCT-Erhöhung bei invasiven Pilzinfektionen (keine gesicherten Daten)
 

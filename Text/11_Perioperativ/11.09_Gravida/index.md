@@ -32,7 +32,7 @@ Erlaubte Anästhetika
   - Muskelrelaxantien
   - LA: Ropivacain und Bubivacain sind aufgrund hoher Proteinbindung schlecht Plazentagängig
   - Ketanest bis 1 mg / kg KG (ab 2 mg / kg KG entspricht es ca. 10 IE Synto!)
-  - Volatile Anästh: MAC um 40%  reduzieren, weil red. FRC! Hemmen dosisabhängig die Uteruskontraktion, mit Gefahr eines atonen Uterus.
+  - Volatile Anästh: MAC um 40 %  reduzieren, weil red. FRC! Hemmen dosisabhängig die Uteruskontraktion, mit Gefahr eines atonen Uterus.
   - Penicillin und Cephalosporine nach strenger Ind.
   - NRSA nur im 1+2 Trimester, ab 3  Trimester nur Paracetamol, da sonst erhöhte Blutungsneigung und vorzeitiger Verschluss des Ductus botalli
 

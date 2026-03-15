@@ -165,7 +165,7 @@ Ein Fall für den Herzkatheter.
 Eine Auswertung von Daten zwischen 2006 und 2016 von {term}`🗎 Mayr 2019` zeigt, dass sich in diesem Zeitraum die durchschnittliche Zeit vom ersten EKG am Patienten bis zur ersten Dehnung (*"Time to balloon"*) im Katheterzentrum von 2006 noch 153 Minuten auf nur mehr 92 Minuten in 2010 reduziert hat.
 Während 2006 die Primärtransporte in ein Katheterzentrum noch bei 51 Prozent lagen, wurden im Verlauf 90 Prozent der Patienten direkt in ein Katheterzentrum gebracht.
 Auch die Guideline-konforme Behandlung im Notarztwagen mit Blutverdünnung, Plättchenhemmung und medikamentöser Behandlung, konnte auf 94 Prozent gesteigert werden.
-Die Ein-Jahres-Mortalität der Patienten lag zu Beginn des Netzwerks bei 8,7% und sank auf 4,3%. Die kardiovaskuläre Mortalität sank von 7,8% auf 3,8%, während die Mortalität bei primärer PCI von 4,7% auf 2,8% sank.
+Die Ein-Jahres-Mortalität der Patienten lag zu Beginn des Netzwerks bei 8,7 % und sank auf 4,3 %. Die kardiovaskuläre Mortalität sank von 7,8 % auf 3,8 %, während die Mortalität bei primärer PCI von 4,7 % auf 2,8 % sank.
 Die Auswirkungen von
 
 - **verbesserter Transportlogistik**,

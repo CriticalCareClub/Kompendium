@@ -16,11 +16,11 @@ status: sprint
 
 :::{margin} Verteilungsräume
 
--   *I*ntra*Z*ellular*R*aum (IZR), 40% KG
--   *E*xtra*Z*ellular*R*aum (EZR), 20% KG
+-   *I*ntra*Z*ellular*R*aum (IZR), 40 % KG
+-   *E*xtra*Z*ellular*R*aum (EZR), 20 % KG
 
-    -   Zwischengewebsraum, ~ 16%
-    -   Gefäßraum ~ 4%
+    -   Zwischengewebsraum, ~ 16 %
+    -   Gefäßraum ~ 4 %
 
 -   Begrenzungen:
 
@@ -29,15 +29,15 @@ status: sprint
 :::
 
 
-Das Körperwasser macht ca. 60% des Körpergewichtes aus und teilt sich auf:
+Das Körperwasser macht ca. 60 % des Körpergewichtes aus und teilt sich auf:
 
-- *IntraZellularRaum* (IZR), 40% KG
-- *ExtraZellularRaum* (EZR), 20% KG
+- *IntraZellularRaum* (IZR), 40 % KG
+- *ExtraZellularRaum* (EZR), 20 % KG
 
   - Zwischengewebsraum,
-    \~ 16%: "freier" Raum zwischen den
+    \~ 16 %: "freier" Raum zwischen den
     Zellen im Gewebe
-  - Gefäßraum ~ 4%: Raum in den Blutgefäßen
+  - Gefäßraum ~ 4 %: Raum in den Blutgefäßen
 
 Der Intrazellularraum (IZR) wird vom Extrazellularraum (EZR) durch die Zellmembran getrennt, der Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 

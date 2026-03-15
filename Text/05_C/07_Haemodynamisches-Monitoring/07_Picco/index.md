@@ -45,7 +45,7 @@ Mittlere Transitzeit (MTt)
 
 Downsloapzeit (DSt)
 
-: Die DSt definiert die Zeit zwischen den beiden Messpunkten 75% und 25% des Maximums der Indikatorverdünnungskurve nach Stewart-Hamilton-Methode
+: Die DSt definiert die Zeit zwischen den beiden Messpunkten 75 % und 25 % des Maximums der Indikatorverdünnungskurve nach Stewart-Hamilton-Methode
 
 
 

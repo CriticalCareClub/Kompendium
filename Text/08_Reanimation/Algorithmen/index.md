@@ -28,7 +28,7 @@ Die ERC betont die Wichtigkeit *frühzeitigen* Handelns.
 Durch engmaschiges Monitoring von Notfallpatienten soll ein drohender Kreislaufstillstand frühzeitig erkannt werden,
 sodass rechtzeitig Reanimationsbereitschaft hergestellt wird.
 Nur so kann im Falle eines tatsächlichen Kreislaufstillstandes der Algorithmus sofort beginnen und unterbrechungsfrei abgearbeitet werden.
-Mit jeder Minute Verzögerung sinkt die Überlebenswahrscheinlichkeit des Patienten um ca. 10%.
+Mit jeder Minute Verzögerung sinkt die Überlebenswahrscheinlichkeit des Patienten um ca. 10 %.
 
 Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt vor:
 

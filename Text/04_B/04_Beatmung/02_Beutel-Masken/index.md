@@ -35,11 +35,11 @@ Um die Atemwege freizuhalten, kann u. U. unterstützend ein Airway-Device wie 
 
 | Art der Beatmung                                       | O₂-Konzentration |
 | ------------------------------------------------------ | ---------------: |
-| Mund-zu-Mund Beatmung                                  | 16–17%           |
-| Beutel-Masken-Beatmung                                 | 21%              |
-| Beutel-Masken-Beatmung mit O₂ (15 L / min)             | 40–70%           |
-| Beutel-Masken-Beatmung mit O₂ (15 L / min) + Reservoir | fast 100%        |
-| Beatmungsgerät, FiO₂ regelbar                          | 21–100%          |
+| Mund-zu-Mund Beatmung                                  | 16–17 %           |
+| Beutel-Masken-Beatmung                                 | 21 %              |
+| Beutel-Masken-Beatmung mit O₂ (15 L / min)             | 40–70 %           |
+| Beutel-Masken-Beatmung mit O₂ (15 L / min) + Reservoir | fast 100 %        |
+| Beatmungsgerät, FiO₂ regelbar                          | 21–100 %          |
 
 :::
 

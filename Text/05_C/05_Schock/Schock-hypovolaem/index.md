@@ -28,7 +28,7 @@ Es können dabei (Voll-)Blut, oder auch nur Blutbestandteile wie Plasma oder Was
 
 Der Verlust kann jeweils nach innen und/oder nach außen erfolgen, siehe {ref}`Tafel-UebersichtUrsachenFluessigkeitsverlustSchock`.
 Die häufigste Ursache für einen hypovolämen Schock ist eine Blutung nach innen oder nach außen, bei Kindern ist es Erbrechen und Durchfall.
-Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu 20% des Blutvolumens gut kompensiert werden, auf größere Verluste folgt ein Absinken des Herzauswurfs.
+Bei akutem Flüssigkeitsverlust kann ein Verlust von bis zu 20 % des Blutvolumens gut kompensiert werden, auf größere Verluste folgt ein Absinken des Herzauswurfs.
 
 (tafel-uebersichtursachenfluessigkeitsverlustschock)=
 

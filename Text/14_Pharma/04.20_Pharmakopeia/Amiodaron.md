@@ -43,9 +43,9 @@ Indikation(en)
     - Bolusgabe 300 mg i.v. nach dem 3. Schock,
       evtl. einmalig 150 mg i.v. repetitieren
   - Sonstige AV- oder ventrikuläre tachykarde Rhythmusstörung:
-    5 mg / kg Körpergewicht i.v. Infusion über 20–120 min (verdünnt in 250 ml 5%iger Glukoselösung).
+    5 mg / kg Körpergewicht i.v. Infusion über 20–120 min (verdünnt in 250 ml 5 %iger Glukoselösung).
     Danach ggf. wiederholte Infusion bis zu 1.200 mg / 24 h (ca. 15 mg / kg KG) (Perfusor).
-    Im Notfall langsame i.v.-Injektion 150–300 mg in 10–20 mL 5%iger Glukoselösung über mind. 3 min möglich (Monitoring!)
+    Im Notfall langsame i.v.-Injektion 150–300 mg in 10–20 mL 5 %iger Glukoselösung über mind. 3 min möglich (Monitoring!)
     Ggfs. Umstellung auf orale Therapie
   - Kinder und Jugendliche: Off-label. Für Neugeborene i.v. kontraindiziert (Benzylalkohol), sonst:
     - Initialdosis: 5 mg / kg KG über 20 Minuten bis zu 2 Stunden
@@ -53,7 +53,7 @@ Indikation(en)
 
 Anwendungshinweise
 : - I.v.-Anwendung nur unter Monitoring. Aufgrund hämodynamischer Effekte wenn möglich keine Bolus-Gabe, sondern Kurzinfusion.
-  - **Lösungsmittel: Glukose 5%**
+  - **Lösungsmittel: Glukose 5 %**
 
 Spezielle Patientengruppen
 : - Leberinsuffizienz: keine Anpassung der Dosis

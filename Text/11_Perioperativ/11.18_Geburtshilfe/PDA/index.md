@@ -21,7 +21,7 @@ Indikation für PDA
 
 Praktischer Ablauf
 : iv. Zugang, 1000 Elomel, RR, HF, CTG
-  Höhe L2/3: Periduralraum meist nach 3-5cm: Naropin 2% +0,5 mcg Sufenta/ml -- initial 5 ml Boli bis max 10-15 ml, danach 6-10 ml/h Perfusor
+  Höhe L2/3: Periduralraum meist nach 3-5cm: Naropin 2 % +0,5 mcg Sufenta/ml -- initial 5 ml Boli bis max 10-15 ml, danach 6-10 ml/h Perfusor
 
 Urs. mütterlicher Letalität
 : AN-Aspiration, Thromboembolie, Blutungen
@@ -52,7 +52,7 @@ Ursache des verkleinerten Epiduralraum bei Gebärenden
 
 Was tun wenn PDK irrtümlich intrathekal liegt?
 : Im Zweifelsfall Liquortest mit positivem Zucker!
-  24 h belassen: Eventuell 1-2 ml Naropin 0,1% Bolus und danach 1 ml/h kontinuierlich für Geburt.
+  24 h belassen: Eventuell 1-2 ml Naropin 0,1 % Bolus und danach 1 ml/h kontinuierlich für Geburt.
   Engmaschige Blutdruck und Herzfrequenzüberwachung,
   Pulsoxy, Kein Duschen!
 

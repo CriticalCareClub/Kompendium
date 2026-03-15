@@ -17,11 +17,11 @@ Synonyme: Durchgangssyndrom, Hirnorganisches Psychosyndrom
 - „De lira ire": "aus der Spur geraten“
 - „delirare": "wahnsinnig sein“
 
-Das Delir ist häufig: Bis 2/3 der nicht beatmeten IntensivpatientInnen zeigen Formen eines Delir, bei beatmete PatientInnen trit dies noch noch häufiger auf (ca 80%).
+Das Delir ist häufig: Bis 2/3 der nicht beatmeten IntensivpatientInnen zeigen Formen eines Delir, bei beatmete PatientInnen trit dies noch noch häufiger auf (ca 80 %).
 Es verlängert den Intensivaufenthalt, verschlechtert die Prognose und vermindert die Lebensqualität nach Entlassung. {term}`🗎 Davydow 2009a` {term}`🗎 Davydow 2009b` {term}`🗎 Davydow 2009c` {term}`🗎 Davydow 2009d` {term}`🗎 Davydow 2010`
 
-<!-- Die Punktprävalenz klinisch signifikanter Symptome einer posttraumatischen Belastungsstörung lag zwischen 10% und 28%.
-Die Punktprävalenz klinisch signifikanter depressiver Symptome lag zwischen 7% und 28%.
+<!-- Die Punktprävalenz klinisch signifikanter Symptome einer posttraumatischen Belastungsstörung lag zwischen 10 % und 28 %.
+Die Punktprävalenz klinisch signifikanter depressiver Symptome lag zwischen 7 % und 28 %.
 Vorerkrankungen, psychiatrische und/oder Entwicklungsprobleme und elterliche Psychopathologie waren mit der Anfälligkeit für psychiatrische Morbidität verbunden.
 Weder das Alter noch das Geschlecht eines Kindes erhöhten durchgängig die Anfälligkeit für Psychopathologie nach der Erkrankung.
 In einigen, aber nicht allen Studien waren die Exposition gegenüber einem erhöhten Schweregrad medizinischer Erkrankungen und Merkmale der Leistungserbringung auf der pädiatrischen Intensivstation (z. B. invasive Eingriffe) Prädiktoren für psychiatrische Erkrankungen.

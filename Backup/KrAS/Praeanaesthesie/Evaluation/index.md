@@ -146,16 +146,16 @@ Definierte Risikofaktoren:
   - peri-OP-Risiko f. MCI od. Tod
 - - I
   - keine Risikofaktoren
-  - 0,4%
+  - 0,4 %
 - - II
   - 1 Risikofaktor
-  - 0,9%
+  - 0,9 %
 - - III
   - 2 Risikofaktoren
-  - 6,6%
+  - 6,6 %
 - - IV
   - \> 2 Risikofaktoren
-  - 11%
+  - 11 %
 :::
 
 [^cite_lee:1999]: Thomas H. Lee et al.:

@@ -38,7 +38,7 @@ Eine Läsion \> TH7 führt oft zu Hypotonie und Bradykardie.
 - Tracheotomie: immer bei hohem Querschnitt (C4-5)
 - Thromboseprophylaxe NMWH, Physiotherpie mit Durchbewegen und Atemgymn., Strümpfe
 - Ulkusprophylaxe: H2-Blocker, Antazida
-- Blasenrehabilitätion: initial areflektorische  Überlaufblase, Automatisierung am Ende des spinalen Schocks, SBK nach 48 h, häufig HWI (70%), frühzeitig Blasentraining mit Einmalkatheter 3-4h.
+- Blasenrehabilitätion: initial areflektorische  Überlaufblase, Automatisierung am Ende des spinalen Schocks, SBK nach 48 h, häufig HWI (70 %), frühzeitig Blasentraining mit Einmalkatheter 3-4h.
 - Schmerztherapie: Opiate zurückhaltend wg. Atemdepression, eher NSAR
 - Infektprophylaxe: Hygiene!! Abstriche regelm.
 - Spastik: Frühphase schlaffe Areflexie + Spastik in der Spätphase; Therapie: Baclofen (Lioresal p.o.) blockiert Synapsen und dämpft Spasmen; ultima ratio longit. Myelotomie OP

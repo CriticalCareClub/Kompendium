@@ -55,7 +55,7 @@ $$
 {\color{blue}\rm{CaO}_2} = {\color{purple}\rm{Hb} \times 1,34 \color{black}\times \color{blue}\rm{SaO}_2} {\color{gray} \; \; ( + \: \rm{paO}_2 \times 0{,}0031)}
 $$
 
-Der physikalisch gelöste Sauerstoff macht nur einen verschwinden geringen Anteil am Sauerstoffgehalt (\< 2%) aus und wird daher in der Praxis (und im Folgenden) vernachlässigt.
+Der physikalisch gelöste Sauerstoff macht nur einen verschwinden geringen Anteil am Sauerstoffgehalt (\< 2 %) aus und wird daher in der Praxis (und im Folgenden) vernachlässigt.
 Bringt man nun mittels des Kreislaufs (${\color{red}\rm{CO}}$) Bewegung in das "stehende" Blut, so erhält man das Sauerstoffangebot **DO₂**:
 
 $$

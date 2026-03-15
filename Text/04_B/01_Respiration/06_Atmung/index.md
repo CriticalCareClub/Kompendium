@@ -180,7 +180,7 @@ Insbesonder bei der {ref}`Schnappatmung <Schnappatmung>` kann genau dies passier
 
 Als **Atemgas**
 bezeichnet man jenes Gasgemisch, welches eingeatmet wird.
-Normalerweise ist das ein Gasgemisch aus Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen ("*Raumluft*"). Für eine ausreichende Atmung ist natürlich auch eine ausreichende O₂-Konzentration [^partialdruck] der eingeatmeten Luft notwendig. Der normale O₂-Gehalt der Umgebungsluft beträgt 21%.
+Normalerweise ist das ein Gasgemisch aus Stickstoff, Sauerstoff, Kohlendioxid und Edelgasen ("*Raumluft*"). Für eine ausreichende Atmung ist natürlich auch eine ausreichende O₂-Konzentration [^partialdruck] der eingeatmeten Luft notwendig. Der normale O₂-Gehalt der Umgebungsluft beträgt 21 %.
 
 [^partialdruck]: Genau genommen ist nicht nur die Sauerstoffkonzentration, sondern
     auch der Sauerstoffpartial*druck* entscheidend.
@@ -196,13 +196,13 @@ und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als einge
     +----------------+----------------------+-------------------+
     | **Raumluft**   |                      | **Ausatemluft**   |
     +================+======================+===================+
-    | *21%*          | Sauerstoff (O₂)      | *16%*             |
+    | *21 %*          | Sauerstoff (O₂)      | *16 %*             |
     +----------------+----------------------+-------------------+
-    | 77,97%         | Stickstoff (N)       | 78%               |
+    | 77,97 %         | Stickstoff (N)       | 78 %               |
     +----------------+----------------------+-------------------+
-    | *0,03%*        | Kohlendioxid (CO₂)   | *4%*              |
+    | *0,03 %*        | Kohlendioxid (CO₂)   | *4 %*              |
     +----------------+----------------------+-------------------+
-    | 1%             | Edelgase             | 1%                |
+    | 1 %             | Edelgase             | 1 %                |
     +----------------+----------------------+-------------------+
 
 
@@ -246,8 +246,8 @@ Voraussetzung für den Gasaustausch ist die ausreichende *Be-* und
 - Lunge: Kohlendioxid (CO₂): Blut → Alveolen
 :::
 
-Die Umgebungsluft enthält 78,1 % Stickstoff, 20,9% Sauerstoff, 0,03%
-Kohlendioxid und 0,97% Edelgase. Die Zusammensetzung (= prozentualer Anteil der Gase) der Luft ist höhenunabhängig. Der Luftdruck hingegen (somit auch der Partialdruck = Anzahl der Gasmoleküle pro Volumseinheit) ist sehr wohl höhenabhängig.
+Die Umgebungsluft enthält 78,1 % Stickstoff, 20,9 % Sauerstoff, 0,03 %
+Kohlendioxid und 0,97 % Edelgase. Die Zusammensetzung (= prozentualer Anteil der Gase) der Luft ist höhenunabhängig. Der Luftdruck hingegen (somit auch der Partialdruck = Anzahl der Gasmoleküle pro Volumseinheit) ist sehr wohl höhenabhängig.
 
 ```{eval-rst}
 ============== =========== ==== ===
@@ -262,7 +262,7 @@ CO₂            4.0         29
 
 Die Vol.-% können durch die Anreicherung der Atemluft mit Wasser verändert sein. Der Gasaustausch erfolgt durch Diffusion und ist daher Abhängig vom Konzentrationsunterschied zwischen Alveole und Blut. Auch der Partialdruck beeinflusst die Gas-Konzentration: Je höher der Sauerstoff-Partialdruck (= je mehr O₂-Teilchen), desto höher ist die Bindung des Sauerstoffes im Blut.
 
-Der Sauerstoff-Transport erfolgt über eine direkte Bindung an Erythrozyten (roten Blutkörperchen). Der Kohlendioxid-Transport hingegen nicht - CO₂ ist entweder physikalisch gelöst im Blut (10%) oder chemisch gebunden als HCO₃⁻ (= Hydrogenkarbonat, 90%).
+Der Sauerstoff-Transport erfolgt über eine direkte Bindung an Erythrozyten (roten Blutkörperchen). Der Kohlendioxid-Transport hingegen nicht - CO₂ ist entweder physikalisch gelöst im Blut (10 %) oder chemisch gebunden als HCO₃⁻ (= Hydrogenkarbonat, 90 %).
 
 Beeinflussende Faktoren
 

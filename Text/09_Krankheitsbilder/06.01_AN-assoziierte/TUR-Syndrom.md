@@ -41,7 +41,7 @@ Erstmaßnahme
 : - Flüssigkeitszufuhr stoppen
   - Diurese forcieren: Schleifendiuretika
   - Benzodiazepine (Agetiertheit, Krampfneigung)
-  - Natriumkorrektur mit 3% NaCL (max. 100 ml/h) Zielwert: 125 mmol/l
+  - Natriumkorrektur mit 3 % NaCL (max. 100 ml/h) Zielwert: 125 mmol/l
     - Na-Bedarf: 0,2 × (Na-Soll - Na Ist) × kg
     - Evtl. Nitrate, Inotropie ↑ mit Dobutamin
     - Evtl. Urinalkalisierung (Hämolyse, ANV)

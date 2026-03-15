@@ -6,7 +6,7 @@ status: final
 
 Als Reanimation werden Wiederbelebungsmaßnahmen im Falles eines Kreislaufstillstands verstanden.
 Die korrekte und routinierte Durchführung der Reanimation hat großen Einfluss auf das Überleben des Patienten bzw. seine Lebensqualität nach der Entlassung aus der Spitalsbehandlung.
-Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach rettungsdienstlichen Reanimationen mit ungefähr 10% sehr gering.
+Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach rettungsdienstlichen Reanimationen mit ungefähr 10 % sehr gering.
 
 Üblicherweise werden die Reanimationsmaßnahmen lose nach ihrer Invasivität und dem Anwender (Laie, nicht-ärztliches und ärztliches Fachpersonal) in **Basic Life Support** (**BLS**) und **Advanced Life Support** (**ALS**), und nach der Altersgruppe (Erwachsene, Kinder, Neugeborene) unterschieden, von dieser GLiederung möchten wir hier absehen und einen integrativen Ansatz wählen.
 Ausgehend von der Reanimation eines erwachsenen Patienten werden wir die Reanimation auf Basis der grundsätzlichen **Säulen der Reanimationstherapie** besprechen.

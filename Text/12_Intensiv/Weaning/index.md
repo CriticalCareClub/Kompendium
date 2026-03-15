@@ -18,7 +18,7 @@ status: final
 6. Schrittweise Reduktion der Druckunterstützung nach BGA, Patientenkraft und Atemmechanik
 7. CPAP
 8. PEEP-Reduktion
-9. Extubation bei PEEP ≤  8 mbar und FiO₂ ≤ 40%
+9. Extubation bei PEEP ≤  8 mbar und FiO₂ ≤ 40 %
 :::
 
 
@@ -48,7 +48,7 @@ Weaning vorläufig sistieren; Weaning reduzieren und Beatmungsaufwand erhöhen) 
 - Ausreichende Wachheit und neurologische Stabilität
 - Adäquat ausgeglichener Säure-Basen-Haushalt
   (respiratorisch und  metabolisch)
-- Ausreichende Oxygenierung: SaO₂ ≥ 90% bei FiO₂ ≤ 40% und PEEP ≤ 8 mbar
+- Ausreichende Oxygenierung: SaO₂ ≥ 90 % bei FiO₂ ≤ 40 % und PEEP ≤ 8 mbar
 - Ausgeglichener Elektrolythaushalt
   (insbes. Kalzium, Phosphat und Magnesium)
 - Adäquate Compliance/Resistance
@@ -63,10 +63,10 @@ Weaning vorläufig sistieren; Weaning reduzieren und Beatmungsaufwand erhöhen) 
 
 :::{hlist}
 - Inadäquate Atemmechanik
-- Blutdruck- oder Herzfrequenzanstieg > 25%
+- Blutdruck- oder Herzfrequenzanstieg > 25 %
 - Tachypnoe > 35 / min
 - Abnahme des AZV, zunehmend flache Atmung, RSBI \< 105 / min / L
-- Verschlechterung der Oxygenierung (SaO₂ \< 90%) bzw. paO₂
+- Verschlechterung der Oxygenierung (SaO₂ \< 90 %) bzw. paO₂
   \< 50–60 mm Hg bei konstantem FiO₂
 - Progredienter paCO₂-Anstieg
 - Zunehmende Azidose (respiratorisch oder metabolisch)
@@ -82,11 +82,11 @@ Weaning vorläufig sistieren; Weaning reduzieren und Beatmungsaufwand erhöhen) 
 
 Die Entwöhnung vom Respirator (Weaning) kann entweder über die Beatmungsformen DuoPAP, ASV und/oder ASB, bzw. in einer Folge dieser Formen, gemäß den individuellen klinischen Erfordernissen vorgenommen werden.
 
-Das Weaning beginnt mit einer Rücknahme der Beatmungsinvasivität, d. h. unter Kontrolle der Oxygenierung erfolgt zunächst eine Reduktion der FiO₂ auf \< 50% und in Abhängigkeit von der Ventilation eine Reduktion des oberen Druckniveaus (Pinsp).
+Das Weaning beginnt mit einer Rücknahme der Beatmungsinvasivität, d. h. unter Kontrolle der Oxygenierung erfolgt zunächst eine Reduktion der FiO₂ auf \< 50 % und in Abhängigkeit von der Ventilation eine Reduktion des oberen Druckniveaus (Pinsp).
 Die weitere Entwöhnung erfolgt bei der Beatmungsform DuoPAP durch schrittweise Reduktion der Beatmungsfrequenz auf \< 10 / min.
 Bei ausreichender Spontanatmung kann entweder die Beatmungsform DuoPAP beibehalten werden oder es wird in den Modus ASB bei zunächst unveränderten Druckniveaus $P_{\textrm{insp}_\textrm{ASB}} =  P_{\textrm{insp}_\textrm{DuoPAP}} - P_\textrm{PEEP}$ gewechselt.
 
-Als nächster Schritt erfolgt unter Monitoring der Spontanatemfrequenz, des Atemzugvolumens und des PaCO₂ die schrittweise Reduktion des $P_\textrm{Support}$ und unter Monitoring der Oxygenierung die schrittweise Reduktion der FiO₂ auf \< 50% und des PEEP auf 8-10 mbar.
+Als nächster Schritt erfolgt unter Monitoring der Spontanatemfrequenz, des Atemzugvolumens und des PaCO₂ die schrittweise Reduktion des $P_\textrm{Support}$ und unter Monitoring der Oxygenierung die schrittweise Reduktion der FiO₂ auf \< 50 % und des PEEP auf 8-10 mbar.
 
 :::{figure} /Bilder/Beatmung/Hamilton/G5-WeaningImBereich-36-Minuten-invert.png
 :width: 100%
@@ -98,12 +98,12 @@ Patient im ASV-Modus mit voller Spontanamtung. Eine Umstellung in den Spontanmod
 
 Zeigt der Patient unter ASB bei einer Druckunterstützung von 5 mbar über PEEP oder im DuoPAP-Modus bei einer Druckunterstützung von 8-12 mbar und einer mandatorischen Atemfrequenz von 5/min bei einem PEEP-Niveau von 5-8 mbar  keine Zeichen der respiratorischen Insuffizienz kann in der postoperativen Respiratorentwöhnung die Extubation direkt aus der Beatmungsform DuoPAP bzw. ASB oder nach Durchführung eines zweistündigen "CPAP-trials" (ASB ohne Druckunterstützung) vorgenommen werden, vorausgesetzt der Patient ist wach und zeigt bei vorhandenen Schutzreflexe (⇒ Hustenreflex!) keine Zeichen der respiratorischen Insuffizienz.
 
-Grundsätzlich ist zur Extubation der CPAP-Modus (ASB ohne $P_\textrm{Support}$) mit einem PEEP ≤  8 mbar und einer FiO₂ ≤ 40% anzustreben.
+Grundsätzlich ist zur Extubation der CPAP-Modus (ASB ohne $P_\textrm{Support}$) mit einem PEEP ≤  8 mbar und einer FiO₂ ≤ 40 % anzustreben.
 
 :::{hlist}
 - Weaning-Indikationen bzw. keine Weaning-Kontraindikationen (s. o.)
 - Horovitz-Index ≥ 150
-- SaO₂ > 90% bei FiO₂ ≤ 40%
+- SaO₂ > 90 % bei FiO₂ ≤ 40 %
 - paCO₂ \< 55 mm Hg (sehr patientenindividuell!)
 - Atemfrequenz ≤ 35 / min
 - PEEP ≤ 8 mbar
@@ -180,7 +180,7 @@ Mögliche Ursachen eines Weaning-Versagens:
   - erhöhte Resistance, erschöpfte Atemhilfsmuskulatur,
   - paradoxe Atmung/instabiler Thorax, Rapid S.Breathing
 
-Das Weaning muss abgebrochen werden, wen die AF > 35 / min mit SO₂ < 90% bei unverändertem FiO₂ bleibt, HF > 140 / min oder < 50/min, RRsyst. > 180 oder < 70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
+Das Weaning muss abgebrochen werden, wen die AF > 35 / min mit SO₂ < 90 % bei unverändertem FiO₂ bleibt, HF > 140 / min oder < 50/min, RRsyst. > 180 oder < 70mmHg, vegetative Symptomatik (schwitzen, Übelkeit,...), paradoxe Atmung, Atemnot!
 Ein erfolgreiches Weaning liegt vor, wenn der Patient 48 h Spontanatmung zeigt ohne respiratorische Erschöpfung.
 
 Ursache beheben:

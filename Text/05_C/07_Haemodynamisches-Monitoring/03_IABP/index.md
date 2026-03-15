@@ -109,7 +109,7 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
     Vom Spülventil führt nun ein
   - **Infusionsbesteck** zu einem
 
-- **Infusionsbeutel** mit Spülflüssigkeit für das System (i. d. R. NaCl 0,9%).
+- **Infusionsbeutel** mit Spülflüssigkeit für das System (i. d. R. NaCl 0,9 %).
   Um einen höheren Druck als in der Arterie zu erreichen ist der Infusionsbeutel in einem
 
 - **Druckbeutel** eingelegt.

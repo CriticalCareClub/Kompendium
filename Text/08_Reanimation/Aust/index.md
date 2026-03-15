@@ -27,7 +27,7 @@ Transkutaner PM)
 
 5 H´s
 
-1. Hypoxie: Reanimation mit 100%  Sauerstoff beatmen! Sauerstoffmaske mit Reservoir schafft 85%  FiO₂, ohne max. 50%  bei max. Fluss 10-15l/min. Ziel SO₂ soll 94-98%  sein.
+1. Hypoxie: Reanimation mit 100 %  Sauerstoff beatmen! Sauerstoffmaske mit Reservoir schafft 85 %  FiO₂, ohne max. 50 %  bei max. Fluss 10-15l/min. Ziel SO₂ soll 94-98 %  sein.
 (Thorax beidseits heben und senken! Pneu mit fehlenden Atemgeräuschen! Einseitige Intubation/Fehlintubation etCO₂!)
 2. Hypovolämie  meist bei traumatischer Blutung, GI-Blutung, AA-Ruptur,...=  warme Flüssigkeit, operative Versorgung! (NaCL, RL)
 3. Hyper/Hypokaliämie, Hypokalziämie, Azidose... anamnestische Hinweise CNI, Labor, EKG.
@@ -116,7 +116,7 @@ Blutzuckereinstellung: Hyperglykämie ist mit schlechtem neurologischen Outcome 
 Temperaturkontrolle: 48 h Hypothermie bei komatösen Patienten (VF) 34°C. Drei Phasen:
 Einleitung (Sofort nach ROSC transnasal), Erhaltung mit  Überwachung der Temperatur
 (Coolguard) und Wiedererwärmung. KI bei schweren systemischen Infektionen mit MOF und vorbestehende Gerinnungsstörung. NW der Hypothermie: Shivering, Arrhythmien,
-vermehrte Diurese mit Elektrolytstörungen, vermindert Insulinsekretion und Sensitivität mit Hyperglykämie, verschlechtert Gerinnung, schwächt Immunsystem, Elimination von Sedativa und Muskelrelaxantien ist um ca. 30% vermindert. Nutzen: neuroprotektiv.
+vermehrte Diurese mit Elektrolytstörungen, vermindert Insulinsekretion und Sensitivität mit Hyperglykämie, verschlechtert Gerinnung, schwächt Immunsystem, Elimination von Sedativa und Muskelrelaxantien ist um ca. 30 % vermindert. Nutzen: neuroprotektiv.
 
 Biochemische Marker: NSE (neuronenspezifische Enolase) und Serum-Protein S100 erhöhte Werte sind mit schlechtem Outcome verbunden.
 

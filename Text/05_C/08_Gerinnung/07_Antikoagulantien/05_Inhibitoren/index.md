@@ -13,5 +13,5 @@
 Faktor V-Mangel
 : ist der am weitesten verbreitete erbliche Risikofaktor der Thrombophilie
 
-  = APC-Resistenz, da das aktivierte Protein C nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5%  der Bevölkerung in Europa sind heterozygote Träger.
+  = APC-Resistenz, da das aktivierte Protein C nicht mehr in der Lage ist den Faktor V  durch Proteolyse abzubauen, da dieses durch den Gendefekt strukturell verändert ist. 5 %  der Bevölkerung in Europa sind heterozygote Träger.
   Folgen sind TVT, PE, Abortneigung und intrauterine Wachstumsretation. Therapie: Thromboseprophylaxe

@@ -206,7 +206,7 @@ Derzeit ist *keine Heilung* möglich, jedoch kann eine *deutliche Lebensverläng
 
 #### Prophylaxe
 
-Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer Nadelstichverletzung kann innerhalb von zwei Stunden eine *Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei Sexualkontakten stellt die Verwendung von Kondomen einen effektiven, wenn auch keinen 100%-igen Schutz dar.
+Allgemeine Selbstschutzmaßnahmen bei der Patientenversorgung sind ausreichend. Dazu gehört das Tragen von Untersuchungshandschuhen und die Vermeidung des Kontakts mit Körperflüssigkeiten. Kommt es zu einer Nadelstichverletzung kann innerhalb von zwei Stunden eine *Postexpositionsprophylaxe* (*PEP*) verschrieben werden. Bei Sexualkontakten stellt die Verwendung von Kondomen einen effektiven, wenn auch keinen 100 %-igen Schutz dar.
 
 (hepatitis-toxisch)=
 (hepatitis)=
@@ -323,7 +323,7 @@ Erste Vorzeichen sind Müdigkeit und Inappetenz.
 #### Symptome
 
 Es kommt zu tonischen *Krämpfen der quergestreiften Muskulatur*, oft beginnend bei der Kaumuskulatur (Kiefersperre, Teufelsgrinsen (*Risus sardonicus*)). Der Patient hat starke Schmerzen und entwickelt in Folge der Krämpfe eine *Atemlähmung*.
-Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch etwa 20—30% der Tetanuserkrankten.
+Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch etwa 20—30 % der Tetanuserkrankten.
 Der Wert der Impfung ist daher nach wie vor groß.
 
 :::{figure} /Bilder/PD/6373_lores_tetanus.\*
@@ -383,7 +383,7 @@ Grundsätzlich:
 Die {dfn}`Ebola-Viruserkrankung` (**Ebola**, *engl.* *Ebola Virus Disease*, *Abkz.* *EVD*) ist eine seltene, schwere Infektionskrankheit, die durch Ebola-Viren verursacht wird.
 Diese erzeugen ein oft tödlich verlaufendes Fieber mit Blutungen (*hämorrhagisches* {index}` <Fieber; hämorrhagisches>` Fieber).
 Das Virus verursacht im ganzen Körper schwere Zell- und Gewebsschädigungen, davon sind auch die Blutgefäße betroffen.
-Je nach Virus-Typ verläuft die Erkrankung in 25—90% der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.
+Je nach Virus-Typ verläuft die Erkrankung in 25—90 % der Fälle tödlich. Es kommt immer wieder zu Ausbrüche von Ebola-Epedemien. Aktuell wurde im März 2014 der bisher größte Ausbruch in Westafrika bekannt, der sich derzeit auf die drei Länder *Guinea*, *Liberia* und *Sierra Leone*, sowie auf Teile von *Mali* ausbreitet.
 
 #### Übertragung
 

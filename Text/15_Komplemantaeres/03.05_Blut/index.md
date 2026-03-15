@@ -33,9 +33,9 @@ Das Blut besteht aus folgenden Untereinheiten:
 - Erythrozyten (rote Blutkörperchen): dienen dem Atemgastransport
 - Leukozyten (weiße Blutkörperchen): dienen der spezifischen und
   unspezifischen Immunabwehr. Von der Leukozyten im menschlichen Blut sind
-  63% Granulozyten (60% Neutrophile, 3% Eosinophile, 1% Basophile), 7%
-  Monozyten bzw. Makrophagen und 30% Lymphozyten (23% T-Zellen, 5%
-  B-Zellen, 2% Null-Zellen).
+  63 % Granulozyten (60 % Neutrophile, 3 % Eosinophile, 1 % Basophile), 7 %
+  Monozyten bzw. Makrophagen und 30 % Lymphozyten (23 % T-Zellen, 5 %
+  B-Zellen, 2 % Null-Zellen).
 - Thrombozyten (Blutplättchen): dienen der Blutstillung
 
 Man kann jedoch, basierend auf den Bildungsort der Blutzellen, drei Phasen während der Entwicklung feststellen:
@@ -106,9 +106,9 @@ Zwei Begriffe müssen zum besseren Verständnis von Antigen-Antikörper-Reaktion
 
 - Flüssige Bestandteile (Plasma)
 
-- 10% Proteine, Enzyme, Hormone, Elektrolyte, Glukose, Fette
+- 10 % Proteine, Enzyme, Hormone, Elektrolyte, Glukose, Fette
 
-- 90% Wasser
+- 90 % Wasser
 
 - Aufgaben:
 
@@ -120,7 +120,7 @@ Zwei Begriffe müssen zum besseren Verständnis von Antigen-Antikörper-Reaktion
 
 Die gesamte Blutmenge des menschlichen Körpers wird mit *7 - 8 %* des gesamten Körpergewichts beziffert.
 Damit beträgt das gesamte Blutvolumen eines Durchschnitts-Menschen mit 70 kg ungefähr 5-6 l.
-Ungefähr 80% befinden sich davon im Körperkreislauf, 20% im Lungenkreislauf.
+Ungefähr 80 % befinden sich davon im Körperkreislauf, 20 % im Lungenkreislauf.
 Das Blut kann man in **zelluläre** und **flüssige** Bestandteile unterteilen.
 
 :::{margin} Blut: Aufgaben
@@ -168,7 +168,7 @@ Das Blut hat vielfältige Aufgaben:
 ### Zelluläre Bestandteile
 
 Die Blutbildung wird durch *Erythropoetin* (aus der Niere) gesteuert.
-Junge Erythrozyten (Retikulozyten) beispielsweise betragen ca. 1% der Gesamtzahl an Erythrozyten.
+Junge Erythrozyten (Retikulozyten) beispielsweise betragen ca. 1 % der Gesamtzahl an Erythrozyten.
 
 Es gibt folgende Blutzellen:
 
@@ -181,18 +181,18 @@ Es gibt folgende Blutzellen:
 
   - Granulozyten: unspezifische Immunabwehr
 
-    - neutrophile Granulozyten: ersten am Entzündungsort, beinhalten lysosomatische Enzyme, 60—70%
-    - eosinophile Granulozyten: bei allergischen Reaktionen, beinhalten v.a. Histamine, 2—3%
+    - neutrophile Granulozyten: ersten am Entzündungsort, beinhalten lysosomatische Enzyme, 60—70 %
+    - eosinophile Granulozyten: bei allergischen Reaktionen, beinhalten v.a. Histamine, 2—3 %
     - basophile Granulozyten:
-      hauptsächlich bei Parasiten, beinhalten Histamine und Heparin, 0,5—1%
+      hauptsächlich bei Parasiten, beinhalten Histamine und Heparin, 0,5—1 %
 
-  - Lymphozyten: spezifische Immunabwehr, 20—30%
+  - Lymphozyten: spezifische Immunabwehr, 20—30 %
 
     - T-Lymphozyten
     - B-Lymphozyten
     - T-Helferzellen
 
-  - Monozyten und Makrophagen: unspezifische und spezifische Immunabwehr, 4-5%
+  - Monozyten und Makrophagen: unspezifische und spezifische Immunabwehr, 4-5 %
 
 - *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
@@ -203,12 +203,12 @@ Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikro
 ₢ US National Cancer Institute {term}`ℓ PD`
 :::
 
-Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutvolumen wider (ca. 45%, Mann 47%, Frau 43%).
+Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutvolumen wider (ca. 45 %, Mann 47 %, Frau 43 %).
 
 ### Flüssige Bestandteile:  Blutplasma
 
-Die **flüssigen Bestandteile** des Blutes, das **Plasma** besteht zum größten Teil (ca. 90%) aus *Wasser*.
-Der restliche Anteil (ca. 10%) besteht aus gelösten Stoffen wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*, *Glukose* und *Fette*, konkret:
+Die **flüssigen Bestandteile** des Blutes, das **Plasma** besteht zum größten Teil (ca. 90 %) aus *Wasser*.
+Der restliche Anteil (ca. 10 %) besteht aus gelösten Stoffen wie z. B. *Proteine*, *Enzyme*, *Hormone*, *Elektrolyte*, *Glukose* und *Fette*, konkret:
 
 
 - *Proteine 70 %*:
@@ -315,7 +315,7 @@ Neben den Dyshämoglobinen können auch strukturelle oder quantitative Veränder
 
 Wieviel Sauerstoff das Blut aufnehmen kann, hängt vor allem von der Anzahl der roten Blutkörperchen (*Erythrozyten*) bzw. der Konzentration des Hämoglobins ab.
 Im arteriellen Blut sind pro Liter ca 0,2 L Sauerstoff enthalten.
-Im Normalfall werden davon nur ca. 25% vom Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System zurück.
+Im Normalfall werden davon nur ca. 25 % vom Körper aufgenommen, der Rest gelangt ungenutzt in das venöse System zurück.
 
 ```{rubric} Advanced
 ```
@@ -349,15 +349,15 @@ Beim Menschen sind mehr als 100 solcher Antigene bekannt, jedoch hat vor allem d
 
 Innerhalb des *AB0-System* werden 4 Gruppen unterschieden:
 
-- Erythrozyten mit dem Antigen A (Blutgruppe A): 44%
-- Erythrozyten mit dem Antigen B (Blutgruppe B): 10%
-- Erythrozyten mit dem Antigen A und dem Antigen B (Blutgruppe AB): 4%
-- Erythrozyten mit keinem der beiden Antigene (Blutgruppe 0): 42%
+- Erythrozyten mit dem Antigen A (Blutgruppe A): 44 %
+- Erythrozyten mit dem Antigen B (Blutgruppe B): 10 %
+- Erythrozyten mit dem Antigen A und dem Antigen B (Blutgruppe AB): 4 %
+- Erythrozyten mit keinem der beiden Antigene (Blutgruppe 0): 42 %
 
 Lebensbedrohliche Reaktion bei Bluttransfusion von falscher Blutgruppe (hämolytische Reaktion).
 
 Beim *Rhesussystem* bestehen nur zwei Gruppen - positiv oder negativ.
-In Mitteleuropa sind 85% Rhesus positiv und 15% Rhesus-negativ.
+In Mitteleuropa sind 85 % Rhesus positiv und 15 % Rhesus-negativ.
 
 Lebensbedrohliche Reaktion bei Bluttransfusion von Rh-positivem-Blut an einen Rh-negativen-Patienten (Hämagglutination) bzw. ab der zweiten Schwangerschaft einer Rh-negativen Mutter mit einem Rh-positivem Kind (Hämolyse).
 
@@ -448,7 +448,7 @@ Bei den lymphatischen Organen kann man zwei Gruppen unterscheiden:
   Lymphknoten, lymphatisches Gewebe der Schleimhäute (z.B.
   Peyer-Plaques des Ileum, Tonsillen)
 
-Die *Lymphozyten* befinden sich zu 98% in den lymphatischen Organen und im Bindegewebe. nur zu 2% sind sie im Blut zu finden.
+Die *Lymphozyten* befinden sich zu 98 % in den lymphatischen Organen und im Bindegewebe. nur zu 2 % sind sie im Blut zu finden.
 
 Der *Thymus* ist hauptsächlich zuständig für die T-Lymphozyten-Prägung während der Embryonalzeit zuständig.
 Hier lernen die Lymphozyten zwischen körpereigen und körperfremd zu unterscheiden.
@@ -482,7 +482,7 @@ Bis zum sechsten Lebensjahr ist sie außerdem an der Blutbildung beteiligt.
 
 Sie ist ca. faustgroß, 150 bis 200 g schwer und hat die Form einer Kaffeebohne.
 Sie liegt unter dem Zwerchfell und Rippenbogen im linken Oberbauch.
-In ihrem Querschnitt kann man eine rote (80%) von einer weißen Pulpa unterscheiden.
+In ihrem Querschnitt kann man eine rote (80 %) von einer weißen Pulpa unterscheiden.
 Ihre Vene mündet in die Pfortader.
 Damit sie ihre Aufgaben erfüllen kann, ist sie *sehr gut durchblutet*!
 Das Milzparenchym ist von einer festen *Bindegewebskapsel* umhüllt und durch Septen unterteilt.

@@ -109,9 +109,9 @@ Nebenwirkungen und Gefahren
     Der schockierte bzw. kreislaufinstabile ist quasi als **Kontraindikation** für Propofol zu sehen, sofern der Anwender nicht *sehr* erfahren ist!
     :::
   - **Injektionsschmerz** v. a. bei dünnen peripheren Venen
-  - **Hypertriglizidämie**: daher die 2%ige Lösung für Daueranwendung → Laborkontrollen
+  - **Hypertriglizidämie**: daher die 2 %ige Lösung für Daueranwendung → Laborkontrollen
   - Grünlich-braune Verfärbung des Harns
-  - Das {ref}`Propofol-Infusionssyndrom <propofolinfusionssyndrom>` (**PRIS**) ist eine seltene, aber potenziell tödliche Komplikation der Langzeitverabreichung von Propofol (50% Letalität).  {term}`🗎 Hemphill 2019`
+  - Das {ref}`Propofol-Infusionssyndrom <propofolinfusionssyndrom>` (**PRIS**) ist eine seltene, aber potenziell tödliche Komplikation der Langzeitverabreichung von Propofol (50 % Letalität).  {term}`🗎 Hemphill 2019`
     Es ist gekennzeichnet durch metabolische **Azidose**, meist bradykarde **Rhythmusstörungen**, **Hypotonie**, **Herzversagen**,  **Nierenversagen** und   **Rhabdomyolyse** der Herz und Skelettmuskeln mit extremen *CPK-Anstieg* und *Hyperkaliämie*.
     Der Mechanismus ist unklar.
 

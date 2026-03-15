@@ -15,7 +15,7 @@ Der Begriff **"schwieriger Atemweg"** (*Difficult Airway*) bezeichnet eine Situa
 In der individuellen Situation ist dies also auch von den verfügbaren Ressourcen und dem eigenen Fähigkeiten abhängig.
 Eine etwas objektivere Definition legt den schwierige Atemweg als klinische Situation fest, bei der ein *erfahrener Anästhesist* Schwierigkeiten bei der **Maskenventilation** (*Difficult Mask Ventiilation*, *DMV*), der **Intubation** (*Difficult Laryngoscopy*, *DL*) oder beidem hat \[{term}`🗎 ASA 2003`\].
 Eine schwierige Laryngoskopie ist definiert als die Unmöglichkeit, die Glottis mithilfe direkter Laryngoskopie zu visualisieren \[{term}`♛ S1 Atemweg 2015`\].
-Eine schwierige Maskenventilation tritt in ca. 5% der Fälle auf, kombiniert mit einer schwierigen Laryngoskopie in ca. 0,4% \[{term}`🗎 Langeron 2000`, {term}`🗎 Kheterpal 2006`, {term}`🗎 Kheterpal 2013`\].
+Eine schwierige Maskenventilation tritt in ca. 5 % der Fälle auf, kombiniert mit einer schwierigen Laryngoskopie in ca. 0,4 % \[{term}`🗎 Langeron 2000`, {term}`🗎 Kheterpal 2006`, {term}`🗎 Kheterpal 2013`\].
 
 Schwierige Atemwege treten vor allem auf, wenn anatomische oder physiologische Anomalien es erschweren, die Stimmbänder mittels Laryngoskopie sichtbar zu machen und einen Endotrachealtubus sicher zu platzieren.
 

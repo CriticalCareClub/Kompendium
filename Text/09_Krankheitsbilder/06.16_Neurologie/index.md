@@ -545,7 +545,7 @@ Eine definitive Therapie in einer Spezialabteilung (*Stroke Unit*) kann andere, 
     - **Lagerung**: *leicht erhöhter Oberkörper*
 
     - **Sauerstoff**: Gabe je nach SpO₂,
-      unterer Grenzwert 94%,
+      unterer Grenzwert 94 %,
       darüber ist von einer O₂-Gabe abzusehen, da es
       sonst zu einer Gefäßengstellung mit nachfolgender
       Mangeldurchblutung in den noch gesunden Hirnarealen

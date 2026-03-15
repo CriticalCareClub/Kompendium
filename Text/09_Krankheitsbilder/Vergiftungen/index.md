@@ -43,7 +43,7 @@ folgende Studien werden durchlaufen:
 - Exzitationsstadium (1,0. 2,0 ‰) = euphorisches Studium
 - Rauschstadium (2,0-2,5‰) = hypnotisches Stadium
 - Narkosestadium (2,5-4‰)
-- Asphyxiestadium ('4%.)
+- Asphyxiestadium ('4 %.)
 
 Therapie besteht hauptsächlich aus symptomatischen Maßnahmen wie z.B.
 ausreichende Wasser- und Elektrolytzufuhr, ausreichende Oxygenierung.
@@ -70,7 +70,7 @@ Symptomatik:
   Hypothermie
 - \> 80 %: Letal innerhalb von Minuten
 
-Therapie. Intubation und Beatmung bei 100% O₂, optimal hyperbare Oxygenierung (Druckkammer)
+Therapie. Intubation und Beatmung bei 100 % O₂, optimal hyperbare Oxygenierung (Druckkammer)
 
 ### Säuren- und Laugenvergiftung
 

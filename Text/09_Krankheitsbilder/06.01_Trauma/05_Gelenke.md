@@ -53,7 +53,7 @@ Eine **Verrenkung** {index}` <! Verrenkung>` (*Syn.* **Luxation**
 
 Die Verrenkung (**Luxation**{index}` <! Luxation>`) ist eine Gelenksverletzung, bei der – im Gegensatz zur Verstauchung – der verschobene oder verdrehte Knochen nicht von selbst in das Gelenk zurück gesprungen ist. Die betroffene Extremität kann daher nicht mehr bewegt werden. Bei einer Luxation dürfen keine eigenständigen Einrenkversuche unternommen werden!
 
-Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im Schultergelenk ist dies das am häufigsten luxierte Gelenk im menschlichen Körper. 45% aller Luxationen entfallen auf das Schultergelenk .
+Durch das inadäquate Verhältnis zwischen Kopfgröße und Pfannengröße im Schultergelenk ist dies das am häufigsten luxierte Gelenk im menschlichen Körper. 45 % aller Luxationen entfallen auf das Schultergelenk .
 
 ### Symptome
 

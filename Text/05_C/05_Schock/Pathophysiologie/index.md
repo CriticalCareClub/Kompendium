@@ -158,7 +158,7 @@ Periphere Venen kollabieren und die *Rekapillarisierungszeit* verlängert sich. 
 
 Neben der Sympathikusaktivierung gibt es weitere Regulationmechanismen (neuro-humorale Reaktion), die vor allem über die Niere wirken (Vasopressin (ADH), Renin-Angiotensin-Aldosteron-System).
 
-Die Kompensationsreaktionen treten vor allem beim hypovolämen Schock auf und können Volumenverluste bis zu **20—30% des Blutvolumens** *ausgleichen.* Bei anderen Schockarten sind die Reaktionen hingegen häufig unwirksam oder fehlen vollständig.
+Die Kompensationsreaktionen treten vor allem beim hypovolämen Schock auf und können Volumenverluste bis zu **20—30 % des Blutvolumens** *ausgleichen.* Bei anderen Schockarten sind die Reaktionen hingegen häufig unwirksam oder fehlen vollständig.
 Eine Zentralisation ist *fixiert*, wenn sie trotz ausreichender Therapie der Schockursachen *nicht durchbrochen* werden kann.
 Wenn die Kompensationsmaßnahmen nicht mehr ausreichen, spricht man vom *dekompensierten Schock*.
 

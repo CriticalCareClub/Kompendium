@@ -12,11 +12,11 @@ Antagonisierung von {ref}`Heparin`.
 - - Zeit nach Heparin-i. v.-Gabe
   - Dosis Protamin
 - - unmittelbar
-  - 100%
+  - 100 %
 - - 60 min
-  - 50%
+  - 50 %
 - - 120 min
-  - 25%
+  - 25 %
 :::
 
-Bei s. c.-Gabe 50%.
+Bei s. c.-Gabe 50 %.

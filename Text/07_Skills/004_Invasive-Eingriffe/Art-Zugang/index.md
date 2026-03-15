@@ -83,7 +83,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 - *steriles* (!) Ultraschallgel
 - steriler Überzug für Ultraschallkopf
 - sterile Abdeckung, z.B. Lochtuch
-- Lokalanästhetikum: Lidocain 1% **ohne (!) Adrenalinzusatz** ca. 1—2 mL in kleiner Spritze mit Subkutannadel
+- Lokalanästhetikum: Lidocain 1 % **ohne (!) Adrenalinzusatz** ca. 1—2 mL in kleiner Spritze mit Subkutannadel
 - Fixierverband nach Hausstandard
 - Gespültes Druckabnahmesystem
 - Beistelltisch o. ä. mit steriler Unterlage: Keinesfalls Material in das Patientenbett legen!

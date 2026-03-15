@@ -129,7 +129,7 @@ aPTT-Erhöhung bei
 : Heparingabe, VWS, APL-Ak, Faktor XII-Mangel, Hämophilie A+B
 
 Erhöhte Blutungsneigung
-: Thrombos < 50000/l, Fibrinogen < 100, FVII+IX minus 35%, PTZ < 25%
+: Thrombos < 50000/l, Fibrinogen < 100, FVII+IX minus 35 %, PTZ < 25 %
 
 TheraNostrisches Gerinnungsmanagement
 : klinischer Blick auf das OP-Gebiet, rasche sensitive Diagnostik, Point of Care Test/ROTEM, zielgerichtete Therapie

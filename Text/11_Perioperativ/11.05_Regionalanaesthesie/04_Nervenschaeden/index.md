@@ -4,9 +4,9 @@ status: final
 
 # Vorgehen bei Verdacht auf Nervenschädigung
 
-Neurologische Komplikationen treten unabhängig von der Methode (Ultraschall-geführte Punktion vs. Stimulationstechnik) bzw. Blockadelokalisation mit einer Häufigkeit zwischen 0,19% und 1,7% auf.
+Neurologische Komplikationen treten unabhängig von der Methode (Ultraschall-geführte Punktion vs. Stimulationstechnik) bzw. Blockadelokalisation mit einer Häufigkeit zwischen 0,19 % und 1,7 % auf.
 Es besteht kein signifikanter Unterschied zwischen oberflächlichen und tiefen Blockaden.
-Die meisten Symptome verschwinden nach Tagen bis Wochen, über 99% innerhalb eines Jahres. {term}`♛ ÖGARI RA-Neuro 2021`
+Die meisten Symptome verschwinden nach Tagen bis Wochen, über 99 % innerhalb eines Jahres. {term}`♛ ÖGARI RA-Neuro 2021`
 
 Perioperative Nervenschäden sind häufig, aber auch nicht kausal durch die Regionalanästhesie, z.B. durch direkte intraoperative Nervenschädigung (Durchtrennung, Quetschung), Verletzung durch Fremdkörper (Schrauben, Platten, Trokare), Überdehnung durch Repositionsmanöver, Blutsperr-Manschetten (Tourniquet), Lagerungsschäden.
 
@@ -113,7 +113,7 @@ Eine **Liquor-Untersuchung**, **Notfall-MRT** (Ausschluss eines spinalen oder ep
 - Geburtshilfe
 
 **Verlauf:**
-- 75% fulminant (< 24 h), 25% eher verzögert
+- 75 % fulminant (< 24 h), 25 % eher verzögert
 - typischer progredienter Verlauf
 - spinaler Schmerz bei Blutungsbeginn (oft verschleiert)
 - sensorische, motorische Ausfälle (untere Extremität)
@@ -125,21 +125,21 @@ Frühe Diagnose und Behandlung!
 - ggfs. Gerinnungskorrektur
 - Hämatomentlastung < 8 h nach Symptombeginn
 
-Bis zu 66% komplette Erholung.
+Bis zu 66 % komplette Erholung.
 ::::
 
 Ein epidurales Hämatom kann nach neuroaxialer Punktion, aber auch nach Entfernung eines neuroaxialen Katheters (Periduralkatheter) auftreten.
 
 Risikofaktoren stellen vor allem Gerinnungsstörungen (inkl. laufende Antikoagulation), mehrfache Punktionen und Geburtshilfe dar.
 
-75% treten fulminant innerhalb von 24 h auf, 25% sind eher verzögert.
+75 % treten fulminant innerhalb von 24 h auf, 25 % sind eher verzögert.
 Typischer zeigen sie einen progredienten Verlauf:
 Der lokale spinale Schmerz bei Blutungsbeginn wird oft durch die Analgesie verschleiert.
 Persistierende sensorische und motorische Ausfälle (untere Extremität) sind hoch-verdächtig.
 In 2/3 der Fälle sind späte neurogene Blasen- und Darmstörungen zu beobachten.
 
 Die frühe Diagnose und Behandlung (ggf. Gerinnungskorrektur und Hämatom-Entlastung) ist für das Outcome entscheidend!
-Die Entlastung muss innerhalb von 8 h nach Symptombeginn erfolgen, es kommt in bis zu 66% der Fälle zur kompletten Erholung.
+Die Entlastung muss innerhalb von 8 h nach Symptombeginn erfolgen, es kommt in bis zu 66 % der Fälle zur kompletten Erholung.
 
 {term}`♛ ÖGARI RA-Neuro 2021`
 

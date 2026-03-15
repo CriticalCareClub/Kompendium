@@ -11,7 +11,7 @@ Ursache:
 Chirurgischer Stress: erhöhte ADH-Sekretion mit Na-  und Wasserretention (erhöhtes präload), erhöhte Katecholamine mit erhöhter HF, Inotropie und vermehrt Arrhythmien steigern den O₂-Verbrauch Hypotensive Phasen bei hämodynamischer Instabilität Risikopatient: Cardialer Pat: Hypertonie, DM, Raucher, Adipös, erhöhte Fette, Gefäßpatient
 
 
-Klinik: Dyspnoe, Thoraxschmerzen,  Übelkeit, EKG-Dynamik (ST-Heb.), 65%  ohne Klinik! 75%
+Klinik: Dyspnoe, Thoraxschmerzen,  Übelkeit, EKG-Dynamik (ST-Heb.), 65 %  ohne Klinik! 75 %
 innerhalb der ersten 48 h postoperativ!
 
 Diagnostik:

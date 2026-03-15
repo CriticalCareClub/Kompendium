@@ -31,7 +31,7 @@ zur Steuerung der Volumens- und Katecholamin-Therapie bei
 
     -   gloabl end-diastolischer Index **GEDI** 680—800 ml / m²
     -   intrathorakaler Vol. Index 850—1000 ml / m²
-    -   SVV 0—13%
+    -   SVV 0—13 %
 
 :Nachlast:
 
@@ -44,15 +44,15 @@ zur Steuerung der Volumens- und Katecholamin-Therapie bei
 
 :O₂:
 
-    -   gemischt-venöse Sättigung **SgvO₂** 65—75%
-    -   zentralvenöse Sättigung **ScvO₂** 70—80%
+    -   gemischt-venöse Sättigung **SgvO₂** 65—75 %
+    -   zentralvenöse Sättigung **ScvO₂** 70—80 %
     -   globales O₂-Angebot **DO₂** 400—600 ml / m² / min
     -   globaler O₂-Verbrauch: **V̇O₂** 125—175 ml / m² / min
 
 :Kontraktilität:
 
     -   linksventr. EF: 55—70 %
-    -   globale EF (Picco): 25—35%
+    -   globale EF (Picco): 25—35 %
 
 ZVD
 ========================================================================

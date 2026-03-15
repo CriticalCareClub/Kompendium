@@ -217,7 +217,7 @@ Wikimedia Commons, User <https://commons.wikimedia.org/wiki/User:Chikumaya>, {te
 
 1. Druck im rechten VH (5mmHg), PA (MAP 15) und indirekt über Wedge im linken Vorhof (MAP 9) = Druckparameter
 2. HZV/CO mit Thermodilutionsmethode 4-8 l/min: Fläche unter der Kurve ist umgekehrt proportional zum HZV; Fehlerquellen: Messung muss endexpiratorisch sein, Injektat 20° + 10 ml in 2-4 sec.,  + TI, Shunts, Arrhythmien. (CI = 2,5-4 l/min/m2)
-3. CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75%
+3. CCO Continous Cardic Output mit thermischen Filament kontinuierliche Messung, optisches Modul misst SvO₂ (oder BGA) 70-75 %
    SV = 60-90 ml, SVR 900-1400, PVR 150-250
 
 

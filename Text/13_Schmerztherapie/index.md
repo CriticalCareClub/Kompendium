@@ -89,7 +89,7 @@ Umrechnung Morphin: Tramal 0,1, Dipi 0,7, Hydal 7, Fentanyl 100,...
 Prüfung: Morphin zu Oxycodon 1:2, Hydromorphon 1:7, Fentanyl 1:100, Sufenta 1:800-1000,
 Remifentanil 1:100, Alfentanil 1:10, Tramal 1:0,5-1 Morphin per os: peridural: intrathekal = 100:10:1 Morphin von iv. auf oral = 1:3
 
-Beispiel: Durogesic TTS 100 µg/h = 240 mg/Tag = 240 mg Morphin p.o./Tag  :3 = 80 mg iv Morphin/Tag Beispiel: 600 mg Mundidol bei Patient mit Ileus soll auf iv. umgestellt werden. Da von den 600 mg wahrscheinlich nicht alles resorbiert wurde wird nicht mit 200 mg iv, sondern mit 100 mg iv /24 h begonnen. = PCA mit 4 mg/h +  Bolus für Schmerzspitzen in der Höhe von 50 bis 100%
+Beispiel: Durogesic TTS 100 µg/h = 240 mg/Tag = 240 mg Morphin p.o./Tag  :3 = 80 mg iv Morphin/Tag Beispiel: 600 mg Mundidol bei Patient mit Ileus soll auf iv. umgestellt werden. Da von den 600 mg wahrscheinlich nicht alles resorbiert wurde wird nicht mit 200 mg iv, sondern mit 100 mg iv /24 h begonnen. = PCA mit 4 mg/h +  Bolus für Schmerzspitzen in der Höhe von 50 bis 100 %
 der Stundendosis = 2 -- 4 mg mit 20 min. Sperrzeit.
 Beispiel: PCA mit 3 mg/h soll auf TTS umgestellt werden. 3 x 24 = 72 mg / 24 h → x 3 = 216 mg / 24 h TTS →: 24 h = 90 µg/h →
 Durogesic 75 µg/h + z.B. Morapid für Durchbruchschmerzen.
@@ -261,14 +261,14 @@ Eine Hyperalgesie kann duch langsames Ausschleichen über mind. 15 Minuten verhi
 Alfentanyl/Rapifen: 10-20mal wie Morphin;  Wirkungseintritt nach 1 Minute, kumuliert weniger als Fentanyl und Sufentanyl.
 Sufentanyl/Sufenta 0,2 -- 1,5 µg / kg / h: am häufisten verwendet, 500-1000mal stärker als Morphin,
 geringer atemdepressiv, stärker sedierend, KEINE Kumulation, Monotherapie oder Kombination mit Dormicum/Clonidin (α-Agonist).
-Piritramid/Dipidolor: 70%  der Wirksamkeit von Morphin, intermittierend oder als PCA;  für kurzzeitige Analgesie.
+Piritramid/Dipidolor: 70 %  der Wirksamkeit von Morphin, intermittierend oder als PCA;  für kurzzeitige Analgesie.
 Hydromorphon: 7,5mal stärker als Morphin, keine aktiven Metaboliten, Bolus, PCA und kontinuierlich möglich.
 Ketamin: bindet an NMDA und Opioidrezeptoren;  psychomimetische NW, sympathomimetische Potenz, bronchodilatorisch, opioidsparend, va. bei Opioidobstipation, Bronchospasmus,...
 Dosis 0,5-1 mg / kg / h Clonidin: dämpft die postoperative Stressantwort, sympatholytisch, anxiolytisch, sedierend,
 opioidsparend. NW: Bradykardie, Hypotonie, Polyurie, Obstipation.
 Dexmedetomidin/Dexdor: Dosis 0,2-1,4 µg / kg / h, bei Delir;  NW: Verlängert Refraktärzeit am AV-
 Knoten mit Bradykardie, Hypotonie, Polyurie und Obstipation.
-= Psycholeptikum Propofol: gute Steuerbarkeit, antiemetisch, Metabolisierung  über die Leber, 90%  renale Ausscheidung, 2% zur Reduzierung der Fettbelastung. (siehe {ref}`Propofolinfusionssyndrom <Propofolinfusionssyndrom>`)
+= Psycholeptikum Propofol: gute Steuerbarkeit, antiemetisch, Metabolisierung  über die Leber, 90 %  renale Ausscheidung, 2 % zur Reduzierung der Fettbelastung. (siehe {ref}`Propofolinfusionssyndrom <Propofolinfusionssyndrom>`)
 Midazolam/Dormicum: kurzwirkames Benzodiazepin, EliminationsHWZ 1-3h,
 Ceiling Effekt,
 Dosis 0,05-0,1 mg / kg / h
@@ -312,7 +312,7 @@ Schlafbrillen, Ohrstöpseln), frühe enterale Ernährung. Pharmakologisch wird M
 Monitoring/Scoring von Sedierung, Schmerz und Delir in regelmäßigen Abständen (1 x  pro Schicht) soll helfen auch Patienten mit dem häufiger vorkommenden, hypoaktivem Delir zu erkennen.
 
 
-Das postoperaive Delir: dauert Stunden bis Tage, bei 5  --  50%  der geriatrischen Narkosen,
+Das postoperaive Delir: dauert Stunden bis Tage, bei 5  --  50 %  der geriatrischen Narkosen,
 verlängert den Hospitalaufenthalt, steigert die postoperative Mortalität. Typisch ist eine fluktuierende Bewusstseinslage mit Aufmerksamkeitsstörung und unorganisiertem Denken.
 Postoperativ cognitiv disorder = Erinnerungs- und Konzentrationsstörungen für mehrere Wochen bis permanent.
 

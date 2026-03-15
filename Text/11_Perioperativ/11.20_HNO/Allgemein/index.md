@@ -52,7 +52,7 @@ Vorteil: mm-genau, wenig Schwellung und Blutung, Koagulation kleiner Gefäße, N
 Kunststoff, Gewebe brennt!)
 Atemweg: Lasertubus, normaler Tubus mit Schutz,
 Jet-Ventilation mit Kleinasser Rohr Schutzmaßnahmen: Lasertubus oder Umwicklung, Waser oder NaCl in Spritzen bereithalten,
-Kochsalztupfer auf die Augen, wenn´s brennt Tubus raus!, PEEP 5-10 (verhindert Eindringen heißer Gase), FiO₂ ca. 30%, feuchte Tücher,
+Kochsalztupfer auf die Augen, wenn´s brennt Tubus raus!, PEEP 5-10 (verhindert Eindringen heißer Gase), FiO₂ ca. 30 %, feuchte Tücher,
 Notfalltracheotomieset bereithalten.
 
 Mund-Kiefer-Chirurgie Häufig schwierige Intubation! Bei komplexen Frakturen ev. Tracheotomie, Intubation in Tracheotomiebereitschaft. Kein Zugang zum Kopf während der OP (Tubusfix, Augenschutz),

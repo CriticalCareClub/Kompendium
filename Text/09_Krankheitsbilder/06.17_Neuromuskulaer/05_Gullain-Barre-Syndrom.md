@@ -14,7 +14,7 @@
 Autoimmunreaktion gegen Myelinscheiden mit Ak-Bildung; Auslöser sind Virusinfektionen (CMV, EBV), Campylobacter jejuni, Mykoplasmen-Infektionen.
 
 Klinik
-: - Initial Parästhesien der Finger und Zehen mit symetrischer von distal aufsteigender schlaffer Lähmung, bis Ateminsuffizienz (30%)
+: - Initial Parästhesien der Finger und Zehen mit symetrischer von distal aufsteigender schlaffer Lähmung, bis Ateminsuffizienz (30 %)
   - + autonome Störungen (Hypotension, Bradykardie, Ileus,...)
 
   Krankheitsgipfel in der 2-4 Woche
@@ -27,5 +27,5 @@ Therapie
 : Immunglobuline IgG iv., Plasmapherese, Beatmung
 
 Prognose
-: 80% komplette Remission in 1 Jahr, Rest bleibende Defizite
+: 80 % komplette Remission in 1 Jahr, Rest bleibende Defizite
 

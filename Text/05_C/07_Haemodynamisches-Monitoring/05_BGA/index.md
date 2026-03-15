@@ -109,7 +109,7 @@ Hat man dazu nicht die Möglichkeit, kann man jedoch auch die die Sättigungswer
 Dies ist in der klinischen Routine bei Intensivpatienten mit den ohnehin vorhandenen Invasivitäten (ZVK, arterieller Zugang) oft problemlos und ohne großen Aufwand möglich.
 Da man hierbei nur die *relative* Sauerstoffausschöpfung beurteilt, kann man die *kardiale Komponente* als mögliche Ursache einer pathologischen Sauerstoffausschöpfung *nicht beurteilen*.
 
-Der Normalbereich der **ScvO₂** liegt bei **70-75%**.
+Der Normalbereich der **ScvO₂** liegt bei **70-75 %**.
 Es stellt sich nun die Frage:
 *"Ist eine höhere zentralvenöse Sauerstoffausschöpfung gut oder schlecht?"*
 
@@ -139,7 +139,7 @@ Eine **kontinuierliche** ScvO₂-Messung kann mittels des *CeVOX*-Systems über 
 Die venöse Sättigung kann zentralvenös (große Hohlvenen über ZVK) oder **gemischtvenös** (Formelzeichen $\rm mv$, *Zusammenfluss* beider Hohlvenen: **rechter Vorhof** bzw. **rechte Kammer**) mittels eines {ref}`Pulmonalarterienkatheters <Pulmonalarterienkatheter>` gemessen werden.
 Dabei muss bedacht werden, dass das Einzugsgebiet der oberen und der unteren Hohlvene unterschiedliche Organe mit unterschiedlichem Sauerstoffbedarf versorgt (Hirn durch die obere Hohlvene, Stamm und untere Extremität durch die untere Hohlvene).
 
-Die gemischt-venöse Sättigung SmvO₂ ist 20-25% niedriger als SaO₂; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV und bei weniger Ausschöpfung (Schock, MOF, tiefe Sedierung).
+Die gemischt-venöse Sättigung SmvO₂ ist 20-25 % niedriger als SaO₂; sie ist erhöht bei hyperdynamen Zustandsbild mit erhöhtem HZV und bei weniger Ausschöpfung (Schock, MOF, tiefe Sedierung).
 
 Somit ergibt sich folgende Dynamik:
 

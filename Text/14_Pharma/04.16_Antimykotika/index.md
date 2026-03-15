@@ -23,7 +23,7 @@ Die humanpathogenen Pilze werden nach dem DHS-System eingeteilt:
 
 ### Candida
 
-Candida gehört zur Gruppe der Sprosspilze und kann bei entsprechend geschwächter Abwehrlage sowohl lokale als auch systemische Infektionen hervorrufen. Es handelt sich hierbei meist um endogene Infektionen, da Candida in geringer Zahl zur normalen Flora der Haut und des Gastrointestinaltraktes zählt. 80% der Infektionen werden durch die Spezies Candida albicans hervorgerufen.
+Candida gehört zur Gruppe der Sprosspilze und kann bei entsprechend geschwächter Abwehrlage sowohl lokale als auch systemische Infektionen hervorrufen. Es handelt sich hierbei meist um endogene Infektionen, da Candida in geringer Zahl zur normalen Flora der Haut und des Gastrointestinaltraktes zählt. 80 % der Infektionen werden durch die Spezies Candida albicans hervorgerufen.
 
 ### Aspergillose
 
@@ -170,7 +170,7 @@ Folgende Medikamente kommen bei Malaria zum Einsatz:
 
 ## Toxoplasmose
 
-Der Großteil der Bevölkerung hat im Laufe seines Lebens eine – zumeist symptomlose – Toxoplasmose durchgemacht, die Durchseuchung betragt 50%
+Der Großteil der Bevölkerung hat im Laufe seines Lebens eine – zumeist symptomlose – Toxoplasmose durchgemacht, die Durchseuchung betragt 50 %
 bei den 40-Jährigen. Die Übertragung erfolgt vorzugsweise durch Katzen.
 
 Die Toxoplasmose ist durch das Sporozoon Toxoplasma gondii bedingt, das weltweit verbreitet ist und meist zu inapparenten Infektionen führt. Die

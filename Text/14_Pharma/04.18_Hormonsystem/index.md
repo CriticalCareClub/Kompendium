@@ -682,7 +682,7 @@ I: Typ-1-Diabetes: In diese Gruppe fallen 10 % der Erkrankungen.
 > B: idiopathisch: Die Patienten sind zwar insulinabhängig, ein
 > autoimmunes Geschehen kann aber nicht nachgewiesen werden.
 >
-> II: Typ-2-Diabetes (früher NIDDM, „Altersdiabetes“): Hier sind 90%
+> II: Typ-2-Diabetes (früher NIDDM, „Altersdiabetes“): Hier sind 90 %
 > der Diabetes-Erkranungen zu finden. Hier kommt die Erkrankung durch
 > eine Resistenz der peripheren Gewebe gegenüber Insulin sowie eine
 > relativ zum Blutzuckerspiegel zu niedrige Insulinsekretion zustande.
@@ -729,8 +729,8 @@ III andere Ursachen:
 >
 > IV Gestationsdiabetes: Darunter versteht man die Entstehung eines
 > Diabetes in der Schwangerschaft. Er ist die häufigste
-> Stoffwechselstörung dieser Zeit und tritt bei 0,5-3% der Schwangeren
-> auf, in 30% bleibt ein manifester Diabetes auch nach der Geburt
+> Stoffwechselstörung dieser Zeit und tritt bei 0,5-3 % der Schwangeren
+> auf, in 30 % bleibt ein manifester Diabetes auch nach der Geburt
 > bestehen.
 
 %
@@ -748,7 +748,7 @@ I Akute Komplikationen:
 >
 > Die Therapie besteht aus Gabe von Glukose.
 >
-> B: Ketoazidotisches Koma: Dies ist zu 25% die Erstmanifestation des
+> B: Ketoazidotisches Koma: Dies ist zu 25 % die Erstmanifestation des
 > Diabetes mellitus. Häufig bei Typ-1-Diabetikern
 >
 > C: Hyperosmolares Koma: Häufiger bei Typ-2-Diabetikern

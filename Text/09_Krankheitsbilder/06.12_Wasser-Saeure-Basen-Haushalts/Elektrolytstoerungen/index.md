@@ -107,8 +107,8 @@ Klinik
 
 Therapie
 :   -   Diurese steigern (Schleifendiuretika)
-    -   Glucose-Insulin-Gabe (10 IE Altinsulin in 100 ml 20% Glucose)
-    -   Kalziumgluconat 10%
+    -   Glucose-Insulin-Gabe (10 IE Altinsulin in 100 ml 20 % Glucose)
+    -   Kalziumgluconat 10 %
     -   NaBIC
     -   Kationentauscher p.o./Einlauf (Resonium)
 
@@ -168,7 +168,7 @@ Klinik
 
 
 Therapie
-:   -   Glucose 5%, Hochdosiert Furosemid, Natriumsulfat.
+:   -   Glucose 5 %, Hochdosiert Furosemid, Natriumsulfat.
 
 
 
@@ -196,7 +196,7 @@ Klinik
 
 
 Therapie
-:   -   Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe unter 130mval/l = 3% Natrium (10% nur über ZVK!)
+:   -   Flüssigkeitsrestriktion, Gabe von Furosemid bei Überwässerung, Natriumgabe unter 130mval/l = 3 % Natrium (10 % nur über ZVK!)
 
         Siehe {ref}`TUR-Syndrom` ({numref}`TUR-Syndrom`)!
 
@@ -222,7 +222,7 @@ Klinik
 :   -   Unruhe, Schwäche, Verwirrtheit, trockene SH mit Durstgefühl,
 
 Therapie
-:   -   Perfusoren mit Aqua, 2,5%  Glucose (500 ml Glucose 5% + 500 ml Aqua) auf 50-100 ml / h bis 200 ml / h titrieren;
+:   -   Perfusoren mit Aqua, 2,5 %  Glucose (500 ml Glucose 5 % + 500 ml Aqua) auf 50-100 ml / h bis 200 ml / h titrieren;
 
 
 

@@ -86,7 +86,7 @@ Bei Blutungen im *Endteil* wird rötliches Blut ausgeschieden.
 
 ## 40. Gastrointestinale Blutung *
 
-1) Obere gastrointestinale Blutung: Meläna und Hämatemesis bei Ulcus ventriculi oder duodeni bzw. Karzinom, Ösophagusvarizenblutung 2) Untere gastrointestinale Blutung: Hämatochezie bei blutenden Polypen oder Colonkarzinom, Divertikelblutung, ischämische Colitis, Angiodysplasien. Diese machen rund 20-30%  der GI-Blutungen aus und sind mit coloskopischer Blutstillung oder OP zu therapieren.
+1) Obere gastrointestinale Blutung: Meläna und Hämatemesis bei Ulcus ventriculi oder duodeni bzw. Karzinom, Ösophagusvarizenblutung 2) Untere gastrointestinale Blutung: Hämatochezie bei blutenden Polypen oder Colonkarzinom, Divertikelblutung, ischämische Colitis, Angiodysplasien. Diese machen rund 20-30 %  der GI-Blutungen aus und sind mit coloskopischer Blutstillung oder OP zu therapieren.
 
 
 Klassifikation der Ulcus ventriculi/duodeni-Blutung nach Forrest:
@@ -104,7 +104,7 @@ Prävention der ersten Blutung bzw. Reblutung:
 Therapie der ersten ÖVB vor der Akut-Endoskopie:
 - Volumentherapie bis zur Normovolämie (Hämodynamisch ähnlich Sepsis)
 - Hämodynamische Stabilisierung mit RRsyst \< 130!  , EK´s Ziel Hb 7-8;
-- Gerinnungskorrektur bei PTZ\< 30%, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
+- Gerinnungskorrektur bei PTZ\< 30 %, Thrombozyten  \<  30 000/µl;  Cave: eine isolierte Prothromblexgabe kann zu einer Pfortaderthrombose führen.
 - Terlipressin 2 mg iv. als Bolus gleich bei Verdachtsdiagnose ÖVB, danach für 5 Tage alle 4 h 1-2 mg iv.
 Ausnahme: bei schwerer KHK, COPD, Asthma, Herzrhythmusstörungen, paVK, wird ein Somatostatin Perfusor empfohlen.
 - Antibiotika: sofort bei Aufnahme Ceftriaxon iv, Rocephin oder Claforan  über 7-10 Tage (Patienten sterben meist an einer Infektion!)

@@ -115,7 +115,7 @@ Auch im Rahmen von (Pop-)Konzerten und ähnlichen Veranstaltungen sind oft Patie
 
 : Die Patienten beklagen *Atemnot*, obwohl die O₂-Zufuhr nicht
   beeinträchtigt und das Blut maximal gesättigt ist
-  (SpO₂ von 100%).
+  (SpO₂ von 100 %).
   Sie haben eine *tiefe und schnelle Atmung* (*Tachypnoe*).
 
 Ⓒ

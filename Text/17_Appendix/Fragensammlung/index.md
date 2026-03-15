@@ -73,7 +73,7 @@ status: final
 - Kleinzelliges Bronchus CA mit Stenose re OL, Muskelschwäche, CHE in AN, postoperativ Reintubation bei respiratorischer Insuffizienz, Lambert Eaton
 - Pat. 62j, 156cm, 65 kg, Hemikolektomie bei perf. Divertikulitis mit kotiger 4 Quadrantenperitonitis, MOF (Niere, Lunge). Nach 2  Wochen fieberfrei, EZP rückläufig, Aterenol 0,15 µg / kg / min stabil. Patientin wird hämofiltriert. Kann mit dem Weaning begonnen werden?
 - Weaningkriterien, SBT, Augementierte Beatmungsformen weaning.
-- 82j, US-Fraktur OP, im Aufwachraum starke Bauchschmerzen, blutiger Stuhlgang, KHK, VHF, RR 110/70, arrythmischer Puls, 90-130/min, SaO₂ 95%
+- 82j, US-Fraktur OP, im Aufwachraum starke Bauchschmerzen, blutiger Stuhlgang, KHK, VHF, RR 110/70, arrythmischer Puls, 90-130/min, SaO₂ 95 %
 - Dg. Mesenterialinfarkt (embolisch), Weitere Untersuchungen (Labor, EKG, Abdomen leer, CT Angio, TEE Thrombus linkes Herz?, Endoskopie?) Therapie (OP, Katheterembolektomie, Lyse), nicht okklusive Darmischämie
 - Nephrektomie in Bauchlage, 49j, 15 min nach Beginn deutlicher Anstieg der Beatmungsparameter;
 - Ursachen? Komplikationen bei diesen Eingriff, Monitoring?

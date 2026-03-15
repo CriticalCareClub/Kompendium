@@ -101,7 +101,7 @@ Normale Bakterienflora des Menschen
 - Mund: Streptokokken, Staphylokokken, Diplokokken, Milchsäurebakterien, Sprosspilze
 - Jejunum: Enterokokken, Laktobazillen
 - Ileum: Aerobacter aerogenes, Enterokokken, E.coli
-- Ab Colon 99% Anaerobier: Clostridien (C. difficile), Laktobazillus,
+- Ab Colon 99 % Anaerobier: Clostridien (C. difficile), Laktobazillus,
 Baceroides, Enterokokken
 - Urethra: Staphylokokkus epidermidis, Enterokokken
 - Vagina: Döderlein Stäbchen, Enterokokken, Streptokokken
@@ -109,7 +109,7 @@ Baceroides, Enterokokken
 Penicilline Wirkungsspektrum WS: gram  +/-  Kokken;  1 Wahl bei: Streptok, Pneumok, Meningok, Borellien,
 Leptospiren, Clostridien.
 Wirklücke WL: Enterokokken und Enterobakterien (ausgenommen Breitbandpenicilline) und atypische Keime und P. aeruginosa.
-HWZ 0,5 bis 1,5h;  90%  werden unverändert renal (tubuläre Sekretion) ausgeschieden,
+HWZ 0,5 bis 1,5h;  90 %  werden unverändert renal (tubuläre Sekretion) ausgeschieden,
 dialysierbar.
 Piperacillin wirkt auch gegen P. aeruginosa und Enterobakterien (Tazonam).
 
@@ -169,7 +169,7 @@ Bsp: Doxycyclin
 
 Makrolide Erythromycin, Clarithromycin/Klacid WS: Legionellen, Chlamydien, Mykoplasmen = 1 Wahl bei atypischer Pneumonie, + Strept,
 Pneumok, Bordetella pertussi WL: Enterobakterien, Pseudomonas, Enterokokken, Häm. Infl.
-Nur zu 10%  renal Eliminiert, akkumuliert bei Leberfunktionsstörung;  interagiert mit Cytochrom P450 System in der Leber (Spiegelerhöhung bei Theophyllin, Carbamazepin, Digoxin), QT-
+Nur zu 10 %  renal Eliminiert, akkumuliert bei Leberfunktionsstörung;  interagiert mit Cytochrom P450 System in der Leber (Spiegelerhöhung bei Theophyllin, Carbamazepin, Digoxin), QT-
 Verlängerung,
 Linezolid (Zyvoxid) first line bei MRSA Pneumonie, Tigegyclin (Tigacyl), Daptomycin (Cubicin), und Vancine bei schweren Haut und Weichteilinfektionen.
 Metronidazol (= Nitroimidazol)/Anaerobex für Anerobier des Dickdarms (Bact. Spp.)
@@ -805,7 +805,7 @@ Tuberkulose ist bei Erkrankung und beim Todesfall meldepflichtig!
 
 Die Ziele der Tuberkulose-Therapie bestehen aus Vermeidung von Resistenzbildung, alle Formen der Mykobakterien zu behandeln und Vermeidung von Rezidiven durch Persister.
 
-Da schon in 5-10% primäre Resistenzen vorliegen und es zu einer raschen Resistenzbildung der Mykobakterien bei Monotherapie kommt, wird die Therapie nur als Kombinationstherapie verabreicht.
+Da schon in 5-10 % primäre Resistenzen vorliegen und es zu einer raschen Resistenzbildung der Mykobakterien bei Monotherapie kommt, wird die Therapie nur als Kombinationstherapie verabreicht.
 Das Standardregime besteht aus:
 
 - Initialtherapie für 2(-3) Monate:

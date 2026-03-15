@@ -106,12 +106,12 @@ Idealerweise übernimmt eine dezidierte Person, die mit der FOI praktisch vertra
    - (3–5 mg Dormicum)
    - Remifentanil 20µg/ml 10-20 ml/h
 3. Ev. Anticholinergika (Atropin. 0,5 mg)
-4. Cocain 2% in die Nase
+4. Cocain 2 % in die Nase
 5. Wendel bds Nasenlöcher mit 3 Größen aufdehnen
-6. Linkes Nasenloch Wendel + O₂-Line (O₂-Flow 3–6l/min mit 100%  FiO₂  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich))
+6. Linkes Nasenloch Wendel + O₂-Line (O₂-Flow 3–6l/min mit 100 %  FiO₂  über Wendel oder Arbeitskanal des FOB (Absaugen dann unmöglich))
 7. Rechtes Nasenloch nasaler Tubus bis ca. 13cm
 8. Mit Bronchoskop über nasalen Tubus eingehen
-9. Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2–3 ml Xylocain 2%, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB
+9. Spray as you go = translaryngeale Anästhesie mit Block des glossopharyngeus und laryngeus superior, mit 2–3 ml Xylocain 2 %, dann vor Glottis stehend warten bis LA wirkt und dann Vorschieben der FOB
 10. Sobald in Trachea: Propofol spritzen
 11. Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
 :::

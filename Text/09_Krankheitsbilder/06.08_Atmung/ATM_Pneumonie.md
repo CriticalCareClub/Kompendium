@@ -12,8 +12,8 @@ Neues Infiltrat plus kompatible Symptome (Fieber, Schüttelfrost, Husten, Auswur
 Einteilung CAP
 : Community-acquired Pneumonia, weniger als 48 Std. hospitalisiert, gilt auch für Patienten aus Langzeit-Institutionen HAP: Hospital-acquired, mehr als 48 h hospitalisiert VAP: Ventilation-associated, vermehrtes eitriges Trachealsekret, steigende Entzündungsparameter, verschlechterte Hämodynamik
 
-Pathomechanismen: lokales Inflammationsgeschehen mit Minderbelüftung und Re-Links-Shunt bis zu \> 20% des HZV, Prostazyclin vermittelte Vasokonstriktion im Rahmen der Immunreaktion;
-Erhöhte Totraumventilation bis zu 60% durch schmerzbedingte, flache Atmung und herabgesetzte Compliance. Komplikation: SIRS, SEPSIS
+Pathomechanismen: lokales Inflammationsgeschehen mit Minderbelüftung und Re-Links-Shunt bis zu \> 20 % des HZV, Prostazyclin vermittelte Vasokonstriktion im Rahmen der Immunreaktion;
+Erhöhte Totraumventilation bis zu 60 % durch schmerzbedingte, flache Atmung und herabgesetzte Compliance. Komplikation: SIRS, SEPSIS
 
 
 Empirische Therapie amb. erworben (CAP) + Hospitalisationsbedürftig (schwere Pneumonie):
@@ -35,7 +35,7 @@ Stabilitätskriterien:
 -  BD systolisch ≥ 90mmHg
 -  Puls ≤ 100/min
 -  Atemfrequenz ≤ 24/min
--  O₂-Sättigung ≥ 90% oder pO₂ ≥ 60mmHg
+-  O₂-Sättigung ≥ 90 % oder pO₂ ≥ 60mmHg
 
 Erreger: Streptokokkus pneumoniae bei der ambulant erworbenen Pneumonie Diagnose: Streptokokken und Legionellen Urin-Schnelltest (Antigentest) + BK, Trachealsekret, BAL für Erregernachweis und Antibiogramm.
 Antibiotika: Abhängig von der Wahrscheinlichkeit für P. aeruginosa (Risiko: COPD, KH-
@@ -48,7 +48,7 @@ aeruginosa) Thrombosephrophylaxe, Stressulcusprophylaxe, Lagerungstherapie (kran
 Erreger  =Staph. Aureus,  , Pseudomonas aeruginosa, Klebsiellen, E.coli, Pneumokokken, MRSA, Enterobakter.
 Nicht behandlungsbedürftig sind vergrünende Streptokokken, Neisseria spp., Corynebakt. Spp., Enterokokus faecium, Candida, koag.
 Neg. Staphylokokken, welche Bedsiedelungen sind.
-90% entsteht innerhalb der ersten 10 Tage der Beatmung.
+90 % entsteht innerhalb der ersten 10 Tage der Beatmung.
 
-Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40%, frühe enterale Ernährung (Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat), wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret, Aspiration trotz Cuff möglich), subglottisches Absaugen (geschlossenes System), Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
+Prävention: Mundpflege mit sterilem Wasser, OK-Hochlagerung 30-40 %, frühe enterale Ernährung (Zottenernährung), Streßulcusprophylaxe (Regurgitation/Pneumonie;  H2-Blocker, Sucralfat), wenn möglich NIV (Hustenreflex, mukozill. Clearance besser;  Tubus Leitschiene für Sekret, Aspiration trotz Cuff möglich), subglottisches Absaugen (geschlossenes System), Händedesinfektion vor und nach Manipulation am Beatmungssystem, Schlauchwechsel, sterile BK, Einzelampullen zum Vernebeln, Vernebler nach Gebrauch ausbauen.
 Trachealsekret \> 105, BAL \> 104, PBS \> 103

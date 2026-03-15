@@ -20,7 +20,7 @@ Prävention: Saal aufheizen, Kopf wärmen, so kurz wie nötig abdecken, warme In
 ## 17.1. Flüssigkeitsmanagement: *
 
 Erhaltungsbedarf: 4 ml/kg 1-10 kg + 2 ml/kg 10-20 kg+1 ml/kg\> 20 kg nach Holliday und Segar
-- NG 48 h + FG: 10% Glucose 2-3 ml/kg / h
+- NG 48 h + FG: 10 % Glucose 2-3 ml/kg / h
 - \< 6 Monate Vollelektrolytlösungen mit 1 % Glucose
 - Na + BZ-Kontrollen intra-  und postopertiv! Ein besonders hohes Risiko einer Hypoglykämie haben Kinder, welche präoperativ parenteral ernährt wurden, KG  \<  3 kg, OP  \>  3h, daher stündliche BZ-Kontrollen!
 - \> 6 Monate isotone Lsg (Elomel)
@@ -84,7 +84,7 @@ Komplikationen der LM: postoperatives obstruktives Lungenödem, Laryngospasmus b
 ## 17.3. Laryngospasmus *
 
 mit typischer Schaukelatmung wenn das Kind versucht gegen die geschlossene Glottis zu atmen:
-Maske mit hohem Flow 100%  FiO₂ anhalten ohne Beatmungsversuch! Esmarch Handgriff:
+Maske mit hohem Flow 100 %  FiO₂ anhalten ohne Beatmungsversuch! Esmarch Handgriff:
 Unterkiefer kräftig nach vorne und Kopf überstrecken / Narkose vertiefen ev. Lysthenon 2 mg / kg iv oder intramuskulär in die Zunge, KEIN Intubationsversuch! Höheres Risiko 3-4 Wochen nach respiratorischem Infekt!! (Nicht direkt danach)
 Subglottisch: Weiche Trachea, FK, Bronchospasmus ist kein Intubationsproblem, sondern ein Beatmungsproblem!
 Intubierte NG müssen immer beatmet werden. Intubierte Kleinkinder nie ohne Druckunterstützung spontan atmen lassen! Kinder kompensieren nur über die Atemfrequenz und erschöpfen sich rasch! Ehemalige Frühgeborene haben ein erhöhtes postoperatives Apnoerisiko, va. bei Anämie, und müssen 24 h postoperativ überwacht werden. Traumatisierte Kinder sind nie nüchtern!
@@ -127,7 +127,7 @@ Atropin nie routinemäßig, sondern nur bei Bradykardie anwenden. KI sind Fieber
 VT nimmt ab durch Bronchospasmus mit Air-Traping (Auskult: Giemen, Brummen, Pfeifen expiratorisch)
 
 Therapie
-: FiO₂ auf 100%  und bei kontrollierter Beatmung Expirationzeit verlängern!
+: FiO₂ auf 100 %  und bei kontrollierter Beatmung Expirationzeit verlängern!
   Narkose vertiefen, 1-3 mcg / kg Adrenalin iv, Dexamethason 0,5 mg / kg iv, ev. Ketanest 1-2 mg / kg, Theophyllin 5 mg / kg initial dann 1 mg / kg /h.
 
   (Wenn im Rahmen anaphylaktoider Reaktion: Fenistil 0,1 mg / kg iv./ H1-Blocker; H2-Blocker erst > 12Lj Ranitidin)
@@ -173,7 +173,7 @@ Schmerzskala:
 - NRS: numerische rating skala ab 6Lj: 0-10 (11 stufige NRS), ab 4 Handlungsbedarf.
 
 
-Pylorusstenose In BGA hypochlorämische Alkalose + ev. Hypokaliämie Initialer Bolus mit 20 ml/kg  NaCl  0,9% + kontinuierliche Erhaltungsdosis mit NaCl 0,45 in 5%
+Pylorusstenose In BGA hypochlorämische Alkalose + ev. Hypokaliämie Initialer Bolus mit 20 ml/kg  NaCl  0,9 % + kontinuierliche Erhaltungsdosis mit NaCl 0,45 in 5 %
 Glucose mit primär 1 ½ facher Erhaltungsdosis.
 Nach Einsetzen adäquater Harnproduktion kann Kalium ersetzt werden!
 Regelmäßige Elektrolytkontrollen! Ab HCO3- \< 28 + BE +2 kann operiert werden.
@@ -232,7 +232,7 @@ Hypoxie, Hypovolämie, Hypo oder Hyperkaliämie, Hypothermie Herzbeuteltamponade
 
 Reanimationsnachsorge:
 ABCDE-Schema (Disabiliby = Neurostatus, Exposure=erweiterte Untersuchungen)
-Sauerstoff reduzieren, Ziel SO₂ 94-98%
+Sauerstoff reduzieren, Ziel SO₂ 94-98 %
 Diagnostik/Ursache beheben Temperaturkontrolle Therapeutische Hypothermie?
 Beendigung der CPR: frühestens nach 20 Minuten, bei Kindern eher später.
 
@@ -290,7 +290,7 @@ Hautdesinfektion, 22-25 g Kaudalnadel perforiert die Membrana saccoczygea („
 (immobile Nadel).
 
 Dosis
-: Ropivacain 0,2% 1-1,5 ml/kg + 2 mcg / kg Clonidin (Kind \> 3Monate). Die Analgesie verlängert sich durch das Clonidin von 4-6h auf bis zu 12h! Je nach Dosierung kann eine Blockade bis Th12 oder Th8 erreicht werden. Onset-time liegt bei 8 bis 14 Minuten.
+: Ropivacain 0,2 % 1-1,5 ml/kg + 2 mcg / kg Clonidin (Kind \> 3Monate). Die Analgesie verlängert sich durch das Clonidin von 4-6h auf bis zu 12h! Je nach Dosierung kann eine Blockade bis Th12 oder Th8 erreicht werden. Onset-time liegt bei 8 bis 14 Minuten.
 
   Gefahr eine Fehlinjektion subcutan, periostal, rectal oder subarachnoidal!
 
@@ -302,10 +302,10 @@ Paravertebralblock: bei Serienrippenfraktur!!!
 
 
 Axilläre Plexus Blockade Ind: Radiusfraktur (Reposition, Bohrdraht)
-Dosis: Ropivacain 0,5 -- 0,75% 0,5 ml/kg Alternative: LVIP (laterale vertikale infraclavikuläre Plexusblockade), allerdings nur wenige Millimeter zur Pleura!
+Dosis: Ropivacain 0,5 -- 0,75 % 0,5 ml/kg Alternative: LVIP (laterale vertikale infraclavikuläre Plexusblockade), allerdings nur wenige Millimeter zur Pleura!
 Skalenusblock Ind. Proximale OA-Fraktur, Schulterluxation NW: Horner, Recurrens, Phrenicusparese -- Aufklärung der Eltern!
 3 in1-Block/Femoralisblock/Femoraliskatheter Ind. Schmerztherapie nach Ober -- und Unterschenkelfrakturen Bein leicht außenrotieren lassen, Arterie einzeichnen, Sono!!!
-Dosis: Ropivacain 0,2-0,5% von 5 bis 20 ml je nach Alter (max. 3 mg / kg in 6 Stunden)
+Dosis: Ropivacain 0,2-0,5 % von 5 bis 20 ml je nach Alter (max. 3 mg / kg in 6 Stunden)
 Alternative: Ischiadikusblock + Tibialisblock
 
 
@@ -348,7 +348,7 @@ Propofol
 
 : Einleitung 5 mg / kg
 
-  > Eventuell mit 1 mL Lidocain 1%
+  > Eventuell mit 1 mL Lidocain 1 %
 
   Aufrechterhaltung: Perfusor 8—15 mg / kg
 

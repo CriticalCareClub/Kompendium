@@ -109,7 +109,7 @@ Als **Off-Label-Use** kommen folgende Indikationen in Frage:
   (z.B.: Bauchlagerung,
   andere Formen der kinetischen Therapie)
   weiter ein hoher Sauerstoffbedarf besteht
-  (FiO₂ ≥ 80%)
+  (FiO₂ ≥ 80 %)
   und innerhalb von 48 Stunden kein Trend zur Verbesserung
   besteht
   (Reduktion der FiO₂ möglich, weaning, Reduktion der Beatmungsdrücke)

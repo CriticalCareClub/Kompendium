@@ -25,15 +25,15 @@ $$
 
 :::{list-table} Sättigungskonzentrationen bei 20°C
 - - Halothane
-  - 32%
+  - 32 %
 - - Enflurane
-  - 23%
+  - 23 %
 - - Isoflurane
-  - 30%
+  - 30 %
 - - Sevoflurane
-  - 21%
+  - 21 %
 - - Desflurane
-  - **87%**
+  - **87 %**
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150324_124348-01341px.\*
@@ -48,7 +48,7 @@ Nachfüllen eines GE-Sevofluran-Vapors.
 
 ## Desflurane-Verdampfer
 
-100% Desflurane-Dampf wird dem Frischgas zudosiert.
+100 % Desflurane-Dampf wird dem Frischgas zudosiert.
 
 :::{index} single: DIVA™
 :::

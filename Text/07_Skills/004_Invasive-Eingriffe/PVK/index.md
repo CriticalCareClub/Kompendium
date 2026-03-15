@@ -78,7 +78,7 @@ Venenverweilkanülen gibt es in verschiedenen Durchmessern, sie sind farbcodiert
 
 - Spülung, wahlweise:
 
-  - Spritze mit 5—10 ml Spülflüssigkeit (NaCl 0,9%), oder
+  - Spritze mit 5—10 ml Spülflüssigkeit (NaCl 0,9 %), oder
   - Infusion
 
 - 3-Wege-Hahn (optional)

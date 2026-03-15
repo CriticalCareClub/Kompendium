@@ -183,7 +183,7 @@ Die Dissoziationskonstante pKa = pH + log (Säure/Base) =  Henderson-Hasselbach 
 Grundlegend zum Verständnis ist die **Henderson-Hasselbalch-Gleichung**[^Henderson-Hasselbalch-Gleichung] ("Puffergleichung").
 Sie beschreibt den Zusammenhang zwischen dem pH-Wert und dem **Gleichgewicht** einer Säure-Base-Reaktion.
 Im Kontext der Lokalanästhetika erklärt sie, in welchem **Anteil** das Lokalanästhetikum bei einem bestimmten pH **in geladener** (ionisierter, kationischer) oder **in ungeladener** Form vorliegt (*Gleichgewicht zwischen ionisierter und ungeladener Form*).
-Der **pKa-Wert** ist ein *substanzspezifischer pH-Wert*, bei dem 50% als ungeladene Base und 50% als geladenes Kation vorliegen.
+Der **pKa-Wert** ist ein *substanzspezifischer pH-Wert*, bei dem 50 % als ungeladene Base und 50 % als geladenes Kation vorliegen.
 
 [^Henderson-Hasselbalch-Gleichung]: Henderson-Hasselbalch-Gleichung:
 
@@ -313,7 +313,7 @@ Tetracain  Pantocain®
 
 ### EMLA®-Salbe
 
-Diese 5%ige Creme enthält 2,5% {ref}`Lidocain <Lidocain>` und 2,5% Prilocain.
+Diese 5 %ige Creme enthält 2,5 % {ref}`Lidocain <Lidocain>` und 2,5 % Prilocain.
 Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
 Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder < 6 Monate nicht zugelassen.
 
@@ -397,7 +397,7 @@ Kardiovaskuläre Auswirkung der toxischen LA-Konzentration:
 - Phase II: hohe T-Welle, zunehmender R-Verlust, Myokarddepression mit hochgradiger Einschränkung der Myokardkontraktiliät. Bupivacain blockiert sehr schnell, hoch toxisch!
 - Phase III: Bradykardie, AV-Block, ventrikuläre Dysarrhythmie, profunde Hypotension Therapie: Injektion unterbrechen sofort, Hyperventilation, Sauerstoff + Atropin, pass. SM bei Bradykardie oder höhergradigen    AV-Block, Kreislaufstabilisierung (Ephedrin, Phenylephrin), Sedacoron bei VT, ev. Adrenalin 0,2-0,3 mg iv. bei Bradykardie mit massiver Kardiodepression.
 
-100 ml Intralipid 20% Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
+100 ml Intralipid 20 % Gabe, wiederholt bis KRL stabil. CPR bei Kreislaufstillstand (Blockade der Na-
 Kanäle), frühzeitig HLM, LUCAS erwägen.
 
 
@@ -410,12 +410,12 @@ Therapie toxischer ZNS-Symptome:
 - Benzodiazepine: Krampfprophylaxe mit z.B. Dormicum 2-3 mg iv.
 - Therapie der Krämpfe (Thiopental)
 - Beatmung/Hyperventilation, ev. Intubation
-- 100 ml Intralipid 20%, wiederholen bis stabiler KRL
+- 100 ml Intralipid 20 %, wiederholen bis stabiler KRL
 - Ev. Lidocain 100-200 mg bei Bupivacain-Intoxikation
 - Prolongierte CPR, ev. HLM, LUCAS
 - Antiepileptika
 - Allgemeinnarkose
-- Lipidinfusion Lipid Rescue®: Bolus Intralipid 20%  100 ml sofort und ev. wiederholen;  in der Lipidphase soll mehr Bupivacain gebunden werden, vermehrt NO gebildet, und der Bupivacain-Transport in die Myokardzelle gehemmt werden. Propofol ist als Ersatz NICHT geeignet!
+- Lipidinfusion Lipid Rescue®: Bolus Intralipid 20 %  100 ml sofort und ev. wiederholen;  in der Lipidphase soll mehr Bupivacain gebunden werden, vermehrt NO gebildet, und der Bupivacain-Transport in die Myokardzelle gehemmt werden. Propofol ist als Ersatz NICHT geeignet!
 - Azidoseprophylaxe
 - Elektrolytausgleich
 - Kreislaufunterstützung
@@ -443,7 +443,7 @@ Folgende Formen der Regionalanästhesie gibt es:
 
 Wirkung der LA
 
-  = Reversible Unterbrechung der Nervenleitgeschwindigkeit. Nur die ungeladene Form kann die Lipidmembran passieren. Die Wirkung entfaltet die geladene Form. Nur 2-5% des LA blockieren den Nerv. Der Rest geht systemisch verloren.
+  = Reversible Unterbrechung der Nervenleitgeschwindigkeit. Nur die ungeladene Form kann die Lipidmembran passieren. Die Wirkung entfaltet die geladene Form. Nur 2-5 % des LA blockieren den Nerv. Der Rest geht systemisch verloren.
 
 Isobar = gleiche Dichte wie Liquor cerebralis, hyperbar = höhere Dichte als Liquor, dh. steigen auf bzw. sinken ab nach der Injektion (in Rückenlage Ausbreitung bis Th3-Th6, Sattelblock/einseitige SPA).
 
@@ -468,7 +468,7 @@ Wirkdauer
 
 Wirkstärke  ist abhängig von der Lipidlöslichkeit = hohe Potenz, aber auch hohe  Toxizität. Bsp. Bupivacain \> Ropivacain \> Lidocain \> Procain.
 
-Anschlagzeit  ist abhängig vom pKa. (pKa = pH bei dem 50%  des LA ionisiert vorliegen) dh. niedriger pKa = rasche Wirkung. Mepivacain 7,6 \< Bupivacain 8,1; Wirkungseintritt steigern durch Erwärmen des LA oder Alkalisierung (+ NaBic, schaffe künstlich alkalisches Umfeld)
+Anschlagzeit  ist abhängig vom pKa. (pKa = pH bei dem 50 %  des LA ionisiert vorliegen) dh. niedriger pKa = rasche Wirkung. Mepivacain 7,6 \< Bupivacain 8,1; Wirkungseintritt steigern durch Erwärmen des LA oder Alkalisierung (+ NaBic, schaffe künstlich alkalisches Umfeld)
 
 
 

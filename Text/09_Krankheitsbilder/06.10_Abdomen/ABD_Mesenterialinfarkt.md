@@ -50,7 +50,7 @@ Es kann zu *blutigen, übel riechenden Stuhlabgängen* kommen.
 
 ## 38.1. Splanchnikusperfusionsstörungen *
 
-Blutversorgung des Darms = 20-30% des HZV:
+Blutversorgung des Darms = 20-30 % des HZV:
 - Tuncus coeliacus: Magen, Leber, Gallenblase, Pankreas, Duodenum, Milz
 - Arteria mesenterica superior: Dünndarm und Colon bis 1/3 vom Transversum, ist mit Truncus coeliacus über Bühlersche Anastomose verbunden
 - Arteria mesenterica inferior: 2/3 Transversum, Sigma, Rectum, Ampulla recti., Anastomose zur A. Mesenterica sup.
@@ -75,8 +75,8 @@ Erhaltung der gastrointestinalen Integrität durch frühe, gemäßigte enterale 
 
 ### 38.1.1 .Obstruktive Mesenterialischämie
 
-In 85%  A. mesenterica superior durch kardiale Embolie, akute Thrombose oder Mesenterialvenenthrombose.
-Mortalität 50-80% bei arteriellem Verschluss.
+In 85 %  A. mesenterica superior durch kardiale Embolie, akute Thrombose oder Mesenterialvenenthrombose.
+Mortalität 50-80 % bei arteriellem Verschluss.
 Klinik: plötzlicher Schmerz mit Übelkeit und Erbrechen, blutig schaumige Durchfälle 0-6h, danach stilles Intervall (7-12h) mit dumpfen Schmerzen und blutigen Durchfällen mit beginnender Paralyse. Phase III (12-48 h) transmuraler Mesenterialinfarkt mit AZ-Verschlechterung, Peritonitis, Schock.
 
 Diagnose: Anamnese, Angio-CT, Labor Spätzeichen: Leukozytose, Laktatanstieg mit metabolischer Azidose.
@@ -85,7 +85,7 @@ Therapie: OP, Katheterembolektomie
 ### 38.1.2 .NOMI (nicht okklusive Mesenterialischämie)
 
 beim kritisch kranken Patienten!
-25%  der Ischämie durch funktionell spastische Minderdurchblutung, bei Hypovolämie, Katecholamintherapie, Analgosedierung,...
+25 %  der Ischämie durch funktionell spastische Minderdurchblutung, bei Hypovolämie, Katecholamintherapie, Analgosedierung,...
 Klinik: meist bei kritisch kranken Patienten mit stark geblähten Abdomen und grenzwertig erhöhten Laktatspiegeln bei Darmparalyse!
 Therapie: Prostaglandin in die A.mesenterica superior einspritzen, bei transmuraler Darmgangrän chirurgische Sanierung
 

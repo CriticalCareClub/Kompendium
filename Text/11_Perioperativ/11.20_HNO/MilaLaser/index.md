@@ -21,4 +21,4 @@ Anästhesieverfahren, Airway
 
 Aufrechterhaltung
 
-: TIVA, FiO₂ unter 40%, kein Narkosegas
+: TIVA, FiO₂ unter 40 %, kein Narkosegas

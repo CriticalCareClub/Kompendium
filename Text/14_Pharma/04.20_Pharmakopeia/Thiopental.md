@@ -34,7 +34,7 @@ Pharmakokinetik
 
   Wirkungseintritt 15—45 s,
   Dauer der hypnotischen Wirkung 5—15 min,
-  Eliminations-HWZ 5—10 h , PPB 97%
+  Eliminations-HWZ 5—10 h , PPB 97 %
 
 Wirkungen
 : Anxiolyse, Sedation, Hypnose, Antikonvulsion
@@ -124,7 +124,7 @@ Hohe Lipidlöslichkeit (BHS + Plazentagängig), schwache Säure, bei Azidose ver
 Bei iv. Injektion nach 15-20 Sekunden Wirkung im Gehirn und Herz (neg. inotrop), dann Umverteilung = rasches Erwachen durch Umverteilung nicht Elimination. Bei Dauerinfusion sind Gewebekompartimente und Enzymsystem der Leber gesättigt = Kumulation = Elimination nach nicht linearer Kinetik (Zw. 300 und 600 mg konstante Menge/Zeit) = langsames Aufwachen durch 10 x  geringere Clearance als Propofol. Wird  über Niere und Galle als wasserlösliche inaktive Metaboliten abgebaut.
 
 NW
-: periphere  venöse  Vasodilation, Verminderung des cardial Output (verm. Preload, venöses Pooling, negativ inotrop va. bei zu rascher Injektion, vorübergehender verminderter Sympathikusimpuls vom ZNS), Blutdruckabfall (10-20%) mit kompensatorischen HF-Anstieg (Aktivierung der Barorezeptoren im Carotissinus), Bronchospasmus.
+: periphere  venöse  Vasodilation, Verminderung des cardial Output (verm. Preload, venöses Pooling, negativ inotrop va. bei zu rascher Injektion, vorübergehender verminderter Sympathikusimpuls vom ZNS), Blutdruckabfall (10-20 %) mit kompensatorischen HF-Anstieg (Aktivierung der Barorezeptoren im Carotissinus), Bronchospasmus.
 
 Kann akute intermittierende Porphyrie auslösen!
 

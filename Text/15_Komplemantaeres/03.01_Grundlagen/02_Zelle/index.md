@@ -57,15 +57,15 @@ Darüberhinaus unterscheiden sich die unterschiedlichen Zellen aufgrund ihrer sp
 
 Bestandteile der Zelle:
 
-- *Wasser*: Die Zelle besteht zu 70—85% aus Wasser.
+- *Wasser*: Die Zelle besteht zu 70—85 % aus Wasser.
 - *Ionen*: = elektrisch geladene Moleküle. Sie sind in der Zelle meist Salze, die im Zellwasser aufgelöst sind.
   Diese Moleküle können aufgrund ihrer Ladung entlang elektrischer Felder wandern.
   Sie sorgen dafür, dass die Zelle eine positive elektrische Ladung hat, was z. B. für die Erregungsübertragung von Nerven und Muskeln von großer Bedeutung ist.
   Der Extrazellulärraum ist demgegenüber negativ geladen.
-- *Proteine*: Sie machen 10—20% der Zellmasse aus.
+- *Proteine*: Sie machen 10—20 % der Zellmasse aus.
   Man kann hier zwischen Strukturproteinen (faserförmig, verantwortlich für die Zellform) und globuläre Proteine (kugelig, für enzymatische Prozesse) unterscheiden.
-- *Lipide*: in diese Gruppe gehören die Phospholipide und Cholesterin (insg. 2% der Zellmasse, bilden die Zellmembran) und die Triglyzeride (Energiespeicher, bilden in Adipozyten = Fettzellen 90% der Zellmasse).
-- *Kohlenhydrate*: schnell verfügbare Energiespeicher, bilden 1% der Gesamtzellmasse.
+- *Lipide*: in diese Gruppe gehören die Phospholipide und Cholesterin (insg. 2 % der Zellmasse, bilden die Zellmembran) und die Triglyzeride (Energiespeicher, bilden in Adipozyten = Fettzellen 90 % der Zellmasse).
+- *Kohlenhydrate*: schnell verfügbare Energiespeicher, bilden 1 % der Gesamtzellmasse.
   Die Speicherform der Kohlenhydrate heißt Glykogen.
 
 
@@ -84,7 +84,7 @@ Während dieser Zeit kann man im Zellkern keine Chromosomen differenzieren, sond
 
 Die DNA dient als Speicher des genetischen Codes, als Bauplan der Proteinsynthese und der identischen Replikation während der Zellteilung.
 
-Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen 30.000 und 40.000 Gene, wobei über 97% sogenannter "Junk" — nicht kodierende-DNA — sind.
+Die DNA misst insgesamt über 2 m in ihrer Länge und beinhaltet zwischen 30.000 und 40.000 Gene, wobei über 97 % sogenannter "Junk" — nicht kodierende-DNA — sind.
 Die DNA ist in einer **Doppelhelix* (Doppelwindung) angeordnet.
 Innerhalb der DNA kann man zwei verschiedene Formen unterscheiden.
 Das *Euchromatin* bezeichnet einen DNA-Bereich, der aufgelockert ist und genetisch aktiv ist (= Nukleolus-Bereich).

@@ -9,7 +9,7 @@
 
 ## Insulin/Glukose: Kalium-Senken
 
-Glukose 33% 100 mL + Insulin 20 IE
+Glukose 33 % 100 mL + Insulin 20 IE
 
 ## Blutprodukte
 
@@ -29,8 +29,8 @@ Glukose 33% 100 mL + Insulin 20 IE
   zurückgreifen.
 
 Bei Blutgruppen-inkompatibler Transfusion ist mit einem Wirkungsverlust zu rechnen
-(bei AB0-Major-Inkoimpatibilität bis zu 33%,
-bei AB0-Minor-Inkompatibilität bis zu 20%).
+(bei AB0-Major-Inkoimpatibilität bis zu 33 %,
+bei AB0-Minor-Inkompatibilität bis zu 20 %).
 
 ## Ileus
 
@@ -482,7 +482,7 @@ erheblicher Instabilität der Herz-Kreislauf-Funktion zu rechnen ist !
 ### Postoperative Komplikationen bei thorakalen und abdominellen Aneurysmen
 
 - Paraplegie aufgrund einer Minderdurchblutung des Rückenmarks
-  (Häufigkeit 3–6,5%),
+  (Häufigkeit 3–6,5 %),
 - Blutungen,
 - akute Linksherzinsuffizienz,
 - Myokardinfarkt,
@@ -518,11 +518,11 @@ Pankreatitis
 
 **Ursachen**
 
-- Biliär – 45% - distale Choledochus Steine
-- Alkohol-Abusus – 35%
+- Biliär – 45 % - distale Choledochus Steine
+- Alkohol-Abusus – 35 %
 - Medikamente (Diuretika, Azathioprin, Metronidazol, Steroide,
   Valproinsäure, Propofol, Diclofenac , „Pille“)
-- Post-ERCP – 1%
+- Post-ERCP – 1 %
 - Posttraumatisch
 - Postoperativ
 - Duodenal-Divertikel
@@ -532,11 +532,11 @@ Pankreatitis
 - Pankreas divisum
 - Viren (Mumps, Coxsackie, HIV, CMV, HPV)
 - Ascariden in den Gallengängen
-- Tumor – 1,5% - Erstmanifestation eines Pankreas-CA
+- Tumor – 1,5 % - Erstmanifestation eines Pankreas-CA
 - Autoimmun – Sjörgen Syndrom, SLE, Vaskulitiden, AK gegen
   Carboanhydrase, AK gegen Azinuszellen, ANA
 - Hereditäre Mutationen
-- Idiopathisch – 15%
+- Idiopathisch – 15 %
 
 **Epidemiologie**
 
@@ -565,17 +565,17 @@ Inzidenz
 
 Atlanta – Klassifikation
 
-*Leichte* akute Pankreatitis (80%)
+*Leichte* akute Pankreatitis (80 %)
 
 - ödematös
 - Fast nie letal endend
 
-*Schwere* akute Pankreatitis (20%)
+*Schwere* akute Pankreatitis (20 %)
 
 - „nekrotisierend“
 - Mit Organversagen *oder* lokalen Komplikationen (*intra-oder
   peripankreatischer Flüssigkeitsansammlung, Nekrosen, Abszesse*,...)
-- Letalität (15–20%)
+- Letalität (15–20 %)
 
 **Symptome**
 
@@ -612,7 +612,7 @@ Bläuliche Flecken
 
 - Paraumbilical (*Cullen-Zeichen*)
 - Im Flankenbereich (*Grey-Turner-Zeichen*) mit schlechter Prognose –
-  Mortalität bei 30%
+  Mortalität bei 30 %
 
 Pleura-Erguß (meist linksseitig)
 
@@ -625,10 +625,10 @@ Bewußtseinstrübung („*Encephalitis pancreatica*“)
 - Intraabdominelle Abszesse (subphrenisch, Pankreas)
 - Sepsis, Septischer Schock
 - MOV
-- Volumenmangelschock bei schwerer Pankreatitis (20%)
+- Volumenmangelschock bei schwerer Pankreatitis (20 %)
 - Verbrauchskoagulopathie (DIC)
-- ARDS bei schwerer Pankreatitis (45%)
-- ANV bei schwerer Pankreatitis (35%)
+- ARDS bei schwerer Pankreatitis (45 %)
+- ANV bei schwerer Pankreatitis (35 %)
 - Arrosion von Gefäßen (z.B. A.lienalis) mit massiver Blutung
 - Milz/Pfortader-Thrombose mit portaler Hypertonie
 - Pseudozysten-Bildung
@@ -671,14 +671,14 @@ Amylase
 
 GPT – 3fache Erhöhung bei biliärer Pankreatitis
 
-Bei biliärer Genese in 20% normale LFP
+Bei biliärer Genese in 20 % normale LFP
 
 Laktat: fast immer erhöht
 
 - Lipase – Erhöhung oft um das 3fache
 - Sensitiver als Amylase
-- 97% Spezifität
-- Nur 67% Sensitivität
+- 97 % Spezifität
+- Nur 67 % Sensitivität
 - Anstieg bereits nach 4–8h
 - Normalisierung nach 5–8 Tagen
 - **CAVE**: Lipase Erhöhung auch bei NIereninsuffizienz
@@ -710,20 +710,20 @@ CRP:
 Interleukin 6:
 
 - Sehr guter Prognoseparameter
-- Auch initial bereits am 1. Tag (fast 100% Sensitivität)
+- Auch initial bereits am 1. Tag (fast 100 % Sensitivität)
 
 Glukose:
 
-- Ausfall der endokrinen Funktion (! erst ab 80% des Gewebes!)
+- Ausfall der endokrinen Funktion (! erst ab 80 % des Gewebes!)
 - Hoher negativer prädiktiver Wert : normaler BZ (bei Nicht-Diabetikern) schließt nekrotisierende Pankreatitis weitgehend aus
-- BZ < 125 mg / dl – 92% KEINE nekrot.Pankreatitis
+- BZ < 125 mg / dl – 92 % KEINE nekrot.Pankreatitis
 
 Hämatokrit:
 
 - Hoher negativer prädiktiver Wert
 - Fehlender HK-Anstieg schließt nekrotisierende Pankreatitis weitgehend
   aus
-- HK \< 43% (Mann) und \< 39% (Frau) – 88% KEINE nekrot.Pankreatitis
+- HK \< 43 % (Mann) und \< 39 % (Frau) – 88 % KEINE nekrot.Pankreatitis
 
 #### Bildgebung
 
@@ -732,7 +732,7 @@ Hämatokrit:
 - Hauptsächlich zur Beurteilung der Gallenwege (*Cholestase*)/
   Gallenblase (*Cholezystolithiasis*, *Cholezystitis*)
 - Stau in den Gallenwege
-- Sensitivität nur bei 67%
+- Sensitivität nur bei 67 %
 - Oft eingeschränkt wegen Meteorismus
 - Evtl. Nachweis von freier Flüssigkeit
 - Evtl. Nachweis ein Pfortaderthrombose
@@ -760,9 +760,9 @@ Hämatokrit:
 **Nekrosegrad**
 
 - Keine Nekrose 0P
-- \< 30% des Pankreas : 2P
-- 30–50% des Pankreas: 4P
-- \> 50% des Pankreas : 6P
+- \< 30 % des Pankreas : 2P
+- 30–50 % des Pankreas: 4P
+- \> 50 % des Pankreas : 6P
 
 **Balthazar-Score**
 
@@ -798,9 +798,9 @@ Ansonsten innerhalb von 72 Stunden
 
 Post-ERCP Pankreatitis
 
-Häufigkeit: 1% nach Intervention
+Häufigkeit: 1 % nach Intervention
 
-Jeweils in 50% nach ERCP
+Jeweils in 50 % nach ERCP
 
 - Bauchschmerzen
 - Lipase – Erhöhung
@@ -839,10 +839,10 @@ Ranson – Score nach 48 Stunden
 - GOT > 255 U/l
 - LDH > 350 U/l
 - Glukose > 200 mg/dl
-- 0–2 Punkte - \< 1% Letalität
-- 3–4 Punkte – 15% Letalität
-- 5–6 Punkte – 40% Letalität
-- \> 6 Punkte – 100% Letalität
+- 0–2 Punkte - \< 1 % Letalität
+- 3–4 Punkte – 15 % Letalität
+- 5–6 Punkte – 40 % Letalität
+- \> 6 Punkte – 100 % Letalität
 
 ### Therapie
 
@@ -924,7 +924,7 @@ Steuerung
 - ZVD (Ziel: 8–10 cm H₂0) MEMO : ZVK bei schwerer Pankreatitis obligat
   !
 - Diurese (Ziel: > 0,5 ml / kg / h)
-- HK – 30–35%
+- HK – 30–35 %
 - Ggf.auch PICCO-Messung
 - Volumengabe bis zur Normalisierung des Laktats
 - Evtl.*early goal directet therapy* (Katecholamine, etc.)
@@ -991,7 +991,7 @@ Kopfbereich)
 ##### Cholezystektomie
 
 Rezidiv einer biliären Pankreatitis bei Pat. Mit Cholezystolithiasis in
-60%
+60 %
 
 IND für CHE (auch wenn bereits eine Papillotomie durchgeführt wurde)
 
@@ -1007,10 +1007,10 @@ IND für CHE (auch wenn bereits eine Papillotomie durchgeführt wurde)
 
 Abnehmend
 
-Insgesamt : um die 8%
+Insgesamt : um die 8 %
 
 - Leichte Pankreatitis: fast nie letal
-- Schwere Pankreatitis: 15–20%
+- Schwere Pankreatitis: 15–20 %
 
 Der 1.“Schub“ hat eine 10–15fache höhere Mortalität als der Wiederholte
 
@@ -1058,8 +1058,8 @@ Wichtig PRÄOPERATIV im Mittelpunkt stehen :
 
 - = Kooperations-abhängig
 
-- Verbesserung der FEV1% (*Tiffeneau-Test*)
-  durch Bronchodilatatoren (> 10%)
+- Verbesserung der FEV1 % (*Tiffeneau-Test*)
+  durch Bronchodilatatoren (> 10 %)
 
 - Präoperativ belassen, ebenso wie eine laufende Kortison-Therapie
 
@@ -1106,14 +1106,14 @@ Subsegmente insgesamt = 42
 
 z.B. Lobektomie rechter UL:
 
-- → postoperative FEV1 Verlust 29%
+- → postoperative FEV1 Verlust 29 %
 - (12/42!)
 
 ### Risiko-Evaluierung
 
-- ppoFEV1 > 50% … keine bis min.Komplikationen
-- ppoFEV1 \< 40% … u.a. schwere Komplikationen
-- ppoFEV1 \< 30% … 10/10 Pat.postoperative Nachbeatmung
+- ppoFEV1 > 50 % … keine bis min.Komplikationen
+- ppoFEV1 \< 40 % … u.a. schwere Komplikationen
+- ppoFEV1 \< 30 % … 10/10 Pat.postoperative Nachbeatmung
 
 ### Respiratorische Beurteilung
 
@@ -1122,7 +1122,7 @@ z.B. Lobektomie rechter UL:
 #### Lungen-Mechanik Parenchym-Funktion Kardio-pulmonale Reserve
 
 - FEV1 DLCO VO₂ max
-- (ppo\< 40%) (ppo\< 40%) (15 ml/kg / min)
+- (ppo\< 40 %) (ppo\< 40 %) (15 ml/kg / min)
 - MVV, FVC paO₂ \< 65 2 Stöcke Stiegen steigen
 - RV/TLC PaCO₂ > 45 6 Minuten gehen
 
@@ -1267,7 +1267,7 @@ Indikationen für Bronchusblocker beim Erwachsenen
 
 ### Mediastinoskopie
 
-Komplikationen (~ 1,5%):
+Komplikationen (~ 1,5 %):
 
 - Blutungen,
 - Pneumothorax,

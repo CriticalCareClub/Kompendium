@@ -44,7 +44,7 @@ Folgen
   - LVEDP erhöht = Gefahr der Myokardischämie
   - CO fixiert (kann nicht gesteigert werden)
   - diastolische Funktionsstörung
-  - atriale Kontraktion liefert 40% des CO (normal bis max. 20%) = sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
+  - atriale Kontraktion liefert 40 % des CO (normal bis max. 20 %) = sorgt für ausreichende Füllung des Ventrikels (Compliance sinkt)
   - missmatch VO₂/DO₂ kardial
 
 Symptomatik

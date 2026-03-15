@@ -145,10 +145,10 @@ Für rein sensorische Blockaden wird eher eine niedrige Konzentration, für moto
 
 | Wirkstoff  | Konz. |Volumen | Dosis | Wirkeintritt | Wirkdauer |
 | ---------- | ---------: | -----: | -------: | ------------------: | ---------------: |
-| Lidocain   | 1-2%       | 15-30 ml | 200-500 mg | 10-30 min             | 100 ± 40 min         |
-| Mepivacain | 1-2%       | 15-30 ml | 150-500 mg | 15-20 min             | 120 ± 50 min         |
-| Bupivacain | 0,25-0,75% | 15-30 ml | 150 mg     | 18-30 min             | 200 ± 80 min         |
-| Ropivacain | 0,2-1%     | 15-30 ml | 220 mg     | 10-20 min             | 180 ± 360 min        |
+| Lidocain   | 1-2 %       | 15-30 ml | 200-500 mg | 10-30 min             | 100 ± 40 min         |
+| Mepivacain | 1-2 %       | 15-30 ml | 150-500 mg | 15-20 min             | 120 ± 50 min         |
+| Bupivacain | 0,25-0,75 % | 15-30 ml | 150 mg     | 18-30 min             | 200 ± 80 min         |
+| Ropivacain | 0,2-1 %     | 15-30 ml | 220 mg     | 10-20 min             | 180 ± 360 min        |
 
 :::
 
@@ -223,10 +223,10 @@ Zur Auffindung des Periduralraumes können zwei Techniken angewendet werden:
 
 2. Loss-of-Resistance
 
-   1. Vorschieben der Kanüle mit aufgesetzter, leichtgängiger Spritze mit NaCl 0,9%, dabei ständiger Druck auf den Stempel
+   1. Vorschieben der Kanüle mit aufgesetzter, leichtgängiger Spritze mit NaCl 0,9 %, dabei ständiger Druck auf den Stempel
    2. Beim Vorschieben durch das Lig. flavum ist ein deutlicher Wiederstand spürbar
    3. Bei Verlassen des Lig. Flavum und Eintritt in den Periduralraum ist ein deutlicher Widerstandsverlust spürbar, die Kochsalzlösung lässt sich leichtgängig einspritzen
-3. Aufspritzen des Periduralraumes mit NaCl 0,9%
+3. Aufspritzen des Periduralraumes mit NaCl 0,9 %
 4. Einführen des Periduralkatheters, ca. 3 cm
 5. Entfernen der Kanüle über den liegenden Katheter, dabei Katheter nicht versehentlich mit herausziehen!
 6. Fixieren des Katheters

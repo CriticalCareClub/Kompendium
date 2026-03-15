@@ -9,8 +9,8 @@ status: sprint
 
 # Awareness
 
-- 0,1-0,2% bewusstes Wacherleben ohne Schmerzen,
-- 1,2% Awareness
+- 0,1-0,2 % bewusstes Wacherleben ohne Schmerzen,
+- 1,2 % Awareness
 
 Häufig Bewusstseinsleistungen ohne Erinnerung und unbewusste Erinnerung.
 
@@ -42,7 +42,7 @@ Narkotrend
   Die Narkosestadien werden mit Hilfe eines numerischen Index von 0 bis 100 eingeteilt.
 
 
-Kontext sensitive HWZ  = Zeit die nach Beendigung der Infusion eines Pharmakons notwendig ist, bis die Plasmakonzentration um 50%  abgefallen ist. Context bezieht sich auf die Dauer der Infusion.
+Kontext sensitive HWZ  = Zeit die nach Beendigung der Infusion eines Pharmakons notwendig ist, bis die Plasmakonzentration um 50 %  abgefallen ist. Context bezieht sich auf die Dauer der Infusion.
 
 
 :::{figure} ../../Bilder/Hirtler-Lena-CCCA/Pharma/Kontextsensitive-Halbwertszeit.png
@@ -51,7 +51,7 @@ Kontextsensitive Halbwertszeit
 :::
 
 
-Lange Aufwachzeiten nach langer TIVA ergeben sich aus der verlängerten 80%
+Lange Aufwachzeiten nach langer TIVA ergeben sich aus der verlängerten 80 %
 Konzentrationsabfallskurve von Propofol, die deutlich länger braucht als Remifentanyl. Daher Propofol beim Zunähen stoppen, und Remifentanyl höher drehen!
 
 

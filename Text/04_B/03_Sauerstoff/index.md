@@ -25,7 +25,7 @@ status: final
     -   Gasflaschen mit *medizinischem* Sauerstoff sind *vollständig weiß*.
 :::
 
-**Sauerstoff** {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas, welches zu 21% in der Luft vorkommt.
+**Sauerstoff** {index}` <! Sauerstoff>` ist ein lebenswichtiges, farb- und geruchsloses Gas, welches zu 21 % in der Luft vorkommt.
 Das chemische Symbol (genauer: Summenformel)
 lautet {dfn}`O₂`{index}` <! O₂>`.
 
@@ -310,7 +310,7 @@ Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt werden! Zum Einsatz kommen Sauerstoffbrillen, Sauerstoffmasken und Sauerstoffmasken mit Reservoir [^berieselungbeatmungsbeutel].
 
 [^berieselungbeatmungsbeutel]:
-    In Einzelfällen kann auch mit einem Beatmungsbeutel berieselt werden, dadurch sind Sauerstoffkonzentrationen bis zu 100% möglich.
+    In Einzelfällen kann auch mit einem Beatmungsbeutel berieselt werden, dadurch sind Sauerstoffkonzentrationen bis zu 100 % möglich.
     Allerdings ist die Anwendung komplizierter (Maske muss ständig dicht angelegt werden) und die Materialkosten sind deutlich höher (Desinfektion notwendig, bzw. Neuanschaffung bei Einwegprodukten)
 
 
@@ -354,7 +354,7 @@ Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`�
     |                                   |                                         |                                       |                                                           |
     |                                   |                                         | - noch höhere O₂-Konzentration        | - Reservoir muss zuerst händisch befüllt werden           |
     +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    | **Beatmungsbeutel mit Reservoir** | - Spontanatmung                         | - bis zu 100% O₂-Konzentration        |                                                           |
+    | **Beatmungsbeutel mit Reservoir** | - Spontanatmung                         | - bis zu 100 % O₂-Konzentration        |                                                           |
     |                                   |                                         |                                       |                                                           |
     |                                   | - assitierte und kontrollierte Beatmung | - Berieselung und Beatmung möglich    |                                                           |
     +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
@@ -371,7 +371,7 @@ Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`�
 
 #### Durchführung: O₂-Berieselung
 
-Bei jedem Patienten, bei dem eine lebensbedrohliche Störung einer vitalen Funktion eingetreten ist oder einzutreten droht ("Notfallpatient"), soll, sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff verabreicht werden, sodass die Sauerstoffsättigung (SpO₂) im Bereich von **94—98%** erreicht wird.
+Bei jedem Patienten, bei dem eine lebensbedrohliche Störung einer vitalen Funktion eingetreten ist oder einzutreten droht ("Notfallpatient"), soll, sofern keine Kontraindiktaionen vorliegen, soviel Sauerstoff verabreicht werden, sodass die Sauerstoffsättigung (SpO₂) im Bereich von **94—98 %** erreicht wird.
 
 1. Kontraindikationen und Gegenanzeigen prüfen:
 
@@ -383,7 +383,7 @@ Bei jedem Patienten, bei dem eine lebensbedrohliche Störung einer vitalen Funkt
    zugrundeliegender Erkrankung.
    Grundsätzlich soll ein
    SpO₂ von
-   **94—98%** erreicht werden.
+   **94—98 %** erreicht werden.
    Steht keine Pulsoxymetrie zur Verfügung, ist als
    Richtwert von einer Dosis von **8 L / min** auszugehen,
    welche dem klinischen Zustand des Patienten angepasst werden
@@ -427,7 +427,7 @@ Bei jedem Patienten, bei dem eine lebensbedrohliche Störung einer vitalen Funkt
 
 In den allermeisten Situationen, bei denen eine Beatmung mittels Beatmungsbeutel notwendig ist, muss zusätzlich Sauerstoff zugeführt werden.
 Man schließt dazu einen O₂-*Verbindungsschlauch* an den Druckminderer und den Beatmungsbeutel an.
-Wenn vorhanden soll ein O₂-*Reservoir* verwendet werden, dadurch wird die Sauerstoffkonzentration auf fast 100%
+Wenn vorhanden soll ein O₂-*Reservoir* verwendet werden, dadurch wird die Sauerstoffkonzentration auf fast 100 %
 erhöht.
 
 

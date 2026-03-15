@@ -85,7 +85,7 @@ Dieser Haushalt wird beim Gesunden durch die Niere reguliert. Für eine ausgegli
 +-----------------+-----------------+-----------------+-----------+
 ```
 
-Das Wasser im Körper beträgt ungefähr 50% unseres Gewichtes und ist zwischen Intrazellulär- und Extrazellulärraum aufgeteilt. Auch die Elektrolyte sind in diesen Bereichen verteilt. Entgleisungen beim Volumen-Haushalt können folgende sein:
+Das Wasser im Körper beträgt ungefähr 50 % unseres Gewichtes und ist zwischen Intrazellulär- und Extrazellulärraum aufgeteilt. Auch die Elektrolyte sind in diesen Bereichen verteilt. Entgleisungen beim Volumen-Haushalt können folgende sein:
 
 - Dehydration (Austrocknung): z.B. bei Erbrechen, Durchfällen, Hitze
 - Hyperhydration (Überwässerung): z.B. bei Niereninsuffizienz
@@ -175,7 +175,7 @@ Unter diesem Überbegriff sammeln sich Substanzen, die die Harnausscheidung för
   - ↑
   - i.v.: rasch
   - kurz
-  - 30—40%
+  - 30—40 %
 - - Carboanhydrase-Hemmer
   - ↑
   - ↑
@@ -191,7 +191,7 @@ Unter diesem Überbegriff sammeln sich Substanzen, die die Harnausscheidung för
   - ↑
   - p.o.: 1-2 h
   - 10-15 h
-  - 12—24%
+  - 12—24 %
 - - Schleifendiuretika
   - ↑↑
   - ↑
@@ -199,7 +199,7 @@ Unter diesem Überbegriff sammeln sich Substanzen, die die Harnausscheidung för
   - ↑
   - p.o. ca. 30 min, i.v. 2—5 min
   - 3—6 h
-  - 30—40%
+  - 30—40 %
 - - Kaliumsparende Diuretika
   - ↑↑
   - ↓
@@ -215,7 +215,7 @@ Unter diesem Überbegriff sammeln sich Substanzen, die die Harnausscheidung för
   - ↑
   - p.o. 24—48 h, i.v. bis ca. 12 h
   - Bis zu 4 d
-  - 2—3%
+  - 2—3 %
 :::
 
 Je nachdem welches Diuretikum man betrachtet, hat es verschiedene Angriffspunkte innerhalb des Nephrons, woraus sich dann auch etwaige Nebenwirkungen ableiten können (vgl. {ref}`Fig-AngriffspunkteDiuretika`).
@@ -288,7 +288,7 @@ Bei Thiaziddiuretikatherapie kann es zu einer Verstärkung der Digitalis-Wirkung
 
 ### Schleifendiuretika
 
-Über eine reversible Hemmung des Natrium-Chlorid-Kalium-Carrier in der Henle-Schleife verursachen Schleifendiuretika eine Diurese von bis zu 40% des Glomerulumfiltrats. Weiters bewirken sie eine Vasodilatation, wodurch die Nierendurchblutung gefördert wird. Sie sind wegen ihrer schnellen, kurzzeitigen und starken Wirkung für die Akuttherapie bestens geeignet.
+Über eine reversible Hemmung des Natrium-Chlorid-Kalium-Carrier in der Henle-Schleife verursachen Schleifendiuretika eine Diurese von bis zu 40 % des Glomerulumfiltrats. Weiters bewirken sie eine Vasodilatation, wodurch die Nierendurchblutung gefördert wird. Sie sind wegen ihrer schnellen, kurzzeitigen und starken Wirkung für die Akuttherapie bestens geeignet.
 
 ```{eval-rst}
 ============ =========================
@@ -377,7 +377,7 @@ Kontraindikationen: Hyperkaliämie, Hyponatriämie, Hypovolämie, schwere Nieren
 
 ```{eval-rst}
 =========== ======= ========= ============= =======
-\           Plasma  0,9% NaCl Ringer-Lactat Elo-Mel
+\           Plasma  0,9 % NaCl Ringer-Lactat Elo-Mel
 Na          141     154       130           140
 Cl          103     154       112           108
 K           4-5     -         5,4           5
@@ -394,23 +394,23 @@ Folgende Arten werden unterschieden:
 
 - isotone Lösungen:
 
-**-> Ringer-Lösung, Ringer-Lactat, Jonosteril, Sterofundin, Jonosteril D5, NaCl 0,9%** (physiologische Kochsalzlösung)
+**-> Ringer-Lösung, Ringer-Lactat, Jonosteril, Sterofundin, Jonosteril D5, NaCl 0,9 %** (physiologische Kochsalzlösung)
 
 Anwendungsbereiche: parenterale Flüssigkeitssubstitution
 
 - hypotone Lösungen:
 
-**-> NaCl 0,45%, Glukose 5%**
+**-> NaCl 0,45 %, Glukose 5 %**
 
 Anwendungsbereich: hypertone Dehydratation
 
 - hypertone Lösungen:
 
-**-> NaCl 10%, Glukose 20%, 40%**
+**-> NaCl 10 %, Glukose 20 %, 40 %**
 
-Anwendungsbereiche: NaCl 10%: ausgeprägte Hyponatriämie
+Anwendungsbereiche: NaCl 10 %: ausgeprägte Hyponatriämie
 
-Glukose 20%, 40 %: parenterale Ernähung, Hypoglylämie
+Glukose 20 %, 40 %: parenterale Ernähung, Hypoglylämie
 
 ### Kolloide
 

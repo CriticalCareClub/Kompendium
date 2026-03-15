@@ -55,7 +55,7 @@ Die beiden wichtigsten Parameter sind
 - die **forcierte Vitalkapazität** (**FVC**):
   Lungenvolumen, das nach maximaler Inspiration forciert *ausgeatmet* werden kann.
 - **exspiratorische Einsekundenkapazität** oder forciertes exspiratorisches Volumen (**FEV1**).
-  Ein abgeleiteter Wert ist der **Soll-FEV1%**.
+  Ein abgeleiteter Wert ist der **Soll-FEV1 %**.
   Er ist definiert als FEV1 des Patienten geteilt durch den durchschnittlichen FEV1 in der Bevölkerung (Alters-, Größen- und Geschlechts-adaptiert).
 - Die Ratio **FEV1/FVC** hilft bei der Unterscheidung zwischen obstruktiven und restriktiven Ventilationsproblemen.
   Bei gesunden Erwachsenen sollte sie etwa 0,7-0,8 % betragen (altersabhängig).
@@ -66,7 +66,7 @@ Die beiden wichtigsten Parameter sind
 
 
 <!--
-- Verbesserung der FEV1% (*Tiffeneau-Test*) durch Bronchodilatatoren > 10%)
+- Verbesserung der FEV1 % (*Tiffeneau-Test*) durch Bronchodilatatoren > 10 %)
 
 - Präoperativ belassen, ebenso wie eine laufende Kortison-Therapie
 
@@ -119,7 +119,7 @@ Eine Hilfe bei der Einschätzung ist das anhand der resezierten Subsegmente (Tab
 
 :::{admonition} Beispiel
 
-z.B. Lobektomie rechter Unterlappen: → postoperative FEV1 Verlust 29% (12/42)
+z.B. Lobektomie rechter Unterlappen: → postoperative FEV1 Verlust 29 % (12/42)
 :::
 
 Daraus ergibt sich eine Risikoeinschätzung gem. Tab. {ref}`tab-ppoFEV1-Risiko`.
@@ -129,13 +129,13 @@ Daraus ergibt sich eine Risikoeinschätzung gem. Tab. {ref}`tab-ppoFEV1-Risiko`.
 
 | ppoFEV1 | Risiko                               |
 | ------- | ------------------------------------ |
-| > 50%   | keine bis min.Komplikationen         |
-| < 40%   | u.a. schwere Komplikationen          |
-| < 30%   | 10/10 Pat.postoperative Nachbeatmung |
+| > 50 %   | keine bis min.Komplikationen         |
+| < 40 %   | u.a. schwere Komplikationen          |
+| < 30 %   | 10/10 Pat.postoperative Nachbeatmung |
 
 :::
 
-> Abschätzung respiratorischer Komplikationen: ppoFEV1 (predicted postoperativ FEV1) \> 50%: keine/minimale Komplikationen zu erwarten.
+> Abschätzung respiratorischer Komplikationen: ppoFEV1 (predicted postoperativ FEV1) \> 50 %: keine/minimale Komplikationen zu erwarten.
 
 >
 
@@ -152,7 +152,7 @@ Man kann dies als 3 Säulen beschreiben und beurteilen:
    -  RV/TLC
 2. Diffusion und Parenchym-Funktion (mit auch abhängig von der Perfusion):
    - DLCO
-   - (ppo\< 40%)
+   - (ppo\< 40 %)
    - Blutgasanalyse
 3. Zirkulation und kardio-pulmonale Reserve:
    - VO₂ max (vgl. {ref}`VO2`): 15 ml / kg / min
@@ -360,7 +360,7 @@ Li DLT: über das tracheale Lumen muss die Carina und der obere blaue Teil des e
 
 ### Lungenperfusion bei Einlungenventilation
 
-Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77%), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23%) = Shunt!
+Die ventilierte Lunge wird hauptsächlich durchblutet (ca. 77 %), die nicht ventilierte Lunge aufgrund von HPV reduziert durchblutet (ca. 23 %) = Shunt!
 HPV und Hyperkapnie verschlechtern eine vorbestehende Rechtsherzinsuffizienz (Cor pulmonale!)
 
 Mechanismen um intraoperative Hypoxie bei ELV zu vermeiden:

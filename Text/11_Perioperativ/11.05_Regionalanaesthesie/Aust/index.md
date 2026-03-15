@@ -31,7 +31,7 @@ Nachteile RA:
 - Kreislaufbelastung (SPA),
 - Blutungskomplikationen,
 - Katheterkomplikationen,
-- direkte Nervenschäden. (Komplikationen bei 0,09% der RA)
+- direkte Nervenschäden. (Komplikationen bei 0,09 % der RA)
 
 Gerinnungsanamnese!
 Neuroaxial blutungsriskant, periphere Blockaden mit Sonographie nicht blutungsriskant; Gerinnungshemmer:
@@ -101,7 +101,7 @@ Alternative zur SPA:
 - Fussblock Bsp. ASK,
 
 kann Wirkdauer + Ausbreitung beeinflusst werden?
-Ja, unilaterale SPA mit hyperbarem Bupivacain 0,5%, Dosisreduktion bis 5 mg (1 ml) möglich, Seitenlagerung bis Fixierung gegeben ist. (ca. 10min).
+Ja, unilaterale SPA mit hyperbarem Bupivacain 0,5 %, Dosisreduktion bis 5 mg (1 ml) möglich, Seitenlagerung bis Fixierung gegeben ist. (ca. 10min).
 Wirkdauer kann durch Zugabe von Conidin (15-30 µg) um das 1,5 bis 2 fache verlängert werden, bzw. durch 10 µg Fentanyl als Additiv.
 
 Bsp.
@@ -114,7 +114,7 @@ KTEP Möglichkeiten?
 - Psoaskompartmentblock Bsp. Außenknöchelfraktur?  PDA, SPA (unilateral), proximaler oder distaler Ischiadikusblock (popliteal), Femoralisblock mit distaler Saphenusblockade.
 
 Anwendung im Schockraum: OE mit ISK oder supraclav.
-Block, UE mit Fasc. Iliaca comp. Block Sattelblock: ist eine Sonderform der SPA mit hyperbarem Bupivacain 0,2%  ca. 1,5 ml (0,8-1,2 ml bei 0,5%) und für 15min sitzen lassen. Ind: Sakraldermoid, TURP
+Block, UE mit Fasc. Iliaca comp. Block Sattelblock: ist eine Sonderform der SPA mit hyperbarem Bupivacain 0,2 %  ca. 1,5 ml (0,8-1,2 ml bei 0,5 %) und für 15min sitzen lassen. Ind: Sakraldermoid, TURP
 
 
 

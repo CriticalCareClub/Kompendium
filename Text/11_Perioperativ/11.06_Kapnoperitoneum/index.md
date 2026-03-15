@@ -24,7 +24,7 @@ Komplikationen:
   Therapie
   : Linksseitenlage und Kopftieflage soll Gas hindern in die Pulmonalarterien zu wandern, ev. Luft über ZVK absaugen.
 - Pneumothorax durch Zwerchfellruptur oder Diffusion: etCO₂ sinkt + AG vermindert + Hypersonorer KS, erhöhter Beatmungsdruck nötig!
-- PONV 50-60%
+- PONV 50-60 %
 - Passagere Arrhythmien
 - Oxygenierungsstörungen mit Atelektasen
 - Schulterschmerzen

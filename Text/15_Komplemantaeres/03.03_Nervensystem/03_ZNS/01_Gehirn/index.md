@@ -114,7 +114,7 @@ Wichtige Anteile des Telencephalons:
   (Corpus callosum)
 
 - *primäre Hirnareale*: hier beginnen oder enden Projektionsbahnen,
-  80-90% der Weltbevölkerung sind linksseitig dominant, es gibt auch
+  80-90 % der Weltbevölkerung sind linksseitig dominant, es gibt auch
   eine Hemisphärendominanz bzgl. bestimmter Fähigkeiten.
 
   - primär motorische Rinde (Gyrus praecentralis)
@@ -124,7 +124,7 @@ Wichtige Anteile des Telencephalons:
   - motorisches Sprachzentrum (BROCA Region, im Gyrus frontalis
     inferior)
 
-- *Assoziationsareale*: 80% der Großhirnoberfläche, für Interpretation
+- *Assoziationsareale*: 80 % der Großhirnoberfläche, für Interpretation
   der Sinneswahrnehmungen verantwortlich
 
   - auditorisches Assoziationsgebiet (WERNICKE-Zentrum, im Gyrus

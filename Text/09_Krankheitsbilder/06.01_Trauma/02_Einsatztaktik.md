@@ -115,7 +115,7 @@ Eine Verdoppelung der Geschwindigkeit hat daher eine Vervierfachung der Energie 
 Im Falle eines Unfalls (Aufprall auf ein Hindernis) überträgt sich die Richtung der Gewalteinwirkung direkt auf den Patienten.
 Ein Frontalzusammenstoß führt somit dazu, dass der Patient von vorne verletzt wird, ein Seitenaufprall führt zu Verletzungen auf der jeweiligen Körperseite des Patienten.
 Von besonders schweren Verletzungen (SHT, Wirbelsäulentrauma, Thoraxtrauma, Bauchtrauma, …) ist auszugehen, wenn der Patient aus dem Fahrzeug geschleudert wird.
-Das Riskio für derart schwere Verletzungen ist um 300% erhöht.
+Das Riskio für derart schwere Verletzungen ist um 300 % erhöht.
 
 Gibt es bei einem Unfall mehrere Verletzte und ist ein Patient schwer verletzt, eingeklemmt oder sogar getötet, muss man davon ausgehen, dass auch die anderen Unfallopfer schwer verletzt sind.
 Diese Annahme gilt, bis bei weiteren Untersuchungen (im Spital) das Gegenteil bewiesen wurde! Stellt sich also bei der Behandlung eines Patienten eine schwere Verletzung heraus, muss es zu einer neuen Lageeinschätzung kommen.

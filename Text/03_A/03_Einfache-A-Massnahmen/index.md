@@ -135,7 +135,7 @@ Er beschrieb neben dem Esmarch-Handgriff den Esmarch-Verband und gründete den D
 
 ## Stabile Seitenlage
 
-Während die vorbeschriebenen Techniken einen prinzipiell durchgängigen Atemweg gewährleisten sollen, ermöglicht die stabile Seitenlage eine einfache, wenn auch nicht 100%ige, Aspirationsprophylaxe.
+Während die vorbeschriebenen Techniken einen prinzipiell durchgängigen Atemweg gewährleisten sollen, ermöglicht die stabile Seitenlage eine einfache, wenn auch nicht 100 %ige, Aspirationsprophylaxe.
 
 1. Der Arm des Patienten, welcher näher zum Helfer liegt,
    wird im rechten Winkel zum Patienten am Boden aufgelegt.

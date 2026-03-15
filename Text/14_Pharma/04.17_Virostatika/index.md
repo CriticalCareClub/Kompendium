@@ -79,7 +79,7 @@ Das Anfangsstadium einer Heoatitis dauert Tage bis Wochen mit uncharakteristisch
 Danach beginnen leberspezifische Symptome (Dauer 2 bis 8Wochen):
 Leberdruckschmerz durch Hepatomegalie, Ikterus der Konjunktiven und der Haut, Entfärbung des Stuhls sowie Juckreiz durch Gallensäure-Ablagerungen in der Haut.
 
-Bei ca. 20% der Patienten treten eine zusätzliche Splenomegalie sowie Lymphknotenschwellungen vorwiegend im Halsbereich durch Lymphknotenbefall auf. Vor allem bei Hepatitis B werden extrahepatische Erscheinungen infolge einer Immunkomplexbildung beobachtet.
+Bei ca. 20 % der Patienten treten eine zusätzliche Splenomegalie sowie Lymphknotenschwellungen vorwiegend im Halsbereich durch Lymphknotenbefall auf. Vor allem bei Hepatitis B werden extrahepatische Erscheinungen infolge einer Immunkomplexbildung beobachtet.
 
 Auser den fünf bekannten spezifischen Hepatitis-Viren (Hepatitiden A–E)
 wurden weitere Hepatitis-Viren (Hepatitiden F und G) nachgewiesen. Bis auf das Hepatitis-B-Virus (DNA) handelt es sich um RNA-Viren.

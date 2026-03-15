@@ -32,7 +32,7 @@ Definition
   - ISS \> 17 Mortalität bei Knochenverletzungen am höchsten!
 
 
-Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen 20—50%, ist also hoch.
+Die Sterblichkeit bei polytraumatisierten Patienten liegt zwischen 20—50 %, ist also hoch.
 Ein gezieltes, strukturiertes und zügiges Vorgehen ist daher unabdingbar!
 Im Idealfall sollten zwischen dem Eintreffen der Rettungskräfte und der definitiven Versorgung im Spital nicht mehr als 60 Minuten vergehen.
 Die Behandlung muss sich daher in erster Linie an der Stabilisierung der Vitalfunktionen und nicht an den Einzelverletzungen orientieren!
@@ -88,7 +88,7 @@ Oft Aspiration von bewusstlosen Verletzten!
 
 Indikation für ein Polytrauma- Ganzkörper CT / Schockspirale:
 - **Unfallhergang**: Sturz aus großer Höhe, Verkehrsunfall als Fußgänger oder hohe Geschwindigkeit, Explosion, Einklemmung
-- **Vitalparameter**: GCS \< 10, RRsyst \< 80, O₂ \< 90%, Atemfrequenz \< 10 oder \> 24/min
+- **Vitalparameter**: GCS \< 10, RRsyst \< 80, O₂ \< 90 %, Atemfrequenz \< 10 oder \> 24/min
 - **Verletzungsmuster**: Thorax instabil,  \>  1 großer Röhrenknochen betroffen, stumpfes Bauchtrauma, prox. Amputation
 
 

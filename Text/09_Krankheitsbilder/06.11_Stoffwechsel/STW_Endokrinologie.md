@@ -6,7 +6,7 @@
 
 TSH: Hypophyse; vermindert Hyperthyreose; erhöht bei primärer thyreogener Hypothyreose oder sekundärer hypophysiärer Hyperthyreose.
 Ft4 in SD produziert, HWZ 6-7 Tage!!!
-Ft3 80% außerhalb der SD produziert, 1 Tag HWZ
+Ft3 80 % außerhalb der SD produziert, 1 Tag HWZ
 
 ### Hyperthyreose:
 
@@ -42,7 +42,7 @@ Klinik: Friert, Myxödeme (tibial, periorbital), Psychosen, Apathie, Kardiomegal
 
 Anästhesie:
 - Elektive Operationen immer mit euthyreoter Stoffwechsellage anstreben! Präopertiv Hormonstatus (TSH, T3/4), Kardiovaskuläre Begutachtung, HNO (Stimmbandfunktion?), C/P (Trachealverlagerung/einengung?)
-- Dosisred. Prämed, Glucocorticoide bei NNI, alle Anästhetika erlaubt, Muskelrelaxantien um 20% dosisreduziert + TOF!,
+- Dosisred. Prämed, Glucocorticoide bei NNI, alle Anästhetika erlaubt, Muskelrelaxantien um 20 % dosisreduziert + TOF!,
 - postoperativ häufiger nachbeatmet, Nachblutung, Ileus, Hyponatriämie, höhere Sensibilität auf Opioide.
 
 Therapie:
@@ -53,7 +53,7 @@ Schilddrüsenoperation Präoperativ: Hormonstatus, kardiovaskuläre Begutachtung
 
 ### Recurrensparese
 
-Durch chir. Trauma oder  Ödem (4%), einseitig mit Heiserkeit, beidseitig mit Stridor, Aphonie, Atemwegsobstruktion bei geschlossenen Stimmbändern! (sofort IT)
+Durch chir. Trauma oder  Ödem (4 %), einseitig mit Heiserkeit, beidseitig mit Stridor, Aphonie, Atemwegsobstruktion bei geschlossenen Stimmbändern! (sofort IT)
 
 Postoperativ weiters: Blutungen mit schwierigem Atemweg durch Schwellung/Hämatom, hypocalciämische Krisen (Nebenschilddrüsenentfernung) mit Krämpfen.
 
@@ -80,7 +80,7 @@ Perioperative Cortisontherapie: präoperativ normale Dosis am OP-Tag einnehmen.
 
 ## Erkrankung des Nebennierenmark: Phäochromozytom
 
-90% benigner TU, endokrin aktiv (NA, A), isoliert oder familiäres Vorkommen bei MEN (+ SD-Ca und Hyperparathyreoidismus), 10%  kommen extraadrenal vor im Grenzstrang Pankreas oder rechten Vorhof.
+90 % benigner TU, endokrin aktiv (NA, A), isoliert oder familiäres Vorkommen bei MEN (+ SD-Ca und Hyperparathyreoidismus), 10 %  kommen extraadrenal vor im Grenzstrang Pankreas oder rechten Vorhof.
 
 Klinik
 : paroxymale oder permanente Hypertonie, Kopfschmerzen, Tachykardie, Gewichtsverlust, Schwitzen, Fieber.
@@ -112,7 +112,7 @@ Narkose
   - Intraoperativer Blutdrucksenkung:
     - Natriumprussid (Nipruss) Perfusor mit max. 1,5 mg / kg für 2-3 Stunden (NO-Freisetzung, Vasodil, Tachyphylaxie, Bildung von Cyanmethämoglobin, gut steuerbar kurze HWZ von 3-5 Minuten)
 
-    Nitroglycerin (Nitro) mit HWZ 5-10min, 0,5-2 µg / kg / min 50% der Patienten bleiben postoperativ für 1-3 Tage hyperton.
+    Nitroglycerin (Nitro) mit HWZ 5-10min, 0,5-2 µg / kg / min 50 % der Patienten bleiben postoperativ für 1-3 Tage hyperton.
 
     In den ersten 24 Stunden besteht die Gefahr einer Hypoglykämie, daher regelmäßig BZ kontrollieren. (Postoperativ 24 h Überwachung!)
 

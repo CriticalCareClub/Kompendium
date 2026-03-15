@@ -6,22 +6,22 @@ status: final
 
 Das Gesamtkörperwasser ist abhängig von Alter, Geschlecht und Körperbau:
 
-- Neugeborene 70-80% aus Wasser
-- Männer 55%, Frauen 45% aus Wasser
-- Extrazellulärflüssigkeit 45%, Intrazellulärflüssigkeit 55% des Gesamtkörperwassers
+- Neugeborene 70-80 % aus Wasser
+- Männer 55 %, Frauen 45 % aus Wasser
+- Extrazellulärflüssigkeit 45 %, Intrazellulärflüssigkeit 55 % des Gesamtkörperwassers
 
 "Je mehr Fett, desto weniger Wasser, je älter desto trockener"
 
 Extrazellulärflüssigkeit
 : - Plasmavolumen
     - Flüssigkeit innerhalb des Gefäßsystems, außerhalb der Blutzellen
-    - 5% des Körpergewichts, 30—35 ml / kg KG
+    - 5 % des Körpergewichts, 30—35 ml / kg KG
   - Interstitielle Flüssigkeit
     - Flüssigkeit außerhalb der Zellen und der Blutgefäße
-    - 15% des Körpergewichts, 120-165 ml / kg KG
+    - 15 % des Körpergewichts, 120-165 ml / kg KG
 
 Blutvolumen
-: - Gesamtblutvolumen ca 7,5% des Körpergewichts (gilt für Erwachsene)
+: - Gesamtblutvolumen ca 7,5 % des Körpergewichts (gilt für Erwachsene)
   - 69 ml / kg KG Männer, 65 ml / kg KG Frauen
   - Gleichgewicht zwischen Interstitium und Plasmavolumen
   - Flüssigkeit im Gefäßsystem abhängig vom onkotischen (*kolloidosmotischen*) Druck durch Plasmaproteine

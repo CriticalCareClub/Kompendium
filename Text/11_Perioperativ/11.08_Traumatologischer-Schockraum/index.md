@@ -50,5 +50,5 @@ Parallel
 
 Ind. Zum Polytrauma-Ganzkörper CT (Schädel+HWS nativ, Thorax und Abdomen mit KM)
 : - Unfallanamnese: Sturz aus > 6 m Höhe, VU als Fußgänger oder hohe Geschwind., Explosion, Einklemmung
-  - Vitalparameter: GCS < 10 intubiert, RRsyst < 80 mm Hg, AF < 10 oder > 29, SpO₂ < 90%
+  - Vitalparameter: GCS < 10 intubiert, RRsyst < 80 mm Hg, AF < 10 oder > 29, SpO₂ < 90 %
   - Verletzungsmuster: Thorax/Bauchtrauma, instabiles Becken,  > 1 großer Röhrenknochen, prox. Amputation

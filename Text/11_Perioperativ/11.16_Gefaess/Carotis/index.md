@@ -9,14 +9,14 @@ status: draft
 :::{todo} {issue}`142` Aust-Skriptum: **Carotis OP** (43.1.)
 :::
 
-TEA bei Carotisstenose > 75% oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.
+TEA bei Carotisstenose > 75 % oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.
 Bei AN immer INVOS zum Neuromonitoring. Hypotonie vermeiden!! (Blutdruck vorm Klemmen anheben)
 
 
 Präanästhesie: LUFU, internistische Therapie noch optimierbar?  Häufig durch chronische Diuretikaeinnahme vermindertes Plasmavolumen mit relativer Hypovolämie und Hypokaliämie!
 Allen-Test für Arterie!
 
-Ziel: Prävention von Hirn-  und Myokardischämien durch hämodynamische Stabilität, RR und HF sollen +/- 20%  des Mittelwerts der letzen Tage liegen (verschobene Autoregulation nach oben),
+Ziel: Prävention von Hirn-  und Myokardischämien durch hämodynamische Stabilität, RR und HF sollen +/- 20 %  des Mittelwerts der letzen Tage liegen (verschobene Autoregulation nach oben),
 postoperativ Extubation und neurologische Beurteilung des Patienten.
 RA (Cervicalblock, zervikale PDA) bei Carotis TEA bringt ideales Neuromonitoring durch wachen Patienten. Nachteil: Blutdruckanstiege,  Übelkeit, Erbrechen, Panikzustände, sowei schwieriges Management bei Bewusstseinsverlust und respiratorischer Insuffizienz.
 

@@ -264,7 +264,7 @@ Anaphylaxie: Maximalvariante einer akuten allergischen Reaktion.
 Anaphylaktoide Reaktion: direkte, nichtantikörpervermittelte Reaktiond des allergischen Substates mit der Mastzelle ohne vorhergehende Exposition.
 
 
-Auslöser: Muskelrelaxantien (60-70%), Latex (18%), kolloide Volumenersatzmittel (5%), Barbiturate, Antibiotika, KM, Protamin.
+Auslöser: Muskelrelaxantien (60-70 %), Latex (18 %), kolloide Volumenersatzmittel (5 %), Barbiturate, Antibiotika, KM, Protamin.
 + Bienen, Wespen, Hornissenstiche.
 Klinik: H1-rezeptor vermittelte Bronchokonstriktion, Gefäßpermeabilitätszunahme und Koronararterinekonstriktion, Dilatation der kleinen Gefäße und Konstrikton der großen Gefäße.
 H2-reptorvermittelte Tachykardie, Permeabilitätszunahme, Koronararteriendilatation, Herzrhythmusstörungen, Bronchodilatation = β-vermittelte Wirkung der H2-Rezeptoren.

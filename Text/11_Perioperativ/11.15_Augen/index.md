@@ -50,7 +50,7 @@ Ablatio retinae
 AN als ITN oder LMA; KEIN Lachgas!!! Augenschutzbrillen bei Lasereinsatz
 
 
-LA (Lidocain 2%, Bupivacain 0,5-0,75% +Hyaluronidase + Epinephrin als Zusatz)
+LA (Lidocain 2 %, Bupivacain 0,5-0,75 % +Hyaluronidase + Epinephrin als Zusatz)
 Peribulbärblock = Injektion in das Fettgewebe außerhalv des Muskelkonus für z.B. Katarakt-OP Episkleralanästhesie = LA in den episkleralen Spaltraum Retrobulbärblock = Injektion intrakonisch;  Kompl: Zittern, Erbrechen, kontralaterale Blindheit, Krämpfe, Hypoventilation und Atemstillstand durch Hirnstammanästhesie bei Fehlinjektion)
 Allgm. Kompl: Orbitale Blutung, Nervenverletzung, Glaskörpereinblutung, Bindehautblutung, Rektusparese, intravakuläre Fehlinjektion mit kardialen und ZNS-Wirkung.
 

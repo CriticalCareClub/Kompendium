@@ -26,7 +26,7 @@ Labor
 : **HIT-AK**:
   negativ = Ausschluss.
 
-  (50% kardiochir. Pat. HIT-AK positiv ohne Klinik!)
+  (50 % kardiochir. Pat. HIT-AK positiv ohne Klinik!)
 
   Beweisend ist signifikanter Thrombozytenanstieg 3-5 Tage nach Heparin Ende.
 

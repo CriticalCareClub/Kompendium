@@ -37,7 +37,7 @@ Intraoperativ zu beachten:
 - Relaxantien nach Normalgewicht dosieren, da hydrophil mit normalem Verteilungsvolumen.
 - Hohes Aspirationsrisiko: nie nüchtern! Erhöhte Magensaftproduktion bei verzögerter Entleerung,
 hoher IAP mit Zwerchfellhochstand, oft Hiatushernie/Reflux
-- Beatmungsschwierigkeiten: FRC bis zu 40-75%  erniedrigt, Compliance herabgesetzt,
+- Beatmungsschwierigkeiten: FRC bis zu 40-75 %  erniedrigt, Compliance herabgesetzt,
 Atemfrequenz erhöht, hohe Beatmungsdrücke oft notwendig.
 - Hämodynamische Instabilität: Blutvolumen und HZV sind erhöht, bei vermind. card. Reserve.
 - Extubation erst beim völlig wachem Patienten mit TOF\> 0,9

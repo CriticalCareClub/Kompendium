@@ -27,12 +27,12 @@ Die Narkoseeinleitung beim *nicht-nüchternen* Patienten wird unter {ref}`RSI` b
 
 ## Präoxygenierung
 
-Die **Präoxygenierung** erfolgt vor der Narkoseeinleitung mit dem Ziel, einen endtidalen Sauerstoffanteil von **etO₂** *≥ 90 %* und eine Sauerstoffsättigung *SpO₂ ≈ 100%* zu erreichen.
+Die **Präoxygenierung** erfolgt vor der Narkoseeinleitung mit dem Ziel, einen endtidalen Sauerstoffanteil von **etO₂** *≥ 90 %* und eine Sauerstoffsättigung *SpO₂ ≈ 100 %* zu erreichen.
 Dabei wird der Stickstoff in der funktionellen Residualkapazität der Lunge durch Sauerstoff ersetzt (*Denitrogenierung*).
 Dies erhöht den pulmonalen Sauerstoffvorrat und verlängert die "sichere Apnoezeit", sodass während der Intubation mehr Zeit zur Verfügung steht, ohne dass die Sauerstoffsättigung relevant abfällt.
 
-Standardmäßig erfolgt die Präoxygenierung über **3 min mit 100% O₂** bei dicht sitzender Maske.
-Alternativ können *8 tiefe Atemzüge mit 100% O₂ innerhalb von etwa 60 s* ebenfalls ausreichend sein.
+Standardmäßig erfolgt die Präoxygenierung über **3 min mit 100 % O₂** bei dicht sitzender Maske.
+Alternativ können *8 tiefe Atemzüge mit 100 % O₂ innerhalb von etwa 60 s* ebenfalls ausreichend sein.
 
 Eine besonders **kurze sichere Apnoezeit** findet sich bei *adipösen* PatientInnen, *Kindern*, *Schwangeren*, *älteren* PatientInnen sowie bei PatientInnen mit *Lungenerkrankungen*.
 Ursächlich sind unter anderem eine reduzierte funktionelle Residualkapazität, ein erhöhter Sauerstoffverbrauch (VO₂), Perfusionsstörungen sowie ein beeinträchtigter Gasaustausch.
@@ -44,7 +44,7 @@ Besondere Aufmerksamkeit erfordern außerdem PatientInnen mit erwartet *schwieri
 
 ## Narkoseeinleitung beim nüchternen Patienten
 
--   **Präoxygenierung** bis *etO₂ ≥ 90%*
+-   **Präoxygenierung** bis *etO₂ ≥ 90 %*
 -   **Narkoseeinleitung** (i.v.-Anästhetika)
     -   Hypnotika:
         z. B. {ref}`Propofol <Propofol>` (Cave: Dosis stark von Alter und Patinetenzustand abhängig, große Variabilität!);
@@ -78,13 +78,13 @@ Plan
 :   TIVA, gasfrei!
 
 Vorbereitung
-:   Propofol 1%-Perfusor 50 ml
+:   Propofol 1 %-Perfusor 50 ml
 
 Einleitung
-:   -   *Präoxygenierung* bis etO₂ ≥ 90%, *Fentanyl* 0,200 mg, *Propofol* 200 mg aus Perfusor
+:   -   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,200 mg, *Propofol* 200 mg aus Perfusor
 
 Aufrechterhaltung
-:   *Propofol* 1% 45 ml / h
+:   *Propofol* 1 % 45 ml / h
 ::::
 
 
@@ -96,7 +96,7 @@ Plan
 :   AN mit ETI
 
 Einleitung
-:   *Präoxygenierung* bis etO₂ ≥ 90%, *Fentanyl* 0,300 mg, *Propofol* 200 mg, *Phenylephrin* 0,050 mg, *Rocuronium* 30 mg (mind. 3 min Wartezeit)
+:   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,300 mg, *Propofol* 200 mg, *Phenylephrin* 0,050 mg, *Rocuronium* 30 mg (mind. 3 min Wartezeit)
 
 Aufrechterhaltung
 :   *Sevofluran* MAC{sub}`65a` 1, *Remifentanil* 1 mg / 50 ml (0,020 mg / ml) auf 10m l / h, adaptieren je nach Schmerzreiz
@@ -111,7 +111,7 @@ Plan
 :   AN mit ETI
 
 Einleitung
-:   *Präoxygenierung* bis etO₂ ≥ 90%, *Fentanyl* 0,300 mg, *Propofol* 80 mg (sehr variabel!), *Phenylephrin* 0,100 mg, *Rocuronium* 25 mg (mind. 3 min Wartezeit)
+:   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,300 mg, *Propofol* 80 mg (sehr variabel!), *Phenylephrin* 0,100 mg, *Rocuronium* 25 mg (mind. 3 min Wartezeit)
 
 Aufrechterhaltung
 :   *Sevofluran* MAC{sub}`90a` 0,8-1 (variabel!), *Remifentanil* 1 mg / 50 ml (0,020 mg / ml) auf 10m l / h, adaptieren je nach Schmerzreiz
@@ -128,10 +128,10 @@ Obligat
 :   *EEG-basiertes Monitoring*
 
 Einleitung
-:   *Präoxygenierung* bis etO₂ ≥ 90%, *Fentanyl* 0,300 mg, *Propofol* 200 mg, *Rocuronium* 30 mg (mind. 3 min Wartezeit)
+:   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,300 mg, *Propofol* 200 mg, *Rocuronium* 30 mg (mind. 3 min Wartezeit)
 
 Aufrechterhaltung
-:   *Propofol* 1% 45 mg / ml, *Remifentanil* 1 mg / 50 ml (0,020 mg / ml) auf 45 ml / h, adaptieren je nach physiologischer Reaktion und EEG-Verfahren, *Sevofluran* 0,2 MAC{sub}`45a`
+:   *Propofol* 1 % 45 mg / ml, *Remifentanil* 1 mg / 50 ml (0,020 mg / ml) auf 45 ml / h, adaptieren je nach physiologischer Reaktion und EEG-Verfahren, *Sevofluran* 0,2 MAC{sub}`45a`
 
     Bei Pressen oder erhöhtem intraabdominalen Druck Propofol- (10-20 mg) bzw. Remifantanil-Bolus (z.B. 0,020 mg)
 ::::

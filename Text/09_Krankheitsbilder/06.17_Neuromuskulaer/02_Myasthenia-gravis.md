@@ -14,8 +14,8 @@ status: final
 Durch Autoantikörper verursachte neuromuskuläre Übertragungsstörung (Verminderung der Anzahl der postsynaptischen ACh-Rezeptoren, AK-Bildung gegen postsynaptische nicotinerge ACh-Rezeptoren) durch Blockierung der ACh-Rezeptoren an der motorischen Endplatte.
 Die Aktivität der Cholinesterase ist erhöht.
 Die Antikörper werden bei den meisten Patienten im Thymus gebildet.
-- 80% nAChR-Ak positiv, Rest seronegative MG
-10–15% der  Thymome weisene eine MG auf.
+- 80 % nAChR-Ak positiv, Rest seronegative MG
+10–15 % der  Thymome weisene eine MG auf.
 
 Klinik
 : abnorme Ermüdbarkeit der Muskulatur, belastungsabhängige Symptome, Besserung nach Ruhephasen, keine Sensibilitätsstörungen, schmerzlos.
@@ -47,7 +47,7 @@ Therapie
 Kein Effekt auf AchE-Inhibitatoren  = keine MG, muss eine andere Ursache für Muskelschwäche geben.
 
 Präoperativ
-: Mestinon am OP-Tag pausieren oder präop um 20%  reduzieren! (Besser leicht myasth. als {ref}`cholinergisch <Cholinerge-Krise>`);
+: Mestinon am OP-Tag pausieren oder präop um 20 %  reduzieren! (Besser leicht myasth. als {ref}`cholinergisch <Cholinerge-Krise>`);
   {index}` <Mestinon>`
 
   Erfragen: Schluckstörungen? Respiratorische Insuffizienz?

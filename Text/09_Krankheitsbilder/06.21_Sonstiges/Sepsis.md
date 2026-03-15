@@ -19,7 +19,7 @@ Definition Sepsis - Voraussetzung: (Guidlines 2017)
     2.  Laktat > 2 mmol / l = septischer Schock
 
 SEPTISCHER SCHOCK
-:   = Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80%! MAP\< 65 RRsyst \<90 , trotz adäquater Flüssigkeitstherapie!
+:   = Sepsis mit Kreislaufversagen (Hypotonie/Hypoperfusion) Mortalität bis 80 %! MAP\< 65 RRsyst \<90 , trotz adäquater Flüssigkeitstherapie!
 
 PIRO der Sepsis
 :   Prädisposition (chron. Erkrankung, Alter) + Insult/Ischämie/Infektion + Response (Mediatorenfreisetzung) + Organ Dysfunktion
@@ -159,16 +159,16 @@ Infusionspräparate
 
     Daher strenge, individuelle Indikation stellen!
 
-    -   Kristalloide zur Substitution extrazellulärer Verluste. Belasten jedoch zu 80% primär das Interstitium als Ödem (Risiko von abdomineller Hypertension, Lungenödem, mikrozirkulatorische O₂-Diffusionsstörung)
+    -   Kristalloide zur Substitution extrazellulärer Verluste. Belasten jedoch zu 80 % primär das Interstitium als Ödem (Risiko von abdomineller Hypertension, Lungenödem, mikrozirkulatorische O₂-Diffusionsstörung)
     -   Kolloide als Volumentherapie zur Aufrechterhaltung /Wiederherstellung der kardialen Vorlast und Gewebsperfusion führen rascher zu einer Stabilisierung als Kristalloide.
 
     Gelatine kumuliert nicht (daher keine Dosisbegrenzung) und führt zu keiner Nierenfunktionsstörung. Guidlines 2017: Kein HES in der schweren Sepsis, ev. Gelatine.
-    -   Nicht balancierte Infusionslösungen wie NaCl 0,9% oder Ringerlösung dürfen nur als Trägerlösungen für Medikamente angewendet werden, da sie dosisabhängig zu renaler Vasokonstriktion, Nierenfunktionseinschränkung und metabolischer Azidose führen.
-    -   Balancierte isoonkotische HES Lösung = 6% HES 130 hat das beste Nutzen- Risiko-Profil aller HES-Generationen.
+    -   Nicht balancierte Infusionslösungen wie NaCl 0,9 % oder Ringerlösung dürfen nur als Trägerlösungen für Medikamente angewendet werden, da sie dosisabhängig zu renaler Vasokonstriktion, Nierenfunktionseinschränkung und metabolischer Azidose führen.
+    -   Balancierte isoonkotische HES Lösung = 6 % HES 130 hat das beste Nutzen- Risiko-Profil aller HES-Generationen.
         Beachte die Tagesmaximalgrenze!
         Es soll nur nach strenger Indikation und Monitoring der Nierenfunktion (bis 90 Tage nach HES-Infusion), und Blutgerinnungsmonitoring (FIBTEM), verwendet werden.
-    -   Isoonkotisches Humanalbumin 5% mit Trägerlösung NaCl0,9%.
-        Zur Verminderung der Chloridbelastung wird HA20% (hyperonkotisch) verdünnt mit balanciertem Kristalloid empfohlen.
+    -   Isoonkotisches Humanalbumin 5 % mit Trägerlösung NaCl0,9 %.
+        Zur Verminderung der Chloridbelastung wird HA20 % (hyperonkotisch) verdünnt mit balanciertem Kristalloid empfohlen.
 
 Negative Effekte einer zu raschen und excessiven Volumentherapie:
 Abnahme des HK, Verdünnungskoagulopathie mit Blutung!!!, Auskühlung (kalte Infusionen).

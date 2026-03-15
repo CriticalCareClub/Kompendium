@@ -684,7 +684,7 @@ Vermutlich Vorhofflimmern, unterscheide:
   - **Medikamentöse Kardioversion**:
 
     {ref}`Amiodaron <Amiodaron>` (Sedacoron™, Cordarex™) 300 mg
-    in Kurzinfusion (in Glukose 5%)
+    in Kurzinfusion (in Glukose 5 %)
 
   - *Elektrische Kardioversion* unter Sedierung erwägen (Cave Nüchternheit!)
 

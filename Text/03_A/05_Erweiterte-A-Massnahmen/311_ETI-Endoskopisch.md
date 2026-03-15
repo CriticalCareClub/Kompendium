@@ -135,7 +135,3 @@ Bei nasalem Zugang kann es zu Epistaxis kommen.
 Eine *orale* Wachintubation erfolgt sinngemäß analog zu der nasalen ATI, jedoch wird hier ein spezieller, *geschlitzter* {ref}`Guedel-Tubus <Guedel-Tubus>` verwendet, durch welchen der Tubus durchgeführt wird.
 Anschließend kann der Guedel-Tubus aufgrund seiner Öffnung ("Schlitzung") vom Tubus entfernt werden.
 
-
------
-
-## 29.4. Fiberoptische Wachintubation (FOI) *

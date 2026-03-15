@@ -1,3 +1,16 @@
+---
+status: final
+---
+
+:::{index} single: Narkoseeinleitung
+:::
+:::{index} single: Induktion
+:::
+:::{index} single: induction
+:::
+
+(Narkoseeinleitung)=
+
 # Narkoseeinleitung
 
 Syn.
@@ -9,18 +22,21 @@ Die Narkoseeinleitung beim *nicht-nüchternen* Patienten wird unter {ref}`RSI` b
 :::
 
 
+
+
+
 ## Präoxygenierung
 
-Die **Präoxygenierung** erfolgt vor der Narkoseeinleitung mit dem Ziel, einen endtidalen Sauerstoffanteil von **etO₂** *≥ 90 %* und eine Sauerstoffsättigung *SpO₂ ≅ 100%* zu erreichen.
+Die **Präoxygenierung** erfolgt vor der Narkoseeinleitung mit dem Ziel, einen endtidalen Sauerstoffanteil von **etO₂** *≥ 90 %* und eine Sauerstoffsättigung *SpO₂ ≈ 100%* zu erreichen.
 Dabei wird der Stickstoff in der funktionellen Residualkapazität der Lunge durch Sauerstoff ersetzt (*Denitrogenierung*).
 Dies erhöht den pulmonalen Sauerstoffvorrat und verlängert die "sichere Apnoezeit", sodass während der Intubation mehr Zeit zur Verfügung steht, ohne dass die Sauerstoffsättigung relevant abfällt.
 
-Standardmäßig erfolgt die Präoxygenierung über **3 Minuten mit 100% O₂** bei dicht sitzender Maske.
-Alternativ können *8 tiefe Atemzüge mit 100% O₂ innerhalb von etwa 60 Sekunden* ebenfalls ausreichend sein.
+Standardmäßig erfolgt die Präoxygenierung über **3 min mit 100% O₂** bei dicht sitzender Maske.
+Alternativ können *8 tiefe Atemzüge mit 100% O₂ innerhalb von etwa 60 s* ebenfalls ausreichend sein.
 
-Eine besonders **kurze sichere Apnoezeit** findet sich bei *adipösen* PatientInnen, *Kindern*, *Schwangeren*, *älteren* PatientInnen sowie bei PatientInnen mit Lung*enerkrankungen.
+Eine besonders **kurze sichere Apnoezeit** findet sich bei *adipösen* PatientInnen, *Kindern*, *Schwangeren*, *älteren* PatientInnen sowie bei PatientInnen mit *Lungenerkrankungen*.
 Ursächlich sind unter anderem eine reduzierte funktionelle Residualkapazität, ein erhöhter Sauerstoffverbrauch (VO₂), Perfusionsstörungen sowie ein beeinträchtigter Gasaustausch.
-Besondere Aufmerksamkeit erfordern auch PatientInnen mit erwartet *schwierigem Atemweg*.
+Besondere Aufmerksamkeit erfordern außerdem PatientInnen mit erwartet *schwierigem Atemweg*.
 
 
 
@@ -54,7 +70,6 @@ Die gleiche Propofol-Dosis kann sowohl zur zu seichten Narkose, als auch zur Rea
 
 Es gibt kein ultimativ-ideales Narkoseregime, die Auswahl sollte stets individualisiert und situationselastisch erfolgen.
 Tabelle {numref}`TAB-Narkoseregime-Beispiele` zeigt exemplarische Situationen aus dem klinischen Alltag.
-
 
 
 ::::{admonition} Beispiel: W, 35a, Curettage

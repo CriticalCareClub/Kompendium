@@ -30,12 +30,13 @@ status: final
 Heutzutage wird meist eine **Kombinationsnarkose** angewandt.
 Diese kann aus verschiedenen Medikamentengruppen bestehen:
 
--   *Prämedikation* (Sedierung, vegetative Dämpfung)
--   *Narkoseeinleitung* (i.v.-Anästhetika)
+-   **Prämedikation** (Sedierung, vegetative Dämpfung)
+-   **Präoxygenierung** bis *etO₂ ≥ 90%*
+-   **Narkoseeinleitung** (i.v.-Anästhetika)
     -   Hypnotika
     -   Analgetika
     -   wenn nötig (und nur dann!) Muskelrelaxans
--   *Aufrechterhaltung* der Anästhesie (Inhalationsanästhetika, i.v.-Anästhetika)
+-   **Aufrechterhaltung** der Anästhesie (Inhalationsanästhetika, i.v.-Anästhetika)
     -   Hypnotika
     -   Analgetika
     -   nur bei besonderer Indikation Muskelrelaxans; "Pressen" ist per se keine Indikation!

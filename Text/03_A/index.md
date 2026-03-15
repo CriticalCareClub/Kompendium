@@ -4,25 +4,31 @@ status: final
 
 :::{index} single: Atemwegsmanagement
 :::
-
-(AATW-KP-WannWozu)=
-(AATW-KP-Was)=
-(Airway)=
-(A-Massnahmen)=
-
 :::{index} single: Atemweg
 :::
 :::{index} single: Airway
 :::
 
+(AATW-KP-WannWozu)=
+(AATW-KP-Was)=
+(Airway)=
+(A-Massnahmen)=
 (Airway-Techniken)=
 (AATW)=
 
 # Ⓐ wie Airway
 
-{{INHALT}}
+:::{raw} latex
+\startcontents[Airway]
+:::
 
+:::{raw} latex
+\clearpage\printcontents[Airway]{l}{0}[0]{\renewcommand\addvspace[1]{}\section*{In diesem Teil:}}
+:::
 
+:::{raw} latex
+\clearpage
+:::
 
 Ein *freier Atemweg* ist Grundvoraussetzung für eine ausreichende Ventilation.
 Er kann durch eine Vielzahl von Dingen gefährdet sein:
@@ -116,4 +122,9 @@ Während bei einer Sedierung von nüchternen Patienten mit weitgehend erhaltener
 :maxdepth: 1
 
 */index
+:::
+
+
+:::{raw} latex
+\stopcontents[Airway]
 :::

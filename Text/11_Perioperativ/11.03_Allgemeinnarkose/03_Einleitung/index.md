@@ -3,6 +3,10 @@
 Syn.
 :   Induktion; enl.: induction
 
+:::{seealso}
+
+Die Narkoseeinleitung beim *nicht-nüchternen* Patienten wird unter {ref}`RSI` besprochen.
+:::
 
 
 ## Präoxygenierung
@@ -26,9 +30,21 @@ Besondere Aufmerksamkeit erfordern auch PatientInnen mit erwartet *schwierigem A
 
 -   **Präoxygenierung** bis *etO₂ ≥ 90%*
 -   **Narkoseeinleitung** (i.v.-Anästhetika)
-    -   Hypnotika
+    -   Hypnotika:
+        z. B. {ref}`Propofol <Propofol>` (Cave: Dosis stark von Alter und Patinetenzustand abhängig, große Variabilität!);
+        alternativ {ref}`Midazolam`, {ref}`Thiopental`
     -   Analgetika
-    -   wenn nötig (und nur dann!) Muskelrelaxans
+        z. B. {ref}`Fentanyl`;
+        alterantiv {ref}`Ketanest`
+    -   wenn nötig (und nur dann!) Muskelrelaxans:
+        z. B. {ref}`Rocuronium`
+
+
+:::{danger}
+**Große Variabilität und Individualität bei Propofol-Dosis!**
+
+Die gleiche Propofol-Dosis kann sowohl zur zu seichten Narkose, als auch zur Reanimationspflichtigkeit aufgrund der Kreislaufdepression führen!
+:::
 
 
 

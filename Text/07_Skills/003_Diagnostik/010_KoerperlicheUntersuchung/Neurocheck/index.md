@@ -149,7 +149,7 @@ Bilderserie: *Neurocheck*
 
 ![Ungleiche Pupillen (Anisokorie) \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.jpg)
 
-![Enge Pupille \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.jpg)
+![Enge Pupille \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_132141.001341px.jpg)
 
 ![Pupillenreaktion, Lichtscheue, Sehstörungen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro1.jpg)
 

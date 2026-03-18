@@ -156,7 +156,7 @@ Bilderserie: Herausfordernde Atemwege 1
 
 ![Raumforderung (Struma) \[₢ Dr. J.S.Bhandari, India, ℓ CC BY-SA 3.0\]](../../Bilder/CC-BY-SA-3.0/Goiter_001024px.jpg)
 
-![Tonsillenhypertrophie](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230728_091908_cropped_001342px.jpg)
+![Tonsillenhypertrophie](../../Bilder/Gabriel-Sebastian-CCCA/IMG_091908_cropped_001342px.jpg)
 :::
 
 

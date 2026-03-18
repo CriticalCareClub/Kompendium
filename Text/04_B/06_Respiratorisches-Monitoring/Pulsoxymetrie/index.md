@@ -68,7 +68,7 @@ Bilderserie: Pulsoxymeter
 
 ![Handpulsoxymeter: Sauerstoffsättigung 96 %, Pulsfrequenz 89 / min \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779-00943pt.jpg)
 
-![Ein Finger-Pulsoxymeter; \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000457-01341px.jpg)
+![Ein Finger-Pulsoxymeter; \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_000457.001341px.jpg)
 :::
 
 ## Anwendung

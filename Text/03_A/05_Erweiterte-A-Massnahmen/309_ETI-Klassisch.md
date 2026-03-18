@@ -166,9 +166,9 @@ Beispiele für verschiedene Tuben-Typen sind:
 
 Endotrachealtuben [₢ Sebastian Gabriel. {term}`ℓ MfG`]
 
-![Spiraltubus mit Beißschutz](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20201119_140916_001342px.jpg)
+![Spiraltubus mit Beißschutz](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140916_001342px.jpg)
 
-![Doppellumentubus](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20180713_133527_001342px.jpg)
+![Doppellumentubus](../../Bilder/Gabriel-Sebastian-CCCA/IMG_133527_001342px.jpg)
 
 :::
 

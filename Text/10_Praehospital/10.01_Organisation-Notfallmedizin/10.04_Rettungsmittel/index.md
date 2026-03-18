@@ -125,11 +125,11 @@ RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2608_001342px.jpg)
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161201_141855_001342px.jpg)
+![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_141855_001342px.jpg)
 
-![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172130_001342px.jpg)
+![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172130_001342px.jpg)
 
-![Niederösterreichischer RTW-C: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172145_001342px.jpg)
+![Niederösterreichischer RTW-C: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172145_001342px.jpg)
 :::
 
 
@@ -154,7 +154,7 @@ Der NAW ist  mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifika
 
 Eine Sonderform ist der **Sekundär-NAW** (**S-NAW**), welcher für Transferierungsfahrten von arzt- oder intensivpflichtigen Patienten zum Einsatz kommt.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/PhotosMobileNexus-5-IMG_20170205_183917-SNAPSHOT_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/PhotosMobileNexus-5-IMG_183917-SNAPSHOT_001342px.jpg
 
 Der NAW Krems vor der Umstellung auf ein NEF-System. Das Fahrzeug wurde als RTW weiterverwendet.
 :::
@@ -194,9 +194,9 @@ Notarzt, 1 Notfallsanitäter).
 
 Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170812_150551_001342px.jpg)
+![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_150551_001342px.jpg)
 
-![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161203_194837_001342px.jpg)
+![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_194837_001342px.jpg)
 :::
 
 :::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Nef-75-099_001342px.jpg
@@ -212,15 +212,15 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172004_001342px.jpg)
+![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172004_001342px.jpg)
 
-![Auszug mit Patientenmonitor und Absaugeinheit](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172033_001342px.jpg)
+![Auszug mit Patientenmonitor und Absaugeinheit](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172033_001342px.jpg)
 
-![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172116_001342px.jpg)
+![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172116_001342px.jpg)
 
-![Kühlbox für Medikamente](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172341_001342px.jpg)
+![Kühlbox für Medikamente](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172341_001342px.jpg)
 
-![Wärmelade für Infusionen](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172400_001342px.jpg)
+![Wärmelade für Infusionen](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172400_001342px.jpg)
 :::
 
 
@@ -361,11 +361,11 @@ Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593_001342px.jpg)
 
-![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170625_100306_001342px.jpg)
+![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_100306_001342px.jpg)
 
-![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170719_191230_001342px.jpg)
+![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_191230_001342px.jpg)
 
-![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170722_220827_001342px.jpg)
+![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_220827_001342px.jpg)
 :::
 
 

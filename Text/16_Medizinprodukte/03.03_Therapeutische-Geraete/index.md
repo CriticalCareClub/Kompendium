@@ -51,13 +51,13 @@ status: final
 
 Blutsperren
 
-![Doppelte Blutsperre für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110940-01341px.jpg)
+![Doppelte Blutsperre für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_110940.001341px.jpg)
 
-![Doppelmanschette für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_110959-01341px.jpg)
+![Doppelmanschette für Bier-Block](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_110959.001341px.jpg)
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111025-01341px.jpg)
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_111025.001341px.jpg)
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150513_111253-01341px.jpg)
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_111253.001341px.jpg)
 
 
 :::
@@ -81,11 +81,11 @@ Blutsperren
 
 ### Vivostat
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150311_104812-00640px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_104812.000800px.\*
 Entnahme von Patientenblut aus dem arteriellen Zugang
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150311_104818-00640px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_104818.000800px.\*
 Vivostat®
 :::
 
@@ -96,15 +96,15 @@ Vivostat®
 1. N.-facialis-Stimulation
 2. N.-recurrens-Stimulation
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150428_085246-00640px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_085246.000800px.\*
 Endotrachealtubus mit Elektroden zur N.-recurrens-Stimulation
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150428_085246-00640px_01.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_085246.000800px.01.\*
 Elektroden zur N.-recurrens-Stimulation
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150327_111723-00640px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_111723.000800px.\*
 Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 :::
 
@@ -117,13 +117,13 @@ Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 
 ### DisposaView®
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150512_091232-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_091232.001341px.\*
 Bauchlagerung mit DisposaView
 :::
 
 ## Sonstiges
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20141108_163331-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_163331.001341px.\*
 
 {index}`Lucas 2®` Thoraxkompressionsgerät
 :::
@@ -138,9 +138,9 @@ Bauchlagerung mit DisposaView
 
 Absaugung
 
-![Absaugung](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115409-01341px.jpg)
+![Absaugung](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_115409.001341px.jpg)
 
-![Absaugung (off)](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150217_115426-01341px.jpg)
+![Absaugung (off)](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_115426.001341px.jpg)
 
 :::
 

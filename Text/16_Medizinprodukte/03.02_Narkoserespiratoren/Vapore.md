@@ -36,7 +36,7 @@ $$
   - **87 %**
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150324_124348-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_124348.001341px.\*
 
 Nachfüllen eines GE-Sevofluran-Vapors.
 :::

@@ -339,7 +339,7 @@ Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 4
 :::{todo} {issue}`136` BGA: Bild bearbeiten (FiO₂ rot markieren)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_20210331_223832_001342px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_223832_001342px.jpg
 :width: 100%
 
 BGAs in Serie

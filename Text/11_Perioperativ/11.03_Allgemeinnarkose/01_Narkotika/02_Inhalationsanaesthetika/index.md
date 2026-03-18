@@ -38,7 +38,7 @@ Jedoch brauchen sie eine lange Einleitungszeit und hohe Dosen für eine ausreich
 Daher werden sie bevorzugt in Kombination mit i.v.-Anästhetika eingesetzt.
 -->
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150327_134545-01341px.\*
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_134545.001341px.\*
 Sevofluran-Flaschen
 :::
 

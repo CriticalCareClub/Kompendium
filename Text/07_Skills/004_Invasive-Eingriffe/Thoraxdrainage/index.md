@@ -423,7 +423,7 @@ Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
 Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20200607_114533_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_114533_001342px.jpg
 
 Wasserschloss, unter dem Patientenbett positioniert
 :::

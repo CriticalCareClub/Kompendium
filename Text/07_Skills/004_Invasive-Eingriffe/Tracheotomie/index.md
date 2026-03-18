@@ -154,7 +154,7 @@ Manche Kanülen besitzen:
 Blockbare Trachealkanülen werden bei Beatmung und Aspirationsgefährdung angewendet.
 Bei Spontanatmung und Vorhandensein der notwendigen Schutzreflexe und das störungsfreie Schlucken möglich ist, wird eine ungeblockte Kanüle verwendet. Dabei ist auch die Verwendung einer Metallkanüle möglich, die keinen Cuff und auch keinen Konnektor besitzt, aber gut gereinigt, desinfiziert und bei Bedarf auch sterilisiert werden kann.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230803_140940_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_140940_001342px.jpg
 
 Patient mit Trachealkanüle
 :::

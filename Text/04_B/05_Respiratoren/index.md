@@ -151,7 +151,7 @@ Bilderserie: Beatmungsgeräte
 
 ![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32857-00943pt.\*)
 
-![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-01341px.jpg)
+![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161824.001341px.jpg)
 :::
 
 
@@ -174,9 +174,9 @@ Er ermöglicht NIV.
 
 Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161836-00640px.jpg)
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161836.000800px.jpg)
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-00640px.jpg)
+![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161824.000800px.jpg)
 
 :::
 
@@ -201,16 +201,16 @@ Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
 ### TwinStream
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105038-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105038.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105053-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105053.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105043-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105043.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105047-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105047.001341px.jpg
 :::
 
 

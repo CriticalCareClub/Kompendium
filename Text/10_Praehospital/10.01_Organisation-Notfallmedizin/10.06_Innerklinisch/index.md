@@ -99,7 +99,7 @@ Manchmal kommen solche Aufnahmestationen auch zum Einsatz um Normalstationen aus
 Der Begriff Schockraum ist an sich sehr ungenau, jedenfalls hat die Bezeichnung "Schockraum" nichts mit dem Vorhandensein oder Nicht-Vorhandensein eines {ref}`Schocks <Schock>` zu tun.
 Es handelt sich dabei um eine Einrichtung, die die Versorgung kritischer, akut vital bedrohter Patienten ermöglicht.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230502_083637_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_083637_001342px.jpg
 
 Ein Schockraum \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::

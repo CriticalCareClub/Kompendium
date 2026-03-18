@@ -222,7 +222,7 @@ Für den Einsatz im organisierten Rettungsdienst sieht das ÄrzteG zwei Ausbildu
 ### Notarzt
 
 <!--
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170602_100605_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_100605_001342px.jpg
 :width: 60%
 :align: right
 

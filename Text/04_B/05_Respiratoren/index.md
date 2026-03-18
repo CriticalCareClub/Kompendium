@@ -174,9 +174,9 @@ Er ermöglicht NIV.
 
 Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161836.000800px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161836.000800px.jpg)
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161824.000800px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161824.000800px.jpg)
 
 :::
 

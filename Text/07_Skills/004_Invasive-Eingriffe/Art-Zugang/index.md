@@ -162,7 +162,7 @@ Success: Arterielles System in situ an der A. radialis
 ₢ Red Roan {term}`ℓ CC BY-SA 4.0`
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_214900_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::

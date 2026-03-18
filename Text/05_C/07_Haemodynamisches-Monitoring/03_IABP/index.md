@@ -82,7 +82,7 @@ https://www.youtube.com/shorts/tVtJAzFjr3k
 - Nervenschäden
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_214900_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::

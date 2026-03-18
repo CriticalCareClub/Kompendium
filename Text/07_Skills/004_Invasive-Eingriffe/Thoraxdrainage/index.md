@@ -423,7 +423,7 @@ Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
 Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_114533_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_114533.001341px.jpg
 
 Wasserschloss, unter dem Patientenbett positioniert
 :::
@@ -479,13 +479,13 @@ Der Throkar dient nur zur Führung des Drains, keinesfalls zur Punktion!
 
 Anlage einer Thoraxdrainage
 
-![Aufsuchen der Rippe](../../../Bilder/KS/Pleuradrainage-020_001342px.jpg)
+![Aufsuchen der Rippe](../../../Bilder/KS/Pleuradrainage-020.001341px.jpg)
 
-![Stumpfe Präparation](../../../Bilder/KS/Pleuradrainage-030_001342px.jpg)
+![Stumpfe Präparation](../../../Bilder/KS/Pleuradrainage-030.001341px.jpg)
 
-![Einführen der Drainage geschient mittels Trokar](../../../Bilder/KS/Pleuradrainage-050_001342px.jpg)
+![Einführen der Drainage geschient mittels Trokar](../../../Bilder/KS/Pleuradrainage-050.001341px.jpg)
 
-![Faden der U-Naht wird um Drain gewckelt](../../../Bilder/KS/Pleuradrainage-060_001342px.jpg)
+![Faden der U-Naht wird um Drain gewckelt](../../../Bilder/KS/Pleuradrainage-060.001341px.jpg)
 
 :::
 

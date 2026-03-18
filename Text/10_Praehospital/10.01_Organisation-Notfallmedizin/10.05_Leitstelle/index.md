@@ -367,7 +367,7 @@ Mittels TETRA ist einerseits die direkte Kommunikation zwischen Endgeräten mög
 TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 
-![TETRA Handfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172313_001342px.jpg)
+![TETRA Handfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172313.001341px.jpg)
 
 ![TETRA Fahrzeugfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172239_001342px_cropped.jpg)
 :::

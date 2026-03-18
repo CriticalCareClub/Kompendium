@@ -71,9 +71,9 @@ Stattdessen muss der Kopf in Neutralposition gelagert werden.
 
 Manchmal reicht das simple Anheben des Kinns. [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
-![Kinn anheben](../../Bilder/Gabriel-Sebastian-CCCA/IMG_090742_001342px.jpg)
+![Kinn anheben](../../Bilder/Gabriel-Sebastian-CCCA/IMG_090742.001341px.jpg)
 
-![Rein mechanisch funktioniert auch diese Konstruktion, dennoch können zweckentfremdete Hilfsmittel zu Verletzungen oder Druckstellen führen. Wer Medizinprodukte außerhalb ihrer Zulassung verwendet, haftet als "Hersteller" vollumfänglich! (Druckstellen!)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140524_001342px.jpg)
+![Rein mechanisch funktioniert auch diese Konstruktion, dennoch können zweckentfremdete Hilfsmittel zu Verletzungen oder Druckstellen führen. Wer Medizinprodukte außerhalb ihrer Zulassung verwendet, haftet als "Hersteller" vollumfänglich! (Druckstellen!)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140524.001341px.jpg)
 :::
 
 

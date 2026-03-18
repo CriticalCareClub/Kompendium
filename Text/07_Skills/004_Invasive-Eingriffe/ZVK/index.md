@@ -290,7 +290,7 @@ Das Drehen des Kopfes des Patienten zur kontralateralen Seite hebt Orientierungs
     - Fragestellung: "Lagekontrolle, Pneumothorax?"
 51. Dokumentation
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_110329_001342px.jpg
+:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_110329.001341px.jpg
 
 ZVK in der V. iug. int. dext.
 :::

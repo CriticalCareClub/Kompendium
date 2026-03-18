@@ -193,7 +193,7 @@ Bilderserie: *Defibrillation*
 
 ![Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch \[₢ WMC:Hborkyb, CC-BY-SA-2.5-US\]](/Bilder/CC-BY-SA/Semi_automatic_defi_with_electrodes.png)
 
-![Normsymbol "AED"](/Bilder/PD/AED_Symbol.\*)
+![Normsymbol "AED"](../../../Submodules/3134-medical-picture-collection/PD/AED_Symbol.\*)
 :::
 
 

@@ -36,13 +36,13 @@ Erschwerend kann es durch Verletzungen zu Blutungen und damit wiederum zun einer
 
 Bilderserie: Einführen des Guedel-Tubus [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Abmessung der Größe: Abstand Mundwinkel - Ohrläppchen](/Bilder/Hirtler-Lena-CCCA/GuedelTubus1.*)
+![Abmessung der Größe: Abstand Mundwinkel - Ohrläppchen](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/GuedelTubus1.*)
 
-![Zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt](/Bilder/Hirtler-Lena-CCCA/GuedelTubus2.\*)
+![Zuerst wird der Guedel-Tubus "verkehrt" herum eingeführt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/GuedelTubus2.\*)
 
-![und anschließend mittels Drehbewegung endgültig positioniert.](/Bilder/Hirtler-Lena-CCCA/GuedelTubus3.\*)
+![und anschließend mittels Drehbewegung endgültig positioniert.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/GuedelTubus3.\*)
 
-![Position des Guedel-Tubus im Querschnitt](/Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*)
+![Position des Guedel-Tubus im Querschnitt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PositionGuedel-color.\*)
 
 ::::
 

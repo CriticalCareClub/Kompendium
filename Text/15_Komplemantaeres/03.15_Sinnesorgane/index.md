@@ -264,9 +264,9 @@ Eine *Frequenzzunahme* führt zur Zunahme der Tonhöhenempfindung. Eine Zunahme 
 
 Bilderserie: Das Ohr [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Das Ohr im Querschnitt. Man sieht den äußeren Gehörgang, das Trommelfell, die Gehörknöchelchen, die Schnecke und die Bogengänge.](/Bilder/Hirtler-Lena-CCCA/Ohr.\*)
+![Das Ohr im Querschnitt. Man sieht den äußeren Gehörgang, das Trommelfell, die Gehörknöchelchen, die Schnecke und die Bogengänge.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Ohr.\*)
 
-![Das Mittelohr: Im Detail sind hier das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss und Steigbügel zu sehen.](/Bilder/Hirtler-Lena-CCCA/Mittelohr.\*)
+![Das Mittelohr: Im Detail sind hier das Trommelfell, sowie die Gehörknöchelchen Hammer, Amboss und Steigbügel zu sehen.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Mittelohr.\*)
 :::
 
 

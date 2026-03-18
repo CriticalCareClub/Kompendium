@@ -115,10 +115,10 @@ Die Reanimation besteht, je nach Kompetenzniveau, aus drei bis sieben Säulen:
 
 Die *drei Könige* der Basisreanimation [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Herzdruckmassage](/Bilder/Hirtler-Lena-CCCA/Reanimation-Position-2.\*)
+![Herzdruckmassage](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-2.\*)
 
-![Beatmung](/Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*)
+![Beatmung](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Beutelbeatmung1.\*)
 
-![Defibrillation](/Bilder/Hirtler-Lena-CCCA/Reanimation-Defi-Achtung.\*)
+![Defibrillation](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Defi-Achtung.\*)
 :::
 

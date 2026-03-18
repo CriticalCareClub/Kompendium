@@ -208,11 +208,11 @@ Der Larynxtubus ist unter {ref}`Larynxtubus` beschrieben.
 
 Bilderserie: Lage von Atemwegshilfsmitteln [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Im Vergleich: Lage eines Larynx-Tubus](/Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*)
+![Im Vergleich: Lage eines Larynx-Tubus](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageLarynxTubus.\*)
 
-![… und eines endotrachealen Tubus.](/Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*)
+![… und eines endotrachealen Tubus.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageTubus-color.\*)
 
-![Position des Guedel-Tubus im Querschnitt](/Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*)
+![Position des Guedel-Tubus im Querschnitt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PositionGuedel-color.\*)
 :::
 
 

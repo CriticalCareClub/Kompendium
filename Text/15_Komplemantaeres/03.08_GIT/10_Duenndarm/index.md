@@ -170,7 +170,7 @@ Bilderserie: Bauchsitus und Mesenterium [₢ Lena Hirtler, {term}`ℓ MfG`]
 
 ![Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Bauchfilm_4032-AASS-0112mm.jpg)
 
-![Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](/Bilder/Hirtler-Lena-CCCA/Duenndarm-Mesenterium.\*)
+![Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Duenndarm-Mesenterium.\*)
 
 ![Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Bauchfilm_Image_022.jpg)
 :::

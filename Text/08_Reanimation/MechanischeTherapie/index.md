@@ -77,11 +77,11 @@ Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis max. 120�
 
 Bilderserie: *Herzdruckmassage* [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,](/Bilder/Hirtler-Lena-CCCA/Reanimation-Druckpunkt.\*)
+![Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Druckpunkt.\*)
 
-![die Arme durchgestreckt](/Bilder/Hirtler-Lena-CCCA/Reanimation-Position-1.\*)
+![die Arme durchgestreckt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-1.\*)
 
-![und Oberkörper nach vorne gebeugt: → Druck direkt auf Brustbein](/Bilder/Hirtler-Lena-CCCA/Reanimation-Position-2.\*)
+![und Oberkörper nach vorne gebeugt: → Druck direkt auf Brustbein](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-2.\*)
 :::
 
 

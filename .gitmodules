@@ -22,3 +22,6 @@
 [submodule "Submodules/hex15-latex-styles"]
 	path = Submodules/hex15-latex-styles
 	url = gitea@lab.engerth.space:hex15/hex15-latex-styles.git
+[submodule "Submodules/3134-medical-picture-collection"]
+	path = Submodules/3134-medical-picture-collection
+	url = gitea@lab.engerth.space:3134/3134-medical-picture-collection.git

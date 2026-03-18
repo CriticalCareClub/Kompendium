@@ -22,7 +22,7 @@ Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht aus 33—
 - Lenden**lordose** (*konvax*)
 - Sakral**kyphose** (*konkav*)
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/wirbelsaeule-lena-edited.png
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/wirbelsaeule-lena-edited.png
 :width: 50%
 
 Wirbelsäule
@@ -77,7 +77,7 @@ Die Wirbeln gliedern sich in:
   coccygeales (*Os coccygis*, braun) = Co1—Co5
 
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Wirbelsaeule-Ueberblick.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Wirbelsaeule-Ueberblick.\*
 :width: 50%
 
 Wirbelsäule
@@ -124,7 +124,7 @@ Die Processi bilden Ursprungs- und Ansatzpunkte für Muskulatur und Bänder.
 Zwischen den einzelnen Wirbelbögen, vor den Gelenksfortsätzen, bildet sich aus dem oberen und unteren Wirbel das *Zwischenwirbelloch (Foramen intervertebrale)*.
 Durch dieses Foramen intervertebrale verlaufen die *Spinalnerven* des Rückenmarks.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Wirbel-allgemein.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Wirbel-allgemein.\*
 :width: 50%
 
 Wirbel

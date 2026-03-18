@@ -153,7 +153,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 
 34. Dokumentation
 
-:::{figure} ../../../Bilder/CC-BY-SA-4.0/Arterial-line-shaded.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Arterial-line-shaded.png
 :alt: Bild
 :width: 75%
 

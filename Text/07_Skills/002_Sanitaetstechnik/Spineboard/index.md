@@ -14,7 +14,7 @@ Das **Spineboard** ist im Prinzip ein flaches Brett auf dem der Patient
 
 Diese Technik wurde ursprünglich vor allem im anglo-amerikanischen Raum eingesetzt und erfährt auch hierzulande immer größere Verbreitung.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Spineboard_32956_crop.000800px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Spineboard_32956_crop.000800px.jpg
 
 Spineboard.
 

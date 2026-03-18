@@ -41,7 +41,7 @@ Die Niere wird von einer Fettkapsel [(Capsula adiposa)]{.deep} und einer bindege
 Sie besitzt selbst noch eine derbe bindegewebige Kapsel [(Capsula renalis)]{.deep}.
 Am oberen Nierenpol liegt die Nebenniere an.
 
-:::{figure} /Bilder/PD/Kidneys.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Kidneys.\*
 :align: right
 :width: 50%
 

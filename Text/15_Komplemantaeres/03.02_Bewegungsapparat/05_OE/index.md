@@ -14,7 +14,7 @@
 
 ## Knochen
 
-:::{figure} /Bilder/PD/Human_arm_bones_diagram_de-edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Human_arm_bones_diagram_de-edited.\*
 :width: 100%
 
 Der Schultergürtel und die obere Extremität

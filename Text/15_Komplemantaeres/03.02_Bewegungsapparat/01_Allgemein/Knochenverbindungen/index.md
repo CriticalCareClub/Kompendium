@@ -17,7 +17,7 @@ status: final
 Knochenverbindungen (Juncturen) können in **Synarthrosen** (kontinuierliche / unbewegliche Knochenverbindungen, Fugen / Haften) und **Diarthrosen**
 (diskontinuierliche / bewegliche Knochenverbindungen, Gelenke) unterteilt werden.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenk-edited.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Gelenk-edited.\*
 :width: 50%
 
 Ein Gelenk im Querschnitt
@@ -194,7 +194,7 @@ Nach ihrer Form und ihrer Bewegungsfreiheit bzw. der Anzahl der Bewegungsachsen 
 
 Der **Freiheitsgrad** beschreibt die unterschiedlichen Bewegungen in einer Raumebene. Bei drei Freiheitsgraden (maximal möglich), kann man mit diesem Gelenk Bewegungen in allen drei Raumebenen durchführen. Bei einem Freiheitsgrad kann nur eine bestimmte Bewegung ausgeführt werden.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Gelenkarten.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Gelenkarten.\*
 :width: 100%
 
 Gelenksformen:

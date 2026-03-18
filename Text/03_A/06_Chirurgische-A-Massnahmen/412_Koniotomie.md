@@ -16,7 +16,7 @@ status: final
 Eine Koniotomie ist ein Schnitt bzw. Stich durch die Haut und die Cricothyroid-Membran (Ligamentum cricothyroideum, Ligamentum conicum), um dadurch einen Atemwegszugang direkt in die Trachea herzustellen.
 
 
-:::{figure} ../../Bilder/CC-BY-SA-3.0/Cricothyrotomy_edited.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Cricothyrotomy_edited.png
 :name: Cricothyrotomy-edited
 :width: 50%
 

@@ -335,7 +335,7 @@ Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich Prio
   Wunde anderweitig steril, aber *nicht* luftdicht
   abgedeckt werden (Ausnahme: Bagatellverletzungen).
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/frische-Wunde-desinfizieren.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/frische-Wunde-desinfizieren.\*
 Desinfektion einer frischen Wunde
 
 \[Lena Hirtler, {term}`ℓ MfG`\]
@@ -477,7 +477,7 @@ Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll unbedingt mit e
     Rahmen des Krankentransports haben sie dennoch eine gewisse
     Berechtigung.
 
-:::{figure} /Bilder/PD/Escarre_Stade_4_detail.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Escarre_Stade_4_detail.\*
 :width: 100%
 
 Dekubitus Grad 4

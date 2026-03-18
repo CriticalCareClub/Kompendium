@@ -14,7 +14,7 @@ status: final
 - Zunge: Nahrungsfortbewegung, Kehldeckelverschluss
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Mundhoehle.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/needs-work/Mundhoehle.\*
 
 Die Mundhöhle
 

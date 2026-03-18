@@ -96,7 +96,7 @@ Vivostat®
 1. N.-facialis-Stimulation
 2. N.-recurrens-Stimulation
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_085246.000800px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tubes/IMG_085246.000800px.\*
 Endotrachealtubus mit Elektroden zur N.-recurrens-Stimulation
 :::
 

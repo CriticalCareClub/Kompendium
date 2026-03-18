@@ -168,7 +168,7 @@ Es kann vorkommen, dass das Pochen nicht verschwindet, sondern nur plötzlich le
 Dokumentiert wird der Blutdruck mit dem Zusatz *RR* (z. B.: `RR 120/80 mm Hg`).
 Der Normalwert beim Erwachsenen liegt in etwa bei RR 130/80 (vgl. {ref}`blutdruck`).
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Riva-Rocci_edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Riva-Rocci_edited.\*
 
 Prinzip der auskultatorischen RR-Messung
 

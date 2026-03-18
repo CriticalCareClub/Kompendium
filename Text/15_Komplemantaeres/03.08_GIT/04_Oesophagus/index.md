@@ -52,7 +52,7 @@ In der Wand des Ösophagus befinden sich zahlreiche Venen, welche bei Rückstau 
 (**Ösophagus-Varizen**{index}` <Ösophagusvarizen>`,
 {ref}`Blutungsgefahr! <Oesophagusvarizenblutung>`).
 
-:::{figure} /Bilder/PD/stomach.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/stomach.\*
 :width: 70%
 
 Ösophagus, Schema

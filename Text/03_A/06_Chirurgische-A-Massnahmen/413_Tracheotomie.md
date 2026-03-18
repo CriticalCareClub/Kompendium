@@ -38,7 +38,7 @@ Tracheostoma \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Patient beatmet über ein Tracheostoma](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140940.001341px.jpg)
 
-!["Feuchte Nase" für spontanatmende Patienten](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140949.001341px.jpg)
+!["Feuchte Nase" für spontanatmende Patienten](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_140949.001341px.jpg)
 :::
 
 Wichtig ist die Kenntnis und Unterscheidung zwischen einem *chirurgisch* und einem  *dilatativ* angelegtem Tracheostoma.

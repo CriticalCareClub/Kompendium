@@ -26,7 +26,7 @@ Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem Medizinprodu
 
 Es gibt tausende verschiedene Produkte, i.d.R. haben sie alle eine *CE-Kennzeichnung*. Diese zeigt an, dass das Produkt gewissen Minimalanforderungen entspricht.
 
-:::{figure} /Bilder/Logos/Ce-logo.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Logos/Ce-logo.jpg
 
 Das CE-Kennzeichen
 :::

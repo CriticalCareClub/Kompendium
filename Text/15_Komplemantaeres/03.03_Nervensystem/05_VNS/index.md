@@ -135,7 +135,7 @@ Dabei wird die Leistung jener Organsysteme, die dringend benötigt werden
     Adrenalinausschüttung ↓
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Parasymp-Symp-Cartoon.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Parasymp-Symp-Cartoon.\*
 "Fight or flight, rest and digest."
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

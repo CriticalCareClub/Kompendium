@@ -22,7 +22,7 @@ Folgende Substanzen sind Inhibitoren der Gerinnung:
 :::
 
 
-:::{figure} ../../../Bilder/Hirtler-Lena-CCCA/Pharma/100000000000132200001428585ABA80CF5D66CB.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/100000000000132200001428585ABA80CF5D66CB.png
 :name: Fig-GerinnungFibrinolyse
 :width: 100%
 
@@ -73,7 +73,7 @@ Inhibitoren der Fibrinolyse:
 :::
 
 
-:::{figure} ../../../Bilder/Hirtler-Lena-CCCA/Pharma/100000000000130E0000119F530F8DB4653403C2.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/100000000000130E0000119F530F8DB4653403C2.png
 :name: Fig-PlasminogenPlasminKaskadeFibrinolyse
 :width: 100%
 

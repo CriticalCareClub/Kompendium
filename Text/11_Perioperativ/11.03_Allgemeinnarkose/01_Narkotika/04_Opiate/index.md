@@ -9,7 +9,7 @@ status: sprint
 Neben ihrer stark analgetischer Wirkung trüben Opioide auch das Bewusstsein.
 Diese Wirkung ist aber nicht sicher gegeben, daher müssen sie unbedingt mit i.v.-Anästhetika kombiniert werden.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_132141.001341px.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/IMG_132141.001341px.\*
 Miosis
 :::
 

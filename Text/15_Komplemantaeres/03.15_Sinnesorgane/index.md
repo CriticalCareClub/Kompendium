@@ -389,7 +389,7 @@ Folgende Aufgaben soll sie also erfüllen:
 - Abwehrfunktionen
 - Kommunikation
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Haut-edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Haut-edited.\*
 :width: 70%
 
 ₢ Lena Hirtler, {term}`ℓ MfG`

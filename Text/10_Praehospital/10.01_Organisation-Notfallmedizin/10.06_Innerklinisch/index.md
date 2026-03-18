@@ -99,7 +99,7 @@ Manchmal kommen solche Aufnahmestationen auch zum Einsatz um Normalstationen aus
 Der Begriff Schockraum ist an sich sehr ungenau, jedenfalls hat die Bezeichnung "Schockraum" nichts mit dem Vorhandensein oder Nicht-Vorhandensein eines {ref}`Schocks <Schock>` zu tun.
 Es handelt sich dabei um eine Einrichtung, die die Versorgung kritischer, akut vital bedrohter Patienten ermöglicht.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_083637.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Scenes/IMG_083637.001341px.jpg
 
 Ein Schockraum \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
@@ -156,7 +156,7 @@ Vor dem Start des Infarkt-Netzwerkes wurden Infarktpatienten in ihr Heimatspital
 Dadurch kam es zu beträchtlichen Zeitverzögerungen bis eine kausale Therapie gestartet wurde.
 
 
-:::{figure} ../../../Bilder/PD/12_lead_generated_anterior_MI.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_anterior_MI.jpg
 
 Ein Fall für den Herzkatheter.
 :::

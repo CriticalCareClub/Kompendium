@@ -125,7 +125,7 @@ Die Gelenke des Thorax[^gelenkethorax] sind Scharniergelenke.
 
 ## Thoraxmuskulatur
 
-:::{figure} /Bilder/PD/Thorax.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/PD/Thorax.\*
 :width: 70%
 
 Der knöcherne Thorax

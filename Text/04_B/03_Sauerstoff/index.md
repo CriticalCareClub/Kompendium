@@ -243,7 +243,7 @@ durchgeführt werden.
 
 ## Verabreichung von Sauerstoff
 
-:::{figure} /Bilder/Motal-Michael-CCCA/o2_4765-00800.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/O2_4765-00800.\*
 :align: right
 :width: 50%
 

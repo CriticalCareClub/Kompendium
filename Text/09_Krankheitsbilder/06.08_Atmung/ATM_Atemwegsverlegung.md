@@ -184,7 +184,7 @@ abhängig.
   es zu schweren inneren Verletzungen kommen (Magen, Leber, …), die
   Anwendung ist daher auf bedrohliche Situationen beschränkt.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Fremdkoerper.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Fremdkoerper.\*
 
 Atemwegsverlegung (Schema):
 Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiseröhre.
@@ -192,7 +192,7 @@ Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiser
 ₢ Lena Hirtler, {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/PD/Abdominal_thrusts3.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Abdominal_thrusts3.jpg
 
 Heimlich-Manöver:
 Japanese intern Naoko Uehara at U.S. Naval Hospital, Okinawa, teaches proper technique for treating a choking victim with the assistance of Hospital Corpsman Second Class Ross Francis.

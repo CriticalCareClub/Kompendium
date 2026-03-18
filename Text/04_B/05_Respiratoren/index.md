@@ -201,16 +201,16 @@ Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
 ### TwinStream
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105038.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105038.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105053.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105053.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105043.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105043.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_105047.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105047.001341px.jpg
 :::
 
 

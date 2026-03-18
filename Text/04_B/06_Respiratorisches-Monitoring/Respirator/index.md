@@ -47,7 +47,7 @@ Narkoserespirator mit Spirometrie-Anzeige (GE Aisys™)
 :::
 
 
-:::{figure} ../../../Bilder/Screenshots/G5-WeaningImBereich-36-Minuten.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Screenshots/G5-WeaningImBereich-36-Minuten.png
 
 Intensivbeatmunsgerät Hamilton G5
 :::

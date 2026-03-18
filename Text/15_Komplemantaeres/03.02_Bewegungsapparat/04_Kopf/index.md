@@ -11,7 +11,7 @@ status: final
 
 # Caput (Kopf)
 
-:::{figure} /Bilder/CC-BY/Human_skull_front_simplified_bones_de-edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Human_skull_front_simplified_bones_de-edited.\*
 :width: 100%
 
 Querschnitt durch die Schädeldecke
@@ -74,7 +74,7 @@ Das **Foramen magnum** (*großes Hinterhauptsloch*)
 ist die *Durchtrittsstelle des Rückenmarks*.
 
 
-:::{figure} /Bilder/PD/Gray1196-edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Gray1196-edited.\*
 :width: 50%
 
 Aufsicht auf die Schädelbasis
@@ -107,7 +107,7 @@ Die Schädelnähte sind Überbleibsel aus der Wachstumsphase des Menschen — im
 Die Unterscheidung ist für die Geburtshilfe interessant, da man dadurch unterscheiden kann in welche Richtung der Kopf des Kindes schaut.
 
 
-:::{figure} /Bilder/PD/fontanelle-dt.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/fontanelle-dt.\*
 :align: right
 :width: 50%
 

@@ -209,13 +209,13 @@ Theoretische Ansätze zur kontinuierlichen Lavage in Verbindung mit einem VAC-Sy
 
 Intraperitonealer VAC-Verband
 
-![Einlage eines subfazialen folierten VAC-Schwammes](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_082527.001341px.jpg)
+![Einlage eines subfazialen folierten VAC-Schwammes](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/VAC/IMG_082527.001341px.jpg)
 
-![Anlage eines Netzes über dem subfaszialen VAC-Anteil zur Faszienadaptation](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_152119.001341px.jpg)
+![Anlage eines Netzes über dem subfaszialen VAC-Anteil zur Faszienadaptation](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/VAC/IMG_152119.001341px.jpg)
 
-![Subkutaner VAC-Schwamm, welcher über den saubfaszialen Schwann aufgelegt wird](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_152156.001341px.jpg)
+![Subkutaner VAC-Schwamm, welcher über den saubfaszialen Schwann aufgelegt wird](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/VAC/IMG_152156.001341px.jpg)
 
-![Einlage des subkutanen Schwamms vor Anlage des Folienverbandes](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_152924.001341px.jpg)
+![Einlage des subkutanen Schwamms vor Anlage des Folienverbandes](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/VAC/IMG_152924.001341px.jpg)
 :::
 
 
@@ -274,9 +274,9 @@ Gelingt schlussendlich der Bauchdeckenschluss kann es durch eine Dehiszenz der F
 
 Komplikationen einer Peritonitis
 
-![Blockbauch: Nach andauernder Entzündung  haben Fibroblasten aus dem Darmkonvolut einen kompakten Fibrinblock geformt](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_091204.001341px.jpg)
+![Blockbauch: Nach andauernder Entzündung  haben Fibroblasten aus dem Darmkonvolut einen kompakten Fibrinblock geformt](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/VAC/IMG_091204.001341px.jpg)
 
-![Platzbauch: Defekt (Dehiszenz) der Bauchfaszie und Aufbrechen der ursprünglichen Inzision nach einer Laparotomie (links unten das Entlastungsstoma)](../../Bilder/Gabriel-Sebastian-CCCA/FP3/IMG_182159.001341px.jpg)
+![Platzbauch: Defekt (Dehiszenz) der Bauchfaszie und Aufbrechen der ursprünglichen Inzision nach einer Laparotomie (links unten das Entlastungsstoma)](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Procedures/Surgery/IMG_182159.001341px.jpg)
 
 :::
 

@@ -16,7 +16,7 @@ status: final
 Man kann den Bewegungsapparat in einen **aktiven** und einen **passiven** unterteilen.
 Der passive Bewegungsapparat besteht aus dem *Skelett* und den *Knochenverbindungen*, der aktive Bewegungsapparat aus *Skelettmuskulatur*, den dazugehörigen *Sehnen* und den *Hilfseinrichtungen* der Muskel (*Muskelfaszien*, *Schleimbeutel*, *Sehnenscheiden*, *Sesambeine*).
 
-:::{figure} /Bilder/PD/Human_skeleton_front-edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Human_skeleton_front-edited.\*
 :width: 100%
 
 Das menschliche Skelett.

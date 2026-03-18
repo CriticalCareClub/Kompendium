@@ -225,7 +225,7 @@ Bilderserie: Reizleitungssystem
 
 Die Erregungsausbreitungsvorgang kann mittels {ref}`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Ekg.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Ekg.png
 :name: Fig-Ekg
 :width: 50%
 

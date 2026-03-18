@@ -16,7 +16,7 @@ Die Kinozilien schlagen immer rachenwärts und sorgen für einen kontinuierliche
 
 (figure-respiraktionstrakt-uebersicht)=
 
-:::{figure} /Bilder/PD/Respiratory_system_complete_de-edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Respiratory_system_complete_de-edited.\*
 :width: 100%
 
 Die Atemwege, Übersicht

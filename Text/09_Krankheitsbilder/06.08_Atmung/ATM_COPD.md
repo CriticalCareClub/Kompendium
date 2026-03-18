@@ -45,7 +45,7 @@ Durch die erschwerte Ausatmung kommt es zu einer chronischen Überblähung der L
 Im Endstadium zeigen sich Zeichen einer {ref}`Rechtsherzinsuffizienz <rechtsherzinsuffizienz>` aufgrund einer Störung im Lungenkreislauf.
 
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/COPD-Stufen_edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/COPD-Stufen_edited.\*
 
 Entwicklung einer COPD-Erkrankung
 
@@ -75,7 +75,7 @@ Die Folge ist ein *erhöhte isometrische Atemarbeit*, da der Restflow überwunde
 Bis zu 50 % der Atemarbeit bei COPD IV ist eine somit eine flussunwirksame Atemarbeit!
 
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Alveolen-Bronchus-COPD-edited2.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Alveolen-Bronchus-COPD-edited2.\*
 :name: figure-copd-veraenderungen
 
 Veränderung der Atemwege bei der COPD

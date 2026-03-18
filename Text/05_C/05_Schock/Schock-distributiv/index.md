@@ -131,7 +131,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu Tafel {ref}`
   - Kreislaufstillstand
 :::
 
-:::{figure} /Bilder/CC-BY-SA-3.0/RashPinetree_1024px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/RashPinetree_1024px.jpg
 :width: 100%
 
 Urtikarieller Ausschlag nach Kontakt mit einer Pflanze

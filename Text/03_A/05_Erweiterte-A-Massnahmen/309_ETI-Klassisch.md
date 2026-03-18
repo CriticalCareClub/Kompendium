@@ -196,7 +196,7 @@ Endotrachealtuben [₢ Sebastian Gabriel. {term}`ℓ MfG`]
 
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Intubation_32939.jpg
 :width: 100%
 
 Zubehör für die endotracheale IntubationAbsaugeinheit mit Absaugkatheter,

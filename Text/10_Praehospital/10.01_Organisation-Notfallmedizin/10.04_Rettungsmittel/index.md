@@ -121,15 +121,15 @@ RTW-C: NKV oder NFS?
 
 RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2610_CR2_embedded.001341px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2610_CR2_embedded.001341px.jpg)
 
 ![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2608.001341px.jpg)
 
 ![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_141855.001341px.jpg)
 
-![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172130.001341px.jpg)
+![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172130.001341px.jpg)
 
-![Niederösterreichischer RTW-C: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172145.001341px.jpg)
+![Niederösterreichischer RTW-C: Patientenraum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172145.001341px.jpg)
 :::
 
 
@@ -212,15 +212,15 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172004.001341px.jpg)
+![Laderaum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172004.001341px.jpg)
 
-![Auszug mit Patientenmonitor und Absaugeinheit](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172033.001341px.jpg)
+![Auszug mit Patientenmonitor und Absaugeinheit](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172033.001341px.jpg)
 
-![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172116.001341px.jpg)
+![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172116.001341px.jpg)
 
-![Kühlbox für Medikamente](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172341.001341px.jpg)
+![Kühlbox für Medikamente](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172341.001341px.jpg)
 
-![Wärmelade für Infusionen](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172400.001341px.jpg)
+![Wärmelade für Infusionen](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172400.001341px.jpg)
 :::
 
 

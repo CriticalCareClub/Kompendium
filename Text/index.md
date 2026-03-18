@@ -46,7 +46,7 @@ status: final
 
 
 :::::{only} html
-:::{image} /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+:::{image} ../Submodules/3134-medical-picture-collection/Logos/Ccca-LogoBar-4-c-LongerBar.svg
 :align: center
 :width: 100%
 :::

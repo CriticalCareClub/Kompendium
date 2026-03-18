@@ -10,7 +10,7 @@ Unter dem Begriff {dfn}`Peripheres Nervensystem`
 {index}` <! Peripheres Nervensystem>` fasst man die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PNSZNS-edited-00254pt.\*
 :width: 70%
 
 Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)

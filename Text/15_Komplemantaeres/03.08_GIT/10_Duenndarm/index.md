@@ -58,7 +58,7 @@ Im Dünndarm findet die eigentliche Aufnahme der Nahrungsstoffe statt.
 Er beginnt nach dem Pylorus des Magens und verläuft bis an den Beginn des Dickdarms mit dem Caecum und ist *3—5 m* lang.
 In ihm erfolgt der Abbau der Nahrungsbestandteile zu den vom Körper resorbierbaren Bestandteile durch die Verdauungsenzyme. Resorbiert werden können Monosaccharide, Aminosäuren, Fettsäuren und Glycerol.
 
-:::{figure} /Bilder/PD/Small_intestine.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Small_intestine.\*
 :width: 75%
 
 Dünndarm

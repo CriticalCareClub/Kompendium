@@ -237,7 +237,7 @@ Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
   dient der Gewichtsreduktion des Skeletts, über Zug- und Drucktrabekel wird die Belastung auf die Corticalis gleichmäßig verteilt.
   Im Raum zwischen den Knochenbälkchen ebenfalls mit Knochenmark gefüllt.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/needs-work/Knochenbau.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/needs-work/Knochenbau.\*
 :width: 20%
 
 Ein langer Röhrenknochen im Querschnitt

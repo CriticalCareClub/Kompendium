@@ -9,7 +9,7 @@
   vestibulares), Paraurethraldrüsen (Skene-Drüsen), Mammae
   (Brustdrüsen)
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Genitale-w.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Genitale-w.\*
 
 Weibliche Geschlechtsorgane, Querschnitt
 
@@ -90,7 +90,7 @@ Die *Menopause*, das sistieren des Menstruationszyklus, ist um das 50. Lebensjah
 Mit der Prämenopause beginnt das *Klimakterium*
 (Wechseljahre): Prämenopause, Menopause, Postmenopause.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Zyklus.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Zyklus.\*
 
 Der weibliche Zyklus.
 

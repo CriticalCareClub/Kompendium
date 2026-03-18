@@ -62,7 +62,7 @@ Es sind *zwei Auslösemechanismen* möglich:
 Einerseits kann eine Minderdurchblutung des Herzmuskels (Myokard) aufgrund einer oder mehrerer *Einengung(en) von Herzkranzgefäßen* (Koronararterien) die Ursache sein, oder es kommt zu einem *erhöhtem Sauerstoffbedarf* des Herzens bei Anstrengung.
 In beiden Fällen kommt es zu einem *Missverhältnis zwischen Sauerstoffangebot und Sauerstoffbedarf* des Herzens (Ischämie), die Folge sind Schmerzen, Atemnot und ein Leistungsverlust!
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herzschmerz.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herzschmerz.\*
 
 Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim ischämischen HerzschmerzLena \[Lena Hirtler,  {term}`ℓ MfG`\]
 :::

@@ -153,7 +153,7 @@ Erniedrigte Werte (bzw. keine Werte) deuten unter anderem auf eine
 
 Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes sind ein kritisches Alarmzeichen.
 
-:::{figure} ../../../Bilder/sketchymedicine/Mike/capnography_edited.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/sketchymedicine/Mike/capnography_edited.jpg
 :width: 100%
 
 Veränderungen der Kapnographiekurve

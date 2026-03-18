@@ -67,7 +67,7 @@ Aufgrund der Mangeldurchblutung des Herzmuskels kommt es zu einem Funktionsverlu
 
 Ein Herzinfarkt stellt somit eine **akute vitale Bedrohung** dar.
 
-:::{figure} /Bilder/PD/12_lead_generated_ventricular_tachycardia.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_ventricular_tachycardia.\*
 
 Lebensbedrohliche Rhythmusstörungen, wie hier die ventrikuläre Tachykardie, sind häufige Komplikationen eines Herzinfarktes
 

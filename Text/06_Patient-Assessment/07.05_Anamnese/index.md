@@ -10,7 +10,7 @@ status: final
 
 # Anamnese: SAMPLER
 
-:::{figure} /Bilder/xkcd/desert_island.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/xkcd/desert_island.\*
 
 Stille Wasser sind tief …
 

@@ -36,7 +36,7 @@ $$
   - **87 %**
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_124348.001341px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/ADU/IMG_124348.001341px.\*
 
 Nachfüllen eines GE-Sevofluran-Vapors.
 :::

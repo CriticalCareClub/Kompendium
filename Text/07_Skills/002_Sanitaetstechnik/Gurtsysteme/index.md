@@ -16,7 +16,7 @@ status: final
 
 Das Fastrap™-System kann sowohl zusammen mit einer Schaufeltrage, als auch mit einem Spineboard verwendet werden. [^footnote-1]
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Spiderstrap_32954_v2-AASS-0112mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Spiderstrap_32954_v2.000800px.jpg
 
 Ferno Fastrap Quick Restraint System™
 

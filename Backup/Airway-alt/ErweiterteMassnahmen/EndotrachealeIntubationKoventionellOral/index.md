@@ -47,7 +47,7 @@ Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*
        Bei Kaltlichtsystemen gibt es außerdem unterschiedliche
        Steckverbindungen!
 
-       :::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902-AASS-0112mm.\*
+       :::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902.000800px.jpg
        :width: 100%
 
        Laryngoskop
@@ -69,7 +69,7 @@ Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*
 
 13. Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.jpg
 :width: 100%
 
 Zubehör für die endotracheale IntubationAbsaugeinheit mit

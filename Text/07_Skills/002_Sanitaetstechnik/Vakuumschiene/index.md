@@ -24,7 +24,7 @@ Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen *vom Knie abwärts
 - Absauggerät
 - Evtl. Adapter
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Beinschiene_32977_v2-AASS-0176mm.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Beinschiene_32977_v2.001341px.jpg
 Vakuumbeinschiene mit Zubehör
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

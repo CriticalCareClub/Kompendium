@@ -145,11 +145,11 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztli
 
 Bilderserie: Beatmungsgeräte
 
-![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32851-00441pt.\*)
+![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32851-00441pt.jpg)
 
 ![Bedienfelder Berieselungseinheit *Modul Oxygen* und Notfallbeatmungsgerät *Medumat™ Standard*\n\n*Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahrzeuges.\n\n*Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung, Beatmungsdruckanzeige, Warnleuchten für Verlegung (\"Stenosis\"), Lösung des Beatmungsschlauches (\"Disconnection\"), niederen Flaschendruck (\"<2.7bar\") und schwache Batterie. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/ger-medumat-standard-bedienfeld.\*)
 
-![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32857-00943pt.\*)
+![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32857-00943pt.jpg)
 
 ![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_161824.001341px.jpg)
 :::

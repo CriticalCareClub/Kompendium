@@ -139,7 +139,7 @@ V1—V6. Zu den Positionen der Elektroden siehe
 
 (figure-corpuls3)=
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-01445pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-01445pt.jpg
 
 Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
 Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit SAED-Funktion (Corpuls:sup:`3`)

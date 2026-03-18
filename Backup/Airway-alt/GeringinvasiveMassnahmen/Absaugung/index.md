@@ -80,13 +80,13 @@ abgeschraubt und verschlossen werden.
 
 Bilderserie: Verschiedene Absaugvorrichtungen
 
-![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac) \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0112mm.\*)
+![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac) \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Accuvac_32820.000800px.jpg)
 
-![Handabsaugpumpeempty \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Handpumpe_32789-00441pt.\*)
+![Handabsaugpumpeempty \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Handpumpe_32789-00441pt.jpg)
 
-![Oro-Sauger für Neugeborene \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Orosauger_33074-00441pt.\*)
+![Oro-Sauger für Neugeborene \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Orosauger_33074-00441pt.jpg)
 
-![Absaugkatheter zum Einführen in Mund oder Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.\*)
+![Absaugkatheter zum Einführen in Mund oder Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.jpg)
 :::
 
 
@@ -121,7 +121,7 @@ vorhandene *Warnleuchten* müssen kontrolliert werden. Die vom jeweiligen
 Hersteller vorgegebenen, typenspezifischen Anweisungen müssen beachtet
 werden.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Accuvac_32820-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Accuvac_32820.001341px.jpg
 Weinmann AccuVac
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`
@@ -185,9 +185,9 @@ Bei Verdacht auf ein *Schädel-Hirn-Trauma* darf *nicht
 
 Bilderserie: Länge des Absaugkatheters
 
-![Katheterlänge bei Absaugung des Mundes \[₢ Ch. Pallinger\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32999_export.\*)
+![Katheterlänge bei Absaugung des Mundes \[₢ Ch. Pallinger\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32999_export.jpg)
 
-![Katheterlänge bei Absaugung durch die Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32990_export.\*)
+![Katheterlänge bei Absaugung durch die Nase \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Anton_32990_export.jpg)
 :::
 
 

@@ -170,7 +170,7 @@ CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der 
 
 ## Supraglottische Atemwegshilfsmittel (Reanimation)
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Laringstubus-32884-00441pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Laringstubus-32884-00441pt.jpg
 :align: right
 :width: 40%
 

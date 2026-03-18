@@ -36,7 +36,7 @@ status: final
 
 Zur Beutel-Masken-Beatmung wird ein selbstfüllender Beatmungsbeutel zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe, je nach Gesichtsgröße bzw. -form, verwendet.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741.001341px.jpg
 :alt: "Selbstf\xFCllender Beatmungsbeutel \"Ambu Mark IV\" mit Reservoir, O\u2082-Verbindungsschlauch,\
 :  \ Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil"
 
@@ -84,7 +84,7 @@ Sobald die Maske nicht mehr dicht aufsitzt, verliert das PEEP-Ventil seine Wirku
 
 
 
-:::{figure} ../../Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
+:::{figure} ../../Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2.000800px.jpg
 :width: 100%
 :name: Figure-Bilderserie-Beatmungsmasken
 

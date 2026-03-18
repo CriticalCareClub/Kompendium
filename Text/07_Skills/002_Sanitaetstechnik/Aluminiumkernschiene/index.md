@@ -28,9 +28,9 @@ Trotz Aluminiumkernschiene muss an der betroffenen Extremität ein Armtragetuch 
 
 Bilderserie: Aluminiumkernschiene Marke Sam-Splint
 
-![Ein SAM-Splint® fabriksneu …](/Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33050_crop-AASS-0112mm.jpg)
+![Ein SAM-Splint® fabriksneu …](/Bilder/Pallinger-Christoph-CCCA/Sam-Splint_33050_crop.000800px.jpg)
 
-![… und nach der Anpassung](/Bilder/Pallinger-Christoph-CCCA/Sam_Splint_33053_crop-AASS-0112mm.jpg)
+![… und nach der Anpassung](/Bilder/Pallinger-Christoph-CCCA/Sam-Splint_33053_crop.000800px.jpg)
 :::
 
 

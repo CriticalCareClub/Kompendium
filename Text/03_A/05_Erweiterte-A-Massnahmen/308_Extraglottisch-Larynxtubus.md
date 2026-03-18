@@ -35,11 +35,11 @@ Trotz korrekter Anwendung kann es aufgrund von Leckagen zur Magenüberblähung k
 
 Bilderserie: Larynxtuben [₢ Ch. Pallinger  {term}`ℓ MfG`]
 
-![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*)
+![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890.001341px.jpg)
 
-![Ein Larynxtubus der ersten Generation mit geblocktem Cuff.](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885_textwidth.\*)
+![Ein Larynxtubus der ersten Generation mit geblocktem Cuff.](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885.001341px.jpg)
 
-![Larynxtuben unterschiedlicher Größen, beachte die Farbmarkierung.](/Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025_textwidth.\*)
+![Larynxtuben unterschiedlicher Größen, beachte die Farbmarkierung.](/Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025.001341px.jpg)
 ::::
 
 

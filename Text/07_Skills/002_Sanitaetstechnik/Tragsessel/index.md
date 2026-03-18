@@ -15,7 +15,7 @@ Der Tragsessel ist eines der am häufigsten verwendeten Transportmittel für Pat
 
 Der Patient ist im Tragsessel *immer anzuschnallen*. Beim Transport über Stiegen hat der Patient immer *talwärts* zu blicken.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Tragsessel_32966-prelim-edited2-crop2-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Tragsessel_32966-prelim-edited2-crop2.000800px.jpg
 
 Tragsessel
 

@@ -302,7 +302,7 @@ Geburt
 
 (figure-partus-set)=
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Partus_Set_aufgelegt_33048-01445pt.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Partus_Set_aufgelegt_33048-01445pt.jpg
 
 Set für eine Geburt (Partus-Set)Verbandsmaterial, saugstarke Tücher, Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere, Verbandspäckchen
 

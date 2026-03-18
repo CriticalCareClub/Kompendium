@@ -183,9 +183,9 @@ Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
 
 Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
 
-![Infusionsbesteck](/Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.\*)
+![Infusionsbesteck](/Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.jpg)
 
-![Beispiele für Infusionsbeutel und -flaschen](/Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.\*)
+![Beispiele für Infusionsbeutel und -flaschen](/Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.jpg)
 :::
 
 

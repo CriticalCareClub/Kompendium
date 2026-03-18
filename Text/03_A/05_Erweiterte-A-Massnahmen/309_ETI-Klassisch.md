@@ -125,7 +125,7 @@ Daher muss darauf geachtet werden, dass die Spatel mit dem Griff zusammenpassen!
 Bei Kaltlichtsystemen gibt es außerdem unterschiedliche Steckverbindungen!
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902.000800px.jpg
 :width: 100%
 
 Laryngoskop
@@ -196,7 +196,7 @@ Endotrachealtuben [₢ Sebastian Gabriel. {term}`ℓ MfG`]
 
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.jpg
 :width: 100%
 
 Zubehör für die endotracheale IntubationAbsaugeinheit mit Absaugkatheter,

@@ -176,7 +176,7 @@ Der PEEP sorgt dafür, dass am Ende der Ausatmungsphase (Exspiration) der Druck 
 > PEEP verschiebt VT nach oben (red. IRV) und hebt damit die FRC AZV = Totraumventilation (va. bei AF \> 30/min) und Frischluftventilation!!
 > Die Höhe des PEEPs richtet sich nach der Hämodynamik, KG, Lagerung des Patienten!
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Peep_32909-AASS-0112mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Peep_32909.000800px.jpg
 PEEP-Ventil
 
 ₢ Ch. Pallinger  {term}`ℓ MfG`

@@ -116,13 +116,13 @@ es besteht Verletzungungsgefahr.
 
 Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
 
-![Kontrolle](/Bilder/Motal-Michael-CCCA/medi-kontrolle_4807-00800.\*)
+![Kontrolle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrolle_4807-00800.jpg)
 
-![Aufziehen mit Kanüle](/Bilder/Motal-Michael-CCCA/medi-aufziehen_4815-00800.\*)
+![Aufziehen mit Kanüle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-aufziehen_4815-00800.jpg)
 
-![Übergabe](/Bilder/Motal-Michael-CCCA/medi-kontrollieren_4824-00800.\*)
+![Übergabe](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrollieren_4824-00800.jpg)
 
-![Verabreichung über Venflon durch befugtes Personal](/Bilder/Motal-Michael-CCCA/medi-verabreichen_4826_CLOSEUP-00800.\*)
+![Verabreichung über Venflon durch befugtes Personal](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-verabreichen_4826_CLOSEUP-00800.jpg)
 :::
 
 

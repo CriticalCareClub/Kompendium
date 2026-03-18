@@ -67,7 +67,7 @@ Bilderserie: Blutzuckermessung
 
 ![Material zur Blutzuckermessung \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Blutzucker_32796_export_01312.jpg)
 
-![](/Bilder/Motal-Michael-CCCA/00800/neuro6.jpg)
+![](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.jpg)
 
 ![Ergebnis: "90 mg/dL"](/Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg)
 :::

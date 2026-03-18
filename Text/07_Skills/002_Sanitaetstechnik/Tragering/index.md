@@ -19,10 +19,10 @@ Das Tragen mit dem Tragering funktioniert nur bei bewusstseinsklaren und koopera
 
 Bilderserie: Transport mit einem *Tragering* [₢ Michael Motal, {term}`ℓ MfG`]
 
-![Tragering](/Bilder/Motal-Michael-CCCA/00800/tragering1b.jpg)
+![Tragering](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragering1b.jpg)
 
-![Transport mit dem Tragering](/Bilder/Motal-Michael-CCCA/00800/tragering2b.jpg)
+![Transport mit dem Tragering](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragering2b.jpg)
 
-![Transport mit dem Tragering](/Bilder/Motal-Michael-CCCA/00800/tragering3b.jpg)
+![Transport mit dem Tragering](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragering3b.jpg)
 :::
 

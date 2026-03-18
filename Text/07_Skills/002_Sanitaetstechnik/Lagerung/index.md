@@ -27,22 +27,22 @@ Siehe Bilderserie {ref}`Figure-lagerungsarten`[^footnote-1].
 
 Bilderserie: Lagerungsarten [₢ Michael Motal, {term}`ℓ MfG`]
 
-![Flachlagerung](/Bilder/Motal-Michael-CCCA/00800/lagerungflachb.jpg)
+![Flachlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungflachb.jpg)
 
-![Lagerung mit 30° erhöhtem Oberkörper](/Bilder/Motal-Michael-CCCA/00800/lagerung30gradb.jpg)
+![Lagerung mit 30° erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerung30gradb.jpg)
 
-![Lagerung mit stark erhöhtem Oberkörper](/Bilder/Motal-Michael-CCCA/00800/lagerungoberkoerperhochb.jpg)
+![Lagerung mit stark erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungoberkoerperhochb.jpg)
 
-![Seitenlagerung](/Bilder/Motal-Michael-CCCA/00800/lagerungseiteb.jpg)
+![Seitenlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungseiteb.jpg)
 
-![Lagerung mit erhöhten Beinen.](/Bilder/Motal-Michael-CCCA/00800/lagerungkollaps2b.jpg)
+![Lagerung mit erhöhten Beinen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps2b.jpg)
 
-![Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)](/Bilder/Motal-Michael-CCCA/00800/lagerungkollaps1b.jpg)
+![Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps1b.jpg)
 
-![Lagerung zur Entspannung der Bauchdecke](/Bilder/Motal-Michael-CCCA/00800/lagerungabdomenb.jpg)
+![Lagerung zur Entspannung der Bauchdecke](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungabdomenb.jpg)
 
-![Lagerung mit erhöhter Extremität](/Bilder/Motal-Michael-CCCA/00800/lagerungthromboseb.jpg)
+![Lagerung mit erhöhter Extremität](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungthromboseb.jpg)
 
-![Lagerung mit herabhängender Gliedmaße](/Bilder/Motal-Michael-CCCA/00800/lagerungembolieb.jpg)
+![Lagerung mit herabhängender Gliedmaße](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungembolieb.jpg)
 :::
 

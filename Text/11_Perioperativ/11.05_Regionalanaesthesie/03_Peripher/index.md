@@ -187,7 +187,7 @@ Plexus brachialis im Vergleich zu einem Stellwerk.
 
 ![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped_1341px.jpg)
 
-![... der Plexus brachialis im Vergleich geradezu simpel aufgebaut ist und zwei Plexus (einer je Seite) von einer einzelnen Person bedient werden können.](Plexus_brachialis_Schema.png)
+![... der Plexus brachialis im Vergleich geradezu simpel aufgebaut ist und zwei Plexus (einer je Seite) von einer einzelnen Person bedient werden können.](../../../../Submodules/3134-medical-picture-collection/CC-0/Plexus_brachialis_Schema.png)
 :::
 
 :::{raw} latex

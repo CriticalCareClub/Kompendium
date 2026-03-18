@@ -63,9 +63,9 @@ Ein modifizierter **Allen-Test** zur Kontrolle des Kollateralkreislaufs wird hä
 
 Übersicht: Verschiedene Arterienkanülen [₢ MrArifnajafov {term}`ℓ CC BY-SA 3.0`]
 
-![Arterielle Kanülen nach der Seldinger-Technik](../../../Bilder/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
+![Arterielle Kanülen nach der Seldinger-Technik](../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
 
-![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../../Bilder/CC-BY-3.0/Arterial_kateter_800px.jpg)
+![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_800px.jpg)
 
 :::
 

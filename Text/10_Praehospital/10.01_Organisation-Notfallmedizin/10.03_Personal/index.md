@@ -89,7 +89,7 @@ Darüber hinaus müssen die *Berufs- bzw. Tätigkeitspflichten* erfüllt werden 
 
 Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`\]
 
-![Hilfeleistung](../../../Bilder/Motal-Michael-CCCA/00800/traumacheck1.jpg)
+![Hilfeleistung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/traumacheck1.jpg)
 
 ![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
 

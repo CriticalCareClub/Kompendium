@@ -151,16 +151,16 @@ Bilderserie: *Neurocheck*
 
 ![Enge Pupille \[₢ Sebastian Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150306_132141-01341px.jpg)
 
-![Pupillenreaktion, Lichtscheue, Sehstörungen](/Bilder/Motal-Michael-CCCA/00800/neuro1.jpg)
+![Pupillenreaktion, Lichtscheue, Sehstörungen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro1.jpg)
 
-![Kraftprobe an den Armen](/Bilder/Motal-Michael-CCCA/00800/neuro2.jpg)
+![Kraftprobe an den Armen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro2.jpg)
 
-![Kraftprobe an den Beinen](/Bilder/Motal-Michael-CCCA/00800/neuro3b.jpg)
+![Kraftprobe an den Beinen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro3b.jpg)
 
-![Nackensteifigkeit](/Bilder/Motal-Michael-CCCA/00800/neuro4.jpg)
+![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro4.jpg)
 
-![Nackensteifigkeit](/Bilder/Motal-Michael-CCCA/00800/neuro5.jpg)
+![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro5.jpg)
 
-![Blutzuckermessung](/Bilder/Motal-Michael-CCCA/00800/neuro6.jpg)
+![Blutzuckermessung](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.jpg)
 :::
 

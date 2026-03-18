@@ -127,11 +127,11 @@ Ein resistenter Staph. aureus (VRSA) im Elektronenmikroskop, koloriert
 
 Bilderserie: Multiresistente Keime in der Praxis. Auf Nährmedien können Bakterien zu diagnostischen Zwecken gezüchtet werden. Ebenso kann man die Wirkung von Antibiotika auf den Keim untersuchen. [₢ Christine Gabriel/KARPAT]
 
-![Auf einem Nährboden wurde eine Bakterienkultur angelegt. Jedes der sechs runden Blättchen enthält ein Antibiotikum. Man kann sehen dass in der Umgebung der Blättchen keine Bakterien wachsen.](/Bilder/Gabriel-Christine-CCCA/staph-aureus.*)
+![Auf einem Nährboden wurde eine Bakterienkultur angelegt. Jedes der sechs runden Blättchen enthält ein Antibiotikum. Man kann sehen dass in der Umgebung der Blättchen keine Bakterien wachsen.](../../../Submodules/3134-medical-picture-collection/Gabriel-Christine/staph-aureus.jpg)
 
-![Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen, d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim. Er ist *multiresistent*.](/Bilder/Gabriel-Christine-CCCA/staph-aureus-mrsa.*)
+![Diese Bakterien ignorieren 4 von 6 Antibiotika-Blättchen, d. h. die entsprechenden Antibiotika wirken nicht gegen diesen Keim. Er ist *multiresistent*.](../../../Submodules/3134-medical-picture-collection/Gabriel-Christine/staph-aureus-mrsa.jpg)
 
-![Folge einer infizierten, nicht abheilenden Wunde: Eine Amputation des Unterschenkels.](/Bilder/Gabriel-Christine-CCCA/amputat-us1.*)
+![Folge einer infizierten, nicht abheilenden Wunde: Eine Amputation des Unterschenkels.](../../../Submodules/3134-medical-picture-collection/Gabriel-Christine/amputat-us1.jpg)
 
 :::
 

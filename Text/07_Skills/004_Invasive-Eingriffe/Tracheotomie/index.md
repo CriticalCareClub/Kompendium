@@ -35,9 +35,9 @@ Bei der **perkutanen Dilatationstracheotomie** (**PDT**) wird der Zugang nicht c
 
 Perkutane Dilatationstracheotomie: Relevante Anatomie
 
-![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../../../Bilder/PD/Larynx-Anatomie.jpeg)
+![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../../../../Submodules/3134-medical-picture-collection/PD/Larynx-Anatomie.jpeg)
 
-![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../../Bilder/unrestricted/Traqueostomia.png)
+![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../../../Submodules/3134-medical-picture-collection/unrestricted/Traqueostomia.png)
 
 :::
 

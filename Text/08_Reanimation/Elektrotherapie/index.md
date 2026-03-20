@@ -109,7 +109,7 @@ Automatische implantierbare Defibrillatoren
 Grundsätzlich kann eine Reanimation auch beim ALS mittels AED durchgeführt werden. Es empfiehlt sich jedoch, sofern möglich, in den manuellen Modus zu wechseln, wenn geeignetes Personal zur Verfügung steht.
 Dadurch kann die Analysezeit drastisch reduziert werden und auf außerplanmäßige Situation flexibler reagiert werden (Intubation, …).
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-00943pt.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Corpuls_32863_cropped.001341px.jpg
 :width: 100%
 
 Multifunktionsmonitor mit integriertem Defibrillator (Corpuls³ ™)

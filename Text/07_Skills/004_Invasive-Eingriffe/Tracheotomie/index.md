@@ -191,13 +191,13 @@ Mittels Fiberoptik (Bronchoskop) in der Trachea während der Punktion wird siche
 
 Durchführung einer Dilatationstracheotomie am beatmeten Patienten 1
 
-![Lagerung](../../../Bilder/KS/Punktionstracheotomie-110.001341px.jpg)
+![Lagerung](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-110.001341px.jpg)
 
-![Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.](../../../Bilder/KS/Punktionstracheotomie-010.jpg)
+![Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-010.jpg)
 
-![Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration](../../../Bilder/KS/Punktionstracheotomie-022.001341px.jpg)
+![Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-022.001341px.jpg)
 
-![Sicht im Bronchoskpop: Punktion der Trachea](../../../Bilder/KS/Punktionstracheotomie-023.jpg)
+![Sicht im Bronchoskpop: Punktion der Trachea](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-023.jpg)
 
 :::
 
@@ -209,13 +209,13 @@ Durchführung einer Dilatationstracheotomie am beatmeten Patienten 1
 
 Durchführung einer Dilatationstracheotomie 2
 
-![Einfädeln des Führungsdrahtes](../../../Bilder/KS/Punktionstracheotomie-040.001341px.jpg)
+![Einfädeln des Führungsdrahtes](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-040.001341px.jpg)
 
-![Dilatator](../../../Bilder/KS/Punktionstracheotomie-030.001341px.jpg)
+![Dilatator](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-030.001341px.jpg)
 
-![2. Dilatator](../../../Bilder/KS/Punktionstracheotomie-060.001341px.jpg)
+![2. Dilatator](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-060.001341px.jpg)
 
-![Dilatator mit Führungsmandrin](../../../Bilder/KS/Punktionstracheotomie-070.001341px.jpg)
+![Dilatator mit Führungsmandrin](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-070.001341px.jpg)
 
 :::
 
@@ -227,13 +227,13 @@ Durchführung einer Dilatationstracheotomie 2
 
 Durchführung einer Dilatationstracheotomie 3
 
-![Einführen der Kanüle mit Dilatator.](../../../Bilder/KS/Punktionstracheotomie-080.001341px.jpg)
+![Einführen der Kanüle mit Dilatator.](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-080.001341px.jpg)
 
-![Kanüle in situ](../../../Bilder/KS/Punktionstracheotomie-100.001341px.jpg)
+![Kanüle in situ](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-100.001341px.jpg)
 
-![Kanülendilatator wird entfernt](../../../Bilder/KS/Punktionstracheotomie-090.001341px.jpg)
+![Kanülendilatator wird entfernt](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-090.001341px.jpg)
 
-![Einbau eines Ports für das Bronchoskop](../../../Bilder/KS/Punktionstracheotomie-020.001341px.jpg)
+![Einbau eines Ports für das Bronchoskop](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-020.001341px.jpg)
 
 :::
 
@@ -246,14 +246,14 @@ Durchführung einer Dilatationstracheotomie 3
 
 Durchführung einer Dilatationstracheotomie 4
 
-![Einführen des Bronchoskops](../../../Bilder/KS/Punktionstracheotomie-130.001341px.jpg)
+![Einführen des Bronchoskops](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-130.001341px.jpg)
 
-![Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.](../../../Bilder/KS/Punktionstracheotomie-140.jpg)
+![Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-140.jpg)
 
 :::
 
 <!--
-![](../Bilder/Punktionstracheotomie-Material.001341px.jpg)
+![](../../../../Submodules/3134-medical-picture-collection/KS/Punktionstracheotomie-Material.001341px.jpg)
 
 
 -->

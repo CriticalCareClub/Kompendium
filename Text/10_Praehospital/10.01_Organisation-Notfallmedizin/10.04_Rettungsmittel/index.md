@@ -123,9 +123,9 @@ RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2610_CR2_embedded.001341px.jpg)
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2608.001341px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2608.001341px.jpg)
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_141855.001341px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IMG_141855.001341px.jpg)
 
 ![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172130.001341px.jpg)
 
@@ -196,7 +196,7 @@ Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![NEF der Wiener Berufsrettung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Vienna/IMG_150551.001341px.jpg)
 
-![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_194837.001341px.jpg)
+![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/IMG_194837.001341px.jpg)
 :::
 
 :::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Nef-75-099.001341px.jpg
@@ -286,11 +286,11 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 
 Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![NAH](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Ukk-0002968-2240.001341px.jpg)
+![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-0002968-2240.001341px.jpg)
 
 ![NAH](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Ukk-2017-0003509-2245.001341px.jpg)
 
-![NAH Nacht](../../../Bilder/Gabriel-Sebastian-CCCA/2017-02-05-23-32-47_edited.001341px.jpg)
+![NAH Nacht](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-02-05-23-32-47_edited.001341px.jpg)
 :::
 
 
@@ -359,7 +359,7 @@ Neben den vorgenannten "Standardtypen" werden für die Erfüllung spezieller Anf
 
 Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593.001341px.jpg)
+![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Supervisor/2017-Vienna-2017-0005646-9593.001341px.jpg)
 
 ![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Special/IMG_100306.001341px.jpg)
 

@@ -125,7 +125,7 @@ Daher muss darauf geachtet werden, dass die Spatel mit dem Griff zusammenpassen!
 Bei Kaltlichtsystemen gibt es außerdem unterschiedliche Steckverbindungen!
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902.000800px.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902_crop.000800px.jpg
 :width: 100%
 
 Laryngoskop

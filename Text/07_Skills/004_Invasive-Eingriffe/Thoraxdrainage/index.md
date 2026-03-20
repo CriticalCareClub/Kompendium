@@ -242,9 +242,9 @@ Das CT ist die wohl aufwändigste, teuerste unde strahlenbelastenste Methode, de
 
 Der gleiche Pneumothorax im CP-Röntgen und im CT
 
-![Ein frontal gelegener Pneumothorax ist im ap-Strahlengang nicht zu erkennen, auffällig ist jedoch das ausgeprägte Hautemphysem](../Bilder/Pneumothorax-Hautemphysem-CP.jpg)
+![Ein frontal gelegener Pneumothorax ist im ap-Strahlengang nicht zu erkennen, auffällig ist jedoch das ausgeprägte Hautemphysem](../../../../Submodules/3134-medical-picture-collection/KS/Pneumothorax-Hautemphysem-CP.jpg)
 
-![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../Bilder/Pneumothorax-Hautemphysem-CT.jpg)
+![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../../../../Submodules/3134-medical-picture-collection/KS/Pneumothorax-Hautemphysem-CT.jpg)
 ::: -->
 
 :::{todo} {issue}`129` Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
@@ -394,7 +394,7 @@ Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des 
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Graph/cmH20_001342px.jpeg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/KS/cmH20_001342px.jpeg
 :width: 100%
 
 Physik des Ballermann-Urlaubs, Teil I: Um einen Margarita über 1 Meter anzusaugen, wird ein Sog von -100 cm H₂O benötigt.
@@ -479,13 +479,13 @@ Der Throkar dient nur zur Führung des Drains, keinesfalls zur Punktion!
 
 Anlage einer Thoraxdrainage
 
-![Aufsuchen der Rippe](../../../Bilder/KS/Pleuradrainage-020.001341px.jpg)
+![Aufsuchen der Rippe](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-020.001341px.jpg)
 
-![Stumpfe Präparation](../../../Bilder/KS/Pleuradrainage-030.001341px.jpg)
+![Stumpfe Präparation](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-030.001341px.jpg)
 
-![Einführen der Drainage geschient mittels Trokar](../../../Bilder/KS/Pleuradrainage-050.001341px.jpg)
+![Einführen der Drainage geschient mittels Trokar](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-050.001341px.jpg)
 
-![Faden der U-Naht wird um Drain gewckelt](../../../Bilder/KS/Pleuradrainage-060.001341px.jpg)
+![Faden der U-Naht wird um Drain gewckelt](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-060.001341px.jpg)
 
 :::
 

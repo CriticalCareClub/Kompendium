@@ -84,7 +84,7 @@ Davon leitet sich auch die Bezeichnung {dfn}`etCO₂` ab: Sie steht für den
 Die CO₂-Messung (Kapnometrie) ist ein Standardmonitoringverfahren bei beatmeten Patienten
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_000440.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/IMG_000440.001341px.jpg
 :width: 100%
 
 Kapnographie mittels eines Multifunktionsmonitors (unterste Reihe)

@@ -41,7 +41,7 @@ Beachte dass das Kapnogramm zu den Druck- und Flusskurven zeitverzögert ist (CO
 
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_085352.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/IMG_085352.001341px.jpg
 
 Narkoserespirator mit Spirometrie-Anzeige (GE Aisys™)
 :::

@@ -67,7 +67,7 @@ Jede Druckflasche verfügt über ein **Hauptventil**
 An diesem Gewinde ist entweder ein weiterführender Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/O2_Flasche_32747-crop2.001341px.jpg
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/O2-Flasche_32747_-_crop.001341px.jpg
 :alt: Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
 Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
@@ -287,7 +287,7 @@ Das **Manometer**
 zeigt den Druck in der Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Druckminderer_32917-00943pt.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Druckminderer_32917_cropped.000800px.jpg
 :alt: Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 :width: 50%
 
@@ -322,11 +322,11 @@ Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt werd
 
 Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`ℓ MfG`]
 
-![Sauerstoffbrille](/Bilder/Pallinger-Christoph-CCCA/Anton_32988_v2.000800px.jpg)
+![Sauerstoffbrille](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32988_cropped.000800px.jpg)
 
-![Sauerstoffmaske](/Bilder/Pallinger-Christoph-CCCA/Anton_32987_v2.000800px.jpg)
+![Sauerstoffmaske](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32987_cropped.000800px.jpg)
 
-![Sauerstoffmaske mit Reservoir](/Bilder/Pallinger-Christoph-CCCA/Anton_32986_v2.000800px.jpg)
+![Sauerstoffmaske mit Reservoir](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32986_cropped.000800px.jpg)
 :::
 
 

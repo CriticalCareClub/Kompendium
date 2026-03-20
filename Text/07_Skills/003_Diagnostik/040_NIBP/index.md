@@ -82,7 +82,7 @@ Im Idealfall wird auch noch ein Stethoskop verwendet.
 Ein manuelles Blutdruckmessgerät besteht aus einer Manschette, einem Schlauch, einem Auslassventil, einem Pumpballen und einer Druckanzeige.
 Es gibt Manschetten in unterschiedlichen Größen.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Blutdruck_32768_export_01024.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Blutdruck_32768_cropped.001024.jpg
 
 Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel- und einem Einzelkopfstethoskop
 

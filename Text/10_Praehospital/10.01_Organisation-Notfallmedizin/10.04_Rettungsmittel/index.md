@@ -194,7 +194,7 @@ Notarzt, 1 Notfallsanitäter).
 
 Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_150551.001341px.jpg)
+![NEF der Wiener Berufsrettung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Vienna/IMG_150551.001341px.jpg)
 
 ![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_194837.001341px.jpg)
 :::
@@ -361,11 +361,11 @@ Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593.001341px.jpg)
 
-![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_100306.001341px.jpg)
+![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Special/IMG_100306.001341px.jpg)
 
-![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_191230.001341px.jpg)
+![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/BIT/IMG_191230.001341px.jpg)
 
-![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_220827.001341px.jpg)
+![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Special/IMG_220827.001341px.jpg)
 :::
 
 

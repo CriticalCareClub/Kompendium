@@ -102,11 +102,11 @@ Therapieoptionen:
 
 Willkommen Am Beginn der Massivblutungstherapie \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Die ersten Erythrozytenkonzentrate, FFPs, balancierte Kristalloide Infusionslösungen, ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_113615.001341px.jpg)
+![Die ersten Erythrozytenkonzentrate, FFPs, balancierte Kristalloide Infusionslösungen, ...](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_113615.001341px.jpg)
 
-![... Tranexamsäure, ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_113644.001341px.jpg)
+![... Tranexamsäure, ...](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_113644.001341px.jpg)
 
-![... Fibrinogen (Haemocomplettan™), ...](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_113639.001341px.jpg)
+![... Fibrinogen (Haemocomplettan™), ...](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_113639.001341px.jpg)
 :::
 
 :::{table} Gerinnungsfaktoren: Halbwertszeiten

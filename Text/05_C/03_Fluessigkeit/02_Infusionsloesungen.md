@@ -271,7 +271,7 @@ Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![ELO-MEL isoton, eine isotone balancierte Vollelektrolytlösung mit Azetat](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174406.001341px.jpg)
 
-![Elo-Mel paediatric](../../Bilder/Gabriel-Sebastian-CCCA/IMG_155459.001341px.jpg)
+![Elo-Mel paediatric](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_155459.001341px.jpg)
 
 ![Elo-Mel OP (postoperativ) G](../../Bilder/Gabriel-Sebastian-CCCA/IMG_085349_Detail-EloPostOPG.jpg)
 
@@ -283,7 +283,7 @@ Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Trommcardin K120: Sepzialinfusion zur Kaliumsubstitution](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174442.001341px.jpg)
 
-![Humanalbumin, ein natürliches Kolloid](../../Bilder/Gabriel-Sebastian-CCCA/IMG_113630.001341px.jpg)
+![Humanalbumin, ein natürliches Kolloid](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_113630.001341px.jpg)
 
 :::
 

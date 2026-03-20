@@ -125,7 +125,7 @@ Katecholamine [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Adrenalin ist ein Standardmedikament bei der Reanimation aufgrund seiner positiv inotropen und vasopressorischen Eigenschaften](../../../Bilder/Gabriel-Sebastian-CCCA/Medikamente-LAdrenalin-Sammlung-Live-00943pt.jpg)
 
-![Noradrenalin ist der Vasopressor der Wahl in der Intensivmedizin](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_190512.001341px.jpg)
+![Noradrenalin ist der Vasopressor der Wahl in der Intensivmedizin](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_190512.001341px.jpg)
 :::
 
 

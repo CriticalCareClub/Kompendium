@@ -36,7 +36,7 @@ Notfallsituationen sind eher eine Domäne der {ref}`Koniotomie <Koniotomie>`.
 
 Tracheostoma \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Patient beatmet über ein Tracheostoma](../../Bilder/Gabriel-Sebastian-CCCA/IMG_140940.001341px.jpg)
+![Patient beatmet über ein Tracheostoma](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tracheostomy/IMG_140940.001341px.jpg)
 
 !["Feuchte Nase" für spontanatmende Patienten](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_140949.001341px.jpg)
 :::

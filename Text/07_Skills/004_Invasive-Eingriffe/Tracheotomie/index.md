@@ -154,17 +154,18 @@ Manche Kanülen besitzen:
 Blockbare Trachealkanülen werden bei Beatmung und Aspirationsgefährdung angewendet.
 Bei Spontanatmung und Vorhandensein der notwendigen Schutzreflexe und das störungsfreie Schlucken möglich ist, wird eine ungeblockte Kanüle verwendet. Dabei ist auch die Verwendung einer Metallkanüle möglich, die keinen Cuff und auch keinen Konnektor besitzt, aber gut gereinigt, desinfiziert und bei Bedarf auch sterilisiert werden kann.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_140940.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tracheostomy/IMG_140940.001341px.jpg
 
 Patient mit Trachealkanüle
 :::
 
+
+
+
+
 (gein-kp-diltrach-technik)=
 
 ## Durchführung
-
-Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☐ PJ-Reife / OSCE
 
 Grundsätzlich gibt es viele verschiedene Systeme und die Handhabung im Detail ist produktspezifisch.
 Die Durchführung einer PDT soll daher exemplarisch dargestellt werden.

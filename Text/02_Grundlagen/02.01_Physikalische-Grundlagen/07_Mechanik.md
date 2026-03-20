@@ -80,12 +80,12 @@ Arten von Hebeln:
 :gap: 20px
 
 Bilderserie: Hebel
+![Hebel in technischer Beschreibung \[ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Hebel3.001341px.png)
 
-![Hebel in technischer Beschreibung \[ℓ PD\]](../../Bilder/PD/Hebel3_001341px.png)
-
-![Das 20-fache Gewicht wird bei 20-fachem Hebelarm im Gleichgewicht gehalten \[₢ Wikimedia Commons, User "CR", ℓ CC-BY-SA 3.0\]](../../Bilder/CC-BY-SA-3.0/Palanca-ejemplo.jpg)
+![Das 20-fache Gewicht wird bei 20-fachem Hebelarm im Gleichgewicht gehalten \[₢ Wikimedia Commons, User "CR", ℓ CC-BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Palanca-ejemplo.jpg)
 
 :::
+
 
 :::{rubric} Medizinische Bedeutung
 :::

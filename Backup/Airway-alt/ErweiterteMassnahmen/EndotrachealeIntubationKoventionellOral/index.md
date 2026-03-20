@@ -47,7 +47,7 @@ Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*
        Bei Kaltlichtsystemen gibt es außerdem unterschiedliche
        Steckverbindungen!
 
-       :::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902.000800px.jpg
+       :::{figure} ../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Testlunge_32902.000800px.jpg
        :width: 100%
 
        Laryngoskop

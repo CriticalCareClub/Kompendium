@@ -53,10 +53,15 @@ Die Farbkodierung gibt den Durchmesser des Absaugkatheters an.
 
 Bilderserie: Verschiedene Absaugvorrichtungen [₢ Ch. Pallinger, {term}`ℓ MfG`]
 
-![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)](/Bilder/Pallinger-Christoph-CCCA/Accuvac_32820.000800px.jpg)
+![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Accuvac_32820_crop.000800px.jpg)
 
-![Absaugkatheter zum Einführen in Mund oder Nase](/Bilder/Pallinger-Christoph-CCCA/Absaugkatheter_Set_33082-00441pt.jpg)
+![Absaugkatheter zum Einführen in Mund oder Nase](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Absaugkatheter-Set_33082_cropped.000800px.jpg)
 :::
+
+
+
+
+
 
 ## Absaugtechnik
 

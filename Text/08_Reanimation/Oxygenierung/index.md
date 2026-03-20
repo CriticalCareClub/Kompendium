@@ -141,25 +141,23 @@ Endotracheale Intubation
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-Es sollen immer *alle drei Möglichkeiten* angewendet werden. Es wird jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu ermöglichen. Die Kapnographie ist die verlässlichste Methode zur Lagekontrolle {term}`🗎 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche die CO₂-Abatmung als Kurve darstellen.
-Wenn nach 6 Beatmungen CO₂
-nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren Atemwege zu liegen gekommen ist.
+Es sollen immer *alle drei Möglichkeiten* angewendet werden.
+Es wird jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu ermöglichen.
+Die Kapnographie ist die verlässlichste Methode zur Lagekontrolle {term}`🗎 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche die CO₂-Abatmung als Kurve darstellen.
+Wenn nach 6 Beatmungen CO₂ nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren Atemwege zu liegen gekommen ist.
 Die Kapnographie kann jedoch *keine* Aussage darüber treffen, ob die *Trachea oder nur ein einzelner Bronchus* intubiert wurde.
 
-Die {term}`Kapnographie` ist Voraussetzung für die Durchführung einer endotrachealen Intubation. Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist, sollen alternative Atemwegshilfsmittel zum Einsatz kommen.[^footnote-2]
+Die {term}`Kapnographie` ist Voraussetzung für die Durchführung einer endotrachealen Intubation.
+Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist, sollen alternative Atemwegshilfsmittel zum Einsatz kommen.[^footnote-2]
 
-[^footnote-2]: *"Anyone attempting tracheal intubation must be well trained and
-    equipped with waveform capnography. In the absence of these
-    prerequisites, consider use of bag-mask ventilation and/or an SGA
-    until appropriately experience and equipped personnel are present."*
+[^footnote-2]: *"Anyone attempting tracheal intubation must be well trained and equipped with waveform capnography. In the absence of these prerequisites, consider use of bag-mask ventilation and/or an SGA until appropriately experience and equipped personnel are present."*
     {term}`🗎 ERC 2015 04` .
     Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
     \[Genzwuerker2007\`\]\_ {term}`🗎 Timmermann 2007`  und darin enthaltene
     Referenzen.
 
 :::{attention}
-- Die Kapnographie ist Voraussetzung für die endotracheale
-  Intubation.
+- Die Kapnographie ist Voraussetzung für die endotracheale Intubation.
 :::
 
 :::{figure} /Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*

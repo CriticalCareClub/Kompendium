@@ -214,6 +214,6 @@ Der geneigte Leser möge seine Schlüsse ziehen, ob es eine gute Idee sei, event
 <!--
 ![ELO-MEL paediatric](../../Bilder/Gabriel-Sebastian-CCCA/IMG_155459.001341px.jpg)
 
-![ELO-MEL isoton](../../Bilder/Gabriel-Sebastian-CCCA/IMG_154553.001341px.jpg)
+![ELO-MEL isoton](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_154553.001341px.jpg)
  -->
 

@@ -11,7 +11,7 @@ status: final
 
 # Infusionslösungen
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_174350.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174350.001341px.jpg
 
 Arsenal verschiedener Infusionslösungen
 :::
@@ -269,19 +269,19 @@ Erschwerend kommt hinzu, dass v.a. künstliche Kolloide sehr lange im Extrazellu
 
 Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![ELO-MEL isoton, eine isotone balancierte Vollelektrolytlösung mit Azetat](../../Bilder/Gabriel-Sebastian-CCCA/IMG_174406.001341px.jpg)
+![ELO-MEL isoton, eine isotone balancierte Vollelektrolytlösung mit Azetat](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174406.001341px.jpg)
 
 ![Elo-Mel paediatric](../../Bilder/Gabriel-Sebastian-CCCA/IMG_155459.001341px.jpg)
 
 ![Elo-Mel OP (postoperativ) G](../../Bilder/Gabriel-Sebastian-CCCA/IMG_085349_Detail-EloPostOPG.jpg)
 
-![Glukoselösungen mit unterschiedlicher Glukose-Konzentration (5 %, 10 %, 40 %)](../../Bilder/Gabriel-Sebastian-CCCA/IMG_174505.001341px.jpg)
+![Glukoselösungen mit unterschiedlicher Glukose-Konzentration (5 %, 10 %, 40 %)](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174505.001341px.jpg)
 
-![Physiologische Kochsalzlösung: Trotz des Namens sehr unphysiologisch](../../Bilder/Gabriel-Sebastian-CCCA/IMG_084202.001341px.jpg)
+![Physiologische Kochsalzlösung: Trotz des Namens sehr unphysiologisch](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_084202.001341px.jpg)
 
-![Aqua bidest.: Freies Wasser, nicht als Stand-Alone-Infusionslösung geeignet](../../Bilder/Gabriel-Sebastian-CCCA/IMG_174426.001341px.jpg)
+![Aqua bidest.: Freies Wasser, nicht als Stand-Alone-Infusionslösung geeignet](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174426.001341px.jpg)
 
-![Trommcardin K120: Sepzialinfusion zur Kaliumsubstitution](../../Bilder/Gabriel-Sebastian-CCCA/IMG_174442.001341px.jpg)
+![Trommcardin K120: Sepzialinfusion zur Kaliumsubstitution](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174442.001341px.jpg)
 
 ![Humanalbumin, ein natürliches Kolloid](../../Bilder/Gabriel-Sebastian-CCCA/IMG_113630.001341px.jpg)
 

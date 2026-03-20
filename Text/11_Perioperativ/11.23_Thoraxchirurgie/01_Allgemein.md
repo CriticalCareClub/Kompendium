@@ -335,7 +335,7 @@ Doppellumentubus
 :::
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_133527.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_133527.001341px.jpg
 
 Doppellumentubus
 :::

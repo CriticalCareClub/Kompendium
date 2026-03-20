@@ -171,13 +171,13 @@ Durch die stabile Seitenlage bewegt sich die Zunge auf Grund der Schwerkraft vom
 
 Stabile Seitenlage [₢ CCCA  {term}`ℓ MfG`]
 
-![Zugewandten Arm im 90°-Winkel ausstrecken](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage1b.JPG)
+![Zugewandten Arm im 90°-Winkel ausstrecken](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage1b.jpg)
 
-![abgewandtes Knie fassen, Handgelenk des abgewandten Arm des Patienten wird an Knie angelegt](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage2b.JPG)
+![abgewandtes Knie fassen, Handgelenk des abgewandten Arm des Patienten wird an Knie angelegt](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage2b.jpg)
 
-![Drehung](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage3b.JPG)
+![Drehung](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage3b.jpg)
 
-![Mund öffnen](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage4b.JPG)
+![Mund öffnen](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage4b.jpg)
 
-![Patient in stabiler Seitenlage](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage5b.JPG)
+![Patient in stabiler Seitenlage](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage5b.jpg)
 :::

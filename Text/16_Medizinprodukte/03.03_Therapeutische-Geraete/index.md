@@ -140,7 +140,7 @@ Absaugung
 
 ![Absaugung](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/ADU/GE-S5/IMG_115409.001341px.jpg)
 
-![Absaugung (off)](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_115426.001341px.jpg)
+![Absaugung (off)](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/Equipment/IMG_115426.001341px.jpg)
 
 :::
 

@@ -178,7 +178,7 @@ Verbrennung 3°
 ℓ CC-BY-SA 3.0 unported
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-01.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-01.\*
 :width: 100%
 
 Großflächige Verbrennung
@@ -186,7 +186,7 @@ Großflächige Verbrennung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-02-hand.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-02-hand.\*
 :width: 100%
 
 Ablederung
@@ -194,7 +194,7 @@ Ablederung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-03-escharotomie.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-03-escharotomie.\*
 :width: 100%
 
 Aufgrund der ringförmigen Verbrennung am Thorax zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die Atmung dadurch beeinträchtigt (Verbrennungspanzer).

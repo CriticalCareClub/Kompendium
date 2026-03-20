@@ -7,7 +7,7 @@ status: final
 
 ## Datex Ohmeda und GE
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_115001.001341px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_115001.001341px.\*
 
 GE Monitormodule
 :::
@@ -48,7 +48,7 @@ Datex Ohmeda AS/5 Narkosemaschine
 Datex Ohmeda AS/5: Frontansicht
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_115142.000800px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_115142.000800px.jpg
 
 Datex Ohmeda AS/5: APL-Ventil
 :::
@@ -65,7 +65,7 @@ Datex Ohmeda AS/5: Air vs. Lachgas
 Datex Ohmeda AS/5: integrierter Sevoflurane-Vapor
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_091242.000800px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_091242.000800px.jpg
 
 Datex Ohmeda AS/5: Beatmungskreisteil mit Atemkalk
 :::
@@ -74,7 +74,7 @@ Datex Ohmeda AS/5: Beatmungskreisteil mit Atemkalk
 
 ## GE Aisys
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_114233.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_114233.001341px.jpg
 
 GE Aisys: Frontansicht
 :::

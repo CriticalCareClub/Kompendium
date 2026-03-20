@@ -81,11 +81,11 @@ Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form des Pne
 
 Bilderserie: Spannungspneumothorax [₢ David Hauer, {term}`ℓ MfG`]
 
-![Pneumothorax. Beachte die Randlinie zwischen Lunge (unten, innen) und dem luftgefüllten Pleuraspalt (oben, außen)](/Bilder/Hauer-David-CCCA/pneumothorax_xray_halb.\*)
+![Pneumothorax. Beachte die Randlinie zwischen Lunge (unten, innen) und dem luftgefüllten Pleuraspalt (oben, außen)](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_xray_halb.\*)
 
-![Im Vergleich: Kompletter Pneumothorax der rechten Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.](/Bilder/Hauer-David-CCCA/pneumothorax_xray_endstadium.\*)
+![Im Vergleich: Kompletter Pneumothorax der rechten Seite (auf dem Bild auf der linken Seite). Die Lunge ist kollabiert.](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_xray_endstadium.\*)
 
-![Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich verletzt!**](/Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.\*)
+![Diese unauffällige Stichverletzung hat einen Pneumothorax verursacht. **Dieser Patient ist lebensgefährlich verletzt!**](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_stichverletzung_diskret.\*)
 :::
 
 

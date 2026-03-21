@@ -62,9 +62,9 @@ Intensivbeatmunsgerät Hamilton G5
 In das Dokumentationssystem übermittelte Messwerte
 
 
-![Beatmunsmodus DuoPAP (entspricht BiBAP™)](../../../Bilder/Metavision/MV_Respirator-Messungen-2.png)
+![Beatmunsmodus DuoPAP (entspricht BiBAP™)](../../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_Respirator-Messungen-2.png)
 
-![Beatmungsmodus ASV](../../../Bilder/Metavision/MV_Respirator-Messungen.png)
+![Beatmungsmodus ASV](../../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_Respirator-Messungen.png)
 
 
 :::

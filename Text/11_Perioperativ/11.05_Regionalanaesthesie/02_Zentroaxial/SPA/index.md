@@ -25,6 +25,8 @@ Wirbelsäule mit Punktionskanüle im Querschnitt
 :::
 
 
+:::{todo} FOTOS: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
+
 <!-- :::{subfigure} AB
 :subcaptions: above
 :name: SPA-BS
@@ -33,13 +35,11 @@ Wirbelsäule mit Punktionskanüle im Querschnitt
 
 Spinalanästhesie
 
-![Spinalnadel in situ](SPA-Nadel-in-situ.png)
+![Spinalnadel in situ]()
 
-![Liquor tropft aus der Spinalnadel](SPA-tropft.png)
+![Liquor tropft aus der Spinalnadel]()
 
 ::: -->
-
-:::{todo} {issue}`129` Fotos: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
 :::
 
 ## Indikationen

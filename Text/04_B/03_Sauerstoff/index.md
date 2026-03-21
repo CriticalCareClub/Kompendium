@@ -67,7 +67,7 @@ Jede Druckflasche verfügt über ein **Hauptventil**
 An diesem Gewinde ist entweder ein weiterführender Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/O2-Flasche_32747_-_crop.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/O2-Flasche_32747_crop.001341px.jpg
 :alt: Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
 Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit

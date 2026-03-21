@@ -48,7 +48,7 @@ Zu den typischen **Aufgaben** einer Rettungsdienstleitstelle gehört die *Annahm
 Die Meldungen unterlaufen eine *Einteilung und Priorisierung* nach Art und Dringlichkeit der Meldung.
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/2010-06-25-DIF2010-IMG_2460_v2-quick00800-485.\*
 :width: 50%
 
 Call taker in einer Leitstelle
@@ -369,7 +369,7 @@ TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![TETRA Handfunkgerät](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172313.001341px.jpg)
 
-![TETRA Fahrzeugfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172239_001342px_cropped.jpg)
+![TETRA Fahrzeugfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172239.001341px_cropped.jpg)
 :::
 
 ### Telefon

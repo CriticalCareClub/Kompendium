@@ -131,7 +131,7 @@ Zu beachten ist auch, dass jede Form des Schocks auch zum **Multiorganversagen**
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} ABD_Ileus_IMG_Pathophysiologie-mermaid.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/ABD_Ileus_IMG_Pathophysiologie-mermaid.png
 
 Vereinfachte schematische Pathophysiologie der Ileuskrankheit -- doch komplizierter als gedacht?
 :::

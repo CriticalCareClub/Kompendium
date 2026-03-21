@@ -87,6 +87,9 @@ Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
   - Traumatische Kanülen: z.B. {index}`Quincke-Kanüle`: Seitlicher Schliff, stanzt Loch, Öffnung an der Spitze
 - Introducer (Führungskanüle): Kräftige, kurze Kanüle zur Führung der dünnen Spinalkanüle
 
+
+:::{todo} {issue}`129` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
+
 <!-- :::{subfigure} AB
 :subcaptions: above
 :name: Spinalnadeln
@@ -95,12 +98,11 @@ Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
 
 Spinalnadeln
 
-![Spinalnadeln (links, Mitte) und Introducer (rechts)](SPA-Nadeltypen.png)
+![Spinalnadeln (links, Mitte) und Introducer (rechts)]()
 
-![Schliff: Quincke, Sprotte](SPA-Schliff.png)
+![Schliff: Quincke, Sprotte]()
 :::
  -->
-:::{todo} {issue}`129` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
 :::
 
 :::{note}

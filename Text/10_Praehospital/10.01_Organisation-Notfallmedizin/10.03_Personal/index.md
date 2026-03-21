@@ -269,7 +269,7 @@ Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen
 
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4835-AASS-0112mm.000800px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4835.000800px.jpg
 :width: 100%
 
 Ein Notarzt bei einer endotracheale Intubation

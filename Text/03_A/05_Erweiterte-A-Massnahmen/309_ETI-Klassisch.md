@@ -125,7 +125,7 @@ Daher muss darauf geachtet werden, dass die Spatel mit dem Griff zusammenpassen!
 Bei Kaltlichtsystemen gibt es außerdem unterschiedliche Steckverbindungen!
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902_crop.000800px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Laryngoskop_32902_crop.000800px.jpg
 :width: 100%
 
 Laryngoskop
@@ -274,11 +274,11 @@ Stethoskop
 
 Vorbereitungen zur endotrachealen Intubation [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
-![Zusammenbauen des Laryngoskops](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4829-AASS-0112mm.000800px.jpg)
+![Zusammenbauen des Laryngoskops](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4829.000800px.jpg)
 
-![Einsprühen des Tubus *in der Verpackung*](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4831-AASS-0112mm.000800px.jpg)
+![Einsprühen des Tubus *in der Verpackung*](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4831.000800px.jpg)
 
-![Präoxygenierung](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4834-AASS-0112mm.000800px.jpg)
+![Präoxygenierung](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4834.000800px.jpg)
 ::::
 
 ### Intubation
@@ -384,13 +384,13 @@ NarkEinA -> C -> Weiter;
 
 Endotracheale Intubation in der Praxis [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
-![Zureichen des Laryngoskops (*linke* Hand!)](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4835-AASS-0112mm.000800px.jpg)
+![Zureichen des Laryngoskops (*linke* Hand!)](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4835.000800px.jpg)
 
-![Zureichen des Tubus (*rechte* Hand!)](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837-AASS-0112mm.000800px.jpg)
+![Zureichen des Tubus (*rechte* Hand!)](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837.000800px.jpg)
 
-![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4839-AASS-0112mm.000800px.jpg)
+![Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4839.000800px.jpg)
 
-![Cuffen nach Entfernung des Führungsdrahtes](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4841-AASS-0112mm.000800px.jpg)
+![Cuffen nach Entfernung des Führungsdrahtes](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4841.000800px.jpg)
 ::::
 
 
@@ -526,15 +526,15 @@ Endotracheale Intubation in der Praxis [₢ Michael Motal, Critical Care Club Au
 
 Endotracheale Intubation: Erfolgskontrolle [₢ Michael Motal, Critical Care Club Austria, {term}`ℓ MfG`]
 
-![Stethoskop zureichen](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4843-AASS-0112mm.000800px.jpg)
+![Stethoskop zureichen](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4843.000800px.jpg)
 
-![Abhören des Patienten](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4844-AASS-0112mm.000800px.jpg)
+![Abhören des Patienten](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4844.000800px.jpg)
 
-![Beißkeil (hier: Guedel-Tubus) einführen](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4847-AASS-0112mm.000800px.jpg)
+![Beißkeil (hier: Guedel-Tubus) einführen](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4847.000800px.jpg)
 
-![Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4849-AASS-0112mm.000800px.jpg)
+![Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4849.000800px.jpg)
 
-![Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.](../../Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-01445pt-4.\*)
+![Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Monitor-Beatmungseinstellungen-Live-4.000800px.jpg)
 ::::
 
 

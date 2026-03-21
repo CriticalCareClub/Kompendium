@@ -82,7 +82,7 @@ Rhythmusstörungen können direkt in der Herzkammer (**ventrikulär**) oder ober
 Supraventrikulär wird außerdem zwischen dem Vorhof (*atrial*) und der AV-Überleitung (AV-Knoten, *nodal*; bzw. *akzessorische Leitungsbahnen*) unterschieden.
 Eine noch feinere Unterscheidung ist möglich.
 
-:::{figure} /Bilder/CC-BY-SA-3.0/De-Atrial_ventricular\_(CardioNetworks_ECGpedia).\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/De-Atrial_ventricular_CardioNetworks_ECGpedia.png
 
 Verortung von Herzrhythmusstörungen
 

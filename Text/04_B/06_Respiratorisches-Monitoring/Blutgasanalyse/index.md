@@ -355,7 +355,7 @@ Der Horovitzkoeffizient ist zuletzt 45.
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} ../../../Bilder/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
 
 Patient mit respiratorischer Verschlechterung
 :::

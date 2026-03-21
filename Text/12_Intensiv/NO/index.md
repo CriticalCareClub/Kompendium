@@ -58,7 +58,7 @@ status: final
 
 ### Über Stickstoffmonoxid (NO)
 
-:::{image} Bilder/Stickstoffmonoxid.00320.png
+:::{image} ../../../Submodules/3134-medical-picture-collection/PD/Stickstoffmonoxid.00320.png
 :align: right
 :width: 20%
 :::

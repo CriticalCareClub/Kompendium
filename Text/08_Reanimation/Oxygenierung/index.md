@@ -134,7 +134,7 @@ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die korrekte Lage des T
 2. Auskultation von Magen und Lungenflügel
 3. Messung der CO₂-Abatmung mittels {term}`Kapnographie`
 
-:::{figure} ../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0030mm.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837.000800px.\*
 :align: right
 
 Endotracheale Intubation
@@ -160,7 +160,7 @@ Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist, sollen alternative Ate
 - Die Kapnographie ist Voraussetzung für die endotracheale Intubation.
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Monitor-Beatmungseinstellungen-Live-4.000800px.jpg
 
 CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.
 \[Bild: Sebastian Gabriel\]

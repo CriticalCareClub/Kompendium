@@ -21,7 +21,7 @@ status: final
 # Kompendium des CCCA
 
 ::::{only} html
-:::{image} /Bilder/Gabriel-Sebastian-CCCA/Auge-blur_001342.jpg
+:::{image} ../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Auge-blur.jpg
 :align: center
 :width: 100%
 :::

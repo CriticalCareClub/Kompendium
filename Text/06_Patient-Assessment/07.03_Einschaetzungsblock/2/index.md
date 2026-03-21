@@ -48,7 +48,7 @@ Bilderserie: Ersteindruck [₢ Gabriel, {term}`ℓ MfG`]
 
 ![Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung](/Bilder/Gabriel-Sebastian-CCCA/imgp0722_00500.\*)
 
-![Zyanotische Lippen können schon frühzeitig auffallen.](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
+![Zyanotische Lippen können schon frühzeitig auffallen.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 :::
 
 

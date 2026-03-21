@@ -269,7 +269,7 @@ CPAP/NIV
     notfallmäßige Intubationen müssen vermieden werden
 :::
 
-:::{figure} ATM_COVID-19_AN_AA_000050_V003.000.000_Therapieeskalation.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/COVID-19-Therapieeskalation.\*
 
 Mögliche apparative Therapieeskalation bei akuter respiratorischer Insuffizeinz infolge COVID-19
 

@@ -404,7 +404,7 @@ Die nunmehrige Aufnahme erfolgte mit dem ASB, der wegen zunehmender Verschlechte
 > vidit OA Univ.Doz. Dr. Alois Schremser
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Dokumentation-Patientenausweise-Gestellt-00943pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Dokumentation-Patientenausweise-Gestellt.000800px.\*
 
 Patientenausweise
 

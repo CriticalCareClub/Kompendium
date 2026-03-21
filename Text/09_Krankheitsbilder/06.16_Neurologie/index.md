@@ -316,7 +316,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
   Patient reagiert bei Schmerzreiz nur mit einem ungerichtetem Strecken
   der Extremitäten.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/pupillendifferenz.\*
 
 Anisokorie
 

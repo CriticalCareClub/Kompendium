@@ -6,7 +6,7 @@ status: final
 
 # Blut
 
-:::{figure} /Bilder/CC-BY/Bleeding_finger.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-2.0/Bleeding_finger.\*
 ₢ Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
 :::
 

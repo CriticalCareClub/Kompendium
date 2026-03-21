@@ -47,10 +47,10 @@ Bilderserie: Szeneüberblick
 ![Absperrung (hier deutlich verbesserungswürdig) \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch.*)
 
 ![Warntafel](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Normsymbole/warntafel-un-60-1710.png)
-
-![Spezifische Gefahren erkennen \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.jpg)
-
 :::
+![Spezifische Gefahren erkennen \[₢ Gabriel, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/minen_hinweis_edited.jpg)
+
+
 
 
 ## Typische Maßnahmen

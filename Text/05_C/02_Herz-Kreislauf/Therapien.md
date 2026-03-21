@@ -71,7 +71,7 @@ Folgende Komplikationen können entstehen:
 - weiters kann es zu Organschäden z.B. im Auge (Retinopathie) und in
   der Niere (Einschränkung der Nierenfunktion) kommen.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Blutdruck.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Blutdruck.png
 :name: Fig-EntstehungBehandlungHypertonie
 :width: 100%
 
@@ -94,7 +94,7 @@ Bei der Therapie der Hypertonie nehmen Allgemeinmaßnahmen einen hohen Stellenwe
 Die medikamentöse Therapie wird nach folgenden
 {ref}`Stufenschema <Fig-StufenschemaHypertonie>` eingestellt:
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Hypertonie-Stufenplan.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Hypertonie-Stufenplan.png
 :name: Fig-StufenschemaHypertonie
 :width: 100%
 
@@ -190,7 +190,7 @@ Bradykardien:
 
 Alle pulslosen Störungen sind UNBEDINGT REANIMATIONSBEDÜRFTIG!!!
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Bls.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Bls.png
 :width: 100%
 
 ₢ Lena Hirtler  {term}`ℓ MfG`
@@ -252,7 +252,7 @@ Weiters werden folgende Substanzklassen angewendet:
 - Herzglykoside: Besserung der Hämodynamk
 - β-Blocker: Prognoseverbesserung
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Herzinsuffizienz.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Herzinsuffizienz.png
 :width: 100%
 
 Entstehung und Therapie der Herzinsuffizienz

@@ -17,7 +17,7 @@ Das Rettungskorsett wird primär für das Umlagern von sitzenden Patienten mit d
 Das Rettungskorsett wird (ausser wenn es ausschließlich dazu verwendet wird, den Patienten zur Erleichterung der Rettung mit
 "Haltegriffen" auszustatten) gemeinsam mit einer *HWS-Schiene* verwendet.
 
-:::{figure} /Bilder/PD/KED.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/KED.jpg
 
 Rettungskorsett
 

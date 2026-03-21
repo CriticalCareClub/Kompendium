@@ -139,7 +139,7 @@ V1—V6. Zu den Positionen der Elektroden siehe
 
 (figure-corpuls3)=
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Corpuls_32863-01445pt.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Corpuls_32863_cropped.001341px.jpg
 
 Ein Multifunktionsgerät mit Monitor, nicht-invasiver Blutdruckmessung,
 Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit SAED-Funktion (Corpuls:sup:`3`)
@@ -203,7 +203,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
   -
 :::
 
-:::{figure} /Bilder/PD/ECGcolor_edited.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/ECGcolor_edited.\*
 :width: 70%
 
 Extremitätenableitungen und Brustwandableitungen
@@ -211,7 +211,7 @@ Extremitätenableitungen und Brustwandableitungen
 ₢ WmCo/Madhero88, {term}`ℓ PD`
 :::
 
-:::{figure} /Bilder/PD/12_lead_generated_sinus_rhythm.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_sinus_rhythm.\*
 :width: 100%
 
 10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund

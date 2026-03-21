@@ -91,7 +91,7 @@ Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ
 
 ![Hilfeleistung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/traumacheck1.jpg)
 
-![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
+![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UEKAISERMUEHLENTUNNEL2011-000246.jpg)
 
 
 :::
@@ -222,7 +222,7 @@ Für den Einsatz im organisierten Rettungsdienst sieht das ÄrzteG zwei Ausbildu
 ### Notarzt
 
 <!--
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170602_100605_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Teasers/IMG_100605.001341px.jpg
 :width: 60%
 :align: right
 
@@ -269,7 +269,7 @@ Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen
 
 
 
-:::{figure} ../../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4835.000800px.jpg
 :width: 100%
 
 Ein Notarzt bei einer endotracheale Intubation

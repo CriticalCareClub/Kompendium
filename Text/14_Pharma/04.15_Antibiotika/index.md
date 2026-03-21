@@ -206,7 +206,7 @@ Man muss generell zwei Begriffe unterscheiden:
 
 Meist werden aber Therapeutika aus beiden „Gruppen“ Antibiotika genannt.
 
-:::{figure} Pictures/100000000000163C00000AD54AF77109358530D7.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Antibiotische-Therapie.png
 :width: 100%
 
 Einflüsse auf die Antibiotikabehandlung
@@ -239,7 +239,7 @@ haben:
 - Hemmung der Nucleinsäuresynthese: Gyrasehemmer, Rifampicin,
   Fusidinsäure, Sulfonamide, Trimethoprim, Griseofulvin
 
-:::{figure} Pictures/1000000000001B67000013607592736038D202C7.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Antibiotische-Therapie.001341px.png
 :name: Tab-AngriffspunkteAntibiotika
 :width: 100%
 

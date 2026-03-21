@@ -32,7 +32,7 @@ Perioperative Diagnostik
 : SpO₂ kann falsche Messwerte anzeigen
 
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150401_151607-01341px.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Urethral/IMG_151607.001341px.\*
 Grüner Harn.Nach Einspritzung von blauem Farbstoff zum
 Darstellen der
 Lympfabflussbahn

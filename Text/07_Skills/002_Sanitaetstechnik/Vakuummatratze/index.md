@@ -12,7 +12,7 @@ status: final
 
 Die **Vakuummatratze** dient zur Ruhigstellung des gesamten Körpers bei Verdacht auf mögliche Wirbelsäulenverletzungen, Becken- oder Oberschenkelfrakturen (Oberschenkelhals und Schaft). Ziel ist es, die Matratze an die Körperform der Patienten eng anzupassen und somit Bewegungen effektiv zu verhindern. Vielerorts wird die Immobilisation mittels Vakuummatratze als Mittel der Wahl empfohlen. [^footnote-1]
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Vacuummatratze_32960-AASS-0176mm.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Vacuummatratze_32960_crop.001341px.jpg
 
 Vakuummatratze.
 

@@ -78,7 +78,7 @@ Klinische Einschätzung des Atemwegsrisikos von Außen
 
 ![Thyreomentaler Abstand](../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
 
-![Mallampati-Score \[₢ [Jmarchn](https://commons.wikimedia.org/wiki/User:Jmarchn)  ℓ CC BY-SA 3.0\]](/Bilder/CC-BY-SA-3.0/Mallampati.\*)
+![Mallampati-Score \[₢ [Jmarchn](https://commons.wikimedia.org/wiki/User:Jmarchn)  ℓ CC BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Mallampati.\*)
 :::
 
 :::{todo} {issue}`130` Photo: Thyreomentaler Abstand media/image22.jpeg
@@ -154,9 +154,9 @@ Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von 
 
 Bilderserie: Herausfordernde Atemwege 1
 
-![Raumforderung (Struma) \[₢ Dr. J.S.Bhandari, India, ℓ CC BY-SA 3.0\]](../../Bilder/CC-BY-SA-3.0/Goiter_001024px.jpg)
+![Raumforderung (Struma) \[₢ Dr. J.S.Bhandari, India, ℓ CC BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Goiter_001024px.jpg)
 
-![Tonsillenhypertrophie](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230728_091908_cropped_001342px.jpg)
+![Tonsillenhypertrophie](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_091908_cropped.001341px.jpg)
 :::
 
 
@@ -168,9 +168,9 @@ Bilderserie: Herausfordernde Atemwege 1
 
 Bilderserie: Herausfordernde Atemwege 2
 
-![Fehlbildung (Goldenhar Syndrom) \[₢  Bedi, Mitesh; Jain, Rakesh Kumar; Barala, Vipin Kumar; Singh, Abhimanyu; Jha, Hiranmayi, ℓ CC BY 4.0\]](../../Bilder/CC-BY-4.0/Goldenhar_syndrome-2.jpg)
+![Fehlbildung (Goldenhar Syndrom) \[₢  Bedi, Mitesh; Jain, Rakesh Kumar; Barala, Vipin Kumar; Singh, Abhimanyu; Jha, Hiranmayi, ℓ CC BY 4.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-4.0/Goldenhar_syndrome-2.jpg)
 
-![Makroglossie \[₢ US Government, ℓ PD\]](../../Bilder/PD/Hypoglycemia_Neonatal_Macroglossia_Visceromegaly_and_Omphalocele_1.jpg)
-
+![Makroglossie \[₢ US Government, ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Hypoglycemia_Neonatal_Macroglossia_Visceromegaly_and_Omphalocele_1.jpg)
 :::
+
 

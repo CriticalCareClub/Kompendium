@@ -10,7 +10,7 @@ status: final
 
 # Anamnese: SAMPLER
 
-:::{figure} /Bilder/xkcd/desert_island.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/xkcd/desert_island.\*
 
 Stille Wasser sind tief …
 
@@ -170,34 +170,71 @@ Fragen zu Medikamenten:
 
 
 
-```{eval-rst}
-.. table:: Besonders häufige bzw. wichtige Medikamente
+:::{list-table} Besonders häufige bzw. wichtige Medikamente
+:header-rows: 1
 
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | **(Marken-) Name**           | **(Grund-) Erkrankungen**               | **Anmerkungen**                                                         | **Andere Namen / Generika**                         | **Wirkstoff**                     | **Wirkung**                                                              |
-  +==============================+=========================================+=========================================================================+=====================================================+===================================+==========================================================================+
-  | **Marcoumar®**               | z. B. Herzrhytmusstörungen              | Massiv gesteigerte  *Blutungsneigung*                                   |                                                     |                                   | Blutgerinnung ↓                                                          |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Aspirin®                     | Schmerzen, gripp. Infekte               | Gesteigerte Blutungsneigung,  schädigt Magenschleimhaut                 | unzählige, z. B.: ASS-Genericon,  ASS-Ratiopharm, … | Acetyl-Salicylsäure (ASS)         | Gerinnungshemmend, schmerzhemmend, entzündungshemmend, fiebersenkend     |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Mexalen®                     | Schmerzen, gripp. Infekte               | Lebertoxisch, Vergiftungen   häufig                                     |                                                     | Paracetamol                       | Fiebersenkend, entzündungshemmend,   schmerzhemmend                      |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Digitalis®                   | Herzinsuffizienz, Herzrhythmusstörungen | Über-/Unterdosierungen häufig, kann Herzrhythmusstörungen verursachen   |                                                     |                                   | Herzkraftsteigernd, Herzrhythmus-stabilisierend                          |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Diverse NSAR                 | Schmerzen, gripp. Infekte               | Schädigung der Magenschleimhaut                                         | Diverse                                             | diverse, z. B.: Diclofenac, ASS … | Fiebersenkend,   entzündungshemmend, schmerzhemmend                      |
-  |                              |                                         |                                                                         |                                                     |                                   |                                                                          |
-  | z. B.: Voltaren®, Aspirin® … |                                         |                                                                         |                                                     |                                   |                                                                          |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Insulin                      | Diabetes mellitus                       | Hypoglykämie; Hyperglykämie bei Nichteinnahme                           | Diverse, versch. lang- und kurzwirksame Präparate   | Insulin                           | Blutzucker ↓                                                             |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | ThromboASS®                  | Z.n. Herzinfarkt, Z.n. Insult           | Anamnese!                                                               |                                                     | Acetyl-Salicylsäure (ASS)         | Gerinnungshemmend                                                        |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Plavix®                      | Z.n. Herzinfarkt, Z.n. Insult           | Anamnese!                                                               |                                                     | Clopidogrel                       | Gerinnungshemmend                                                        |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-  | Nitroglycerin®               | Koronare Herzkrankheit                  | Erhältlich u.a. als Spray,   Kapseln und Pflaster                       |                                                     | Nitrolglycerin                    | Erweiterung der Herzkrankgefäße; Achtung: Blutdruck ↓                    |
-  +------------------------------+-----------------------------------------+-------------------------------------------------------------------------+-----------------------------------------------------+-----------------------------------+--------------------------------------------------------------------------+
-
-```
+*   -   (Marken-) Name
+    -   (Grund-) Erkrankungen
+    -   Anmerkungen
+    -   Andere Namen / Generika
+    -   Wirkstoff
+    -   Wirkung
+*   -   **Marcoumar®**
+    -   z. B. Herzrhytmusstörungen
+    -   Massiv gesteigerte *Blutungsneigung*
+    -
+    -
+    -   Blutgerinnung ↓
+*   -   Aspirin®
+    -   Schmerzen, gripp. Infekte
+    -   Gesteigerte Blutungsneigung, schädigt Magenschleimhaut
+    -   unzählige, z. B.: ASS-Genericon, ASS-Ratiopharm, …
+    -   Acetyl-Salicylsäure (ASS)
+    -   Gerinnungshemmend, schmerzhemmend, entzündungshemmend, fiebersenkend
+*   -   Mexalen®
+    -   Schmerzen, gripp. Infekte
+    -   Lebertoxisch, Vergiftungen häufig
+    -
+    -   Paracetamol
+    -   Fiebersenkend, entzündungshemmend, schmerzhemmend
+*   -   Digitalis®
+    -   Herzinsuffizienz, Herzrhythmusstörungen
+    -   Über-/Unterdosierungen häufig, kann Herzrhythmusstörungen verursachen
+    -
+    -
+    -   Herzkraftsteigernd, Herzrhythmus-stabilisierend
+*   -   Diverse NSAR
+        z. B.: Voltaren®, Aspirin® …
+    -   Schmerzen, gripp. Infekte
+    -   Schädigung der Magenschleimhaut
+    -   Diverse
+    -   diverse, z. B.: Diclofenac, ASS …
+    -   Fiebersenkend, entzündungshemmend, schmerzhemmend
+*   -   Insulin
+    -   Diabetes mellitus
+    -   Hypoglykämie; Hyperglykämie bei Nichteinnahme
+    -   Diverse, versch. lang- und kurzwirksame Präparate
+    -   Insulin
+    -   Blutzucker ↓
+*   -   ThromboASS®
+    -   Z. n. Herzinfarkt, Z. n. Insult
+    -   Anamnese!
+    -
+    -   Acetyl-Salicylsäure (ASS)
+    -   Gerinnungshemmend
+*   -   Plavix®
+    -   Z. n. Herzinfarkt, Z. n. Insult
+    -   Anamnese!
+    -
+    -   Clopidogrel
+    -   Gerinnungshemmend
+*   -   Nitroglycerin®
+    -   Koronare Herzkrankheit
+    -   Erhältlich u. a. als Spray, Kapseln und Pflaster
+    -
+    -   Nitrolglycerin
+    -   Erweiterung der Herzkrankgefäße; Achtung: Blutdruck ↓
+:::
 
 Andere ähnliche Präparate, welche die Gerinnung wie Marcoumar beeinflussen, wären z. B.
 Pradaxa™ oder Sintrom™.
@@ -404,7 +441,7 @@ Die nunmehrige Aufnahme erfolgte mit dem ASB, der wegen zunehmender Verschlechte
 > vidit OA Univ.Doz. Dr. Alois Schremser
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Dokumentation-Patientenausweise-Gestellt-00943pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Dokumentation-Patientenausweise-Gestellt.000800px.\*
 
 Patientenausweise
 

@@ -119,7 +119,7 @@ Relevant kann auch die *kontextsensitive Halbwertszeit* sein, welche bei länger
 Die *Elimination* ist substanzspezifisch (hepatisch, renal), etwaige *Organinsuffizienzen* müssen in Betracht gezogen werden.
 
 
-:::{figure} ../../../Bilder/Hirtler-Lena-CCCA/Pharma/10000000000017DB00000D0752D550DF16925D68.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Verteilung-von-Anaesthetika.png
 
 Die i.v.-Anästhetika verteilen sich je nach Durchblutung in den verschiedenen Geweben
 :::

@@ -37,7 +37,7 @@ In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten Abdomens klas
 :::
 ::::
 
-:::{figure} /Bilder/Hauer-David-CCCA/bauchtrauma-offenes-01.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/bauchtrauma-offenes-01.\*
 :align: right
 :width: 50%
 

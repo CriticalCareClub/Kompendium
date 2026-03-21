@@ -189,24 +189,26 @@ Zwischen der normalen Einatem- und Ausatemluft besteht aufgrund des in der Lunge
 und Kohlendioxid-Anteils ein Unterschied: Es wird mehr CO₂ abgeatmet als eingeatmet wurde, dafür ist die O₂-Konzentration bei der Ausatmung aufgrund der Sauerstoffaufnahme des Körpers geringer, siehe auch
 {ref}`Table-luft-gas`.
 
-```{eval-rst}
-.. table:: Gasgehalt in der Raum- und Ausatemluft
-    :name: Table-luft-gas
+:::{list-table} Gasgehalt in der Raum- und Ausatemluft
+:name: Table-luft-gas
+:header-rows: 1
 
-    +----------------+----------------------+-------------------+
-    | **Raumluft**   |                      | **Ausatemluft**   |
-    +================+======================+===================+
-    | *21 %*          | Sauerstoff (O₂)      | *16 %*             |
-    +----------------+----------------------+-------------------+
-    | 77,97 %         | Stickstoff (N)       | 78 %               |
-    +----------------+----------------------+-------------------+
-    | *0,03 %*        | Kohlendioxid (CO₂)   | *4 %*              |
-    +----------------+----------------------+-------------------+
-    | 1 %             | Edelgase             | 1 %                |
-    +----------------+----------------------+-------------------+
-
-
-```
+*   -   Raumluft
+    -
+    -   Ausatemluft
+*   -   *21 %*
+    -   Sauerstoff (O₂)
+    -   *16 %*
+*   -   77,97 %
+    -   Stickstoff (N)
+    -   78 %
+*   -   *0,03 %*
+    -   Kohlendioxid (CO₂)
+    -   *4 %*
+*   -   1 %
+    -   Edelgase
+    -   1 %
+:::
 
 (lungenperfusion)=
 
@@ -327,11 +329,11 @@ Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und Temp
 
 Bilderserie: Atemmechanik [₢ Lena Hirtler, :term:`ℓ MfG`]
 
-![Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.](/Bilder/Hirtler-Lena-CCCA/Thorax-Diaphragma.*)
+![Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thorax-Diaphragma.*)
 
-![Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegung-frontal.*)
+![Bei der Einatmung senkt sich das Zwerchfell und der Brustkorb hebt sich.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegung-frontal.*)
 
-![Die Rippen folgen der Atembewegung.](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.*)
+![Die Rippen folgen der Atembewegung.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
 
 :::
 

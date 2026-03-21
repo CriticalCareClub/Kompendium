@@ -31,7 +31,7 @@ Im Alter von 35 Jahren erkrankte er an einer psychiatrischen Erkrankung die von 
 >   Barcode zur Tafel Schokolade: Niemand kauft eine Packung wegen
 >   des Codes.
 
-:::{figure} /Bilder/PD/van_Gogh_Starry_Night_Over_the_Rhone.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/van_Gogh_Starry_Night_Over_the_Rhone.\*
 
 Vincent van Gogh: Sternennacht über der Rhone
 :::

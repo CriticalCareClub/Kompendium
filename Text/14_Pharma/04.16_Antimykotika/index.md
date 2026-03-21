@@ -135,38 +135,27 @@ Die Einteilung der Malaria erfolgt nach Fieberverlauf:
 
 Folgende Medikamente kommen bei Malaria zum Einsatz:
 
-```{eval-rst}
-+------------+-------------------------+---------------------------+
-| Chinidin   | **Chinidin - Duriles®** | I: schwere Malaria        |
-|            |                         | tropica                   |
-|            |                         |                           |
-|            |                         | NW: gastrointesinal,      |
-|            |                         | Allergie, neurotoxisch,   |
-|            |                         | intravasale Hämolyse,     |
-|            |                         | Hämatopoesestörungen      |
-+------------+-------------------------+---------------------------+
-| Chloroquin | Resochin®               | I: Prophylaxe und         |
-|            |                         | Therapie wenn nicht       |
-|            |                         | bereits Resistenz besteht |
-|            |                         |                           |
-|            |                         | NW: gastrointesinal,      |
-|            |                         | Hautreaktionen,           |
-|            |                         | Keratopathie,             |
-|            |                         | Retinopathie,             |
-|            |                         | neurotoxisch, intravasale |
-|            |                         | Hämolyse,                 |
-|            |                         | Hämatopoesestörungen      |
-+------------+-------------------------+---------------------------+
-| Mefloquin  | Lariam ®                | I: Prophylaxe und         |
-|            |                         | Therapie bei              |
-|            |                         | Chloroquin-Resistenz      |
-|            |                         |                           |
-|            |                         | NW: gastrointesinal,      |
-|            |                         | Hautreaktionen,           |
-|            |                         |                           |
-|            |                         | neurotoxisch              |
-+------------+-------------------------+---------------------------+
-```
+
+:::{list-table}
+:header-rows: 0
+
+*   -   Chinidin
+    -   **Chinidin - Duriles®**
+    -   I: schwere Malaria tropica
+        NW: gastrointesinal, Allergie, neurotoxisch, intravasale Hämolyse, Hämatopoesestörungen
+*   -   Chloroquin
+    -   Resochin®
+    -   I: Prophylaxe und Therapie wenn nicht bereits Resistenz besteht
+        NW: gastrointesinal, Hautreaktionen, Keratopathie, Retinopathie, neurotoxisch, intravasale Hämolyse, Hämatopoesestörungen
+*   -   Mefloquin
+    -   Lariam®
+    -   I: Prophylaxe und Therapie bei Chloroquin-Resistenz
+        NW: gastrointesinal, Hautreaktionen, neurotoxisch
+:::
+
+
+
+
 
 ## Toxoplasmose
 

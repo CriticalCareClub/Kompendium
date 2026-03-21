@@ -11,7 +11,7 @@ Informationen zur manuellen Beatmung an sich finden sich unter
 Zur Beutel-Masken-Beatmung wird eine selbstfüllender Beatmungsbeutel
 zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe verwendet.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741-AASS-0176mm.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741.001341px.jpg
 :alt: "Selbstf\xFCllender Beatmungsbeutel \"Ambu Mark IV\" mit Reservoir, O\u2082-Verbindungsschlauch,\
 :  \ Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil"
 
@@ -71,12 +71,12 @@ Ausführungsschenkel kann ein *PEEP*-Ventil aufgesteckt werden.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Beatmungsmasken  
+Bilderserie: Beatmungsmasken
 \[₢ Ch. Pallinger, {term}`ℓ MfG`\]
 
-![Eine *Beatmungs*maske.](/Bilder/Pallinger-Christoph-CCCA/Beatmungsmaske_32906_v2-AASS-0112mm.jpg)
+![Eine *Beatmungs*maske.](/Bilder/Pallinger-Christoph-CCCA/Beatmungsmaske_32906_v2.000800px.jpg)
 
-![Beatmungsmasken unterschiedlicher Größen: 0, 2, 3/4, 5. Die Farben der Masken haben keine besondere Bedeutung.](/Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg)
+![Beatmungsmasken unterschiedlicher Größen: 0, 2, 3/4, 5. Die Farben der Masken haben keine besondere Bedeutung.](/Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2.000800px.jpg)
 :::
 
 

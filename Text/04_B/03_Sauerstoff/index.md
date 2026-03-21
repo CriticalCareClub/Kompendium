@@ -67,7 +67,7 @@ Jede Druckflasche verfügt über ein **Hauptventil**
 An diesem Gewinde ist entweder ein weiterführender Druckschlauch oder der *Druckminderer* einer *Berieselungseinheit*
 angeschlossen.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/O2_Flasche_32747-crop2-AASS-0176mm.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/O2-Flasche_32747_crop.001341px.jpg
 :alt: Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
 Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
@@ -243,7 +243,7 @@ durchgeführt werden.
 
 ## Verabreichung von Sauerstoff
 
-:::{figure} /Bilder/Motal-Michael-CCCA/o2_4765-00800.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/O2_4765-00800.\*
 :align: right
 :width: 50%
 
@@ -287,7 +287,7 @@ Das **Manometer**
 zeigt den Druck in der Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Druckminderer_32917-00943pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Druckminderer_32917_cropped.000800px.jpg
 :alt: Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 :width: 50%
 
@@ -322,44 +322,54 @@ Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt werd
 
 Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`ℓ MfG`]
 
-![Sauerstoffbrille](/Bilder/Pallinger-Christoph-CCCA/Anton_32988_v2-AASS-0112mm.\*)
+![Sauerstoffbrille](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32988_cropped.000800px.jpg)
 
-![Sauerstoffmaske](/Bilder/Pallinger-Christoph-CCCA/Anton_32987_v2-AASS-0112mm.\*)
+![Sauerstoffmaske](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32987_cropped.000800px.jpg)
 
-![Sauerstoffmaske mit Reservoir](/Bilder/Pallinger-Christoph-CCCA/Anton_32986_v2-AASS-0112mm.\*)
+![Sauerstoffmaske mit Reservoir](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32986_cropped.000800px.jpg)
 :::
 
 
-```{eval-rst}
-.. table::  Verabreichungsarten von Sauerstoff
 
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    |                                   | **Indikation**                          | **Vorteile**                          | **Nachteile**                                             |
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    | **Sauerstoffbrille**              | - Spontanatmung                         | - gute Toleranz                       | - ungenaue Dosierung                                      |
-    |                                   |                                         |                                       |                                                           |
-    |                                   | - O₂-Flow *bis 5L/min*                  | - fehlendes Engegefühl                | - Austrocknung der Schleimhäute                           |
-    |                                   |                                         |                                       |                                                           |
-    |                                   |                                         | - Sprechen & Husten möglich           | - niedriger Flow                                          |
-    |                                   |                                         |                                       |                                                           |
-    |                                   |                                         |                                       | - Nasenatmung Voraussetzung, ungeeignet bei Verlegung     |
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    | **Sauerstoffmaske**               |                                         | - höhere O₂-Konzentration             | - CO₂-Rückatmung wennO₂-Durchfluss < 5 L / min            |
-    |                                   | - SpontanatmungO₂-Flow                  |                                       |                                                           |
-    |                                   |   *ab 5 L / min*                        | - Atemkontrolle erleichtert           | - Abflussbehinderung (Erbrechen, …)                       |
-    |                                   |                                         |   (Beschlagen der Maske, Kapnometrie) |                                                           |
-    |                                   |                                         |                                       | - für Patienten evtl. unangenehm bzw. gewöhnungsbedürftig |
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    | **Sauerstoffmaske mit Reservoir** | - SpontanatmungO₂-Flow ab 5 L / min     | - Wie oben                            | - Wie oben                                                |
-    |                                   |                                         |                                       |                                                           |
-    |                                   |                                         | - noch höhere O₂-Konzentration        | - Reservoir muss zuerst händisch befüllt werden           |
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
-    | **Beatmungsbeutel mit Reservoir** | - Spontanatmung                         | - bis zu 100 % O₂-Konzentration        |                                                           |
-    |                                   |                                         |                                       |                                                           |
-    |                                   | - assitierte und kontrollierte Beatmung | - Berieselung und Beatmung möglich    |                                                           |
-    +-----------------------------------+-----------------------------------------+---------------------------------------+-----------------------------------------------------------+
+:::{list-table} Verabreichungsarten von Sauerstoff
+:header-rows: 1
 
-```
+*   -
+    -   Indikation
+    -   Vorteile
+    -   Nachteile
+*   -   **Sauerstoffbrille**
+    -   - Spontanatmung
+        - O₂-Flow *bis 5 L/min*
+    -   - gute Toleranz
+        - fehlendes Engegefühl
+        - Sprechen & Husten möglich
+    -   - ungenaue Dosierung
+        - Austrocknung der Schleimhäute
+        - niedriger Flow
+        - Nasenatmung Voraussetzung, ungeeignet bei Verlegung
+*   -   **Sauerstoffmaske**
+    -   - Spontanatmung
+        - O₂-Flow *ab 5 L/min*
+    -   - höhere O₂-Konzentration
+        - Atemkontrolle erleichtert (Beschlagen der Maske, Kapnometrie)
+    -   - CO₂-Rückatmung wenn O₂-Durchfluss < 5 L/min
+        - Abflussbehinderung (Erbrechen, …)
+        - für Patienten evtl. unangenehm bzw. gewöhnungsbedürftig
+*   -   **Sauerstoffmaske mit Reservoir**
+    -   - Spontanatmung
+        - O₂-Flow *ab 5 L/min*
+    -   - wie oben
+        - noch höhere O₂-Konzentration
+    -   - wie oben
+        - Reservoir muss zuerst händisch befüllt werden
+*   -   **Beatmungsbeutel mit Reservoir**
+    -   - Spontanatmung
+        - assistierte und kontrollierte Beatmung
+    -   - bis zu 100 % O₂-Konzentration
+        - Berieselung und Beatmung möglich
+    -
+:::
 
 
 

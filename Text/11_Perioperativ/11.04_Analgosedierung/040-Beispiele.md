@@ -28,7 +28,7 @@ Der Patient wird im Verlauf regelmäßig beurteilt und die Dosisrate entsprechen
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} media/Metavision/MV_ICU-Visite-Vorschreibungen.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_ICU-Visite-Vorschreibungen.png
 
 Tägliche Visiten-Vorschreibung
 :::
@@ -49,9 +49,9 @@ Tägliche Visiten-Vorschreibung
 
 Zielvorgaben
 
-![Tägliche Visiten-Vorschreibung: RASS](media/Metavision/MV_ICU-Visite-Vorschreibungen-RASS-Detail.png)
+![Tägliche Visiten-Vorschreibung: RASS](../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_ICU-Visite-Vorschreibungen-RASS-Detail.png)
 
-![Pflegekontrolle: RASS](media/Metavision/MV_RASS-Ziel.png)
+![Pflegekontrolle: RASS](../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_RASS-Ziel.png)
 
 :::
 
@@ -76,7 +76,7 @@ Als -- kritisch zu hinterfragendes, aber einfach verständliches -- Kochrezept k
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} media/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Uebersicht.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Screenshots/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Uebersicht.png
 
 Sedierung initial mit Propofol und Remifenatanil nach akuter Intubation
 :::

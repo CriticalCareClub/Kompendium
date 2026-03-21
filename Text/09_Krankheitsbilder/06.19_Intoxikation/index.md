@@ -237,7 +237,7 @@ Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
 Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit (Alkoholkrankheit) zu unterscheiden.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/dif-w2-zelt-1.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/dif-w2-zelt-1.\*
 :width: 100%
 :::
 
@@ -462,7 +462,7 @@ Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Kramp
 
 Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei unvollständiger Verbrennung (O₂-Zufuhr ↓), dies passiert vor allem bei schlecht gewarteten Gasheizungen und Durchlauferhitzern. CO bindet 300 mal besser an den roten Blutfarbstoff Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit Sauerstoff.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Atemschutz_IMG_2043_00800.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/Atemschutz_IMG_2043.000800px.jpg
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
@@ -514,7 +514,7 @@ Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemei
     ({ref}`m-am-stickgase`)
   - Hyperbare O₂-Therapie in der Druckkammer erwägen
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/2006-01-31-gaswienheute2.\*
 
 CO-Vergiftung in einem Wohnhaus in Wien
 
@@ -647,7 +647,7 @@ Kampfgase übersteigen die Expertise von zivilen Gesundheitseinrichtungen. Daher
 Wichtig ist, auf Selbst- und Fremdschutz zu achten (Absperrmaßnahmen!
 Abstand halten! Wind beachten!), vgl. auch {ref}`gefahrengutunfall`.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/schild-atemschutzmaske-abnehmen.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/schild-atemschutzmaske-abnehmen.\*
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 

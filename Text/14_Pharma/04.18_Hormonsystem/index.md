@@ -57,7 +57,7 @@ Der Hypothalamus selbst bildet noch zwei weitere Hormone, Oxytozin und Adiuretin
 
 ### Hormone der Schilddrüse
 
-:::{figure} media/Pictures/10000000000011BF0000183FE3BBDD1F4BB74E24.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Hypophyse-Schilddruese.png
 :name: Fig-Hhss
 :width: 100%
 
@@ -104,7 +104,7 @@ Glukagon bewirktt als Gegenspieler des Insulin die gegenteilige Wirkung.
 
 Zu wenig Insulin bzw. zu viel Glukagon bedeuten die Erkrankung an Diabetes mellitus. Zu viel Insulin bzw. zu wenig Glukagon begünstigen Hypoglykämien.
 
-:::{figure} media/Pictures/1000000000001A7400000FB63C09E4189E240937.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Insulin-Glukagon.png
 :name: Fig-RegelkreisInsulinGlukagon
 :width: 100%
 
@@ -122,7 +122,7 @@ Die Rinde der Nebenniere ist in drei Zonen eingeteilt, die wiederum jeweils eige
 - Zona fasziculata → Glukokortikoide (Cortison)
 - Zona reticularis → Sexualhormone
 
-:::{figure} media/Pictures/100000000000130E0000187D0147B22225B32EA7.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Hypophyse-Nebennierenrinde.png
 :name: Fig-RegelkreisNebennierenrinde
 :width: 100%
 
@@ -175,7 +175,7 @@ Der {ref}`ovarielle Zykuls <Fig-OvarielleZyklus>` beginnt bei Nichtbefruchtung d
 Zyklustag (variabel). In der Lutealphase (2. Zyklushälfte) transformiert sich die Uterusschleimhaut durch das vom Corpus luteum unter LH-Einfluss abgesonderte Progesteron um eine Einnistung der Eizelle zu ermöglichen.
 Finden Befruchtung und Nidation nicht statt, sinkt die Produktion der Ovarialhormone im sich zurückentwickelnden Corpus luteum. Während der Desquamationsphase (Beginn der 1. Zyklushälfte) kommt es aufgrund des Hormonmangels zur Abstoßung der Uterusschleimhaut und zur Menstruationsblutung.
 
-:::{figure} media/Pictures/10000000000010AF00000BFBF0A3FB3BCA76F89C.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Menstruationszyklus.png
 :name: Fig-OvarielleZyklus
 :width: 100%
 
@@ -323,7 +323,7 @@ Anwendung bei zentralem Diabetes insipidus sowie bei
 Bei Schilddrüsentherapeutika gibt es zwei Gruppen. Die Schilddrüsenhormone, die substituiert werden können, sowie Thyreostatika
 (vgl. {ref}`Thyreotherapeutika <Fig-Thyreotherapeutika>`).
 
-:::{figure} media/Pictures/1000000000000F1700000E6F30E6502F823473CB.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Schilddruesenmetabolismus.png
 :name: Fig-Thyreotherapeutika
 :width: 100%
 
@@ -383,27 +383,16 @@ Kontraindikation: Allergie, Lebererkrankungen, Schwangerschaft.
 
 Insulin hat eine Vielzahl an Wirkungen im Körper:
 
-```{eval-rst}
-+----------------------------------+----------------------------------+
-| Metabolischer Effekt             | Förderung des anabolen           |
-|                                  | Stoffwechsels durch Stimulierung |
-|                                  | der Glykogensynthese in der      |
-|                                  | Leber, der Lipidsynthese im      |
-|                                  | Fettgewebe und der               |
-|                                  | Proteinsynthese im Muskel        |
-+----------------------------------+----------------------------------+
-| Hemmung des katabolen            |                                  |
-| Stoffwechsels durch Hemmung der  |                                  |
-| Glykogenolyse, der               |                                  |
-| Glukoneogenese, der Proteinolyse |                                  |
-| und der Lipolyse                 |                                  |
-+----------------------------------+----------------------------------+
-| Membran-Effekt                   | Förderung des Transports von     |
-|                                  | Glukose in Muskel- und Fettzelle |
-|                                  | sowie von Kalium in Leber-,      |
-|                                  | Muskel- und Fettzellen.          |
-+----------------------------------+----------------------------------+
-```
+:::{list-table}
+:header-rows: 0
+
+*   -   Metabolischer Effekt
+    -   Förderung des anabolen Stoffwechsels durch Stimulierung der Glykogensynthese in der Leber, der Lipidsynthese im Fettgewebe und der Proteinsynthese im Muskel
+*   -   Hemmung des katabolen Stoffwechsels durch Hemmung der Glykogenolyse, der Glukoneogenese, der Proteinolyse und der Lipolyse
+    -
+*   -   Membran-Effekt
+    -   Förderung des Transports von Glukose in Muskel- und Fettzelle sowie von Kalium in Leber-, Muskel- und Fettzellen.
+:::
 
 Bei den Insulinen, die therapeutisch eingesetzt werden, kann man zwischen kurzwirksamen und langwirksamen Insulinen unterscheiden
 (vgl. {ref}`Fig-WirkungskurvenInsuline`).
@@ -426,18 +415,18 @@ Verzögerungsinsuline:
 
 Ideal für Basistherapie, Wirkbeginn nach ca. 45 Minuten bis 2 Stunden, Wirkdauer 10->24 Stunden
 
-```{eval-rst}
-+---------------------+-----------------------------------------------+
-| Intermediärinsuline | Insuman Basal®, Protaphane®, Insulin Novo     |
-|                     | Semilente®, Huminsulin Basal®                 |
-+---------------------+-----------------------------------------------+
-| Langzeitinsuline    | **Ultratard®**                                |
-+---------------------+-----------------------------------------------+
-| Insulin glargin     | **Lantus®**                                   |
-+---------------------+-----------------------------------------------+
-| Insulindetemir      | **Levemir®**                                  |
-+---------------------+-----------------------------------------------+
-```
+:::{list-table}
+:header-rows: 0
+
+*   -   Intermediärinsuline
+    -   Insuman Basal®, Protaphane®, Insulin Novo Semilente®, Huminsulin Basal®
+*   -   Langzeitinsuline
+    -   **Ultratard®**
+*   -   Insulin glargin
+    -   **Lantus®**
+*   -   Insulindetemir
+    -   **Levemir®**
+:::
 
 Kombinationsinsuline:
 
@@ -453,7 +442,7 @@ Kombinationsinsuline Actraphane®, Insuman Comb®, Huminsulin Profil®
 
 Natürlich kommen bei der medikamentösen Gabe von Insulin auch Nebenwirkungen vor. Sie können Hypoglykämien und Gewichtszunahmen sowie allergische Reaktionen verursachen. Ihr Einsatzgebiet sind Diabetes mellitus Typ I und Typ II.
 
-:::{figure} media/Pictures/10000000000016A400000D164AD7898F8FF17900.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Insulinkurven.png
 :name: Fig-WirkungskurvenInsuline
 :width: 100%
 
@@ -814,7 +803,7 @@ Abends:
 - Normalinsulin (Abdeckung des Abendessens)
 - Intermediärinsulin (Abdeckung des Basisbedarfs)
 
-:::{figure} media/Pictures/1000000000001678000007A815B3723F783C4035.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/fixer-Essensrhythmus.png
 :name: Fig-KonventionelleInsulintherapie
 :width: 100%
 
@@ -835,7 +824,7 @@ wird zweimal verabreicht.
   seinen Blutzucker messen und sich selbst die Insulindosis
   verabreichen kann.
 
-:::{figure} media/Pictures/1000000000001833000006876DB4F09A66D11A0A.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/flexibler-Essensrhythmus.png
 :name: Fig-IntensivierteKonventionelleInsulintherapie
 :width: 100%
 
@@ -949,48 +938,39 @@ und/oder gestagenhaltigen Präparaten beruht.
 
 Dabei gibt es mehrere Angriffspunkte:
 
-1. im Hypothalamus: Hemmung der GnRH-Ausschüttung.
-
-2\. im Hypophysenvorderlappen: Hemmung der basalen LH- und FSH-Sekretion, Unterdrückung des LH-Gipfels.
-
-3. im Ovar: Hemmung der Follikelreifung, Störung der Steroidbiosynthese.
-4. in der Tube: Störung des Eitransports.
-5. im Endometrium: Phasenverschiebung (Nidationshemmung)
-
-6\. im Zervixschleim: Mengen- und Qualitätsänderung (Hemmung der Spermienaszension).
+1.  im Hypothalamus: Hemmung der GnRH-Ausschüttung.
+2.  im Hypophysenvorderlappen: Hemmung der basalen LH- und FSH-Sekretion, Unterdrückung des LH-Gipfels.
+3.  im Ovar: Hemmung der Follikelreifung, Störung der Steroidbiosynthese.
+4.  in der Tube: Störung des Eitransports.
+5.  im Endometrium: Phasenverschiebung (Nidationshemmung)
+6.  im Zervixschleim: Mengen- und Qualitätsänderung (Hemmung der Spermienaszension).
 
 Nach der Wirkungsweise unterscheidet man hormonelle Kontrazeption mit
 (durch sog. Ovulationshemmer) und ohne Ovulationshemmung (bei manchen Formen der Minipille).
 
 Formen:
 
-1.Östrogen-Gestagen-Kombinationspräparate: Einnahmemodus: 20 oder 21 Tage orale Einnahme, danach 7 oder 8 Tage Pause (Abbruchblutung)
+1.  Östrogen-Gestagen-Kombinationspräparate: Einnahmemodus: 20 oder 21 Tage orale Einnahme, danach 7 oder 8 Tage Pause (Abbruchblutung)
 
-a)Einphasenpräparate: gleichbleibende Östrogen-Gestagen-Dosis
+    -   Einphasenpräparate: gleichbleibende Östrogen-Gestagen-Dosis
 
-b)Zweistufenpräparate: Steigerung der Gestagendosis in der zweiten Zyklusphase
+    -   Zweistufenpräparate: Steigerung der Gestagendosis in der zweiten Zyklusphase
 
-c)Dreistufenpräparate: Analog zum natürlichen Zyklus wird die
-Östrogendosis in der mittleren Phase vorübergehend erhöht und die Gestagendosis 2-mal gesteigert bzw. 2-mal verändert
+    -   Dreistufenpräparate: Analog zum natürlichen Zyklus wird die Östrogendosis in der mittleren Phase vorübergehend erhöht und die Gestagendosis 2-mal gesteigert bzw. 2-mal verändert
+    -   d)Zweiphasenpräparate: in der ersten Zyklusphase reines Östrogenpräparat, in der zweiten ein Östrogen-Gestagen-Kombinationspräparat in gleichbleibender Dosis
 
-d)Zweiphasenpräparate: in der ersten Zyklusphase reines
-Östrogenpräparat, in der zweiten ein
-Östrogen-Gestagen-Kombinationspräparat in gleichbleibender Dosis
+2.  Minipille: kontinuierliche Zufuhr kleiner Gestagendosen, bei einem Drittel der Frauen tritt weiter eine Ovulation auf
 
-2.Minipille: kontinuierliche Zufuhr kleiner Gestagendosen, bei einem Drittel der Frauen tritt weiter eine Ovulation auf
+3.  transdermale Pflaster (TTS): tägliche Freisetzung von Norelgestromin und Ethinylestradiol über 3 Wochen (1 Pflaster pro Woche), 4. Woche pflasterfrei, es kommt zur Abbruchblutung
 
-3.transdermale Pflaster (TTS): tägliche Freisetzung von Norelgestromin und Ethinylestradiol über 3 Wochen (1 Pflaster pro Woche), 4. Woche pflasterfrei, es kommt zur Abbruchblutung
+4.  Vaginalring: tägliche Freisetzung von Etonogestrel und Ethinylestradiol über 3 Wochen, 4. Woche ringfrei, es kommt zur Abbruchblutung
 
-4.Vaginalring: tägliche Freisetzung von Etonogestrel und Ethinylestradiol über 3 Wochen, 4. Woche ringfrei, es kommt zur Abbruchblutung
+5.  Depotpräparate: Dreimonatsspritze: parenterale Applikation von Gestagenen; Wirkung basiert auf kontinuierliche Resorption aus dem Depot (Medroxyprogesteronacetat) bzw. auf der Speicherung im Fettgewebe aufgrund hoher Lipophilie (Norethisteronenantat)
 
-5.Depotpräparate: Dreimonatsspritze: parenterale Applikation von Gestagenen; Wirkung basiert auf kontinuierliche Resorption aus dem Depot
-(Medroxyprogesteronacetat) bzw. auf der Speicherung im Fettgewebe aufgrund hoher Lipophilie (Norethisteronenantat)
+6.  Implantate: kontinuierliche Freisetzung gestagener Wirkstoffe aus subdermal applizierten Kunststoffträgern; Kontrazeptionsschutz über 3–5 Jahre
 
-6.Implantate: kontinuierliche Freisetzung gestagener Wirkstoffe aus subdermal applizierten Kunststoffträgern; Kontrazeptionsschutz über 3–5 Jahre
-
-7.hormonfreisetzende Intrauterinsysteme (sog. Hormonspirale):
-Intrauterinpessar mit kontinuierlicher Freisetzung eines Gestagens
-(Levonorgestrel).
+7.  hormonfreisetzende Intrauterinsysteme (sog. Hormonspirale):
+    Intrauterinpessar mit kontinuierlicher Freisetzung eines Gestagens (Levonorgestrel).
 
 Vorteile der hormonellen Kontrazeption:
 

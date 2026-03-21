@@ -101,7 +101,7 @@ FA-Prüfung: Gerinnungskaskade aufzeichen!
 
 
 
-:::{figure} ../../../Bilder/CC-BY-SA-4.0/Classical_blood_coagulation_pathway-de_edited_001342px.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Classical_blood_coagulation_pathway-de_edited.001341px.\*
 
 Gerinnungskaskade
 

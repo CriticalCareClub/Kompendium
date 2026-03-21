@@ -39,9 +39,9 @@ Eine besondere Anwendung stellt die vorsichtige Dilatation des Nasenlochs mittel
 
 Nasopharyngealtuben [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
-![Nasopharyngealtuben mit Gleitmittel in unterschiedlichen Größen nach einer fiberoptischen Intubation.](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171122_091000_001342px.jpg)
+![Nasopharyngealtuben mit Gleitmittel in unterschiedlichen Größen nach einer fiberoptischen Intubation.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_091000.001341px.jpg)
 
-![Nasopharyngealtuben werden mitunter auch von spontan atmenden oder wachen Anästhesisten toleriert](../../Bilder/Gabriel-Sebastian-CCCA/IMG_20210305_135857_001342px_cropped.jpg)
+![Nasopharyngealtuben werden mitunter auch von spontan atmenden oder wachen Anästhesisten toleriert](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_135857.000800px.jpg)
 :::
 
 

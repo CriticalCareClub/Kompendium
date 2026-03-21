@@ -295,9 +295,9 @@ Bilderserie: Fremdkörper
 
 ![Fixierung eines penetrierenden Fremdkörpers. \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fremdkoerper-stich-fixierung.\*)
 
-![Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …](/Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-01.\*)
+![Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Wounds/fremdkoerper-stich-messer-01.\*)
 
-![… bis in den Operationssaal.](/Bilder/Gabriel-Sebastian-CCCA/fremdkoerper-stich-messer-02.\*)
+![… bis in den Operationssaal.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Wounds/fremdkoerper-stich-messer-02.\*)
 :::
 
 

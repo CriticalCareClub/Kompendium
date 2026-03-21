@@ -46,9 +46,9 @@ starke Blutungen oder Hinweise auf eine Wirbelsäulenverletzung erkannt werden.
 
 Bilderserie: Ersteindruck [₢ Gabriel, {term}`ℓ MfG`]
 
-![Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung](/Bilder/Gabriel-Sebastian-CCCA/imgp0722_00500.\*)
+![Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/imgp0722.000800px.jpg)
 
-![Zyanotische Lippen können schon frühzeitig auffallen.](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
+![Zyanotische Lippen können schon frühzeitig auffallen.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 :::
 
 

@@ -183,9 +183,9 @@ Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
 
 Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
 
-![Infusionsbesteck](/Bilder/Pallinger-Christoph-CCCA/Infusionsbesteck_33070-00943pt.\*)
+![Infusionsbesteck](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Infusionsbesteck_33070_cropped.000800px.jpg)
 
-![Beispiele für Infusionsbeutel und -flaschen](/Bilder/Pallinger-Christoph-CCCA/Infusionsbeutel_33016-00943pt.\*)
+![Beispiele für Infusionsbeutel und -flaschen](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Infusionsbeutel_33016_cropped.000800px.jpg)
 :::
 
 
@@ -197,11 +197,11 @@ Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
 
 Bilderserie: Infusion [₢Sebastian Gabriel, {term}`ℓ MfG`]
 
-![Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Tropfkammer-Live-00441pt.\*)
+![Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Infusion-Closeup-Tropfkammer-Live.000800px.\*)
 
-![Mit der Radklemme wird die Inf eschwindigkeit reguliert.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-Stellrad-Live-00441pt.\*)
+![Mit der Radklemme wird die Inf eschwindigkeit reguliert.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Infusion-Closeup-Stellrad-Live.000800px.\*)
 
-![Mittels eines 3-Weg-Hahns können weitere Infusionen angeschlossen werden.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-3WegHahn-Live-00441pt.\*)
+![Mittels eines 3-Weg-Hahns können weitere Infusionen angeschlossen werden.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Infusion-Closeup-3WegHahn-Live.000800px.\*)
 
-![Schlussendlich wird die Infusion an einem Zugang zum Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.](/Bilder/Gabriel-Sebastian-CCCA/Infusion-Closeup-AnschlussVenflon-Live-00441pt.\*)
+![Schlussendlich wird die Infusion an einem Zugang zum Patienten angeschlossen, hier an einer peripheren Venenverweilkanüle.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Infusion-Closeup-AnschlussVenflon-Live.000800px.\*)
 :::

@@ -153,7 +153,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 
 
-:::{figure} /Bilder/PD/Verbrennung1-00441pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Verbrennung1.000800px.\*
 :width: 100%
 
 Verbrennung 1°
@@ -161,7 +161,7 @@ Verbrennung 1°
 ₢ Trent Easton; de.wikipedia  ℓ  PD
 :::
 
-:::{figure} /Bilder/CC-BY-SA/VerbrennungGrad2a-00441pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/VerbrennungGrad2a.000800px.jpg
 :width: 100%
 
 Verbrennung 2°
@@ -169,7 +169,7 @@ Verbrennung 2°
 ₢ Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
 :::
 
-:::{figure} /Bilder/CC-BY-SA/Verbrennung_3gradig01.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Verbrennung_3gradig01.jpg
 :width: 100%
 
 Verbrennung 3°
@@ -178,7 +178,7 @@ Verbrennung 3°
 ℓ CC-BY-SA 3.0 unported
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-01.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-01.jpg
 :width: 100%
 
 Großflächige Verbrennung
@@ -186,7 +186,7 @@ Großflächige Verbrennung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-02-hand.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-02-hand.jpg
 :width: 100%
 
 Ablederung
@@ -194,7 +194,7 @@ Ablederung
 ₢ David Hauer {term}`ℓ MfG`
 :::
 
-:::{figure} /Bilder/Hauer-David-CCCA/combustio-sa-03-escharotomie.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-03-escharotomie.jpg
 :width: 100%
 
 Aufgrund der ringförmigen Verbrennung am Thorax zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die Atmung dadurch beeinträchtigt (Verbrennungspanzer).
@@ -368,7 +368,7 @@ Das volle Ausmaß wird oft erst nach Stunden erreicht!
 Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 {ref}`veraetzung-intoxikation`, besprochen.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/notbrause2.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/notbrause2.\*
 :align: right
 :width: 50%
 
@@ -438,7 +438,7 @@ Eine Besonderheit stellt jedoch der verantwortliche Stoff dar, mit welchem u.U. 
 
 Sofortmaßnahmen:
 - Kühlung mit Wasser (15°) nur bis
-\< 10-15 % KOF (sonst Unterkühlung mitVasokonstr.)
+\< 10-15 % KOF (sonst Unterkühlung mit Vasokonstr.)
 - Vorsichtig Vasopressoren: Vasokonstriktion = schlechtere periphere Durchblutung  =
 Nachbrennen.
 - Sauerstoff, großzügige Schutzintubation, Schmerztherapie, rascher Transfer ins Zentrum für Brandverletzungen nach Traumacheck

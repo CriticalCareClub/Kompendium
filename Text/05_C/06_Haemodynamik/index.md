@@ -334,7 +334,7 @@ Betrachtet man die therapeutischen Optionen so stellen sich in der klinischen Ro
 
 In Summe also sehr viele Fragezeichen …
 
-:::{image} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170604_225310_edited_001024px.jpg
+:::{image} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_225310_edited.001341px.jpg
 :alt: Kann ich Sachen messen, die mir Antworten auf meine Fragen geben?
 :width: 100%
 :::

@@ -21,7 +21,7 @@ status: final
 # Kompendium des CCCA
 
 ::::{only} html
-:::{image} /Bilder/Gabriel-Sebastian-CCCA/Auge-blur_001342.jpg
+:::{image} ../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Auge-blur.jpg
 :align: center
 :width: 100%
 :::
@@ -46,7 +46,7 @@ status: final
 
 
 :::::{only} html
-:::{image} /Bilder/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+:::{image} ../Submodules/3134-medical-picture-collection/Logos/Ccca-LogoBar-4-c-LongerBar.svg
 :align: center
 :width: 100%
 :::

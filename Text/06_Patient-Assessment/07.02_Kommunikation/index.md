@@ -114,7 +114,7 @@ Diese Störung kann auftreten:
 Ein gutes Beispiel einer Störung der Kommunikation ist das "Stille-Post"-Spiel, bei welchem am Ende der Übertragungskette die ursprüngliche Nachricht zumeist völlig entstellt ist.
 Um deratige Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfänger eine Kontroll- bzw. *Rückmeldung* an den Sender gibt, um zu kontrollieren, ob und wie er die Botschaft verstanden hat.
 
-:::{figure} /Bilder/CC-BY-SA/Sender-Empfaenger-Modell-edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Sender-Empfaenger-Modell-edited.\*
 
 Das Sender-Empfänger-Modell
 
@@ -170,7 +170,7 @@ Als klassisches Beispiel ist die "Ampelsituation" bekannt:
 > | *Appellaussage*     | Fahr los!                                          | Er will dass ich ihm das Steuer überlasse. |
 > | *Selbstoffenbarung* | Ich habe es eilig.                                 | Er will mich bevormunden.                  |
 
-:::{figure} /Bilder/CC-BY-SA/SchulzVonThunVierOhrenModell-edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/SchulzVonThunVierOhrenModell-edited.\*
 
 Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von Thun {term}`🗎 Thun 1981`
 

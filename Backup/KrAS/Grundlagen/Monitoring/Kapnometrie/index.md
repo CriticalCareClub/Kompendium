@@ -8,7 +8,7 @@ Einfluss auf das etCO₂ haben:
 > - die pulmonale Ventilation
 > - die Diffusion
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20160626_000440-01341px.jpg
+:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_000440.001341px.jpg
 :align: right
 :width: 240px
 

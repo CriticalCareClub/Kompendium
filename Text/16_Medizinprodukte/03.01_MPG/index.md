@@ -26,26 +26,36 @@ Gegenstände und Stoffe, die dazu bestimmt sind, zusammen mit einem Medizinprodu
 
 Es gibt tausende verschiedene Produkte, i.d.R. haben sie alle eine *CE-Kennzeichnung*. Diese zeigt an, dass das Produkt gewissen Minimalanforderungen entspricht.
 
-:::{figure} /Bilder/Logos/Ce-logo.jpg
+
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Logos/Ce-logo.jpg
 
 Das CE-Kennzeichen
 :::
 
-```{eval-rst}
-.. table:: MPG-Risikoklassen
 
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-    | **Klasse**     | **Beschreibung**                                                                   | **Beispiele**                                                                                                                             |
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Klasse I*     | Kein oder geringes Anwendungsrisiko                                                | z. B: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer   |
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Klasse IIa*   | Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung                  | z. B: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckermessstreifen, Trachealtuben, Dauerkatheter                     |
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Klasse IIb*   | Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung         | z. B: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte                                                           |
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Klasse III*   | Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung   | z. B: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten                                     |
-    +----------------+------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-```
+:::{list-table} MPG-Risikoklassen
+:header-rows: 1
+
+*   -   Klasse
+    -   Beschreibung
+    -   Beispiele
+*   -   *Klasse I*
+    -   Kein oder geringes Anwendungsrisiko
+    -   z. B.: Verbandsmaterial, Gehhilfe, Rollstuhl, Tragsessel, Sehhilfe, Stethoskop, Trage, Beatmungsbeutel, Fieberthermometer, Druckminderer
+*   -   *Klasse IIa*
+    -   Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
+    -   z. B.: aktive Diagnosegeräte, Absaugeinheit und -katheter, EKG-Kabel, Zuckermessstreifen, Trachealtuben, Dauerkatheter
+*   -   *Klasse IIb*
+    -   Erhöhtes Anwendungsrisiko ohne entsprechender Ausbildung bzw. Unterweisung
+    -   z. B.: Beatmungsgerät, Defibrillator, Pulsoxymeter, Babyinkubator, Röntgengeräte
+*   -   *Klasse III*
+    -   Besonders hohes Anwendungsrisiko ohne entsprechende Ausbildung bzw. Unterweisung
+    -   z. B.: Perfusor, Insulinpumpe, Herzkatheter oder -klappen, Medizinprodukte mit Arzneimittelkomponenten
+:::
+
+
+
+
 
 ## Pflichten gemäß MPG
 

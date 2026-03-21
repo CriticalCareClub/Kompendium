@@ -117,10 +117,10 @@ Zusammen mit anderen Befunden aus den vorangegangenen Schritten des Einschätzun
 
 Bilderserie: D
 
-![Anisokorie (Pupillendifferenz) \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/pupillendifferenz.\*)
+![Anisokorie (Pupillendifferenz) \[₢ Gabriel, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/pupillendifferenz.000800px.jpg)
 
-![Kraftprobe an den Armen \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/neuro2.\*)
+![Kraftprobe an den Armen \[₢ Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro2.000800px.jpg)
 
-![BZ-Messung \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/neuro6.\*)
+![BZ-Messung \[₢ Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.000800px.jpg)
 :::
 

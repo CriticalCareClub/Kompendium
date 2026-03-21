@@ -113,7 +113,7 @@ Das bedeutet, dass eine im Bild dargestellte Kanüle oft *nicht* die Kanülenspi
 Mittels Kippen bzw. Bewegen der Sonde muss immer das Nadelende gesucht werden.
 
 
-:::{figure} Fermoral_nerve_block.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Fermoral_nerve_block.jpg
 
 Femoralisblockade mittels Ultraschall in {external+Ana-2:ref}`Out-of-Plane-Technik <out-of-plane-technique>`
 
@@ -185,7 +185,7 @@ Dieser Austausch von Fasern ähnelt in der schematischen Darstellung dem Gleisbi
 Plexus brachialis im Vergleich zu einem Stellwerk.
 [oben: ₢ Raimond Spekking, {term}`ℓ CC BY-SA 4.0`; unten: ₢ Marshall Strother, {term}`ℓ CC 0`]
 
-![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped_1341px.jpg)
+![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped.001341px.jpg)
 
 ![... der Plexus brachialis im Vergleich geradezu simpel aufgebaut ist und zwei Plexus (einer je Seite) von einer einzelnen Person bedient werden können.](../../../../Submodules/3134-medical-picture-collection/CC-0/Plexus_brachialis_Schema.png)
 :::
@@ -260,7 +260,7 @@ Der **N. musculocutaneus** (Ast des N. cutaneus lateralis) versucht dem Gruppend
 Er muss jedoch ggfs. mitblockiert werden, um den radialen Rand des Unterarms zu betäuben.
 
 
-:::{figure} Axillary_block.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Axillary_block.jpg
 
 Axilläre Blockade [₢ David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY-SA 3.0`]
 :::
@@ -323,7 +323,7 @@ Gleiches gilt auch für eine unbeabsichtigte Peridural- oder hohe Spinalanästhe
 Schwere pulmonale Vorerkrankungen oder eine kontralaterale Phrenikus- oder Rekurrensparese sind Kontraindikationen für eine interskalenäre Blockade!
 :::
 
-:::{figure} Interscalene_block.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Interscalene_block.jpg
 
 Interskalenäre Blockade (ISK)
 
@@ -388,7 +388,7 @@ Er hat sensible und motorische Komponenten, und versorgt sensibel unter anderem 
 Es gibt verschiedene Zugänge zur Punktion des N. ischiadicus.
 
 
-:::{figure} Nervusfemoralis.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Nervusfemoralis.jpg
 
 [₢ Gray's Anatomy of the Human Body (1918), {term}`ℓ PD`]
 :::
@@ -500,7 +500,7 @@ Dosierung
 : Bupivacin 0,1 mg / kg, max. 10 mL
 
 
-:::{figure} Dorsal_penile_nerve_block.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Dorsal_penile_nerve_block.jpg
 
 Peniswurzelblock [₢ [Msales](https://commons.wikimedia.org/w/index.php?title=User:Msales&action=edit&redlink=1), {term}`ℓ CC BY 3.0`]
 :::

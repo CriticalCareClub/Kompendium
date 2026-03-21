@@ -134,35 +134,33 @@ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die korrekte Lage des T
 2. Auskultation von Magen und Lungenflügel
 3. Messung der CO₂-Abatmung mittels {term}`Kapnographie`
 
-:::{figure} ../../Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0030mm.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837.000800px.\*
 :align: right
 
 Endotracheale Intubation
 ₢ Michael Motal  {term}`ℓ MfG`
 :::
 
-Es sollen immer *alle drei Möglichkeiten* angewendet werden. Es wird jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu ermöglichen. Die Kapnographie ist die verlässlichste Methode zur Lagekontrolle {term}`🗎 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche die CO₂-Abatmung als Kurve darstellen.
-Wenn nach 6 Beatmungen CO₂
-nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren Atemwege zu liegen gekommen ist.
+Es sollen immer *alle drei Möglichkeiten* angewendet werden.
+Es wird jedoch zunehmend ein größerer Wert auf die *Kapnographie* gelegt, um die Tubuslage zu kontrollieren, die CPR-Qualität abzuschätzen und eine frühzeitige Erkennung der Rückkehr des spontanen Kreislaufs zu ermöglichen.
+Die Kapnographie ist die verlässlichste Methode zur Lagekontrolle {term}`🗎 Grmec 2002` . Besonders geeignet sind dazu Geräte, welche die CO₂-Abatmung als Kurve darstellen.
+Wenn nach 6 Beatmungen CO₂ nachweisbar ist, kann man davon ausgehen, dass der Tubus in den unteren Atemwege zu liegen gekommen ist.
 Die Kapnographie kann jedoch *keine* Aussage darüber treffen, ob die *Trachea oder nur ein einzelner Bronchus* intubiert wurde.
 
-Die {term}`Kapnographie` ist Voraussetzung für die Durchführung einer endotrachealen Intubation. Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist, sollen alternative Atemwegshilfsmittel zum Einsatz kommen.[^footnote-2]
+Die {term}`Kapnographie` ist Voraussetzung für die Durchführung einer endotrachealen Intubation.
+Wenn kein Kapnograph mit Kurvendarstellung vorhanden ist, sollen alternative Atemwegshilfsmittel zum Einsatz kommen.[^footnote-2]
 
-[^footnote-2]: *"Anyone attempting tracheal intubation must be well trained and
-    equipped with waveform capnography. In the absence of these
-    prerequisites, consider use of bag-mask ventilation and/or an SGA
-    until appropriately experience and equipped personnel are present."*
+[^footnote-2]: *"Anyone attempting tracheal intubation must be well trained and equipped with waveform capnography. In the absence of these prerequisites, consider use of bag-mask ventilation and/or an SGA until appropriately experience and equipped personnel are present."*
     {term}`🗎 ERC 2015 04` .
     Zur Problematik der Verfügbarkeit der Kapnographie siehe auch
     \[Genzwuerker2007\`\]\_ {term}`🗎 Timmermann 2007`  und darin enthaltene
     Referenzen.
 
 :::{attention}
-- Die Kapnographie ist Voraussetzung für die endotracheale
-  Intubation.
+- Die Kapnographie ist Voraussetzung für die endotracheale Intubation.
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Monitor-Beatmungseinstellungen-Live-00943pt-4.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Monitor-Beatmungseinstellungen-Live-4.000800px.jpg
 
 CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der Luftröhre zu bestätigen.
 \[Bild: Sebastian Gabriel\]
@@ -170,7 +168,7 @@ CO₂-Kurve: Die Kapnometrie ist wichtig, um die korrekte Lage des Tubus in der 
 
 ## Supraglottische Atemwegshilfsmittel (Reanimation)
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Laringstubus-32884-00441pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Larynxtubus_32884_cropped.000800px.jpg
 :align: right
 :width: 40%
 
@@ -208,11 +206,11 @@ Der Larynxtubus ist unter {ref}`Larynxtubus` beschrieben.
 
 Bilderserie: Lage von Atemwegshilfsmitteln [₢ Lena Hirtler, {term}`ℓ MfG`]
 
-![Im Vergleich: Lage eines Larynx-Tubus](/Bilder/Hirtler-Lena-CCCA/LageLarynxTubus.\*)
+![Im Vergleich: Lage eines Larynx-Tubus](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageLarynxTubus.\*)
 
-![… und eines endotrachealen Tubus.](/Bilder/Hirtler-Lena-CCCA/LageTubus-color.\*)
+![… und eines endotrachealen Tubus.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageTubus-color.\*)
 
-![Position des Guedel-Tubus im Querschnitt](/Bilder/Hirtler-Lena-CCCA/PositionGuedel-color.\*)
+![Position des Guedel-Tubus im Querschnitt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PositionGuedel-color.\*)
 :::
 
 

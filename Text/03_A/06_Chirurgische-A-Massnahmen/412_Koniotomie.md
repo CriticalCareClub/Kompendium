@@ -16,7 +16,7 @@ status: final
 Eine Koniotomie ist ein Schnitt bzw. Stich durch die Haut und die Cricothyroid-Membran (Ligamentum cricothyroideum, Ligamentum conicum), um dadurch einen Atemwegszugang direkt in die Trachea herzustellen.
 
 
-:::{figure} ../../Bilder/CC-BY-SA-3.0/Cricothyrotomy_edited.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Cricothyrotomy_edited.png
 :name: Cricothyrotomy-edited
 :width: 50%
 
@@ -28,10 +28,20 @@ Anatomie des Larynx. **A**: Zugang für Koniotomie; **B**: Zugang für Tracheoto
 Es handelt sich um ein Notfall-Atemwegsverfahren und wird fast immer als letzter Ausweg durchgeführt, wenn eine endotracheale Intubation bzw. eine anderes alternatives Atemwegsverfahren unmöglich oder kontraindiziert ist (z. B. *Can-not-ventilate-can-not-intubate*-Situationen, schwere Anaphylaxie, …).
 Die Koniotomie ist einfacher und schneller durchzuführen als eine Tracheotomie, ist jedoch nur eine temporäre Möglichkeit eines Atemwegszugangs.
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/PhotosMobileNexus-5-IMG_20141108_155744-SNAPSHOT_001342px.jpg
+:::{todo} FOTO: Nadelkoniotomiesystem "Quicktrach™"
+<!--
+:::{figure}
 
 Nadelkoniotomiesystem "Quicktrach™"
 :::
+ -->
+:::
+
+
+
+
+
+
 
 ## Durchführung
 

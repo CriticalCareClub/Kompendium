@@ -10,7 +10,7 @@ Unter dem Begriff {dfn}`Peripheres Nervensystem`
 {index}` <! Peripheres Nervensystem>` fasst man die Verbindungsnerven zwischen dem ZNS und den Endorganen zusammen.
 :::
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PNSZNS-edited-00254pt.\*
 :width: 70%
 
 Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)
@@ -135,11 +135,11 @@ Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten peripheren 
 
 Bilderserie: PNS  [₢ Lena Hirtler, ℓ MfG]
 
-![Vom Rückenmark (grau) gehen die peripheren Spinalnerven (gelb) ab.](/Bilder/Hirtler-Lena-CCCA/Spinalnerven-edited-00254pt.*)
+![Vom Rückenmark (grau) gehen die peripheren Spinalnerven (gelb) ab.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Spinalnerven-edited-00254pt.*)
 
-![Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere Spinalnerven (gelb); Wirbel (grau) und Bandscheiben (türkis). Beachte dass die Nerven geordnet nach Rückenmarkssegmenten abgehen.](/Bilder/Hirtler-Lena-CCCA/WS_Aufbau.*)
+![Lage in Bezug zur Wirbelsäule: Vom Rückenmark abgehende periphere Spinalnerven (gelb); Wirbel (grau) und Bandscheiben (türkis). Beachte dass die Nerven geordnet nach Rückenmarkssegmenten abgehen.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/WS_Aufbau.*)
 
-![Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)](/Bilder/Hirtler-Lena-CCCA/PNSZNS-edited-00254pt.*)
+![Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/PNSZNS-edited-00254pt.*)
 
 :::
 

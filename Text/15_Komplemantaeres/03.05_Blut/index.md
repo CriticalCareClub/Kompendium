@@ -6,7 +6,7 @@ status: final
 
 # Blut
 
-:::{figure} /Bilder/CC-BY/Bleeding_finger.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-2.0/Bleeding_finger.\*
 ₢ Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
 :::
 
@@ -196,7 +196,7 @@ Es gibt folgende Blutzellen:
 
 - *Thrombozyten (Blutplättchen)*: Lebensdauer ca. 5 bis 10 Tage
 
-:::{figure} /Bilder/PD/Red_White_Blood_cells.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Red_White_Blood_cells.jpg
 
 Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 
@@ -292,7 +292,7 @@ Es nimmt Sauerstoff in der Lunge auf, bringt ihn zu den Zellen und nimmt auf dem
 Ausschlaggebend für die Sauerstoffversorgung ist der *Sauerstoffgehalt* des Blutes.
 Dieser wird wesentlich durch den Gasaustausch, aber auch durch die Aufnahmekapazität des Blutes bestimmt.
 
-:::{figure} ../../Bilder/PD/Heme_b.00500.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Heme_b.00500.png
 :width: 50%
 :align: right
 

@@ -104,7 +104,7 @@ Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den Presswehen ähnlich
 
 Bilderserie: Nabelschnur
 
-![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](/Bilder/PD/Newborn_umbilical_suction-AASS-0030mm.\*)
+![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](/Bilder/PD/Newborn_umbilical_suction.000800px.\*)
 
 ![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](/Bilder/PD/Navelklem.\*)
 
@@ -302,7 +302,7 @@ Geburt
 
 (figure-partus-set)=
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Partus_Set_aufgelegt_33048-01445pt.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Partus-Set-aufgelegt_33048.001341px.jpg
 
 Set für eine Geburt (Partus-Set)Verbandsmaterial, saugstarke Tücher, Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere, Verbandspäckchen
 

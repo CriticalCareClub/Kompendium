@@ -250,7 +250,7 @@ Bei unklaren Situation sind spezielle Tests (z. B. von-Willebrand-Diagnostik, Pl
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} Blutungsanamnese-Entscheidungsbaum.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Blutungsanamnese-Entscheidungsbaum.png
 :width: 100%
 
 Blutungsanamnese Entscheidungsbaum
@@ -439,7 +439,7 @@ Das ROTEM kommt besonders in Situationen mit hohem *Blutungsrisiko* bzw. bestehe
 Das ROTEM ist ein modernes Point-of-Care-Diagnostikverfahren, das die Gerinnung in Echtzeit im Vollblut darstellt und dadurch eine deutlich bessere Aussagekraft für akute Blutungssituationen hat als Standard-Labortests.
 :::
 
-:::{figure} ../../../Bilder/CC-BY-SA-4.0/Thrombelastometrie_ROTEM_001341px.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Thrombelastometrie_ROTEM_001341px.\*
 
 Schematische ROTEM-Kurve
 :::

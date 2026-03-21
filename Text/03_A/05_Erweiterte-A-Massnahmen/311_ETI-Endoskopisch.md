@@ -116,7 +116,7 @@ Idealerweise übernimmt eine dezidierte Person, die mit der FOI praktisch vertra
 11. Bronchoskopische Lagekontrolle des Tubus, Bronchoskop entfernen
 :::
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/IMG_20171122_091000_001342px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_091000.001341px.jpg
 :width: 75%
 
 Mittels unterschiedlich großer Wendl-Tuben kann das Nasenloch schrittweise dilatiert werden

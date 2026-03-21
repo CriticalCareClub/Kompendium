@@ -149,9 +149,9 @@ Umgekehrt ist die O₂-Aufnahme bei einer Azidose reduziert, das bereits aufgeno
 
 Sauerstoffbindungskurve [₢ [Michał Komorniczak](https://commons.wikimedia.org/wiki/User:M.Komorniczak) {term}`ℓ CC BY 3.0`]
 
-![Die Sauerstoffbindungskurve. Bemerke: Die Kurve verläuft S-förmig und flacht bei einem pO₂ von 90 mm Hg deutlich ab: Ab diesem Plateau bilden sich Veränderungen des pO₂ kaum mehr in der Sauerstoffsättigung (SO₂) ab.](/Bilder/CC-BY-SA-3.0/HbA_saturation_edited.*)
+![Die Sauerstoffbindungskurve. Bemerke: Die Kurve verläuft S-förmig und flacht bei einem pO₂ von 90 mm Hg deutlich ab: Ab diesem Plateau bilden sich Veränderungen des pO₂ kaum mehr in der Sauerstoffsättigung (SO₂) ab.](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/HbA_saturation_edited.*)
 
-![Bohr-Effekt:Diverse Einflussfaktoren, insbesonders der pH, haben Auswirkungen auf die Bindungsaffinität des Sauerstoffs an Hämoglobin. Es kommt zu einer Rechts- oder Linksverschiebung.](/Bilder/CC-BY-SA-3.0/Hb-saturation-Bohr-Effect_edited.*)
+![Bohr-Effekt:Diverse Einflussfaktoren, insbesonders der pH, haben Auswirkungen auf die Bindungsaffinität des Sauerstoffs an Hämoglobin. Es kommt zu einer Rechts- oder Linksverschiebung.](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Hb-saturation-Bohr-Effect_edited.*)
 
 :::
 
@@ -339,7 +339,7 @@ Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 4
 :::{todo} {issue}`136` BGA: Bild bearbeiten (FiO₂ rot markieren)
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/IMG_20210331_223832_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ABG/IMG_223832.001341px.jpg
 :width: 100%
 
 BGAs in Serie
@@ -355,7 +355,7 @@ Der Horovitzkoeffizient ist zuletzt 45.
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} ../../../Bilder/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
 
 Patient mit respiratorischer Verschlechterung
 :::

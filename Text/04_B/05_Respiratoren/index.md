@@ -137,6 +137,7 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztli
     Ausdrückliche Ausnahmen können für höher qualifiziertes Personal
     (NKI) bestehen.
 
+
 :::{subfigure} AB|CD
 :subcaptions: below
 :name: Figure-BilderserieBeatmungsgeraete
@@ -145,14 +146,18 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztli
 
 Bilderserie: Beatmungsgeräte
 
-![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32851-00441pt.\*)
+![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[₢ Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-compact_32851_cropped.000800px.jpg)
 
-![Bedienfelder Berieselungseinheit *Modul Oxygen* und Notfallbeatmungsgerät *Medumat™ Standard*\n\n*Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahrzeuges.\n\n*Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung, Beatmungsdruckanzeige, Warnleuchten für Verlegung (\"Stenosis\"), Lösung des Beatmungsschlauches (\"Disconnection\"), niederen Flaschendruck (\"<2.7bar\") und schwache Batterie. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/ger-medumat-standard-bedienfeld.\*)
+![Bedienfelder Berieselungseinheit *Modul Oxygen* und Notfallbeatmungsgerät *Medumat™ Standard*\n\n*Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahrzeuges.\n\n*Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung, Beatmungsdruckanzeige, Warnleuchten für Verlegung (\"Stenosis\"), Lösung des Beatmungsschlauches (\"Disconnection\"), niederen Flaschendruck (\"<2.7bar\") und schwache Batterie. \[₢ Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/ger-medumat-standard-bedienfeld.jpg)
 
-![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Medomat_32857-00943pt.\*)
+![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-Transport_32857_cropped.000800px.jpg)
 
-![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-01341px.jpg)
+![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161824.000800px.jpg)
 :::
+
+
+
+
 
 
 
@@ -174,9 +179,9 @@ Er ermöglicht NIV.
 
 Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161836-00640px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161836.000800px.jpg)
 
-![](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20140402_161824-00640px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161824.000800px.jpg)
 
 :::
 
@@ -201,16 +206,16 @@ Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
 ### TwinStream
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105038-01341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105038.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105053-01341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105053.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105043-01341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105043.001341px.jpg
 :::
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_20150409_105047-01341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Twinstream/IMG_105047.001341px.jpg
 :::
 
 

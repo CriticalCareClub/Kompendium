@@ -33,7 +33,7 @@ An der Osmolarität entscheidet sich, ob eine Infusionslösung *iso-*, *hypo-* o
 Die **Osmolalität** (mit "l") ist keine betrunkene Osmolarität, sondern die molare Konzentration aller osmotisch wirksamer Teile *pro Masseeinheit* (kg) H₂O.
 Das osmotisches Gleichgewicht ist durch Na- und K-Ionen konstant.
 
-:::{figure} ../../Bilder/PD/Osmotische_druk.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Osmotische_druk.png
 
 Osmose und Diffusion: Osmotisch wirksame Teilchen bauen einen Druck (Sog) auf, welcher Wasser durch eine semipermeable Membran anzieht.
 
@@ -56,7 +56,7 @@ Die Steuerung dieser Mechanismen erfolgt über **Osmorezeptoren**, die Veränder
 So wird gewährleistet, dass der Körper auf Schwankungen sowohl im Wasser- als auch im Elektrolythaushalt reagieren kann.
 Für eine ausgeglichene Flüssigkeitsbilanz benötigt der Mensch im Durchschnitt **25–40 mL Flüssigkeit pro Kilogramm Körpergewicht und Tag**, wobei der Bedarf je nach Alter, Aktivität und klinischem Zustand variieren kann.
 
-:::{figure} ../../Bilder/PD/Semipermeable_membrane.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Semipermeable_membrane.\*
 :width: 60%
 
 Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Während kleine Moleküle (Elektrolyte wie Natrium, Kalium etc.), und mit ihnen das Wasser, in dem sie gelöst sind, weitgehend frei durch die Blutgefäßwand diffundieren können, werden Makromoleküle (z.B. Albumin) zurückgehalten und üben einen kolloidosmotischen Druck aus, welches Wasser in das Gefäß zieht.

@@ -82,7 +82,7 @@ https://www.youtube.com/shorts/tVtJAzFjr3k
 - Nervenschäden
 
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
@@ -170,7 +170,7 @@ Dazu wird der Absperrhahn zur Atmosphäre und zum Transducer hin geöffnet und d
 Anschließend wird der Absperrhahn zur Atmosphäre wieder geschlossen.
 
 
-:::{figure} ../Bilder/Gabriel-Sebastian/IMG_20170926_104744_edited.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104744_edited.jpg
 :alt: Bild
 :width: 100%
 

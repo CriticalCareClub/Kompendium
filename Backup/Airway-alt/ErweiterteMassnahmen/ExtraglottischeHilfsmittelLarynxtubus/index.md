@@ -71,11 +71,11 @@ lebensrettenden Sofortmaßnahmen angewendet werden.[^footnote-1]
 
 Bilderserie
 
-![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890_textwidth.\*)
+![Larynxtubus mit Blockerspritze](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32890.001341px.jpg)
 
-![Ein Larynxtubus der ersten Generation mit geblocktem Cuff. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885_textwidth.\*)
+![Ein Larynxtubus der ersten Generation mit geblocktem Cuff. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtubus_32885.001341px.jpg)
 
-![Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025_textwidth.\*)
+![Larynxtuben unterschiedlicher Größen, beachte die Fabrmarkierung. \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](/Bilder/Pallinger-Christoph-CCCA/Larynxtuben_Set_33025.001341px.jpg)
 :::
 
 

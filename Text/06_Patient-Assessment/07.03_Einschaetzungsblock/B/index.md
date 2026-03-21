@@ -78,9 +78,9 @@ Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) of
 
 Bilderserie: Breathing [₢ Sebastian Gabriel  {term}`ℓ MfG`]
 
-![Zyanotische Lippen](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
+![Zyanotische Lippen](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 
-![Patientin mit einem akuten Asthmaanfall: Sie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab, um die Atemhilfsmuskulatur einzusetzen.](/Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.jpg)
+![Patientin mit einem akuten Asthmaanfall: Sie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab, um die Atemhilfsmuskulatur einzusetzen.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/asthma-paramedic.jpg)
 :::
 
 
@@ -179,7 +179,7 @@ Bilderserie: Breathing
 :::
 
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/asthma-paramedic.\*
 :width: 100%
 
 Patientin mit einem akuten Asthmaanfall

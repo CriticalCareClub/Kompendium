@@ -25,6 +25,8 @@ Wirbelsäule mit Punktionskanüle im Querschnitt
 :::
 
 
+:::{todo} FOTOS: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
+
 <!-- :::{subfigure} AB
 :subcaptions: above
 :name: SPA-BS
@@ -33,13 +35,11 @@ Wirbelsäule mit Punktionskanüle im Querschnitt
 
 Spinalanästhesie
 
-![Spinalnadel in situ](SPA-Nadel-in-situ.png)
+![Spinalnadel in situ]()
 
-![Liquor tropft aus der Spinalnadel](SPA-tropft.png)
+![Liquor tropft aus der Spinalnadel]()
 
 ::: -->
-
-:::{todo} {issue}`129` Fotos: Spinalnadel in situ, Liquor tropft aus der Spinalnadel
 :::
 
 ## Indikationen
@@ -87,6 +87,9 @@ Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
   - Traumatische Kanülen: z.B. {index}`Quincke-Kanüle`: Seitlicher Schliff, stanzt Loch, Öffnung an der Spitze
 - Introducer (Führungskanüle): Kräftige, kurze Kanüle zur Führung der dünnen Spinalkanüle
 
+
+:::{todo} {issue}`129` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
+
 <!-- :::{subfigure} AB
 :subcaptions: above
 :name: Spinalnadeln
@@ -95,12 +98,11 @@ Spinalanästhesie: Aufrechte Lagerung mit "Katzenbuckel"
 
 Spinalnadeln
 
-![Spinalnadeln (links, Mitte) und Introducer (rechts)](SPA-Nadeltypen.png)
+![Spinalnadeln (links, Mitte) und Introducer (rechts)]()
 
-![Schliff: Quincke, Sprotte](SPA-Schliff.png)
+![Schliff: Quincke, Sprotte]()
 :::
  -->
-:::{todo} {issue}`129` Fotos: Spinalnadeln (links, Mitte) und Introducer (rechts), Schliff: Quincke, Sprotte
 :::
 
 :::{note}

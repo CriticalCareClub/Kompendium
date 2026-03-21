@@ -215,21 +215,21 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
 
 Bilderserie: Wundarten [₢ David Hauer, :term:`ℓ MfG`]
 
-![Rissquetschwunde vor der Versorgung im Spital](/Bilder/Hauer-David-CCCA/wunde_rqw1.*)
+![Rissquetschwunde vor der Versorgung im Spital](../../../Submodules/3134-medical-picture-collection/Hauer-David/wunde_rqw1.*)
 
-![Rissquetschwunde nach der Versorgung im Spital](/Bilder/Hauer-David-CCCA/wunde_rqw2.*)
+![Rissquetschwunde nach der Versorgung im Spital](../../../Submodules/3134-medical-picture-collection/Hauer-David/wunde_rqw2.*)
 
-![Glatte Wundränder und eigentlich ganz unauffällig: Die Stichwunde.](/Bilder/Hauer-David-CCCA/stichwunde-klein.*)
+![Glatte Wundränder und eigentlich ganz unauffällig: Die Stichwunde.](../../../Submodules/3134-medical-picture-collection/Hauer-David/stichwunde-klein.*)
 
-![Stichverletzung: unauffällig. **Dieser Patient ist lebensgefährlich verletzt!** (Pneumothorax)](/Bilder/Hauer-David-CCCA/pneumothorax_stichverletzung_diskret.*)
+![Stichverletzung: unauffällig. **Dieser Patient ist lebensgefährlich verletzt!** (Pneumothorax)](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_stichverletzung_diskret.*)
 
-![Stichwunde mit eröffneter Brusthöhle.](/Bilder/Hauer-David-CCCA/stichwunde-thorax-tief-01.*)
+![Stichwunde mit eröffneter Brusthöhle.](../../../Submodules/3134-medical-picture-collection/Hauer-David/stichwunde-thorax-tief-01.*)
 
-![Verätzung](/Bilder/Hauer-David-CCCA/burn-chem01.*)
+![Verätzung](../../../Submodules/3134-medical-picture-collection/Hauer-David/burn-chem01.*)
 
-![Verätzung](/Bilder/Hauer-David-CCCA/burn-chem02.*)
+![Verätzung](../../../Submodules/3134-medical-picture-collection/Hauer-David/burn-chem02.*)
 
-![Ablederung nach schwerer Verbrennung](/Bilder/Hauer-David-CCCA/combustio-sa-02-hand.*)
+![Ablederung nach schwerer Verbrennung](../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-02-hand.*)
 
 :::
 
@@ -335,7 +335,7 @@ Der professionelle Helfer muss neben den Erste-Hilfe-Maßnahmen zusätzlich Prio
   Wunde anderweitig steril, aber *nicht* luftdicht
   abgedeckt werden (Ausnahme: Bagatellverletzungen).
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/frische-Wunde-desinfizieren.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/frische-Wunde-desinfizieren.\*
 Desinfektion einer frischen Wunde
 
 \[Lena Hirtler, {term}`ℓ MfG`\]
@@ -477,7 +477,7 @@ Bei Hochrisikopatienten bzw. ausgedehnten Transportstrecken soll unbedingt mit e
     Rahmen des Krankentransports haben sie dennoch eine gewisse
     Berechtigung.
 
-:::{figure} /Bilder/PD/Escarre_Stade_4_detail.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Escarre_Stade_4_detail.\*
 :width: 100%
 
 Dekubitus Grad 4

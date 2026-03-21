@@ -31,7 +31,7 @@ status: draft
 Als **Pulmonalembolie** (Abk. **PE**, Syn. **Lungenembolie**) wird der **Verschluss einer Lungenarterie**, oft durch Einschwemmen eines *Gerinnsels* (*Embolus*), bezeichnet. Der Embolus, der die Lungenarterien verstopft, entsteht normalerweise nicht in den Lungengefäßen selbst, sondern er wird über die Blutbahn angeschwemmt.
 Sehr oft löst sich ein Thrombus bei einer *tiefen Beinvenenthrombose* und schwimmt im Blut bis in die Lunge. Daher gelten die Risikofaktoren der tiefen Beinvenenthrombose (Immobilisation, lange Reisen, …) auch bei der Lungenembolie. Auch bei *Vorhofflimmern* können sich Gerinnsel im rechten Vorhof des Herzens bilden und eine Embolie verursachen. Ebenso können Gerinnungstörungen oder Krebserkrankungen zur Bildung von Blutgerinnseln führen.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Thrombus-Embolie.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thrombus-Embolie.\*
 
 Herkunft des Thrombus
 

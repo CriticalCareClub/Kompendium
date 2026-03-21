@@ -25,7 +25,7 @@ status: final
 % nicht gegeben, so muss eine Basisreanimation (wenn vorhanden mittels
 % AED) durchgeführt werden und weitere Hilfe angefordert werden.
 
-:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.\*
+:::{figure} ../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationAls-2015-3.\*
 
 ALS-Algorithmus
 
@@ -46,7 +46,7 @@ Homepage des Journals Resuscitation: <https://www.resuscitationjournal.com/>
 
 (fig-als)=
 
-:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.\*
+:::{figure} ../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationAls-2015-3.\*
 
 ALS Der ALS-Algorithmus
 

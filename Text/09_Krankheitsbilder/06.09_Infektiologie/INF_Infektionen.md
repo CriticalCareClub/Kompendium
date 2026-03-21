@@ -184,7 +184,7 @@ HIV verursacht das **AIDS** {index}` <! AIDS>` (*Aquired Immune Deficiency Syndr
 
 Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre nach der eigentlichen HIV-Infektion aus.
 
-:::{figure} /Bilder/PD/Niaid-hiv-virion-mod.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Niaid-hiv-virion-mod.\*
 
 Schema eines HI-Virus
 
@@ -326,7 +326,7 @@ Es kommt zu tonischen *Krämpfen der quergestreiften Muskulatur*, oft beginnend 
 Die Fortschritte der Intensivmedizin haben die Behandlungsmöglichkeiten verbessert, trotzdem sterben noch etwa 20—30 % der Tetanuserkrankten.
 Der Wert der Impfung ist daher nach wie vor groß.
 
-:::{figure} /Bilder/PD/6373_lores_tetanus.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/6373_lores_tetanus.\*
 
 Patient mit Tetanus
 

@@ -47,7 +47,7 @@ Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*
        Bei Kaltlichtsystemen gibt es außerdem unterschiedliche
        Steckverbindungen!
 
-       :::{figure} /Bilder/Pallinger-Christoph-CCCA/Testlunge_32902-AASS-0112mm.\*
+       :::{figure} ../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Testlunge_32902.000800px.jpg
        :width: 100%
 
        Laryngoskop
@@ -69,7 +69,7 @@ Bei der {dfn}`endotrachealen Intubation` (**ETI**) wird ein Beatmungsschlauch (*
 
 13. Fixationsmaterial (breite Heftpflaster, Mullbinde)
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.\*
+:::{figure} /Bilder/Pallinger-Christoph-CCCA/Intubation_32939.jpg
 :width: 100%
 
 Zubehör für die endotracheale IntubationAbsaugeinheit mit
@@ -500,7 +500,7 @@ Erfolgskontrolle
 
 (figure-bilderserieintubation-1)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4829-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4829-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Zusammenbauen des Laryngoskops
@@ -508,7 +508,7 @@ Zusammenbauen des Laryngoskops
 
 (figure-bilderserieintubation-2)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4831-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4831-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Einsprühen des Tubus *in der Verpackung*
@@ -516,7 +516,7 @@ Einsprühen des Tubus *in der Verpackung*
 
 (figure-bilderserieintubation-3)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4834-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4834-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Präoxygenierung
@@ -524,7 +524,7 @@ Präoxygenierung
 
 (figure-bilderserieintubation-4)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4835-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Zureichen des Laryngoskops (*linke* Hand!)
@@ -532,7 +532,7 @@ Zureichen des Laryngoskops (*linke* Hand!)
 
 (figure-bilderserieintubation-5)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4837-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Zureichen des Tubus (*rechte* Hand!)
@@ -540,7 +540,7 @@ Zureichen des Tubus (*rechte* Hand!)
 
 (figure-bilderserieintubation-6)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4839-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
@@ -548,7 +548,7 @@ Einführen des Tubus, Assistenz führt auf Anweisung Kehlkopfdruck aus
 
 (figure-bilderserieintubation-7)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4841-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Cuffen nach Entfernung des Führungsdrahtes
@@ -556,7 +556,7 @@ Cuffen nach Entfernung des Führungsdrahtes
 
 (figure-bilderserieintubation-8)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4843-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4843-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Stethoskop zureichen
@@ -564,7 +564,7 @@ Stethoskop zureichen
 
 (figure-bilderserieintubation-9)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4844-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4844-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Abhören des Patienten
@@ -572,7 +572,7 @@ Abhören des Patienten
 
 (figure-bilderserieintubation-10)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4847-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4847-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Beißkeil (hier: Guedel-Tubus) einführen
@@ -580,7 +580,7 @@ Beißkeil (hier: Guedel-Tubus) einführen
 
 (figure-bilderserieintubation-11)=
 
-:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4849-AASS-0112mm.\*
+:::{figure} /Bilder/Motal-Michael-CCCA/Intubation/dsc-4849-AASS-0112mm.000800px.jpg
 :width: 100%
 
 Endgültige Fixierung des Tubus: Bis dahin muss der Tubus manuell fixiert werden!

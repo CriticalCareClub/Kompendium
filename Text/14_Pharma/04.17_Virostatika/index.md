@@ -13,7 +13,7 @@ Während Bakterien und andere Mikroben meistens – ausgenommen die humanpathoge
 Viren weisen eine Größe von nur 20 bis 100 nm auf. Außer der Nukleinsäure enthalten Viren eine Capsid genannte Hülle aus Protein. Das Capsid besteht aus vielen Bausteinen, die sich wie eine Bakteriengeißel selbsttätig zu oft regelmäßigen geometrischen Strukturen anordnen.
 Manchmal sind einige Proteine vorhanden, die zum Teil aus der Wirtszelle stammen. Manche Viren sind in eine Membran gehüllt. Dabei handelt es sich nicht um eine virale Cytoplasma-Membran, sondern um eine Umhüllung, die aus der Cytoplasma-Membran oder Kern-Membran der Wirtszelle stammt, aus der das Virus hervorgegangen ist. Virus-spezifische Proteine können aber in die Membran eingelagert sein.Viren sind also viel einfacher aufgebaut als die einfachsten Zellen.
 
-:::{figure} media/Pictures/1000000000001B6700001360AA02995AF64D7DE3.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Antivirale-Therapie.png
 :width: 100%
 
 Angriffspunkte von Virostatika:

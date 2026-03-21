@@ -27,7 +27,7 @@ Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf mögliche Dia
 
 ## Alarmzeichen ("Red Flags" 🚩): Zeichen einer vitalen Bedrohung
 
-:::{image} /Bilder/Gabriel-Sebastian-CCCA/minen_hinweis2.\*
+:::{image} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/minen_hinweis_edited.jpg
 :align: right
 :width: 23%
 :::

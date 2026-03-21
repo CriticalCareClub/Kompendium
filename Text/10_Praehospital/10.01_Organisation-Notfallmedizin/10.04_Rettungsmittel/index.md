@@ -121,15 +121,15 @@ RTW-C: NKV oder NFS?
 
 RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2610_CR2_embedded_001342px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2610_CR2_embedded.001341px.jpg)
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IJ8A2608_001342px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2608.001341px.jpg)
 
-![RTW der Feuerwehr Hamburg](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161201_141855_001342px.jpg)
+![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IMG_141855.001341px.jpg)
 
-![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172130_001342px.jpg)
+![Niederösterreichischer RTW-C des Roten Kreuz: Patientenraum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172130.001341px.jpg)
 
-![Niederösterreichischer RTW-C: Patientenraum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172145_001342px.jpg)
+![Niederösterreichischer RTW-C: Patientenraum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172145.001341px.jpg)
 :::
 
 
@@ -154,7 +154,7 @@ Der NAW ist  mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifika
 
 Eine Sonderform ist der **Sekundär-NAW** (**S-NAW**), welcher für Transferierungsfahrten von arzt- oder intensivpflichtigen Patienten zum Einsatz kommt.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/PhotosMobileNexus-5-IMG_20170205_183917-SNAPSHOT_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/PhotosMobileNexus-5-IMG_183917-SNAPSHOT.000800px.jpg
 
 Der NAW Krems vor der Umstellung auf ein NEF-System. Das Fahrzeug wurde als RTW weiterverwendet.
 :::
@@ -194,12 +194,12 @@ Notarzt, 1 Notfallsanitäter).
 
 Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![NEF der Wiener Berufsrettung](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170812_150551_001342px.jpg)
+![NEF der Wiener Berufsrettung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Vienna/IMG_150551.001341px.jpg)
 
-![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161203_194837_001342px.jpg)
+![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/IMG_194837.001341px.jpg)
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Nef-75-099_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Nef-75-099_crop.jpg
 
 Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
@@ -212,15 +212,15 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Laderaum](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172004_001342px.jpg)
+![Laderaum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172004.001341px.jpg)
 
-![Auszug mit Patientenmonitor und Absaugeinheit](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172033_001342px.jpg)
+![Auszug mit Patientenmonitor und Absaugeinheit](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172033.001341px.jpg)
 
-![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172116_001342px.jpg)
+![Auszug mit Beatmungsgerät und Thoraxkompressionsgerät "LUCAS™"](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172116.001341px.jpg)
 
-![Kühlbox für Medikamente](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172341_001342px.jpg)
+![Kühlbox für Medikamente](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172341.001341px.jpg)
 
-![Wärmelade für Infusionen](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230729_172400_001342px.jpg)
+![Wärmelade für Infusionen](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172400.001341px.jpg)
 :::
 
 
@@ -286,11 +286,11 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 
 Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![NAH](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Ukk-0002968-2240_001342px.jpg)
+![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-0002968-2240.001341px.jpg)
 
-![NAH](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Ukk-2017-0003509-2245_001342px.jpg)
+![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-2017-0003509-2245.001341px.jpg)
 
-![NAH Nacht](../../../Bilder/Gabriel-Sebastian-CCCA/2017-02-05-23-32-47_edited_001342px.jpg)
+![NAH Nacht](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-02-05-23-32-47_edited.001341px.jpg)
 :::
 
 
@@ -323,27 +323,46 @@ So startete der Verein *Lebensretter* mit einer App für Smartphones, über die 
 Mittels einer Datenbank von öffentlich zugänglichen SAEDs können auch First Responder zum Holen eines Defibrillators parallel disponiert werden.
 Weitere Informationen sind auf der Homepage des Vereins unter  <http://www.lebensretter.at> zu finden.
 
-```{eval-rst}
-.. table:: Übersicht der grundlegenden Einsatzmitteltypen
 
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | Abkz.   | *Name*                 | *Besatzung*          | *Funktion*                      | *Anmerkungen*                                                          |
-    +=========+========================+======================+=================================+========================================================================+
-    | **KTW** | Krankentransportwagen  | 2 RS                 | Krankentransport                | Transport von Patienten, die keine intensiven med. Maßnahmen benötigen |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **RTW** | Rettungstransportwagen | 1 NFS, 1--2 RS       |  Notfallrettung                 | Überstellungen, Versorgung und Transport von Patienten                 |
-    |         |                        |                      |                                 | und Notfallpatienten,                                                  |
-    |         |                        |                      |                                 | Ausstattungsmäßig weitgehend gleichwertig zu einem NAW                 |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
-    |         |                        |                      |                                 | *kein Transport* ("Notarzt-Zubringer")                                 |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+:::{list-table} Übersicht der grundlegenden Einsatzmitteltypen
+:header-rows: 1
 
-```
+*   -   Abkz.
+    -   *Name*
+    -   *Besatzung*
+    -   *Funktion*
+    -   *Anmerkungen*
+*   -   **KTW**
+    -   Krankentransportwagen
+    -   2 RS
+    -   Krankentransport
+    -   Transport von Patienten, die keine intensiven med. Maßnahmen benötigen
+*   -   **RTW**
+    -   Rettungstransportwagen
+    -   1 NFS, 1--2 RS
+    -   Notfallrettung
+    -   Überstellungen, Versorgung und Transport von Patienten und Notfallpatienten,
+        ausstattungsmäßig weitgehend gleichwertig zu einem NAW
+*   -   **NAW**
+    -   Notarztwagen
+    -   1 NA, 1 NFS, 1--2 RS
+    -   Notfallrettung, Überstellungen
+    -   Versorgung und Transport von Notfallpatienten
+*   -   **NEF**
+    -   Notarzteinsatzfahrzeug
+    -   1 NFS, 1 NA
+    -   Notfallrettung, Überstellungen
+    -   Versorgung von erkrankten Notfallpatienten,
+        *kein Transport* ("Notarzt-Zubringer")
+*   -   **NAH**
+    -   Notarzthubschrauber
+    -   1 Pilot, 1 NFS, 1 NA
+    -   Notfallrettung, Überstellungen
+    -   Versorgung und Transport von Notfallpatienten
+        In Deutschland: *RTH*
+:::
+
+
 
 
 
@@ -359,13 +378,13 @@ Neben den vorgenannten "Standardtypen" werden für die Erfüllung spezieller Anf
 
 Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
-![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Vienna-2017-0005646-9593_001342px.jpg)
+![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Supervisor/2017-Vienna-2017-0005646-9593.001341px.jpg)
 
-![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170625_100306_001342px.jpg)
+![Im Vordergrund ein Anhänger mit Material für den Großschadensfall, dahinter Versorgungsfahrzeuge.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Special/IMG_100306.001341px.jpg)
 
-![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170719_191230_001342px.jpg)
+![Bettenintensivtransporter: Dieses Fahrzeug auf LKW-Basis ermöglicht die Transferierung von Patienten in einem Intensivbett und wird auch im Primärrettungsdienst für sehr stark übergewichtige Patienten eingesetzt.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/BIT/IMG_191230.001341px.jpg)
 
-![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20170722_220827_001342px.jpg)
+![Ein ausgedienter RTW, welcher zu einem Simulationsfahrzeug mit Videokameras etc. umgewidmet wurde.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Special/IMG_220827.001341px.jpg)
 :::
 
 

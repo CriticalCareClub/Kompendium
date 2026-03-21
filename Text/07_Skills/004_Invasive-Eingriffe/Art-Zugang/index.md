@@ -153,7 +153,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 
 34. Dokumentation
 
-:::{figure} ../../../Bilder/CC-BY-SA-4.0/Arterial-line-shaded.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Arterial-line-shaded.png
 :alt: Bild
 :width: 75%
 
@@ -162,7 +162,7 @@ Success: Arterielles System in situ an der A. radialis
 ₢ Red Roan {term}`ℓ CC BY-SA 4.0`
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20161212_214900_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::

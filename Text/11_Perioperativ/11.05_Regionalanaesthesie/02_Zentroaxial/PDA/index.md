@@ -23,6 +23,8 @@ Sie kann als Anästhesieverfahren oder auch zur analgetischen Behandlung eingese
 
 
 
+
+
 :::{index} single: Periduralraum
 :::
 :::{index} single: Epiduralraum
@@ -59,8 +61,12 @@ Um den Periduralraum zu punktieren müssen folgende Strukturen durchstochen werd
 
 Der Durasack wird bei der Periduralpunktion *nicht* durchstochen!
 
-:::{todo} {issue}`129` Bilder Anatomie Periduralraum
+
+:::{todo} GRAFIKEN: Anatomie Periduralraum
 :::
+
+
+
 
 
 ## Indikationen
@@ -201,7 +207,7 @@ Empfohlene LA-Dosierung:
 
 ## Punktionstechnik
 
-:::{todo} {issue}`129` Bilder PDA Punktionstechnik
+:::{todo} GRAFIKEN: PDA Punktionstechnik
 :::
 
 Zur Auffindung des Periduralraumes können zwei Techniken angewendet werden:

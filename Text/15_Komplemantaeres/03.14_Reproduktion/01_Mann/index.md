@@ -9,7 +9,7 @@
 - Zu den *äußeren* Geschlechtsorganen des Mannes gehören: Glied
   (Penis), Hodensack (Scrotum), Hodenhüllen
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Genitale-m.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Genitale-m.\*
 :width: 75%
 
 Die männlichen Geschlechtsorgane im Querschnitt

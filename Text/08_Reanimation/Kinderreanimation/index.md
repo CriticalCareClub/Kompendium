@@ -110,7 +110,7 @@ Das Vorgehen gemäß ERC wird wie folgt beschrieben:
 
 (figure-plsalgorithmus)=
 
-:::{figure} /Bilder/Emhofer-Josef-CCCA/ReanimationPls-2015-1.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationPls-2015-1.\*
 
 Pediatric Life Support \[Table-algorithmus-pls\]
 

@@ -58,7 +58,7 @@ Im Dünndarm findet die eigentliche Aufnahme der Nahrungsstoffe statt.
 Er beginnt nach dem Pylorus des Magens und verläuft bis an den Beginn des Dickdarms mit dem Caecum und ist *3—5 m* lang.
 In ihm erfolgt der Abbau der Nahrungsbestandteile zu den vom Körper resorbierbaren Bestandteile durch die Verdauungsenzyme. Resorbiert werden können Monosaccharide, Aminosäuren, Fettsäuren und Glycerol.
 
-:::{figure} /Bilder/PD/Small_intestine.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Small_intestine.\*
 :width: 75%
 
 Dünndarm
@@ -170,7 +170,7 @@ Bilderserie: Bauchsitus und Mesenterium [₢ Lena Hirtler, {term}`ℓ MfG`]
 
 ![Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Bauchfilm_4032-AASS-0112mm.jpg)
 
-![Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](/Bilder/Hirtler-Lena-CCCA/Duenndarm-Mesenterium.\*)
+![Schema: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Duenndarm-Mesenterium.\*)
 
 ![Foto: Dünndarm mit Aufhängung (Mesenterium) und Blutgefäßen.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Bauchfilm_Image_022.jpg)
 :::

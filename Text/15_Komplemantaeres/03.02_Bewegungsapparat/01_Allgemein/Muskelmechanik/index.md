@@ -21,7 +21,7 @@ In Abhängigkeit der durchzuführenden Bewegung können Punctum fixum und Punctu
 Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** notwendig, um eine Bewegung aufzuheben (**Agonisten** bzw. **Synergisten** und **Antagonisten**, z. B.: ein Muskel streckt den Arm, ein *anderer* beugt ihn).
 
 
-:::{figure} /Bilder/PD/Gray361.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/PD/Gray361.\*
 :align: right
 :width: 50%
 

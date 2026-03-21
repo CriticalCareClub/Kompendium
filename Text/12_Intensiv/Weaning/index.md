@@ -88,7 +88,7 @@ Bei ausreichender Spontanatmung kann entweder die Beatmungsform DuoPAP beibehalt
 
 Als nächster Schritt erfolgt unter Monitoring der Spontanatemfrequenz, des Atemzugvolumens und des PaCO₂ die schrittweise Reduktion des $P_\textrm{Support}$ und unter Monitoring der Oxygenierung die schrittweise Reduktion der FiO₂ auf \< 50 % und des PEEP auf 8-10 mbar.
 
-:::{figure} /Bilder/Beatmung/Hamilton/G5-WeaningImBereich-36-Minuten-invert.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Screenshots/G5-WeaningImBereich-36-Minuten-invert.png
 :width: 100%
 
 Patient im ASV-Modus mit voller Spontanamtung. Eine Umstellung in den Spontanmodus bietet sich an.

@@ -18,7 +18,7 @@ Antiarrhythmika blockieren meist einen bestimmten Elektronen-Kanal des Herzgeweb
 {ref}`Aktionspotential des Herzens <Fig-AktionspotentialHerz>`
 beeinflussen.
 
-:::{figure} /Bilder/Hirtler-Lena-CCCA/Herz-Aktionspotential.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Aktionspotential.png
 :name: Fig-AktionspotentialHerz
 :width: 100%
 

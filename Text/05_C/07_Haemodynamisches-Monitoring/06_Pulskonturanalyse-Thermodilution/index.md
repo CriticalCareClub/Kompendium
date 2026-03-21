@@ -98,7 +98,7 @@ Dazu benötigt man folgende Voraussetzungen:
     Die Umrechnung von ($\sigma_{\rm AP}$ in ml/Schlag erfolgt durch Multiplikation mit dem Umrechnungsfaktor ${\rm Khi}(x)$.
     Dieser ist eine multivariate Polynomgleichung, die den Einfluss des sich ständig ändernden Gefäßtonus $x$ auf den Pulsdruck bewertet, indem die Pulsfrequenz des Patienten, der   mittlere arterielle Druck, die Standardabweichung des mittleren arteriellen Drucks, die Compliance der großen Gefäße — *wie anhand der Patientendemografie geschätzt (!)* — sowie die Schiefe und Kurtosis der arteriellen Wellenform analysiert werden. {term}`🗎 FloTrac 2020`
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_20230603_082107_001342px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/IMG_082107.001341px.jpg
 
 Tachykardie mit deutlichem Swing in der Arterienkurve
 :::

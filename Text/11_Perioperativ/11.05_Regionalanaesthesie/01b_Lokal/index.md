@@ -23,7 +23,7 @@ Sie müssen daher erst durch die Zellmembran diffundieren und wirken dann nur au
 Offene zuvor aktivierte Na-Kanäle werden besser gehemmt als ruhende.
 
 
-:::{todo} {issue}`130` Grafik: Lokalanästhetika wirken nur auf inaktivierte geschlossene **Natriumkanäle**
+:::{todo} GRAFIKEN: Lokalanästhetika wirken nur auf inaktivierte geschlossene **Natriumkanäle**
 
 Na-Ionenkanaele.png
 
@@ -147,10 +147,7 @@ Die Unterscheidung von **Amid-** und den **Ester-Typ** ist hinsichtlich des Abba
 | {ref}`Ropivacain` |                  |
 :::
 
-:::{todo} {issue}`130` Grafik: Strukturformeln im Vergleich: Aminoester und Aminoamide
-
-Strukturformel-LA.png
-:width: 50%
+:::{todo} GRAFIKEN: Strukturformeln im Vergleich: Aminoester und Aminoamide
 
 
 :::

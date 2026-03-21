@@ -36,7 +36,7 @@ status: final
 
 Zur Beutel-Masken-Beatmung wird ein selbstfüllender Beatmungsbeutel zusammen mit einer Gesichts-Beatmungsmaske in der richtigen Größe, je nach Gesichtsgröße bzw. -form, verwendet.
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Ambubeutel_32741-AASS-0176mm.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Ambubeutel_32741_crop.001341px.jpg
 :alt: "Selbstf\xFCllender Beatmungsbeutel \"Ambu Mark IV\" mit Reservoir, O\u2082-Verbindungsschlauch,\
 :  \ Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil"
 
@@ -84,7 +84,7 @@ Sobald die Maske nicht mehr dicht aufsitzt, verliert das PEEP-Ventil seine Wirku
 
 
 
-:::{figure} ../../Bilder/Pallinger-Christoph-CCCA/Mundstuecke_32723_v2-AASS-0112mm.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Beatmungsmasken_32723_crop.000800px.jpg
 :width: 100%
 :name: Figure-Bilderserie-Beatmungsmasken
 
@@ -148,11 +148,11 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz ("*Eigenfrequenz
 
 Bilderserie: Die Technik der Beutel-Masken-Beatmung [₢ Lena Hirtler  {term}`ℓ MfG`]
 
-![CE-Griff](/Bilder/Hirtler-Lena-CCCA/CGriff.\*)
+![CE-Griff](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/CGriff.\*)
 
-![und überstreckter Kopf](/Bilder/Hirtler-Lena-CCCA/Beutelbeatmung1.\*)
+![und überstreckter Kopf](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Beutelbeatmung1.\*)
 
-![Normalerweise wird bei der Überdruckbeatmung mit einem Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der Druck den Öffnungsdruck der Speiseröhre (ca. 20 mbar), wird Luft auch in den Magen gepumpt.](/Bilder/Hirtler-Lena-CCCA/Beutelbeatmung2.\*)
+![Normalerweise wird bei der Überdruckbeatmung mit einem Beatmungsbeutel Luft in die Lunge gepumpt. Übersteigt der Druck den Öffnungsdruck der Speiseröhre (ca. 20 mbar), wird Luft auch in den Magen gepumpt.](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Beutelbeatmung2.\*)
 :::
 
 

@@ -16,7 +16,7 @@ Es sind verschiedene Fabrikate verfügbar
 Es gibt Schienen mit einer fixen Größe oder moderne Schienen, bei welchen sich die gewünschte vorher abgemessene Größe einstellen lässt
 (Stifneck select™️ bzw. Stifneck Paedi select™️ für Kinder).
 
-:::{figure} /Bilder/Pallinger-Christoph-CCCA/Stiffneck_32899_crop-sRGB-AASS-0112mm.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Stiffneck_32899_crop.000800px.jpg
 
 Einstellbare HWS-Schienen für Erwachsene und KinderLaerdal Stifneck Select und Stifneck Pedi-Select
 

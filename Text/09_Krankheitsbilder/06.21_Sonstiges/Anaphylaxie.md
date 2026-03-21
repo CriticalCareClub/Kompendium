@@ -58,14 +58,14 @@ Das Bild der allergischen Reaktion reicht von leichten Hautreaktionen, Rhinitis,
 Beim anaphylaktischen Schock kommt es durch die von den Immunzellen gebildeten Mediatoren zu einer systemischen Weitstellung der Gefäße und einer Erhöhung der Durchlässigkeit (Gefäßpermeabilität).
 Dadurch kommt es zu einem relativen Flüssigkeitsmangel durch Plasmaverlust in den Zwischengewebsraum (Interstitium), Abfall des Blutdrucks und Kreislaufstörungen.
 
-:::{figure} /Bilder/CC-BY-SA-3.0/Rash-922px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Rash-922px.jpg
 
 Urtikarieller Ausschlag
 
 \[[Enoch Lau](https://en.wikipedia.org/wiki/User:Enochlau) //  Creative Commons Attribution-Share Alike 3.0 Unported\]
 :::
 
-:::{figure} /Bilder/CC-BY-SA-4.0/Urticaria.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Urticaria.png
 
 Urtikarieller Ausschlag
 

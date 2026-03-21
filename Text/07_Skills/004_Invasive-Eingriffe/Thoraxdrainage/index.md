@@ -242,12 +242,12 @@ Das CT ist die wohl aufwändigste, teuerste unde strahlenbelastenste Methode, de
 
 Der gleiche Pneumothorax im CP-Röntgen und im CT
 
-![Ein frontal gelegener Pneumothorax ist im ap-Strahlengang nicht zu erkennen, auffällig ist jedoch das ausgeprägte Hautemphysem](../../../../Submodules/3134-medical-picture-collection/KS/Pneumothorax-Hautemphysem-CP.jpg)
+![Ein frontal gelegener Pneumothorax ist im ap-Strahlengang nicht zu erkennen, auffällig ist jedoch das ausgeprägte Hautemphysem]()
 
-![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen](../../../../Submodules/3134-medical-picture-collection/KS/Pneumothorax-Hautemphysem-CT.jpg)
+![Der gleiche Patient im CT: Hier ist nun der Pneumothorax (und das Hautemphysem) gut zu erkennen]()
 ::: -->
 
-:::{todo} {issue}`129` Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
+:::{todo} Rö, CT: ventraler Pneumothorax mit Hautemphysem im Rö und CT
 :::
 
 :::{raw} latex
@@ -394,7 +394,7 @@ Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des 
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/KS/cmH20_001342px.jpeg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/cmH20.001341px.jpg
 :width: 100%
 
 Physik des Ballermann-Urlaubs, Teil I: Um einen Margarita über 1 Meter anzusaugen, wird ein Sog von -100 cm H₂O benötigt.
@@ -471,7 +471,10 @@ Im Notfall, wenn keine Sonographie verfügbar ist, soll nicht unterhalb des 4. I
 Der Throkar dient nur zur Führung des Drains, keinesfalls zur Punktion!
 :::
 
-:::{subfigure} AB|CD
+:::{todo} Bilderserie: Anlage einer Thoraxdrainage
+
+<!--
+{subfigure} AB|CD
 :subcaptions: below
 :name: Anlage-Thoraxdrainage
 :gap: 8px
@@ -479,14 +482,14 @@ Der Throkar dient nur zur Führung des Drains, keinesfalls zur Punktion!
 
 Anlage einer Thoraxdrainage
 
-![Aufsuchen der Rippe](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-020.001341px.jpg)
+![Aufsuchen der Rippe]()
 
-![Stumpfe Präparation](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-030.001341px.jpg)
+![Stumpfe Präparation]()
 
-![Einführen der Drainage geschient mittels Trokar](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-050.001341px.jpg)
+![Einführen der Drainage geschient mittels Trokar]()
 
-![Faden der U-Naht wird um Drain gewckelt](../../../../Submodules/3134-medical-picture-collection/KS/Pleuradrainage-060.001341px.jpg)
-
+![Faden der U-Naht wird um Drain gewckelt]()
+ -->
 :::
 
 

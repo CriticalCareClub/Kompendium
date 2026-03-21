@@ -94,14 +94,16 @@ Hyperkapnie und Hyperthermie mit einer Temperatur von 40,8°C und Tachykardie al
 \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
-:::{todo} {issue}`130` Grafik: Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
-
-../../Bilder/KS/RespMon-Monitor.jpeg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Respiration/RespMon-Monitor.jpg
 :width: 100%
 
 Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
 \[₢ GaSe  {term}`ℓ MfG`\]
 :::
+
+
+
+
 
 (armo-kp-kapnometrie-kurvenanalyse)=
 (Q-ARMO23004)=
@@ -192,7 +194,7 @@ Zur Anwendung kann dies z. B. bei spontan atmenden, sedierten Patienten kommen
 
 :::{todo} {issue}`130` Foto: Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.
 
-../../Bilder/KS/RespMon-KapnoSpontan_edited.jpeg
+
 :width: 100%
 
 Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.

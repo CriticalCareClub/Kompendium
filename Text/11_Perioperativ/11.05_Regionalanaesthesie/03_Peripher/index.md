@@ -185,7 +185,7 @@ Dieser Austausch von Fasern ähnelt in der schematischen Darstellung dem Gleisbi
 Plexus brachialis im Vergleich zu einem Stellwerk.
 [oben: ₢ Raimond Spekking, {term}`ℓ CC BY-SA 4.0`; unten: ₢ Marshall Strother, {term}`ℓ CC 0`]
 
-![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped_1341px.jpg)
+![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped.001341px.jpg)
 
 ![... der Plexus brachialis im Vergleich geradezu simpel aufgebaut ist und zwei Plexus (einer je Seite) von einer einzelnen Person bedient werden können.](../../../../Submodules/3134-medical-picture-collection/CC-0/Plexus_brachialis_Schema.png)
 :::

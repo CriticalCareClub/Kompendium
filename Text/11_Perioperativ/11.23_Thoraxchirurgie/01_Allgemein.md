@@ -316,6 +316,8 @@ Wird ein rechtsseitig-gebogener Tubus verwendet, besteht ein realistisches Risik
 
 Sollte der Patient postoperativ intubiert bleiben, muss auf einen normalen Tubus umintubiert werden (kleiner Innendurchmesser, daher zum Weaning immer umintubieren da Spontanatmung sonst kaum möglich!).
 
+:::{todo} GRAFIKEN: Doppellumentubsu, Schema
+
 <!-- :::{subfigure} AB
 :subcaptions: below
 :name: BS-Doppellumentubus
@@ -324,12 +326,11 @@ Sollte der Patient postoperativ intubiert bleiben, muss auf einen normalen Tubus
 
 Doppellumentubus
 
-![Doppellumentubus](Doppellumentubus.jpeg)
+![Doppellumentubus]()
 
-![Doppellumentubus, Schema](Doppellumentubus-Schema.png)
+![Doppellumentubus, Schema]()
 ::: -->
 
-:::{todo} {issue}`130` Grafik: Doppellumentubsu, Schema
 :::
 :::{todo} {issue}`129` Foto: Doppellumentubus
 :::

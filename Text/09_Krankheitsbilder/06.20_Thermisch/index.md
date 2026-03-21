@@ -149,7 +149,7 @@ Die Folge sind Symptome wie bei einer Hirnhautentzündung (Meningitis) beziehung
 
 ## Unterkühlung
 
-:::{image} /Bilder/Gabriel-Sebastian-CCCA/huette_winter_mariazell.\*
+:::{image} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/huette_winter_mariazell.\*
 :align: right
 :alt: "Eine H\xFCtte im Winter. \u20A2 Sebastian Gabriel :term:`\u2113 MfG`"
 :width: 50%

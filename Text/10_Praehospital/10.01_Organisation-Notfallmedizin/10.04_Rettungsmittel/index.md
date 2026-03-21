@@ -288,7 +288,7 @@ Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-0002968-2240.001341px.jpg)
 
-![NAH](../../../Bilder/Gabriel-Sebastian-CCCA/2017-Ukk-2017-0003509-2245.001341px.jpg)
+![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-2017-0003509-2245.001341px.jpg)
 
 ![NAH Nacht](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-02-05-23-32-47_edited.001341px.jpg)
 :::

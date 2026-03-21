@@ -69,6 +69,6 @@ Bilderserie: Blutzuckermessung
 
 ![](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.jpg)
 
-![Ergebnis: "90 mg/dL"](/Bilder/Gabriel-Sebastian-CCCA/bz-wert_1214-00800.jpg)
+![Ergebnis: "90 mg/dL"](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/bz-wert_1214-00800.jpg)
 :::
 

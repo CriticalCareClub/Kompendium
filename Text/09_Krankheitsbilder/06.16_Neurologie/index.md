@@ -876,7 +876,7 @@ Sie entsprechen einem vom Gehirn ausgehenden Krampfanfall und sind grundsätzlic
 
 Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurden bereits spezielle Zäpfchen für den Bedarfsfall verschrieben (und bei Eintreffen eventuell schon von den Eltern gegeben).
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/fieberthermometer.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/fieberthermometer.\*
 
 Fieber
 

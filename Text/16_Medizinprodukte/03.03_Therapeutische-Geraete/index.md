@@ -51,13 +51,13 @@ status: final
 
 Blutsperren
 
-![Doppelte Blutsperre für Bier-Block](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_110940.001341px.jpg)
+![Doppelte Blutsperre für Bier-Block](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_110940.001341px.jpg)
 
-![Doppelmanschette für Bier-Block](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_110959.001341px.jpg)
+![Doppelmanschette für Bier-Block](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_110959.001341px.jpg)
 
-![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_111025.001341px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_111025.001341px.jpg)
 
-![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_111253.001341px.jpg)
+![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_111253.001341px.jpg)
 
 
 :::
@@ -81,11 +81,11 @@ Blutsperren
 
 ### Vivostat
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104812.000800px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_104812.000800px.\*
 Entnahme von Patientenblut aus dem arteriellen Zugang
 :::
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104818.000800px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_104818.000800px.\*
 Vivostat®
 :::
 
@@ -104,7 +104,7 @@ Endotrachealtubus mit Elektroden zur N.-recurrens-Stimulation
 Elektroden zur N.-recurrens-Stimulation
 :::
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_111723.000800px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_111723.000800px.\*
 Nervenstimulationsgerät zur N.-Recurrens-Stimulation
 :::
 
@@ -123,7 +123,7 @@ Bauchlagerung mit DisposaView
 
 ## Sonstiges
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_163331.001341px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_163331.001341px.\*
 
 {index}`Lucas 2®` Thoraxkompressionsgerät
 :::

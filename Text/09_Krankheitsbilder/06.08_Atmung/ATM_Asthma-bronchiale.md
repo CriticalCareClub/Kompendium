@@ -28,7 +28,7 @@ Ist bei Eintreffen des Rettungsdienstes noch keine Besserung der Atemnot eingetr
 
 (figure-asthma-paramedic)=
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/asthma-paramedic.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/asthma-paramedic.jpg
 
 Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen bei vital bedrohten Patienten wurden ergriffen: Situationsrechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztnachforderung und Monitoring.
 

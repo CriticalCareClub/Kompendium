@@ -237,7 +237,7 @@ Weiters kommt es zu einer Sprach- und Gangunsicherheit.
 
 Die akute Alkoholvergiftung ist von der chronischen Alkoholabhängigkeit (Alkoholkrankheit) zu unterscheiden.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/dif-w2-zelt-1.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/dif-w2-zelt-1.\*
 :width: 100%
 :::
 
@@ -514,7 +514,7 @@ Der Patient leidet an Atemnot, allerdings *ohne* Zyanose, begleitet von Allgemei
     ({ref}`m-am-stickgase`)
   - Hyperbare O₂-Therapie in der Druckkammer erwägen
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/2006-01-31-gaswienheute2.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/2006-01-31-gaswienheute2.\*
 
 CO-Vergiftung in einem Wohnhaus in Wien
 

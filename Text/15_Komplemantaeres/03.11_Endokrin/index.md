@@ -34,105 +34,100 @@ Hormone können auch aufgrund ihres *Bildungsortes* differenziert werden:
 - hormonproduzierende Gewebe
 - hormonproduzierende Einzelzellen
 
-```{eval-rst}
-+----------------------+----------------------+---------------------+
-| klassische endokrine |                      |                     |
-| Hormone              |                      |                     |
-+----------------------+----------------------+---------------------+
-| Hypothalamus         | ADH (Adiuretin,      | hydrophil           |
-|                      | Vasopressin)         |                     |
-+----------------------+----------------------+---------------------+
-| Oxytocin             | hydrophil            |                     |
-+----------------------+----------------------+---------------------+
-| H                    | adrenokortikotropes  | hydrophil           |
-| ypophsenvorderlappen | Hormon (ACTH,        |                     |
-|                      | Kortikotropin)       |                     |
-+----------------------+----------------------+---------------------+
-| thy                  | hydrophil            |                     |
-| roideastimulierendes |                      |                     |
-| Hormon (TSH,         |                      |                     |
-| Thyreotropin)        |                      |                     |
-+----------------------+----------------------+---------------------+
-| fo                   | hydrophil            |                     |
-| llikelstimulierendes |                      |                     |
-| Hormon (FSH,         |                      |                     |
-| Follitropin)         |                      |                     |
-+----------------------+----------------------+---------------------+
-| luteinisierendes     | hydrophil            |                     |
-| Hormon (LH,          |                      |                     |
-| Lutropin)            |                      |                     |
-+----------------------+----------------------+---------------------+
-| somatotropes Hormon  | hydrophil            |                     |
-| (STH, Somatotropin)  |                      |                     |
-+----------------------+----------------------+---------------------+
-| melan                | hydrophil            |                     |
-| ozytenstimulierendes |                      |                     |
-| Hormon (**β**-MSH,   |                      |                     |
-| Melanotropin)        |                      |                     |
-+----------------------+----------------------+---------------------+
-| Prolaktin (PRL)      | hydrophil            |                     |
-+----------------------+----------------------+---------------------+
-| Epiphyse             | Melatonin            | hydrophil           |
-+----------------------+----------------------+---------------------+
-| Schilddrüse          | Thyroxin und         | lipophil            |
-|                      | Triiodthyronin       |                     |
-+----------------------+----------------------+---------------------+
-| Calzitonin           | hydrophil            |                     |
-+----------------------+----------------------+---------------------+
-| Nebenschilddrüse     | Parathormon          | hydrophil           |
-+----------------------+----------------------+---------------------+
-| Nebenniere           | Mineralo- und        | lipophil            |
-|                      | Glukokortikoide      |                     |
-+----------------------+----------------------+---------------------+
-| Androgene            | lipophil             |                     |
-+----------------------+----------------------+---------------------+
-| Adrenalin und        | hydrophil            |                     |
-| Noradrenalin         |                      |                     |
-+----------------------+----------------------+---------------------+
-| Langerhans-Inseln    | Insulin, Glukagon    | hydrophil           |
-| des Pankreas         | und Somatostatin     |                     |
-+----------------------+----------------------+---------------------+
-| Eierstöcke           | Österogene und       | lipophil            |
-|                      | Gestagene            |                     |
-+----------------------+----------------------+---------------------+
-| Hoden                | Androgene            | lipophil            |
-+----------------------+----------------------+---------------------+
-| Plazenta             | Choriongonadotropin, | hydrophil, lipophil |
-|                      | Progesteron          |                     |
-+----------------------+----------------------+---------------------+
-| hormonbildende       |                      |                     |
-| Gewebe und           |                      |                     |
-| Einzelzellen         |                      |                     |
-+----------------------+----------------------+---------------------+
-| zentrales und        | neuronale            | hydrophil           |
-| autonomes            | Überträgersubstanzen |                     |
-| Nervensystem         | (Transmitter)        |                     |
-+----------------------+----------------------+---------------------+
-| Teile des            | Steuerhormone        | hydrophil           |
-| Zwischenhirns        | (Liberine und        |                     |
-| (Hypothalamus !)     | Statine)             |                     |
-+----------------------+----------------------+---------------------+
-| System der GI-Zellen | Gastrin,             | hydrophil           |
-| im Magen-Darm-Trakt  | Cholezystokinin,     |                     |
-|                      | Sekretin             |                     |
-+----------------------+----------------------+---------------------+
-| Herzvorhöfe          | atriales             | hydrophil           |
-|                      | natriuretisches      |                     |
-|                      | Peptid               |                     |
-+----------------------+----------------------+---------------------+
-| Niere                | Erythropoetin, Renin | hydrophil           |
-+----------------------+----------------------+---------------------+
-| Leber                | Angiotensinogen,     | hydrophil           |
-|                      | Somatomedine         |                     |
-+----------------------+----------------------+---------------------+
-| Immunorgane          | Thymushormone,       | hydrophil           |
-|                      | Zytokine, Lymphokine |                     |
-+----------------------+----------------------+---------------------+
-| Gewebshormone        | Eikosanoide,         | hydrophil           |
-|                      | Prostaglandine,      |                     |
-|                      | Histamin, Bradykinin |                     |
-+----------------------+----------------------+---------------------+
-```
+:::{list-table} klassische endokrine Hormone
+:header-rows: 0
+
+*   -   klassische endokrine Hormone
+    -
+    -
+*   -   Hypothalamus
+    -   ADH (Adiuretin, Vasopressin)
+    -   hydrophil
+*   -   Oxytocin
+    -   hydrophil
+    -
+*   -   Hypophysenvorderlappen
+    -   adrenokortikotropes Hormon (ACTH, Kortikotropin)
+    -   hydrophil
+*   -
+    -   thyreoideastimulierendes Hormon (TSH, Thyreotropin)
+    -   hydrophil
+*   -
+    -   follikelstimulierendes Hormon (FSH, Follitropin)
+    -   hydrophil
+*   -
+    -   luteinisierendes Hormon (LH, Lutropin)
+    -   hydrophil
+*   -
+    -   somatotropes Hormon (STH, Somatotropin)
+    -   hydrophil
+*   -
+    -   melanozytenstimulierendes Hormon (**β**-MSH, Melanotropin)
+    -   hydrophil
+*   -
+    -   Prolaktin (PRL)
+    -   hydrophil
+*   -   Epiphyse
+    -   Melatonin
+    -   hydrophil
+*   -   Schilddrüse
+    -   Thyroxin und Triiodthyronin
+    -   lipophil
+*   -
+    -   Calzitonin
+    -   hydrophil
+*   -   Nebenschilddrüse
+    -   Parathormon
+    -   hydrophil
+*   -   Nebenniere
+    -   Mineralo- und Glukokortikoide
+    -   lipophil
+*   -
+    -   Androgene
+    -   lipophil
+*   -
+    -   Adrenalin und Noradrenalin
+    -   hydrophil
+*   -   Langerhans-Inseln des Pankreas
+    -   Insulin, Glukagon und Somatostatin
+    -   hydrophil
+*   -   Eierstöcke
+    -   Östrogene und Gestagene
+    -   lipophil
+*   -   Hoden
+    -   Androgene
+    -   lipophil
+*   -   Plazenta
+    -   Choriongonadotropin, Progesteron
+    -   hydrophil, lipophil
+*   -   hormonbildende Gewebe und Einzelzellen
+    -
+    -
+*   -   zentrales und autonomes Nervensystem
+    -   neuronale Überträgersubstanzen (Transmitter)
+    -   hydrophil
+*   -   Teile des Zwischenhirns (Hypothalamus!)
+    -   Steuerhormone (Liberine und Statine)
+    -   hydrophil
+*   -   System der GI-Zellen im Magen-Darm-Trakt
+    -   Gastrin, Cholezystokinin, Sekretin
+    -   hydrophil
+*   -   Herzvorhöfe
+    -   atriales natriuretisches Peptid
+    -   hydrophil
+*   -   Niere
+    -   Erythropoetin, Renin
+    -   hydrophil
+*   -   Leber
+    -   Angiotensinogen, Somatomedine
+    -   hydrophil
+*   -   Immunorgane
+    -   Thymushormone, Zytokine, Lymphokine
+    -   hydrophil
+*   -   Gewebshormone
+    -   Eikosanoide, Prostaglandine, Histamin, Bradykinin
+    -   hydrophil
+:::
 
 Diese Hormone werden auch aufgrund ihres Wirkungsortes unterschiedlich bezeichnet:
 

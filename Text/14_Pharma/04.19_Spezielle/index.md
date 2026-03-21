@@ -62,38 +62,32 @@ Als embryotoxisch sind u.a. folgende Substanzen einzustufen: Abhängig von der D
 
 Schädigung durch Anwendung in der Embryonalperiode (nach Paulus, W: MMW, 2005\*)
 
-```{eval-rst}
-+----------------------------------+----------------------------------+
-| Aminoglyoside                    | Oto-/Nephrotoxizität             |
-+----------------------------------+----------------------------------+
-| Androgene                        | Maskulinisierung                 |
-+----------------------------------+----------------------------------+
-| Antikonvulsiva                   | Multiple Fehlbildungen, v.a.     |
-|                                  | Neuralrohrdefekte (Carbamazepin  |
-|                                  | ,Valproinsäure)                  |
-+----------------------------------+----------------------------------+
-| Coumarin-Derivate                | Multiple Fehlbildungen           |
-|                                  | (Phenprocoumon, Warfarin)        |
-+----------------------------------+----------------------------------+
-| Misoprostol                      | Hirnnerven- und                  |
-|                                  | Extremitätendefekte,             |
-+----------------------------------+----------------------------------+
-| Penicillamin                     | Bindegewebsschäden               |
-+----------------------------------+----------------------------------+
-| Radiopharmaka                    | Multiple Defekte                 |
-+----------------------------------+----------------------------------+
-| Vitamin A (> 25 000 IE/d),       | Multiple Fehlbildungen           |
-| Retinoide                        |                                  |
-+----------------------------------+----------------------------------+
-| Thalidomid                       | Fehlbildungen der Extremitäten   |
-+----------------------------------+----------------------------------+
-| Zytostatika                      | Multiple Fehlbildungen           |
-+----------------------------------+----------------------------------+
-| Weiters: Glukokortikoide,        |                                  |
-| Mutterkornalkaloide, Leflunomid, |                                  |
-| Lithium                          |                                  |
-+----------------------------------+----------------------------------+
-```
+:::{list-table}
+:header-rows: 0
+
+*   -   Aminoglyoside
+    -   Oto-/Nephrotoxizität
+*   -   Androgene
+    -   Maskulinisierung
+*   -   Antikonvulsiva
+    -   Multiple Fehlbildungen, v. a. Neuralrohrdefekte (Carbamazepin, Valproinsäure)
+*   -   Coumarin-Derivate
+    -   Multiple Fehlbildungen (Phenprocoumon, Warfarin)
+*   -   Misoprostol
+    -   Hirnnerven- und Extremitätendefekte
+*   -   Penicillamin
+    -   Bindegewebsschäden
+*   -   Radiopharmaka
+    -   Multiple Defekte
+*   -   Vitamin A (> 25 000 IE/d), Retinoide
+    -   Multiple Fehlbildungen
+*   -   Thalidomid
+    -   Fehlbildungen der Extremitäten
+*   -   Zytostatika
+    -   Multiple Fehlbildungen
+*   -   Weiters: Glukokortikoide, Mutterkornalkaloide, Leflunomid, Lithium
+    -
+:::
 
 Schädigung durch Anwendung in der Fetalperiode (nach Paulus, W: MMW, 2005)\*
 
@@ -129,152 +123,76 @@ Bei Notwendigkeit einer medikamentösen Therapie im Wochenbett oder in der Still
 
 Arzneimittel der Wahl während der Schwangerschaft und Stillzeit (nach Paulus, W: MMW, 2005)\*
 
-```{eval-rst}
-+----------------------+----------------------+----------------------+
-|                      | Schwangerschaft      | Stillzeit            |
-+----------------------+----------------------+----------------------+
-| Allergie             | Cromoglicinsäure,    | Cromoglicinsäure,    |
-|                      | ältere               | Loratidin,           |
-|                      | Antihistaminika      | Glukokortikoide      |
-|                      | (Dimetinden)         | (lokal, inhalativ;   |
-|                      |                      | systemisch max. 20   |
-|                      | Nach dem ersten      | mg Prednisolon ohne  |
-|                      | Schw                 | Stillpause)          |
-|                      | angerschaftsdrittel: |                      |
-|                      | auch neuere, nicht   |                      |
-|                      | sedierende           |                      |
-|                      | Antiallergika        |                      |
-|                      | (Loratidin,          |                      |
-|                      | Cetirizin);          |                      |
-|                      | Glukokortikoide      |                      |
-|                      | (lokal, inhalativ;   |                      |
-|                      | systemisch möglichst |                      |
-|                      | Prednisolon)         |                      |
-+----------------------+----------------------+----------------------+
-| Asthma bronchiale    | Inhalative Therapie  | Inhalative Therapie  |
-|                      | mit erprobten        | mit erprobten        |
-|                      | Betamimetika         | Betamimetika         |
-|                      | (Salbutamol,         | (Salbutamol,         |
-|                      | Fenoterol),          | Fenoterol),          |
-|                      | Cromoglicinsäure,    | Cromoglicinsäure,    |
-|                      | Glukokortikoide      | Glukokortikoide      |
-|                      | (Budesonid)          | (Budesonid)          |
-+----------------------+----------------------+----------------------+
-| Bakterielle          | Penicilline,         | Penicilline,         |
-| Infektion            | Cephalosporine,      | Cephalosporine,      |
-|                      | Erythromycin         | Erythromycin         |
-+----------------------+----------------------+----------------------+
-| Depression           | Ältere trizyklische  | Minimaler Übergang   |
-|                      | Antidepressiva       | von Sertralin,       |
-|                      | (Amitryptilin);      | Paroxetin,           |
-|                      | SSRIs (Fluoxetin,    | Nortripytlin auf den |
-|                      | Citalopram,          | Säugling; begrenzte  |
-|                      | Paroxetin,           | Erfahrung mit        |
-|                      | Sertralin)           | Langzeittherapie in  |
-|                      |                      | der Stillzeit        |
-+----------------------+----------------------+----------------------+
-| Epilepsie            | Niedrig dosierte     | Nur Monotherapie     |
-|                      | Monotherapie wenn    | während der          |
-|                      | möglich. 1. Trimenon | Stillzeit            |
-|                      | mit erprobten        |                      |
-|                      | Substanzen und       | Valproinsäure        |
-|                      | zusätzlicher         | möglich              |
-|                      | Folsäuresubstitution |                      |
-|                      | (v.a. bei            | Carbamazepin,        |
-|                      | Carbamazepin), bei   | Lamotrigin nur bei   |
-|                      | Gabe von             | regelmäßiger         |
-|                      | Phenobarbital,       | Kontrolle des Kindes |
-|                      | Phenytoin:           | (Serumspiegel beim   |
-|                      | peripartale          | Säugling bestimmen!) |
-|                      | Vitamin-K-Gabe       |                      |
-|                      |                      | Kumulationsgefahr    |
-|                      | Möglicherweise       | von Phenobarbital,   |
-|                      | erhöhtes Risiko      | Primidon             |
-|                      | unter Valproinsäure  |                      |
-+----------------------+----------------------+----------------------+
-| Erbrechen            | Dimenhydrinat,       | Dimenhydrinat        |
-|                      | Meclozin,            |                      |
-|                      | Metoclopramid        |                      |
-+----------------------+----------------------+----------------------+
-| Gastritis,           | Antazida             | Antazida             |
-| Ulkusprophylaxe      | (Hydrotalcit,        | (Hydrotalcit,        |
-|                      | Sucralfat); 2. Wahl: | Sucralfat)           |
-|                      | Ranitidin; im        |                      |
-|                      | Bedarfsfall:         | 2. Wahl: Famotidin   |
-|                      | Omeprazol            |                      |
-+----------------------+----------------------+----------------------+
-| Husten               | Dextrometorphan      | Dextrometorphan      |
-|                      | (Antitussivum);      | (Antitussivum);      |
-|                      | Ambroxol             |                      |
-|                      | (Mukolytikum)        | Ambroxol,            |
-|                      |                      | Acetylcystein        |
-|                      |                      | (Mukolytikum)        |
-+----------------------+----------------------+----------------------+
-| Hypertonie           | 1. Wahl: Methyldopa  | Nifedipin, Verapamil |
-|                      |                      |                      |
-|                      | Dihydralazin; 2.     | Methyldopa;          |
-|                      | Wahl: Betablocker    | Dihydralazin         |
-|                      | (Metoprolol)         |                      |
-|                      |                      | Metoprolol,          |
-|                      |                      | Propranolol          |
-|                      |                      | (Bradykardie!)       |
-|                      |                      |                      |
-|                      |                      | Captopril, Enalapril |
-+----------------------+----------------------+----------------------+
-| Mykose               | Nystatin,            | Nystatin             |
-|                      | Clotrimazol          |                      |
-|                      |                      | Clotrimazol,         |
-|                      |                      | Miconazol            |
-+----------------------+----------------------+----------------------+
-| Schizophrenie        | Ältere               | Wenig Übergang von   |
-|                      | Phenothiazine,       | Chlorpromazin,       |
-|                      | Haloperidol          | Chlorprothixen,      |
-|                      |                      | Flupentixol in die   |
-|                      |                      | Muttermilch          |
-|                      |                      |                      |
-|                      |                      | Geringe Datenlage    |
-|                      |                      | zur                  |
-|                      |                      | Langzeitanwendung    |
-+----------------------+----------------------+----------------------+
-| Schmerz              | 1. Wahl: Paracetamol | 1. Wahl: Paracetamol |
-|                      |                      |                      |
-|                      | 2. ASS, Diclofenac,  | Ibuprofen (maximal   |
-|                      | Ibuprofen. Keine     | 1600 mg/Tag)         |
-|                      | Dauermedikation im   |                      |
-|                      | letzten              | Bei Bedarf           |
-|                      | Schw                 | kurzfristige Gabe    |
-|                      | angerschaftsdrittel. | von                  |
-|                      |                      | Opioid-Analgetika    |
-|                      | Bei Bedarf           | (Tramadol, Pethidin  |
-|                      | kurzfristige Gabe    | – ohne Stillpause    |
-|                      | von                  | möglich)             |
-|                      | Opioid-Analgetika    |                      |
-|                      | (Tramadol)           |                      |
-+----------------------+----------------------+----------------------+
-| Chronisch            | Mesalazin (letztes   | Mesalazin (Diarrhoe  |
-| entzündliche         | Schw                 | des Säuglings!);     |
-| Darmerkrankungen     | angerschaftsdrittel: | Glukokortikoide bei  |
-|                      | maximal 2 g/Tag!);   | Bedarf (Budesonid,   |
-|                      | Glukokortikoide bei  | Prednisolon)         |
-|                      | Bedarf (Budesonid,   |                      |
-|                      | Prednisolon)         |                      |
-+----------------------+----------------------+----------------------+
-| Gerinnungshemmer     | Heparin (auch        | Heparin (auch        |
-|                      | niedermolekular)     | niedermolekular),    |
-|                      |                      | ASS (geringe         |
-|                      | ASS (low dose)       | Dosierung bis 150    |
-|                      |                      | mg/Tag), Warfarin    |
-+----------------------+----------------------+----------------------+
-| Lokale               | Bupivacain           | Bupivacain           |
-| Schmerztherapie      |                      |                      |
-+----------------------+----------------------+----------------------+
-| A                    | Prednisolon,         | Prednisolon,         |
-| utoimmunerkrankungen | Prednison            | Prednison            |
-|                      |                      | (Dauertherapie bis   |
-|                      |                      | 20 mg/Tag ohne       |
-|                      |                      | Stillpause möglich)  |
-+----------------------+----------------------+----------------------+
-```
+:::{list-table}
+:header-rows: 1
+
+*   -
+    -   Schwangerschaft
+    -   Stillzeit
+*   -   Allergie
+    -   Cromoglicinsäure, ältere Antihistaminika (Dimetinden)
+        Nach dem ersten Schwangerschaftsdrittel: auch neuere, nicht sedierende Antiallergika (Loratidin, Cetirizin); Glukokortikoide (lokal, inhalativ; systemisch möglichst Prednisolon)
+    -   Cromoglicinsäure, Loratidin, Glukokortikoide (lokal, inhalativ; systemisch max. 20 mg Prednisolon ohne Stillpause)
+*   -   Asthma bronchiale
+    -   Inhalative Therapie mit erprobten Betamimetika (Salbutamol, Fenoterol), Cromoglicinsäure, Glukokortikoide (Budesonid)
+    -   Inhalative Therapie mit erprobten Betamimetika (Salbutamol, Fenoterol), Cromoglicinsäure, Glukokortikoide (Budesonid)
+*   -   Bakterielle Infektion
+    -   Penicilline, Cephalosporine, Erythromycin
+    -   Penicilline, Cephalosporine, Erythromycin
+*   -   Depression
+    -   Ältere trizyklische Antidepressiva (Amitryptilin); SSRIs (Fluoxetin, Citalopram, Paroxetin, Sertralin)
+    -   Minimaler Übergang von Sertralin, Paroxetin, Nortripytlin auf den Säugling; begrenzte Erfahrung mit Langzeittherapie in der Stillzeit
+*   -   Epilepsie
+    -   Niedrig dosierte Monotherapie wenn möglich.
+        1. Trimenon mit erprobten Substanzen und zusätzlicher Folsäuresubstitution (v. a. bei Carbamazepin), bei Gabe von Phenobarbital, Phenytoin: peripartale Vitamin-K-Gabe
+        Möglicherweise erhöhtes Risiko unter Valproinsäure
+    -   Nur Monotherapie während der Stillzeit
+        Valproinsäure möglich
+        Carbamazepin, Lamotrigin nur bei regelmäßiger Kontrolle des Kindes (Serumspiegel beim Säugling bestimmen!)
+        Kumulationsgefahr von Phenobarbital, Primidon
+*   -   Erbrechen
+    -   Dimenhydrinat, Meclozin, Metoclopramid
+    -   Dimenhydrinat
+*   -   Gastritis, Ulkusprophylaxe
+    -   Antazida (Hydrotalcit, Sucralfat); 2. Wahl: Ranitidin; im Bedarfsfall: Omeprazol
+    -   Antazida (Hydrotalcit, Sucralfat); 2. Wahl: Famotidin
+*   -   Husten
+    -   Dextrometorphan (Antitussivum); Ambroxol (Mukolytikum)
+    -   Dextrometorphan (Antitussivum); Ambroxol, Acetylcystein (Mukolytikum)
+*   -   Hypertonie
+    -   1. Wahl: Methyldopa
+        Dihydralazin; 2. Wahl: Betablocker (Metoprolol)
+    -   Nifedipin, Verapamil
+        Methyldopa; Dihydralazin
+        Metoprolol, Propranolol (Bradykardie!)
+        Captopril, Enalapril
+*   -   Mykose
+    -   Nystatin, Clotrimazol
+    -   Nystatin; Clotrimazol, Miconazol
+*   -   Schizophrenie
+    -   Ältere Phenothiazine, Haloperidol
+    -   Wenig Übergang von Chlorpromazin, Chlorprothixen, Flupentixol in die Muttermilch
+        Geringe Datenlage zur Langzeitanwendung
+*   -   Schmerz
+    -   1. Wahl: Paracetamol
+        2. ASS, Diclofenac, Ibuprofen. Keine Dauermedikation im letzten Schwangerschaftsdrittel.
+        Bei Bedarf kurzfristige Gabe von Opioid-Analgetika (Tramadol)
+    -   1. Wahl: Paracetamol
+        Ibuprofen (maximal 1600 mg/Tag)
+        Bei Bedarf kurzfristige Gabe von Opioid-Analgetika (Tramadol, Pethidin – ohne Stillpause möglich)
+*   -   Chronisch entzündliche Darmerkrankungen
+    -   Mesalazin (letztes Schwangerschaftsdrittel: maximal 2 g/Tag!); Glukokortikoide bei Bedarf (Budesonid, Prednisolon)
+    -   Mesalazin (Diarrhoe des Säuglings!); Glukokortikoide bei Bedarf (Budesonid, Prednisolon)
+*   -   Gerinnungshemmer
+    -   Heparin (auch niedermolekular); ASS (low dose)
+    -   Heparin (auch niedermolekular), ASS (geringe Dosierung bis 150 mg/Tag), Warfarin
+*   -   Lokale Schmerztherapie
+    -   Bupivacain
+    -   Bupivacain
+*   -   Autoimmunerkrankungen
+    -   Prednisolon, Prednison
+    -   Prednisolon, Prednison (Dauertherapie bis 20 mg/Tag ohne Stillpause möglich)
+:::
 
 Literaturstelle:
 

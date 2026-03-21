@@ -56,8 +56,6 @@ Zur Messung der Sauerstoffsättigung mit dem Prinzip der Pulsoxymetrie gibt es v
   Pulsoxymetrie mithilfe eines Sensors.
 
 
-
-
 :::{subfigure} AB
 :subcaptions: below
 :name: Figure-BilderseriePulsoxymeter
@@ -66,10 +64,14 @@ Zur Messung der Sauerstoffsättigung mit dem Prinzip der Pulsoxymetrie gibt es v
 
 Bilderserie: Pulsoxymeter
 
-![Handpulsoxymeter: Sauerstoffsättigung 96 %, Pulsfrequenz 89 / min \[₢ Ch. Pallinger, ℓ MfG\]](/Bilder/Pallinger-Christoph-CCCA/Pulsoxymeter_32779.000800px.jpg)
+![Handpulsoxymeter: Sauerstoffsättigung 96 %, Pulsfrequenz 89 / min \[₢ Ch. Pallinger, ℓ MfG\]](../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Pulsoxymeter_32779_cropped.000800px.jpg)
 
-![Ein Finger-Pulsoxymeter; \[₢ Sebastian Gabriel, ℓ MfG\]](/Bilder/Gabriel-Sebastian-CCCA/N-5/IMG_000457.001341px.jpg)
+![Ein Finger-Pulsoxymeter; \[₢ Sebastian Gabriel, ℓ MfG\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_000457.001341px.jpg)
 :::
+
+
+
+
 
 ## Anwendung
 

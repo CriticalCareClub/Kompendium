@@ -383,27 +383,16 @@ Kontraindikation: Allergie, Lebererkrankungen, Schwangerschaft.
 
 Insulin hat eine Vielzahl an Wirkungen im Körper:
 
-```{eval-rst}
-+----------------------------------+----------------------------------+
-| Metabolischer Effekt             | Förderung des anabolen           |
-|                                  | Stoffwechsels durch Stimulierung |
-|                                  | der Glykogensynthese in der      |
-|                                  | Leber, der Lipidsynthese im      |
-|                                  | Fettgewebe und der               |
-|                                  | Proteinsynthese im Muskel        |
-+----------------------------------+----------------------------------+
-| Hemmung des katabolen            |                                  |
-| Stoffwechsels durch Hemmung der  |                                  |
-| Glykogenolyse, der               |                                  |
-| Glukoneogenese, der Proteinolyse |                                  |
-| und der Lipolyse                 |                                  |
-+----------------------------------+----------------------------------+
-| Membran-Effekt                   | Förderung des Transports von     |
-|                                  | Glukose in Muskel- und Fettzelle |
-|                                  | sowie von Kalium in Leber-,      |
-|                                  | Muskel- und Fettzellen.          |
-+----------------------------------+----------------------------------+
-```
+:::{list-table}
+:header-rows: 0
+
+*   -   Metabolischer Effekt
+    -   Förderung des anabolen Stoffwechsels durch Stimulierung der Glykogensynthese in der Leber, der Lipidsynthese im Fettgewebe und der Proteinsynthese im Muskel
+*   -   Hemmung des katabolen Stoffwechsels durch Hemmung der Glykogenolyse, der Glukoneogenese, der Proteinolyse und der Lipolyse
+    -
+*   -   Membran-Effekt
+    -   Förderung des Transports von Glukose in Muskel- und Fettzelle sowie von Kalium in Leber-, Muskel- und Fettzellen.
+:::
 
 Bei den Insulinen, die therapeutisch eingesetzt werden, kann man zwischen kurzwirksamen und langwirksamen Insulinen unterscheiden
 (vgl. {ref}`Fig-WirkungskurvenInsuline`).
@@ -426,18 +415,18 @@ Verzögerungsinsuline:
 
 Ideal für Basistherapie, Wirkbeginn nach ca. 45 Minuten bis 2 Stunden, Wirkdauer 10->24 Stunden
 
-```{eval-rst}
-+---------------------+-----------------------------------------------+
-| Intermediärinsuline | Insuman Basal®, Protaphane®, Insulin Novo     |
-|                     | Semilente®, Huminsulin Basal®                 |
-+---------------------+-----------------------------------------------+
-| Langzeitinsuline    | **Ultratard®**                                |
-+---------------------+-----------------------------------------------+
-| Insulin glargin     | **Lantus®**                                   |
-+---------------------+-----------------------------------------------+
-| Insulindetemir      | **Levemir®**                                  |
-+---------------------+-----------------------------------------------+
-```
+:::{list-table}
+:header-rows: 0
+
+*   -   Intermediärinsuline
+    -   Insuman Basal®, Protaphane®, Insulin Novo Semilente®, Huminsulin Basal®
+*   -   Langzeitinsuline
+    -   **Ultratard®**
+*   -   Insulin glargin
+    -   **Lantus®**
+*   -   Insulindetemir
+    -   **Levemir®**
+:::
 
 Kombinationsinsuline:
 

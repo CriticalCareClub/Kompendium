@@ -323,27 +323,46 @@ So startete der Verein *Lebensretter* mit einer App für Smartphones, über die 
 Mittels einer Datenbank von öffentlich zugänglichen SAEDs können auch First Responder zum Holen eines Defibrillators parallel disponiert werden.
 Weitere Informationen sind auf der Homepage des Vereins unter  <http://www.lebensretter.at> zu finden.
 
-```{eval-rst}
-.. table:: Übersicht der grundlegenden Einsatzmitteltypen
 
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | Abkz.   | *Name*                 | *Besatzung*          | *Funktion*                      | *Anmerkungen*                                                          |
-    +=========+========================+======================+=================================+========================================================================+
-    | **KTW** | Krankentransportwagen  | 2 RS                 | Krankentransport                | Transport von Patienten, die keine intensiven med. Maßnahmen benötigen |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **RTW** | Rettungstransportwagen | 1 NFS, 1--2 RS       |  Notfallrettung                 | Überstellungen, Versorgung und Transport von Patienten                 |
-    |         |                        |                      |                                 | und Notfallpatienten,                                                  |
-    |         |                        |                      |                                 | Ausstattungsmäßig weitgehend gleichwertig zu einem NAW                 |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NAW** | Notarztwagen           | 1 NA, 1 NFS, 1--2 RS | Notfallrettung, Überstellungen  |  Versorgung und Transport von Notfallpatienten                         |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NEF** | Notarzteinsatzfahrzeug | 1 NFS, 1 NA          | Notfallrettung,  Überstellungen | Versorgung von erkrankten Notfallpatienten,                            |
-    |         |                        |                      |                                 | *kein Transport* ("Notarzt-Zubringer")                                 |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
-    | **NAH** | Notarzthubschrauber    | 1 Pilot, 1 NFS, 1 NA | Notfallrettung, Überstellungen  | Versorgung und Transport von Notfallpatienten  In Deutschland: *RTH*   |
-    +---------+------------------------+----------------------+---------------------------------+------------------------------------------------------------------------+
+:::{list-table} Übersicht der grundlegenden Einsatzmitteltypen
+:header-rows: 1
 
-```
+*   -   Abkz.
+    -   *Name*
+    -   *Besatzung*
+    -   *Funktion*
+    -   *Anmerkungen*
+*   -   **KTW**
+    -   Krankentransportwagen
+    -   2 RS
+    -   Krankentransport
+    -   Transport von Patienten, die keine intensiven med. Maßnahmen benötigen
+*   -   **RTW**
+    -   Rettungstransportwagen
+    -   1 NFS, 1--2 RS
+    -   Notfallrettung
+    -   Überstellungen, Versorgung und Transport von Patienten und Notfallpatienten,
+        ausstattungsmäßig weitgehend gleichwertig zu einem NAW
+*   -   **NAW**
+    -   Notarztwagen
+    -   1 NA, 1 NFS, 1--2 RS
+    -   Notfallrettung, Überstellungen
+    -   Versorgung und Transport von Notfallpatienten
+*   -   **NEF**
+    -   Notarzteinsatzfahrzeug
+    -   1 NFS, 1 NA
+    -   Notfallrettung, Überstellungen
+    -   Versorgung von erkrankten Notfallpatienten,
+        *kein Transport* ("Notarzt-Zubringer")
+*   -   **NAH**
+    -   Notarzthubschrauber
+    -   1 Pilot, 1 NFS, 1 NA
+    -   Notfallrettung, Überstellungen
+    -   Versorgung und Transport von Notfallpatienten
+        In Deutschland: *RTH*
+:::
+
+
 
 
 

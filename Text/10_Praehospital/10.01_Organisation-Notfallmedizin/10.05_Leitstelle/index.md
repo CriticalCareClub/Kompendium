@@ -369,7 +369,7 @@ TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![TETRA Handfunkgerät](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172313.001341px.jpg)
 
-![TETRA Fahrzeugfunkgerät](../../../Bilder/Gabriel-Sebastian-CCCA/IMG_172239.001341px_cropped.jpg)
+![TETRA Fahrzeugfunkgerät](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172239.001341px.jpg)
 :::
 
 ### Telefon

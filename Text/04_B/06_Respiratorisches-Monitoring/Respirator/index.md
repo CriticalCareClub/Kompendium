@@ -27,7 +27,7 @@ Grundsätzlich interessant sind immer die Parameter:
 - Flow über die Zeit
 - Dauer der der In- und Exspirationszeit bzw. I:E:-Verhältnis
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/IMG_215016_edited.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Img/IMG_215016.001341px.jpg
 :width: 100%
 
 Moderner Narkoserespirator mit integriertem Monitoring (Dräger Primus™)

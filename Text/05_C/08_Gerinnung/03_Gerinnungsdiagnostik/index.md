@@ -250,7 +250,7 @@ Bei unklaren Situation sind spezielle Tests (z. B. von-Willebrand-Diagnostik, Pl
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{figure} Blutungsanamnese-Entscheidungsbaum.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Blutungsanamnese-Entscheidungsbaum.png
 :width: 100%
 
 Blutungsanamnese Entscheidungsbaum

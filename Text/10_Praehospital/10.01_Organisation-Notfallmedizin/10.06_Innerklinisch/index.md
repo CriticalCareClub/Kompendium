@@ -119,7 +119,7 @@ Konkrete Beispiele wären:
 - **Rescue-Operationen**, das sind operative Eingriffe, die unmittelbar durchgeführt werden müssen, um Gefahren für Leib und Leben abzuwenden
 
 
-:::{figure} ../../../Bilder/Schinnerl-Viktoria/KS_AN_380_HB_Schockraum-Trauma_V01.00_Analge-Schockraumalgorithmus.png
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Schinnerl-Viktoria/Schockraum-Trauma_Schockraumalgorithmus.png
 
 Beispiel eines Algorithmus zum Management eines traumatologischen Schockraumpatienten \[₢ Viktoria Schinnerl, UK Krems (KS_AN_380) {term}`ℓ MfG`\]
 :::

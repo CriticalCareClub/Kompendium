@@ -41,7 +41,7 @@ Nasopharyngealtuben [₢ Sebastian Gabriel, {term}`ℓ MfG`]
 
 ![Nasopharyngealtuben mit Gleitmittel in unterschiedlichen Größen nach einer fiberoptischen Intubation.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_091000.001341px.jpg)
 
-![Nasopharyngealtuben werden mitunter auch von spontan atmenden oder wachen Anästhesisten toleriert](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_135857.000800.jpg)
+![Nasopharyngealtuben werden mitunter auch von spontan atmenden oder wachen Anästhesisten toleriert](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_135857.000800px.jpg)
 :::
 
 

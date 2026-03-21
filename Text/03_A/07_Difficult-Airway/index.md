@@ -65,41 +65,18 @@ Dazu gehören **Videolaryngoskopie** (mittlerweise weit verbreitet und routinem�
 Die **fiberoptische Wachintubation** kommt bei Patienten mit einem erwartbarem schwierigen Atemweg zum Einsatz, vgl. {ref}`ETI-fiberoptisch`.
 Lebensrettend kann unter Umständen auch eine **Notfalls-Koniotomie** sein.
 
-:::{raw} latex
-\begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 
-\vspace{-1cm}
-
-:::
-
-:::{figure} /Bilder/ASA/11ff01.jpeg
-:width: 100%
-
-aus {term}`♛ ASA Airway 2022` \[₢ American Society of Anesthesiologists. All Rights Reserved.\]
-:::
-:::{raw} latex
-\end{minipage}
-:::
+:::{todo} GRAFIK: Schwieriger Atemweg /ASA/11ff01.jpeg 11ff03.jpeg
 
 
-:::{raw} latex
-\begin{minipage}{\linewidth}
-
-\vspace{-1cm}
-
-:::
-
-
-:::{figure} /Bilder/ASA/11ff03.jpeg
-:width: 100%
+https://www.apsf.org/article/anesthesia-patient-safety-foundation-update-2022-american-society-of-anesthesiologists-practice-guidelines-for-management-of-the-difficult-airway/
 
 aus {term}`♛ ASA Airway 2022` \[₢ American Society of Anesthesiologists. All Rights Reserved.\]
 :::
 
 
-:::{raw} latex
-\end{minipage}
-:::
+
+
 
 :::{admonition} Empfohlene Ressourcen
 

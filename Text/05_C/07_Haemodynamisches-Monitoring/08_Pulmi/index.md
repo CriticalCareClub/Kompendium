@@ -163,7 +163,7 @@ Danach wird der Ballon abgelassen (Wedge-Position ist eine iatrogene Pulmonalemb
 %     in der **Pulmonalarterie** bleibt die Systole weitgehend erhalten, ein gewisser diastolischer Druck bleibt aber nun erhalten  →
 %     schließlich kommt es zur Okklusion einer Lungenarterie und es kann der **Wedge-Druck** (PCWP) gemessen werden
 
-:::{figure} ../Bilder/CC-BY-SA-3.0/Swan-Ganz_catheter_edited.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Swan-Ganz_catheter_edited.jpg
 :alt: Bild
 :width: 100%
 
@@ -194,7 +194,7 @@ Der LVEDP lässt wiederum Rückschlüsse auf das *linksventrikulären enddiastol
 Dabei ist jedoch zu beachten, dass eine direkte Korrelation zwischen Druck und Volumen nur bei normaler Compliance des linken Ventrikels besteht.
 
 
-:::{figure} ../Bilder/CC-BY-SA-3.0/Pulmonary_arterial_catheter_edited_cut.\*
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Pulmonary_arterial_catheter_edited_cut.\*
 PAC in Wedge-Position
 
 Wikimedia Commons, User <https://commons.wikimedia.org/wiki/User:Chikumaya>, {term}`ℓ CC BY-SA 3.0`

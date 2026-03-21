@@ -140,7 +140,7 @@ Die Optimierung des Bedarfs, z.B durch *Anxiolyse*, *Analgesie* und *Sedierung* 
 
 
 
-:::{figure} ../../Bilder/Gabriel-Sebastian-CCCA/Maschine-Mensch-Konsole-1.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Maschine-Mensch-Konsole-1.png
 
 Oxygenation: Therapeutische Interventionsmöglichkeiten
 :::

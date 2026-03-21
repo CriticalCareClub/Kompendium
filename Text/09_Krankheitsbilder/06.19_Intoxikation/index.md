@@ -462,7 +462,7 @@ Körperlich können Patienten *tachykarde Herzrhythmusstörungen* zeigen, *Kramp
 
 Kohlenmonoxid (CO) ist ein farb- und geruchloses Gas. Es entsteht bei unvollständiger Verbrennung (O₂-Zufuhr ↓), dies passiert vor allem bei schlecht gewarteten Gasheizungen und Durchlauferhitzern. CO bindet 300 mal besser an den roten Blutfarbstoff Hämoglobin als O₂, daher verdrängen schon kleine Mengen den Sauerstoff aus dem Blut! Die Folge ist logischerweise eine Unterversorgung mit Sauerstoff.
 
-:::{figure} /Bilder/Gabriel-Sebastian-CCCA/Atemschutz_IMG_2043.000800.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/Atemschutz_IMG_2043.000800px.jpg
 ₢ Sebastian Gabriel  {term}`ℓ MfG`
 :::
 

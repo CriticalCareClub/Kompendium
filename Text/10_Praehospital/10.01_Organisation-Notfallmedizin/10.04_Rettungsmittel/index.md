@@ -154,7 +154,7 @@ Der NAW ist  mit mindestens 3, oft auch 4 Fachkräften besetzt (Mindestqualifika
 
 Eine Sonderform ist der **Sekundär-NAW** (**S-NAW**), welcher für Transferierungsfahrten von arzt- oder intensivpflichtigen Patienten zum Einsatz kommt.
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/PhotosMobileNexus-5-IMG_183917-SNAPSHOT.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/PhotosMobileNexus-5-IMG_183917-SNAPSHOT.000800px.jpg
 
 Der NAW Krems vor der Umstellung auf ein NEF-System. Das Fahrzeug wurde als RTW weiterverwendet.
 :::
@@ -199,7 +199,7 @@ Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 ![NEF der Hamburger Feuerwehr im Einsatz zusammen mit einem RTW](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/IMG_194837.001341px.jpg)
 :::
 
-:::{figure} ../../../Bilder/Gabriel-Sebastian-CCCA/Nef-75-099.001341px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Nef-75-099_crop.jpg
 
 Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :::

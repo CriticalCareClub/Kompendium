@@ -170,7 +170,7 @@ Dazu wird der Absperrhahn zur Atmosphäre und zum Transducer hin geöffnet und d
 Anschließend wird der Absperrhahn zur Atmosphäre wieder geschlossen.
 
 
-:::{figure} ../Bilder/Gabriel-Sebastian/IMG_104744_edited.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104744_edited.jpg
 :alt: Bild
 :width: 100%
 

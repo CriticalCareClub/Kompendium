@@ -91,7 +91,7 @@ Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ
 
 ![Hilfeleistung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/traumacheck1.jpg)
 
-![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../Bilder/Gabriel-Sebastian-CCCA/UEKAISERMUEHLENTUNNEL2011-000246-0154pt-0300dpi.jpg)
+![Sanitäter bei der Versorgung nach einem Verkehrsunfall](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UEKAISERMUEHLENTUNNEL2011-000246.jpg)
 
 
 :::

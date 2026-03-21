@@ -74,7 +74,7 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
 
 Bilderserie: Reanimation
 
-![Monitor-Bild während einer Reanimation im AED-Modus: Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.](/Bilder/Gabriel-Sebastian-CCCA/EKG-Reanimation-VtBewegungsartefakt.000800px.\*)
+![Monitor-Bild während einer Reanimation im AED-Modus: Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/EKG-Reanimation-VtBewegungsartefakt.000800px.\*)
 
 ![Während einer Reanimation kann viel Adrenalin verbraucht werden.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Medikamente-LAdrenalin-Sammlung-Live.000800px.\*)
 :::

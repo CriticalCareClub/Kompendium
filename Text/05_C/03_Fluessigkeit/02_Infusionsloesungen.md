@@ -273,7 +273,7 @@ Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Elo-Mel paediatric](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_155459.001341px.jpg)
 
-![Elo-Mel OP (postoperativ) G](../../Bilder/Gabriel-Sebastian-CCCA/IMG_085349_Detail-EloPostOPG.jpg)
+![Elo-Mel OP (postoperativ) G](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_20250925_085349_Detail-EloPostOPG.000800px.jpg)
 
 ![Glukoselösungen mit unterschiedlicher Glukose-Konzentration (5 %, 10 %, 40 %)](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174505.001341px.jpg)
 

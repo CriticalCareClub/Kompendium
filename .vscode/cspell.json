@@ -1,0 +1,40 @@
+{
+  "version": "0.2",
+  "language": "de,en",
+  "dictionaries": ["DE additional", "DE medical", "Brands", "Myst", "Names"],
+  "dictionaryDefinitions": [
+      {
+          "name": "DE additional",
+          "path": "../Submodules/3134-cspell-dictionaries/cspell_DE-additional.txt",
+          "addWords": true
+      },
+      {
+          "name": "DE medical",
+          "path": "../Submodules/3134-cspell-dictionaries/cspell_DE-medical.txt",
+          "addWords": true
+      },
+      {
+          "name": "Brands",
+          "path": "../Submodules/3134-cspell-dictionaries/cspell_brands.txt",
+          "addWords": true
+      },
+      {
+          "name": "Myst",
+          "path": "../Submodules/3134-cspell-dictionaries/cspell_Myst.txt",
+          "addWords": true
+      },
+      {
+          "name": "Names",
+          "path": "../Submodules/3134-cspell-dictionaries/cspell_names.txt",
+          "addWords": true
+      },
+  ],
+  "ignoreRegExpList": [
+    "\\n:::\\{[\\w\\d]+\\}",    // directives
+    ":[\\wöäü-]+: [\\w\\d-]+",  // arguments in directives
+    "\\{[\\w\\d]+\\}`",         // roles
+    "<[\\w\\d-]+>`",            // optional argument in roles (refs)
+    "\\([\\w\\d-]+\\)=",        // labels
+    "\\[\\^[\\w\\d-]+\\]",      // footnotes
+  ],
+}

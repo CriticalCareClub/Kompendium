@@ -20,7 +20,7 @@ Das Fastrap™-System kann sowohl zusammen mit einer Schaufeltrage, als auch mit
 
 Ferno Fastrap Quick Restraint System™
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 [^footnote-1]: Ferno Fastrap™ / Schaufeltrage: *"The Fastrap™ system is compatible

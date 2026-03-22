@@ -79,7 +79,7 @@ ist die *Durchtrittsstelle des Rückenmarks*.
 
 Aufsicht auf die Schädelbasis
 
-₢ Gray’s Anatomy ℓ Copyright expired
+© Gray’s Anatomy ℓ Copyright expired
 :::
 
 
@@ -113,7 +113,7 @@ Die Unterscheidung ist für die Geburtshilfe interessant, da man dadurch untersc
 
 Fontanellen
 
-₢ Gray’s Anatomy ℓ Copyright expired
+© Gray’s Anatomy ℓ Copyright expired
 :::
 
 

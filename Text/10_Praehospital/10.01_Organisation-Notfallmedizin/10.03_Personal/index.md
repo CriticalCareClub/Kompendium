@@ -87,7 +87,7 @@ Darüber hinaus müssen die *Berufs- bzw. Tätigkeitspflichten* erfüllt werden 
 :class-grid: outline
 :gap: 20px
 
-Sanitäter \[₢ Michael Motal {term}`ℓ MfG`, ₢ Sebastian Gabriel {term}`ℓ MfG`\]
+Sanitäter \[© Michael Motal {term}`ℓ MfG`, © Sebastian Gabriel {term}`ℓ MfG`\]
 
 ![Hilfeleistung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/traumacheck1.jpg)
 
@@ -274,7 +274,7 @@ Angehende Notärztinnen/Notärzte haben im Rahmen einer zumindest **33 monatigen
 
 Ein Notarzt bei einer endotracheale Intubation
 
-₢ Michael Motal {term}`ℓ MfG`
+© Michael Motal {term}`ℓ MfG`
 :::
 
 

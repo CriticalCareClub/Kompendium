@@ -19,7 +19,7 @@
 
 Der Schultergürtel und die obere Extremität
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 Der Arm kann in mehrere Bereiche eingeteilt werden - *Oberarm*

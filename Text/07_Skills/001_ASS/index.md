@@ -114,7 +114,7 @@ es besteht Verletzungungsgefahr.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
+Bilderserie: Medikamentengabe [© Michael Motal, {term}`ℓ MfG`]
 
 ![Kontrolle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrolle_4807-00800.jpg)
 
@@ -181,7 +181,7 @@ Bilderserie: Medikamentengabe [₢ Michael Motal, {term}`ℓ MfG`]
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
+Bilderserie: Infusion [© Christoph Pallinger, {term}`ℓ MfG`]
 
 ![Infusionsbesteck](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Infusionsbesteck_33070_cropped.000800px.jpg)
 
@@ -195,7 +195,7 @@ Bilderserie: Infusion [₢ Christoph Pallinger, {term}`ℓ MfG`]
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Infusion [₢Sebastian Gabriel, {term}`ℓ MfG`]
+Bilderserie: Infusion [©Sebastian Gabriel, {term}`ℓ MfG`]
 
 ![Der Dorn des Infusionsbestecks mit der Tropfkammer wird an der Infusionsflasche oder -beutel befestigt, die Tropfkammer ca. bis zur Hälfte gefüllt.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Infusion-Closeup-Tropfkammer-Live.000800px.\*)
 

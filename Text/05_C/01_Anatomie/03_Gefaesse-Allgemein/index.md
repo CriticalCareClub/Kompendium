@@ -98,7 +98,7 @@ Hier herrscht ein weitaus geringerer Blutdruck als im arteriellen System.
 
 Schema des Blutkreislaufs
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Der Kreislauf kann somit in zwei Teilbereiche untergliedert werden:
@@ -123,7 +123,7 @@ Das Niederdrucksystem umfasst die Körpervenen, das rechte Herz und die Lungenge
 
 Der Blutkreislauf (Schema)
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Vom Erwachsenen-Kreislauf unterscheidet sich der *fetale Kreislauf* in einigen markanten Stellen.

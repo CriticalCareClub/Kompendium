@@ -128,9 +128,9 @@ Es gibt *zwei Arten von Klappen*:
 
 Bilderserie: Herz
 
-![\[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herzvorderflaeche.\*)
+![\[© Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herzvorderflaeche.\*)
 
-![Das Herz, schematisch \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Schema_edited.\*)
+![Das Herz, schematisch \[© Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Schema_edited.\*)
 :::
 
 
@@ -214,9 +214,9 @@ Hier befinden sich zahlreiche sog. Gap Junctions, die über direkte Ionenströme
 
 Bilderserie: Reizleitungssystem
 
-![Reizleitungssystem, Schema \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch (Illustrator), C. Carl Jaffe (MD, Cardiologist), Yale University Center for Advanced Instructional Media, ℓ CC-BY\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Reizleitungssystem_1.\*)
+![Reizleitungssystem, Schema \[© J. Heuser, basierend auf der Arbeit von Patrick J. Lynch (Illustrator), C. Carl Jaffe (MD, Cardiologist), Yale University Center for Advanced Instructional Media, ℓ CC-BY\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Reizleitungssystem_1.\*)
 
-![Erregungsleitungssystem des Herzens \[₢ Lena Hirtler, ℓ {term}`MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Erregungsleitungssystem.png)
+![Erregungsleitungssystem des Herzens \[© Lena Hirtler, ℓ {term}`MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Erregungsleitungssystem.png)
 
 :::
 
@@ -231,7 +231,7 @@ Die Erregungsausbreitungsvorgang kann mittels {ref}`Elektrokardiogramm <Fig-Ekg>
 
 EKG
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Die P-Welle steht für die Depolarisation (~Kontraktion) der Vorhöfe.

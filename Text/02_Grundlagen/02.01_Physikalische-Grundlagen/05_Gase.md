@@ -136,7 +136,7 @@ Die Konzentration hängt laut dem Gesetz von William Henry vom  Partialdruck ab.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Konzentration, Partialdruck und das Henry-Gesetz. [₢ Johannes Schneider, {term}`ℓ CC-BY-SA 4.0`]
+Bilderserie: Konzentration, Partialdruck und das Henry-Gesetz. [© Johannes Schneider, {term}`ℓ CC-BY-SA 4.0`]
 
 ![Die Konzentration an Teilchen in der flüssigen Phase (hier blau dargestellt) hängt vom Partialdruck ab.](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Konzentrationsabhaengigkeit_vom_Partialdruck_1.\*)
 

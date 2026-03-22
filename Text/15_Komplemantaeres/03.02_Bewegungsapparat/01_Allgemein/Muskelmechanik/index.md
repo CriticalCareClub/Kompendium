@@ -27,7 +27,7 @@ Muskel können nur Zug und keinen Druck ausüben, daher sind **Gegenspieler** no
 
 Muskelzug
 
-₢ Gray’s Anatomy  ℓ Copyright expired
+© Gray’s Anatomy  ℓ Copyright expired
 :::
 
 

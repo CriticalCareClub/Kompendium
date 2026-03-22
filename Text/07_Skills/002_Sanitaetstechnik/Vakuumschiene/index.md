@@ -27,7 +27,7 @@ Die Vakuumbeinschiene dient zum Ruhigstellen von Verletzungen *vom Knie abwärts
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Beinschiene_32977_crop.001341px.jpg
 Vakuumbeinschiene mit Zubehör
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 ### Vorgehen

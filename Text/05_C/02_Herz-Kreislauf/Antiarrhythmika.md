@@ -24,7 +24,7 @@ beeinflussen.
 
 Aktionspotential des Herzens
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Die Erregungskurze einer Herzzelle ist enorm abhängig vom jeweiligen Anionen- bzw. Kationenstrom. Auf diesem Schema basieren auch die Antiarrhythmika – Je nach dem welches Elektrolyt man durch diese Medikamente hemmt, verändert sich das Aktionspotential und eine Rhythmusstörung wird verhindert.

@@ -213,7 +213,7 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Wundarten [₢ David Hauer, :term:`ℓ MfG`]
+Bilderserie: Wundarten [© David Hauer, :term:`ℓ MfG`]
 
 ![Rissquetschwunde vor der Versorgung im Spital](../../../Submodules/3134-medical-picture-collection/Hauer-David/wunde_rqw1.*)
 

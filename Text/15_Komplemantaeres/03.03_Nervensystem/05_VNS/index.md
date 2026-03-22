@@ -138,7 +138,7 @@ Dabei wird die Leistung jener Organsysteme, die dringend benötigt werden
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Parasymp-Symp-Cartoon.\*
 "Fight or flight, rest and digest."
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 

@@ -145,7 +145,7 @@ Zu beachten ist jedoch, dass ein (noch) kleiner Pneumothorax je nach Strahlengan
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Spannungspneu+Drainage.png
 
-Ein linksseitiger Spannungspneumothorax vor (oben) und nach (unten) Anlage einer Thoraxdrainage. Gut zu sehen ist die Verlagerung des Mediastinums hin zur gesunden Seite sowie die fehlende Strukturzeichnung im linksseitigen Pneumothorax. [₢ [Cupr78up](https://de.wikipedia.org/wiki/Benutzer:Cupr78up), {term}`ℓ CC BY-SA 3.0`]
+Ein linksseitiger Spannungspneumothorax vor (oben) und nach (unten) Anlage einer Thoraxdrainage. Gut zu sehen ist die Verlagerung des Mediastinums hin zur gesunden Seite sowie die fehlende Strukturzeichnung im linksseitigen Pneumothorax. [© [Cupr78up](https://de.wikipedia.org/wiki/Benutzer:Cupr78up), {term}`ℓ CC BY-SA 3.0`]
 :::
 
 
@@ -190,14 +190,14 @@ M-Mode:
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Sea_shore_sign_on_a_lung_ultrasound.jpg
 
 Das Seashore Sign im M-Mode ist ein Normalbefund, die atmungsbedingten Bewegungsartefakte erinnern an einen Sandstrand.
-[₢ [Tinss](https://commons.wikimedia.org/wiki/User:Tinss), {term}`ℓ CC BY-SA 4.0`]
+[© [Tinss](https://commons.wikimedia.org/wiki/User:Tinss), {term}`ℓ CC BY-SA 4.0`]
 :::
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Barcode-Zeichen.jpg
 :width: 50%
 
 Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponieren als Striche wenn die Echos über die Zeit aufgetragen werden.
-[₢ [Cuprschomynv](https://de.wikipedia.org/wiki/Benutzer:Schomynv), {term}`ℓ PD`]
+[© [Cuprschomynv](https://de.wikipedia.org/wiki/Benutzer:Schomynv), {term}`ℓ PD`]
 :::
 
 
@@ -383,7 +383,7 @@ In umgekehrter Richtung verschliessen die Membranen jedoch das Lumen.
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Heimlich_valve.png
 :width: 70%
 
-Heimlich-Ventil \[₢ [Orinoco-w](https://commons.wikimedia.org/wiki/User:Orinoco-w) {term}`ℓ CC BY-SA 3.0`\]
+Heimlich-Ventil \[© [Orinoco-w](https://commons.wikimedia.org/wiki/User:Orinoco-w) {term}`ℓ CC BY-SA 3.0`\]
 :::
 
 Eine praktikablere Form stellt das **Wasserschloss** dar:

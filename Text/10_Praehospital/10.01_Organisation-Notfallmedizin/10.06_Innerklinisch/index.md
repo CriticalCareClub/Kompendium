@@ -101,7 +101,7 @@ Es handelt sich dabei um eine Einrichtung, die die Versorgung kritischer, akut v
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Scenes/IMG_083637.001341px.jpg
 
-Ein Schockraum \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Ein Schockraum \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
 
@@ -121,7 +121,7 @@ Konkrete Beispiele wären:
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Schinnerl-Viktoria/Schockraum-Trauma_Schockraumalgorithmus.png
 
-Beispiel eines Algorithmus zum Management eines traumatologischen Schockraumpatienten \[₢ Viktoria Schinnerl, UK Krems (KS_AN_380) {term}`ℓ MfG`\]
+Beispiel eines Algorithmus zum Management eines traumatologischen Schockraumpatienten \[© Viktoria Schinnerl, UK Krems (KS_AN_380) {term}`ℓ MfG`\]
 :::
 
 

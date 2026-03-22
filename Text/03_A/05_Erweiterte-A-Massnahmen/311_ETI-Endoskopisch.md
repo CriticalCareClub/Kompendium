@@ -121,7 +121,7 @@ Idealerweise übernimmt eine dezidierte Person, die mit der FOI praktisch vertra
 
 Mittels unterschiedlich großer Wendl-Tuben kann das Nasenloch schrittweise dilatiert werden
 
-\[₢ GaSe  {term}`ℓ MfG`\]
+\[© GaSe  {term}`ℓ MfG`\]
 :::
 
 #### Komplikationen

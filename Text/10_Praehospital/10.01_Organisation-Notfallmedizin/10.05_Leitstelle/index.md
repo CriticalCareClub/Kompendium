@@ -53,7 +53,7 @@ Die Meldungen unterlaufen eine *Einteilung und Priorisierung* nach Art und Dring
 
 Call taker in einer Leitstelle
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+© Sebastian Gabriel {term}`ℓ MfG`
 :::
 
 Der Leitstelle obliegt die Entscheidung, *welche Einsatzmittel* eingesetzt werden, oft wird dazu nach einer Alarm- und **Ausrückordnung** vorgegangen.
@@ -364,7 +364,7 @@ Mittels TETRA ist einerseits die direkte Kommunikation zwischen Endgeräten mög
 :class-grid: outline
 :gap: 20px
 
-TETRA Funkgeräte \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+TETRA Funkgeräte \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 
 ![TETRA Handfunkgerät](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172313.001341px.jpg)

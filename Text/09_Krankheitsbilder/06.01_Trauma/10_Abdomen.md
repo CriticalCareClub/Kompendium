@@ -43,7 +43,7 @@ In einigen Büchern ist das Bauchtrauma als Untergruppe des akuten Abdomens klas
 
 Offenes Bauchtrauma mit Austritt von Darmschlingen
 
-₢ David Hauer {term}`ℓ MfG`
+© David Hauer {term}`ℓ MfG`
 :::
 
 Offene Bauchtraumata sind seltener als geschlossene Bauchtraumata. Beim offenen Bauchtrauma kann es zum Austritt von Darmschlingen kommen. Die Größe der Eintrittswunde sagt nichts über den Schweregrad der Verletzung aus, da unter der Eintrittswunde unterschiedlich schwere Organschäden mit inneren Blutungen versteckt sein können. In 25 % der Fälle treten Begleitverletzungen im Brustkorb auf (Strauss and Fülöp, n.d.).

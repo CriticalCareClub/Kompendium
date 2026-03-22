@@ -120,7 +120,7 @@ Alle Katecholamine wirken über G-Protein-gekoppelte Rezeptoren, entweder Adreno
 :class-grid: outline
 :gap: 20px
 
-Katecholamine [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Katecholamine [© Sebastian Gabriel  {term}`ℓ MfG`]
 
 
 ![Adrenalin ist ein Standardmedikament bei der Reanimation aufgrund seiner positiv inotropen und vasopressorischen Eigenschaften](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Medikamente-LAdrenalin-Sammlung-Live.000800px.jpg)

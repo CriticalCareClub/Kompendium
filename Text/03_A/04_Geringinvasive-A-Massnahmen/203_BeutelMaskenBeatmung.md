@@ -42,7 +42,7 @@ Zur Beutel-Masken-Beatmung wird ein selbstfüllender Beatmungsbeutel zusammen mi
 
 Selbstfüllender Beatmungsbeutel "Ambu Mark IV" mit Reservoir, O₂-Verbindungsschlauch, Bakterienfilter, Beatmungsmaske und aufgestecktem PEEP-Ventil
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 :::{margin} Bestandteile
@@ -91,7 +91,7 @@ Sobald die Maske nicht mehr dicht aufsitzt, verliert das PEEP-Ventil seine Wirku
 Beatmungsmasken unterschiedlicher Größen: 0, 2,
 3/4, 5. Die Farben der Masken haben keine besondere Bedeutung.
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 % Hygienische Wiederaufbereitung
@@ -146,7 +146,7 @@ Die Beatmung soll grundsätzlich in einer normalen Atemfrequenz ("*Eigenfrequenz
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Die Technik der Beutel-Masken-Beatmung [₢ Lena Hirtler  {term}`ℓ MfG`]
+Bilderserie: Die Technik der Beutel-Masken-Beatmung [© Lena Hirtler  {term}`ℓ MfG`]
 
 ![CE-Griff](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/CGriff.\*)
 

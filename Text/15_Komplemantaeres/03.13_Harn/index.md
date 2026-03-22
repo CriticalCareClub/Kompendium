@@ -47,7 +47,7 @@ Am oberen Nierenpol liegt die Nebenniere an.
 
 Die Nieren
 
-₢ WmCo/Mikael Häggström and Madhero88 ℓ PD
+© WmCo/Mikael Häggström and Madhero88 ℓ PD
 :::
 
 :::{margin} Niere, Aufgaben
@@ -246,5 +246,5 @@ Zu den Harnwegen gehören:
     Durch die kürzeren Harnwege bei der Frau kann es leichter zu
     *Harnwegsinfektionen* kommen.
 
-```{todo} image  Harntraktmit Nieren (rechte Niere im Querschnitt mit Nierenbecken), Harnleiter, Blase und Harnröhre[Figure-harntrakt]₢ Lena Hirtler, :term:ℓ MfG
+```{todo} image  Harntraktmit Nieren (rechte Niere im Querschnitt mit Nierenbecken), Harnleiter, Blase und Harnröhre[Figure-harntrakt]© Lena Hirtler, :term:ℓ MfG
 ```

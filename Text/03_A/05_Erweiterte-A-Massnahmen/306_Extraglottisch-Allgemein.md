@@ -18,7 +18,7 @@ Die ETI gilt an sich als Goldstandard der Atemwegssicherung, dennoch hat sie ein
 :class-grid: outline
 :gap: 20px
 
-Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung  [₢ Lena Hirtler  {term}`ℓ MfG`]
+Übersicht: Lage verschiedener Hilfsmittel zur Atemwegssicherung  [© Lena Hirtler  {term}`ℓ MfG`]
 
 ![Im Vergleich: Lage eines Larynx-Tubus](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageLarynxTubus.\*)
 

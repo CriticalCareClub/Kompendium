@@ -71,7 +71,7 @@ Lebensrettend kann unter Umständen auch eine **Notfalls-Koniotomie** sein.
 
 https://www.apsf.org/article/anesthesia-patient-safety-foundation-update-2022-american-society-of-anesthesiologists-practice-guidelines-for-management-of-the-difficult-airway/
 
-aus {term}`♛ ASA Airway 2022` \[₢ American Society of Anesthesiologists. All Rights Reserved.\]
+aus {term}`♛ ASA Airway 2022` \[© American Society of Anesthesiologists. All Rights Reserved.\]
 :::
 
 

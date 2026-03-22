@@ -21,7 +21,7 @@ Die Kinozilien schlagen immer rachenwärts und sorgen für einen kontinuierliche
 
 Die Atemwege, Übersicht
 
-₢ Mariana Ruiz Villarreal
+© Mariana Ruiz Villarreal
 ℓ Public domain
 :::
 

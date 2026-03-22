@@ -63,7 +63,7 @@ Der Hypothalamus selbst bildet noch zwei weitere Hormone, Oxytozin und Adiuretin
 
 Regelkreis des Hypothalamus-Hypophysen-Schilddrüsen-Systems
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Es gibt zwei Schilddrüsenhormone, Triiodthyronin (T3) und Thyroxin (T4).
@@ -110,7 +110,7 @@ Zu wenig Insulin bzw. zu viel Glukagon bedeuten die Erkrankung an Diabetes melli
 
 Regelkreis von Insulin und Glukagon
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 ### Hormone der Nebennierenrinde
@@ -128,7 +128,7 @@ Die Rinde der Nebenniere ist in drei Zonen eingeteilt, die wiederum jeweils eige
 
 Regelkreis der Nebennierenrinde
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Glukokortikoide beeinflussen den Fettkreislauf (steigern Lipolyse, vermindern Lipogenese), den Proteinstoffwechsel (steigern Proteinabbau), den Glukosestoffwechsel (steigern Glukoneogenese), Entzündungsprozesse
@@ -181,7 +181,7 @@ Finden Befruchtung und Nidation nicht statt, sinkt die Produktion der Ovarialhor
 
 Der ovarielle Zyklus
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 
@@ -329,7 +329,7 @@ Bei Schilddrüsentherapeutika gibt es zwei Gruppen. Die Schilddrüsenhormone, di
 
 Beeinflussung der Schilddrüsenstörungen durch Therapeutika
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 ### Schilddrüsenhormone
@@ -450,7 +450,7 @@ Wirkungskurven der verschiedenen Insuline
 
 1=kurzwirkende Insuline (z.B. Insulin lispro, Insulin aspart, Insulinglulisin), 2=Normalinsulin, 3=Kombinationsinsulin
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 ### Orale Antidiabetika
@@ -812,7 +812,7 @@ Konventionelle Insulintherapie
 Hier muss ein straffer Plan an Hauptmahlzeiten (M) und Zwischenmahlzeiten eingehalten werden. Das Kombinationsinsulin (1/3 Normalinsulin, 2/3 Intermediärinsulin, Pfeil)
 wird zweimal verabreicht.
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 - {ref}`intensivierte konventionelle Insulintherapie <Fig-IntensivierteKonventionelleInsulintherapie>`:
@@ -832,7 +832,7 @@ Intensivierte konventionelle Insulintherapie
 
 Therapie nach dem Basis-Bolus-Prinzip, Insulindosis-Anpassung an Nahrungsaufnahme, Blutzuckerspiegel, Aktivität.
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 - Insulinpumpe: über eine ständige Subkutannadel wird eine ständige

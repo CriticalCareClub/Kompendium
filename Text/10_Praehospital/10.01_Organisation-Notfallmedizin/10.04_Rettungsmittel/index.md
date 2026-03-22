@@ -119,7 +119,7 @@ RTW-C: NKV oder NFS?
 :class-grid: outline
 :gap: 20px
 
-RTWs \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+RTWs \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![RTW der Feuerwehr Hamburg](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/RTW/Hamburg/IJ8A2610_CR2_embedded.001341px.jpg)
 
@@ -192,7 +192,7 @@ Notarzt, 1 Notfallsanitäter).
 :class-grid: outline
 :gap: 20px
 
-Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Notarzteinsatzfahrzeuge \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![NEF der Wiener Berufsrettung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Vienna/IMG_150551.001341px.jpg)
 
@@ -201,7 +201,7 @@ Notarzteinsatzfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Nef-75-099_crop.jpg
 
-Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Niederösterreichisches Standard-NEF  \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
 :::{subfigure} AA|BC|DE
@@ -210,7 +210,7 @@ Niederösterreichisches Standard-NEF  \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
 :class-grid: outline
 :gap: 20px
 
-Ausstattung des Niederösterreich-NEF \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Ausstattung des Niederösterreich-NEF \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Laderaum](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NEF/Noe/IMG_172004.001341px.jpg)
 
@@ -284,7 +284,7 @@ Die Besetzung ist uneinheitlich, zwingend erforderlich sind jedoch mind.
 :class-grid: outline
 :gap: 20px
 
-Notarzthubschrauber \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Notarzthubschrauber \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![NAH](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/NAH/2017-Ukk-0002968-2240.001341px.jpg)
 
@@ -376,7 +376,7 @@ Neben den vorgenannten "Standardtypen" werden für die Erfüllung spezieller Anf
 :class-grid: outline
 :gap: 20px
 
-Sonderfahrzeuge \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Sonderfahrzeuge \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Einsatzfahrzeug des "Fieldsupervisors" (FISU) der Wiener Berufsrettung. Der FISU unterstützt Mannschaften im Einsatz bei besonderen Lagen und ist für die Qualitätssicherung vor Ort zuständig.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Vehicles/Supervisor/2017-Vienna-2017-0005646-9593.001341px.jpg)
 

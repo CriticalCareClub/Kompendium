@@ -76,7 +76,7 @@ Dies ist durch die typische Haltung des Patienten (aufgestützte Hände etc.) of
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Breathing [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Bilderserie: Breathing [© Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Zyanotische Lippen](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.\*)
 
@@ -170,11 +170,11 @@ Zusätzlich zum Totraum, der durch die anatomischen Strukturen vorgegeben ist, g
 
 Bilderserie: Breathing
 
-![Annäherung an den Patienten \[₢ Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.*)
+![Annäherung an den Patienten \[© Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.*)
 
-![Die Rippen folgen der Atembewegung \[₢ :term:`HiLe`, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
+![Die Rippen folgen der Atembewegung \[© :term:`HiLe`, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
 
-![Zyanotische Lippen \[₢ :term:`GaSe`, :term:`ℓ MfG`, {term}`UE2011FORTUNA-00651`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.*)
+![Zyanotische Lippen \[© :term:`GaSe`, :term:`ℓ MfG`, {term}`UE2011FORTUNA-00651`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.*)
 
 :::
 
@@ -188,7 +188,7 @@ Sie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab.
 Die Erstmaßnahmen bei vital bedrohten Patienten wurden ergriffen:
 Situationsgerechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztnachforderung und Monitoring.
 
-₢ {term}`GaSe` {term}`ℓ MfG`
+© {term}`GaSe` {term}`ℓ MfG`
 :::
 
 

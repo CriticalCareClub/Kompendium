@@ -55,7 +55,7 @@ Ein Lungenödem kann klassisch aufgrund einer *Herzschwäche* (*kardial*), aufgr
   Lungengewebe.
 
 :::{note}
-Ein kardiales und ein hypertensives Lungenödem zeigen mit dem Leitsymptom "Atemnot" zwar primär ein Ⓑ-*Symptom*, ursächlich ist jedoch eine Kreislaufstörung und somit ein ₢-*Problem*.
+Ein kardiales und ein hypertensives Lungenödem zeigen mit dem Leitsymptom "Atemnot" zwar primär ein Ⓑ-*Symptom*, ursächlich ist jedoch eine Kreislaufstörung und somit ein ©-*Problem*.
 :::
 
 In allen Fällen behindern die Ödeme bzw. die Flüssigkeit in den Alveolen den *Gasaustausch*, d. h. die Diffuion, massiv, beim kardialen Lungenödem kommt noch das begleitende Herz- und damit Kreislaufproblemproblem dazu.

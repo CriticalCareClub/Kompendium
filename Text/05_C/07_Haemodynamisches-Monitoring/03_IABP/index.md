@@ -129,9 +129,9 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 
 Arteriensystem
 
-![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
-![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
+![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
 
 :::
 
@@ -178,7 +178,7 @@ Elektrische vs. mechanische Herzfunktion: EKG- (oben, grün) und Arterienkurve (
 
 Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch eine Stimulationselektrode, demnach folgt ihnen auch keine Druckwelle.
 
-₢ GaSe {term}`ℓ CC BY AUT 3.0`
+© GaSe {term}`ℓ CC BY AUT 3.0`
 :::
 
 :::{todo} {issue}`129` Bilder: IBP

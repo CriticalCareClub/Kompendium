@@ -19,5 +19,5 @@ Der Patient ist im Tragsessel *immer anzuschnallen*. Beim Transport über Stiege
 
 Tragsessel
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::

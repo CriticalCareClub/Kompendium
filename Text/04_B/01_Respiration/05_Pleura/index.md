@@ -43,5 +43,5 @@ Ein Eintreten von Luft in diesen Spalt hebt diese Kraft auf, die Lunge würde au
 
 Pleura, Schema
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::

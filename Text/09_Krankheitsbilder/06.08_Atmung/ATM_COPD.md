@@ -52,7 +52,7 @@ Entwicklung einer COPD-Erkrankung
 Eine COPD entsteht nicht plötzlich: Ein COPDler hat eine
 "Karriere" hinter sich.
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 
@@ -84,7 +84,7 @@ Veränderung der Atemwege bei der COPD
 *Oben rechts:* Bei der COPD sind die kleinen Luftwege verschleimt und verengt.
 *Unten rechts:* Die Lungenbläschen (Alveolen) sind überbläht, weil die Luft nur erschwert wieder entweichen kann.
 
-₢ Lena Hirtler
+© Lena Hirtler
 {term}`ℓ MfG`
 :::
 

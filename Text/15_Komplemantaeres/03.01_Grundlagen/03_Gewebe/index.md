@@ -242,7 +242,7 @@ Man kann einen mehrschichtigen Aufbau erkennen (von außen nach innen):
 
 Ein langer Röhrenknochen im Querschnitt
 
-₢ Lena Hirtler {term}`ℓ MfG`
+© Lena Hirtler {term}`ℓ MfG`
 :::
 
 

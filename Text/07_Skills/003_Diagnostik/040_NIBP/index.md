@@ -86,7 +86,7 @@ Es gibt Manschetten in unterschiedlichen Größen.
 
 Blutdruckmanschetten mit Hak- und Klettverschluss, sowie einem Doppel- und einem Einzelkopfstethoskop
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 (stethoskop)=
@@ -174,7 +174,7 @@ Prinzip der auskultatorischen RR-Messung
 
 In Abhängigkeit vom außen anliegenden Manschettendruck kommt es zu einem unterschiedlich starken Blutfluss und dadurch entstehenden, hörbaren, Strömungsgeräuschen.
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 ### Palpatorische Methode

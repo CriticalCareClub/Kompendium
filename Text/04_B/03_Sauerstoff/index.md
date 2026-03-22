@@ -72,7 +72,7 @@ angeschlossen.
 
 Eine Sauerstoffflasche mit Druckminderer/Berieselungseinheit
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 
@@ -247,7 +247,7 @@ durchgeführt werden.
 :align: right
 :width: 50%
 
-₢ Michael Motal  {term}`ℓ MfG`
+© Michael Motal  {term}`ℓ MfG`
 :::
 
 Die Verabreichung von Sauerstoff ist eine wichtige und häufige Maßnahme.
@@ -293,7 +293,7 @@ zeigt den Druck in der Sauerstoffflasche an, wenn das Hauptventil geöffnet ist.
 
 Druckminderer mit integrierter Berieselungseinheit an einer Sauerstofflasche
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 
@@ -320,7 +320,7 @@ Die O₂-Berieselung kann *nur bei vorhandener Spontanatmung* durchgeführt werd
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Mittel zur Berieselung mit Sauerstoff [₢ Ch. Pallinger, {term}`ℓ MfG`]
+Bilderserie: Mittel zur Berieselung mit Sauerstoff [© Ch. Pallinger, {term}`ℓ MfG`]
 
 ![Sauerstoffbrille](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Anton_32988_cropped.000800px.jpg)
 

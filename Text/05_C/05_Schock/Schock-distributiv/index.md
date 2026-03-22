@@ -136,7 +136,7 @@ Die Symptome sind Abhängig vom Schweregrad und Stadium, siehe dazu Tafel {ref}`
 
 Urtikarieller Ausschlag nach Kontakt mit einer Pflanze
 
-\[₢ [WikiRigaou](https://commons.wikimedia.org/wiki/User:WikiRigaou), {term}`ℓ CC BY-SA 3.0`\]
+\[© [WikiRigaou](https://commons.wikimedia.org/wiki/User:WikiRigaou), {term}`ℓ CC BY-SA 3.0`\]
 :::
 
 Die Klinik des septischen und toxischen Schocks werden ebenda besprochen.

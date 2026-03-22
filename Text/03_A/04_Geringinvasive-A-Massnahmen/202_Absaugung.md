@@ -51,7 +51,7 @@ Die Farbkodierung gibt den Durchmesser des Absaugkatheters an.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Verschiedene Absaugvorrichtungen [₢ Ch. Pallinger, {term}`ℓ MfG`]
+Bilderserie: Verschiedene Absaugvorrichtungen [© Ch. Pallinger, {term}`ℓ MfG`]
 
 ![Elektrische Absaugeinheit der Fa. Weinmann (Accuvac)](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Accuvac_32820_crop.000800px.jpg)
 

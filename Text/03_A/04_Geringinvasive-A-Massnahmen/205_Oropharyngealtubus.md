@@ -34,7 +34,7 @@ Erschwerend kann es durch Verletzungen zu Blutungen und damit wiederum zun einer
 :name: Fig-BS-GuedelTubusEinfuehren
 :class-grid: outline
 
-Bilderserie: Einführen des Guedel-Tubus [₢ Lena Hirtler, {term}`ℓ MfG`]
+Bilderserie: Einführen des Guedel-Tubus [© Lena Hirtler, {term}`ℓ MfG`]
 
 ![Abmessung der Größe: Abstand Mundwinkel - Ohrläppchen](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/GuedelTubus1.*)
 

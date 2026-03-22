@@ -13,7 +13,7 @@
 
 Weibliche Geschlechtsorgane, Querschnitt
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 ## Ovar (Eierstöcke)
@@ -100,7 +100,7 @@ Am Tag 0 des Zyklus wird die Uterusschleimhaut abgestoßen, es kommt zur Regelbl
 Am Tag 14 erfolgt der Eisprung. Kommt es zu keiner Befruchtung, wird die Schleimhaut erneut am Tag 28 abgestoßen.
 Nach einer Befruchtung wandert die Eizelle weiter in den Uterus und nistet sich dort ein.
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 ## Tuba uterina / Salpinx (Eileiter)

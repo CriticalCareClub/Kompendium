@@ -37,7 +37,7 @@ Das osmotisches Gleichgewicht ist durch Na- und K-Ionen konstant.
 
 Osmose und Diffusion: Osmotisch wirksame Teilchen bauen einen Druck (Sog) auf, welcher Wasser durch eine semipermeable Membran anzieht.
 
-\[₢ WMC (Sander van der Molen), ℓ Public domain\]
+\[© WMC (Sander van der Molen), ℓ Public domain\]
 :::
 
 <!-- - Regulation durch Antidiruretisches Hormon ADH
@@ -60,7 +60,7 @@ Für eine ausgeglichene Flüssigkeitsbilanz benötigt der Mensch im Durchschnitt
 :width: 60%
 
 Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Während kleine Moleküle (Elektrolyte wie Natrium, Kalium etc.), und mit ihnen das Wasser, in dem sie gelöst sind, weitgehend frei durch die Blutgefäßwand diffundieren können, werden Makromoleküle (z.B. Albumin) zurückgehalten und üben einen kolloidosmotischen Druck aus, welches Wasser in das Gefäß zieht.
-\[₢ WMC/pidalka44, ℓ Public domain\]
+\[© WMC/pidalka44, ℓ Public domain\]
 :::
 
 Der **kolloidosmotische Druck** wird durch *Makromoleküle* an der Kapillarwand hervorgerufen, welche selbige nicht passieren können, und beträgt im Plasma 25—28 mm Hg.

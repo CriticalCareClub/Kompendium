@@ -130,7 +130,7 @@ Die Gelenke des Thorax[^gelenkethorax] sind Scharniergelenke.
 
 Der knöcherne Thorax
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 Die Hauptfunktion der Muskeln des Brustkorbs liegt in der Atmung.

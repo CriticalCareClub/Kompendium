@@ -34,7 +34,7 @@ Notfallsituationen sind eher eine Domäne der {ref}`Koniotomie <Koniotomie>`.
 :class-grid: outline
 :gap: 20px
 
-Tracheostoma \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Tracheostoma \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![Patient beatmet über ein Tracheostoma](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tracheostomy/IMG_140940.001341px.jpg)
 

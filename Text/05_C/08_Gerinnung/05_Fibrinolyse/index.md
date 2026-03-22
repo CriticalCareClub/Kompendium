@@ -32,7 +32,7 @@ Gerinnung und Fibrinolyse
 Der Faktor XII schützt diesen Thrombus vor der Fibrinolyse.
 Das Fibrinolysesystem sorgt dafür, dass es keine überflüssige Gerinnselbildung gibt und für den Abbau des nach der Verheilung der Läsion unnötig gewordenen Thrombus.
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Unter Fibrinolyse versteht man das Auflösen eines Thrombus. Gerinnung und Fibrinolyse müssen immer im Gleichgewicht stehen.
@@ -81,5 +81,5 @@ Plasminogen–Plasmin–Kaskade der Fibrinolyse
 
 Hier sind die verschiedenen Ansatzpunkte der Fibrinolyse-Aktivatoren sowie deren Hemmer dargestellt. Die Fibrinolyse kann über drei verschiedene Wege in Gang gebracht werden – über einen intrinsischen, einen extrinsischen und einen exogenen, das heißt medikamentösen, Weg.
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::

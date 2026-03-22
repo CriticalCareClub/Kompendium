@@ -27,7 +27,7 @@ Die Wirbelsäule liegt dorsal in der *Mediansagittalebene* und besteht aus 33—
 
 Wirbelsäule
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 
@@ -82,7 +82,7 @@ Die Wirbeln gliedern sich in:
 
 Wirbelsäule
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 
@@ -129,7 +129,7 @@ Durch dieses Foramen intervertebrale verlaufen die *Spinalnerven* des Rückenmar
 
 Wirbel
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 

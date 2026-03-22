@@ -293,7 +293,7 @@ Für den Transport muss man den *Fremdkörper mittels eines Verbandes sichern*, 
 
 Bilderserie: Fremdkörper
 
-![Fixierung eines penetrierenden Fremdkörpers. \[₢ David Hauer, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hauer-David/fremdkoerper-stich-fixierung.\*)
+![Fixierung eines penetrierenden Fremdkörpers. \[© David Hauer, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hauer-David/fremdkoerper-stich-fixierung.\*)
 
 ![Stich mit einem Küchenmesser. Das Messer verbleibt im Körper …](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Wounds/fremdkoerper-stich-messer-01.\*)
 

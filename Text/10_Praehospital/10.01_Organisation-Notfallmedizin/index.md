@@ -20,7 +20,7 @@ Welche Herausforderungen gilt es denn zu meistern, dass so viele daran Beteiligt
 
 Im Notfall ist die Organisationszugehörigkeit nebensächlich.
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+© Sebastian Gabriel {term}`ℓ MfG`
 :::
 
 

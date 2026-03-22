@@ -65,7 +65,7 @@ Im Akutfall kann der Normalbereich jedoch großzügiger angesetzt werden, da bei
 
 Bilderserie: Blutzuckermessung
 
-![Material zur Blutzuckermessung \[₢ Ch. Pallinger, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Blutzucker_32796_cropped.000800px.jpg)
+![Material zur Blutzuckermessung \[© Ch. Pallinger, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Blutzucker_32796_cropped.000800px.jpg)
 
 ![](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.jpg)
 

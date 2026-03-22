@@ -77,7 +77,7 @@ Folgende Komplikationen können entstehen:
 
 Entstehung und Behandlung der Hypertonie
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Der Blutdruck im menschlichen Körper wird von dreierlei Größen beeinflusst: Herzzeitvolumen (zusammengesetzt aus Herzfrequenz und Schlagvolumen), peripherer Gefäßwiderstand und intravasales Volumen.
@@ -100,7 +100,7 @@ Die medikamentöse Therapie wird nach folgenden
 
 Stufenschema Hypertonie
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 *α1-Blocker*: blockieren α1-Adrenozeptoren
@@ -193,7 +193,7 @@ Alle pulslosen Störungen sind UNBEDINGT REANIMATIONSBEDÜRFTIG!!!
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Bls.png
 :width: 100%
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 
 Basic Life Support
 
@@ -257,7 +257,7 @@ Weiters werden folgende Substanzklassen angewendet:
 
 Entstehung und Therapie der Herzinsuffizienz
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 Die Herzinsuffizienz beginnt mit einer Abnahme der Kontraktilität des Herzens. Dadurch sinkt das Herzzeitvolumen des Herzens und der Körper beginnt mit Kompensationsmechanismen um eine adäquate Durchblutung des Körpers zu ermöglichen. Durch diese Mechanismen wird jedoch die Kontraktionsfähigkeit des Herzens weiter negativ beeinflusst.

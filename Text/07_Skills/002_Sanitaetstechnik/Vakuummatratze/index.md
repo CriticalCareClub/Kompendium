@@ -16,7 +16,7 @@ Die **Vakuummatratze** dient zur Ruhigstellung des gesamten Körpers bei Verdach
 
 Vakuummatratze.
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 [^footnote-1]: Vakuummatratze / Immobilisation: Die Immobilisation auf der

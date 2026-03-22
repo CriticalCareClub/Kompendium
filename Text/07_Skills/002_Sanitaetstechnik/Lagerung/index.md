@@ -25,7 +25,7 @@ Siehe Bilderserie {ref}`Figure-lagerungsarten`[^footnote-1].
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Lagerungsarten [₢ Michael Motal, {term}`ℓ MfG`]
+Bilderserie: Lagerungsarten [© Michael Motal, {term}`ℓ MfG`]
 
 ![Flachlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungflachb.jpg)
 

@@ -104,11 +104,11 @@ Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den Presswehen ähnlich
 
 Bilderserie: Nabelschnur
 
-![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Newborn_umbilical_suction.000800px.\*)
+![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[© WMC: "Jeremykemp" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Newborn_umbilical_suction.000800px.\*)
 
-![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Navelklem.\*)
+![Abgeklemmte Nabelschnur \[© WMC: "Harmid" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Navelklem.\*)
 
-![Nabelschnurstumpf nach sieben Tagen \[₢ WMC: "Fatrabbit" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Umbilicalstump.\*)
+![Nabelschnurstumpf nach sieben Tagen \[© WMC: "Fatrabbit" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Umbilicalstump.\*)
 :::
 
 
@@ -306,7 +306,7 @@ Geburt
 
 Set für eine Geburt (Partus-Set)Verbandsmaterial, saugstarke Tücher, Nabelklemmen (2 Stk.), Orosauger, Aluminiumdecke, Klebeband, Schere, Verbandspäckchen
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 #### Apgar-Score

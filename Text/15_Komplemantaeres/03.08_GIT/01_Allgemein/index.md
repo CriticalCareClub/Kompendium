@@ -31,7 +31,7 @@ Die Verdauungsorgane können nach Lokalisation und Aufgaben grob in einen Kopfte
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Digestive_system_diagram_de-edited.\*
 Übersicht Verdauungstrakt
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 (table-verdauungstrakt-uebersicht)=

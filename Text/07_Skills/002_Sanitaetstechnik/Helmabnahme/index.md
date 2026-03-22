@@ -60,7 +60,7 @@ Ein Patient mit aufgesetztem Sturzhelm stellt eine besondere Herausforderung dar
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Helmabnahme und Anlage einer HWS-Schiene [₢ Michael Motal, {term}`ℓ MfG`]
+Bilderserie: Helmabnahme und Anlage einer HWS-Schiene [© Michael Motal, {term}`ℓ MfG`]
 
 ![Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.jpg)
 

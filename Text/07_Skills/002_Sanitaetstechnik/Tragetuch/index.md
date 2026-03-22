@@ -24,7 +24,7 @@ Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient wird im
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Transport mit dem Tragetuch [₢ Michael Motal, {term}`ℓ MfG`]
+Bilderserie: Transport mit dem Tragetuch [© Michael Motal, {term}`ℓ MfG`]
 
 ![Tuch aufbreiten](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch1b.jpg)
 

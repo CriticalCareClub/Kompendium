@@ -14,7 +14,7 @@
 
 Die männlichen Geschlechtsorgane im Querschnitt
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 ## Hoden (Testes)

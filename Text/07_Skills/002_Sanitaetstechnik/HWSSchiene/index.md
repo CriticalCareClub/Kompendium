@@ -20,7 +20,7 @@ Es gibt Schienen mit einer fixen Größe oder moderne Schienen, bei welchen sich
 
 Einstellbare HWS-Schienen für Erwachsene und KinderLaerdal Stifneck Select und Stifneck Pedi-Select
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 [^footnote-1]: HWS-Schiene: Auch *HWS-Orthese*.

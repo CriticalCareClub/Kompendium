@@ -36,7 +36,7 @@ Druck-kontrollierte Beatmungsform.
 Achte auf die eingestellten und gemessenen Messwerte.
 Mittig finden sich die Druck- und Flusskurve sowie das Kapnogramm.
 Beachte dass das Kapnogramm zu den Druck- und Flusskurven zeitverzögert ist (CO₂-Konzentration während Inspiration), da die CO₂-Messung im Nebenstromverfahren erfolgt.
-\[₢ GaSe  {term}`ℓ MfG`\]
+\[© GaSe  {term}`ℓ MfG`\]
 :::
 
 

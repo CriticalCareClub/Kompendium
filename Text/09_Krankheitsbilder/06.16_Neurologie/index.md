@@ -320,7 +320,7 @@ Es kommt es zu einer typischen Kombination von Symptomen:
 
 Anisokorie
 
-₢ Sebastian Gabriel  {term}`ℓ MfG`
+© Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
 (hirnstammeinklemmung)=
@@ -880,7 +880,7 @@ Mitunter ist die Neigung des Kindes zu Fieberkrämpfen schon bekannt und es wurd
 
 Fieber
 
-₢ Sebastian Gabriel  {term}`ℓ MfG`
+© Sebastian Gabriel  {term}`ℓ MfG`
 :::
 
 #### Eklamptischer Krampfanfall während der Schwangerschaft

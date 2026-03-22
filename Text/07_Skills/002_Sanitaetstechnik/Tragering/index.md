@@ -17,7 +17,7 @@ Das Tragen mit dem Tragering funktioniert nur bei bewusstseinsklaren und koopera
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Transport mit einem *Tragering* [₢ Michael Motal, {term}`ℓ MfG`]
+Bilderserie: Transport mit einem *Tragering* [© Michael Motal, {term}`ℓ MfG`]
 
 ![Tragering](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragering1b.jpg)
 

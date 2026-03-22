@@ -188,7 +188,7 @@ Abhängig von der durchgeführten Therapie bricht das AIDS einige Jahre nach der
 
 Schema eines HI-Virus
 
-₢ US National Institute of Health, {term}`ℓ PD` (USGov-HHS-NIH)
+© US National Institute of Health, {term}`ℓ PD` (USGov-HHS-NIH)
 :::
 
 #### Übertragung
@@ -330,7 +330,7 @@ Der Wert der Impfung ist daher nach wie vor groß.
 
 Patient mit Tetanus
 
-₢ Public Health Image Library, ID#: 6373, {term}`ℓ PD`
+© Public Health Image Library, ID#: 6373, {term}`ℓ PD`
 :::
 
 (tetanus-impfschutz)=

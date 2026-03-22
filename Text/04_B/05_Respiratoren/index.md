@@ -146,13 +146,13 @@ MPG geschultes, nichtärztliches Personal, jedoch nur auf ausdrückliche ärztli
 
 Bilderserie: Beatmungsgeräte
 
-![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[₢ Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-compact_32851_cropped.000800px.jpg)
+![Beatmungsgerät *Medumat™ compact* auf einer Tragplatte. Zusätzlich angebracht sind eine Sauerstofflasche, eine Berieselungseinheit und daran angeschlossen eine Berieselungsmaske. \[© Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-compact_32851_cropped.000800px.jpg)
 
-![Bedienfelder Berieselungseinheit *Modul Oxygen* und Notfallbeatmungsgerät *Medumat™ Standard*\n\n*Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahrzeuges.\n\n*Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung, Beatmungsdruckanzeige, Warnleuchten für Verlegung (\"Stenosis\"), Lösung des Beatmungsschlauches (\"Disconnection\"), niederen Flaschendruck (\"<2.7bar\") und schwache Batterie. \[₢ Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/ger-medumat-standard-bedienfeld.jpg)
+![Bedienfelder Berieselungseinheit *Modul Oxygen* und Notfallbeatmungsgerät *Medumat™ Standard*\n\n*Modul Oxygen (li.):* Flowmeter, Ein-Ausschalter und Regelventil. Der Anschluss links dient der Verbindung der Einheit mit dem Sauerstoffnetz des Fahrzeuges.\n\n*Medumat Standard (re.):* Air-Mix-Schalter, Ein-Ausschalter, Stellräder für Atemfrequenz, Atemminutenvolumen (!) und Druckbegrenzung, Beatmungsdruckanzeige, Warnleuchten für Verlegung (\"Stenosis\"), Lösung des Beatmungsschlauches (\"Disconnection\"), niederen Flaschendruck (\"<2.7bar\") und schwache Batterie. \[© Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/ger-medumat-standard-bedienfeld.jpg)
 
-![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[₢ Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-Transport_32857_cropped.000800px.jpg)
+![Medumat Transport. Dies ist ein Intensiv-Transportbeatmungsgerät, welches eine komplexe Beatmungstherapie ermöglicht. Die Bedieunung erfolgt mittels Monitor und Drehräder. Abgebildet ist die Durchführung einer Funktionskontrolle der Bedienelemente. \[© Ch. Pallinger, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Medumat-Transport_32857_cropped.000800px.jpg)
 
-![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[₢ Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161824.000800px.jpg)
+![Der Dräger™ Oxylog™ 3000 ist ein Transportrespirator mit der Möglichkeit zur differenzierten Atemtherapie inklusive NIV. \[© Sebastian Gabriel, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161824.000800px.jpg)
 :::
 
 
@@ -177,7 +177,7 @@ Er ermöglicht NIV.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Dräger Oxylog 3000 [₢ Sebastian Gabriel, {term}`ℓ MfG`]
+Bilderserie: Dräger Oxylog 3000 [© Sebastian Gabriel, {term}`ℓ MfG`]
 
 ![](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/Respirators/Draeger-Oxylog-3000/IMG_161836.000800px.jpg)
 

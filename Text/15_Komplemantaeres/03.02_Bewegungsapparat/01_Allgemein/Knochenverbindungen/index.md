@@ -22,7 +22,7 @@ Knochenverbindungen (Juncturen) können in **Synarthrosen** (kontinuierliche /
 
 Ein Gelenk im Querschnitt
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 
@@ -204,7 +204,7 @@ Gelenksformen:
 **D** Scharniergelenk (1 Achse; z. B. Fingergliedgelenke, Elle–Oberarmknochen),
 **E** Zapfengelenk (1 Achse; z. B. Elle–Speiche)
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 

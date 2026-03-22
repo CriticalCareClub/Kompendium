@@ -63,7 +63,7 @@ In ihm erfolgt der Abbau der Nahrungsbestandteile zu den vom Körper resorbierba
 
 Dünndarm
 
-₢ WmCo/Mikael Häggström ℓ Public domain
+© WmCo/Mikael Häggström ℓ Public domain
 :::
 
 Die Muskulatur des Darms sorgt mittels Peristaltik für *Segmentations-
@@ -166,7 +166,7 @@ Wenn dies nicht gelingt, resultiert eine Entzündung des Darmes
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Bauchsitus und Mesenterium [₢ Lena Hirtler, {term}`ℓ MfG`]
+Bilderserie: Bauchsitus und Mesenterium [© Lena Hirtler, {term}`ℓ MfG`]
 
 ![Der Bauchsitus mit aufgeklappter Bauchdecke (links = kopfwärts). Am Rand sieht man deutlich den Dickdarm, unter der Fettschürze zeichnen sich die Schlingen des Dünndarms ab.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Bauchfilm_4032-AASS-0112mm.jpg)
 

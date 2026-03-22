@@ -14,7 +14,7 @@ status: final
 
 Stille Wasser sind tief …
 
-₢ xkcd.com, {term}`ℓ CC BY-NC 2.5`
+© xkcd.com, {term}`ℓ CC BY-NC 2.5`
 :::
 
 Als **Anamnese** bezeichnet man das Erheben der Krankengeschichte.
@@ -449,7 +449,7 @@ Bei diversen Erkrankungen oder nach bestimmten Eingriffen erhält ein Patient sp
 Diese geben Auskunft über die Art des Eingriffes, eventuell eingesetzte Implantate oder weisen auf besondere Risiken hin.
 Hier abgebildet sind ein Pass nach einer Herzkatheter-Untersuchung mit Stent-Implantation, ein Blutdruck-Pass zur Dokumentation des Blutdruckverlaufs und eine Medikationsinformation. (Die Patientendaten am Bild sind erfunden.)
 
-\[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+\[© Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
 ## 🄻 Letzte …

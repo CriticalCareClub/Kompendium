@@ -37,7 +37,7 @@ Eine besondere Anwendung stellt die vorsichtige Dilatation des Nasenlochs mittel
 :class-grid: outline
 :gap: 20px
 
-Nasopharyngealtuben [₢ Sebastian Gabriel, {term}`ℓ MfG`]
+Nasopharyngealtuben [© Sebastian Gabriel, {term}`ℓ MfG`]
 
 ![Nasopharyngealtuben mit Gleitmittel in unterschiedlichen Größen nach einer fiberoptischen Intubation.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_091000.001341px.jpg)
 

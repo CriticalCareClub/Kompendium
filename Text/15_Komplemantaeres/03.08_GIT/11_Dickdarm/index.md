@@ -67,7 +67,7 @@ Da die Nahrungsstoffe bereits im Dünndarm resorbiert wurden, besteht die Aufgab
 
 Der Dickdarm
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 

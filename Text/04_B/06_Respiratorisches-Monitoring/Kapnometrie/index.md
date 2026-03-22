@@ -91,14 +91,14 @@ Kapnographie mittels eines Multifunktionsmonitors (unterste Reihe)
 
 Intubierter Patient mit seit ca. 3/4 Stunde andauerndem Status Epilepticus.
 Hyperkapnie und Hyperthermie mit einer Temperatur von 40,8°C und Tachykardie als Ausdruck eines Hypermetabolismus. (Die Pulsoxymetrie wurde auf einem anderen Gerät durchgeführt.)
-\[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+\[© Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Respiration/RespMon-Monitor.jpg
 :width: 100%
 
 Kapnographie mittels eines Patientenmonitors während einer Allgemeinnarkose
-\[₢ GaSe  {term}`ℓ MfG`\]
+\[© GaSe  {term}`ℓ MfG`\]
 :::
 
 
@@ -160,7 +160,7 @@ Ein erniedrigter Wert oder ein schlagartiger Abfall des Wertes sind ein kritisch
 
 Veränderungen der Kapnographiekurve
 
-₢ [sketchymedicine.com](https://sketchymedicine.com)  {term}`ℓ MfG`
+© [sketchymedicine.com](https://sketchymedicine.com)  {term}`ℓ MfG`
 :::
 
 ### Kapnometrie unter Reanimation

@@ -35,7 +35,7 @@ Sehr oft löst sich ein Thrombus bei einer *tiefen Beinvenenthrombose* und schwi
 
 Herkunft des Thrombus
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 ## ABCDE: Pulmonalembolie

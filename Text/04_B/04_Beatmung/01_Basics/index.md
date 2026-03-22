@@ -179,7 +179,7 @@ Der PEEP sorgt dafür, dass am Ende der Ausatmungsphase (Exspiration) der Druck 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Peep_32909_crop.000800px.jpg
 PEEP-Ventil
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::
 
 Ein PEEP kann mittels eines {dfn}`PEEP-Ventils` erreicht werden.

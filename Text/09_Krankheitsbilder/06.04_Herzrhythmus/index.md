@@ -30,7 +30,7 @@ Herzrhythmusstörungen sind häufig, allerdings auch oft sehr unterschiedlich in
 
 EKG: Normaler Sinusrhythmus
 
-₢ WMC: Glenlarson, {term}`ℓ PD`
+© WMC: Glenlarson, {term}`ℓ PD`
 :::
 
 ## Einteilung
@@ -86,7 +86,7 @@ Eine noch feinere Unterscheidung ist möglich.
 
 Verortung von Herzrhythmusstörungen
 
-₢ CardioNetworks, <https://www.ecgpedia.org>, via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>)
+© CardioNetworks, <https://www.ecgpedia.org>, via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:De-Atrial_ventricular_(CardioNetworks_ECGpedia).png>)
 [OTRS ticket #2011102310008874](https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2011102310008874)
 {term}`ℓ CC BY-SA 3.0`
 :::
@@ -202,7 +202,7 @@ Je nach Fortleitung der Flimmerwellen aus dem Vorhof in die Kammer kann es zu Br
 
 EKG: Normfrequentes Vorhofflimmern
 
-₢ WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo),
+© WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo),
 {term}`ℓ CC BY-SA 4.0`
 :::
 
@@ -211,7 +211,7 @@ EKG: Normfrequentes Vorhofflimmern
 
 EKG: Vorhofflimmern und Sinusrhythmus im Vergleich
 
-₢ WMC: [JHeuser](https://commons.wikimedia.org/wiki/User:JHeuser),
+© WMC: [JHeuser](https://commons.wikimedia.org/wiki/User:JHeuser),
 {term}`ℓ CC BY-SA 3.0`
 :::
 
@@ -243,7 +243,7 @@ Nun kann es zu folgenden Situationen kommen:
 
 EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 
-₢ WMC: [Ceccomaster](https://commons.wikimedia.org/wiki/User:Ceccomaster), {term}`ℓ CC BY-SA 3.0`
+© WMC: [Ceccomaster](https://commons.wikimedia.org/wiki/User:Ceccomaster), {term}`ℓ CC BY-SA 3.0`
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/ECG_AVNRT_181_bpm.jpg
@@ -251,7 +251,7 @@ EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 
 EKG: AV-Knoten-Reentrytachykardie (AVNRT)
 
-₢ WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo), {term}`ℓ CC BY-SA 4.0`
+© WMC: [Ewingdo](https://commons.wikimedia.org/wiki/User:Ewingdo), {term}`ℓ CC BY-SA 4.0`
 :::
 
 ```{index} single: Tachykardie; FBI-
@@ -291,7 +291,7 @@ Fehlt eine adäquate Auswurfleistung spricht man von der **pulslosen** VT (pVT),
 
 EKG: Ventrikuläre Tachykardie (VT)
 
-₢ WMC: Glenlarson, {term}`ℓ PD`
+© WMC: Glenlarson, {term}`ℓ PD`
 :::
 
 (kammerflimmern)=
@@ -308,7 +308,7 @@ ist die elektrische Erregung im Herzen ungerichtet, dadurch kontrahiert der Herz
 
 EKG: Kammerflimmern (VF)
 
-₢ WMC: Glenlarson, {term}`ℓ PD`
+© WMC: Glenlarson, {term}`ℓ PD`
 :::
 
 ### Pulslose elektrische Aktivität (*PEA*)
@@ -349,7 +349,7 @@ Leichtere Formen des AV-Blockes können unbemerkt bleiben und bedürfen keiner B
 
 EKG: Übersicht: AV-Blockaden
 
-₢ WMC: [Npatchett](https://commons.wikimedia.org/wiki/User:Npatchett), {term}`ℓ CC BY-SA 4.0`
+© WMC: [Npatchett](https://commons.wikimedia.org/wiki/User:Npatchett), {term}`ℓ CC BY-SA 4.0`
 :::
 
 ### Ventrikulärer Ersatzrhythmus
@@ -372,7 +372,7 @@ Vgl. hierzu {ref}`Reanimation-Ende-NichtBeginn`.
 
 EKG: Asystolie
 
-₢ WMC: [Glenlarson](http://commons.wikimedia.org/wiki/User:Glenlarson),
+© WMC: [Glenlarson](http://commons.wikimedia.org/wiki/User:Glenlarson),
 {term}`ℓ PD`
 :::
 

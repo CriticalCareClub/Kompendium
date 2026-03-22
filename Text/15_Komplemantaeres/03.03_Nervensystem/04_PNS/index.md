@@ -15,7 +15,7 @@ Unter dem Begriff {dfn}`Peripheres Nervensystem`
 
 Das zentrale Nervensystem (grau) und davon abgehende periphere Nerven (gelb)
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 Das periphere Nervensystem ist für die *Weiterleitung von Informationen* und Impulsen *von* und *zu* den Endorganen zuständig und dient somit der *Kommunikation* zwischen dem zentralen Nervensystem und den peripheren Organen.
@@ -133,7 +133,7 @@ Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten peripheren 
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: PNS  [₢ Lena Hirtler, ℓ MfG]
+Bilderserie: PNS  [© Lena Hirtler, ℓ MfG]
 
 ![Vom Rückenmark (grau) gehen die peripheren Spinalnerven (gelb) ab.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Spinalnerven-edited-00254pt.*)
 

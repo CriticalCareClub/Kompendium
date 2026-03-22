@@ -32,7 +32,7 @@ Es werden mehrere Teile unterschieden - Großhirn, Zwischenhirn, Mittelhirn, Pon
 
 Das Hirn im seitlichen Querschnitt
 
-₢ Patrick J. Lynch, medical illustrator,
+© Patrick J. Lynch, medical illustrator,
 <http://patricklynch.net>;
 C. Carl Jaffe, MD, cardiologist; modifiziert
 ℓ CC-BY 2.5

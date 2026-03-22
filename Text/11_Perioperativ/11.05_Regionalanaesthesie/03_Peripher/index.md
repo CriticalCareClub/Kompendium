@@ -117,7 +117,7 @@ Mittels Kippen bzw. Bewegen der Sonde muss immer das Nadelende gesucht werden.
 
 Femoralisblockade mittels Ultraschall in {external+Ana-2:ref}`Out-of-Plane-Technik <out-of-plane-technique>`
 
-[₢ [PhilippN](https://commons.wikimedia.org/wiki/User:PhilippN), {term}`ℓ CC BY-SA 3.0`]
+[© [PhilippN](https://commons.wikimedia.org/wiki/User:PhilippN), {term}`ℓ CC BY-SA 3.0`]
 :::
 
 
@@ -183,7 +183,7 @@ Dieser Austausch von Fasern ähnelt in der schematischen Darstellung dem Gleisbi
 :class-grid: outline
 
 Plexus brachialis im Vergleich zu einem Stellwerk.
-[oben: ₢ Raimond Spekking, {term}`ℓ CC BY-SA 4.0`; unten: ₢ Marshall Strother, {term}`ℓ CC 0`]
+[oben: © Raimond Spekking, {term}`ℓ CC BY-SA 4.0`; unten: © Marshall Strother, {term}`ℓ CC 0`]
 
 ![Gleisplan im Relaisstellwerk Köln Hbf Kf. Hier braucht es zwei Bedienpersonen, wohingegen ... ](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Bedienraum_Relaisstellwerk_Koeln_Kf-3975_cropped.001341px.jpg)
 
@@ -262,7 +262,7 @@ Er muss jedoch ggfs. mitblockiert werden, um den radialen Rand des Unterarms zu 
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Axillary_block.jpg
 
-Axilläre Blockade [₢ David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY-SA 3.0`]
+Axilläre Blockade [© David Shankbone (Foto), Grey's anatomy, {term}`ℓ CC BY-SA 3.0`]
 :::
 
 
@@ -327,7 +327,7 @@ Schwere pulmonale Vorerkrankungen oder eine kontralaterale Phrenikus- oder Rekur
 
 Interskalenäre Blockade (ISK)
 
-[₢ David Shankbone (Foto), Grey's anatomy., {term}`ℓ CC BY-SA 3.0`]
+[© David Shankbone (Foto), Grey's anatomy., {term}`ℓ CC BY-SA 3.0`]
 :::
 
 
@@ -390,7 +390,7 @@ Es gibt verschiedene Zugänge zur Punktion des N. ischiadicus.
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Nervusfemoralis.jpg
 
-[₢ Gray's Anatomy of the Human Body (1918), {term}`ℓ PD`]
+[© Gray's Anatomy of the Human Body (1918), {term}`ℓ PD`]
 :::
 
 :::{index} single: Nervus; obturatorius
@@ -502,7 +502,7 @@ Dosierung
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Dorsal_penile_nerve_block.jpg
 
-Peniswurzelblock [₢ [Msales](https://commons.wikimedia.org/w/index.php?title=User:Msales&action=edit&redlink=1), {term}`ℓ CC BY 3.0`]
+Peniswurzelblock [© [Msales](https://commons.wikimedia.org/w/index.php?title=User:Msales&action=edit&redlink=1), {term}`ℓ CC BY 3.0`]
 :::
 
 

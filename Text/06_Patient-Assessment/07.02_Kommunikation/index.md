@@ -118,7 +118,7 @@ Um deratige Übertragungsfehler zu *vermeiden*, ist es wichtig, dass der Empfän
 
 Das Sender-Empfänger-Modell
 
-₢ User:Wiska Bodo, original uploader Freak222 auf http://de.wikipedia.org, modifiziert
+© User:Wiska Bodo, original uploader Freak222 auf http://de.wikipedia.org, modifiziert
 {term}`ℓ CC BY-SA 3.0`
 :::
 
@@ -174,7 +174,7 @@ Als klassisches Beispiel ist die "Ampelsituation" bekannt:
 
 Vier-Ohren-Modell der Kommunikationnach nach Friedemann Schulz von Thun {term}`🗎 Thun 1981`
 
-₢ User "Mussklprozz" auf Wikipedia, modifiziert
+© User "Mussklprozz" auf Wikipedia, modifiziert
 {term}`ℓ CC BY-SA 3.0`
 :::
 

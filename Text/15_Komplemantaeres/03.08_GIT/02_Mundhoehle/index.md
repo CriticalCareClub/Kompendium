@@ -18,7 +18,7 @@ status: final
 
 Die Mundhöhle
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 In der Mundhöhle wird die Nahrung über den Mund aufgenommen und durch die Zähne *zerkleinert*.

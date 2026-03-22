@@ -44,7 +44,7 @@ starke Blutungen oder Hinweise auf eine Wirbelsäulenverletzung erkannt werden.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Ersteindruck [₢ Gabriel, {term}`ℓ MfG`]
+Bilderserie: Ersteindruck [© Gabriel, {term}`ℓ MfG`]
 
 ![Schädel-Hirn-Trauma: manuelle HWS-Stabilisierung](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/imgp0722.000800px.jpg)
 

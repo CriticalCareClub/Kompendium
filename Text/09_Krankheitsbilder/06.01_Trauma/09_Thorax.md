@@ -79,7 +79,7 @@ Ein Pneumothorax kann *auch ohne einer Verletzung* auftreten. Diese Form des Pne
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Spannungspneumothorax [₢ David Hauer, {term}`ℓ MfG`]
+Bilderserie: Spannungspneumothorax [© David Hauer, {term}`ℓ MfG`]
 
 ![Pneumothorax. Beachte die Randlinie zwischen Lunge (unten, innen) und dem luftgefüllten Pleuraspalt (oben, außen)](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_xray_halb.\*)
 

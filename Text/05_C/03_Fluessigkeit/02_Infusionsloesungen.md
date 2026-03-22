@@ -267,7 +267,7 @@ Erschwerend kommt hinzu, dass v.a. künstliche Kolloide sehr lange im Extrazellu
 :class-grid: outline
 :gap: 20px
 
-Infusionslösungen \[₢ Sebastian Gabriel  {term}`ℓ MfG`\]
+Infusionslösungen \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 
 ![ELO-MEL isoton, eine isotone balancierte Vollelektrolytlösung mit Azetat](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_174406.001341px.jpg)
 

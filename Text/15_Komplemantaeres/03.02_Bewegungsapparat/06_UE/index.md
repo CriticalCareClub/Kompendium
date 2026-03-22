@@ -15,7 +15,7 @@ Das Bein gilt als freie untere Extremität und kann in mehrere Bereiche eingetei
 
 Der Beckengürtel und die untere Extremität
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 Zur unteren Extremität gehören folgende Skelett-Anteile:

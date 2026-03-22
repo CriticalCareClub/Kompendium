@@ -21,7 +21,7 @@ Der passive Bewegungsapparat besteht aus dem *Skelett* und den *Knochenverbindun
 
 Das menschliche Skelett.
 
-₢ Mariana Ruiz Villarreal ℓ Public domain
+© Mariana Ruiz Villarreal ℓ Public domain
 :::
 
 

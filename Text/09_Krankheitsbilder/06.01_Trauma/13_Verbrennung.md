@@ -158,7 +158,7 @@ Die Schweregrade einer Verbrennung werden wie folgt eingeteilt:
 
 Verbrennung 1°
 
-₢ Trent Easton; de.wikipedia  ℓ  PD
+© Trent Easton; de.wikipedia  ℓ  PD
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/VerbrennungGrad2a.000800px.jpg
@@ -166,7 +166,7 @@ Verbrennung 1°
 
 Verbrennung 2°
 
-₢ Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
+© Yunaerith; WMC  ℓ CC-BY-SA 3.0 unported
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Verbrennung_3gradig01.jpg
@@ -174,7 +174,7 @@ Verbrennung 2°
 
 Verbrennung 3°
 
-₢ Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
+© Sushma Koirala Memorial Hospital, Dr. Andreas Settje; WMC
 ℓ CC-BY-SA 3.0 unported
 :::
 
@@ -183,7 +183,7 @@ Verbrennung 3°
 
 Großflächige Verbrennung
 
-₢ David Hauer {term}`ℓ MfG`
+© David Hauer {term}`ℓ MfG`
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-02-hand.jpg
@@ -191,7 +191,7 @@ Großflächige Verbrennung
 
 Ablederung
 
-₢ David Hauer {term}`ℓ MfG`
+© David Hauer {term}`ℓ MfG`
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-03-escharotomie.jpg
@@ -200,7 +200,7 @@ Ablederung
 Aufgrund der ringförmigen Verbrennung am Thorax zieht sich die Haut zusammen, der Brustkorb wird gefesselt und die Atmung dadurch beeinträchtigt (Verbrennungspanzer).
 Entlastungsschnitte (*Escharatomie*) ermöglichen dem Brustkorb wieder sich auszudehnen und dem Patienten damit zu atmen.
 
-₢ David Hauer {term}`ℓ MfG`
+© David Hauer {term}`ℓ MfG`
 :::
 
 
@@ -374,7 +374,7 @@ Vergiftungen durch Einnahme von Säuren und Laugen werden unter
 
 Notbrause
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+© Sebastian Gabriel {term}`ℓ MfG`
 :::
 
 Schädigungen der Haut durch Säuren, Laugen oder andere schädliche Stoffe weisen – trotz der unterschiedlichen Entstehung – Gemeinsamkeiten mit Verbrennungsschäden auf. Daher werden diese Verletzungen oft auch als *"chemische Verbrennung"* bezeichnet, auch wenn meist keine Hitze im Spiel ist.

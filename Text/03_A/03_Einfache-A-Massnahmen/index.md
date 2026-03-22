@@ -69,7 +69,7 @@ Stattdessen muss der Kopf in Neutralposition gelagert werden.
 :class-grid: outline
 :gap: 20px
 
-Manchmal reicht das simple Anheben des Kinns. [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Manchmal reicht das simple Anheben des Kinns. [© Sebastian Gabriel  {term}`ℓ MfG`]
 
 ![Kinn anheben](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_090742.001341px.jpg)
 
@@ -104,7 +104,7 @@ Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am Kieferwinkel kann de
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/EsmarchHandgriff.*
 :width: 60%
 
-Esmarch-Handgriff  [₢ Lena Hirtler, {term}`ℓ MfG`]
+Esmarch-Handgriff  [© Lena Hirtler, {term}`ℓ MfG`]
 :::
 
 ::::{admonition} Geschichtliches
@@ -117,7 +117,7 @@ Esmarch-Handgriff  [₢ Lena Hirtler, {term}`ℓ MfG`]
 Johann Friedrich August von Esmarch war ein deutscher Chirurg.
 Er beschrieb neben dem Esmarch-Handgriff den Esmarch-Verband und gründete den Deutschen Samariter-Verein, den Vorläufer des Deutschen Samariter-Bunds.
 
-[Bild: ₢ Wellcome Collection, {term}`ℓ CC BY 4.0`]
+[Bild: © Wellcome Collection, {term}`ℓ CC BY 4.0`]
 
 ::::
 
@@ -169,7 +169,7 @@ Durch die stabile Seitenlage bewegt sich die Zunge auf Grund der Schwerkraft vom
 :class-grid: outline
 :gap: 20px
 
-Stabile Seitenlage [₢ CCCA  {term}`ℓ MfG`]
+Stabile Seitenlage [© CCCA  {term}`ℓ MfG`]
 
 ![Zugewandten Arm im 90°-Winkel ausstrecken](../../../Submodules/3134-medical-picture-collection/CCCA/SAN/Seitenlage1b.jpg)
 

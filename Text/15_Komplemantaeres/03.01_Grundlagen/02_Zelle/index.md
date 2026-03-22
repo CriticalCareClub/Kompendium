@@ -34,7 +34,7 @@ Jede Zelle hat je nach ihrer Funktion auch unterschiedliche Formen und eine unte
 
 Schema einer Zelle
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 

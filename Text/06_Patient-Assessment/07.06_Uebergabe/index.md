@@ -29,5 +29,5 @@ Das Übergabegespräch muss mindestens *folgende Informationen* beinhalten:
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/aufnahmearzt-ihres-vertrauens-edited2.000800px.jpg
 "Sie wünschen?"
 
-₢ Gabriel {term}`ℓ MfG`
+© Gabriel {term}`ℓ MfG`
 :::

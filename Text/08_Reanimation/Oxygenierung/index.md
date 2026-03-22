@@ -138,7 +138,7 @@ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die korrekte Lage des T
 :align: right
 
 Endotracheale Intubation
-₢ Michael Motal  {term}`ℓ MfG`
+© Michael Motal  {term}`ℓ MfG`
 :::
 
 Es sollen immer *alle drei Möglichkeiten* angewendet werden.
@@ -204,7 +204,7 @@ Der Larynxtubus ist unter {ref}`Larynxtubus` beschrieben.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Lage von Atemwegshilfsmitteln [₢ Lena Hirtler, {term}`ℓ MfG`]
+Bilderserie: Lage von Atemwegshilfsmitteln [© Lena Hirtler, {term}`ℓ MfG`]
 
 ![Im Vergleich: Lage eines Larynx-Tubus](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/LageLarynxTubus.\*)
 

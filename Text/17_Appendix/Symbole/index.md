@@ -10,7 +10,7 @@ status: final
 
 | Symbol(e)      | Unicode | Name                            | CCCA: Besondere Bedeutung                                          |
 | -------------- | ------- | ------------------------------- | ------------------------------------------------------------------ |
-| ₢              | ---     | ---                             | Credits                                                            |
+| ©              | ---     | ---                             | Credits                                                            |
 | ℓ              | ---     | ---                             | Lizenz                                                             |
 | ☠              | ---     | Poison                          | besondere, lebensbedrohliche Gefahr                                |
 | ①②③④           | ---     | 1234                            | Punkt 1—4 des Einschätzungblocks                                   |

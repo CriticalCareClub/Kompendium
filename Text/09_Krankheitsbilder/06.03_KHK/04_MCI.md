@@ -35,13 +35,13 @@ Schäden am Herzmuskel bestehen.
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Herzischämie  [₢ Patrick Lynch, Patrick J. Lynch, C. Carl Jaffe MD, ℓ CC BY 2.5]
+Bilderserie: Herzischämie  [© Patrick Lynch, Patrick J. Lynch, C. Carl Jaffe MD, ℓ CC BY 2.5]
 
-![Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel. \[₢ Patrick Lynch\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Heart_normal_short_axis_section.000800px.\*)
+![Das Herz im Querschnitt, gesehen von unten: Links der rechte Ventrikel, rechts der muskelstarke linke Ventrikel. \[© Patrick Lynch\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Heart_normal_short_axis_section.000800px.\*)
 
-![Ischämisches Herzmuskelgewebe … \[₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Heart_inferior_wall_infarct.000800px.\*)
+![Ischämisches Herzmuskelgewebe … \[© Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Heart_inferior_wall_infarct.000800px.\*)
 
-![stirbt nach einiger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt. \[₢ Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Heart_inferior_wall_scar.000800px.\*)
+![stirbt nach einiger Zeit ab, es bildet sich eine (funktionslose) Narbe, die Herzleistung ist in Folge beeinträchtigt. \[© Patrick J. Lynch, medical illustrator, C. Carl Jaffe MD, cardiologist\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Heart_inferior_wall_scar.000800px.\*)
 
 :::
 

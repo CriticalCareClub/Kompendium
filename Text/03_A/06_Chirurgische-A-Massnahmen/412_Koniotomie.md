@@ -22,7 +22,7 @@ Eine Koniotomie ist ein Schnitt bzw. Stich durch die Haut und die Cricothyroid-M
 
 Anatomie des Larynx. **A**: Zugang für Koniotomie; **B**: Zugang für Tracheotomie
 
-\[₢ PhilippN/Wikimedia Commons (modifiziert)  {term}`ℓ CC BY-SA 3.0`\]
+\[© PhilippN/Wikimedia Commons (modifiziert)  {term}`ℓ CC BY-SA 3.0`\]
 :::
 
 Es handelt sich um ein Notfall-Atemwegsverfahren und wird fast immer als letzter Ausweg durchgeführt, wenn eine endotracheale Intubation bzw. eine anderes alternatives Atemwegsverfahren unmöglich oder kontraindiziert ist (z. B. *Can-not-ventilate-can-not-intubate*-Situationen, schwere Anaphylaxie, …).

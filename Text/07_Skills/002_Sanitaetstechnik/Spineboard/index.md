@@ -18,5 +18,5 @@ Diese Technik wurde ursprünglich vor allem im anglo-amerikanischen Raum eingese
 
 Spineboard.
 
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::

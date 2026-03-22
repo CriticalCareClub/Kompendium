@@ -245,7 +245,7 @@ Kurzum, die Auskultation ist nicht dafür geeignet, einen Ileus zweifelsfrei zu 
 :gap: 8px
 :class-grid: outline
 
-Ileus in der Bildgebung [oben: ₢ [Hellerhof](https://commons.wikimedia.org/wiki/User:Hellerhoff), {term}`ℓ CC BY-SA 4.0`; unten: ₢ [Hellerhof](https://commons.wikimedia.org/wiki/User:Hellerhoff), {term}`ℓ CC BY-SA 3.0`]
+Ileus in der Bildgebung [oben: © [Hellerhof](https://commons.wikimedia.org/wiki/User:Hellerhoff), {term}`ℓ CC BY-SA 4.0`; unten: © [Hellerhof](https://commons.wikimedia.org/wiki/User:Hellerhoff), {term}`ℓ CC BY-SA 3.0`]
 
 ![Mechanischer Dünndarmileus im Röntgenbild in 2 Ebenen.](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Mechanischer_Duenndarmileus_43M_-_CR_ap_und_linke_Seitenlage_-_001.jpg)
 
@@ -378,7 +378,7 @@ Cave: Neostigmin vs. Anastomosen!
 :gap: 8px
 :class-grid: outline
 
-Ileus im OP [oben: ₢ [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {term}`ℓ CC BY-SA 3.0`; unten: ₢ [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {term}`ℓ CC BY-SA 3.0`]
+Ileus im OP [oben: © [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {term}`ℓ CC BY-SA 3.0`; unten: © [THWZ](https://commons.wikimedia.org/wiki/User:THWZ), {term}`ℓ CC BY-SA 3.0`]
 
 ![Bridenileus des Dünndarms durch Verwachsungen mit Gangrän eines Teils des Jejunums: OP-Situs](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Ileus1.png)
 

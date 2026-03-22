@@ -199,7 +199,7 @@ Grundsätzlich ist beim Schädel-Hirn-Trauma die übliche Trauma-Diagnostik durc
 
 PupillendifferenzSie ist ein Alarmzeichen: Eine Pupillendifferenz kann ein wichtiger Hinweis auf einen erhöhten Hirndruck sein!
 
-₢ Sebastian Gabriel {term}`ℓ MfG`
+© Sebastian Gabriel {term}`ℓ MfG`
 :::
 
 :::{attention}

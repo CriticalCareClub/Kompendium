@@ -41,9 +41,9 @@ Dabei kommt ein zirkulär um den Körper angebrachten Elektrodengürtel mit 16-3
 
 Thorax-Impedanztomographie
 
-![Elektrodenanordnung für die Elektrische Impedanztomographie \[₢ Chrisfellner, ℓ CC BY-SA 3.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Eit_electrodes_schema.png)
+![Elektrodenanordnung für die Elektrische Impedanztomographie \[© Chrisfellner, ℓ CC BY-SA 3.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Eit_electrodes_schema.png)
 
-![Fusions-EIT Thorax eines COPD-Patienten: Die reduzierte Ventilation im ventralen Bereich der linken Lunge (im Bild rechts oben dargestellt) ist deutlich zu erkennen \[₢ Brisanti, ℓ CC BY-SA 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/CT_EIT_Superposition.jpg)
+![Fusions-EIT Thorax eines COPD-Patienten: Die reduzierte Ventilation im ventralen Bereich der linken Lunge (im Bild rechts oben dargestellt) ist deutlich zu erkennen \[© Brisanti, ℓ CC BY-SA 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/CT_EIT_Superposition.jpg)
 
 :::
 

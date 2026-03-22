@@ -21,7 +21,7 @@ Von der Maske weg führt ein Tubus durch den Oropharynx nach außen, hier könne
 :class-grid: outline
 :gap: 20px
 
-Larynxmasken [₢ Sebastian Gabriel  {term}`ℓ MfG`]
+Larynxmasken [© Sebastian Gabriel  {term}`ℓ MfG`]
 
 
 ![Flexible Larynxmaske mit Einführhilfe](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_082931_crop.001341px.jpg)

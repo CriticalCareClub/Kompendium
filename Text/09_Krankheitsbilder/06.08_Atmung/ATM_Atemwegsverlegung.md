@@ -189,7 +189,7 @@ abhängig.
 Atemwegsverlegung (Schema):
 Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiseröhre.
 
-₢ Lena Hirtler, {term}`ℓ MfG`
+© Lena Hirtler, {term}`ℓ MfG`
 :::
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Abdominal_thrusts3.jpg
@@ -197,7 +197,7 @@ Der linke Bissen steckt im Atemweg fest, der andere befindet sich in der Speiser
 Heimlich-Manöver:
 Japanese intern Naoko Uehara at U.S. Naval Hospital, Okinawa, teaches proper technique for treating a choking victim with the assistance of Hospital Corpsman Second Class Ross Francis.
 
-₢ Amanda M. Woodhead, USMC, {term}`ℓ PD`
+© Amanda M. Woodhead, USMC, {term}`ℓ PD`
 :::
 
 (m-atemwegsverlegung)=

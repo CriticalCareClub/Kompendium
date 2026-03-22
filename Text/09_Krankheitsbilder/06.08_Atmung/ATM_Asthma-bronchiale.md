@@ -32,7 +32,7 @@ Ist bei Eintreffen des Rettungsdienstes noch keine Besserung der Atemnot eingetr
 
 Patientin mit einem akuten AsthmaanfallSie sitzt auf einer Treppe und stützt sich nach hinten mit den Armen ab. Die Erstmaßnahmen bei vital bedrohten Patienten wurden ergriffen: Situationsrechte Lagerung, Sauerstoffgabe, Reanimationsbereitschaft, Notarztnachforderung und Monitoring.
 
-₢ Sebastian Gabriel
+© Sebastian Gabriel
 {term}`ℓ MfG`
 :::
 

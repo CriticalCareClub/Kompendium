@@ -25,5 +25,5 @@ Der Beingurt ist bei Beförderung in Fahrzeugen unbedingt anzulegen!
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Pallinger-Christoph/Trage_32970_cropped.001341px.jpg
 
 Krankentrage der Firma Stollenwerk mit Fahrgestell und einer Auflage der Firma Schnitzler mit Brust-, Bein- und Rucksackgurten
-₢ Ch. Pallinger  {term}`ℓ MfG`
+© Ch. Pallinger  {term}`ℓ MfG`
 :::

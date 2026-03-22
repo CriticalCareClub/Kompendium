@@ -327,7 +327,7 @@ Folgende Reize können zu einer *verstärkten Atmung* führen: Schmerz- und Temp
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Atemmechanik [₢ Lena Hirtler, :term:`ℓ MfG`]
+Bilderserie: Atemmechanik [© Lena Hirtler, :term:`ℓ MfG`]
 
 ![Das *Diaphragma* ist der wichtigste Atemmuskel und trennt den Brust- und Bauchraum.](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thorax-Diaphragma.*)
 

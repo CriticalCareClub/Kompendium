@@ -7,7 +7,7 @@ status: final
 # Blut
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-2.0/Bleeding_finger.\*
-₢ Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
+© Crystal (Crystl) from Bloomington, USA (<http://www.flickr.com/people/crystalflickr/>) ℓ CC-BY
 :::
 
 
@@ -200,7 +200,7 @@ Es gibt folgende Blutzellen:
 
 Erythrozyt (rot), Thrombozyt (gelb) und Leukozyt (blau) im Rasterelektronenmikroskop (eingefärbt)
 
-₢ US National Cancer Institute {term}`ℓ PD`
+© US National Cancer Institute {term}`ℓ PD`
 :::
 
 Der *Hämatokrit* spiegelt den prozentualen Anteil der Blutzellen am Gesamtblutvolumen wider (ca. 45 %, Mann 47 %, Frau 43 %).

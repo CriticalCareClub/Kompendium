@@ -19,7 +19,7 @@ Manchmal sind einige Proteine vorhanden, die zum Teil aus der Wirtszelle stammen
 Angriffspunkte von Virostatika:
 Virostatika greifen in der Wirtszelle in den Vermehrungszyklus des Virus ein.
 
-₢ Lena Hirtler  {term}`ℓ MfG`
+© Lena Hirtler  {term}`ℓ MfG`
 :::
 
 ### Herpesviren

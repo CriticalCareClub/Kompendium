@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 project             = u'Kompendium des CCCA'
-copyright           = u'2008—2025, Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) et al.'
+copyright           = u'2009—2026, Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) et al.'
 author              = u'Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) (Hrsg.)'
 institution         = u'Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)'
 

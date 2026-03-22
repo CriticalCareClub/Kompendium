@@ -398,7 +398,7 @@ html_theme_options          = {
     "toc_title"             : u"Auf dieser Seite ...",
 #    "use_sidenotes": True,
     "repository_provider"   : 'github',
-    "repository_url"        : 'https://engerth.space/lab/gase/Kompendium-alpha',
+    "repository_url"        : 'https://github.com/CriticalCareClub/Kompendium',
     "repository_branch"     : u"master",
     "use_repository_button" : True,
     # "use_download_button" : False,

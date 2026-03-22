@@ -4,6 +4,15 @@ status: final
 
 # Algorithmen Herz-Lungen-Wiederbelebung
 
+
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 ::::{only} not nosidebar
 
 :::{margin} Einleitung

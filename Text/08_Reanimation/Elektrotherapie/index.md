@@ -11,6 +11,14 @@ status: final
 
 # *Elektro*therapie
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 Das Herz ist die Pumpe des Blutkreislaufes und leistet eine beachtliche mechanische Arbeit, welche über elektrische Reize koordiniert wird (vgl. {ref}`Reizleitungssystem <reizleitungssystem>`).
 Ohne diese elektrischen Ströme kommt es zu keiner Muskelarbeit des Herzens und somit zum Kreislaufstillstand.
 Oft ist eine Störung der elektrischen Herzaktivität bzw. des elektrischen Herzrhythmus die primäre Ursache des Kreislaufstillstands.

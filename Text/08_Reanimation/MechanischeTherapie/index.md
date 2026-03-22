@@ -4,6 +4,14 @@ status: final
 
 # *Mechanische* Reanimationstherapie
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 ```{index} single: Herzdruckmassage
 ```
 ```{index} single: HDM

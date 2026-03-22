@@ -31,6 +31,14 @@ status: final
 
 # Kausale Therapie: Reversible Ursachen
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 ## 4 H + HITS
 
 :::{margin} 4 H + HITS

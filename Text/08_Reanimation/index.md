@@ -25,6 +25,12 @@ status: final
 % nicht gegeben, so muss eine Basisreanimation (wenn vorhanden mittels
 % AED) durchgeführt werden und weitere Hilfe angefordert werden.
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
 :::{todo} GRAFIK: ERC 2025 ALS-Algorithmus
 
 (fig-als)=

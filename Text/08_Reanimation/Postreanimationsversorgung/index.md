@@ -11,6 +11,14 @@ status: final
 
 # Postreanimationsbehandlung
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 ## Ende der Reanimation
 
 Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Umstände (Abbruchkriterien) eintritt:

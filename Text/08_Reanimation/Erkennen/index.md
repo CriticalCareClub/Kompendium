@@ -4,6 +4,14 @@ status: final
 
 # Erkennen der Reanimationspflichtigkeit
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 :::{margin} Erkennen der Reanimationspflichtigkeit
 - Kein Bewusstsein
 - Keine (suffiziente) Atmung

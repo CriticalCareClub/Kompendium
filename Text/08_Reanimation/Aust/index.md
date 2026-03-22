@@ -9,6 +9,16 @@ status: draft
 :::{todo} {issue}`142` Aust-Skriptum: **ALS**
 :::
 
+
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
+
 - Thoraxkompressionen: Beatmung 30:2
 - Thoraxkompressionen weiterführen und DEFI-Paddels anbringen: defibrillierbarer Rhythmus
 (KV, pulslose VT)? Ja: Defi laden -- alle weg -- Schock 360Joule monophasisch (biphasisch 150-

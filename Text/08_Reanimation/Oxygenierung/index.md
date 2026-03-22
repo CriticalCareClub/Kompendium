@@ -4,6 +4,14 @@ status: final
 
 # *Oxygenierung*
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 Ziel der Oxygenierung ist die ausreichende Sauerstoffversorgung des Blutes und des Gewebes.
 Klassisch wird dies durch eine ausreichende Belüftung (Ventilation) der (unteren) Atemwege versucht zu erreichen (Atemwegsmanagement).
 Dazu muss einerseits der Atemweg freigehalten werden und andererseits einer möglichen Aspiration von Mageninhalt, Blut etc. vorgebeugt werden.

@@ -9,6 +9,14 @@ status: final
 
 # *Pharmakotherapie*
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 Die Gabe von Medikamenten ist eine Routinemaßnahme während der Reanimation. Typischerweise erfolgt die Medikamentengabe über eine periphere Venenverweilkanüle (Venflon, Braunüle).
 Sinvollerweise wird standardmäßig auch eine Infusion mit kristalloider Infusionslösung
 (Kochsalz-, Ringerlösung, Ringerlaktat, Elo-Mel isoton™)

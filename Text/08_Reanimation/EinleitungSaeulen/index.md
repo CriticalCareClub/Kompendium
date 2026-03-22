@@ -4,6 +4,14 @@ status: final
 
 # Einleitung und Säulen der Reanimation
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 Als Reanimation werden Wiederbelebungsmaßnahmen im Falles eines Kreislaufstillstands verstanden.
 Die korrekte und routinierte Durchführung der Reanimation hat großen Einfluss auf das Überleben des Patienten bzw. seine Lebensqualität nach der Entlassung aus der Spitalsbehandlung.
 Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach rettungsdienstlichen Reanimationen mit ungefähr 10 % sehr gering.

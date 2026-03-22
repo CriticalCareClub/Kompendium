@@ -13,6 +13,14 @@ status: final
 
 # Pediatric Life Support (PLS)
 
+
+:::{todo} Update auf ERC 2025 ausständig!
+
+Diese Version ist veraltet.
+:::
+
+
+
 Vgl. {term}`♛ ERC 2021 10`
 
 Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*)

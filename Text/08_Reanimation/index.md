@@ -25,59 +25,41 @@ status: final
 % nicht gegeben, so muss eine Basisreanimation (wenn vorhanden mittels
 % AED) durchgeführt werden und weitere Hilfe angefordert werden.
 
-:::{figure} ../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationAls-2015-3.\*
-
-ALS-Algorithmus
-
-\[Josef Emhofer, nach {term}`🗎 ERC 2015 03`/ {term}`ℓ MfG`\]
-:::
-
-{download}`/Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.pdf`
-
-ALS-Algorithmus
-\[Josef Emhofer, nach {term}`🗎 ERC 2015 03`/ {term}`ℓ MfG`\]
-
-```{rubric} Literatur
-```
-
-Homepage des European Resuscitation Council (Erc): <https://erc.europa.eu/>
-
-Homepage des Journals Resuscitation: <https://www.resuscitationjournal.com/>
+:::{todo} GRAFIK: ERC 2025 ALS-Algorithmus
 
 (fig-als)=
-
-:::{figure} ../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationAls-2015-3.\*
-
-ALS Der ALS-Algorithmus
-
-\[Emhofer, nach {term}`🗎 ERC 2015 03`\]
+:::
+:::{todo} GRAFIK: ERC 2025 ALS Der ALS-Algorithmus
 :::
 
-{download}`/Bilder/Emhofer-Josef-CCCA/ReanimationAls-2015-3.pdf`
 
-ALS-Algorithmus \[Emhofer, nach  {term}`🗎 ERC 2015 03`\]
+:::{seealso} Literatur
+-   Homepage des European Resuscitation Council (Erc): <https://erc.europa.eu/>
+
+-   Homepage des Journals Resuscitation: <https://www.resuscitationjournal.com/>
+:::
+
+
+
+
+
+
+
 
 ```{rubric} Anmerkungen
 ```
 
 Infektionen
 
-: Die Ansteckungsgefahr mit Krankheiten im Rahmen einer Reanimation ist
-  sehr gering. Es wurden noch keine Infektionen mit schwerwiegenden
-  Erkrankungen wie HIV oder Hepatitis C während einer Basisreanimation
-  beschrieben.
+:   Die Ansteckungsgefahr mit Krankheiten im Rahmen einer Reanimation ist sehr gering.
+    Es wurden noch keine Infektionen mit schwerwiegenden
+    Erkrankungen wie HIV oder Hepatitis C während einer Basisreanimation beschrieben.
 
 Probleme bei der HDM während des Defi-Ladevorganges
 
-: In den ERC-Leitlinien von 2010 wird erstmals empfohlen, die
-  Herzdruckmassage fortzusetzen,
-  *während der Defibrillator sich auflädt*,
-  d. h. nach der Analyse wird weiter massiert, bis der Defi bereit zur
-  Schockabgabe ist. Dies soll die HDM-Pausen verringern. Bei vielen
-  AED-Geräten kann es jedoch zu Problemen kommen,
-  sie interpretieren die
-  reanimationsbedingten Störungen der EKG-Ableitung als Kontaktverlust
-  bzw. Bewegungsartefakt und brechen den Ladevorgang ab.[^footnote-1]
+:   In den ERC-Leitlinien von 2010 wird erstmals empfohlen, die Herzdruckmassage fortzusetzen, *während der Defibrillator sich auflädt*, d. h. nach der Analyse wird weiter massiert, bis der Defi bereit zur Schockabgabe ist.
+    Dies soll die HDM-Pausen verringern.
+    Bei vielen AED-Geräten kann es jedoch zu Problemen kommen, sie interpretieren die reanimationsbedingten Störungen der EKG-Ableitung als Kontaktverlust bzw. Bewegungsartefakt und brechen den Ladevorgang ab.[^footnote-1]
 
 [^footnote-1]: Herzmassage während AED-Ladezyklus: Bei älteren Geräten
     bzw. Geräten mit alter Software ist dies unter Umständen nicht
@@ -85,7 +67,8 @@ Probleme bei der HDM während des Defi-Ladevorganges
     Thoraxkompressionen als Bewegungsartefakt interpretiert und der
     Ladevorgang abgebrochen wird.
 
-```{toctree}
+
+:::{toctree}
 :maxdepth: 1
 
 EinleitungSaeulen/index
@@ -99,4 +82,4 @@ Postreanimationsversorgung/index
 Kinderreanimation/index
 Algorithmen/index
 Aust/index
-```
+:::

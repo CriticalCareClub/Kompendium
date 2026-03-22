@@ -110,19 +110,16 @@ Das Vorgehen gemäß ERC wird wie folgt beschrieben:
 
 (figure-plsalgorithmus)=
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationPls-2015-1.\*
+:::{todo} GRAFIK: ERC 2025 Pediatric Life Support \[Table-algorithmus-pls\]
 
-Pediatric Life Support \[Table-algorithmus-pls\]
-
-\[Josef Emhofer,  nach ERC\]
 :::
 
-:::{only} html
-- {download}`PLS</Bilder/Emhofer-Josef-CCCA/ReanimationPls-2015-1.pdf>`
-:::
 
-Eine grafische Übersicht über dieses Vorgehen ist in
-{ref}`Figure-PlsAlgorithmus` dargestellt. {term}`♛ ERC 2021 10`
+
+Eine grafische Übersicht über dieses Vorgehen ist in {ref}`Figure-PlsAlgorithmus` dargestellt. {term}`♛ ERC 2021 10`
+
+
+
 
 # Reanimation des Neugeborenen
 

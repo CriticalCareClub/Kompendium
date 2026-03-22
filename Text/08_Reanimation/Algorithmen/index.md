@@ -153,22 +153,6 @@ siehe {ref}`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 (figure-bls-aed-algorithmus)=
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Emhofer-Josef/ReanimationBls-2015-4.\*
-
-Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
-
-\[Josef Emhofer, nach  {term}`🗎 ERC 2015 02`\]
+:::{todo} GRAFIK: ERC 2025 Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
 :::
 
-:::{only} html
-- {download}`BLS</Bilder/Emhofer-Josef-CCCA/ReanimationBls-2015-4.pdf>`
-:::
-
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Emhofer-Josef/Larynxtubus-2015-1.\*
-
-Algorithmus: Larynxtubus im Rahmen der Reanimation
-:::
-
-:::{only} html
-- {download}`BLS mit Larynxtubus</Bilder/Emhofer-Josef-CCCA/Larynxtubus-2015-1.pdf>`
-:::

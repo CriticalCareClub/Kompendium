@@ -263,12 +263,7 @@ CC BY
   <http://creativecommons.org/licenses/by/2.5/>
 
 ℓ CC BY 3.0
-: :::{image} /Bilder/Logos/FreeCulturalWorks_seal_x2.jpeg
-  :align: right
-  :width: 15%
-  :::
-
-  *Creative Commons Attribution 3.0 Unported*
+: *Creative Commons Attribution 3.0 Unported*
 
   <https://creativecommons.org/licenses/by/3.0/>
 

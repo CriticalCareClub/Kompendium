@@ -1,0 +1,152 @@
+:root {
+
+/*******************************************************************
+* Definitions
+*******************************************************************/
+
+
+--blue:         #007bff;
+--indigo:       #6610f2;
+--purple:       #6f42c1;
+--pink:         #e83e8c;
+--red:          #dc3545;
+--orange:       #fd7e14;
+--yellow:       #ffc107;
+--green:        #28a745;
+--teal:         #20c997;
+--cyan:         #17a2b8;
+--white:        #fff;
+--gray:         #6c757d;
+--gray-dark:    #343a40;
+--primary:      #007bff;
+--secondary:    #6c757d;
+--success:      #28a745;
+--info:         #17a2b8;
+--warning:      #ffc107;
+--danger:       #dc3545;
+--light:        #f8f9fa;
+--dark:         #343a40;
+
+/* *** 3134 *** */
+  --Color-3134-Orange:                    #E95420;
+
+/* *** CCCA *** */
+--Color-Ccca-Blue:                      #1b2c72;
+--Color-Ccca-Green:                     #00a43a;
+--Color-Ccca-Red:                       #ed2939;
+--Color-Ccca-Yellow:                    #fff500;
+
+/* *** NOE LGA *** */
+
+--Color-NOELGA-Dunkelblau:              #004578;
+--Color-NOELGA-Hellblau:                #60abce;
+--Color-NOELGA-Gelb:                    #ffd500;
+--Color-NOELGA-Blaugrau-hell:           #41779d; /* Hintergrund */
+--Color-NOELGA-Blaugrau-dunkel:         #00648f; /* Schrift im Hintergrund */
+--Color-NOELGA-Schwarz:                 #29363f; /* Schrift */
+--Color-NOELGA-Standortlogo-hellblau:   #6189ad;
+
+/* *** KLPU *** */
+
+
+/* *** SOLARIZED *** */
+  /* Background tones */
+    --Solarized-Base03:                     #002b36; /* BG dark */
+    --Solarized-Base02:                     #073642; /* BG dark contrast */
+    --Solarized-Base2:                      #eee8d5; /* BG light contrast */
+    --Solarized-Base3:                      #fdf6e3; /* BG light */
+
+    --Solarized-BG-dark:                    #002b36; /* BG dark */
+    --Solarized-BG-dark-contrast:           #073642; /* BG dark contrast */
+    --Solarized-BG-light-contrast:          #eee8d5; /* BG light contrast */
+    --Solarized-BG-light:                  #fdf6e3; /* BG light */
+  /* Content tones */
+    --Solarized-Base01:                     #586e75; /*  */
+    --Solarized-Base00:                     #657b83; /* Text light */
+    --Solarized-Base0:                      #839496; /*  */
+    --Solarized-Base1:                      #93a1a1; /* Text dark */
+    --Solarized-Text-light:                 #657b83; /* Text light  = Base00 */
+    --Solarized-Text-dark:                  #93a1a1; /* Text dark   = Base1 */
+  /* Accent tones */
+    --Solarized-Yellow:                     #b58900;
+    --Solarized-Orange:                     #cb4b16;
+    --Solarized-Red:                        #dc322f;
+    --Solarized-Magenta:                    #d33682;
+    --Solarized-Violet:                     #6c71c4;
+    --Solarized-Blue:                       #268bd2;
+    --Solarized-Cyan:                       #2aa198;
+    --Solarized-Green:                      #859900;
+    --Solarized-Custom-1:                   #942600;
+
+
+/* *** MISC *** */
+
+--Color-A:                              #E95420;
+--Color-Admonition-Title-Background:    #AEA79F;
+--Color-Alert-Title-Background:         #E95420;
+--Color-Caption:                        #929292;
+--Color-Code:                           #5E2750;
+--Color-CodeBackground:                 #F6F6F5;
+--Color-Danger-Title:                   #141412;
+--Color-Danger-Title-Background:        #ff0000;
+--Color-Header:                         #ffffff;
+--Color-Header-Background:              #E95420;
+--Color-Heading-1:                      #E95420;
+--Color-Heading-Underbar-1:             #E95420;
+--Color-Legend:                         #000000;
+--Color-Link:                           var(--Solarized-Orange);
+--Color-Link-Hover:                     #E95420;
+--Color-Main:                           #053C5F;
+--Color-Main-Light-1:                   #E3D4DC;
+--Color-Menu-Link:                      #333333;
+--Color-MdTabs-Background:              #000000;
+--Color-MdTabs:                         #ffffff;
+/* --Color-Nav-Background:                 #F1EBE4;*/
+--Color-Nav-Background:                 #eeeeee;
+--Color-Sidebar-Background:             #141412;
+--Color-Sidebar-Menu-Caption:           #1C6595;
+--Color-Sidebar-Top:                    #1b2c72;
+--Color-Sidebar-Top-Background:         #ffffff;
+--Color-Sidebar-Top-Version:            #7c8bb3;
+--Color-Term:                           #7c8bb3;
+--Color-Versionadded:                   #088247;
+--Color-Versionadded-Background:        #ffffff;
+--Color-Versionadded-Border:            #088247;
+--Color-Versionchanged:                 #BB6E0C;
+--Color-Versionchanged-Background:      #ffffff;
+--Color-Versionchanged-Border:          #BB6E0C;
+--Color-Warning-Body: ;
+--Color-Warning-Body-Background:        #dedede;
+--Color-Warning-Title:                  #141412;
+--Color-Warning-Title-Background:       #fff500;
+--color-red:                            #ff0000;
+
+
+
+
+
+/*******************************************************************
+* Settings
+*******************************************************************/
+
+--Font-Body:        var(--font-family-sans-serif);
+--Font-Text:        var(--font-family-serif);
+--Font-Code:        var(--font-family-monospace);
+--Font-Display:     var(--font-family-sans-serif);
+--Font-Headings:    var(--font-family-sans-serif);
+--Font-Menu:        var(--font-family-sans-serif);
+
+
+/*****************************************************************************
+* Icon
+**/
+
+/* font awesome icons*/
+/* --pst-icon-check-circle: "\f058";
+--pst-icon-info-circle: "\f05a";
+--pst-icon-exclamation-triangle: "\f071";
+--pst-icon-exclamation-circle: "\f06a";
+--pst-icon-times-circle: "\f057";
+--pst-icon-lightbulb: "\f0eb"; */
+
+}

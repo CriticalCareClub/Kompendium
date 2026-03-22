@@ -1,0 +1,112 @@
+body {
+    font-weight: 400;
+}
+
+.bd-sidebar-primary {
+    background-color: var(--bd-sidebar-primary-background-color);
+    font-family: var(--Font-Display);
+  }
+
+#site-navigation {
+    width: 400px;
+  }
+
+a, a:visited, .content-container a, .content-container a:visited, #site-navigation nav ul.nav a:hover, #site-navigation nav ul.nav li.active > a, #site-navigation nav ul.nav li.active > a:hover {
+    color: var(--pst-color-link);
+  }
+
+.sidebar, .sidebar .sidebar-title, .sidebar p {
+    font-family: var(--Font-Display);
+  }
+
+  .deep{
+    color: #aaaaaa;
+}
+
+.new{
+    color: #009d08;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.chg{
+    color: #ffaa00;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+}
+
+.del{
+    color: #ff0000;
+    text-decoration: line-through;
+}
+
+
+.changeset-comment {
+    font-family: monospace !important;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 0.3em;
+}
+
+.sphinxclassnew {
+    background-color: #e6ffe6;
+    border-left: 3px solid #009d08;
+    padding: 0.2em 0.5em;
+    margin: 0.5em 0;
+}
+
+.sphinxclasschg {
+    background-color: #fff4e0;
+    border-left: 3px solid #ffaa00;
+    padding: 0.2em 0.5em;
+    margin: 0.5em 0;
+}
+
+.sphinxclassdel {
+    background-color: #ffe6e6;
+    border-left: 3px solid #ff0000;
+    padding: 0.2em 0.5em;
+    margin: 0.5em 0;
+}
+
+.cave{
+  color: var(--pst-color-danger);
+  font-weight:700;
+}
+
+b, strong {
+    color: var(--pst-color-primary);
+    font-weight: 500;
+}
+
+em {
+    color: var(--pst-color-primary);
+    font-weight: 400;
+}
+
+.section-number{
+  color: var(--pst-color-shadow);
+  font-weight: 200;
+}
+
+.bd-article-container h1, .bd-article-container h2, .bd-article-container h3, .bd-article-container h4, .bd-article-container h5, .bd-article-container p.caption {
+    color: white;
+    background-color: var(--pst-heading-color);
+      padding-top: 5px;
+  padding-right: 3px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+}
+
+blockquote.epigraph, blockquote.highlights, blockquote.pull-quote {
+    background-color: var(--pst-color-surface);
+    border-left: .25em solid var(--Color-Ccca-Green);
+    /* border-left: 200px; */
+    font-family: var(--font-family-monospace) !important;
+    font-size: 1em;
+}
+

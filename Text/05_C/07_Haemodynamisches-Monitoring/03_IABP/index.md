@@ -121,7 +121,7 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 \begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
 :::
 
-:::{subfigure} AB
+:::{subfigure} A
 :subcaptions: below
 :name: BS-Arteriensystem
 :gap: 8px
@@ -131,11 +131,12 @@ Arteriensystem
 
 ![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
+<!--
 ![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
-
+ -->
 :::
 
-:::{todo} {issue}`129` Foto: IBP Blutentnahmesystem
+:::{todo} {issue}`16` FOTO: IBP Blutentnahmesystem
 :::
 
 :::{raw} latex
@@ -181,7 +182,7 @@ Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch e
 © GaSe {term}`ℓ CC BY AUT 3.0`
 :::
 
-:::{todo} {issue}`129` Bilder: IBP
+:::{todo} {issue}`17` FOTOS: IBP
 
 -   Transducer
 -   Abnahmesystem

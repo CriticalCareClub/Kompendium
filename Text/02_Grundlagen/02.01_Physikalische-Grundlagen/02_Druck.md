@@ -114,7 +114,7 @@ Der **Druck am Boden eines Gefäßes** hängt nur von der **Höhe der Flüssigke
 
 
 
-:::{todo}   ?? Bild unterschiedliche Gefäße  Hydrostatisches_Paradoxon4.svg
+:::{todo} {issue}`6` GRAFIK: Hydrostatisches_Paradox: unterschiedliche Gefäße  on4.svg
 :::
 
 

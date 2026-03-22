@@ -192,7 +192,7 @@ Mittels Nebenstromverfahren kann auch in einem *nicht-geschlossenen* System eine
 Der absolute Wert ist dabei zwar nicht aussagekräftig, jedoch kann mittels Kapnogramm die Exspiration an sich monitiert werden.
 Zur Anwendung kann dies z. B. bei spontan atmenden, sedierten Patienten kommen.
 
-:::{todo} {issue}`130` Foto: Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.
+:::{todo} {issue}`12` Foto: Überwachung der Atmung bei einem spontan atmenden Patienten mittels Kapnogramm im Nebenstromprinzip.
 
 
 :width: 100%

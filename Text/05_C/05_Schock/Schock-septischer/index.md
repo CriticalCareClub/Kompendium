@@ -327,7 +327,7 @@ Weder die SIRS-Kriterien noch qSOFA zeigen sich somit als ideale Screening-Instr
 
 ## Therapie
 
-:::{todo}  Sepsistherapie: "1st Hour Bundle; 3 for 3", Surving Sepis Campaign
+:::{todo} {issue}`14` Sepsistherapie: "1st Hour Bundle; 3 for 3", Surving Sepis Campaign
 :::
 
 Sepsis und septischer Schock sind medizinische Notfälle und müssen *sofort* behandelt werden.

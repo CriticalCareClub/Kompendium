@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 (GREG-VO-Regional-RM)=
 
 # Rückenmarksnahe Regionalanästhesie

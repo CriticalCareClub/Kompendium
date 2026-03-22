@@ -258,8 +258,7 @@ Kontraindikationen
 
 ## Klasse II: Betablocker
 
-:::{todo} {issue}`142` Aust-Skriptum: Betablocker (35.2.)
-:::
+
 
 <!--  -->
 

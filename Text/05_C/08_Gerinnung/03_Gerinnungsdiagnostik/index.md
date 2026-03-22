@@ -74,17 +74,13 @@ status: final
     - Aber: Normale Zahl = keine Aussage über Funktion! (z. B. ASS-, Clopidogrel-Einnahme, Thrombozytopathien).
 :::
 
-:::{todo} {issue}`130` Grafik: Gerinnungskaskade und Interventionen
+:::{todo} {issue}`26` GRAFIK: Gerinnungskaskade und Interventionen
 
 ../Pictures/Gerinnungskaskade-Interventionen.png
 :width: 100%
 
 :::
 
-<!--   -->
-
-:::{todo} {issue}`142` Aust-Skriptum: **Laborparameter der Gerinnung** (25.10.)
-:::
 
 :::{list-table} Laborparameter der Gerinnung
 * - Parameter

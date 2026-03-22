@@ -23,7 +23,7 @@ status: final
 - **Auf ICU nur flexible Bronchoskopie**
 - **Fiberoptik oder Video Bronchoskopie**
 
-:::{todo} {issue}`129` Foto: Flexibles Bronchoskop
+:::{todo} {issue}`28` FOTO: Flexibles Bronchoskop
 
 
 :width: 75%
@@ -65,7 +65,7 @@ Therapeutisch:
 ### Anatomie
 
 
-:::{todo} Bronchialbaum-Schema.jpg
+:::{todo} {issue}`29` GRAFIK: Bronchialbaum-Schema.jpg
 
 
 :width: 100%
@@ -73,7 +73,7 @@ Therapeutisch:
 Bronchialbaum
 :::
 
-:::{todo} {issue}`129` Bronchoskopie: verschiedene Ansichten
+:::{todo} {issue}`30` FOTO: Bronchoskopie: verschiedene Ansichten
 :::
 
 

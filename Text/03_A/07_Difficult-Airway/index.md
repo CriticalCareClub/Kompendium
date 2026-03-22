@@ -66,7 +66,7 @@ Die **fiberoptische Wachintubation** kommt bei Patienten mit einem erwartbarem s
 Lebensrettend kann unter Umständen auch eine **Notfalls-Koniotomie** sein.
 
 
-:::{todo} GRAFIK: Schwieriger Atemweg /ASA/11ff01.jpeg 11ff03.jpeg
+:::{todo} {issue}`9` GRAFIK: Schwieriger Atemweg /ASA/11ff01.jpeg 11ff03.jpeg
 
 
 https://www.apsf.org/article/anesthesia-patient-safety-foundation-update-2022-american-society-of-anesthesiologists-practice-guidelines-for-management-of-the-difficult-airway/

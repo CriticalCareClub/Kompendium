@@ -81,7 +81,7 @@ Klinische Einschätzung des Atemwegsrisikos von Außen
 ![Mallampati-Score \[© [Jmarchn](https://commons.wikimedia.org/wiki/User:Jmarchn)  ℓ CC BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Mallampati.\*)
 :::
 
-:::{todo} {issue}`130` Photo: Thyreomentaler Abstand media/image22.jpeg
+:::{todo} {issue}`7` Photo: Thyreomentaler Abstand media/image22.jpeg
 :::
 
 

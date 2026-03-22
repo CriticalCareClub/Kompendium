@@ -187,20 +187,10 @@ Bilderserie: Dräger Oxylog 3000 [© Sebastian Gabriel, {term}`ℓ MfG`]
 
 
 
-:::{todo} {issue}`140` weitere Notfall- und Transportrespiratoren
 
-- [ ] Medumat Compact
-- [ ] Medumat Standard a
-- [ ] Hamilton T1
-:::
+
 
 ## Intensivrespiratoren
-
-:::{todo} {issue}`141` weitere Intensivrespiratoren
-
-- [ ] Hamilton C6
-- [ ] Dräger-Geräte
-:::
 
 ## Jet-Ventilation
 

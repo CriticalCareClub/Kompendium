@@ -20,10 +20,7 @@ status: sprint
 
 #  Blutprodukte
 
-<!-- . -->
 
-:::{todo} {issue}`142` Aust-Skriptum: Blutprodukte (25.12)
-:::
 
 :::{seealso}
 {ref}`Patient-Blood-Management`

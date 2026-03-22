@@ -28,8 +28,9 @@ Sie dient dazu
 Dabei hat das hämodynamische Monitoring auch die wesentliche Funktion einer hämodynamischen **Diagnostik**, welche uns Anhaltspunkte für eine zielgerichtete Therapie geben kann.
 
 
-:::{todo}
-- TODO Zerebrale Oxygenierung / NIRS ad Kursmanual
+:::{todo} {issue}`15` Überarbeitung Hämodynamisches Monitoring und Diagnostik
+
+- TODO Zerebrale Oxygenierung / NIRS
 - TODO RIVERS ausführen
 - TODO HD Zielwerte
 - TODO OPS/Microzirkulation-Analyse: Bilder im Vergleich

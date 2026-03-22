@@ -7,10 +7,7 @@ status: final
 
 # Plasmatische Gerinnung
 
-<!--    -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Plasmatische Gerinnung** (25.2.)
-:::
 
 4 Phasen:
 1.  **Initiation**: Tissuefaktor `VII` bis `II` = Thrombinbildung

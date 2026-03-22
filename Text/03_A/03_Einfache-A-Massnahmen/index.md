@@ -55,9 +55,6 @@ Zum *Überstrecken* des Kopfes und Anheben wird die Hand auf die Stirn des Patie
 Bei Trauma-Patienten, bei denen die Möglichkeit einer HWS-Verletzung besteht, darf der Kopf nicht überstreckt werden, sofern es alternative Möglichkeiten zur Atemwegssicherung gibt.
 :::
 
-:::{todo} {issue}`130` AATW:
-Cool wäre ein Bild von einem Kind, wo man die Schultern unterpolstern muss, um die Neutral - Position zu erreichen
-:::
 
 Bei **Säuglingen und Kleinkindern** kommt es infolge unterschiedlicher anatomischer Verhältnisse zu einer Verlegung der Atemwege bei Überstreckung des Kopfes.
 Stattdessen muss der Kopf in Neutralposition gelagert werden.

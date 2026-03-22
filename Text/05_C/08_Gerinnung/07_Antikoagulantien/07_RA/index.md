@@ -92,11 +92,6 @@ Wahrscheinlichkeit, dass dafür eine invasive Intervention erforderlich sein wir
 - Einhalten von Pausen vor Entfernung eines Regionalanästhesiekatheters
 
 
-:::{todo} Tabelle: Pausenzeiten bei neuroaxialer oder tiefer Regionalanästhesie, nach :term:`♛ ÖGARI Gerinnung RA 2024`
-
-```{eval-rst}
-
-```
 
 
 

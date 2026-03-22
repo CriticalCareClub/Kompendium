@@ -16,10 +16,6 @@ status: final
 
 # Gerinnung
 
-<!--  -->
-:::{todo} {issue}`142` Aust-Skriptum: **Gerinnung** (25.)
-:::
-
 Unser Organismus verfügt über eine körpereigene Blutstillung, welche aktiviert wird, sobald es im Körper zu einer Verletzung kommt.
 Die Blutgerinnung ist ein äußerst komplexer Vorgang uns baut auf Komponenten der zellulären Bestandteile (Thrombozyten) und der gelösten Stoffe (Gerinnungsfaktoren, Co-Faktoren u. v. a. m.) auf.
 Die einzelnen Komponenten sind netz- und kaskadenartig miteinander verbunden, wobei sie fördernde als auch hemmende Einflüsse auf die Gerinnung haben können.
@@ -95,14 +91,7 @@ Fibroblasten wachsen in den Thrombus ein und bauen ihn bindegewebig um.
 
 
 
-:::{todo} {issue}`137` *"Szenarien — Was gibt es zu beachten?"* Fragen, aber keine Antworten
 
-- Arthroskopie in Spinalanästhesie bei Patienten unter TASS?
-- Lungenoperation bei Patienten mit Vorhofflimmern unter
-- Vitamin K Antagonisten?
-- Hüftoperation bei Patientin unter Pradaxa?
-- Hirnblutung unter Pradaxa?
-:::
 
 
 

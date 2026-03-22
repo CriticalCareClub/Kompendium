@@ -233,7 +233,7 @@ Es ist nun wichtig die Ursache einer Störung zuordnen zu können.
 
 ### Analyse hinsichtlich SB-Haushalt
 
-:::{todo} {issue}`135` BGA
+:::{todo} {issue}`10` BGA
 
 SCHINNERL: So hab ich die BGA noch nie betrachtet…
 Mir fehlen Begriffe wie
@@ -336,7 +336,7 @@ $$ (HorivitzQuotientBeispiel)
 
 Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 450. Ein Wert unter 300 gilt als Schwelle für eine leichte Lungenschädigung, unter 200 weist er auf eine mittelschwere, unter 100 auf eine schwere Lungenschädigung hin.
 
-:::{todo} {issue}`136` BGA: Bild bearbeiten (FiO₂ rot markieren)
+:::{todo} {issue}`11` BGA: Bild bearbeiten (FiO₂ rot markieren)
 :::
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ABG/IMG_223832.001341px.jpg

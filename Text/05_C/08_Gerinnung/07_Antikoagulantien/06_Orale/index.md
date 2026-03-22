@@ -84,7 +84,7 @@ Indikationen der DOAKs
 - {ref}`TAB-Zeitintervalle-Gerinnung-vor-nach-RM-Punktion`
 :::
 
-:::{todo} {issue}`130` Grafik: Management des perioperativen Blutungsrisikos
+:::{todo} {issue}`27` GRAFIK: Management des perioperativen Blutungsrisikos
 
 ../Pictures/Management-perioperatives-Blutungsrisiko.png
 :width: 100%

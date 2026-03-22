@@ -25,12 +25,8 @@ Eine motorische Blockade des distalen N. saphenus wäre jedenfalls bemerkenswert
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-010_LA/index
-020_Zentroaxial/index
-030_Peripher/index
-060_Gerinnung/index
-040_Nervenschaeden/index
-Aust/index
+*/index
 :::
 

@@ -8,8 +8,7 @@ Herausgegeben vom Critical Care Club Austria — Verein zur Förderung der Verso
 
 ## Kurzinfo
 
-Eine aktuelle **Preview** der Entwicklungsversion des `master`-Zweiges findet sich
-unter:
+Eine aktuelle **Preview** der Entwicklungsversion des `master`-Zweiges findet sich unter:
 
 -   https://kompendium.criticalcare.at/
 
@@ -47,7 +46,7 @@ Projektleitung:
 ## Offenlegung, Impressum, Nutzungsbedingungen und Hinweise
 
 
-Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
+Dieses Werk ist in Entwicklung!
 
 > Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) <br>
 > Engerthstraße 146/8/3 <br>

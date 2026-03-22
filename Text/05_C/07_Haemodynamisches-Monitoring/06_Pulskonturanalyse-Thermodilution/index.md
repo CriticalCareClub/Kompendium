@@ -59,7 +59,7 @@ Die Pulskonturanalyse ermöglicht zwei Dinge:
 %
 % Die Differenz zwischen Pulsdruck (PPV) oder systolischem Druck (SPV) wird ebenfalls als Surrogatmarker verwendet, wodurch die Notwendigkeit einer Messung des Herzzeitvolumens entfällt.
 
-:::{todo} {issue}`130` Grafik: PPV ../Bilder/PPV.jpg
+:::{todo} {issue}`130` Grafik: PPV
 
 
 :alt: Bild
@@ -69,7 +69,7 @@ Die Änderungen der intrathorakalen Druckverhältnisse während der In- und Exsp
 Dies zeigt sich an der Druckkurve einerseits durch schwankende Minima und Maxima, als auch durch eine Amplituden- und Flächenvarianz.
 :::
 
-:::{todo} {issue}`130` Grafik: SVV ../Bilder/SVV-1.png
+:::{todo} {issue}`130` Grafik: SVV
 
 
 :alt: Bild
@@ -135,7 +135,7 @@ Die messbaren Kurven sind je nach CO unterschiedlich.
 Je höher das Herzzeitvolumen, desto schneller der Blutfluss und desto kürzer, kleiner und steiler ist die Thermodilutionskurve.
 Bei niedrigem CO ist die Kurve träge, mit einer großen Fläche unter der Kurve (AUC).
 
-:::{todo} {issue}`130` Grafik: ../Bilder/Thermodilution_Injektion_Verlauf.png
+:::{todo} {issue}`130` Grafik: Thermodilution_Injektion_Verlauf
 
 
 :alt: Bild

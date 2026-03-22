@@ -43,21 +43,21 @@ Um einen Überblick über den Volumenstatus und die Herzleistung zu erhalten, ha
 
 :::{todo} Bilder Echo (TTE)
 
-- ../Bilder/Echo-002.png
+- Echo-002.png
 
   Verschiedene transthorakale Echo-Schnitte
-- ../Bilder/Vena-Cava-inferior_US.png
+- Vena-Cava-inferior_US.png
 
   Echo: Beurteilung der V. cava inferior
-- ../Bilder/Echo-001.jpg
-- ../Bilder/Echo-003.png
-- ../Bilder/Echo-GlobaleHerzfunktion-AP4CH.jpg
+- Echo-001.jpg
+- Echo-003.png
+- Echo-GlobaleHerzfunktion-AP4CH.jpg
 
   Vergleich der globalen Pumpleistung im 4-Kammer-Blick
-- ../Bilder/Echo-SubkostalerBlick.png
+- Echo-SubkostalerBlick.png
 
   TTE subkostaler Blick
-- ../Bilder/Echo-Ventrikel.png
+- Echo-Ventrikel.png
 
   Kausale Diagnostik: Perikarderguss im Echo
 :::

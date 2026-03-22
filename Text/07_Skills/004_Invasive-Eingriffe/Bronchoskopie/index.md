@@ -25,7 +25,7 @@ status: final
 
 :::{todo} {issue}`129` Foto: Flexibles Bronchoskop
 
-../Bilder/Bronchoskop-flexibel.jpg
+
 :width: 75%
 
 Flexibles Bronchoskop
@@ -65,7 +65,7 @@ Therapeutisch:
 ### Anatomie
 
 
-:::{todo} ../Bilder/Bronchialbaum-Schema.jpg
+:::{todo} Bronchialbaum-Schema.jpg
 
 
 :width: 100%

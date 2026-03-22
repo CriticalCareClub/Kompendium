@@ -104,7 +104,7 @@ Nach 10—20 Minuten kommt es neuerlich zu Wehen, welche den Presswehen ähnlich
 
 Bilderserie: Nabelschnur
 
-![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](/Bilder/PD/Newborn_umbilical_suction.000800px.\*)
+![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Newborn_umbilical_suction.000800px.\*)
 
 ![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Navelklem.\*)
 

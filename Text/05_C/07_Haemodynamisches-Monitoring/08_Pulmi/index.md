@@ -111,7 +111,7 @@ Normalerweise hat ein PAC *vier* Ports:
 - **Ballonanschluss, Rot**: Wedge-Ballon ; 1,5 ml Spezialspritze
 - **Infusionsport, Weiß**: Wie ZVK-Lumen
 
-:::{todo} {issue}`129` Foto: ../Bilder/Pulmi.jpg
+:::{todo} {issue}`129` Foto: Pulmi.jpg
 
 
 :alt: Bild
@@ -134,7 +134,7 @@ Die Anwendung erfolgt über eine venöse Schleuse.
 Diese wird grundsätzlich wie ein ZVK an der V. iugularis int. dext. (alternativ V. subclavia) angelegt.
 Um das sterile Vor- und Zurückschieben des Katheters zu ermöglichen, wird an der Schleuse über den PAC ein flexibler Schutzüberzug angebracht und distal am PAC fixiert, sodass die Innenseite und damit der PAC immer steril bleibt.
 
-:::{todo} {issue}`129` Foto: Über eine venöse Schleuse eingeführter PAC ../Bilder/Pulmi-009.jpg
+:::{todo} {issue}`129` Foto: Über eine venöse Schleuse eingeführter PAC
 
 
 :alt: Bild
@@ -152,7 +152,7 @@ Andererseits kann er beim Vorschieben durch die kleiner werdenden Gefäßlumina 
 So kann der **pulmonal-kapilläre Wedge-Druck** (*PCWP*) ermittelt werden.
 Danach wird der Ballon abgelassen (Wedge-Position ist eine iatrogene Pulmonalembolie und darf nur wenige Sekunden bestehen).
 
-% .. figure::  ../Bilder/Pumli-Veraluf.jpg
+% .. figure:: Pumli-Veraluf.jpg
 %     :alt: Bild
 %     :width: 100%
 %

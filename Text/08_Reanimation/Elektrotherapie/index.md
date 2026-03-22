@@ -187,11 +187,11 @@ Die Herzrhythmen werden im Kapitel {ref}`herzrhythmusstoerungen`, genauer bespro
 
 Bilderserie: *Defibrillation*
 
-![Anbringen der Klebeelektroden \[₢ WMC:Andersat, {term}`ℓ CC BY-SA 3.0`\]](/Bilder/CC-BY-SA/Defib_electrode_placement.\*)
+![Anbringen der Klebeelektroden \[₢ WMC:Andersat, {term}`ℓ CC BY-SA 3.0`\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Defib_electrode_placement.\*)
 
 ![Bei der Analyse und Schockabgabe darf niemand den Patienten berühren! \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Defi-Achtung.\*)
 
-![Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch \[₢ WMC:Hborkyb, CC-BY-SA-2.5-US\]](/Bilder/CC-BY-SA/Semi_automatic_defi_with_electrodes.png)
+![Automatisierter Externer Defibrillator (AED) mit angeschlossenen Klebeelektroden für den Einmalgebrauch \[₢ WMC:Hborkyb, CC-BY-SA-2.5-US\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-2.5/Semi_automatic_defi_with_electrodes.png)
 
 ![Normsymbol "AED"](../../../Submodules/3134-medical-picture-collection/PD/AED_Symbol.\*)
 :::

@@ -100,26 +100,9 @@ Die DO₂ beträgt normalerweise, normalisiert auf die Körperoberfläche, 500--
     Gase, welche mit Sauerstoff in Konkurrenz um die Bindekapazität stehen, reduzieren die Sauerstoffbindekapazität.
     Ein extremes Beispiel dafür ist Kohlenmonoxid.
 
-% .. figure::  ../Bilder/LungeZumMitochondrium.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     Oxygen Absorption: Lungs →
-%     Oxygen Transportation: Blood →
-%     Oxygen Delivery: Tissues  →
-%     Oxygen Utilisation: Cells / Microchondria
 
-% .. figure::  ../Bilder/LungeZurZelle-DO2.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     LungeZurZelle
 
-% .. figure::  ../Bilder/DO2Vo2.png
-%     :alt: Bild
-%     :width: 100%
-%
-%     DO2Vo2
+
 
 ## Sauerstoffbedarf
 

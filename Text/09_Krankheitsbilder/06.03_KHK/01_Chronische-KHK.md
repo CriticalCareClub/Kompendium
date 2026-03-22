@@ -34,11 +34,11 @@ Je nachdem wieviele Koronargefäße betroffen sind, spricht man von einer 1-, 2-
 
 Bilderserie: Koronargefäße
 
-![Das Herz mit seinen Koronargefäßen \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/CC-BY/Hk_coronary_bionerd.\*)
+![Das Herz mit seinen Koronargefäßen \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Hk_coronary_bionerd.\*)
 
-![Darstellung der Herzkranzgefäße mittels Koronarangiographie: Bei einer Koronarangiographie (Herzkatheteruntersuchung) wird über eine periphere Arterie ein Katheter eingebracht und über die Aorta bis in die Koronargefäße vorgeschoben. Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung sichtbar zu machen. \[₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`\]](/Bilder/CC-BY/Hk_coronary_bionerd.\*)
+![Darstellung der Herzkranzgefäße mittels Koronarangiographie: Bei einer Koronarangiographie (Herzkatheteruntersuchung) wird über eine periphere Arterie ein Katheter eingebracht und über die Aorta bis in die Koronargefäße vorgeschoben. Anschließend wird ein Kontrastmittel appliziert um die Gefäße mittels Röntgendurchleuchtung sichtbar zu machen. \[₢ WmCo "Bionerd", {term}`ℓ CC BY 3.0`\]](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Hk_coronary_bionerd.\*)
 
-![Die Koronargefäße versorgen den Herzmuskel von außen nach innen. \[₢ Patrick Lynch, {term}`ℓ CC BY 2.5`\]](/Bilder/CC-BY/Heart_coronary_artery_lesion-lq.\*)
+![Die Koronargefäße versorgen den Herzmuskel von außen nach innen. \[₢ Patrick Lynch, {term}`ℓ CC BY 2.5`\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.5/Heart_coronary_artery_lesion-lq.\*)
 :::
 
 

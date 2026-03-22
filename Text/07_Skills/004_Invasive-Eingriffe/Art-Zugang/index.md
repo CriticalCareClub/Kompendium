@@ -205,7 +205,7 @@ Arteriensystem
 
 :::
 
-:::{todo} {issue}`129` Foto: Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \] ../../../Bilder/restricted/77962-7534081.jpeg
+:::{todo} {issue}`129` Foto: Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]
 :::
 
 :::{raw} latex

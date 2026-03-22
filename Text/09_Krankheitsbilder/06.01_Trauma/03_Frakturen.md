@@ -138,7 +138,7 @@ Bilderserie: Offene Frakturen
 
 ![… und in Röntgendarstellung \[₢ David Hauer, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hauer-David/fraktur_fehlstellung_xray.\*)
 
-![Nicht immer sind offene Frakturen spektakulär: Offene Fraktur des Mittelfingers \[₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0\]](/Bilder/CC-BY/fraktur-offen-finger.\*)
+![Nicht immer sind offene Frakturen spektakulär: Offene Fraktur des Mittelfingers \[₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-2.0/fraktur-offen-finger.\*)
 :::
 
 

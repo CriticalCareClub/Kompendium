@@ -178,8 +178,8 @@ Es entsteht eine *Lungenembolie*.
 
 Bilderserie: Thrombose
 
-![Die Economyclass. Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/economyclass.\*)
-![Thromboseprophylaxe. Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z.\, B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können. Die Substanz wird unter die Haut (\\"subkutan\\") gespritzt. \[Sebastian Gabriel {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/lovenox1.\*)
+![Die Economyclass. Sorgsam geschlichtet verbringen Menschen hier Stunden damit, Thrombosen zu basteln. \[Sebastian Gabriel {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/economyclass.\*)
+![Thromboseprophylaxe. Niedermolekulares Heparin (hier Lovenox™) verhindert Thrombosen die z.\, B. durch lange Immobilisation (Reisen, Bettlägrigkeit, Gips, …) entstehen können. Die Substanz wird unter die Haut (\\"subkutan\\") gespritzt. \[Sebastian Gabriel {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/lovenox1.\*)
 ![Eine Venenthrombose kann eine Embolie auslösen. \[Lena Hirtler {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thrombus-Embolie.\*)
 
 :::

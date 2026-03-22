@@ -5,7 +5,7 @@ status: final
 # Einleitung und Säulen der Reanimation
 
 
-:::{todo} Update auf ERC 2025 ausständig!
+:::{todo} {issue}`1` Update auf ERC 2025 ausständig!
 
 Diese Version ist veraltet.
 :::

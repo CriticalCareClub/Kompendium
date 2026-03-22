@@ -257,7 +257,7 @@ myst_enable_extensions      = [
 
 # sd_fontawesome_latex        = True
 
-issues_github_path = "CriticalCareClub/Kompendium-alpha"
+issues_github_path = "CriticalCareClub/Kompendium"
 
 imgmath_latex               = "dvilualatex"
 imgmath_image_format        = "svg"

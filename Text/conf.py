@@ -125,12 +125,12 @@ elif tags.has('review'):
 elif tags.has('final'):
     show_status         = "final"
     is_draft            = False
-    todo_include_todos  = False
+    todo_include_todos  = True
 else:
     logger.warning("\033[5m No document status defined!\033[0m (allowed: draft, sprint, review, final).. setting defaults ..")
     show_status         = "final"
     is_draft            = False
-    todo_include_todos  = False
+    todo_include_todos  = True
 
 if tags.has('letter'):
     pdf_page_format     = "letter"

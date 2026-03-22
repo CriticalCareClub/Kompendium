@@ -44,7 +44,7 @@ Wenn notwendig, muss der Leitstelle eine erste *Lagemeldung* gegeben werden.
 
 Bilderserie: Szeneüberblick
 
-![Absperrung (hier deutlich verbesserungswürdig) \[₢ Gabriel, {term}`ℓ MfG`\]](/Bilder/Gabriel-Sebastian-CCCA/gef-wind-rauch.*)
+![Absperrung (hier deutlich verbesserungswürdig) \[₢ Gabriel, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/gef-wind-rauch.*)
 
 ![Warntafel](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Normsymbole/warntafel-un-60-1710.png)
 :::

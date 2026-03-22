@@ -106,9 +106,9 @@ Bilderserie: Nabelschnur
 
 ![Durchtrennung der Nabelschnur, die patientenferne Klemme ist durch die Hand verdeckt. \[₢ WMC: "Jeremykemp" ℓ PD\]](/Bilder/PD/Newborn_umbilical_suction.000800px.\*)
 
-![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](/Bilder/PD/Navelklem.\*)
+![Abgeklemmte Nabelschnur \[₢ WMC: "Harmid" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Navelklem.\*)
 
-![Nabelschnurstumpf nach sieben Tagen \[₢ WMC: "Fatrabbit" ℓ PD\]](/Bilder/PD/Umbilicalstump.\*)
+![Nabelschnurstumpf nach sieben Tagen \[₢ WMC: "Fatrabbit" ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Umbilicalstump.\*)
 :::
 
 

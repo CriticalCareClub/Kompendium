@@ -134,9 +134,9 @@ Auch bei einer harmlos anmutenden Fraktur muss ein gründlicher Traumacheck durc
 
 Bilderserie: Offene Frakturen
 
-![Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fußgänger) in natura … \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fraktur_fehlstellung_nativ.\*)
+![Fehlstellung einer Unterschenkelfraktur nach einem Verkehrsunfall (PKW gegen Fußgänger) in natura … \[₢ David Hauer, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hauer-David/fraktur_fehlstellung_nativ.\*)
 
-![… und in Röntgendarstellung \[₢ David Hauer, {term}`ℓ MfG`\]](/Bilder/Hauer-David-CCCA/fraktur_fehlstellung_xray.\*)
+![… und in Röntgendarstellung \[₢ David Hauer, {term}`ℓ MfG`\]](../../../Submodules/3134-medical-picture-collection/Hauer-David/fraktur_fehlstellung_xray.\*)
 
 ![Nicht immer sind offene Frakturen spektakulär: Offene Fraktur des Mittelfingers \[₢ Ben Stephenson, Cleveland, OH, USA ℓ CC-BY 2.0\]](/Bilder/CC-BY/fraktur-offen-finger.\*)
 :::

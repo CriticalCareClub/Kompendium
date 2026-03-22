@@ -52,11 +52,11 @@ Mikroskopisch kann die Leber in *Leberläppchen* von 1-2 mm Durchmesser einget
 
 Bilderserie: Leber, Gallenblase und Pankreas
 
-![Leber, Gallenblase und Pankreas. \[₢ WMC ℓ ???\]](/Bilder/PD/Liver_and_pangreas_-_transparent.png)
+![Leber, Gallenblase und Pankreas. \[₢ WMC ℓ ???\]](../../../../Submodules/3134-medical-picture-collection/PD/Liver_and_pangreas_-_transparent.png)
 
-![Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Gallenblase.\*)
+![Gallengang, Gallenblase und Einmündung in den Zwölffingerdarm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Gallenblase.\*)
 
-![Lage des Pankreas zum Zwöffingerdarm. Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in den Darm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Pankreas-1.\*)
+![Lage des Pankreas zum Zwöffingerdarm. Deutlich zu erkennen ist die Einmündung des Pankreas- und des Gallenganges in den Darm. \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pankreas-1.\*)
 :::
 
 

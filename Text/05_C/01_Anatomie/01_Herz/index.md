@@ -128,9 +128,9 @@ Es gibt *zwei Arten von Klappen*:
 
 Bilderserie: Herz
 
-![\[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herzvorderflaeche.\*)
+![\[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herzvorderflaeche.\*)
 
-![Das Herz, schematisch \[₢ Lena Hirtler, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herz-Schema_edited.\*)
+![Das Herz, schematisch \[₢ Lena Hirtler, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Schema_edited.\*)
 :::
 
 
@@ -216,7 +216,7 @@ Bilderserie: Reizleitungssystem
 
 ![Reizleitungssystem, Schema \[₢ J. Heuser, basierend auf der Arbeit von Patrick J. Lynch (Illustrator), C. Carl Jaffe (MD, Cardiologist), Yale University Center for Advanced Instructional Media, ℓ CC-BY\]](/Bilder/CC-BY/Reizleitungssystem_1.*)
 
-![Erregungsleitungssystem des Herzens \[₢ Lena Hirtler, ℓ {term}`MfG`\]](/Bilder/Hirtler-Lena-CCCA/Herz-Erregungsleitungssystem.png)
+![Erregungsleitungssystem des Herzens \[₢ Lena Hirtler, ℓ {term}`MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Erregungsleitungssystem.png)
 
 :::
 

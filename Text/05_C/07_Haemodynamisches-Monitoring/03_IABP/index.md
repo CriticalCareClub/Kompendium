@@ -129,9 +129,9 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 
 Arteriensystem
 
-![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Bilder/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[₢ StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
-![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../../Bilder/Logos/Logo-4.png)
+![Blutentnahmesystem \[₢ Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
 
 :::
 

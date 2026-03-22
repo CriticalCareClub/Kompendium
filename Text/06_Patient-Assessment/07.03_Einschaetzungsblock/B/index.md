@@ -170,11 +170,11 @@ Zusätzlich zum Totraum, der durch die anatomischen Strukturen vorgegeben ist, g
 
 Bilderserie: Breathing
 
-![Annäherung an den Patienten \[₢ Michael Motal, {term}`ℓ MfG`\]](/Bilder/Motal-Michael-CCCA/00800/helm1.*)
+![Annäherung an den Patienten \[₢ Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.*)
 
-![Die Rippen folgen der Atembewegung \[₢ :term:`HiLe`, {term}`ℓ MfG`\]](/Bilder/Hirtler-Lena-CCCA/Thoraxbewegungen-Rippe.*)
+![Die Rippen folgen der Atembewegung \[₢ :term:`HiLe`, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
 
-![Zyanotische Lippen \[₢ :term:`GaSe`, :term:`ℓ MfG`, {term}`UE2011FORTUNA-00651`\]](/Bilder/Gabriel-Sebastian-CCCA/UE2011FORTUNA-00651-0154pt-0300dpi.*)
+![Zyanotische Lippen \[₢ :term:`GaSe`, :term:`ℓ MfG`, {term}`UE2011FORTUNA-00651`\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.*)
 
 :::
 

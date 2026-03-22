@@ -140,9 +140,9 @@ Ein verbreiteter Wirkstoff ist die Hydroxyethylstärke (HAES) oder Gelatine.
 
 Osmose und Diffusion
 
-![Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben, blauen und violetten Kugeln stellen Ionen und Moleküle dar. Die roten Scheiben sind rote Blutkörperchen. \[₢ WMC/pidalka44 ℓ ???\]](/Bilder/PD/Semipermeable_membrane.\*)
+![Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Es schwimmt viel herum: Die grünen, gelben, blauen und violetten Kugeln stellen Ionen und Moleküle dar. Die roten Scheiben sind rote Blutkörperchen. \[₢ WMC/pidalka44 ℓ ???\]](../../../Submodules/3134-medical-picture-collection/PD/Semipermeable_membrane.\*)
 
-![Osmose \[₢ WMC (Sander van der Molen) ℓ Public domain\]](/Bilder/PD/Osmotische_druk.\*)
+![Osmose \[₢ WMC (Sander van der Molen) ℓ Public domain\]](../../../Submodules/3134-medical-picture-collection/PD/Osmotische_druk.\*)
 :::
 
 

@@ -9,12 +9,50 @@ status: sprint
 
 # Awareness
 
-- 0,1-0,2 % bewusstes Wacherleben ohne Schmerzen,
-- 1,2 % Awareness
+Awareness bezeichnet das intraoperative Wachwerden unter Allgemeinanästhesie mit oder ohne explizite Erinnerung.
 
-Häufig Bewusstseinsleistungen ohne Erinnerung und unbewusste Erinnerung.
+Die Inzidenz liegt bei etwa 0,1–0,2 % für bewusstes Erleben ohne Schmerzen und bis zu ca. 1,2 % für Awareness insgesamt.
+Häufig treten Bewusstseinsleistungen ohne spätere Erinnerung auf (*implizite Erinnerung*).
 
-Daher Monitoring der Schlaftiefe mit spontanem EEG (BIS, NARKOTREND) oder akustisch evoz. Potentialen, MAC bei volatilen Anästhetika.
+Awareness wird oft erst verzögert (nach 24–48 h) berichtet.
+Viele Patienten äußern sich initial nicht, unter anderem aus Angst, nicht ernst genommen zu werden.
+
+Daher ist eine *strukturierte postoperative Befragung* erforderlich,
+Fragen:
+Was ist das Letzte woran sie sich vor dem Einschlafen noch erinnern?
+Was ist das Erste woran sie sich nach dem Erwachen erinnern?
+Hatten sie irgendeine Wahrnehmung während des Eingriffs?
+Haben sie etwas geträumt?
+Was war das Schlimmste an ihrem Eingriff?
+
+
+Risikofaktoren
+:   -   Eingriffe:
+        -    Sectio caesarea
+        -    Traumaanästhesie
+        -    Kardiochirurgische Eingriffe
+    -   Patienten
+        -    Frühere Awareness-Episoden
+        -    Substanzabusus (Benzodiazepine, Opioide, Alkohol)
+        -    ASA > 3
+        -    Schwangerschaft
+    -   Anästhesiebezogene Faktoren
+        -    Unzureichende Dosierung von Hypnotika (z. B. Propofol, volatile Anästhetika)
+        -    Hämodynamische Instabilität mit Dosisreduktion
+        -    Technische Fehler (z. B. leerer Vapor, nicht geöffneter Verdampfer)
+
+
+Prävention
+:   -    Ausreichende Narkosetiefe sicherstellen, Monitoring:
+        -    *EEG-basierte Verfahren* (z. B. BIS, Narcotrend)
+        -    *akustisch evozierte Potentiale*
+        -    *MAC-Werte* bei volatilen Anästhetika
+    -    Zurückhaltender Einsatz von Muskelrelaxanzien (wenn möglich)
+    -    Prämedikation mit Benzodiazepinen
+    -    Technische Systeme konsequent überprüfen
+
+
+
 
 
 

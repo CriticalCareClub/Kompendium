@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 (sht)=
 # Schädel-Hirn-Trauma (SHT)
 

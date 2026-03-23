@@ -292,7 +292,7 @@ Das klassische, dicklumige, Thoraxdrain ist ein Kunststoffschlauch, in welchem e
 
 
 
-:::{todo} {issue}`129` Foto: Bülau-Drainagen mit Trokar in unterschiedlichen Größen
+:::{todo} {issue}`31` FOTO: Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 
 
 Bülau-Drainagen mit Trokar in unterschiedlichen Größen
@@ -317,7 +317,7 @@ Bülau-Drainagen mit Trokar in unterschiedlichen Größen
 Es gibt zwei typische Zugangswege, nach *Monaldi* und nach *Bülau*.
 
 
-:::{todo} {issue}`129` Foto/Grafik: Zugänge für die Thoraxdrainage
+:::{todo} {issue}`32` FOTO: Zugänge für die Thoraxdrainage
 
 
 Zugänge für die Thoraxdrainage
@@ -343,12 +343,12 @@ Das als für die Punktion sichere Areal wird als **Triangle of Safety** bezeichn
 
 Zugang nach Bülau ist gut geeignet zur Punktion von Flüssigkeiten und auch fürdickere Draingen.
 
-:::{todo} {issue}`129` Foto/Grafik: Triangle of Safety
+:::{todo} {issue}`33` FOTO: Triangle of Safety
 
 **Triangle of safety**: Begrenzung Hinterrand des **M. pectoralis**, Vorderrand des **M. lat. dors.** und **Mamille** (mittlere Axillarlinie)
 :::
 
-:::{todo} {issue}`130` Grafik: Schema einer Pleuradrainage mit Wasserschloss
+:::{todo} {issue}`34` GRAFIK: Schema einer Pleuradrainage mit Wasserschloss
 
 
 Schema einer Pleuradrainage mit Wasserschloss
@@ -407,16 +407,7 @@ Weiters kann man in der Flüssigkeit die Luft in Form von Luftblasen beobachten,
 Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, können über diese Sekrete gesammelt werden.
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
-:::{todo} {issue}`130`
 
-Ein Wasserschloss kann mit oder ohne Sog betrieben werden.
-Mehrere Kompartimente in Serie erlauben das Auffangen von Sekret.
-:::
-
-:::{todo} {issue}`130`
-
-Moderne Wasserschloss-Systeme kombinieren mehrere Kompartimente zur Sekretsammlung.
-:::
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_114533.001341px.jpg
 
@@ -426,8 +417,11 @@ Wasserschloss, unter dem Patientenbett positioniert
 Eine Weiterentwicklung stellen elektronische Systeme, wie z. B. das Medela™-System, dar.
 Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Generierung des Sogs, etwaige Leckagen werden aufgezeichnet und können im Zeitverlauf betrachtet werden.
 
-:::{todo} {issue}`129` Medela™-System
+
+:::{todo} {issue}`35` FOTO: Medela™-System
 :::
+
+
 
 
 
@@ -437,9 +431,6 @@ Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Gener
 (Q-GEIN-KP-24003)=
 
 ## Anlage
-
-Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
 
 Die Anlage erfolgt grundsätzlich immer unter streng sterilen Kautelen.
 

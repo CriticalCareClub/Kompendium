@@ -162,6 +162,6 @@ siehe {ref}`Figure-Bls-Aed-Algorithmus` … Algorithmus BLS mit AED
 
 (figure-bls-aed-algorithmus)=
 
-:::{todo} GRAFIK: ERC 2025 Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
+:::{todo} {issue}`45` GRAFIK: ERC 2025 Basic Life Support mit AED.\[Table-algorithmus-bls-aed\]
 :::
 

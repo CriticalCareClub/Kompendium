@@ -16,14 +16,11 @@ status: final
 
 # Mitralklappenstenose (MKS)
 
-<!--   -->
+Die Mitralklappenstenose ist meist rheumatischer Genese und stellt ein bedeutendes Vitium in der Schwangerschaft dar.
 
-:::{todo} {issue}`142` Aust-Skriptum: **Mitralklappenstenose** (44.9.)
-:::
+Klinische Symptome treten in der Regel ab einer Klappenöffnungsfläche von < 2,5 cm² auf, wobei unter < 1,5 cm² typischerweise eine Dyspnoe besteht.
 
-Ursache ist meist rheumatisch, bedeutendes Vitium in der SS; Symptomatisch ab < 2,5 cm² unter 1,5 cm² Dyspnoe!
-Die Erstmanifestation tritt oft nach Provokation auf: SS, Anämie, Sepsis,
-Thyreotoxikose.
+Die Erstmanifestation erfolgt häufig unter Provokation, beispielsweise in der Schwangerschaft, bei Anämie, Sepsis oder Thyreotoxikose.
 
 
 :::{table} Mitralklappenstenose. [MPG: mittlerer Gradient des CW Doppler-Profils, KÖF: Öffnungsfläche der Mitralklappe (PHT)]{.deep}
@@ -36,26 +33,28 @@ Thyreotoxikose.
 :::
 
 
+Folgen
+:   -   Vergrößerter linker VH, häufig VHF mit Thromboembolien
+    -   Erhöhter PAP
+    -   Unterfüllter LV
+    -   RV-Dysfunktion
 
-Folgen:
-- Vergrößerter linker VH, häufig VHF mit Thromboembolien
-- Erhöhter PAP
-- Unterfüllter LV
-- RV-Dysfunktion
 
 Präanästhesie
-: - Symptomatische MKS: keine elektiven Eingriffe, ev. Ballonvalvulotomie
-  - Asymptomatische schwere MKS: interdisziplinäre Entscheidung, kardiologische Evaluierung
+:   -   Symptomatische MKS: keine elektiven Eingriffe, ev. Ballonvalvulotomie
+    -   Asymptomatische schwere MKS: interdisziplinäre Entscheidung, kardiologische Evaluierung
+
 
 Anästhesie
-: - Vermeide Tachykardie
-  - Erhalte SVR
-  - Erhalte CO
-  - Bei schwerer PHT: Vermeide Hyperkapnie, Azidose, Hypoxämie (Gefahr akutes Rechtsherzversagen)
-  - Erweitertes Monitoring! PAK großzügig (RV-Afterload)
+:   -   Vermeide Tachykardie
+    -   Erhalte SVR
+    -   Erhalte CO
+    -   Bei schwerer PHT: Vermeide Hyperkapnie, Azidose, Hypoxämie (Gefahr akutes Rechtsherzversagen)
+    -   Erweitertes Monitoring! PAK großzügig (RV-Afterload)
+
 
 Therapie
-: Mitralklappenersatz
+:   Mitralklappenersatz
 
 
 

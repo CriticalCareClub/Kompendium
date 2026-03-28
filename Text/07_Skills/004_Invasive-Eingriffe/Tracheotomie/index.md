@@ -172,7 +172,7 @@ Die Durchführung einer PDT soll daher exemplarisch dargestellt werden.
 
 
 
-:::{todo} GRAFIK: Punktionstracheotomie-Schema
+:::{todo} {issue}`42` GRAFIK: Schema Punktionstracheotomie
 
 :width: 100%
 
@@ -183,71 +183,38 @@ Die Anlage erfolgt unter sterilen Kautelen.
 Mittels Fiberoptik (Bronchoskop) in der Trachea während der Punktion wird sichergestellt dass es zu keiner Verletzung der Hinterwand der Trachea oder Punktion des Tubus kommt.
 
 
-:::{todo} FOTO: Durchführung einer Dilatationstracheotomie
+:::{todo} {issue}`43` FOTO: Bilderserie: Durchführung einer Dilatationstracheotomie
 
-<!--
-{subfigure} AB|CD
-:subcaptions: below
-:name: Fig-DilTracheotomie
-:gap: 5px
-:class-grid: outline
+-   Lagerung
 
-Durchführung einer Dilatationstracheotomie am beatmeten Patienten 1
+-   Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.
 
-![Lagerung]()
+-   Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration
 
-![Das Bronchoskop wird über den Endotrachealtubus eingeführt und die Spitze knapp ausserhalb des Tubus positioniert. Das durchscheinende Licht erleichtert die BEstimmung der Punktionsstelle.]()
+-   Sicht im Bronchoskpop: Punktion der Trachea
 
-![Punktion der Trachea mittels flüssigkeitsgefüllter Spritze unter Aspiration]()
+-   Einfädeln des Führungsdrahtes
 
-![Sicht im Bronchoskpop: Punktion der Trachea]()
+-   Dilatator
 
-{subfigure} AB|CD
-:subcaptions: below
-:name: Fig-DilTracheotomie2
-:gap: 5px
-:class-grid: outline
+-   2. Dilatator
 
-Durchführung einer Dilatationstracheotomie 2
+-   Dilatator mit Führungsmandrin
 
-![Einfädeln des Führungsdrahtes]()
+-   Einführen der Kanüle mit Dilatator.
 
-![Dilatator]()
+-   Kanüle in situ
 
-![2. Dilatator]()
+-   Kanülendilatator wird entfernt
 
-![Dilatator mit Führungsmandrin]()
+-   Einbau eines Ports für das Bronchoskop
 
-{subfigure} AB|CD
-:subcaptions: below
-:name: Fig-DilTracheotomie3
-:gap: 5px
-:class-grid: outline
+-   Einführen des Bronchoskops
 
-Durchführung einer Dilatationstracheotomie 3
-
-![Einführen der Kanüle mit Dilatator.]()
-
-![Kanüle in situ]()
-
-![Kanülendilatator wird entfernt]()
-
-![Einbau eines Ports für das Bronchoskop]()
+-   Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.
 
 
 
-{subfigure} AB
-:subcaptions: below
-:name: Fig-DilTracheotomie4
-:gap: 5px
-:class-grid: outline
 
-Durchführung einer Dilatationstracheotomie 4
-
-![Einführen des Bronchoskops]()
-
-![Lagekontrolle: Positionierung der Kanüle, die Carina muss gut darstellbar sein. Anschließend kann die Kanüle fixiert, geblockt und das Beatmungsgerät umgehängt werden.]()
-
--->
 
 :::

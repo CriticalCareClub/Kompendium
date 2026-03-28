@@ -31,12 +31,11 @@ status: final
 Diese Version ist veraltet.
 :::
 
-:::{todo} GRAFIK: ERC 2025 ALS-Algorithmus
+:::{todo} {issue}`44` GRAFIK: ERC 2025 ALS-Algorithmus
 
 (fig-als)=
 :::
-:::{todo} GRAFIK: ERC 2025 ALS Der ALS-Algorithmus
-:::
+
 
 
 :::{seealso} Literatur

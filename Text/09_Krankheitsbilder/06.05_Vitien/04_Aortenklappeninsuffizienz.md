@@ -3,7 +3,6 @@ status: final
 ---
 
 
-<!-- ### Section ################################################## -->
 
 :::{index} single: Aortenklappeninsuffizienz
 :::
@@ -16,25 +15,23 @@ status: final
 
 # Aortenklappeninsuffizienz (AKI)
 
-<!-- -->
+Eine *chronische* Aortenklappeninsuffizienz wird häufig lange kompensiert, während eine *akute* Aortenklappeninsuffizienz einen *lebensbedrohlichen Notfall* darstellt.
 
-:::{todo} {issue}`142` Aust-Skriptum: **Aortenklappeninsuffizienz** ( 44.11.)
-:::
+Ursachen einer *akuten AKI* sind insbesondere die *Aortendissektion* (z. B. traumatisch oder bei Bindegewebserkrankungen) sowie die *Endokarditis*.
+Sie kann rasch zu einem *kardiogenen Schock* führen.
 
-Eine chronische AKI wird oft lange toleriert, während eine akute AKI ein lebensbedrohlicher Notfall ist!
-Ursachen einer *akuten AKI* ist die Aortendissektion (traumatisch, Bindegewebserkrankungen) und Endokarditis.
-Sie führt zum kardiogenen Schock.
+Klappenvitien führen zu charakteristischen Veränderungen der Druck-Volumen-Beziehung, beispielsweise in der hämodynamischen Analyse mittels *PiCCO* (z. B. bei Aortenstenose und Aorteninsuffizienz).
 
-Klappenvitien führen zu einer Änderung der Druck-Volumen-Kurve beim PICCO!
-(AS+AI)
 
 Präanästhesie
-: - Schwere asymptomatische AKI mit erhaltener EF: elektive Eingriffe sind möglich
-  - Symptomatische AKI oder asymptomatische mit EF \< 30 %: keine Elektiveingriffe
+:   -   Schwere asymptomatische AKI mit erhaltener EF: elektive Eingriffe sind möglich
+    -   Symptomatische AKI oder asymptomatische mit EF \< 30 %: keine Elektiveingriffe
 
-Anästhesie:
-  - HF hoch halten
-  - SVR niedrig halten
+
+Anästhesie
+:   -   HF hoch halten
+    -   SVR niedrig halten
+
 
 Therapie
-: AKE (+ Ascendensersatz bei Dissektion)
+:   AKE (+ Ascendens-Ersatz bei Dissektion)

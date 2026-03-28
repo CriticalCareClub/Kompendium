@@ -118,7 +118,7 @@ Das Vorgehen gemäß ERC wird wie folgt beschrieben:
 
 (figure-plsalgorithmus)=
 
-:::{todo} GRAFIK: ERC 2025 Pediatric Life Support \[Table-algorithmus-pls\]
+:::{todo} {issue}`46` GRAFIK: ERC 2025 Pediatric Life Support \[Table-algorithmus-pls\]
 
 :::
 

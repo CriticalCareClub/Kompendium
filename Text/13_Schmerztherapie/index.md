@@ -9,7 +9,7 @@ status: final
 :::{todo} {issue}`142` Aust-Skriptum: **Schmerztherapie** (7.)
 :::
 
-:::::{only} ENTWICKLUNG
+
 
 Das Ziel ist schmerzfreiheit bzw. Reduktion der Schmerzen zur Verbesserung der Lebensqualität.
 Ein interdisziplinäres Vorgehen (med, psych, sozial) wird empfohlen;  spezifische Schmerzdiagnose, Dauerschmerz braucht Dauertherapie (keine kurzwirsamen Opioide wg. Sucht),
@@ -185,9 +185,7 @@ Im Hinterhorn Neurotransmitter:    Substanz P, VIP, CGRP, Neurokinin A, Glutamat
 
 
 Physiologische Schmerzhemmung:
-- Lokale inhibitatorische Mechanismem. Aβ-Fasern wirken auf C-Fasern
-(Vibrationen) und auch auf die Aδ-Fasern (elektrische Reizung) im RM = Ergotherapie,
-TENS,...
+- Lokale inhibitatorische Mechanismem. Aβ-Fasern wirken auf C-Fasern (Vibrationen) und auch auf die Aδ-Fasern (elektrische Reizung) im RM = Ergotherapie, TENS,...
 - Deszentierende Hemmbahnen aus dem Hirnstamm (Serotonin, Noradrenalin) hemmen an der Umschaltstation im Hinterhorn des RM = SRI-Therapie! Da bei Depressio mit Serotoninmangel auch eine erhöhte Schmerzempfindung besteht.
 - Opioidrezetoren und endogene Opioide sind an mehreren Stellen mit diesen inhibitatorischen Bahnen verbunden, stimmulieren so die Schmerzhemmung und wirken
 über das limbische System euphorisierend.
@@ -284,38 +282,42 @@ Sedierungsmonitoring alle 8h:
 :::{todo} {issue}`142` Aust-Skriptum: **Delir** (7.5.1 .)
 :::
 
-Eines der häufigsten Probleme im Rahmen der Sedierung/Weaning ist das Delir. Es werden zwei Formen unterschieden: der agetierte delirante Patient und der in sich zurückgezogene delirante Patient. Schmerz, Stress und Störungen des Schlaf-Wach-Rhythmus sind häufige Symptome,
-welche auf der Intensivstation das Auftreten eines Delirs begünstigen. Weitere Risikofaktoren sind vorbestehende kognitive Störungen, Alkoholismus, hohes Alter, Dehydration, erhöhte Nierenfunktionsparameter, anamnestisch Zustand nach Delir.
-
-
-
+Eines der häufigsten Probleme im Rahmen der Sedierung/Weaning ist das Delir.
+Es werden zwei Formen unterschieden:
+der agetierte delirante Patient und der in sich zurückgezogene delirante Patient.
+Schmerz, Stress und Störungen des Schlaf-Wach-Rhythmus sind häufige Symptome, welche auf der Intensivstation das Auftreten eines Delirs begünstigen. Weitere Risikofaktoren sind vorbestehende kognitive Störungen, Alkoholismus, hohes Alter, Dehydration, erhöhte Nierenfunktionsparameter, anamnestisch Zustand nach Delir.
 
 Zur Diagnose eines Delirs wird der CAM-ICU angewendet:
 CAM-ICU (Confusion Assessment Method für die Intensivstation)
-Vorraussetzung ist ein RASS zwischen -- 3 (mäßige Sedierung) und +4 (sehr streitlustig)
-1. Gibt es bei dem Patienten eine psychische Veränderung? Nein = kein Delir, ja = weiter 2. Liegt eine Aufmerksamkeitsstörung vor?  (ANANASBAUM buchstabieren und bei A  Hand drücken lassen) Nein = kein Delir, ja bei \> 2 Fehler = weiter 3. Bewusstseinsveränderung = aktueller RASS ≠ 0 = Delir.
-Wenn RASS 0 ist, weiter 4. Unorganisiertes Denken (Schwimmt ein Stein auf dem Wasser? Gibt es Fische im Meer? Kann man mit einem Hammer Holz sägen?  Wiegt ein Kilo mehr als zwei Kilo?  Halten sie so viele Finger hoch (zwei zeigen)! Bei \> 2 Fehler = Delir trotz RASS 0!!
+Voraussetzung ist ein RASS zwischen -- 3 (mäßige Sedierung) und +4 (sehr streitlustig)
+
+1.  Gibt es bei dem Patienten eine psychische Veränderung? Nein = kein Delir, ja = weiter
+2.  Liegt eine Aufmerksamkeitsstörung vor?  (ANANASBAUM buchstabieren und bei A  Hand drücken lassen) Nein = kein Delir, ja bei \> 2 Fehler = weiter
+3.  Bewusstseinsveränderung = aktueller RASS ≠ 0 = Delir.
+    Wenn RASS 0 ist, weiter
+4.  Unorganisiertes Denken
+    (Schwimmt ein Stein auf dem Wasser?
+    Gibt es Fische im Meer?
+    Kann man mit einem Hammer Holz sägen?
+    Wiegt ein Kilo mehr als zwei Kilo?
+    Halten sie so viele Finger hoch (zwei zeigen))
+
+    Bei \> 2 Fehler = Delir trotz RASS 0!!
 
 Therapie des DELIR:
-1) Delir ohne Wahnvorstellungen: Clonidin/Dexdor-Bypass, bei akuter Agitation Hypnotika-
-Bolus. Bei Alkoholanamnese immer auch Benzodiazepine!
-2) Delir mit Wahnvorstellungen: Neuroleptika (Seroquel, Haloperidol, Risperidon,
-Quetiapin,...) und α2-Agonisten (Dexdor, Clonidin)!
-+  Ursache evaluieren und Differentialdiagnosen ausschließen. (Infektion, Hypoxie, Anämie,
+1.  Delir ohne Wahnvorstellungen: Clonidin/Dexdor-Bypass, bei akuter Agitation Hypnotika-Bolus. Bei Alkoholanamnese immer auch Benzodiazepine!
+2.  Delir mit Wahnvorstellungen: Neuroleptika (Seroquel, Haloperidol, Risperidon, Quetiapin,...) und α2-Agonisten (Dexdor, Clonidin)!
+    \+  Ursache evaluieren und Differentialdiagnosen ausschließen. (Infektion, Hypoxie, Anämie,
 Medikamente, ...)
 
-Prävention eines Delirs:
-Nicht pharmokologische Maßnahmen wie Mobilisierung, Physiotherapie, frühes Entfernen von Drainagen, Einsatz von Orientierungshilfen und sensorische Stimulation (Brille, Hörgeräte, Uhr,
-Kalender, Musik, Zeitung, Fotos,...), Schlafförderende Maßnahmen
-(Reduktion von Lärm und Licht,
-Schlafbrillen, Ohrstöpseln), frühe enterale Ernährung. Pharmakologisch wird Melatonin abends empfohlen, weiters kann bei Patienten mit hohem Risiko eine low-dose-Haloperidol-Prophylaxe erwogen werden.
-Monitoring/Scoring von Sedierung, Schmerz und Delir in regelmäßigen Abständen (1 x  pro Schicht) soll helfen auch Patienten mit dem häufiger vorkommenden, hypoaktivem Delir zu erkennen.
+Prävention eines Delirs
+:   Nicht pharmokologische Maßnahmen wie Mobilisierung, Physiotherapie, frühes Entfernen von Drainagen, Einsatz von Orientierungshilfen und sensorische Stimulation (Brille, Hörgeräte, Uhr, Kalender, Musik, Zeitung, Fotos,...), Schlafförderende Maßnahmen (Reduktion von Lärm und Licht, Schlafbrillen, Ohrstöpseln), frühe enterale Ernährung.
+    Pharmakologisch wird Melatonin abends empfohlen, weiters kann bei Patienten mit hohem Risiko eine low-dose-Haloperidol-Prophylaxe erwogen werden.
+    Monitoring/Scoring von Sedierung, Schmerz und Delir in regelmäßigen Abständen (1 x  pro Schicht) soll helfen auch Patienten mit dem häufiger vorkommenden, hypoaktivem Delir zu erkennen.
 
 
-Das postoperaive Delir: dauert Stunden bis Tage, bei 5  --  50 %  der geriatrischen Narkosen,
-verlängert den Hospitalaufenthalt, steigert die postoperative Mortalität. Typisch ist eine fluktuierende Bewusstseinslage mit Aufmerksamkeitsstörung und unorganisiertem Denken.
-Postoperativ cognitiv disorder = Erinnerungs- und Konzentrationsstörungen für mehrere Wochen bis permanent.
+Das postoperaive Delir
+:   dauert Stunden bis Tage, bei 5  --  50 %  der geriatrischen Narkosen, verlängert den Hospitalaufenthalt, steigert die postoperative Mortalität. Typisch ist eine fluktuierende Bewusstseinslage mit Aufmerksamkeitsstörung und unorganisiertem Denken.
+    Postoperativ cognitiv disorder = Erinnerungs- und Konzentrationsstörungen für mehrere Wochen bis permanent.
 
 
-
-:::::

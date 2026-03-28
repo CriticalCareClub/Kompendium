@@ -120,11 +120,6 @@ CAM-ICU-Schema zur Früherkennung eines Delir
 
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
-
-Patient mit respiratorischer Verschlechterung
-:::
-
 (delir-prophylaxe)=
 (AASD-KP-delir-prophylaxe)=
 (AASD-KP-delir-therapie)=

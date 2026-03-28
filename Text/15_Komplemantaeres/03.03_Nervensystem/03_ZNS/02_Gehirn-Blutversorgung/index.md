@@ -6,15 +6,23 @@
 
 ## Arterien des Gehirns
 
-```{todo}  Bild "Circus arteriosus Willisi"
 
-    Pictures/1008429800003F4C000030E99A626949BB58639E.emf
-    :width: 15.988cm
-    :height: 12.347cm
 
-```
 
-→ *„Circus arteriosus Willisi“*
+:::{subfigure} AB
+:subcaptions: below
+:name: Fig-BS-Circus-arteriosus-Willisi
+:class-grid: outline
+:gap: 20px
+
+Circus arteriosus Willisi
+
+![Schematische Darstellung der hirnversorgenden Arterien mit deren Seitenästen \[ℓ PD\]](../../../../../Submodules/3134-medical-picture-collection/PD/Circle_of_Willis_la_Lexend.\*)
+
+![Blick von kaudal \[ℓ PD\]](../../../../../Submodules/3134-medical-picture-collection/PD/Poligono_di_Willis.000800px.jpg)
+:::
+
+
 
 
 

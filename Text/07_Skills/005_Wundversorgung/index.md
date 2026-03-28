@@ -204,8 +204,10 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
   - Haematoma (*Haem.*)
 :::
 
-:::{todo} {issue}`129` Bild Schnittwunde
+
+:::{todo} {issue}`36` FOTO: Schnittwunde
 :::
+
 
 :::{subfigure} AB|CD|EF|GH
 :subcaptions: below
@@ -232,6 +234,9 @@ Bilderserie: Wundarten [© David Hauer, :term:`ℓ MfG`]
 ![Ablederung nach schwerer Verbrennung](../../../Submodules/3134-medical-picture-collection/Hauer-David/combustio-sa-02-hand.*)
 
 :::
+
+
+
 
 
 ### Gefahren von Wunden

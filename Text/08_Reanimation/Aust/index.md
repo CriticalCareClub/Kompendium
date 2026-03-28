@@ -19,16 +19,14 @@ Diese Version ist veraltet.
 
 
 
-- Thoraxkompressionen: Beatmung 30:2
-- Thoraxkompressionen weiterführen und DEFI-Paddels anbringen: defibrillierbarer Rhythmus
-(KV, pulslose VT)? Ja: Defi laden -- alle weg -- Schock 360Joule monophasisch (biphasisch 150-
-200 Joule) -- Kompressionen sofort weiterführen ohne Herzrhythmus neu zu beurteilen. Nach 2 Minuten neuerliche Beurteilung des Rhythmus -- 2 Schock 360 J und für 2 Minuten sofort CPR weiter  --  3 Schock 360 j  --  ROSC  ??  nein = 1 mg Adrenalin + 300 mg Amiodaron sobald Kompressionen weiter + 3-5 Minuten Adrenalin 1 mg iv..... ev. weitere Gabe von 150 mg Amiodaron bei refratärer VF/VT
-- Nicht defibrillierbarer Rhythmus: Asystolie, pulslose elektrische Aktivität  --  CPR + Adrenalin alle 3-5 Minuten, Asystolie (EKG-Ableitung korrekt? P-welle vorhanden bei AV-Block III ind.
-Transkutaner PM)
-- Reversible Ursachen prüfen, ev. Paddelsposition verändern, Thrombolyse indiziert?  PCI indiziert?
-- Atemwegssicherung: Intubation, Larynxtubus, Kombitubus,...
-- IV-Zugang: peripher oder i.o. (OA, Tibiakopf, Sternum)
-- Endotrachale Applikation von Adrenalin wird nicht mehr empfohlen.
+-   Thoraxkompressionen: Beatmung 30:2
+-   Thoraxkompressionen weiterführen und DEFI-Paddels anbringen:
+    defibrillierbarer Rhythmus (KV, pulslose VT)? Ja: Defi laden -- alle weg -- Schock 360Joule monophasisch (biphasisch 150-200 Joule) -- Kompressionen sofort weiterführen ohne Herzrhythmus neu zu beurteilen. Nach 2 Minuten neuerliche Beurteilung des Rhythmus -- 2 Schock 360 J und für 2 Minuten sofort CPR weiter  --  3 Schock 360 j  --  ROSC  ??  nein = 1 mg Adrenalin + 300 mg Amiodaron sobald Kompressionen weiter + 3-5 Minuten Adrenalin 1 mg iv..... ev. weitere Gabe von 150 mg Amiodaron bei refratärer VF/VT
+-   Nicht defibrillierbarer Rhythmus: Asystolie, pulslose elektrische Aktivität  --  CPR + Adrenalin alle 3-5 Minuten, Asystolie (EKG-Ableitung korrekt? P-welle vorhanden bei AV-Block III ind. Transkutaner PM)
+-   Reversible Ursachen prüfen, ev. Paddelsposition verändern, Thrombolyse indiziert?  PCI indiziert?
+-   Atemwegssicherung: Intubation, Larynxtubus, Kombitubus,...
+-   IV-Zugang: peripher oder i.o. (OA, Tibiakopf, Sternum)
+-   Endotrachale Applikation von Adrenalin wird nicht mehr empfohlen.
 
 
 
@@ -37,12 +35,14 @@ Transkutaner PM)
 
 5 H´s
 
-1. Hypoxie: Reanimation mit 100 %  Sauerstoff beatmen! Sauerstoffmaske mit Reservoir schafft 85 %  FiO₂, ohne max. 50 %  bei max. Fluss 10-15l/min. Ziel SO₂ soll 94-98 %  sein.
-(Thorax beidseits heben und senken! Pneu mit fehlenden Atemgeräuschen! Einseitige Intubation/Fehlintubation etCO₂!)
-2. Hypovolämie  meist bei traumatischer Blutung, GI-Blutung, AA-Ruptur,...=  warme Flüssigkeit, operative Versorgung! (NaCL, RL)
-3. Hyper/Hypokaliämie, Hypokalziämie, Azidose... anamnestische Hinweise CNI, Labor, EKG.
-4. Hypothermie: Anamnese, Ertrinkungsunfall!! Winter!!
-5. Herzbeuteltamponade: schwierig zu diagnostizieren, weil typische Zeichen der gestauten Halsvenen und Hypotension durch Kreislaufstillstand maskiert werden. Bei penetrierenden Thoraxverletzungen wahrscheinlich!
+1.  Hypoxie:
+    Reanimation mit 100 %  Sauerstoff beatmen! Sauerstoffmaske mit Reservoir schafft 85 %  FiO₂, ohne max. 50 %  bei max. Fluss 10-15l/min. Ziel SO₂ soll 94-98 %  sein.
+    (Thorax beidseits heben und senken! Pneu mit fehlenden Atemgeräuschen! Einseitige Intubation/Fehlintubation etCO₂!)
+2.  Hypovolämie  meist bei traumatischer Blutung, GI-Blutung, AA-Ruptur,...=  warme Flüssigkeit, operative Versorgung! (NaCL, RL)
+3.  Hyper/Hypokaliämie, Hypokalziämie, Azidose... anamnestische Hinweise CNI, Labor, EKG.
+4.  Hypothermie: Anamnese, Ertrinkungsunfall!! Winter!!
+5.  Herzbeuteltamponade:
+    schwierig zu diagnostizieren, weil typische Zeichen der gestauten Halsvenen und Hypotension durch Kreislaufstillstand maskiert werden. Bei penetrierenden Thoraxverletzungen wahrscheinlich!
 
 Intoxikation: Anamnese, Labor, Antidot, wenn vorhanden.
 Thromboembolie/PE: Lysetherapie mit anschließender CPR für 60-90min!
@@ -97,19 +97,18 @@ Kalziumglukonat: nur bei Hyperkaliämie, Hypokalziämie und  Überdosierung eine
 Post-cardiac-arrest-Syndrom
 =
 Pathophysiologischer Prozess nach Ischämie beim Kreislaufstillstand mit Reperfusionsantwort, diese umfasst:
-- Zerebrale Veränderungen:
-Koma,
-Krampfanfälle
-(Benzodiazepine!),
-Myoklonien,
-neurokognitive Dysfunktion bis zu Hintod. Unmittelbar nach ROSC zerebrale Hyperämie mit Hirnödem, selten aber relevanten ICP-Anstiegen, da die Autoregulation für einge Zeit gestört ist.
-- Kardiale Veränderungen: Myokard-Stunning  über Tage bis Wochen, va. Apex, reversibel,
-diastolische Funktionsstörung,
-proportional zur Prognose:
-verringerter CO,
-Arhythmieneigung erhöht
-- Aktivierung immunologischer Prozesse und des Gerinnungssystem mit multiplen Organfunktionsausfällen und erhöhtem Infektionsrisiko,
-Vasodilation mit Volumenverschiebung ähnlich SIRS.
+-   Zerebrale Veränderungen:
+    Koma,
+    Krampfanfälle
+    (Benzodiazepine!),
+    Myoklonien,
+    neurokognitive Dysfunktion bis zu Hintod. Unmittelbar nach ROSC zerebrale Hyperämie mit Hirnödem, selten aber relevanten ICP-Anstiegen, da die Autoregulation für einge Zeit gestört ist.
+-   Kardiale Veränderungen: Myokard-Stunning  über Tage bis Wochen, va. Apex, reversibel,
+    diastolische Funktionsstörung,
+    proportional zur Prognose:
+    verringerter CO,
+    Arhythmieneigung erhöht
+-   Aktivierung immunologischer Prozesse und des Gerinnungssystem mit multiplen Organfunktionsausfällen und erhöhtem Infektionsrisiko, Vasodilation mit Volumenverschiebung ähnlich SIRS.
 
 Patienten mit nur kurzem Kreislaufstillstand, die direkt auf die entsprechende Therapie reagiert haben müssen nicht Intubiert und beatmet werden. Sollen jedoch Sauerstoff  über die Maske erhalten.
 
@@ -123,10 +122,10 @@ Krampfkontrolle: Benzodiazepine, Propofol, Barbiturate
 
 Blutzuckereinstellung: Hyperglykämie ist mit schlechtem neurologischen Outcome vergesellschaftet! Daher Ziel < 180 mg/dl.
 
-Temperaturkontrolle: 48 h Hypothermie bei komatösen Patienten (VF) 34°C. Drei Phasen:
-Einleitung (Sofort nach ROSC transnasal), Erhaltung mit  Überwachung der Temperatur
-(Coolguard) und Wiedererwärmung. KI bei schweren systemischen Infektionen mit MOF und vorbestehende Gerinnungsstörung. NW der Hypothermie: Shivering, Arrhythmien,
-vermehrte Diurese mit Elektrolytstörungen, vermindert Insulinsekretion und Sensitivität mit Hyperglykämie, verschlechtert Gerinnung, schwächt Immunsystem, Elimination von Sedativa und Muskelrelaxantien ist um ca. 30 % vermindert. Nutzen: neuroprotektiv.
+Temperaturkontrolle: 48 h Hypothermie bei komatösen Patienten (VF) 34°C.
+
+Drei Phasen:
+Einleitung (Sofort nach ROSC transnasal), Erhaltung mit  Überwachung der Temperatur (Coolguard) und Wiedererwärmung. KI bei schweren systemischen Infektionen mit MOF und vorbestehende Gerinnungsstörung. NW der Hypothermie: Shivering, Arrhythmien, vermehrte Diurese mit Elektrolytstörungen, vermindert Insulinsekretion und Sensitivität mit Hyperglykämie, verschlechtert Gerinnung, schwächt Immunsystem, Elimination von Sedativa und Muskelrelaxantien ist um ca. 30 % vermindert. Nutzen: neuroprotektiv.
 
 Biochemische Marker: NSE (neuronenspezifische Enolase) und Serum-Protein S100 erhöhte Werte sind mit schlechtem Outcome verbunden.
 

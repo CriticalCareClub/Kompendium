@@ -4,7 +4,7 @@ status: final
 
 
 
-:::{index} single: NIST-Anschlu$1
+:::{index} single: NIST-Anschluß
 :::
 :::{index} single: DIN; Gasanschluß
 :::
@@ -31,11 +31,7 @@ Geräteseitig
     Dichtigkeit ist nur *mit* Kraftanstrengung gewährleistet
 
 
-:::{todo} {issue}`129` FOTO NIST-Anschluß
-:::
 
-:::{todo} {issue}`129` FOTO DIN-Anschluß
-:::
 
 :::{list-table} Farbcodes Gasversorgung
 :header-rows: 1

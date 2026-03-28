@@ -7,7 +7,7 @@ status: draft
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Schockraum** (52.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Schockraum** (52.)
 :::
 
 Kreislauf des Polytraumas

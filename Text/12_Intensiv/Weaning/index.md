@@ -146,7 +146,7 @@ Das Ende der Weaning-Phase hat prinzipiell nichts mit dem Atemweg zu tun, sie is
 ## Aust Weaning
 
 
-:::{todo} {issue}`142` Aust-Skriptum: **Weaning** 29.7.
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Weaning** 29.7.
 :::
 
 

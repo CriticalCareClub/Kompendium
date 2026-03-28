@@ -8,7 +8,7 @@ status: draft
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Der geriatische Patient** (62.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Der geriatische Patient** (62.)
 :::
 
 Das Patientengut wird immer  älter, mit eingeschränkter Leistungsfähigkeit, reduzierter physiologischer Reserve und gestörter Homöostase.

@@ -9,7 +9,7 @@ status: final
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Hirntod und Spenderpflege** (13.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Hirntod und Spenderpflege** (13.)
 :::
 
 Hirntod = irreversibler Ausfall aller Funktionen des Großhirns, des Kleinhirns und des Hirnstammes, bei gleichzeitig erhaltener Funktion des Herz-, Kreislaufsystems. = Individualtod.

@@ -7,7 +7,7 @@ status: draft
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Neurochirurgie** (12.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Neurochirurgie** (12.)
 :::
 
 

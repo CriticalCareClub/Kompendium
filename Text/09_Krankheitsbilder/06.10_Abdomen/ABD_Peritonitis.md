@@ -23,9 +23,6 @@ Syn.
 
 
 
-
------
-
 Eine **Peritonitis** (Bauchfellentzündung) ist die Entzündung des Peritoneums.
 Sie kann lokalisiert auftreten oder generalisiert das gesamte Peritoneum betreffen ("4-Quadranten-Peritonitis").
 Durch die Entzündung bzw. Infektion des Bauchfelles kommt es zu Symptomen eines Akuten Abdomens.
@@ -34,7 +31,7 @@ Eine Bauchfellentzündung führt üblicherweise zu einer schweren körperweiten 
 Sie ist nur **selten eine eigenständige Erkrankung**, sondern häufig eine Folgeerscheinung eines anderen Krankheitsprozesses und umfasst einen heterogenen Komplex von klinischen Krankheitsbildern.
 Die Behandlung und Prognose ist wesentlich vom zugrunde liegenden Krankheitsbild abhängig.
 
-:::{todo} {issue}`129` Foto: 4-Quadranten-Peritonitis
+:::{todo} {issue}`55` FOTO: 4-Quadranten-Peritonitis
 
 Peritonitis.png
 

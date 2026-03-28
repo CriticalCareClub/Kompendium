@@ -1,49 +1,130 @@
 ---
-status: draft
+status: final
 ---
 
 
-#  Adipositas
-
-<!--  -->
-
-:::{todo} {issue}`142` Aust-Skriptum: **Adipositas** (16.)
+:::{index} pair: Adipositas; Anästhesie
+:::
+:::{index} single: Body-Mass-Index
+:::
+:::{index} single: BMI
 :::
 
-BMI = kg/m²
-Bis 25 normal, unter 18,5 Untergewicht Grad I 30-35 Grad II 35-40 Grad III 40 plus Morbide Adipositas zw. 40 und 50 (Mortalität steigt ab 40)
+(adipositas)=
 
-Ursachen: Fehlernährung, mangelnde Bewegung, SD (Hashimoto), Cushing, Med. NW: Insulin,
-Pille, Antidepressiva, Betablocker,..
-Oft sekundäre Erkrankungen: Hypertonie, KHK, DM, Herzinsuffizienz, Fettleber,...
+# Adipositas
 
-Die Medikamentendosierung wird unterschiedlich berechnet. Man verwendet dabei:
-Total body weight (tatsächliches Gewicht): Suxamethonium,
-Antibiotika
- Adjusted body weight (ideale Gewicht abhängig von Grösse, Geschlecht und Alter): Propofol
-(Perfusor), Midazolam, Alfentanil, Sugammadex, Neostigmin, LMWH
+Der *Body-Mass-Index* (*BMI*) berechnet sich als kg/m².
+Ein BMI bis 25 gilt als normal, unter 18,5 als Untergewicht.
+Adipositas Grad I: 30–35, Grad II: 35–40, Grad III: > 40.
+Eine morbide Adipositas liegt typischerweise zwischen 40 und 50 vor, die Mortalität steigt insbesondere ab einem BMI > 40.
 
 
+Ätiologie
+:   -   Fehlernährung
+    -   Bewegungsmangel
+    -   Endokrine Ursachen (z. B. *Hashimoto-Thyreoiditis*, *Cushing-Syndrom*)
+    -   Medikamentennebenwirkungen
+        -   *Insulin*
+        -   Orale Kontrazeptiva
+        -   Antidepressiva
+        -   Betablocker
 
- Lean body weight (fettfreie Körpermasse,  *(Größe in cm  -100) + ¼  der Differenz zum Gesamtkörpergewicht*  ): Propofol (Induktionsdosis), Fentanyl, Remifentanyl, Rocuronium,
-Morphium, Ketmin, Paracetamol.
 
-Intraoperativ zu beachten:
-- Intubationsprobleme wahrscheinlich:
-  - kleine Mundöffnung,
-  - kurzer dicker Hals,
-  - eingeschränkte Nackenbeweglichkeit, Pro/Retrognatie, kurzer Thyreomentaler Abstand
-- Einleitung: RSI ev. FioWachintubation, 10 min. Präoxygenieren (kurze Apnoetoleranz bei rascher Hb-Desaturation/Entsättigung, und hohem O₂-Verbrauch! Wenn möglich RA!! Bei Herzinsuffizienz Einleitung mit Etomidate. Volatile Anästhetika fluten wg. Red. FRC schneller an, höheres Verteilungsvolumen lipidlöslicher Anästhetika mit Überhang nach OP!!
-- Relaxantien nach Normalgewicht dosieren, da hydrophil mit normalem Verteilungsvolumen.
-- Hohes Aspirationsrisiko: nie nüchtern! Erhöhte Magensaftproduktion bei verzögerter Entleerung,
-hoher IAP mit Zwerchfellhochstand, oft Hiatushernie/Reflux
-- Beatmungsschwierigkeiten: FRC bis zu 40-75 %  erniedrigt, Compliance herabgesetzt,
-Atemfrequenz erhöht, hohe Beatmungsdrücke oft notwendig.
-- Hämodynamische Instabilität: Blutvolumen und HZV sind erhöht, bei vermind. card. Reserve.
-- Extubation erst beim völlig wachem Patienten mit TOF\> 0,9
-- Bei OSAS 24 h postoperativ AWR
-- Erhöhte Fehlerrate bei PDA
-- Gehäuft periphere Nervenschäden durch die Lagerung!
+Assoziierte Erkrankungen
+:   -   Hypertonie
+    -   Koronare Herzkrankheit
+    -   Diabetes mellitus
+    -   Herzinsuffizienz
+    -   Fettleber
 
-BGA: paCO₂ erhöht! (höhere Produktion)
-Prämed: Kein Dormicum! Ev. Na-Citrat, H2-Blocker 1h präoperativ Praktisch: geeignete, zugelassene Liege/Bett, Lift?
+
+Dosierung von Medikamenten
+:   Unterschiedliche Bezugsgrößen werden verwendet.
+
+    -   *Total Body Weight* (tatsächliches Gewicht)
+        -   *Suxamethonium*, Antibiotika
+
+    -   *Adjusted Body Weight* (angepasstes Gewicht)
+        -   Propofol (Perfusor), Midazolam, Alfentanil, Sugammadex, Neostigmin, Niedermolekulare Heparine
+
+    -   *Lean Body Weight* (fettfreie Körpermasse)
+        -   Berechnung: (Größe in cm − 100) + ¼ der Differenz zum Gesamtkörpergewicht
+        -   Propofol (Induktionsdosis), Fentanyl, Remifentanil, Rocuronium, Morphin, Ketamin, Paracetamol
+
+
+
+
+
+## Intraoperative Besonderheiten
+
+
+Erschwerte Intubation
+:   -   Kleine Mundöffnung
+    -   Kurzer, dicker Hals
+    -   Eingeschränkte Nackenbeweglichkeit
+    -   Pro-/Retrognathie
+    -   Verkürzter thyreomentaler Abstand
+
+
+Einleitung
+:   -   RSI erwägen, ggf. Wachintubation
+    -   Präoxygenierung ≥ 10 Minuten (rasche Desaturation bei geringer Apnoetoleranz)
+    -   Wenn möglich Regionalanästhesie
+    -   Bei Herzinsuffizienz Einleitung mit *Etomidat*
+    -   Volatile Anästhetika fluten schneller an (verminderte FRC)
+    -   Erhöhtes Verteilungsvolumen lipophiler Substanzen → Überhang postoperativ
+
+
+Relaxantien
+:   Dosierung nach Normalgewicht (hydrophil, normales Verteilungsvolumen)
+
+
+Aspirationsrisiko
+:   -   Erhöht durch verzögerte Magenentleerung und gesteigerte Magensaftproduktion
+    -   Erhöhter intraabdomineller Druck mit Zwerchfellhochstand
+    -   Häufig Hiatushernie/Reflux
+
+
+Beatmung
+:   -   FRC um 40–75 % reduziert
+    -   Verminderte Compliance
+    -   Erhöhter Atemfrequenzbedarf
+    -   Hohe Beatmungsdrücke erforderlich
+
+
+Hämodynamik
+:   -   Erhöhtes Blutvolumen und Herzzeitvolumen
+    -   Gleichzeitig reduzierte kardiale Reserve möglich
+
+
+Extubation
+:   -   Nur beim vollständig wachen Patienten
+    -   TOF > 0,9
+
+
+Postoperativ
+:   -   Bei *OSAS* verlängerte Überwachung (z. B. 24 h im Aufwachraum)
+    -   Erhöhte Fehlerrate bei Periduralanästhesie
+    -   Erhöhtes Risiko peripherer Nervenschäden durch Lagerung
+
+
+
+
+
+## Weitere Aspekte
+
+
+Blutgasanalyse
+:   paCO₂ erhöht (gesteigerte Produktion)
+
+
+Prämedikation
+:   -   Kein *Midazolam*
+    -   Ggf. Natriumcitrat
+    -   H₂-Blocker etwa 1 h präoperativ
+
+
+Praktische Aspekte
+:   -   Geeignete, belastbare Liege/Bett
+    -   Einsatz von Liftern erwägen

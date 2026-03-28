@@ -15,7 +15,7 @@ status: draft
 
 <!-- -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Pericarderguss und Herzbeuteltamponade** ( 44.1.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Pericarderguss und Herzbeuteltamponade** ( 44.1.)
 :::
 
 Ursachen

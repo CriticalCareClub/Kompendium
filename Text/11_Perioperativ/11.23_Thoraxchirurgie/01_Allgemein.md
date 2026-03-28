@@ -4,11 +4,6 @@ status: final
 
 # Allgemeines
 
-<!--  -->
-
-:::{todo} {issue}`142` Aust-Skriptum: **Thoraxchirurgie** (33.)
-:::
-
 Das Patientenkollektiv gliedert sich im Wesentlichen in zwei Gruppen:
 
 1. Patienten, welche nach dem Eingriff respiratorisch schlechter sind:
@@ -400,7 +395,7 @@ Bei Sog am Drain wird das Herz auf die leere Seite gezogen und die Coronarperfus
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Idiopathisches Lungenödem post Pneumonektomie** (33.2.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Idiopathisches Lungenödem post Pneumonektomie** (33.2.)
 :::
 
 Ursache
@@ -414,9 +409,5 @@ Möglichkeiten die HPV zu vermindern: NO, Prostacyclin, volatile Anästhetika, O
 :::
 
 
-
-<!--
-#
- -->
 
 

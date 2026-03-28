@@ -6,7 +6,7 @@ status: draft
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **HNO** (58.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **HNO** (58.)
 :::
 
 Höheres Anästhesierisiko va. bei Akuteingriffen, weil:

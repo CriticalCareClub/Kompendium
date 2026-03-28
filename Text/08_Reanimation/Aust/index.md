@@ -6,7 +6,7 @@ status: draft
 
 # Aust 45. Reanimation:   ALS
 
-:::{todo} {issue}`142` Aust-Skriptum: **ALS**
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **ALS**
 :::
 
 

@@ -74,6 +74,15 @@ Daneben gibt es auch noch andere Regulationsmechanismen, so reguliert auch die *
 
 [^puffer]: Ein Puffer ist ein Stoff, welcher pH-Änderungen abfedert.
 
+
+:::{index} pair: Säure-Basen-Haushalt; Puffersysteme
+:::
+:::{index} single: Bikarbonatpuffer
+:::
+:::{index} single: Anionenlücke
+:::
+
+(puffersysteme)=
 (bikarbonatpuffer)=
 
 ## Puffersystem im Blut
@@ -100,26 +109,33 @@ $$
     Dies ist die konkrete Ableitung der Henderson-Hasselbalch’schen
     Puffergleichung für den Bikarbonatpuffer.
 
-::::{only} not nosidebar
 
-:::{margin} Bikarbonat-Puffer
 
-CO₂ wird von Lunge abgeatmet.
+Zu den wichtigsten Puffersystemen gehören der *Bikarbonatpuffer*, *Hämoglobin*, *Plasmaproteine* und *Phosphate*.
 
-- Zu wenig Atmung: CO₂ staut sich, wird nicht abgebaut
 
-  *Atmungsbedingte Übersäuerung*
 
-- Zu viel Atmung:
-  zu viel CO₂ abgeatmet,
-  CO₂ wird nachgebildet,
-  Säure wird zu Wasser und fehlt
 
-  *Atmungsbedingte Alkalose*
 
-- Zu viel Säure im Körper: zu CO₂ umgewandelt und wird abgeatmet
-:::
-::::
+Bikarbonatpuffer
+:   Gleichgewichtsreaktion: HCO₃⁻ + H⁺ ↔ H₂O + CO₂
+    Verhältnis: 20 : 1
+    Henderson-Hasselbalch-Gleichung: pH = 6,1 + log (HCO₃⁻ / paCO₂)
+
+
+
+
+
+Elimination von Säuren
+:   -   Abatmung von CO₂
+        -   CO₂ + H₂O ↔ H₂CO₃ ↔ H⁺ + HCO₃⁻
+    -   Renale Ausscheidung fixer Säuren
+        -   Ammonium (NH₄⁺)
+        -   Phosphat (HPO₄²⁻)
+        -   Sulfat (SO₄²⁻)
+    -   Normal: 40–60 mmol/Tag
+
+
 
 Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 
@@ -143,137 +159,32 @@ Das CO₂ wird normalerweise über die Lunge abgeatmet. Daraus folgt:
 
 
 
-### Puffersysteme
-
-:::{todo} {issue}`142` Aust-Skriptum: Puffersysteme (21.)
-:::
-
-Bikarbonatpuffer, Hämoglobin, Plasmaproteine, Phosphate Gleichgewichtsreaktion für Bicarbonatpuffer: HCO -
-3  + H+ ↔ H₂O + CO₂   (20:1)
-Henderson-Hasselbalch-Gleichung pH = 6,1 + log\[HCO -
-3  / paCO₂\]
-
-
-Elimination von Säuren:
- Durch Abatmung von CO₂werden Protonen eliminiert(CO₂+ H₂O H2CO3H++ HCO3-)
-•renale Ausscheidung der „fixen Säuren" als Ammonium-(NH4+), Phosphat-(HPO42-) und Sulfat-
-Ionen (SO42-) normal: 40-60 mmol/Tag
-
-
-Metabolische Azidoseeine potentiell lebensbedrohliche Erkrankung!
-Schnelle, fokussierte Diagnostik ist wichtig!
-1. Liegt eine einfache oder komplexe metabolische Azidose vor 2. Liegt ein Verlust von Bikarbonat oder eine Anreicherung von Protonen vor?
-
-Auswirkungen der schweren Azidose (pH\< 7.20)auf den Organismus:
-
-Zerebral:Benommenheit, Somnolenz, Koma
-
-Hemmung von Glucosestoffwechsel und Zellvolumenregulation
-
-zerebrale Vasodilatation
-
-Stoffwechsel:verstärkter Proteinkatabolismus
-
-Insulinresistenz, Hyperkaliämie
-
-Reduktion der ATP-Synthese
-
-Atmung: Hyperventilation
-
-Kardiovaskulär:Kontraktilität ↓, Arrhythmieneigung ↑
-
-pulmonaler Gefäßwiderstand↑
-
-Verminderung der Katecholaminsensitivität (pH < 7.20)
-
-Ursachen der metabolischen Azidose 1. Vermehrte endogene Produktion fixer Säuren,
-deren Menge die Ausscheidungskapazität der Niere übersteigt. Beispiel:Laktatazidose, Ketoazidose 1. Erkrankungen des Nierenparenchyms, die mit verminderter Ausscheidung von Säuren einhergehen Beispiel:Azidose bei chronischer Niereninsuffizienz 1. Verlust von Bikarbonat durch vermehrte renale oder enterale Ausscheidung. Beispiel:Diarrhoe,
-proximal renale tubuläre Azidose 1. Exogene Zufuhr von organischen Säuren. Beispiel:Methanol,
-Äthylenglykol,
-Salizylateetabolische
-
-Anionenlücke: Na -- (Cl+HCO -
-3 ) = normalerweise 8-16 Bei Azidoseformen durch Bicarbonatverlust entsteht, korregieren dies durch Cloridanstieg  =
-normale Anionenlücke. Z.B. Diarrhoe, Fisteln oder renale Bicarbonatverluste (renal tubuläre Azidose). = Hyperchlorämische Azidose!
-Azidosen, welche durch vermehrte Bildung von Säuren zustande kommen, wie Laktatazidose
-(Hunger) oder Ketoazidose (Diabetes), Intoxikation und chronische Niereninsuffizienz, haben eine vergrößerte Anionenlücke.
-
-
-Merke:    Bei metabolischen Störungen  ändert sich der pCO₂  und BE mit dem pH, bei respiratorischen Störungen  ändert sich der pCO₂  und BE gegenläufig/revers zum pH.    Eine
-Änderung des pH um 0,1 entspricht einer Änderung des pCO₂ von 12mmHg bzw. BE von 6.
-
-
-Ketoazidose:
-Durch verminderte Glucoseutilisation (Insulinmangel): Lipolyse ↑mit Entstehung von Azetoazetat und beta-Hydroxybutyrat (Azidose)
--Bikarbonat puffert entstehende Protonen.
--Azetoazetat und beta-Hydroxybutyrat „ersetzen" Bikarbonat Folge:    Bikarbonat ↓, Anionenlücke ↑
-
-Therapie: Volumensubstitution, Kaliumsubstitution, Insulin,
-
-- Azidoseausgleich erst bei pH \< 7.10!
-
-Laktatazidose:
--verminderte Gewebeperfusion (Schock, Sepsis, Ischämie, Typ A)
--Therapie mit Metformin, INH (Typ B)
-Entstehung von Laktat durch anaerobe Glykolyse (Azidose)
--Bikarbonat puffert entstehende Protonen
--Laktat „ersetzt" Bikarbonat im Plasma Folge: Bikarbonat ↓, Anionenlücke ↑
-Therapie: Verbesserung der Gewebeperfusion (kausale Therapie),
-Absetzen der Noxe;
-- Bikarbonatgabe? Hämodialyse?
-
-50 % der Säure/Basen-Störungen im KH sind metabolische Alkalosen!
-
-Ursachen von metabolischen Alkalosen:
-1. Verlust von Säure (enteral)
-2. Shift von H+nach intrazellulär bei Hypokaliämie
-3. Exzessive Gabe von Bikarbonat
-4. Kontraktionsalkalose (Volumenkontraktion bei niedrigem Cl-)
-
-Zur Diagnostik muss die Anamnese (Erbrechen,...) mit Klinik (Volumenmangel?) erhoben werden.
-Die Vitalparameter und Nierenfunktionswerte (GFR) geben ebenfalls wertvolle Hinweise.
-Selten findet sich eine Normovolämie mit hyertensiver Blutdrucklage bei Hyperaldosteronismus, schwerem Kaliummangel, Lakritzeabusus,
-Cushingsyndrom oder Liddle-Syndrom.
-Typischerweise findet man eine Hypovolämie mit erniedrigtem Chlorid bei Gastrointestinalen Verlusten (Erbrechen, Magensaftdrainage,... NaCl sensitiv: Volumengabe korregiert die Alkalose),
-oder erhöhten Chloridwerten bei Diuretikaabusus.
-
-Therapie der zugrundeliegenden Ursache der metabolischen Alkalose:
-- NaCl bzw. KCl-Gabe bei Verlusten
-- Dosisreduktion bzw. Umstieg auf kaliumsparende Diuretika
-- Operative Sanierung einen NNR-Adenoms.
 
 
 
 
-
-BGA-Beurteilung:
-1. Wie hoch ist der pH? = Azidose oder Alkalose
-2. Wie hoch ist das Bicarbonat?
-2. Wie hoch ist das CO₂?
-3. Metabolische oder respiratorische oder kombinierte Störung?
-
-
-Normalwerte: pH = 7,35--7,45 pCO₂ = 35--45 mm Hg bzw. 4,6--6,0[ kPa ](https://de.wikipedia.org/wiki/KPa)HCO3(std) = 23--27 mmol/l BE = -2 bis +3 mmol/l)
-
-
-Analyse der respiratorischen Kompensation von metabolischen Störungen:
-\[HCO3-\] + 15 = pCO₂ (mmHg)= pH Bsp: Patient mit pH 7,20 und einem HCO3- von 14 1) pCO₂ = 29mmHg mit pH 7,29 = adäquate Kompensation 2) pCO₂ \< 29mmHg mit pH > 7,29 = zusätzliche respiratorische Alkalose 3) pCO₂ \> 29mmHg mit pH \< 7,29 = zusätzliche respiratorische Azidose Erkennen von gemischten Ursachen einer metabolischen Störung mit Hilfe der Delta/Delta-
-Analyse = Um wieviel verändert sich die Anionenlücke im Verhältnis zum Bicarbonat?
+### Weitere Begriffe
 
 Osmolarität
-: Maß für die Anzahl der Teilchen in einem Lösungsmittel.
+:   Anzahl osmotisch wirksamer Teilchen pro Volumen
+
 
 Osmolalität
-: Maß für die molare Konzentration aller osmotisch aktiven Teilchen pro kg. Wasser.
+:   Anzahl osmotisch wirksamer Teilchen pro kg Wasser
 
-KOD
-: wird durch Makromoleküle an einer für diese undurchlässigen Membran, der Kapillarwand, hervorgerufen.
 
-  KOD des Plasmas = 25-28mmHg (va. durch Albuminmoleküle)
+Kolloidosmotischer Druck
+:   Durch Makromoleküle (v. a. Albumin) erzeugt
+    Normal: 25–28 mmHg
 
-Vollelektrolytlösungen: Na \> 120mmol/l
 
-Halbelektrolytlösungen: Na 61-90mmol/l NaCl: Na 154mmol/l + Cl 154mmol/l (= nicht physiologisch!)
+
+
+
+Infusionslösungen
+:   -   Vollelektrolytlösungen: Na⁺ > 120 mmol/l
+    -   Halbelektrolytlösungen: Na⁺ 61–90 mmol/l
+    -   NaCl 0,9 %: Na⁺ 154 mmol/l, Cl⁻ 154 mmol/l (nicht physiologisch)
 
 
 
@@ -338,6 +249,112 @@ Hier werden saure Stoffe gebildet (Ketonkörper), welche ein Ungleichgewicht ver
 Es bestehen die *Symptome der Grunderkrankung*. Weiters fällt eine *tiefe, schnelle Atmung* auf, da der Körper versucht, CO₂ abzuatmen
 (*Kußmaul’sche Atmung*) um dadurch den pH-Wert zu normalisieren.
 
+
+
+Die metabolische Azidose ist eine potenziell lebensbedrohliche Erkrankung.
+Eine rasche, strukturierte Diagnostik ist entscheidend.
+
+
+Diagnostische Fragestellungen
+:   -   Liegt eine einfache oder kombinierte Störung vor?
+    -   Liegt ein Bikarbonatverlust oder eine Protonenanreicherung vor?
+
+
+
+
+
+Auswirkungen (pH < 7,20)
+:   -   Zerebral
+        -   Benommenheit, Somnolenz, Koma
+        -   Zerebrale Vasodilatation
+        -   Störung von Glukosestoffwechsel und Zellvolumenregulation
+    -   Stoffwechsel
+        -   Erhöhter Proteinkatabolismus
+        -   Insulinresistenz
+        -   Hyperkaliämie
+        -   Reduktion der ATP-Synthese
+    -   Atmung
+        -   Hyperventilation
+    -   Kardiovaskulär
+        -   Kontraktilität ↓
+        -   Arrhythmieneigung ↑
+        -   Pulmonaler Gefäßwiderstand ↑
+        -   Verminderte Katecholaminsensitivität
+
+
+
+
+
+Ursachen
+:   -   Vermehrte Produktion fixer Säuren
+        -   Laktatazidose
+        -   Ketoazidose
+    -   Verminderte renale Ausscheidung
+        -   Chronische Niereninsuffizienz
+    -   Bikarbonatverlust
+        -   Diarrhoe
+        -   Renale tubuläre Azidose
+    -   Exogene Zufuhr
+        -   Methanol
+        -   Ethylenglykol
+        -   Salizylate
+
+
+
+
+
+Anionenlücke
+:   Na⁺ − (Cl⁻ + HCO₃⁻) = normal 8–16 mmol/l
+
+    -   Normale Anionenlücke
+        -   Bikarbonatverlust mit kompensatorischem Chloridanstieg
+        -   Hyperchlorämische Azidose (z. B. Diarrhoe, RTA)
+    -   Erhöhte Anionenlücke
+        -   Laktatazidose
+        -   Ketoazidose
+        -   Intoxikationen
+        -   Niereninsuffizienz
+
+
+
+
+
+Merke
+:   -   Metabolische Störungen: pCO₂ und BE ändern sich parallel zum pH
+    -   Respiratorische Störungen: pCO₂ und BE ändern sich gegenläufig
+    -   Δ pH 0,1 ≙ Δ pCO₂ ca. 12 mmHg bzw. Δ BE ca. 6
+
+
+
+
+
+Ketoazidose
+:   -   Ursache: Insulinmangel → Lipolyse ↑ → Ketonkörper (Acetoacetat, β-Hydroxybutyrat)
+    -   Bikarbonat wird verbraucht → Anionenlücke ↑
+
+    Therapie
+    -   Volumenersatz
+    -   Kaliumsubstitution
+    -   Insulin
+    -   Bikarbonat erst bei pH < 7,10
+
+
+
+
+
+Laktatazidose
+:   -   Typ A: verminderte Gewebeperfusion (Schock, Sepsis, Ischämie)
+    -   Typ B: Medikamente (z. B. Metformin, INH)
+    -   Anaerobe Glykolyse → Laktatanstieg → Anionenlücke ↑
+
+    Therapie
+    -   Verbesserung der Gewebeperfusion
+    -   Ausschalten der Ursache
+    -   Ggf. Bikarbonatgabe oder Dialyse
+
+
+
+
 (alkalose-respiratorische)=
 
 ## Atmungsbedingte (respiratorische) Alkalose
@@ -352,6 +369,46 @@ Eine ausführliche Beschreibung des *Hyperventilationssyndroms* findet sich unte
 ## Stoffwechselbedingte (metabolische) Alkalose
 
 Eine stoffwechselbedingte Alkalose kommt v. a. durch den *Verlust von Säure*, z. B. durch anhaltendes Erbrechen, zu Stande.
+
+
+## Metabolische Alkalose
+
+Etwa 50 % der Säure-Basen-Störungen im Krankenhaus sind metabolische Alkalosen.
+
+
+Ursachen
+:   -   Säureverlust (z. B. Erbrechen)
+    -   Intrazellulärer Shift von H⁺ bei Hypokaliämie
+    -   Exzessive Bikarbonatzufuhr
+    -   Kontraktionsalkalose bei Volumenmangel und niedrigem Cl⁻
+
+
+
+
+
+Diagnostik
+:   -   Anamnese (z. B. Erbrechen)
+    -   Volumenstatus
+    -   Nierenfunktion (GFR)
+    -   Sonderfälle
+        -   Normovolämie + Hypertonie
+            -   Hyperaldosteronismus
+            -   Cushing-Syndrom
+            -   Liddle-Syndrom
+            -   Lakritzeabusus
+
+
+
+
+
+Therapie
+:   -   Behandlung der Ursache
+    -   NaCl- bzw. KCl-Substitution
+    -   Anpassung der Diuretikatherapie
+    -   Operative Therapie bei NNR-Adenom
+
+
+
 
 ## Zusammenfassung
 
@@ -372,5 +429,36 @@ Eine stoffwechselbedingte Alkalose kommt v. a. durch den *Verlust von Säure*,
 >   sauer. Wer zu viel atmet wird basisch und spürt ein Kribbeln in
 >   den Fingern. Wer Probleme mit dem Stoffwechsel hat kann sauer
 >   oder basisch werden.
+
+
+
+## BGA-Beurteilung
+
+Vorgehen
+:   -   pH bestimmen (Azidose vs. Alkalose)
+    -   HCO₃⁻ beurteilen
+    -   pCO₂ beurteilen
+    -   Einordnung: metabolisch, respiratorisch oder kombiniert
+
+
+
+
+
+Normalwerte
+:   -   pH: 7,35–7,45
+    -   pCO₂: 35–45 mmHg
+    -   HCO₃⁻: 23–27 mmol/l
+    -   BE: −2 bis +3 mmol/l
+
+
+
+
+
+Respiratorische Kompensation
+:   pCO₂ ≈ HCO₃⁻ + 15
+
+    -   Adäquate Kompensation
+    -   pCO₂ < erwartet → zusätzliche respiratorische Alkalose
+    -   pCO₂ > erwartet → zusätzliche respiratorische Azidose
 
 

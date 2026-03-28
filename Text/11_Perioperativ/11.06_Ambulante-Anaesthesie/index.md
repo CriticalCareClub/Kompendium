@@ -1,28 +1,66 @@
 ---
-status: draft
+status: final
 ---
 
 
 
-# Ambulante Anästhesie
-
-<!--  -->
-
-:::{todo} {issue}`142` Aust-Skriptum: **Ambulante Anästhesie** (61.)
+:::{index} pair: Anästhesie; ambulant
+:::
+:::{index} single: Ambulante Anästhesie
 :::
 
-Häufigsten ambulanten Eingriffe 3 „C" = Catarakt, CC, Curettagen.
+(ambulante-anaesthesie)=
 
-Vorteil
-: billiger, Reduktion nosokomialer Infektionen, keine Hospitalisierung
+# Ambulante Anästhesie
+
+Die häufigsten ambulanten Eingriffe lassen sich als „3 C“ zusammenfassen: *Catarakt*, *Cholezystektomie (CC)* und *Curettagen*.
+
+
+
+
+
+Vorteile
+:   -   Geringere Kosten
+    -   Reduktion nosokomialer Infektionen
+    -   Keine Hospitalisierung
+
+
+
+
 
 Gründe für Wiederaufnahme
-: Blutung aus der Wunde, Wundschmerzen, PONV
+:   -   Blutung aus der Wunde
+    -   Wundschmerzen
+    -   *PONV*
+
+
+
+
 
 Ziel des Anästhesieverfahrens
-: gute Steuerbarkeit, geringe NW, kurze Aufwachzeit, Schmerzfreiheit, kein PONV; daher wenn möglich RA, sonst AN.
+:   -   Gute Steuerbarkeit
+    -   Geringe Nebenwirkungen
+    -   Kurze Aufwachzeit
+    -   Schmerzfreiheit
+    -   Kein *PONV*
+    -   Wenn möglich *Regionalanästhesie*, sonst *Allgemeinanästhesie*
+
+
+
+
 
 Entlassungskriterien
-: Freigabe durch Operateur und Anästhesisten: Orientiert, Respiratorisch und hämodynamisch stabil, keine Schmerzen, kein PONV, keine Restblockaden/Miktionsstörung.
+:   -   Freigabe durch Operateur und Anästhesisten
+    -   Orientierung vorhanden
+    -   Respiratorisch und hämodynamisch stabil
+    -   Keine Schmerzen
+    -   Kein *PONV*
+    -   Keine Restblockaden oder Miktionsstörungen
 
-Hinweis auf eingeschränkte Orientierung für 24 h (Autofahren verboten!), Sicherstellung einer Begleitperson.
+
+
+
+
+Hinweise
+:   -   Eingeschränkte Orientierung für 24 h (kein Autofahren)
+    -   Sicherstellung einer Begleitperson

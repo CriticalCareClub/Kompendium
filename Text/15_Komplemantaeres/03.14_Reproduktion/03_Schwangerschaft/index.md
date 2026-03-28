@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Schwangerschaft
 
 Syn: *Gravidität*
@@ -140,42 +145,38 @@ Hier können sichere und unsichere unterschieden werden.
 - Körpermitte in etwa auf Nabelhöhe
 - Extremitäten - Arme und Beine in etwa gleich lang
 
+
+
+
+
 ## Begriffe und gängige Abkürzungen
 
-```{eval-rst}
 
-:Para:
-    Anzahl der vorangegenagenen Geburten.
+Para
+:   Anzahl der vorangegenagenen Geburten.
     Sonderfall *Nullipara*: Noch
     keine Geburt
 
-:Partus:
-    Wievielte Geburt
+Partus
+:   Wievielte Geburt
 
-:Abort:
-    Fruchtabgang
+Abort
+:   Fruchtabgang
 
-:Interruptio:
-     Künstliche Beendigung der Schwangerschaft
+Interruptio
+:   Künstliche Beendigung der Schwangerschaft
 
-:LNR:
-    *Abkz.* Letzte normale Regelblutung
+LNR
+:   *Abkz.* Letzte normale Regelblutung
 
-:SSW:
-    Schwangerschaftswoche, Angabe in vollendeten Schwangerschaftswochen
+SSW
+:   Schwangerschaftswoche, Angabe in vollendeten Schwangerschaftswochen
     mit Zusatz der Tage der angebrochenen SSW, z. B. SSW 38+4
 
-``Grav. IV SSW 38+4 Partus II Abort II``: Patientin in der 4.
-Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
-(Par I bzw. Part II) , zwei Fruchtabgänge.
-```
+``Grav. IV SSW 38+4 Partus II Abort II``
+:   Patientin in der 4. Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend (Par I bzw. Part II) , zwei Fruchtabgänge.
 
-`Grav. IV SSW 38+4 Partus II Abort II`: Patientin in der 4.
-Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend
-(Par I bzw. Part II) , zwei Fruchtabgänge.
 
-```{todo} #81 Bilderserie: Schwangerschaft <https://gitlab.com/CriticalCareClubAustria/Ccca-Kompendium/-/issues/81>
+`Grav. IV SSW 38+4 Partus II Abort II`
+:   Patientin in der 4. Schwangerschaft am 4. Tag der 39. Schwangerschaftswoche, zweitgebärend (Par I bzw. Part II) , zwei Fruchtabgänge.
 
-    Die Lage des Fötus in der Gebärmutter.
-    © Gray’s Anatomy, 20th ed. ℓ PD, Copyright expired
-```

@@ -9,7 +9,7 @@ status: draft
 
 <!--    -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Augenheilkunde** (57.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Augenheilkunde** (57.)
 :::
 
 Aufbau des Auges: Bulbus mit 3 Kammernsystem, innere Augenmuskeln M. spinkter pupille (para)

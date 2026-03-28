@@ -3,7 +3,7 @@
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Interhospitale Transporte von Intensivpatienten** (64.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Interhospitale Transporte von Intensivpatienten** (64.)
 :::
 
 Transport bedeutet für den Patienten Stress durch Lärm, Lagewechsel, Schmerzen, inkorrekte Respiratoreinstellung,

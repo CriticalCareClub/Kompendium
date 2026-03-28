@@ -6,7 +6,7 @@ status: draft
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Geburtshilfe** (15. )
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Geburtshilfe** (15. )
 :::
 
 ## Physiologische Veränderungen in der SS

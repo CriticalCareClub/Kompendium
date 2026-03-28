@@ -6,7 +6,7 @@ status: final
 
 # Herzrhythmusstörungen
 
-:::{todo} :issue:`127` Weitere Herzrhythmusstoerungen
+:::{todo} :issue:`56` Weitere Herzrhythmusstoerungen
 
         -   Weitere EKG-Beispiele
         -   verschiedene Herzrhythmusstörungen:
@@ -25,6 +25,7 @@ Von Herzrhythmusstörungen spricht man, wenn es zur Störung der Reizbildung ode
 
 Herzrhythmusstörungen sind häufig, allerdings auch oft sehr unterschiedlich in ihrer Bedeutung: Manche sind chronisch und eher wenig gefährlich, andere können plötzlich auftreten und sogar akut lebensbedrohlich sein. Rhythmusstörungen können sowohl selber das Problem darstellen, als auch *als Komplikationen* im Rahmen anderer Krankheitsbilder (z. B. Herzinfarkt, Elektrolytstörungen etc.) auftreten.
 
+
 :::{figure} ../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_sinus_rhythm.jpg
 :width: 100%
 
@@ -32,6 +33,10 @@ EKG: Normaler Sinusrhythmus
 
 © WMC: Glenlarson, {term}`ℓ PD`
 :::
+
+
+
+
 
 ## Einteilung
 

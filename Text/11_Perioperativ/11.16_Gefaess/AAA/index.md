@@ -6,7 +6,7 @@ status: draft
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Abdominelles Aortenaneurysma** (43.2.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Abdominelles Aortenaneurysma** (43.2.)
 :::
 
 Grundsatz: Druckspitzen und extreme Druckabfälle vermeiden! Normovolämie vor Einleitung anstreben. Arterie vor dem Einleiten setzen!

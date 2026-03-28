@@ -187,7 +187,7 @@ Empfohlene LA-Dosierung:
   - Abgerundete Spitze, seitliche Öffnung, 17-18G, gebräuchlichster Nadeltyp
 - Crawford
 
-:::{todo} {issue}`129` Bilder PDA-Nadeln
+:::{todo} {issue}`52` FOTO: PDA-Nadeln
 :::
 
 

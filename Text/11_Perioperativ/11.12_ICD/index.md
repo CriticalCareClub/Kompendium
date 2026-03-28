@@ -8,7 +8,7 @@ status: draft
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Anästhesie bei Schrittmacher/ICD-Trägern** (50.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Anästhesie bei Schrittmacher/ICD-Trägern** (50.)
 :::
 
 Mögliches Problem: elektromagnetische Interferenzen beim Kautern (langandauernd,

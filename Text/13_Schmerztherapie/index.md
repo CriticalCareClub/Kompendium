@@ -6,7 +6,7 @@ status: draft
 # Schmerztherapie
 
 <!--  -->
-:::{todo} {issue}`142` Aust-Skriptum: **Schmerztherapie** (7.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Schmerztherapie** (7.)
 :::
 
 
@@ -27,7 +27,7 @@ Antidepressiva/Antiepileptika Stufe III: Nichtopioide, starke Opioide + Koanalge
 ## Nichtopioide
 
 
-:::{todo} {issue}`142` Aust-Skriptum: **Nichtopioide** (7.1. )
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Nichtopioide** (7.1. )
 :::
 
 bei Kopfschmerz, Schmerzen des Bewegungsapparats, posttraumatisch oder postoperativen Schmerzen, besonders bei Schwellung und Entzündung:
@@ -56,7 +56,7 @@ erhöhte Thrombosebereitschaft bei COXII-Hemmern mit erhöhtem Infarktrisiko und
 ##  Opioide
 
 
-:::{todo} {issue}`142` Aust-Skriptum: **7.2.** (Opioide)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **7.2.** (Opioide)
 :::
 
 - Schwache Opioide: Tramadol (Tramal, Adamon long ret),
@@ -143,7 +143,7 @@ Falsche Schmerzdiagnose, unterschätzte Schmerzintensität, Dosierungsintervall 
 ##  Nozizeptiver Schmerz: NSAR-Therapie!
 
 
-:::{todo} {issue}`142` Aust-Skriptum: **Nozizeptiver Schmerz: NSAR-Therapie!** (7.3.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Nozizeptiver Schmerz: NSAR-Therapie!** (7.3.)
 :::
 
 Noxe  --  algogene Substanzen  --  Nozizeptoren  --  afferente Aδ+C-Fasern  --  Hinterwurzel im Rückenmark-  synaptische Umschaltung im Hinterhorn  --  Seitenstrang  --  Taktus spinothalmicus  --
@@ -163,7 +163,7 @@ Lokalanästhetika wirken in der umgekehrten Reihenfolge: C\>B\>Aδ\>Aβ\>Aα, dh
 
 ##  Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!
 
-:::{todo} {issue}`142` Aust-Skriptum: **Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!** (7.4.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Neuropathische Schmerz: OPIOID-Therapie + COANALGETIKA!** (7.4.)
 :::
 
 
@@ -222,7 +222,7 @@ Schmerzskalen:
 
 ##  Anagosedierung/Schmerztherapie auf der Intensivstation
 
-:::{todo} {issue}`142` Aust-Skriptum: **Anagosedierung/Schmerztherapie auf der Intensivstation** (7.5.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Anagosedierung/Schmerztherapie auf der Intensivstation** (7.5.)
 :::
 
 
@@ -279,7 +279,7 @@ Sedierungsmonitoring alle 8h:
 
 ###  Delir
 
-:::{todo} {issue}`142` Aust-Skriptum: **Delir** (7.5.1 .)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Delir** (7.5.1 .)
 :::
 
 Eines der häufigsten Probleme im Rahmen der Sedierung/Weaning ist das Delir.

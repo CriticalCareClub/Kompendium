@@ -225,67 +225,35 @@ Opiatintoxikation) wird hier nicht weiter eingegangen. Auch der iatrogene Atemst
 
 
 
-:::{todo} {issue}`139` Code/Tabelle Atmungsstörungen
+:::{list-table} Tabelle Atmungsstörungen
+:header-rows: 1
 
-* - Störung des/der O₂-Angebotes
-  - Beispiele
- &
-
-
-Niedriger Sauerstoffpartialdruck ("dünne Luft", z.B. Hochgebirge)
-
-Stickgase (Gärkeller (CO₂↑, O₂↓); defekte Gastherme (CO))
-
-
-
-Ertrinken
-O₂-Diffusion & Lungenödem
-
-
-Pneumonie
-
-
-
-Pulmonalembolie
-Atemmechanik & Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
-
-Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
-
-Verminderung der Dehnbarkeit der Thoraxwand oder des Lungengewebes (Rippenfraktur, Pneumothorax, Pleuraerguß, Emphysem)
-
-Lagerung: Trendelenburglagerung, Verschüttung
-
-Kapnoperitoneum
-Neuromuskulären Atemregulation & SHT (Schädel Hirn Trauma)
-
-Insult
-
-Vergiftungen
-
-Tumore
-
-Hohe Querschnittslähmung oder hohe Spinalanästhesie
-
-Muskelerkrankungen
-
-Nervenerkrankung
-
-
-
-Stoffwechselstörungen
-Sonstige Regulationsstörung & Psychogen (z.B. Panikattacke)
-
-:::
-
-
-- Zyanose, Atemnot
-- Tachy-/Bradypnoe (AF \<=8= / min oder >=30= / min )
-- Atemtiefe (flach, tief, Schnappatmung)
-- Path. Atemmuster
-- Paradoxe, fehlende Atmung
-- Sauerstoffsättigung
-- Auskultation: Belüftung, feuchte Rasselgaräusche, Spastik
-- Heimsauerstoff, Atemhilfen
+*   -   Störung des/der O₂-Angebotes
+    -   Beispiele
+*   -   Niedriger Sauerstoffpartialdruck
+    -   „Dünne Luft“ (z. B. Hochgebirge)
+*   -   Verdrängung von O₂ durch Gase
+    -   Stickgase (z. B. Gärkeller: CO₂↑, O₂↓; defekte Gastherme: CO)
+*   -   Beeinträchtigte O₂-Diffusion
+    -   Ertrinken (Lungenödem), Pneumonie
+*   -   Perfusionsstörung
+    -   Pulmonalembolie
+*   -   Störung der Atemmechanik
+    -   -   Verlegung der oberen Atemwege (Zunge, Erbrochenes, Laryngospasmus, Glottisödem, Bolus)
+        -   Verlegung der unteren Atemwege (Bronchitis, Asthma, Lungenödem, Atelektasen)
+        -   Verminderte Dehnbarkeit (Rippenfraktur, Pneumothorax, Pleuraerguss, Emphysem)
+        -   Lagerung (Trendelenburg, Verschüttung)
+        -   Kapnoperitoneum
+*   -   Störung der neuromuskulären Atemregulation
+    -   -   SHT
+        -   Insult
+        -   Vergiftungen
+        -   Tumore
+        -   Hohe Querschnittslähmung oder hohe Spinalanästhesie
+        -   Muskel- und Nervenerkrankungen
+*   -   Sonstige Regulationsstörungen
+    -   -   Stoffwechselstörungen
+        -   Psychogen (z. B. Panikattacke)
 :::
 
 ## Mechanische *Atemwegsverlegung*

@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 :::{index} single: Heparin induzierte Thrombopenie
 :::
 :::{index} single: HIT

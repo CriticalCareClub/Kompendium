@@ -3,7 +3,7 @@
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Urologie** (23.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Urologie** (23.)
 :::
 
 TURP/TURB Steinschnittlagerung Lagerungsschäden: Peronäus und Saphenus, Obturatorius und N. femoralis durch  Überstreckung, Plexus brachialis (häufigster LS), Kompartmentsyndrom, bei TURB Gefahr der Blasenperforation durch elektrische Stimulation des N. Obturatorius mit Reflexbewegung.

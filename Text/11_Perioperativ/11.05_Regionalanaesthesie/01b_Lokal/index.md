@@ -218,7 +218,8 @@ Die Wirkung des Lokalanästhetikums ist reduziert oder es ist überhaupt wirkung
 Alle Lokalanästhetika sind schwach basisch. Daher sind sie in Entzündungsgewebe (sauer) nicht wirksam.
 :::
 
-:::{todo} {issue}`130` Grafik: LA-Wirkung.png B ungeladene, BH kationische Form des Lokalanästhetikums.
+
+:::{todo} {issue}`53` GRAFIK: LA-Wirkung.png B ungeladene, BH kationische Form des Lokalanästhetikums.
 
 LA-Wirkung.png
 
@@ -228,11 +229,16 @@ Nur die ungeladene Form kann durch die Zellmembran durchtreten.
 Das Verhältnis der Konzentration von B und BH wird durch die *Henderson-Hasselbalch-Gleichung* beschrieben und ist abhängig vom *Umgebungs-pH-Wert* und des *pKa-Wert* des Lokalanästhetikums.
 :::
 
+
 % Begriffe "quartäres Amin" und "tertiäres Amin" zusammen mit Reaktions-Strukturformel gestrichen. KOINIG ok 2024-06-04
+
 
 :::{warning}
 Im entzündlichen Milieu ist ein Lokalanästhetikum aufgrund des sauren Umgebungs-pHs wirkungslos!
 :::
+
+
+
 
 
 :::{index} single: Proteinbindung; Lokalanästhetika

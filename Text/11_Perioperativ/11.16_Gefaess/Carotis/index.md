@@ -6,7 +6,7 @@ status: draft
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Carotis OP** (43.1.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Carotis OP** (43.1.)
 :::
 
 TEA bei Carotisstenose > 75 % oft nach TIA, ev. Shunt. Immer erweitertes Monitoring mit Arterie.

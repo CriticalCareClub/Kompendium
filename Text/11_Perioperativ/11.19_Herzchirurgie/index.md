@@ -9,7 +9,7 @@ status: draft
 
 <!--   -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Herzchirurgie/angiographische Eingriffe** (44.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Herzchirurgie/angiographische Eingriffe** (44.)
 :::
 
 

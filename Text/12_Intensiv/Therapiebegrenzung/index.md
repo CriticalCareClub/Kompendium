@@ -6,7 +6,7 @@
 
 <!--  -->
 
-:::{todo} {issue}`142` Aust-Skriptum: **Therapiebegrenzung/Therapierückzug** (63.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: **Therapiebegrenzung/Therapierückzug** (63.)
 :::
 
 Intensivmedizinische Fragen zur Therapiezieländerung:

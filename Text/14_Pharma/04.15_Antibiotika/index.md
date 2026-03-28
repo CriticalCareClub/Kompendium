@@ -17,7 +17,7 @@ status: draft
 <!--  -->
 
 
-:::{todo} {issue}`142` Aust-Skriptum: Antibiotika (35.1.)
+:::{todo} {issue}`54` Integration des Aust-Skriptums: Antibiotika (35.1.)
 :::
 
 

@@ -100,11 +100,29 @@ Somit ist so ziemlich alles, was auf einer Intensivstation passiert, ein Risikof
 
 
 
-### CAM Confusion Assessement Method
+### Confusion Assessement Method (CAM)
 
-:::{todo} {issue}`130` p-CAM-ICU-Schema zur Früherkennung eines Delir media/image7.jpeg
 
-p-CAM-ICU-Schema zur Früherkennung eines Delir
+:::{raw} latex
+\begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
+:::
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Flowchart_CAM-ICU_in_German.001341px.png
+
+CAM-ICU-Schema zur Früherkennung eines Delir
+
+ \[© [Lars Hgb](https://commons.wikimedia.org/w/index.php?title=User:Larshgb&action=edit&redlink=1), {term}`ℓ CC-BY-SA 4.0`\]
+:::
+:::{raw} latex
+\end{minipage}
+:::
+
+
+
+
+
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Metavision/MV_ICU-Intubation-bei-resp-Verschlechterung-Stundenuebersicht.png
+
+Patient mit respiratorischer Verschlechterung
 :::
 
 (delir-prophylaxe)=

@@ -1,42 +1,66 @@
-# Heparin induzierte Thrombopenie
-
-<!--   -->
-
-:::{todo} {issue}`142` Aust-Skriptum: **Heparin induzierte Thrombopenie** (25.9.)
+:::{index} single: Heparin induzierte Thrombopenie
+:::
+:::{index} single: HIT
+:::
+:::{index} single: Thrombopenie; Heparin induziert
 :::
 
+(Heparin-induzierte-Thrombopenie)=
+
+# Heparin induzierte Thrombopenie
+
+
+
+
+
+:::{index} single: HIT I
+:::
 
 ## HIT I
 
-Milde Form ohne Ak-Bildung, nur vorübergehende Verminderung der Thrombozyten.
+Die HIT I ist eine milde Form ohne Antikörperbildung mit lediglich vorübergehender Verminderung der Thrombozytenzahl.
+
 
 Therapie
-: Heparin nicht absetzen, normalisiert sich von allein wieder.
+:   Heparin muss nicht abgesetzt werden, da sich die Thrombozytenzahl spontan normalisiert.
 
+
+
+
+
+:::{index} single: HIT II
+:::
 
 ## HIT II
 
-Heparin induzierte Thrombopenie durch AK gegen Heparin-PF4-Komplex mit prokoagulatorischer Situation. Meist postoperativ oder posttraumatisch, va. Nach UFH, NMWH um Faktor 10 seltener.
+Die HIT II ist eine *immunvermittelte* heparininduzierte Thrombopenie durch Antikörper gegen den *Heparin-PF4-Komplex* mit prokoagulatorischer Situation.
+Sie tritt meist postoperativ oder posttraumatisch auf, insbesondere nach unfraktioniertem Heparin, während niedermolekulare Heparine etwa um den Faktor 10 seltener betroffen sind.
+
 
 Klinik
-: Plötzlicher Thrombozytenabfall auf meist 20-50000/l + Thrombose (TVT, PE, MCI, Insult,..),
-Hautnekrose an Einstichstelle
+:   Plötzlicher Abfall der Thrombozyten auf meist 20.000–50.000/µl in Kombination mit thrombotischen Ereignissen (z. B. TVT, Lungenembolie, Myokardinfarkt, Insult).
+    Hautnekrosen an Injektionsstellen sind möglich.
+
 
 Labor
-: **HIT-AK**:
-  negativ = Ausschluss.
+:   Nachweis von *HIT-Antikörpern*:
+    Ein negativer Befund schließt die Diagnose aus.
+    Ein positiver Antikörpernachweis ist nicht beweisend, da etwa 50 % kardiochirurgischer Patienten Antikörper ohne klinische Manifestation aufweisen.
+    Beweisend ist ein signifikanter Thrombozytenanstieg 3–5 Tage nach Absetzen von Heparin.
 
-  (50 % kardiochir. Pat. HIT-AK positiv ohne Klinik!)
-
-  Beweisend ist signifikanter Thrombozytenanstieg 3-5 Tage nach Heparin Ende.
 
 Score
-: Thrombo \< 50000, 5-10 Tage nach Heparinbegin, Thrombose? Oder anaphylaktoide Reaktion, gibt es andere Gründe für Thrombopenie?
+:   Typisch sind ein *Thrombozytenabfall < 50.000/µl*, ein Auftreten 5–10 Tage nach Beginn der Heparingabe sowie das Vorliegen von Thrombosen oder anaphylaktoiden Reaktionen.
+    Differenzialdiagnostisch sollten andere Ursachen der Thrombozytopenie berücksichtigt werden.
+
 
 Differenzialdiagnosen Thrombopenie
-: DIC, med. NW (Paracetamol, Clotrimazol), Pseudothrombozytopenie
+:   Disseminierte intravasale Gerinnung (*DIC*), Medikamentennebenwirkungen (z. B. Paracetamol, Clotrimazol) sowie Pseudothrombozytopenie.
+
 
 Therapie
-: Heparin absetzen, Antikoagulation mit Agatra. Ziel aPTT ist 1,5-3facher Normalwert;
+:   Sofortiges Absetzen von Heparin und Einleitung einer alternativen Antikoagulation, z. B. mit *Argatroban*.
+    Ziel ist eine aPTT von 1,5- bis 3-fachem Normalwert.
+    Eine Reexposition muss konsequent vermieden werden (Patientenausweis, kein Einsatz von UFH oder NMWH sowie heparinbeschichteten Kathetern).
+    Bei Gerinnungstherapie ist zu beachten, dass PPSB (z. B. Cofact) heparinfrei ist.
 
-  Reexposition vermeiden: Ausweis, keine NMWH, UFH, beschichtete Katheter, Beriplex: Verwendung von PPSB Cofact ist heparinfrei!

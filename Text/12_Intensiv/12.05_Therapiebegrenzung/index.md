@@ -1,13 +1,10 @@
-
+---
+status: final
+---
 
 
 
 #  Therapiebegrenzung/Therapierückzug
-
-<!--  -->
-
-:::{todo} {issue}`54` Integration des Aust-Skriptums: **Therapiebegrenzung/Therapierückzug** (63.)
-:::
 
 Intensivmedizinische Fragen zur Therapiezieländerung:
 1.  Indikation:

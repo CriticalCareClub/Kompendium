@@ -75,16 +75,7 @@ Probleme bei der HDM während des Defi-Ladevorganges
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-EinleitungSaeulen/index
-Erkennen/index
-MechanischeTherapie/index
-Elektrotherapie/index
-Oxygenierung/index
-Pharmakotherapie/index
-KausaleTherapie/index
-Postreanimationsversorgung/index
-Kinderreanimation/index
-Algorithmen/index
-Aust/index
+*/index
 :::

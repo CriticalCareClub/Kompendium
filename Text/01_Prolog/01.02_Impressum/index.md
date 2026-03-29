@@ -2,6 +2,11 @@
 status: final
 ---
 
+:::{index} single: Impressum
+:::
+
+(Impressum)=
+
 # Impressum, Nutzungsbedingungen und Hinweise
 
 
@@ -33,6 +38,11 @@ ISBN
 
 
 
+:::{index} single: Redaktion
+:::
+
+(Redaktion)=
+
 ## Redaktion
 
 Sebastian Gabriel
@@ -46,6 +56,10 @@ Sebastian Gabriel
 
 
 
+:::{index} single: Lizenz
+:::
+
+(Lizenz)=
 
 ## Lizenz
 
@@ -62,6 +76,9 @@ Bitte beachten Sie {numref}`Hinweise-zur-Einreichung`: "{ref}`Hinweise-zur-Einre
 
 
 
+
+:::{index} single: Versionierung
+:::
 
 ## Versionierung
 

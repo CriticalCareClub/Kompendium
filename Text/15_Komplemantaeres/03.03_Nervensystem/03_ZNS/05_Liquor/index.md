@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Liquorsystem
 
 Der Liquor cerebrospinalis (Liquor) ist funktionell sehr wichtig für unser Zentralnervensystem.

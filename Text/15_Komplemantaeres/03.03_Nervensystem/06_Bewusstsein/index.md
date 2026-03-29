@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 
 
 (vitalfunktion-bewusstsein)=

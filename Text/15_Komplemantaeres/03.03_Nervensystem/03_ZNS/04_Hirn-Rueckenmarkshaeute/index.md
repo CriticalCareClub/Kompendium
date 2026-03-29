@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Hirn- und Rückenmarkshäute
 
 - *Dura mater* (harte Haut) : im Gehirnbereich übernimmt sie die

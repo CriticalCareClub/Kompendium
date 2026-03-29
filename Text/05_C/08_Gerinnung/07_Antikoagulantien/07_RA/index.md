@@ -1,3 +1,6 @@
+---
+status: draft
+---
 
 
 
@@ -95,14 +98,7 @@ Wahrscheinlichkeit, dass dafür eine invasive Intervention erforderlich sein wir
 
 
 
-:::{todo} ../Pictures/Management-Blutung-unter-oraler-Antikoagulation.png
-
-Management der Blutung unter oraler Antikoagulation
-:::
-
-
-
-## 25.4. Vorgehen bei hüftnahen Frakturen unter oraler Antikoagulation
+## Vorgehen bei hüftnahen Frakturen unter oraler Antikoagulation
 
 Eine hüftnahe Fraktur gilt nicht als ein medizinischer Notfall, der unverzüglich operativ versorgt werden muss, sondern als ein medizinischer *Akutfall*, der **zeitnahe (≤ 48 h)** versorgt werden soll  --  auch bei Patient/inn/en unter vorbestehender oraler Antikoagulation.
 Komplikationsrate und Outcome korrelieren mit dem Zeitpunkt der Operation.

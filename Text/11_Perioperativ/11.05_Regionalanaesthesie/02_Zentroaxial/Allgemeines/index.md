@@ -32,7 +32,7 @@ status: final
 Zur Einschätzung der Punktionshöhe an der Wirbelsäule orientiert man sich am prominenten *Dornfortsatz des C7*, den *Schulterblättern* und der *Beckenschaufel*, siehe {ref}`WS-Orientierung`.
 
 
-:::{todo} FOTOS: SPA Aufrechte Lagerung mit "Katzenbuckel", Landmarks zur Orientierung an der Wirbelsäule
+:::{todo} {issue}`56` FOTO: WS: Landmarks zur Orientierung an der Wirbelsäule
 
 <!-- :::{subfigure} AB
 :subcaptions: below

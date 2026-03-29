@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 
 
 (PNS)=
@@ -109,6 +114,10 @@ Sowie in den *12 Hirnnerven-Paaren*, wobei die ersten 2 keine echten peripheren 
   - Muskeln der
 :::
 
+
+
+
+
 ## Unterteilung nach Funktion
 
 ::::{only} not nosidebar
@@ -143,12 +152,3 @@ Bilderserie: PNS  [© Lena Hirtler, ℓ MfG]
 
 :::
 
-
-
------
-
-<!-- AUST -->
-
-Peripherer Nerv:
-- Axon - Myelinscheide - Endoneurium - Perineurium - Faszikel - Epineurium
-- Neuron: Soma mit Zellkern-Axon-Dendriten

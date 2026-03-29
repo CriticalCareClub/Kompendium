@@ -498,8 +498,7 @@ Die wichtigsten Gelenke der Hand sind:
 
 ## Wichtige Muskeln der oberen Extremität
 
-:::{todo} #115: Muskeln der oberen Extremität: Zuordnung Spinalnerven, Kennmuskeln
-:::
+
 
 :::{list-table} Wichtige Muskeln der oberen Extremität
 :header-rows: 1

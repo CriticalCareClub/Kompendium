@@ -15,12 +15,16 @@ Dies ermöglicht eine sehr ökonomische, kontrollierte und umweltschonende Anwen
 
 
 
+
+
 ## Offene Systeme
 
 Ein offenes System ermöglicht keine Rückführung des ausgeatmeten Gases, es wird direkt an die Umgebung abgegeben, somit besteht ein hoher Gasverbrauch sowie Wärme- und Feuchtigkeitsverlust.
 
 Diese Systeme findet man häufig ausserhalb des OPs, z.B. bei Intensiv-Beatmungsgeräten, wo das Hauptaugenmerk auf der Langzeitbeatmung liegt, und eher selten Narkosegase verwendet werden.
 Die Vorwärmung und Befeuchtung durch eine **Heat and Moisture Unit** ist bei Langzeitanwendung erforderlich.
+
+
 
 
 
@@ -37,6 +41,8 @@ Ebenso wird Feuchtigkeit und Wärme im Kreissystem erhalten.
 
 
 
+
+
 ## Narkosegasabsaugung
 
 Eine Narkosegasabsaugung (Anästhesiegasabsaugung; engl.: Scavenger system) entfernt überschüssiges Narkosegas aus dem Atemsystem und leitet dieses ab, ohne dass es in die Raumluft entweicht.
@@ -46,12 +52,14 @@ Die abgeführten Gase werden durch eine zentrale Absauganlage in ein sicheres En
 
 
 
+
+
 :::{index} single: Frsichagsentkoppelung
 :::
 
 ## Frischgasentkoppelung
 
-:::{todo} Bilder Frischgasentkoppelung
+:::{todo} {issue}`69` GRAFIK: Frischgasentkoppelung
 :::
 
 Während der Inspiration wird Frischgas in das Reservoir geleitet, während der Exspiration wird es in das System eingeleitet.

@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Rückenmark
 
 :::{margin} Rückenmark
@@ -37,12 +42,12 @@ Da sich das Rückenmark nicht über die gesamte Länge des Spinalkanals erstreck
 Da diese kaudal einem Pferdeschwanz gleicht, wird dieser Abschnitt auch so bezeichnet: **Cauda equina** ("Pferdeschwanz").
 
 Im Querschnitt durch das Rückenmark kann man *weiße (Substantia alba, außen) und graue (Substantia grisea, innen)* (in Schmetterlingsform)
-unterscheiden. Sie werden in einzelne Bereiche unterteilt. In der grauen Substanz unterscheidet man ein *Vorderhorn (Cornu ventrale), ein Seitenhorn (Cornu laterale) und ein Hinterhorn (Cornu dorsale)*. Die Bahnen der weißen Substanz werden unterteilt in*Vorderstrang
-(Fasciculus ventralis), Seitenstrang (Fasciculus lateralis) und Hinterstrang (Fasciculus dorsalis)*. Direkt die graue Substanz umgebend findet sich der Fasciculus proprius, der Eigenapparat des Rückenmarks.
+unterscheiden. Sie werden in einzelne Bereiche unterteilt. In der grauen Substanz unterscheidet man ein *Vorderhorn (Cornu ventrale), ein Seitenhorn (Cornu laterale) und ein Hinterhorn (Cornu dorsale)*.
+Die Bahnen der weißen Substanz werden unterteilt in*Vorderstrang (Fasciculus ventralis), Seitenstrang (Fasciculus lateralis) und Hinterstrang (Fasciculus dorsalis)*.
+Direkt die graue Substanz umgebend findet sich der Fasciculus proprius, der Eigenapparat des Rückenmarks.
 Dieser ist wichtig für den Ablauf von Reflexen.
 
-Ebenso wie bei Großhirn und Kleinhirn beschrieben, gibt es auch im Rückenmark eine funktionelle Aufteilung der Bahnen und Zellgebiete
-(*Somatotopie*).
+Ebenso wie bei Großhirn und Kleinhirn beschrieben, gibt es auch im Rückenmark eine funktionelle Aufteilung der Bahnen und Zellgebiete (*Somatotopie*).
 
 Folgende wichtige *Bahnen* verlaufen im Rückenmark:
 
@@ -86,5 +91,5 @@ Reflexe können in drei Untergruppen unterteilt werden:
 - Fremd- oder Hautreflex: z.B. Bauchdeckenreflex, ermüdbar, Summation.
 - krankhafte / pathologische Reflexe: z.B. Babinski-Reflex
 
-Ein klassischer *Reflexbogen* hat kennzeichnende Bestandteile, die der Reihe nach durchlaufen werden: Rezeptor → Afferenz → Synapse → Efferenz
-→ Effektor.
+Ein klassischer *Reflexbogen* hat kennzeichnende Bestandteile, die der Reihe nach durchlaufen werden:
+Rezeptor → Afferenz → Synapse → Efferenz → Effektor.

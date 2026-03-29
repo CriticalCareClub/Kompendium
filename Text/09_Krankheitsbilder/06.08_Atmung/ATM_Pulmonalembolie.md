@@ -195,13 +195,6 @@ Herkunft des Thrombus
 
 ## Maßnahmen: Pulmonalembolie
 
-:::{todo}
-
-Maßnahmen COPD: Anpassung an höherqualifiziertes Personal
-
-:::
-
-
 Taktik:
 
 : **Vitale Bedrohung!**

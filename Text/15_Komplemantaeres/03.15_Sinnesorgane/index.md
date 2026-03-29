@@ -286,8 +286,9 @@ Das Gehörorgan ist in 3 Anteile gegliedert:
   häutige Labyrinth mit den Organen für Hören und Gleichgewicht ist
   eingelagert, mit Endolymphe gefüllt.
 
-```{todo} Durchblutung Ohrmuschel/Knorpel: Gefahr bei Hämatom
-```
+
+
+
 
 ### Cochlea (Schnecke)
 

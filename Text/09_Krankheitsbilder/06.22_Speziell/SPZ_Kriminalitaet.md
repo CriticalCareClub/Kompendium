@@ -1,3 +1,8 @@
+---
+status: draft
+---
+
+
 # Opfer von Kriminalität, Misshandlung und Vernachlässigung
 
 ```{rubric} Querverweise
@@ -19,8 +24,8 @@ Eine {index}`Vergewaltigung` begeht, wer eine Person mit Gewalt, durch Entziehun
 
 [^footnote-1]: §201 StGB
 
-```{index} single: Nötigung; geschlechtliche
-```
+:::{index} single: Nötigung; geschlechtliche
+:::
 
 #### Geschlechtliche Nötigung
 
@@ -28,15 +33,27 @@ Eine Geschlechtliche Nötigung begeht, wer — außer in den Fällen von Vergewa
 
 [^footnote-2]: §202 StGB
 
+
+
+
+
 #### Reaktion des Opfers
 
 Eine Vergewaltigung oder sexuelle Nötigung ist meist ein akuter Vorfall.
 Dementsprechend sieht man sich einem "unvorbereiteten", zumeist verstörtem Opfer gegenüber. Das folgende Verhalten des Opfers kann äußerst unterschiedlich sein und von Weinkrämpfen bis hin zur scheinbaren Teilnahmslosigkeit reichen. Diese Reaktionen sind das Ergebnis von Bewältigungsstrategien der menschlichen Psyche (z. B.
 Verdrängung etc.). Aus dem anfänglichen Verhalten können keine Rückschlüsse auf das Ausmaß des seelischen Traumas gezogen werden!
 
+
+
+
+
 #### Reaktion des Fachpersonals
 
 Die Behandlung von Opfern von sexuellen Übergriffen stellt auch für das Personal eine große psychische Herausforderung dar. Es ist wichtig zu betonen, dass das Fachpersonal dem Opfer die Last des Vorfalls nicht nehmen und auch nicht wesentlich mildern kann. Ein Gefühl der *eigenen Rat- und Hilflosigkeit* ist normal. Übertriebene Ansprüche des Personals an sich selbst schaden in der Situation der Betreuung des Patienten!
+
+
+
+
 
 #### Verhalten gegenüber dem Opfer
 
@@ -44,15 +61,16 @@ Ist man aufgrund der ungewohnten Situation unschlüssig, wie man "richtig reagie
 
 Für Patienten in einer Ausnahmesituation ist es wichtig, *"sich irgendwo anhalten zu können"* bzw. *"einen Plan zu haben"*. Dementsprechend wichtig ist auch die Information über alle zu setzenden Maßnahmen und das weitere Procedere (sofern absehbar).
 
+
+
+
+
 (m-vergewaltigung)=
 (proc-mt74021c)=
 
 ##### Maßnahmen: Vergewaltigung
 
-:::{todo}
-
-Maßnahmen Vergewaltigung: Anpassung an höherqualifiziertes Personal
-
+:::{todo} {issue}`60` Maßnahmen Vergewaltigung
 :::
 
 ⛑ Basismaßnahmen
@@ -65,6 +83,10 @@ Maßnahmen Vergewaltigung: Anpassung an höherqualifiziertes Personal
   - Gynäkologische Untersuchungen erst innerklinisch durch Fachpersonal mit Set zur Beweissicherung
   - Ziel: Abt. f. Gynäkologie
   - weiterführende psychologische Betreuung
+
+
+
+
 
 ```{index} single: Missbrauch; sexueller
 ```
@@ -140,6 +162,10 @@ Der sexuelle Missbrauch geschieht meist über lange Zeit und ist nur selten ein 
 Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer berufsmäßig betreuten Person eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen ([§ 212 Abs. 2 Z 1, Zusammenfassung](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40194049/NOR40194049.html)).
 :::
 
+
+
+
+
 ```{index} single: Kindesmisshandlung
 ```
 
@@ -150,6 +176,10 @@ Wer als Angehöriger eines gesetzlich geregelten Gesundheitsberufes mit einer be
 ### Kindesmisshandlung
 
 Eine **Kindesmisshandlung** ist die Ausübung von absichtlicher psychischer oder physischer Gewalt gegen Kinder. Die Misshandlung von Kindern kommt nicht selten vor. Sie geschieht oft im Verborgenen und kommt in *allen sozialen Schichten* vor! Misshandlungen können unterschiedlich schwer ausfallen, regelmäßig gibt es Fälle, in denen Kinder schwere, dauerhafte Schäden davontragen oder auch zu Tode kommen.
+
+
+
+
 
 #### Hinweiszeichen
 
@@ -163,6 +193,10 @@ Eine **Kindesmisshandlung** ist die Ausübung von absichtlicher psychischer oder
   auch andere Ursachen als sexueller Missbrauch!).
 - "Untypische" Verletzungen.
 - Verhaltensstörungen.
+
+
+
+
 
 (kt74011c)=
 (m-kindesmisshandlung)=
@@ -196,6 +230,10 @@ Jedenfalls zu unterlassen sind:
 - Andeutungen gegenüber den Erziehungsberechtigten oder Dritten.
 :::
 
+
+
+
+
 ### Vernachlässigung
 
 #### Rechtliche Grundlagen
@@ -205,6 +243,10 @@ wer seine *Verpflichtung zur Fürsorge oder Obhut* einem solchen Menschen gegen�
 
 [^footnote-3]: §92 StGB: Quälen oder Vernachlässigen unmündiger, jüngerer oder
     wehrloser Personen
+
+
+
+
 
 #### Konsequenz
 

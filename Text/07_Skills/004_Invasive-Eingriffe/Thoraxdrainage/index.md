@@ -203,6 +203,7 @@ Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponi
 
 
 
+
 :::{index} pair: Ultraschall; Pleuraerguss
 :::
 (Ultraschall-Pleuraerguss)=
@@ -212,11 +213,10 @@ Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponi
 Der Ultraschall eignet sich sehr gut zur Darstellung und Vermessung von Flüssigkeiten im Pleuraraum.
 Dadurch kann sowohl die Punktionswürdigkeit, als auch der Zugangsweg gut abgeschätzt werden.
 
-:::{todo} {issue}`129` US: Pleuraerguss im Ultraschall
-
-
-Pleuraerguss im Ultraschall
+:::{todo} {issue}`59` US: Pleuraerguss im Ultraschall
 :::
+
+
 
 
 

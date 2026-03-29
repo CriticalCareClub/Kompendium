@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 project             = u'Kompendium des CCCA'
-copyright           = u'2009—2026, Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) et al. Dieses Werk ist lizensiert unter der Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz. Bilder können andere Lizenzen aufweisen.'
+copyright           = u'2009—2026, Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) et al. Dieses Werk ist lizensiert unter der Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz. Bilder können andere Lizenzen aufweisen'
 author              = u'Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA) (Hrsg.)'
 institution         = u'Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA)'
 

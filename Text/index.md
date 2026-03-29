@@ -33,7 +33,7 @@ status: final
 
 
 :::{important}
-Dieses Werk befindet ist eine Entwicklungsversion und ist nicht für die klinische Anwendung gedacht!
+🚧 Dieses Werk ist eine Entwicklungsversion und ist nicht für die klinische Anwendung gedacht! 🚧
 
 Fehlermeldungen, Hinweise oder Textvorschläge sind gerne gesehen.
 Eine Mitarbeit ist über unsere [Github™-Projektseite](https://github.com/CriticalCareClub/Kompendium) möglich.

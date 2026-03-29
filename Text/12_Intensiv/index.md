@@ -13,13 +13,8 @@ Im Gegensatz zum internistischen Intensivpatienten hat der anständige chirurgis
 
 
 :::{toctree}
+:maxdepth: 1
+:glob:
 
-Weaning/index
-Darmmotilitaet/index
-Nierenersatztherapie/index
-NO/index
-Ernaehrung/index
-Lungenersatzverfahren/index
-Therapiebegrenzung/index
-Transport/index
+*/index
 :::

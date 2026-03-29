@@ -13,6 +13,9 @@ status: final
 Lokalanästhetika unterbinden die Reizweiterleitung an Nervenzellen durch Blockade der Fähigkeit der Nervenzelle zur Depolarisation und bewirken damit eine örtlich begrenzte reversible Hemmung der Schmerzempfindung.
 
 
+
+
+
 :::{index} single: Natriumkanal; Lokalanästhetika
 :::
 
@@ -26,9 +29,9 @@ Offene zuvor aktivierte Na-Kanäle werden besser gehemmt als ruhende.
 :::{todo} {issue}`61` GRAFIK: Lokalanästhetika wirken nur auf inaktivierte geschlossene **Natriumkanäle**
 
 Na-Ionenkanaele.png
-
-
 :::
+
+
 
 
 
@@ -42,6 +45,8 @@ Na-Ionenkanaele.png
 Als Wedensky-Block wird die Unempfindlichkeit gegen einen Einzelreiz, nicht jedoch gegen fortgesetzte Reize (Dauerstimuli) bezeichnet.
 Dies kann Auftreten, wenn die minimale Hemmkonzentration des Lokalanästhetikums gerade erst erreicht ist.
 Ein fortgesetzter Reiz kann somit die nötige Schwelle überschreiten
+
+
 
 
 
@@ -85,6 +90,8 @@ Weiteres Vorgehen: beruhigen, abwarten, ev. nachinjizieren.
 | Aβ          | Druck, Berührung                                                       |
 | Aα          | Motorik, Vibrations- und Lageempfinden                                 |
 :::
+
+
 
 
 
@@ -149,6 +156,9 @@ Die Unterscheidung von **Amid-** und den **Ester-Typ** ist hinsichtlich des Abba
 
 :::{todo} {issue}`62` GRAFIK: Strukturformeln im Vergleich: Aminoester und Aminoamide
 :::
+
+
+
 
 
 :::{index} single: Henderson-Hasselbalch-Gleichung
@@ -282,6 +292,9 @@ Eine gute Wirksamkeit benötigt eine hohe intrazelluläre Konzentration der ioni
 Eine hohe Plasmaeiweißbindung hat eine geringe allergische Potenz und eine geringe systemische Toxizität zur Folge.
 
 
+
+
+
 ## Beispiele
 
 :::{table} Lokalanästhetika, Beispiele
@@ -309,7 +322,10 @@ Ropivacain Naropin®
 Tetracain  Pantocain®
 ========== ============
 ```
- -->
+-->
+
+
+
 
 
 ### EMLA®-Salbe
@@ -317,6 +333,9 @@ Tetracain  Pantocain®
 Diese 5 %ige Creme enthält 2,5 % {ref}`Lidocain <Lidocain>` und 2,5 % Prilocain.
 Sie ist besonders bei Kindern vorzüglich geeignet zur Lokalanästhesie von peripheren Venenpunktionen und kleineren Hautoperationen.
 Prilocain (Emla Salbe) führt zu Met-Hb Bildung daher für Kinder < 6 Monate nicht zugelassen.
+
+
+
 
 
 :::{index} single: Metallgeschmack
@@ -363,12 +382,17 @@ Symptome:
 - Kardiale Toxizität:
   - Herzrhythmusstörungen
 
+
+
+
+
 ### Maximaldosis der LA:
 
 - {ref}`Lidocain <Lidocain>` 3-4 mg / kg (300 mg), mit Adrenalin 7 mg / kg
 - {ref}`Bupivacain <Bupivacain>` 2 mg / kg (150 mg), oder 30 mg/h kontinuierlich, mit Adrenalin 2-3 mg / kg
 - {ref}`Ropivacain <Ropivacain>` 3-4 mg / kg (250 mg), oder 37,5 mg/h
 - {ref}`Prilocain <Prilocain>` 5-6 mg / kg (400 mg), mit Adrenalin 8-9 mg / kg (600 mg)
+
 
 
 
@@ -425,12 +449,12 @@ Therapie toxischer ZNS-Symptome:
 
 
 
------
+
+
+:::{todo} {issue}`54` Integration des Aust-Skriptums
 
 
 Nebenwirkungen:
-
-
 
 Kontraindikationen: Überempfindlichkeit, Schock, Hypovolämie, Gerinnungsstörungen, lokale Entzündung, Sepsis.
 
@@ -476,3 +500,4 @@ Anschlagzeit  ist abhängig vom pKa. (pKa = pH bei dem 50 %  des LA ionisiert 
 Azidose  erhöht Kationen-Konzentration mit viel freier/toxischer LA-Konzentration, senkt Proteinbindung, Gefahr der intrazellulären Anreicherung mit LA. Hypoxie erhöht daher die Toxizität!
 
 
+:::

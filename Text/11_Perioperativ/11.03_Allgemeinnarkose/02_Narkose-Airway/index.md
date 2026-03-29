@@ -6,9 +6,9 @@ status: final
 
 Allen Narkosemedikamenten gemein ist eine unterschiedlich stark ausgeprägte
 
-- Unterdrückung der Eigenatmung: **Atemdepression**
-- **Unterdrückung des Hustenreflexes**
-- **Verlegung der Atemwege** durch Erschlaffung der Zungengrundmuskulatur
+-   Unterdrückung der Eigenatmung: **Atemdepression**
+-   **Unterdrückung des Hustenreflexes**
+-   **Verlegung der Atemwege** durch Erschlaffung der Zungengrundmuskulatur
 
 Diese Atemdepression zusammen mit der Atemwegsverlegung erfordert eine **Atemwegsicherung** und in der Regel ist dabei eine **Unterstützung** oder **Übernahme der Atmung** notwendig.
 

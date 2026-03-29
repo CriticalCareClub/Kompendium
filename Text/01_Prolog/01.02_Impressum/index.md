@@ -16,22 +16,20 @@ Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kra
 Engerthstraße 146/8/3, A-1200 Wien – AUSTRIA
 
 E-Mail
-: office@criticalcare.at
+:   office@criticalcare.at
 
 Homepage
-: https://www.criticalcare.at
+:   https://www.criticalcare.at
 
 ZVR
-: 846678982
+:   846678982
 
 Verlags- und Herstellungsort
-: Wien
+:   Wien
 
 Publikationsart
-: Elektronisch. Die etwaige Herstellung von Druckwerken erfolgt durch den autorisierten Nutzer.
+:   Elektronisch. Die etwaige Herstellung von Druckwerken erfolgt durch den autorisierten Nutzer.
 
-ISBN
-: XXX
 
 
 
@@ -63,8 +61,6 @@ Sebastian Gabriel
 
 ## Lizenz
 
-Dieses Werk ist in Entwicklung und gegenwärtig nicht zur Veröffentlichung bestimmt!
-
 :::{margin}
 ![Creative Commons Namensnennung-Share Alike 4.0 International](../../../Submodules/3134-medical-picture-collection/Logos/by-sa.*)
 :::
@@ -78,8 +74,9 @@ Bitte beachten Sie {numref}`Hinweise-zur-Einreichung`: "{ref}`Hinweise-zur-Einre
 
 
 (Hinweise-zur-Einreichung)=
+(Hinweise-zur-Mitarbeit)=
 
-## Hinweise zur Einreichung von Beiträgen
+## Hinweise zur Mitarbeit und Einreichung von Beiträgen
 
 Mit der Einreichung von Texten, Abbildungen, Tabellen oder sonstigen Materialien erklärt sich die einreichende Person damit einverstanden, dem Herausgeber die zeitlich, räumlich und inhaltlich unbeschränkten, nicht exklusiven Nutzungsrechte an den eingereichten Inhalten einzuräumen, sofern keine abweichende schriftliche Vereinbarung getroffen wurde.
 

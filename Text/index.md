@@ -32,6 +32,13 @@ status: final
 :::
 
 
+:::{attention}
+Dieses Werk befindet sich in einer Entwicklungsversion und ist nicht für die klinische Anwendung gedacht!
+
+Entsprechende Hinweise oder Textvorschläge sind gerne gesehen.
+Bitte beachten Sie {numref}`Hinweise-zur-Einreichung`: "{ref}`Hinweise-zur-Einreichung`".
+:::
+
 
 :::{toctree}
 :caption: Inhalt

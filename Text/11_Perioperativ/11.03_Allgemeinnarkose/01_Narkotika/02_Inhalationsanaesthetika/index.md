@@ -91,35 +91,35 @@ Zur Überwachung der Narkosetiefe wird MAC herangezogen!
 
 ## Gemeinsame Eigenschaften volatiler Anästhetika
 
-<!-- 3.1. -->
-
 Reduktion des MAP (senken syst. Gefäßwiderstand), Sensitivisieren das Myokard gegenüber Adrenalin!
 
 Als **kardioprotektiv** gilt *Sevofluran* und *Desfluran* = öffnen ATP-unabhängige Kaliumkanäle der Mitochondrien, stabilisieren den Kalziumhaushalt, und die mitochondriale Funktion der Herzmuskelzelle bei MAC > 1.
 
 ZNS-Effekte
-: reversible Depression der Gehirnfunktion mit Bewusstseinsverlust;
+:   reversible Depression der Gehirnfunktion mit Bewusstseinsverlust;
 
-  Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO₂) = erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
+    Entkoppeln den cerebralen Blutfluss von der cerebralen Metabolisierungsrate = herabgesetzte CMR + gesteigerter CBF (durch erhöhte Empfindlichkeit auf CO₂) = erhöhter ICP (Autoregulationsmechanismus ist außer Kraft gesetzt)
 
-  Im EEG zuerst Frequenz und Amplitudensteigerung (Exzitationsstadium) und ab 1 MAC Verlangsamung.
+    Im EEG zuerst Frequenz und Amplitudensteigerung (Exzitationsstadium) und ab 1 MAC Verlangsamung.
 
-  *BIS verhindert keine Awareness* unter volatilen Anästhetika.
+    *BIS verhindert keine Awareness* unter volatilen Anästhetika.
 
-  *Isofluran* und *Sevofluran* sind nach einer TIVA am besten für die Neurochirurgie geeignet, da bis 1 MAC die *Autoregulation* erhalten bleibt, und es nur zu einer schwachen zerebralen Vasodilatation kommt.
+    *Isofluran* und *Sevofluran* sind nach einer TIVA am besten für die Neurochirurgie geeignet, da bis 1 MAC die *Autoregulation* erhalten bleibt, und es nur zu einer schwachen zerebralen Vasodilatation kommt.
 
 
 
 Renale Effekte
-: Beeinflussung sekundär hämodynamisch, endokrin,  übers autonome NS, oder direkt durch Fluoridionen (high output renal failure)
+:   Beeinflussung sekundär hämodynamisch, endokrin,  übers autonome NS, oder direkt durch Fluoridionen (high output renal failure)
 
-  Halothan-Hepatitis und Nierenschädigung durch das Abbauprodukt Trifluoracetische Säure TFA, welche auch theoretisch bei Sevofluran und Enfluran toxische Konzentrationen erreichen kann.
-  Entscheidend ist die OP-Dauer.
+    Halothan-Hepatitis und Nierenschädigung durch das Abbauprodukt Trifluoracetische Säure TFA, welche auch theoretisch bei Sevofluran und Enfluran toxische Konzentrationen erreichen kann.
+    Entscheidend ist die OP-Dauer.
 
-  Bei Sevofluran wurde nie eine Verschlechterung der Nierenretentionswerte festgestellt.
+    Bei Sevofluran wurde nie eine Verschlechterung der Nierenretentionswerte festgestellt.
 
 Hepatische Effekte
-: Halothan-Hepatitis wurde nicht nur durch TFA, sondern auch durch reduzierten hepatischen Blutfluss und erhöhtem VO₂ der Leber verursacht.
+:   Halothan-Hepatitis wurde nicht nur durch TFA, sondern auch durch reduzierten hepatischen Blutfluss und erhöhtem VO₂ der Leber verursacht.
+
+
 
 
 
@@ -134,47 +134,97 @@ Hepatische Effekte
 :::{index} single: N₂O
 :::
 
-### Stickoxydul, Lachgas, N₂O
+(n2o)=
 
-BGVK 0,47 = rasches An- und Abfluten; erhöht den **ICP**, daher kein Einsatz in der Neurochirurgie!
+### Stickoxydul (Lachgas, N₂O)
 
-**Diffundiert in Hohlräume** (30x mehr löslich als Stickstoff) mit Expansion des Volumens und Druckanstieg = KI bei erhöhtem Hirndruck, Ileus, Pneumothorax, Mediastinalemphysem, LSK, Thympanoplastik, Augen-OP, Cuffdruck!; Teratogen.
+Stickoxydul ist ein inhalatives Anästhetikum mit einem Blut-Gas-Verteilungskoeffizienten von etwa 0,47 und dadurch raschem An- und Abfluten.
+Es wirkt *analgetisch*, jedoch nur schwach anästhetisch und besitzt keine muskelrelaxierende Wirkung, weshalb es als Monosubstanz nicht ausreichend ist.
 
-Lachgas wirkt *analgetisch*, schwach anästhetisch und nicht muskelrelaxierend. Durch die nur schwach anästhetische Wirkung ist es als Monosubstanz nicht einsetzbar.
+Als *Zusatzanästhetikum* führt es zu einer Wirkverstärkung und Dosisreduktion anderer i.v.- und inhalativer Anästhetika, wirkt jedoch ausgeprägt *emetisch*.
+Speziell bei Patienten mit hoher Opiat-Toleranz (*Suchtpatienten*) eignet es sich gut, um Opiate zu sparen bzw. um überhaupt eine analgertische Wirkung zu erreichen.
+Stickoxydul *erhöht den intrakraniellen Druck* und wird daher in der Neurochirurgie nicht eingesetzt.
 
-Als Zusatzanästhetikum eingesetzt bewirkt es eine Wirkzunahme und Dosisreduktion von i.v.- und Inhalations-Anästhetika.
+Auf den meisten Narkosemaschinen wird Lachgas *anstatt Raumluft* zum Sauerstoff zudosiert, die Lachgas-Konzentration ist daher durch die FiO₂ limitiert.
+
+
+
+Besonderheiten
+:   -   Diffusion in gasgefüllte Hohlräume (≈ 30-fach höhere Löslichkeit als Stickstoff)
+        -   Volumenexpansion und Druckanstieg in Hohlräumen
+        -   Cave Cuffdruck!
+
+
+Kontraindikationen
+:   -   Erhöhter intrakranieller Druck
+    -   Ileus
+    -   Pneumothorax
+    -   Mediastinalemphysem
+    -   Laparoskopie
+    -   Thympanoplastik
+    -   Augenoperationen
+    -   Erhöhter Cuffdruck
+    -   Schwangerschaft (teratogen)
+
+
 
 
 
 :::{index} single: Halothan
 :::
 
+(halothan)=
+
 ### Halothan
 
-In Österreich klinisch obsolet, nur experimentelle Zwecke (maligne Hyperthermie Diagnostik), BGVK 2,3;
-sensibilisiert auf Katecholamine = *Rhythmusstörungen*.
+Halothan ist ein flüchtiges Anästhetikum mit einem Blut-Gas-Verteilungskoeffizienten von etwa 2,3.
+In Österreich ist es klinisch obsolet und wird vor allem noch für experimentelle Zwecke, insbesondere in der Diagnostik der malignen Hyperthermie, verwendet.
+
+Halothan sensibilisiert das Myokard gegenüber Katecholaminen und kann dadurch *Rhythmusstörungen* auslösen.
+
+
 
 
 
 :::{index} single: Isofluran
 :::
 
+(isofluran)=
+
 ### Isofluran
 
-(Forene ®)
+(*Forene®*)
 
-Übelriechend, da mit Lösungsmittel versetzt.
-Keine HLM und HF möglich, weil die Membranen durch Isofluran zerstört werden; erhöht ICP, KI bei Hirndruckpatienten, schweren Leberschäden, MH
+Isofluran ist ein flüchtiges Anästhetikum mit ausgeprägt hypnotischer, jedoch *geringer analgetischer* Wirkung.
+Aufgrund eines unangenehmen Geruchs (Lösungsmittelzusatz) ist es für die Maskeneinleitung ungeeignet.
 
-Dieses Gas wirkt nicht analgetisch und ausgeprägt hypnotisch.
+Isofluran *erhöht den intrakraniellen Druck* und ist daher bei Patienten mit erhöhtem Hirndruck kontraindiziert.
+Eine Anwendung im Rahmen der Herz-Lungen-Maschine ist nicht möglich, da Membranen durch Isofluran geschädigt werden können.
 
-unerwünschte Wirkungen:
 
-Im kardiovaskulären Bereich wirkt es blutdrucksenkend (dosisabhängig)
-und Herzfrequenzsenkend.
-Man kann eine Atemdepression beobachten, in der Niere sorgt es für eine Verminderung von Nierendurchblutung, glomeruläre Filtrationsrate und Harnausscheidung (dosisabhängig).
+Wirkungen
+:   -   Ausgeprägt hypnotisch
+    -   Keine relevante Analgesie
 
-Kontraindikationen: maligne Hyperthermie, erhöhter Hirndruck, Patienten mit halothanassoziiertem Leberschaden.
+
+Unerwünschte Wirkungen
+:   -   Kardiovaskulär
+        -   Blutdruckabfall (dosisabhängig)
+        -   Herzfrequenzabnahme
+    -   Respiratorisch
+        -   Atemdepression
+    -   Renal
+        -   Verminderte Nierendurchblutung
+        -   Verminderte glomeruläre Filtrationsrate
+        -   Verminderte Diurese (dosisabhängig)
+
+
+Kontraindikationen
+:   -   Maligne Hyperthermie
+    -   Erhöhter intrakranieller Druck
+    -   Halothanassoziierter Leberschaden
+
+
 
 
 
@@ -184,24 +234,32 @@ Kontraindikationen: maligne Hyperthermie, erhöhter Hirndruck, Patienten mit hal
 :::{index} single: Suprane®
 :::
 
+(desfluran)=
+
 ### Desfluran
 
-(Suprane®)
+(*Suprane®*)
 
-Übelriechend, irritierend SH;  Siedepunkt bei 22°C = hoher Dampfdruck spezielle Vaporisatoren;
-schnelles An- und Abfluten, *erhöht ICP*, KI bei Hirndruckpatienten, schweren Leberschäden, MH.
+Desfluran ist ein flüchtiges Anästhetikum mit sehr geringer Blutlöslichkeit, was zu einer ausgezeichneten Steuerbarkeit sowie einem schnellen An- und Abfluten führt.
 
-Bewirkt einen HF-Anstieg und Blutdruckabfall bei der Einleitung, negativ inotrop mit *Coronary-steal-Syndrome*.
-Anwendung bei bariatrischen Eingriffen (Adipositaschirurgie).
+Der niedrige Siedepunkt von etwa 22 °C bedingt einen hohen Dampfdruck, weshalb spezielle Vaporisatoren erforderlich sind.
+
+Aufgrund des stechenden Geruchs und der schleimhautreizenden Wirkung ist Desfluran für die Maskeneinleitung ungeeignet.
+
+Es führt zu einer *Erhöhung des intrakraniellen Drucks* und ist daher bei Patienten mit erhöhtem Hirndruck kontraindiziert.
+Weitere Kontraindikationen sind schwere Leberschäden sowie die maligne Hyperthermie.
+
+Kardiovaskulär wirkt Desfluran negativ inotrop und kann bei der Einleitung einen Anstieg der Herzfrequenz sowie einen Blutdruckabfall verursachen.
+Ein *Coronary-steal-Syndrom* ist möglich.
+
+Aufgrund der pharmakokinetischen Eigenschaften wird Desfluran bevorzugt bei adipösen Patienten, insbesondere bei bariatrischen Eingriffen, eingesetzt.
 
 
+Unerwünschte Wirkungen
+:   -   Sympathikusaktivierung bei höheren Konzentrationen
+        -   Tachykardie
+        -   Blutdruckanstieg
 
-Dieses Präparat weist eine sehr geringe Löslichkeit im Blut auf. Dadurch ergibt sich eine verbesserte Steuerbarkeit während der Narkose und ein Zeitgewinn bei Ein-und Ausleitung.
-
-Da es jedoch einen stechenden Geruch aufweist und die Atemwege reizt, ist es für eine Maskennarkose nicht geeignet.
-
-Unerwünschte Wirkung
-: Bei höheren Dosen kam Desfluran zu einer starken Reaktion des Sympathikus mit Blutdruckanstieg und Tachykardie führen.
 
 
 
@@ -209,16 +267,34 @@ Unerwünschte Wirkung
 :::{index} single: Sevofluran
 :::
 
+(sevofluran)=
+
 ### Sevofluran
 
-*Geringe Löslichkeit*  und *gute Steuerbarkeit*.
-Durch den angenehmeren Geruch ist Sevofluran für eine Maskeneinleitung besser geeignet.
+Sevofluran ist ein flüchtiges Anästhetikum mit *geringer Blutlöslichkeit* und dadurch guter Steuerbarkeit.
+Aufgrund des angenehmen Geruchs und der fehlenden Schleimhautreizung ist es gut für die Maskeneinleitung geeignet.
 
-BGVK 0,65; nicht Schleimhaut irritierend und nicht übelriechend, potentiell nephrotoxisch durch Compound-A-Bildung und toxischer Fluoride,
+Der Blut-Gas-Verteilungskoeffizient beträgt etwa 0,65.
 
-NW: delirante Zustände va. bei Kindern, neg. inotrop, leichte Bronchodilatation, Uterusatonie in höherer Dosis (\> 0,5 MAC)
+Sevofluran kann durch Bildung von *Compound A* sowie anorganischen Fluoriden potenziell nephrotoxisch wirken.
 
-KI: MH, Vorsicht bei Sectio und schwerer Niereninsuffizienz.
+
+Wirkungen
+:   -   Negativ inotrop
+    -   Leichte Bronchodilatation
+
+
+Unerwünschte Wirkungen
+:   -   Delirante Zustände, insbesondere bei Kindern
+    -   *Uterusatonie* in höheren Dosen (> 0,5 MAC)
+
+
+Kontraindikationen
+:   -   Maligne Hyperthermie
+    -   Vorsicht bei Sectio caesarea
+    -   Vorsicht bei schwerer Niereninsuffizienz
+
+
 
 
 
@@ -226,6 +302,11 @@ KI: MH, Vorsicht bei Sectio und schwerer Niereninsuffizienz.
 :::{index} single: Xenon
 :::
 
+(xenon)=
+
 ### Xenon
 
-inertes Gas; teuer!!
+Xenon ist ein inertes Edelgas mit anästhetischen Eigenschaften.
+Es zeichnet sich durch eine sehr gute Steuerbarkeit und stabile Hämodynamik aus.
+
+Aufgrund der hohen Kosten wird es in der klinischen Praxis nur selten eingesetzt.

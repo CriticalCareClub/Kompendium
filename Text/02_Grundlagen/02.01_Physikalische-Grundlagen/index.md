@@ -6,6 +6,7 @@ status: final
 
 
 :::{toctree}
+:maxdepth: 1
 :glob:
 
 *

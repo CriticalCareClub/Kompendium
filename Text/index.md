@@ -25,11 +25,11 @@ status: final
 :align: center
 :width: 100%
 :::
-::::
 
 :::{admonition} Download
 [Das Kompendium des CCCA als PDF](https://kompendium.criticalcare.at/_static/CCCA-Kompendium.pdf)
 :::
+::::
 
 
 :::{important}

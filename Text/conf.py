@@ -809,7 +809,6 @@ epub_exclude_files          = ['search.html']
     } """
 
 intersphinx_mapping = {
-    'cccakompendium': ('https://landsteiner:nullpositiv@kompendium.criticalcare.at/', None),
     'CM-1':     ('https://klpu.net/pub/BM/01/04/Course-Manual-1', ('https://klpu.net/sphinx-inventory/BM/01/04/Course-Manual-1/objects.inv', None)),
     'Ana-2':    ('https://klpu.net/pub/MM/01/05/Kursmanual-2',    ('https://klpu.net/sphinx-inventory/MM/01/05/Kursmanual-2/objects.inv',   None)),
     'KM-3':     ('https://klpu.net/pub/MM/07/01/Kursmanual-3',    ('https://klpu.net/sphinx-inventory/MM/07/01/Kursmanual-3/objects.inv',   None)),

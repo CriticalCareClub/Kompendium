@@ -54,7 +54,7 @@ Bitte beachten Sie die "{ref}`Hinweise-zur-Mitarbeit`".
 
 
 :::::{only} html
-:::{image} ../Submodules/3134-medical-picture-collection/Logos/Ccca-LogoBar-4-c-LongerBar.svg
+:::{image} ../Submodules/3134-medical-picture-collection/Logos/Ccca-Bar-Longer_v13.svg
 :align: center
 :width: 100%
 :::

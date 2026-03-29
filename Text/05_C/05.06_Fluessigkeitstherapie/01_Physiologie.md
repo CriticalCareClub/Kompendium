@@ -4,6 +4,12 @@ status: final
 
 # Physiologie
 
+:::{todo} {issue}`70` Wasser- & Elektrolythaushalt zusammenführen
+
+-   Text/05_C/05.04_Wasser-Elyte/index.md
+-   Text/05_C/05.06_Fluessigkeitstherapie/01_Physiologie.md
+:::
+
 Das Gesamtkörperwasser ist abhängig von Alter, Geschlecht und Körperbau:
 
 - Neugeborene 70-80 % aus Wasser

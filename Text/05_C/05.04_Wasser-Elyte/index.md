@@ -1,11 +1,17 @@
 ---
-status: sprint
+status: final
 ---
 
 (wasser-elektrolythaushalt)=
 (vitalfunktion-wasserhaushalt)=
 
 # Wasser- & Elektrolyte
+
+:::{todo} {issue}`70` Wasser- & Elektrolythaushalt zusammenführen
+
+-   Text/05_C/05.04_Wasser-Elyte/index.md
+-   Text/05_C/05.06_Fluessigkeitstherapie/01_Physiologie.md
+:::
 
 :::{seealso}
 -   {ref}`Krankheitsbilder-Wasser-Saeure-Basenhaushalt` ({numref}`Krankheitsbilder-Wasser-Saeure-Basenhaushalt`)

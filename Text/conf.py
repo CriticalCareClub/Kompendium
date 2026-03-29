@@ -697,9 +697,9 @@ if pdf_page_format == 'letter':
     '''
     latex_elements['maketitle']   = r'''
         \MakeCleopatraTitlepage
-                                                      {\FontTitleFamily CCCA Kompendium} % 1: Short Title
+                                                      {\FontTitleFamily Kompendium \ \ \ des \ \ \ CCCA} % 1: Short Title
                                                       {2} % 2: TitleScale
-                                                      {\FontTitleFamily CCCA} % 3: TitleTag
+                                                      {\FontTitleFamily Entwicklungsversion} % 3: TitleTag
                                                       {\FontTitleFamily Critical Care Club Austria} % 4: Subtitle
                                                       {v\Release} % 5: Version
                                                       {\Release} % 6: Release
@@ -709,7 +709,7 @@ if pdf_page_format == 'letter':
                                                           \vfill
 
                                                       } % 7: Picture
-                                                      {\FontTitleDiscrete CCCA} % 8: Author
+                                                      {\FontTitleDiscrete Preview} % 8: Author
                                                       {v\Release} % 9: Date
     '''
 

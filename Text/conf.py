@@ -379,8 +379,8 @@ md_prolog = """
 announcement                = "&#128679; <strong><font color=\"FFFFFF\">ACHTUNG!</font></strong> Dies ist eine <strong><font color=\"FFFFFF\" style=\"background-color:#dc322f;padding:5px\"> ENTWICKLUNGSVERSION</font></strong> (v" + version + ") &#9888;"
 html_title                  = u"Kompendium des CCCA"
 html_short_title            = u'Kompendium des CCCA'
-html_logo                   = '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo-v12.svg'
-html_favicon                = '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo-v12.svg'
+html_logo                   = '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo_v13.svg'
+html_favicon                = '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo_v13.svg'
 html_show_sourcelink        = True
 html_show_sphinx            = False
 html_theme_path             = ["../System/themes", ]
@@ -437,7 +437,7 @@ html_theme_options          = {
 latex_engine                      = 'lualatex'
 
 latex_additional_files            = [
-    '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo-v12.pdf',
+    '../Submodules/3134-medical-picture-collection/Logos/Ccca-Logo_v13.pdf',
     'hyphenation.inc',
     "../Submodules/hex15-sphinx-extensions-contrib/lua-ul.sty",
     "../Submodules/hex15-latex-styles/hex15-colors.sty",
@@ -633,7 +633,7 @@ latex_elements                    = {
                                                       {{\color{gray} v}\Release} % 5: Version
                                                       {\Release} % 6: Release
                                                       {
-                                                          \includegraphics[width=7cm]{Ccca-Logo-v12.pdf}
+                                                          \includegraphics[width=7cm]{Ccca-Logo_v13.pdf}
                                                       } % 7: Picture
                                                       {\FontTitleDiscrete Critical Care Club Austria} % 8: Author
                                                       {Date} % 9: Date
@@ -704,7 +704,7 @@ if pdf_page_format == 'letter':
                                                       {v\Release} % 5: Version
                                                       {\Release} % 6: Release
                                                       {
-                                                          \includegraphics[width=11cm]{Ccca-Logo-v12.pdf}
+                                                          \includegraphics[width=11cm]{Ccca-Logo_v13.pdf}
 
                                                           \vfill
 

@@ -1,5 +1,5 @@
 ---
-status: sprint
+status: final
 ---
 
 # Physikalische Grundlagen

@@ -12,15 +12,9 @@ status: final
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Fragensammlung/index
-Autorendokumentation/index
-ToDo/index
-Wunschlisten/index
-Symbole/index
-Lizenzen/index
-Literatur/index
-Glossar/index
+*/index
 ../CHANGELOG.md
 :::
 

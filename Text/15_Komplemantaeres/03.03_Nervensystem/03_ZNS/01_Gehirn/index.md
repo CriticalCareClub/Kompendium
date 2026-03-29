@@ -1,3 +1,8 @@
+---
+status: final
+---
+
+
 # Encephalon (Gehirn)
 
 :::{margin} Gehirn & verlängertes Rückenmark
@@ -133,8 +138,13 @@ Wichtige Anteile des Telencephalons:
 Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf →
 regionspezifisch!
 
-```{todo} Abbildung Homunculus
-```
+
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/PD/Homunculus-de.svg
+
+Projektion auf den motorischen/sensorischen Kortex
+
+\[ℓ PD\]
+:::
 
 
 

@@ -27,16 +27,17 @@ status: final
 :::
 ::::
 
-:::{margin} Optionen
+:::{admonition} Download
 [Das Kompendium des CCCA als PDF](https://kompendium.criticalcare.at/_static/CCCA-Kompendium.pdf)
 :::
 
 
-:::{attention}
-Dieses Werk befindet sich in einer Entwicklungsversion und ist nicht für die klinische Anwendung gedacht!
+:::{important}
+Dieses Werk befindet ist eine Entwicklungsversion und ist nicht für die klinische Anwendung gedacht!
 
-Entsprechende Hinweise oder Textvorschläge sind gerne gesehen.
-Bitte beachten Sie {numref}`Hinweise-zur-Einreichung`: "{ref}`Hinweise-zur-Einreichung`".
+Fehlermeldungen, Hinweise oder Textvorschläge sind gerne gesehen.
+Eine Mitarbeit ist über unsere [Github™-Projektseite](https://github.com/CriticalCareClub/Kompendium) möglich.
+Bitte beachten Sie die "{ref}`Hinweise-zur-Mitarbeit`".
 :::
 
 

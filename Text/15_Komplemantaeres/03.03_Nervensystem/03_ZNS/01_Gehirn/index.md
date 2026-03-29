@@ -139,7 +139,7 @@ Das Gehirn weist meist eine *somatotope Anordnung* der Bereiche auf →
 regionspezifisch!
 
 
-:::{figure} ../../../../../Submodules/3134-medical-picture-collection/PD/Homunculus-de.svg
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/PD/Homunculus-de.\*
 
 Projektion auf den motorischen/sensorischen Kortex
 

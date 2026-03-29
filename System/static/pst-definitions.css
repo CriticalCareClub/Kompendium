@@ -28,7 +28,7 @@
 --dark:         #343a40;
 
 /* *** 3134 *** */
-  --Color-3134-Orange:                    #E95420;
+  --Color-3134-Orange:                  #E95420;
 
 /* *** CCCA *** */
 --Color-Ccca-Blue:                      #1b2c72;
@@ -59,7 +59,7 @@
     --Solarized-BG-dark:                    #002b36; /* BG dark */
     --Solarized-BG-dark-contrast:           #073642; /* BG dark contrast */
     --Solarized-BG-light-contrast:          #eee8d5; /* BG light contrast */
-    --Solarized-BG-light:                  #fdf6e3; /* BG light */
+    --Solarized-BG-light:                   #fdf6e3; /* BG light */
   /* Content tones */
     --Solarized-Base01:                     #586e75; /*  */
     --Solarized-Base00:                     #657b83; /* Text light */
@@ -69,6 +69,8 @@
     --Solarized-Text-dark:                  #93a1a1; /* Text dark   = Base1 */
   /* Accent tones */
     --Solarized-Yellow:                     #b58900;
+    --Solarized-Yellow-bright:              #ffea00;
+    --Solarized-Yellow-Custom:              #f1c40f;
     --Solarized-Orange:                     #cb4b16;
     --Solarized-Red:                        #dc322f;
     --Solarized-Magenta:                    #d33682;
@@ -76,6 +78,7 @@
     --Solarized-Blue:                       #268bd2;
     --Solarized-Cyan:                       #2aa198;
     --Solarized-Green:                      #859900;
+    --Solarized-Green-bright:               #00c853;
     --Solarized-Custom-1:                   #942600;
 
 

@@ -127,7 +127,14 @@ Weiters danken wir allen Einsendern, welche uns Fehler gemeldet und uns mit ihre
 \end{ParWide}
 ```
 
+
+
+
+
 ## Special Thanks
+
+Ein besonderer Dank gilt unserer Kollegin Dr. *Anita Aust*, welche lange Zeit das Skriptum "Anästhesie Facharztprüfung kompakt" betreut und gepflegt hat.
+Mit 2025 hat sie das Akriptum dem Projekt [Kremser Anästhesieskriptum](https://anaesthesieskriptum.at) übergeben, die Inhalte dieses Skriptums werden schrittweise in das Kompendium eingearbeitet.
 
 Nicht vergessen möchten wir die zahlreichen Entwickler der freien
 Softwareprojekte, von denen auch in diesem Werk einige eingesetzt wurden (z. B. Sphinx, LaTeX, *JabRef*, *TeXstudio*, *Inkscape*, *Fedora Linux*).

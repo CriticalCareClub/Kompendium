@@ -47,19 +47,21 @@ Michael Motal
 
 Johannes Steuer
 :   Dr. med. univ., M.Sc. \
-    em. Facharzt für Anästhesiologie und Intensivmedizin, Notarzt
+    em. Facharzt für Anästhesiologie und Intensivmedizin
 
 
 Josef Zechmeister
 : Mag., MSc
 
 
-
-
 % .. raw:: latex
 %
 %     \end{multicols}
 %     \end{ParWide}
+
+
+
+
 
 ## Autoren und Reviewer
 
@@ -94,6 +96,10 @@ Gerhard Gabriel
 %     \end{multicols}
 %     \end{ParWide}
 
+
+
+
+
 ## Technische und künstlerische Mitarbeiter
 
 ```{raw} latex
@@ -109,6 +115,10 @@ Gerhard Gabriel
 \end{multicols}
 \end{ParWide}
 ```
+
+
+
+
 
 ## Mitwirkende
 

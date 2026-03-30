@@ -19,6 +19,8 @@ Es ergänzt Markdown um Direktiven, Rollen, Querverweise, Mathematik und struktu
 
 
 
+
+
 :::{list-table} Markdown-Syntaxübersicht
 :header-rows: 1
 :widths: 19 27 27 27
@@ -41,12 +43,12 @@ Es ergänzt Markdown um Direktiven, Rollen, Querverweise, Mathematik und struktu
 *   -   Überschrift Ebene 1
     -   `# Heading 1`
     -
-    -   # Heading 1
+    -   ![alt text](H1.png)
 
 *   -   Überschrift Ebene 2
     -   `## Heading 2`
     -
-    -   ## Heading 2
+    -   ![alt text](H2.png)
 
 *   -   Link
     -   `[Link](http://a.com)`
@@ -98,7 +100,7 @@ Es ergänzt Markdown um Direktiven, Rollen, Querverweise, Mathematik und struktu
 *   -   Horizontale Linie
     -   `---`
     -
-    -   ***
+    -   ![alt text](HR.png)
 
 *   -   Inline-Code
     -   `` `Inline code` ``
@@ -135,7 +137,6 @@ Es ergänzt Markdown um Direktiven, Rollen, Querverweise, Mathematik und struktu
     -   $I = \frac{U}{R}$
 
 :::
-
 
 
 
@@ -459,4 +460,3 @@ status: final
 ---
 ::::
 ::::::
-

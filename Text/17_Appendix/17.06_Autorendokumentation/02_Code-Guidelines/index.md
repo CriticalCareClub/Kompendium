@@ -10,7 +10,7 @@ Ziel ist eine konsistente, lehrbuchartige und technisch saubere Darstellung.
 
 ---
 
-# 1. Allgemeine Prinzipien
+## Allgemeine Prinzipien
 
 - Ausgabe erfolgt **immer als Markdown-Code**.
 - Stil: präzise, knapp, fachsprachlich korrekt.
@@ -22,7 +22,7 @@ Ziel ist eine konsistente, lehrbuchartige und technisch saubere Darstellung.
 
 ---
 
-# 2. Überschriftenstruktur
+## Überschriftenstruktur
 
 Eine Überschrift besteht immer aus drei zusammengehörigen Elementen:
 
@@ -32,7 +32,7 @@ Eine Überschrift besteht immer aus drei zusammengehörigen Elementen:
 
 Diese bilden eine **untrennbare Einheit**.
 
-## Reihenfolge
+### Reihenfolge
 
 ```markdown
 :::{index} single: Begriff
@@ -40,16 +40,16 @@ Diese bilden eine **untrennbare Einheit**.
 
 (label)=
 
-## Überschrift
+### Überschrift
 ```
 
-## Abstand
+### Abstand
 
 - **5 Leerzeilen vor jeder Überschriftseinheit** (Index + Label + Überschrift)
 
 ---
 
-# 3. Indexierung
+## Indexierung
 
 - Syntax:
   ```markdown
@@ -66,7 +66,7 @@ Diese bilden eine **untrennbare Einheit**.
 
 ---
 
-# 4. Labels
+## Labels
 
 - Syntax:
   ```markdown
@@ -77,22 +77,22 @@ Diese bilden eine **untrennbare Einheit**.
 
 ---
 
-# 5. Field Lists
+## Field Lists
 
-## Grundsyntax
+### Grundsyntax
 
 ```markdown
 Begriff
 :   Definition
 ```
 
-## Regeln
+### Regeln
 
 - **Keine Leerzeile zwischen Begriff und Definition**
 - Einrückung: **genau 4 Spaces**
 - Kein Tab-Mix
 
-## Mehrzeilig
+### Mehrzeilig
 
 ```markdown
 Begriff
@@ -100,13 +100,13 @@ Begriff
     Zweite Zeile
 ```
 
-## Abstand
+### Abstand
 
 - **2 Leerzeilen vor und nach jedem Field-List-Block**
 
 ---
 
-# 6. Typografie
+## Typografie
 
 - Abkürzungen: *Begriff* (*Abk1*, *Abk2*)
 - Einheiten konsistent (µl, cm², g/dl)
@@ -115,7 +115,7 @@ Begriff
 
 ---
 
-# 7. Hervorhebungen
+## Hervorhebungen
 
 - *kursiv*: Fachbegriffe
 - **fett**: selten, nur bei Bedarf
@@ -123,7 +123,7 @@ Begriff
 
 ---
 
-# 8. Fließtext
+## Fließtext
 
 - Jeder Satz in neuer Zeile
 - Prägnant, ohne Füllwörter
@@ -131,7 +131,7 @@ Begriff
 
 ---
 
-# 9. Ziel
+## Ziel
 
 - Konsistenz
 - Lesbarkeit

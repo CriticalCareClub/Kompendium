@@ -335,6 +335,8 @@ Dieser Abschnitt ist in Arbeit!
 ]{l}{0}[0]{\renewcommand\addvspace[1]{}\section*{In diesem Teil:}}
 :::
 ''',
+    'linkpdfa4': '[Das Skriptum als PDF (beidseitiger Druck, A4)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_a4.pdf)',
+    'linkpdfletter': '[Das Skriptum als PDF (Tablet)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_letter.pdf)',
 }
 
 # myst_linkify_fuzzy_links = False
@@ -626,17 +628,20 @@ latex_elements                    = {
     ''',
     'maketitle': r'''
         \MakeCleopatraTitlepage
-                                                      {\FontTitleFamily Kompendium} % 1: Short Title
+                                                      {\FontTitleFamily Kompendium \ \ \ des \ \ \ CCCA} % 1: Short Title
                                                       {2} % 2: TitleScale
-                                                      {\FontTitleFamily\itshape des CCCA} % 3: TitleTag
-                                                      {\FontTitleFamily {\Title}} % 4: Subtitle
-                                                      {{\color{gray} v}\Release} % 5: Version
+                                                      {\FontTitleFamily Entwicklungsversion} % 3: TitleTag
+                                                      {\FontTitleFamily Critical Care Club Austria} % 4: Subtitle
+                                                      {v\Release} % 5: Version
                                                       {\Release} % 6: Release
                                                       {
-                                                          \includegraphics[width=7cm]{Ccca-Logo_v13.pdf}
+                                                          \includegraphics[width=10cm]{Ccca-Logo_v13.pdf}
+
+                                                          \vfill
+
                                                       } % 7: Picture
-                                                      {\FontTitleDiscrete Critical Care Club Austria} % 8: Author
-                                                      {Date} % 9: Date
+                                                      {\FontTitleDiscrete Preview} % 8: Author
+                                                      {v\Release} % 9: Date
     ''',
     'figure_align': 'H',
     'geometry': r'''
@@ -722,7 +727,7 @@ latex_show_urls                   = 'no'
 latex_documents                   = [
     (
         master_doc,
-        'CCCA-Kompendium.tex',
+        'CCCA-Kompendium_v' + version +'_' + pdf_page_format +'.tex',
         u'Kompendium des CCCA',
         u'Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA; Herausgeber)',
         'manual'

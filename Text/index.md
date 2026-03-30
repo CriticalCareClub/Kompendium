@@ -28,6 +28,8 @@ status: final
 
 :::{admonition} Download
 [Das Kompendium des CCCA als PDF](https://kompendium.criticalcare.at/_static/CCCA-Kompendium.pdf)
+-   {{linkpdfa4}}
+-   {{linkpdfletter}}
 :::
 ::::
 

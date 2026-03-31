@@ -24,16 +24,11 @@ Für die Atemmechanik ist ein gutes Zusammenspiel der maßgeblichen Bestandteile
 
 - **knöchener Thorax**: Rippen, Wirbeln, Sternum
 - **Atemmuskulatur**:
-  Der wichtigste Atemmuskel ist
-  das *Zwerchfell* (Diaphragma).
+  Der wichtigste Atemmuskel ist das *Zwerchfell* (Diaphragma).
   In Ruhe erledigt es fast die gesamte Atemarbeit.
-  Bei verstärkter Atmung kommen die *Zwischenrippenmuskeln* zum Einsatz (Mm. intercostales interni et externi, Mm.
-  scaleni).
+  Bei verstärkter Atmung kommen die *Zwischenrippenmuskeln* zum Einsatz (Mm. intercostales interni et externi, Mm. scaleni).
 - **Atemhilfsmuskulatur**:
-  Wird die Oberarmmuskulatur fixiert,
-  z. B. durch Aufstützen,
-  kann diese die Hebung
-  des Brustkorbes unterstützen (Umkehrung Fixum—Mobile).
+  Wird die Oberarmmuskulatur fixiert, z. B. durch Aufstützen, kann diese die Hebung des Brustkorbes unterstützen (Umkehrung Fixum—Mobile).
 - **Pleura**:
   Die Funktion der Pleura ist unter {ref}`pleura`, erklärt.
 

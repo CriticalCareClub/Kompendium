@@ -1,5 +1,5 @@
 ---
-status: sprint
+status: final
 ---
 
 
@@ -43,38 +43,5 @@ Hierzu zählen insbesondere die Optimierung des Herzzeitvolumens und der Beatmun
 Postoperativ sind eine suffiziente Anxiolyse und Schmerztherapie (Optimierung des O₂-Bedarfs), die Kontrolle des Eisenstatus mit ggf. Substitution sowie gegebenenfalls die Gabe von Erythropoetin relevant.
 
 
-
-
-
-
-
-
-
-
-:::{index} single: Patient Blood Management
-:::
-
-(Patient-Blood-Management)=
-
-# Patient Blood Management
-
-
-:::{seealso}
-{ref}`Blutprodukte`
-:::
-
-... bei geplanten blutungsriskanten Operationen
-
-- Anämiediagnostik 6  Wochen präoperativ, Ursache erkennen, Therapie/Korrektur, Gerinnungsdiagnostik, ev. OP-Termin verschieben.
-- Präoperative Eigenblutspende bei Eingriffen bei speziellen Patientengruppen (z.B. seltene Bluttypen, spezielle Antikörperkonstellation) o der bei ausdrücklichem Patientenwunsch, wenn eine hohe Transfusionswahrscheinlichkeit besteht spätestens 2 Wochen vor OP.
-- Minimalinvasive OP-Technik, chirurgische Blutstillung, unspezifische Gerinnungsoptimierung (Normothermie, Azidose vermeiden, Hypokalziämie korregieren), Cellsaver,
-- Bluttransfusion nach sorgfältiger Indikationsstellung:
-
-  Über einem Hämoglobinwert von 8 g/dl sollte nur dann eine Erythrozytenkonzentrat-Gabe stattfinden, wenn
-
-  - klinische Hinweise auf globale oder regionale Sauerstoffdefizite vorliegen, insbesondere unter Berücksichtigung relevanter Vorerkrankungen.
-  - von einen absoluten Hämoglobin-Verlust auszugehen ist (vor kristalloidem Volumsersatz)
-  - mit einem bevorstehenden relevanten Blutverlust zu rechnen ist
-- Verbesserung der individuellen Anämietoleranz: anästhesiologisch intensivtherapeutische Maßnahmen zur Steigerung der Anämietoleranz (v. a. Optimierung des Herzzeitvolumens, Optimierung der Beatmung, Reduktion des Sauerstoffverbrauchs), postoperative Schmerztherapie, Eisenstatus mit ev. Substitution, ev. Erythropoetin-Gabe.
 
 

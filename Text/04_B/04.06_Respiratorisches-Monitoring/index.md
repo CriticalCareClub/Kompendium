@@ -25,11 +25,7 @@ status: final
 
 :::{toctree}
 :maxdepth: 1
+:glob:
 
-Klinik/index
-Blutgasanalyse/index
-Pulsoxymetrie/index
-Kapnometrie/index
-Thoraximpedanz/index
-Respirator/index
+*/index
 :::

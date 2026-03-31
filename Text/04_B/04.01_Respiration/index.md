@@ -13,5 +13,5 @@ status: final
 :maxdepth: 1
 :glob:
 
-*/index
+*
 :::

@@ -36,7 +36,7 @@ status: final
 
     Bei akuter Cholecystitis RSI
 * - Airway
-  - ETI (obligat)
+  - {ref}`ETI <ETI>` (obligat)
 * - Invasivitäten
   - Magensonde (peroral, kann nach OP vor Ausleiten entfernt werden)
 * - Narkoseführung

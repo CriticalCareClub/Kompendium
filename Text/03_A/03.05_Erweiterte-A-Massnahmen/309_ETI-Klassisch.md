@@ -67,7 +67,7 @@ Er ermöglicht die Beatmung des Patienten (auch mit hohen Beatmungsdrücken) bei
 
 {ref}`Rapid Sequence Induction <RSI>` ("Schnelleinleitung") beim nicht-nüchternen Patienten
 
-Grundsätzlich unterscheidet man bei der Durchführung die ETI beim nüchternen und beim nicht-nüchternen Patienten.
+Grundsätzlich unterscheidet man bei der Durchführung die {ref}`ETI <ETI>` beim nüchternen und beim nicht-nüchternen Patienten.
 
 #### ETI beim nüchternen Patienten
 

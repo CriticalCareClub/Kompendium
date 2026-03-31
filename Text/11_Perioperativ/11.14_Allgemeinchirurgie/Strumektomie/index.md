@@ -32,7 +32,7 @@ Besondere Geräte
 
 Anästhesieverfahren, Airway
 
-: AN // ETI mit
+: AN // {ref}`ETI <ETI>` mit
   Neuromonitoring-Elektroden, evtl. Spiraltubus
 
 Einleitung

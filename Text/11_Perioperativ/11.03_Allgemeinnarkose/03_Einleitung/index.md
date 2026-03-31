@@ -95,7 +95,7 @@ Aufrechterhaltung
 90kg, ohne relevante Vorerkrankungen, {ref}`SPA <SPA>` abgelehnt
 
 Plan
-:   AN mit ETI
+:   AN mit {ref}`ETI <ETI>`
 
 Einleitung
 :   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,300 mg, *Propofol* 200 mg, *Phenylephrin* 0,050 mg, *Rocuronium* 30 mg (mind. 3 min Wartezeit)
@@ -110,7 +110,7 @@ Aufrechterhaltung
 60kg, ohne relevante Vorerkrankungen
 
 Plan
-:   AN mit ETI
+:   AN mit {ref}`ETI <ETI>`
 
 Einleitung
 :   *Präoxygenierung* bis etO₂ ≥ 90 %, *Fentanyl* 0,300 mg, *Propofol* 80 mg (sehr variabel!), *Phenylephrin* 0,100 mg, *Rocuronium* 25 mg (mind. 3 min Wartezeit)
@@ -124,7 +124,7 @@ Aufrechterhaltung
 90kg, ohne relevante Vorerkrankungen
 
 Plan
-:   AN mit ETI, TIVA/BIVA
+:   AN mit {ref}`ETI <ETI>`, TIVA/BIVA
 
 Obligat
 :   *EEG-basiertes Monitoring*

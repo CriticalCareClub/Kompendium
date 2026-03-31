@@ -28,7 +28,7 @@ Lagerung
 
 Anästhesieverfahren, Airway
 
-: - VaginaL. AN mit ETI, SPA möglich
+: - VaginaL. AN mit {ref}`ETI <ETI>`, SPA möglich
 
 Blutmanagement
 

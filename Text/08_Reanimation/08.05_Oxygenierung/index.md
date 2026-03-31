@@ -199,7 +199,7 @@ Dazu gehören der Larynxtubus und die Larynxmaske.
 
 [^footnote-4]: Supraglottische Methoden zur Atemwegssicherung werden oft als
     "alternativer Atemweg" bezeichnet, da sie oft eine Alternative zur
-    endotrachealen Intubation (*ETI*) angesehen werden. Die ETI gilt
+    endotrachealen Intubation (*ETI*) angesehen werden. Die {ref}`ETI <ETI>` gilt
     weithin als Goldstandard der Atemwegssicherung, dennoch hat sie
     einige gewichtige Nachteile und ist in vielen Situationen *nicht die
     Methode der Wahl*.
@@ -259,7 +259,7 @@ Die wichtigsten Ergebnisse dieser Studien sind:
     Fehlintubationen (ösophageal, bronchial) durch Notärzte
     festgestellt.
 
-Es kommt hinzu, dass ein Vorteil für den Patienten durch die ETI *nicht* nachgewiesen ist: In 2008 fassten Nolan und Soar zusammen, dass der Nutzen der ETI bei der präklinischen Reanimation nicht durch Studien gezeigt werden konnte, und dass einige sogar das Gegenteil erkennen ließen (*"Prehospital studies fail to show any benefit from tracheal intubation during cardiopulmonary resuscitation and many show harm."* {term}`🗎 Nolan 2008`).
+Es kommt hinzu, dass ein Vorteil für den Patienten durch die {ref}`ETI <ETI>` *nicht* nachgewiesen ist: In 2008 fassten Nolan und Soar zusammen, dass der Nutzen der {ref}`ETI <ETI>` bei der präklinischen Reanimation nicht durch Studien gezeigt werden konnte, und dass einige sogar das Gegenteil erkennen ließen (*"Prehospital studies fail to show any benefit from tracheal intubation during cardiopulmonary resuscitation and many show harm."* {term}`🗎 Nolan 2008`).
 Dies deckt sich auch mit Beobachtungen aus anderen Studien
 {term}`🗎 Stiell 2004` {term}`🗎 Cobas 2009`.
 Ein 2008 veröffentlichtes Cochrane-Review kam zu der gleichen Schlussfolgerung, mit der Betonung, dass entsprechende, qualitative hochwertige Studien fehlen {term}`🗎 Lecky 2008`.
@@ -272,13 +272,13 @@ Vor diesem Hintergrund bleibt festzuhalten, dass eine unterlassene Intubation ni
 — wie oft behauptet —
 mit einer unterlassenen Hilfeleistung, sondern mit einer unterlassenen Tradition gleichzusetzen ist.
 
-Der traditionellen ETI steht eine stetige Entwicklung an alternativen Airwaysystemen gegenüber, welche eine effektive und technisch einfachere Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
+Der traditionellen {ref}`ETI <ETI>` steht eine stetige Entwicklung an alternativen Airwaysystemen gegenüber, welche eine effektive und technisch einfachere Sicherung des Atemweges ermöglichen (supraglottsiche Atemwegshilfen).
 Zwar müssen diese Systeme Abstriche hinsichtlich des Aspirationsschutzes machen, wiegen dies jedoch durch ihre einfach und sichere Anwendung auf
 {term}`🗎 Schalk 2010` {term}`🗎 Wiese 2009`.
 
 :::{admonition} Fazit
 - Wenn die erforderliche Routine und Sicherheit für die
-  Durchführung einer ETI nicht gegeben ist und die Indikation für
+  Durchführung einer {ref}`ETI <ETI>` nicht gegeben ist und die Indikation für
   ein invasives Atemwegsmanagement besteht, sollen *in erster Linie
   supraglottische Atemwegshilfen* eingesetzt werden {term}`🗎 Timmermann 2012`.
 :::

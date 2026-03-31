@@ -50,7 +50,7 @@ Die typische Reihenfolge der Relaxierung ist folgende:
 *   -   **Pancuronium**
     -   Pancuronium®
     -   mittellang wirkend
-*   -   Rocuronium
+*   -   {ref}`Rocuronium <Rocuronium>`
     -   Esmeron®
     -
 *   -   **Suxamethonium**, Succinylcholin
@@ -72,7 +72,7 @@ Nicht-depolarisierende Muskelrelaxantien können durch Cholinesterasehemmer (Pyr
 Diese Substanzgruppe verursacht einen langanhaltende Depolarisation der motorischen Erdplatte. Initial kann man Faszikulationen der Skelettmuskeln beobachten. Danach ist der Muskel unerregbar. Im Gegensatz zu den nicht-depolarisierenden Muskelrelaxantien ist hier die Wirkung nicht antagonisierbar.
 
 
-Succinylcholin Lysthenon®
+{ref}`Succinylcholin <Succinylcholin>` Lysthenon®
 
 
 Durch den schnellen Wirkungseintritt und die kürzeste Wirkdauer aller Muskelrelaxantien ist dieses Medikament das Mittel der Wahl bei der Blitzeinleitung einer Narkose.

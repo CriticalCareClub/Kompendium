@@ -22,7 +22,7 @@ Aufstellung
 
 Anästhesieverfahren, Airway
 : 1. LA
-  2. AN mit ETI
+  2. AN mit {ref}`ETI <ETI>`
 
 
 Verlauf

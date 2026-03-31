@@ -37,7 +37,7 @@ status: final
 * - Anästhesieverfahren
   - AN mit Single Lung Ventilation + thorakale PDA oder Erector-spinae-Block
 * - Airway
-  - ETI mit Doppelllumentubus oder Bronchusblocker
+  - {ref}`ETI <ETI>` mit Doppelllumentubus oder Bronchusblocker
 * - Invasivitäten
   - mind. 2 großlumige Zugänge, arterieller Zugang (bevorzugt kontralateral), Harnkatheter mit Temperatursensor bei OP-Dauer > 3h
 

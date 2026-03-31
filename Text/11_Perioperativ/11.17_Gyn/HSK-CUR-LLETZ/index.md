@@ -47,7 +47,8 @@ Besondere Geräte
 
 Anästhesieverfahren, Airway
 
-: AN // LM
+: {ref}`Allgemeinnarkose <Allgemeinnarkose>`,
+  {ref}`Larynxmaske <Larynxmaske>`
 
 Blutmanagement
 

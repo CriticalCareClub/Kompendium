@@ -29,7 +29,7 @@ status: draft
 * - Anästhesieverfahren
   - AN
 * - Airway
-  - ETI
+  - {ref}`ETI <ETI>`
 * - Invasivitäten
   - Arterieller Zugang, großlumige Zugänge
 * - Narkoseführung

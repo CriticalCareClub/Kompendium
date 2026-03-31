@@ -25,7 +25,8 @@ Anmerkungen
 
 Anästhesieverfahren, Airway
 
-: AN // LM oder ETI
+: {ref}`Allgemeinnarkose <Allgemeinnarkose>`,
+  {ref}`Larynxmaske <Larynxmaske>` oder {ref}`ETI <ETI>`
 
 Perioperative Diagnostik
 

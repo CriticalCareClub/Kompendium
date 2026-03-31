@@ -1,4 +1,4 @@
-```{index} pair: OP; Hüft-TEP 
+```{index} pair: OP; Hüft-TEP
 ```
 ```{index} pair: Hüft-TEP; Tranexamsäure
 ```
@@ -29,7 +29,7 @@ Lagerung
 
 Anästhesieverfahren, Airway
 
-: SPA; AN: ETI epmpfohlen, LM möglich
+: SPA; AN: {ref}`ETI <ETI>` epmpfohlen, LM möglich
 
 Blutmanagement
 

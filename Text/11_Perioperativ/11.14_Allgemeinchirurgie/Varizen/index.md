@@ -17,7 +17,8 @@ Lagerung
 
 Anästhesieverfahren, Airway
 
-: AN // LM, bei Bauchlage ETI
+: {ref}`Allgemeinnarkose <Allgemeinnarkose>`,
+  {ref}`Larynxmaske <Larynxmaske>`, bei Bauchlage {ref}`ETI <ETI>`
 
 
 Antibiotika

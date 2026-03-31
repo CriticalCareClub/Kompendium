@@ -19,7 +19,7 @@ Lagerung
 
 Anästhesieverfahren, Airway
 
-: AN + PDK // ETI
+: AN + PDK // {ref}`ETI <ETI>`
 
 Blutmanagement
 

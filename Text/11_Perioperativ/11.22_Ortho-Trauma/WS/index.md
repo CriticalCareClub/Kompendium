@@ -56,7 +56,7 @@ Besondere Geräte
 
 Anästhesieverfahren, Airway
 
-: AN, ETI (idealerweise mit Spiraltubus
+: AN, {ref}`ETI <ETI>` (idealerweise mit Spiraltubus
   und Führungsdraht, zirkuläre Fixierung)
 
 Blutmanagement

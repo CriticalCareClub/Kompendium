@@ -97,15 +97,15 @@ So ist in nicht nachvollziehbar in welcher Reihenfolge oder Abhängigkeit SGAs z
 Daraus kann ein erheblicher Selection Bias resultieren.
 Darauf weist auch das erstaunlich gute Outcome der Patientengruppe auf, welche nur eine Beutel-Masken-Beatmung erhalten hatte.
 Man kann annehmen, dass diese Patientengruppe aufgrund eines rasch wiedererlangten Kreislaufs gar nicht in die Gruppe der SGAs eskalieren konnte.
-Ungeklärt bleibt die Frage, wie das Outcome von Patienten gewesen wäre, die nicht suffizient mittels Beutel-Maske beatmet werden konnte, wo jedoch weder SGA noch ETI zur Verfügung gestanden wäre.
-Ebenso zeigt die Studie bei der Gruppe, welche zuerst einen LT und anschließend eine endotracheale Intubation erhalten hatte, ein vergleichbares Überleben zur primären ETI.
+Ungeklärt bleibt die Frage, wie das Outcome von Patienten gewesen wäre, die nicht suffizient mittels Beutel-Maske beatmet werden konnte, wo jedoch weder SGA noch {ref}`ETI <ETI>` zur Verfügung gestanden wäre.
+Ebenso zeigt die Studie bei der Gruppe, welche zuerst einen LT und anschließend eine endotracheale Intubation erhalten hatte, ein vergleichbares Überleben zur primären {ref}`ETI <ETI>`.
 Ebenso nicht nachvollziehbar ist, ob die Cuffdrücke gemessen wurden.
 Somit ist die große Schwäche dieser Studie, dass es sich um eine Registerstudie mit unklaren Confounders handelt, und nicht um eine sauber randomisierte Untersuchung.
 
 Generell ist oft schon die Fragestellung problematisch:
 Häufig werden SGAs nur mit der endotrachealen Intubation verglichen, wobei diese unter Umständen mangels geschulten und routinierten Personals gar nicht zur Verfügung steht.
-SGA-Devices können in einem Setting, in dem die Anwender nicht erfahren genug sind, um ETI sicher durchzuführen, durchaus sinnvoll sein ({term}`🗎 Suppan 2022`).
-Wenn jedoch der LT nur als Übergangslösung angewendet wird, bis eine sichere ETI möglich ist, ist das Outcome mit der ETI vergleichbar ({term}`🗎 Sulzgruber 2018`).
+SGA-Devices können in einem Setting, in dem die Anwender nicht erfahren genug sind, um {ref}`ETI <ETI>` sicher durchzuführen, durchaus sinnvoll sein ({term}`🗎 Suppan 2022`).
+Wenn jedoch der LT nur als Übergangslösung angewendet wird, bis eine sichere {ref}`ETI <ETI>` möglich ist, ist das Outcome mit der {ref}`ETI <ETI>` vergleichbar ({term}`🗎 Sulzgruber 2018`).
 :::
 
 ## Intubation mittels Larynxtubus

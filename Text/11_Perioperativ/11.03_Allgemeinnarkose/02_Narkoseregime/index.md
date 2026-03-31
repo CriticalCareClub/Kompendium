@@ -35,11 +35,11 @@ Diese kann aus verschiedenen Medikamentengruppen bestehen:
 -   {ref}`Narkoseeinleitung <Narkoseeinleitung>` (i.v.-Anästhetika)
     -   {ref}`Hypnotika <Hypnotika>`
     -   Analgetika
-    -   wenn nötig (und nur dann!) Muskelrelaxans
+    -   wenn nötig (und nur dann!) {ref}`Muskelrelaxans <Muskelrelaxantien>`
 -   *Aufrechterhaltung* der Anästhesie ({ref}`Inhalationsanästhetika <VIA>`, i.v.-Anästhetika)
     -   {ref}`Hypnotika <Hypnotika>`
     -   Analgetika
-    -   nur bei besonderer Indikation Muskelrelaxans; "Pressen" ist per se keine Indikation!
+    -   nur bei besonderer Indikation {ref}`Muskelrelaxans <Muskelrelaxantien>`; "Pressen" ist per se keine Indikation!
 
         :::{important}
         Ein Patient wird primär *narkotisiert*, **nicht** *relaxiert!*

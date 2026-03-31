@@ -8,7 +8,7 @@ status: final
 
 Extra- oder Supraglottische Devices zur Atemwegssicherung (**SGA**) zeichnen sich dadurch aus, dass sie **oberhalb der Stimmbandbene**, also *extra-* bzw. *supraglottisch*, zu liegen kommen.
 Sie werden oft als "alternativer Atemweg" bezeichnet, da sie oft eine Alternative zur endotrachealen Intubation (ETI) angesehen werden.
-Die ETI gilt an sich als Goldstandard der Atemwegssicherung, dennoch hat sie einige gewichtige Nachteile (hoher Trainings- und Routinebedarf, schwieriger Atemweg, Verletzungsgefahr, ...) und ist in vielen Situationen nicht die optimale Methode.
+Die {ref}`ETI <ETI>` gilt an sich als Goldstandard der Atemwegssicherung, dennoch hat sie einige gewichtige Nachteile (hoher Trainings- und Routinebedarf, schwieriger Atemweg, Verletzungsgefahr, ...) und ist in vielen Situationen nicht die optimale Methode.
 
 
 

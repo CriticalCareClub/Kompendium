@@ -36,7 +36,7 @@ Besondere Geräte
 
 Anästhesieverfahren, Airway
 
-: ETI, AGT-Tubus, abgeleitet
+: {ref}`ETI <ETI>`, AGT-Tubus, abgeleitet
   Richtung Anästhesie-Platz
 
 Blutmanagement

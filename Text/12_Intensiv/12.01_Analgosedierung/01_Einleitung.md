@@ -28,9 +28,11 @@ Beispiele für die Anwendungsbereiche sind:
 - Tubustoleranz bei endotrachealer Intubation
 - Notfalltherapie bei selbstgefährdenden Patienten
 
+
 :::{note}
-Analgosedierung sorgt durch **Stressreduktion** für einen **geringeren Sauerstoffbedarf** des Körpers.
+Analgosedierung sorgt durch **Stressreduktion** für einen **geringeren Sauerstoffbedarf** ({ref}`V̇O₂ <VO2>`) des Körpers.
 :::
+
 
 Die analgetische Komponente ist häufig ein *durchgängiger Therapiebestandteil* für den Patienten, z. B. in Form von oraler Schmerzmedikation, Schmerzpflaster etc.
 Im perioperativen bzw. intensivmedizinischen Setting kann diese Basiskomponente um weitere Maßnahmen ergänzt werden.

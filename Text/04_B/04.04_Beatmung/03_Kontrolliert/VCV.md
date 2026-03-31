@@ -19,13 +19,10 @@ status: final
 
 (VCV)=
 
-# Volumenkontrollierte Beatmung: `VCV`, `IPPV`
+# Volumenkontrollierte Beatmung: VCV, IPPV
 
-
-PPV
-: :dfn:`Intermittend Positive Pressure Ventilation`, Synonym für VCV
-
-
+Synonyme
+:   IPPV (Intermittend Positive Pressure Ventilation)
 
 
 VCV: Freiheitsgrad = Spitzen (Tubuswiderstand)-  und Plateaudruck (Alveolardruck), der Alveolardruck kann nur in den No-Flow-Phasen gemessen werden! Stenose (Tubusknick) erhöht Spitzendruck bei unverändertem Plateaudruck. Compliance-Verminderung (z.B. Kopftieflage)

@@ -13,12 +13,7 @@ status: sprint
 
 {dfn}`VC-SIMV` ist ein zyklischer, volumskontrollierter Modus, welcher Spontanamtung erlaubt. Vorgeschriebene Mindest-Atemhübe werden definiert.
 
-```{rubric} Synonyme
-```
-
-GE
-: SIMV-VC
-
-Hamilton
-: SIMV
+Synonyme
+:   GE: SIMV-VC;
+    Hamilton: SIMV.
 

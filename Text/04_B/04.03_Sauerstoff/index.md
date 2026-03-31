@@ -147,7 +147,7 @@ Sie sollen nicht in der Sonne oder im heißen Umfeld gelagert werden, da dadurch
 
 
 
-### Berechnung der Füllmenge einer Sauerstoff-Durckgasflasche
+### Berechnung der Füllmenge einer Sauerstoff-Druckgasflasche
 
 Da Sauerstoff auch unter dem üblichen Fülldruck einer Sauerstoff-Druckgasflasche in seiner gasförmigen Phase verbleibt, kann man, bei Kenntnis des Fülldrucks und der Flaschengröße, die Füllmenge einfach berechnen indem man die *Füllgröße* der Flasche mit dem *Flaschendruck* (in Bar)
 multipliziert:

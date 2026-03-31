@@ -11,15 +11,9 @@ status: final
 
 # PSV, ASB: Pressure Support Ventilation, Assisted Spontaneuous Breathing
 
-:::{rubric} Synonyme
-:::
-
-
-GE
-: Pressure Support Ventilation (CPAP/PSV)
-
-Hamilton
-: Spont.
+Synonyme
+:   GE: Pressure Support Ventilation (CPAP/PSV);
+    Hamilton: Spont.
 
 <!--
 :::{sidebar} PCV, ASB

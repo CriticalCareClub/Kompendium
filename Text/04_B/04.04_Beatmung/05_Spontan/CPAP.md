@@ -9,7 +9,7 @@ status: sprint
 ```{index} single: Continuous Positive Airway Pressure
 ```
 
-# **CPAP**: {dfn}`Continuous Positive Airway Pressure`
+# **CPAP**: Continuous Positive Airway Pressure
 
 ```{rubric} Synonyme
 ```

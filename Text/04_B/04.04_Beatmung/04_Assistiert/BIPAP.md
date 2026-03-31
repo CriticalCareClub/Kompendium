@@ -15,25 +15,10 @@ status: sprint
 ```{index} single: DuoPAP
 ```
 
-# BiLevel (`BiPAP`, `DuoPAP`, ...)
+# BiLevel (BiPAP, DuoPAP, ...)
 
 **BiLevel** ist ein PCV-Modus, welcher ein **alternierendes hohes und tiefes Druckniveau** vorgibt, wobei eine *Spontanatmung* in beiden Druckniveaus möglich ist, meist auch mit *Pressure Support*.
 
-```{rubric} Synonyme
-```
-
-```{eval-rst}
-
-:GE:
-
-    BiLevel
-
-:Hamilton: Duo Positive Airway Pressure (DuoPAP)
-
-.. rubric:: Wichtige Einstellungen
-```
-
-```{rubric} Wichtige Einstellungen
-```
-
-- PEEP, Paw, Tinsp,
+Synonyme
+:   GE: BiLevel;
+    Hamilton: Duo Positive Airway Pressure (DuoPAP)

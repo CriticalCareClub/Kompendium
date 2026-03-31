@@ -26,7 +26,7 @@ Bei der Atmung kann man ebenfalls zwischen zwei Arten unterscheiden:
 - Gasaustausch
 :::
 
-- **Innere Atmung** / \*\* Gewebeatmung\*\*:
+- **Innere Atmung** / * Gewebeatmung*:
   Verbrennungsvorgänge im Stoffwechsel
 
   In der Zelle werden unter Einsatz von Sauerstoff (O₂) energiereiche  Stoffe als Energiespeicher erzeugt, welche für lebenswichtige chemische  Prozesse innerhalb der Zelle die benötigte Energie zur Verfügung  stellen.

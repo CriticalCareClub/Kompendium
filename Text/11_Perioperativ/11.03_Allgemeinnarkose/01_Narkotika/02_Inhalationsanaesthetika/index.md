@@ -1,5 +1,5 @@
 ---
-status: sprint
+status: final
 ---
 
 
@@ -123,8 +123,6 @@ Hepatische Effekte
 
 
 
-## Gase
-
 
 
 :::{index} single: Lachgas
@@ -136,7 +134,7 @@ Hepatische Effekte
 
 (n2o)=
 
-### Stickoxydul (Lachgas, N₂O)
+## Stickoxydul (Lachgas, N₂O)
 
 Stickoxydul ist ein inhalatives Anästhetikum mit einem Blut-Gas-Verteilungskoeffizienten von etwa 0,47 und dadurch raschem An- und Abfluten.
 Es wirkt *analgetisch*, jedoch nur schwach anästhetisch und besitzt keine muskelrelaxierende Wirkung, weshalb es als Monosubstanz nicht ausreichend ist.
@@ -175,7 +173,7 @@ Kontraindikationen
 
 (halothan)=
 
-### Halothan
+## Halothan
 
 Halothan ist ein flüchtiges Anästhetikum mit einem Blut-Gas-Verteilungskoeffizienten von etwa 2,3.
 In Österreich ist es klinisch obsolet und wird vor allem noch für experimentelle Zwecke, insbesondere in der Diagnostik der malignen Hyperthermie, verwendet.
@@ -191,7 +189,7 @@ Halothan sensibilisiert das Myokard gegenüber Katecholaminen und kann dadurch *
 
 (isofluran)=
 
-### Isofluran
+## Isofluran
 
 (*Forene®*)
 
@@ -236,7 +234,7 @@ Kontraindikationen
 
 (desfluran)=
 
-### Desfluran
+## Desfluran
 
 (*Suprane®*)
 
@@ -269,7 +267,7 @@ Unerwünschte Wirkungen
 
 (sevofluran)=
 
-### Sevofluran
+## Sevofluran
 
 Sevofluran ist ein flüchtiges Anästhetikum mit *geringer Blutlöslichkeit* und dadurch guter Steuerbarkeit.
 Aufgrund des angenehmen Geruchs und der fehlenden Schleimhautreizung ist es gut für die Maskeneinleitung geeignet.
@@ -304,7 +302,7 @@ Kontraindikationen
 
 (xenon)=
 
-### Xenon
+## Xenon
 
 Xenon ist ein inertes Edelgas mit anästhetischen Eigenschaften.
 Es zeichnet sich durch eine sehr gute Steuerbarkeit und stabile Hämodynamik aus.

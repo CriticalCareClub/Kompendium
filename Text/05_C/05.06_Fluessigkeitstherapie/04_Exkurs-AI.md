@@ -203,17 +203,8 @@ ChatGPT 5
 
 ::::
 
-Der geneigte Leser möge seine Schlüsse ziehen, ob es eine gute Idee sei, eventuelle Ersatzleistungen von ChatGPT verfassen zu lassen.
+Der geneigte Leser möge seine Schlüsse ziehen, ob es eine gute Idee sei, Ausarbeitungen von ChatGPT verfassen zu lassen.
 
 
 
-
-
-
-
-<!--
-![ELO-MEL paediatric](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_155459.001341px.jpg)
-
-![ELO-MEL isoton](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Drugs/IMG_154553.001341px.jpg)
- -->
 

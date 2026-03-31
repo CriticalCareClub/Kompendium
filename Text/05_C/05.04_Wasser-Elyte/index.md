@@ -7,11 +7,6 @@ status: final
 
 # Wasser- & Elektrolyte
 
-:::{todo} {issue}`70` Wasser- & Elektrolythaushalt zusammenführen
-
--   Text/05_C/05.04_Wasser-Elyte/index.md
--   Text/05_C/05.06_Fluessigkeitstherapie/01_Physiologie.md
-:::
 
 :::{seealso}
 -   {ref}`Krankheitsbilder-Wasser-Saeure-Basenhaushalt` ({numref}`Krankheitsbilder-Wasser-Saeure-Basenhaushalt`)
@@ -34,22 +29,33 @@ status: final
     -   Zwischengewebsraum – Gefäßraum: Blutgefäßwand
 :::
 
+Das Gesamtkörperwasser ist abhängig von Alter, Geschlecht und Körperbau:
 
-Das Körperwasser macht ca. 60 % des Körpergewichtes aus und teilt sich auf:
+-   Neugeborene 70-80 %
+-   Männer 55 %, Frauen 45 %; Aufteilung:
+    -   Extrazellulärflüssigkeit 45 %, Intrazellulärflüssigkeit 55 % des Gesamtkörperwassers
 
-- *IntraZellularRaum* (IZR), 40 % KG
-- *ExtraZellularRaum* (EZR), 20 % KG
+>   "Je mehr Fett, desto weniger Wasser, je älter desto trockener."
 
-  - Zwischengewebsraum,
-    \~ 16 %: "freier" Raum zwischen den
-    Zellen im Gewebe
-  - Gefäßraum ~ 4 %: Raum in den Blutgefäßen
+
 
 Der Intrazellularraum (IZR) wird vom Extrazellularraum (EZR) durch die Zellmembran getrennt, der Zwischengewebsraum vom Gefäßraum durch die Blutgefäßwand.
 
 
+Extrazellulärflüssigkeit
+:   -   Plasmavolumen
+        -   Flüssigkeit innerhalb des Gefäßsystems, außerhalb der Blutzellen
+        -   5 % des Körpergewichts, 30—35 ml / kg KG
+    -   Interstitielle Flüssigkeit
+        -   Flüssigkeit außerhalb der Zellen und der Blutgefäße
+        -   15 % des Körpergewichts, 120-165 ml / kg KG
 
 
+Blutvolumen
+:   -   Gesamtblutvolumen ca 7,5 % des Körpergewichts (gilt für Erwachsene)
+        -   69 ml / kg KG Männer, 65 ml / kg KG Frauen
+        -   Gleichgewicht zwischen Interstitium und Plasmavolumen
+        -   Flüssigkeit im Gefäßsystem abhängig vom onkotischen (*kolloidosmotischen*) Druck durch Plasmaproteine
 
 (atome)=
 (ionen)=
@@ -66,11 +72,12 @@ Man unterscheidet dabei zwischen positiv geladenen Teilchen, sog. *Kationen* (z.
 [^fnelektrolyte]: Elektrolyte sind geladene Teilchen, die bei Aufspaltung von Säuren, Laugen oder deren Salzen in wässriger Lösung entstehen.
 
 Diese Ionen sind unterschiedlich verteilt:
-Im IZR ist die Kalium-Konzentration hoch, dagegen gibt es wenig Natrium;
-Im EZR ist es umgekehrt:
-Es gibt viel Natrium und wenig Kalium.
+**Natrium** ist das Hauptkation des Extrazellulärraums, *Kalium* und *Magnesium* des Intrazellulärraums.
 Spezielle Transportsysteme sorgen dafür, dass diese Ionen derartig verteilt werden.
 Durch die unterschiedliche Verteilung von unterschiedlich geladenen Elektrolyten im Intra- und Extrazellulärraum kann es zur Bildung einer *elektrischen Spannung* zwischen dem Zellinneren und der Umgebung kommen.
+
+
+
 
 :::{admonition} Synopsis
 -   Im Wasser gelöste, elektrisch geladene Teilchen, wie z. B. Natrium, Kalium und Chlorid, heißen **Elektrolyte**.
@@ -130,12 +137,37 @@ Man kann auch sagen:
 
 > *"Das Wasser folgt dem Konzentrationsgefälle."*
 
-Die **Osmolarität**` bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit.
-Ähnlich dazu bezeichnet die **Osmolalität** die Konzentration osmotisch wirksamer Teilchen in einer Lösung bezogen auf die *Masse* des Lösungsmittels.
+Die **Osmolarität**` bezeichnet Konzentration aller osmotisch wirksamen Teilchen pro Volumseinheit, sie gibt also das Verhältnis des Wassers zu den darin gelösten Teilchen an, d. h. sie ist ein Maß für die Anzahl von Teilchen in einem Lösungsmittel *pro Volumenseinheit* (Liter).
+An der Osmolarität entscheidet sich, ob eine Infusionslösung *iso-*, *hypo-* oder *hyperton* ist.
+Sie beträgt im Blut *290—300 mosmol / L*.
+Die **Osmolalität** (mit "l") ist keine betrunkene Osmolarität, sondern gibtdie Konzentration osmotisch wirksamer Teilchen in einer Lösung *pro Masseeinheit* (kg) H₂O an.
+Das osmotisches Gleichgewicht ist durch Na- und K-Ionen konstant.
 
-Neben dem osmotischen Druck gibt es den *onkotischen* oder *kolloidosmotischen* Druck, welcher durch große Mokeküle, v. a. Eiweißbestandteile, ausgeübt wird.
+Der **kolloidosmotische Druck** (onkotischer Durck) wird durch große Mokeküle (*Makromoleküle*) hervorgerufen, welche die Kapillarwand nicht passieren können.
+Somit agiert die Kapillarwand als semipermeable Membran, welche die Makromoleküle nicht passieren können, Wasser und darin gelöste Elektrolyte jedoch schon.
+Der kolloidosmotische Druck beträgt im Plasma 25—28 mm Hg, hauptverantwortlich ist das körpereigene Eiweiß *Albumin*.
 Dieser wird bei speziellen "kolloidalen" Infusionslösungen ausgenützt, bei welchen die Moleküle aufgrund Ihrer Größe und Ladung die Blutgefäße *normalerweise* nicht verlassen können und folglich Wasser vom Zwischengewebsraum in den Blutgefäßraum "ziehen".
-Ein verbreiteter Wirkstoff ist die Hydroxyethylstärke (HAES) oder Gelatine.
+Typische Kolloide sind z.B. das körpereigene Albumin, oder synthetische Kolloide wie die *Hydroxyethylstärke* (*HAES*) oder *Gelatine*.
+
+
+
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Semipermeable_membrane.\*
+:width: 60%
+
+Gefäßraum und Zwischengewebsraum, getrennt durch die Blutgefäßwand. Während kleine Moleküle (Elektrolyte wie Natrium, Kalium etc.), und mit ihnen das Wasser, in dem sie gelöst sind, weitgehend frei durch die Blutgefäßwand diffundieren können, werden Makromoleküle (z.B. Albumin) zurückgehalten und üben einen kolloidosmotischen Druck aus, welches Wasser in das Gefäß zieht.
+\[© WMC/pidalka44, ℓ Public domain\]
+:::
+
+  ,
+
+
+
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Osmotische_druk.png
+
+Osmose und Diffusion: Osmotisch wirksame Teilchen bauen einen Druck (Sog) auf, welcher Wasser durch eine semipermeable Membran anzieht.
+
+\[© WMC (Sander van der Molen), ℓ Public domain\]
+:::
 
 
 :::{subfigure} AB
@@ -177,18 +209,24 @@ Zu solchen Verteilungsstörungen kann es z. B. nach einer Blutwäsche (Dialyse
 
 ## Ausscheidung und Flüssigkeitsverlust
 
-::::{only} not nosidebar
 
-:::{margin} Flüssigkeitsverlust
-- *Ausscheidung*: Nieren
 
-- *Flüssigkeitsverlust*: Z. B.:
+<!-- - Regulation durch Antidiruretisches Hormon ADH
+- Aldosteron – Hypovolämie, Verlust extrazellulärer Flüssigkeit
+- Osmorezeptoren, Volumsrezeptoren, Barorezeptoren
+- Flüssigkeitsbedarf von 25—40 mL / kg KG -->
 
-  - Stuhl
-  - Haut, Schweiß
-  - Atmung!
-:::
-::::
+Die Regulation des Wasserhaushalts erfolgt durch ein fein abgestimmtes Zusammenspiel verschiedener Hormone und Rezeptoren.
+Eine zentrale Rolle spielt das **antidiuretische Hormon** (**ADH**), das in den Nieren die Rückresorption von Wasser fördert und damit die Osmolarität des Plasmas konstant hält.
+Bei Verminderung des ADH kann es zu einer Polyurie mit Serum-Natriumanstieg kommen (Diabetes insipidus).
+Einen Diabetes insipidus centralis (Diabetes insipidus neurohormonalis) kann man häufig intraoperativ bei neurochirurgischen Eingriffen beobachten.
+Auch **Aldosteron** trägt wesentlich zur Steuerung bei, insbesondere bei **Hypovolämie** und beim Verlust extrazellulärer Flüssigkeit.
+Es bewirkt die Rückresorption von Natrium in den Nierentubuli und führt damit indirekt auch zur Rückresorption von Wasser.
+
+Die Steuerung dieser Mechanismen erfolgt über **Osmorezeptoren**, die Veränderungen der Plasmaosmolarität registrieren, sowie über **Volumen- und Barorezeptoren**, die Druck- und Füllungsänderungen im Gefäßsystem wahrnehmen.
+So wird gewährleistet, dass der Körper auf Schwankungen sowohl im Wasser- als auch im Elektrolythaushalt reagieren kann.
+Für eine ausgeglichene Flüssigkeitsbilanz benötigt der Mensch im Durchschnitt **25–40 mL Flüssigkeit pro Kilogramm Körpergewicht und Tag**, wobei der Bedarf je nach Alter, Aktivität und klinischem Zustand variieren kann.
+
 
 Der Körper kann Flüssigkeit (und auch Elektrolyte) entweder durch (gesteuerte) Ausscheidung (Volumenregulation) oder durch Flüssigkeitsverlust verlieren:
 

@@ -386,6 +386,13 @@ In umgekehrter Richtung verschliessen die Membranen jedoch das Lumen.
 Heimlich-Ventil \[© [Orinoco-w](https://commons.wikimedia.org/wiki/User:Orinoco-w) {term}`ℓ CC BY-SA 3.0`\]
 :::
 
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_002947.001341px.jpg
+
+Patient mit einem traumatischen Pneumothorax unter Reanimation, Bülau-Drainage mit Heimlich-Ventil in Monaldi-Position
+
+ \[© GaSe, ℓ MfG\]
+:::
+
 Eine praktikablere Form stellt das **Wasserschloss** dar:
 Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des Patienten positioniert wird.
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.

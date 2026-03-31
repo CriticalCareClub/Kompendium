@@ -34,10 +34,21 @@ status: final
 (AATW-KP-Evaluation)=
 (Thyromentaler-Abstand)=
 
-# Risikobewertung
+# Evaluation des Atemwegs: Risikobewertung
 
 Wenn die Notwendigkeit einer Atemwegssicherung *planbar* ist, z. B. im Rahmen eines elektiven Eingriffs, ist die **Risikoeinschätzung** des Atemweges und die Ableitung einer entsprechenden **Strategie** *im Vorfeld* unbedingt und *immer* notwendig!
 Auch im Notfalls-Setting ist eine Atemwegs-Einschätzung hilfreich, um die weiteren Schritte planen und dem Team kommunizieren zu können.
+
+
+:::{admonition} Kurzfassung
+-   {ref}`Mallampati-Klassifikation <mallampati-score>`
+-   {ref}`Thyromentaler Abstand <Thyromentaler-Abstand)>` in max. Flexionshaltung, Schildknorpeloberkante–Vorderkante UK:
+    -   Cave: *Abstand unter 6,5cm* (= 3 Querfinger)
+    -   \< 7 cm schwierige, \< 6 cm sehr schwierige Intubation
+-   Mundöffnung < 3,5cm
+-   Unterkiefer Retrognathie (UK hinter OK), prominente Vorderzähne
+-   HWS-Beweglichkeit unter 80°
+:::
 
 :::{attention}
 *"No plan, no airway."*

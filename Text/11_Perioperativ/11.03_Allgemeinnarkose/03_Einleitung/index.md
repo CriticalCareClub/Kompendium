@@ -44,15 +44,17 @@ Besondere Aufmerksamkeit erfordern außerdem PatientInnen mit erwartet *schwieri
 
 ## Narkoseeinleitung beim nüchternen Patienten
 
+Eine Narkoseeinleitung beim nüchternen Patienten folgt im Prinzip miest folgendem Schema:
+
 -   **Präoxygenierung** bis *etO₂ ≥ 90 %*
 -   **Narkoseeinleitung** (i.v.-Anästhetika)
-    -   Hypnotika:
-        z. B. {ref}`Propofol <Propofol>` (Cave: Dosis stark von Alter und Patinetenzustand abhängig, große Variabilität!);
+    -   {ref}`Hypnotika <Hypnotika>:
+        z. B. {ref}`Propofol <Propofol>` (Cave: Dosis stark von Alter und Patientenzustand abhängig, große Variabilität!);
         alternativ {ref}`Midazolam`, {ref}`Thiopental`
-    -   Analgetika
-        z. B. {ref}`Fentanyl`;
-        alterantiv {ref}`Ketanest`
-    -   wenn nötig (und nur dann!) Muskelrelaxans:
+    -   Analgetika:
+        Oft {ref}`Opiate <Opiate>`, z. B. {ref}`Fentanyl`;
+        alternativ {ref}`Ketanest`
+    -   wenn nötig (und nur dann!) {ref}`Muskelrelaxans <Muskelrelaxantien>`:
         z. B. {ref}`Rocuronium`
 
 

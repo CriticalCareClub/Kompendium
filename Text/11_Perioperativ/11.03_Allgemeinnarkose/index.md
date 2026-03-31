@@ -23,21 +23,21 @@ status: final
 
 
 :::{seealso}
-- {ref}`Airway-Techniken`
-- {ref}`Pharma-Anaesthesie`
-- {ref}`Hypnotika`
-  - {ref}`Propofol`
-  - {ref}`Midazolam`
-  - {ref}`Esketamin`
-  - {ref}`VIA`
-- {ref}`Opiate`
-  - {ref}`Fentanyl`
-  - {ref}`Remifentanil`
-- {ref}`Muskelrelaxantien`
-  - {ref}`Rocuronium`
-  - {ref}`Succinylcholin`
-- Wikungsweise der Hypnotika: {ref}`Hypnotika`
-- Kremser Anästhesieskriptum: {ref}`kras:Allgemeinanaesthesie`
+-   {ref}`Airway-Techniken`
+-   {ref}`Pharma-Anaesthesie`
+-   {ref}`Hypnotika`
+    -   {ref}`Propofol`
+    -   {ref}`Midazolam`
+    -   {ref}`Esketamin`
+    -   {ref}`VIA`
+-   {ref}`Opiate`
+    -   {ref}`Fentanyl`
+    -   {ref}`Remifentanil`
+-   {ref}`Muskelrelaxantien`
+    -   {ref}`Rocuronium`
+    -   {ref}`Succinylcholin`
+-   Wikungsweise der Hypnotika: {ref}`Hypnotika`
+-   Kremser Anästhesieskriptum: {ref}`kras:Allgemeinanaesthesie`
 :::
 
 

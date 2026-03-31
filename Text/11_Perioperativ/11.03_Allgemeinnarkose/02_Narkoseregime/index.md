@@ -31,7 +31,7 @@ Heutzutage wird meist eine **Kombinationsnarkose** angewandt.
 Diese kann aus verschiedenen Medikamentengruppen bestehen:
 
 -   *Prämedikation* (Sedierung, vegetative Dämpfung)
--   {ref}`Präoxygenierung <Präoxygenierung>`** bis *etO₂ ≥ 90 %*
+-   {ref}`Präoxygenierung <Präoxygenierung>` bis *etO₂ ≥ 90 %*
 -   {ref}`Narkoseeinleitung <Narkoseeinleitung>` (i.v.-Anästhetika)
     -   {ref}`Hypnotika <Hypnotika>`
     -   Analgetika

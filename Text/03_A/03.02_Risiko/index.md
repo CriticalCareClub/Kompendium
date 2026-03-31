@@ -7,10 +7,6 @@ status: final
 :::
 
 
-:::{raw} latex
-\clearpage
-:::
-
 :::{index} single: Risiko; Atemweg
 :::
 :::{index} single: HWS-Reklination
@@ -50,6 +46,7 @@ Auch im Notfalls-Setting ist eine Atemwegs-Einschätzung hilfreich, um die weite
 -   HWS-Beweglichkeit unter 80°
 :::
 
+
 :::{attention}
 *"No plan, no airway."*
 :::
@@ -76,9 +73,11 @@ Faktoren, die das Risikos eines Atemweges bestimmen, sind:
 
 Um dem grundlegenden Bedürfnis, alles in Zahlen auszudrücken, Rechnung zu tragen, gibt es eine Vielzahl von Scoring-Systemen, es seien zwei der am häufigst verwendeten erwähnt.
 
+
 :::{warning}
 Die Scores sind maximal eine Hilfestellung, die **klinische Einschätzung** einer im Atemwegsmanagement erfahrenen Person overruled jeden Score!
 :::
+
 
 :::{subfigure} AB
 :subcaptions: below
@@ -93,8 +92,11 @@ Klinische Einschätzung des Atemwegsrisikos von Außen
 ![Mallampati-Score \[© [Jmarchn](https://commons.wikimedia.org/wiki/User:Jmarchn)  ℓ CC BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Mallampati.\*)
 :::
 
+
 :::{todo} {issue}`7` Photo: Thyreomentaler Abstand media/image22.jpeg
 :::
+
+
 
 
 
@@ -112,6 +114,7 @@ Der Mallampati-Score basiert auf der Visualisierung der Anatomie der oberen Atem
 Er basiert auf der Beurteilung der Mundöffnung des Patienten, der Zungengröße, der Tonsillengröße und der Position des Zäpfchens, vgl. Abb. {ref}`Fig-BS-Atemweg-Klinische-Einschaetzung`.
 Eine Punktzahl von 1 steht für die einfachste Intubation, 3 oder 4 Punkte weisen darauf hin, dass die Intubation schwierig sein kann.
 
+
 :::{list-table} Mallampati-Klassifikation
 :name: Mallampati-Klassifikation
 :header-rows: 1
@@ -128,6 +131,8 @@ Eine Punktzahl von 1 steht für die einfachste Intubation, 3 oder 4 Punkte weise
 -   -   IV
     -   nur harter Gaumen
 :::
+
+
 
 
 
@@ -153,6 +158,8 @@ Bewertet werden mit 0—2 Punkten:
 Bestenfalls beträgt die Summe der vergebenen Punkte 0, im schlechtesten Fall 10.
 Ab 2 oder mehr Punkten ist mit einer schwierigen Intubation zu rechnen.
 Der Wilson-Score ermöglicht je nach gewähltem Schwellenwert die Erkennung von beispielsweise 75 % der "schwierigen" Laryngoskopie auf Kosten der falschen Identifizierung von 12 % der "nicht schwierigen" Patienten ({term}`🗎 Wilson 1988`).
+
+
 
 
 

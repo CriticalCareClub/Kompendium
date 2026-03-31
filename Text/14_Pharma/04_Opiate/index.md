@@ -9,7 +9,9 @@ status: sprint
 Neben ihrer stark analgetischer Wirkung trüben Opioide auch das Bewusstsein.
 Diese Wirkung ist aber nicht sicher gegeben, daher müssen sie unbedingt mit i.v.-Anästhetika kombiniert werden.
 
-:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/IMG_132141.001341px.\*
+:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/IMG_132141.000800px.jpg
+:width: 50%
+
 Miosis
 :::
 
@@ -173,12 +175,12 @@ Wichtig ist zu beachten, dass es bei steigender Dosierung dieser Medikamente zu 
 ```{list-table}
 :header-rows: 1
 
-* - **Wirkstoff**
-  - **Handelsname**
-* - **Nalbuphin**
-  - **Nubain®**
-* - **Pentazocin**
-  - **Fortral®**
+* - Wirkstoff
+  - Handelsname
+* - Nalbuphin
+  - Nubain®
+* - Pentazocin
+  - Fortral®
 ```
 
 

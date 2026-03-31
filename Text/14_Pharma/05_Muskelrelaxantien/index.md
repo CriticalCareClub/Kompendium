@@ -35,17 +35,32 @@ Die typische Reihenfolge der Relaxierung ist folgende:
 - Extremitäten-, Stamm- und Nackenmuskulatur
 - Interkostalmuskulatur, Zwerchfell
 
-```{eval-rst}
-=========================== =========================
-Alcuronium\*                Alloferin®
-Atracurium\*                Tracrium®
-**Mivacurium**\ :sup:`●`    Mivacron®
-**Pancuronium**\ :sup:`■`   Pancuronium®
-Rocuronium\*                Esmeron®
-**Suxamethonium**\ :sup:`` **Succinyl®, Lysthenon®**
-Vecuronium\*                **Norcuron®**
-=========================== =========================
-```
+
+:::{list-table} Muskelrelaxantien
+
+*   -   Alcuronium
+    -   Alloferin®
+    -   kurzwirkend
+*   -   Atracurium
+    -   Tracrium®
+    -   kurzwirkend
+*   -   **Mivacurium**
+    -   Mivacron®
+    -   langwirkend
+*   -   **Pancuronium**
+    -   Pancuronium®
+    -   mittellang wirkend
+*   -   Rocuronium
+    -   Esmeron®
+    -
+*   -   **Suxamethonium**, Succinylcholin
+    -   **Succinyl®, Lysthenon®**
+    -   ultrakurzwirkend
+*   -   Vecuronium
+    -   Norcuron®
+    -   kurzwirkend
+:::
+
 
 {sup}`` ultrakurzwirkend,\* kurzwirkend, {sup}`■`mittellang wirkend,
 {sup}`●`langwirkend

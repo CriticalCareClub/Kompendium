@@ -170,7 +170,7 @@ Zusätzlich zum Totraum, der durch die anatomischen Strukturen vorgegeben ist, g
 
 Bilderserie: Breathing
 
-![Annäherung an den Patienten \[© Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.*)
+![Annäherung an den Patienten \[© Michael Motal, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.000800px.jpg)
 
 ![Die Rippen folgen der Atembewegung \[© :term:`HiLe`, {term}`ℓ MfG`\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
 

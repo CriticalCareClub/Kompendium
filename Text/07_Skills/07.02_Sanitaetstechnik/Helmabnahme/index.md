@@ -62,23 +62,23 @@ Ein Patient mit aufgesetztem Sturzhelm stellt eine besondere Herausforderung dar
 
 Bilderserie: Helmabnahme und Anlage einer HWS-Schiene [© Michael Motal, {term}`ℓ MfG`]
 
-![Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.jpg)
+![Während des Annäherns den Patient auffordern, den Kopf nicht zu bewegen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm1.000800px.jpg)
 
-![Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm2.jpg)
+![Den Kopf sofort mit den Händen fixieren, Visier öffnen und Patienten ansprechen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm2.000800px.jpg)
 
-![Ggfs. Patient synchron und schonend auf den Rücken drehen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm3.jpg)
+![Ggfs. Patient synchron und schonend auf den Rücken drehen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm3.000800px.jpg)
 
-![Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm4.jpg)
+![Ggfs. Brille entfernen, Kinnriemen öffnen und behindernde Kleidung entfernen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm4.000800px.jpg)
 
-![Halswirbelsäule stabilisieren.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm5.jpg)
+![Halswirbelsäule stabilisieren.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm5.000800px.jpg)
 
-![Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm6.jpg)
+![Helm kippen bis von oben die Nasenspitze sichtbar ist, danach vorsichtig nach hinten wegziehen](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm6.000800px.jpg)
 
-![Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm7.jpg)
+![Nach dem Abziehen Stabilisierung des Kopfes übernehmen. Keinen Zug und keine Stauchung ausüben!](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm7.000800px.jpg)
 
-![Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm8.jpg)
+![Nach der Helmabnahme erfolgt sofort das Anlegen einer HWS-Schiene. Der Kopf bleibt in Neutralposition zug- und stauchungsfrei fixiert. Die passende Größe der HWS-Schiene wird bestimmt und eingestellt.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/helm8.000800px.jpg)
 
-![HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/hwsschiene3.jpg)
+![HWS-Schiene zuerst unter dem Patienten durchführen, danach am Kinn anlegen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/hwsschiene3.000800px.jpg)
 :::
 
 

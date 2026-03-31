@@ -116,13 +116,13 @@ es besteht Verletzungungsgefahr.
 
 Bilderserie: Medikamentengabe [© Michael Motal, {term}`ℓ MfG`]
 
-![Kontrolle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrolle_4807-00800.jpg)
+![Kontrolle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrolle_4807-00800.000800px.jpg)
 
-![Aufziehen mit Kanüle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-aufziehen_4815-00800.jpg)
+![Aufziehen mit Kanüle](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-aufziehen_4815-00800.000800px.jpg)
 
-![Übergabe](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrollieren_4824-00800.jpg)
+![Übergabe](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-kontrollieren_4824-00800.000800px.jpg)
 
-![Verabreichung über Venflon durch befugtes Personal](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-verabreichen_4826_CLOSEUP-00800.jpg)
+![Verabreichung über Venflon durch befugtes Personal](../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/medi-verabreichen_4826_CLOSEUP-00800.000800px.jpg)
 :::
 
 

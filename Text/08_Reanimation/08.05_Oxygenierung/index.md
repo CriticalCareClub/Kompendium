@@ -142,7 +142,7 @@ Grundsätzlich gibt es präklinisch drei Möglichkeiten, die korrekte Lage des T
 2. Auskultation von Magen und Lungenflügel
 3. Messung der CO₂-Abatmung mittels {term}`Kapnographie`
 
-:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837.000800px.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Motal-Michael/Intubation/dsc-4837.000800px.jpg
 :align: right
 
 Endotracheale Intubation

@@ -147,20 +147,20 @@ durchgeführt.
 
 Bilderserie: *Neurocheck*
 
-![Ungleiche Pupillen (Anisokorie) \[© Sebastian Gabriel, {term}`ℓ MfG`\]](../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/pupillendifferenz.jpg)
+![Ungleiche Pupillen (Anisokorie) \[© Sebastian Gabriel, {term}`ℓ MfG`\]](../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Misc/pupillendifferenz.000800px.jpg)
 
-![Enge Pupille \[© Sebastian Gabriel, {term}`ℓ MfG`\]](../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/IMG_132141.001341px.jpg)
+![Enge Pupille \[© Sebastian Gabriel, {term}`ℓ MfG`\]](../../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Anaesthesia/IMG_132141.000800px.jpg)
 
-![Pupillenreaktion, Lichtscheue, Sehstörungen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro1.jpg)
+![Pupillenreaktion, Lichtscheue, Sehstörungen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro1.000800px.jpg)
 
-![Kraftprobe an den Armen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro2.jpg)
+![Kraftprobe an den Armen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro2.000800px.jpg)
 
-![Kraftprobe an den Beinen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro3b.jpg)
+![Kraftprobe an den Beinen](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro3b.000800px.jpg)
 
-![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro4.jpg)
+![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro4.000800px.jpg)
 
-![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro5.jpg)
+![Nackensteifigkeit](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro5.000800px.jpg)
 
-![Blutzuckermessung](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.jpg)
+![Blutzuckermessung](../../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/neuro6.000800px.jpg)
 :::
 

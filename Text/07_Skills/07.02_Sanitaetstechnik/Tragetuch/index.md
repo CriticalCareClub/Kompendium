@@ -26,22 +26,22 @@ Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient wird im
 
 Bilderserie: Transport mit dem Tragetuch [© Michael Motal, {term}`ℓ MfG`]
 
-![Tuch aufbreiten](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch1b.jpg)
+![Tuch aufbreiten](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch1b.000800px.jpg)
 
-![… die näher zum Patient liegende Hälfte umschlagen…](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch2b.jpg)
+![… die näher zum Patient liegende Hälfte umschlagen…](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch2b.000800px.jpg)
 
-![… die obere Hälfte nochmals Richtung Patient umschlagen…](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch3b.jpg)
+![… die obere Hälfte nochmals Richtung Patient umschlagen…](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch3b.000800px.jpg)
 
-![… und das Tuch an den Patienten legen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch4b.jpg)
+![… und das Tuch an den Patienten legen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch4b.000800px.jpg)
 
-![Patient leicht anheben und Tuch bis zur Hälfte unterschieben …](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch5b.jpg)
+![Patient leicht anheben und Tuch bis zur Hälfte unterschieben …](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch5b.000800px.jpg)
 
-![… Patient schonend zurück legen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch6b.jpg)
+![… Patient schonend zurück legen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch6b.000800px.jpg)
 
-![Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch7b.jpg)
+![Von der anderen Seite ebenfalls leicht anheben und Tuch ausbreiten.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch7b.000800px.jpg)
 
-![Zu dritt das Tuch fest anpacken …](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch8b.jpg)
+![Zu dritt das Tuch fest anpacken …](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch8b.000800px.jpg)
 
-![…und auf Kommando gemeinsam anheben](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch9b.jpg)
+![…und auf Kommando gemeinsam anheben](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch9b.000800px.jpg)
 :::
 

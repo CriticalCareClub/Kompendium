@@ -27,22 +27,22 @@ Siehe Bilderserie {ref}`Figure-lagerungsarten`[^footnote-1].
 
 Bilderserie: Lagerungsarten [© Michael Motal, {term}`ℓ MfG`]
 
-![Flachlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungflachb.jpg)
+![Flachlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungflachb.000800px.jpg)
 
-![Lagerung mit 30° erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerung30gradb.jpg)
+![Lagerung mit 30° erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerung30gradb.000800px.jpg)
 
-![Lagerung mit stark erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungoberkoerperhochb.jpg)
+![Lagerung mit stark erhöhtem Oberkörper](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungoberkoerperhochb.000800px.jpg)
 
-![Seitenlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungseiteb.jpg)
+![Seitenlagerung](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungseiteb.000800px.jpg)
 
-![Lagerung mit erhöhten Beinen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps2b.jpg)
+![Lagerung mit erhöhten Beinen.](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps2b.000800px.jpg)
 
-![Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps1b.jpg)
+![Lagerung mit erhöhten Beinen unter Schonung der Wirbelsäule und des Beckens (bei Verdacht auf Wirbelsäulen- oder Beckenverletzungen)](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungkollaps1b.000800px.jpg)
 
-![Lagerung zur Entspannung der Bauchdecke](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungabdomenb.jpg)
+![Lagerung zur Entspannung der Bauchdecke](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungabdomenb.000800px.jpg)
 
-![Lagerung mit erhöhter Extremität](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungthromboseb.jpg)
+![Lagerung mit erhöhter Extremität](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungthromboseb.000800px.jpg)
 
-![Lagerung mit herabhängender Gliedmaße](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungembolieb.jpg)
+![Lagerung mit herabhängender Gliedmaße](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungembolieb.000800px.jpg)
 :::
 

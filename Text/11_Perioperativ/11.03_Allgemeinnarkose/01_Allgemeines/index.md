@@ -22,10 +22,10 @@ Dies wird erreicht durch eine strukturierte Zufuhr
 
 - eines **Hypnotikums** zur reversiblen Beeinflussung von Erregungsbildung und -überleitung im ZNS
 - eines **Analgetikums**
-- eines **Amnesie** schaffenden Medikamentes
+- ggfs. eines **Amnesie** schaffenden Medikamentes
 - eventuell eines **Relaxans**
 
-Weniger absolut, aber vergleichbar, ist dabei auch die {ref}`Analgosedierung <Analgosedierung>`, bei der der Patient im Idealfall zwar leicht erweckbar ist, jedoch dennoch immer damit zu rechnen ist, dass die Schutzreflexe beeinträchtigt sind.
+Weniger absolut, aber vergleichbar, ist dabei auch die {ref}`Analgosedierung <analgosedierung-OP>`, bei der der Patient im Idealfall zwar leicht erweckbar ist, jedoch dennoch immer damit zu rechnen ist, dass die Schutzreflexe beeinträchtigt sind.
 
 
 :::{rubric} Narkose und Airway

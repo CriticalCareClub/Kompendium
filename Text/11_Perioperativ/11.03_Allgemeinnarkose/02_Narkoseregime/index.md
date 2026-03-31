@@ -30,14 +30,14 @@ status: final
 Heutzutage wird meist eine **Kombinationsnarkose** angewandt.
 Diese kann aus verschiedenen Medikamentengruppen bestehen:
 
--   **Prämedikation** (Sedierung, vegetative Dämpfung)
--   **Präoxygenierung** bis *etO₂ ≥ 90 %*
--   **Narkoseeinleitung** (i.v.-Anästhetika)
-    -   Hypnotika
+-   *Prämedikation* (Sedierung, vegetative Dämpfung)
+-   {ref}`Präoxygenierung <Präoxygenierung>`** bis *etO₂ ≥ 90 %*
+-   {ref}`Narkoseeinleitung <Narkoseeinleitung>` (i.v.-Anästhetika)
+    -   {ref}`Hypnotika <Hypnotika>`
     -   Analgetika
     -   wenn nötig (und nur dann!) Muskelrelaxans
--   **Aufrechterhaltung** der Anästhesie (Inhalationsanästhetika, i.v.-Anästhetika)
-    -   Hypnotika
+-   *Aufrechterhaltung* der Anästhesie ({ref}`Inhalationsanästhetika <VIA>`, i.v.-Anästhetika)
+    -   {ref}`Hypnotika <Hypnotika>`
     -   Analgetika
     -   nur bei besonderer Indikation Muskelrelaxans; "Pressen" ist per se keine Indikation!
 
@@ -108,7 +108,7 @@ Zunächst ist es wichtig, die Grundprinzipien der möglichen Regime abzugrenzen,
 
 Die Steuerbarkeit der Narkose sowie die Pharmakokinetik der eingesetzten Substanzen beeinflussen das intraoperative Management wesentlich.
 
-Die **Gasnarkose** mit modernen Gasen hat eine mittelmäßige Steuerbarkeit, welche jedoch bei einer notwendigen Kombination mit Opiaten wie Fentanyl oder Musekelrelaxatien (ev. additiver Effekt) negativ beeinflusst werden kann.
+Die **Gasnarkose** mit modernen {ref}`Narkosegasen <VIA>` hat eine mittelmäßige Steuerbarkeit, welche jedoch bei einer notwendigen Kombination mit Opiaten wie Fentanyl oder Musekelrelaxatien (ev. additiver Effekt) negativ beeinflusst werden kann.
 Problematisch ist hierbei die sonst vorteilhefte *Multimodalität* von manchen Narkosegasen, welche zugleich *hypnotisch*, *analgetisch* als auch in gewissem Maß *muskelrelaxierend* wirken.
 Somit ist die gezielte Steuerung der einzelnen Teilaspekte der Narkose mit einem Narkosegas alleine oft nicht zufriedenstellend möglich.
 Positiv zu nennen ist die *pulmonale Elimination*, welche etwaige Organinsuffizienzen elegant umschifft.
@@ -143,40 +143,41 @@ Die Wahl hängt von der Art des Eingriffs, dem Patienten und auch technischen Vo
     -   Nachteile
 *   -   **Gasnarkose**
     -   Oft adäquate Steuerbarkeit, bronchospasmolytisch, geringere Awareness-Gefahr
-    -   PONV, Umweltbelastung, MH-Risiko, Uterus-Relaxierung (substanzabhängig), Relaxierung der Schlund-Muskulatur (substanzabhängig)
-*   -   **TIVA**
-    -   Weniger PONV, weniger Pressen beim Ausleiten, Tubustoleranz beim spontan atmenden kooperativen Patienten eher möglich, konstantere Narkoseführung möglich (Neuromonitoring), kein MH-Trigger, EEG-Awareness-Monitoring-tauglich
-    -   Materialbedarf, höhere Awareness-Gefahr, Gefahr der postoperativen Hyperalgesie bei alleiniger Verwendung von kurzwirksamen Opiaten, mögliche Kumulation
-*   -   **Balancierte Anästhesie**
-    -   Flexibel, gute Kombination aus Hypnose & Analgesie, Awareness-Prophylaxe
-    -   PONV, MH-Trigger
-:::
 
-
-:::{list-table} Narkoseregime: Indikationen und Kontraindikationen
-:header-rows: 1
-:widths: 10 45 45
-
-*   -   Methode
-    -   Typische Indikationen
-    -   Wichtige Kontraindikationen
-*   -   **Gasnarkose**
-    -   Bronchospasmus-Neigung,
+        Indikationen: Bronchospasmus-Neigung,
         Routineeingriffe,
         inhalative Einleitung bei Kindern,
         kurze bis mittellange Eingriffe
-    -   Maligne Hyperthermie, erhöhter ICP, PONV-Risiko, Laser-OPs, substanzabhängig: Eingriffe, bei denen eine Uterus-Relaxation nachteilig ist (Curretagen, postpartale Blutung, ...), {ref}`OSAS <OSAS>`, neuromuskuläre Erkrankungen
+    -   PONV, Umweltbelastung, MH-Risiko, Uterus-Relaxierung (substanzabhängig), Relaxierung der Schlund-Muskulatur (substanzabhängig)
+
+        Kontraindikationen:
+        Maligne Hyperthermie, erhöhter ICP, PONV-Risiko, Laser-OPs, substanzabhängig: Eingriffe, bei denen eine Uterus-Relaxation nachteilig ist (Curretagen, postpartale Blutung, ...), {ref}`OSAS <OSAS>`, neuromuskuläre Erkrankungen
 *   -   **TIVA**
-    -   PONV,
+    -   Weniger PONV, weniger Pressen beim Ausleiten, Tubustoleranz beim spontan atmenden kooperativen Patienten eher möglich, konstantere Narkoseführung möglich (Neuromonitoring), kein MH-Trigger, EEG-Awareness-Monitoring-tauglich
+
+        Indikationen:
+        PONV,
         EEG-Monitoring (Neuro),
         Laser-Eingriffe im Mund-Rachen-Bereich,
         Langzeiteingriffe,
         Maligne Hyperthermie,
-    -   Organinsuffizienz bei kumulierenden Substanzen
+    -   Materialbedarf, höhere Awareness-Gefahr, Gefahr der postoperativen Hyperalgesie bei alleiniger Verwendung von kurzwirksamen Opiaten, mögliche Kumulation
+
+        Kontraindikationen:
+        Organinsuffizienz bei kumulierenden Substanzen
 *   -   **Balancierte Anästhesie**
-    -   Standard bei vielen Eingriffen, gute Steuerbarkeit und Analgesie
-    -   Unverträglichkeit einzelner Komponenten
+    -   Flexibel, gute Kombination aus Hypnose & Analgesie, Awareness-Prophylaxe
+
+        Indikationen:
+        Standard bei vielen Eingriffen, gute Steuerbarkeit und Analgesie
+    -   PONV, MH-Trigger
+
+        Kontraindikationen:
+        Unverträglichkeit einzelner Komponenten
 :::
+
+
+
 
 
 
@@ -190,6 +191,7 @@ Tabelle {numref}`TAB-Narkoseregime-Beispiele` zeigt exemplarische Situationen au
 
 :::{list-table} Narkoseregime: Beispiele
 :header-rows: 1
+:stub-columns: 1
 :name: TAB-Narkoseregime-Beispiele
 :widths: 25 10 65
 

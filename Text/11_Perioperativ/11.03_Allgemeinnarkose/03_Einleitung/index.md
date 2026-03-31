@@ -23,19 +23,19 @@ Die Narkoseeinleitung beim *nicht-nüchternen* Patienten wird unter {ref}`RSI` b
 
 
 
-
+(Präoxygenierung)=
 
 ## Präoxygenierung
 
 Die **Präoxygenierung** erfolgt vor der Narkoseeinleitung mit dem Ziel, einen endtidalen Sauerstoffanteil von **etO₂** *≥ 90 %* und eine Sauerstoffsättigung *SpO₂ ≈ 100 %* zu erreichen.
 Dabei wird der Stickstoff in der funktionellen Residualkapazität der Lunge durch Sauerstoff ersetzt (*Denitrogenierung*).
-Dies erhöht den pulmonalen Sauerstoffvorrat und verlängert die "sichere Apnoezeit", sodass während der Intubation mehr Zeit zur Verfügung steht, ohne dass die Sauerstoffsättigung relevant abfällt.
+Dies erhöht den pulmonalen Sauerstoffvorrat und verlängert die **"sichere Apnoezeit"**, sodass während der Intubation mehr Zeit zur Verfügung steht, ohne dass die Sauerstoffsättigung relevant abfällt.
 
 Standardmäßig erfolgt die Präoxygenierung über **3 min mit 100 % O₂** bei dicht sitzender Maske.
 Alternativ können *8 tiefe Atemzüge mit 100 % O₂ innerhalb von etwa 60 s* ebenfalls ausreichend sein.
 
 Eine besonders **kurze sichere Apnoezeit** findet sich bei *adipösen* PatientInnen, *Kindern*, *Schwangeren*, *älteren* PatientInnen sowie bei PatientInnen mit *Lungenerkrankungen*.
-Ursächlich sind unter anderem eine reduzierte funktionelle Residualkapazität, ein erhöhter Sauerstoffverbrauch (VO₂), Perfusionsstörungen sowie ein beeinträchtigter Gasaustausch.
+Ursächlich sind unter anderem eine reduzierte funktionelle Residualkapazität, ein erhöhter Sauerstoffverbrauch ({ref}`VO₂ <VO2>`), Perfusionsstörungen sowie ein beeinträchtigter Gasaustausch.
 Besondere Aufmerksamkeit erfordern außerdem PatientInnen mit erwartet *schwierigem Atemweg*.
 
 
@@ -44,11 +44,11 @@ Besondere Aufmerksamkeit erfordern außerdem PatientInnen mit erwartet *schwieri
 
 ## Narkoseeinleitung beim nüchternen Patienten
 
-Eine Narkoseeinleitung beim nüchternen Patienten folgt im Prinzip miest folgendem Schema:
+Eine Narkoseeinleitung beim nüchternen Patienten folgt im Prinzip meist folgendem Schema:
 
 -   **Präoxygenierung** bis *etO₂ ≥ 90 %*
 -   **Narkoseeinleitung** (i.v.-Anästhetika)
-    -   {ref}`Hypnotika <Hypnotika>:
+    -   {ref}`Hypnotika <Hypnotika>`:
         z. B. {ref}`Propofol <Propofol>` (Cave: Dosis stark von Alter und Patientenzustand abhängig, große Variabilität!);
         alternativ {ref}`Midazolam`, {ref}`Thiopental`
     -   Analgetika:

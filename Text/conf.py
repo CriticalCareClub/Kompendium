@@ -459,8 +459,8 @@ latex_elements                    = {
     'releasename': '\\hskip0pt',
     'transition': '\n',
     'fontpkg': r'''
-        \setmainfont                                  {Lexend-Light}
-        \setsansfont                                  {Lexend-Light}
+        \setmainfont                                  {Lexend}
+        \setsansfont                                  {Lexend}
         \setmonofont                                  {Latin Modern Mono}
     ''',
     'tableofcontents': r'\setcounter{tocdepth}{1}\setcounter{parttocdepth}{2}\doparttoc\tableofcontents',
@@ -485,7 +485,7 @@ latex_elements                    = {
         %\setfontfamily\FontKeyboardFamily            {Libertinus Keyboard}
         %\setfontfamily\FontSansCaptionFamily         {Libertinus Sans}
         %\setfontfamily\FontTable                     {Libertinus Sans}
-        \setfontfamily\FontTitleFamily               {Lexend}
+        \setfontfamily\FontTitleFamily                {Lexend}
         %\setfontfamily\FontTitleDiscrete             {Lexend-Light}
         \AtBeginDocument{\hyphenrules{ngerman}\include{hyphenation.inc}}
 

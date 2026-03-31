@@ -37,7 +37,7 @@ Die Pleura ist außerdem die einzige Struktur der Lunge die schmerzempfindlich i
 
 Ein Eintreten von Luft in diesen Spalt hebt diese Kraft auf, die Lunge würde aufgrund ihrer Eigenelastizität kollabieren (= Pneumothorax).
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pleura.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pleura.\*
 :align: right
 :width: 50%
 

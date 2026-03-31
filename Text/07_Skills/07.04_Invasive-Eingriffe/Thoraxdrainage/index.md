@@ -378,6 +378,7 @@ Das einfachste System ist das **Heimlich-Ventil** ({numref}`Fig-Heimlichventil-S
 Es besteht aus zwei länglichen Gummimembranen, welche um den Ausfluss angelegt sind, sodass Luft hinausströmen kann.
 In umgekehrter Richtung verschliessen die Membranen jedoch das Lumen.
 
+
 (fig-heimlichventil-schema)=
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Heimlich_valve.png
@@ -393,6 +394,7 @@ Patient mit einem traumatischen Pneumothorax unter Reanimation, Bülau-Drainage 
  \[© GaSe, ℓ MfG\]
 :::
 
+
 Eine praktikablere Form stellt das **Wasserschloss** dar:
 Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des Patienten positioniert wird.
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.
@@ -406,7 +408,6 @@ Nach dem gleichen Prinzip funktioniert ein Wasserschloss.
 :::
 
 
-
 Während des Atemzyklus kann man **atemsynchrone Pendelbewegungen** der Flüssigkeitsspiegel im System wahrnahmen (*"Spielen"*).
 Fehlen diese, kann dies Hinweis auf eine Obstruktion (Verstopfen durch Koagel, Abknicken der Drainage etc.) sein.
 Weiters kann man in der Flüssigkeit die Luft in Form von Luftblasen beobachten, welche über die Drainage gefördert wird (**Leckage**).
@@ -415,11 +416,11 @@ Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, könn
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
 
-
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_114533.001341px.jpg
 
 Wasserschloss, unter dem Patientenbett positioniert
 :::
+
 
 Eine Weiterentwicklung stellen elektronische Systeme, wie z. B. das Medela™-System, dar.
 Diese portablen Systeme erlauben nicht nur die komfortable Einstellung und Generierung des Sogs, etwaige Leckagen werden aufgezeichnet und können im Zeitverlauf betrachtet werden.

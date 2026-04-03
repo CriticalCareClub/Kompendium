@@ -335,8 +335,8 @@ Dieser Abschnitt ist in Arbeit!
 ]{l}{0}[0]{\renewcommand\addvspace[1]{}\section*{In diesem Teil:}}
 :::
 ''',
-    'linkpdfa4': '[Das Skriptum als PDF (beidseitiger Druck, A4)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_a4.pdf)',
-    'linkpdfletter': '[Das Skriptum als PDF (Tablet)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_letter.pdf)',
+    'linkpdfa4': '[Das Kompendium als PDF (beidseitiger Druck, Bundsteg, A4)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_a4.pdf)',
+    'linkpdfletter': '[Das Kompendium als PDF (Tablet)](https://kompendium.criticalcare.at/_static/CCCA-Kompendium_v' + version + '_letter.pdf)',
 }
 
 # myst_linkify_fuzzy_links = False

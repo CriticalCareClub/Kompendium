@@ -399,7 +399,7 @@ html_theme_options          = {
     "announcement"          : announcement,
     "collapse_navigation"   : False,
     "toc_title"             : u"Auf dieser Seite ...",
-#    "use_sidenotes": True,
+#    "use_sidenotes"         : True, # doesn't work with roles in it
     "repository_provider"   : 'github',
     "repository_url"        : 'https://github.com/CriticalCareClub/Kompendium',
     "repository_branch"     : u"master",

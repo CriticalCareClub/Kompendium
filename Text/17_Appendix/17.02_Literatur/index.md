@@ -6,36 +6,10 @@ status: final
 
 ## ♛ Leitlinien
 
-<!--
-💡👑🖋⎈⎔⏣⏚★☆♛♕⬡⬢
- -->
-
-{fas}`skull;sd-text-danger`
-
-{material-regular}`data_exploration;2em`
-
-{bdg-primary-line}`primary-line`
-
-{bdg-link-primary}`https://example.com`
-
-{bdg-link-primary-line}`explicit title <https://example.com>`
-
-```{button-link} https://example.com
-:color: primary
-:outline:
-```
-
-
 
 :::{raw} latex
 \footnotesize
 :::
-
-
-
-
-
-
 
 {.glossary}
 
@@ -47,6 +21,7 @@ status: final
 
     *DMV was reported in 5% of the patients.*
 
+
 ♛ ASE TEE 2013
 :   **Guidelines for Performing a Comprehensive Transesophageal Echocardiographic Examination: Recommendations from the American Society of Echocardiography and the Society of Cardiovascular Anesthesiologists**
     by Rebecca T. Hahn et al.
@@ -54,89 +29,93 @@ status: final
     http://dx.doi.org/10.1016/j.echo.2013.07.009
 
 
-♛ ERC 2021 01
-:   **European Resuscitation Council Guidelines 2021: Executive summary**
-    by G. D. Perkins et al.
-    *Resuscitation*, 2021(161):1-60.
+♛ ERC 2025 ALS
+:   **European Resuscitation Council Guidelines 2025 Adult Advanced Life Support**
+    by J. Soar et al.
+    *Resuscitation*, 2025(215):110769.
     Elsevier BV,
-    DOI: [10.1016/j.resuscitation.2021.02.003](https://doi.org/10.1016/j.resuscitation.2021.02.003)
+    DOI: [10.1016/j.resuscitation.2025.110769](https://doi.org/10.1016/j.resuscitation.2025.110769)
 
-♛ ERC 2021 02
-:   Jan-Thorsten Gräsner et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Epidemiology of cardiac arrest in Europe.**
-    *Resuscitation* 161:61-79.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.007>
 
-♛ ERC 2021 03
-:   Federico Semeraro et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Systems saving lives.**
-    *Resuscitation* 161:80-97.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.008>
+♛ ERC 2025 BLS
+:   **European Resuscitation Council Guidelines 2025 Adult Basic Life Support**
+    by M. A. Smyth et al.
+    *Resuscitation*, 2025(215):110771.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110771](https://doi.org/10.1016/j.resuscitation.2025.110771)
 
-♛ ERC 2021 04
-:   Theresa M. Olasveengen et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Basic Life Support.**
-    *Resuscitation* 161:98-114.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.009>
 
-♛ ERC 2021 05
-:   Jasmeet Soar et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Adult advanced life support.**
-    *Resuscitation* 161:115-151.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.010>
+♛ ERC 2025 Edu
+:   **European Resuscitation Council Guidelines 2025 Education for Resuscitation**
+    by S. Nabecker et al.
+    *Resuscitation*, 2025(215):110739.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110739](https://doi.org/10.1016/j.resuscitation.2025.110739)
 
-♛ ERC 2021 06
-:   Carsten Lott et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Cardiac arrest in special circumstances.**
-    *Resuscitation* 161:152-219, April 01, 2021
-    <https://doi.org/10.1016/j.resuscitation.2021.02.011>
 
-♛ ERC 2021 07
-:   Jerry P. Nolan et al.:
-    *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
-    **Post-resuscitation care.**
-    *Resuscitation* 161:220-269.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.012>
+♛ ERC 2025 Epid
+:   **European Resuscitation Council Guidelines 2025 Epidemiology in Resuscitation**
+    by E. Baldi et al.
+    *Resuscitation*, 2025(215):110733.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110733](https://doi.org/10.1016/j.resuscitation.2025.110733)
 
-♛ ERC 2021 08
-:   David A. Zideman et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **First aid.**
-    *Resuscitation* 161:270-290.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.013>
 
-♛ ERC 2021 09
-:   John Madar et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Newborn resuscitation and support of transition of infants at birth.**
-    *Resuscitation* 161:291-326, April 01, 2021
-    <https://doi.org/10.1016/j.resuscitation.2021.02.014>
+♛ ERC 2025 Ethics
+:   **European Resuscitation Council Guidelines 2025 Ethics in Resuscitation**
+    by V. Raffay et al.
+    *Resuscitation*, 2025(215):110734.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110734](https://doi.org/10.1016/j.resuscitation.2025.110734)
 
-♛ ERC 2021 10
-:   Patrick Van de Voorde et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Paediatric Life Support.**
-    *Resuscitation* 161:327-387.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.015>
 
-♛ ERC 2021 11
-:   Robert Greif et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Education for resuscitation.**
-    *Resuscitation* 161:388-407.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.016>
+♛ ERC 2025 ExSum
+:   **European Resuscitation Council Guidelines 2025 Executive Summary**
+    by R. Greif et al.
+    *Resuscitation*, 2025(215):110770.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110770](https://doi.org/10.1016/j.resuscitation.2025.110770)
 
-♛ ERC 2021 12
-:   Spyros D. Mentzelopoulos et al.:
-    *European Resuscitation Council Guidelines 2021:*
-    **Ethics of resuscitation and end of life decisions.**
-    *Resuscitation* 161:408-432.
-    <https://doi.org/10.1016/j.resuscitation.2021.02.017>
+
+♛ ERC 2025 First Aid
+:   **European Resuscitation Council Guidelines 2025 First Aid**
+    by T. Djärv et al.
+    *Resuscitation*, 2025(215):110752.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110752](https://doi.org/10.1016/j.resuscitation.2025.110752)
+
+
+♛ ERC 2025 Newborn
+:   **European Resuscitation Council Guidelines 2025 Newborn Resuscitation and Support of Transition of Infants at Birth**
+    by M. Hogeveen et al.
+    *Resuscitation*, 2025(215):110766.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110766](https://doi.org/10.1016/j.resuscitation.2025.110766)
+
+
+♛ ERC 2025 PLS
+:   **European Resuscitation Council Guidelines 2025 Paediatric Life Support**
+    by J. Djakow et al.
+    *Resuscitation*, 2025(215):110767.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110767](https://doi.org/10.1016/j.resuscitation.2025.110767)
+
+
+♛ ERC 2025 Special
+:   **European Resuscitation Council Guidelines 2025 Special Circumstances in Resuscitation**
+    by C. Lott et al.
+    *Resuscitation*, 2025(215):110753.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110753](https://doi.org/10.1016/j.resuscitation.2025.110753)
+
+
+♛ ERC 2025 System
+:   **European Resuscitation Council Guidelines 2025 System Saving Lives**
+    by F. Semeraro et al.
+    *Resuscitation*, 2025(215):110821.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2025.110821](https://doi.org/10.1016/j.resuscitation.2025.110821)
+
 
 ♛ ESA PeriOpFastening 2011
 :   **Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology**
@@ -162,12 +141,14 @@ status: final
     The guidelines also consider the safety and possible benefits of preoperative carbohydrates and offer advice on the postoperative resumption of oral intake.
     :::
 
+
 ♛ ESC NSTEMI 2020/21
 :   **2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation.**
     by J.-P. Collet et al.
     *European heart journal*, 2021(42):1289-1367.
     PMID: 32860058,
     DOI: [10.1093/eurheartj/ehaa575](https://doi.org/10.1093/eurheartj/ehaa575)
+
 
 ♛ ESC STEMI 2017
 :   **2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation: The Task Force for the management of acute myocardial infarction in patients presenting with ST-segment elevation of the European Society of Cardiology (ESC).**
@@ -176,21 +157,25 @@ status: final
     PMID: 28886621,
     DOI: [10.1093/eurheartj/ehx393](https://doi.org/10.1093/eurheartj/ehx393)
 
+
 ♛ ÖGARI Gerinnungsevaluierung 2024
 :   **Empfehlung der Arbeitsgruppe Perioperative Gerinnung der ÖGARI zum Thema: Präoperative/präinterventionelle Anamnese-basierte Gerinnungsevaluierung.**
     Österreichische Gesellschaft für Anaesthesiologie, Reanimation und Intensivmedizin (ÖGARI), 2024.
     https://www.oegari.at/web_files/cms_daten/empfehlung_agpg_perioperative_anamnese-basierte_gerinnungsevaluierung_version_2___2024.pdf
+
 
 ♛ ÖGARI Gerinnung RA 2024
 :   **Empfehlung der Arbeitsgruppe Perioperative Gerinnung der ÖGARI zum Thema: Regionalanästhesie unter Gerinnungshemmung.**
     Österreichische Gesellschaft für Anaesthesiologie, Reanimation und Intensivmedizin (ÖGARI), 2024.
     https://www.oegari.at/web_files/cms_daten/empfehlung_der_arbeitsgruppe_perioperative_gerinnung_der_ogari_zum_thema_regionalanasthesie_unter_gerinnungshemmung.pdf
 
+
 ♛ ÖGARI RA-Neuro 2021
 :   **Empfehlung der ARGE Regionalanästhesie für das Vorgehen bei Verdacht auf perioperative Nervenläsionen**
     der Österreichischen Gesellschaft für Anästhesie, Reanimation und Intensivmedizin (ÖGARI), ARGE Regionalanästhesie.
     2021.
     https://www.oegari.at/web_files/cms_daten/arge_ns_2021.pdf
+
 
 ♛ S1 Atemweg 2015
 :   **S1-Leitlinie Atemwegsmanagement**
@@ -200,11 +185,13 @@ status: final
     DOI 10.1007/s00101-015-0087-6
     <https://link.springer.com/article/10.1007/s00101-015-0087-6>
 
+
 ♛ S1 Prähosp Atemweg 2019
 :   **S1-Leitlinie Prähospitales Atemwegsmanagement**
     der Deutsche Gesellschaft für Anästhesiologie und Intensivmedizin e.V. (DGAI) et al.
     AWMF-Register Nr.: 001-040.
     https://register.awmf.org/assets/guidelines/001-040l_S1_Praehospitales-Atemwegsmanagement_2019-03_1.pdf
+
 
 ♛ S1 RM-RA Antikoag 2021
 :   **S1-Leitlinie Rückenmarknahe Regionalanästhesien und Thromboembolieprophylaxe / antithrombotische Medikation**
@@ -212,10 +199,12 @@ status: final
     AWMF-Register Nr.: 001 - 005.
     https://register.awmf.org/assets/guidelines/001-005l_S1_Rueckenmarksnahe-Regionalanaesthesien-Thrombembolieprophylaxe-antithrombotische-Medikation_2021-10_1.pdf
 
+
 ♛ S2k Anaphylaxie 2021
 :   **Leitlinie zu Akuttherapie und Management der Anaphylaxie - Update 2021: S2k-Leitlinie der Deutschen Gesellschaft für Allergologie und klinische Immunologie (DGAKI)** et al.
     AWMF-Registernummer 061-025.
     <https://register.awmf.org/de/leitlinien/detail/061-025>
+
 
 ♛ S2k PPH 2022
 :   **S2k-Leitlinie Peripartale Blutungen, Diagnostik und Therapie**
@@ -223,6 +212,7 @@ status: final
     Version 3.2, Stand 01.08.2022.
     AWMF-Registernummer 015-063.
     <https://register.awmf.org/de/leitlinien/detail/015-063>
+
 
 ♛ S3 Sepsis 2025
 :   **S3-Leitlinie Sepsis – Prävention, Diagnose, Therapie und Nachsorge – Update 2025**
@@ -232,11 +222,13 @@ status: final
     Springer.
     DOI: [10.1007/s00063-025-01317-1](https://doi.org/10.1007/s00063-025-01317-1)
 
+
 ♛ S3 Volumentherapie 2020
 :   **S3-Leitlinie Intravasale Volumentherapie bei Erwachsenen**
     der Deutschen Gesellschaft für Anästhesiologie und Intensivmedizin (DGAI) et al.
     *AWMF*, Registernummer: 001-020, 2020.
     https://register.awmf.org/de/leitlinien/detail/001-020
+
 
 ♛ SurvSepsisCpg 2021
 :   **Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021.**
@@ -266,6 +258,7 @@ status: final
     Wien, Oktober 2022.
     ISBN 978-3-903099-27-2.
     https://goeg.at/sites/goeg.at/files/inline-files/%C3%96SG_2017_-_Textband%2C_Stand_07.10.2022.pdf
+
 
 ⚖ ÖSG 2017 Tab
 :   **Österreichischer Strukturplan Gesundheit, Tabellenband**
@@ -625,6 +618,100 @@ Citation needed
     by A. Enne.
     *Rettungsdienst*, 2012(7):43—45.
 
+
+🗎 ERC 2021 01
+:   **European Resuscitation Council Guidelines 2021: Executive summary**
+    by G. D. Perkins et al.
+    *Resuscitation*, 2021(161):1-60.
+    Elsevier BV,
+    DOI: [10.1016/j.resuscitation.2021.02.003](https://doi.org/10.1016/j.resuscitation.2021.02.003)
+
+🗎 ERC 2021 02
+:   Jan-Thorsten Gräsner et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Epidemiology of cardiac arrest in Europe.**
+    *Resuscitation* 161:61-79.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.007>
+
+
+🗎 ERC 2021 03
+:   Federico Semeraro et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Systems saving lives.**
+    *Resuscitation* 161:80-97.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.008>
+
+
+🗎 ERC 2021 04
+:   Theresa M. Olasveengen et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Basic Life Support.**
+    *Resuscitation* 161:98-114.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.009>
+
+
+🗎 ERC 2021 05
+:   Jasmeet Soar et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Adult advanced life support.**
+    *Resuscitation* 161:115-151.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.010>
+
+
+🗎 ERC 2021 06
+:   Carsten Lott et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Cardiac arrest in special circumstances.**
+    *Resuscitation* 161:152-219, April 01, 2021
+    <https://doi.org/10.1016/j.resuscitation.2021.02.011>
+
+
+🗎 ERC 2021 07
+:   Jerry P. Nolan et al.:
+    *European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2021:*
+    **Post-resuscitation care.**
+    *Resuscitation* 161:220-269.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.012>
+
+
+🗎 ERC 2021 08
+:   David A. Zideman et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **First aid.**
+    *Resuscitation* 161:270-290.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.013>
+
+
+🗎 ERC 2021 09
+:   John Madar et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Newborn resuscitation and support of transition of infants at birth.**
+    *Resuscitation* 161:291-326, April 01, 2021
+    <https://doi.org/10.1016/j.resuscitation.2021.02.014>
+
+
+🗎 ERC 2021 10
+:   Patrick Van de Voorde et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Paediatric Life Support.**
+    *Resuscitation* 161:327-387.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.015>
+
+
+🗎 ERC 2021 11
+:   Robert Greif et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Education for resuscitation.**
+    *Resuscitation* 161:388-407.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.016>
+
+
+🗎 ERC 2021 12
+:   Spyros D. Mentzelopoulos et al.:
+    *European Resuscitation Council Guidelines 2021:*
+    **Ethics of resuscitation and end of life decisions.**
+    *Resuscitation* 161:408-432.
+    <https://doi.org/10.1016/j.resuscitation.2021.02.017>
 
 
 🗎 ESC NSTEMI 2015/16

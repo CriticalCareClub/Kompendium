@@ -97,11 +97,11 @@ Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinli
 
 In ca. 70—95 % der Fälle ist der Reanimationsversuch erfolglos und der Patient verstirbt.
 Grundsätzlich wird eine Reanimation fortgesetzt, solange Kammerflimmern oder ein ähnlicher Rhythmus vorliegt.
-Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht [{term}`🗎 Bonnin 1993`, {term}`♛ ERC 2021 12`].
+Es ist weitgehend akzeptiert, eine Reanimation abzubrechen, wenn trotz aller ALS-Maßnahmen und Fehlen von reversiblen Ursachen für 20 Minuten eine Asystolie besteht [{term}`🗎 Bonnin 1993`, {term}`🗎 ERC 2021 12`].
 
 Gewisse Bedingungen, etwa eine Hypothermie zum Zeitpunkt des Kreislaufstillstands, steigern die Chancen der Wiederherstellung ohne neurologische Schäden, sodass normale Prognosekriterien (z. B. eine über 20 min andauernde Asystolie) *nicht anwendbar* sind.
 
-Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere Umstände, welche Einfluss auf die Entscheidung haben [{term}`♛ ERC 2021 12`].
+Abgesehen von den rein medizinischen Faktoren, welche vor allem den zu erwartenden Reanimationserfolg im Blick haben, gibt es auch noch andere Umstände, welche Einfluss auf die Entscheidung haben [{term}`🗎 ERC 2021 12`].
 Besonders berücksichtigenswert ist der mutmaßliche oder vorab geäußerte Patientenwille, z. B. im Rahmen einer verbindlichen oder beachtlichen {ref}`Patientenverfügung <Patientenverfuegung>`.
 
 Die Abbruchsentscheidung ist grundsätzlich *von einem Arzt* zu treffen (sofern keine dringenden Gründe wie unsichere Umgebung oder Erschöpfung vorliegen).

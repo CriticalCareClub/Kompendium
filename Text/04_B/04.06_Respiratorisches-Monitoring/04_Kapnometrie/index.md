@@ -51,7 +51,7 @@ Die Kapnometrie erlaubt
 
 - die **Lagekontrolle** bei Intubationen (endotracheal, Larynxtuben u. ä.)
   Die Kapnographie ist *Voraussetzung* für die endotracheale Intubation
-  ({term}`♛ ERC 2021 05`, {term}`🗎 Timmermann 2007`, {term}`🗎 Genzwuerker 2007`)!
+  ({term}`🗎 ERC 2021 05`, {term}`🗎 Timmermann 2007`, {term}`🗎 Genzwuerker 2007`)!
 
   Die Kapnometrie gilt als *sicheres* Intubationszeichen.
   Cave: Eine *einseitige* Intubation wird hierbei *nicht* detektiert!

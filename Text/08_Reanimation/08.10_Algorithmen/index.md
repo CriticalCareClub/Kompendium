@@ -130,30 +130,16 @@ Ist der Patient (bereits beim Antreffen) reglos, so geht man wie folgt vor:
     wieder aufzunehmen. Nach zwei Minuten
     (5—6 HDM-/Beatmungs-Zyklen) wird erneut eine Analyse durchgeführt.
 
-12. Liegt ein **schockbarer Rhythmus** vor,
-    müssen alle Helfer den Kontakt
-    zum Patienten lösen und Sauerstoffquellen in einem ausreichenden
-    Sicherheitsabstand (ca. 1 m) positionieren.
-    Der `Helfer 1` am Kopfende des
-    Patienten bedient den Defibrillator
-    und warnt Umstehende durch das \*\*
-    Kommando *"Achtung! Zurücktreten! — Schock wird abgegeben!"*.
-    Bevor der Elektroschock durch Druck auf
-    die Schock-Taste am AED endgültig ausgelöst wird, muss sich der
-    Helfer vergewissern, dass niemand den Patient berührt (Sicherungsblick)!
+12. Liegt ein **schockbarer Rhythmus** vor, müssen alle Helfer den Kontakt zum Patienten lösen und Sauerstoffquellen in einem ausreichenden Sicherheitsabstand (ca. 1 m) positionieren.
+    Der `Helfer 1` am Kopfende des Patienten bedient den Defibrillator und warnt Umstehende durch das Kommando *"Achtung! Zurücktreten! — Schock wird abgegeben!"*.
+    Bevor der Elektroschock durch Druck auf die Schock-Taste am AED endgültig ausgelöst wird, muss sich der Helfer vergewissern, dass niemand den Patient berührt (Sicherungsblick)!
 
 13. Nach der Schockabgabe wird die *HDM sofort wieder aufgenommen*.
-    Die
-    Kombination 30 HDM und zwei Beatmungen wird rund zwei Minuten
-    (5—6 HDM-/Beatmungs-Zyklen) fortgesetzt, danach erfolgt die
-    nächste Rhythmusanalyse.
+    Die Kombination 30 HDM und zwei Beatmungen wird rund zwei Minuten (5—6 HDM-/Beatmungs-Zyklen) fortgesetzt, danach erfolgt die nächste Rhythmusanalyse.
 
-14. Das Vorgehen wiederholt sich jetzt bis der Patient Lebenszeichen
-    zeigt oder Abbruchkriterien erfüllt sind.
+14. Das Vorgehen wiederholt sich jetzt bis der Patient Lebenszeichen zeigt oder Abbruchkriterien erfüllt sind.
 
-15. Um der Erschöpfung der Helfer und damit einem Qualitätsverlust der
-    HDM vorzubeugen, *wird während jeder Analysephase die
-    Helferposition gewechselt!*
+15. Um der Erschöpfung der Helfer und damit einem Qualitätsverlust der HDM vorzubeugen, *wird während jeder Analysephase die Helferposition gewechselt!*
 
 Eine grafische Übersicht über dieses Vorgehen ist in
 {ref}`Figure-Bls-Aed-Algorithmus`, dargestellt.

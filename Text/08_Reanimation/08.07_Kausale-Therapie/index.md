@@ -86,3 +86,12 @@ Es gibt acht klassische Ursachen eines Herz-Kreislaufstillstandes, welche grunds
 
 Gemäß der Anfangsbuchstaben werden diese reversiblen Ursachen als {dfn}`4 H + HITS` bezeichnet.
 Leider lassen sich nicht alle dieser reversiblen Ursachen präklinisch erkennen oder beheben, dennoch muss dies – wenn möglich – versucht werden.
+
+Der Ultraschall (Point-of-Care-Ultrasound, POCUS) kann bei der Suche nach reversiblen Ursachen hilfreich sein, insbesonders bei Verdacht auf Perikardtamponade, massive Rechtsherzbelastung bei Lungenembolie, schweren Hypovolämiezustand oder Pneumothorax (vgl. {ref}`Ultraschall-Pneumothorax`).
+POCUS darf dabei nicht zu relevanten Unterbrechungen der Thoraxkompressionen führen.
+Die Untersuchung soll durch erfahrene Anwender, kurz, fokussiert und in die ohnehin vorgesehenen Rhythmusanalysen integriert erfolgen.
+
+
+:::{important}
+Ultraschall ist ein Zusatzwerkzeug zur Ursachensuche, kein Grund für längere Hands-off-Zeiten.
+:::

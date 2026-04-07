@@ -23,8 +23,8 @@ Diese Version ist veraltet.
 
 Vgl. {term}`🗎 ERC 2021 10`
 
-Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*)
-bezeichnet. Während bei Erwachsenen der Großteil der Ursachen für einen Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den Kindern meist ein Problem des Atemwegs bzw. der Atmung (z. B. Atemwegsverlegung, Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das **Freimachen der Atemwege** im Vordergrund.
+Die Reanimation bei Kindern wird als *Pediatric Life Support* (*PLS*) bezeichnet.
+Während bei Erwachsenen der Großteil der Ursachen für einen Herz-Kreislauf-Stillstand vom Herzen aus geht, liegt bei den Kindern meist ein Problem des Atemwegs bzw. der Atmung (z. B. Atemwegsverlegung, Ertrinken) vor. Deshalb steht – im Gegensatz zum BLS – beim PLS das **Freimachen der Atemwege** im Vordergrund.
 Das Vorgehen gemäß ERC wird wie folgt beschrieben:
 
 1. ① *Szeneüberblick mit (Selbst-)Schutz*: wie bei BLS
@@ -92,15 +92,11 @@ Das Vorgehen gemäß ERC wird wie folgt beschrieben:
        entlang fährt, der Druckpunkt liegt dann eine Fingerbreite
        darüber.
 
-   - Die *Eindrücktiefe* soll ungefähr ein Drittel des
-     Brustkorbs betragen.
-     Das sind beim Säugling ca. 4 cm
-     und bei Kindern ca. 5 cm.
+   - Die *Eindrücktiefe* soll ungefähr ein Drittel des Brustkorbs betragen.
+     Das sind beim Säugling ca. 4 cm und bei Kindern ca. 5 cm.
 
-   - Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll
-     100—120 / min
-     betragen. Bei der Beatmung richtet sich das Atemzugvolumen
-     ebenfalls nach der Körpergröße des Patienten.
+   - Die *Druckfrequenz* ("Arbeitsgeschwindigkeit") soll 100—120 / min betragen.
+     Bei der Beatmung richtet sich das Atemzugvolumen ebenfalls nach der Körpergröße des Patienten.
 
    - Gemäß ERC kann eine Defibrillation bei Kindern bereits ab dem 1.
      Lebensjahr erfolgen. Nachdem die meisten verwendeten Geräte jedoch

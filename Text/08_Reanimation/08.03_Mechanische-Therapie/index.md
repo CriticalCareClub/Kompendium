@@ -132,10 +132,15 @@ Bilderserie: *Herzdruckmassage* [© Lena Hirtler, {term}`ℓ MfG`]
 ### Thoraxkompressionsgeräte
 
 Die manuelle Herzdruckmassage kann auch automatisiert mittels eines Thoraxkompressionsgeräts durchgeführt werden.
-Studienmäßig konnte zwar kein klarer Vorteil bei der routinemäßigen Verwendung automatischer  Thoraxkompressionsgeräte nachgewiesen werden, jedoch kann die Verwendung aus organisatorischen und logistischen Gründen sinnvoll sein (protrahierte Reanimation nach Lyse-Therapie, Laufende Reanimation während Bergung, Reanimation im fahrenden Fahrzeug bzw.
-im Hubschrauber, Reanimation während Verlegung auf eine Intensivstation oder Katheterlabor).
+Studienmäßig konnte zwar *kein klarer Vorteil* bei der routinemäßigen Verwendung automatischer  Thoraxkompressionsgeräte nachgewiesen werden, jedoch *kann* die Verwendung aus organisatorischen und logistischen Gründen *sinnvoll* sein (protrahierte Reanimation nach Lyse-Therapie, laufende Reanimation während Bergung, Reanimation im fahrenden Fahrzeug bzw. im Hubschrauber, Reanimation während Verlegung auf eine Intensivstation oder Katheterlabor, ...).
+Dies ist inbesonders auch aus der Perspektive des *Mitarbeiterschutz* zu sehen.
 Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung einer anhaltend guten Herzdruckmassage nicht praktikabel ist oder die Sicherheit der Helfer gefährdet.
 
+
+
+
+```{index} single: ECPR
+```
 ```{index} single: ECMO
 ```
 ```{index} single: Extra-Corporal Membrane Oxygenation
@@ -153,9 +158,11 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 
 (reanimationextrakorporaleverfahren)=
 
-### Extrakorporale Verfahren
+### Extrakorporale Verfahren -- ECPR
 
-Extrakorporale Verfahren
-(Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (ECMO)) können mittels eines Gefäßzugangs, einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf, als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion des Herzens und der Lunge übernehmen.
-Diese Technik ist sehr ressourcenintensiv, sowohl was die eigentliche Technik, als auch Schulung und Verfügbarkeit des Personals anbelangt, und somit spezialisierten Zentren vorbehalten.
-Die Definition der Indikationen bzw. die Nutzen-Risiko-Kosten-Abschätzung ist derzeit noch unklar, hierfür sind weitere Studien erforderlich
+Extrakorporale Verfahren (Herz-Lungen-Maschine, Extra-Corporal Membrane Oxygenation (ECMO)) können mittels eines Gefäßzugangs, einer Pumpe und eines Oxygenators sowohl einen adäquaten Kreislauf, als auch eine adäquate Oxygenierung sicherstellen und somit die Funktion des Herzens und der Lunge übernehmen.
+Diese Technik ist jedoch sehr schulungs- und ressourcenintensiv.
+Die *Extrakorporale CPR* (*ECPR*) kann bei *ausgewählten* Erwachsenen mit IHCA oder OHCA als Rescue-Therapie erwogen werden, wenn unter konventioneller CPR kein ROSC erreicht wird und ein entsprechend erfahrenes System mit geeigneter Infrastruktur verfügbar ist.
+ECPR ist keine Routineintervention für alle Reanimationspatienten, sondern eine hochspezialisierte Maßnahme für selektionierte Fälle und etablierte Zentren.
+Wenn eine ECPR-Strategie etabliert werden soll, muss die Entscheidung hierzu frühzeitig erfolgen.
+Inbesondere in Systemen, wo vor Ort keine ECPR-Möglichkeit besteht und der Patient erst einem Zentrum zugeführt werden muss, ist eine nahezu perfekte Transportlogistik und mechanische CPR bis zur ECPR notwendig.

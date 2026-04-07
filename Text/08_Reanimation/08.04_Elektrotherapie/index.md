@@ -279,6 +279,10 @@ Allgemein lässt sich jedoch sagen:
    - *"Kein Schock empfohlen"*:
      Kommando "*START!"*: Herzdruckmassage fortführen
 
+
+
+
+
 ```{index} single: Hardpaddles
 ```
 ```{index} single: Phase, vulnerable
@@ -304,18 +308,16 @@ Allgemein lässt sich jedoch sagen:
 - Manueller Modus
 
 - Analyse:
-  : Alle 2 min bzw. 5 Zyklen durch kompetenten und befugten Helfer
+  Alle 2 min bzw. 5 Zyklen durch kompetenten und befugten Helfer
 
 - Energieauswahl:
 
   > - Erwachsene Maximum,
   > - Kinder 4  J  /  kg
-
 - **Synchronisation!** (*"Sync"*):
   Bei Vorhandenen Kammerkomplexen
-
 - Schockabgabe
-
+  - Nach dem 3. aufeinanderfolgendem erfolglosen Schock: Vektorwechsel
 - Sicherheitshinweise
 :::
 ::::
@@ -326,64 +328,33 @@ Manuelle Defibrillatoren sind meist Bestandteil eines Multifunktionsgerätes, we
 Therapieelektroden
 
 : Grundsätzlich sollen aufgrund der besseren elektrischen Eigenschaften **Klebeelektroden**
-  verwendet werden,
-  wie sie auch bei (S)AEDs zum
-  Einsatz kommen.
+  verwendet werden.
 
-  Alternativ, oder bei älteren Geräten auch
-  ausschließlich, können auch **Hardpaddles** verwendet
-  werden. Diese bestehen aus 2 Elektroden als Aufsatzfläche und
-  jeweils einem isolierten Haltegriff.
-  Die Positionierung der
-  Paddles am Körper des Patienten erfolgt wie bei den
-  Klebeelektroden. Zusätzlich wird noch ein *Elektrodengel* benötigt,
-  um den Leitungswiderstand herabzusetzen. Anders als in Filmen
-  dargestellt, dürfen die Elektroden der Paddles keinesfalls
-  gegeneinander gerieben werden um das Elektrodengel zu verreiben!
-  Außerdem muss bei Verwendung von Paddles ein *Anpressdruck* von
-  mind. 8 kg angewendet werden.
-  Die Verwendung von Hardpaddles führt zu
-  **schlechteren Ergebnissen** und soll daher nur wenn nicht anders
-  möglich erfolgen
-  {term}`🗎 ERC 2021 05`.
+  Bei *refraktärem VF/pVT* (nach 3 aufeinanderfolgenden Schocks) soll nach Sicherstellung korrekter *anterolateraler* Elektrodenposition ein **Vektorwechsel** durchgeführt werden, z. B. durch *anteroposteriore* Elektrodenposition.
+  Die Vorbereitung der alternativen Elektrodenposition sollte so erfolgen, dass sie beim nächsten Rhythmuscheck ohne relevante Verzögerung umgesetzt werden kann.
+  Brusthaar im Bereich der Elektrodenanlage sollte bei Bedarf entfernt werden, um die transthorakale Impedanz zu senken.
+
 
 Manueller Modus = manuelle Analyse
+: Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher oft bei Starten des Geräts automatisch aktiviert ist.
+  Wenn möglich, soll jedoch der manuelle Modus verwendet werden, da dadurch die Zeit für die Analyse des Rhythmus deutlich reduziert werden kann.
+  Die Analyse erfolgt im manuellen Modus durch einen kompetenten und dazu befugten Helfer zum gleichen Zeitpunkt wie im (S)AED-Modus, also alle 2 min bzw. 5 Zyklen.
 
-: Viele manuelle Defibrillatoren besitzen einen (S)AED-Modus, welcher
-  oft bei Starten des Geräts automatisch aktiviert ist.
-  Wenn möglich,
-  soll jedoch der manuelle Modus verwendet werden,
-  da dadurch die Zeit für die Analyse des Rhythmus
-  deutlich reduziert werden kann.
-  Die Analyse erfolgt im manuellen Modus durch einen kompetenten und
-  dazu befugten Helfer zum gleichen Zeitpunkt wie im (S)AED-Modus,
-  also alle 2 min bzw. 5 Zyklen.
 
 Auswahl der Energie
-
 : Im manuellen Modus ist die Auswahl der abzugebenden Energie möglich.
-  Bei Erwachsenen ist bei der Defibrillation in der Regel
-  der Maximalwert zu verwenden,
-  dieser ist je nach Gerät und Impulsform unterschiedlich.
+  Bei Erwachsenen ist bei der Defibrillation in der Regel der Maximalwert zu verwenden, dieser ist je nach Gerät und Impulsform unterschiedlich.
   Bei **Kindern** beträgt die Energie **4 J / kg** Körpergewicht.
 
-Synchronisation
 
-: Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu
-  bestimmten Zeiten des Herzzyklus ("vulnerable Phase") Kammerflimmern
-  ausgelöst werden.
-  Um dies zu verhindern, kann die Schockabgabe
-  synchronisiert mit dem Herzzyklus erfolgen,
-  der Defibrillator gibt dann den Stromstoß
-  in einem gefahrlosen Intervall ab.
-  Neuere Geräte verfügen oft über eine Rhythmuserkennung
-  und "*Auto-Sync*"-Funktion,
-  hier entfällt die manuelle Einstellung.
+Synchronisation
+: Bei vorhandenen Kammerkomplexen im EKG kann eine Schockabgabe zu bestimmten Zeiten des Herzzyklus ("vulnerable Phase") Kammerflimmern ausgelöst werden.
+  Um dies zu verhindern, kann die Schockabgabe synchronisiert mit dem Herzzyklus erfolgen,
+  der Defibrillator gibt dann den Stromstoß in einem gefahrlosen Intervall ab.
+  Neuere Geräte verfügen oft über eine Rhythmuserkennung und "*Auto-Sync*"-Funktion, hier entfällt die manuelle Einstellung.
 
   :::{warning}
-  Wird bei einem irregulären Rhythmus (Kammerflimmern) die
-  Sync-Funktion aktiviert, kann das Gerät keine Kammerkomplexe
-  erkennen und es erfolgt *keine* Schockabgabe!
+  Wird bei einem irregulären Rhythmus (Kammerflimmern) die Sync-Funktion aktiviert, kann das Gerät keine Kammerkomplexe erkennen und es erfolgt *keine* Schockabgabe!
   :::
 
 ::::{danger}

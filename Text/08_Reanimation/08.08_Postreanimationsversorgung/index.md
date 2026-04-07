@@ -43,48 +43,88 @@ Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Ums
 
 - **Umgebung unsicher** und kann nicht (mehr) sicher gemacht werden
 
+
+
+
 (rosc-bls)=
 
 ## Resumption of Spontaneous Circulation (ROSC) und Post-Resuscitation Care
 
-% - Re-Evaluation (1234-ABCDE) und Diagnostik
-% - Ggfs. Narkose/Sedierung
-% - Ggfs. Beatmung
-% - Sauerstofftherapie
-% - Temperaturmanagement
-% - Verdachtsdiagnose
-% - Auswahl eines geeigneten Transportziels
-
-Wird bei der Reanimation der Kreislauf wiederhergestellt (**ROSC**, {dfn}`Resumption Of Spontaneous Circulation`) ist die weitere Versorgung wichtig.
+Wird bei der Reanimation der Kreislauf wiederhergestellt (**ROSC**, {dfn}`Resumption Of Spontaneous Circulation`), ist die strukturierte Weiterbehandlung entscheidend für das Outcome.
+Es erfolgt eine Postreanimationsbehandlung mit Fokus auf **Oxygenierung**, **Ventilation**, **Kreislaufstabilisierung**, **Ursachenbehandlung** und **neurologischem Schutz**.
 
 Primär ist eine **Patientenevaluation** ({ref}`Einschätzungsblock <Einschaetzungsblock>`) durchzuführen.
 Bezüglich der Sofortmaßnahmen gelten sinngemäß die *Standardmaßnahmen bei vital bedrohten Patienten*.
-Die Sauerstoffgabe hat einen SpO₂-Zielbereich von **94—98 %**.
-Besonders zu beachten ist:
 
-- `A`: Ist der Atemweg (noch) sicher?
-  (Kapnometrie! Auskultation)
-- Ⓑ: Hypo-/Hyperventilation (Kapnometrie!)
-  Oxygenation,
-  Sekundärverletzungen nach Reanimation (Spannungspneumothorax!)
-- Ⓒ:
-  Großzügige Indikation für eine schnelle Traumauntersuchung
-  (STU;
-  Denke an Sekundärverletzungen durch die Reanimation,
-  Blutungsquellen (Abdomen!))
-- Ⓓ: Pupillen, Blutzucker
-- Ⓔ: 12-Kanal-EKG!
+Angestrebt werden:
 
-Die Ermittlung der **Ursache**, sofern möglich, bzw. einer Verdachtsdiagnose ist wichtig um die weitere Versorgung zu planen (*"Zwischen einem Herzkatheter und einem Neurochirurgen (oder Hämofiltrationsplatz, Schockraum, ...) liegen im besten Fall Stockwerke, im schlimmsten Fall Kilometer ..."*).
-Hevorzuheben ist die Notwendigkeit einer *Herzkatheteruntersuchung* nach einem Kreislaufstillstand mit vermutet kardialer Ursache bzw. die Durchführung eines Schädel-CT bei möglicher cerebralem Geschehen (Blutung, Insult).
+Ⓐ
+:   Sicherer Atemweg
+    (Kapnometrie, Auskultation)
 
-Ein zielgerichtetes **Temperaturmanagement** ist wichtig.
-Hinsichtlich der therapeutischen Hypothermie gibt es unerschiedliche Ansichten, sodass die Etablierung selbiger den jeweils lokalen Gegebenheiten obliegt.
-Jedenfalls darf der Patient nicht hypertherm werden.
-Die Grundsätze des cerebroprotektiven Managements sollen situativ angemessen angewendet werden.
+Ⓑ
+:   Normoxie und Normokapnie
+    Ziel: **SpO₂ 94–98 %**, Vermeidung von Hyperoxie
+    Ziel: **Normokapnie** (keine routinemäßige Hyperventilation)
 
-Dem Post-Cardiac-Arrest-Syndrome sowie dessen Behandlung wird vermehrt Beachtung geschenkt.
-Strukturierte post-Resuscitation-Protokolle erhöhen die Überlebenswahrscheinlichtkeit und werden zunehmend implementiert.
+    Cave: Sekundärverletzungen (z. B. Spannungspneumothorax)
+
+Ⓒ
+:   Kreislaufstabilisierung und Vermeidung von Hypotonie
+    Ziel: systolischer Blutdruck \> 100 mm Hg bzw. **MAP ≥ 65 mm Hg**
+
+    -   Ein 12-Kanal-EKG ist früh abzuleiten.
+    -   Bei **ST-Hebung** oder *hoher Wahrscheinlichkeit* eines akuten *Koronarverschlusses* ist eine **sofortige Koronarangiographie** indiziert.
+    -   Bei hämodynamisch stabilen Patienten *ohne STEMI* ist eine *selektive bzw. verzögerte Koronarangiographie* zu erwägen.
+    -   Großzügige Indikation zur Traumaevaluation (z. B. STU) bei Verdacht auf Sekundärverletzungen oder Blutungsquellen.
+
+Ⓓ
+:   Neurologischer Status
+    (Pupillen, GCS), Blutzucker
+
+Ⓔ
+:   Vollständige klinische Untersuchung
+    inkl. erneuter Reevaluation
+
+Die rasche Identifikation der **Ursache** ist entscheidend für die weitere Therapieplanung.
+(*„Zwischen Herzkatheterlabor, Neurochirurgie und Intensivstation liegen im besten Fall Stockwerke, im schlechtesten Fall Zeitverluste.“*)
+
+Bei Verdacht auf zerebrale Ursache ist eine frühzeitige Bildgebung (CCT ± MRT) obligat.
+
+
+
+
+
+### Temperaturmanagement
+
+Es wird eine gezielte **Temperaturkontrolle** durchgeführt.
+Bei komatösen Patienten nach ROSC soll **Fieber konsequent vermieden** werden.
+
+-   Ziel: Temperatur ≤ 37,5 °C (keine Hyperthermie)
+-   Dauer: mindestens **72 Stunden**
+
+Eine routinemäßige Induktion einer therapeutischen Hypothermie ist **nicht obligat**, kann jedoch im Bereich **32–36 °C** durchgeführt werden.
+Patienten mit spontaner milder Hypothermie (32–36 °C) sollen **nicht aktiv erwärmt** werden.
+
+
+
+
+
+### Neurologisches Monitoring und Prognostikation
+
+Nach ROSC sollen **Krampfanfälle aktiv gesucht und behandelt** werden.
+
+Die neurologische Prognostikation erfolgt **multimodal** und umfasst:
+
+-   klinische Untersuchung
+-   Elektrophysiologie (z. B. EEG)
+-   Biomarker
+-   Bildgebung
+
+Eine verlässliche Prognose soll **nicht zu früh gestellt werden**, sondern in der Regel **erst nach ≥ 72 Stunden** unter Berücksichtigung aller Befunde erfolgen.
+
+
+
 
 
 

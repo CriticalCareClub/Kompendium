@@ -130,3 +130,7 @@ Die *drei Könige* der Basisreanimation [© Lena Hirtler, {term}`ℓ MfG`]
 ![Defibrillation](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Defi-Achtung.\*)
 :::
 
+
+## Systems Saving Lives
+
+Die ERC-Leitlinien 2025 betonen neben Einzelmaßnahmen auch Systems Saving Lives: frühe Erkennung des Kreislaufstillstands, strukturierte Leitstellenabfrage, telefonisch angeleitete CPR, Ersthelfersysteme, AED-Verfügbarkeit, standardisierte Übergaben und Nachsorgepfade für Überlebende.

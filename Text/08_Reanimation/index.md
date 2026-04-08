@@ -31,6 +31,10 @@ status: final
 Diese Version ist veraltet.
 :::
 
+:::{raw} latex
+\clearpage
+:::
+
 :::{todo} {issue}`44` GRAFIK: ERC 2025 ALS-Algorithmus
 
 (fig-als)=
@@ -51,8 +55,8 @@ Diese Version ist veraltet.
 
 
 
-```{rubric} Anmerkungen
-```
+:::{rubric} Anmerkungen
+:::
 
 Infektionen
 

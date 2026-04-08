@@ -1,37 +1,8 @@
 ---
-status: final
+status: review
 ---
 
-# Algorithmen Herz-Lungen-Wiederbelebung
-
-
-
-:::{todo} {issue}`1` Update auf ERC 2025 ausständig!
-
-Diese Version ist veraltet.
-:::
-
-
-
-::::{only} not nosidebar
-
-:::{margin} Einleitung
-- ERC-Leitlinien
-
-- verschiedene Formen:
-
-  - Basic Life Support (BLS)
-  - Advanced Life Support (ALS)
-  - Pediatric Life Support (PLS)
-:::
-::::
-
-Der Ablauf der Reanimation wird durch die Leitlinien des *European Resuscitation Council* (*ERC*) vorgegeben und sind durch zahlreiche Studien wissenschaftlich abgesichert.
-Diese Leitlinien werden alle 5 Jahre aktualisiert und gliedern sich in verschiedene Themenbereiche, einer davon ist der  *Basic Life Support* (*BLS*).
-Neben dem Basic Life Support, welcher hauptsächlich für Laien und nicht-ärztliche Helfer ausgelegt ist, gibt es den *Advanced Life Support* (Erweiterte Maßnahmen, *ALS*), welcher für speziell ausgebildete Notfallteams konzipiert ist.
-Für Kinder ist der *Pediatric Life Support* (*PLS*) anzuwenden.
-
-## Basic Life Support (BLS)
+# Basic Life Support (BLS)
 
 Die ERC betont die Wichtigkeit *frühzeitigen* Handelns.
 Durch engmaschiges Monitoring von Notfallpatienten soll ein drohender Kreislaufstillstand frühzeitig erkannt werden,

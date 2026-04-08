@@ -12,10 +12,10 @@ Diese Version ist veraltet.
 
 
 
-```{index} single: Herzdruckmassage
-```
-```{index} single: HDM
-```
+:::{index} single: Herzdruckmassage
+:::
+:::{index} single: HDM
+:::
 
 ## Herzdruckmassage
 
@@ -28,38 +28,37 @@ Ebenso muss nach Abgabe eines Schocks durch den Defibrillator die Herzdruckmassa
 Auch wenn eine Defibrillation erfolgreich war, d. h. lt. EKG ein ordnungsgemäßer Herzrhythmus wiederhergestellt wurde, kann es einige Zeit dauern, bis das Herz wieder eine ausreichende mechanische Tätigkeit aufweist und ein ausreichender Spontankreislauf einsetzt
 {term}`🗎 Sandroni 2008` {term}`🗎 Skhirtladze 2010`.
 
+
 :::{note}
-- Die Unterbrechung der HDM durch den AED/Defibrillator soll
-  insgesamt  **unter 5 s** betragen!
+-   Die Unterbrechung der HDM durch den AED/Defibrillator soll insgesamt  **unter 5 s** betragen!
 :::
 
 ::::{only} not nosidebar
-
 :::{margin} HDM / Technik
-- Druckpunkt: *Mitte* des Brustkorbes
+-   Druckpunkt: *Mitte* des Brustkorbes
+-   Arm- und Körperhaltung
 
-- Arm- und Körperhaltung
+    -   Handballen am Brustbein,
+    -   Finger verschränkt,
+    -   Arme durchgestreckt,
+    -   Schultern genau über dem Druckpunkt.
 
-  - Handballen am Brustbein,
-  - Finger verschränkt,
-  - Arme durchgestreckt,
-  - Schultern genau über dem Druckpunkt.
+-   Druckerzeugung und Druckentlastung
 
-- Druckerzeugung und Druckentlastung
+    -   kräftig aber nicht ruckartig
+    -   Eindrücktiefe: 5—6 cm
+    -   vollständige Entlastung
 
-  - kräftig aber nicht ruckartig
-  - Eindrücktiefe: 5—6 cm
-  - vollständige Entlastung
-
-- Frequenz: **100—120 / min**
+-   Frequenz: **100—120 / min**
 :::
 ::::
 
-```{rubric} Durchführung
-```
 
-Der Patient muss auf einer *harten Unterlage*
-(Reanimationsbrett, Boden, …) liegen, der Helfer kniet seitlich neben dem Thorax des Patienten und beugt sich über den Patienten.
+
+:::{rubric} Durchführung
+:::
+
+Der Patient muss auf einer *harten Unterlage* (Reanimationsbrett, Boden, …) liegen, der Helfer kniet seitlich neben dem Thorax des Patienten und beugt sich über den Patienten.
 Der Brustkorb wird frei gemacht und der *Druckpunkt* für die Herzdruckmassage aufgesucht, dieser liegt in der **Mitte des Brustbeins** zwischen den Mamillen (beim Mann).
 Auf diesem Punkt wird ein *Handballen* gelegt, der Handballen der anderen Hand liegt am Handrücken der ersten Hand, direkt über dem Druckpunkt, die Finger werden ineinander verschränkt.
 Die Arme des Helfers sind durchstreckt und er drückt mit Hilfe seines eigenen Gewichts *gerade nach unten* mit einer *Eindrücktiefe* von **5—6 cm**.[^footnote-1]
@@ -68,16 +67,16 @@ Nach der Kompression erfolgt die passive vollständige **Entlastung** des Brustk
 Die Kompressions- und Entlastungsphasen sollen in etwa gleich lange dauern und nicht ruckartig ablaufen.
 Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis max. 120 / min).
 
-[^footnote-1]: Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
+[^footnote-1]:
+    Beim durchschnittlichen Erwachsenen entspricht das ungefähr 1/3 des Brustkorbes.
 
-[^footnote-2]: Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck
-    mehr auf den Brustkorb des Patienten ausübt. Die Handballen werden
-    also in ihre Ausgangslage zurückgeführt, wobei sie gerade nicht vom
-    Brustkorb abheben. Sollte es versehentlich passieren, dass der Helfer
-    den Kontakt zum Patient verliert, muss der Druckpunkt neu aufgesucht
-    werden.
+[^footnote-2]:
+    Vollständige Entlastung bedeutet, dass der Helfer keinerlei Druck mehr auf den Brustkorb des Patienten ausübt.
+    Die Handballen werden also in ihre Ausgangslage zurückgeführt, wobei sie gerade nicht vom Brustkorb abheben.
+    Sollte es versehentlich passieren, dass der Helfer den Kontakt zum Patient verliert, muss der Druckpunkt neu aufgesucht werden.
 
-:::{subfigure} AB|CC
+
+:::{subfigure} ABC
 :subcaptions: below
 :name: Fig-Hdm
 :class-grid: outline
@@ -85,12 +84,15 @@ Die *Zielfrequenz*  der Herzdruckmassage beträgt *100 / min* (bis max. 120�
 
 Bilderserie: *Herzdruckmassage* [© Lena Hirtler, {term}`ℓ MfG`]
 
-![Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Druckpunkt.\*)
+![Druckpunkt: Mitte des Brustkorbs. Die Finger werden ineinander verschränkt,](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Druckpunkt.\*)
 
-![die Arme durchgestreckt](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-1.\*)
+![die Arme durchgestreckt](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-1.\*)
 
-![und Oberkörper nach vorne gebeugt: → Druck direkt auf Brustbein](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-2.\*)
+![und Oberkörper nach vorne gebeugt: → Druck direkt auf Brustbein](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Reanimation-Position-2.\*)
 :::
+
+
+
 
 
 ### Fehlerquellen
@@ -98,34 +100,32 @@ Bilderserie: *Herzdruckmassage* [© Lena Hirtler, {term}`ℓ MfG`]
 ::::{only} not nosidebar
 
 :::{margin} Fehlerquellen
-- Leerlauf
-- Keine feste Unterlage
-- Verletzungen durch falschen Druckpunkt oder falsche Druckrichtung
-- Ruckartige Bewegungen
+-   Leerlauf
+-   Keine feste Unterlage
+-   Verletzungen durch falschen Druckpunkt oder falsche Druckrichtung
+-   Ruckartige Bewegungen
 :::
 ::::
 
-- *Leerlauf*: Die HDM muss möglichst ohne vermeidbare Unterbrechungen
-  durchgeführt werden. Kritische Situationen sind üblicherweise:
+-   *Leerlauf*: Die HDM muss möglichst ohne vermeidbare Unterbrechungen durchgeführt werden. Kritische Situationen sind üblicherweise:
 
-  - Nach der Defibrillation
-  - Nach Beatmungsversuchen
-  - Bei Personalwechsel
-  - Intubationsversuche
+    -   Nach der Defibrillation
+    -   Nach Beatmungsversuchen
+    -   Bei Personalwechsel
+    -   Intubationsversuche
 
-- Ein herkömmliches *Bett ist keine feste Unterlage*.
+-   Ein herkömmliches *Bett ist keine feste Unterlage*.
 
-- Vermeidbare Verletzungen durch den Helfer,
-  insbesonders wenn der Druck nicht direkt am korrekten Druckpunkt von oben ausgeübt wird;
-  die Schultern des Helfers müssen sich direkt über dem Brustbein des
-  Patienten befinden.
+-   Vermeidbare Verletzungen durch den Helfer, insbesonders wenn der Druck nicht direkt am korrekten Druckpunkt von oben ausgeübt wird;
+    die Schultern des Helfers müssen sich direkt über dem Brustbein des Patienten befinden.
 
-  Grundsätzlich sind aber manche Verletzungen,
-  insbesonders Rippenfrakturen,
-  auch bei korrekt durchgeführter Reanimation,
-  meist unvermeidbar.
+    Grundsätzlich sind aber manche Verletzungen, insbesonders Rippenfrakturen, auch bei korrekt durchgeführter Reanimation, meist unvermeidbar.
 
-- Ruckartiger Druck: Zu kurze Auswurfphase
+-   Ruckartiger Druck: Zu kurze Auswurfphase
+
+
+
+
 
 ## Alternativen
 
@@ -139,22 +139,23 @@ Das ERC sieht diese Geräte als sinnvolle Möglichkeit an wenn die Durchführung
 
 
 
-```{index} single: ECPR
-```
-```{index} single: ECMO
-```
-```{index} single: Extra-Corporal Membrane Oxygenation
-```
-```{index} single: Oxygenation; Extra-Corporal Membrane
-```
-```{index} single: Herz-Lungen-Maschine
-```
-```{index} single: Maschine; Herz-Lungen-
-```
-```{index} single: extrakorporale Verfahren
-```
-```{index} single: Verfahren; extrakorporale
-```
+
+:::{index} single: ECPR
+:::
+:::{index} single: ECMO
+:::
+:::{index} single: Extra-Corporal Membrane Oxygenation
+:::
+:::{index} single: Oxygenation; Extra-Corporal Membrane
+:::
+:::{index} single: Herz-Lungen-Maschine
+:::
+:::{index} single: Maschine; Herz-Lungen-
+:::
+:::{index} single: extrakorporale Verfahren
+:::
+:::{index} single: Verfahren; extrakorporale
+:::
 
 (reanimationextrakorporaleverfahren)=
 

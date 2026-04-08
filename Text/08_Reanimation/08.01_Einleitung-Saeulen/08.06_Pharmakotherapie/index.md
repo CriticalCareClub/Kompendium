@@ -2,13 +2,18 @@
 status: final
 ---
 
-```{index} pair: Reanimation; Medikamente pair: Reanimation; Adrenalin pair: Reanimation; Amiodaron pair: Reanimation; Sedacoron™
-```
+:::{index} pair: Reanimation; Medikamente
+:::
+:::{index} pair: Reanimation; Adrenalin
+:::
+:::{index} pair: Reanimation; Amiodaron
+:::
+:::{index} pair: Reanimation; Sedacoron™
+:::
 
 (reanimation-pharmaka)=
 
 # *Pharmakotherapie*
-
 
 :::{todo} {issue}`1` Update auf ERC 2025 ausständig!
 
@@ -16,18 +21,14 @@ Diese Version ist veraltet.
 :::
 
 
-
 Die Gabe von Medikamenten ist eine Routinemaßnahme während der Reanimation. Typischerweise erfolgt die Medikamentengabe über eine periphere Venenverweilkanüle (Venflon, Braunüle).
-Sinvollerweise wird standardmäßig auch eine Infusion mit kristalloider Infusionslösung
-(Kochsalz-, Ringerlösung, Ringerlaktat, Elo-Mel isoton™)
-angeschlossen,
-um eine schnelle Spülung zu ermöglichen.
+Sinvollerweise wird standardmäßig auch eine Infusion mit kristalloider Infusionslösung (Kochsalz-, Ringerlösung, Ringerlaktat, Elo-Mel isoton™) angeschlossen, um eine schnelle Spülung zu ermöglichen.
 
 Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein intraossärer Zugang mittels spezieller Hilfsmittel gelegt werden. Früher war es auch üblich, Medikamente über einen Endotrachealtubus (*ET*) zu geben, dies wird nicht mehr empfohlen.
 
 
-```{tabularcolumns} LLLLL
-```
+:::{tabularcolumns} LLLLL
+:::
 
 :::{list-table} Standard-Reanimationsmedikamente ERC 2025
 :header-rows: 1
@@ -70,8 +71,8 @@ Sollte die rasche Anlage einer solchen nicht gelingen, kann als Alternative ein 
 
 Bilderserie: Reanimation
 
-![Monitor-Bild während einer Reanimation im AED-Modus: Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/EKG-Reanimation-VtBewegungsartefakt.000800px.\*)
+![Monitor-Bild während einer Reanimation im AED-Modus: Ventrikuläre Tachykardie und Bewegungsartefakte durch die Herzdruckmassage.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/EKG-Reanimation-VtBewegungsartefakt.000800px.\*)
 
-![Während einer Reanimation kann viel Adrenalin verbraucht werden.](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Medikamente-LAdrenalin-Sammlung-Live.000800px.\*)
+![Während einer Reanimation kann viel Adrenalin verbraucht werden.](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/Medikamente-LAdrenalin-Sammlung-Live.000800px.\*)
 :::
 

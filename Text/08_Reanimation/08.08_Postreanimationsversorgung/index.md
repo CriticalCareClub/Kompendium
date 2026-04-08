@@ -2,15 +2,14 @@
 status: final
 ---
 
-```{index} single: ROSC
-```
-```{index} single: Resumption Of Spontaneaus Circulation
-```
-```{index} pair: Reanimation; Postreanimationsbehandlung
-```
+:::{index} single: ROSC
+:::
+:::{index} single: Resumption Of Spontaneaus Circulation
+:::
+:::{index} pair: Reanimation; Postreanimationsbehandlung
+:::
 
 # Postreanimationsbehandlung
-
 
 :::{todo} {issue}`1` Update auf ERC 2025 ausständig!
 
@@ -19,29 +18,32 @@ Diese Version ist veraltet.
 
 
 
+
+
 ## Ende der Reanimation
 
 Der Helfer darf die Wiederbelebung beenden, wenn einer der drei angeführten Umstände (Abbruchkriterien) eintritt:
 
-- Eintreffen von **weiterer Hilfe**: Der Helfer kann bei Eintreffen weiterer Hilfe durch diese abgelöst werden.
+-   Eintreffen von **weiterer Hilfe**: Der Helfer kann bei Eintreffen weiterer Hilfe durch diese abgelöst werden.
 
-- **Wiedererlangung des Kreislaufes**
-  (*Return Of Spontaneous Circulation* (**ROSC**)):
-  Zeigt der Patient *eindeutige Lebenszeichen* (Erwachen, Husten,  Atmen) so wird die Reanimation vorläufig beendet.
-  Es ist sofort eine *Atemkontrolle* durchzuführen um sicherzustellen, dass die Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
-  Ist eine normale Atmung vorhanden, wird die Reanimation endgültig beendet.
-  Es ist der {ref}`Einschätzungsblock <Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
-  Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98 %.
+-   **Wiedererlangung des Kreislaufes**
+    (*Return Of Spontaneous Circulation* (**ROSC**)):
+    Zeigt der Patient *eindeutige Lebenszeichen* (Erwachen, Husten,  Atmen) so wird die Reanimation vorläufig beendet.
+    Es ist sofort eine *Atemkontrolle* durchzuführen um sicherzustellen, dass die Lebenszeichen richtig erkannt wurden bzw. weiter bestehen.
+    Ist eine normale Atmung vorhanden, wird die Reanimation endgültig beendet.
+    Es ist der {ref}`Einschätzungsblock <Einschaetzungsblock>` sowie die Standardmaßnahmen bei vital bedrohten Patienten durchzuführen.
+    Die Sauerstoffgabe hat dabei einen SpO₂-Zielwert von 94—98 %.
 
-  Anmerkung: *Erbrechen* ist *kein* Lebenszeichen.
+    Anmerkung: *Erbrechen* ist *kein* Lebenszeichen.
 
-- **Erschöpfung**:
-  Sollte ein Ersthelfer all seine Kräfte aufgebraucht haben, wird gezwungener Maßen die Wiederbelebung ab- bzw. unterbrochen.
-  Fachpersonal wird nicht in eine derartige Situation kommen, an eine Ablöse ist im Falle von protrahierter Reanimation rechtzeitig zu denken.
-  Außerdem ist der Erschöpfung durch Abwechseln bei der Durchführung der HDM und der Beatmung vorzubeugen.
-  Der Wechsel findet idealerweise nach jedem HDM-/Beatmungszyklus, d. h. ca. alle 2 min, statt und darf zu keiner Verzögerung der HDM führen.
+-   **Erschöpfung**:
+    Sollte ein Ersthelfer all seine Kräfte aufgebraucht haben, wird gezwungener Maßen die Wiederbelebung ab- bzw. unterbrochen.
+    Fachpersonal wird nicht in eine derartige Situation kommen, an eine Ablöse ist im Falle von protrahierter Reanimation rechtzeitig zu denken.
+    Außerdem ist der Erschöpfung durch Abwechseln bei der Durchführung der HDM und der Beatmung vorzubeugen.
+    Der Wechsel findet idealerweise nach jedem HDM-/Beatmungszyklus, d. h. ca. alle 2 min, statt und darf zu keiner Verzögerung der HDM führen.
 
-- **Umgebung unsicher** und kann nicht (mehr) sicher gemacht werden
+-   **Umgebung unsicher** und kann nicht (mehr) sicher gemacht werden
+
 
 
 
@@ -128,8 +130,8 @@ Eine verlässliche Prognose soll **nicht zu früh gestellt werden**, sondern in 
 
 
 
-```{index} pair: Reanimation; Ende
-```
+:::{index} pair: Reanimation; Ende
+:::
 
 (reanimation-ende-nichtbeginn)=
 

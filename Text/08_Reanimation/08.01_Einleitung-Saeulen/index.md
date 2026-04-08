@@ -20,20 +20,25 @@ Dennoch ist die Überlebensrate bis zur Krankenhausentlassung nach rettungsdiens
 Ausgehend von der Reanimation eines erwachsenen Patienten werden wir die Reanimation auf Basis der grundsätzlichen **Säulen der Reanimationstherapie** besprechen.
 Die Besonderheiten einzelner Patientengruppen (Kinder, Neugeborene) und die Notwendigen Abweichungen werden basierend darauf in eigenen Kapiteln behandelt.
 
+
+
+
+
+:::{index} single: ERC
+:::
+:::{index} single: European Resuscitation Council
+:::
+:::{index} single: Resuscitation (Journal)
+:::
+:::{index} single: Journal; Resuscitation
+:::
+:::{index} pair: Guidelines; ERC
+:::
+
 (erc-reanimation)=
 
-```{index} single: ERC
-```
-```{index} single: European Resuscitation Council
-```
-```{index} single: Resuscitation (Journal)
-```
-```{index} single: Journal; Resuscitation
-```
-```{index} pair: Guidelines; ERC
-```
-
-## Hintergrund: ERC-Leitlinien
+:::{rubric} Hintergrund: ERC-Leitlinien
+:::
 
 ::::{only} not nosidebar
 
@@ -56,34 +61,9 @@ Eine deutsche Übersetzung ist auf den Homepages der deutschen und der österrei
 [^footnote-1]: *GRC*: *German Resuscitation Council*; *ARC*: *Austrian Resuscitation
     Council*
 
-Die ERC-Guidelines sind in zwölf Sektionen unterteilt:
 
-01. Kurzdarstellung
-    {term}`🗎 ERC 2021 01`
-02. Epidemiologie {term}`🗎 ERC 2021 02`
-03. Systems saving lives {term}`🗎 ERC 2021 03`
-04. Basic Life Support {term}`🗎 ERC 2021 04`
-05. Erweiterte Reanimationsmaßnahmen für Erwachsene
-    (*"Adult Advanced Life Support"*)
-    {term}`🗎 ERC 2021 05`
-06. Kreislaufstillstand in besonderen Situationen
-    {term}`🗎 ERC 2021 06`
-07. Postreanimationsbehandlung
-    {term}`🗎 ERC 2021 07`
-08. Erste Hilfe
-    {term}`🗎 ERC 2021 08`
-09. Die Versorgung und Reanimation des Neugeborenen
-    {term}`🗎 ERC 2021 09`
-10. Lebensrettende Maßnahmen bei Kindern
-    (*"Paediatric Life Support"*)
-    {term}`🗎 ERC 2021 10`
-11. Ausbildung
-    {term}`🗎 ERC 2021 11`
-12. Ethik der Reanimation und Entscheidungen am Lebensende
-    {term}`🗎 ERC 2021 12`
-
-```{rubric} Neu oder alt?
-```
+:::{rubric} Neu oder alt?
+:::
 
 Da alle fünf Jahre eine neue Version der Richtlinien erscheint, kommt es gerade in der Übergangszeit regelmäßig zu Verwirrungen, welche Versionen oder Varianten in der Praxis angewendet werden sollen.
 
@@ -97,25 +77,28 @@ I. d. R. trifft der Teamleiter als Letztverantwortlicher die Entscheidung, e
 Die Publikation einer neuen Ausgabe der Guidelines bedeutet nicht, dass die bisherigen Methoden unsicher oder ineffektiv sind.
 :::
 
-```{index} single: Reanimation; Säulen
-```
 
-## Säulen der Reanimation
+
+
+
+:::{index} single: Reanimation; Säulen
+:::
+
+:::{rubric} Säulen der Reanimation
+:::
 
 Die Reanimation besteht, je nach Kompetenzniveau, aus drei bis sieben Säulen:
 
-1. **Erkennen** der Reanimationspflichtigkeit
-2. **Mechanische** Therapie (Herzdruckmassage)
-   zur Aufrechterhaltung eines
-   Minimalkreislaufes
+1.  **Erkennen** der Reanimationspflichtigkeit
+2.  **Mechanische** Therapie (Herzdruckmassage) zur Aufrechterhaltung eines Minimalkreislaufes
 3. **Ventilation** zur Oxygenierung und Decarboxylierung
-4. **Elektrotherapie**
-   zur Normalisierung des Herzrhythmus, wenn indiziert
+4. **Elektrotherapie** zur Normalisierung des Herzrhythmus, wenn indiziert
 5. **Pharmakologische** Therapie
 6. **Kausale** Therapie reversibler Ursachen
 7. **Postreanimationsversorgung**
 
-:::{subfigure} AB|CC
+
+:::{subfigure} ABC
 :subcaptions: below
 :name: Figure-BasisreanimationDreiKoenige
 :class-grid: outline
@@ -131,6 +114,17 @@ Die *drei Könige* der Basisreanimation [© Lena Hirtler, {term}`ℓ MfG`]
 :::
 
 
-## Systems Saving Lives
+
+
+
+:::{index} Systems Saving Lives
+:::
 
 Die ERC-Leitlinien 2025 betonen neben Einzelmaßnahmen auch Systems Saving Lives: frühe Erkennung des Kreislaufstillstands, strukturierte Leitstellenabfrage, telefonisch angeleitete CPR, Ersthelfersysteme, AED-Verfügbarkeit, standardisierte Übergaben und Nachsorgepfade für Überlebende.
+
+:::{toctree}
+:maxdepth: 1
+:glob:
+
+*/index
+:::

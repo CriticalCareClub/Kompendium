@@ -10,8 +10,6 @@ status: final
 
 # Arterieller Zugang
 
-
-
 (GHDM-KP-IABP-Anlage)=
 (allen-test)=
 
@@ -21,7 +19,7 @@ status: final
 :::
 :::{index} single: Arteria; brachialis
 :::
-:::{index} single: Arteria; unlnaris
+:::{index} single: Arteria; ulnaris
 :::
 :::{index} single: Arteria; femoralis
 :::
@@ -34,9 +32,6 @@ status: final
 
 ## Anlage
 
-Prüfungsrelevanz
-: ☑ **Praktikum** | ☑ **Schriftliche Prüfung** | ☑ **PJ-Reife / OSCE**
-
 Die Anlage einer arteriellen Kanüle zur Druckmessung kann in direkter Punktionstechnik (analog zu einer peripheren Venenverweilkanüle) oder in Seldinger-Technik erfolgen.
 Ein typischer Punktionsort ist die A. radialis, alternativ sind aber auch andere Punktionsorte möglich (Aa. brachialis, ulnaris, femoralis, dorsalis pedis).
 Weiters kann die Punktion unter palpatorischer Kontrolle oder mittels Ultraschall (in-plane oder out-of-plane, siehe {ref}`Praktikum-Ultraschall`) erfolgen.
@@ -47,12 +42,12 @@ Ein modifizierter **Allen-Test** zur Kontrolle des Kollateralkreislaufs wird hä
 
     Für die Neugierigen sei jedoch die Durchführung erwähnt:
 
-    1. Hand anheben, der Patient muss die *Faust für 30 s ballen*. Wenn der Patient dazu nicht in der Lage ist, schließen Sie die Hand der Person fest.
-    2. *A. ulnaris* und *A. radialis* *komprimieren*
-    3. Hand öffnen, diese sollte deutlich *bleicher* er als zu Beginn sein.
-       Ist dies nicht der Fall, haben Sie die Arterien nicht vollständig mit den Fingern komprimiert: Neuer Versuch.
-    4. Druck über *A. ulnaris öffnen*, A. radialis weiter komprimieren
-    5. Beurteilung: *Positiv* wenn die Hand innerhalb von 5-15 Sekunden *rekapillarisiert*, dies zeigt an, dass die Ulnararterie gut durchblutet ist; *Negativ* wenn die Hand nicht innerhalb von 5-15 Sekunden rekapillarisiert, dies weist darauf hin, dass die ulnare Durchblutung unzureichend oder nicht vorhanden ist.
+    1.  Hand anheben, der Patient muss die *Faust für 30 s ballen*. Wenn der Patient dazu nicht in der Lage ist, schließen Sie die Hand der Person fest.
+    2.  *A. ulnaris* und *A. radialis* *komprimieren*
+    3.  Hand öffnen, diese sollte deutlich *bleicher* er als zu Beginn sein.
+        Ist dies nicht der Fall, haben Sie die Arterien nicht vollständig mit den Fingern komprimiert: Neuer Versuch.
+    4.  Druck über *A. ulnaris öffnen*, A. radialis weiter komprimieren
+    5.  Beurteilung: *Positiv* wenn die Hand innerhalb von 5-15 Sekunden *rekapillarisiert*, dies zeigt an, dass die Ulnararterie gut durchblutet ist; *Negativ* wenn die Hand nicht innerhalb von 5-15 Sekunden rekapillarisiert, dies weist darauf hin, dass die ulnare Durchblutung unzureichend oder nicht vorhanden ist.
 
 
 :::{subfigure} A|B
@@ -73,9 +68,7 @@ Ein modifizierter **Allen-Test** zur Kontrolle des Kollateralkreislaufs wird hä
 Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrollierten Punktion der A. radialis in out-of-plane-Technik (, Querschnitt, "kurze Achse") beschrieben:
 
 
-
 ::::{admonition} Material
-
 :::{hlist}
 - Arterienkanüle
 - Tupfer mit Hautantiseptikum mit remmanenter Wirkung
@@ -91,8 +84,11 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 :::
 ::::
 
-### Vorgehen
 
+
+
+
+### Vorgehen
 
 01. Indikationsstellung
 02. Patientenkontakt, Patientenidentifikation, Aufklärung
@@ -153,6 +149,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 
 34. Dokumentation
 
+
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Arterial-line-shaded.png
 :alt: Bild
 :width: 75%
@@ -162,10 +159,14 @@ Success: Arterielles System in situ an der A. radialis
 © Red Roan {term}`ℓ CC BY-SA 4.0`
 :::
 
+
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
+
+
+
 
 
 :::{index} single: BGA; Abnahme
@@ -176,10 +177,6 @@ Ischämie der Akren nach Anlage eines arteriellen Katheters.
 (GEIN-KP-Astrup-Abnahme)=
 
 ## Blutabnahme über ein Arteriensystem
-
-Prüfungsrelevanz
-: ☑ **Praktikum** | ☐ Schriftliche Prüfung | ☑ **PJ-Reife / OSCE**
-
 
 :::{warning}
 Die Blutabnahme über ein Arteriensystem ist eine aseptische Tätigkeit.
@@ -252,7 +249,7 @@ Arteriensystem
 
 17. Patientenkontakt beenden
 
-18. ggfs. Probenbehälter desinfizieren (bei Kontaminiation oder infektiösen Patienten)
+18. ggfs. Probenbehälter desinfizieren (bei Kontamination oder infektiösen Patienten)
 
 19. Probenbehälter versorgen, Material **entsorgen**
 

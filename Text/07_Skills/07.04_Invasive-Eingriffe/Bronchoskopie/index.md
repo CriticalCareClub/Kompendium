@@ -12,24 +12,28 @@ status: final
 :::{index} single: Bronchoskopie
 :::
 
+(Bronchoskopie)=
 (gein-kp-bsk)=
 
 # Bronchoskopie
 
 ## Flexible optische Bronchoskopie
 
-- **Starr**
-- **Flexibel**
-- **Auf ICU nur flexible Bronchoskopie**
-- **Fiberoptik oder Video Bronchoskopie**
+-   Starr
+-   Flexibel
+-   Fiberoptik oder Video Bronchoskopie
+
 
 :::{todo} {issue}`28` FOTO: Flexibles Bronchoskop
-
 
 :width: 75%
 
 Flexibles Bronchoskop
 :::
+
+
+
+
 
 (gein-kp-bsk-indikation)=
 
@@ -37,13 +41,13 @@ Flexibles Bronchoskop
 
 Diagnostisch:
 
-- Pneumonie (immunsupprimierte Pateinten, nosokomiale Pneumonie, ventilatorassoziierte Pneumonie)
+- Pneumonie (immunsupprimierte Patienten, nosokomiale Pneumonie, ventilatorassoziierte Pneumonie)
 - Unklare pulmonale Infiltrate
 - Unklare pulmonale Massen oder Rundherde
-- Verdacht auf Atemwegsverletzungen (nach Intubation, stumpfem thoraxtrauma, postoperativ)
-- Akutes inhalationstrauma, Verbrecnnung
+- Verdacht auf Atemwegsverletzungen (nach Intubation, stumpfem Thoraxtrauma, postoperativ)
+- Akutes Inhalationstrauma, Verbrennung
 - Einseitig lokalisiertes Giemen, Stridor
-- Verdacht auf tracheoösophagelae Fistel
+- Verdacht auf tracheoösophageale Fistel
 
 Therapeutisch:
 
@@ -54,7 +58,7 @@ Therapeutisch:
 - Fremdkörper
 - Hämoptysen
 - Bronchopleurale Fistel
-- Beidseitige Atemwegsobstruktion durch endobronchialen Tumor (Laser, Argn-Plasma-Koagulation, Kryotherapie, Elektroschlinge)
+- Beidseitige Atemwegsobstruktion durch endobronchialen Tumor (Laser, Argon-Plasma-Koagulation, Kryotherapie, Elektroschlinge)
 - Bronchiale Strikturen (benigne) oder Stenosen (benign oder malign): Dilatation oder Stentimplantation
 
 
@@ -77,14 +81,19 @@ Bronchialbaum
 :::
 
 
+
+
+
 (gein-kp-bsk-technik)=
 
 ### Durchführung
 
-- Achsengereche Längsbewegung
-- Achsendrehung des gesamten Bronchoskops
-- Abwinkelung des distalen Teil
-- Immer unter Monitoring (Pulsoxymetrie, EKG, Blutdruck)
+-   Achsengerechte Längsbewegung
+-   Achsendrehung des gesamten Bronchoskops
+-   Abwinkelung des distalen Teil
+-   Immer unter Monitoring (Pulsoxymetrie, EKG, Blutdruck)
+
+
 
 
 
@@ -92,11 +101,11 @@ Bronchialbaum
 
 ### Komplikationen
 
-- O₂-Abfall, CO₂-Anstieg
-- Reflektorischer Bronchospasmus
-- Mechanische Mucosaläsion mit Blutung
-- Mikroatelektasen
-- Pneumothorax
+-   O₂-Abfall, CO₂-Anstieg
+-   Reflektorischer Bronchospasmus
+-   Mechanische Mucosaläsion mit Blutung
+-   Mikroatelektasen
+-   Pneumothorax
 
 :::{admonition} Videos
 - [Video 1](https://www.youtube.com/watch?v=xPE4V8bU-Lk)

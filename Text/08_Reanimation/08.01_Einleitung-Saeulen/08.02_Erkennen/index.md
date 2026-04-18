@@ -31,4 +31,4 @@ Der gesonderte Nachweis der Pulslosigkeit ist *nicht* erforderlich!
 
 Entgegen der Vorgehensweise der Rettungskette wird bei einem Atem- und Kreislaufstillstand grundsätzlich bereits *nach der Kontrolle des Bewusstseins* *weitere Hilfe angefordert* (**Notruf**) und erst *danach* mit der *lebensrettenden Sofortmaßnahme* begonnen.
 
-Im Folgenden werden die zinzelnen Säulen der Reanimation konkret besprochen.
+Im Folgenden werden die einzelnen Säulen der Reanimation konkret besprochen.

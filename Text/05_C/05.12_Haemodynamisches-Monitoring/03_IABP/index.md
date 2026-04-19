@@ -179,7 +179,7 @@ Elektrische vs. mechanische Herzfunktion: EKG- (oben, grün) und Arterienkurve (
 
 Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch eine Stimulationselektrode, demnach folgt ihnen auch keine Druckwelle.
 
-© GaSe {term}`ℓ CC BY AUT 3.0`
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
 :::
 
 :::{todo} {issue}`17` FOTOS: IBP

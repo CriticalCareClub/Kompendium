@@ -51,17 +51,37 @@ Es können dabei einzelne oder mehrere Teile des Kreislaufsystems betroffen sein
 :::
 
 
-:::{table} Hämodynamische Parameter nach Schockform
 
-|             | HF    | ZVD   | Kontraktilität | Systemic Vascular Resistance                                    |
-| ----------- | ----- | ----- | -------------- | --------------------------------------------------------------- |
-| Kardiogen   | **↑** | **↑** | ↓↓             | **↑**                                                           |
-| Hypovoläm   | ↑     | ↓↓    | ± ↑            | ↑                                                               |
-| Distributiv | ↑     | ↓↓    | ±              | ↓                                                               |
-| Obstruktiv  | ↑     | ±     | ±              | ↑Perikardtamponade, Pulmonalembolie <br> ↓Spannungspneumothorax |
+:::{list-table} Hämodynamische Parameter nach Schockform
+:header-rows: 1
 
+*   -
+    -   HF
+    -   ZVD
+    -   Kontraktilität
+    -   Systemic Vascular Resistance
+*   -   Kardiogen
+    -   **↑**
+    -   **↑**
+    -   ↓↓
+    -   **↑**
+*   -   Hypovoläm
+    -   ↑
+    -   ↓↓
+    -   ± ↑
+    -   ↑
+*   -   Distributiv
+    -   ↑
+    -   ↓↓
+    -   ±
+    -   ↓
+*   -   Obstruktiv
+    -   ↑
+    -   ±
+    -   ±
+    -   ↑ Perikardtamponade, Pulmonalembolie\
+        ↓ Spannungspneumothorax
 :::
-
 
 
 

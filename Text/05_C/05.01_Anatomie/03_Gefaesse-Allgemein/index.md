@@ -256,7 +256,7 @@ Flüssigkeit im Extrazellularraum → Lymphkapillaren → Lymphgefäße mit eing
     -   Arterie
     -   "Hauptarterie", geht von der linken Herzkammer nach kranial ab, macht im Aortenbogen (Arcus aortae) eine ca. 180° Kertwendung und verläuft nach kaudal, bis sie sich in die Leistenarterien gabelt.
         Von der Aorta zweigen alle anderen Körperarterien ab.
-        Der erste Abgang sind die Koronargefäße gleich nach der {ref}`Aortenklappe <Aortenklappe>`.
+        Der erste Abgang sind die {ref}`Koronararterien <Koronararterien>` gleich nach der {ref}`Aortenklappe <Aortenklappe>`.
 *   -   Karotis
     -   *Halsschlagader*
     -   Arterie
@@ -286,20 +286,20 @@ Flüssigkeit im Extrazellularraum → Lymphkapillaren → Lymphgefäße mit eing
 *   -   Vena cava superior
     -   *Obere Hohlvene*
     -   Vene
-    -   Obere Vene, die in den rechten Vorhof mündet
+    -   Zentrale Vene, die von kranial kommend in den rechten Vorhof mündet
 *   -   Vena cava inferior
     -   *Untere Hohlvene*
     -   Vene
-    -   Untere Vene, die in den rechten Vorhof mündet
+    -   Zentrale Vene, die von kaudal in den rechten Vorhof mündet
 *   -   V. pulmonalis \
         Pulmonalvene
     -   Lungenvene
     -   Vene
-    -   *O₂-reich.* Kommt von den Lungenkapillaren und mündet in den linken Vorhof
+    -   *O₂-***reich.** Kommt von den Lungenkapillaren und mündet in den linken Vorhof
 *   -   Vena portae
     -   Pfortader
     -   Vene
-    -   Führt O₂-armes, aber nährstoffreiches Blut von Teilen des Darms zur Leber (zur Entgiftung)
+    -   Führt O₂-armes, aber nährstoffreiches Blut von Teilen des Darms zur Leber
 *   -   Kapillargefäße
     -   *Haargefäße*
     -   Kapillare

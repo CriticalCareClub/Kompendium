@@ -197,35 +197,53 @@ Plexus brachialis im Vergleich zu einem Stellwerk.
 Der Plexus brachialis kann an verschiedenen Punkten (interskalenär, supra- oder infraklavikulär, axillär) seines Verlaufs blockiert werden, abhängig vom Blockadeort ergeben sich durch diese Verschiebungen unterschiedliche von der Anästhesie erfasste Regionen.
 
 
-```{eval-rst}
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            |                                        |
-+------------------------+----------------------------+----------------------------------------+
-| Pars supraclavicularis | Nervus *dorsalis scapulae* |                                        |
-+------------------------+----------------------------+----------------------------------------+
-|                        | Nervus *thoracicus longus* |                                        |
-+------------------------+----------------------------+----------------------------------------+
-|                        | Nervus *suprascapularis*   |                                        |
-+------------------------+----------------------------+----------------------------------------+
-| Pars infraclavicularis | Fasciculus lateralis       | Nervus *musculocutanues*               |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *pectoralis lateralis*          |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *medianus* (Radix lateralis)    |
-+------------------------+----------------------------+----------------------------------------+
-|                        | Fasciculus medius          | Nervus *medianus* (Radix medialis)     |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *ulnaris*                       |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *pectoralis medialis*           |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *cutaneus brachii medialis*     |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            | Nervus *cutaneus antebrachii medialis* |
-+------------------------+----------------------------+----------------------------------------+
-|                        |                            |                                        |
-+------------------------+----------------------------+----------------------------------------+
-```
+
+:::{list-table}
+:header-rows: 1
+
+*   -   Pars
+    -   Faszikel
+    -   Nerv
+*   -   Pars supraclavicularis
+    -
+    -   N. *dorsalis scapulae*
+*   -
+    -
+    -   N. *thoracicus longus*
+*   -
+    -
+    -   N. *suprascapularis*
+*   -   Pars infraclavicularis
+    -   Fasciculus lateralis
+    -   N. *musculocutaneus*
+*   -
+    -
+    -   N. *pectoralis lateralis*
+*   -
+    -
+    -   N. *medianus* (Radix lateralis)
+*   -
+    -   Fasciculus medialis
+    -   N. *medianus* (Radix medialis)
+*   -
+    -
+    -   N. *ulnaris*
+*   -
+    -
+    -   N. *pectoralis medialis*
+*   -
+    -
+    -   N. *cutaneus brachii medialis*
+*   -
+    -
+    -   N. *cutaneus antebrachii medialis*
+*   -
+    -
+    -
+:::
+
+
+
 
 
 
@@ -523,6 +541,8 @@ Dabei wird von dorsal am Knochen vorbei nach palmar ein Depot gesetzt und anschl
 
 
 
+:::{index} single: Block; Bier-
+:::
 :::{index} single: Bier-Block
 :::
 :::{index} single: i. v.-Regionalanästhesie
@@ -596,7 +616,9 @@ Voraussetzungen
 
 
 
-:::{important}Bei zu frühem oder abruptem Ablassen der Blutsperre kann es zu einem plötzlichen Konzentrationsanstieg mit systemischer Toxizität (z. B. Krampfanfälle, Arrhythmien) kommen.
+:::{important}
+
+Bei zu frühem oder abruptem Ablassen der Blutsperre kann es zu einem plötzlichen Konzentrationsanstieg mit systemischer Toxizität (z. B. Krampfanfälle, Arrhythmien) kommen.
 
 Die Blutsperre darf erst **nach** ausreichender **Wirkzeit** und langsam gelöst werden, um toxische Spitzenkonzentrationen zu vermeiden.
 :::

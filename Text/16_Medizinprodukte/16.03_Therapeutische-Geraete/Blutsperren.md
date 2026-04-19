@@ -26,14 +26,14 @@ Indikationen
 :   -   Extremitätenchirurgie (z. B. Hand-, Fußchirurgie)
     -   Orthopädische Eingriffe
     -   Mikrochirurgie
-    -   {ref}`i. v.-Regionalanästhesie (Bier-Block) <Bierl-Block>`
+    -   {ref}`i. v.-Regionalanästhesie (Bier-Block) <Bier-Block>`
 
 
 Durchführung
 :   -   Anlage einer gut gepolsterten Manschette
     -   Exsanguination der Extremität (z. B. Hochlagerung, Esmarch-Binde ("Auswickeln"))
     -   Aufpumpen der Manschette ca. 100–150 mm Hg über systolischen Blutdruck
-    -   2-Manschetten-System bei der {ref}`i. v.-Regionalanästhesie (Bier-Block) <Bierl-Block>`
+    -   2-Manschetten-System bei der {ref}`i. v.-Regionalanästhesie (Bier-Block) <Bier-Block>`
 
 
 Komplikationen

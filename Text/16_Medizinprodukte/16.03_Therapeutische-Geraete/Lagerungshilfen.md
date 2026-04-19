@@ -26,5 +26,44 @@ Sie kombinieren **Druckentlastung und visuelle Kontrolle** des Gesichts.
 
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_091232.001341px.\*
+
 Bauchlagerung mit DisposaView
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+:::
+
+
+
+## Kopfpölster
+
+
+
+
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Fig-BS-
+:class-grid: outline
+:gap: 20px
+
+Anti-Trendelenburg-Polster \[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+
+![Anti-Trendelenburg-Polster](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Positioning/IMG_150812.000800px.jpg)
+
+![Anti-Trendelenburg-Polster](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Positioning/IMG_150831.000800px.jpg)
+
+![Anti-Trendelenburg-Polster ](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Positioning/IMG_150840.000800px.jpg)
+
+![Anti-Trendelenburg-Polster](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Positioning/IMG_150945.000800px.jpg)
+
+
+:::
+
+
+
+
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/OR/Positioning/IMG_151038.000800px.jpg
+
+Niedriger Anti-Trendelenburg-Polster
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
 :::

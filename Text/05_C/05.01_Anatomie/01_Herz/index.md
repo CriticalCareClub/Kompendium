@@ -270,7 +270,7 @@ Durch die vorher schon erwähnte Filterfunktion des AV-Knoten kommt die konstant
 (LCA)=
 (Hauptstamm)=
 
-## Herzgefäße
+## Gefäßversorgung
 
 Neben der eigenen Erregungsbildung weist das Herz auch eine eigene Blutversorgung auf (Herzkranzgefäße).
 Diese beinhaltet die *Herzkranzarterien* (Koronararterien; Aa. coronariae dextra et sinistra) sowie die *Herzvenen* (Vv. cardiacae).
@@ -311,7 +311,16 @@ Bezüglich der *Versorgung* unterscheidet man nach Dominanz:
 
 Die Koronardurchblutung erfolgt überwiegend in der Diastole!
 
-Die Herzvenen münden alle in den *Sinus coronarius* im Sulcus coronarius, welcher wiederum in den rechten Vorhof mündet.
+
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Coronary_arteries_de_edited.000800.px.png
+
+Koronararterien
+
+\[© Patrick J. Lynch, medical illustrator, derivative work: Fred the Oyster, adaption and further labeling: Mikael Häggström, Translate Tobiasi0; modifiziert; {term}`ℓ CC-BY-AT 3.0`\]
+:::
+
+
+Die **Herzvenen** münden alle in den *Sinus coronarius* im Sulcus coronarius, welcher wiederum in den rechten Vorhof mündet.
 Wichtigste Herzvenen:
 
 -   V. cardiaca magna:

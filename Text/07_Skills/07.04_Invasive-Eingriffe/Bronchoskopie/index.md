@@ -52,7 +52,7 @@ Diagnostisch:
 Therapeutisch:
 
 - Schwieriger Atemweg: schwierige Intubation, Doppellumentubus, Extubation
-- Radioologischer Nachweis einer Atelektase
+- Radiologischer Nachweis einer Atelektase
 - Exzessive Atemwegssekrete mit Behinderung der Ventilation
 - Aspiration
 - Fremdkörper

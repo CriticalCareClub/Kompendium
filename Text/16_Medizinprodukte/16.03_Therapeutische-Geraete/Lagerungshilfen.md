@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Lagerungshilfen
 
 ```{index} single: Disposa-View™

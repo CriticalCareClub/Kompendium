@@ -356,7 +356,7 @@ Ein Wert unter 300 gilt als Schwelle für eine leichte Lungenschädigung, unter 
 BGAs in Serie
 
 Patient mit  COVID-19-Pneumonie und schwerer Oxygenationsstörung in Bauchlage (BL) und nach Zurückdrehen in Rückenlage (RL).
-Der Horovitzkoeffizient ist zuletzt 45.
+Der Horovitz-Quotient ist zuletzt 45.
 
 © GaSe  {term}`ℓ MfG`
 :::

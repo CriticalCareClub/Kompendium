@@ -20,9 +20,6 @@ status: final
 -   {ref}`Geringinvasive Ⓐ-Maßnahmen, Absaugung <Absaugung>`
 :::
 
-
-### Absaugungsvorrichtungen im OP
-
 Absaugungssysteme dienen der Entfernung von Blut, Sekreten und Spüllösungen aus dem Operationsgebiet sowie der Sicherung der Atemwege.
 
 

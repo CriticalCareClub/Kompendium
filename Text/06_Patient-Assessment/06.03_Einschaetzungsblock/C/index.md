@@ -28,14 +28,23 @@ Eine verlängerte Rekap-Zeit deutet auf eine lokale Durchblutungsstörung[^footn
     auch in Folge von Kälte minderdurchblutete Extremitäten,
     also "kalte Finger".
 
+:::{figire} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Conditions/IMG_091513.000800px.jpg
+
+Marmoriertes Hautkolorit bei einem Patienten im ausgeprägtem septischen Schock
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+:::
+
+
+
+
 ## Herzleistung und Blutdruck
 
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*, bzw.
 *Pulsfrequenz*, *PF*)
 von 60—100 / min .
 Bei Belastung kann die Herzfrequenz beträchtlich gesteigert werden.
-Durch die Pumpfunktion des Herzens entsteht der
-{ref}`arterielle Blutdruck <blutdruck>`.
+Durch die Pumpfunktion des Herzens entsteht der {ref}`arterielle Blutdruck <blutdruck>`.
 
 ### Beurteilung der Herzfrequenz
 

@@ -245,6 +245,7 @@ Flüssigkeit im Extrazellularraum → Lymphkapillaren → Lymphgefäße mit eing
 :::{list-table} Übersicht wichtiger Blutgefäße
 :header-rows: 1
 :stub-columns: 1
+:widths: 15 15 10 60
 
 *   -   Gefäß
     -   Umgspr. Bezeichnung

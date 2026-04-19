@@ -199,3 +199,24 @@ Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch e
 - BGA,
 - Volumenstatus (Swing); (Druckumwandler) Resonanz \< 40Hz wird die Blutdruckwelle  überlagert;  Dämpfung durch zu langes, weiches System Druckwellenweiterleitung behindert.
 :::
+
+
+## Artefakte
+
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/Artefakt_IMG_132733_edited.000800px.jpg
+
+Niedervoltage-EKG, welches fälschlicherweise als "Asystolie" interpretiert wird.
+
+Beachte die arterielle Druck- und Pulsoxymetriekurve als Zeichen eines Herzauswurfs, welcher nicht mit einer Asystolie vereinbar ist.
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+:::
+
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/PEA_IMG_091438_edited.000800px.jpg
+
+Pulslose Elektrische Aktivität.
+
+(Das arterielle Drucksystem und die Pulsoxymetrie ist korrekt angelegt.)
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+:::

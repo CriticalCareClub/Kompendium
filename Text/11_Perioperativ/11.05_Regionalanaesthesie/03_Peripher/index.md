@@ -519,3 +519,108 @@ Für kleine Eingriffe an Fingern und Zehen kommt der Oberst-Block zum Einsatz.
 Dabei erfolgt die Blockade der Nerven lateral, unmittelbar distal und beidseits der jeweiligen Phalanx-Grundgelenke.
 Dabei wird von dorsal am Knochen vorbei nach palmar ein Depot gesetzt und anschließend nach Abwarten der Einwirkzeit die Kanüle weiter vorgeschoben und weitere Depots gesetzt.
 
+
+
+
+
+:::{index} single: Bier-Block
+:::
+:::{index} single: i. v.-Regionalanästhesie
+:::
+
+(bier-block)=
+
+## Bier-Block (i. v.-Regionalanästhesie)
+
+Die intravenöse Regionalanästhesie (*Bier-Block*) ist ein Verfahren zur Anästhesie von Extremitäten durch Injektion eines Lokalanästhetikums in das venöse System *unter Blutsperre*.
+
+Nach Exsanguination der Extremität wird eine Blutsperre angelegt.
+Das Lokalanästhetikum wird intravenös appliziert und diffundiert in das umliegende Gewebe sowie zu den Nervenstrukturen.
+
+
+Indikationen
+:   -   Kurzzeitige Eingriffe an Hand und Unterarm
+    -   Repositionen
+    -   Kleinere chirurgische Eingriffe an der Extremität
+
+
+Durchführung
+:   -   Anlage eines venösen Zugangs distal
+    -   Exsanguination (Hochlagerung, Esmarch-Binde)
+    -   Verwendung eines *2-Manschetten-Systems*
+        -   Anlage einer *proximalen* Blutsperre
+    -   Injektion des Lokalanästhetikums
+    -   Nach Wirkung ggf. Umschalten auf *distale* Manschette zur Schmerzreduktion
+
+
+Lokalanästhetika
+:   -   Meist *Prilocain* oder *Lidocain*
+    -   Kein Einsatz von Adrenalin-haltigen Lösungen!
+
+
+Komplikationen
+:   -   Systemische Toxizität des Lokalanästhetikums (bei vorzeitigem Ablassen der Blutsperre)
+    -   Schmerzen durch Manschettendruck
+    -   Nervenschädigung
+    -   Thromboembolische Ereignisse
+
+Kontraindikationen
+:   -   Schwere periphere arterielle Verschlusskrankheit
+    -   Infektionen der Extremität
+    -   Allergie gegen Lokalanästhetika
+    -   Fehlende Kooperationsfähigkeit des Patienten
+
+
+Bei korrekter Durchführung kommt es nach Öffnen der Blutsperre zu keiner ausgeprägten systemischen Toxizität, da mehrere Mechanismen greifen:
+
+
+Warum keine relevante systemische Wirkung beim Bier-Block?
+:   -   *Gewebebindung* des Lokalanästhetikums
+        -   Ein Großteil diffundiert während der Einwirkzeit aus dem Gefäßsystem in Gewebe und Nerven
+        -   Dadurch steht weniger freie Substanz für eine systemische Freisetzung zur Verfügung
+
+    -   Zeitabhängige *Redistribution*
+        -   Mit zunehmender Dauer nimmt die intravasale Konzentration kontinuierlich ab
+
+    -   *Verdünnungseffekt*
+        -   Nach Öffnen der Blutsperre gelangt das Restanästhetikum in den systemischen Kreislauf und wird sofort verdünnt
+
+    -   *Fraktionierte Freisetzung*
+        -   Durch langsames bzw. intermittierendes Ablassen der Manschette erfolgt kein plötzlicher Bolus
+
+
+Voraussetzungen
+:   -   Ausreichende Wirkzeit (≥ 20–30 Minuten)
+    -   Korrekte Technik (2-Manschetten-System, langsames Ablassen)
+    -   Verwendung geeigneter Lokalanästhetika (z. B. *Prilocain*)
+
+
+
+:::{important}Bei zu frühem oder abruptem Ablassen der Blutsperre kann es zu einem plötzlichen Konzentrationsanstieg mit systemischer Toxizität (z. B. Krampfanfälle, Arrhythmien) kommen.
+
+Die Blutsperre darf erst **nach** ausreichender **Wirkzeit** und langsam gelöst werden, um toxische Spitzenkonzentrationen zu vermeiden.
+:::
+
+
+Ein Abbau durch Gewebecholinesterasen spielt beim Bier-Block nur eine untergeordnete Rolle.
+Die beim Bier-Block verwendeten Lokalanästhetika sind in der Regel vom {ref}`Amid-Typ <Amid-LA>` (*Prilocain*, *Lidocain* etc.), die überwiegend *hepatisch* metabolisiert werden und nicht relevant durch Cholinesterasen abgebaut werden.
+
+
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Fig-BS-Blutsperre-Bier-Block
+:class-grid: outline
+:gap: 20px
+
+2-Manschetten-System Blutsperre für Bier-Block
+
+![Steuergerät für die 2 Blutsperren](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_110940.001341px.jpg)
+
+![Doppelmanschette für Bier-Block](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_110959.001341px.jpg)
+
+![](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_111025.001341px.jpg)
+
+![Doppelmanschette](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Equipment/IMG_111253.001341px.jpg)
+
+
+:::

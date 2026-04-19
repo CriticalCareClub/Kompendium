@@ -73,8 +73,15 @@ Der **Sulcus coronarius** befindet sich zwischen den Vorhöfen und den Kammern, 
 Im Sulcus coronarius verlaufen die **Hauptstämme der Herzkranzgefäße**, im Sulcus interventricularis verlaufen der R. intercentricularis anterior bzw. posterior.
 Die **Blutversorgung** des Herzens erfolgt über mehrere **Koronararterien** (*Herzkranzgefäße*).
 
+
+
+
+
+
 ```{index} single: Herzklappen
 ```
+
+(Aortenklappe)=
 
 ## Herzklappen
 
@@ -240,14 +247,46 @@ Die Repolarisation der Vorhöfe ist im QRS-Komplex versteckt.
 
 Durch die vorher schon erwähnte Filterfunktion des AV-Knoten kommt die konstante PQ-Strecke zustande.
 
+
+
+
+
+(Koronargefaesse)=
+(Koronararterien)=
+(RCA)=
+(LCA)=
+(Hauptstamm)=
+
 ## Herzgefäße
 
-Neben der eigenen Erregungsbildung weist das Herz auch eine eigene Blutversorgung auf.
-Diese beinhaltet die *Herzkranzarterien* (Aa.
-coronariae dextra et sinistra) sowie die *Herzvenen* (Vv. cardiacae).
+Neben der eigenen Erregungsbildung weist das Herz auch eine eigene Blutversorgung auf (Herzkranzgefäße).
+Diese beinhaltet die *Herzkranzarterien* (Koronararterien; Aa. coronariae dextra et sinistra) sowie die *Herzvenen* (Vv. cardiacae).
 
-- *A. coronaria dextra (RCA, right coronary artery)*: verläuft um rechten Herzrand zur Zwerchfellseite des Herzens, zieht mit dem Endast, dem R. interventricularis posterior im Sulcus interventricularis posterior, Richtung Herzspitze.
-- *A. coronaria sinistra (LCA, left coronary artery)*: teilt sich in den R. interventricularis anterior im Sulcus interventricularis anterior (LAD, left anterior descending artery) und den R. circumflexus (RCX) im Sulcus coronarius.
+-   **A. coronaria dextra** (**RCA**, right coronary artery):
+    verläuft um rechten Herzrand zur Zwerchfellseite des Herzens, zieht mit dem Endast, dem R. interventricularis posterior im Sulcus interventricularis posterior, Richtung Herzspitze.
+    -   Versorgt rechten Ventrikel, Teile des linken Ventrikels sowie häufig den AV-Knoten.
+
+-   **A. coronaria sinistra** (**LCA**, left coronary artery):
+    Teilt sich in zwei Hauptäste
+    -   Ramus interventricularis anterior (RIVA, LAD, left anterior descending artery) im Sulcus interventricularis anterior
+        -   Versorgt Vorderwand des linken Ventrikels, Septum
+    -   Ramus circumflexus (RCX) im Sulcus coronarius
+        -   Versorgt Seitenwand des linken Ventrikels
+
+    Der Begriff **Hauptstamm** (engl. *left main*) bezeichnet den kurzen gemeinsamen Ursprung der linken Koronararterie vor ihrer Aufzweigung.
+    Eine Hauptstammstenose ist besonders kritisch, da ein großer Anteil des linken Ventrikels betroffen ist.
+    Sie gilt als Hochrisiko-Läsion und ist häufig eine Indikation zur operativen Revaskularisation (Bypass-Operation).
+
+
+
+
+Bezüglich der Versorgung unterscheidet man nach Dominanz:
+
+-   **Rechtsdominant** (häufig): *RCA* gibt den Ramus interventricularis posterior ab
+-   **Linksdominant**: *RCX* übernimmt diese Versorgung
+
+
+Die Koronardurchblutung erfolgt überwiegend in der Diastole!
 
 Die Herzvenen münden alle in den *Sinus coronarius* im Sulcus coronarius, welcher wiederum in den rechten Vorhof mündet.
 Wichtigste Herzvenen:
@@ -255,6 +294,10 @@ Wichtigste Herzvenen:
 - V. cardiaca magna: im linken Sulcus coronarius
 - V. cardiaca media: im Sulcus interventricularis posterior
 - V. cardiaca parva: im rechtenSulcus coronarius
+
+
+
+
 
 ```{index} single: Auswurfphase
 ```

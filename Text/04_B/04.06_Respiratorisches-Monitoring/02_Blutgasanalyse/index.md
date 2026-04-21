@@ -300,20 +300,29 @@ Die Aussagekraft hinsichtlich der Respiration der BGA:
   Eine Diffusionsstörung ist anzunehmen, wenn das Verhältnis zwischen der Luft-Gaskonzentration (FiO₂, aber auch etCO₂, vgl. {ref}`Kapnometrie <Kapnometrie>`) zu den korrespondierenden Blutgasen gestört ist.
   Beachte: Eine Diffusionsstörung kann auch sekundär durch eine Perfusions- oder Ventilationsstörung bedingt sein!
 
-```{index} single: Horovitz-Quotient
-```
-```{index} single: Quotient; Horovitz
-```
-```{index} single: Index; Horovitz
-```
+
+
+
+
+
+:::{index} single: Horovitz-Quotient
+:::
+:::{index} single: Quotient; Horovitz
+:::
+:::{index} single: Index; Horovitz
+:::
+
 (Horovitz-Quotient)=
 (Q-ARMO23002-2)=
 
 #### Horovitz-Quotient
 
 :::{margin} Horowitz-Quotient
+
+Oxygenierung im Verhältnis zum Sauerstoffangebot
+
 $$
-\rm \frac{p_{a}O_2 [mm\,Hg]}{FiO_2}
+\rm \frac{p_{a}O_2}{FiO_2}
 $$
 
 450—300 normal
@@ -321,7 +330,8 @@ $$
 \< 300 leichte, \< 200 mittelschwere, \< 100 schwere Lungenschädigung
 :::
 
-Der Horovitz-Quotient oder Horovitz-Index ist das Verhältnis von  paO₂ und der eingeatmeten Sauerstoffkonzentration (FiO₂).
+Der Horovitz-Quotient oder Horovitz-Index beschreibt die *Oxygenierung im Verhältnis zum Sauerstoffangebot*:
+Er ist das Verhältnis von  paO₂ und der eingeatmeten Sauerstoffkonzentration (FiO₂).
 Er zeigt eine primäre oder sekundäre Diffusionsstörung an und ist nützlich, um das Ausmaß einer Lungenschädigung zu beurteilen und den Sauerstoffbedarf zu quantifizieren.
 
 $$
@@ -331,10 +341,11 @@ $$ (HorivitzQuotient)
 Z. B. Gesunder Patient mit paO₂ = 100 mm Hg bei Raumluft:
 
 $$
-{\rm Horovitz-Quotient} = \frac{100}{0,21} \approx 476
+\frac{100}{0,21} \approx 476
 $$ (HorivitzQuotientBeispiel)
 
-Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 450. Ein Wert unter 300 gilt als Schwelle für eine leichte Lungenschädigung, unter 200 weist er auf eine mittelschwere, unter 100 auf eine schwere Lungenschädigung hin.
+Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen **350-450**.
+Ein Wert unter 300 gilt als Schwelle für eine leichte Lungenschädigung, unter 200 weist er auf eine mittelschwere, unter 100 auf eine schwere Lungenschädigung hin.
 
 :::{todo} {issue}`11` BGA: Bild bearbeiten (FiO₂ rot markieren)
 :::
@@ -345,7 +356,7 @@ Bei Gesunden ist der Horovitz-Index altersabhängig und liegt zwischen 350 und 4
 BGAs in Serie
 
 Patient mit  COVID-19-Pneumonie und schwerer Oxygenationsstörung in Bauchlage (BL) und nach Zurückdrehen in Rückenlage (RL).
-Der Horovitzkoeffizient ist zuletzt 45.
+Der Horovitz-Quotient ist zuletzt 45.
 
 © GaSe  {term}`ℓ MfG`
 :::

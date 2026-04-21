@@ -41,25 +41,25 @@ Flexibles Bronchoskop
 
 Diagnostisch:
 
-- Pneumonie (immunsupprimierte Patienten, nosokomiale Pneumonie, ventilatorassoziierte Pneumonie)
-- Unklare pulmonale Infiltrate
-- Unklare pulmonale Massen oder Rundherde
-- Verdacht auf Atemwegsverletzungen (nach Intubation, stumpfem Thoraxtrauma, postoperativ)
-- Akutes Inhalationstrauma, Verbrennung
-- Einseitig lokalisiertes Giemen, Stridor
-- Verdacht auf tracheoösophageale Fistel
+-   Pneumonie (immunsupprimierte Patienten, nosokomiale Pneumonie, ventilatorassoziierte Pneumonie)
+-   Unklare pulmonale Infiltrate
+-   Unklare pulmonale Massen oder Rundherde
+-   Verdacht auf Atemwegsverletzungen (nach Intubation, stumpfem Thoraxtrauma, postoperativ)
+-   Akutes Inhalationstrauma, Verbrennung
+-   Einseitig lokalisiertes Giemen, Stridor
+-   Verdacht auf tracheoösophageale Fistel
 
 Therapeutisch:
 
-- Schwieriger Atemweg: schwierige Intubation, Doppellumentubus, Extubation
-- Radioologischer Nachweis einer Atelektase
-- Exzessive Atemwegssekrete mit Behinderung der Ventilation
-- Aspiration
-- Fremdkörper
-- Hämoptysen
-- Bronchopleurale Fistel
-- Beidseitige Atemwegsobstruktion durch endobronchialen Tumor (Laser, Argon-Plasma-Koagulation, Kryotherapie, Elektroschlinge)
-- Bronchiale Strikturen (benigne) oder Stenosen (benign oder malign): Dilatation oder Stentimplantation
+-   Schwieriger Atemweg: schwierige Intubation, Doppellumentubus, Extubation
+-   Radiologischer Nachweis einer Atelektase
+-   Exzessive Atemwegssekrete mit Behinderung der Ventilation
+-   Aspiration
+-   Fremdkörper
+-   Hämoptysen
+-   Bronchopleurale Fistel
+-   Beidseitige Atemwegsobstruktion durch endobronchialen Tumor (Laser, Argon-Plasma-Koagulation, Kryotherapie, Elektroschlinge)
+-   Bronchiale Strikturen (benigne) oder Stenosen (benign oder malign): Dilatation oder Stentimplantation
 
 
 

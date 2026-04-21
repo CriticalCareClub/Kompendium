@@ -8,7 +8,6 @@ status: final
 # Herz (Cor)
 
 
-
 :::{margin} Herz: Aufbau, Lage
 - Hohlmuskel
 
@@ -21,6 +20,7 @@ status: final
   - Herzklappen
 :::
 
+
 Das **Herz** (**Cor**) befindet sich im Mediastinum, dem Bindegewebsraum zwischen den beiden Lungenflügeln.
 Es ist ein *muskuläres Hohlorgan* und misst ungefähr die Größe einer Faust (ca. 0,5 % des Körpergewichts, 300 bis 350 g).
 Von der Form her kann man das Herz mit einer *Pyramide* vergleichen - die Spitze (**Apex**) berührt den *5. ICR* (Intercostalraum) in der **linken** mittleren Schlüsselbeinlinie, eine Seite liegt dem Zwerchfell auf, die *Basis* liegt Schräg nach hinten-oben geneigt.
@@ -31,9 +31,15 @@ Das Herz hat eine *mechanische* *Pump-* und eine *elektrische* *Koordinations-Fu
 
 Die **mechanische Herzfunktion** ist im Wesentlichen die Pumpfunktion der Herzmuskels durch regelmäßige *aktive Kontraktion* und *passive Entspannung* des Herzmuskels, die **elektrische Funktion** dient der Koordination der Muskelfunktion und wird über ein {ref}`Reizleitungssystem <Reizleitungssystem>` vermittelt.
 
+
 :::{important}
 Das Herz hat eine *mechanische* *Pump-* und eine *elektrische* *Koordinations-Funktion*, welche normalerweise miteinander in Verbindung stehen.
 :::
+
+
+
+
+
 
 ## Herzschichten
 
@@ -55,6 +61,10 @@ Dementsprechend zeigt das Herz inklusive Herzbeutel vier Schichten:
 - **Myokard**: Gesamtheit des *Herzmuskels*.
 - **Endokard**: innere Herzhaut.
 
+
+
+
+
 ## Herzaufbau
 
 Das Herz dreht sich in seiner fetalen Entwicklung um ca. 45° zur Längsachse des Körpers nach links, sodass die *Vorderseite* hauptsächlich aus der *rechten Herzhälfte* und die *Hinterseite* hauptsächlich aus der *linken Herzhälfte* gebildet wird.
@@ -73,8 +83,15 @@ Der **Sulcus coronarius** befindet sich zwischen den Vorhöfen und den Kammern, 
 Im Sulcus coronarius verlaufen die **Hauptstämme der Herzkranzgefäße**, im Sulcus interventricularis verlaufen der R. intercentricularis anterior bzw. posterior.
 Die **Blutversorgung** des Herzens erfolgt über mehrere **Koronararterien** (*Herzkranzgefäße*).
 
+
+
+
+
+
 ```{index} single: Herzklappen
 ```
+
+(Aortenklappe)=
 
 ## Herzklappen
 
@@ -206,6 +223,7 @@ Beispiele von Rhythmen werden unter {ref}`herzrhythmusstoerungen` vorgestellt.
 Die Reizübertragung zwischen den Herzmuskelzellen funktioniert über *Glanzstreifen*, das sind Zellverbindungen zwischen den einzelnen Zellen.
 Hier befinden sich zahlreiche sog. Gap Junctions, die über direkte Ionenströme die elektrische Erregung weiterleiten.
 
+
 :::{subfigure} AB
 :subcaptions: below
 :name: Fig-Reizleitungssystem
@@ -225,6 +243,7 @@ Bilderserie: Reizleitungssystem
 
 Die Erregungsausbreitungsvorgang kann mittels {ref}`Elektrokardiogramm <Fig-Ekg>` (EKG) dargestellt werden.
 
+
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Herz-Ekg.png
 :name: Fig-Ekg
 :width: 50%
@@ -234,27 +253,89 @@ EKG
 © Lena Hirtler  {term}`ℓ MfG`
 :::
 
+
 Die P-Welle steht für die Depolarisation (~Kontraktion) der Vorhöfe.
 Der QRS-Komplex zeigt die Depolarisation der Kammern und die T-Welle ist ein Zeichen für die Repolarisation (~Erschlaffung) der Kammern.
 Die Repolarisation der Vorhöfe ist im QRS-Komplex versteckt.
 
 Durch die vorher schon erwähnte Filterfunktion des AV-Knoten kommt die konstante PQ-Strecke zustande.
 
-## Herzgefäße
 
-Neben der eigenen Erregungsbildung weist das Herz auch eine eigene Blutversorgung auf.
-Diese beinhaltet die *Herzkranzarterien* (Aa.
-coronariae dextra et sinistra) sowie die *Herzvenen* (Vv. cardiacae).
 
-- *A. coronaria dextra (RCA, right coronary artery)*: verläuft um rechten Herzrand zur Zwerchfellseite des Herzens, zieht mit dem Endast, dem R. interventricularis posterior im Sulcus interventricularis posterior, Richtung Herzspitze.
-- *A. coronaria sinistra (LCA, left coronary artery)*: teilt sich in den R. interventricularis anterior im Sulcus interventricularis anterior (LAD, left anterior descending artery) und den R. circumflexus (RCX) im Sulcus coronarius.
 
-Die Herzvenen münden alle in den *Sinus coronarius* im Sulcus coronarius, welcher wiederum in den rechten Vorhof mündet.
+
+(Koronargefaesse)=
+(Koronararterien)=
+(RCA)=
+(LCA)=
+(Hauptstamm)=
+
+## Gefäßversorgung
+
+Neben der eigenen Erregungsbildung weist das Herz auch eine eigene Blutversorgung auf (Herzkranzgefäße).
+Diese beinhaltet die *Herzkranzarterien* (Koronararterien; Aa. coronariae dextra et sinistra) sowie die *Herzvenen* (Vv. cardiacae).
+Die Koronararterien entspringen in der Aortenwurzel aus der Aorta ascendens unmittelbar oberhalb der Aortenklappe (Sinus aortae).
+
+
+-   **A. coronaria dextra** (**RCA**, right coronary artery):
+    {index}` <Arteria; coronaria dextra>`
+    {index}` <RCA>`
+    Abgang aus dem rechten Sinus aortae (Sinus valsalvae dexter), verläuft um rechten Herzrand zur Zwerchfellseite des Herzens, zieht mit dem Endast, dem R. interventricularis posterior im Sulcus interventricularis posterior, Richtung Herzspitze.
+    -   Versorgt rechten Ventrikel, Teile des linken Ventrikels sowie häufig den AV-Knoten.
+
+-   **A. coronaria sinistra** (**LCA**, left coronary artery):
+    {index}` <Arteria; coronaria sinistra>`
+    {index}` <LCA>`
+    Abgang aus dem linken Sinus aortae (Sinus valsalvae sinister),teilt sich in zwei Hauptäste
+    -   Ramus interventricularis anterior (RIVA, LAD, left anterior descending artery) im Sulcus interventricularis anterior
+        {index}` <Ramus; interventricularis anterior>`
+        {index}` <RIVA>`
+        {index}` <LAD>`
+        -   Versorgt Vorderwand des linken Ventrikels, Septum
+    -   Ramus circumflexus (RCX) im Sulcus coronarius
+        {index}` <Ramus; circumflexus>`
+        {index}` <RCX>`
+        -   Versorgt Seitenwand des linken Ventrikels
+
+    {index}` <Hauptstamm>`
+    Der Begriff **Hauptstamm** (engl. *left main*) bezeichnet den kurzen gemeinsamen Ursprung der linken Koronararterie vor ihrer Aufzweigung.
+    Eine Hauptstammstenose ist besonders kritisch, da ein großer Anteil des linken Ventrikels betroffen ist.
+    Sie gilt als Hochrisiko-Läsion und ist häufig eine Indikation zur operativen Revaskularisation (Bypass-Operation).
+
+
+Bezüglich der *Versorgung* unterscheidet man nach Dominanz:
+
+-   **Rechtsdominant** (häufig): *RCA* gibt den Ramus interventricularis posterior ab
+-   **Linksdominant**: *RCX* übernimmt diese Versorgung
+
+
+Die Koronardurchblutung erfolgt überwiegend in der Diastole!
+
+
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Coronary_arteries_de_edited.000800.px.png
+
+Koronararterien
+
+\[© Patrick J. Lynch, medical illustrator, derivative work: Fred the Oyster, adaption and further labeling: Mikael Häggström, Translate Tobiasi0; modifiziert; {term}`ℓ CC-BY-AT 3.0`\]
+:::
+
+
+Die **Herzvenen** münden alle in den *Sinus coronarius* im Sulcus coronarius, welcher wiederum in den rechten Vorhof mündet.
 Wichtigste Herzvenen:
 
-- V. cardiaca magna: im linken Sulcus coronarius
-- V. cardiaca media: im Sulcus interventricularis posterior
-- V. cardiaca parva: im rechtenSulcus coronarius
+-   V. cardiaca magna:
+    {index}` <Vena; cardiaca magna>`
+    im linken Sulcus coronarius
+-   V. cardiaca media:
+    {index}` <Vena; cardiaca media>`
+    im Sulcus interventricularis posterior
+-   V. cardiaca parva:
+    {index}` <Vena; cardiaca parva>`
+    im rechten Sulcus coronarius
+
+
+
+
 
 ```{index} single: Auswurfphase
 ```

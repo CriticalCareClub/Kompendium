@@ -117,9 +117,8 @@ Anhand der gemessenen Drücke in den einzelnen Gefäßen kann man den Kreislauf 
 Das Niederdrucksystem umfasst die Körpervenen, das rechte Herz und die Lungengefäße.
 
 :::{figure} ../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Kreislauf-Schema.\*
-:align: right
 :name: fig-blutkreislauf-schema
-:width: 40%
+:width: 60%
 
 Der Blutkreislauf (Schema)
 
@@ -239,37 +238,72 @@ Arterien der Bauchorgane → Nährstoffaufnahme → Pfortader → Leber → Vv. 
 
 Flüssigkeit im Extrazellularraum → Lymphkapillaren → Lymphgefäße mit eingeschalteten Lymphknoten → Ductus thoracicus bzw. Ductus lymphaticus dexter → V. cava superior
 
+
 (blutgefaesse-wichtige)=
 (pfortader)=
 
-```{eval-rst}
-.. table:: Übersicht wichtiger Blutgefäße
+:::{list-table} Übersicht wichtiger Blutgefäße
+:header-rows: 1
+:stub-columns: 1
+:widths: 15 15 10 60
 
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | **Gefäß**         | **Fachbegriff**      | **Typ**   | **Bemerkungen**                                                                                                                                                                                              |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Hauptschlagader* | *Aorta*              | Arterie   | "Hauptarterie", geht von der linken Herzkammer ab, von dort zweigen alle anderen Körperarterien ab.                                                                                                          |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Halsschlagader*  | *Karotis*            | Arterie   | 1 Paar (2 Stk.), versorgen den Kopf und das Gehirn, Puls tastbar seitlich vom Kehlkopf                                                                                                                       |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Herzkranzgefäße* | *Koronararterien*    | Arterie   | Versorgen das Herz mit Blut, gehen aus der Aorta direkt über ihrer Herzklappe ab                                                                                                                             |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Lungenarterie*   | *Pulmonalarterie*    | Arterie   | *O₂-arm.* Geht von der rechten Herzkammer weg in die Lunge zu den Lungenkapillaren                                                                                                                           |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Oberarmarterie*  | Brachialarterie      | Arterie   | Blutversorgung des Armes, Taststelle zum Puls-fühlen beim Baby, Blutdruckmessung                                                                                                                             |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Radialarterie*   | A. radialis          | Arterie   | Verläuft am Unterarm speichenseitig (dort wo der Daumen ist). Puls fühlbar.                                                                                                                                  |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Leistenarterie*  | A. femoralis         | Arterie   | verläuft am Oberschenkel, Puls tastbar in der Leistenbeuge, wird für Herzkatheter als Zugang verwendet.                                                                                                      |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Obere Hohlvene*  | *Vena cava* superior | Vene      | Obere Vene die in den rechten Vorhof mündet                                                                                                                                                                  |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Untere Hohlvene* | *Vena cava* inferior | Vene      | Untere Vene die in den rechten Vorhof mündet.                                                                                                                                                                |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Lungenvene*      | *Pulmonalvene*       | Vene      | *O₂-reich.* Kommt von den Lungenkapillaren und mündet in den linken Vorhof                                                                                                                                   |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Pfortader*       | Vena portae          | Vene      | Führt O₂-armes, aber nährstoffreiches Blut von Teilen des Darms zur Leber (zur Entgiftung)                                                                                                                   |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | *Haargefäße*      | *Kapillargefäße*     | Kapillare | Dünne, dicht verzweigte Gefäße, Verbindung zwischen Arterien und Venen. Hier findet der Gas- und Nährstoffaustausch statt. Es gibt Körperkapillaren (Körperkreislauf) und Lungenkapillaren (Lungenkreislauf) |
-    +-------------------+----------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-```
+*   -   Gefäß
+    -   Umgspr. Bezeichnung
+    -   Art
+    -   Beschreibung
+*   -   Aorta
+    -   *Hauptschlagader*
+    -   Arterie
+    -   "Hauptarterie", geht von der linken Herzkammer nach kranial ab, macht im Aortenbogen (Arcus aortae) eine ca. 180° Kertwendung und verläuft nach kaudal, bis sie sich in die Leistenarterien gabelt.
+        Von der Aorta zweigen alle anderen Körperarterien ab.
+        Der erste Abgang sind die {ref}`Koronararterien <Koronararterien>` gleich nach der {ref}`Aortenklappe <Aortenklappe>`.
+*   -   Karotis
+    -   *Halsschlagader*
+    -   Arterie
+    -   1 Paar (2 Stk.), versorgen den Kopf und das Gehirn, Puls tastbar seitlich vom Kehlkopf
+*   -   Koronararterien
+    -   *Herzkranzgefäße*
+    -   Arterie
+    -   Versorgen das Herz mit Blut, gehen aus der Aorta direkt über ihrer Herzklappe ab, s. {ref}`Koronararterien`.
+*   -   Pulmonalarterie
+    -   *Lungenarterie*
+    -   Arterie
+    -   *O₂-arm.*
+        Geht von der rechten Herzkammer weg in die Lunge, verzweigt sich in die linke und rechte Lungenarterie und weiter bis zu den Lungenkapillaren
+*   -   Brachialarterie
+    -   Oberarmarterie
+    -   Arterie
+    -   Blutversorgung des Armes, Pulsfühlen beim Baby, Blutdruckmessung
+*   -   A. radialis
+    -   Radialarterie
+    -   Arterie
+    -   Verläuft am Unterarm speichenseitig (Daumen-seitig).
+        Puls fühlbar.
+*   -   A. femoralis
+    -   Leistenarterie
+    -   Arterie
+    -   Verläuft am Oberschenkel, Puls tastbar in der Leistenbeuge, wird für Herzkatheter als Zugang verwendet.
+*   -   Vena cava superior
+    -   *Obere Hohlvene*
+    -   Vene
+    -   Zentrale Vene, die von kranial kommend in den rechten Vorhof mündet
+*   -   Vena cava inferior
+    -   *Untere Hohlvene*
+    -   Vene
+    -   Zentrale Vene, die von kaudal in den rechten Vorhof mündet
+*   -   V. pulmonalis \
+        Pulmonalvene
+    -   Lungenvene
+    -   Vene
+    -   *O₂-***reich.** Kommt von den Lungenkapillaren und mündet in den linken Vorhof
+*   -   Vena portae
+    -   Pfortader
+    -   Vene
+    -   Führt O₂-armes, aber nährstoffreiches Blut von Teilen des Darms zur Leber
+*   -   Kapillargefäße
+    -   *Haargefäße*
+    -   Kapillare
+    -   Dünne, dicht verzweigte Gefäße, Verbindung zwischen Arterien und Venen.
+        Hier findet der Gas- und Nährstoffaustausch statt.
+        Es gibt Körperkapillaren (Körperkreislauf) und Lungenkapillaren (Lungenkreislauf)
+:::

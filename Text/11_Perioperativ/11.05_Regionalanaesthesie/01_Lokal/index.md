@@ -110,6 +110,9 @@ Weiteres Vorgehen: beruhigen, abwarten, ev. nachinjizieren.
 :::{index} single: Ester; Lokalanästhetika
 :::
 
+(Amid-LA)=
+(Ester-LA)=
+
 ## Chemischer Aufbau
 
 :::{margin} Aufbau
@@ -482,7 +485,7 @@ Differentialblock
 :
 
 BIER-Block
-: iv. Regionalanästhesie
+: i.v.-Regionalanästhesie
 
 Wirkdauer
 : WD  ist abhängig von der Proteinbindung = langsame Freisetzung, lange Wirkdauer.

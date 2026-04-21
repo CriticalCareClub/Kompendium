@@ -177,6 +177,16 @@ Beim SAED übernimmt das Gerät die Beurteilung, ob ein elektrischer Herzrhythmu
 Die Herzrhythmen werden im Kapitel {ref}`herzrhythmusstoerungen`, genauer besprochen.
 
 
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/PEA_IMG_091438_edited.000800px.jpg
+
+Pulslose Elektrische Aktivität.
+
+(Das arterielle Drucksystem und die Pulsoxymetrie ist korrekt angelegt.)
+
+\[© GaSe {term}`ℓ CC BY-SA 4.0`\]
+:::
+
+
 :::{subfigure} AB|CD
 :subcaptions: below
 :name: Figure-Bilderserie-Defibrillation

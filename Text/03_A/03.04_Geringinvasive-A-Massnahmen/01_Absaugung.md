@@ -13,6 +13,12 @@ status: final
 
 # Absaugung
 
+
+:::{seealso}
+
+-   {ref}`Medizinprdukte, Absaugung <MP-Absauggeraete>`
+:::
+
 Das Absaugen der Atemwege ist eine wichtige Maßnahme zum Freihalten des Atemweges.
 Blut, Schleim, Magensaft oder andere Sekrete können dabei aus dem Mund-Rachen-Raum, und je nach Atemwegssicherung auch tracheal bzw. bronchial, mittels eines **Absaugkatheters** abgesaugt werden.
 Die Farbkodierung gibt den Durchmesser des Absaugkatheters an.

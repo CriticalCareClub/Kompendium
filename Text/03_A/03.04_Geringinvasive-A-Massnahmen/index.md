@@ -9,7 +9,7 @@ status: final
 
 
 
-# Geringinvasive Ⓐ-Massnahmen
+# Geringinvasive Ⓐ-Maßnahmen
 
 :::{toctree}
 :maxdepth: 1

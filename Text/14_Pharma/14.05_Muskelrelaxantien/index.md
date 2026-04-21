@@ -206,7 +206,7 @@ KIN: Met. über Leber, renale Ausscheidung
 
 -----
 
-0,3-0,6 mg / kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
+0,03-0,06 mg / kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
 
 =  indirekter Antagonist, hemmt Acetylcholinesterase, dadurch ist mehr Ach vorhanden und verdrängt kompeativ das NdMR wieder vom Rezeptor.
 

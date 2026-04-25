@@ -36,9 +36,7 @@ status: final
 \end{ParWide}
 ```
 
-```{raw} latex
-\begin{ParWide}
-```
+
 
 (table-checkliste-patientenmanagement)=
 (table-pam-weiterfuehrende)=
@@ -185,6 +183,4 @@ Die Reihenfolge ist je nach Patientunterschiedlich!
 **Fett** gedruckte Punkte haben eine besonders hohe Priorität.
 :::
 
-```{raw} latex
-\end{ParWide}
-```
+

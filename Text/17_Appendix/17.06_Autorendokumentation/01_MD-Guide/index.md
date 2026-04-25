@@ -449,6 +449,11 @@ Mit Labels können Abschnitte, Abbildungen oder Gleichungen referenziert werden.
 :::
 
 
+
+:::{rubric} Vorgehen
+:::
+
+
 1.  **Marke** (Label) **setzen**:
     Dies ist abhängig davon, *was* referenziert werden soll (Überschrift, Bild, Tabelle etc.)
 

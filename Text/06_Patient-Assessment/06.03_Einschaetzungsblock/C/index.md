@@ -28,7 +28,7 @@ Eine verlängerte Rekap-Zeit deutet auf eine lokale Durchblutungsstörung[^footn
     auch in Folge von Kälte minderdurchblutete Extremitäten,
     also "kalte Finger".
 
-:::{figire} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Conditions/IMG_091513.000800px.jpg
+:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Conditions/IMG_091513.000800px.jpg
 
 Marmoriertes Hautkolorit bei einem Patienten im ausgeprägtem septischen Schock
 

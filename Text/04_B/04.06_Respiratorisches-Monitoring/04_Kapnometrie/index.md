@@ -44,6 +44,24 @@ status: final
 Die Kapnometrie ist die Messung des *Kohlendioxid* (CO₂), welche in der Regel im Exspirationsschenkel durchgeführt wird.
 Als nummerischer Wert bei der quantitaviven Messung wird die maximale Konzentration am Ende der Exspiration (= endtidal) angegeben (*"endtidaler Kohlendioxid-Partialdruck"* **etCO₂**, Angabe als Partialdruck in mm Hg oder kP, alternativ als Konzentration in Vol.%).
 
+Einfluss auf das etCO₂ haben:
+
+> - der pulmonalarterielle pCO₂
+> - die pulmonale *Perfusion*
+> - die pulmonale *Ventilation*
+> - die *Diffusion* (Beurteilung im Vergleich mit pCO₂)
+
+Am aussagekräftigsten ist der Messwert am Ende der Ausatmung, da hier die höchste CO₂-Konzentration gemessen wird.
+Davon leitet sich auch die Bezeichnung {dfn}`etCO₂` ab: Sie steht für den
+*endtidalen Kohlendioxidanteil* (CO₂ am Ende des Atemzyklus).
+
+
+Entscheidend ist das *Ventilations-Perfusions-Verhältnis (V/Q)*.
+Ein erhöhter alveolärer Totraum (z. B. bei Schock, Lungenembolie oder schweren Lungenerkrankungen) führt zu einem Abfall des etCO₂ und zu einer vergrößerten Differenz zwischen arteriellem CO₂ (*pCO₂*) und etCO₂.
+
+Störungen des Gasaustauschs (z. B. Lungenödem, Fibrose) wirken primär über V/Q-Mismatch und Totraumvergrößerung.
+Sie führen typischerweise zu einer zunehmenden Diskrepanz zwischen pCO₂ und etCO₂, wobei der etCO₂-Wert den arteriellen CO₂-Partialdruck unterschätzt.
+
 Die Kapno*graphie* ist die graphische Darstellung einer CO₂-Konzentrationskurve über die Zeit und ermöglicht somit die Beurteilung des Verlaufs im Atemzyklus.
 Dies erlaubt Rückschlüsse auf bestimmte Störungen (Spastik, Mitatmen des Patienten etc.).
 
@@ -68,17 +86,6 @@ Die Kapnometrie erlaubt
 - Im Rahmen eines geschlossenen Beatmungs-*Kreissystems* (Narkoserespirator!) ist auch die Messung des *inspriatorischen* CO₂ (FiCO₂) wichtig um die Erschöpfung des *Atemkalks* zu detektieren.
 
 [^etCO₂-als-Beatmungszielwert]: Als Beatmungszielwert ist die paCO₂ sicherlich der etCO₂ vorzuziehen, jedoch ist die Kapnometrie einerseits schnell verfügbar und kann auch kontinuierlich gemessen werden. Bei bekanntem paCO₂:etCO₂-Verhältnis und unveränderter Ventilations- und Kreislaufsituation kann die Kapnometrie ein gutes Hilfsmittel sein.
-
-Einfluss auf das etCO₂ haben:
-
-> - der pulamonalarterielle pCO₂
-> - die pulmonale Perfusion
-> - die pulmonale Ventilation
-> - die Diffusion
-
-Am aussagekräftigsten ist der Messwert am Ende der Ausatmung, da hier die höchste CO₂-Konzentration gemessen wird.
-Davon leitet sich auch die Bezeichnung {dfn}`etCO₂` ab: Sie steht für den
-*endtidalen Kohlendioxidanteil* (CO₂ am Ende des Atemzyklus).
 
 :::{note}
 Die CO₂-Messung (Kapnometrie) ist ein Standardmonitoringverfahren bei beatmeten Patienten

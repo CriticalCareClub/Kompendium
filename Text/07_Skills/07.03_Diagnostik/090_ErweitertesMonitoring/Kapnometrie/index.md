@@ -1,13 +1,14 @@
 ---
-status: final
+status: draft
 ---
 
 # Kapnometrie
 
-```{toctree}
-:maxdepth: 1
-```
+:::{seealso}
+Die Kapnometrie wird unter {numref}`kapnometrie`: {ref}`kapnometrie` behandelt.
+:::
 
+<!--
 ::::{only} not nosidebar
 
 :::{margin} Kapnometrie
@@ -180,3 +181,4 @@ Ein plötzlicher Anstieg des etCO₂ unter Reanimation ist ein Hinweis auf einen
 Während der Reanimation kann durch die etCO₂-Messung unter Umständen keine zuverlässige Aussage über die Tubuslage getroffen werden,
 da die Lungenperfusion deutlich schlechter ist, als bei einem Menschen mit Spontankreislauf!
 :::
+ -->

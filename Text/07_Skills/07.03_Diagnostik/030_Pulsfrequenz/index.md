@@ -7,7 +7,7 @@ status: final
 ```{index} single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit
 ```
 
-# Pulsfrequenz
+# Pulsmessung
 
 Als **Herzfrequenz** (*HF*) bezeichnet man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
 Als **Pulsfrequenz** bezeichnet man die Anzahl der Pulsschläge pro Minute.

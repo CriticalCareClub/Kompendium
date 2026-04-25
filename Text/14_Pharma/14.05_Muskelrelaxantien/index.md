@@ -10,20 +10,27 @@ status: sprint
 ## Allgemein
 
 Wirkmechanismus
-: Binden an die postsynaptischen Acetylcholinrezeptoren (N2 an der motorischen Endplatte).
-  Der Ionenkanal  öffnet sich nur, wenn zwei Acetylcholinrezeptoren an den 2  α-Bindungsstellen andocken. = Na-Einstrom = Depolarisation der postsynaptischen Membran mit Auslösen eines Aktionspotential im Muskel. Diese sind jedoch durch das Muskelrelaxans besetzt, und damit kann kein Aktionspotential ausgelöst werden.
-  Sie haben keine zentrale Wirkung (bei intakter Bluthirnschranke).
+:   Binden an die postsynaptischen Acetylcholinrezeptoren (N2 an der motorischen Endplatte).
+    Der Ionenkanal  öffnet sich nur, wenn zwei Acetylcholinrezeptoren an den 2  α-Bindungsstellen andocken → Na-Einstrom → Depolarisation der postsynaptischen Membran mit Auslösen eines Aktionspotential im Muskel.
+    Diese sind jedoch durch das Muskelrelaxans besetzt, und damit kann kein Aktionspotential ausgelöst werden.
+    Sie haben keine zentrale Wirkung (bei intakter Bluthirnschranke).
 
-  Ausnahme: Lysthenon führt zu einer Dauerdepolarisation an der motorischen Endplatte.
+    Ausnahme: *Succinylcholin* führt zu einer *Dauerdepolarisation* an der motorischen Endplatte.
 
-Eine **Up-Regulation der Ach-Rezeptoren** findet man bei: Verbrennungen, chronischer Immobilisation und Denervation (Querschnittlähmung mit Ausbildung von zusätzlichen Rezeptoren). = Kontraindikation für Lysthenon, da es zur exzessiven K-Freisetzung kommt!
+Eine **Up-Regulation der Ach-Rezeptoren** findet man bei:
+Verbrennungen, chronischer Immobilisation und Denervation (Querschnittlähmung mit Ausbildung von zusätzlichen Rezeptoren) → *Kontraindikation für Succinylcholin*, da es zur exzessiven K-Freisetzung kommt!
 
 Eine Hemmung der Acetylcholinfreisetzung findet man bei Hypermagnesiämie oder durch Botulinum-Toxin (blockiert die Freisetzung der Vesikel). (Nicht bei Dantrolen, dies hemmt die Ca-Freisetzung)
 
 
-Muskelrelaxantien lähmen die Skelettmuskulatur durch Hemmung der neuromuskulären Übertragung an der motorischen Endplatte. Daher dürfen sie nur bei Beatmungsmöglichkeit eingesetzt werden, da sie auch die Atemmuskulatur lähmen.
+Muskelrelaxantien lähmen die Skelettmuskulatur durch Hemmung der neuromuskulären Übertragung an der motorischen Endplatte.
+Daher dürfen sie nur bei Beatmungsmöglichkeit eingesetzt werden, da sie auch die Atemmuskulatur lähmen.
 
 Man kann depolarisierende und nicht-depolarisierende Muskelrelaxantien unterscheiden.
+
+
+
+
 
 ### Nicht-depolarisierende Muskelrelaxantien
 
@@ -31,10 +38,11 @@ Diese Substanzgruppe blockiert kompetitiv n-Cholinorezeptoren, ohne jedoch ein A
 
 Die typische Reihenfolge der Relaxierung ist folgende:
 
-- kleine, schnell bewegliche Muskeln (z.B. Finger, Zehen, Augen)
-- Extremitäten-, Stamm- und Nackenmuskulatur
-- Interkostalmuskulatur, Zwerchfell
+-   kleine, schnell bewegliche Muskeln (z.B. Finger, Zehen, Augen)
+-   Extremitäten-, Stamm- und Nackenmuskulatur
+-   Interkostalmuskulatur, Zwerchfell
 
+Nicht-depolarisierende Muskelrelaxantien können durch Cholinesterasehemmer (Pyridostigmin, Neostigmin) antagonisiert werden.
 
 :::{list-table} Muskelrelaxantien
 
@@ -46,7 +54,7 @@ Die typische Reihenfolge der Relaxierung ist folgende:
     -   kurzwirkend
 *   -   **Mivacurium**
     -   Mivacron®
-    -   langwirkend
+    -   mittellang wirkend
 *   -   **Pancuronium**
     -   Pancuronium®
     -   mittellang wirkend
@@ -62,35 +70,43 @@ Die typische Reihenfolge der Relaxierung ist folgende:
 :::
 
 
-{sup}`` ultrakurzwirkend,\* kurzwirkend, {sup}`■`mittellang wirkend,
-{sup}`●`langwirkend
-
-Nicht-depolarisierende Muskelrelaxantien können durch Cholinesterasehemmer (Pyridostigmin, Neostigmin) antagonisiert werden.
-
-### depolarisierende Muskelrelaxantien
-
-Diese Substanzgruppe verursacht einen langanhaltende Depolarisation der motorischen Erdplatte. Initial kann man Faszikulationen der Skelettmuskeln beobachten. Danach ist der Muskel unerregbar. Im Gegensatz zu den nicht-depolarisierenden Muskelrelaxantien ist hier die Wirkung nicht antagonisierbar.
 
 
-{ref}`Succinylcholin <Succinylcholin>` Lysthenon®
 
 
-Durch den schnellen Wirkungseintritt und die kürzeste Wirkdauer aller Muskelrelaxantien ist dieses Medikament das Mittel der Wahl bei der Blitzeinleitung einer Narkose.
+### Depolarisierende Muskelrelaxantien
 
-unerwünschte Wirkungen:
+Diese Substanzgruppe verursacht einen langanhaltende Depolarisation der motorischen Erdplatte.
+Initial kann man Faszikulationen der Skelettmuskeln beobachten. Danach ist der Muskel unerregbar.
+Im Gegensatz zu den nicht-depolarisierenden Muskelrelaxantien ist hier die Wirkung nicht antagonisierbar.
 
--> Hyperkaliämie, postoperativer Muskelkater, initiales Faszikulieren.
 
-Kontraindikationen: maligne Hyperthermie, Verbrennungen, Polythrauma
+{ref}`Succinylcholin <Succinylcholin>` (Suxamethonium, Lysthenon®)
+:   Schnellen Wirkungseintritt und kürzeste Wirkdauer aller Muskelrelaxantien:
+    Klassisch für die {ref}`Rapid Sequence Induction <RSI>`, weitgehend aber mittlerweise durch Rocuronium abgelöst.
 
+    -   unerwünschte Wirkungen:
+        Hyperkaliämie, postoperativer Muskelkater, initiales Faszikulieren, Triggersubstanz für {ref}`MH <maligne-hyperthermie>`
+
+    -   Kontraindikationen:
+        maligne Hyperthermie, Verbrennungen, Polythrauma
+
+:::{seealso}
+-   {ref}`Succinylcholin <Succinylcholin>` (Suxamethonium, Lysthenon®)
+:::
 
 
 ## Neuromuskuläres Monitoring
 
-TOF = Train of four (Höhe T4/T1): Vierfachreiz 2Hz für 2  sec alle 12 sec;  Erholung bei  \> 90 %  !
-Darunter Restrelaxierung, vorallem der Rachenmuskulatur mit reduzierten Schutzreflexen mit Aspirationsgefahr. Bei 70 %  sind die Ach-Rezeptoren (Chemorezeptoren) am Glomus caroticus noch blockiert, und hemmen so den Atemantrieb mit Hypoxiegefahr! Spätfolgen sind Atelektasen und Pneumonien. Restrelaxierung kann nur mit TOF ausgeschlossen werden,
+TOF = Train of four (Höhe T4/T1): 
+Vierfachreiz 2Hz für 2  sec alle 12 sec;  
+Erholung bei  \> 90 %  !
+Darunter Restrelaxierung, vorallem der Rachenmuskulatur mit reduzierten Schutzreflexen mit Aspirationsgefahr. 
+Bei 70 %  sind die Ach-Rezeptoren (Chemorezeptoren) am Glomus caroticus noch blockiert, und hemmen so den Atemantrieb mit Hypoxiegefahr! 
+Spätfolgen sind Atelektasen und Pneumonien. Restrelaxierung kann nur mit TOF ausgeschlossen werden,
 nie klinisch!
-Relaxierung der Stimmbänder korreliert schlecht mit der der Daumenmuskulatur. Stimmbänder haben raschere Anschlagzeit, geringere Blocktiefe, kürzere Wirkdauer bei NdMR. Das Diaphragma hat ebenfalls eine raschere Anschlagzeit, braucht mehr Relaxans für komplette Blockade und hat eine raschere Erholung als die Rachenmuskulatur (Patient atmet bereits selbst, die Schutzreflexe sind aber noch mangelhaft!)
+Relaxierung der Stimmbänder korreliert schlecht mit der der Daumenmuskulatur. Stimmbänder haben raschere Anschlagzeit, geringere Blocktiefe, kürzere Wirkdauer bei NdMR. 
+Das Diaphragma hat ebenfalls eine raschere Anschlagzeit, braucht mehr Relaxans für komplette Blockade und hat eine raschere Erholung als die Rachenmuskulatur (Patient atmet bereits selbst, die Schutzreflexe sind aber noch mangelhaft!)
 
 PTC = posttetanic Count: 30 Einzelreize nach tetanischem Reiz, die Anzahl der vorhandenen Antworten erlaubt die Beurteilung der Tiefe eines Blocks.
 TOF: Stromstärke 0,1mA, Impulsdauer 0,1-1ms, Impulsfrequenz 1-2 Hz Fading: Ermüdung mit Abschwächung der Reizantwort vom 1 bis 4 Reiz bei ndMR!
@@ -139,7 +155,7 @@ Eine Intubation ohne Relaxation ist in Ausnahmefällen in tiefer AN möglich, br
 
 Norcuron
 
-= ndMR; 0,1 mg / kg, längere Anschlagzeit, sonst mit Esmeron zu vergleichen; wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW; Abbau über Leber und gering Niere.
+= ndMR; , ; ; 
 
 
 
@@ -156,11 +172,11 @@ Norcuron
 
 Mivacron
 
-langsam spritzen (Flush)
 
-0,2 mg / kg, 1 ml / 10 kg
 
-=  ndMR;  0,15-02 mg / kg, 3-4min AZ, 10-20min WD, Erholungszeit unabhängig von der verabreichten Dosis;  Abbau durch Pseudocholestinesterase;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
+0,2 mg / kg, 
+
+=  ndMR;  , , , 
 
 
 
@@ -176,6 +192,54 @@ langsam spritzen (Flush)
 Tracrium
 
 = NdMR; 0,5 mg / kg KG, langsamere Anschlagzeit als Esmeron; Empfohlen bei Porphyrie.
+
+
+
+:::{list-table} Übersicht nicht-depolarisierender Muskelrelaxanzien
+:header-rows: 1
+:stub-columns: 1
+
+*   -  
+    -   Rocuronium
+    -   Cis-Atracurium
+    -   Mivacurium
+    -   Vecuronium
+*   -   Handelsnamen
+    -   Esmeron
+    -   Mivacron
+    -   Nimbex
+    -   Norcuron
+*   -   Einleitungsdosis
+    -   0,6mg/kg\
+        RSI: 1-1,2mg/kg
+    -   
+    -   0,15-0,2 mg / kg (1 ml / 10 kg)
+    -   0,1 mg / kg
+*   -   Anschlagzeit
+    -   
+    -   
+    -   3-4min AZ
+    -   längere Anschlagzeit, sonst mit Esmeron zu vergleichen
+*   -   Wirkdauer
+    -   
+    -   
+    -   10-20min WD
+    -   
+*   -   Abbau
+    -   
+    -   
+    -   Abbau durch Pseudocholestinesterase
+    -   Abbau über Leber und gering Niere.
+*   -   
+    -   
+    -   
+    -   langsam spritzen (Flush).
+        Erholungszeit unabhängig von der verabreichten Dosis;  ;  Bei homozygoter atypischer Pseudocholinesterase mehrer Stunden Blockade!!! Erhebliche Histaminfreisetzung!
+    -   wenigsten NW, keine Histaminliberation, keine kardiovaskulären NW
+
+
+
+:::
 
 
 ### Einfluß anderer Medikamente auf ndMR:
@@ -206,7 +270,7 @@ KIN: Met. über Leber, renale Ausscheidung
 
 -----
 
-0,3-0,6 mg / kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
+0,03-0,06 mg / kg Neostigmin/Normastigmin + Atropin oder Robinul (Glycopyrrulat)
 
 =  indirekter Antagonist, hemmt Acetylcholinesterase, dadurch ist mehr Ach vorhanden und verdrängt kompeativ das NdMR wieder vom Rezeptor.
 

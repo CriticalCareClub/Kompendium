@@ -244,7 +244,7 @@ Zeichen und nicht mit einem Anführungsstrich bzw. Apostroph
 gleichzusetzen!
 
 Auf deutschen Tastaturen befindet er sich zwischen der {kbd}`ß`-
-und {kbd}`Backspace`-Taste, über dem Akut (`´`) → {kbd}`Shift + ´`
+und {kbd}`Backspace`-Taste, über dem Akut ({kbd}`´`) → {kbd}`Shift+´`
 :::
 
 

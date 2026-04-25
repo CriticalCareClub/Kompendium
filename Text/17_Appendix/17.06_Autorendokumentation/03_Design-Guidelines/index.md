@@ -1,9 +1,13 @@
 ---
-status:
-author:
-last-update:
+status: final
+maintainer: GABRIEL Sebastian
+last-update: 2026-04-25
 ---
 
+
+:::{raw} latex
+\clearpage
+:::
 
 :::{index} single: Design
 :::

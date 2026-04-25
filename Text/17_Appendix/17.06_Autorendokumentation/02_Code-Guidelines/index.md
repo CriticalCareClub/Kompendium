@@ -2,6 +2,12 @@
 status: final
 ---
 
+:::{raw} latex
+\clearpage
+:::
+
+:::{index} pair: Code; Guidelines
+:::
 
 # Style Guide – MyST-Markdown
 

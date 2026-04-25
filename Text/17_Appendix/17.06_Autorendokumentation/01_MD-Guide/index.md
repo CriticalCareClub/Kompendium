@@ -4,6 +4,13 @@ status: final
 
 
 
+:::{index} single: Markdown
+:::
+:::{index} single: Myst Markdown
+:::
+
+(MyST)=
+(Markdown)=
 
 # MyST-Markdown Kurzanleitung
 

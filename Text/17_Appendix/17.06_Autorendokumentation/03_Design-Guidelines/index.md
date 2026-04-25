@@ -199,3 +199,52 @@ Diese sollen nur unter bestimmten Umständen zum Einsatz kommen.
     -   1.00, 0.00, 0.58, 0.22
     -   *Ergänzung.* Aktiver Status
 :::
+
+
+
+
+
+## Schriftarten
+
+Als Basisschriftart kommt die **Lexend**-Schriftfamilie zum Einsatz.
+
+*Lexend* ist eine moderne Sans-Serif-Schriftfamilie, die gezielt zur *Verbesserung der Lesbarkeit* entwickelt wurde, indem sie auf Erkenntnissen der *Lesbarkeitsforschung* basiert und die visuelle sowie kognitive Verarbeitung von Text optimiert.
+
+Sie wurde von *Dr. Bonnie Shaver-Troup* (Educational Therapist und Begründerin des Lexend-Projekts) gemeinsam mit dem Typedesigner *Thomas Jockin* entwickelt.
+Die Entwicklung begann aus der Forschung zur Leseflüssigkeit heraus und wurde später in Zusammenarbeit mit **Google Fonts** als frei verfügbare Schriftfamilie umgesetzt.
+
+
+Eigenschaften
+:   -   Variable Buchstabenabstände und Proportionen
+    -   Große x-Höhe und offene, gut unterscheidbare Zeichenformen
+    -   Klare Differenzierung ähnlicher Glyphen (z. B. l, I, 1)
+    -   Mehrere Varianten mit unterschiedlicher Laufweite (z. B. Deca, Mega, Zetta)
+    -   Optimiert für Bildschirmdarstellung
+
+
+Lesbarkeit
+:   Die Lesbarkeit wird durch mehrere typografische Mechanismen verbessert.
+    Größere Buchstabenabstände reduzieren das visuelle „Verschmieren“ von Zeichen und erleichtern die Orientierung im Text.
+    Offene Formen und eine große x-Höhe verbessern die Erkennbarkeit einzelner Buchstaben.
+    Gleichzeitig sorgt die geringere visuelle Dichte für weniger „Textblock-Effekt“ und eine bessere Strukturwahrnehmung.
+
+    Auf kognitiver Ebene führt dies zu stabileren Fixationen, weniger Rücksprüngen im Text und insgesamt flüssigerem Lesen.
+    Die visuelle und mentale Belastung beim Lesen wird dadurch reduziert.
+
+
+Vorteile
+:   -   Erhöhte Lesegeschwindigkeit und besseres Textverständnis
+    -   Reduzierte visuelle Ermüdung
+    -   Verbesserte Lesbarkeit bei langen Texten und auf Bildschirmen
+    -   Besonders geeignet für Personen mit Dyslexie oder erhöhter visueller Belastung
+
+
+Weiterführende Links
+:   -   Offizielle Seite: https://www.lexend.com
+    -   Google Fonts: https://fonts.google.com/specimen/Lexend
+
+
+:::{admonition} Synopsis
+
+Lexend zielt *nicht auf typografische Eleganz*, sondern auf **maximale Lesbarkeit und kognitive Entlastung**.
+:::

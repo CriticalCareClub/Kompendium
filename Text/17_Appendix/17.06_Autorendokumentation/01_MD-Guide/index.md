@@ -38,11 +38,10 @@ Kompilation
 
 
 
-:::{figure} Kompilation.png
+:::{figure} Sphinx-Compile.png
 
 Kompilation: Aus dem Klartext erzeugt der Interpreter (Compiler) unter Zuhilfenahme der Stil-Definitionen die verschiedenen Ausgabeformate (Produkte).
 :::
-
 
 
 :::{admonition} Synopsis
@@ -237,6 +236,17 @@ Allgemeine Syntax
     Text {rollenname}`Inhalt`
 
     ::::
+
+
+:::{important}
+Der Accent grave (Gravis, `` ` ``) ist ein eigenständiges
+Zeichen und nicht mit einem Anführungsstrich bzw. Apostroph
+gleichzusetzen!
+
+Auf deutschen Tastaturen befindet er sich zwischen der {kbd}`ß`-
+und {kbd}`Backspace`-Taste, über dem Akut (`´`) → {kbd}`Shift + ´`
+:::
+
 
 :::{list-table} Beispiele für Rollen
 :header-rows: 1

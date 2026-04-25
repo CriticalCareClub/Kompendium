@@ -5,9 +5,6 @@ last-update: 2026-04-25
 ---
 
 
-:::{raw} latex
-\clearpage
-:::
 
 :::{index} single: Design
 :::

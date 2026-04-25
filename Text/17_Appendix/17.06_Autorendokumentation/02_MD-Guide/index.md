@@ -9,7 +9,7 @@ status: final
 
 :::{index} single: Markdown
 :::
-:::{index} single: Myst Markdown
+:::{index} single: MySt
 :::
 
 (MyST)=
@@ -505,6 +505,137 @@ Siehe {ref}`Referenz-erzeugen`, oder siehe {ref}`Beipiel zum Erzeugen einer Refe
 Siehe {ref}`Referenz-erzeugen`, oder siehe {ref}`Beipiel zum Erzeugen einer Referenz <Referenz-erzeugen>`.
 
 ::::::
+
+
+
+:::{index} pair: Tabelle; Markdown
+:::
+:::{index} pair: Tabelle; MyST
+:::
+
+## Tabellen
+
+MyST Markdown unterstützt mehrere Möglichkeiten zur Erstellung von Tabellen.
+Für strukturierte Inhalte ist die `list-table`-Tabelle vorteilhaft.
+
+
+
+:::{index} pair: list-table; Markdown
+:::
+:::{index} pair: list-table; MyST
+:::
+
+### MyST `list-table`
+
+Die `list-table`-Direktive ist die flexibelste Methode und besonders für komplexe Inhalte geeignet.
+
+Grundstruktur
+:   ::::{code} markdown
+
+    :::{list-table} Titel der Tabelle
+    :header-rows: 1
+    :stub-columns: 1
+
+    *   -   Spalte 1
+        -   Spalte 2
+    *   -   Wert A
+        -   Wert B
+    *   -   Wert C
+        -   Wert D
+    :::
+    ::::
+
+
+Wichtige Regeln
+:   -   Jede Tabellenzeile beginnt mit `*`
+    -   Jede Zelle beginnt mit `-`
+    -   Einrückung: **4 Zeichen pro Ebene**
+    -   Tabellenüberschriften sind optional:
+        -   `:header-rows: 1` definiert die Kopfzeile
+        -   `:stub-columns: 1` definiert Titelspalten
+
+
+
+
+
+:::{rubric} Mehrzeilige Inhalte in Zellen
+:::
+
+
+
+In `list-table` können Zellen komplexe Inhalte enthalten: strukturierte Inhalte innerhalb einer Zelle möglich.
+
+Beispiel
+:
+
+    :::{list-table} Beispiel mit Listen
+    :header-rows: 1
+
+    *   -   Kategorie
+        -   Beispiele
+    *   -   Atemmechanik
+        -   -   Obere Atemwege
+            -   Untere Atemwege
+            -   Pneumothorax
+    :::
+
+
+
+
+:::{rubric} Typische Fehler
+:::
+
+
+Fehler
+:   -   Uneinheitliche Spaltenanzahl
+    -   Falsche Einrückung (nicht 4 Zeichen)
+    -   Fehlendes `*` für neue Zeile
+    -   Fehlendes `-` für Zellen
+
+
+
+### Klassische Markdown-Tabelle
+
+Einfache Tabellen können direkt mit Pipes (`|`) erstellt werden.
+
+Grundstruktur
+:   ::::{code} markdown
+
+    | Spalte 1 | Spalte 2 |
+    |----------|----------|
+    | Wert A   | Wert B   |
+    | Wert C   | Wert D   |
+
+    ::::
+
+
+Eigenschaften
+:   -   Schnell und übersichtlich
+    -   Gut für einfache Inhalte
+    -   Eingeschränkt bei komplexen Layouts
+
+
+
+
+
+
+## Wann welche Tabelle?
+
+Empfehlung
+:   -   **Markdown-Tabelle**
+        -   Kleine, einfache Tabellen
+    -   **list-table**
+        -   Komplexe Inhalte
+        -   Mehrzeilige Zellen
+        -   Lehrbuch-/Dokumentationsprojekte
+
+
+:::{note}
+
+Für strukturierte und umfangreichere Inhalte ist `list-table` meistens die bessere Lösung.
+:::
+
+
 
 
 

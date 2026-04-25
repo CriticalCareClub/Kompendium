@@ -1,3 +1,9 @@
+---
+status: final
+author:
+last-update:
+---
+
 # Diagnostik
 
 ```{toctree}

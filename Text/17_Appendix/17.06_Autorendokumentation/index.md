@@ -3,7 +3,7 @@ status: final
 ---
 
 
-# Dokumentation für Autoren
+# Autorendokumentation
 
 ```{toctree}
 :maxdepth: 1

@@ -38,6 +38,8 @@ Marmoriertes Hautkolorit bei einem Patienten im ausgeprägtem septischen Schock
 
 
 
+
+
 ## Herzleistung und Blutdruck
 
 Das Herz schlägt beim Erwachsenen mit einer *Herzfrequenz* (*HF*, bzw.

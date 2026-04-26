@@ -110,3 +110,29 @@ blockquote.epigraph, blockquote.highlights, blockquote.pull-quote {
     font-size: 1em;
 }
 
+.margin-role {
+  display: inline-block;
+  overflow: visible;
+  height: auto;
+  max-height: none;
+  white-space: normal;
+}
+
+.margin-role .sidebar-title {
+  display: block;
+  white-space: normal;
+}
+
+.margin-role-anchor {
+  display: inline;
+}
+
+.margin-role-content {
+  float: right;
+  clear: right;
+  width: 12rem;
+  margin-right: -13rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}

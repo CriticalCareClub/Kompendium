@@ -13,8 +13,8 @@ status: final
 
 
 :::{toctree}
-:glob:
 :maxdepth: 1
+:glob:
 
 */index
 :::

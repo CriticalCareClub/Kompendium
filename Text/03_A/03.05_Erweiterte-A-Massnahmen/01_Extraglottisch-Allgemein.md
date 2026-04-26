@@ -26,7 +26,7 @@ Die {ref}`ETI <ETI>` gilt an sich als Goldstandard der Atemwegssicherung, dennoc
 :::
 
 
-SGAs kommen häufig im Rahmen der Anästhesie bei nüchternen, nicht aspirationsgefährdeten Patienten zum Einsatz, wenn die Länge und Art der Operation dies erlaubt.
+SGAs kommen häufig im Rahmen der Anästhesie bei *nüchternen*{margin}`Nüchternheit`, nicht aspirationsgefährdeten Patienten zum Einsatz, wenn die Länge und Art der Operation dies erlaubt.
 Kontraindiziert wären z. B. Eingriffe, die nicht in Rückenlage durchgeführt werden oder bei denen mit Atemwegsdruckschwankungen (Kapnoperitoneum bei Laparoskopien, Pressen, ...) zu rechnen ist.
 
 Der Einsatz von supraglottischen Atemwegshilfen, beispielsweise von Larynxtuben, ist eine anerkannte Strategie im Management des schwierigen Atemwegs und wird in der Notfallmedizin für den weniger erfahrenen Anwender auch als Alternative zur endotrachealen Intubation empfohlen.

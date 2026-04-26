@@ -12,7 +12,7 @@ status: final
 # Larynxmaske
 
 Die erste Generation der Larynxmaske wurde in den 1980er Jahren eingeführt und seitdem stetig weiterentwickelt.
-Sie besteht im Grunde aus einem anatomisch geformten, annähernd elliptischen, Kunststoffcuff, welcher im Patienten oberhalb der Glottis (supraglottisch) zu liegen kommt und den Larynx gegenüber den Pharynx abdichtet.
+Sie besteht im Grunde aus einem anatomisch geformten, annähernd elliptischen, Kunststoffcuff, welcher im Patienten oberhalb der Glottis (*supraglottisch*{margin}`supraglottisch`) zu liegen kommt und den Larynx gegenüber den Pharynx abdichtet.
 Von der Maske weg führt ein Tubus durch den Oropharynx nach außen, hier können dann über einen Normstecker Beatmungsgerätschaften (Beatmungsgerät, Beatmungsbeutel) angeschlossen werden.
 
 :::{subfigure} A
@@ -32,10 +32,10 @@ Larynxmasken [© Sebastian Gabriel  {term}`ℓ MfG`]
 Moderne Larynxmasken unterscheiden sich untereinander in vielen Kriterien, z. B. Material, Einweg- oder Mehrwegprodukte, Form und Flexibilität des Tubus, zusätzliche Lumina (z. B. für gastroösophageale Sonden) oder Art des Cuffs (Luft, thermoplastische Materialen, ...).
 Gemeinsam ist ihnen eine verhältnismäßig invasivitätsarme Anwendung und das Einführen ohne Darstellung des Atemwegs.
 Sie ermöglichen eine Sicherung des Atemweges gegenüber Verlegungen durch Zurückfallen der Zunge o. ä., bieten aber **keinen ausreichenden Aspirationsschutz**.
-Ihre planmäßige Anwendung ist daher auf **nüchterne Patienten** beschränkt.
+Ihre planmäßige Anwendung ist daher auf **nüchterne Patienten**{margin}`Nüchternheit` beschränkt.
 
 Die *zweite Generation* der Larynxmasken verfügen über einen zweiten Kanal zur Anlage einer **Magensonde** um Magensaft abzuleiten, sowie den Magen bei auftretenden Leckagen und längerer Operationsdauer zu **entlasten**.
-Ein bekannter Vertreter ist z. B. die *LMA Supreme* oder die i-Gel.
+Ein bekannter Vertreter ist z. B. die *LMA Supreme* oder die *i-Gel™*{margin}`i-Gel™`.
 **Intubationslarynxmasken** ermöglichen einerseits die kurzfristige Ventilation des Patienten und dienen gleichzeitig als Führungshilfe für das Einführen eines Endotracheltubus.
 
 <!--

@@ -28,9 +28,10 @@ status: final
 :::
 
 Bei der **endotrachealen Intubation** (*ETI*) wird ein Beatmungsschlauch (**Endotracheltubus**) über den Mund (seltener über die Nase) durch den Rachen und den Kehlkopf in die Luftröhre eingeführt.
-Er ermöglicht die Beatmung des Patienten (auch mit hohen Beatmungsdrücken) bei gleichzeitigem Freihalten des Atemweges und bietet den bestmöglichen **Aspirationsschutz**.
+Er ermöglicht die Beatmung des Patienten (auch mit hohen Beatmungsdrücken) bei gleichzeitigem Freihalten des Atemweges und bietet den bestmöglichen **Aspirationsschutz**{margin}`Aspirationsschutz`.
 
 ## Indikationen
+
 - Atemwegssicherung bei **aspirations**gefährdeten Patienten
 - **langdauernde** Überdruckbeatmung
 - hohe Beatmungsdrücke, hoher Peep, **hoher Beatmungsaufwand**
@@ -44,6 +45,7 @@ Er ermöglicht die Beatmung des Patienten (auch mit hohen Beatmungsdrücken) bei
   - **Single-Lung**-Ventilation
 
 ## Komplikationen
+
 - **Vagusreiz**: Bradykardie bis hin zur Asystolie
 - **Zahnschäden**
 - **Heiserkeit**, **Stimmbandschäden** (Ödem, Hämatom, Riss, Nervenläsionen)
@@ -142,15 +144,15 @@ Beispiele für verschiedene Tuben-Typen sind:
   Häufig finden sich auch Markierungen, die bei der Abschätzung der korrekten Tubustiefe helfen sollen.
   Am anderen, patientenfernen, Ende befindet sich ein normiertes Verbindungsstück zum Anschluss an einen Beatmungsbeutel oder ein Beatmungsgerät.
 - Tuben *ohne Cuff* kommen manchmal bei Kleinkindern zum Einsatz.
-- Tuben mit **Absaugung**:
+- Tuben mit **Absaugung**{margin}`Absaugung`:
   Diese verfügen über ein separates Lumen, welches oberhalb des Cuffs endet und das Absaugen von Skreten ermöglicht.
   Dies soll die Aspiration durch Cuff-Leckagen verringern.
   Deratige Tuben kommen vor allem bei längerer Beatmungsdauer (Intensivstation) zum Einsatz.
-- **Lasertuben** sind unempfindlich gegen Laserstrahlen und werden mittels Flüssigkeit gecufft.
-- **Spiraltuben** sind mit einer Metallspirale in der Tubuswand armiert, welche sie sehr flexibel macht und vor abknicken schützt.
+- **Lasertuben**{margin}`Lasertuben` sind unempfindlich gegen Laserstrahlen und werden mittels Flüssigkeit gecufft.
+- **Spiraltuben**{margin}`Spiraltuben` sind mit einer Metallspirale in der Tubuswand armiert, welche sie sehr flexibel macht und vor abknicken schützt.
   Der große Nachteil ist, dass, wenn ein Patient auf die Spirale beißt, diese den Tubus dauerhaft *verschließen* kann.
   Somit sollten Spiraltuben immer mit einem *Beißschutz* kombiniert werden!
-- **Doppellumentuben** verfügen über zwei Lumina, wobei eines bis *in den Hauptbronchus* eines Lungenflügels vorgeschoben und gecufft wird.
+- **Doppellumentuben**{margin}`Doppellumentuben` verfügen über zwei Lumina, wobei eines bis *in den Hauptbronchus* eines Lungenflügels vorgeschoben und gecufft wird.
   Das andere Lumen endet *tracheal* und wird ebenfalls gecufft.
   Dadurch können die Lungenflügel getrennt bzw. einseitig beatmet werden (ein Lungenflügel direkt bronchial, der andere indirekt über die Trachea).
   Diese Tuben werden z. B. in der Thoraxchirurgie im Rahmen der Single-Lung-Ventilation eingesetzt.
@@ -223,14 +225,14 @@ Stethoskop
 
 ### Vorbereitung
 
-01. **Präoxygenieren**:
+01. **Präoxygenieren**:{margin}`Präoxygenieren`
 
     - Beim spontan atmenden Patienten:
       Hochdosierte Sauerstoffgabe über O₂-Maske
     - Beim nicht-spontan-atmenden Patienten:
       Je nach Situation evtl. Beatmung mittels Beatmungsbeutel [^footnote-1]
 
-02. **Laryngoskop vorbereiten**
+02. **Laryngoskop vorbereiten**{margin}`Laryngoskop vorbereiten`
     - Festlegen von:
       - Spatelgröße
       - Tubusgröße (inkl. Backup)
@@ -241,16 +243,16 @@ Stethoskop
       Ebenso müssen alle möglicherweise benötigten Spatel (zumindest ± 1 Größe und die entsprechenden gebogenen bzw. geraden Spatel) mit dem vorhandenen Laryngoskopgriff geprüft werden
       (Lichtquelle bei Warmlichtgeräten, passende Verbindung bei Kaltlichtgeräten)
 
-03. **Tubus vorbereiten**:
+03. **Tubus vorbereiten**:{margin}`Tubus vorbereiten`
     - Verpackung aufschälen, Tubus aber in der Verpackung belassen
     - **Cuff-Dichtigkeit** prüfen: testweise aufblasen
     - Ggfs. **Führungsdraht** (Mandrin) mit Silikonspray einsprühen und einführen.
       Die Spitze muss bis zum Tubusende vorgeschoben vorgeschoben werden, darf aber nicht herausragen.
     - *Cuff* mit Silikonspray einsprühen
 
-04. **Beatmungsbeutel** zusammenbauen und an O₂-Versorgung anschließen
-05. **Stethoskop**: Funktion prüfen
-06. **Absaugungebreitschaft** herstellen:
+04. **Beatmungsbeutel**{margin}`Beatmungsbeutel` zusammenbauen und an O₂-Versorgung anschließen
+05. **Stethoskop**:{margin}`Stethoskop` Funktion prüfen
+06. **Absaugungebreitschaft**{margin}`Absaugungebreitschaft` herstellen:
 
     1. Passenden Absaugkatheter auspacken, anstecken und sauber ablegen
     2. Gerät einschalten
@@ -262,7 +264,7 @@ Stethoskop
 
 08. *Material-Vollständigkeit* prüfen
 
-09. *Sauerstoffberieselung* einschalten und auf 15 L / min
+09. *Sauerstoffberieselung*{margin}`Sauerstoff` einschalten und auf 15 L / min
     einstellen, Reservoir des Beatmungsbeutels füllen
 
 
@@ -288,7 +290,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
 :::{rubric} Narkoseeinleitung
 :::
 
-1. **Narkoseeinleitung**
+1. **Narkoseeinleitung**{margin}`Narkoseeinleitung`
    - **Injektion** der Medikamente
      in der festgelegten Reihenfolge und Dosierung
 
@@ -298,7 +300,7 @@ Das Zusammenspiel zwischen dem Durchführenden und der Assistenz ist essentiell.
    Von jetzt an besteht beim nicht-nüchternen Patienten ein sehr hohes Risiko dass es zu Erbrechen kommen kann, ggfs. muss sofort abgesaugt werden!
    :::
 
-2. **Abwarten** des Wirkeintritts der Medikamente
+2. **Abwarten**{margin}`Warten` des Wirkeintritts der Medikamente
 3. Beim *nüchternen* Patienten: Beatmung
 
 % .. raw:: latex
@@ -362,17 +364,17 @@ NarkEinA -> C -> Weiter;
 
 06. **Tubus zureichen**: in die *rechte (!)* Hand
 07. auf Anweisung absaugen
-08. **Einführen des Tubus**
+08. **Einführen des Tubus**{margin}`Einführen des Tubus`
     bis die Tubusspitze zwischen die Stimmbänder durchdringt.
     Wenn die Spitze durch die Stimmritzen durchgetreten ist,
     muss ggfs. der Mandrin entfernt werden um Verletzungen zu vermeiden.
-09. Ggfs. Anweisung: **"Führungsdraht entfernen!"**
+09. Ggfs. Anweisung: **"Führungsdraht entfernen!"**{margin}`Führungsdraht entfernen`
 10. Ggfs.: Der **Führungsdraht wird herausgezogen**,
     dabei am Tubus-Konus Gegenhalten um ein Verrutschen des Tubus zu verhindern, da dieser ragt nur knapp in die Luftröhre hinein!
 
 11. Tubus bis zur **bis zu endgültigen Tiefe einführen** und vorübergehend **manuell fixieren** (fixierende Hand hat Kontakt mit Patientengesicht/-kiefer)
 12. Anweisung *"Cuffen"*
-13. **Cuffen**: Cuff mit luftgefüllter Spritze Cuff aufblasen
+13. **Cuffen**{margin}`Cuffen`: Cuff mit luftgefüllter Spritze Cuff aufblasen
 
 
 
@@ -451,8 +453,8 @@ Endotracheale Intubation in der Praxis [© Michael Motal, Critical Care Club Aus
 
 31. *Stethoskop* dem Durchführenden in die Ohren klemmen
 32. Beatmungsmaske vom Beatmungsbeutel trennen
-33. *Kapnometrie* und *Beatmungsbeutel* an Tubus anschließen und halten
-35. *Lagekontrolle* mittels **Auskultation**:
+33. **Kapnometrie**{margin}`Kapnometrie` und *Beatmungsbeutel* an Tubus anschließen und halten
+35. *Lagekontrolle* mittels **Auskultation**:{margin}`Auskultation`
     Auf Anweisung Atemhub verabreichen.
     Anweisung *"Beatmen!"*, mind. 3 Atemhübe in Summe, dabei **Auskultation** durch den Durchführenden:
     - **Magengegend** und
@@ -546,10 +548,10 @@ Endotracheale Intubation: Erfolgskontrolle [© Michael Motal, Critical Care Club
 
 Die klassische Zugang zur Endotrachealen Intubation erfolgt oral, in bestimmten Situationen kann jedoch auch der *nasale* Zugang notwendig oder praktisch sein.
 Es ist die am häufigsten verwendete Methode zur Anästhesie in der **Oralchirurgie**, da sie ein gutes Operationsfeld für Chirurgen bietet.
-Am häufigsten wird daher diese Technik für zahnärztliche Eingriffe und intraorale (z. B. Unterkieferrekonstruktionseingriffe oder Unterkieferosteotomien) und oropharyngeale Eingriffe eingesetzt.
+Am häufigsten wird daher diese Technik für zahnärztliche Eingriffe und intraorale (z. B. Unterkieferrekonstruktionseingriffe oder Unterkieferosteotomien) und oropharyngeale Eingriffe{margin}`oropharyngeale Eingriffe` eingesetzt.
 Weitere Indikationen sind die Sicherung der Atemwege bei Patienten mit fraglicher Stabilität oder schwerer degenerativer Erkrankung der **Halswirbelsäule** (unter Verwendung der Technik der {ref}`fieberoptischen Wachintubation <ATI>`), bei Patienten mit intraoralen Raumforderungen oder strukturellen Anomalien sowie bei Patienten mit eingeschränkter Mundöffnung. {term}`🗎 Chauhan 2016`
 
-Bei der nasalen Intubation werden spezielle **vorgeformte** nasale Tuben verwendet.
+Bei der nasalen Intubation werden spezielle **vorgeformte**{margin}`vorgeformte Tuben` nasale Tuben verwendet.
 Das eigentliche Einführen des Tubus kann in unterschiedlichen Techniken erfolgen.
 Häufig wird der {ref}`fiberoptische Weg <ETI-fiberoptisch>` gewählt, aber auch die konventionelle Laryngoskopie, bei der der Tubus im Hypopharynx mittels einer *Magill*-Zange gefasst werden kann, ist nicht unüblich.
 Im Rahmen der {ref}`fiberoptischen Wachintubtaion <ATI>` wird auch häufig der nasale Zugangsweg gewählt.

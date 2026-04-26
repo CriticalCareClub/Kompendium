@@ -14,11 +14,11 @@ status: final
 
 Sobald der Atemweg gefährdet ist oder eine Atemwegsverlegung bemerkt wird, müssen sofort Maßnahmen eingeleitet werden, die die Atemwege frei machen und frei halten sollen.
 Bei einer Verlegung der Atemwege durch Flüssigkeiten bietet sich die {ref}`Absaugung <absaugung>` an.
-Um einer Verlegung durch ein Herabsinken der Zunge zu vermeiden, gibt es folgende einfache Möglichkeiten:
+Um einer Verlegung durch ein Herabsinken der Zunge{margin}`Herabsinken der Zunge` zu vermeiden, gibt es folgende einfache Möglichkeiten:
 
-- **Überstrecken** des Kopfes
-- **Esmarch-Handgriff** Vorschieben des Unterkiefers und Anheben des Kinns
-- **Stabile Seitenlage**
+-   **Überstrecken** des Kopfes
+-   **Esmarch-Handgriff** Vorschieben des Unterkiefers und Anheben des Kinns
+-   **Stabile Seitenlage**
 
 Daneben gibt es erweitere Techniken, welche zur Atemwegssicherung verwendet werden können (Guedel-Tubus, Intubation, …).
 
@@ -51,6 +51,7 @@ Ist selbst die bronchoskopische Entfernung nicht möglich, kann auch ein operati
 
 Zum *Überstrecken* des Kopfes und Anheben wird die Hand auf die Stirn des Patienten gelegt und der Kopf leicht überstreckt, dabei werden die Fingerspitzen der anderen Hand unterhalb des Kinns platziert und heben dieses leicht an.
 
+
 :::{danger}
 Bei Trauma-Patienten, bei denen die Möglichkeit einer HWS-Verletzung besteht, darf der Kopf nicht überstreckt werden, sofern es alternative Möglichkeiten zur Atemwegssicherung gibt.
 :::
@@ -74,6 +75,9 @@ Manchmal reicht das simple Anheben des Kinns. [© Sebastian Gabriel  {term}`ℓ 
 :::
 
 
+
+
+
 :::{index} single: Esmarch-Handgriff
 :::
 :::{index} single: Handgriff; Esmarch-
@@ -85,24 +89,26 @@ Manchmal reicht das simple Anheben des Kinns. [© Sebastian Gabriel  {term}`ℓ 
 ## Esmarch-Handgriff
 
 :::{margin} Esmarch-Handgriff
-- Finger 2—5 am Kieferwinkel
+-   Finger 2—5 am Kieferwinkel
 
-  → aufwärts, vorne
+    → aufwärts, vorne
 
-- Daumen seitlich am Kinn
+-   Daumen seitlich am Kinn
 
-  → sanfter Druck nach unten
+    → sanfter Druck nach unten
 :::
 
 Der  *Esmarch-Handgriff* verstärkt den Effekt des Überstreckens des Kopfes.
 Der Helfer befindet sich hinter dem Kopf des Patienten und platziert seine Finger 2—5 am Ende des Unterkiefers am Kieferwinkel und den Daumen am vorderen Bereich des Unterkiefers.
 Durch *auf-* und *vorwärtsgerichteten* Druck der Finger am Kieferwinkel kann der Unterkiefer nach oben und vorn geschoben werden, der Daumen öffnet durch *sanften Druck auf das Kinn* vorsichtig den Mund.
 
+
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/EsmarchHandgriff.*
 :width: 60%
 
 Esmarch-Handgriff  [© Lena Hirtler, {term}`ℓ MfG`]
 :::
+
 
 ::::{admonition} Geschichtliches
 
@@ -134,15 +140,11 @@ Er beschrieb neben dem Esmarch-Handgriff den Esmarch-Verband und gründete den D
 
 Während die vorbeschriebenen Techniken einen prinzipiell durchgängigen Atemweg gewährleisten sollen, ermöglicht die stabile Seitenlage eine einfache, wenn auch nicht 100 %ige, Aspirationsprophylaxe.
 
-1. Der Arm des Patienten, welcher näher zum Helfer liegt,
-   wird im rechten Winkel zum Patienten am Boden aufgelegt.
-2. Der Helfer fasst unter das von ihm abgewandte Knie des Patienten
-   und hebt es an.
-3. Das Handgelenk des abgewandten Arm des Patienten wird an das
-   aufgehobene Knie angelegt.
-4. Das so zusammengeführte Hand- und Kniegelenk wird zum Helfer
-   gedreht. Dabei kippt der Patient auf die Seite zum Helfer.
-5. Kopf des Patienten überstrecken
+1.  Der Arm des Patienten, welcher näher zum Helfer liegt,  wird im rechten Winkel zum Patienten am Boden aufgelegt.
+2.  Der Helfer fasst unter das von ihm abgewandte Knie des Patienten und hebt es an.
+3.   Das Handgelenk des abgewandten Arm des Patienten wird an das aufgehobene Knie angelegt.
+4.  Das so zusammengeführte Hand- und Kniegelenk wird zum Helfer gedreht. Dabei kippt der Patient auf die Seite zum Helfer.
+5.  Kopf des Patienten überstrecken
 
 <!--
 :::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Seitenlage1.png

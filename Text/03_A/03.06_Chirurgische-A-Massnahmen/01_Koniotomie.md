@@ -25,7 +25,7 @@ Anatomie des Larynx. **A**: Zugang für Koniotomie; **B**: Zugang für Tracheoto
 \[© PhilippN/Wikimedia Commons (modifiziert)  {term}`ℓ CC BY-SA 3.0`\]
 :::
 
-Es handelt sich um ein Notfall-Atemwegsverfahren und wird fast immer als letzter Ausweg durchgeführt, wenn eine endotracheale Intubation bzw. eine anderes alternatives Atemwegsverfahren unmöglich oder kontraindiziert ist (z. B. *Can-not-ventilate-can-not-intubate*-Situationen, schwere Anaphylaxie, …).
+Es handelt sich um ein Notfall-Atemwegsverfahren und wird fast immer als letzter Ausweg durchgeführt, wenn eine endotracheale Intubation bzw. eine anderes alternatives Atemwegsverfahren unmöglich oder kontraindiziert ist (z. B. *Can-not-ventilate-can-not-intubate*-Situationen{margin}`Can-not-ventilate-can-not-intubate`, schwere Anaphylaxie, …).
 Die Koniotomie ist einfacher und schneller durchzuführen als eine Tracheotomie, ist jedoch nur eine temporäre Möglichkeit eines Atemwegszugangs.
 
 :::{todo} {issue}`8` FOTO: Nadelkoniotomiesystem "Quicktrach™"

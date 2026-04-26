@@ -102,13 +102,13 @@ Der Vorgang wird nach Bedarf wiederholt.
 - Besondere Gefahren (Tumore, Blutungsquellen, Lockerung von Tamponaden, …)
 :::
 
-In der Rachenhinterwand verläuft der **N. vagus**, welcher Einfluss auf den Kreislauf hat.
-Ein **Laryngospasmus** kann resultieren.
+In der Rachenhinterwand verläuft der **N. vagus**{margin}`Vagusreiz`, welcher Einfluss auf den Kreislauf hat.
 Wenn dieser gereizt wird, kann es zu einer *parasympathischen Reaktion* (**Bradykardie** bis hin zur Asystolie) kommen.
 Weiters kann es zu *Schleimhautverletzungen* und Blutungen kommen oder  ein *Brechreiz* ausgelöst werden.
+Ein **Laryngospasmus**{margin}`Laryngospasmus` kann resultieren.
 Bei Verdacht auf ein *Schädelbasisfraktur* darf aufgrund möglicher Verletzungen der Schädelbasis nicht über die Nase abgesaugt werden!
 
 In bestimmten Situationen bestehen besondere Gefahren, z. B.:
 
-- Tumore oder Blutungsquellen im abgesaugten Bereich
-- Bronchustamponaden (Lockerung durch Sog, Brech- oder Hustenreiz)
+-   Tumore oder Blutungsquellen im abgesaugten Bereich
+-   *Bronchustamponaden* (Lockerung durch Sog, Brech- oder Hustenreiz)

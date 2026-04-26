@@ -14,6 +14,7 @@ Dieses Epithel ist gekennzeichnet durch eine Schleimhaut mit Flimmerhärchen (so
 Kinozilien). Becherzellen in dieser Schleimhaut produzieren den Schleim.
 Die Kinozilien schlagen immer rachenwärts und sorgen für einen kontinuierlichen Abtransportes des Schleimes nach oral (= mukoziliärer Transport).
 
+
 (figure-respiraktionstrakt-uebersicht)=
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Respiratory_system_complete_de-edited.\*
@@ -24,6 +25,10 @@ Die Atemwege, Übersicht
 © Mariana Ruiz Villarreal
 ℓ Public domain
 :::
+
+
+
+
 
 ## Nasenhöhle (Cavitas nasi) und Nasennebenhöhlen (Sinus paranasales)
 
@@ -45,16 +50,14 @@ Die *Schwellkörper* im Bereich der drei Nasenmuscheln sorgen zusätzlich für e
 
 In die Nasenhöhle münden neben dem *Tränen-Nasen-Gang (Ductus nasolacrimalis*, Mündung unter der unteren Nasenmuschel) alle *Nasennebenhöhlen (Sinus paranasales)* (insg. 4 Stück):
 
-- *Sinus frontalis (Stirnhöhle)*: paarig, im Os frontale, Mündung unter
-  der mittleren Nasenmuschel
-- *Sinus maxillaris (Kieferhöhle)*: paarig, in Maxilla, Mündung unter
-  der mittleren Nasenmuschel
-- *Sinus (=Cellulae) ethmoidalis (Siebbeinhöhle)*: im Os ethmoidale,
-  werden in drei Gruppen eingeteilt, die vordere und mittlere Gruppe
-  haben ihre Mündung unter der mittleren Nasenmuschel, die hintere
-  Gruppe unter der oberen Nasenmuschel
-- *Sinus sphenoidalis (Keilbeinhöhle)*: im Os sphenoidale, Mündung
-  unter der oberen Nasenmuschel
+-   *Sinus frontalis (Stirnhöhle)*:
+    paarig, im Os frontale, Mündung unter der mittleren Nasenmuschel
+-   *Sinus maxillaris (Kieferhöhle)*:
+    paarig, in Maxilla, Mündung unter der mittleren Nasenmuschel
+-   *Sinus (=Cellulae) ethmoidalis (Siebbeinhöhle)*:
+    im Os ethmoidale, werden in drei Gruppen eingeteilt, die vordere und mittlere Gruppe haben ihre Mündung unter der mittleren Nasenmuschel, die hintere Gruppe unter der oberen Nasenmuschel
+-   *Sinus sphenoidalis (Keilbeinhöhle)*:
+    im Os sphenoidale, Mündung unter der oberen Nasenmuschel
 
 Über ihre Schleimhautauskleidung arbeiten sie an der *Befeuchtung und Erwärmung der Atemluft* mit.
 Außerdem bilden sie einen *Resonanzkörper* für die Sprachbildung (luftgefüllte Knochen).
@@ -70,30 +73,24 @@ Außerdem bilden sie einen *Resonanzkörper* für die Sprachbildung (luftgefüll
 
 Nach den Choanen kommt die Atemluft in den Rachen. Dieser ist in *drei Stockwerke* (nach ihrer Lage) eingeteilt und ca. *12 cm* lang:
 
-- *Nasopharynx = Epipharynx*:
-  Übergang von Nasenhöhle über die Choanen,
-  Mündung der *Ohrtrompete*
-  (Tuba auditiva, Eustachische Röhre; Druckausgleich zum Mittelohr),
-  ausgekleidet von respiratorischem Epithel
-- *Oropharynx = Mesopharynx*: Übergang von Mundhöhle (Isthmus faucium,
-  die über die beiden Gaumenbögen gebildete Engstelle),
-  hier *kreuzt der Weg der Nahrung mit dem Weg der Atemluft*,
-  ausgekleidet von mehrschichtigem unverhorntem
-  Plattenepithel.
-- *Laryngopharynx = Hypopharynx*:
-  ausgekleidet von mehrschichtigem
-  unverhorntem Plattenepithel.
+-   *Nasopharynx = Epipharynx*:
+    Übergang von Nasenhöhle über die Choanen, Mündung der *Ohrtrompete* (Tuba auditiva, Eustachische Röhre; Druckausgleich zum Mittelohr), ausgekleidet von respiratorischem Epithel
+-   *Oropharynx = Mesopharynx*:
+    Übergang von Mundhöhle (Isthmus faucium, die über die beiden Gaumenbögen gebildete Engstelle), hier *kreuzt der Weg der Nahrung mit dem Weg der Atemluft*, ausgekleidet von mehrschichtigem unverhorntem Plattenepithel.
+-   *Laryngopharynx = Hypopharynx*:
+    ausgekleidet von mehrschichtigem unverhorntem Plattenepithel.
 
-Im Bereich des Rachens befindet sich auch ein Teil des *lymphatischen Systems*- der Waldeyersche Rachenring.
+Im Bereich des Rachens befindet sich auch ein Teil des *lymphatischen Systems*- der *Waldeyer'sche Rachenring*{margin}`Waldeyer'scher Rachenring`.
 Dieser besteht aus 5 verschiedenen Organen:
 
-- Rachenmandel (Tonsilla pharyngea) - klar abgrenzbar mit Kapsel
-- Tubenmandel (Tonsilla tubaria) - diffuses lymphatisches Gewebe
-- Gaumenmandel (Tonsilla palatina) - klar abgrenzbar mit Kapsel
-- Zungengrundmandel (Tonsilla lingualis) - klar abgrenzbar mit Kapsel
-- Seitenstrang - diffuses lymphatisches Gewebe
+-   *Rachenmandel* (Tonsilla pharyngea): klar abgrenzbar mit Kapsel
+-   Tubenmandel (Tonsilla tubaria): diffuses lymphatisches Gewebe
+-   *Gaumenmandel* (Tonsilla palatina): klar abgrenzbar mit Kapsel
+-   Zungengrundmandel (Tonsilla lingualis): klar abgrenzbar mit Kapsel
+-   Seitenstrang: diffuses lymphatisches Gewebe
 
-Der Pharynx besteht für den Schluckvorgang hauptsächlich aus *quergestreifter Muskulatur.* Man unterscheidet Schlundschnürer (Mm. constrictores pharyngi) und Schlundheber (Mm. levatores pharyngi).
+Der Pharynx besteht für den Schluckvorgang hauptsächlich aus *quergestreifter Muskulatur.*
+Man unterscheidet Schlundschnürer (Mm. constrictores pharyngi) und Schlundheber (Mm. levatores pharyngi).
 
 
 
@@ -161,6 +158,10 @@ Die *Plica vestibularis* wird durch das Lig. vestibulare aufgeworfen und bildet 
 Die *Plica vocalis* wird durch das Lig. vocale aufgeworfen und bildet hierdurch eine weitere Engestelle des Kehlkopfes, die Rima glottidis.
 Die Plica vocalis wird auch als *Stimmlippe*, das Lig. vocale als *Stimmband* bezeichnet.
 Die *Glottis* beschreibt den stimmbildenden Teil des Kehlkopfes.
+
+
+
+
 
 ## Schluckakt und Schluckreflex
 

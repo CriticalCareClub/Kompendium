@@ -23,7 +23,7 @@ Im Gegensatz dazu werden bei der Videolaryngoskopie die Atemwegsstrukturen mitte
 Dadurch entfällt die Notwendigkeit einer direkten Sichtlinie zur Visualisierung der Atemwegsstrukturen.
 Die Art und Weise der Visualisierung bzw. Positionierung der Kamera, ist gerätespezifisch. {term}`🗎 Chemsian 2014`
 Hervorzuheben ist, dass die Darstellung der Glottisebene oft gut möglich ist, das Problem jedoch die tatsächliche Positionierungen des Tubus ist.
-Deswegen ist die Verwendung eines vorgeformten Führungsdrahtes oder ähnlicher Hilfsmittel oft notwendig.
+Deswegen ist die Verwendung eines vorgeformten *Führungsdrahtes*{margin}`Führungsdraht` oder ähnlicher Hilfsmittel oft notwendig.
 
 <!--
 :::{subfigure} AB
@@ -50,6 +50,6 @@ Der Spatel ist anatomisch geformt und verfügt über eine batteriebetriebene Lic
 Ferner enthält er eine seitliche Schiene für die Platzierung und das geführte Einführen eines Endotrachealtubus.
 
 Der Airtraq™ ist gegenüber der herkömmlichen direkten Laryngoskopie in Situationen vorteilhaft, in denen die Halswirbelsäule immobilisiert werden muss, da ein Blick auf die Glottisöffnung ohne signifikante Manipulation der Halswirbelsäule möglich ist und er daher eine Intubation mit minimaler Manipulation und Positionierung des Kopfes bzw. der Halswirbelsäule ermöglicht.
-Er setzt jedoch eine grundsätzlich regelhafte Anatomie voraus, da durch die vorgeformte Schiene kaum Spielraum beim Einführen des Tubus besteht.
+Er setzt jedoch eine grundsätzlich regelhafte Anatomie voraus, da durch die vorgeformte Schiene *kaum Spielraum* beim Einführen des Tubus besteht.
 
 

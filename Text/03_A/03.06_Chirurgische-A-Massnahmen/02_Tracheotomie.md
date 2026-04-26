@@ -17,7 +17,7 @@ Eine Tracheotomie ist ein chirurgischer Eingriff, bei dem ein Schnitt an der Vor
 Es existieren eine Reihe verschiedener chirurgischer Techniken zur Anlage.
 In die resultierende Öffnung (**Tracheostoma**) kann ein Tubus oder eine spezielle **Trachealkanüle** eingeführt und ggfs. gecufft werden.
 Die Trachealkanüle kann dann mittels Normanschluss mit einem Beatmungsgerät oder einer anderen Beatmungsvorrichtung verbunden.
-Patienten, die keine Beatmungstherapie benötigen, können einen speziellen Filter ("feuchte Nase") anbringen.
+Patienten, die keine Beatmungstherapie benötigen, können einen speziellen Filter ("feuchte Nase"{margin}`feuchte Nase`) anbringen.
 Tracheostomata können vorübergehend oder dauerhaft angelegt sein.
 
 
@@ -42,7 +42,7 @@ Tracheostoma \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 :::
 
 Wichtig ist die Kenntnis und Unterscheidung zwischen einem *chirurgisch* und einem  *dilatativ* angelegtem Tracheostoma.
-Während bei dem **chirurgisch** angelegten Stoma die anatomischen Verhältnisse chirurgisch durch entsprechende Schnitte angepasst werden werden, erfolgt beim **dilatativ** angelegtem Stoma ein Stich mittels Kanüle in die Trachea, die Einlage eines Führungsdrahts und anschließend das Aufdehnen der Öffnung bis eine Kanüle eingeführt werden kann.
+Während bei dem **chirurgisch**{margin}`chirurgisch` angelegten Stoma die anatomischen Verhältnisse chirurgisch durch entsprechende Schnitte angepasst werden werden, erfolgt beim **dilatativ**{margin}`dilatativ` angelegtem Stoma ein Stich mittels Kanüle in die Trachea, die Einlage eines Führungsdrahts und anschließend das Aufdehnen der Öffnung bis eine Kanüle eingeführt werden kann.
 Das aufgedehnte Loch hat jedoch bei Entfernen der Kanüle eine hohe Tendenz sich wieder zusammenzuziehen.
 Dies ist einerseits wünschenswert wenn der Patient keine Kanüle benötigt, geschieht das Entfernen der Kanüle jedoch ungewollt, kann eine notfallmäßige Wiederanlage der Kanüle erschwert oder sogar unmöglich sein!
 

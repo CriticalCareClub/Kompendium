@@ -116,7 +116,7 @@ Nach jedem Patienten soll eine Wischdesinfektion mit Flächendesinfektionsmittel
 
 (rr-messung)=
 
-## Bludruckmessung nach Riva-Rocci
+## Blutdruckmessung nach Riva-Rocci
 
 Die {dfn}`Blutdruckmessung nach Riva-Rocci`[^footnote-3] ist eine indirekte, unblutige, mechanische Messung mittels einer Druckmanschette.\*\* Umgangssprachlich wird die Blutdruckmessung nach Riva-Rocci als *"RR-Messung"*, bzw. der ermittelte Wert als *"RR"* abgekürzt.
 

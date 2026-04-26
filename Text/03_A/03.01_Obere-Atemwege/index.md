@@ -10,9 +10,9 @@ status: final
 
 Die Atemwege dienen zum *Transport, zur Anwärmung, zur Befeuchtung, zur Reinigung* *und zur Kontrolle der Atemluft* (für die Mundhöhle siehe Verdauungstrakt).
 Die luftleitenden Strukturen sind mit *respiratorischem Epithel* ausgekleidet.
-Dieses Epithel ist gekennzeichnet durch eine Schleimhaut mit Flimmerhärchen (sog.
-Kinozilien). Becherzellen in dieser Schleimhaut produzieren den Schleim.
-Die Kinozilien schlagen immer rachenwärts und sorgen für einen kontinuierlichen Abtransportes des Schleimes nach oral (= mukoziliärer Transport).
+Dieses Epithel ist gekennzeichnet durch eine Schleimhaut mit *Flimmerhärchen* (sog. Kinozilien).
+*Becherzellen* in dieser Schleimhaut produzieren den Schleim.
+Die Kinozilien schlagen immer rachenwärts und sorgen für einen kontinuierlichen Abtransportes des Schleimes nach oral (*mukoziliärer Transport*).
 
 
 (figure-respiraktionstrakt-uebersicht)=

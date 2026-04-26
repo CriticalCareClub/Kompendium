@@ -46,6 +46,7 @@ Bitte beachten Sie die "{ref}`Hinweise-zur-Mitarbeit`".
 :::{toctree}
 :caption: Inhalt
 :maxdepth: 1
+:numbered: 3
 :glob:
 
 0*/index

@@ -316,12 +316,24 @@ EKG: Kammerflimmern (VF)
 © WMC: Glenlarson, {term}`ℓ PD`
 :::
 
+
+
+
+
+(PEA)=
+
 ### Pulslose elektrische Aktivität (*PEA*)
 
 {ref}`Reanimationspflichtig, nicht schockbar! <Reanimation-Rhythmen>`
 
 Bei der pulslosen elektrischen Aktivität ist die Herzaktion von der elektrischen Aktivität *entkoppelt*, d. h. das Herz reagiert nicht auf die Impulse des Reizleitungssystems. Der EKG-Befund kann zwar unauffällig sein, aufgrund der fehlenden Herzaktion besteht trotzdem ein Kreislauffstillstand.
 Sie ist das Maximalbild einer *elektromechanischen Dissoziation*.
+
+
+
+
+
+(AV-Block)=
 
 ### Atrioventrikuläre Blockierungen (AV-Block)
 
@@ -356,6 +368,10 @@ EKG: Übersicht: AV-Blockaden
 
 © WMC: [Npatchett](https://commons.wikimedia.org/wiki/User:Npatchett), {term}`ℓ CC BY-SA 4.0`
 :::
+
+
+
+
 
 ### Ventrikulärer Ersatzrhythmus
 

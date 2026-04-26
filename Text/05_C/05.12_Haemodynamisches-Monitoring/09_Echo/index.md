@@ -7,6 +7,8 @@ status: final
 :::{index} single: Echokardiographie
 :::
 
+(Echokardiographie)=
+
 # Echokardiographie
 
 Die Echokardiographie ("Echo") wird in der Intensivmedizin zunehmend nur als diagnostisches Verfahren, sondern auch zur diskontinuierlichen hämodynamischen Überwachung eingesetzt.

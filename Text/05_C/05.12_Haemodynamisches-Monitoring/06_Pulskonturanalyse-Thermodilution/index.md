@@ -26,6 +26,7 @@ status: final
 (GHDM-VO-PKThermo-Systeme)=
 (PPV)=
 (SVV)=
+(SPV)=
 
 # Pulskonturanalyse und Thermodilution
 
@@ -38,7 +39,7 @@ Die Pulskonturanalyse ermöglicht zwei Dinge:
 
    - Variation der Minima- und Maxima-Werte v. a. während des Atemzyklus (Einfluss der intrathorakalen Druckverhältnisse auf den Pulsdruck): *"Swing"* {index}` <Swing>` der Arterienkurve
    - Variationen der Pulskontur der einzelnen Schläge, insbes. des *Area under the curve* (AUC; Fläche unter der Kurve).
-     Daraus lässt sich die **Pulse Pressure Variation** (**PPV**) errechnen.
+     Daraus lässt sich die **Pulse Pressure Variation** (**PPV**) und die  *Systolic Pulse Variation* (*SPV*)  errechnen.
 
 2. Herleitung des Schlagvolumens durch Zuhilfenahme der {ref}`Thermodilutionstechnik <thermodilution>`. Dies erlaubt die Ermittlung von:
 

@@ -101,100 +101,68 @@ Akutes KoronarsyndromTypische Schmerzausdehnung bzw. -ausstrahlung beim ischämi
 : Vital bedroht
 ::: -->
 
-:::{rubric} {{ TxAbcde3 }}
-:::
+{{ TxAbcde3 }}:
+:   Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig und blass.
 
-Der Patient macht oft einen leidenden Eindruck, eventuell ist er kaltschweißig und blass.
+{{ TxAbcde4 }}:
+:   Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*).
+    Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken.
+    Der Schmerz wird als brennend bzw. stechend beschrieben.
+    Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
+    Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen, welcher als Verdauungsstörung oder Magen-Darm-Erkrankung fehlgedeutet werden kann.
 
-:::{rubric} {{ TxAbcde4 }}
-:::
-
-Die Leitsymptome sind ein  *akuter, nicht atemabhängiger, Brustschmerz* und  *Atemnot* (*Dyspnoe*). Der Schmerz ist meist hinter dem Brustbein lokalisiert und kann *ausstrahlen*, häufig in den Kiefer, (linken) Arm und in den Rücken. Der Schmerz wird als brennend bzw. stechend beschrieben.
-Zusätzlich zu dem Schmerz verspürt der Patient auch oft ein *Enge-* bzw. *Druckgefühl* im Brustkorb, *"als würde jemand darauf stehen"*.
-Unter Umständen kann es auch zu einem *Oberbauchschmerz* kommen, welcher als Verdauungsstörung oder Magen-Darm-Erkrankung fehlgedeutet werden kann.
-
-Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu einem schmerzlosen Verlauf kommen, man spricht dabei auch vom *"stummen Infarkt"*.
-*Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen Schocks* können die entsprechenden Schockzeichen beobachtet werden:
-Blässe, Kaltschweißigkeit, Hypotonie, etc.
-({ref}`SchockKardiogener`).
+    Bei Diabetikern kann es aufgrund der Nervenschädigungen auch zu einem schmerzlosen Verlauf kommen, man spricht dabei auch vom *"stummen Infarkt"*.
+    *Todesangst und Vernichtungsgefühl* sind häufig. Bei Auftreten eines *kardiogenen Schocks* können die entsprechenden Schockzeichen beobachtet werden:
+    Blässe, Kaltschweißigkeit, Hypotonie, etc.
+    ({ref}`SchockKardiogener`).
 
 
 
-:::{rubric} {{ TxAbcdeB }}
-:::
+{{ TxAbcdeB }}
 
-&#8201;*Atemnot* kommt häufig vor und ist ein Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
-
-
-
-:::{rubric} {{ TxAbcdeC }}
-:::
-
-Der Puls kann unregelmäßig sein.
-Der Blutdruck kann in jede Richtung verändert sein.
-Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
-Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
+:   *Atemnot* kommt häufig vor und ist ein Leitsymptom. Begleitend kann man oft eine Zyanose beobachten.
 
 
 
-:::{rubric} {{ TxAbcdeE }}
-:::
+{{TxAbcdeC}}:
+:   Der Puls kann unregelmäßig sein.
+    Der Blutdruck kann in jede Richtung verändert sein.
+    Bedenke: Ein hypertensiver Notfall kann Auslöser eines ACS sein.
+    Es können Zeichen eines  *kardiogenen Schocks* vorliegen.
 
-Das EKG kann wichtige Hinweise über Ausdehnung, Alter und Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung ist jedoch nur entsprechend ausgebildeten und geübten Personal vorbehalten.
+
+
+{{ TxAbcdeE }}:
+:   Das EKG kann wichtige Hinweise über Ausdehnung, Alter und Lokalisation des Infarkts bringen. Um die Dynamik beurteilen zu können, soll schon möglichst früh ein 12-Kanal-EKG geschrieben werden um Veränderungen im Verlauf zu dokumentieren. Die Beurteilung ist jedoch nur entsprechend ausgebildeten und geübten Personal vorbehalten.
 
 
 
-:::{rubric} {{ TxAbcdeFazit }}
-:::
-
-Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedroht einzuschätzen. Eine ärztliche Diagnose ist auch hinsichtlich der Auswahl des richtigen Transportziel (Herzkatheterlabor?) entscheidend.
+{{ TxAbcdeFazit }}:
+:   Ein Patient mit einem  akuten Koronarsyndrom ist grundsätzlich als vital bedroht einzuschätzen.
+    Eine ärztliche Diagnose ist auch hinsichtlich der Auswahl des richtigen Transportziel (Herzkatheterlabor?) entscheidend.
 
 
 
 ### SAMPLER beim akuten Koronarsyndrom
 
-<!--
-:::{sidebar} SAMPLER
-🅂
 
-: Siehe ABCDE
 
-🄼
 
-: Nitroglycerin: Pflaster, Kapseln, Spray
+{{TxSamplerS}}:
+:   Siehe ABCDE
 
-🄿
 
-: Koronare Herzkrankheit (KHK)
+{{TxSamplerM}}:
+:   **Nitroglycerin** wird zur Erweiterung der Koronargefäße von KHK-Patienten eingenommen. Dies kann entweder mittels eines Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays (z. B. *Nitrolingual*), welcher bei Bedarf eingenommen wird, erfolgen.
+  Herzkranke Patienten nehmen daneben oft noch viele andere Medikamente ein.
 
-🄴
 
-: Körperliche Anstrengung
-:::
- -->
+{{TxSamplerP}}:
+:   Bei den meisten Patienten ist die Angina pectoris schon bekannt, bzw. es besteht eine {ref}`koronare Herz-Krankheit (KHK) <KHK>`.
 
-🅂 Symptome
 
-: Siehe ABCDE
-
-🄼 Medikation
-
-: **Nitroglycerin** wird zur Erweiterung der Koronargefäße
-  von KHK-Patienten eingenommen. Dies kann entweder mittels eines
-  Pflasters (Nitro-Pflaster), über Kapseln oder mittels eines Sprays
-  (z. B. *Nitrolingual*), welcher bei Bedarf eingenommen wird,
-  erfolgen. Herzkranke Patienten nehmen daneben oft noch viele andere
-  Medikamente ein.
-
-🄿 Patientenhistorie
-
-: Bei den meisten Patienten ist die Angina pectoris schon bekannt,
-  bzw. es besteht eine {ref}`koronare Herz-Krankheit (KHK) <KHK>`.
-
-🄴 Ereignisse
-
-: Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn
-  des Anfalls berichtet.
+{{TxSamplerE}}:
+:   Häufig wird über körperliche Anstrengung oder Aufregung vor Beginn  des Anfalls berichtet.
 
 
 

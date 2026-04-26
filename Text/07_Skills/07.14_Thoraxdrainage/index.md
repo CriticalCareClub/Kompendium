@@ -143,7 +143,7 @@ Indirekte Zeichen:
 
 Zu beachten ist jedoch, dass ein (noch) kleiner Pneumothorax je nach Strahlengang unter Umständen im Röntgen keine Konturen zeigt, sich also quasi "versteckt".
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Spannungspneu+Drainage.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Spannungspneu+Drainage.png
 
 Ein linksseitiger Spannungspneumothorax vor (oben) und nach (unten) Anlage einer Thoraxdrainage. Gut zu sehen ist die Verlagerung des Mediastinums hin zur gesunden Seite sowie die fehlende Strukturzeichnung im linksseitigen Pneumothorax. [© [Cupr78up](https://de.wikipedia.org/wiki/Benutzer:Cupr78up), {term}`ℓ CC BY-SA 3.0`]
 :::
@@ -187,13 +187,13 @@ M-Mode:
 - Fehlen diese atmungsbdingten Lungenbewegungen zeigen sich im M-Mode statische Echo, welche über die Zeit als gerade Striche aufgetragen werden.
   Da dies an einen Strichcode erinnert, wird dieses Zeichen **Barcode Sign** genannt.
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Sea_shore_sign_on_a_lung_ultrasound.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Sea_shore_sign_on_a_lung_ultrasound.jpg
 
 Das Seashore Sign im M-Mode ist ein Normalbefund, die atmungsbedingten Bewegungsartefakte erinnern an einen Sandstrand.
 [© [Tinss](https://commons.wikimedia.org/wiki/User:Tinss), {term}`ℓ CC BY-SA 4.0`]
 :::
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/Barcode-Zeichen.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/Barcode-Zeichen.jpg
 :width: 50%
 
 Barcode Sign im M-Mode: Die aufgrund des Pneumothorax unbewegten Konturen imponieren als Striche wenn die Echos über die Zeit aufgetragen werden.
@@ -381,13 +381,13 @@ In umgekehrter Richtung verschliessen die Membranen jedoch das Lumen.
 
 (fig-heimlichventil-schema)=
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Heimlich_valve.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Heimlich_valve.png
 :width: 70%
 
 Heimlich-Ventil \[© [Orinoco-w](https://commons.wikimedia.org/wiki/User:Orinoco-w) {term}`ℓ CC BY-SA 3.0`\]
 :::
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_002947.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_002947.001341px.jpg
 
 Patient mit einem traumatischen Pneumothorax unter Reanimation, Bülau-Drainage mit Heimlich-Ventil in Monaldi-Position
 
@@ -400,7 +400,7 @@ Hierbei endet die Drainage in einer Flüssigkeit, deren Spiegel *unterhalb* des 
 Um diese Flüssigkeit anzusaugen ist, je nach Tiefe des Spiegels, aufgrund des {ref}`hydrostatischen Drucks <hydrostatischerdruck>` ein erheblicher Sog notwendig, welcher, wenn die Flüssigkeit tief genug positioniert ist, während der Inspiration nicht erreicht wird.
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/cmH20.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/cmH20.001341px.jpg
 :width: 100%
 
 Physik des Ballermann-Urlaubs, Teil I: Um einen Margarita über 1 Meter anzusaugen, wird ein Sog von -100 cm H₂O benötigt.
@@ -416,7 +416,7 @@ Schaltet man vor dem eigentlichen Wasserspiegel **Sammelbehälter** davor, könn
 Weiter ist das Anschließen einer **Sogquelle** möglich, um die Expansion des Lungenflügels zu unterstützen.
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_114533.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/ICU/Procedures/IMG_114533.001341px.jpg
 
 Wasserschloss, unter dem Patientenbett positioniert
 :::

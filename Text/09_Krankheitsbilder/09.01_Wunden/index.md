@@ -209,13 +209,13 @@ In {ref}`Table-Wundarten` findet sich eine Aufstellung und kurze Erklärung der 
 :::
 
 
-:::{subfigure} AB|CD|EF|GH
+:::{subfigure} AB|CD
 :subcaptions: below
 :name: Figure-BilderserieWundarten
 :class-grid: outline
 :gap: 20px
 
-Bilderserie: Wundarten [© David Hauer, :term:`ℓ MfG`]
+Bilderserie: Wundarten 1 [© David Hauer, :term:`ℓ MfG`]
 
 ![Rissquetschwunde vor der Versorgung im Spital](../../../Submodules/3134-medical-picture-collection/Hauer-David/wunde_rqw1.*)
 
@@ -224,6 +224,16 @@ Bilderserie: Wundarten [© David Hauer, :term:`ℓ MfG`]
 ![Glatte Wundränder und eigentlich ganz unauffällig: Die Stichwunde.](../../../Submodules/3134-medical-picture-collection/Hauer-David/stichwunde-klein.*)
 
 ![Stichverletzung: unauffällig. **Dieser Patient ist lebensgefährlich verletzt!** (Pneumothorax)](../../../Submodules/3134-medical-picture-collection/Hauer-David/pneumothorax_stichverletzung_diskret.*)
+
+:::
+
+:::{subfigure} AB|CD
+:subcaptions: below
+:name: Figure-BilderserieWundarten-2
+:class-grid: outline
+:gap: 20px
+
+Bilderserie: Wundarten 2 [© David Hauer, :term:`ℓ MfG`]
 
 ![Stichwunde mit eröffneter Brusthöhle.](../../../Submodules/3134-medical-picture-collection/Hauer-David/stichwunde-thorax-tief-01.*)
 

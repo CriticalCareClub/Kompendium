@@ -1,3 +1,7 @@
+---
+status: final
+---
+
 # Manuelle Traumatechniken und Ruhigstellung mittels Schienung
 
 :::{toctree}

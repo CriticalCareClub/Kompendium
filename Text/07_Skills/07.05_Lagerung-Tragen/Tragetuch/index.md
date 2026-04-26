@@ -18,11 +18,17 @@ angewendet werden.
 
 Die Füße des Patienten zeigen talwärts, in der Ebene wird der Patient wird immer mit den *Füßen voran* getragen.
 
-:::{subfigure} AB|CD|EF|GH|II
+:::{raw} latex
+\begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
+:::
+
+
+
+:::{subfigure} ABC|DEF|GHI
 :subcaptions: below
 :name: Figure-BilderserieTragetuch
 :class-grid: outline
-:gap: 20px
+:gap: 10px
 
 Bilderserie: Transport mit dem Tragetuch [© Michael Motal, {term}`ℓ MfG`]
 
@@ -45,3 +51,7 @@ Bilderserie: Transport mit dem Tragetuch [© Michael Motal, {term}`ℓ MfG`]
 ![…und auf Kommando gemeinsam anheben](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/tragetuch9b.000800px.jpg)
 :::
 
+
+:::{raw} latex
+\end{minipage}
+:::

@@ -19,11 +19,18 @@ Siehe Bilderserie {ref}`Figure-lagerungsarten`[^footnote-1].
     lebensgefährlich!), soll diese Bezeichnung nicht mehr verwendet
     werden.
 
-:::{subfigure} AB|CD|EF|GH|II
+
+:::{raw} latex
+\begin{minipage}{\linewidth+\marginparwidth+\marginparsep}
+:::
+
+
+
+:::{subfigure} ABC|DEF|GHI
 :subcaptions: below
 :name: Figure-lagerungsarten
 :class-grid: outline
-:gap: 20px
+:gap: 10px
 
 Bilderserie: Lagerungsarten [© Michael Motal, {term}`ℓ MfG`]
 
@@ -44,5 +51,9 @@ Bilderserie: Lagerungsarten [© Michael Motal, {term}`ℓ MfG`]
 ![Lagerung mit erhöhter Extremität](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungthromboseb.000800px.jpg)
 
 ![Lagerung mit herabhängender Gliedmaße](../../../../Submodules/3134-medical-picture-collection/Motal-Michael/Santechniken/lagerungembolieb.000800px.jpg)
+:::
+
+:::{raw} latex
+\end{minipage}
 :::
 

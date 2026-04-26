@@ -58,9 +58,9 @@ Ein modifizierter **Allen-Test** zur Kontrolle des Kollateralkreislaufs wird hä
 
 Übersicht: Verschiedene Arterienkanülen [© MrArifnajafov {term}`ℓ CC BY-SA 3.0`]
 
-![Arterielle Kanülen nach der Seldinger-Technik](../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
+![Arterielle Kanülen nach der Seldinger-Technik](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_Seldinger_800px.jpg)
 
-![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_800px.jpg)
+![Arterielle Kanüle analog zu einem peripheren Venenverweilkatheter: Abweichend dazu verfügt diese arterielle Kanüle über einen Schiebeverschluss (rot).](../../../Submodules/3134-medical-picture-collection/CC-BY-3.0/Arterial_kateter_800px.jpg)
 
 :::
 
@@ -150,7 +150,7 @@ Im Folgenden ist die direkte Punktionstechnik am Beispiel der ultraschallkontrol
 34. Dokumentation
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Arterial-line-shaded.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/CC-BY-SA-4.0/Arterial-line-shaded.png
 :alt: Bild
 :width: 75%
 
@@ -160,7 +160,7 @@ Success: Arterielles System in situ an der A. radialis
 :::
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
@@ -196,9 +196,9 @@ Zur Verhinderung von Katheterinfektionen müssen die hygienischen Maßnahmen str
 
 Arteriensystem
 
-![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
-![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
+![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
 
 :::
 

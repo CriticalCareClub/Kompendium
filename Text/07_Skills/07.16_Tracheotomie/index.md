@@ -35,9 +35,9 @@ Bei der **perkutanen Dilatationstracheotomie** (**PDT**) wird der Zugang nicht c
 
 Perkutane Dilatationstracheotomie: Relevante Anatomie
 
-![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../../../../Submodules/3134-medical-picture-collection/PD/Larynx-Anatomie.jpeg)
+![Anatomie des Larynx: ① Schildknorpel, ② Ligamentum cricothyroideum, ③ Ringknorpel, ④ Luftröhre, Ⓐ Lokalisation der Koniotomie, Ⓑ Lokalisation der Tracheotomie](../../../Submodules/3134-medical-picture-collection/PD/Larynx-Anatomie.jpeg)
 
-![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../../../Submodules/3134-medical-picture-collection/unrestricted/Traqueostomia.png)
+![Tracheostoma mit einliegender Trachealkanüle: ① Stimmbänder, ② Schildknorpel, ③ Ringkorpel, ④ Trachealknorpel, ⑤ Ballonmanschette](../../../Submodules/3134-medical-picture-collection/unrestricted/Traqueostomia.png)
 
 :::
 
@@ -154,7 +154,7 @@ Manche Kanülen besitzen:
 Blockbare Trachealkanülen werden bei Beatmung und Aspirationsgefährdung angewendet.
 Bei Spontanatmung und Vorhandensein der notwendigen Schutzreflexe und das störungsfreie Schlucken möglich ist, wird eine ungeblockte Kanüle verwendet. Dabei ist auch die Verwendung einer Metallkanüle möglich, die keinen Cuff und auch keinen Konnektor besitzt, aber gut gereinigt, desinfiziert und bei Bedarf auch sterilisiert werden kann.
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tracheostomy/IMG_140940.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/Tracheostomy/IMG_140940.001341px.jpg
 
 Patient mit Trachealkanüle
 :::

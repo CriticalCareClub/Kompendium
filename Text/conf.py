@@ -502,10 +502,10 @@ latex_elements                    = {
         \renewcommand{\sphinxstylesidebartitle}[1]    {{\FontHeaderFamily\textbf{#1}}\par\medskip}
         \renewcommand{\sphinxstyleothertitle}[1]      {\textbf{#1}}
         \renewcommand{\sphinxstylesidebarsubtitle}[1] {~\\\textbf{#1} \smallskip}
-        \renewcommand{\sphinxstyleemphasis}[1]        {\emph{#1}}
+        \renewcommand{\sphinxstyleemphasis}[1]        {\emph{\color{Solarized-Orange}#1}}
         \renewcommand{\sphinxstyletheadfamily}        {\sffamily\bfseries}
         \renewcommand{\sphinxstyleliteralemphasis}[1] {\emph{\sphinxcode{#1}}}
-        \renewcommand{\sphinxstylestrong}[1]          {\textbf{#1}}
+        \renewcommand{\sphinxstylestrong}[1]          {\textbf{\color{Solarized-Orange}#1}}
         \renewcommand{\sphinxstyleliteralstrong}[1]   {\sphinxbfcode{#1}}
         \renewcommand{\sphinxstyleabbreviation}[1]    {\textsc{#1}}
         \renewcommand{\sphinxstyleliteralintitle}[1]  {\sphinxcode{#1}}

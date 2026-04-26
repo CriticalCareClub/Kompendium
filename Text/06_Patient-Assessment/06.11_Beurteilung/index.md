@@ -5,7 +5,7 @@ status: final
 (abcde-beurteilung)=
 (abcde)=
 
-# Beurteilung `=`
+# Beurteilung
 
 Die *Einschätzung der vitalen Bedrohung* erfolgt *ständig* während des gesamten Einschätzungsblocks.
 Ein Patient kann jederzeit anhand der Alarmzeichen für *vital bedroht* erklärt werden.
@@ -18,6 +18,10 @@ Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf mögliche Dia
 ```
 :::
 
+
+
+
+
 ```{index} single: Alarmzeichen
 ```
 ```{index} single: Red Flags
@@ -27,7 +31,7 @@ Im Verlauf des Einschätzungsblocks gewinnt man erste Hinweise auf mögliche Dia
 
 ## Alarmzeichen ("Red Flags" 🚩): Zeichen einer vitalen Bedrohung
 
-:::{image} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/minen_hinweis_edited.jpg
+:::{image} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/minen_hinweis_edited.jpg
 :align: right
 :width: 23%
 :::
@@ -72,6 +76,10 @@ Während des weiteren Behandlungsverlaufs kann man auf weitere Befunde oder Fakt
   (evtl. sogar noch vor Abschluss des
   Einschätzungsblockes)!
 
+
+
+
+
 ```{index} single: Sofortmaßnahmen
 ```
 
@@ -93,6 +101,10 @@ Typische Sofortmaßnahmen sind z. B.
 - die *Standardmaßnahmen bei vital bedrohten Patienten* oder auch die
 - Vorgezogene Transportentscheidung bei absolut zeitkritischen
   Patienten.
+
+
+
+
 
 (m-standardmassnahmen-vital)=
 (standardmassnahmen-vital)=
@@ -144,6 +156,10 @@ Reihenfolge zählt!
     Patientenbeobachtung bleibt immer ein wesentlicher Teil
     des Monitorings!
 
+
+
+
+
 (m-reanimationsbereitschaft)=
 
 ## Reanimationsbereitschaft
@@ -159,6 +175,10 @@ Reihenfolge zählt!
       Elektroden und Verbrauchsmaterial bleiben verpackt.
 
 [^platzschaffen]: z. B. im Wohnzimmer den Couchtisch, Hocker etc. zur Seite schieben
+
+
+
+
 
 (sonderfallabsolutzeitkritischepatienten)=
 
@@ -177,10 +197,18 @@ nicht beherrschbare starke Blutungen oder geburtsunmögliche Lagen.
   Zielentscheidung**
 - Z. B. nicht beherrschbare starke Blutungen, geburtsunmögliche Lagen
 
+
+
+
+
 ## Nicht vital bedrohte Patienten
 
 Auch bei nicht vital bedrohten Patienten können Sofortmaßnahmen ergriffen werden (z. B. Lagerung).
 Es muss individuell überlegt werden, welche Maßnahmen zuerst zu treffen sind und welche warten können.
+
+
+
+
 
 ## Eine Re-Evaluation (Verlaufskontrolle) muss regelmäßig durchgeführt werden
 

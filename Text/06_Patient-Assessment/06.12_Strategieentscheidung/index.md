@@ -9,8 +9,7 @@ status: final
 
 Während und nach dem Einschätzungsblock (und den Sofortmaßnahmen) müssen die Prioritäten des Patienten gesetzt und der weitere Plan erstellt werden.
 Daraus ergeben sich die weiteren Handlungsschritte.
-Ziel ist es, zu erkennen, welche Maßnahmen, Untersuchungen und Fragen am dringlichsten sind und zuerst durchgeführt werden müssen, und was eher in der Abfolge nach hinten verschoben wird;
-d. h. der weitere Ablauf ist situations- und patientenabhängig.
+Ziel ist es, zu erkennen, welche Maßnahmen, Untersuchungen und Fragen am dringlichsten sind und zuerst durchgeführt werden müssen, und was eher in der Abfolge nach hinten verschoben wird; d. h. der weitere Ablauf ist situations- und patientenabhängig.
 
 - *Besteht eine hohe Transportpriorität?*
 - *Sind noch weitere Untersuchungen oder Fragen zur Lagebeurteilung
@@ -18,9 +17,15 @@ d. h. der weitere Ablauf ist situations- und patientenabhängig.
 - *Welche weiteren Untersuchungen, Maßnahmen und Fragen sind wichtig?*
 - *Was ist wichtig, was kann warten?*
 
+
+
+
+
+## ... in der Präklinik
+
 (transportprioritaet)=
 
-## Transportpriorität
+### Transportpriorität
 
 % .. sidebar:: Transportpriorität
 %
@@ -67,7 +72,11 @@ bereits ausgeführt, kann als Sofortmaßnahme bei *absolut zeitkritischen Patien
 Die Maßnahmen von D und E sollen dann, sofern möglich, während des Transportes erfolgen.
 Darunter fallen z. B. nicht beherrschbare starke Blutungen oder geburtsunmögliche Lagen.
 
-## Transportentscheidung
+
+
+
+
+### Transportentscheidung
 
 Nach dem Einschätzungsblock und der Strategieentscheidung erfolgt die Entscheidung über den Transport.
 Diese ist abhängig vom
@@ -86,13 +95,21 @@ Die Transportentscheidung besteht im Wesentlichen aus der
 1. Wahl des *Transportzeitpunktes* und der
 2. *Zielentscheidung*.
 
-## Die Zielentscheidung beeinflusst die weitere Behandlung wesentlich
+
+
+
+
+### Die Zielentscheidung beeinflusst die weitere Behandlung wesentlich
 
 Je nach Art des Patientenkontakts (Rettungseinsatz, Krankentransport, Ambulanzdienst etc.) hat die Zielentscheidung eine unterschiedliche Bedeutung.
 
 Weiters hat der *Zustand des Patienten* sowie die *Verdachtsdiagnose* Einfluss auf den *Zeitpunkt* des Transportes (schnelle Hospitalisierung vs. Stabilisierung vor Ort).
 
-### Zielentscheidung beim Primäreinsatz
+
+
+
+
+#### Zielentscheidung beim Primäreinsatz
 
 Beim Primäreinsatz ("Rettungseinsätze") ist der Transport des Patienten die Regel.
 Besonders wichtig ist die *Auswahl des richtigen Zieles*.
@@ -111,13 +128,13 @@ Bei kritischen Patienten hat diese Auswahl oft große Folgen für den Erfolg der
 Wird der Patient einer ungeeigneten Einrichtung
 (unzuständige Fachabteilung, benötigte Fachabteilung oder Spezialeinrichtungen nicht vor Ort verfügbar, …) zugeführt, kann es zu *Verzögerungen* in der Behandlung kommen, welche (vermeidbare) *bleibende Schäden* verursachen können.
 
-### Zielentscheidung beim Sekundäreinsatz
+#### Zielentscheidung beim Sekundäreinsatz
 
 Beim Sekundäreinsatz gibt es i. d. R. einen vordefinierten Zielpunkt.
 Hier muss vor allem bedacht werden, ob das vorhandene *Material ausreicht*, um den Patienten für die Dauer des Transportes wie gewünscht zu versorgen.
 Dazu ist die Kenntnis über die speziellen Bedürfnisse des Patienten notwendig (Medikamente, Sauerstoff, Dekubitusprophylaxe, …).
 
-### Zielentscheidung bei Ambulanzdiensten
+#### Zielentscheidung bei Ambulanzdiensten
 
 Bei Ambulanzdiensten wird der Sanitätsdienst häufig von Patienten in Anspruch genommen, welche keine schwerwiegenden Gesundheitsstörungen aufweisen.
 Außerdem hat bei Ambulanzdiensten die *Behandlung vor Ort* einen größeren Stellenwert.
@@ -131,7 +148,7 @@ Die zusätzliche Schwierigkeit bei Ambulanzdiensten besteht darin, jene Patiente
 Zusätzlich kann es notwendig sein, Prioritäten zu setzen, wenn die verfügbare Anzahl der Transportmittel nicht ausreicht.
 Bei vielen Großambulanzdiensten werden Patienten entsprechend dem Patientenleitsystem in die Behandlungsprioritäten I—IV sowie die Transportprioritäten A und B eingeteilt (*Triage*).
 
-### Bettenkontingent
+#### Bettenkontingent
 
 In vielen Rettungsdienstbereichen gibt es sog.
 Bettenkontingente.
@@ -144,6 +161,11 @@ Die Zuteilung der Betten
   Wartezeitreduzierung
 - Geeignete Abteilung
 - Zuteilung durch eine Leitstelle
+
+
+
+
+
 
 ```{index} single: Überwachungsbett
 ```
@@ -220,3 +242,100 @@ Weiters ist es ratsam, vor Transportbeginn sich die *Bettenzusage telefonisch be
 [^fn-bettenzusage]: Eine Bettenzusage erfolgt meist durch die Einrichtung,
     ohne dass sie
     Näheres über das Problem des Patienten weiß.
+
+
+
+```{index} single: Belassung
+```
+```{index} single: Standardmaßnahmen, immer durchzuführende
+```
+
+(m-standardmassnahmen-immer)=
+(m-standardmassnahmenimmer)=
+(standardmassnahmen-immer)=
+(tafel-pam-weiterfuehrende)=
+
+## Immer durchzuführende Standardmaßnahmen
+
+Die folgenden Maßnahmen sind grundsätzlich immer in einer *der Situation angemessenen* Art und Weise durchzuführen.
+Im begründeten Ausnahmefall kann es allerdings notwendig oder sinnvoll sein, dass manche Maßnahmen unterbleiben oder aufgeschoben werden
+(Auf Grund des Selbstschutzes, "Aufklärung" eines bewusstlosen Patienten,
+...) oder angepasst werden müssen.
+(Die Reihenfolge ist der jeweiligen Situation anzupassen!)
+
+- {ref}`Einschätzungsblock <Einschaetzungsblock>` (ABCDE) zum
+
+  - Einschätzen und Erkennen einer vitalen Bedrohung und
+  - Ergreifen von Sofortmaßnahmen
+  - Erkennen der Hauptbeschwerde und von Leitsymptomen
+
+- Allgemeine Maßnahmen
+
+  - Beengende oder behindernde Kleidung entfernen bzw.
+    öffnen
+  - Situationsgerechte **Lagerung**
+  - *Wärmeerhalt* oder *Kühlung*
+  - **Patientenidentifkation**
+  - **Dokumentation**, **Aufklärung**
+  - Psychischer Beistand
+
+- Weiterführende Untersuchungen und Maßnahmen
+
+  - Erhebung der **Anamnese** ({ref}`SAMPLER <Sampler>`)
+  - Weitere angemessene **Untersuchungen**
+  - **Spezielle Maßnahmen** je nach
+    Krankheitsbild, Verdachtsdiagnose, Verletzungsmuster bzw. Patientenzustand
+
+- **Monitoring**, Verlaufskontrolle, Patientenbeobachtung
+
+- Weiteres Vorgehen, je nach Bedarf und Situation:
+
+  - Transportentscheidung und ggfs. Transport an eine
+    geeignete Einrichtung (Krankenanstalt, Fachabteilung).
+
+  - Für nicht-ärztliches Personal:
+    Bei Bedarf Notarzt-Nachforderung (z. B. Schmerztherapie,
+    Aufklärung zwecks *Belassung* auf
+    Patientenwunsch *trotz Behandlungsnotwendigkeit*, ...)
+
+  - Patient begibt sich selbstständig in weitere
+    Behandlung. Z. B. bei Bagatellverletzungen
+    ist es zulässig, dass sich
+    der Patient selbständig in ärztliche Behandlung begibt.
+    Das Anraten, eine ärztliche Behandlung aufzusuchen, ist
+    zu dokumentieren und ggfs. vom Patienten per
+    Unterschrift bestätigen zu lassen (Revers). Über Risiken
+    muss aufgeklärt (und diese Aufklärung ebenfalls
+    dokumentiert) werden.
+
+  - Verweigerung des Transports, der Untersuchung oder
+    Intervention durch den geschäftsfähigen Patienten.
+
+  - Belassung des Pateinten nach ärztlicher Befundstellung dass
+    keine behandlungsbedürftige Erkrankung vorliegt.
+
+    Die Frage, wie nichtärztliches Personal
+    bei einer Transportverweigerung oder vermeintlich nicht
+    vorliegender Behandlungsbedürftigkeit/Spitalspflichtigkeit
+    vorzugehen hat, ist nach wie vor nicht
+    zufriedenstellend beantwortet. [^belassung]
+
+- Ggfs. {ref}`Übergabe <Uebergabe>` an weiterbehandelndes Personal
+
+[^belassung]: Die Untersuchung auf
+    das Vorliegen oder Nichtvorliegen von
+    körperlichen und psychischen Krankheiten oder Störungen
+    ist im § 2 Abs. 2 Z. 1 ÄrzteG geregelt und hat keine
+    Entsprechung im SanG; somit fällt die Feststellung, ob
+    eine Behandlungsbedürftigkeit besteht unter den
+    Ärztevorbehalt, d. h. ist den Ärzten vorbehalten.
+    *"Ob Behandlungsbedarf vorliegt, kann nur
+    von einem Arzt entschieden werden. Denn die dafür erforderliche
+    Diagnose von (behaupteten) Krankheitszuständen fällt unter
+    § 2 Abs. 2 Z. 1 ÄrzteG und ist daher den Ärzten
+    vorbehalten."* OGH (4 Ob 36/10p)
+
+    Das "selbstständige Begeben in ärztliche Behandlung"
+    stellt jedoch keine Beurteilung über das Vorliegen einer Erkrankung
+    oder gesundheitlichen Störung sowie deren
+    grundsätzlicher Behandlungsnotwendigkeit dar.

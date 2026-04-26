@@ -101,7 +101,7 @@ Der Einsatz der Atemhilfsmuskulatur weist auf eine relevante Einschränkung der 
 
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/asthma-paramedic.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/asthma-paramedic.\*
 :width: 100%
 
 Patientin mit einem akuten Asthmaanfall
@@ -160,9 +160,9 @@ Bei beatmeten Patienten sind Atemwegssicherung und Beatmungssystem zu kontrollie
 
 Bilderserie: Breathing
 
-![Die Rippen folgen der Atembewegung \[© HiLe, ℓ MfG\]](../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
+![Die Rippen folgen der Atembewegung \[© HiLe, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Thoraxbewegungen-Rippe.*)
 
-![Zyanotische Lippen \[© GaSe, ℓ MfG\]](../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.*)
+![Zyanotische Lippen \[© GaSe, ℓ MfG\]](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/UE2011FORTUNA-00651-0154pt-0300dpi.*)
 
 :::
 

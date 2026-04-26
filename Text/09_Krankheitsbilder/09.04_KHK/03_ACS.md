@@ -254,7 +254,8 @@ Bedenke **atypische Präsentationen**:
   - Oft minimale ST-Hebungen inferior/lateral
 
 :::{attention}
-50 % der Erst-EKGs sind nicht diagnostisch, eine Verlaufsbeurteilung bei entsprechender Klinik ist notwendig.
+
+Bei 50 % der Erst-EKGs ist die Ischämie nicht im EKG sichtbar, eine *Verlaufsbeurteilung* der *Dynamik* bei entsprechender Klinik bzw. Verdacht ist notwendig.
 :::
 
 Besonders häufige Patientengruppen mit **atypischen** Symptomen umfassen:

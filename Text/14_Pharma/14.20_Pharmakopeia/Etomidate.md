@@ -19,7 +19,7 @@ Etomidate soll aufgrund der Nebennierensuppression und der damit verbundenen **e
 
 Pharmakodynamik
 : - *Telenzephal* hypnotische Wirkung.
-    Ebenso Wirkung am GABA\ :sub:`A`\ -Rezeptor.
+    Ebenso Wirkung am GABA{sub}`A`\ -Rezeptor.
     Dosisabhängige *Hemmung der Cortisolsynthese* durch reversible Enzymhemmung
     (11-Beta-Hydroxylase) in der Nebennierenrinde.
 

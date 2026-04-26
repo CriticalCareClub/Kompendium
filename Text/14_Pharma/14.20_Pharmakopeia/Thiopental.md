@@ -18,10 +18,10 @@ aber auch hier wird es zunehmend von Propofol verdrängt.
 
 
 Pharmakodynamik
-: Interaktion als Modulator mit GABA\ :sub:`A`-Rezeptorkomplex,
+: Interaktion als Modulator mit GABA{sub}`A`-Rezeptorkomplex,
   bewirkt Verlängerung der Cl⁻-Kanalöffnungszeit. In höherer
   Konzentration ist auch eine direkte Aktivierung der
-  GABA\ :sub:`A`-Kanäle möglich.
+  GABA{sub}`A`-Kanäle möglich.
 
 Pharmakokinetik
 : Thiopental flutet rasch an, mit einem Wirkungseintritt ist

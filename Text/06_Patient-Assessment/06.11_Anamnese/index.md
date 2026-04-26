@@ -273,6 +273,7 @@ In jedem Fall ist zu überprüfen, ob es sich tatsächlich um den Brief des Pati
 (insbesonders Angaben zu Diagnosen und Medikation können sehr rasch veralten).
 
 :::{admonition} Beispiel: Patientenbrief
+
 ```{raw} latex
 \ttfamily\small
 ```

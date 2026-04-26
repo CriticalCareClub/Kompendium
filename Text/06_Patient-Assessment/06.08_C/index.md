@@ -121,7 +121,7 @@ Schnelle Trauma-Untersuchung (`STU`)
     -   **Jugendlicher**
     -   **Erwachsener**
     -
-*   -   **RR**\ :sub:`sys`
+*   -   **RR**{sub}`sys`
     -   75
     -   80—90
     -   95

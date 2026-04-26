@@ -124,7 +124,7 @@ Der **Druck am Boden eines Gefäßes** hängt nur von der **Höhe der Flüssigke
 :::
 :::{index} single: Staudruck
 :::
-:::{index} single: p\ :sub:`d`
+:::{index} single: p{sub}`d`
 :::
 
 (hydrodynamischerdruck)=

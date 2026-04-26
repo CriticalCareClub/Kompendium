@@ -605,7 +605,7 @@ latex_elements                    = {
         \hbadness=10000
         \vbadness=10000
         \setlength{\headheight}{13.6pt}
-        \setlength{\baselineskip}{20pt}\linespread{1.1}
+        \setlength{\baselineskip}{20pt}\linespread{1.04}
         \release{v''' + version_latex +
         '''}
     ''',

@@ -444,7 +444,7 @@ latex_elements                    = {
     'fontpkg': r'''
         \setmainfont                                  {Lexend}
         \setsansfont                                  {Lexend}
-        \setmonofont                                  {Latin Modern Mono}
+        \setmonofont                                  [Scale = MatchLowercase]{Source Code Pro}
     ''',
     'tableofcontents': r'\setcounter{tocdepth}{1}\setcounter{parttocdepth}{2}\doparttoc\tableofcontents',
     'preamble': r'''
@@ -455,11 +455,11 @@ latex_elements                    = {
         \usepackage{mdframed}
 
 
-        %\setmainfont                                 {Libertinus Serif}
-        %\setsansfont                                 {Libertinus Sans}
-        %\setmonofont                                 {Latin Modern Mono}
+        \setmainfont                                 {Lexend-Regular}
+        \setsansfont                                 {Lexend-Regular}
+        \setmonofont                                 [Scale = MatchLowercase]{Latin Modern Mono}
         %\setmathfont                                 {Libertinus Math}
-        %\setfontfamily\FontSansFamily                {Libertinus Sans}
+        %\setfontfamily\FontSansFamily                {Source Sans 3}
         %\setfontfamily\FontSansNarrowFamily          {Libertinus Sans}
         %\setfontfamily\FontSerifNarrowFamily         {Libertinus Sans}
         %\setfontfamily\FontTtNarrowFamily            {Latin Modern Mono}

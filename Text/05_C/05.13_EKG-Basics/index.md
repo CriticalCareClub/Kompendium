@@ -4,7 +4,7 @@ status: final
 
 (ekg)=
 
-# EKG (Basics)
+# EKG
 
 Mittels der **Elektrokardiographie** (**EKG**)
 wird die elektrische Aktivität des Herzens und damit des Reizbildungs- und leitungssystems in einem *Elektrokardiogramm* über die Zeit dargestellt.
@@ -53,7 +53,7 @@ Bilderserie: Reizleitungssystem
     ein unauffälliges EKG aufweisen!
 :::
 
-### Ein EKG kann verschiedene Ableitungen haben
+## Ableitungen
 
 ::::{only} not nosidebar
 
@@ -115,14 +115,14 @@ Die gebräuchlichsten sind die Extremitätenableitungen und den Brustwandableitu
     | *Rechtes Herz*: V3R—V6R
     |
 
-## Extremitätenableitungen
+### Extremitätenableitungen
 
 Die *Extremitätenableitungen* werden mittels vier Elektroden abgeleitet. Je eine Elektrode wird an den Enden der Extremitäten angebracht. Zur Vereinfachung können die Elektroden auch am
 Übergang vom Rumpf zu den Extremitäten angebracht werden (z. B. statt dem rechten Arm an der rechten Schulter). Wichtig ist, dass die horizontalen Elektrodenpärchen immer auf *gleicher Höhe* angebracht werden! Zu den Positionen der Elektroden siehe \[Table-ekg-elektroden-position\].
 
 Aus den Informationen der *vier Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen* (I, II, III, aVL, aVR und aVF).
 
-## Brustwandableitungen
+### Brustwandableitungen
 
 Die *Brustwandableitungen* werden mittels sechs Elektroden abgeleitet und erlauben eine genauere Zuordnung von Störungen zu der jeweiligen Region des Herzens. Aus den Informationen der *sechs Elektroden* erzeugt das EKG-Gerät *sechs Ableitungen*:
 V1—V6. Zu den Positionen der Elektroden siehe
@@ -147,7 +147,11 @@ Pulsoxymetrie 12-Kanal-EKG und integriertem Defibrillator mit SAED-Funktion (Cor
 © Ch. Pallinger  {term}`ℓ MfG`
 :::
 
-### Praxis des EKG-Schreibens
+
+
+
+
+## Praxis des EKG-Schreibens
 
 In der Praxis ergeben sich daraus zwei Anwendungsfälle:
 
@@ -219,7 +223,12 @@ Extremitätenableitungen und Brustwandableitungen
 © WMC, {term}`ℓ PD`
 :::
 
-# Literatur
+
+
+
+
+
+## Literatur
 
 {term}`🗎 Kaindl 7`
 {term}`🗎 Kuehn 2002 1`

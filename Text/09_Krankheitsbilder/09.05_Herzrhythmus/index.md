@@ -135,7 +135,7 @@ Folgende Symptome sprechen für eine der hämodynamische Wirksamkeit:
 
 ## 🔎 Diagnostik
 
-Essentiell für die Diagnostik von Herzrhythmusstörungen ist die **Elektrokardiographie** (EKG).
+Essentiell für die Diagnostik von Herzrhythmusstörungen ist die {ref}`Elektrokardiographie <EKG>` (EKG).
 Damit kann en Großteil der Störungen diagnostiziert werden.
 Es ist sinnvoll die EKG um ein Verfahren zur ergänzen, welches einen Rücksschluss auf den Herzauswurf ermöglicht um so eine elektromechanische Dissoziation zu erkennen.
 Dies kann zum Beispiel die Pulsoxymetrie (-graphie), eine invasive Blutdruckmessung oder auch simples Pulstasten sein.

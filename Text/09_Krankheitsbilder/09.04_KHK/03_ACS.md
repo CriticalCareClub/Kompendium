@@ -222,6 +222,8 @@ Aufgrund der EKG-Veränderungen, im speziellen der ST-Strecke, wird zwischen ein
 :::{index} pair: CX-Infarkt; EKG
 :::
 
+(EKG-STEMI-Kriterien)=
+
 ### STEMI-Kriterien
 
 - ST-Hebungen in zumindest 2 benachbarten Ableitungen:

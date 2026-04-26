@@ -88,7 +88,7 @@ Ihr gemeinsamer Ansatzpunkt ist die Hemmung der Cyclooxigenase, die für die {re
 - antipyretisch (fiebersenkend)
 - antiphlogistisch (entzündungshemmend)
 
-:::{figure} ../../../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Arachidonsaeuremetabolismus.png
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Hirtler-Lena/Pharma/Arachidonsaeuremetabolismus.png
 :name: Fig-ArachidonsaeureMetabolismus
 :width: 100%
 

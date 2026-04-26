@@ -9,136 +9,170 @@ status: final
 :::{index} pair: Code; Guidelines
 :::
 
-# Style Guide – MyST-Markdown
+# Style Guide – MyST-Markdown (Medizinisches Kompendium)
 
-Dieser Style-Guide definiert verbindliche Formatierungs- und Strukturregeln für die Erstellung von Inhalten im Projekt.
-Ziel ist eine konsistente, lehrbuchartige und technisch saubere Darstellung.
 
----
 
 ## Allgemeine Prinzipien
 
-- Ausgabe erfolgt **immer als Markdown-Code**.
-- Stil: präzise, knapp, fachsprachlich korrekt.
-- **Jeder Satz beginnt in einer neuen Zeile**.
-- Begriffe aus der Überschrift werden im Fließtext **nicht erneut hervorgehoben**.
-- Hervorhebungen:
-  - *kursiv*: Fachbegriffe, zentrale Konzepte
-  - **fett**: nur selektiv für starke Betonung
+-   Ausgabe erfolgt **immer als Markdown-Code**.
+-   Stil: **präzise, knapp, fachsprachlich korrekt**.
+-   Fokus: **klinische Entscheidungsunterstützung**.
+-   Jeder Satz beginnt in einer neuen Zeile.
+-   Jeder Abschnitt muss klinisch verwertbar sein.
 
----
 
-## Überschriftenstruktur
 
-Eine Überschrift besteht immer aus drei zusammengehörigen Elementen:
+## Einrückung
 
-1. Indexeinträge
-2. Label
-3. Überschrift
+-   Einrückungen folgen einem **Tab-Stop von 4 Zeichenpositionen**.
+-   Listen werden entsprechend ausgerichtet: `-   Text`
+-   Unterpunkte werden um eine weitere Ebene eingerückt:
 
-Diese bilden eine **untrennbare Einheit**.
 
-### Reihenfolge
+    ::::{code} markdown
 
-```markdown
+    -   Punkt
+        -   Unterpunkt
+    ::::
+
+
+
+
+
+## Überschriften
+
+Eine Überschriftseinheit besteht aus:
+
+1.  Indexeinträgen
+2.  Label
+3.  Überschrift
+
+
+:::::{admonition} Beispiel
+:class: example
+
+::::{code} markdown
+
 :::{index} single: Begriff
 :::
 
 (label)=
 
-### Überschrift
-```
+## Überschrift
 
-### Abstand
+::::
+:::::
 
-- **5 Leerzeilen vor jeder Überschriftseinheit** (Index + Label + Überschrift)
 
----
+Vor Überschriftseinheiten stehen **5 Leerzeilen**, ausgenommen unmittelbar davor steht eine Überschrift ohne Text dazwischen.
 
-## Indexierung
 
-- Syntax:
-  ```markdown
-  :::{index} single: Begriff
-  :::
-  ```
-- Mehrere Einträge erlaubt
-- Auch Unterkapitel erhalten eigene Indexeinträge
-- Semantische Verknüpfungen möglich:
-  ```markdown
-  :::{index} single: Oberbegriff; Unterbegriff
-  :::
-  ```
 
----
 
-## Labels
-
-- Syntax:
-  ```markdown
-  (label)=
-  ```
-- Steht **zwischen Index und Überschrift**
-- Wird für Referenzen (`{ref}`) verwendet
-
----
 
 ## Field Lists
 
-### Grundsyntax
+Vor und nach jedem Field-List-Block stehen **2 Leerzeilen**.
 
-```markdown
+::::{code} markdown
+
 Begriff
-:   Definition
-```
+:   Text
 
-### Regeln
 
-- **Keine Leerzeile zwischen Begriff und Definition**
-- Einrückung: **genau 4 Spaces**
-- Kein Tab-Mix
+Mehrzeilig:
 
-### Mehrzeilig
 
-```markdown
 Begriff
-:   Erste Zeile
-    Zweite Zeile
-```
+:   Erste Zeile.
+    Zweite Zeile.
 
-### Abstand
+::::
 
-- **2 Leerzeilen vor und nach jedem Field-List-Block**
 
----
 
-## Typografie
 
-- Abkürzungen: *Begriff* (*Abk1*, *Abk2*)
-- Einheiten konsistent (µl, cm², g/dl)
-- Zahlenbereiche mit Gedankenstrich (–)
-- „z. B.“ korrekt schreiben
 
----
+## Listen
+
+-   Listenpunkte verwenden das Format `-   Text`.
+-   Verschachtelung erfolgt mit einer weiteren Einrückungsebene.
+-   Kein Fließtext als Pseudo-Liste.
+
+
+
+
+
+## List-Tables
+
+::::{code} markdown
+
+:::{list-table} Titel
+:header-rows: 1
+
+*   -   Spalte 1
+    -   Spalte 2
+*   -   Wert A
+    -   Wert B
+:::
+::::
+
+
+
+
+
+## Admonitions
+
+Synopsis-Boxen verwenden eine eigene Klasse:
+
+:::::{admonition} Beispiel
+
+::::{code} markdown
+
+:::{admonition} Synopsis
+:class: synopsis
+
+-   Punkt
+:::
+::::
+:::::
+
+Keine Verwendung von `tip`, `warning` oder `info` für Synopsis-Boxen.
+
+
+
+
+
+## Referenzen
+
+-   Alles mit eigenem Kapitel wird referenziert.
+-   Begriff und Abkürzung dürfen beide referenziert werden.
+
+
+:::::{admonition} Beispiel
+
+{ref}`Elektrokardiogramm <EKG>` ({ref}`EKG <EKG>`)
+
+:::::
+
+
+
+
 
 ## Hervorhebungen
 
-- *kursiv*: Fachbegriffe
-- **fett**: selten, nur bei Bedarf
-- Keine Wiederholung von Überschriftenbegriffen
+-   *kursiv*: Fachbegriffe, Parameter, Konzepte
+-   **fett**: zentrale klinische Aussagen
+-   Begriffe aus der Überschrift werden im Fließtext nicht erneut hervorgehoben.
 
----
 
-## Fließtext
 
-- Jeder Satz in neuer Zeile
-- Prägnant, ohne Füllwörter
-- Klinische Relevanz priorisieren
 
----
 
-## Ziel
+## Typografie
 
-- Konsistenz
-- Lesbarkeit
-- MyST-/Sphinx-Kompatibilität
+-   „z. B.“ und „d. h.“ mit "protected thin space" (Unicode U+202f) schreiben.
+-   Zahlenbereiche mit Gedankenstrich (EM-Dash).
+-   Einheiten  mit "protected thin space" (Unicode U+202f) trennen  (z. B. 90 mm Hg)
+-   Doppelte Leerzeichen vermeiden.

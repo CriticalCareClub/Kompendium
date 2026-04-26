@@ -10,12 +10,20 @@ Mittels der **Elektrokardiographie** (**EKG**)
 wird die elektrische Aktivität des Herzens und damit des Reizbildungs- und leitungssystems in einem *Elektrokardiogramm* über die Zeit dargestellt.
 Dazu werden auf dem Körper nach einem bestimmten Muster Elektroden aufgeklebt und mittels eines Kabels mit einem EKG-Gerät verbunden.
 
+:::{seealso}
+-   {ref}`herzrhythmusstoerungen`
+-   {ref}`acs`
+:::
+
 :::{toctree}
-:maxdpeth: 1
+:maxdepth: 1
 :glob:
 
 *
 :::
+
+
+
 
 
 
@@ -26,4 +34,6 @@ Dazu werden auf dem Körper nach einem bestimmten Muster Elektroden aufgeklebt u
 {term}`🗎 Kuehn 2003 2`
 
 {term}`🗎 EcgEmergencyDec 2`
+
+
 

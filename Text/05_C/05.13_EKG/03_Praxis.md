@@ -60,7 +60,7 @@ In der Praxis ergeben sich daraus zwei Anwendungsfälle:
   -
 :::
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/ECGcolor_edited.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/ECGcolor_edited.\*
 :width: 70%
 
 Extremitätenableitungen und Brustwandableitungen
@@ -68,7 +68,7 @@ Extremitätenableitungen und Brustwandableitungen
 © WmCo/Madhero88, {term}`ℓ PD`
 :::
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_sinus_rhythm.\*
+:::{figure} ../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_sinus_rhythm.\*
 :width: 100%
 
 10 Elektroden ergeben 12 Ableitungen: Unauffälliger 12-Kanal-EKG-Befund

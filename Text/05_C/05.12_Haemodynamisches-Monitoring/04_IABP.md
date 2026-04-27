@@ -82,7 +82,7 @@ https://www.youtube.com/shorts/tVtJAzFjr3k
 - Nervenschäden
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Catheters/Arterial/IMG_214900.001341px.jpg
 
 Ischämie der Akren nach Anlage eines arteriellen Katheters.
 :::
@@ -129,10 +129,10 @@ Ein arterielles Druckmesssystem besteht aus folgenden Teilen:
 
 Arteriensystem
 
-![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
+![Schema eines Arteriensystems \[© StatPearls Publishing LLC., ℓ CC BY-NC-ND 4.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-NC-ND-4.0/arterial-line-system-001.jpg)
 
 <!--
-![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
+![Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]](../../../Submodules/3134-medical-picture-collection/Logos/Logo-4.png)
  -->
 :::
 
@@ -171,7 +171,7 @@ Dazu wird der Absperrhahn zur Atmosphäre und zum Transducer hin geöffnet und d
 Anschließend wird der Absperrhahn zur Atmosphäre wieder geschlossen.
 
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104744_edited.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Input/IMG_104744_edited.jpg
 :alt: Bild
 :width: 100%
 
@@ -203,7 +203,7 @@ Die vermeintlichen "großen" QRS-Komplexe sind in Wirklichkeit Artefakte durch e
 
 ## Artefakte
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/Artefakt_IMG_132733_edited.000800px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/Artefakt_IMG_132733_edited.000800px.jpg
 
 Niedervoltage-EKG, welches fälschlicherweise als "Asystolie" interpretiert wird.
 
@@ -212,7 +212,7 @@ Beachte die arterielle Druck- und Pulsoxymetriekurve als Zeichen eines Herzauswu
 \[© GaSe {term}`ℓ CC BY-SA 4.0`\]
 :::
 
-:::{figure} ../../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/PEA_IMG_091438_edited.000800px.jpg
+:::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/PEA_IMG_091438_edited.000800px.jpg
 
 Pulslose Elektrische Aktivität.
 

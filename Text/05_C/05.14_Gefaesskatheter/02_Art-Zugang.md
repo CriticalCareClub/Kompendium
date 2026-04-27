@@ -202,8 +202,10 @@ Arteriensystem
 
 :::
 
+
 :::{todo} {issue}`16` Foto: Blutentnahmesystem \[© Edwards Lifesciences, ℓ MfG \]
 :::
+
 
 :::{raw} latex
 \end{minipage}
@@ -258,6 +260,7 @@ Arteriensystem
 21. Ggfs. **Blutdruckalarm** wieder einschalten
 
 22. Dokumentation
+
 
 :::{danger}
 Keinesfalls Material in das Patientenbett legen!

@@ -1,5 +1,5 @@
 ---
-status:
+status: final
 author:
 last-update:
 ---

@@ -17,9 +17,14 @@ Die Beurteilung, diagnostischen Möglichkeiten und Fragestellungen sind kontexta
 
 
 
+
 :::{index} single: Puls
 :::
-:::{index} single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit
+:::{index} single: Frequenz; Puls-
+:::
+:::{index} single Puls; -frequenz
+:::
+:::{index} single: Pulsdefizit
 :::
 :::{index} single: Puls; palpatorische Messung
 :::
@@ -67,6 +72,7 @@ Puls
     Ein schneller, schwacher Puls kann ein Hinweis auf einen Volumenmangel oder Schock sein.
 
     :::{margin} Messung der Pulsfrequenz
+
     -   Herzfrequenz, Pulsfrequenz
     -   Radialarterie (A. *radialis*)
     -   Halsschlagader (A. *carotis*)
@@ -78,9 +84,9 @@ Puls
     Allein das Vorhandensein eines tastbaren peripheren Pulses kann eine wichtige Information sein ("periphere Pulse gut / schlecht / nicht tastbar")
 
     :::{margin} Durchführung
-    -   15 s
-    -   2—3 Finger (nicht der Daumen!)
-    -   Mit 4 multiplizieren
+
+    -   2—3 Finger (nicht Daumen!)
+    -   15 s messen × 4
     :::
 
     Gemessen wird immer mit zwei bis drei Fingern, nie jedoch mit dem Daumen, da hier oft irrtümlich der Puls gefühlt wird, und nicht der des Patienten.
@@ -100,14 +106,12 @@ Neurologie und Kreislauf
     Neurologische Auffälligkeiten sind daher immer auch im Kontext der Kreislaufsituation zu beurteilen.
 
 
-
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Conditions/IMG_091513.000800px.jpg
 
 Marmoriertes Hautkolorit bei einem Patienten im ausgeprägte septischen Schock
 
 \[© GaSe {term}`ℓ CC BY-SA 4.0`\]
 :::
-
 
 
 
@@ -206,6 +210,7 @@ Bei der Interpretation des Wertes muss daher immer bedacht werden:
     (Traumapatienten!)
 -   Der *Erregungszustand* des Patienten (Nervosität, …).
 
+
 :::{admonition} Beispiel
 
 Ein 65-jähriger, männlicher Patient klagt über Schwindelgefühl, es wird ein Blutdruck von 155 / 95 mm Hg gemessen.
@@ -218,6 +223,7 @@ Im Blutdruckprotokoll finden sich die Einträge der vergangenen vier Tage:
 > → Obwohl der Patient laut Lehrbuch einen "schönen" Blutdruck hatte, war dieser dennoch zu niedrig!
 :::
 
+
 :::{admonition} Beispiel
 
 Ein 56-jähriger Patient klagt über starke kolikartige Schmerzen im linken Unterbauch. Sie messen einen Blutdruck von 155 / 95 mm Hg.
@@ -226,6 +232,7 @@ Der Patient kennt seinen "gewöhnlichen" Blutdruck nicht.
 > Der Blutdruck ist laut Lehrbuch erhöht, aber dies ist erklärbar durch die starken Schmerzen und den damit verbundenen Erregungszustand.
 > Die Beschwerden stehen wahrscheinlich in keinem ursächlichen Zusammenhang mit dem Blutdruck.
 :::
+
 
 :::{admonition} Beispiel
 
@@ -265,8 +272,6 @@ EKG
     Details: ☞ {ref}`EKG`
 
 
-
-
 :::{figure} ../../../Submodules/3134-medical-picture-collection/PD/12_lead_generated_sinus_rhythm.jpg
 :width: 100%
 
@@ -274,9 +279,6 @@ EKG: Normaler Sinusrhythmus
 
 © WMC: Glenlarson, {term}`ℓ PD`
 :::
-
-
-
 
 
 Blutdruck
@@ -295,6 +297,7 @@ Beachte die arterielle Druck- und Pulsoxymetriekurve als Zeichen eines Herzauswu
 
 \[© GaSe {term}`ℓ CC BY-SA 4.0`\]
 :::
+
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Monitor/Hemodynamics/PEA_IMG_091438_edited.000800px.jpg
 
@@ -343,10 +346,11 @@ Das heißt jedoch nicht, dass sie auch erfolgen soll:
 Ohne konkrete Fragestellung sind zusätzliche Invasivitäten zum erweiterten hämodynamischen Monitoring nicht vertretbar.
 Eine Risiko-Nutzen-Analyse ist unbedingt notwendig.
 
+
 :::{epigraph}
 Primum non nocere.
 
---- Grundsatz, der auch für das hämodynamische Monitoring gilt.
+-- Grundsatz, der auch für das hämodynamische Monitoring gilt.
 :::
 
 
@@ -392,6 +396,7 @@ Mikrozirkulation
 ## Maßnahmen
 
 Die Maßnahmen zielen auf die Sicherstellung einer ausreichenden Organperfusion sowie die Behandlung der zugrunde liegenden Ursache ab.
+
 
 Allgemeine Maßnahmen
 :   -   Ggfs.  {ref}`Standardmaßnahmen bei vitaler Bedrohung <m-standardmassnahmen-vital>`

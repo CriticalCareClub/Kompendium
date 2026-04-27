@@ -44,5 +44,5 @@ Dabei hat das hämodynamische Monitoring auch die wesentliche Funktion einer hä
 :maxdepth: 1
 :glob:
 
-*/index
+*
 :::

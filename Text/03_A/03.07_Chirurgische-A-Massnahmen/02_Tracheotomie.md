@@ -20,12 +20,9 @@ Die Trachealkanüle kann dann mittels Normanschluss mit einem Beatmungsgerät od
 Patienten, die keine Beatmungstherapie benötigen, können einen speziellen Filter ("feuchte Nase"{margin}`feuchte Nase`) anbringen.
 Tracheostomata können vorübergehend oder dauerhaft angelegt sein.
 
-
 Eine Tracheotomie wird häufig bei langzeit-beatmeten Intensivpatienten, bei Patienten mit Obstruktionen der oben Atemwege (Tumore etc.) oder nach Entfernung des Kehlkopfes (Laryngektomie) angewendet.
 Sie betrifft somit auch häufig Patienten in Pflegeeinrichtungen und der häuslichen Pflege.
 Notfallsituationen sind eher eine Domäne der {ref}`Koniotomie <Koniotomie>`.
-
-
 
 
 :::{subfigure} AB
@@ -41,10 +38,12 @@ Tracheostoma \[© Sebastian Gabriel  {term}`ℓ MfG`\]
 !["Feuchte Nase" für spontanatmende Patienten](../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Airway/IMG_140949.001341px.jpg)
 :::
 
+
 Wichtig ist die Kenntnis und Unterscheidung zwischen einem *chirurgisch* und einem  *dilatativ* angelegtem Tracheostoma.
 Während bei dem **chirurgisch**{margin}`chirurgisch` angelegten Stoma die anatomischen Verhältnisse chirurgisch durch entsprechende Schnitte angepasst werden werden, erfolgt beim **dilatativ**{margin}`dilatativ` angelegtem Stoma ein Stich mittels Kanüle in die Trachea, die Einlage eines Führungsdrahts und anschließend das Aufdehnen der Öffnung bis eine Kanüle eingeführt werden kann.
 Das aufgedehnte Loch hat jedoch bei Entfernen der Kanüle eine hohe Tendenz sich wieder zusammenzuziehen.
 Dies ist einerseits wünschenswert wenn der Patient keine Kanüle benötigt, geschieht das Entfernen der Kanüle jedoch ungewollt, kann eine notfallmäßige Wiederanlage der Kanüle erschwert oder sogar unmöglich sein!
+
 
 :::{danger}
 Das Wiedereinführen einer Kanüle bei einem dilatativen Tracheostoma kann erschwert oder unmöglich sein.

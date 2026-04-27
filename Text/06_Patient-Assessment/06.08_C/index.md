@@ -17,6 +17,14 @@ Die Beurteilung, diagnostischen Möglichkeiten und Fragestellungen sind kontexta
 
 
 
+:::{index} single: Puls
+:::
+:::{index} single: Frequenz; Puls- single Puls; -frequenz singe: Pulsdefizit
+:::
+:::{index} single: Puls; palpatorische Messung
+:::
+
+(pulsmessung)=
 
 ## Klinische und Basis-Beurteilung
 
@@ -40,7 +48,11 @@ Rekapillarisierungszeit
     Eine verlängerte Rekap-Zeit (> 2 s) weist auf eine gestörte periphere Perfusion hin.
 
 Puls
-:   Das Herz schlägt beim Erwachsenen mit einer *Pulsfrequenz* (*PF*) von 60—100 / min.
+:   Als **Herzfrequenz** (*HF*) bezeichnet man die Anzahl der Schläge bzw. Aktionen des Herzens pro Minute.
+    Als **Pulsfrequenz** bezeichnet man die Anzahl der resultierenden Pulsschläge pro Minute.
+
+    Die Herzfrequenz entspricht normalerweise der *Pulsfrequenz*, jedoch hat nicht zwangsläufig jede (elektrische[^emherzaktion]) Herzaktion einen Pulsschlag zur Folge; man spricht andernfalls vom *Pulsdefizit*.
+    Das Herz schlägt beim Erwachsenen mit einer *Pulsfrequenz* (*PF*) von 60—100 / min.
     Bei Belastung kann die Herzfrequenz beträchtlich gesteigert werden.
     Durch die Pumpfunktion des Herzens entsteht der {ref}`arterielle Blutdruck <blutdruck>`.
     Die Pulsfrequenz ist alters- und belastungsabhängig.
@@ -54,10 +66,34 @@ Puls
     Die *Pulsmessung* erlaubt die Beurteilung von Frequenz, Rhythmus und Qualität (kräftig, schwach, fadenförmig).
     Ein schneller, schwacher Puls kann ein Hinweis auf einen Volumenmangel oder Schock sein.
 
-    Sie erfolgt beim Erwachsenen häufig an der A. radialis am Handgelenk, alternativ an der A. brachialis oder an den zentralen Arterien (A. carotis, A. femoralis.).
-    Bei Kleinkindern ist die Palpation an der A. radialis häufig nicht zielführend.
+    :::{margin} Messung der Pulsfrequenz
+    -   Herzfrequenz, Pulsfrequenz
+    -   Radialarterie (A. *radialis*)
+    -   Halsschlagader (A. *carotis*)
+    -   Oberarmarterie (A. *brachialis*; Neugeborene, Säuglinge)
+    :::
 
+    Sie erfolgt beim Erwachsenen häufig an der **A. radialis** am Handgelenk, alternativ an der A. brachialis oder an den zentralen Arterien (*A. carotis*, *A. femoralis*).
+    Bei Kleinkindern ist die Palpation an der A. radialis häufig nicht zielführend, hier wird an der *Oberarmarterie* (A. *brachialis*) palpiert.
     Allein das Vorhandensein eines tastbaren peripheren Pulses kann eine wichtige Information sein ("periphere Pulse gut / schlecht / nicht tastbar")
+
+    :::{margin} Durchführung
+    -   15 s
+    -   2—3 Finger (nicht der Daumen!)
+    -   Mit 4 multiplizieren
+    :::
+
+    Gemessen wird immer mit zwei bis drei Fingern, nie jedoch mit dem Daumen, da hier oft irrtümlich der Puls gefühlt wird, und nicht der des Patienten.
+    Wenn an der Halsschlagader (A. *carotis*) die Herzfrequenz ermittelt wird, darf nie auf beiden Seiten gleichzeitig gemessen werden, da sonst die Gefahr besteht, dass es zu einer Unterversorgung des Gehirns mit Blut kommen kann.
+    Nun werden *15 Sekunden* lang die Schläge gezählt.
+    Anschließend wird das Ergebnis *mit vier multipliziert*, man erhält die Pulsfrequenz (PF) in Schläge *pro Minute* (b / min).
+    Der Normalwert liegt beim Erwachsenen zwischen 60 und 100 Schlägen pro Minute.
+    Neben der Frequenz wird auch die *Regelmäßigkeit* beurteilt, das heißt ob der Puls *rhythmisch* oder *arrhythmisch* ist.
+
+[^emherzaktion]:
+    Man unterscheidet zwischen einer elektrischen und mechanischen Herzaktionen (vgl. {ref}`herz`).
+
+
 
 Neurologie und Kreislauf
 :   Eine verminderte Vigilanz kann Ausdruck einer zerebralen Minderperfusion sein.

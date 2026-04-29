@@ -442,9 +442,9 @@ latex_elements                    = {
     'releasename': '\\hskip0pt',
     'transition': '\n',
     'fontpkg': r'''
-        \setmainfont                                  {Lexend}
-        \setsansfont                                  {Lexend}
-        \setmonofont                                  [Scale = MatchLowercase]{Source Code Pro}
+        \setmainfont                                 {Lexend-Regular}
+        \setsansfont                                 {Lexend-Regular}
+        \setmonofont                                 [Scale = MatchLowercase]{Latin Modern Mono}
     ''',
     'tableofcontents': r'\setcounter{tocdepth}{1}\setcounter{parttocdepth}{2}\doparttoc\tableofcontents',
     'preamble': r'''

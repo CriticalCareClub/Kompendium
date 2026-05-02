@@ -2,57 +2,78 @@
 status: final
 ---
 
-# Mechanik
 
+:::{index} single: Mechanik
+:::
+
+(Mechanik)=
+
+# Mechanik
 
 Die **Mechanik** ist die Lehre von Kräften und Bewegungen.
 Für die Medizin sind besonders folgende Konzepte relevant:
 
+
+
+
+
 ## Grundbegriffe
-- **Kraft (F):** beschreibt eine Einwirkung auf einen Körper
-  - Einheit: Newton (N)
-  - Zusammenhang: $F = m \cdot a$ (2. Newtonsches Gesetz)
+-   **Kraft** ($F$):
+    {index}` <Kraft>`
+    beschreibt eine Einwirkung auf einen Körper
+    -   Einheit: Newton (N)
+    -   Zusammenhang: $F = m \cdot a$ (2. Newtonsches Gesetz)
 
-- **Arbeit (W):** Übertragung von Energie durch Kraft über eine Strecke
-  - $W = F \cdot s$
-  - Einheit: Joule (J)
+-   **Arbeit** ($W$):
+    {index}` <Arbeit>`
+    Übertragung von Energie durch Kraft über eine Strecke
+    -   $W = F \cdot s$
+    -   Einheit: Joule (J)
 
-- **Leistung (P):** Arbeit pro Zeit
-  - $P = \frac{W}{t}$
-  - Einheit: Watt (W)
+-   **Leistung**  ($P$):
+    {index}` <Leistung>`
+    Arbeit pro Zeit
+    -   $P = \frac{W}{t}$
+    -   Einheit: Watt (W)
 
-- **Druck (p):** Kraft pro Fläche
-  - $p = \frac{F}{A}$
-  - Einheit: Pascal (Pa) oder mmHg in der Medizin
+-   **Druck**  ($p$):
+    {index}` <index>`
+    Kraft pro Fläche
+    -   $p = \frac{F}{A}$
+    -   Einheit: Pascal (Pa) oder mmHg in der Medizin
 
-- **Drehmoment (M):** Wirkung einer Kraft auf eine Drehbewegung
-  - $M = F \cdot r$
+-   **Drehmoment** (M):
+    {index}` <Drehmoment>`
+    Wirkung einer Kraft auf eine Drehbewegung
+    - $ M = F \cdot r$
 
-- **Energieformen:** kinetische Energie, potenzielle Energie, elastische Energie
+-   **Energieformen:** kinetische Energie, potenzielle Energie, elastische Energie
 
 Gebiete
 
-- Mechanik von Flüssigkeiten und Gasen
-  - **Hydrostatischer Druck:** $p = \rho g h$ → wichtig für Blut- und Liquordruck
-  - **Hydrodynamik:** Strömungsgesetze (Bernoulli, Hagen-Poiseuille) → Blutströmung, Atemmechanik
-  - **Viscosität:** Zähigkeit von Flüssigkeiten → Blutviskosität beeinflusst Kreislauf
-  - **Strömungswiderstand:** relevant für Gefäße, Atemwege, Infusionen
+-   Mechanik von Flüssigkeiten und Gasen
+    -   **Hydrostatischer Druck:** $p = \rho g h$ → wichtig für Blut- und Liquordruck
+    -   **Hydrodynamik:** Strömungsgesetze (Bernoulli, Hagen-Poiseuille) → Blutströmung, Atemmechanik
+    -   **Viscosität:** Zähigkeit von Flüssigkeiten → Blutviskosität beeinflusst Kreislauf
+    -   **Strömungswiderstand:** relevant für Gefäße, Atemwege, Infusionen
 
-- Biomechanik
-  - **Hebelgesetze:** Muskeln und Knochen wirken wie Hebel
-  - **Kräfte am Bewegungsapparat:** Gelenkbelastung, Muskelkraft, Wirbelsäulenstatik
-  - **Druck und Belastung:** Lagerung von Patienten, Dekubitusprophylaxe
-  - **Stoß und Impuls:** Verletzungsmechanik (Trauma, Unfallmedizin)
+-   Biomechanik
+    -   **Hebelgesetze:** Muskeln und Knochen wirken wie Hebel
+    -   **Kräfte am Bewegungsapparat:** Gelenkbelastung, Muskelkraft, Wirbelsäulenstatik
+    -   **Druck und Belastung:** Lagerung von Patienten, Dekubitusprophylaxe
+    -   **Stoß und Impuls:** Verletzungsmechanik (Trauma, Unfallmedizin)
 
 
 :::{rubric} Medizinische Anwendungen
 :::
-- **Blutdruckmessung:** Druck als Kraft pro Fläche
-- **Atmung:** Unterdruckprinzip, Strömungswiderstand in den Atemwegen
-- **Kreislauf:** Hagen-Poiseuille-Gesetz für Blutfluss
-- **Gelenke & Knochen:** Hebelgesetze erklären Bewegungen und Belastungen
-- **Bildgebung & Geräte:** Mechanik von Pumpen, Infusionen, Beatmungsgeräten
-- **Traumatologie:** Impuls- und Stoßgesetze bei Unfällen
+-   **Blutdruckmessung:** Druck als Kraft pro Fläche
+-   **Atmung:** Unterdruckprinzip, Strömungswiderstand in den Atemwegen
+-   **Kreislauf:** Hagen-Poiseuille-Gesetz für Blutfluss
+-   **Gelenke & Knochen:** Hebelgesetze erklären Bewegungen und Belastungen
+-   **Bildgebung & Geräte:** Mechanik von Pumpen, Infusionen, Beatmungsgeräten
+-   **Traumatologie:** Impuls- und Stoßgesetze bei Unfällen
+
+
 
 
 
@@ -80,6 +101,7 @@ Arten von Hebeln:
 :gap: 20px
 
 Bilderserie: Hebel
+
 ![Hebel in technischer Beschreibung \[ℓ PD\]](../../../Submodules/3134-medical-picture-collection/PD/Hebel3.001341px.png)
 
 ![Das 20-fache Gewicht wird bei 20-fachem Hebelarm im Gleichgewicht gehalten \[© Wikimedia Commons, User "CR", ℓ CC-BY-SA 3.0\]](../../../Submodules/3134-medical-picture-collection/CC-BY-SA-3.0/Palanca-ejemplo.jpg)
@@ -92,6 +114,8 @@ Bilderserie: Hebel
 - Erklärung der Muskelarbeit am Skelett
 - Mechanische Vorteile und Nachteile (Kraft vs. Geschwindigkeit)
 - Orthopädie und Prothetik
+
+
 
 
 
@@ -121,15 +145,10 @@ $$
 
 
 
+
 ## Schiefe Ebene
+
 Die **schiefe Ebene** reduziert die aufzubringende Kraft, indem der Weg verlängert wird:
-$$
-F = \frac{F_G}{\tan \alpha}
-$$
-
-- $F_G$ = Gewichtskraft
-- $\alpha$ = Neigungswinkel
-
 Kraft und Weg sind umgekehrt proportional: kleine Kraft → längerer Weg.
 
 :::{rubric} Medizinische Bedeutung

@@ -12,25 +12,50 @@ Sie kann in verschiedenen Formen auftreten, z. B. als **statische Elektrizität*
 
 
 ## Grundbegriffe
-- **Elektrische Ladung** $Q$
-  - fundamentale Eigenschaft von Teilchen (positiv oder negativ)
-  - Einheit: Coulomb (C)
 
-- **Elektrisches Feld** $E$
-  - Kraftfeld, das von elektrischen Ladungen ausgeht
-  - Einheit: Volt pro Meter (V/m)
+Die grundlegenden elektrischen Größen beschreiben zentrale physikalische Eigenschaften und Zusammenhänge elektrischer Systeme.
+Sie umfassen die *Ladung* als fundamentale Eigenschaft von Teilchen, den *Strom* als gerichtete Bewegung von Ladungsträgern sowie die *Spannung* als treibende Energiegröße.
+Ergänzend charakterisiert der *Widerstand* die Hemmung des Stromflusses, während das *elektrische Feld* die Wirkung von Ladungen im Raum beschreibt.
+Details siehe Tabelle {numref}`TAB-Elektrische-Grundbegriffe` (:ref:`TAB-Elektrische-Grundbegriffe`).
 
-- **Elektrischer Strom** $I$
-  - gerichtete Bewegung elektrischer Ladungen (meist Elektronen)
-  - Einheit: Ampere (A)
 
-- **Elektrische Spannung** $U$
-  - Energieunterschied pro Ladungsträger zwischen zwei Punkten
-  - Einheit: Volt (V)
+:::{list-table} Elektrische Grundbegriffe
+:name: TAB-Elektrische-Grundbegriffe
+:header-rows: 1
+:stub-columns: 1
 
-- **Elektrischer Widerstand** $R$
-  - Maß für die Behinderung des Stromflusses
-  - Einheit: Ohm (Ω)
+*   -   Elektrische/r/s ...
+    -   Formelz.
+    -   Einheit
+    -
+    -   Beschreibung
+*   -   Ladung
+    -   $Q$
+    -   Coulomb
+    -   C
+    -   Fundamentale Eigenschaft von Teilchen (positiv oder negativ)
+*   -   Strom
+    -   $I$
+    -   Ampere
+    -   A
+    -   Gerichtete Bewegung elektrischer Ladungen (meist Elektronen)
+*   -   Spannung
+    -   $U$
+    -   Volt
+    -   V
+    -   Energieunterschied pro Ladungsträger zwischen zwei Punkten
+*   -   Widerstand
+    -   $R$
+    -   Ohm
+    -   Ω
+    -   Maß für die Behinderung des Stromflusses
+*   -   Feld
+    -   $E$
+    -   Volt pro Meter
+    -   V / m
+    -   Kraftfeld, das von elektrischen Ladungen ausgeht
+:::
+
 
 
 

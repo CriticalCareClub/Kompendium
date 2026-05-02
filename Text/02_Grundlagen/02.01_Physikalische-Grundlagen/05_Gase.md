@@ -8,7 +8,11 @@ status: final
 Der Aggregatzustand eines Stoffes ist abhängig von der Temperatur und dem Umgebungsdruck.
 Man Unterscheidet zwischen festen, flüssigen und gasförmigen Phasen.
 
-Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt er bei 273,16 K und 613 Pa.
+Der Schnittpunkt der drei Phasen wird *Trippelpunkt* genannt, für Wasser liegt er bei 273,16 K und 612 Pa.
+
+
+
+
 
 :::{index} single: Gasgesetze
 :::

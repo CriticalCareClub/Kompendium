@@ -8,7 +8,10 @@ status: final
 # Strömungen
 
 
+:::{index} single: Viskosität
+:::
 
+(Viskositaet)=
 
 ## Viskosität
 **Viskosität** ist das Maß für die Zähigkeit einer Flüssigkeit.
@@ -29,6 +32,8 @@ Blut hat eine nicht-Newtonsche Viskosität (abhängig von Scherung, Hämatokrit,
 
 
 
+
+
 :::{index} single: Kontinuitätsgesetz
 :::
 
@@ -45,6 +50,8 @@ Für inkompressible Fluide gilt Kontinuität auch für den Volumenstrom.
 
 Quelle: Wikipedia/Guy vandegrift, Lizenz: Creative Commons Attribution-Share Alike 3.0 Unported
 :::
+
+
 
 
 
@@ -87,6 +94,8 @@ Konsequenzen:
 
 
 
+
+
 (Bernoulli-Gleichung)=
 
 ## Bernoulli-Gleichung
@@ -116,6 +125,8 @@ Konsequenzen:
 
 :::{figure} ../../../Submodules/3134-medical-picture-collection/Gabriel-Sebastian/Sketches/Sketch-000003.\*
 :::
+
+
 
 
 
@@ -185,13 +196,13 @@ Die Welt ist klein.
 
 
 
+
 :::{index} single: Hagen-Poiseuille-Gleichung
 :::
 :::{index} single: Gleichung; Hagen-Poiseuille
 :::
 
 ### Gesetz von Hagen-Poiseuille für *laminare* Strömungen
-
 
 
 :::{admonition} Formel: Hagen-Poiseuille-Gleichung
@@ -206,7 +217,8 @@ $$
 - $l$: Länge
 :::
 
-Der Widerstand steigt mit der *vierten Potenz* der Gefäßverengung.
+Der Widerstand steigt mit der *vierten Potenz* der Verringerung des Radius ("Der Widerstand ist umgekehrt proportional zur vierten Potenz des Radius).
+
 
 :::{rubric} Medizinische Bedeutung
 :::

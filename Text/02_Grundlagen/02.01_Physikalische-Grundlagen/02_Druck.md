@@ -58,7 +58,10 @@ p=\frac{F}{A}
 
 ## Drücke in Flüssigkeiten
 
-Der Druck in strömenden Medien besteht aus einem statischen und einem dynamischen Anteil. Beide Teile sind von der Dichte abhängig. Sie unterscheiden sich dadurch, dass der statische Druck (bei konstanter Dichte) *linear* mit der Höhe $h$ der Flüssigkeitssäule steigt und von der (Erd-)beschleunigung $g$ abhängig ist. Der dynamische Anteil wächst dagegen *quadratisch* mit der Strömungsgeschwindigkeit des Fluids.
+Der Druck in strömenden Medien besteht aus einem *statischen* und einem *dynamischen* Anteil, bei Druckunterschieden ist auch der *hydrostatische* Anteil relevant.
+Beide Teile sind von der Dichte abhängig.
+Sie unterscheiden sich dadurch, dass der statische Druck (bei konstanter Dichte) *linear* mit der Höhe $h$ der Flüssigkeitssäule steigt und von der (Erd-)beschleunigung $g$ abhängig ist.
+Der dynamische Anteil wächst dagegen *quadratisch* mit der Strömungsgeschwindigkeit des Fluids.
 
 
 
@@ -112,10 +115,9 @@ Der **Druck am Boden eines Gefäßes** hängt nur von der **Höhe der Flüssigke
 - **Tauchmedizin:** Zunahme des Außendrucks auf den Körper mit Tiefe im Wasser.
 
 
-
-
 :::{todo} {issue}`6` GRAFIK: Hydrostatisches_Paradox: unterschiedliche Gefäße  on4.svg
 :::
+
 
 
 
@@ -155,6 +157,8 @@ Der hydrodynamische Druck $p_\text{dyn}$ wächst **quadratisch** mit der Flußge
 - **Herzklappen:** Strömungsgeschwindigkeit des Blutes bestimmt Druckdifferenzen über Herzklappen (z. B. bei Stenosen).
 - **Doppler-Sonographie:** Berechnet Strömungsgeschwindigkeiten und damit Druckgradienten in Gefäßen.
 - **Ventilationstherapie:** Strömungsgeschwindigkeiten von Atemgasen beeinflussen Druckverhältnisse in den Atemwegen.
+
+
 
 
 

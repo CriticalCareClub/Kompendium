@@ -13,7 +13,7 @@ status: final
 
 Temperatur ist eine grundlegende physikalische Größe, die den thermischen Zustand eines Systems beschreibt.
 Sie steht in direktem Zusammenhang mit der mittleren kinetischen Energie der Teilchen in einem Stoff.
-Die SI-Einheit ist **Kelvin** (**K**), der **absoluter Nullpunkt** (0K) beträgt **273,15** °C.
+Die SI-Einheit ist **Kelvin** (**K**), der **absolute Nullpunkt** ist *0 K* bzw. *-273,15°C*.
 Die Temperatur beeinflusst zahlreiche physikalische Prozesse und ist eine zentrale Größe in der Thermodynamik.
 
 Die Temperatur $T$ ist proportional zur mittleren kinetischen Energie der Moleküle:

@@ -93,11 +93,13 @@ Konsequenzen:
 
 Die **Bernoulli-Gleichung** beschreibt die Energieerhaltung in einer reibungsfreien Strömung.
 Sie verbindet **Druck**, **Strömungsgeschwindigkeit** und **Höhenlage** eines Fluids.
+Danach setzt sich der Gesamtdruck $p_\text{ges}$ in einer Strömung aus drei Komponenten zusammen (vgl. Formel {eq}`EQ-Bernoulli-Gleichung`):
 
 
 :::{admonition} Gleichung: Bernoulli-Gleichung
+
 $$
-p_{\sum} = p_{ST} + p_h + p_d = \mathsf{konstant}
+p_{\sum} = p_\text{stat} + p_\text{dyn} + p_\text{hyd} = \mathsf{konstant}
 $$
 :::
 
@@ -216,6 +218,11 @@ Der Widerstand steigt mit der *vierten Potenz* der Gefäßverengung.
 
 :::{index} single: Reynolds-Zahl
 :::
+:::{index} single: Zahl, Reynolds-
+:::
+
+
+(Reynolds-Zahl)=
 
 ### Die Reynolds-Zahl: Turbulent oder laminar?
 
@@ -225,12 +232,12 @@ Sie beschreibt das Verhältnis von Trägheitskräften zu Zähigkeitskräften (vi
 
 :::{admonition} Gleichung: Reynolds-Zahl
 $$
-\mathrm{Re} = \frac{v \cdot \rho \cdot r}{\eta}
+\mathrm{Re} = \frac{v \cdot \rho \cdot D}{\eta}
 $$
 
 - $v$: Geschwindigkeit
 - $\rho$: Dichte
-- $r$: Radius
+- $D$: charakteristische Länge, entspricht für eine Rohrströmung dem Innendurchmesser
 - $\eta$: Viskosität
 :::
 

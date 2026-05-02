@@ -50,21 +50,38 @@ Molzahl $n$, {index}`Gaskonstante` $R$ (8,314J/(mol K))
 
 
 
+
+
 :::{index} Kohäsionsbinnendruck; Zustandsgleichung realer Gase
 :::
 :::{index} single: Zustandsgleichung; reales Gase
 :::
+:::{index} single: Van-der-Waals-Gleichung
+:::
+:::{index} single: Gleichung; Van-der-Waals-
+:::
+
+(Zustandsgleichung-realer-Gase)=
 
 ## Zustandsgleichung *realer* Gase
+
+Syn.
+:   Van-der-Waals-Gleichung
 
 *Reale* Gase: Moleküle haben Ausdehnung, Kräfte zwischen den Molekülen:
 
 $$
-\left(p + {\frac{a}{V^2}}\right) \cdot \left(V - {\color{green}b}\right) = n \cdot R \cdot T
+\left(p + {\frac{a}{V_m^2}}\right) \cdot \left(V_m - {\color{green}b}\right) = n \cdot R \cdot T
 $$
 
-${{\frac{a}{V^2}}}$ Kohäsionsbinnendruck,
-${\color{green}b}$ Eigenvolumen der Gasmoleküle
+${{\frac{a}{V^2}}}$ Kohäsionsbinnendruck,\
+${\color{green}b}$ Eigenvolumen der Gasmoleküle,\
+$p$: Druck des Gases,\
+$T$: Temperatur,\
+$V_m$:  molares Volumen,\
+$R$: Universelle Gaskonstante (wie beim idealen Gas)
+
+
 
 
 
@@ -111,7 +128,7 @@ Die dimensionslose *Henry-Löslichkeitskonstante* $H^{cc}$
 wird auch als {dfn}`Blut-Gas-Verteilungskoeffizient` *BGV* bezeichnet:
 
 $$
-\mathsf{BGV} = H^{cc} = \frac{c_{\mathsf{Blut}}}{\cdot c_{\mathsf{Gas}}}
+\mathsf{BGV} = H^{cc} = \frac{c_{\mathsf{Blut}}}{c_{\mathsf{Gas}}}
 $$
 
 

@@ -162,9 +162,13 @@ Der hydrodynamische Druck $p_\text{dyn}$ wächst **quadratisch** mit der Flußge
 
 Nach der **Bernoulli-Gleichung** setzt sich der Gesamtdruck $p_\text{ges}$ in einer Strömung aus drei Komponenten zusammen:
 
-$$
+::::{admonition} Gleichung: Bernoulli-Gleichung
+
+:::{math}
+:name: EQ-Bernoulli-Gleichung
 p_\text{ges} = p_\text{stat} + p_\text{dyn} + p_\text{hyd}
-$$
+:::
+::::
 
 - $p_\text{stat}$ = statischer Druck (ruhende Flüssigkeit, Umgebungsdruck)
 - $p_\text{dyn}$ = **dynamischer Druck** (hydrodynamischer Druck)

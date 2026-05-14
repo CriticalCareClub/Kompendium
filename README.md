@@ -5,6 +5,11 @@
 Herausgegeben vom Critical Care Club Austria — Verein zur Förderung der Versorgung kritisch Kranker und Verletzter (CCCA).
 
 
+>   [!IMPORTANT]
+>   Das Repository ist *umgezogen* auf **Codeberg**:
+>
+>   -   https://codeberg.org/CCCA/Kompendium
+
 
 ## Kurzinfo
 

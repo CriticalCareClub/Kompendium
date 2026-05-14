@@ -38,7 +38,7 @@ status: final
 🚧 Dieses Werk ist eine Entwicklungsversion und ist nicht für die klinische Anwendung gedacht! 🚧
 
 Fehlermeldungen, Hinweise oder Textvorschläge sind gerne gesehen.
-Eine Mitarbeit ist über unsere [Github™-Projektseite](https://github.com/CriticalCareClub/Kompendium) möglich.
+Eine Mitarbeit ist über unsere [Codeberg™-Projektseite](https://codeberg.org/CCCA/Kompendium) möglich.
 Bitte beachten Sie die "{ref}`Hinweise-zur-Mitarbeit`".
 :::
 

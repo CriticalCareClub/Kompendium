@@ -257,7 +257,16 @@ myst_enable_extensions      = [
 
 # sd_fontawesome_latex        = True
 
-issues_github_path = "CriticalCareClub/Kompendium"
+issues_github_path = "CCCA/Kompendium"
+# which is the equivalent to:
+issues_uri                  = "https://codeberg.org/CCCA/Kompendium/issues/{issue}"
+issues_prefix               = "#"
+issues_pr_uri               = "https://codeberg.org/CCCA/Kompendium/pull/{pr}"
+issues_pr_prefix            = "#"
+issues_commit_uri           = "https://codeberg.org/CCCA/Kompendium/commit/{commit}"
+issues_commit_prefix        = "@"
+issues_user_uri             = "https://codeberg.org/{user}"
+issues_user_prefix          = "@"
 
 imgmath_latex               = "dvilualatex"
 imgmath_image_format        = "svg"
@@ -383,7 +392,7 @@ html_theme_options          = {
     "toc_title"             : u"Auf dieser Seite ...",
 #    "use_sidenotes"         : True, # doesn't work with roles in it
     "repository_provider"   : 'github',
-    "repository_url"        : 'https://github.com/CriticalCareClub/Kompendium',
+    "repository_url"        : 'https://codeberg.org/CCCA/Kompendium',
     "repository_branch"     : u"master",
     "use_repository_button" : True,
     # "use_download_button" : False,

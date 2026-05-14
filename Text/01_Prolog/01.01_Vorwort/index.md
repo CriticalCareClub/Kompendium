@@ -94,9 +94,9 @@ Das Ziel ist eine Neuorientierung auf höhere Kompetenzniveaus.
 [^footnote-2]: *„Saluti et solatio aegrorum“* (lat.): *„Zum Heil und zum Trost der Kranken“*
 
 
-Die Web-Plattform für die *Entwicklung* befindet sich auf *Github™*:
+Die Web-Plattform für die *Entwicklung* befindet sich auf *Codeberg™*:
 
--   <https://github.com/CriticalCareClub/Kompendium>
+-   <https://codeberg.org/CCCA/Kompendium>
 
 
 Derzeit gibt es noch keine Veröffentlichung des Kompendiums.
